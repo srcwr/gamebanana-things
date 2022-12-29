@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"mg_leech_ultimate_challenge_final.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 333636,
+			"_nDownloadCount": 2019,
+			"_nFilesize": 1633390,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/333636",
+			"_sFile": "mg_leech_ultimate_challenge_final.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1236737138
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 128832,
+	"_sName": "mg_ultimate_challenge_final",
+	"_sText": "Fixed practically every bug known to mg_ultimate_challenge_beta (or mg_leech_ultimate_challenge is the bsp).\r\nHad some bugs which included server crashes (nades on lvl 4 if thrown), fps lag issues with people spamming the buttons on lvl 4, etc.\r\n\r\nLevel 1 - Invisible Maze (I had some complaints with it \"being too hard\" or \"impossible\"... it is possible... it is alot simpler maze than you think... in the end didn't change anything with that level)\r\nLevel 2 - Jumping\r\nLevel 3 - Grenades\r\nLevel 4 - Accuracy\r\nLevel 5 - Teamwork\r\nLevel 6 - Timing\r\n\r\nServer side details:\r\nsv_airaccelerate 100 (should already be set by default most likely)\r\nchange mp_roundtime (make it infinite round time limit or change it so that it is at least 10 minutes long... 5 minute default settings is wayyyy too short to complete the entire map... 10 minutes is even pushing it but it can be done)\r\nfriendly fire off (most mg servers have this defaulted)\r\n\r\nMods:\r\nNOBLOCK\r\n***This is the only mod you need.  If you do NOT have NOBLOCK Mod then you and your teammates will end up getting stuck when teleporting.  That mod is a must!***\r\n\r\nThis map is now a fully functional map.\r\nI will be making another mg map sometime in the near future (hopefully), so if you have any suggestions or ideas, pm me.\r\nEnjoy."
+}

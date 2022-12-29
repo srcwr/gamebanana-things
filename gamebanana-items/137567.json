@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"gg_redd_utilities_v1.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 312390,
+			"_nDownloadCount": 1113,
+			"_nFilesize": 2144402,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/312390",
+			"_sFile": "_5208-.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1305841431
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 137567,
+	"_sName": "Reddman's Utility Facility",
+	"_sText": "This map was a random design that I had to eventually figure out a good theme for.  It remained unnamed for several months (started as a 'dance hall') and this is its final incarnation... for now.\r\n\r\nThis map makes extensive use of bump mapping, cube maps, prop static, and func_detail and is rendered with full vis/rad computations.  It's specifically designed with HDR lighting in mind, and is specifically optimized to run as fast as possible, which allowed me to add more and more detail to the final design."
+}

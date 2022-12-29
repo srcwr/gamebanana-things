@@ -1,0 +1,44 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "read.me.txt",
+					"cstrike": {
+						"maps": [
+							"Psy_Storage.bsp",
+							"psy_storage.nav"
+						],
+						"materials": {
+							"maps": {
+								"psy_storage": {
+									"0": "psy_storagemonitor.vmt",
+									"1": "psy_storagemonitor.vtf",
+									"ui": [
+										"psy_storagemonitor.vmt"
+									]
+								}
+							}
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 354757,
+			"_nDownloadCount": 1231,
+			"_nFilesize": 1186814,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/354757",
+			"_sFile": "psy_storage_2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1164159639
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 104983,
+	"_sName": "psy_storage",
+	"_sText": "This is a CS/DE map and includes both hostages and bombs. It also includes a camera, for both teams, that shows a part of the map. It has 3 stories and a tunnel. The bots climb ladders, jump boxes and navigate tunnels. So, enjoy."
+}

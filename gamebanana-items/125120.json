@@ -1,0 +1,72 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"bhop_gigantic_citadel_v3.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 371212,
+			"_nDownloadCount": 245,
+			"_nFilesize": 22784629,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/371212",
+			"_sFile": "bhop_gigantic_citadel_v3.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1517514942
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Tweak",
+					"text": "Reworked the booster platforms"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Replaced the func_door system with mpbhops"
+				},
+				{
+					"cat": "Overhaul",
+					"text": "Re-designed the climbing area"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Re-textured cave level"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Improved lightning generally"
+				},
+				{
+					"cat": "Tweak",
+					"text": "Improved lab button clipping"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Increased difficulty of citadel level"
+				},
+				{
+					"cat": "Optimization",
+					"text": "Improved performance overall"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Renamed the bsp to bhop_gigantic_citadel_v3"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "version 3",
+			"_tsDateAdded": 1517588625
+		}
+	],
+	"_idRow": 125120,
+	"_sName": "bhop_giga_citadel",
+	"_sText": "<h1>bhop_gigantic_citadel_v3</h1>Map consists of main bunny hop part and climbing part and has a lot of extra content.<br><br>Bunny Hop Area Info<br><ul><li>5 Levels</li><li>5 Challenges</li><li>3 Bonus Levels</li><li>LJ Training Area</li><li>3 Challenge Unlockable Rewards</li></ul><br>Xtreme Climb Area Info<br><ul><li>6 Levels</li><li>1 Bonus Challenge</li></ul>"
+}

@@ -1,0 +1,27 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ze_toaster_v1_2.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 296694,
+			"_nDownloadCount": 3579,
+			"_nFilesize": 15160887,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/296694",
+			"_sFile": "ze_toaster_v1_2_2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1359503254
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 131063,
+	"_sName": "ze_toaster_v1_2",
+	"_sText": "<h2>MAP FEATURES</h2>\r\n<ul>\r\n<li>64 players</li>\r\n<li>Randomized paths, missions and endings. Creating a more random and dynamic experience</li>\r\n<li>A boss. The \"Ermah-toast\" which runs after the players, killing them.</li>\r\n<li>5 different items, easy to use</li>\r\n</ul>\r\n<p>The layout can be confusing for new players but you'll learn the layout with time.\r\nFollow the arrows! They are always right.</p>\r\n<h2>VERSION CHANGES V1 (initial port)</h2>\r\n<ul>\r\n<li>Music replaced with lots of other soundtracks</li>\r\n<li>Healthbar implemented for the boss</li>\r\n<li>Props has been re-located/replaced</li>\r\n<li>Texturing changed to work with CS:S</li>\r\n<li>Custom particles added</li>\r\n</ul>\r\n<h2>VERSION CHANGES V1_1</h2>\r\n<ul>\r\n<li>fixed some major issues that made the map unfinishable at times</li>\r\n<li>fixed/replaced some textures</li>\r\n<li>reduced time on holds in order to avoid going over the timelimit</li>\r\n<li>improved some teleporter triggers</li>\r\n<li>buffed and improved the boss, added an additional attack</li>\r\n<li>improved the initial climb, made it faster to get up</li>\r\n<li>added 5 different items (which are able to damage the boss)</li>\r\n<li>fixed a crash by replacing a particle with a custom one</li>\r\n<li>added/improved custom particles</li>\r\n<li>added additional console messages</li>\r\n<li>improved some holds</li>\r\n<li>made the elevator go faster</li>\r\n</ul>\r\n<h2>VERSION CHANGES V1_2</h2>\r\n<ul>\r\n<li>fixed a major issue where zombies got teleported infront of the humans</li>\r\n<li>fixed some slight visual glitches</li>\r\n<li>tweaked some outputs and output timings</li>\r\n<li>locked the elevator during the \"core\" escape, so people wouldn't go down in confusion</li>\r\n<li>brought out some arrows to make it even clearer where to go</li>\r\n<li>nerfed the items slightly</li>\r\n<li>improved the boss physics and movements, to avoid getting stuck in walls and weapons</li>\r\n</ul>"
+}

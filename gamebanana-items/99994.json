@@ -1,0 +1,27 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"cs_hotel.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 350288,
+			"_nDownloadCount": 1946,
+			"_nFilesize": 6738721,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/350288",
+			"_sFile": "cs_hotelzip.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1184253225
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 99994,
+	"_sName": "cs_hotel",
+	"_sText": "Cs_hotel\r\n\r\n    This map is desighned for squad tactics and close combat.  Maximum players 16, though 10 is optimum.  Has buy zones, custom nav, radar, sounds, hdr, everything needed.  Tested on 7800 gtc, and 1650x  (7800gt pulled 65 fps at full settings... 6x, 16x hdr on 1600x1200).  So everything should work, let me know if it does not and I will fix it."
+}

@@ -1,0 +1,32 @@
+{
+	"_aAlternateFileSources": [
+		{
+			"description": "CS:GO version (Original)",
+			"url": "http://gamebanana.com/maps/edit/187811"
+		}
+	],
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"surf_greatriver_2015_v1_1.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 272354,
+			"_nDownloadCount": 958,
+			"_nFilesize": 15950580,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/272354",
+			"_sFile": "surf_greatriver_2015_v1_1_css__ebe51.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1501624639
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 122161,
+	"_sName": "surf_greatriver_2015 (CSS)",
+	"_sText": "<img src=\"http://files.gamebanana.com/bitpit/gb_surfgreatriver2015_header_small.png\"><br><h1>Official <span class=\"GreenColor\">PORT</span>&nbsp;for <b>Counter-Strike: Source</b>.</h1><center><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/dmnUTQVAiZk\" frameborder=\"0\" allowfullscreen=\"\"></iframe></center>(<i>The video above is a preview of CS:GO but applies to CS:S as well</i>)<br><br>Due to demands from multiple communities, I ported the CS:GO version of surf_greatriver_2015 to CS:S. I did this with an untouched vmf by transitioning the settings within Wall Worm which allows for an identical version between the two, <span class=\"GreenColor\">no corruption or misaligned models/brushes</span>. Huge thanks to Shawn Olson for making this possible.<br><br><span class=\"RedColor\"><b>If you want to find the CS:GO version, you can <a href=\"http://gamebanana.com/maps/187811\">go here</a> instead.</b></span><br><br><img src=\"http://files.gamebanana.com/bitpit/gb_surfgreatriver2015_changes_small.png\"><br><br>For a full list of all changes, visit the original <a href=\"http://gamebanana.com/maps/187811\">here</a>.<br><br>Some <b>differences</b> between both versions:<br><br><ul><li><b><span class=\"GreenColor\">Replaced</span></b> novas with m3's</li><li><span class=\"GreenColor\"><b>Replaced</b></span> galil-ar's with regular galils</li><li><b><span class=\"GreenColor\">Replaced</span></b> SSG08's with regular scouts</li></ul>&nbsp;<br>Obviously some lighting quality and certain entities couldn't be carried over.<br><br>Version naming of the port will be identical to the CS:GO version. If you happen to confuse the files (for instance by installing the CS:S version in CS:GO and vice versa), you'll get an error message which will let you know.<br><br>Unlike CS:GO, CS:S allows the packing of all files, no additional files are included in the download."
+}

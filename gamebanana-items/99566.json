@@ -1,0 +1,47 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cs_atafaris+": {
+						"0": "readme.txt",
+						"cstrike": {
+							"maps": [
+								"cs_atafaris+.bsp",
+								"cs_atafaris+.nav",
+								"cs_atafaris+.txt"
+							]
+						},
+						"screenshots": [
+							"cs_atafaris01.jpg",
+							"cs_atafaris02.jpg",
+							"cs_atafaris03.jpg",
+							"cs_atafaris04.jpg",
+							"cs_atafaris05.jpg",
+							"cs_atafaris06.jpg",
+							"cs_atafaris07.jpg",
+							"cs_atafaris08.jpg",
+							"cs_atafaris09.jpg"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 347527,
+			"_nDownloadCount": 8339,
+			"_nFilesize": 6545332,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/347527",
+			"_sFile": "cs_atafaris.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1193610981
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 99566,
+	"_sName": "cs_atafaris+",
+	"_sText": "Map:cs_atafaris+\r\nmapper:CoKie\r\nspawnpoints:64\r\nreleasedate:11.november.2007\r\n\r\ndescription:inspired by de_dust, de_prodigy and myself.\r\n\r\nterrorists: two hostages you keep imprisoned in the sternmost corner of the old desert stronghold. for some reason keep it yours!\r\n\r\ncounter-terrorists: infiltrate the old desert stronghold and rescue the two hostages!\r\n\r\n\r\nhave fun! \r\nCoKie\r\n\r\n--------------------------------------\r\nchanges since cs_atafaris\r\n--------------------------------------\r\n\r\nthe trigger to create a \"plus-version\" of cs_atafaris was that ive unfortunately forgotten to compile the cubemaps for LDR, concentrated all the time on HDR; so ive only generated the cubemaps for HDR, not for LDR in cs_atafaris.. mistakes/slips like that are really annoying..\r\n\r\nwhats new/changed?\r\n- edited HDR in the whole map, HDR effect is now more intensive but less bedazzling\r\n- edited and optimized the lightning in the lower server room\r\n- several minor changes of optical nature\r\n- generated cubemaps for HDR AND LDR..\r\n- edited the general enviroment lightning, more smooth now less bedazzling\r\n- added some smoothing groups\r\n\r\n- credits go out to chizbone; he created, optimized and placepainted the navigationmesh/navfile, great job!  "
+}

@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"$2012$.bsp",
+					"$2012$.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 319042,
+			"_nDownloadCount": 3806,
+			"_nFilesize": 1631964,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/319042",
+			"_sFile": "2012.7z",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1284577164
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 105111,
+	"_sName": "$2012$",
+	"_sText": "HI there, guys! That is a remake of old nice map $2000$ originally made by <b>Calou</b>. I wanted make it like original, so I mostly didn't work on map design layout.\r\n<center>What's new?</center>\r\n* HDR, Cubemaps\r\n* Optimisation (Nodraw, func_detail, Hint\\Skip) (now fps is in 3 times more with hdr (60-120) and in 6 without (120-160))\r\n* 36 SpawnPoints! (earlier 32)\r\n* Some nodes for .nav file\r\n* A little texture remade (I remake some textures just to look globally better, but not seen at all)\r\n* Remade light a little (Constant = 1000)"
+}

@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"bhop_mellifluous.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 283070,
+			"_nDownloadCount": 439,
+			"_nFilesize": 7206108,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/283070",
+			"_sFile": "bhop_mellifluous_3.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1431500374
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 125510,
+	"_sName": "bhop_mellifluous",
+	"_sText": "I had to redo a lot of parts due to various issues, which caused me to be a bit lazy when redoing them. So if there are any problems please tell me. There is an render overflow if you go into void that I cant fix without making the light source detail into props or func_detail which would ruin the lighting.\r\n\r\nTested on all settings including 400 velocity limit\r\n\r\nTextures were ripped from google images, grayed out in Photoshop then added color overlays.\r\nConstructive criticism would be appreciated as this is my first finished map. Parts you like, parts you didn't like."
+}

@@ -1,0 +1,44 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"dc_mcarena": [
+						"de_mcarena.bsp",
+						"readme.txt"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 808229,
+			"_nDownloadCount": 186,
+			"_nFilesize": 415613,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "Fixed the texture pack issue",
+			"_sDownloadUrl": "https://gamebanana.com/dl/808229",
+			"_sFile": "de_mcarena.zip",
+			"_sMd5Checksum": "42befae5c2ab7d9149057f10f07e31c5",
+			"_tsDateAdded": 1654193595
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Adjustment",
+					"text": "Realized I hadn't packed the textures lol."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Pack fix",
+			"_sVersion": "1.1",
+			"_tsDateAdded": 1654116858
+		}
+	],
+	"_idRow": 381049,
+	"_sName": "de_mcarena",
+	"_sText": "A simple minecraft defuse map I made as my first CS:S map and to help me get better at hammer."
+}

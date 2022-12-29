@@ -1,0 +1,63 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ze_hexagon_project_v2_1.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 617857,
+			"_nDownloadCount": 67,
+			"_nFilesize": 31991759,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "Map (.bsp file)",
+			"_sDownloadUrl": "https://gamebanana.com/dl/617857",
+			"_sFile": "ze_hexagon_project_v2_1.rar",
+			"_sMd5Checksum": "9e5b0079f1dc4949bc7fafab9e822aeb",
+			"_tsDateAdded": 1626691360
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "added zr_infect_spawntime_min 20 zr_infect_spawntime_max 21"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "fixed: that zombie who picked up zm item and could only he pick up item in new round and not others"
+				},
+				{
+					"cat": "Optimization",
+					"text": "now reflection textures not good looking who has low settings but very good optimazed"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "v2_1",
+			"_tsDateAdded": 1626691524
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "zm item model fix"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "removed invisible models"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "v2",
+			"_tsDateAdded": 1626642898
+		}
+	],
+	"_idRow": 303534,
+	"_sName": "ze_hexagon_project",
+	"_sText": "<span class=\"GreenColor\"></span><h3><u class=\"SelectedElement\">ze_hexagon_project_v2_1 (Counter-Strike: Source)</u></h3>some parkour, just running and pressing buttons, for doorhuggers there will be glasses that need break them and press the button and some floor&nbsp;fire traps<br><br><b><ul><li><b>long map, but easy</b></li><li><b>4 stages</b></li><li><b>4 items (2 for humans, 2 for zm)</b></li><li><b>1 trap room that need heal item there</b></li><li><b>1 boss fight</b></li><li><b>4 stage - self-destruct stage (need to be faster)</b></li></ul></b>"
+}

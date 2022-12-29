@@ -1,0 +1,132 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"mg_delusion.bsp"
+				],
+				"_sMimeType": "application/x-7z-compressed"
+			},
+			"_bContainsExe": false,
+			"_idRow": 394128,
+			"_nDownloadCount": 491,
+			"_nFilesize": 46588306,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/394128",
+			"_sFile": "mg_delusion_46045.7z",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1534883122
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Adjustment",
+					"text": "[Nightmare, lv1] Reduced flashing tile (now lava) damage from 10 to 5"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "[Nightmare, lv1] Increased falling block cooldowns to 2 seconds"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "[Nightmare, lv1] Reduced falling block damage from 100 to 70"
+				},
+				{
+					"cat": "Improvement",
+					"text": "[Nightmare, lv1] Health is restored at the end"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "[Lava, lv2] Damage removed"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "[Lava, lv2] Piston speed reduced"
+				},
+				{
+					"cat": "Improvement",
+					"text": "[Lava, lv2] Added checkpoint to platform before air lift"
+				},
+				{
+					"cat": "Improvement",
+					"text": "[Docks, lv3] Added checkpoint before first jump"
+				},
+				{
+					"cat": "Improvement",
+					"text": "[Metal Man, lv4] Gear path straightened out"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "[Metal Man, lv4] Metal press damage trigger slightly reduced in size"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "[Metal Man, lv4] Press damage reduced from 10 to 3"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "[Metal Man, lv4] Drill wake triggers increased in size"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "[Metal Man, lv4] Drill damage reduced from 10 to 5"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "[Sunken Hallway, lv5] Middle door lowered"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "[Dream City, lv6] Max HP increased from 60 to 65"
+				},
+				{
+					"cat": "Improvement",
+					"text": "[Dream City, lv6] Fall damage warning added"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "[Bunnyhop Cavern, lv7] Removed 1 platform at the end"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "[Bunnyhop Cavern, lv7] Extended end zone"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "[Tree of Life, lv8] Moving \"spirit\" platforms slowed a bit"
+				},
+				{
+					"cat": "Improvement",
+					"text": "[Tree of Life, lv8] Small platform added underneath first ladder (behind the bench)"
+				},
+				{
+					"cat": "Overhaul",
+					"text": "[Clouds, lv9] Redesigned level"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Updated visuals of some rooms"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Replaced sunken hallway music and one of the disco songs"
+				},
+				{
+					"cat": "Addition",
+					"text": "Removed secrets, added two new secrets"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Version 1",
+			"_tsDateAdded": 1534875238
+		}
+	],
+	"_idRow": 127908,
+	"_sName": "mg_delusion",
+	"_sText": "<em></em><h1><span class=\"GreenColor\">mg_delusion</span><span class=\"RedColor\"></span></h1><h2><span class=\"RedColor\">SEIZURE WARNING: FLASHING TEXTURES AND BRIGHT COLORS</span></h2><h1><span class=\"GreenColor\">CS:GO version now available on the workshop <a href=\"https://steamcommunity.com/sharedfiles/filedetails/?id=1773636930\">HERE</a></span></h1>Abstract/surrealistic course map. Requires some skill and patience, but it'll (probably) be a memorable experience.<br>Updated August 21, 2018.<br>Updated again at 4:26 PM EST to add a missing teleport entity in lv2, same file name.<br><br>Music (no order):<br>Earth, Wind &amp; Fire - Let's Groove<br>J Dilla - Life<br>Nujabes - &nbsp;Sea of Cloud<br>Dark Souls 1 - The Faithful Black Knights<br>LSD Dream Emulator - Fried Banana<br>LSD Dream Emulator - TV River<br>Mega Man 2 - Metal Man<br>Metroid Prime 2 - Torvus Bog Submerged Temple<br>Metroid Prime - Save Room<br>Miles Davis - Flamenco Sketches<br>Outkast - Hey Ya<br>Saint Pepsi - Around<br>Super Metroid - Lower Norfair<br>Pink Floyd - Us and Them (from NIPPER's blahhh map)<br>Junior Senior - Move Your Feet (from NIPPER's arghhh)<br>Undertale - Chill<br>Yume Nikki - Uboa<br>i can't remember the name of the bhop level's music<br><br>Change the volume of the map's music by adjusting Music Volume in your settings (snd_musicvolume).<br><br><h2><span class=\"GreenColor\">Video - Preview<br></span></h2><iframe src=\"https://www.youtube.com/embed/lNPm0bfduis\" allowfullscreen=\"\" width=\"560\" height=\"315\" frameborder=\"0\"></iframe>"
+}

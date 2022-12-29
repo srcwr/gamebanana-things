@@ -1,0 +1,115 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"CS_Lockdown_hotrap": [
+						"Readme.rtf",
+						"cs_lockdown_ht_HDR_v2018.zip",
+						"cs_lockdown_ht_v34-old_HDR.zip"
+					]
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 384111,
+			"_nDownloadCount": 543,
+			"_nFilesize": 103542399,
+			"_sAnalysisResult": "Archive contains nested archive",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/384111",
+			"_sFile": "cs_lockdown_hotrap_b916f.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1527591485
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Were returned the original sound environment from \"Half-Life 2\", based on objects \"soundscapes\""
+				},
+				{
+					"cat": "Improvement",
+					"text": "Completely re-edited the script file for \"soundscapes\""
+				},
+				{
+					"cat": "Addition",
+					"text": "Were inserted more sounds in the general environment & new ambient „targets” for “soundscapes”"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Re-edited the nav paths of bots"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added some new decals & effects"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Re-edited the system of occluders"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Fixed other bugs and glitches, added nodraw textures in some places"
+				}
+			],
+			"_sText": "- Were returned the original sound environment from \"Half-Life 2\", based on objects \"soundscapes\".<br>\r\n- Completely  re-edited the script file for \"soundscapes\" (<i>now it's inside of “.bsp”map &amp; not change the original scripts in your CS</i>).<br>\r\n- Were inserted more sounds in the general environment &amp; new ambient „targets” for “soundscapes”.<br>\r\n- Re-edited the nav paths of  bots.<br>\r\n- Added some new decals &amp; effects.<br>\r\n- Re-edited the system of occluders.<br>\r\n- Fixed other bugs and glitches, added nodraw textures in some places.<br>\r\nNow this map has become even more impressive and frightening. :)",
+			"_sTitle": "Update-4.0",
+			"_tsDateAdded": 1527446043
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Added a 3D sky"
+				},
+				{
+					"cat": "Addition",
+					"text": "A few multilayered destructible columns"
+				},
+				{
+					"cat": "Addition",
+					"text": "A new spinning fan"
+				},
+				{
+					"cat": "Addition",
+					"text": "A new road system"
+				},
+				{
+					"cat": "Addition",
+					"text": "New sounds of flies"
+				},
+				{
+					"cat": "Addition",
+					"text": "New small terrain around the hole in the central block"
+				},
+				{
+					"cat": "Improvement",
+					"text": "More widely edited the nav paths of bots"
+				},
+				{
+					"cat": "Optimization",
+					"text": "The whole system of occluders was re-edited"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added some decals, new brush objects, also different 3D models, sounds, new lights & glow effects"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Fixed other bugs and glitches, added nodraw textures in many places"
+				}
+			],
+			"_sText": "Update log (<i>detailed</i>):<br>- Added a 3D sky with terrain, trees &amp; buildings (<i>for the sky background</i>).<br>- A few multilayered destructible columns (<i>in the central block</i>).<br>- A new spinning fan (<i>in the first left block of terrorists</i>).<br>- A new road system, near the demolished wall with infantry armored vehicle.<br>- New sounds of flies (<i>in the ventilation block with dead bodies</i>), which are played only at the entrance in triggers.<br>- New small terrain around the hole in the central block.<br>- More widely edited the nav paths of bots.<br>- The whole system of occluders was re-edited.<br>- Added some decals, new brush objects, also different 3D models, sounds, new lights &amp; glow effects.<br>- Fixed other bugs and glitches, added nodraw textures in many places.",
+			"_sTitle": "Update-3.0",
+			"_tsDateAdded": 1513571232
+		}
+	],
+	"_idRow": 100099,
+	"_sName": "CS_Lockdown_hotrap",
+	"_sText": "Hi! I present to you the map “cs_lockdown_hotrap” for \"Counter-Strike: Source\".<br>I am game developer, but sometimes I do level design for some existing games, to gather experience or to keep fit.<br>This map is created on the basis of map from \"Half-Life 2: Deathmatch\". I  removed the nonworking elements and made a playable map to \"Counter-Strike: Source\" (+ to \"CS: GO\").<br>So here is everything you need to play, plus special ambient sounds, new special decals and even new voice sounds.\r\n<br>I was able to return the original sound environment from \"Half-Life 2\" and also inserted more sounds in the general environment.\r\n- Now the map has become even more impressive and frightening. :)\r\n<br>Also I added a tactical places for snipers or for a sudden attack, plus some \"landmarks\" and even a map for radar, plus a 3D sky, opened additional locations, created new areas, placed a lot of new objects and edited entirely the navigation path of bots. Here on the map you will see horror places, but also fun places and elements. And of course, I created from scratch a few multilayered destructible columns. ;)<br>Also for this map I invented a special gameplay element, which I named as \"Hot Trap\" (<i>for this, just I use existing physical objects of \"Counter-Strike: Source\" and \"Half-Life-2\"</i>).\r\n<br>----------------------<br>\r\n<u><b>Credits</b></u>:\r\n<br>Source version by Valve.\r\n<br>Dmitry Ghervas (\"Green Way Interactive\" studio) - ported/edited map of \"Half-Life 2: Deathmatch\" to \"CS:Source\".\r\n<br>----------------------<br>\r\nAccording to the story of this map, terrorists stormed the prison and freed the other dangerous criminals. They took as a hostages of some prison staff who survived. In order to prevent the antiterrorist forces to easily enter, the terrorists completely mined the whole prison with explosive barrels, thereby making the \"hot traps\".<br>Use these traps against the anti-terrorist forces or against the terrorists! But be careful that by yourself don`t get into the hot trap. And sometimes some bots can blow themselves these traps and may die (<i>sometimes should clear the way for them</i>). Pay attention, if you accidentally killed your partner, then in the next round you will not be involved.<br>These \"hot traps\" you can use in any role, importantly should learn how to use them. For this, watch the video on YouTube or experimenting at will:<br><iframe src=\"https://www.youtube.com/embed/FYx2iHnAZR8\" allowfullscreen=\"\" width=\"560\" height=\"315\" frameborder=\"0\"></iframe><br>I hardly worked on this map. I hope for you will be exciting to play.<br>Have a good hunting!"
+}

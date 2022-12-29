@@ -1,0 +1,89 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_showers.bsp",
+					"de_showers.nav"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 467634,
+			"_nDownloadCount": 399,
+			"_nFilesize": 1435421,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/467634",
+			"_sFile": "de_showers_aa274.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1591699672
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Overhaul",
+					"text": "Ported to CSGO"
+				},
+				{
+					"cat": "Tweak",
+					"text": "Optimized map"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Adjusted lighting"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Made the distance of the T spawn walls from the back wall the same as in CT"
+				},
+				{
+					"cat": "Removal",
+					"text": "Removed the sunroof"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added sinks"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added support for more game modes"
+				}
+			],
+			"_sText": "How's it going, I ported the map to CSGO, fixed up some stuff and added some features. You can check it out here:<br><br>https://steamcommunity.com/sharedfiles/filedetails/?id=2127230181&tscn=1592031472<br>",
+			"_sTitle": "CS:GO Port",
+			"_tsDateAdded": 1592087389
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "Hired a new plumber (thanks w6a7z99)"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed cubemaps"
+				},
+				{
+					"cat": "Tweak",
+					"text": "made each broken wall distinct"
+				},
+				{
+					"cat": "Tweak",
+					"text": "lowered the side walls, making the jump on top of the mid wall a little trickier"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "de_showers v1.1",
+			"_tsDateAdded": 1591699966
+		}
+	],
+	"_idRow": 120033,
+	"_sName": "de_showers",
+	"_sText": "Small arena map with a bomb site, this map really rocks.<br>"
+}

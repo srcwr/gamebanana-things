@@ -1,0 +1,49 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"$z_paintball": {
+						"0": "1.jpg",
+						"1": "2.jpg",
+						"2": "3.jpg",
+						"3": "4.jpg",
+						"4": "Thumbs.db",
+						"cstrike": {
+							"maps": {
+								"0": "$z_paintball.bsp",
+								"1": "$z_paintball.nav",
+								"graphs": [
+									"$z_paintball.ain"
+								]
+							},
+							"materials": {
+								"$z_paintball": [
+									"spray.vmt",
+									"spray.vtf"
+								]
+							}
+						}
+					}
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 361145,
+			"_nDownloadCount": 3738,
+			"_nFilesize": 1066228,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/361145",
+			"_sFile": "z_paintball.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1120017848
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 124251,
+	"_sName": "z_paintball",
+	"_sText": "A simple but nice map to play on, all files are included and bots fully work on the map."
+}

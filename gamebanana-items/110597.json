@@ -1,0 +1,56 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"mg_knife_multi_50hp_fix.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 491189,
+			"_nDownloadCount": 39,
+			"_nFilesize": 1826706,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/491189",
+			"_sFile": "mg_knife_multi_50hp_fix.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1602949080
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Fixed a bug where players could spawn with 100 hp"
+				},
+				{
+					"cat": "-",
+					"text": "Messed with the lighting a bit."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "2.0",
+			"_tsDateAdded": 1602529634
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Fixed a lighting issue with the ladder on the city level"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "1.1",
+			"_tsDateAdded": 1591954962
+		}
+	],
+	"_idRow": 110597,
+	"_sName": "mg_knife_multi_50hp",
+	"_sText": "Remake of the mg_knife_multi_fix map<br><br>Original map - <a href=\"https://gamebanana.com/maps/128731\">https://gamebanana.com/maps/128731</a><br>"
+}

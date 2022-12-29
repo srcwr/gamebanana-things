@@ -1,0 +1,50 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "cs_747_css.txt",
+					"1": "cs_747_css.vmf",
+					"cstrike": {
+						"maps": [
+							"cs_747_css.bsp",
+							"cs_747_css.nav",
+							"cs_747_css.res"
+						],
+						"sound": {
+							"747": [
+								"computalk2.wav"
+							],
+							"748": [
+								"mechwhine.wav"
+							],
+							"749": [
+								"plane_drone.wav"
+							],
+							"750": [
+								"wind2.wav"
+							]
+						}
+					}
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 359075,
+			"_nDownloadCount": 42010,
+			"_nFilesize": 7394926,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/359075",
+			"_sFile": "cs_747_css.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1137732283
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 99464,
+	"_sName": "cs_747_css",
+	"_sText": "final<br>fixed some messed up textures<br>moved terr spawnpoint from cargo bay to the main area<br>flashing sprites on cop cars work now<br>areaportals in the doors don' stay open all the time now (whoops)<br>added some hints to the ducts<br>left wavs/nav file outside of bsp<br>The 747 windows are weaker<br><br>beta test 3<br>hdr is back again (got me why it works now)<br>fixed terr spawning outside of buy zone<br>fixed loading problem with wind2.wav<br>phys vents dont break when you walk on them anymore<br>some decals/detail (baggage/garbage)<br>added\r\nadded some rain<br>thoughts on the camera?<br>thanks all for the bug reports<br><br>beta test 2<br>most textures have been replaced<br>changed the barricade at the end of the plane<br>changed a few of the vent textures/switched some to the militia phys vents<br>replaced the light textures in 747 with models<br>changed the stove brush to a model<br>bugs that have been noticed:\r\nno hdr this time (the lighting is messed up, hopefully i can figure what happened)<br>doors have shadows where the knobs should be<br>cockpit of the plane has bad brushes (same with outside of the plane)<br>uppermost hostage has trouble going down the stairs (he doesnt, just shoot him)<br>it might be a bit brighter outside from the lights in the windows<br><br>beta test 1<br>i'm doing the same thing with this map that i did with upc\r\nbasic conversation&gt;textures/detail&gt;bugs<br>the brushes on the airplane arent the greatest<br>there's about of 2k vislines to trim down<br>not sure what to do about the airplane textures,\r\ni'll probably leave the original ones unless someone wants to do them :)"
+}

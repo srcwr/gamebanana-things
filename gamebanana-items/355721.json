@@ -1,0 +1,86 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"awp_apartments.bsp",
+					"readme.txt"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 786405,
+			"_nDownloadCount": 149,
+			"_nFilesize": 964435,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "Updated Map README INSIDE",
+			"_sDownloadUrl": "https://gamebanana.com/dl/786405",
+			"_sFile": "awp_apartments.zip",
+			"_sMd5Checksum": "4faddaa00d8aa11f1c5e8236b25e3336",
+			"_tsDateAdded": 1650479822
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "ADDED CUBEMAPS!!!!!!!!!"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added credits (Custom Texture)"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Adjusted the door flags. Now you can open and close however you want"
+				},
+				{
+					"cat": "Removal",
+					"text": "Removed auto close on door"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "ENHANCEMENT",
+			"_sVersion": "1.3",
+			"_tsDateAdded": 1650479759
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Added ligthing inside buildings"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added The Sun"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added some debris outside"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added better stairs to enter the buildings"
+				},
+				{
+					"cat": "Removal",
+					"text": "Removed Inside Props"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed textures twitcing"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "REMASTER",
+			"_sVersion": "1.2",
+			"_tsDateAdded": 1647718322
+		}
+	],
+	"_idRow": 355721,
+	"_sName": "awp_apartments v1.3",
+	"_sText": "A small awp sniper war map. CT and T spawn on one of the apartments 5 floors. Shoot through breakable glass, hide in debris outside, but most importanly... <i>die to fall damage</i>.<br><br><b>!!THIS MAP HAS FALL DAMAGE!!</b><br><br>"
+}

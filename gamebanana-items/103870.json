@@ -1,0 +1,46 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"de_school2": {
+						"maps": [
+							"de_school2.bsp",
+							"de_school2.nav",
+							"de_school2.txt"
+						],
+						"materials": {
+							"overviews": [
+								"de_school2.vmt",
+								"de_school2.vtf",
+								"de_school2_radar.vmt",
+								"de_school2_radar.vtf"
+							]
+						},
+						"resource": {
+							"overviews": [
+								"de_school2.txt"
+							]
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 350959,
+			"_nDownloadCount": 10900,
+			"_nFilesize": 7756214,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/350959",
+			"_sFile": "de_school2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1181632084
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 103870,
+	"_sName": "de_school",
+	"_sText": "--------------------\r\nDE_SCHOOL (FINAL VERSION)\r\n--------------------\r\nMAP BY:\r\nDosia36\r\n\r\nTHANKS TO:\r\nCorner (testing)\r\nLittle_W (compilation, radar)\r\nAlek (compilation, NAV file)\r\n\r\n--------------------\r\nCHANGELOG:\r\n--------------------\r\n- Deleted unused classrooms and areas\r\n- Deleted unused models\r\n- Deleted pencil-knife\r\n- Deleted hole in the roof\r\n- Less textures -> more performance\r\n- Less map size -> more performance\r\n- Improved radar\r\n- Improved bots, fixed NAV file\r\n- Maxplayers now 18 (9 vs 9)\r\n- Bombsite B moved to another place for tactical reason\r\n- Now you can assault thru some windows\r\n- Added DJ music system in meeting room"
+}

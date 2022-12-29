@@ -1,0 +1,36 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"mg_beach_assault_v1": {
+						"0": "readme.txt",
+						"cstrike": {
+							"maps": [
+								"mg_beach_assault_v1.bsp",
+								"mg_beach_assault_v1.nav"
+							]
+						}
+					}
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 323730,
+			"_nDownloadCount": 2763,
+			"_nFilesize": 17769780,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/323730",
+			"_sFile": "mg_beach_assault_v1.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1269852773
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 127749,
+	"_sName": "mg_beach_assault_v1",
+	"_sText": "First off, map file is pretty large for a minigame, i know. but this map has custom textures and models, and i dont think its worth sacrificing them for a smaller file as they add alot to the map.\r\n\r\nRound starts with T's on the seawall and CT's in the transports. a delay is given for T's to equip and man MG's and mortars to repel the advancing CT's.\r\nweapon and ammo distribution is deliberate, as a balancing thing.\r\nCT's will be auto killed if they remain in the transport or move beside/behind the transports.\r\nT's will be auto killed if they try to get on the beach.\r\nCT's win by getting one man to touch the pole in front of t spawn.\r\n\r\n\r\nI added some sounds as the transport doors open. when i was testing it i felt it lacked some ambiance so i added some bullet effects, but this is v1 so they can be removed if necessary. also i havent tested this with lots of other people, just bots, so im not sure on the balance yet. I'm sure lots of players are needed to do this map justice though.\r\n\r\nplease let me know about any bugs or possible improvements you may notice!\r\n"
+}

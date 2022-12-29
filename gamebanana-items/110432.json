@@ -1,0 +1,138 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"ka_silenthill": {
+						"0": "readme.txt",
+						"maps": [
+							"ka_silenthill.bsp",
+							"ka_silenthill.nav",
+							"ka_silenthill.txt"
+						],
+						"materials": {
+							"effects": [
+								"ember_swirling001.vmt",
+								"ember_swirling001.vtf",
+								"fake_fog01.vmt",
+								"fake_fog01.vtf",
+								"fake_fog01_hdr.vtf",
+								"fake_fog01a.vmt",
+								"fake_fog01a.vtf",
+								"fake_fog01a_hdr.vtf",
+								"fake_fog02.vmt",
+								"fake_fog02.vtf",
+								"fake_fog02_hdr.vtf",
+								"fake_fog03.vmt",
+								"fake_fog03.vtf",
+								"fleck_ash1.vmt",
+								"fleck_ash1.vtf",
+								"fleck_ash2.vmt",
+								"fleck_ash2.vtf",
+								"fleck_ash3.vmt",
+								"fleck_ash3.vtf"
+							],
+							"killer": {
+								"rust": [
+									"metal_platefloor_02.vmt",
+									"metal_platefloor_02.vtf",
+									"metal_platefloor_02_normal.vtf",
+									"rust_wall02.vmt",
+									"rust_wall02.vtf",
+									"rust_wall05.vmt",
+									"rust_wall05.vtf",
+									"rust_wall05_normal.vtf",
+									"rust_wall07.vmt",
+									"rust_wall07.vtf",
+									"rust_wall07_normal.vtf"
+								],
+								"silent hill": [
+									"sh_wall_2.vmt",
+									"sh_wall_2.vtf",
+									"sh_wall_2_normal.vtf"
+								]
+							},
+							"models": {
+								"p_props": {
+									"cages": [
+										"rust_wall02.vmt",
+										"{fence2.vmt"
+									],
+									"furnitures": [
+										"metal_platefloor_02.vmt",
+										"rust_wall03.vmt",
+										"rust_wall05.vmt",
+										"rust_wall07.vmt",
+										"sh_wall_1.vmt"
+									],
+									"sh": [
+										"glasswindowbreak070a.vmt",
+										"metal_platefloor_02.vmt",
+										"rust_wall07.vmt",
+										"sh_wall_2.vmt"
+									]
+								},
+								"props_vehicles": [
+									"car_rusty_tex.vmt",
+									"car_rusty_tex.vtf",
+									"car_rusty_tex_n.vtf"
+								]
+							}
+						},
+						"models": {
+							"p_props": {
+								"cages": [
+									"cage01.dx80.vtx",
+									"cage01.dx90.vtx",
+									"cage01.mdl",
+									"cage01.phy",
+									"cage01.sw.vtx",
+									"cage01.vvd"
+								],
+								"sh": [
+									"bench01.dx80.vtx",
+									"bench01.dx90.vtx",
+									"bench01.mdl",
+									"bench01.phy",
+									"bench01.sw.vtx",
+									"bench01.vvd",
+									"light01.dx80.vtx",
+									"light01.dx90.vtx",
+									"light01.mdl",
+									"light01.phy",
+									"light01.sw.vtx",
+									"light01.vvd"
+								]
+							},
+							"props_vehicles": [
+								"car_rusty.dx80.vtx",
+								"car_rusty.dx90.vtx",
+								"car_rusty.mdl",
+								"car_rusty.phy",
+								"car_rusty.sw.vtx",
+								"car_rusty.vvd"
+							]
+						}
+					}
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 293183,
+			"_nDownloadCount": 1800,
+			"_nFilesize": 27378022,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/293183",
+			"_sFile": "ka_silenthill.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1375291852
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 110432,
+	"_sName": "ka_silenthill",
+	"_sText": "A small 3 vs. 3 knife arena - map inspired by Silent Hill."
+}

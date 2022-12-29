@@ -1,0 +1,1679 @@
+[
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"cs_chalet.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 359342,
+				"_nDownloadCount": 6822,
+				"_nFilesize": 11702746,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/359342",
+				"_sFile": "cs_chalet_2.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1135038660
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99688,
+		"_sName": "cs_chalet",
+		"_sText": "This map features a mountain setting , with a chalet lodge , gaurdhouse and even a tunnel. we wanted to keep it small and fun, net_maxfilesize 30 .we hope you enjoy the map. :) West Custom Mappers , GhostW3st , CaWest! and CmWest"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"cs_centralstation_a1.bsp",
+						"cs_centralstation_a1.nav"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 341375,
+				"_nDownloadCount": 1482,
+				"_nFilesize": 1869466,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/341375",
+				"_sFile": "cs_centralstation_a1.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1212867069
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99687,
+		"_sName": "cs_centralstation_a1",
+		"_sText": "This map is made by me, mainly after passing through the hall of the central trainstation in Groningen (city in the Netherlands). Its architecture fascinated me, and therefore I decided to try and make a Counter-Strike map around it. \r\n\r\nThe hall has been reconstructed using pictures and a sketch (see screenshots, note: drawing not made by me). The area around it is purely fictional and adjusted to fit a CS Counter-strike map.\r\n\r\nIt is currently in development and halfway done (T-side done, CT side just a box :P). The roof is still to come as well. See the development tab above for more pictures and the whole process. \r\n\r\nIt has been uploaded for testing and fun, to let the public see the map, test it and tell me what I can improve :)\r\n\r\nIt is made for max 20 players (10vs10, obviously), but it has not yet been fully optimized in brushwork and VISleafs (for those who know what I mean), I cannot guarantee optimal fps in large groups. In addition, it works nicely in 3vs3ish as well.\r\n\r\nKnown bugs at the moment: \r\n# In the secret passage vent from the storage room to the upstairs office, people can have problems climbing the stairs and jumping from it. Face the stairs, press crouch and jump to get there.\r\n# When 1vs1 Bot remain after a while (T bot camping the Hostage Rescue zone and CT bot rescuing the hostages, they might get stuck and look at a wall for a few minutes before continuing to their confrontation. \r\n# Lag problems due to no complete optimization\r\n\r\nHave fun testing and debugging. :D"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"cs_central.bsp",
+						"cs_central.nav"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 353385,
+				"_nDownloadCount": 16951,
+				"_nFilesize": 30387733,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/353385",
+				"_sFile": "cs_central.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1171324296
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99686,
+		"_sName": "cs_central",
+		"_sText": "..:: CENTRAL STATION\r\n\r\nCreated by Nathan \"nay0r\" | www.map-central.co.uk\r\n\r\nNav by Peter \"Barndoor\" Calvert \r\nhttp://www.tequilakawa.plus.com/ \r\n\r\nApart of the Dimension Studios Network\r\nhttp://www.dimensionstudios.org\r\n\r\nIn the year 1934 Central Station Bridge was\r\nReconstructed and widened after many years\r\nIn service between Liverpool and Manchester \r\nIn 2005 the station was closed due to a new line \r\nOpening at Bank quay station, although after the closure\r\nTerrorists ransacked one of the few remaining \r\nTrains and took control of the station and\r\nMembers of the public who were in the local area\r\nWhat they don’t know is a specialized squad has \r\nBeen sent in. Also in a near by house they have\r\nHacked central stations CCTV cameras and have rigged\r\nUp a monitor overlooking the station, although \r\nConnection is not 100% clear, it should aid in\r\nLocating any suspects\r\n\r\nRescue points are located at central stations\r\nSubway exit and outside near the northern petrol\r\nPumps, safely navigate hostages to the parked vans\r\n\r\nEmail: nayisdeath@hotmail.com\r\n\r\n..:: Overview\r\n\r\nCs_central started out in March 2006, And ive\r\nbeen on and off with the project, initally it was\r\nmeant to be a rebuild of an old 1.6 map known as\r\ncs_intercept but after some thought I changed it \r\ninto what is now known as cs_central.\r\nIt was meant to be a piece of art at first, it was a test\r\nto see what i could do with the source engine, but after\r\nconstructing a major part of the bridge and station \r\n( which is based on a true place where i live )\r\nI then decided to try and make it into something playable \r\nwith reasonable frame rates.\r\n\r\nThe train bridge and passing road and the station itself are \r\nall based around the real place but the petrol station in real\r\nlife is just an old long distant car park looking over the town.\r\n\r\nThe beach area is a large outdoor area with a bus station,\r\nWhen i started the project it was acutally the back of the shopping centre\r\nwhich has recently recieved millions of pounds of rebuilding work \r\nto make it into a 21st century bus station\r\n\r\nand the edge of the road in cs_central which points in the direction of the\r\nold cottage near the petrol station runs to the rubgy stadium.\r\n\r\n\t\t\t..:: DETAILED MAP INFORMATION\r\n\r\n: \tThe map comes with LDR and HDR cubemaps compiled.\r\n: \tRadar Overview.\r\n: \tHighly Tuned Bot Navigation File.\r\n: \tAll Custom content is embedded into the BSP. ( 68.4mb )\r\n: \tThe map has a point_servercommand to allow servers to automatically\r\n  \tlet users download the map.\r\n:\tThe dynamic camera does seem to make users loose a fair bit of performance\r\n\twhen running around, once it is destroyed it returns to normal\r\n:\tThe Stations toilets can be entered, \r\n:\tOverhead powerlines are Electrical So dont touch them when jumping \r\n\ton top of the parked train.\r\n:\tLightmaps are only Lower on the station, rest of the map are \r\n\tgenerally higher than default.\r\n\r\n\t\t\t..:: Credits\r\n\r\nThanks to Valve, I used there Coke machine from de_nuke.\r\nPlus The custom soundscape i used in cs_central is built around \r\nserveral of the official maps, including assault/port/office and train\r\n\r\n\t\t\t..:: Performance\r\n\r\nI know the map is not amazing in terms of performance, This is \r\nbecause i didnt plan the map very well from the begining as explained above\r\nbut i believe it gets as good as it can for whats being rendered.\r\nI spent various amounts of weeks hinting and using areaportals and window portals\r\nto optimize the map, and using nodraw and func_detail."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"cs_cemetary.bsp",
+						"cs_cemetary.nav",
+						"cs_cemetary.txt"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 356872,
+				"_nDownloadCount": 1296,
+				"_nFilesize": 253565,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/356872",
+				"_sFile": "cs_cemetary.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1155602947
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99685,
+		"_sName": "cs_cemetary",
+		"_sText": "worked  on this one for 2 days straight and 3 hours of sleep. hope it accepts hehe."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"cs_cement": {
+							"0": "Instructions.txt",
+							"cstrike": {
+								"maps": [
+									"cs_cement.bsp"
+								],
+								"materials": {
+									"overviews": [
+										"cs_cement.vmt",
+										"cs_cement.vtf",
+										"cs_cement_radar.vmt",
+										"cs_cement_radar.vtf"
+									]
+								},
+								"resource": {
+									"overviews": [
+										"cs_cement.txt"
+									]
+								}
+							}
+						}
+					}
+				},
+				"_bContainsExe": false,
+				"_idRow": 327701,
+				"_nDownloadCount": 2929,
+				"_nFilesize": 13186544,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/327701",
+				"_sFile": "cs_cement.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1256694991
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99684,
+		"_sName": "CS_Cement",
+		"_sText": "To install the map;\r\n\r\nGo to; program files/steam/steamapps/(your username)/\r\n\r\nand then paste all the files from the cstrike folder that came with this map\r\ninto the counter-strike folder.\r\n\r\n\r\nAny other queries or comments email me at NickEd90@hotmail.co.uk\r\n\r\nnav file by: chizbone\r\n\r\nwww.nicholascedwards.co.uk"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"cs_cdiver_hdr": {
+							"cstrike": {
+								"0": "Readme - cs_cdiver.txt",
+								"maps": [
+									"cs_cdiver.bsp",
+									"cs_cdiver.nav"
+								],
+								"materials": {
+									"overviews": [
+										"cs_cdiver.vmt",
+										"cs_cdiver.vtf"
+									],
+									"textures_signs": [
+										"logo.vmt",
+										"logo.vtf"
+									]
+								},
+								"resource": {
+									"overviews": [
+										"cs_cdiver.txt"
+									]
+								}
+							}
+						}
+					}
+				},
+				"_bContainsExe": false,
+				"_idRow": 357510,
+				"_nDownloadCount": 2618,
+				"_nFilesize": 18352577,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/357510",
+				"_sFile": "cs_cdiver_hdr.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1151486788
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99683,
+		"_sName": "cs_cdiver",
+		"_sText": "Cliffdiver\r\ncs_cdiver\r\n\r\nMap by MarkQ/Turd Furguson\r\n\r\nCandy is usually intended to be a thing of joy and happiness.\r\nNever before has such an innocent treat become such a twisted tool \r\nof desire. Four high-clearance weapons scientists, all with nuclear, \r\nchemical or biological backgrounds, had a desire for tasty, tasty candy. \r\nUpon learning of a complex that harboured delicious candy, \r\nthey boarded their shared winnebago and journeyed to the cliffside. \r\nHowever, when they got there all they found were bloodthirsty terrorists\r\nwho put them in a control room where all they could do was stand around. \r\nCounter Terrorists have been informed and are enroute.\r\n\r\nHDR RE-RELEASE, with bot pathing and graphical bugs fixed.\r\n\r\nANY BUGS/SUGGESTIONS, PLEASE EMAIL ME AT: sniperx87@hotmail.com\r\n\r\ncredits: MarkQ, Valve for the models/textures."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"0": "README.txt",
+						"1": "Thumbs.db",
+						"maps": [
+							"cs_ccity.bsp",
+							"cs_ccity.nav",
+							"cs_ccity.txt"
+						],
+						"sound": {
+							"nippersounds": [
+								"nm_bookert_greenonions.wav",
+								"nm_floyd_usandthem.wav",
+								"nm_outkast_loveinwar.wav",
+								"nm_radiohead_idioteque.wav"
+							]
+						}
+					}
+				},
+				"_bContainsExe": false,
+				"_idRow": 362111,
+				"_nDownloadCount": 3522,
+				"_nFilesize": 3128606,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/362111",
+				"_sFile": "cs_ccity.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1105982218
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99682,
+		"_sName": "cs_ccity",
+		"_sText": "The map:\r\n------------\r\nCS_CCity --- By ex-employee of store 3529  aka [FuK]D|cE.\r\n\r\nIts a electronics store...Glass roof, store, warehouse, parking lot, blah blah.  Destroy things while you kill things, fun map, nothing super insain as far as looks.\r\n--------------------------------------------------------------\r\nObjective:\r\n------------\r\nCT's  save the Hostages that are located in the \r\nCustomer Service area.\r\n\r\nT's, kill ct's.\r\n\r\nShoot the crap out of the eletronics.\r\n--------------------------------------------------------------\r\nTHANKS:\r\n------------\r\nTeam FuK  www.teamfuk.com\r\nwww.interlopers.net\r\nTCN Game Servers\r\nCSBANANA\r\nNipper, for the sound files from his map Blahh\r\n-------------------------------------------------------------\r\nMy aol instant messenger screename: Diicce\r\n\r\nOnly know bugs:\r\nHostage's like to jump the customer service desk instead of going through the doors in that area...sucks, but comical to watch as they destory the area trying to get through, and they do get through, just weird to watch.\r\n"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"0": "HowToInstall.txt",
+						"Maps": [
+							"cs_cb_pursuit.bsp",
+							"cs_cb_pursuit.nav",
+							"cs_cb_pursuit.res",
+							"cs_cb_pursuit.txt"
+						],
+						"materials": {
+							"crowmap": [
+								"cdirt6.vmt",
+								"cdirt6.vtf",
+								"crowlogo.vmt",
+								"crowlogo.vtf",
+								"maplogo.vmt",
+								"maplogo.vtf",
+								"pursuitlogo.vmt",
+								"pursuitlogo.vtf"
+							],
+							"overviews": [
+								"cs_cb_pursuito.vmt",
+								"cs_cb_pursuito.vtf"
+							]
+						},
+						"resource": {
+							"overviews": [
+								"cs_cb_pursuit.txt"
+							]
+						}
+					}
+				},
+				"_bContainsExe": false,
+				"_idRow": 357108,
+				"_nDownloadCount": 1377,
+				"_nFilesize": 8239210,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/357108",
+				"_sFile": "s_cs_cb_pursuit_beta1.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1154177820
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99681,
+		"_sName": "cs_cb_pursuit_beta1",
+		"_sText": "Cs_cb_pursuit Beta Version 1\r\n\r\nHostage Rescue Map Awaiting Beta Testing\r\n\r\nSpecification:\r\nUp To 40 Players Recommended.\r\nMaximum Players (Spawns) 60\r\nHostage Rescue\r\nFarely Simple Layout, easy to grasp and OwN!\r\nContains a mixture of open and closed spaces\r\nSniping and One on One combat is prominant\r\nGOOD VISIBILITY, although set in the evening, the map is lit for clear viewing\r\nMap Overview\r\nNavigation Mesh\r\n\r\nFuture Updates:\r\nFurther Beta Version/s and Full Release\r\nMore Detail where needed\r\nMinor adjustments to gameplay issues\r\nPerformance Tweaks\r\n\r\n\r\nWatch This Space! for the full version and my other up and coming maps.\r\nwww.crowbird.co.uk\r\nmap forum: www.crowbird.co.uk/mapforum\r\n\r\n"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"cstrike": {
+							"0": "cs_cbble-overview.jpg",
+							"maps": [
+								"cs_cbble.bsp",
+								"cs_cbble.nav",
+								"cs_cbble.res",
+								"cs_cbble.txt"
+							],
+							"materials": {
+								"overviews": [
+									"cs_cbble.vmt",
+									"cs_cbble.vtf"
+								]
+							},
+							"resource": {
+								"overviews": [
+									"cs_cbble.txt"
+								]
+							}
+						}
+					}
+				},
+				"_bContainsExe": false,
+				"_idRow": 278039,
+				"_nDownloadCount": 1332,
+				"_nFilesize": 5478088,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/278039",
+				"_sFile": "cs_cbble_css2.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1465053286
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99680,
+		"_sName": "cs_cbble",
+		"_sText": "<b><b><b>Cobble - Hostage Rescue <br>\r\n<br>\r\nby DaveJ </b>(<a href=\"http://www.johnsto.co.uk/\" target=\"_blank\">http://www.johnsto.co.uk/</a>) <br>\r\nTextures by Valve <br>\r\nCS-Remix by CoCoNUT<br>\r\n<br>\r\nCounter-Terrorists:<br>\r\nRescue the hostages or eliminate those nasty terrorists. \"Go forth and kick ass, soldiers.\"<br>\r\n<br>\r\nTerrorists:<br>\r\n\"You failed again to plant the bomb? So these people belong to Lord \r\nWilliams staff. Make sure nobody can rescue them.\" \"SIR, YES SIR!\"<br>\r\n<br>\r\nThere are 4 hostages and 2 rescue zones.<br><br>\r\nHave fun! <a href=\"http://www.razyboard.com/system/user_coconut.html\">CoCoNUT</a><br></b></b>"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"cstrike": {
+							"0": "cs_cbble-overview.jpg",
+							"maps": [
+								"cs_cbble.bsp",
+								"cs_cbble.nav",
+								"cs_cbble.res",
+								"cs_cbble.txt"
+							],
+							"materials": {
+								"overviews": [
+									"cs_cbble.txt",
+									"cs_cbble.vmt",
+									"cs_cbble.vtf"
+								]
+							},
+							"resource": [
+								"cs_cbble.txt"
+							]
+						}
+					}
+				},
+				"_bContainsExe": false,
+				"_idRow": 360870,
+				"_nDownloadCount": 3112,
+				"_nFilesize": 5319903,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/360870",
+				"_sFile": "cs_cbble_css.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1122832954
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99679,
+		"_sName": "cs_cbble",
+		"_sText": "Cobble - Hostage Rescue\r\nby DaveJ (http://www.johnsto.co.uk/)\r\nTextures by Valve\r\nCS-Remix by CoCoNUT/ http://coconut.de.tc\r\n\r\nCounter-Terrorists:\r\n\r\nRescue the hostages\r\nor eliminate those nasty terrorists.\r\n\"Go forth and kick ass, soldiers.\"\r\n\r\nTerrorists:\r\n\r\n\"You failed again to plant the bomb?\r\nSo these people belong to Lord Williams \r\nstaff. Make sure nobody can rescue them.\"\r\n\"SIR, YES SIR!\"\r\n\r\nThere are 4 hostages and 2 rescue zones."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"cs_cavity.bsp",
+						"cs_cavity.nav"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 345971,
+				"_nDownloadCount": 1406,
+				"_nFilesize": 1168572,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/345971",
+				"_sFile": "cs_cavity.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1198163070
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99678,
+		"_sName": "cs_cavity",
+		"_sText": "There is some place where you can get Deagle when you push button \r\n\r\n__________________________________________________________________________\r\n\r\n__________________________________________________________________________\r\n\r\n<object width=\"425\" height=\"355\"><param name=\"movie\" value=\"http://www.youtube.com/v/wQnJScxKkcM&rel=1\"></param><param name=\"wmode\" value=\"transparent\"></param><embed src=\"http://www.youtube.com/v/wQnJScxKkcM&rel=1\" type=\"application/x-shockwave-flash\" wmode=\"transparent\" width=\"425\" height=\"355\"></embed></object>\r\n___________________________________________________________________________\r\n\r\nHope you like it \r\nMade by Waponen"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"ReadME.txt",
+						"cs_cavern.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 338862,
+				"_nDownloadCount": 1241,
+				"_nFilesize": 3709363,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/338862",
+				"_sFile": "cs_cavern_alpha1.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1219896800
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99677,
+		"_sName": "cs_cavern_alpha",
+		"_sText": "Information in the Map's text file? what? Watermark? This is my first map! Yipee! The map was compiled on fast with hdr enabled (normal compiles get stuck building lights for an entire three days before i give up and start working on it again) though I don't even know if hdr is working, i do need help with that, I haven't even built cubemaps yet (though they are in place), I just want to see where this goes first\r\n\r\nOk! So this map is very far from complete so I'm calling it alpha, I really just want to get it out there for people to see/play and get some feedback on it. I would LOVE to know absolutely anything wrong with it, textural flaws, flaws in the game play, and thing that should be added, or de-added. At that, here are some errors that i don't need told to me.\r\n\r\n**ERROR! (if you can fix these and tell me how i will put you in the credits)\r\n\r\n**There is a tiny brush by the ladder on the ceiling in the watery pipey room, it wasn't rendering right because it was off grid so i moved it on grid and now it doesn't line up, barely noticeable (tell me if you think otherwise)\r\n\r\n**On the helicopter outside all the textures are wrong. They all need to be rotated some degree or another, I'll get around to it eventually\r\n\r\n**The walls are to thin!!! same with the ceilings/floors =(( this causes the ability to be able to see guns and people through them (sometimes) just don't hide where you think you will be seen.\r\n\r\n**Props cast shadows on walls in the floor below (so do people and their corpses). I think i know how to fix this but it doesn't affect the game play so I've been ignoring it\r\n\r\n**People fall through props (like all the barrels, is there a way to make them myself where people won't?)\r\n\r\n**props- how many is too many?\r\n\r\n**A red light shines through the floor outside the compound (can't figure out a fix blocklight=fail)\r\n\r\n**Textures on the archways! IF anyone knows of a better texture that could be used, or for that matter better textures to be use ANYWHERE in the map, let me know, I will gladly change any textures in the map if i think it will look better\r\n\r\n**Hostages are ALWAYS in the way and dieing, sometimes its funny sometimes its annoying, if anyone has some ideas that will help get them out of the way? even just deleting them and making it a skill map? Once again open to anything =)\r\n\r\n**Try to get the hostages out 2 at a time (its pretty impossible to get them all out at once before everyone is dead)\r\n\r\nmax player = 18 (it's too crowded with more than that and people spawn on top of each other) I could add more if its wanted.\r\n\r\nthat being said . . . I'm quite open to ALL feedback (preferably constructive) adding entrances and exits and this and that here and there is no problem so please tell me what to do!\r\n\r\nIF theres anything i missed putting into this please tell me, if i think you can help me I will give the .VMF(T?) out on request, please help me make it better! or at least make my next one better\r\n\r\nwo woo pan"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"cs_cave.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 358069,
+				"_nDownloadCount": 1451,
+				"_nFilesize": 708645,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/358069",
+				"_sFile": "cs_cave_2.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1146936960
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99676,
+		"_sName": "cs_cave",
+		"_sText": "Credits: mijmorgs - mapper, ValvE - materials, Jason Voorhees  - Surf prefab (http://www.fpsbanana.com/?section=viewitem.skins.skins.main.9357)\r\n\r\nRemember to put sv_airaccelerate 100 in the console so that you can surf."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"cs_caution_v4.bsp",
+						"cs_caution_v4.nav"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 360643,
+				"_nDownloadCount": 1616,
+				"_nFilesize": 2081225,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/360643",
+				"_sFile": "cs_caution_v4.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1125269007
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99675,
+		"_sName": "cs_caution_v4",
+		"_sText": "Adds/fixes\r\n\r\nAdded new tunnel area to make it more interesting..\r\n\r\nFixed the city, the vents cracks and sky lights"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"cs_castle_disno.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 340200,
+				"_nDownloadCount": 1503,
+				"_nFilesize": 964037,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/340200",
+				"_sFile": "cs_castle_disno.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1216550855
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99674,
+		"_sName": "cs_castle_disno",
+		"_sText": "A castle ...\r\nwith Sky3D"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"cs_castlepa.ain",
+						"cs_castlepa.bsp",
+						"cs_castlepa.nav"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 359523,
+				"_nDownloadCount": 11221,
+				"_nFilesize": 3819581,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/359523",
+				"_sFile": "cs_castlepa.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1133302650
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99673,
+		"_sName": "cs_castlepa",
+		"_sText": "this map is from Clan Pure Adrenaline, made by Bomook, this is sort of a castle...very rushed but also very fun..the .nav is kinda big :/ sorry about that...but still a very good map\r\n\r\n\r\n4 hosties located in corners of the castle\r\n\r\n\r\n2 secrets that are very accessible\r\n\r\nwww.clanpa.net\r\nwww.clanpa.forumsplace.com"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"cs_castle.bsp",
+						"cs_castle.nav"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 343292,
+				"_nDownloadCount": 1565,
+				"_nFilesize": 1116766,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/343292",
+				"_sFile": "cs_castle_2.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1206068890
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99672,
+		"_sName": "cs_castle",
+		"_sText": "This is my first map, and is alright I think. The detail isn't too great but it is just a Beta, and the gameplay is really good. There are many different passageways, and lots of different strategies to use. The bridge down the middle can be quick escape, but there is no cover from many sniping spots. Sometimes the games can last quite a while with all the different routes (especially if the bots get stuck in the water). There are two ladders to get out of the water on the wall of the little  platforms that stick out from the side, and another two vines to climb up on closer to the center (all vines are climable on this map). The hostage rescue point is the top floor of the side that the Counter-Terrorists spawn on. That rope like thing is also climable, but the AI seems to just disregard it. Overall it is a great map for medium/large size groups."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"cs_castle.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 357642,
+				"_nDownloadCount": 1777,
+				"_nFilesize": 999459,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/357642",
+				"_sFile": "cs_castle_2.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1150556453
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99671,
+		"_sName": "cs_castle",
+		"_sText": ""
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"cs_casita": {
+							"maps": [
+								"cs_casita.bsp",
+								"cs_casita.nav"
+							],
+							"sound": {
+								"lakehouse": [
+									"song1.wav",
+									"song2.wav"
+								]
+							}
+						}
+					}
+				},
+				"_bContainsExe": false,
+				"_idRow": 353793,
+				"_nDownloadCount": 1734,
+				"_nFilesize": 14466497,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/353793",
+				"_sFile": "cs_casita.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1169264979
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99670,
+		"_sName": "cs_casita",
+		"_sText": "i hope u like it "
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"cs_carwash_beta1": {
+							"0": "Read Me.txt",
+							"cstrike": {
+								"maps": [
+									"cs_carwash_beta1.bsp",
+									"cs_carwash_beta1.nav",
+									"cs_carwash_beta1.txt"
+								],
+								"resource": {
+									"overviews": [
+										"cs_carwash_beta1.txt"
+									]
+								}
+							}
+						}
+					}
+				},
+				"_bContainsExe": false,
+				"_idRow": 309636,
+				"_nDownloadCount": 3254,
+				"_nFilesize": 20075060,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/309636",
+				"_sFile": "_8982-.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1313907158
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99669,
+		"_sName": "CS_Carwash_Beta1",
+		"_sText": "I made this map as a tool for my team to improve on our team work during scrims.\r\nThere are 4 hostages and they have random spawn ports. So each time the round starts they will be in different spots.\r\n\r\nHope you like it.\r\n\r\nAny and all comments are welcomed to help in future projects."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"cs_carpark": {
+							"0": "cs_carpark.bsp",
+							"1": "cs_carpark.bsp.ztmp",
+							"2": "cs_carpark.nav",
+							"graphs": [
+								"cs_carpark.ain"
+							],
+							"soundcache": [
+								"cs_carpark.cache"
+							]
+						}
+					}
+				},
+				"_bContainsExe": false,
+				"_idRow": 360995,
+				"_nDownloadCount": 2044,
+				"_nFilesize": 9553862,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/360995",
+				"_sFile": "cs_carpark_1121427892.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1121427892
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99668,
+		"_sName": "cs_carpark",
+		"_sText": "Enjoy!"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"cs_carpark": {
+							"0": "cs_carpark.bsp",
+							"1": "cs_carpark.bsp.ztmp",
+							"2": "cs_carpark.nav",
+							"graphs": [
+								"cs_carpark.ain"
+							],
+							"soundcache": [
+								"cs_carpark.cache"
+							]
+						}
+					}
+				},
+				"_bContainsExe": false,
+				"_idRow": 361042,
+				"_nDownloadCount": 2748,
+				"_nFilesize": 9553862,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/361042",
+				"_sFile": "cs_carpark.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1120695937
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99667,
+		"_sName": "cs_carpark",
+		"_sText": "Cs_carpark\r\ntime to make: 4 weeks (on and off)\r\nmap info: 3 floors\r\n               about 15 cars\r\n               a collections of pitch black tunnels\r\n               CT's start at entrance\r\n               T's start on roof\r\n               2 hosties per power room\r\n               Blinding sun light on roof\r\n               a few glitchly decals lol (dont moan about it)\r\n               optimized as much as pos\r\n               up to 32 players\r\n               ive had complaints that its too big :S dunno if thats pos     for a css map but yea..\r\nthats about it, enjoy :P\r\n\r\nPS. new map on the way!, de_facility, lots of high tech operational doors :P, cliffs, buildings so on...will be a month or 2\r\n\r\nmonkey_junkie2004@hotmail.com\r\nadd to chat or get pics or whatever"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"cs_carnival.bsp",
+						"cs_carnival.nav"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 339275,
+				"_nDownloadCount": 1768,
+				"_nFilesize": 1869062,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/339275",
+				"_sFile": "cs_carnival.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1218937554
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99666,
+		"_sName": "cs_carnival",
+		"_sText": "Please be aware that this is a work in progress still. Map is perfectly playable.\r\nKnown Bug Issues\r\n\r\n: Water in diving pool/tower currently invisible (water still usable)\r\n: 5 Error Signs in CT spawn (does not effect map playability)\r\n: Giant reflection of map in skybox (attempting to fix problem)\r\n\r\nIf any more are found please e-mail them to me at: alexmo12345@aol.com\r\n\r\nthanks"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"cstrike": {
+							"DownloadLists": [
+								"cs_carheist.lst"
+							],
+							"maps": {
+								"0": "cs_carheist.bsp",
+								"1": "cs_carheist.nav",
+								"2": "cs_carheist.txt",
+								"graphs": [
+									"cs_carheist.ain"
+								],
+								"soundcache": [
+									"cs_carheist.cache"
+								]
+							}
+						}
+					}
+				},
+				"_bContainsExe": false,
+				"_idRow": 360360,
+				"_nDownloadCount": 1887,
+				"_nFilesize": 3869422,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/360360",
+				"_sFile": "cs_carheist.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1127674530
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99665,
+		"_sName": "cs_carheist",
+		"_sText": "This is my first map. It is a hostage rescue. Please give some feedback.\r\n"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"cs_carbon_assault.bsp",
+						"cs_carbon_assault.nav",
+						"cs_carbon_assault.txt"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 276497,
+				"_nDownloadCount": 2417,
+				"_nFilesize": 1321644,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/276497",
+				"_sFile": "cs_carbon_assault.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1474231395
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99664,
+		"_sName": "cs_carbon_assault",
+		"_sText": "A map I made to pay tribute to the 1.6 version of cs_assault. There have been some minor cosmetic upgrades but I wanted to keep it simple like the original map. I have included the .nav file. I finished the map years ago and completely forgot about it. Better late than never! Map is stable up to 20 players MAX.<br><br>"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"cs_cantelever_css.bsp",
+						"cs_cantelever_css.nav"
+					],
+					"_sMimeType": "application/x-rar"
+				},
+				"_bContainsExe": false,
+				"_idRow": 366579,
+				"_nDownloadCount": 1263,
+				"_nFilesize": 7657851,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/366579",
+				"_sFile": "cs_cantelever_css.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1513586641
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99663,
+		"_sName": "cs_cantelever_css",
+		"_sText": "my port for css. Original map by Adam Sinclair (glock 18)<br><br>Video Gameplay&nbsp;<a href=\"https://www.youtube.com/watch?v=KHh4YXS5i5Y\" class=\"linkified\" target=\"_blank\" savefrom_lm_index=\"0\" savefrom_lm=\"1\">https://www.youtube.com/watch?v=KHh4YXS5i5Y</a><a href=\"http://savefrom.net/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DKHh4YXS5i5Y&amp;utm_source=opera-chromium&amp;utm_medium=extensions&amp;utm_campaign=link_modifier\" target=\"_blank\" title=\"?????? ?????? ??????\" savefrom_lm=\"1\" savefrom_lm_is_link=\"1\"></a>"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"cs_canal.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 325596,
+				"_nDownloadCount": 1542,
+				"_nFilesize": 406590,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/325596",
+				"_sFile": "cs_canal.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1263692697
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99662,
+		"_sName": "cs_canal",
+		"_sText": "A similar map was in cs 1.6.Karta represents two symmetrical building with two etazhami.V each building on the second floor scattered AWP"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"cs_calm_pro.bsp",
+						"cs_calm_pro.nav",
+						"cs_calm_pro.txt",
+						"cs_calm_pro_readme.txt"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 307990,
+				"_nDownloadCount": 7241,
+				"_nFilesize": 9301883,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/307990",
+				"_sFile": "cs_calm_pro_2.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1319307970
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99661,
+		"_sName": "cs_calm_pro",
+		"_sText": "#### Calm Village Pro - Hostage Rescue\r\n\r\n##### By Will2k\r\n\r\ncs-calm-pro is a remastered version of my earlier source map cs-calm-source released in 2010 (can be found here http://www.gamebanana.com/maps/151858)\r\n\r\nWhile the map was nice and fun to play and was featured on several servers, I never felt that it got the attention that it deserved fom my side. After all, cs-calm-source was itself a quick remake of my map cs-calm for CS 1.6 from 2003. It actually helped me get back to business after I stopped mapping for almost 7 years. \r\n\r\nMany people also indicated that the map needs some adjustments and more details; so after releasing de-spezia last month, I went back to cs-calm-source and what actually started as slight modification ended up as redesigning and rebuilding around 70% of the map from scratch :)\r\n\r\nNew areas and routes were added, old layout was heavily modified; textures, lighting and props were completely replaced and the overall map area was slightly increased to ensure smoother gameplay.\r\n\r\nAs usual, the map is fully optimized to ensure fluid gameplay and consistent high FPS.\r\n\r\nThe map has:\r\n\r\n- 32 spawn points (16 vs 16) I considered 64 spawn points but I think it would be too much for the size of the map.\r\n- radar overview\r\n- 3D skybox\r\n- Soundscapes\r\n- custom textures and models\r\n- Nav file with place names\r\n\r\nAll the custom resources (except the nav) are embedded in the bsp.\r\n\r\nFor installation, simply extract the 4 files in the zip archive (bsp, nav and 2 txt files) to your \\Counter-Strike Source\\cstrike\\maps folder.\r\n\r\n\r\nI really hope you enjoy this map as much as I did creating and testing it.\r\nComments and constructive feedback are always welcome.\r\n\r\nWill2k\r\n\r\nOctober 22, 2011"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"cs_cabinet8.bsp",
+						"cs_cabinet8.nav",
+						"cs_cabinet8.txt"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 356304,
+				"_nDownloadCount": 6067,
+				"_nFilesize": 5363184,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/356304",
+				"_sFile": "cs_cabinet8_co.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1157835140
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99660,
+		"_sName": "cs_cabinet8",
+		"_sText": "Hi, on request I prepared this map for online-play and made a nav-file. This is mansion-deluxe. A more expensive house, a more interesting layout. Ladders are disabled so you can´t access the roof (the layout doesn´t need this I think). Enjoy.\r\n\r\nmap cs_cabinet8 for Source Engine\r\nmade by Ray\r\nfull name: Anton G. Zyryanov\r\nEkaterinburg, Russia\r\n\r\nPlease, save all hostages\r\nFIREEEEEE!!!!\r\n\r\nmail: ray@mnm.ru\r\nICQ: 345729056\r\n"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"0": "Credits.txt",
+						"1": "ReadMe.txt",
+						"cstrike": {
+							"maps": [
+								"cs_cabaret.bsp",
+								"cs_cabaret.nav",
+								"cs_cabaret.res"
+							],
+							"sound": {
+								"cabaret": [
+									"car1.wav",
+									"car2.wav",
+									"scratch.wav",
+									"specroom.wav",
+									"telephone.wav",
+									"track1.wav",
+									"track2.wav",
+									"track3.wav"
+								],
+								"hostage": {
+									"hpain": [
+										"hpain1.wav",
+										"hpain2.wav",
+										"hpain3.wav",
+										"hpain4.wav",
+										"hpain5.wav",
+										"hpain6.wav"
+									],
+									"hunuse": [
+										"comeback.wav",
+										"dontleaveme.wav",
+										"illstayhere.wav",
+										"notleaveme.wav",
+										"yeahillstay.wav"
+									],
+									"huse": [
+										"getouttahere.wav",
+										"illfollow.wav",
+										"letsdoit.wav",
+										"letsgo.wav",
+										"letshurry.wav",
+										"letsmove.wav",
+										"okletsgo.wav",
+										"youlead.wav"
+									]
+								}
+							}
+						}
+					}
+				},
+				"_bContainsExe": false,
+				"_idRow": 347943,
+				"_nDownloadCount": 8355,
+				"_nFilesize": 23822751,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/347943",
+				"_sFile": "cs_cabaret.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1192292716
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99659,
+		"_sName": "cs_cabaret",
+		"_sText": "Another quality map i never made, not sure why this has never been uploaded before or if it has why was it removed its great\r\n\r\n---------------------\r\n\r\nThe basic idea of CS_Cabaret is that a group of Terrorists have taken control of a gentlemens club, while taking a few hostages at the same time. Its up to the Counter-Terrorists to break in and save the day. Theres quite a few entrances on all different sides of the club, allowing both quick entry and quick exit for both teams while providing both outdoor long range combat and indoor CQB action.\r\n\r\nCabaret has been heavily balanced and fine tuned to make sure that no team has a clear advantage, and that each team has equal opportunities at victory. Through countless hours of playtesting with both humans and bots, the map has proved to be amazingly balanced for a assault-styled map.\r\n\r\nThe custom hostage models included with the map are strippers, as it definetly suites the map more than the original (and boring) worker hostages. Theres also a ton of custom textures, models and sounds which are completely new, so it definetly gives the map a unique look and feel which is unlike any other map around. The downside of all the custom content is that t he filesize of the map grows considerably. The materials, models and sounds account for about 20mb out of the 60mb bsp, while almost all the rest of the filesize is due to HDR lighting (it nearly triples the filesize). Its good to use new technology, though. I also spent alot of time making sure that the map was balanced for each side, allowing fair and maybe even competitive gameplay. I tested the map with both human players and bots for balance, and after lots of tweaking, the map eventually became even.\r\n\r\nSpeaking of bots, there is a heavily tweaked .nav file included in the map which I created almost from the ground up, which will make those with unstable internet connections happy as the bots preform quite well around the map. The only issue which I couldent figure out a way to fix (but did manage to lessen its occurrence) was how the bots interact with doors. Sometimes theyll get caught on the door and wait for a few seconds before managing to get by. Since the hostages also use the .nav file aswell, they run around very well and will rarely get stuck on anything (unless you decide to lead them through the entire building while running as fast as possible).\r\n\r\nRecomended Players: 6-20 Maximum: 40"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"cs_business.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 352948,
+				"_nDownloadCount": 11515,
+				"_nFilesize": 4471409,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/352948",
+				"_sFile": "cs_business.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1173281927
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99658,
+		"_sName": "cs_business",
+		"_sText": "Here it is! cs_business. Originally themed after the great map cs_office, I changed my mind on what direction I was trying to go with it. Instead of creating yet another office look alike, I changed the textures and tried to make an office like enviornment without looking like cs_office. I thought it turned out pretty good. ENJOY!"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"0": "NavPlace.db",
+						"maps": [
+							"cs_bureau_source lisez-moi read me.txt",
+							"cs_bureau_source.bsp"
+						],
+						"resource": [
+							"cstrike_english.txt",
+							"cstrike_french.txt"
+						]
+					}
+				},
+				"_bContainsExe": false,
+				"_idRow": 355872,
+				"_nDownloadCount": 2464,
+				"_nFilesize": 3241090,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/355872",
+				"_sFile": "cs_bureau_source_v12.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1160243242
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99657,
+		"_sName": "cs_bureau_source",
+		"_sText": "&#9658; ENGLISH/ANGLAIS\r\n\r\nMap by Supermike\r\nBot navigation mesh by Man Nay\r\nOptimization by L'inconnu\r\n\r\nOfficial website (map downloads/updates) : www.poutre.free.fr\r\n\r\nThe zip archive must be unzipped into the directory Steam/Steamapps/youraccount/counter-strike source/cstrike respecting the folder names.\r\n\r\nAll models, materials, sounds, nav mesh and additional elements are embedded into the bsp.\r\n\r\nThe files navplace.db, cstrike_english.txt and cstrike_french.txt are optional and the map can work without them. However, they allow more appropriate place names to be displayed under the radar and in the chat. Keep in mind that installing these files will prevent the game from having access to the files bearing the same names in the gcf (cache) and to the potential modifications that Valve can make on them.If you're unsure, unzip only the .bsp"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"cs_bunker_eX": [
+							"cs_bunker_eX.bsp",
+							"cs_bunker_ex.nav"
+						]
+					}
+				},
+				"_bContainsExe": false,
+				"_idRow": 323279,
+				"_nDownloadCount": 1588,
+				"_nFilesize": 3702363,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/323279",
+				"_sFile": "cs_bunker_ex_4.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1271534255
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99656,
+		"_sName": "cs_bunker_eX",
+		"_sText": "New version old map cs_bunker_eX\r\n\r\nAdd:\r\n\r\noptimization\r\n\r\nEDIT 21.04.2010\r\n\r\nAdded correction\r\n"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"cs_bunkerrescue.bsp",
+						"cs_bunkerrescue.nav"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 334926,
+				"_nDownloadCount": 1185,
+				"_nFilesize": 782798,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/334926",
+				"_sFile": "cs_bunkerrescue.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1232913665
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99655,
+		"_sName": "cs_bunkerrescue",
+		"_sText": "My first map for CS:S."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"Readme.txt",
+						"cs_bunkerday_beta10000.jpg",
+						"cs_bunkerday_beta10001.jpg",
+						"cs_bunkerday_beta10002.jpg",
+						"cs_bunkerday_beta10003.jpg",
+						"cs_bunkerday_beta10004.jpg",
+						"cs_bunkerday_beta20000.jpg",
+						"cs_bunkerday_beta3.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 310479,
+				"_nDownloadCount": 3489,
+				"_nFilesize": 5567354,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/310479",
+				"_sFile": "_8009-.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1311674771
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99654,
+		"_sName": "cs_bunkerday_beta3",
+		"_sText": "Extract in Steam\\steamapps\\yoursteam\\counter-strike source\\cstrike\\maps"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"0": "readme.txt",
+						"maps": [
+							"cs_bunker2k5.bsp",
+							"cs_bunker2k5.nav"
+						]
+					}
+				},
+				"_bContainsExe": false,
+				"_idRow": 359643,
+				"_nDownloadCount": 1852,
+				"_nFilesize": 1441954,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/359643",
+				"_sFile": "cs_bunker2k5.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1132154205
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99653,
+		"_sName": "cs_bunker2k5",
+		"_sText": "\r\nThis is a rather quite sweet map made by Atz2z€_K. It has a max of 20 Players and 4 Hostages, as you can see on the screenshots. The map takes place on the outside as well inside house(s). have fun with this nice big map."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"2b5i6oaih1h0l2ku.jpg",
+						"cs_bunker.bsp",
+						"cs_bunker.nav",
+						"mlaajzjdbt4f6sdt.jpg",
+						"x71whifedijiz3sl.jpg",
+						"xbeqx9ou7rnj11l9.jpg"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 358595,
+				"_nDownloadCount": 1757,
+				"_nFilesize": 665014,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/358595",
+				"_sFile": "cs_bunker.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1142427636
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99652,
+		"_sName": "cs_bunker",
+		"_sText": "Made By Sam Murray"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"Bunked_b1 Readme.txt",
+						"Bunked_b1.bsp",
+						"bunked_b1.nav"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 339468,
+				"_nDownloadCount": 1220,
+				"_nFilesize": 549432,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/339468",
+				"_sFile": "bunked_b1_pack_3.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1218423004
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99651,
+		"_sName": "cs_bunked_b1",
+		"_sText": "This map has a lot of interactive type things in it. Some things may be confusing to a new player to the map as it is not obvious of what to do. In the download zip I have included a text document with a list of these possibly confusing obstacles. The official test server for my maps is 8.9.4.112, for alpha testing come join us and you can help find bugs in new maps. SPECIAL THANKS TO CHIZBONE FOR THE NAV FILE. COULDN'T HAVE MADE THE MAP AS IT IS WITHOUT YA!"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"cs_bulletheory.bsp",
+						"cs_bulletheory.nav",
+						"cs_bulletheory_readme.txt"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 357011,
+				"_nDownloadCount": 2086,
+				"_nFilesize": 1519545,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/357011",
+				"_sFile": "cs_bulletheory.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1154748032
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99650,
+		"_sName": "cs_bullettheory",
+		"_sText": "\r\nCopyed from original\r\n\r\n\"This is as polished up as I am likely to take it now, just gonna put this beta out and see if anyone has any final suggestions. Some of the key changes besides obvious polishing and detailing include:\r\n\r\n-The doors are wider and thats pretty much fixed any problems the bots were having.\r\n-Added the 2nd route for the cts to take when they spawn.\r\n-The gap between the stairway is wider so you can now jump down it.\r\n-Changed shape of corridor on the top floor so its less of a sniper trap\r\n-Added more sounds.\r\n\r\nUpdate: Main changes:\r\nReplaced some dynamic props that could have blocked doorways\r\nFixed the low fps in places\r\nAdded more respawns (there are now 42)\r\nUsual tweaks here and there\""
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"cs_building_remake_b1.bsp",
+						"cs_building_remake_b1.nav"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 349771,
+				"_nDownloadCount": 1584,
+				"_nFilesize": 1011973,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/349771",
+				"_sFile": "cs_building_remake_b1-1.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1186028696
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99649,
+		"_sName": "cs_building_remake_b1",
+		"_sText": "This is one of my first maps that I was working on which I have completely redone. I added a 3D Skybox in the map and I had to re-edit some of the textures to make it look better then the original. Also I added in some more lighting in the map including a light_environment and a env_sun. Also you might notice that I made placement markers in the map telling you where you are. This will be updated in the final when I get the .nav file updated with an overview map in the navigation area on the top of the screen like you see in de_dust. Also this map can host up 40-48 people. But I would recommend you only have 20-34 people at max. \r\n\r\nThanks for downloading the map and enjoy,\r\n<i>-=ETO=-Caboose (aka) Modmaster</i>"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"cs_building_final": [
+							"Info.txt",
+							"cs_building_final.bsp",
+							"cs_building_final.nav"
+						]
+					}
+				},
+				"_bContainsExe": false,
+				"_idRow": 323804,
+				"_nDownloadCount": 1244,
+				"_nFilesize": 1570098,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/323804",
+				"_sFile": "cs_building_final.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1269669036
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99648,
+		"_sName": "cs_building_final",
+		"_sText": "Hostage map, should be all good and stable\r\nnav file included\r\nmaterials included in bsb\r\n20 players"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"cs_bridge_crossing.bsp",
+						"cs_bridge_crossing.nav"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 325356,
+				"_nDownloadCount": 1966,
+				"_nFilesize": 4038419,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/325356",
+				"_sFile": "maps_60.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1264452044
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99647,
+		"_sName": "cs_bridge_crossing",
+		"_sText": "Hi.\r\nThis is my first map, built in 3 days.\r\n1 bridge with 2 house which you can lock for the hostage with 2 big door.\r\nInspired by Bridge Crossing of America's Army game.\r\nThe file nav is not made for bot ct or ts. it's just for hostage who can pass only by arcs except when she is closed. Please make some comments =)\r\n\r\n(i'm french so, sorry for my english ¬_¬)\r\n\r\n____________________________________________\r\nSalut.\r\n\r\nCeci est ma première map, faite en 3 jour.\r\n1 pont avec 2 bâtiment qui peuvent servir a verrouiller le pont pour les otage avec 2 grosse porte.\r\nElle est inspiré de la map Bridge Crossing du jeu America's Army.\r\nLe fichier nav fournis avec n'est pas fait pour faire fonctionner des bot type CT ou TS. Il est juste la pour les otage qui peuvent uniquement passer sous l'arche, sauf si celle ci est close. Merci de faire quelque commentaires =)"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"cs_box_world.bsp",
+						"cs_box_world.nav",
+						"cs_box_world.txt"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 286997,
+				"_nDownloadCount": 1042,
+				"_nFilesize": 220579,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/286997",
+				"_sFile": "cs_box_world.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1405511901
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99646,
+		"_sName": "cs_box_world",
+		"_sText": "for communication: https://www.facebook.com/furkan.sayan.142"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"cs_boxhouse": {
+							"0": "ME LEIA!!! README!!!.txt",
+							"1": "cs_boxhouse0001.jpg",
+							"2": "cs_boxhouse0002.jpg",
+							"3": "cs_boxhouse0003.jpg",
+							"4": "cs_boxhouse0004.jpg",
+							"5": "cs_boxhouse0005.jpg",
+							"6": "cs_boxhouse0006.jpg",
+							"maps": [
+								"cs_boxhouse.bsp",
+								"cs_boxhouse.nav"
+							]
+						}
+					}
+				},
+				"_bContainsExe": false,
+				"_idRow": 313021,
+				"_nDownloadCount": 5029,
+				"_nFilesize": 8937185,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/313021",
+				"_sFile": "_4373-.7z",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1303909865
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99645,
+		"_sName": "cs_boxhouse",
+		"_sText": "Description:\r\na house map, simple design (looks like a box outside XD) with an interesting and well balanced gameplay, hope you like.\r\n=============================================\r\n- 24 spawnpoints \r\n- HDR enable \r\n- 3D skybox (my first!)\r\n=============================================\r\ncomment, vote, download and see my other work, thanks!"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"cs_boxarena_unlimited.vmf"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 349498,
+				"_nDownloadCount": 1136,
+				"_nFilesize": 27740,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/349498",
+				"_sFile": "cs_boxarena_unlimited.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1186804800
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99644,
+		"_sName": "cs_boxarena_unlimited",
+		"_sText": "No notes"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"cs_bow_river_st4_v2.bsp",
+						"cs_bow_river_st4_v2.nav",
+						"cs_bow_river_st4_v20000.jpg",
+						"cs_bow_river_st4_v20001.jpg",
+						"read-me.txt",
+						"st4_the_bowriver_test0000.jpg",
+						"st4_the_bowriver_test0001.jpg",
+						"st4_the_bowriver_test0004.jpg",
+						"st4_the_bowriver_test0010.jpg"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 344135,
+				"_nDownloadCount": 1803,
+				"_nFilesize": 2387736,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/344135",
+				"_sFile": "cs_bowriverv2.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1203423437
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99643,
+		"_sName": "cs_bow_river_st4_v2",
+		"_sText": "Extract to cstrike/maps\r\n42 spawns\r\n\r\n\r\nadded sounds \r\nfixed the water \r\nnew skybox texture\r\nstrengthened the river push\r\nadded clouds\r\n\r\nwant to test it go here: 63.215.74.164:27015\r\n\r\nall the st4 servers\r\niceworld: 209.247.83.105:27015\r\ngungame: 63.215.74.66:27015\r\nrush: 63.208.142.53:27015\r\nfunmaps: 63.215.74.164:27015"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"cs_bow_river_st4.bsp",
+						"cs_bow_river_st4.nav",
+						"cs_bow_river_st4.txt",
+						"st4_the_bowriver_test0000.jpg",
+						"st4_the_bowriver_test0001.jpg",
+						"st4_the_bowriver_test0004.jpg",
+						"st4_the_bowriver_test0006.jpg",
+						"st4_the_bowriver_test0010.jpg"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 344227,
+				"_nDownloadCount": 1565,
+				"_nFilesize": 1746640,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/344227",
+				"_sFile": "cs_bow_river_st4.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1203175825
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99642,
+		"_sName": "cs_bow_river_st4",
+		"_sText": "42 spawn points\r\ni was going to add occluders or something to help rendering but since its out doors i couldn't find a way to do it \r\ni based this map off a river near my house \r\ni might add a few things for a later release \r\nagain if u would like to edit this please ask me and don't change the name \r\nthere are more screen shots in the zip folder\r\nif you would like to test this map its on this server: 63.215.74.164:27015\r\nhere are all the st4 server ip's \r\nfunmaps 63.215.74.164:27015\r\niceworld 209.247.83.105:27015\r\ngungame 63.215.74.66:27015\r\nrushmaps 63.208.142.53:27015\r\n"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"cs_borough": [
+							"cs_borough.bsp",
+							"cs_borough.nav",
+							"readme.txt"
+						]
+					}
+				},
+				"_bContainsExe": false,
+				"_idRow": 304696,
+				"_nDownloadCount": 1815,
+				"_nFilesize": 2956595,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/304696",
+				"_sFile": "cs_borough.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1330575119
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99641,
+		"_sName": "cs_borough",
+		"_sText": "A small urban-based night hostage rescue map. Features an awesome sniper tower, a warehouse with crate maze and catwalk, a couple houses, and streets filled with vehicles. Works great for small hostage rescue games (8 to 16 players) or any size of GunGame match! Enjoy!"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"0": "cs_boonland_a1.bsp",
+						"graphs": [
+							"cs_boonland_a1.ain"
+						],
+						"soundcache": [
+							"cs_boonlanda1.cache"
+						]
+					}
+				},
+				"_bContainsExe": false,
+				"_idRow": 359145,
+				"_nDownloadCount": 1272,
+				"_nFilesize": 1552012,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/359145",
+				"_sFile": "cs_boonland_a1.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1137000462
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99640,
+		"_sName": "cs_boonland_a1",
+		"_sText": "This is for BSB clan member's only. Simply an alpha test. Is not finished. PLease do NOT download if not BSB clanmember."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"cs_boomera_hdr.bsp",
+						"cs_boomera_hdr.nav",
+						"cs_boomera_hdr.txt"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 358764,
+				"_nDownloadCount": 2027,
+				"_nFilesize": 13363924,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/358764",
+				"_sFile": "cs_boomera_hdr.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1140829257
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99639,
+		"_sName": "cs_boomera_hdr",
+		"_sText": "---------------\r\nCS Boomerang Supplies HDR\r\n===============\r\n\r\nMap for CS Source\r\nby Harrison 26 \r\n\r\n\r\nTerrorists : Hold the hostages, or kill all the Counter-Terrorists.\r\n\r\n\r\nCounter-Terrorists : Kill all Terrorists, or rescue hostages. \r\nThere are 3 hostages, take care of them!\r\n\r\n---------------\r\nStory:\r\n\r\nTerrorists have been spotted by a security guard stealing\r\nsupplies from Boomerang Supplies. Hostages have been \r\ntaken and the Terrorists demands are unrealistic. It is time\r\nfor the Counter-Terrorist unit to take control.\r\n\r\n--------------\r\nNew to this version:\r\nNow features HDR graphics, improved gameplay, new skybox, and improved performance!\r\n\r\n\r\nMapping :\r\nHarrison 26\r\n\r\nConcept :\r\nHarrison 26\r\n\r\n---------------\r\n\r\nContact :\r\nHarrison 26\r\n\r\nHarrison26@hotmail.com\r\n\r\n---------------\r\n"
+	}
+]

@@ -1,0 +1,101 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ze_wuhan_v4.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 692019,
+			"_nDownloadCount": 174,
+			"_nFilesize": 22742620,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "The Map",
+			"_sDownloadUrl": "https://gamebanana.com/dl/692019",
+			"_sFile": "ze_wuhan_v4.zip",
+			"_sMd5Checksum": "9da697b8cd254e36f9d0025baaad9956",
+			"_tsDateAdded": 1636800727
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ze_wuhan_v4.cfg"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 697510,
+			"_nDownloadCount": 32,
+			"_nFilesize": 604,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "Item Entwatch",
+			"_sDownloadUrl": "https://gamebanana.com/dl/697510",
+			"_sFile": "ze_wuhan_v4_f35d8.zip",
+			"_sMd5Checksum": "35f79f41ac8ab3cb8e89f14c5e8cb3f3",
+			"_tsDateAdded": 1637597931
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ze_wuhan_v4.cfg"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 697511,
+			"_nDownloadCount": 26,
+			"_nFilesize": 295,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "Boss Entwatch",
+			"_sDownloadUrl": "https://gamebanana.com/dl/697511",
+			"_sFile": "ze_wuhan_v4_26bb8.zip",
+			"_sMd5Checksum": "8f60460fad77e960d61f210194106df5",
+			"_tsDateAdded": 1637597953
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Improvement",
+					"text": "Better textures"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Level 1 & 2 easier"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "ze_wuhan_v4",
+			"_tsDateAdded": 1636800839
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "Items fixed"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Boss fixed"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Stairs part improved"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "ze_wuhan_v3",
+			"_tsDateAdded": 1635360221
+		}
+	],
+	"_idRow": 323471,
+	"_sName": "ze_wuhan",
+	"_sText": "A zombie escape map inspired by the origin of the covid-19 pandemic. The players start underground inside the laboratory and have to escape the building. Boss fight and Items.<br><br>Items :<br>- 6 Masks (that protect from the virus)<br>- 1 Social Distanciation (that keep the zombies away)<br><br>3 levels of difficulty : Epidemic - Endemic - Pandemic.<br>"
+}

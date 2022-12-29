@@ -1,0 +1,71 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"CS_Sklad_Top-X": [
+						"CS_Sklad_Top-X_new-2018.zip",
+						"CS_Sklad_Top-X_old-v34.zip",
+						"Readme.rtf"
+					]
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 381324,
+			"_nDownloadCount": 305,
+			"_nFilesize": 21931269,
+			"_sAnalysisResult": "Archive contains nested archive",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/381324",
+			"_sFile": "cs_sklad_top-x_fdcbe.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1525276968
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "New ambient sound effects (special soundscape fiile)--realistic \"reflection\" effect from the surface of the objects"
+				},
+				{
+					"cat": "Addition",
+					"text": "Working fans with sound iside of ventilation system"
+				},
+				{
+					"cat": "Improvement",
+					"text": "New decals"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed user bugs"
+				}
+			],
+			"_sText": "- New ambient sound effects (special soundscape file) - realistic \"reflection\" effect from the surface of the objects.<br>- Working fans with sound inside of the ventilation system.<br>- New decals, fixed bugs.<br>Now the map is more dirty and more atmospheric (in postapocalyptic style of \"Half-Life 2\" &amp; not only).<br>",
+			"_sTitle": "Update 2.0",
+			"_tsDateAdded": 1525278096
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "-The map was ported for CS:Source v34."
+				},
+				{
+					"cat": "Addition",
+					"text": "-Edited the navigation path of bots for old version of map."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Update-1.5",
+			"_tsDateAdded": 1517854193
+		}
+	],
+	"_idRow": 99430,
+	"_sName": "CS Sklad Top X",
+	"_sText": "- Hi! We present to you our map “cs_sklad_top-x” for \"<a href=\"#\">Counter</a>-<a href=\"#\">Strike</a>: Source\".<br>This map was made from scratch and represent a millitary warehouse with secret weapons.<br>There a lot of physical objects, many static objects and decals for greater realism, plus some special actions, effects and&nbsp;interactive obcjects, plus explosive barrels as hot traps.<br><br>Also we made for this map a few multilayered destructible columns and small destructible walls. ;)<br>-----------------------<br>Credits<br>\"Green Way Interactive\" studio:<br><br>Dmitry Ghervas – CEO, mentor, editing navigation of bots, mini-map for radar, detailing of map with some additional elements, actions, effects &amp; interactive objects, destructible columns &amp; small walls, some decals.<br><br>Daniel Pereman – the concept of the map, basic geometry, additional rooms, tactical places for snipers, placing of main game elements, basic lights.<br>-----------------------<br>We hardly worked on this map. And we hope for you will be exciting to play. :)<br>Have a good hunting! :)<br>-----------------------<br>Maximal number of players on this map: 32 (real players, or 31 bots &amp; 1 real player).<br>Desirable no more than 16 players (real players, or 15 bots &amp; 1 real player).<br>Recommended 8 players on this map (real players, or 7 bots &amp; 1 real player)."
+}

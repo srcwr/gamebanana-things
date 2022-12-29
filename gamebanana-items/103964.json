@@ -1,0 +1,84 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"de_sideways": [
+						"readme_sideways.txt"
+					],
+					"maps": {
+						"0": "de_sideways.bsp",
+						"1": "de_sideways.nav",
+						"soundcache": [
+							"de_sideways.cache"
+						]
+					},
+					"materials": {
+						"sideways": {
+							"0": "Brick_bars.vmt",
+							"1": "Brick_bars.vtf",
+							"2": "Brick_bars_normal.vtf",
+							"3": "metal_01_sw.vmt",
+							"4": "metal_01_sw.vtf",
+							"5": "metal_01_sw_normal.vtf",
+							"6": "warfreedomignorance05.vmt",
+							"7": "warfreedomignorance05.vtf",
+							"decals": [
+								"sign.vmt",
+								"sign.vtf",
+								"sitea_udown.vmt",
+								"sitea_udown.vtf",
+								"sitea_uleft.vmt",
+								"sitea_uleft.vtf",
+								"sitea_uleft2.vmt",
+								"sitea_uleft2.vtf",
+								"sitea_uright.vmt",
+								"sitea_uright.vtf",
+								"siteb_uleft.vmt",
+								"siteb_uleft.vtf",
+								"siteb_uright.vmt",
+								"siteb_uright.vtf"
+							]
+						},
+						"skybox": {
+							"sideways": [
+								"sky_sidewaysbk.vmt",
+								"sky_sidewaysbk.vtf",
+								"sky_sidewaysdn.vmt",
+								"sky_sidewaysdn.vtf",
+								"sky_sidewaysft.vmt",
+								"sky_sidewaysft.vtf",
+								"sky_sidewayslf.vmt",
+								"sky_sidewayslf.vtf",
+								"sky_sidewaysrt.vmt",
+								"sky_sidewaysrt.vtf",
+								"sky_sidewaysup.vmt",
+								"sky_sidewaysup.vtf"
+							]
+						}
+					},
+					"scripts": [
+						"soundscapes_manifest.txt",
+						"soundscapes_sideways.txt"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 358888,
+			"_nDownloadCount": 1366,
+			"_nFilesize": 7242167,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/358888",
+			"_sFile": "de_sideways.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1139780640
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 103964,
+	"_sName": "de_sideways",
+	"_sText": "This is a fully normal CSS map, except of that it is turned 90 degrees."
+}

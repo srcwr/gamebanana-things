@@ -1,0 +1,58 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrike": {
+						"maps": [
+							"aim_maze.bsp",
+							"aim_maze.txt"
+						],
+						"materials": {
+							"wirmaple7321": {
+								"aim_maze": [
+									"maze_start.vmt",
+									"maze_start.vtf"
+								]
+							}
+						}
+					}
+				},
+				"_sMimeType": "application/x-7z-compressed"
+			},
+			"_bContainsExe": false,
+			"_idRow": 417241,
+			"_nDownloadCount": 304,
+			"_nFilesize": 1744245,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "Version 1.1",
+			"_sDownloadUrl": "https://gamebanana.com/dl/417241",
+			"_sFile": "aim_maze10.7z",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1555644517
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Improvement",
+					"text": "Fixed the Shitty Quality Tile Texture"
+				},
+				{
+					"cat": "Addition",
+					"text": "Fixed that the Materials Folder is not in Archive."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Update 1.1",
+			"_tsDateAdded": 1555644640
+		}
+	],
+	"_idRow": 119589,
+	"_sName": "aim_maze - Version 1.1",
+	"_sText": "Map AIM_MAZE<br>Version 1.0 - Beta<br><br>Hey There, This is my 2nd Map for CS:S.<br>This Map is about a Big Maze Where CTs and Ts Fight Each Other.<br>Don't Worry, It's Not Very Complex and Big So you Don't get Lost easily.<br><br>(That Would be Great if I See This Map in a Server :D)<br><br>Installation:<br>Simply Extract the cstrike Folder to your Counter-Strike: Source Directory. (e.g. D:\\Games\\CSS)<br><br>Features:<br>Working Cubemaps for Both LDR and HDR.<br>Optimized Map using Nodraws, Areaportals and Occluders.<br>Bot Pathfinding is Good.<br><br>Notes:<br>I Created the Tile Texture Pack, Feel Free to Download these \"10-Tile Texure Pack\" from <a href=\"https://gamebanana.com/textures/5363\">Here</a>!<br>Also If you Used these Textures Anywhere, You Have to Credit and Notify Me.<br><br>Made by Wirmaple7321"
+}

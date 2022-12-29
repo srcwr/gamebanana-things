@@ -1,0 +1,59 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "readme.txt",
+					"cstrike": {
+						"custom": {
+							"aim_furious_winter": {
+								"maps": [
+									"aim_furious_winter.bsp",
+									"aim_furious_winter.nav",
+									"aim_furious_winter.res",
+									"aim_furious_winter.txt"
+								],
+								"materials": {
+									"0": "furious_dev_snow.vmt",
+									"1": "furious_snow.vmt",
+									"overviews": [
+										"aim_furious_winter.vmt",
+										"aim_furious_winter.vtf",
+										"aim_furious_winter_radar.vmt",
+										"aim_furious_winter_radar.vtf"
+									]
+								},
+								"resource": {
+									"overviews": [
+										"aim_furious_winter.txt"
+									]
+								},
+								"sound": [
+									"sound.cache"
+								]
+							}
+						}
+					}
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 459304,
+			"_nDownloadCount": 645,
+			"_nFilesize": 7208022,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/459304",
+			"_sFile": "aim_furious_winter.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1587794320
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 107411,
+	"_sName": "aim_furious_winter",
+	"_sText": "Hello my friends! I redid the legendary map \"aim_furious\", but I didn't know where to load it, and I posted it in <a href=\"https://steamcommunity.com/app/240/discussions/0/2263565217505077021/\" target=\"_blank\">Steam discussions</a>. There they told me that your community is ideal for mapmakers, so I turned to you)<br>Not only I think it worked out very well, so I hope you try this masterpiece :D<br><br>The snowy island in the middle of a frozen lake will add a winter mood during the cold season.<br><br>Functioning radar, improved bot navigation grid, named areas of the game space, exciting gameplay and support for the simultaneous game of 32 players will not make you bored even in the most gloomy times.<br><br>Installing:<br>Move folder \"cstrike\" to the game's directory (Program Files (x86)\\Steam\\steamapps\\common\\Counter-Strike Source\\)<br><br>If you have any ideas, then feel free to suggest them in the comments! None will be left without attention)<br><br>Good luck and have fun!"
+}

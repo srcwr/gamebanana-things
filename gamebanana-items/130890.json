@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"Read Me.txt",
+					"ze_nightmare_dimension_v2_6fix.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 301751,
+			"_nDownloadCount": 2243,
+			"_nFilesize": 72674452,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/301751",
+			"_sFile": "ze_nightmare_dimension_v2_6fix.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1341427454
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 130890,
+	"_sName": "ze_nightmare_dimension_v2_6fix",
+	"_sText": "Another version... i'm sorry for this, but this is a bug i had to fix, because it made server crash (tested on Supreme elite)\r\n\r\n - Fixed bug that made server crash (too much ammo from entity game_player_equip)\r\n - Door to the guide now opens after 20 seconds, to prevent from extreme camping inside if zm infested the bunker\r\n\r\nVersion 2.6 released, needed to fix some stuff\r\n\r\n - Fixed afk teleports not working\r\n - Fixed boss eye freezer, that allowed you to use laser before the wall breaks\r\n - Fixed end trigger that gives 1 hp to zm when portal closed (wasn't working)\r\n - Fixed Berserker (invulnerability now works)\r\n - Added another way to fetch the guide, now random between this new way and the old way\r\n - Added songs to DJ room\r\n - Added a respawn for dead players\r\n\r\nVersion 2.5 quick released, i found an unexpected bug, which allows ct to swim the underground sea.... That wasn't supposed to be possible, so i added a push.\r\n\r\n - Fixed : Simming possibility in underground sea\r\n\r\nBack with this version 2.4 that improves the gameplay quality and the fun. Here are the changes since version 2.3 : \r\n\r\n - Fixed some little bugs, like the boat stuck, now afk teleports this area too.\r\n - Removed Final Flash weapon, causing a too large and to sudden balance. (+ avoid raging zombies)\r\n - Changed Boats cover, now zombies can't attack from water, they attack from side paths.\r\n - Improved boss fight, now the controller is alone in a room so that other zm don't make him blind + now the boss has a freeze, activable by the controller, and also small eyes are activable, not auto-controlled anymore.\r\n - Added 2 zm weapons : the stopper (like the one in paranoid) and the shocker, that slow near cts.\r\n - Added 2 ct weapons, the heal gun and the berserker (20 sec of invulnerability for the owner, useful to use knife against zm)\r\n - End rules changed, zm have no more 300 HP when they take the portal. Now the keep their health until portal is closed, and have then 1 HP left.\r\n - Added 2 secret Trail cuts\r\n - Added a DJ Room inaccessible with noclip, only if you know the secret teleport (room for me and Zip)\r\n\r\nThat's all for a version 2, next one will be version 3 with levels, but only if, i hope, i can manage to fix huge bugs with hammer (some burshes count as more than 500 faces and i don't know why, so i'm almost to the max_numplanes)\r\n\r\nThanks for playing and leaving feddback :)"
+}

@@ -1,0 +1,40 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"de_hetzersauna": {
+						"0": "Installation Instructions.txt",
+						"cstrike": {
+							"maps": [
+								"de_hetzersauna.bsp"
+							],
+							"materials": [
+								"anglerfish.vmt",
+								"anglerfish.vtf",
+								"hetzersaunaflyer.vmt",
+								"hetzersaunaflyer.vtf"
+							]
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 294117,
+			"_nDownloadCount": 1469,
+			"_nFilesize": 756575,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/294117",
+			"_sFile": "de_hetzersauna.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1371254580
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 102601,
+	"_sName": "de_hetzersauna",
+	"_sText": "Installation\r\n1. Extract the .rar\r\n2. Copy and paste the cstrike folder to: \\Steam\\SteamApps\\common\\Counter-Strike Source\r\n\r\nThis is my second finished CSS map and my first serious attempt at map making. All constructive criticism is welcome. Please report all bugs.\r\n\r\nAs we say in Finland: \"Hyviä löylyhetkiä!\""
+}

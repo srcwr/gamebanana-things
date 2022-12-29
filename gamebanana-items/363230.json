@@ -1,0 +1,48 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"surf_rubiks_cube.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 762584,
+			"_nDownloadCount": 278,
+			"_nFilesize": 37632945,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/762584",
+			"_sFile": "surf_rubiks_cube_9731a.zip",
+			"_sMd5Checksum": "31cbfc6df48345faa22fafe294f8531f",
+			"_tsDateAdded": 1646938266
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Adjustment",
+					"text": "changed func_detail to func_brush near s4 last ramp"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "fixed trigger near s3 last ramp"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "fixed models that weren't showing"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "minor fixes",
+			"_tsDateAdded": 1646857294
+		}
+	],
+	"_idRow": 363230,
+	"_sName": "surf_rubiks_cube",
+	"_sText": "surf_rubiks_cube<br>made by juve<br>5 stages<br><span class=\"SelectedElement\">2 bonus</span><br>tier 4<br>maxvel  3500<br><br>old project that i decided to finish"
+}

@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"mg_redalert_tcw_v2.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 292373,
+			"_nDownloadCount": 2112,
+			"_nFilesize": 35160752,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/292373",
+			"_sFile": "mg_redalert_tcw_v2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1378970238
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 128518,
+	"_sName": "mg_redalert_tcw_v1",
+	"_sText": "This is a full Red Alert 1 based minigame map. Featuring base building for both sides of the battle. I know someone's bound to run into a bug if they play this, so if you do please report it here and I'll get it fixed asap :)\r\n\r\nIMPORTANT: If you're playing this on a server, you'll need to install DMLITE (http://forums.alliedmods.net/showthread.php?t=130853) and add THIS as the default config (http://www.mediafire.com/download/ednxe9q1daesdjr/dmlite.cfg) to cstrike/cfg/sourcemod/dmlite.cfg\r\n\r\nYou are spawned at your base 1 minute after the map loads. This allows for other players to finish downloading and connect in time.\r\n\r\nMake sure you build plenty of Powerplants, as they power your base and unit production. Without power, your defenses stop working and special tech powers will cease to function.\r\n\r\nWhen building base buildings, try not to intersect them with surrounding world or other buildings, as they will be places awkwardly if this happens.\r\n\r\nWhen purchasing a building, it takes 30 seconds for it to be placed. This gives you plenty of time to position it and place it wherever is appropriate.\r\n\r\nThe goal of the game is to destroy the other teams Conyard. This will end the game and win your team the map.\r\n\r\nThe barracks serves as a spawnpoint for your team. Without it, your teammates will not be able to spawn back at your base after dying.\r\n\r\nThe warfactory will allow you to spawn tanks for your use.\r\nFor the time being, there can only be 1 of each tank type, as this is needed for performance reasons.\r\n\r\nWhen you build a tank or building, it will have a cooldown period before you can purchase another of the same type.\r\n\r\nAny questions, post them here. Thanks."
+}

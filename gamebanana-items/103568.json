@@ -1,0 +1,47 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_port_csgo readme.txt",
+					"de_port_csgo.bsp",
+					"de_port_csgo.nav"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 461878,
+			"_nDownloadCount": 1021,
+			"_nFilesize": 188355510,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/461878",
+			"_sFile": "de_port_csgo_niko__add75.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1589010886
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "Incorrect reflection on water surface fixed (SideAlley)"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Several visual and sound improvements added"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Final Release",
+			"_tsDateAdded": 1589012368
+		}
+	],
+	"_idRow": 103568,
+	"_sName": "de_port_csgo",
+	"_sText": "<b>PORT</b><br><br>Bomb/Defuse Map for Counter-Strike: Source<br><br>CS:S original map creator: Valve Corporation<br>CS:GO original map creator: MR_R3TR0MAN<br>CS:S map editor: Niko<br>Navigation Mesh editor: Meurglis3<br><br><br>High-quality port for CS:S of the unfinished large map&nbsp;for CS:GO&nbsp;<a href=\"https://gamebanana.com/maps/185692\">de_port_go</a>&nbsp;by MR_R3TR0MAN / Roman Macrery.<br><br>About the source map (de_port_go for CS:GO):<br>&nbsp; &nbsp;This is a remake of unfairly forgotten map de_port from original Valve's Counter-Strike:Source. The author used original layout and rebuild huge open areas to provide better navigation. So this map feels comfortable for close quarters, and of course for snipers duels. Also, because the factory and industrial theme is getting boring for the last time, the author of the map tried to make more \"soft\" atmosphere (fine-tune lighting).<br>&nbsp; &nbsp;The map looks amazing with countless little details and is a realistic approach to remake the old Port from CSS. The choices of the necessary props and textures has been done with great care.<br>&nbsp; &nbsp;However, the published alpha version had a number of significant drawbacks. There were no reflections on objects (CubeMaps were not built). Soundscapes were also lost. In addition, the map was poorly optimized.<br><br>About this port (de_port_csgo for CS:S):<br>&nbsp; &nbsp;This port contains some design changes compared to the original map, made to give more dynamics to the gameplay, align the game balance and make the movements of bots more smooth. In particular: four new paths were added, lost soundscapes have been restored and missed CubeMaps have been built (reflections have been added). As well as many other small visual changes and improvements were made.<br><br>Story:<br>&nbsp; &nbsp;Members of the local criminal group intend to prevent economically important sea transport along the Northern coast.<br>&nbsp; &nbsp;To do this, they will need to detonate a bomb in one of two critical locations on the port territory.<br>&nbsp; &nbsp;However, the well-armed security of the oil carrier company is always stay alert...<br><br><span class=\"RedColor\">Note:<br>&nbsp; &nbsp;Large open spaces and a lot of objects placed on the map require a lot of system resources. Performance will depend greatly on the configuration of your computer!</span><br><br>P.S. ~ In the port there is always everything that a real man wants: counterfeit booze,&nbsp;cheap whores and unfriendly dockers :-)<br><br>"
+}

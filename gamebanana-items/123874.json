@@ -1,0 +1,102 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"de_aquaro_GeneralDureza": {
+						"maps": [
+							"de_aquario.bsp",
+							"de_aquario.res"
+						],
+						"materials": {
+							"GeneralDureza": [
+								"GeneralDureza MAPA.vmt",
+								"GeneralDureza MAPA.vtf"
+							],
+							"models": {
+								"marioragdoll": {
+									"Super Mario Galaxy": {
+										"Yoshi planet": [
+											"yoshSS00.vmt",
+											"yoshSS00.vtf",
+											"yoshSS01.vmt",
+											"yoshSS01.vtf",
+											"yoshSS02.vmt",
+											"yoshSS02.vtf",
+											"yoshSS04.vmt",
+											"yoshSS04.vtf"
+										],
+										"bjship": [
+											"bjshSS00.vmt",
+											"bjshSS00.vtf",
+											"bjshSS01.vmt",
+											"bjshSS01.vtf",
+											"bjshSS02.vmt",
+											"bjshSS02.vtf",
+											"bjshSS03.vmt",
+											"bjshSS03.vtf",
+											"bjshSS04.vmt",
+											"bjshSS04.vtf",
+											"bjshSS05.vmt",
+											"bjshSS05.vtf",
+											"bjshSS06.vmt",
+											"bjshSS06.vtf",
+											"bjshSS07.vmt",
+											"bjshSS07.vtf"
+										]
+									}
+								}
+							}
+						},
+						"models": {
+							"marioragdoll": {
+								"Super Mario Galaxy": {
+									"bj ship": [
+										"bjship.dx80.vtx",
+										"bjship.dx90.vtx",
+										"bjship.mdl",
+										"bjship.phy",
+										"bjship.sw.vtx",
+										"bjship.vvd",
+										"bjship.xbox.vtx"
+									],
+									"yoshi planet": [
+										"yoshi.dx80.vtx",
+										"yoshi.dx90.vtx",
+										"yoshi.mdl",
+										"yoshi.phy",
+										"yoshi.sw.vtx",
+										"yoshi.vvd",
+										"yoshi.xbox.vtx"
+									]
+								}
+							}
+						},
+						"sound": {
+							"admin_plugin": [
+								"manamana.wav"
+							]
+						}
+					}
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 328685,
+			"_nDownloadCount": 2212,
+			"_nFilesize": 7049653,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/328685",
+			"_sFile": "de_aquario.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1253141360
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 123874,
+	"_sName": "de_aquario",
+	"_sText": "1-   Engine: Counter-Strike Source\r\n2-   Map name: de_aquario\r\n3-   Size: small\r\n4-   Number of Players: 9x9\r\n5-   Number of bombsites: one (1)\r\n6-   Props not Standard\r\n7-   Textures not Standard\r\n8-   3DSkybox\r\n"
+}

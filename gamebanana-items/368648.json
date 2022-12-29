@@ -1,0 +1,62 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"maps": [
+						"cs_arabstreets.bsp",
+						"cs_arabstreets.nav"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 776591,
+			"_nDownloadCount": 215,
+			"_nFilesize": 16438025,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/776591",
+			"_sFile": "arabstreets.zip",
+			"_sMd5Checksum": "e9939efb8e3509bb03d429fe8d6134f5",
+			"_tsDateAdded": 1648976775
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Improvement",
+					"text": "Materials"
+				},
+				{
+					"cat": "Addition",
+					"text": "Sounds"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Final Patch",
+			"_tsDateAdded": 1648976887
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "Textures"
+				},
+				{
+					"cat": "Addition",
+					"text": "Minimap"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Texture Patch",
+			"_tsDateAdded": 1648976737
+		}
+	],
+	"_idRow": 368648,
+	"_sName": "cs_arabstreets",
+	"_sText": "<b><span class=\"RedColor\">PORT from GoldSource</span><br><br></b>Several U.N. weapons inspectors have vanished while inspecting a suspected chemical weapons factory in Iraq. They are assumed to be dead or captive.<br><br>Counter-Terrorists: Locate and rescue the U.N. hostages inside the chemical plant and then lead them to the extrication zone!<br><br>Terrorists: Prevent the Counter-Terrorists from rescuing the hostage<br>"
+}

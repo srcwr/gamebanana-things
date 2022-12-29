@@ -1,0 +1,59 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_spezia_clipfix changelog.txt",
+					"de_spezia_clipfix.bsp",
+					"de_spezia_clipfix.nav",
+					"de_spezia_clipfix.txt",
+					"de_spezia_readme.txt"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 308656,
+			"_nDownloadCount": 6758,
+			"_nFilesize": 8829119,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/308656",
+			"_sFile": "de_spezia_clipfix.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1316710956
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "The clip system is rebuilt from scratch"
+				},
+				{
+					"cat": "-",
+					"text": "Many static props are turned to non-solid"
+				},
+				{
+					"cat": "-",
+					"text": "Minor graphical updates"
+				},
+				{
+					"cat": "-",
+					"text": "optimization system is further improved"
+				},
+				{
+					"cat": "-",
+					"text": "Minor lighting glitches are fixed"
+				}
+			],
+			"_sText": "<u>Update changelog (December 16, 2013)</u>\r\n-----------------------------------\r\n\r\n- The clip system is rebuilt from scratch to prevent players from having any chance to boost/buddy-jump into balconies or non-playable areas (Thanks to UKCS community for bringing this issue to my attention)\r\n- Many static props are turned to non-solid to enhance gameplay and make player movement smooth and fluid (gutter pipes, rails, lanterns). Many small physics props are updated with the \"debris\" flag to avoid annoying interaction with the player while moving on/near these props.\r\n- Minor graphical updates are carried on with regard to realigning or readjusting certain textures on curves and cylinders-shaped brushes.\r\n- The optimization system is further improved by adding a couple of additional areaportals and hint brushes.\r\n- Minor lighting glitches are fixed after they were introduced with the Steampipe update of Counter-Strike Source. \r\n\r\n\r\nIf you load the map in Counter-Strike source and can't see reflections/shiny surfaces, then open the console (~) and type mat_specular 1 to enable reflections.",
+			"_sTitle": "Clip fix update",
+			"_tsDateAdded": 1387217910
+		}
+	],
+	"_idRow": 104077,
+	"_sName": "de_spezia",
+	"_sText": "<font size=\"3\">Spezia - Bomb/Defuse</font>\r\n------------------\r\n\r\n<font size=\"3\">By Will2k</font>\r\n------------------\r\n\r\n<u>Update changelog (December 16, 2013)</u>\r\n\r\n- The clip system is rebuilt from scratch to prevent players from having any chance to boost/buddy-jump into balconies or non-playable areas (Thanks to UKCS community for bringing this issue to my attention)\r\n- Many static props are turned to non-solid to enhance gameplay and make player movement smooth and fluid (gutter pipes, rails, lanterns). Many small physics props are updated with the \"debris\" flag to avoid annoying interaction with the player while moving on/near these props.\r\n- Minor graphical updates are carried on with regard to realigning or readjusting certain textures on curves and cylinders-shaped brushes.\r\n- The optimization system is further improved by adding a couple of additional areaportals and hint brushes.\r\n- Minor lighting glitches are fixed after they were introduced with the Steampipe update of Counter-Strike Source.\r\n\r\nIf you load the map in Counter-Strike source and can't see reflections/shiny surfaces, then open the console (~) and type mat\\_specular 1 to enable reflections.\r\n\r\nFor updated visuals and layout and greatly improved gameplay, be sure to check the [CSGO](http://csgo.gamebanana.com/maps/172542 \"\") version.\r\n\r\nEnjoy the updated map.\r\n\r\nWill2k\r\n\r\nDecember 16, 2013\r\n<HR SIZE=2 WIDTH=\"100%\" ALIGN=CENTER color=\"#ffffff\">\r\n\r\nDe_spezia (pronounced \"Spetsia\") is a bomb/defuse map inspired by several ancient towns in the province of La Spezia in Liguria, northern Italy. The map is not an accurate recreation but rather an inspiration from the towns of La Spezia, Porto Venere and the five towns that constitute the marvelous Cinque Terre (Riomaggiore, Manarola, Corniglia, Vernazza, Monterosso al Mare)\r\n\r\nEach town contributed to the map with streets layouts, buildings architecture and colors, historical landmarks, decorations and vegetations and so on. I used reference photos from the internet as well as some of my photos from my last trip to Italy. The 3D skybox has actual photos from Manarola and Vernazza.\r\n\r\nThe map is large and detailed but very easy to navigate and remember. I was constantly compiling and re-tweaking it to stay within the limits of the source engine; that's why I had to discard many details from the real world locations for the sake of gameplay and framerate. The map has also been optimised to the best possible extent to ensure fluid gameplay and consistent high FPS.\r\n\r\nThe map has:\r\n\r\n- 64 spawn points (32 vs 32)\r\n- radar overview\r\n- 3D skybox\r\n- Soundscapes\r\n- custom textures and models\r\n- nav file for bots navigation with place names \r\nAll the custom resources (except the nav) are embedded in the bsp.\r\n\r\nFor installation, simply extract the files in the zip archive (bsp, nav and txt files) to your \\Counter-Strike Source\\cstrike\\maps folder.\r\n\r\nThis project was supposed to be finished in a 2 months period but it actually took 8 months on and off. It was like work on the map for 1 week then stop for 2 months then go back again :(\r\nIt was a bit exhausting since I also did my own textures (Photoshop and VTFedit) and experimented with lots of textures and models before settling on the final ones but I enjoyed every bit of it and I'm rather satisfied with the outcome.\r\n\r\nI really hope you enjoy this map as much as I did creating it.\r\nComments and constructive feedback are always welcome.\r\n\r\nWill2k\r\n\r\nSeptember 22, 2011"
+}

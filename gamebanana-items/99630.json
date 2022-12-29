@@ -1,0 +1,57 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "readme.txt",
+					"maps": [
+						"cs_blockroad5.bsp",
+						"cs_blockroad5.txt"
+					],
+					"materials": {
+						"FDA": {
+							"parquet": [
+								"parquet_03.vmt",
+								"parquet_03.vtf",
+								"parquet_03_normal.vtf",
+								"parquet_04.vmt",
+								"parquet_04.vtf",
+								"parquet_04_normal.vtf"
+							],
+							"wall": [
+								"wall_01.vmt",
+								"wall_01.vtf",
+								"wall_04.vmt",
+								"wall_04.vtf",
+								"wall_05.vmt",
+								"wall_05.vtf",
+								"wall_06.vmt",
+								"wall_06.vtf"
+							],
+							"wood": [
+								"wood_09.vmt",
+								"wood_09.vtf"
+							]
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 335778,
+			"_nDownloadCount": 2540,
+			"_nFilesize": 1867507,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/335778",
+			"_sFile": "cs_blockroad5_4.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1230488719
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 99630,
+	"_sName": "cs_blockroad5",
+	"_sText": "Cs_blockroad5\r\nmap by Henri Isometsa aka klm-\r\nTextures by Valve, Turtle Rock Studios and Frere D'Arme\r\nModels by Valve and Turtle Rock Studios\r\n\r\nTerrorists have taken over an estate in Finland with two hostages inside.\r\nCT's: Bring the two hostages to freedom. One is upstairs, the other in the sauna.\r\nTerrorists: Stop CT's!\r\nsemiclip plugin is highly adviced for this map.\r\n\r\nmore HQ screenshots and optional dl source: www.kotiposti.net/jisometsa/maps/"
+}

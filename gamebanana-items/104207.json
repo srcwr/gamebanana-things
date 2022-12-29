@@ -1,0 +1,239 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"maps": [
+						"de_survivor_css.bsp",
+						"de_survivor_css.nav",
+						"de_survivor_css.txt"
+					],
+					"materials": {
+						"de_survivor_css": [
+							"barbedwire.vmt",
+							"billboard.vmt",
+							"billboard.vtf",
+							"cliffface001a_normal.vtf",
+							"cliffface01.vmt",
+							"cliffface01.vtf",
+							"ice_base.vmt",
+							"ice_base.vtf",
+							"ice_normal.vtf",
+							"killsnitch.vmt",
+							"killsnitch.vtf",
+							"particle_snowmist.vmt",
+							"sign1.vmt",
+							"sign1.vtf",
+							"sign2.vmt",
+							"sign2.vtf",
+							"sign3.vmt",
+							"sign3.vtf",
+							"sign4.vmt",
+							"sign4.vtf",
+							"sign5.vmt",
+							"sign5.vtf",
+							"sign6.vmt",
+							"sign6.vtf",
+							"sign7.vmt",
+							"sign7.vtf",
+							"sith_curtain.vmt",
+							"snowyrock.vmt",
+							"stfutruck.vmt",
+							"stfutruck.vtf",
+							"stonetrans.vmt"
+						],
+						"gg_project_x": [
+							"wood.vmt",
+							"wood.vtf"
+						],
+						"maps": {
+							"de_survivor_css": {
+								"0": "c-1033_-2960_80.hdr.vtf",
+								"1": "c-1033_-2960_80.vtf",
+								"10": "c1156_-3055_80.hdr.vtf",
+								"11": "c1156_-3055_80.vtf",
+								"12": "c1229_-1849_-81.hdr.vtf",
+								"13": "c1229_-1849_-81.vtf",
+								"14": "c1953_-2129_-132.hdr.vtf",
+								"15": "c1953_-2129_-132.vtf",
+								"16": "c251_-3654_80.hdr.vtf",
+								"17": "c251_-3654_80.vtf",
+								"18": "cubemapdefault.hdr.vtf",
+								"19": "cubemapdefault.vtf",
+								"2": "c-940_-872_112.hdr.vtf",
+								"3": "c-940_-872_112.vtf",
+								"4": "c-960_-2416_80.hdr.vtf",
+								"5": "c-960_-2416_80.vtf",
+								"6": "c-991_-1971_30.hdr.vtf",
+								"7": "c-991_-1971_30.vtf",
+								"8": "c0_0_112.hdr.vtf",
+								"9": "c0_0_112.vtf",
+								"de_chateau": [
+									"cnstrcttarpb_1229_-1849_-81.vmt",
+									"interiortile02_1229_-1849_-81.vmt"
+								],
+								"de_nuke": [
+									"nukwater_movingplane_-940_-872_112.vmt"
+								],
+								"de_piranesi": [
+									"woodstair02_1229_-1849_-81.vmt",
+									"woodstair02_1953_-2129_-132.vmt"
+								],
+								"de_prodigy": [
+									"prodmapb_-1033_-2960_80.vmt"
+								],
+								"de_survivor_css": [
+									"ice_base_-940_-872_112.vmt",
+									"ice_base_-960_-2416_80.vmt",
+									"ice_base_-991_-1971_30.vmt",
+									"ice_base_0_0_112.vmt",
+									"ice_base_1229_-1849_-81.vmt",
+									"ice_base_251_-3654_80.vmt",
+									"snowyrock_wvt_patch.vmt"
+								],
+								"glass": [
+									"glasswindow017a_0_0_112.vmt",
+									"glasswindow017a_1229_-1849_-81.vmt",
+									"glasswindow017a_1953_-2129_-132.vmt",
+									"glasswindow018a_0_0_112.vmt",
+									"glasswindow018a_1156_-3055_80.vmt",
+									"glasswindow018a_1229_-1849_-81.vmt",
+									"glasswindow018a_1953_-2129_-132.vmt"
+								],
+								"ground": [
+									"blendsnow_asphault_wvt_patch.vmt"
+								],
+								"maps": {
+									"de_survivor_css": {
+										"de_nuke": [
+											"nukwater_movingplane_-940_-872_112_depth_1390.vmt"
+										]
+									}
+								},
+								"metal": [
+									"metaldoor018a_-1033_-2960_80.vmt",
+									"metaldoor018a_0_0_112.vmt",
+									"metaldoor018a_251_-3654_80.vmt",
+									"metaldoor046a_0_0_112.vmt",
+									"metaldoor046a_1229_-1849_-81.vmt",
+									"metaldoor046a_1953_-2129_-132.vmt",
+									"metalroof004a_-991_-1971_30.vmt",
+									"metalwall082a_-940_-872_112.vmt",
+									"metalwall082a_-991_-1971_30.vmt",
+									"metalwall082a_0_0_112.vmt"
+								],
+								"tundra": [
+									"snow_-1033_-2960_80.vmt",
+									"snow_-940_-872_112.vmt",
+									"snow_-960_-2416_80.vmt",
+									"snow_-991_-1971_30.vmt",
+									"snow_0_0_112.vmt",
+									"snow_1156_-3055_80.vmt",
+									"snow_1229_-1849_-81.vmt",
+									"snow_1953_-2129_-132.vmt",
+									"snow_251_-3654_80.vmt"
+								],
+								"wood": [
+									"offdesktop_0_0_112.vmt",
+									"offdesktop_1156_-3055_80.vmt",
+									"offdesktop_1229_-1849_-81.vmt",
+									"offdesktop_1953_-2129_-132.vmt",
+									"woodfloor007a_c17_0_0_112.vmt",
+									"woodfloor007a_c17_1229_-1849_-81.vmt",
+									"woodfloor007a_c17_1953_-2129_-132.vmt",
+									"woodfloor008a_0_0_112.vmt",
+									"woodfloor008a_1229_-1849_-81.vmt",
+									"woodfloor008a_1953_-2129_-132.vmt"
+								]
+							}
+						},
+						"models": {
+							"de_survivor_css": [
+								"plane_chair_skin.vmt",
+								"plane_chair_skin.vtf",
+								"plane_engine_skin.vmt",
+								"plane_engine_skin.vtf",
+								"plane_skin.vmt",
+								"plane_skin.vtf",
+								"truck_skin.vmt",
+								"truck_skin.vtf"
+							]
+						},
+						"overviews": [
+							"de_survivor_css.vmt",
+							"de_survivor_css.vtf",
+							"de_survivor_css_radar.vmt"
+						],
+						"tundra": [
+							"snow.vmt",
+							"snow.vtf",
+							"snow_normal.vtf",
+							"stonetrans.vtf"
+						]
+					},
+					"models": {
+						"de_survivor_css": [
+							"plane.dx80.vtx",
+							"plane.dx90.vtx",
+							"plane.mdl",
+							"plane.phy",
+							"plane.sw.vtx",
+							"plane.vvd",
+							"plane_chair.dx80.vtx",
+							"plane_chair.dx90.vtx",
+							"plane_chair.mdl",
+							"plane_chair.phy",
+							"plane_chair.sw.vtx",
+							"plane_chair.vvd",
+							"plane_engine.dx80.vtx",
+							"plane_engine.dx90.vtx",
+							"plane_engine.mdl",
+							"plane_engine.phy",
+							"plane_engine.sw.vtx",
+							"plane_engine.vvd",
+							"plane_shell.dx80.vtx",
+							"plane_shell.dx90.vtx",
+							"plane_shell.mdl",
+							"plane_shell.phy",
+							"plane_shell.sw.vtx",
+							"plane_shell.vvd",
+							"truck.dx80.vtx",
+							"truck.dx90.vtx",
+							"truck.mdl",
+							"truck.phy",
+							"truck.sw.vtx",
+							"truck.vvd",
+							"truck_tires.dx80.vtx",
+							"truck_tires.dx90.vtx",
+							"truck_tires.mdl",
+							"truck_tires.phy",
+							"truck_tires.sw.vtx",
+							"truck_tires.vvd"
+						]
+					},
+					"resource": {
+						"overviews": [
+							"de_survivor_css.txt"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 293637,
+			"_nDownloadCount": 5803,
+			"_nFilesize": 13579570,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/293637",
+			"_sFile": "de_survivor_css_28032013_by_faks.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1373234846
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 104207,
+	"_sName": "de_survivor_css",
+	"_sText": "SM Sith Lord For recreating wonderful classic map to enjoy.\r\n3D Mike For creating original map and giving us chance to enjoy it.\r\nFaks For fixing map and giving this map second chance once again."
+}

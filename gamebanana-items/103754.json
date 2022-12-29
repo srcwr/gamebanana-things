@@ -1,0 +1,31 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_ropax.bsp",
+					"de_ropax.nav",
+					"de_ropax.vmf",
+					"readme.txt",
+					"sketch.jpg"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 328824,
+			"_nDownloadCount": 17104,
+			"_nFilesize": 48121577,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/328824",
+			"_sFile": "de_ropax_3.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1252744080
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 103754,
+	"_sName": "de_ropax ship",
+	"_sText": "Get the lite version: <a href=\"//www.fpsbanana.com/maps/113595\">de_ropax_lite</a>\r\n(with more normal counterstrike gameplay)\r\n-------------------------------------------------------------------\r\n\r\nAUTHOR  : Olivier Doorenbos PROJECT STARTED: late 2006\r\nRELEASED: late 2009 (delayed a year due to technical issues etc)\r\n\r\n\r\nMAP DESCRIPTION:\r\nA realistic map of a car ferry (as big as the Titanic).\r\nFeatures: \r\n- FULL LAYOUT (with a few exceptions) of ALL 11 decks!\r\n- 2 VERY ADVANCED LIFTS, fully functional with 9 levels each!\r\n- huge moving sea 3D skybox\r\n- 40+ custom textures (with bump mapping &amp; cubemap reflections) &amp; decals\r\n- custom sounds recorded on maersk delft - a real car ferry\r\n- custom soundscapes\r\n- ship can be triggered to gradually sink (drowning everyone)\r\n- engine room fires can be triggered &amp; extinguished\r\n- 64 spawns with multiple terrorist spawn areas\r\n- Counterterrorists can't buy - they get standard equipment\r\n- area specific vibration (most in engine room)\r\n- realistic gravity and movement speeds for stairs &amp; ladders\r\n- bomb has longer fuse timer as map is big\r\n- liftable car deck (can crush), playground (seesaw &amp; carousel)\r\n- a radio with music, triggerable music x2 and ship horn\r\n- manually built bot nav mesh\r\n- easter eggs and more\r\n\r\nTECHNICAL STATISTICS:\r\nsolids/brushes  ~ 7500 (near limit set by Source engine)\r\nbrush faces     ~ 48000\r\npoint entities  ~ 3000\r\nsolid entities  ~ 900\r\ntextures        ~ 100\r\nT-junction fixup limit nearly reached (most annoying compile error for this map)\r\n\r\nCOMMENTS:\r\nI have worked very hard on this for more than a year. The screen shots don't do it justice. Much time and research has gone into making the ship and its layout as realistic as possible - gameplay balance was less important. Some features have been added to make the gameplay very different from normal (some players will like this, others will hate it). Most time and work has gone into getting this huge map to compile without critical errors! Please tell me if you find any serious bugs/problems!\r\n\r\nCREDITS:\r\nmap, custom textures, most custom sounds &amp; all sound editing by Olivier Doorenbos\r\nwww.CGTextures.com - source of most raw custom textures\r\ndasboot original music by Klaus Doldinger\r\ndasboot disco remix music by Disco Cell\r\ncrimson tide music by Hanz zimmer\r\nship horn sound from www.youtube.com/BIGMIKESOCAL\r\n\r\nPRIVILEGES:\r\nYou can do whatever you want (distribute, edit the VMF file, release modified version etc) as long as you give me credit where it is due and do not profit financially. If you distribute this map, you must include THIS README.<br>"
+}

@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"mg_mythic_flag_v2.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 311829,
+			"_nDownloadCount": 1824,
+			"_nFilesize": 33221709,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/311829",
+			"_sFile": "_6117-.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1307632667
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 128361,
+	"_sName": "mg_mythic_flag_v2",
+	"_sText": "64 maxplayers\r\n\r\n- Changes V2 -\r\n* AutoKill eliminated to the 9min changed the AutoRespawn OFF\r\n* Sound changed (5 sounds)\r\n* Added Grenades\r\n* Added impulse\r\n* Removed Sound flags(Bug repetitive)\r\n* 3DSkybox now focuses more battle to take their proper place in the sides\r\n* Other visual changes and improvement in fps etc. ..\r\n\r\n\r\nThe objective of the map is to capture 5 flags to finish the game the losing team will be removed the weapons and teleport in a cage the winning team may kill them all. \r\n\r\n> To the 9min of the game will be removed from the AutoRespawn to finish the game\r\n\r\n\r\nEach new round there will be various weapons a total 12 weapons to a maximum 300HP regeneration and speed more gravity. \r\n\r\nNote: you need the Plugins (AutoRespawn).\r\n[AutoRespawn v1.0.3](http://forums.alliedmods.net/showthread.php?p=905786 \"http://forums.alliedmods.net/showthread.php?p=905786\")\r\n\r\nAdd server.cfg > ![sm_ar_enable 0](http://imageshack.us/photo/my-images/155/sinttulojwd.png \"sm_ar_enable 0\")\r\n\r\nTo not load all maps with the plugin\r\n\r\n> The map it will activate the command."
+}

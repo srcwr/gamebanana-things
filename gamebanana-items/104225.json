@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_synthesis_b4.bsp",
+					"de_synthesis_b4.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 314698,
+			"_nDownloadCount": 2382,
+			"_nFilesize": 11515148,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/314698",
+			"_sFile": "_1710-.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1297703254
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 104225,
+	"_sName": "de_synthesis",
+	"_sText": "de_synthesis_b4 (64 Spawn Points)\n\nde_synthesis - synthesis of old and new buildings\nHalf of the terrorists wants try to destroy a modern bridge, the other half prefers an old castle tower. They are still arguing each other. However, the local police wants to enjoy the view from the tower and use the bridge to get to their favorite restaurant.\nThanks for constructive feedback. Don't edit without permission.\n\nChanges:\n\n-Map Mutation: Depending on the number of CTs paths are opened or closed:\n1-2 CT: B Only\n3-7 CT: A and B \n8-16 CT: A and B extended\n\n-Favored CT:\nmore room to defend B\n-removed corners at A\n-boxes block bullets now\n-many more minor changes\n\n-A (not) vanished carpet in front of the tower indicates whether someone is in it or not.\n\n-New colored, multi-level overview"
+}

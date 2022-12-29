@@ -1,0 +1,38 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"maps": [
+						"css_deagle5.bsp",
+						"css_deagle5.res",
+						"css_deagle5.txt"
+					],
+					"materials": {
+						"css_deagle5": [
+							"crestbackground.vmt",
+							"crestbackground.vtf"
+						]
+					}
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 362012,
+			"_nDownloadCount": 5198,
+			"_nFilesize": 445173,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/362012",
+			"_sFile": "css_deagle5.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1107902262
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 111079,
+	"_sName": "css_deagle5",
+	"_sText": "This is my first map, just a port of deagle5 from 1.6 to Source.  Hope you like it.\r\n\r\nNotes:\r\nUntil Valve releases more of the SDK allowing ammo to spawn, you only get one clip of ammo with the deagle.  I will re-release the map once this is fixed."
+}

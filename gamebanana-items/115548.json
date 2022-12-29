@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"Bomberman_lavatemple.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 304191,
+			"_nDownloadCount": 2588,
+			"_nFilesize": 22342786,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/304191",
+			"_sFile": "bomberman_lavatemple.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1332608499
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 115548,
+	"_sName": "bomberman_lavatemple",
+	"_sText": "HELLO IM BACK FROM A LOOOONG BREAK\r\n==================\r\n\r\nChanges:\r\n------------------\r\n\r\n- back to 16 Playerspawns from 32 reasons below\r\n- Fixed a Bug where people couldnt place a Bomb anymore\r\n- simpler area dmg detectors (boxes instead of balls > better performance)\r\n- throw distance increased\r\n\r\n### Reason why 16 players only:\r\n\r\nSince someone said that it crashes the server i think that its to heavy with 32 Players throwing bombs at the same time since a Bomberman game is usually played with 4 Players only not 32!!\r\nThe second reason is the entity limit. with 32 Players the limit was almost reached. Now if there are some server side entitys added they surpass 2048 and crash the game\r\n\r\nI moved it to Other/misc section because its clearly not a minigame\r\nIf this map is stable without bugs i will make more bomberman maps\r\n\r\n\r\nHow to play\r\n------------------\r\n\r\nAim is to kill the enemy team\r\nWith E you throw bombs\r\nWhen looking on the ground while pressing E\r\nyou lay a bomb\r\nYou can kick a layed bomb by running towards the bomb\r\nThere are boxes that can be broken to aquire amazing power ups\r\n\r\nPower ups\r\n------------------\r\n\r\n- Extrabomb.......you can lay 1 more bomb at same time\r\n- Firepower.......Aoe radius increases\r\n- Health..........You get 25 hp\r\n- Superhealth.....Full heal and HP cap to 150\r\n- Speed...........you run faster\r\n\r\n### Bomb Types\r\n\r\n- Icebomb..........Slows\r\n- Firebomb.........Molotov Coctail\r\n- Electrobomb......Stuns\r\n- Windbomb.........Throws you in the air  **REMOVED**\r\n\r\nAfter 3 minutes of gametime sudden death starts\r\nwhich cause the lava to rise\r\n\r\n- 16 CT Spawns\r\n- 16 T Spawns\r\n\r\nCurrent Bugs Statement\r\n------------------\r\n\r\n##### Players unable to lay a bomb\r\nFIXED!!!!\r\n\r\nPost comment"
+}

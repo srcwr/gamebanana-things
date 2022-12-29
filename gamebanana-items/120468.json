@@ -1,0 +1,114 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrike": {
+						"maps": [
+							"dot_nighthawk_spook.bsp",
+							"dot_nighthawk_spook.nav",
+							"dot_nighthawk_spook.res",
+							"dot_nighthawk_spook.txt"
+						],
+						"materials": {
+							"models": {
+								"pumpkin": [
+									"pumpkin.vmt",
+									"pumpkin.vtf",
+									"pumpkin_cut.vmt",
+									"pumpkin_cut.vtf",
+									"pumpkin_cut_small.vmt",
+									"pumpkin_cut_small.vtf",
+									"pumpkin_root.vmt",
+									"pumpkin_root.vtf",
+									"pumpkin_root_normal.vtf",
+									"pumpkin_small.vmt",
+									"pumpkin_small.vtf",
+									"stem.vmt",
+									"stem.vtf",
+									"stem_small.vmt",
+									"stem_small.vtf",
+									"stemcap.vmt",
+									"stemcap.vtf",
+									"stemcap_small.vmt",
+									"stemcap_small.vtf"
+								]
+							},
+							"overviews": [
+								"dot_nighthawk_spook.vmt",
+								"dot_nighthawk_spook.vtf"
+							],
+							"spook": [
+								"KM-logo_spook.vmt",
+								"KM-logo_spook.vtf"
+							]
+						},
+						"models": {
+							"pumpkin": [
+								"pumpkin.dx80.vtx",
+								"pumpkin.dx90.vtx",
+								"pumpkin.mdl",
+								"pumpkin.phy",
+								"pumpkin.sw.vtx",
+								"pumpkin.vvd",
+								"pumpkin_whole01.dx80.vtx",
+								"pumpkin_whole01.dx90.vtx",
+								"pumpkin_whole01.mdl",
+								"pumpkin_whole01.phy",
+								"pumpkin_whole01.sw.vtx",
+								"pumpkin_whole01.vvd",
+								"pumpkin_whole02.dx80.vtx",
+								"pumpkin_whole02.dx90.vtx",
+								"pumpkin_whole02.mdl",
+								"pumpkin_whole02.phy",
+								"pumpkin_whole02.sw.vtx",
+								"pumpkin_whole02.vvd",
+								"pumpkin_whole03.dx80.vtx",
+								"pumpkin_whole03.dx90.vtx",
+								"pumpkin_whole03.mdl",
+								"pumpkin_whole03.phy",
+								"pumpkin_whole03.sw.vtx",
+								"pumpkin_whole03.vvd"
+							]
+						},
+						"resource": {
+							"overviews": [
+								"dot_nighthawk_spook.txt"
+							]
+						},
+						"scripts": [
+							"soundscapes_dot_nighthawk_spook.txt"
+						],
+						"sound": {
+							"nighthawk": [
+								"hauntmanwelcome.mp3",
+								"spook1-cats.wav",
+								"spook2-ghost.wav",
+								"spook3-laugh.wav",
+								"spook4-ghost.wav",
+								"spook5-owl.wav"
+							]
+						}
+					}
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 355184,
+			"_nDownloadCount": 1813,
+			"_nFilesize": 4012043,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/355184",
+			"_sFile": "dot_nighthawk_spook.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1162066495
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 120468,
+	"_sName": "dot_nighthawk_spook",
+	"_sText": "DOT_NIGHTHAWK_SPOOK\r\n===================\r\n\r\nFirstly, thanks to the original author of dot_nighthawk, whoever you are :)\r\n\r\nA little conversion for Halloween - OOOooooohhhh....\r\n\r\nHave a happy and scary Halloween.\r\n\r\nHubby & Wifey\r\n(Thanks to Swiss_Cheese from whom I \"borrowed\" the pumpkin models)"
+}

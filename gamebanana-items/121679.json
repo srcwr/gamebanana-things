@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"surf_awp_sk337_v3.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 342215,
+			"_nDownloadCount": 2821,
+			"_nFilesize": 6037664,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/342215",
+			"_sFile": "surf_awp_sk337_v3.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1209678264
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 121679,
+	"_sName": "surf_awp_sk337",
+	"_sText": "SURF_AWP_SK337\r\n\r\nby ZaLoS\r\n\r\n\r\ninspired by awp_snow_sk337\r\n\r\nskybox by KARATEKAEFER\r\n\r\ncustom textures by IceCreamLock\r\n\r\n**v3 fixes/changes**\r\n-made it so you cant camp the platform before the lock is broken: it hurts you if you do and after the lock is broken, everyone on stage 3 is teleported to the tunnel that leads to stage 3, the guy who broke the lock has a 1 sec head start on everyone else.\r\n-added light to the jail which is triggered by the wall lowering button\r\n-added another metal piece to the launcher so you cant be shot while getting ready to be launched. \r\n-Added a timer, after 5:15 secs everyone alive will automatically be sent to jail\r\n\r\n**6/20/08**\r\n-Fixed a rogue spawn point\r\n-Reduced the time limit from 5:15 secs to 4:15 secs\r\n***********************\r\n\r\n**v2 fixes/changes**\r\n-Added hdr\r\n-Changed the third stage, Made it easier to get to the lock, hopefully, to shorten long round times. \r\n-Added teleports for the awpers on the third stage, you can now go back to a previous stage by jumping on the stage indicator lights.\r\n-Fixed the drop tunnel on the first stage, people were getting stuck inside.\r\n-Added lights to jail\r\n-Changed the laser in jail\r\n-Various touchups\r\n*************************\r\n\r\n**v1 fixes**\r\n-Fixed the bug that made it so players were able to mess up the awp/sk337 rotation\r\n-Made it less likely for someone to get stuck in the launcher\r\n**************\r\n\r\n-Each Team takes turns awping or sk337ing round per round!!\r\n\r\n-Awpers try to stop the surfers!\r\n\r\n-First surfer to the end wins ;)\r\n\r\n-Laser Operation: Pressing E on the end control panel will activate the laser. User WSAD to control the lasers movement, and left click to shoot!\r\n\r\n-Light system: For the awpers you will see 3 lights, Green/Yellow/Red. Green. These lights represent the progress of the surfers. If a surfer makes it to stage 2, the yellow light will turn on. If they make it to stage 3 the Red light will turn on.\r\n\r\n-Stage 3: In order to unlock the end, surfer will have to pass through the lock. Afterward the last doorway will be opened.\r\n\r\n*********\r\nWARNING: The end laser has been known to crash some clients on certain servers running odd settings. If this is so, I recommend not using the laser. This will NOT crash the server, but the user using the laser.Again, this only happens on some servers. In addition spamming E on the laser activation button Hasbeen known to cause the same problem.\r\n*********\r\n\r\nThanks:\r\nSpecial thanks goes out to the PPP crew who put up with some of the beta testing! Testers include krang,adee, Nitro, sm0ke, Ragh, and many more.\r\nAddtional thanks to Savotei for also helping set up beta testing,\r\nwww.solidsurf.info,\r\nwww.fpsbanana.com\r\nP\r\n_P\r\n__P\r\n\r\nNote: this map is not intended for deathmatch servers. No block is required for this map to work properly.\r\n\r\nVideo Preview of map provided by INNOCENT Frozen:\r\n<object width=\"425\" height=\"355\"><param name=\"movie\" value=\"http://www.youtube.com/v/FSTDybJFin8&hl=en\"></param><param name=\"wmode\" value=\"transparent\"></param><embed src=\"http://www.youtube.com/v/FSTDybJFin8&hl=en\" type=\"application/x-shockwave-flash\" wmode=\"transparent\" width=\"425\" height=\"355\"></embed></object>"
+}

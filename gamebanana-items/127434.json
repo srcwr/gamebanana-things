@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"trikz_4teams_timer.bsp",
+					"trikz_4teams_timer.txt"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 328108,
+			"_nDownloadCount": 1454,
+			"_nFilesize": 892660,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/328108",
+			"_sFile": "trikz_4teams_timer.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1255355729
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 127434,
+	"_sName": "trikz_4teams_timer",
+	"_sText": "First I must say I have atrx's permission for editing this map. All credit goes to him for making this map. I just wanted to add the timer so people could possibly try speedruns in it.\r\n\r\nMap trikz_4teams_beta12 is really old map and its one of my favorites.\r\n\r\nMy original plan was to just add the timer. Then I decided to change couple of other things, nothing drastic. I know the map has a lot of extra space, but I wanted to keep it really close to the original because I liked the open feel of it.\r\n\r\nChanges from trikz_4teams_beta12:\r\n\r\n- added timer and implemented a good way for it to work on a trikz map\r\n- optimized with func_detail + nodraw\r\n- fit stuff more to grid\r\n- added env_light and lights\r\n- minor gameplay changes and bug fixes (faster flash spawn, flash delete, ladder works now and last levels teleport works)"
+}

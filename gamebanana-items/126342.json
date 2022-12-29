@@ -1,0 +1,27 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"bhop_whiteglow.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 271935,
+			"_nDownloadCount": 512,
+			"_nFilesize": 5196135,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/271935",
+			"_sFile": "bhop_whiteglow.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1503794984
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 126342,
+	"_sName": "bhop_whiteglow",
+	"_sText": "Yo, this is my second map, i kinda went with the same theme as my first map, however this time i tried experiencing with some new stuff, using realworldtextures instead of my own ones made in microsoft paint, i tried using some displacements and a 3d skybox. In the end i didnt end up using a 3d skybox because i couldnt get it to work properly.&nbsp;<br><br>I have also tried to build in some 64 unit shortcuts in the map for more advanced players that wish to run the map.<br><br>Map is doable on scroll as well, however all shortcuts may not be doable on scroll.<br><br>In some areas of the map, different sections of the map can be seen through the skybox, i tried fixing this with hints and skips but im still new to hammer and couldnt manage to get it working after spending hours on it. Especially at the last stage where you can see the two displacements from the end, if anyone has an idea on how to cut a skip/hint to stop that from being seen id love to know, i feel like ive tried everything.&nbsp;<br><br>Also thanks to Promises, AM, kav, Oli and Nato for coming with a ton of feedback and playtesting the map on multiple occasions.<br><br>Any feedback that can help me improve and become better at working with hammer is appreciated."
+}

@@ -1,0 +1,205 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"Last Man Standing V6 Special Edition": {
+						"0": "ze_last_man_standing_v6.bsp.bz2",
+						"Special Edition Files V6": {
+							"0": "Changelog.txt",
+							"1": "Credits.txt",
+							"2": "Legacy Informations.txt",
+							"3": "Music.txt",
+							"4": "ze_last_man_standing_v6.vmf",
+							"Promotional Material": [
+								"20171026234150_1.jpg",
+								"20171027002936_1.jpg",
+								"20171027003044_1.jpg",
+								"20171027003159_1.jpg",
+								"20171027003722_1.jpg",
+								"20171027003833_1.jpg",
+								"20171027004003_1.jpg",
+								"20171027004117_1.jpg",
+								"20171027004234_1.jpg",
+								"20171027004408_1.jpg",
+								"Rezurrection Part 7 of 6.bmp",
+								"earth_planet_explosion-wide.jpg"
+							],
+							"gkuo's old guides": [
+								"ZE LAST MAN STANDING NOTES 1.1.docx",
+								"ZE LAST MAN STANDING NOTES 1.3.EX.docx",
+								"ZE LAST MAN STANDING NOTES 2.2.docx",
+								"ZE LAST MAN STANDING NOTES 3.3.docx",
+								"ZE LAST MAN STANDING NOTES 4.4.docx",
+								"ZE LAST MAN STANDING NOTES 5.5.docx",
+								"ZE LAST MAN STANDING NOTES E.docx",
+								"ZE LAST MAN STANDING NOTES PROB.docx"
+							]
+						}
+					}
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 440878,
+			"_nDownloadCount": 469,
+			"_nFilesize": 270023879,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/440878",
+			"_sFile": "last_man_standing_special_edition_v.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1575494718
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Adjustment",
+					"text": "[1] Soldire grenades only dmg zombies."
+				},
+				{
+					"cat": "Adjustment",
+					"text": "[1] Fixed final zombie dumbster zombie trap."
+				},
+				{
+					"cat": "Adjustment",
+					"text": "[1N] Added additional cover in tunnel."
+				},
+				{
+					"cat": "Adjustment",
+					"text": "[1E] Removed bridge_pipe from extreme mode."
+				},
+				{
+					"cat": "Adjustment",
+					"text": "[1E] Added extra hold time in tank base."
+				},
+				{
+					"cat": "Adjustment",
+					"text": "[2] Added zombie helper to minification game."
+				},
+				{
+					"cat": "Adjustment",
+					"text": "[2] Added human items to minification route."
+				},
+				{
+					"cat": "Adjustment",
+					"text": "[2E] Added extra doors to weapons_room."
+				},
+				{
+					"cat": "Adjustment",
+					"text": "[2E] Added randome route."
+				},
+				{
+					"cat": "Adjustment",
+					"text": "[3N] Changed speed from top elevator to 150 (prev 100)."
+				},
+				{
+					"cat": "Adjustment",
+					"text": "[3N] Closed off unused button area."
+				},
+				{
+					"cat": "Adjustment",
+					"text": "[3E] Added extra hold time at the begining."
+				},
+				{
+					"cat": "Tweak",
+					"text": "zombie_predator removed suicide attack."
+				},
+				{
+					"cat": "Tweak",
+					"text": "zombie_jumper push force changed to 400 (prev 600)."
+				},
+				{
+					"cat": "Tweak",
+					"text": "zombie_jumper health changed to 1800 (prev 2300)."
+				},
+				{
+					"cat": "Tweak",
+					"text": "zombie_alma health changed to 2500 (prev 3300)."
+				},
+				{
+					"cat": "Tweak",
+					"text": "zombie_vortigaunt pull force changed to 1000 (prev 1500)."
+				},
+				{
+					"cat": "Tweak",
+					"text": "zombie_shockwave fixed zombie only push."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Update V6",
+			"_tsDateAdded": 1575495655
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "S1 Added player counter for dynamic difficulty ending."
+				},
+				{
+					"cat": "Addition",
+					"text": "S1 Added more hidden items."
+				},
+				{
+					"cat": "Addition",
+					"text": "S2 Added dmg filter for push pillar."
+				},
+				{
+					"cat": "Addition",
+					"text": "S2 Added inv-wall to prevent zombies from jumping to the side of the second toggleable bridge."
+				},
+				{
+					"cat": "Adjustment",
+					"text": "S3 Reduced holding time in long corridor."
+				},
+				{
+					"cat": "Addition",
+					"text": "S3 Added helper text for triggered consoles in long corridor."
+				},
+				{
+					"cat": "Addition",
+					"text": "S3 Added small zombie push in ice testing chamber."
+				},
+				{
+					"cat": "Bugfix",
+					"text": "S3 Fixed zombie_boss freeze at defeat."
+				},
+				{
+					"cat": "Addition",
+					"text": "S4 Added Playercounter for dynamic difficulty ending."
+				},
+				{
+					"cat": "Adjustment",
+					"text": "S5 Reduced holding time at first long hold."
+				},
+				{
+					"cat": "Bugfix",
+					"text": "S5 Fixed song length of first song."
+				},
+				{
+					"cat": "Adjustment",
+					"text": "ALL Increased cooldown for thunder gun to 2 seconds."
+				},
+				{
+					"cat": "Addition",
+					"text": "ALL Added helper signs."
+				},
+				{
+					"cat": "Addition",
+					"text": "ALL Added Fallback fade."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Last Man Standing v5_1",
+			"_tsDateAdded": 1554938279
+		}
+	],
+	"_idRow": 130586,
+	"_sName": "Last Man Standing [Special Edition]",
+	"_sText": "<h2><b>Download now and get the Special Edition!</b></h2><ol><li>Access to the .vmf file to check and look at the map in the editor.</li><li>Full Changelog, Credits, Music and Legacy Information.&nbsp;</li><li>gkuo88 old LMS guides</li><li>Promotional Material</li></ol><br><h1 class=\"SelectedElement\">v6 Is now available</h1>It is finaly here!<br>Bigger and better than ever before.<br><br>After many months of work and after understaning how hannibal made this huge map i can present to you a hopefully working version of his<br><strong>greatest, largest and last map.</strong><br><br>Based on a post-apocalyptic future where the last remains of the&nbsp;<br>humanity will activate the final device for killing all zombies around the globe.<br>Four stages, four generators. The humans objective: activate all the generators and<br>defend the main core in the fifth stage.<br>The map tries to keep the shape and gameplay of the classic maps:<br><br><ul><li>No mass teleports to force players to move ahead.</li><li>No invisible walls.</li><li>All ways are connected with no teleports.</li><li>Wide paths</li><li>Intense action due the lack of helps to the human team The map, although, includes modern maps features.</li><li>Human items (stages 2,4,5)</li><li>Zombie items (stage 3,5)</li><li>Stages system</li><li>Extreme mode</li><li>Player controlled boss</li><li>Event system</li></ul><br>Event system:&nbsp;<br>Hidden and visible events may be triggered by players<br>during the stages 1,2,3 and 4. These will alter the gameplay in the stage 5 and will determine how easy or difficult will be to defend the core and save the humanity.<br><br>Extreme:<br>Extreme difficult will be enabled after stage 5 is completed.<br>Completing extreme difficulty will be considered completing the map at 100%<br><br>"
+}

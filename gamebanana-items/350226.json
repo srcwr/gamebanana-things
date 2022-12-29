@@ -1,0 +1,87 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ze_abandoned_factory_v2.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 728132,
+			"_nDownloadCount": 229,
+			"_nFilesize": 94805720,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/728132",
+			"_sFile": "ze_abandoned_factory_v2.zip",
+			"_sMd5Checksum": "6fe9207f186ce302d31270d5cde0d07a",
+			"_tsDateAdded": 1642097158
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Amendment",
+					"text": "Some decorative brush changes"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added decorative props and brushes"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Updating textures to aged ones"
+				},
+				{
+					"cat": "Optimization",
+					"text": "Air portals are installed in the doors of the rooms"
+				},
+				{
+					"cat": "Amendment",
+					"text": "Updated screenshots on the website"
+				},
+				{
+					"cat": "Removal",
+					"text": "Removed mini anomalies with bonus artifacts"
+				}
+			],
+			"_sText": "Slightly modified the basement corridor after falling into the elevator shaft. Added more pipe models and different shelves.",
+			"_sTitle": "Refinement of locations 3/12",
+			"_tsDateAdded": 1644073304
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Amendment",
+					"text": "A slight change in the opening of the elevator shaft"
+				},
+				{
+					"cat": "Amendment",
+					"text": "Remodeling a room with electrical panels"
+				},
+				{
+					"cat": "Amendment",
+					"text": "Replacement of some models from hl2 with models from s.t.a.l.k.e.r"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Changing textures to older ones"
+				},
+				{
+					"cat": "Addition",
+					"text": "Adding new furniture"
+				}
+			],
+			"_sText": "Continued updating the visual and adding details to the corridors and rooms of the map.",
+			"_sTitle": "Refinement of locations 2/12",
+			"_tsDateAdded": 1644072689
+		}
+	],
+	"_idRow": 350226,
+	"_sName": "ze_abandoned_factory_v2",
+	"_sText": "This is my first map, made specifically for the Zombie Escape mode. This is my first experience, so there are errors in the design of passages and rooms. <br>When testing, the gameplay takes around 15 minutes. <br>In a single game, the map did not cause problems, but when porting to the friends' server, the map stopped working in different places, then the teleport did not teleport everyone, then the boss did not activate, I will hope that these were problems only with that server. <br><br>What was implemented:<br><ul><li>Warm-up round at the first start.</li><li>Smooth transitions between locations.<br></li><li>Musical accompaniment.<br></li><li>Text support of the passage.<br></li><li>Puzzles for opening passages.<br></li><li>Matter for people in the form of a first aid kit.<br></li><li>Laser testing.<br></li><li class=\"SelectedElement\">Arena and boss battle.</li></ul><br>I am waiting for your feedback.<br>"
+}

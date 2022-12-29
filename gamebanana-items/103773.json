@@ -1,0 +1,78 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"DE_Runoff_hotrap": [
+						"Readme.rtf",
+						"de_runoff_ht_HDR_v2017.rar",
+						"de_runoff_ht_v34-old_HDR.rar"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 274961,
+			"_nDownloadCount": 4055,
+			"_nFilesize": 49058760,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/274961",
+			"_sFile": "de_runoff_hotrap_1d7c2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1484623473
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "New destructible columns and walls"
+				},
+				{
+					"cat": "-",
+					"text": "Also completely destructible bridge, which falls in real time after explosion"
+				},
+				{
+					"cat": "-",
+					"text": "New fog effects and new electric discharge effects"
+				},
+				{
+					"cat": "-",
+					"text": "Two crows which flies in the sky on the trajectories"
+				},
+				{
+					"cat": "-",
+					"text": "Many virtual cameras, which filming different parts on start"
+				},
+				{
+					"cat": "-",
+					"text": "Fixed several bugs"
+				}
+			],
+			"_sText": "A big update: more destructive objects, including destructible columns and some destructible walls.<br>Plus, I made the bridge from point \"B\" to fall after the explosion and it is completely destroyed in real time!<br>And at the point \"A\" the main computer of power station also will break and fall after the explosion.<br>Plus new electric discharge effects and sound-fx to the power station.<br>New fog effects in some parts of the map.<br>Plus, I introduced two crows which flies in the sky and they can be shot with any weapon -- the birds don`t exists in Counter-Strike, so I took them from Half-Life 2 and I made them to fly on the trajectories.<br>Plus many virtual cameras, which filming from different parts, when you appear on the map.<br>Also I fixed several bugs.<br>Enjoy! :)",
+			"_sTitle": "Update-2.0 (destructible objects, fx, crows, etc.)",
+			"_tsDateAdded": 1498865173
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Bugs fixed for both maps of old & latest version of „CS Source”."
+				},
+				{
+					"cat": "-",
+					"text": "Now the map for the old version of the game is identical with the map of the latest version!"
+				}
+			],
+			"_sText": "Details:<br>On the map, for Latest version of „CS Source”:<br>- were added colliders for some objects;<br>- fixed position of certain stones;<br>- adjusted accurately the view of virtual camera (<i>that shows on TV screens, inside the main building</i>).<br><br>Also on the map of Old version of „CS Source”:<br>- now the map was compiled with HDR effect (<i>special HDR, specific only for old versions</i>);<br>- were added a few effects of smoke, which are specific for old version of the game engine (<i>because some new effects do not work in the old version</i>);<br>- fixed the property of some brushes, that hindered to see certain decals;<br>- fixed the Input &amp; Output of some objects for the old version of the game;<br>- in the package was added missing sounds and objects;<br>Now the map for the old version of the game has become essentially identical with the map of the latest version! :)<br><br>I hope now for you will be more exciting to play. :)",
+			"_sTitle": "Update-1.0",
+			"_tsDateAdded": 1485141509
+		}
+	],
+	"_idRow": 103773,
+	"_sName": "DE_Runoff_hotrap",
+	"_sText": "Hi! I present to you my map “de_runoff_hotrap” for \"Counter-Strike: Source\" – a huge and atmospheric map for real hardcore players (<i>–bomb/diffuse mission; download below</i>).<br>I worked much on this map. I hope for you will be exciting to play. -)<br>I am game developer, but in such way I accumulate experience in level-design and keep fit.<br>This map is created on the basis of map from “Half-Life 2 Deathmatch” – just I have taken a level with almost empty walls and removed the nonworking elements and made a playable map for \"Counter-Strike: Source\".<br>So here is everything you need to play, plus special ambient sound, also I added a tactical places for snipers or for a sudden attack, plus some \"landmarks\" and even a map for radar.<br>I made more destructible objects, including destructible columns and some walls.<br>Plus, I made the bridge from point \"B\" to fall after the explosion and it is completely destroyed in real time.<br>And at the point \"A\" the main computer of power station also will break and fall after the explosion.<br>Plus added new effects (<i>electrical discharges</i>) and sound-fx to the power station.<br><br>I significantly expanded the area of action – there is three parts of the map that were previously inaccessible. So, yeah – it's a really huge map! ;)<br>I introduced two crows which flies In the sky and they can be shot with any weapon (<i>the birds don`t exists in Counter-Strike, so I took them from Half-Life 2 and I made them to fly on the trajectories</i>).<br>I also seriously edited navigation paths of bots, that to be more interesting to play with them.<br>Plus is increased significantly the optimization.<br>Also for this map I introduced a special gameplay element, named as \"Hot Trap\" (<i>that I invented earlier for my map \"cs_lockdown_hotrap\"</i>).<br><br>Press on \"Manual Download\" and just download the archive. :)<br>------------------------------------------<br>Background story of the map:<br>– In the country there is a big chaos! The political opposition began open rebellion. It feels like the Apocalypse is near.<br>Some small terrorist groups, who call themselves as rebels, are now engaged in a serious subversion.<br>Now you're on the power station (electricity generation station, power plant), near the border of the country, not far from City 17 (<i>-yeah, from \"Half-Life 2\" ;) – is visible the citadel</i>). This station is temporarily closed and working at half capacity.<br>According to the story of this map, terrorists attack the power station. But the anti-terrorists in the urgent order everything around mined with explosive barrels and so making \"hot traps\".<br>Use hot traps – fry the ass of your virtual opponents!<br>Powerful weapons and crafty tactics will make you cool and dangerous. <br>Also, Special Forces are very well armed. Good trophies are waiting for you inside! ;)<br>Have a good hunting! :)<br>------------------------------------------<br>Here is just a video of earlier beta-version:<br><iframe src=\"https://www.youtube.com/embed/5m0Ez_AlYCI\" allowfullscreen=\"\" width=\"560\" height=\"315\" frameborder=\"0\"></iframe>"
+}

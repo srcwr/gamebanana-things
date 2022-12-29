@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ze_space_stationzz.bsp"
+				],
+				"_sMimeType": "application/x-7z-compressed"
+			},
+			"_bContainsExe": false,
+			"_idRow": 342852,
+			"_nDownloadCount": 11648,
+			"_nFilesize": 8124659,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/342852",
+			"_sFile": "ze_space_stationzz.7z",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1207453714
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 131017,
+	"_sName": "ze_space_stationzz",
+	"_sText": "<font color=\"#FF0000\" face=\"helvetica\"><b>Minor Update:</b>\r\nNew version ze_space_stationzz.  This is a very minor update.  If you have version z then you're fine, zz is just  a small balance update.  ZZ just changes the teleport secret to the new shuttle, and makes it harder to figure out.  It wasn't fair to humans when zombies could teleport on top of them.  Now it's a much more difficult secret.</font>\r\n\r\n<font color=\"#4444FF\" face=\"helvetica\"><b>ze_space_stationzz\r\n\r\nNote:  This is released with the permission of JJ45 and Archanor, the original creators of this map.  Zekeus co-authored this with me as well, but I'm the one uploading it here.</b>\r\n\r\n\r\nUnless there are bugs or something, this will be the FINAL version of ze_space_station, at least that I make.\r\n\r\nFeatures:\r\n64 Players\r\nRadar\r\nCubemaps\r\nNav File\r\nCustom Textures\r\n4 Minor Secrets\r\n3 Medium Secrets\r\n1 Insane Death Secret\r\n3 Escape Shuttles\r\n2 Main Routes\r\n\r\nThis version here was made to correct two problems...  First of all on a respawn server, players would get killed by the nuke, then respawn.  Then they'd get killed again and respawn again.  This would continue until the round end or until they went spec.  That doesn't happen anymore.  The nuke turns off after 3 seconds here.  But then this lead to players respawning on the station while all zombies were on shuttles, and they couldn't kill each other.  That being a problem as well, I went ahead and made the map prevent players from respawning.  So this problem is effectively 100% solved.\r\n\r\nThe other problem was that humans would all get killed the second a zombie spawned on a server with a fast zombie spawn time.  The map ups the zombie spawn time to between 20 and 30 seconds, giving players plenty of time to run.  But there was still a bottleneck where they would all get killed at the computer room.  So to get rid of that and split players up I added a third mini-shuttle which one can get to by taking an entirely new path out of spawn.  That way not everyone is in the same spot when a zombie appears.  There is also a good camping spot right before the third shuttle, so it's not too hard to hold zombies off.\r\n\r\nMinor changes:\r\n- Area Portals for anti-lag.\r\n- Shuttles all move twice as fast as they did in the original ze_space_station release, so less time on them while moving = less lag.\r\n- Couple new secrets.\r\n\r\nThere aren't many other changes, but the addition of the new route was too big to release it under the old map name, so this one has its own map submission.  Also, the radar map here was improved over the previous one.  And that's all I've got here so feel free to ask questions or whatever.\r\n\r\n\r\n<b>NOTE:</b>\r\nIf you don't know how to open a .7z file, just get the map as a .zip here:</font>\r\n<a href=\"http://www.Aura-Forums.com/cstrike/ze_space_stationzz.zip\">ze_space_stationzz</a>"
+}

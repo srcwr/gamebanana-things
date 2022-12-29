@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"aamu2_updatelog.txt",
+					"bhop_aamu2_u1.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 275508,
+			"_nDownloadCount": 967,
+			"_nFilesize": 30369852,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/275508",
+			"_sFile": "bhop_aamu2_u1.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1481809979
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 124357,
+	"_sName": "bhop_aamu2",
+	"_sText": "<h1>From wilderness to early morning town.</h1><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/7lBiGXT_AmM\" frameborder=\"0\" allowfullscreen=\"\"></iframe><br><br>A map that I had been working on and off for the past 2 years.<br><br>For an average first time player it should take around 20-30 minutes with auto (30-40 mins scroll) to beat the map. Once you've beaten the map once, it should take around 10 minutes.<br>The map has a longjump room, a bonus and a secret.<br><br>Start and end zones are marked. HDR+Bloom recommended.<br><br><h2>Bad framerate?</h2>Enable multicore rendering (mat_queue_mode -1). This will improve rendering times, specifically static prop rendering. I did what I could to optimize the map and had to halt adding more detail because of this reason.<br><br><h3>EDITS</h3>25 Dec 2016 - Update 1 (u1) (Slight changes to make it easier)"
+}

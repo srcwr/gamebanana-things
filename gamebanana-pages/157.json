@@ -1,0 +1,1650 @@
+[
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"ze_river_escape_v3.bsp",
+						"ze_river_escape_v3.bsp.bz2"
+					],
+					"_sMimeType": "application/x-rar"
+				},
+				"_bContainsExe": false,
+				"_idRow": 341688,
+				"_nDownloadCount": 4203,
+				"_nFilesize": 8467198,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/341688",
+				"_sFile": "ze_river_escape_v3bsp.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1211732369
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 130954,
+		"_sName": "ze_river_escape_v3",
+		"_sText": "In a ze_river, you start in small trainstation near bridge. After you cross bridge by boat or trains, you get into the bunker, launch nuke and escape on helicopter.\r\n\r\nThis is third version of ZE_RIVER.\r\nIn that version I made many changes.\r\n-Bridge is now repaired; there're 2 trains on spawn\r\n-Spawns and railway are divided by fence\r\n-No more button to start train and boat - they launch on trigger touch\r\n-Fixed some problems with elevators when people fall out of map.\r\n-Added some new areas at the end; Now there is a helicopter which humans need to defend.\r\n-Some other fixes which will improve balance I hope.\r\n\r\n\r\nThere is two files in archive: archived bsp by bz2 and just bsp. Choose what you server can use."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"ze_retribution.bsp"
+					],
+					"_sMimeType": "application/zip"
+				},
+				"_bContainsExe": false,
+				"_idRow": 334734,
+				"_nDownloadCount": 4144,
+				"_nFilesize": 12382652,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/334734",
+				"_sFile": "ze_retribution.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1233564173
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 130953,
+		"_sName": "ze_retribution",
+		"_sText": "<font color=\"royalblue\" face=\"helvetica\"><b>ze_retribution\r\n\r\n\r\nMap Statistics:</b>\r\n- 64 Spawns\r\n- Cubemaps\r\n- Radar Map\r\n- Custom Textures\r\n- Drivable Vehicles\r\n- Map Nuke\r\n- Multiple Escape Paths\r\n- 3 Safe Zones\r\n- Custom Sound\r\n- 3D Skybox\r\n- 1 Secret\r\n- .88 FlaK Gun\r\n- Traps\r\n\r\n\r\n<b>Background:</b>\r\nAtixium wanted to make a sequel to his helicopter map of an escape through a city.  But he built it with driveable cars, so he wanted me to come and fix the cars for him so that he could release it.  Anyway, though the cars and theme showed some promise, the city was half-assed at best.  I therefore took it upon myself to build a whole new map where humans escape from a city in drivable vehicles, and then nuke the place to kill the zombies.  That's how this map was born.\r\n\r\n\r\n<b>Gameplay:</b>\r\nEveryone starts at one side of the map near one of two big Soviet KRAZ trucks.  There is also a Ford Mustang GT nearby which one player can drive.  Players can either hop in the trucks and car, or try to get to the nuke at the end of the tunnel by foot.  There are some traps on the way, most of which are in the tunnel itself.  Anyway, the trucks and mustangs (second mustang is locked behind a secret invisible wall) have to take the road all the way to the tunnel, but since they go fast I put in a shorter foot path through the city for everyone else.  Despite the shorter trip, the cars still manage to beat the walkers some of the time.  Anyway, you make your way to the bottom of the tunnel and towards the end of it and there's a door on the right...  Shoot it open and there is a Nuke launching button inside.  The Nuke takes 30 seconds, and will irradiate the map for 10 seconds.  Everyone not in a safe zone (the tunnel is NOT safe) will die.  The two other safe zones are a couple buildings near the tunnel...  Their doors lead to underground areas where you can wait for the nuke to pass.  I did multiple safe areas because the rounds are very short otherwise, lasting only about 2 minutes if someone hauls ass to the nuke.  Therefore, this is a hybrid camping//escape map.  The map disables respawn and the map sets the zombie timer to be very fast to keep it competitive.\r\n\r\n\r\n<b>Map Objective:</b>\r\nI made this map to look good.  It's probably the best city map ever made for ZM in terms of detail and environment.  The gameplay is a little unorthodox so I don't know how it will fare in that respect, but it looks nice and that's what I was going for.\r\n\r\n\r\nAt this point I don't know what else to say, other than that I hope you like my map!!\r\n\r\n- NatalyaAF -</font>"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"ze_resonance_cascade_v3.bsp"
+					],
+					"_sMimeType": "application/x-rar"
+				},
+				"_bContainsExe": false,
+				"_idRow": 307877,
+				"_nDownloadCount": 2658,
+				"_nFilesize": 17085609,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/307877",
+				"_sFile": "ze_resonance_cascade_v3_2.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1319760796
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 130952,
+		"_sName": "ze_resonance_cascade FIXED",
+		"_sText": "A Zombie Escape map based on Half Life 1!\r\n\r\nYou enter the Gamma Complex of the Black Mesa Research Facility at the very time Gordon Freeman initiates the resonance cascade events. Enable teleports/generators and tons of other challenges, the final goal being to teleport yourself to safety (based on the HL1 sequences prior to Xen).\r\n\r\nOriginal link: http://www.gamebanana.com/maps/128683.\r\nMade a new one so people could see the update on the frontpage."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"ze_resonance_cascade_v3.bsp"
+					],
+					"_sMimeType": "application/x-rar"
+				},
+				"_bContainsExe": false,
+				"_idRow": 324130,
+				"_nDownloadCount": 3913,
+				"_nFilesize": 17085609,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/324130",
+				"_sFile": "ze_resonance_cascade_v3.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1268253871
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 130951,
+		"_sName": "ze_resonance_cascade",
+		"_sText": "A Zombie Escape map based on Half Life 1!\r\n\r\nYou enter the Gamma Complex of the Black Mesa Research Facility at the very time Gordon Freeman initiates the resonance cascade events. Enable teleports/generators and tons of other challenges, the final goal being to teleport yourself to safety (based on the HL1 sequences prior to Xen)."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"ze_resident_evil_v7_3_fix.bsp"
+					],
+					"_sMimeType": "application/x-rar"
+				},
+				"_bContainsExe": false,
+				"_idRow": 318673,
+				"_nDownloadCount": 2745,
+				"_nFilesize": 3824617,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/318673",
+				"_sFile": "ze_resident_evil_v7_3_fix.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1285788877
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 130950,
+		"_sName": "ze_resident_evil_v7_3_fix",
+		"_sText": "i look the film, moment by moment for immit this map, it s very good, no bug, ct can use a weapons for help ! Virus T and Anti Virus, it s possible and good map"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"Credits.txt",
+						"ze_resident_evil_hive.bsp"
+					],
+					"_sMimeType": "application/x-rar"
+				},
+				"_bContainsExe": false,
+				"_idRow": 332475,
+				"_nDownloadCount": 2329,
+				"_nFilesize": 1206689,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/332475",
+				"_sFile": "ze_resident_evil_hive_2.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1240149499
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 130949,
+		"_sName": "ze_resident_evil_hive",
+		"_sText": "My second realese , i did this after watching all resident evil movies :P"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"ze_resident_evil0_2_3.bsp"
+					],
+					"_sMimeType": "application/zip"
+				},
+				"_bContainsExe": false,
+				"_idRow": 307879,
+				"_nDownloadCount": 2118,
+				"_nFilesize": 12203803,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/307879",
+				"_sFile": "ze_resident_evil0_2_3.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1319760381
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 130948,
+		"_sName": "ze_resident_evil0_2_3",
+		"_sText": "This is a map i made based on Resident evil zero. CT's start off on the train and must escape the zombie menace throughout the mansion and labs and make it to the helipad for extraction"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"Maps": [
+							"ze_rebicefacility_e01_v1.bsp"
+						]
+					},
+					"_sMimeType": "application/zip"
+				},
+				"_bContainsExe": false,
+				"_idRow": 296237,
+				"_nDownloadCount": 1866,
+				"_nFilesize": 3568718,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/296237",
+				"_sFile": "ze_rebicefacility_v1_3.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1361315138
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 130947,
+		"_sName": "ze_RebiceFacility_v1",
+		"_sText": "This is a detailed map of mine that's made for zombie escape. First of all i would like to thank the bG community for a great server and admins. Thanks to gandalf for the testing and working with the map.\r\n\r\nthis map is just based on top of my head planning and going. It took me at least 5 months to complete the map. It's quite long, and suitable for about 45 players or more. Difficult areas in some of the map. I included custom songs and a secret weapon. This will not be my last map, i will continue to work with zombie escape maps. If you have any problems or glitches with the map please notify me. Steam: Token\r\n\r\nI hope you enjoy this map and continue to play it. Have fun!\r\n\r\nThanks again to the bG Community and Gandalf, couldn't have done it without you. :)"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"ze_rawnscape_b2.bsp"
+					],
+					"_sMimeType": "application/x-rar"
+				},
+				"_bContainsExe": false,
+				"_idRow": 292051,
+				"_nDownloadCount": 1454,
+				"_nFilesize": 23170161,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/292051",
+				"_sFile": "ze_rawnscape_b2.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1380921582
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 130946,
+		"_sName": "ze_rawnscape_b2",
+		"_sText": "This map took me long time to make...\r\n\r\n- Rawnscape map\r\n- 1 level\r\n- Boss\r\n- No items\r\n- No fun allowed\r\n\r\nB2\r\n==================\r\n- Boss should be fixed\r\n- Added hurt to Lava\r\n- Added some derp things\r\n- Added Party Hats on ground for no reason\r\n- Added Pistols with sprites on\r\n- Fixed Some invisible wall\r\n- and more derp stuff\r\n\r\n(Sorry fixed b1 to b2, particles derped alot ~ added a little surprise because of this quickfix - YOU WILL love it.)"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"ze_ravenholm_v05.cfg"
+					],
+					"_sMimeType": "application/x-rar"
+				},
+				"_bContainsExe": false,
+				"_idRow": 505411,
+				"_nDownloadCount": 111,
+				"_nFilesize": 322,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "EntWatch Config",
+				"_sDownloadUrl": "https://gamebanana.com/dl/505411",
+				"_sFile": "ze_ravenholm_v05_409f4.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1609672563
+			},
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"ze_ravenholm_v05fix.bsp"
+					],
+					"_sMimeType": "application/x-rar"
+				},
+				"_bContainsExe": false,
+				"_idRow": 505899,
+				"_nDownloadCount": 144,
+				"_nFilesize": 17023921,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "Map",
+				"_sDownloadUrl": "https://gamebanana.com/dl/505899",
+				"_sFile": "ze_ravenholm_v05fix.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1609865519
+			},
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"ze_ravenholm_v05fix.cfg"
+					],
+					"_sMimeType": "application/x-rar"
+				},
+				"_bContainsExe": false,
+				"_idRow": 505900,
+				"_nDownloadCount": 31,
+				"_nFilesize": 159,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "ZombieReloaded Config",
+				"_sDownloadUrl": "https://gamebanana.com/dl/505900",
+				"_sFile": "ze_ravenholm_v05fix_a38fe.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1609865663
+			},
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"ze_ravenholm_v05fix.cfg"
+					],
+					"_sMimeType": "application/x-rar"
+				},
+				"_bContainsExe": false,
+				"_idRow": 506096,
+				"_nDownloadCount": 41,
+				"_nFilesize": 252,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "*RECOMMENDED* Stripper Source cfg",
+				"_sDownloadUrl": "https://gamebanana.com/dl/506096",
+				"_sFile": "ze_ravenholm_v05fix_ba00d.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1609946975
+			}
+		],
+		"_aLatestUpdates": [
+			{
+				"_aChangeLog": [
+					{
+						"cat": "Bugfix",
+						"text": "Adjusted the size of the nuke, for the newest version"
+					},
+					{
+						"cat": "Improvement",
+						"text": "Improved the hitbox of the HEV-Stuit a bit"
+					},
+					{
+						"cat": "Addition",
+						"text": "Added human counter for optional outputs"
+					},
+					{
+						"cat": "Addition",
+						"text": "Added Giant Headcrab zombie item on 20 cts"
+					},
+					{
+						"cat": "Addition",
+						"text": "Added a little zombie help depending on how many humans play"
+					},
+					{
+						"cat": "Tweak",
+						"text": "Tweaked some minor issues"
+					},
+					{
+						"cat": "Adjustment",
+						"text": "Lowered the first infection time, enabled zr ambient sound"
+					}
+				],
+				"_sText": "",
+				"_sTitle": "Version 0.5fix",
+				"_tsDateAdded": 1609865973
+			},
+			{
+				"_aChangeLog": [
+					{
+						"cat": "Bugfix",
+						"text": "Fixed full packaging of custom files"
+					},
+					{
+						"cat": "Bugfix",
+						"text": "Enabled existing AFK-Teleports to shorten the walk ways for newly spawned zombies"
+					},
+					{
+						"cat": "Optimization",
+						"text": "further optimized mapping"
+					},
+					{
+						"cat": "Improvement",
+						"text": "Overhauled the design of the last hold"
+					},
+					{
+						"cat": "Adjustment",
+						"text": "Added short zombie protection upon entering the final tower"
+					},
+					{
+						"cat": "Addition",
+						"text": "Added \"HEV-Suit\" Item, which protects you from 4 zombie strikes until dying on the 5th hit, 30% movement boost for 30 seconds from morphine-shot when the HEV-Suit reaches 20% armor level"
+					},
+					{
+						"cat": "Improvement",
+						"text": "Improved the effects of the Crowbar"
+					},
+					{
+						"cat": "Optimization",
+						"text": "Added more light effects"
+					}
+				],
+				"_sText": "After years, I finally got back to work on Ravenholm.<br><br>Hope you enjoy !<br><br>-Strongfield<br>",
+				"_sTitle": "Version 0.5",
+				"_tsDateAdded": 1609671329
+			}
+		],
+		"_idRow": 130945,
+		"_sName": "ze_ravenholm_v05fix",
+		"_sText": "<h1 class=\"SelectedElement\">ze_ravenholm_v05fix</h1>This map takes place in Ravenholm, which most of you recognize from Half Life 2.<br>It has suprised me, that there is no ravenholm-themed map for ZE.<br>So here it is, the first part of Ravenholm.<br>I consider it as first proper map of mine, altough it isn't the full map. It's more like Stage 1, because I plan to make more.<br>This stage serves as feedback. I hope to see how it comes out on a real gameplay. This feedback helps me to advance my creations.<br>Stage 1 contains the basic of ZE and mapping. <br>There is no boss, there are no custom particles nor textures.<br>But there is one human item (Crowbar).<br>I hope that my config works for the entwatch plugin.<br><br><h2>Story</h2>(Some of us are still waiting for Half Life 3)<br>Three months after the destruction of the citadel, the citizens of City 17 are in a peril situation. The combine may be weakend and they went to their last bases, but the real danger is the environment. <br>Due ciritcal damage, caused by the explosion of the citadel, most flats and accommodations are uninhabitable.<br>Humanity has to live with the lack of resources.<br>In a peril attempt, a new organized special force has been sent to Ravenholm to evaluate the situation. <br>Ravenholm itself fell under the attack of the combines back in the old regime, but most buildings are intact.<br>The main proplem are the headcrabs and their fellow zombies.<br>The Combine have used almost 80% of their caught headcrabs for Ravenholm.<br>It's the Nexus of the Zombie-Plague and its residents have evolved.....<br><br><h3>To do list:</h3><del>+ Add more details and decals<br></del>+ Improve the lightning<br><del>+ [Maybe] Change the gameplay after real gameplay, if needed</del><br>+ Fix bad lightnings on some doors<br><del>+ Optimize the map</del><br><del>+ Add Hint and Skips</del><br><del>+ Add grass-sprites<br></del><br>**** Hotfix ****<br>removed the nav. which caused crashing the server.<br><br><h3>Credits and special thanks:</h3>Valve for the Hammer Editor, Maps, Textures, Models and Sounds. (I took the first area of Ravenholm, which was made by Valve for Half Life 2, for my map for a fitting story.)<br><br>TOPHattWaffle<br>Unloze<br>Moltard<br><br>Have fun with the map,<br>-StrongfieldtheGerman"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"ze_ravenholm_escape_b1": [
+							"1.JPG",
+							"2.JPG",
+							"3.JPG",
+							"4.JPG",
+							"5.JPG",
+							"6.JPG",
+							"Readme.txt",
+							"ze_ravenholm_escape_b1.bsp"
+						]
+					},
+					"_sMimeType": "application/x-rar"
+				},
+				"_bContainsExe": false,
+				"_idRow": 341928,
+				"_nDownloadCount": 2574,
+				"_nFilesize": 1857117,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/341928",
+				"_sFile": "ze_ravenholm_escape_b1.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1210881796
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 130944,
+		"_sName": "ze_ravenholm_escape_b1",
+		"_sText": "<article>\r\n\t\t<p><font size=\"+2\" color=\"Green\">Hiring re-mapper!</font></p>\r\n<p>Would you like to make a new version of the map which is up to date, please PM me!</p>\t\t\t\t\t\t\r\n\r\n<h1>ze_ravenholm_escape_b1:</h1>\r\n\r\n<p>This is my second escape map, i hope you like it. </p>\r\n\r\n<p>As a team you may complete different challenges to make your way to the end. You will have to defend against the zombies and hold the end area for some time. If you manage to complete the mission, the rocket will go off and explode all over. Good luck! </p>\r\n\r\n\r\n<h1>Map specifications:</h1>\r\n\r\n<p>\r\n- Player slots: 64\r\n- FPS: Around 150\r\n- Lightning: Env_sun and environment-lightning\r\n</p> \r\n\r\n\r\n<h1>Tips:</h1>\r\n\r\n<p>The map have 3 secrets included. Be aware of holes you can fall through. </p>\r\n\r\n\r\n<h1>Notification:</h1>\r\n\r\n<p> If you have any thing to comment on, please let me know.</p>\r\n\r\n\r\n<h1>Credits:</h1>\r\n<p>-UA- and Gamebanana</p>\r\n<p>Thanks to everyone who offered feedback and advices on this map. I hope you have fun! </p>"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"ze_random_v10_fix.bsp"
+					],
+					"_sMimeType": "application/zip"
+				},
+				"_bContainsExe": false,
+				"_idRow": 298327,
+				"_nDownloadCount": 7355,
+				"_nFilesize": 39648904,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/298327",
+				"_sFile": "ze_random_v10_fix.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1354176977
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 130943,
+		"_sName": "ze_random_v10_fix",
+		"_sText": "Level -- Box with a Light in it (Spawn)\r\n=======================================\r\n- 25 second level to prepare for the random teleporter and mother zombie spawn\r\n- Transitional area between levels to repurchase gear\r\n\r\nLevel -- Open Field\r\n===================\r\n- Group up or run solo to survive the Slender Forest until teleported to next level \r\n\r\nLevel--Classic\r\n==============\r\n- Hold off the zombie in a classic Zombie Mod office until teleported to next level\r\n\r\nLevel -- Fail Nade\r\n==================\r\n- Split up and hold both sides of the sewer until the zombie drain valves open to flush them away\r\n\r\nLevel -- Carpet Escape\r\n======================\r\n- Run or take a magic carpet ride to escape the infected palace\r\n\r\nLevel -- IceCap Escape\r\n======================\r\n- Listen well as you revisit the frozen wasteland and its abandon facility to escape in style\r\n\r\nLevel -- City Night Escape\r\n==========================\r\n- Careful not to fall as you escape the skyscraper by taking an elevator ride to the helicopter rescue zone\r\n\r\nLevel -- Zombie Death Run\r\n=========================\r\n- Survive the zombie traps and escape the temple before its curse gets reaches you\r\n\r\nLevel -- Couch Escape\r\n=====================\r\n- Escape by guiding a couch to the exit tunnel by breaking the couch weak barricades\r\n\r\nLevel -- Interstellar Escape 9\r\n==============================\r\n- Escape the black hole along the interstellar railroad moving from train to train until you reach the Final Express \r\n\r\nLevel -- Zombie Murder (Boss)\r\n=============================\r\n- Defend the sign until the boss comes to challenge you with its barrel attacks and 4 zombie guarded life support computers\r\n\r\nVersion 9 Fix\r\n=============================\r\n- 2 Interstellar glitches fixed\r\n- 2 City Night glitches fixed\r\n- Couch crouch spot under crate fixed\r\n- Fail Nade valves can now be activated from CT damage\r\n- Boss base heath increased and life support button order now random\r\n- Few minor balance changes\r\n\r\nVersion 9 Fix 2\r\n=============================\r\n- Zombie spawn timer error fixed\r\n- Final Boss button glitches fixed\r\n- Few more minor balance changes\r\n\r\nVersion 10\r\n=======================================\r\n- Bug/Glitch fixed for multiple maps\r\n- Few level design changes\r\n- Few more minor balance changes\r\n- Additional secrets/items\r\n\r\nVersion 10 fix ( Final version hopefully D: )\r\n=======================================\r\n- Fixed remaining level/music glitches \r\n\r\n\r\n\r\nSide note (screenshots on steam)\r\n=============================\r\nSorry, for the delays, but unfortunately this file and some data had been lost for some time along with some other matters, however, during that time I spent most of it on a complete remake of this map which is almost ready for testing. It will (hopefully) include 3 (1 complete) additional levels and it may or may not replace this version, should all goes well."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"ze_random_escape_b6.bsp"
+					],
+					"_sMimeType": "application/x-rar"
+				},
+				"_bContainsExe": false,
+				"_idRow": 285454,
+				"_nDownloadCount": 1574,
+				"_nFilesize": 59455182,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/285454",
+				"_sFile": "ze_random_escape_b6.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1414689003
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 130942,
+		"_sName": "ze_random_escape_b6",
+		"_sText": "Fight to escape as you're randomly teleported to 3 of the 12 maps\r\n=================================================================\r\n\r\nSpawn -- Box with a Light in it\r\n=======================================\r\n- 30 second starting spawn and transitional area between levels to repurchase gear to prepare for the random teleporter\r\n\r\nLevel 1 -- Classic\r\n==============\r\n- Hold off the zombie in a classic Zombie Mod office until teleported to next level\r\n\r\n\r\nLevel 2 -- Open Field\r\n===================\r\n- Group up or run solo to survive the Slender Forest until teleported to next level \r\n\r\n\r\nLevel 3 -- Fail Nade\r\n==================\r\n- Split up and hold both sides of the sewer or group as one until the zombie drain pipes open, land a nade in both pipes to flush the zombies away\r\n\r\n\r\nLevel 4 -- Carpet Escape\r\n======================\r\n- Run or take a magic carpet ride to escape the infected palace\r\n\r\n\r\nLevel 5 -- IceCap Escape\r\n======================\r\n- Listen well as you revisit the frozen wasteland and its to escape 1 of 3 ways\r\n\r\n\r\nLevel 6 -- City Night Escape\r\n==========================\r\n- Careful not to fall as you escape the skyscraper by taking an elevator ride to the helicopter rescue zone\r\n\r\n\r\nLevel 7 -- Zombie Death Run\r\n=========================\r\n- Survive the zombie traps and escape the temple before its curse gets reaches you\r\n\r\n\r\nLevel 8 -- Couch Escape\r\n=====================\r\n- The only way to escape is by guiding a couch to the exit tunnel by breaking the couch only barricades\r\n\r\n\r\nLevel 9 -- Interstellar Escape 9\r\n==============================\r\n- Escape the black hole along the interstellar railroad moving from train to train until you reach the Final Express\r\n\r\n\r\nLevel 10 -- Volcano Escape\r\n=======================\r\n- Hold off the zombies until you're able to activate the central alter by making it to all 4 sacrificial alters\r\n\r\n\r\nLevel 11 -- Green Hill Escape\r\n==========================\r\n- Escape this nostalgia trip by making it to the Goal Post\r\n\r\n\r\nLevel 12 -- Zomeal Escape (Boss)\r\n=============================\r\n- Fight against the evil empire to escape the falling kingdom in the clouds\r\n\r\nVersion b5\r\n==========\r\n- Major/Minor glitch and bug fixes\r\n\r\nVersion b6\r\n==========\r\n- Again Major/Minor glitch and bug fixes"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"ze_racetofinishv3.bsp"
+					],
+					"_sMimeType": "application/x-rar"
+				},
+				"_bContainsExe": false,
+				"_idRow": 309472,
+				"_nDownloadCount": 1487,
+				"_nFilesize": 1180884,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/309472",
+				"_sFile": "_9210-.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1314329888
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 130941,
+		"_sName": "ze_racetofinishv3",
+		"_sText": "A nice ze map i made...\r\nTest on this server: 23.19.122.109:27015\r\nand please join gfl:\r\nhttp://games223.com/"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"ze_Raccoon_Facility_v6b.bsp"
+					],
+					"_sMimeType": "application/x-rar"
+				},
+				"_bContainsExe": false,
+				"_idRow": 308927,
+				"_nDownloadCount": 4226,
+				"_nFilesize": 10003369,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/308927",
+				"_sFile": "ze_raccoon_facility_v6b.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1315849788
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 130940,
+		"_sName": "ze_Raccoon_Facility_v6b",
+		"_sText": "A fix version of this old fantastic map\r\n\r\n- fixing killing doors and wrong opening side\r\n- all ways have the same time of running at the beginning (modification of the stairs)\r\n- elevators fix (only one use) to avoid refire that call back the elevator\r\n- 2 stairs on the elevators sides\r\n- laser room triggring faster\r\n- last defending spot a little bit modify\r\n- more console messages\r\n- teleporting system\r\n- music / sounds (sorry prof_yaffle, the doom music was very too low)\r\n- ladder remove to get down in the tunnel\r\n\r\n> raccoon_facility_v6a - thankyou :)\r\n\r\n> prof_yaffle \r\n\r\n>Hi matey, thanks for fixing the bugs in my map! I was wondering if we/you could replace the music though, from the resident evil music to http://www.youtube.com/watch?v=6UJA3OX7frs , In the first version of this map I had it to trigger this sound when the button to call train was pressed. But then I had to make so many fixes to the map I took it out becase I didn't want to add another 40meg to the download of the map.\r\n\r\n>What do you think?\r\n\r\n>Prof. Yaffle"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"ze_raccoon_facility_v5c.bsp"
+					],
+					"_sMimeType": "application/x-rar"
+				},
+				"_bContainsExe": false,
+				"_idRow": 334473,
+				"_nDownloadCount": 3729,
+				"_nFilesize": 3549732,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/334473",
+				"_sFile": "ze_raccoon_facility_v5c.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1234538181
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 130939,
+		"_sName": "ze_raccoon_Facility_v5c",
+		"_sText": "Hi this is v5c of the map. I have fixed some problems with the train at the end."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"ze_pro_defend_v1.bsp"
+					],
+					"_sMimeType": "application/x-rar"
+				},
+				"_bContainsExe": false,
+				"_idRow": 300701,
+				"_nDownloadCount": 1446,
+				"_nFilesize": 1430778,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/300701",
+				"_sFile": "ze_pro_defend_v1.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1345504143
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 130938,
+		"_sName": "ze_pro_defend_v1",
+		"_sText": "this is the beta version from fun_defend\r\n\r\nadd light\r\n\r\nadd ze and zm mod\r\n\r\nadd props\r\n\r\nand i hope jack like it now :D\r\n\r\nmap made for b@d visit 91.121.136.95:27055"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"ze_prototype_v2": [
+							"Read Me.txt",
+							"ze_prototype_v2.bsp"
+						]
+					},
+					"_sMimeType": "application/zip"
+				},
+				"_bContainsExe": false,
+				"_idRow": 301198,
+				"_nDownloadCount": 3539,
+				"_nFilesize": 57634166,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/301198",
+				"_sFile": "ze_prototype_v2.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1343781583
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 130937,
+		"_sName": "ze_prototype_v2",
+		"_sText": "ZE PROTOTYPE V2\r\n==================\r\n\r\nFeatures\r\n------------------\r\n- Level System: As seen in many other popular maps (Mako, Pred, Paper) are levels. My map has 3 missions (Easy, Hard, and Extreme) and ends with a ZM round.\r\n\r\n- Music and CC: Each mission has a variety of music and I make use of Color Correction to spice up the environment.\r\n\r\n- Models: I used a model from Dan's Pack as well as custom made Helicopter and APC to add some taste to the map.\r\n\r\n- Secret Items: Two different items (both of which can be used to ease the final stand in Mission 2) spawn at one of five different locations. One makes defending easier, one makes attacking easier.\r\n\r\n- Admin room/Level Selection: Located behind the APC in the spawn area you can control the levels.\r\n\r\n- Particle Effects: These add much better visuals for the map (despite the pain they were to figure out!)\r\n\r\nFeedback\r\n------------------\r\nIf anyone has the time, I would be very grateful to have as much feedback as I can get. Please feel free to critique the hell out of my map and leave the feedback in the comments below!\r\nThank-you and I hope you like Prototype!\r\n\r\n\r\nChange Log\r\n------------------\r\n### B2\r\n- Fixed missing textures on helicopter\r\n- Fixed missing sounds\r\n### B3\r\n- Fixed balancing issues at end of Mission 1\r\n### B4\r\n- Reworked the teleporting system for AFK/losers who camp the beginning. It should be good to go.\r\n### B5\r\n- Mostly small changes to make the map enjoyable while I work on the official V1 release\r\n- Reworked the teleport system and fixed up the ending hold point in Mission 1\r\n### V1\r\n- Introduced particle effects to the map for better visuals\r\n- Whole new level (Extreme) + boss.\r\n- Rebalancing based off of suggestions\r\n- 2 new songs\r\n- 1 new secret weapon spawn spot (not a new weapon, same as before) on Mission 2 (Hard)\r\n### V1_fix\r\n- Reworked the teleporting AGAIN. Much simpler design and should be playable w/o getting stuck.\r\n- Moved the level choosing system to another area due to shooting through walls causing problems. Admins can access it by noclipping behind the APC at spawn and going through the teleport.\r\n- Fixed the Color Correction not disabling at the end of Mission 2 when failing\r\n- Added a failure if zombies get too close to the final stand point in Mission 3 (prevents glitching into the \"win\" room if humans lose)\r\n### V2\r\n- Fixed the rock glitch that allowed you to skip to level 2\r\n\r\nOther ZE maps\r\n------------------\r\nGameshow_v1_2: http://csszm.gamebanana.com/maps/172357"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"ze_prototype_b5": [
+							"Read Me.txt",
+							"ze_prototype_b5.bsp"
+						]
+					},
+					"_sMimeType": "application/zip"
+				},
+				"_bContainsExe": false,
+				"_idRow": 302568,
+				"_nDownloadCount": 1888,
+				"_nFilesize": 42798607,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/302568",
+				"_sFile": "ze_prototype_b5.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1338399965
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 130936,
+		"_sName": "ze_prototype_b5",
+		"_sText": "UPDATED TO VERSION: http://gamebanana.com/csszm/maps/167579\r\n\r\n\r\nZE PROTOTYPE B5\r\n==================\r\n\r\nFeatures\r\n------------------\r\n- Level System: As seen in many other popular maps (Mako, Pred, Paper) are levels. My map has 2 missions (easy and hard) and ends with a ZM round.\r\n\r\n- Music and CC: Each mission has a variety of music and I make use of Color Correction to spice up the environment.\r\n\r\n- Models: I used a model from Dan's Pack as well as custom made Helicopter and APC to add some taste to the map.\r\n\r\n- Secret Items: Two different items (both of which can be used to ease the final stand in Mission 2) spawn at one of four different locations. One makes defending easier, one makes attacking easier.\r\n\r\n- Admin room/Level Selection: Located behind the APC in the spawn area you can control the levels.\r\n\r\nFeedback\r\n------------------\r\nIf anyone has the time, I would be very grateful to have as much feedback as I can get. Please feel free to critique the hell out of my map and leave the feedback in the comments below!\r\nThank-you and I hope you like Prototype!\r\n\r\nChange Log\r\n------------------\r\n### B2\r\n- Fixed missing textures on helicopter\r\n- Fixed missing sounds\r\n### B3\r\n- Fixed balancing issues at end of Mission 1\r\n### B4\r\n- Reworked the teleporting system for AFK/losers who camp the beginning. It should be good to go.\r\n### B5\r\n- Mostly small changes to make the map enjoyable while I work on the official V1 release\r\n- Reworked the teleport system and fixed up the ending hold point in Mission 1"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"ze_prison_break_v2.bsp"
+					],
+					"_sMimeType": "application/x-rar"
+				},
+				"_bContainsExe": false,
+				"_idRow": 319627,
+				"_nDownloadCount": 1504,
+				"_nFilesize": 2356652,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/319627",
+				"_sFile": "ze_prison_break_v2.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1283048924
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 130935,
+		"_sName": "ze_prison_break_v2",
+		"_sText": "this map is an immitation of prison break season 1, when michael scofield escape of prison, not bugged, 3 respawn... for chance ct... and action... music... good map for immitation :)"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"ze_predator_ultimate_v3.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 315057,
+				"_nDownloadCount": 19342,
+				"_nFilesize": 64663522,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/315057",
+				"_sFile": "ze_predator_ultimate_v3.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1296472172
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 130934,
+		"_sName": "ze_predator_ultimate_v3",
+		"_sText": "<h2>|----------------------------|<br>\r\n| ZE_PREDATOR_ULTIMATE -- V3 |<br>\r\n|----------------------------|<br>\r\nMap by -- Luffaren / Per30010<br>\r\nThanks to:<br>\r\nHannibal (Rafuron)<br>\r\nKaemon<br>\r\nSandfly<br>\r\nThe Icannt community (IC)<br>\r\nThe PlaugeFest community (pF)<br>\r\nRayW<br>\r\n3DG<br>\r\nZaN</h2>\r\n<h2>MAP INFORMATION</h2>\r\n<p>PLEASE SEND IN ALL FEEDBACK TO: <br>\r\nGAMEBANANA: <a href=\"http://www.gamebanana.com/maps/153717&lt;br\">http://www.gamebanana.com/maps/153717&lt;br</a>&gt;\r\nGAMEBANANA PROFILE: <a href=\"http://www.gamebanana.com/members/762095&lt;br\">http://www.gamebanana.com/members/762095&lt;br</a>&gt;\r\nEMAIL: predatorultimate2011@hotmail.com</p>\r\n<p>RECOMMENDED ZOMBIE SPAWN SETTINGS: <br>\r\nMore than 1 zombie being spawned, fast spawn (10-15 seconds) and teleport them back to spawn. </p>\r\n<p><strong><em>Requires noblock</em></strong><br>\r\n<em>BSP filesize = 100mb</em></p>\r\n<ul>\r\n<li>64 players max<br></li>\r\n<li>4 different difficulties<br></li>\r\n<li>4 different bossfights<br></li>\r\n<li>randomised medkits <br></li>\r\n<li>random weather<br></li>\r\n<li>dynamic boss system<br></li>\r\n<li>particles<br></li>\r\n<li>cubemaps<br></li>\r\n<li>\r\n<h2>10 Special weapons/items</h2>\r\n<h2>SPECIAL WEAPONS</h2>\r\n</li>\r\n</ul>\r\n<p><strong>USE WEAPONS WITH \"USE / E\" BY PRESSING OR SPAMMING</strong></p>\r\n<ul>\r\n<li>Minigun = Slows, damages - easily overheated</li>\r\n<li>Pushgun = Pushes back zombies - 15 sec cooldown</li>\r\n<li>Gaussrifle = Takes huge amount of damage - extremely long cooldown time</li>\r\n<li>Alien device = Slows zombies by 50% for 20 secs - use once</li>\r\n<li>Alien sample = Ignites zombies on touch - use once</li>\r\n<li>Flamethrower = Ignites zombies - limited fuel (15 secs)</li>\r\n<li>Ammo dispenser = Humans get unlimited ammo within a smaller radius for 10 seconds - Use once</li>\r\n<li>Claymore mines = 10x claymore mines that explodes when a zombie goes near it and sets him on fire for some time</li>\r\n<li>Grenade launcher = 15x Grenade launcher shots which ignites zombies within a smaller radius</li>\r\n<li>\r\n<h2>Impulsor = Activates only when a zombie goes near it, it pushes all zombies away within a radius - bright light effects</h2>\r\n<p>NOTES</p>\r\n<h2>\r\nYou are NOT allowed to edit and/or reupload the map!\r\nBetatesting with help by Icannt\r\nV3 (this version) will be the final one, i will continue with my next projects from now on.\r\nI would really like to thank some additional people: RayW, 3DG, Riperzz, and ZaN.\r\nI like toast...\r\nThank you all for your interest and co-operation in this project! It has been really great and i'll see you\r\nin my upcoming projects! :D</h2>\r\n</li>\r\n</ul>\r\n<blockquote>\r\n<blockquote>\r\n<blockquote>\r\n<p>EDIT V1_1 &lt;&lt;&lt;</p>\r\n</blockquote>\r\n</blockquote>\r\n</blockquote>\r\n<ul>\r\n<li>Added alien ending</li>\r\n<li>Changed map paths, holdareas and bosses depending on difficulty</li>\r\n<li>Added more particles</li>\r\n<li>Added 2 new weapons (Alien sample and Flamethrower)</li>\r\n<li>Added a new ending (only hyper)</li>\r\n<li>Fixed boss hp on 3rd boss</li>\r\n<li>More change between difficulties</li>\r\n<li>Fixed some timing issues (now there will be more zombie encounters)</li>\r\n<li>Changed/replaced some music</li>\r\n<li>Added more detail</li>\r\n<li>More optimised at spawn</li>\r\n<li>Added another weapon pickup area (boulderdefense <em>left after camp</em>)</li>\r\n<li>Fixed/worked around issue where players got stuck in first elevator on ultimate</li>\r\n<li>Added/removed blockers to tweak balance better</li>\r\n<li>Ammo replenished before every bossfight (will replenish to servers max ammo)</li>\r\n<li>Added transporter push in spaceship</li>\r\n<li>2nd boss kills on touch instantly</li>\r\n<li>3rd boss now takes less damage</li>\r\n</ul>\r\n<blockquote>\r\n<blockquote>\r\n<blockquote>\r\n<p>EDIT V1_2 &lt;&lt;&lt;</p>\r\n</blockquote>\r\n</blockquote>\r\n</blockquote>\r\n<ul>\r\n<li>FIXED/DECREASED CRASHES (there may still be crashes but it's less chance to happen hopefully)</li>\r\n<li>Removed alien ending (may come back better done if future versions seems crash-stable enough)</li>\r\n<li>Forced weapons to spawn (expect a weapon every round)</li>\r\n<li>Added a few more particle effects</li>\r\n<li>Added a new weapon/item (Ammo dispenser)</li>\r\n<li>Fixed teleporter at 1st boss (ruins after compound)</li>\r\n<li>Increased/decreased hold timings</li>\r\n<li>Deleted first holdarea on hyper</li>\r\n<li>Added new path on hyper/ultimate route</li>\r\n<li>Added difficulty signs in devroom</li>\r\n<li>Fixed issue when zombies can win difficulties</li>\r\n<li>Made so zombies interupt win if they get inside chopper</li>\r\n<li>Made slight changes to music (dont worry! The endmusic <em>serenata immortale</em> at normal is still there :P)</li>\r\n<li>Added some more detail (mostly at river)</li>\r\n<li>Worked around the render at spawn</li>\r\n<li>Blocked heli ropes (preventing players from failing to climb it)</li>\r\n<li>Changed the defense at camp</li>\r\n<li>Made more changes between difficulties</li>\r\n<li>Increased hp a bit on 2nd boss</li>\r\n<li>Changed 3rd boss to hit based system (the boss maybe will have too much/less hp)</li>\r\n<li>Finalboss now is more lethal but weaker (faster to kill)</li>\r\n<li>Added a force death timer on finalboss (45 secs = humans fail <strong>45 secs for each phase</strong>)</li>\r\n<li>Increased chances for random weather to choose the \"clear weather\"</li>\r\n<li>Removed friction settings at finalboss </li>\r\n<li>Added a blocker at the final stage of finalboss for a few seconds (more pressure - more excitement)</li>\r\n<li>Added triggers to give zombies more hp at some places in the map</li>\r\n<li>Fixed when players fell out of chopper in hyper end</li>\r\n<li>Fixed/added some console messages</li>\r\n<li>Fixed <em>hopefully</em> elevator lag on hyper/ultimate</li>\r\n<li>Deleted zombie push on hyper/ultimate (the one that leads to zombie cage)</li>\r\n<li>Added blockbullet textures on some zombie cages (to prevent players from killing zombies during bossfights)</li>\r\n<li>Changed minigun to hurt less </li>\r\n<li>Added more fuel to flamethrower</li>\r\n<li>Changed ladder placements on cliffarea to be much easier to climb (i believe i saved your day?)</li>\r\n<li>Merged/deleted entites to prevent crashing (smaller visible things)</li>\r\n<li>2nd boss now runs slower but still insta-kills</li>\r\n<li>Decreased/removed blind spots on finalboss</li>\r\n<li>Fixed so players wont get stuck in beamup to spaceship <em>not sure about this one</em></li>\r\n<li>Fixed defense in black/green area to be longer + a structure for humans to hold</li>\r\n<li>Better optimizing </li>\r\n</ul>\r\n<blockquote>\r\n<blockquote>\r\n<blockquote>\r\n<p>EDIT V1_3 &lt;&lt;&lt;</p>\r\n</blockquote>\r\n</blockquote>\r\n</blockquote>\r\n<ul>\r\n<li>DECREASED CRASHING EVEN FURTHER (trying to fix, will most likely be gone in future versions)</li>\r\n<li>Decreased hp slightly on the 3rd boss (hyper)</li>\r\n<li>Added more detail at some places</li>\r\n<li>Optimized even further</li>\r\n<li>Fixed balancing issue in the split defense on hard difficulty</li>\r\n<li>Fixed/worked around exploits</li>\r\n<li>Increased hp on the 4th boss (final boss on ultimate)</li>\r\n<li>Fixed an issue when players didnt get ammo when using ammo dispenser / ammo triggers  (this also depends on servers so dont expect this to be fully fixed)</li>\r\n<li>Fixed the hurt on the end of ultimate</li>\r\n<li>Fixed so when you beat the 2nd boss zombies that respawns doesn't get stuck on the other side (added bridge)</li>\r\n<li>Fixed some small things and values</li>\r\n<li>Added 10 seconds more on the defense untill getting into the transporter on ultimate</li>\r\n<li>\r\n<p>Added some more particles</p>\r\n</li>\r\n<li>\r\nIMPROVED THE 2ND PREDATOR BOSS (hard)\r\n<blockquote>\r\n<p>changed the initial animation\r\nChanged his healthsystem from hp to the number of hits /AWP's are useless\\  (this may need further changes since it's new)\r\nAdded a completely dynamic running system where the predator moves according to the humans, instead of running and turning around at complete random\r\nThe predator now runs all the time no matter what (he will still be able to summon rollermines and jump while running)\r\nAdded more effects and sounds\r\nSome new animations\r\nNew death scene\r\nLess laggy</p>\r\n</blockquote>\r\n</li>\r\n</ul>\r\n<blockquote>\r\n<blockquote>\r\n<blockquote>\r\n<p>EDIT V1_4 &lt;&lt;&lt;</p>\r\n</blockquote>\r\n</blockquote>\r\n</blockquote>\r\n<ul>\r\n<li>REMOVED THE CRASHING</li>\r\n<li>Added another holdspot on hyper</li>\r\n<li>1st elevator on hyper-ultimate leaves after 5 seconds extra</li>\r\n<li>1st elevator on hyper-ultimate now crushes players beneath (preventing exploits)</li>\r\n<li>Added 3 new items/weapons - Claymore mines, grenadelauncher and impulsor</li>\r\n<li>Gave flamethrower and minigun less push effect</li>\r\n<li>Made ammo dispenser and alien sample more effective (radius and lifetime)</li>\r\n<li>Added some more paths just after 2nd elevator on hyper-ultimate (vents)</li>\r\n<li>Added more particles</li>\r\n<li>Added more detail</li>\r\n<li>Optimized some parts better</li>\r\n<li>Added songlist texture and prepared the contest-rules texture</li>\r\n<li>Increased hp on 3rd boss (hyper)</li>\r\n<li>Rollermines now spawn on 3rd boss (hyper)</li>\r\n<li>Brought back the alien ending (improved with animations and particles)</li>\r\n<li>Changed the final explosion effect</li>\r\n<li>Changed a holdspot on ultimate (where the hyperboss is)</li>\r\n<li>Fixed some smaller glitches and balance issues</li>\r\n<li>Added thunder effects </li>\r\n<li>\r\n<p>Crazy thunder avalible on hard boss (only activated under special circumstances)</p>\r\n</li>\r\n<li>\r\nREMADE THE 4th PREDATOR BOSS FROM SCRATCH (ultimate)\r\n<blockquote>\r\n<p>Zombies can now get over to the humans by jumping on rotating platforms (some humans must hold)\r\nThe predator runs exactly like the 2nd boss (faster)\r\nThe predator uses the same attacks from the 2nd boss (more damaging though)\r\nPredator now have a \"ragemode\" which will activate when he reaches 50% of his health, unlocking 3 new attacks\r\nNew climb event, all humans must hold the zombie bridge while one player climbs up and jumps into the core\r\nZombies wont get teleported back anymore, alot more challeging\r\nNew alien ending in the absolute end\r\nNo more green/black room\r\nAdded more effects and sounds\r\nMuch more intense and chaos feeling while playing\r\n(DO NOT SAY THE BOSS IS TOO HARD UNTILL YOU HAVE PLAYED IT FOR A WHILE, PEOPLE WILL EVENTUALLY LEARN HOW TO PLAY IT)</p>\r\n</blockquote>\r\n</li>\r\n</ul>\r\n<blockquote>\r\n<blockquote>\r\n<blockquote>\r\n<p>EDIT V2 &lt;&lt;&lt;</p>\r\n</blockquote>\r\n</blockquote>\r\n</blockquote>\r\n<p><strong> WORLD CHALLENGE STARTS / ENDS 13/5-2011 </strong></p>\r\n<ul>\r\n<li>Detailed further, added a couple of new visible things</li>\r\n<li>Added a new area avalible near hyper C4 hold</li>\r\n<li>Forced the normal boss route on normal difficulty</li>\r\n<li>Delayed zombie bridge on ultimate by 3 seconds</li>\r\n<li>Added slightly more hp to the ultimate boss</li>\r\n<li>Rescaled/changed some textures</li>\r\n<li>Added some more particle effects</li>\r\n<li>Changed some placements/timings on teleports</li>\r\n<li>Changed some holdspots on hyper-ultimate</li>\r\n<li>Changed an attack on hyperboss (get away from the predator when you see him charging the twirl attack)</li>\r\n<li>Slowed the elevator</li>\r\n<li>Removed teleport on cliff hold, the zombies will now need to climb the vines if they fall down</li>\r\n<li>Increased holdtime on the normal-hard end</li>\r\n<li>REMOVED INVISIBLE BLOCKERS/PUSHES (except for really important ones, like route blockers)</li>\r\n<li>Fixed the impulsor trigger</li>\r\n<li>Fixed some exploits</li>\r\n<li>Polished some timings</li>\r\n<li>Fixed a issue when the predator skipped ragemode/ragemode being too short</li>\r\n<li>Improved the predators invisibility, now it's a skin instead of a shadow (Kaemon helped me out there)</li>\r\n<li>Rollermines dont fall off the bossplatform on ultimate boss</li>\r\n<li>Spawned less rollermines on hyper-ultimate bosses</li>\r\n<li>Made the alien device being able to damage the ultimate predator</li>\r\n<li>Added teleport for zombies below helipad\r\n( THIS VERSION WILL BE MORE DIFFICULT OVERALL. IT WILL REQUIRE MORE TEAMWORK )</li>\r\n</ul>\r\n<blockquote>\r\n<blockquote>\r\n<blockquote>\r\n<p>EDIT V3 &lt;&lt;&lt;</p>\r\n</blockquote>\r\n</blockquote>\r\n</blockquote>\r\n<p><strong> (FINAL VERSION) </strong></p>\r\n<ul>\r\n<li>Fixed some exploits</li>\r\n<li>Fixed predator and alien facing the wrong direction</li>\r\n<li>Removed/replaced some oddly placed props</li>\r\n<li>Disabled hdr for brighter looks and more fps</li>\r\n<li>Fixed the \"corner-tanking\" exploit on the ultimate bossfight</li>\r\n<li>Boulderarea breaks slightly faster now</li>\r\n<li>First hold on normal-hard now have 2 more ways in (plank and roofvent)</li>\r\n<li>Ultimate predator is nerfed hp-wise</li>\r\n<li>the predators \"laser\" attack during ragemode doesn't insta-kill anylonger (about 3-4 hits will kill)</li>\r\n<li>Hyperboss is nerfed hp-wise</li>\r\n<li>Hyperboss now have 3 vents for zombies to crawl into (infecting the humans if they dont hold them back)</li>\r\n<li>Hyperboss is now easier to \"interupt\" by shooting, to interupt his attacks</li>\r\n<li>Hyperboss \"levitation\" attack now spins you around (so watch it when you stand on the railings)</li>\r\n<li>Hyperboss delayed the zombie cage release (x2 times)</li>\r\n<li>Fixed glitch with hardboss being able to fly out of the arena</li>\r\n<li>Added an overview map (if you dont like it you can always type \"cl_radaralpha 0\" in console)</li>\r\n<li>Optimized the map even better (removed some areaportals, disabled hdr etc)</li>\r\n<li>Added a score system, each hit on the predator gives you 1 point</li>\r\n<li>Detailed slightly more</li>\r\n<li>Hyper-ultimate first elevator hold is improved (longer holding time, layout changed, more intensity overall)</li>\r\n<li>Added 10 extra seconds to hold before the bossfight on hard difficulty</li>\r\n<li>There are 3 ways in in total on the \"plank\" hold just before the hard bossfight now</li>\r\n<li>Fixed ZaN's stupid capital N! &gt;:(</li>\r\n<li>First aid console spam exploit is fixed</li>\r\n<li>The one who jumps into the core gets 500 points now</li>\r\n<li>Changes the hardboss smokeset to a particle one instead</li>\r\n<li>Breakable planks on the hyper-ultimate route just before the elevator (to delay zombies in case they make it in frot of the humans)</li>\r\n<li>Added another vine for the zombies to climb up on the cliffhold (normal-hard difficulty)</li>\r\n<li>Added contestdetails</li>\r\n<li>Normal predator is now more difficult (the timer releases zombies instead of running away, you need to shoot)</li>\r\n<li>The alien will only kill humans now</li>\r\n<li>Fixed glitch when humans got pushed in the wall by the alien (this means ensuring their death)</li>\r\n<li>Smaller buyzones to prevent nadespam on the zombies</li>\r\n<li>The zombie cages is visible now (no more visual glitches)</li>\r\n<li>Added a recharge indicator on the gauss rifle</li>\r\n<li>Alien device damages the ultimate predator more now</li>\r\nFast summary\r\n</ul>\r\n<p><em>*</em><em>_</em><em>*</em><em>_</em><em>*</em><em>_</em><em>*</em><em>_</em><em>*</em><em>_</em><em>*</em><em>_</em><em>*</em><em>_</em><em>*</em><em>_</em><em>*</em><em>_</em><em>*</em><em>_</em><em>*</em><em>_</em><em>*</em><em>_</em><em>*</em><em>_</em><em>*</em><em>_</em><em>*</em><em>_</em>_*</p>\r\n<h2>PREDATOR ULTIMATE WORLD CHALLENGE - The Ultimate Challenge for the Ultimate reward!\r\n(CONTEST started: 3/5-2011 - ended: 13/5-2011) Played in ze_predator_ultimate_v2</h2>\r\n<p>Are your CS:S community interested in entering a real challege? \r\nSomething that you will be remembered for?\r\nThen this may be it for you ;)</p>\r\n<p>If you win your community will get it's name implemented in the map forever.\r\nYou may design the community logo/names (or whatever you want) on your \"plate\" \r\nwich will be seen at start and end.</p>\r\n<hr>\r\n<h2>INSTRUCTIONS</h2>\r\n<p>ONLY IN VERSION V2 (THIS VERSION)\r\nGo into the devroom (small room in middle of the map) to see the information needed.</p>\r\n<p>LAST DATE TO SEND IN YOUR .DEM FILE: 13/5-2011</p>\r\n<p>To record a demo you type \"record <demoname>\" in console while playing. Type \"stop\" \r\nto stop recording. Once you got a demofile go to /Cstrike and you will find the .dem file there.</demoname></p>\r\n<p><strong><em>THE PLAYERS WHO RECORD PLEASE SPECTATE IN FREE MODE AND FOLLOW THE MAIN GROUP, IT IS IMPORTANT</em></strong>\r\n<strong><em>ALSO INCLUDE EVERYONES NAME IN THE EMAIL/README (also the recorder of course)</em></strong></p>\r\n<p>Good luck and may the best community win..</p>\r\n<table>\r\n<thead>\r\n<tr>\r\n<th>--------------------------------------</th>\r\n<th></th>\r\n<th>ZE_PREDATOR_ULTIMATE CONTEST RESULTS</th>\r\n</tr>\r\n</thead>\r\n<tbody>\r\n</tbody>\r\n</table>\r\n<p>All demos from each community are judged fairly by me (Luffaren)\r\nNo one should try to convince me otherwise since i have set my mind on the winner for reasons i find valid.</p>\r\n<hr>\r\n<h2>1st place - Zm Corporation</h2>\r\n<hr>\r\n<h2>2nd place - Steam Gamers</h2>\r\n<hr>\r\n<h2>3rd place - Syndicate Gamers</h2>\r\n<hr>\r\n<h2>Communities who tried hard</h2>\r\n<h2>Bor3dgaming (sent in demo) <em>4th place</em>\r\nPlaugeFest\r\nFR Supreme Elite</h2>\r\n<hr>\r\n<h2>Achievments</h2>\r\n<h2>Best item user = Zan\r\nBest teamplayer = [bG] Homedog\r\nBest strategy = Bor3dGamers\r\nFastest core climber = Cazador</h2>\r\n<hr>\r\n<h2>EVERYONE WHO PLAYED ON ZM CORP</h2>\r\n<p>Fabio\r\nPatrão\r\nHomeless|\r\nXaves\r\nBrawl\r\n»Frostî«\r\nCazador\r\nThal\r\non3pi3c3'\r\nTermal Hawk\r\nsynz iZ .Krypt3\r\nSunrise\r\nPuRe'\r\n??S?SI???\r\nOº°‘¨ßattuu[SPA]\r\nFL'| Ninja\r\n¬??S» Rushaway\r\nSabino90\r\nSapo Cocas\r\nunnamed\r\nDisco\r\nfuckballs PRED CHAMPION\r\nKoolt3\r\n???HolyShit™ -=pF=-\r\nFL'| Ninja\r\n????????\r\nHard?????SUPRA\r\nYuri BOYKA\r\nDaxter Incognito[2timespredwin]\r\nSinclin\r\nLDN [2 in a row Pred Champ]\r\nPigsaw # Live or Die\r\nI &lt;3 swedish girls</p>\r\n<blockquote>\r\n<h2>-&gt;ghoX1350&lt;-&lt; Preda-win 3 time\r\n¢l???¢?l?†??\r\ndrabori\r\nBA[R]ILIZARLITO\r\nRomRevy\r\n\"Vi@Na [rec on] ???\r\n\"???<em>TlLlPE</em>???\" \r\nbio junior\r\nFoX\r\nv?§?µ\r\nHollow Heart</h2>\r\n<h2>SURVIVORS ON ZM CORP</h2>\r\n<h2>Xaves\r\nV-soul\r\nCazador\r\nFuckballs\r\nSapo Cocas\r\nSinclin\r\nghoX1350\r\nLDN\r\ndrabori\r\nBattuu[SPA]</h2>\r\n</blockquote>\r\n<table>\r\n<thead>\r\n<tr>\r\n<th>--------------</th>\r\n<th></th>\r\n<th>Fast summary</th>\r\n</tr>\r\n</thead>\r\n<tbody>\r\n</tbody>\r\n</table>\r\n<hr>\r\n<p>STEAMGAMERS</p>\r\n<p>\r\n1# SG's first win was the first win of all server, altough it wasn't the best.\r\none zombie untill the spaceship, few zombies at the end, waste of alien sample. \r\nSomehow a player got past the alien altough it should have killed everyone, some players \r\neven got stuck inside the wall. I loved the screaming in the end though, epic victory roar! :P</p>\r\n<p>2# Sg's second win was much better than the first one.\r\none zombie untill the spaceship, fewer zombies at the end. I liked the alien device\r\ntiming and the bossfight itself (some died but they managed to make it anyways). The alien timing was perfect. \r\nI laughed at the human who died by the alien, im such a bad person. this was SG's best win.</p>\r\n<hr>\r\n<p>SyndicateGamers</p>\r\n<p>\r\n1# I really liked sG's win. They had a decent amount of zombies from the beginning untill ZaN killed them all \r\nexcept 1 with the gauss rifle xD. The zombie defense seemed really easy during the bossfight. Im impressed that\r\nthey managed to kill the predator even though so many died during the fight. The alien device timing was really \r\ngood also. They few humans left held back the zombie from getting killed by the alien. They also managed to kill\r\nthe alien just in time (like SG's second win). The victory screaming was once again awesome.</p>\r\n<hr>\r\n<p>Zmcorp (WINNER)</p>\r\n<p>\r\n1# I didn't like the first win at all, The alien should have killed the humans but it pushed them \r\ninside the wall instead. (same scenario as SG's first win) Also for some reason the recorder recorded a failround\r\nin the same demofile.</p>\r\n<p>2# (WINNING DEMO) This was a really good win actually. They had the most amount of zombies at the end and still won, they even \r\nmanaged to beat the predator without any alien device. Well they used the \"corner technique\". Alien timing\r\nwas really good, just like the others. This was their best win of all 4.</p>\r\n<p>3# This demo started right before the final bossevent (climbing towards the core). same amount of zombies as the \r\nsecond demo. The alien got even closer this time, due to the demo starting in the middle of the fight i cant judge\r\non much. This demo wont pass.</p>\r\n<p>4# I didn't like this win either, first of all they recorded 2 rounds again. Secondly most zombies didn't do anything\r\nduring the bossfight. About 70% of the zombies started to move once the zombie bridge activated. The alien lagged\r\n(same scenario as SG's first win) as they should have died.\r\nI wouldn't say that this demo have a bigger chance of winning at all. The 2nd one remains the best win for Zm Corp.</p>\r\n<hr>\r\n<p>Bor3dgaming</p>\r\n<p>\r\n1# bG's win was really good. Fair amount of humans/zombies. Good alien device timing, alien got killed fast and the\r\nteamspeak was great. There was slightly few zombies at the end though, most of them seemed to be far in the back.\r\nThe overall round was pretty decent, i approve.</p>\r\n<hr>\r\n<p>These are fast summaries of each demo, there is smaller detail that i haven't explained above.\r\nPlease accept the fact that you didn't win/get your name implemented in case you didn't.\r\nThe winning community may design their own \"plate\" for me to put in the map.\r\nI will put the playernames of the winning community in the map + a list of the communities who tried.\r\nI hope you all had a fun experience while playing. I dont think that i will make a challenge\r\nagain, but we cant know for sure.</p>\r\n<p>See you ingame!\r\n/Luffaren</p>\r\n<p><em>*</em><em>_</em><em>*</em><em>_</em><em>*</em><em>_</em><em>*</em><em>_</em><em>*</em><em>_</em><em>*</em><em>_</em><em>*</em><em>_</em><em>*</em><em>_</em><em>*</em><em>_</em><em>*</em><em>_</em><em>*</em><em>_</em><em>*</em><em>_</em><em>*</em><em>_</em><em>*</em><em>_</em><em>*</em><em>_</em>_*</p>"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"ze_PotC_v3_4fix.bsp"
+					],
+					"_sMimeType": "application/x-rar"
+				},
+				"_bContainsExe": false,
+				"_idRow": 327466,
+				"_nDownloadCount": 13850,
+				"_nFilesize": 21816479,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/327466",
+				"_sFile": "ze_potc_v3_4fix.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1257336352
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 130933,
+		"_sName": "ze_PotC_v3_4fix",
+		"_sText": "ZE_POTC_V3_4fix\r\nMAP UPDATED FOR NEW CSS\r\nCHANGES:\r\nfixed the bugs from the update\r\nnew waterfall\r\nno more spawnkill but teleports\r\nsome small changes\r\nhave fun\r\n\r\nMake your way from 2 different spawns through the native village, caves and rivers. Jump through waterfalls and defend the mill. Ride the big wheel from PotC. In the end the Black Pearl awaits you and will shoot its cannons for zombie rape :D\r\n\r\nSpecial Features:\r\n\r\n-Jack Sparrows Pistol. Rightclick for zombie backboost.\r\n\r\n-A secret way if you master the wheel. Look at the map after the second bridge in the hut which way to take. otherwise...\r\n\r\n-Random way selection every round. The cave way or the river part.\r\n\r\nGreetings FreeZe\r\n\r\nPS: leave some good comments :)\r\n\r\n"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"ze_POTC_IV_v6_1.bsp"
+					],
+					"_sMimeType": "application/x-rar"
+				},
+				"_bContainsExe": false,
+				"_idRow": 293327,
+				"_nDownloadCount": 3774,
+				"_nFilesize": 50521597,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/293327",
+				"_sFile": "ze_potc_iv_v6_1.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1374493562
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 130932,
+		"_sName": "ze_POTC_IV_v6_1",
+		"_sText": "zepiratesOfTheCaribbeaniv_v6_1\r\n\r\nSORRY THAT IT TOOK SO LONG TO FIX THIS!!! :(\r\n\r\nMap By TaskuVaras, design Taskuvaras and sotamies[fin](Cimbe)\r\nfixed: zm round deleted, humans dont die at the end,hold spotc made more challenging, levels made harder, bugs fixed\r\ninfo: map is based on PIRATES OF THE CARIBBEAN ON STRANGER TIDES map goes all the way from white cab bay to the fountain of youth passing ponce de leon and other places from that great movie.\r\nmap includes: - super weapons on some levels - 4 levels (easy, normal, hard, extreme) - custom music, particles and models - multiple paths - dev room - hdr and cubemaps\r\nI hope you like the map. Feel free to ask if you have any questions, I will be happy to answer them. And of course I would like to hear your feedback. But please spend some time testing the map and writing your feedback and remember, as constructive as possible.\r\nyou are not allowed decompile or make any changes to this map"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"ze_PoR_island_v3.bsp"
+					],
+					"_sMimeType": "application/x-rar"
+				},
+				"_bContainsExe": false,
+				"_idRow": 325720,
+				"_nDownloadCount": 2905,
+				"_nFilesize": 5509767,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/325720",
+				"_sFile": "ze_por_island_v3.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1263222168
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 130931,
+		"_sName": "ze_PoR_island_v3",
+		"_sText": "ze_PoR_island_v3\r\n\r\n\r\n\r\nBY : PORSCHE.AE\r\n\r\n\r\n--------------------------------------------------------------------------\r\n\r\n\r\nin v3:  the map has become easy for humans to win in it . \r\n\r\n\r\n\r\nI hope you like it ."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"ze_PoR_island_b2_2.bsp"
+					],
+					"_sMimeType": "application/x-rar"
+				},
+				"_bContainsExe": false,
+				"_idRow": 327944,
+				"_nDownloadCount": 1634,
+				"_nFilesize": 3836092,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/327944",
+				"_sFile": "ze_por_island_b2_2.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1255781357
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 130930,
+		"_sName": "ze_PoR_island_b2_2",
+		"_sText": "ze_PoR_island_b2_2\r\n\r\n\r\nby : porsche.ae\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nThe final Teleport doesn't work in the last verison , and now its working\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"readme.txt",
+						"ze_Portal_Story_v3_2.bsp"
+					],
+					"_sMimeType": "application/x-rar"
+				},
+				"_bContainsExe": false,
+				"_idRow": 299348,
+				"_nDownloadCount": 6342,
+				"_nFilesize": 45730641,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/299348",
+				"_sFile": "ze_portal_story_v3_2.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1349369263
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 130929,
+		"_sName": "ze_Portal_Story_v3_2",
+		"_sText": "Map by SubDelt@.\r\nThx to: Enviolinador, Synopsis, Luffaren, JorisCeoen.\r\nYou are NOT allowed under any circumstances to edit or/and reupload the map!\r\nYou are NOT allowed under any circumstances to use any parts of the map!\r\n\r\nMap based on the Portal game.\r\nAdded a new HP-bar system, that shows GLaDOS HP in numbers.\r\nAlso added 3 new random paths (4 total).\r\nRate, comment, play nice and remember: cake is a lie...\r\n\r\n-------------------------------------\r\n\r\nV3_2 CHANGE LOG:\r\n\r\nLowered GLaDOS' HP;\r\n\r\nAttempted to fix HP bar glitches, such as \"stucking\" image (when screen shows the same time and HP all the time) and \"extra HP\" (when HP jumps from 0 to 9999). Not sure if it will work on big full servers;\r\n\r\nMade the pipe on the upper right path easier to get it;\r\n\r\nFixed items glitch (they wasn't affecting everyone);\r\n\r\nMade companion cubes appear on every difficulty, not just EXTREME;\r\n\r\nMade companion cube bonuses last every round instead of just one single (bonuses are still random)."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"ze_poon_streetscape_b4": [
+							"ze_poon_streetscapeCREDITS.txt",
+							"ze_poon_streetscape_b4.bsp"
+						]
+					},
+					"_sMimeType": "application/x-rar"
+				},
+				"_bContainsExe": false,
+				"_idRow": 337929,
+				"_nDownloadCount": 2468,
+				"_nFilesize": 5042238,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/337929",
+				"_sFile": "ze_poon_streetscape_b4.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1223033525
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 130928,
+		"_sName": "ze_poon_streetscape_b4",
+		"_sText": "This is a 64 player escape/cade style map. It is quite large it takes about 3 minutes to run the whole map. You can choose to take shelter in some of the buildings and try to hold off the zombies, or run for your life!. There are numerous traps, and dangerous obstacles to overcome. At the end there is a building fortified by the military, with a bomb shelter, where if necessary you can arm the nuke and destroy everyone, and everything in the city!"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"READ MEE.txt",
+						"ze_planbbeta.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 274317,
+				"_nDownloadCount": 489,
+				"_nFilesize": 104798,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/274317",
+				"_sFile": "ze_plan_b_beta_5cf7f.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1488760972
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 130927,
+		"_sName": "ze_planbbetav3",
+		"_sText": "beta v3"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"READ MEE.txt",
+						"ze_planbbeta.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 274337,
+				"_nDownloadCount": 302,
+				"_nFilesize": 93598,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/274337",
+				"_sFile": "ze_plan_b_beta.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1488587190
+			}
+		],
+		"_aLatestUpdates": [
+			{
+				"_aChangeLog": [
+					{
+						"cat": "-",
+						"text": "We added a crate after the 4th gate"
+					},
+					{
+						"cat": "-",
+						"text": "added more props"
+					},
+					{
+						"cat": "-",
+						"text": "Also added credits at the beggining"
+					}
+				],
+				"_sText": "",
+				"_sTitle": "Beta v2 - Plan B",
+				"_tsDateAdded": 1488638825
+			}
+		],
+		"_idRow": 130926,
+		"_sName": "ze_planbbeta",
+		"_sText": "This map is in beta"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"ze_PKMN_Adventure_v8_6s_fix2.bsp",
+						"ze_PKMN_Adventure_v8_6s_fix2.cfg"
+					],
+					"_sMimeType": "application/x-rar"
+				},
+				"_bContainsExe": false,
+				"_idRow": 390849,
+				"_nDownloadCount": 284,
+				"_nFilesize": 58614512,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "Final Balance Patch",
+				"_sDownloadUrl": "https://gamebanana.com/dl/390849",
+				"_sFile": "pkmn_v8_6s_fixver2.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1532491052
+			}
+		],
+		"_aLatestUpdates": [
+			{
+				"_aChangeLog": [
+					{
+						"cat": "Bugfix",
+						"text": "Fixed tons of exploitable bugs"
+					},
+					{
+						"cat": "Adjustment",
+						"text": "Reduced Arceus Laser Speed"
+					}
+				],
+				"_sText": "<b><u>Cases matters</u></b>, if you use lowercases the entwatch is not going to work.",
+				"_sTitle": "Final balance patch (_fix2)",
+				"_tsDateAdded": 1532491260
+			},
+			{
+				"_aChangeLog": [
+					{
+						"cat": "Adjustment",
+						"text": "Reduced Level 3 Wally fight breakable HP Pokemons from 40k to 25k"
+					},
+					{
+						"cat": "Adjustment",
+						"text": "Groudon boss platform is smaller, Roar push speed from 400 to 300"
+					},
+					{
+						"cat": "Adjustment",
+						"text": "Replaced the skipping cutscene with a logic_branch (Thanks moltard)."
+					},
+					{
+						"cat": "Adjustment",
+						"text": "Night Slash laser speed reduced."
+					}
+				],
+				"_sText": "",
+				"_sTitle": "Balance version for CSS (_fix)",
+				"_tsDateAdded": 1532202163
+			}
+		],
+		"_idRow": 130925,
+		"_sName": "ze_pkmn_adventure_v8_6s_fix2",
+		"_sText": "Port made by Lv. 100 Crobat. Special thanks to Moltard, Dakotec and Luffaren.<br><br>The map includes:<br><br>5 Stages to play on.<br>Human Items.<br>Lasers."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"ze_pitchblack_v5.bsp",
+						"ze_pitchblack_v5.bsp.bak"
+					],
+					"_sMimeType": "application/zip"
+				},
+				"_bContainsExe": false,
+				"_idRow": 330295,
+				"_nDownloadCount": 2295,
+				"_nFilesize": 26378114,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/330295",
+				"_sFile": "ze_pitchblack_v5.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1248329829
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 130924,
+		"_sName": "ze_pitchblack_v5",
+		"_sText": "Final Version of ze_pitchblack. Made to fix fps related issues and balance out the zombie sidedness of the map. Flares no longer flash and lite up a lot more of the terrain. map is now much shorter and does not take anywhere near as long to finish.\r\n\r\nEscape ship has been modified to carry more people.\r\n\r\n\r\nUpdate - Friday Septemeber 4 2009\r\n\r\nchange log\r\n\r\nzombie triggered traps added to help give humans an easier time.\r\n\r\nmore lighting added for people to see easier with.\r\n\r\nending platform redesigned\r\n\r\nneedless things that consume fps taken out.\r\n\r\nmore vents added so humans can escape to mines route if need be.\r\n\r\nwhen the ship takes off, if you fall out you will die."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"ze_pirotexnik": [
+							"ze_pirotexnik.bsp"
+						]
+					}
+				},
+				"_bContainsExe": false,
+				"_idRow": 277078,
+				"_nDownloadCount": 343,
+				"_nFilesize": 1887331,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/277078",
+				"_sFile": "ze_pirotexnik.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1470691623
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 130923,
+		"_sName": "ze_pirotexnik_v1fix",
+		"_sText": "<span class=\"GreenColor\">This map is teamwork among</span> <span class=\"RedColor\"><b>people</b>.</span><br><span class=\"GreenColor\">Map Plot:</span><br><b><span class=\"RedColor\">You appear on the roof of the house. Your goal is to pass all obstacles to the bunker.<font style=\"vertical-align: inherit;\"></font></span></b>"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"ze_Pirates_Port_Royal_v3_6.bsp"
+					],
+					"_sMimeType": "application/x-rar"
+				},
+				"_bContainsExe": false,
+				"_idRow": 292627,
+				"_nDownloadCount": 11439,
+				"_nFilesize": 71010328,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/292627",
+				"_sFile": "ze_pirates_port_royal_v3_6.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1377626083
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 130922,
+		"_sName": "ze_Pirates_Port_Royal_v3_6 (FINAL)",
+		"_sText": "Map Features\r\n==================\r\n- Radar\r\n- 64 spawns\r\n- Custom end round overlays for ZR\r\n- 5 different levels\r\n- 4 bossfights\r\n\t- Cannon\r\n\t- Pirate\r\n\t- Barbossa\r\n\t- Kraken\r\n- 6 special items\r\n\t- Sword\r\n\t- Barrel\r\n\t- Bubbles\r\n\t- Wall\r\n\t- Heal (4,5 lvl)\r\n\t- Medallion (4,5 lvl)\r\n- 1 zombie item\r\n\t- Barbossa (4,5 lvl)\r\n- Every item is filtered, others can't spam it\r\n\r\n[CHANGE LOG](http://www.l4dgame.cz/pirates/ \"CHANGE LOG\")"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"ze_piano_escape33f.bsp"
+					],
+					"_sMimeType": "application/x-rar"
+				},
+				"_bContainsExe": false,
+				"_idRow": 322392,
+				"_nDownloadCount": 1654,
+				"_nFilesize": 2708939,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/322392",
+				"_sFile": "ze_piano_escape33f.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1275252233
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 130921,
+		"_sName": "ze_piano_escape",
+		"_sText": "This is a zombie map (not for normal game mode). this is an update from 25f to 33f to fix some simple things and to make it easier to play.\r\nthx to  Ph3onix for helping us debug"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"ze_phantasy_escape_fixed_b1.bsp"
+					],
+					"_sMimeType": "application/x-rar"
+				},
+				"_bContainsExe": false,
+				"_idRow": 327064,
+				"_nDownloadCount": 2522,
+				"_nFilesize": 38534391,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/327064",
+				"_sFile": "ze_phantasy_escape_fixed_b1.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1258811244
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 130920,
+		"_sName": "ze_phantasy_escape_fixed",
+		"_sText": "This is the fixed version of my zombei escape map phantasy_escape\r\n\r\nIt&#8217;s dessigned for max. 64 Players!\r\nBoth teams start in a cave where they have 3 Options to go.\r\n1 &#8211; take the green path to a labyrinth\r\n2 &#8211; take the blue path to some dark rooms and flying bathtubs\r\n3- take the red path to a gondola \r\nAll these paths come together before a big river with a (very cute) dragon in it.\r\nHere they need to defend the river for 30 seconds &#8211; \r\nThen the dragon starts moving to the other side. \r\nThe humans now have to walk down a long tunnle.\r\nAt the end, there&#8217;s a nice little river &#8211; the boat should be the fastest way to cross it.\r\nWhen the river is crossed, a teleporter brings the player to a huge lake with the holy pyramide in it&#8217;s middle &#8211; when the pyramide is defended for one minute a teleprt brings those who&#8217;re on top of it to a safe place and kills all the others (hopefully zombies)\r\nTHIS IS A VERY EARLY RELEASE! If you test it anyways please give me a quick feedback &#8211; I&#8217;d really be happy `bout that!\r\nthanks and have fun\r\nBRATMAXE\r\n\r\nFIXED BUGS/OTHER STUFF:\r\n\r\n- added barricades and trigger_push to keep zombies away for a moment\r\n- boat and gondola cannot be blocked anymore\r\n- fixed some texture stuff\r\n- improved fps \r\n- some new textures and designs\r\n- balance improvements\r\n- fixed glitching spots\r\n- Added AFK kills all around the map"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"ze_phantasy_escape 4.bsp"
+					],
+					"_sMimeType": "application/x-rar"
+				},
+				"_bContainsExe": false,
+				"_idRow": 327365,
+				"_nDownloadCount": 1495,
+				"_nFilesize": 39056655,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/327365",
+				"_sFile": "ze_phantasy_escape_6.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1257634830
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 130919,
+		"_sName": "ze_phantasy_escape",
+		"_sText": "Finally my newest map &#8222;ZE_PHANTASY_ESCAPE&#8220;  has reached the Beta-Stadium.\r\nThis is the first public release but the map should work fine.\r\n\r\nIt&#8217;s dessigned for max. 64 Players!\r\nBoth teams start in a cave where they have 3 Options to go.\r\n1 &#8211; take the green path to a labyrinth\r\n2 &#8211; take the blue path to some dark rooms and flying bathtubs\r\n3- take the red path to a gondola \r\nAll these paths come together before a big river with a (very cute) dragon in it.\r\nHere they need to defend the river for 30 seconds &#8211; \r\nThen the dragon starts moving to the other side. \r\nThe humans now have to walk down a long tunnle.\r\nAt the end, there&#8217;s a nice little river &#8211; the boat should be the fastest way to cross it.\r\nWhen the river is crossed, a teleporter brings the player to a huge lake with the holy pyramide in it&#8217;s middle &#8211; when the pyramide is defended for one minute a teleprt brings those who&#8217;re on top of it to a safe place and kills all the others (hopefully zombies)\r\nTHIS IS A VERY EARLY RELEASE! If you test it anyways please give me a quick feedback &#8211; I&#8217;d really be happy `bout that!\r\nthanks and have fun\r\nBRATMAXE\r\n\r\nUPDATE** 8.11.09\r\n\r\n- Lightbridge added so humans can cross the lake after the dragon left\r\n- added some details in pyramid area\r\n- built cubemaps\r\n- fixed some leaks near the little river\r\n- added 2 missing textures\r\n- some additional messages on spawn\r\n"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"ze_paycheck_b1.bsp"
+					],
+					"_sMimeType": "application/x-rar"
+				},
+				"_bContainsExe": false,
+				"_idRow": 448776,
+				"_nDownloadCount": 181,
+				"_nFilesize": 1369262,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/448776",
+				"_sFile": "ze_paycheck_b1.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1581544729
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 130918,
+		"_sName": "ze_paycheck_b1",
+		"_sText": "humans must get paycheck before zombies do"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"ze_parkour_fix.bsp"
+					],
+					"_sMimeType": "application/x-rar"
+				},
+				"_bContainsExe": false,
+				"_idRow": 320664,
+				"_nDownloadCount": 5278,
+				"_nFilesize": 1689878,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/320664",
+				"_sFile": "ze_parkour_fix.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1280775300
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 130917,
+		"_sName": "ze_parkour_fix",
+		"_sText": "a parkour inspired map.\r\n\r\nrun through the city jumping over in and out stuff, ride on skate boards, jump through the air in low gravity areas and more\r\n\r\n<b>this map has: </b>\r\n\r\n64 spawnpoints\r\n3d skybox\r\nwtfboom nuke :) (of course)\r\noptimised for better fps\r\na dozen interactive items\r\n\r\nand also contains:\r\n\r\n<b>a secret pushgun:</b>\r\n\r\nyou operate the pushgun by aiming the purple pointer at the zombies you want to push backwards and press E (use button). after that wait 10 seconds before you can use it again (a message will pop up in the console telling you when it has reloaded).\r\n\r\n\r\n<b> please comment and leave an assessment :)</b>"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"ze_Parking_v3_1.bsp"
+					],
+					"_sMimeType": "application/zip"
+				},
+				"_bContainsExe": false,
+				"_idRow": 309616,
+				"_nDownloadCount": 6022,
+				"_nFilesize": 65525712,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/309616",
+				"_sFile": "ze_parking_v3_1.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1313936718
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 130916,
+		"_sName": "Ze_Parking_v3_1",
+		"_sText": "Specifications :\r\n\r\n- 64 players\r\n- afk teleport\r\n- cubemap\r\n- particles\r\n- 4 weapons\r\n- 1 controled weapon\r\n- level system (with buttons to change difficulties for admin)\r\n\r\nThere is 3 levels with 2 difficulties, The levels get longer when you win it, it's working like that :\r\n\r\n- Level 1 = Level 1 (5 min)\r\n- Level 2 = Level 1 + level 2 (7/8 min)\r\n- Level 3 = Level 1 + level 2 + level 3 (9 min)\r\n\r\n**The story :**\r\n\r\n********* NEWS FLASH ************\r\n\r\nThat's crazy, there is zombies everywhere !! YES ZOMBIES !!!\r\n\r\nArmy is here to help for the evacuation, but they are almost all gone !!\r\n\r\noh no what is it ..... ahhhhh\r\n\r\n*************END*****************\r\n\r\nYou are the last survivors, the last messages invite us to evacuate to the parking in the middle of the city but they won't wait for long time !\r\n\r\nLet's go ! but be carefull, there is still some zombies around us.\r\n\r\nV3_1\r\n\r\n- fix bug that can make run again and again the warmup round\r\n- fix proxi mine, there was only 5 i/o 15\r\n- fix ammo disp, sometime you didn't get bullet\r\n- fix lvl change from 2 normal to lvl 3 xtrem (system changed)\r\n- modify climb part on broken ramp (clip)\r\n- adding visual effect on alarm cars\r\n- reduc time of stuck for CT on alarm cars (-1s), also the alarm get disable for 5s once someone touch the cars (to avoid huge stuck players)\r\n- moving back the cover on 1st floor, it's was too big, too much CT didn't cover\r\n- 100pts for players who have access to special weapons\r\n- change the special weapons access for less bug and players who try hard to get push again and again\r\n\r\n\r\nV3_0 :\r\n\r\n- fix bug map on level 2, you was able to avoid the bomb\r\n- more difficulties with alarm car which stuck you\r\n- adding 1 floor for level 1\r\n- there is now a warmup round, find a good spot, you can go at different places that you can't reach after\r\n- there is 3 new weapons that you can only take is you win the level\r\n- the leveling system is more simple, you will change of level if you reach the last cover point\r\n- modify cover points : 1st floor, truck floor with exploding roof, last cover point for level 2 (tower are back) and level 3 you should wait before go on the roof\r\n- weapons are filtered, no spam is possible\r\n- modify flamethrower burning and limit the proxi_mines quantity\r\n- new minigun and proxi mine models\r\n- adding some light on weapon to know when they are ready\r\n- adding some kind of wall on the access ramp, ct can't shoot zombies back\r\n- modify lot of timming\r\n- now weapons spawn randomly (minigun, flamethrower, grenade launcher and proxi mines)\r\n- remove the play everywhere sound from the minigun, and change is working\r\n- adding colorcorrection when extrem mode is on\r\n- breaking floor that lead to stairs before elevator is now very longer (10s to wait instead 4s before)\r\n\r\nV2a :\r\n\r\n- fix crash at the end of level2\r\n- timming adjustment\r\n- some little way modification on floor 12 / 13\r\n- weapon modification : minigun cooldown X2 and push reduce 60%, proxi_mines cooldown +5s\r\n\r\nV1c\r\n\r\n- fix leveling system that previously allow CT to win when it's lost\r\n- fix crashing client (hl2.exe ...) at the very end of level 2\r\n- fix floor 1 door which was closing when it should be open\r\n- flamethrower cooldown change from 60s to 45s\r\n- proxi mine are unlimited but cooldown change from 5s to 10s\r\n- modification of AFK teleport timming and adding an alert\r\n- modification of timming and barricades on holding at floor 1, 9 and 13\r\n- adding teleport + message for zonbies who waitting for the elevators\r\n- Level 3 is now shorter and can be finish\r\n- moving the weapons spawn for grenade launcher and proxi mine (closer to the way)\r\n- add doors on the sides entries, all paylers are at the sametime at the ramp to floor 1 \r\n- zombies spawn 5s later\r\n\r\nV1b :\r\n\r\n- visual bug correction\r\n- elevator doors fix\r\n- falling floor / roof modification to avoid stuck\r\n- falling roof from level 2 at trucks modify (teleport) to avoid stuck players too\r\n- fix respawn/die, this was come from the map"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"ze_parkers_pit_b8.bsp"
+					],
+					"_sMimeType": "application/x-rar"
+				},
+				"_bContainsExe": false,
+				"_idRow": 296904,
+				"_nDownloadCount": 3859,
+				"_nFilesize": 96652883,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/296904",
+				"_sFile": "ze_parkers_pit_b8.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1358869222
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 130915,
+		"_sName": "ze_parkers_pit_b8",
+		"_sText": "PARKERS PIT - ZOMBIE ESCAPE\r\n===========================\r\n\r\nCREATED BY JB_GAMBLE\r\n\r\nFEATURES\r\n========\r\n\r\n64 PLAYERS\r\n\r\n12 ACHIEVEMENTS\r\n\r\nGAS CAN TRAPS\r\n\r\n5 ENDINGS\r\n\r\nACHIEVEMENTS\r\n============\r\n\r\n\r\n### 1. LET'EM BURN - WEAPON UNLOCK - THE IGNITER\r\n\r\nSet fire to Zombies using 3 gas can traps.\r\n\r\n### 2. MELON KILLER - ITEM UNLOCK - UNLIMITED AMMO CRATE\r\n\r\nFind and destroy 6 melons.\r\n\r\n### 3. JUMP THE GAP\r\n\r\nAll Humans jump the rock pit without anyone falling in. ( 50 POINTS - TEAM )\r\n\r\n### 4. STAY BACK! - ITEM UNLOCK - FIRST AID KIT\r\n\r\nKeep Zombies off the back platform of the lift. ( 50 POINTS - TEAM )\r\n\r\n### 5. DEFEAT THE ADVISORS\r\n\r\nKill the Combine Advisors. ( 175 POINTS - TEAM )\r\n\r\n### 6. HEADS UP\r\n\r\nLand on the Combine Advisors head. ( 175 POINTS - INDIVIDUAL )\r\n\r\n### 7. MR B. HOP\r\n\r\nGet from the Mine entrance to the end of the small tunnel in 8 seconds or less. ( 75 POINTS - INDIVIDUAL )\r\n\r\n### 8. BRING THE GNOME\r\n\r\nFind and take the Gnome to every ending. ( 50 POINTS - INDIVIDUAL )\r\n\r\n### 9. 10 OR MORE\r\n\r\nHave 10 or more Humans at the first ending. ( 50 POINTS - TEAM )\r\n\r\n### 10. 12 OR MORE\r\n\r\nHave 12 or more Humans at the second ending. ( 50 POINTS - TEAM )\r\n\r\n### 11. 15 OR MORE\r\n\r\nHave 15 or more Humans at the third ending. ( 75 POINTS - TEAM )\r\n\r\n### 12. 18 OR MORE\r\n\r\nHave 18 or more Humans at the fourth ending. ( 100 POINTS - TEAM )\r\n\r\nUPDATES\r\n=======\r\n\r\n**B8**\r\n\r\n- Added More Hold Points\r\n- Round 2 Ending Hold Changed\r\n- Round 2 Door Timing Changed\r\n- Round 2 Airboat Speed Increase\r\n- Round 4 Train Hold Changed\r\n- Fixed Zombie Train Glitch Message\r\n- Fixed Round 5 Lift Glitch\r\n- Adjusted Boss Health\r\n- Adjusted Damage To Electric Pool\r\n- Adjusted Container Jump Spot\r\n- Minor Adjustments To Overall Map\r\n- Minor Visual Changes/Fixes\r\n\r\n**B7**\r\n\r\n- Added Zombie Detector on Round 4 End Train\r\n- Added Boss Health Indicator\r\n- Added Helpful Info At Boss\r\n- Added Ammo Resupply at Boss\r\n- Added Igniter Secondary Ability ( Extinguishes Fire On Humans )\r\n- Added Damage Filter to Gas Cans\r\n- Added Trigger_Remove at Round 2 Doors\r\n- Minor Adjustments To Overall Map\r\n\r\n**B6**\r\n\r\n- Minor Visual Changes/Fixes\r\n- Round 2 Ending Hold Changed\r\n- Added Ammo To Pickup Weapons\r\n- Removed Zombie Block On Round 4 End Train\r\n- Minor Balance Changes\r\n- Fixed Round 1 Achievement Glitch\r\n- Fixed Combine Advisors Push\r\n- Fixed Zombies Strafe Jumping Round 3 Lift\r\n\r\n**B5**\r\n\r\n- Fixed Round 5 Nuke Glitch\r\n- Small Balance Changes\r\n- Added Info On Weapon Unlocks\r\n- Removed A Doorway at Spawn\r\n\r\n**B4**\r\n\r\n- Fixed Nuke Glitch\r\n- Balance Adjustments\r\n- Added 3 New Achievements\r\n- Added 2 New Unlockable Item\r\n- Music Adjustable Via Audio Options\r\n\r\n**B3**\r\n\r\n- Fixed Crash\r\n- Big Optimization\r\n- Added Achievements\r\n- Fixed Missing Textures\r\n- Added Helpful Info i.e *** Door Open - 5 Seconds ***\r\n- Balanced Round 3 Lift Ending\r\n- Balanced Round 4 Bridge Ending\r\n- Graphical Changes\r\n- Admin Room - Select Any Round / Nuke Button\r\n\r\nFEEDBACK\r\n========\r\n\r\nBugs, Glitches and Gameplay Issues"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"ze_Paranoid_Rezurrection_v11_9.bsp"
+					],
+					"_sMimeType": "application/x-rar"
+				},
+				"_bContainsExe": false,
+				"_idRow": 328467,
+				"_nDownloadCount": 9691,
+				"_nFilesize": 52063485,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/328467",
+				"_sFile": "ze_paranoid_rezurrection_v11_9.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1253902367
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 130914,
+		"_sName": "ze_Paranoid_Rezurrection_v11_9",
+		"_sText": "Paranoid V11.5 > V11.9:\r\n\r\n\r\n    Antlion Guard and Giant Crab are now immune to speed changes; so freezing weapons, traps and labyrinth triggers have no effect on them; Antlion keeps being fast, Crab keeps being slow.\r\n    Giant Crab now automatically destroys projectiles of most weapons like those from the Annihilator, Rocket Launcher, Singularity Gun, Thundergun and Freezer.\r\n    Added new Coliseum Ending: Fight the Special Zombies. This will kill all normal zombies and allow you to fight the rest (from Zombie Jumpers to Balrogs and Titans, every zombie that picked a special knife).\r\n    Coliseum Mode “Fight the Titan” has been sightly changed. Now the zombies have 10 seconds to pick up the monster, when the time runs out every zombie will die but the one that picked the giant monster.\r\n    Reverse Mode has been reworked/improved. Now there are two new holds and you can walk into the portal area at the begging of the first labyrinth from the ground level.\r\n\r\n-------V11_5\r\nA LAG-free version, with many fixed bugs and important gameplay and difficulty balances. Enjoy it!\r\n\r\n-------V10_4\r\n- Many bugs fixed\r\n- Many things improved\r\n\r\n-------V10_1  ( -----------> FINAL VERSION OF PARANOID <----------- )\r\n- CRASH PROBLEM FIXED!!!\r\n- Adapted for new update!\r\n- Many weapons use the new particle system of the new source engine update!\r\n- New starting modes.\r\n- New monster (Pyramid Head)\r\n- New items (erendil light, the crowd, the wall carrier)\r\n- Huge list of changes (more than 100, I can't list all them)\r\n\r\nNo more versions will be re\r\n\r\nIMPORTANT:\r\nThis Reborn_V8 version won't be the last one. \r\nWe noticed a small list of bugs that will be fixed in a final version called ze_Paranoid_Reborn_Final. Will be the last version.\r\n\r\nALL Changes at Turbo v7 and v8\r\n\r\n----------V8:\r\n- Titan charge action\r\n- Zombie teleporter\r\n- Singularity Cannon\r\n- Ladder bearer\r\n- Fire and protection spirits\r\n- Lost smoke (like uber secret that you dudes won't discover never)\r\n- 1 new ending mode (Kill the Titan)\r\n- new starting mode: voluntary mode (humans choose if they are turned into zombies)\r\n- new starting mode: VIP mode (if the VIP die, everybody dies)\r\n- new starting mode: ultimate fighting at coliseum (all weapons, and all monsters and coliseum with unlimited ammo)\r\n- the Ghost from v1\r\nRead more on: : i3D.net Game Forums http://forum.i3d.net/showthread.php?t=104797\r\n- New 2º lab structure\r\n- New design of the 1º lab\r\n- New high trigger: hard core mode (floor doesn't fly at core, will be difficult to hold at core)\r\n- High secret: the architect room (control of the triggers of the map)\r\n- Some other things I can't remember\r\n\r\n----------V7:\r\n- Lag preventing at core\r\n- Balance fixes at many zones or moments\r\n- Trying to solve the crash problem\r\n- Some other things\r\n- Zombie boss speed glitch fixed\r\n- Reverse mode its easier and the !ztele glitch fixed\r\n\r\n- New starting mode: 3 sides only (this will focus the action at the half of the map, a mode with more zombie moments, works like random firstly).\r\n- New starting mode: 1 way mode (will be like a normal escape: it starts like massacre mode, the zombies spawn behind the humans, will be a fixed way with the random walls that will act like defending spots, you can pick some of the special weapons, and take another at core).\r\n- New starting mode: reverse Silent Hill (like reverse but with Silent Hill mode, spawn at corridoor->weird core->2º lab->1º lab->spawn)\r\n- New ending at coliseum: all weapons reward (if you choose this option, all weapons will be pickable at next round at spawn)\r\n- Improved bestial mode: all weapons will be teleported at spawn (17 weapons).\r\n- Improved No Barriers mode: non-stop until reach the core ball, the high speed for CT will be activated.\r\n- New item CT: wall controller (the picker can open and close the walls of 1º and 2º lab)\r\n- New item CT: Juggernaut (Dog model from HL2, the picker have like 4 or 5 more hits of HP, you can charge pressing the 2nd button (hurt and push)).\r\n- New item CT: Kamikaze (the picker that activates the item with 2nd button will burn in flames and die after 2 seconds with an explosion that hurts 5.000 to near zombies).\r\nRead more on: : i3D.net Game Forums http://forum.i3d.net/showthread.php?t=104797\r\n- New item T: zombie summoner (zombies can be able to teleport to the picker position with an extra teleport at zombie hall).\r\n- New item T: zombie stopper (the picker will modify his speed, preventing being pushed by nades or cancelling the freezer effect).\r\n- New item CT: slower (if the picker activate this item, an area will be activated, if zombies touch this area will be slowed, if they leave it, will return at his original speed. 20 s of duration, 30s of recharge).\r\n- New item CT: builder (the picker can build 15 pieces of barricade, with 150 of HP each one)\r\n- New item T: Titan (less pushback, the zombie can destroy breakable props or people in short range with 2nd mouse click, more HP, less speed, intimidating aspect (Gargantua model from HL:source)).\r\n\r\nChanges at Turbo v6_1:\r\n- Changed illumination\r\n- Fixed all bugs from Turbo v5\r\n- More balance\r\n- Improved the \"reverse mode\"\r\n- Gravity trigger removed\r\n\r\n\r\nChanges at Turbo v5:\r\nSpecial Weapons:\r\n\r\nNew Special Weapon: TurtleThrower.\r\n\tTurtleThrower info: Shoots with a ratio of 0.5/sec; max 2 turtles at the same time, turtles attach themselves to zombies hurting 200 dmg/sec. Damaging turtles stay up for 1-20 seconds or as long as new turtles are shooted.\r\nThis new Special Weapon also includes a famous sound when you picked it up.\r\n\r\nAnnhilator its now a normal Special Weapon instead of a secret; but its room isn’t allways open.\r\n\tAnnhilator: Improved the effects on the bullet. Still has only one shot (kills zombies and walls on his way).\r\n\tGiant Chainsaw: “Lag” on the user completly removed. When picking it you will keep moving as normal.\r\n\tGravity Gun: Improved damage on throwing objects and will be usable until the core. Improved Area of Effect when pushing zombies. The “?” room with the Gravity Gun contains now several pickable items. There is also a high-damage-pickable cat somewhere, go find it!\r\n\tVulcan-Minigun: power increased by +50%. Area of effect slightly increased aswell.\r\n\r\n\tThere are now 8 Special Weapon Rooms (“?” Rooms) instead of 4, wich contain every round (except on Bestial Mode) all the 8 Special Weapons: Annihilator, FlameThrower, Freezer, GravityGun, GiantChainsaw, RocketLauncher, TurtleThrower and the Vulcan-Minigun.\r\n\tSpecial Weapon Rooms reworked: better visuals and now only require a single Crouch-Jump for getting in; none for getting out.\r\n\r\n\tNew Monster available for Zombies, wich is slow and deadly at the same time.\r\n\tJumping-Zombie-Knife won’t get deactivated by the Core-Event. Watch out humans!\r\n\tTeleport-Zombies-Gun is now activated with Right-Click instead of “on picking it”. This weapon generates a fase-event in front of the human wielding it that will Teleport any zombie that touches it into the Jail-Room. Remains for 15 second after activation, only one charge.\r\n\r\n\r\nGame Modes and Gameplay:\r\n\r\n\tNew Selection Mode: Reverse Mode. In this mode you will start at the Coliseum and you will finish at the Spawn zones. Its a faster round very different from the other rounds. Like Silent Hill Mode, Reverse Mode gots his own diferent.ending.\r\n\r\n\tMasacre at the Buyzone Mode: now there is an invisible wall in the middle of the dark corridor with the light (the Buyzone) as an attempt to reduce the starting Zombie Infection.\r\n\r\n\tSilent Hill and No-Wall Modes now only require 1 person (instead of 2) for activating. However, the new random-spawning won’t allow you to chose the closest number to those places as previously.\r\n\t\r\n\tThe Spawn-Rooms (From 0 to 9) will teleport you now to a random destination inside the labyrinth instead of a fixed one; so you can’t chose where you will appear (only with what people).\r\n\tThe Spawns on the First Labyrinth have now “Magic Portals” that will teleport you to the opposite side of the Labyrinth.\r\n\t\r\n\tReduced the lag and increased the FPS on the Core.\r\n\tHumans have 1.5 extra seconds during the Core Event before the “Massive Zombie Teleport” occurs.\r\n\tAdded a new ramp (blocked by a Barrier) on the Core. This ramp is there for people that are a little late to the core, or those falling down (but not inside the Core). Barrier opens at the same time as the “Holding Spot” ones.\r\n\r\n\tThe Powerup “It’s a Trap!” (only Zombie) is now destroyed if a human touches it, preveting zombies from activating it.\r\n\tThe Powerup “It’s a Trap!” will teleport people to the Second Labyrinth instead of the First Labyrinth.\r\n\tThe Powerup “Global Push” its now “only Humans” (for activating) and will affect only to zombies.\r\n\r\n\r\nVisuals and Design (all new visual changes have been done or opined by Kaemon, less the Core):\r\n\r\n\tReworked slightly the Spawn Room to fit with the ending of the new “Reverse Mode”.\r\n\tReworked visuals of the First Labyrinth: Every one of the 8 zones has now diferent looking walls; aswell as a “Magic Portal” at the start. The basic idea of the 1st Labyrinth remains unchanged; changes were only aesthetic.\r\n\tReworked slighly the visuals of the Second Labyrinth; looks nicer and the doors fit perfectly on every place where they appear.\r\n\tReworked the Coliseum for a nicer look and to fit with the new “Reverse Mode”.\r\n\tReworked completly the visuals of the Core Room for great looking and epic ending.\r\n\r\n\tReworked the Defending Zones at the end of the First and Second Labyrinths; they look nicer and are easier to defend.\r\n\tReworked the “Crate-Defending-Spots” at the middle of the Core. Now zombies can’t infect humans from down so easly; and if they give it a try they will fall into the Core deeps right after.\r\n\r\n\tChanged the Map and the Signs on the Jail Room: Now uses cardinals directions instead of numbers; doors teleports are also more logically placed respectly to the map in the floor.\r\n\tChanged the Radar and Global Overviews to mach with the new Special Weapon Rooms (“?” Rooms), also added a “Z” to indicate the eight zombie-only teleports back to the Jail Room.\r\n\tThe Powerup “Global Darkness” reworked; now is less annoying and can’t be confused with “Total Blindness” anymore.\r\n\tThe weird and ugly black shadows had been fixed; now the map illumination is normal.\r\n\r\nExtras:\r\n\r\n\tEntData has been slightly reduced. (Map should work better)\r\n\tNow there is a “Boring round” event that will activate if not a single human reaches the 2nd Labyrinth before the minute 5:00 mark. When this happen, humans still have 20 seconds to reach some of the 2nd Labyrinth doors; if they fail doing so, “Human Ownage” will be activated, ending the round.\r\n\tNow there are 3 Trigger Hurts at the Jail, White Room and Coliseum Teleporting Zone that will do allmost no-damage to humans staying on them for some seconds; but will kill them faster after those seconds. This is to prevent last humans being AFK inside some AFK Zombies.\r\n\r\n\tRemake of the Core-Ending Zone for making it more Human-Friendly was discussed; but with 7 Special Weapons (not Annihilator, Pistols or Gandalf’s Staff included) available on each round., and 1.5 extra seconds before the zombies “mass-teleport”, was found un-necesary and remains unchanged.\r\n\r\n\tFor all those that still don’t know, for using most of the Special Weapons, select your Knife or Grenade, and use your Secondary Mouse Button. This includes also the Pistol Weapons: “Teleport Zombies” (a single use), “Grenade Maker” (15 charges), “Sprint Weapon” and “Invulnerabilty Weapon”.\r\nExceptions are: the GiantChainsaw (wich is allways activated), Gandalf’s Staff (wich has an usable button in the middle, like it does in Moria), the C4-Explosive (wich must be used and then throwed; destroys Labyrinth walls and hurt zombies) and the Flying Elites, Destroying Labyrinth Pistol and Hurt Zombies Pistol (wich are all three activated for a short time after picking them).\r\n\r\n\r\nChanges at v4_1:\r\n- Stadium fixed\r\n- Triggers optimized (less chance of server crash)\r\n- Some not important adjustments\r\n- Minor bug fixes\r\n\r\nChanges at v4:\r\n- Zombie Boss Speed reduced from 2.5 to 2.0 and deactivates in both Core and SilentHill endings.\r\n- Added a new \"Powerup\" that switches the player controls.\r\n- Removed the \"Powerup\" of \"Weak Humans\" (reduced their life to 1 hp; being senseless on normal mode, and making all die by fire on Sillent Hill mode)\r\n- Removed the \"Human Push\" at the ending of the Core.\r\n- The \"Powerup\" Global Push\" won't activate after Silent Hill or No Walls modes are activated.\r\n- Some Triggers optimized or converted into Logic_Relay for better optimization and reducing the EntData of the map.\r\n- Zombies in the \"Jail Room\" (9 Doors Room) can't no longer Teleport to a Zone without humans (this should encourage the Human vs Zombie fight on the 1st labyrinth).\r\n- Reworked the \"Hold Position\" on the Core (the old Crates) into an easier to defend zone.\r\n- Every 40 seconds; humans on the \"Jail Room\" have a chance to escape and use the doors to teleport back to the Labyrinth; whoever, they will be unarmed >:-)\r\n- Sprint Weapon won't work on the Silent Hill mode ending.\r\n- The Anhiliator's Damage and Area of Effect had been increased.\r\n- Giant Chainsaw's Damage greatly increased (from 500 to 1000/sec).\r\n- Silent Hill's Mode: Red Circle of Light now should work on all rounds. It was getting bugged when Gadalf's staff was picked on that round.\r\n- Now, when Bestial Mode is activated, the 1st Labyrinth won't have any walls.\r\n- Silent Hill secret breakable button has been removed. It was only added for testing purpouses. Now you can’t open the Secret if it wasn’t randomly opened at the begging of the round.\r\n- Now humans have infinite ammo when holding on the Core Elevator (the very ending of the Core)\r\n- Silent Hill and No-Walls modes secret places (where you can activate them) have now a chance of 33% each of opening, and 33% of none being open.\r\n- Now there is an open Path throught the 1st Labyrinth, before the walls start to toggle. This should reduce the chances of encounter many closed walls in a row at the very beggining.\r\n- Less time of waiting in case of zombie afk or noob at spawn zone (free selection, bestial mode, random).\r\n\r\nA huge labyrinth, random walls (ways), traps, triggers, powerups, weapons, different starting modes, different game modes, many finish modes, rewards... This is not a normal ze, weird and annoying for some people, and funny and unique for another people.\r\n\r\nThe structure of the map is the next one:\r\nSpawn - A small minigame to select some zombies:\r\n- 1: random group selection\r\n- 2: zombie free group selection (zombie can choose one of the 9 CT groups)\r\n- 3: 1 faster zombie (boss mode)\r\n- 4: Massacre at buyzone: CTs and the zombie will escape from their jails, the doors will open and the zombie will be able to kill anyone at the buyzone room.\r\n- 5: Bestial mode: zombie boss+free selection+all the weapons of the map (including the Annihilator and Gandalf staff) will be spawned at the start zone.\r\n\r\n1º labyrinth - A labyrinth with random walls that open and close instantly every 10-20s.\r\n2º labyrinth - A labyrinth with moving walls that open and close every 1-5 s.\r\nThe core - Not a labyrinth. There are 3 modes of play the core.\r\n- Normal mode: humans must reach the core and defend at crates.\r\n- No walls mode (activate a trigger): humans must reach the core and not to defend.\r\n- Silent Hill mode (activate a trigger): a Silent Hill themed ending.\r\nFinal arena - if humans win, they can choose one of the 12 modes to kill the zombies (at the arena), (for example, kill with god mode).\r\n\r\n-----Defending points\r\nThe 2º and core walls are closed. Everywone starts at 1º, the first human group that reaches the 2º walls must defend his position during 30s until the walls open (if a zombie arrives before they won't open). When a labyrinth opens his exterior walls, ALL the random walls of the previous labyrinth will open. Same with core.\r\nRead more on: : i3D.net Game Forums http://forum.i3d.net/cs-source-work-progress/66742-ze_paranoid.html\r\n\r\n----Things to do the gameplay more interesting\r\nThe walls of the laberynth are random, this means that no one will know what way must follow. (i.e: you are runing and u see the 2º labyrinth exterior walls, but, 5 s before reach the walls, the wall closes in front of you, and some zombies appears at your right).\r\nMain hall of zombies, zombies will start at a hall, they can see the position of the humans and they can teleport near their positions. Humans won't die coz traps or falls, they will be teleported to the jail of this room; zombies can return to this room with some teleports at the map.\r\nSecrets, there are 4, the two more powerful triggers are hidden, and the rideable ghost and monster for zombies.\r\nEndings, there are 3 modes to reach the core (if CT activates some triggers or not).\r\nFinishing, 12 modes of killing all zombies at arena.\r\nPowerups,\r\nThere are 44 powerups at the labyrinth, that will give you powers or habilities, to everyone or to yourself or to the opposed team, etc..\r\n· Temporaly to players(11): affects the picker during 10s or 30s (speed, fly...)\r\n· Temporaly to players(7): affects everyone during 10s or 30s (blind, gravity, speed,...)\r\n· Temporaly for teams(9): affects temporaly one of the two teams during 10 or 40s (slow zombies, faster CT, unlimited ammo)\r\n· Temporaly for scenary(2): affects the scenary during 20 or 40s (darkness, inundation)\r\n· Final triggers(2): modify the scenary permanently, and changes the gameplay.\r\nWeapons\r\nThere are 5, they will change the position everyrounds:\r\n· Flamethrower: burn zombies and ignite the scenery\r\n· Rocket Launcher: throws a missile that bounces at the walls.\r\n· Giant chainsaw\r\n· Gravity gun: pick physic props and throws them, you can combite it with the flare ( a ball of inifnite duration, hurts zombies 100/s and the proyectile can attach to any zombie, the zombie can save his life touching another zombie)\r\n· Vulcan (minigun): no reloading, the only weapon that can stop a horde of zombies.\r\n· Freezer: freezes zombies during 10s. They can't move, the perfect moment to kill them easily.\r\n· Annihilator: only 1 shoot. This weapon will destroy everything, normal zombies will be instantly killed, and the doors on his path of the 1º labyrinth will be destroyed.\r\n· Gandalf staff: same as Moria. Push enemies.\r\n· Upgrade pistols (x2): blue pistol will give you more speed during 10s, green pistol will give you god mode during 20s.\r\n\r\nWeapons for zombies\r\n· Jumper power: the zombie can make big jumps and charge.\r\n· Monster: more speed and kill and stunt effect.\r\n\r\n\r\nYoutube video with the weapons:\r\nhttp://www.youtube.com/watch?v=alLAtzUyWjM (no Annihilator, and the ghost was removed)"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"ze_paradox_final_v7.bsp"
+					],
+					"_sMimeType": "application/x-rar"
+				},
+				"_bContainsExe": false,
+				"_idRow": 484072,
+				"_nDownloadCount": 115,
+				"_nFilesize": 79640457,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/484072",
+				"_sFile": "ze_paradox_final_v7.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1599172102
+			},
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"ze_paradox_final_v7.cfg"
+					],
+					"_sMimeType": "application/x-rar"
+				},
+				"_bContainsExe": false,
+				"_idRow": 484126,
+				"_nDownloadCount": 54,
+				"_nFilesize": 516,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "Entwatch",
+				"_sDownloadUrl": "https://gamebanana.com/dl/484126",
+				"_sFile": "ze_paradox_final_v7_ab4c5.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1599216113
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 130913,
+		"_sName": "ze_paradox_final_v7",
+		"_sText": "Hello guys, this is a new map for counter strike source, zombie escape mod based on paradox.<br><br>the map has 3 stages with items and lasers in both stages.<br><br>-stage1: Team work abilities.<br><br>Players must works together to win this stage, u have 3 ways possible in this level.<br><br>blue way: defend against zombies attacks and wait that the red way open the ways for them.<br><br>red way: no zombies in this way but u must survive to the different traps to trigger and open the way for the blue way.<br><br>white way: items and traps, take items, survive and rejoin as fast as possible the blue way to help them.<br><br>Stage 2: solo abilities. Show your skill and u can win this level alone, this stage is divided in many parts where u must show ur skill and survive. <br><br>btw u have possibilities to choose between « solo mod » and « team mod » if u succeed to reach the objective fixed in each part of this stage.<br><br>solo mod: it kill all cts who failed to reach the objective.<br><br>team mod: it bring all cts who failed to reach the objective on the next part to let them another chance if they still humans.<br><br>stage 3: Paradox. <br><br>U will discover the map by yourself.<br><br>enjoy.<br><br>"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"README_PARADISE.TXT",
+						"ze_paradise_v1.bsp"
+					],
+					"_sMimeType": "application/x-rar"
+				},
+				"_bContainsExe": false,
+				"_idRow": 340227,
+				"_nDownloadCount": 14362,
+				"_nFilesize": 5013636,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/340227",
+				"_sFile": "ze_paradise_v1.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1216492609
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 130912,
+		"_sName": "ze_paradise_v1",
+		"_sText": "Paradise takes open-ended CS:S environments to a level beyond even what The Lost World could provide by giving you a dynamic environment chock full of traps, mines, vehicles, and good old fashioned climbing against a pristine tropical backdrop. You'll find that this map offers a high amount of replay value as there are several (over four) ways to reach your objective at any one time and several perilous pitfalls to halt your progress.\r\n\r\nWALKTHROUGH:\r\n\r\nYou start disoriented in sunken ship with only your crew mates and weapons to begin with. You can break out of the lower deck by destroying the weakened hull or take another route through a damaged vent and out the other end of the ship. Option 1: You can swim straight toward the first island.\r\n\r\nOption 2: You can shoot the debris off of a sunken zodiac, where it then rises to the water's surface, and it will take you all the way to the Fishing Village.\r\n\r\nOption 1 will lead you to the beach of the first island where you have three options: Left ramp up, right ramp up, or rope straight to the top. Climbing the rope is a dangerous action as the rope will randomly break within a 10 second period, and anyone still climbing could fall to their death.\r\n\r\nEntering the island's interior will lead to new problems as land mines will throw you off the island (not kill you) and wood traps will encircle unwary victims. At the other end of the first island will offer four options: You can take a rope tram to the second island, jump over a very tall rock formation to the second island, take an old (and dangerous) cable that connects the two islands and fourth take the man's route and swim (which will probably get you zombified!).\r\n\r\nThe second island offers a much more condensed jungle with more mines to watch out for until you reach a clearing. Here are another four options: Use the hang gliders (hold the left mouse button and use WASD to glide), 'surf' down the cliff side to the V-22 Osprey waiting below in the village, jump into the water and free the zodiac boat from the cable it's attached to at the dock, or swim like a man (again, you'll probably get turned doing this.)\r\n\r\nThe boat and osprey offer their own obstacles which must be given attention, and the hang glider unfortunately cannot gain lift without sufficient wind, so either way you'll probably be treading water as you try to reach the volcanic island of Wilmekea Peak. Remember, if you need to swim, swim AROUND the buoy in order to make it to the third and final island.\r\n\r\nOnce you reach the volcanic crater, descend down the shaft to the ancient's room where remnant equipment of a failed experiment still lay awaiting input. Setting off the magma chamber charges will thus make Wilmekea unstable and will eventually trigger a spectacular eruption that will destroy all life on the archipelago.\r\n\r\nSECRET: The hang gliders cannot lift on their own, since they are technically gliders. However, all hang gliders can take lift from wind updrafts created from when wind currents hit cliff walls and move upward. There is a secret wind updraft against the second island's cliff, all you have to do is make a LEFT U-TURN once you get into the hang glider and fly alongside the cliff TOWARD spawn. Gain enough altitude and you'll be able to fly all the way to Wilmekea Peak!\r\n\r\nTIPS: HOLD the left mouse button down and use WASD to control the glider. Gliders are not precision machines, they respond to directional movements slowly and cannot fly backwards... easily.\r\n\r\nSwim AROUND the buoy in the ocean to reach the other side of the ocean currents in order to reach Wilmekea Peak.\r\n\r\nThere is a zodiac hanging by a cable on the dock & fillet house at the Fishing Village. Shoot the cable and the boat will fall into the ocean. Watch out for ocean-faring predators!\r\n\r\nPress the emergency button in the V-22 Osprey aircraft to commence extraction. You can climb on top of the V-22 if things get hairy, but keep your eyes peeled for incoming objects.\r\n\r\nISSUES: Low FPS is experienced by older computers. Sorry, that's the price that's paid for open ended environments like Paradise. The vast majority of users should not have a problem.\r\n\r\nThere are also minor vehicle glitches, but most of the time things should run smoothly. Please tell me if you experience an overwhelming amount of glitches with the Osprey. To alleviate the \"falling out\" effect, try jumping onto the roof of the Osprey while you wait for extraction.\r\n\r\nSTORY:\r\n\r\nJuly 23, 2009 1023 Zulu\r\n\r\nThe South Pacific has long been of interest to the Americans as it has traditionally provided a haven for radical South Asian terrorist cells. As a SEALS Operator you were sent undercover on an oiltanker to investigate local terrorism in the pristine Wilmekea Archipelago. Unfortunately, your tanker hit a WWII-era mine that degraded the hull. Upon arriving to shore it was clear that there were no humans--instead this place seems to have been a terrorist biochemical facility gone awry.\r\n\r\nA virulent rabies strain had been developed at Wilmekea and has since spread to every island. A crewmate has been bit by an infected rat and quickly turned. You must reach the local Fishing Village for extraction, and await further orders. Paradise is over, son.\r\n\r\nMap by: Butterknife (Jaekto)\r\nTexture support: Japetheape\r\nFlora & Fauna: Stene, Raptor Phillips\r\n\r\n\r\nBe sure to check out my other maps: Jurassic Park, The Lost World, and Teen Pregnancy!"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"ze_paper_escaper_v6_6c2.bsp"
+					],
+					"_sMimeType": "application/x-rar"
+				},
+				"_bContainsExe": false,
+				"_idRow": 304161,
+				"_nDownloadCount": 5459,
+				"_nFilesize": 83896847,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/304161",
+				"_sFile": "ze_paper_escaper_v6_6c2.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1332704824
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 130911,
+		"_sName": "ZE_PAPER_ESCAPER: CONTEST FIX!",
+		"_sText": "VERSION 6_6c AND 6_6c2 ARE THE VALID CONTEST VERSIONS. I DO RECOMMEND, HOWEVER, THAT YOU UPLOAD 6_6c2 SO IT'S A FIXED AND SLIGHTLY BALANCED VERSION.\r\n========================================================================================\r\n\r\n\r\nWhat's new?\r\n==================\r\n\r\n- Improved boss system\r\n- Antispam system\r\n- New level (THE END)\r\n- Filtered glasspanes\r\n- Doors that lock themselves so that griefers can't grief\r\n- Hard level is harder, and the boat is boater\r\n- Transparent water\r\n- Holding time at some places lowered\r\n- Ammo box lag fixed (Hopefully)\r\n- The contest (see below)\r\n\r\nThe contest:\r\n==================\r\n<a href=\"http://steamcommunity.com/groups/ZPECONTEST \"SteamGroup (Where you should submit your videos/bugs\">SteamGroup (Where you should submit your videos/bugs)</a>\")\r\n\r\nThe contest, as stated in the SteamGroup, consists in submitting a video (upload it to youtube, please) in which you show how you beat THE END. Showing yourself beating MASSACRE's boss is also encouraged, as it will help me decide which should make it to the list in case there are a lot of entries -I doubt this, but well-.\r\n\r\nI suggest you read the whole information at the SteamGroup. Also, As you might have noticed, I have NOT described this new level -I won't-. I want you to legally beat the WHOLE map, and because of that I will only say one thing about the last level: if you fail, you go back to MASSACRE. Sounds hard, huh? We will see. \r\n\r\nPS: There's a way in which you can actually disable that level loss; read what Console says (it might help)."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"ze_palm_island_nav72.bsp"
+					],
+					"_sMimeType": "application/x-rar"
+				},
+				"_bContainsExe": false,
+				"_idRow": 319632,
+				"_nDownloadCount": 3975,
+				"_nFilesize": 18088967,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/319632",
+				"_sFile": "ze_palm_island_nav72.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1283038098
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 130910,
+		"_sName": "ze_palm_island_nav72",
+		"_sText": "The map is optimised,stable fps.\r\nZE Escape.\r\n64 spawnpoint.\r\n(For a basis the map is taken ze_icecap_escape_b6 The author SonicTheHitManHog)"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"ze_outlast_v1": [
+							"ze_outlast_v1.bsp"
+						]
+					}
+				},
+				"_bContainsExe": false,
+				"_idRow": 281126,
+				"_nDownloadCount": 3300,
+				"_nFilesize": 2633198,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/281126",
+				"_sFile": "ze_outlast_v1.7z",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1444521348
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 130909,
+		"_sName": "ze_outlast_v1",
+		"_sText": "currently 1 stage complete (out of future possible 3-4 stages).\r\nmap is designed as close as possible to original game."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"ze_outbreak_v2_1.bsp"
+					],
+					"_sMimeType": "application/zip"
+				},
+				"_bContainsExe": false,
+				"_idRow": 332171,
+				"_nDownloadCount": 1788,
+				"_nFilesize": 9040937,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/332171",
+				"_sFile": "ze_outbreak_v2_1.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1241193630
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 130908,
+		"_sName": "ze_outbreak_v2_1",
+		"_sText": "<fieldset><legend>Update 1-5-09: Version 2</legend>\r\n- Added a wall in the final room which makes it easier for the remaining survivors to defend that place.\r\n- Added one small secret place.\r\n- Added \"move directions\".\r\n- Increased the strength of some fences.\r\n</fieldset>\r\n\r\n<fieldset><legend>Update 17-4-09: Version 1.2</legend>\r\n- Removed the moving platform behind the roof doors. You could get stuck in it, then use !zstuck and get in a place where you couldn't get out.\r\n- Changed the door sounds. The old ones didn't sound very good.\r\n- Changed the speed of the elevators at the second floor, so that the zombies can catch up with the survivors a bit earlier.\r\n- Added some more obstacles in the final room to (hopefully) make it easier for survivors.\r\n</fieldset>\r\n\r\n<fieldset><legend>Update 11-4-09: Beta 3 -> Version 1</legend>\r\n- Removed a bug that would stop the mine shaft elevators from moving when the button to activate those elevators was pressed too early.\r\n- Added a fence that has to be destroyed before players can enter the pool.\r\n</fieldset>\r\n\r\n\r\n<fieldset><legend>Update: 10-4-09</h2></legend>\r\n- Changed the end of the map\r\n- Fixed some bugs\r\n- Added more console messages\r\n- Added a couple more details\r\n</fieldset>\r\n\r\nThis is the second zombie escape map I created. The first one was pretty bad, so when I got this new idea I decided to work it out.\r\n\r\nYou have to escape from a (jail) complex by making your way up to the final control room, where you can acces the computer to release a nerve gas."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"ze_outbreak_v1_2.bsp"
+					],
+					"_sMimeType": "application/zip"
+				},
+				"_bContainsExe": false,
+				"_idRow": 332795,
+				"_nDownloadCount": 1326,
+				"_nFilesize": 8827902,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/332795",
+				"_sFile": "ze_outbreak_v1_2.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1239270416
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 130907,
+		"_sName": "ze_outbreak_v1_2 (17-4-09)",
+		"_sText": "<fieldset><legend>Update 17-4-09: Version 1.2</legend>\r\n- Removed the moving platform behind the roof doors. You could get stuck in it, then use !zstuck and get in a place where you couldn't get out.\r\n- Changed the door sounds. The old ones didn't sound very good.\r\n- Changed the speed of the elevators at the second floor, so that the zombies can catch up with the survivors a bit earlier.\r\n- Added some more obstacles in the final room to (hopefully) make it easier for survivors.\r\n</fieldset>\r\n\r\n<fieldset><legend>Update 11-4-09: Beta 3 -> Version 1</legend>\r\n- Removed a bug that would stop the mine shaft elevators from moving when the button to activate those elevators was pressed too early.\r\n- Added a fence that has to be destroyed before players can enter the pool.\r\n</fieldset>\r\n\r\n\r\n<fieldset><legend>Update: 10-4-09</h2></legend>\r\n- Changed the end of the map\r\n- Fixed some bugs\r\n- Added more console messages\r\n- Added a couple more details\r\n</fieldset>\r\n\r\nThis is the second zombie escape map I created. The first one was pretty bad, so when I got this new idea I decided to work it out.\r\n\r\nYou have to escape from a (jail) complex by making your way up to the final control room, where you can acces the computer to release a nerve gas.\r\n\r\nThis is the Beta version. I hope that you will post some constructive feedback (if you have any), so I can improve the map and upload a final version if necessary."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"ze_ore_mine_beta_v6.bsp"
+					],
+					"_sMimeType": "application/x-rar"
+				},
+				"_bContainsExe": false,
+				"_idRow": 320891,
+				"_nDownloadCount": 1299,
+				"_nFilesize": 2267161,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/320891",
+				"_sFile": "ze_ore_mine_beta_v6.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1280347262
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 130906,
+		"_sName": "ze_ore_mine_beta_v6",
+		"_sText": "My first map ;)\r\nbeta v1\r\n- max 60 players (30/30),\r\n- some secrets :),\r\n- 3 undriveable vechicles,\r\n- some traps,\r\n- map on about 10 minutes (or less),\r\n- on server could be noblock.\r\nbeta v2\r\n- max 64 players (32/32),\r\n- more secrets.\r\nbeta v3\r\n- 1 respawn more.\r\nbeta v4\r\n- more secrets. \r\nbeta v5\r\n- more secrets.\r\nbeta v6\r\n- fixed bugs. "
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"maps": [
+							"ze_or.bsp",
+							"ze_or.nav",
+							"ze_or.txt"
+						]
+					},
+					"_sMimeType": "application/x-rar"
+				},
+				"_bContainsExe": false,
+				"_idRow": 328982,
+				"_nDownloadCount": 2008,
+				"_nFilesize": 22448473,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/328982",
+				"_sFile": "maps_141.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1252256304
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 130905,
+		"_sName": "Ze_or",
+		"_sText": "\"ZE_OR\"\r\n\r\n===Story===\r\n\r\ninspired by games of terror.\r\n\r\n \r\nmapa or CS:S Zombie Mod.\r\n*demonstration of objective\r\n\\/          \\/\r\n<object width=\"340\" height=\"285\"><param name=\"movie\" value=\"http://www.youtube.com/v/dJcVz4SNSn0&hl=pt-br&fs=1&color1=0x5d1719&color2=0xcd311b&border=1\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://www.youtube.com/v/dJcVz4SNSn0&hl=pt-br&fs=1&color1=0x5d1719&color2=0xcd311b&border=1\" type=\"application/x-shockwave-flash\" allowscriptaccess=\"always\" allowfullscreen=\"true\" width=\"340\" height=\"285\"></embed></object>\r\n\r\n \r\n===furnitures===\r\n-hdr / ldr  \r\n-colorcorrection\r\n-62 spawn points\r\n-overview\r\n-textures\r\n-sounds\r\n-overview\r\n-random teleports\r\n-random objects\r\n-random traps\r\n-traps\r\n-secrets\r\n-score points\r\n-respwan barrels\r\n-custon skybox\r\n-weapons\r\n-hurt lava \r\n-cubemaps\r\n-skins\r\n-nav file\r\n"
+	}
+]

@@ -1,0 +1,82 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "readme.txt",
+					"cstrike": {
+						"maps": [
+							"de_dust5.bsp",
+							"de_dust5.nav",
+							"de_dust5.res",
+							"de_dust5.txt"
+						],
+						"materials": {
+							"models": {
+								"props": {
+									"de_dust5": [
+										"du_highwall01.vmt",
+										"du_highwall01.vtf",
+										"du_highwall02.vmt",
+										"du_highwall02.vtf",
+										"oilrig01.vmt",
+										"oilrig01.vtf"
+									]
+								}
+							},
+							"wall": [
+								"bobmarley.vmt",
+								"bobmarley.vtf",
+								"dust5_wall01.vmt",
+								"dust5_wall01.vtf",
+								"dust5_wallpaper.vmt",
+								"dust5_wallpaper.vtf"
+							]
+						},
+						"models": {
+							"props": {
+								"de_dust5": [
+									"du_highwall01.dx80.vtx",
+									"du_highwall01.dx90.vtx",
+									"du_highwall01.mdl",
+									"du_highwall01.phy",
+									"du_highwall01.sw.vtx",
+									"du_highwall01.vvd",
+									"oilrig01.dx80.vtx",
+									"oilrig01.dx90.vtx",
+									"oilrig01.mdl",
+									"oilrig01.phy",
+									"oilrig01.sw.vtx",
+									"oilrig01.vvd"
+								]
+							}
+						},
+						"sound": {
+							"ambient": {
+								"music": [
+									"dust5.mp3"
+								]
+							}
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 360364,
+			"_nDownloadCount": 3827,
+			"_nFilesize": 5063102,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/360364",
+			"_sFile": "de_dust5_2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1127664523
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 102086,
+	"_sName": "de_dust5",
+	"_sText": "Author notes\r\nThis map is a fun map of a scene in marokko. 2 bombsite's. One in the oil resources and one by the temple resources. Also included a .nav for working bots and hud radar screen\r\n\r\nThanks to peter calvart who found the bug in the .nav file. He emailed me the .nav file so bots can now acces all areas"
+}

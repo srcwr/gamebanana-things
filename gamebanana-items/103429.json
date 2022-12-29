@@ -1,0 +1,40 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"maps": [
+						"de_pacman.bsp"
+					],
+					"materials": {
+						"de_pacman": [
+							"pacwall.vmt",
+							"pacwall.vtf"
+						]
+					},
+					"sound": {
+						"misc": [
+							"pac_intro.wav"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 358612,
+			"_nDownloadCount": 2608,
+			"_nFilesize": 305333,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/358612",
+			"_sFile": "de_pacman_2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1142273580
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 103429,
+	"_sName": "de_pacman",
+	"_sText": "Ported this from couple old 1.6 maps, not sure who originally did them but I want them to take most of the credit.  Basically, I redid textures, added a skybox, redid some structural stuff.  It should pretty well match the gameplay from the 1.6 de_pacman map.  Borrowed intro sound from a map by CRAZG."
+}

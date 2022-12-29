@@ -1,0 +1,30 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"mg_smokenade_dodgeball_final": [
+						"mg_smokenade_dodgeball_final.bsp"
+					]
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 328682,
+			"_nDownloadCount": 2447,
+			"_nFilesize": 3874567,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/328682",
+			"_sFile": "mg_smokenade_dodgeball_final.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1253152450
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 128699,
+	"_sName": "mg_smokenade_dodgeball_final",
+	"_sText": "My new smokenade dodgeball mini game map! You spawn with 1hp and a smokenade. If you hit someone directly with a smokenade or a flashbang, it does 1 damage so the idea is to literally play dodgeball. Besides the smokenade you start with you get them at the 11 grenade symbols around the map. The the floating text that says +1hp will set your health to 2 so that it takes 2 smokenades to kill you. There are only 2 of these on the map and each one can only be used once per round. All glitches from the last version have been fixed, the smokenades now disappear when they fall to the bottom of the map and if you walk over a nade symbol while already having one equipped, the smokenade will disappear after 1 second. \r\n\r\nI changed the logic on how the smokenade is spawned and then equiped to you with a complicated system that enables an output to be possible that kills a nade that is spawned but not picked up after 1 second. The engine glitch that occurred when you throw a smokenade and walk over one of the symbols while the throwing animation is still going on causing you to not be able to pick anymore up and not throw the one you have is fixed. I put a delay on the grenade equip and a weapon strip around the trigger so that it ends the animation immediately allowing you to pick up another. Nothing short of brilliant."
+}

@@ -1,0 +1,140 @@
+{
+	"_aAlternateFileSources": [
+		{
+			"description": "RIDDLEB0X SOURCE",
+			"url": "http://riddleb0x.rf.gd/css/maps/custom/de_drn0s_nuclear_facility.zip"
+		}
+	],
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"cs_drn0s_nuclear_facility.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 457371,
+			"_nDownloadCount": 294,
+			"_nFilesize": 3823659,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "Hostage Rescue 32 vs 32",
+			"_sDownloadUrl": "https://gamebanana.com/dl/457371",
+			"_sFile": "cs_drn0s_nuclear_facility_f203e.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1586843367
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_drn0s_nuclear_facility.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 457372,
+			"_nDownloadCount": 197,
+			"_nFilesize": 3826249,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "Bomb Defusal 32 vs 32",
+			"_sDownloadUrl": "https://gamebanana.com/dl/457372",
+			"_sFile": "de_drn0s_nuclear_facility_21e5e.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1586843383
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"pvp_drn0s_nuclear_facility.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 457373,
+			"_nDownloadCount": 57,
+			"_nFilesize": 3822351,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "4 CT vs 20 T",
+			"_sDownloadUrl": "https://gamebanana.com/dl/457373",
+			"_sFile": "pvp_drn0s_nuclear_facility_44327.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1586843395
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"who_drn0s_nuclear_facility.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 457374,
+			"_nDownloadCount": 66,
+			"_nFilesize": 3819319,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "Weapons Hunt Operation 10 CT vs 10 T",
+			"_sDownloadUrl": "https://gamebanana.com/dl/457374",
+			"_sFile": "who_drn0s_nuclear_facility_596a2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1586843405
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"cs_drn0s_nuclear_facility.nav",
+					"de_drn0s_nuclear_facility.nav",
+					"pvp_drn0s_nuclear_facility.nav",
+					"who_drn0s_nuclear_facility.nav"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 459584,
+			"_nDownloadCount": 82,
+			"_nFilesize": 133743,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "NAV MESHES [FULL BUILDS]",
+			"_sDownloadUrl": "https://gamebanana.com/dl/459584",
+			"_sFile": "drn0s_nuclear_facility_nav_meshes.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1587932382
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Adjustment",
+					"text": "ALL 4 MAP VERSION NAV MESHES"
+				}
+			],
+			"_sText": "Now all 4 map versions carry fully built navigation meshes. There are still quite a few things i could do to these navigation meshes but for the most part / over all/ all around conditioning on all 4 nav meshes are now in this pack fully built up and A LOT better than the default navigation meshes the game itself will create with out one.&nbsp; labeling all the rooms in all 4 maps would be cool and im sure i will find more spots here and there where bots may need a little bit more assistance or&nbsp; behavioral alterations but for now, this update is crucial for the nav meshes and truly straighten the bot play out very well on all 4 map versions. the hostage rescue nav mesh may need a bit more work for sure. SO STAY TUNED CHILDREN!<br>",
+			"_sTitle": "NAVIGATION MESH PACKAGE UPDATE",
+			"_tsDateAdded": 1587932788
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "not solid prop changed to solid prop"
+				}
+			],
+			"_sText": "Im very upset right now.. I was amidst finalizing a really nice nav map for cs_drn0s_nuclear_facility when i found that a prop_static model of a push cart was NOT SOLID. I was immediately irritated because now the nav mesh i spent an hour on and all four map versions needed to have this F*#king changed to&nbsp; prop_dynamic SOLID. This prop was smack in the middle of a main bomb sight/hostage rescue room entrance. i feel stupid as hell and know its because i smoke tha mad buhds that i some how missed this damn prop. so now ive quickly wasted over an hour updating all 4 maps getting them onto the server the b2z files for download the zips for here and the zips for the vmfs of the maps all repacked and uploaded to their respective areas. these maps i swear to god i hope are F#*king DONE because i cant stand to continue to update this damn map!?!! On a brighter side note. ive almost well-enough figured out how to truly optimize a nav mesh. certain areas needed new nav areas made and i needed to remove alot of areas to remake the areas so honestly changing the prop and ruining all the bsp versions was almost a faster route than reiterating the nav meshes there compared to a completely nav_generated mesh lol. so.. now with this update. hopefully ill never have to change any of the .bsps ever again. and hopefully the next package i upload will be nav meshes for all four maps. im starting with cs_drn0s because the hostages are requiring more work to create the path ways and if more demanding than the other map styles. so. Cheers and Heres to hopefully never changing this map again and finally being finished with the damn thing! <br>",
+			"_sTitle": "ALL MAPS UPDATE",
+			"_tsDateAdded": 1586844050
+		}
+	],
+	"_idRow": 101907,
+	"_sName": "de_drn0s_nuclear_facility",
+	"_sText": "JOIN dr.N0 at his MYSTERIOUS sLAUGHTER HOUSE!<br>=====================================================<br>dr.N0's MYSTERIOUS SLAUGHTER HOUSE\\____________________<br>66.242.13.202:27015  - US_ CHICAGO - CLASSIC CS:S NO WEAPON BANS________________________________________________________<br><br>MOTDPAGE: http://riddleb0x.rf.gd/drn0/motdpage.php<br>MOTDPAGE: http://riddleb0x.rf.gd/css/motdpage.php<br>THEE0CCULT: https://www.gametracker.com/clan/thee0ccult/<br>CHECK OUT dr.N0S HIDDEN:SOURCE SERVER!!<br>MOTDPAGE: http://riddleb0x.rf.gd/hdn/motdpage.php<br>=====================================================<br>"
+}

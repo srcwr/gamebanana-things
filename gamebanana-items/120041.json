@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"die_starwars.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 311207,
+			"_nDownloadCount": 2362,
+			"_nFilesize": 8258831,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/311207",
+			"_sFile": "_6877-.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1309598883
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 120041,
+	"_sName": "die_starwars",
+	"_sText": "Starwars re-made from 1.6. This map was requested from a friend of mine so I attempted to re-create it. This is pretty close to the original except you can control R2D2 and R4D4 and have them shoot out missiles. I wanted to have a cam for both robots but the source engine only allows for one camera and monitor at a time, so R4D4 has no monitor.\r\n  The Sand crawler is also not drivable like the original because of real physics the source engine has, so it is on a track. The land speeders take a little time to get used to driving because of the lack of the function_drivable in the source engine."
+}

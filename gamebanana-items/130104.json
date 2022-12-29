@@ -1,0 +1,73 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"test_weaponpolygon.bsp",
+					"test_weaponpolygon.bsp.bak",
+					"test_weaponpolygon.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 276448,
+			"_nDownloadCount": 2028,
+			"_nFilesize": 14520396,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/276448",
+			"_sFile": "mapfortest.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1474732067
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Added \"Connector\" which um...connect \"shooting range\" and \"spawn\""
+				},
+				{
+					"cat": "-",
+					"text": "Added \"bot_crouch\" \"bot_dont_shoot\" buttons."
+				},
+				{
+					"cat": "-",
+					"text": "Added button in \"connector\", that turn OFF the light (exept sun)"
+				},
+				{
+					"cat": "-",
+					"text": "Added \"Clear Decals\" button in \"shooting range\""
+				},
+				{
+					"cat": "-",
+					"text": "Added \"?\" buttons, that give you info about commands."
+				},
+				{
+					"cat": "-",
+					"text": "Removed \"Auto Team Balance\" button, because its useless. (now this command activate when you're respawn)"
+				},
+				{
+					"cat": "-",
+					"text": "Removed \"Limit Teams\" button, because its useless. (now this command activate when you're respawn)"
+				},
+				{
+					"cat": "-",
+					"text": "Moved Hostages Rescue Zone."
+				},
+				{
+					"cat": "-",
+					"text": "Changed buttons properties: Now buttons can activate \"Use\" only and delay set from \"1\" to \"0.1\""
+				}
+			],
+			"_sText": "Don't be shy, add your criticism, suggestions, what to add, what to remove, etc...<br><br><br><br>",
+			"_sTitle": "Update - v1.1",
+			"_tsDateAdded": 1477248123
+		}
+	],
+	"_idRow": 130104,
+	"_sName": "Map For Testing",
+	"_sText": "Map For Testing:<br>-Custom Weapons<br>-Custom Playermodels<br>-Custom Hostages<br><br>Map Name - test_weaponpolygon.bsp<br><br>"
+}

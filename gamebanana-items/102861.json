@@ -1,0 +1,35 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrike": {
+						"0": "de_kilo2_hdr_info.txt",
+						"maps": [
+							"de_kilo2_hdr.bsp",
+							"de_kilo2_hdr.nav",
+							"de_kilo2_hdr.res",
+							"de_kilo2_hdr.txt"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 351381,
+			"_nDownloadCount": 3663,
+			"_nFilesize": 17202219,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/351381",
+			"_sFile": "de_kilo2_hdr.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1179970848
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 102861,
+	"_sName": "de_kilo2_hdr",
+	"_sText": "Extraxt this file to the Counsterstrike Source maps folder\r\n\r\n================================================================================\r\n* LEVEL INFORMATION *\r\n--------------------------------------------------------------------------------\r\nTITLE                   : DE_KILO II HDR\r\nFILENAME                : de_kilo2_hdr.bsp\r\nAUTHOR                  : Bluestrike McQueen\r\nDATE                    : 26 februari 2007 \r\nGAME                    : half-Life 2 COunter-Strike Source.\r\nEMAIL ADDRESS           : Bluestrike@bluestrike.be\r\nHOMEPAGE URL            : http://www.bluestrike.be\r\n \r\n--------------------------------------------------------------------------------\r\n* LEVEL DESCRIPTION *\r\n--------------------------------------------------------------------------------\r\nMap is set in a artic/tundra envoirement, a old soviet submarine base with\r\ndiesel submarines (Kilo class)\r\n \r\nNEW TEXTURES            : Some custom skins, terrain textures.\r\nNEW MODELS\t\t: Railings, lamppole, submarine, torpedos, ...\r\n\r\n--------------------------------------------------------------------------------\r\n* CONSTRUCTION *\r\n--------------------------------------------------------------------------------\r\nMAP BASE                : de_kilo for HL1.\r\nMAP VERSION\t\t: build 101 \r\nPREFABS USED            : none\r\nEDITOR(S) USED          : Hammer 4,0, Softimage XSI and Paint Shop Pro \r\nOTHER UTILITIES USED    : none \r\nKNOWN BUGS              : none.\r\n \r\nCOMPILE MACHINE         : Core2duo Qx6700 2gb DDR2\r\n \r\ncompile time\t\t: 1.5 hours (-final compile)\r\ntime spend on building \t: 3 months along with a second map\r\n\t\t\t  1.3 release 2 years aftter initial release.\r\n\r\n--------------------------------------------------------------------------------\r\n* OTHER LEVELS BY THE AUTHOR *\r\n--------------------------------------------------------------------------------\r\nToo many to name but here is a pick:\r\n\r\ncs_beirut (Counter-strike)\r\nde_fort (Counter-strike)\r\n\r\nNickrock (Farcry singleplay)\r\n  \r\ncs_beirut 2 (Counter-strike source)\r\n\r\n--------------------------------------------------------------------------------\r\n* SPECIAL INSTRUCTIONS / ADDITIONAL INFORMATION *\r\n--------------------------------------------------------------------------------\r\nFixes 1.2\r\n- Added additional spawnpoints to support up to 33 vs 33 on 64 player servers.\r\n- Double door from lockersroom to hangaar for the heavyer player load.\r\n- Added additional crates outside as extra cover around the hotspot\r\n  with possible heavyer player load.\r\n- Gfx change: added a texture on top side of the bureau and locker rooms.\r\n\r\nFixes 1.3:\r\n- Added hdr support.\r\n- Added 'green' radar image\r\n- Added custom models\r\n- general tweaks.\r\n\r\n\r\n \r\n--------------------------------------------------------------------------------\r\n* CREDITS *\r\n--------------------------------------------------------------------------------\r\nSpine for the terrain and model skins. http://www.spineroyal.com/\r\nValve for their awesome game and support\r\nThanks to all the tutorial makers out there.\r\nThanks to the people who gave valuable feedback.\r\n\r\n\r\n================================================================================\r\n* COPYRIGHT / PERMISSIONS *\r\n--------------------------------------------------------------------------------\r\nRedistributing is allowed.\r\n\r\nBluestrike, Belgium."
+}

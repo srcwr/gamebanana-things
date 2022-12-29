@@ -1,0 +1,27 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"cs_siege_v3.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 274385,
+			"_nDownloadCount": 1183,
+			"_nFilesize": 6113230,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/274385",
+			"_sFile": "cs_siege_v3.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1488263261
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 100445,
+	"_sName": "cs_siege_v3",
+	"_sText": "This is a playable port of cs_siege from 1.6.&nbsp; I decompiled the original map then went through and replaced the old textures with CS:S textures.&nbsp; I also redid all of the lighting entities as they did not decompile properly.&nbsp; <br><br>Additionally:<br>-Doors Removed<br>-T base reduced in size<br>-Two hostage rescue zones (bridge and tunnel end)<br>-Moved hostages into garage for balance<br>-Map seems to lag in some spots (tweet me @vybeypantelonez if you know how to fix that), but is fully playable.<br>-Some spots simplified, still func_detail-ing the map though<br>-Still a WIP but looks decent<br><br>Will be releasing the .vmf file tomorrow but I'm too tired to do it now."
+}

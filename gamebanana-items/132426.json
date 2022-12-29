@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"zm_natalyas_ship_v3.bsp"
+				],
+				"_sMimeType": "application/x-7z-compressed"
+			},
+			"_bContainsExe": false,
+			"_idRow": 341676,
+			"_nDownloadCount": 7519,
+			"_nFilesize": 7944197,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/341676",
+			"_sFile": "zm_natalyas_ship_v3.7z",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1211765794
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 132426,
+	"_sName": "zm_natalyas_ship_v3",
+	"_sText": "<font face=\"arial\" color=\"#6666FF\"><b>zm_natalyas_ship_v3</b>\r\n- Made by Natalya[AF] -\r\n\r\n\r\n<b>Features</b>\r\n64 Spawns\r\nCubemaps\r\nRadar Map\r\n3 Drivable Boats\r\nGerman .88 FlaK\r\nNew Secrets\r\nNew Ship\r\nNew Look\r\n\r\nOkay, so this is version 3 of zm_natalyas_ship.  There have been many changes, and I will now go over all of them for you...\r\n\r\n\r\nFirst off, the fps on this map has been dramatically increased from what it was on _v2a.  By using area portals and hint brushes I was able to raise the FPS quite a bit for the outside of the ship.  This was probably the biggest thing I did to the map, and took the most time of all of the changes, giving me a solid foundation for everything else I did with the map.\r\n\r\nNow for the interesting stuff...\r\n\r\nThe German FlaK .88:\r\nThis was originally a prefab made by uberkirsche (now banned from fpsb) and could be found in the original version of zm_runforyourlife by Markokka.  However, for my map, I have edited it substantially.  It now fires a double-shell for both physics and actual damage (so it can knock the boats around when it hits them) and it has been edited to remove a crash bug.  The map will NOT crash your server even though it has this cannon in it.  The FlaK will kill a human outright in 1 hit, even if it misses by 10 feet or so.  7-8 hits are required to kill a zombie, depending on how much health they are given and the accuracy of the gunner.  Occasionally it will get stuck for one round, but during beta testing this only happened twice.  This bug doesn't affect the rest of the map.\r\n\r\nThe Island:\r\nIt has been completely redone.  It is now a fortress instead of a radio tower.  There are two doors to the stairs to the FlaK on top.  The doors can be closed from the stairwell.  Once closed, you can't open them from outside, but I have put a secret passage that will take you from the basement of the island to the inside of the stairwell.  It's a difficult secret though.  The basement is almost exactly like it was in previous versions.\r\n\r\nThe New Ship:\r\nThis is a small Polish barge.  It has one secret on board, and has a few camping spots.  Watch out for FlaK fire though if you're near a window.\r\n\r\nGlass Platform Secret:\r\nThis has been modified.  Try to re-learn it.  :)  It still gives 999 kills.\r\n\r\nBoats:\r\nThis map has the two boats from _v2a as well as the mini boat from the original zm_natalyas_ship, except it actually works here.\r\n\r\nOther Changes:\r\nI have changed some areas of the big ship...  Some like the command tower and bridge were changed to improve FPS, while other spots were edited elsewhere.  Notably, the area with the truck has been re-done with two more spots, and the rafter over the spawn in the aft section of the ship has been given a block of invisible texture so that zombies can't kill the humans on it just by jumping up and stabbing.  I also modified the skybox some, and changed the lighting of the map.  It's now a lot brighter, but it isn't quite day.  It just makes it look more picturesque.\r\n\r\n\r\n<b>A Note to Server Administrators:</b>\r\nThis map has a point_servercommand inside it.  Without it the boats will not work and the cannon won't function properly.  If you have a point_servercommand override plugin, then you'll need to make a .cfg for this map with sv_turbophysics 0 in order for the boats and cannon to work.\r\n\r\n\r\n<b>Thanks go to:</b>\r\nZombie Network III and Vs3 Zombie Mod servers for running beta tests of this map, and to Vampy and MoOnLiGht for running the betas for me.\r\n\r\n\r\n<b>If you would like to assess this map, download it first and play it.  I don't want meaningless assessments from people who just looked at the screenshots.</b>\r\n\r\n\r\nAllright, that's about it.  Please post any questions or comments you may have.</font>"
+}

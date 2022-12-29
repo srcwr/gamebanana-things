@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"surf_ch33s3r_beta3o1.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 358410,
+			"_nDownloadCount": 1972,
+			"_nFilesize": 900935,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/358410",
+			"_sFile": "surf_ch33s3r_beta3o1.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1143951923
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 121820,
+	"_sName": "surf_ch33s3r_beta3o1",
+	"_sText": "Like I said in the last release here on FPSBanana, there are 30 or so spawn points (15 for each team), but i would only recommend having about 16 players due to crowding.\r\n\r\nI may have left a few things out of this list.  Especially considering that I never released Beta2 here on fpsbanana.  So there are some changes that were made between v1o2b and Beta2 that won't be listed here.  But I really hope you guys enjoy my map.  I love knowing that I have contributed to the fun times of the CS surfing community.  <3!\r\n\r\nSurf_Ch33s3r_Beta3 Release Notes\r\n--------------------------------\r\nAdded push trigger to bottom of hole in pyramid to prevent camping\r\n\r\nAdded a few teleport labels\r\n\r\nFixed problem where you could take damage from the \"O\" (If you don't know what this means, ignore it ;))\r\n\r\nFixed CT and T spawn portal mismatch\r\n\r\nFixed jail triggers next to main ramp so they don't tele you to jail just from getting close to the edge\r\n\r\nFixed problem where you could see feet/shadows of players inside the secret room (hopefully)\r\n\r\nFixed an exploit that provided a much easier route to the secret room\r\n\r\nChanged kill triggers to jail triggers\r\n\r\nChanged water textures (other than jail water) to look translucent instead of looking black\r\n\r\nChanged jail so that prisoners cannot see players on top of the secret area\r\n\r\nChanged the exterior jail wall facing the \"top\" to allow all types of ammunition to penetrate\r\n\r\nChanged jail doors"
+}

@@ -1,0 +1,42 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "readme.txt",
+					"cstrike": {
+						"maps": [
+							"bhop_trikz_caverns_v2.bsp",
+							"bhop_trikz_caverns_v2.res"
+						],
+						"sound": {
+							"bhop_trikz_cavern": [
+								"Hatsune_Miku_-_Dance.mp3",
+								"s1.mp3",
+								"s2_remix.mp3",
+								"s3.mp3"
+							]
+						}
+					}
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 335476,
+			"_nDownloadCount": 3598,
+			"_nFilesize": 29530414,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/335476",
+			"_sFile": "bhop_trikz_caverns_v2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1231201166
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 126251,
+	"_sName": "bhop_trikz_caverns_v2",
+	"_sText": "V2 changes:\r\n-Fixed cubemaps for HDR\r\n-Added player clips to stop some displacement glitching\r\n\r\nThis is a map in which players can choose to bunnyhop or trikz their way through caverns.  The map is broke into three sections: normal caverns, ice caverns and an underground lab.  Upon completing the map, there is a rave room, long jump section, six extra levels of bhop and a special weapon room that opens when all seven blue lights are collected within the map.  There are a number of easter eggs/secrets/perks within the map as well as special guns for finishing things.\r\n\r\nIn terms of difficulty, the bhop sections become quite difficult for most players whereas the trikz portion is mostly easy.  I'm hoping that this will encourage more bhoppers to learn trikz.\r\n\r\nI made this map to learn more about Hammer, so my main objective was to make it look good.  The displacement work in many areas is poor, since I was learning as I made this.  The reflections are also bad in many areas when HDR is enabled.  The map is well optimized in terms of func_detail and nodraw, but the areaportals linked to the doors can cause spikes when the doors open.  \r\n\r\nPrefabs used\r\n¯¯¯¯¯¯¯¯¯¯¯¯\r\nGHS BoonDock's Greek garden prefab (http://www.fpsbanana.com/prefabs/1889)\r\nHamster's Greek Temple prefab (http://www.fpsbanana.com/prefabs/818)\r\nSGT-MESS' swinging light (http://www.fpsbanana.com/prefabs/688)\r\nSGT_kick_ur_ass' HDR prefab (http://www.fpsbanana.com/prefabs/403)\r\n\r\nTextures used\r\n¯¯¯¯¯¯¯¯¯¯¯¯¯\r\nJackTheStripper's white tile (http://www.fpsbanana.com/textures/576)\r\nGrayTap's ice textures (http://www.fpsbanana.com/textures/765)\r\nChris528's dev textures (http://www.fpsbanana.com/textures/707)\r\n"
+}

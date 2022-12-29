@@ -1,0 +1,61 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"cs_struck.bsp",
+					"cs_struck_readme.txt"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 620549,
+			"_nDownloadCount": 29,
+			"_nFilesize": 200699,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "Original map file without HDR",
+			"_sDownloadUrl": "https://gamebanana.com/dl/620549",
+			"_sFile": "cs_struck.zip",
+			"_sMd5Checksum": "56774c35cbafa636d60daa836a1045ae",
+			"_tsDateAdded": 1626998076
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"cs_struck.bsp",
+					"cs_struck_readme.txt"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 622923,
+			"_nDownloadCount": 20,
+			"_nFilesize": 345293,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "HDR updated map file",
+			"_sDownloadUrl": "https://gamebanana.com/dl/622923",
+			"_sFile": "cs_struck_hdr_update.zip",
+			"_sMd5Checksum": "e58718c44e2b308f54c9c093f28afc53",
+			"_tsDateAdded": 1627299829
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "-Added HDR"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "HDR Update",
+			"_tsDateAdded": 1627299325
+		}
+	],
+	"_idRow": 307449,
+	"_sName": "cs_struck",
+	"_sText": "A map.<br>Credits to the playtester.<br>https://steamcommunity.com/id/Avalzon"
+}

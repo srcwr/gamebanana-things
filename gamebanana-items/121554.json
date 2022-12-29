@@ -1,0 +1,34 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "surf_4rooms_v3.txt",
+					"1": "surf_4rooms_v3.vmf",
+					"cstrike": {
+						"maps": [
+							"surf_4rooms_v3.bsp"
+						]
+					}
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 359863,
+			"_nDownloadCount": 4124,
+			"_nFilesize": 1761319,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/359863",
+			"_sFile": "surf_4rooms_v3.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1130719454
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 121554,
+	"_sName": "surf_4rooms_v3",
+	"_sText": "Removed room3\r\nteleport at the end of room1 now goes to skybox instead of room3\r\nused cheap water\r\ncleaned up skybox"
+}

@@ -1,0 +1,71 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"mg_aim_unlimited_b3.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 295290,
+			"_nDownloadCount": 1663,
+			"_nFilesize": 4707999,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/295290",
+			"_sFile": "mg_aim_unlimited_b3.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1365412457
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Auto-Select Bug - You were able to select a map after auto-select. That is fixed."
+				},
+				{
+					"cat": "-",
+					"text": "A few more fps optimization."
+				},
+				{
+					"cat": "-",
+					"text": "Bunny jumping out of the map fixed. (hopefully)"
+				}
+			],
+			"_sText": "Beta 3 - 13.05.2013",
+			"_sTitle": "Beta 3",
+			"_tsDateAdded": 1368405428
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Auto-Select - If the person who goes upstairs doesn't select anything in 8 seconds, a level is automatically opened."
+				},
+				{
+					"cat": "-",
+					"text": "Fixed some people not having weapons."
+				},
+				{
+					"cat": "-",
+					"text": "Changed waiting time from 6 seconds to 3 seconds after a weapon is selected."
+				},
+				{
+					"cat": "-",
+					"text": "Hopefully, fixed 2 people going upstairs if they touch the toilet in 0.01s of each other. Not sure I fixed it though :))"
+				}
+			],
+			"_sText": "Fixed a few bugs and things I forgot.",
+			"_sTitle": "Beta 2",
+			"_tsDateAdded": 1365492074
+		}
+	],
+	"_idRow": 127675,
+	"_sName": "mg_aim_unlimited_b3",
+	"_sText": "A multi aim map consisting of Knife, Desert Eagle, AK47-M4A1 and AWP arenas.\r\n\r\nI suggest using it without deathmatch mode. Although I don't think there would be any problems with DM other then spawn killings.\r\n\r\nThe person who reaches the toilet first gets to choose which weapon level will be played. Without DM this will happen at every round start. With DM, level will be only chosen one time (unless everyone on a team dies at the same time.)\r\n\r\nI tried to make them look as unique as possible.\r\n\r\nThanks for the awesome skybox [t.I.P.](http://gamebanana.com/members/966996 \"t.I.P.\") \r\n\r\nHope you enjoy it,\r\nSinsic\r\n\r\nP.S. I'll put the individual levels as maps, so people don't want to play other levels can just play that. I'll add links here.\r\n\r\nUpdateLog\r\n\r\nBeta3 - 13.05.2013\r\n\r\n1. Auto-Select Bug - You were able to select a map after auto-select. That is fixed.\r\n2. \r\nA few more fps optimization.\r\n3. \r\nBunny jumping out of the map fixed. (hopefully)\r\n\r\n\r\nBeta2 - 09.04.2013\r\n\r\n1. Auto-Select - If the person who goes upstairs doesn't select anything in 8 seconds, a level is automatically opened.\r\n2. \r\nFixed some people not having weapons.\r\n3. \r\nChanged waiting time from 6 seconds to 3 seconds after a weapon is selected.\r\n4. \r\nHopefully, fixed 2 people going upstairs if they touch the toilet in 0.01s of each other. Not sure I fixed it though :))"
+}

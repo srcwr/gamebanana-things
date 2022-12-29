@@ -1,0 +1,42 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cs_bvs": {
+						"cstrike": {
+							"maps": [
+								"cs_bvs.bsp",
+								"cs_bvs.res"
+							],
+							"materials": {
+								"jazib": [
+									"bvs_wall.jpg",
+									"bvs_wall.vmt",
+									"bvs_wall.vtf",
+									"bvs_wall.vtf.ztmp"
+								]
+							}
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 294293,
+			"_nDownloadCount": 2006,
+			"_nFilesize": 3154674,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/294293",
+			"_sFile": "cs_bvs.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1370379975
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 99411,
+	"_sName": "bvs_source",
+	"_sText": "UPDATED ON 23-06-2013\r\n-------------------------\r\n-------------------------\r\nFIXED BUGS:\r\n#Fixed Hostage mobility\r\n#Fixed bad alignment of seats in shed\r\n#Changed Hostages' location to a feasible one\r\n#Few changes in Spiral case\r\n#Added details to class rooms \r\n#Fixed Ceiling error\r\n#Certain texture errors\r\nEnjoy!!"
+}

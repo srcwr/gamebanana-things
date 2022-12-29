@@ -1,0 +1,41 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrike": {
+						"maps": [
+							"de_frostbite.bsp",
+							"de_frostbite.nav"
+						],
+						"materials": [
+							"de_frostbite.vmt",
+							"de_frostbite.vtf"
+						],
+						"resource": {
+							"overviews": [
+								"de_frostbite.txt"
+							]
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 350025,
+			"_nDownloadCount": 1730,
+			"_nFilesize": 3700358,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/350025",
+			"_sFile": "de_frostbite_2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1185167988
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 102447,
+	"_sName": "de_frostbite",
+	"_sText": "De_frostbite\r\n\r\nUpdates:\r\n7/28/2007\r\n-added overview\r\n-updated nav to include area locations\r\n-fixed bombsite outputs"
+}

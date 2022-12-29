@@ -1,0 +1,30 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_nightfever.bsp",
+					"de_nightfever.nav",
+					"de_nightfever_overview_ani.gif",
+					"de_nightfever_readme.txt"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 357356,
+			"_nDownloadCount": 73962,
+			"_nFilesize": 18803490,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/357356",
+			"_sFile": "de_nightfever.7z",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1152452499
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 103277,
+	"_sName": "de_nightfever",
+	"_sText": "de\\_nightfever Source - FINAL\r\n-----------------------------\r\nby Magikus & StarD00d (<a href=\"http://d00ds.com\"target=\"_blank\">http://d00ds.com</a>)\r\n\r\nThis is now the FINAL version of de\\_nightfever, the 3rd map of d00ds.com following de\\_losttemple and de\\_cpl\\_fire. de\\_nightfever is taking place in a modern office complex right after midnight. \r\n\r\nTerrorists have to disable the electricity by placing C4 on bombsite A or on the internet-connection area on bombsite B to hinder the transmission of important data. Counter-Terrorists have to neutralize all terrorist forces or disarm the C4.\r\n\r\nThere are 4 main routes in the map: to the left using the streets to enter B, using the bridge to enter B, through the middle entering A or B and over the right roof to enter A\r\n\r\nPlease send us comments and bugs to<br>\r\nc o n t a c t @ d 0 0 d s . c o m<br>\r\n(remove the spaces)\r\n\r\nPlease feel free to host the map for download or on your gameserver.\r\n\r\nOriginal download @ <a href=\"http://d00ds.com\"target=\"_blank\">http://d00ds.com</a>\r\n\r\nAttention Server Admins:\r\n\r\nSince the map is larger than 16MB with all the custom content, put \"net\\_maxfilesize 64\" into server.cfg to allow download of the map.\r\nHowever with BZIP2, it is from now on possible to compress large files which the players must download before being able to play (e.g. Maps...) This way you can reduce the size of the de\\_nightfever download from 63MB to 29MB. Also the file gets downloaded from your fast webserver. That allows an enormous saving of time at the time of the remote loading. \r\n\r\nJust follow these easy steps:<br>\r\n* Download the file <a href=\"http://www.gamebanana.com/maps/download/13899\">de\\_nightfever.bsp.bz2</a><br>\r\n* In your server.cfg set \"sv\\_downloadurl http://www.yourURLgoeshere.com/cstrike\". (insert your own domain name)<br>\r\n* In the public\\_html directory (default) of your webserver create a new folder \"cstrike\" and a subfolder \"maps\".<br>\r\n* Place the file \"de\\_nightfever.bsp.bz2\" in the folder \"cstrike/maps\" on the webserver via ftp.<br>\r\n* Keep in mind you still need to install the map de\\_nightfever.bsp on your gameserver as you would normally do.\r\n\r\nThanks to BarnDoor for .nav optimization.\r\n\r\nThanks to r00t for saying narf!\r\n\r\nMake sure to check out our other maps like de\\_losttemple & de\\_cpl\\_fire at <a href=\"http://d00ds.com\"target=\"_blank\">http://d00ds.com</a>!\r\n\r\nStarD00d & Magikus<br>\r\n<a href=\"http://d00ds.com\"target=\"_blank\">http://d00ds.com</a>"
+}

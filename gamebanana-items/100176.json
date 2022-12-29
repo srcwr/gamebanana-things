@@ -1,0 +1,44 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cs_motel88": {
+						"0": "ReadMe.txt",
+						"cstrike": {
+							"maps": [
+								"Motel88.bsp",
+								"Motel88.nav"
+							]
+						},
+						"screenshots": [
+							"Example of my bad lighting skills.jpg",
+							"motel800053.jpg",
+							"motel800054.jpg",
+							"motel800060.jpg",
+							"motel800061.jpg",
+							"motel800062.jpg",
+							"motel800063.jpg"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 318988,
+			"_nDownloadCount": 1439,
+			"_nFilesize": 2059324,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/318988",
+			"_sFile": "cs_motel88.7z",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1284762161
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 100176,
+	"_sName": "cs_motel88",
+	"_sText": "cs_motel88.txt Read Me\r\n-------------------------\r\n\r\nCONTENTS\r\n\r\n 1.Whats in the .zip file?\r\n 2.Installation\r\n 3.Description\r\n 4.Notes/errors\r\n 5.Author and acknowledgments\r\n-------------------------\r\n\r\n1.Whats in the .zip file\r\n\r\n2x Folders with:\r\n 1x ReadMe.txt(obviously:)\r\n ---1x cs_motel88.bsp map file\r\n ---1x cs_motel88.nav map file\r\n ---6x in-game Screen shots\r\n\r\n-------------------------\r\n\r\n2.Installation:\r\n  \r\n      Just place or extract the cstrike folder into your Counter-Strike: Source directory. For example place the files in these directories: \"C:\\Program Files/Steam/steamapps/\"your user name\"/counter-strike source/cstrike/maps/\" \r\n\r\n!!!!P.S. Open this \"cstrike\" folder, and then extract the contens inside of it, i,e; the \"maps folder\" into STEAMS original folder named \"cstrike,\" other wise it will place this \"cstrike folder\" inside your \"cstrike folder.\"!!!! \r\n-------------------------\r\n\r\n3.Description:\r\n\r\n   This is my first attempt at making a high rise map for Counter-Strike: Source. It was meant to be a Hostage Rescue map but the hosties won't make it all the way down to the lobby where the rescue zones. They get caught up on the stairs some how, I don't know why, and I don't know how to fix these problem yet. So, you can try and lead them out or just play it as a Deathmatch or Fight Yard I guess. The concept came to me as a hotel from another country(I'm from the U.S.A. BTW.) Its no place specific i,e; this motel/hotel doesn't exist or far as I know it doesn't(I've never been out of the U.S.A.) I just kind a pieced it all together a little at a time. Any ways, there is no LIGHTING as I can't get the lights to illuminate the bottom floors appropriately. So there is only the default engine lighting right now.    \r\n\r\n-------------------------\r\n\r\n4.Notes/errors:\r\n\r\n a.Lighting sucks and I apologize, but so do my lighting skills. =P \r\n\r\n b.Brushes and textures are still not aligned and/or might be slightly out of place and size.\r\n\r\n c.This map has the standard CS:S load out with the VGUI buy screens.\r\n \r\n d.There are 8vs8 CT and T spawning's, so there is 16 spawns in all. And Bots do have      info_nodes.\r\n \r\n -------------------------\r\n\r\n5.Author and Acknowledgments:\r\n\r\n + Map by: Chase\"ArrogantOrange\"Miller\r\n\r\n + Tutorials and training provided by: 3kliksphilip You can find him and his tutorials on          YouTube at http://www.youtube.com/user/3kliksphilip\r\n\r\n + A big thanx to Valve(obviously)for their great games and the SOURCE SDK(and other versions) \r\n\r\n + and as always to the Mapers/Moders like you who give me a reason to keep chugging a way at    this designing dream...thingy, I have =)\r\n\r\n  Thanx FBSBanana.  \r\n  \r\n    Sincerely,\r\n  Arrogant Orange\r\n-------------------------\r\n-------------------------\r\n-------------------------\r\n-------------------------\r\n\r\n"
+}

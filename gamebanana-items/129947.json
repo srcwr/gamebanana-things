@@ -1,0 +1,144 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"jb_surf_final.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 512419,
+			"_nDownloadCount": 45,
+			"_nFilesize": 28318084,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/512419",
+			"_sFile": "jb_surf_final.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1611690748
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Bhop"
+				},
+				{
+					"cat": "Addition",
+					"text": "LJ"
+				},
+				{
+					"cat": "Addition",
+					"text": "Break Floor"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Various Texture Changes"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Various Bug Fixes"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed Damage Vollyball"
+				},
+				{
+					"cat": "Optimization",
+					"text": "Various Optimization Changes"
+				},
+				{
+					"cat": "Addition",
+					"text": "Other Misc. Changes & Additions"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Version Final",
+			"_tsDateAdded": 1611690929
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "Cells doors opened on use fixed"
+				},
+				{
+					"cat": "Addition",
+					"text": "Color Surf now has a starting platform"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Color Surf now teleports players out"
+				},
+				{
+					"cat": "Addition",
+					"text": "Color Surf has water at the bottom preventing players from dying"
+				},
+				{
+					"cat": "Optimization",
+					"text": "Migrated some textures to better alternatives"
+				},
+				{
+					"cat": "Addition",
+					"text": "The Scout has been added to armory"
+				},
+				{
+					"cat": "Removal",
+					"text": "The 2nd AWP spawn has been removed"
+				},
+				{
+					"cat": "Addition",
+					"text": "Addded trigger_push that only affects Ts at armory exit"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Climb has been made easier"
+				},
+				{
+					"cat": "Addition",
+					"text": "Recall buttons have been added for both major surf areas"
+				},
+				{
+					"cat": "Addition",
+					"text": "Overhaul to the ceiling of the map"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Deathcrate is more circular"
+				},
+				{
+					"cat": "Addition",
+					"text": "More lights have been added"
+				},
+				{
+					"cat": "Optimization",
+					"text": "More optimization"
+				},
+				{
+					"cat": "Addition",
+					"text": "Teleport triggers have been added to the rocks in the pillar surf"
+				},
+				{
+					"cat": "Addition",
+					"text": "Walls exiting and entering main cells have been given a small boost"
+				},
+				{
+					"cat": "Addition",
+					"text": "More secrets have been added"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Version 2",
+			"_tsDateAdded": 1590698682
+		}
+	],
+	"_idRow": 129947,
+	"_sName": "jb_surf_final",
+	"_sText": "This map is bad, the name is trash, I hate everything about this map. I only updated it so I didn't leave it broken.<br><br><br><br>I don't make JB maps anymore, I won't fix anything with this map anymore. Feel free to change it as much as you like, although giving me some credit or mention would be nice if you do, but I'm not going to require it.<br>"
+}

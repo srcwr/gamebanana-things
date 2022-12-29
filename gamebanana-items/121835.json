@@ -1,0 +1,137 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrike": {
+						"maps": [
+							"surf_club_quack_v2.bsp"
+						],
+						"materials": {
+							"TEXTURES": {
+								"0": "rubber_ducky_512.vmt",
+								"1": "rubber_ducky_512.vtf",
+								"Duck": [
+									"duck_128x128.vmt",
+									"duck_128x128.vtf",
+									"duck_256x256.vmt",
+									"duck_256x256.vtf",
+									"duck_512x512.vmt",
+									"duck_512x512.vtf",
+									"duck_64x32.vtf",
+									"duck_64x64.vmt",
+									"duck_64x64.vtf"
+								],
+								"club_quack": [
+									"club_quack_128x64.vmt",
+									"club_quack_128x64.vtf"
+								],
+								"disco_": [
+									"disco_paint_256x256.vmt",
+									"disco_paint_256x256.vtf"
+								],
+								"duck_comedy": [
+									"duck_comedy_openjail_256x256.vmt",
+									"duck_comedy_openjail_256x256.vtf"
+								],
+								"duck_pattern": [
+									"duck_pattern_256x256.vmt",
+									"duck_pattern_256x256.vtf",
+									"duck_pattern_512x512.vmt",
+									"duck_pattern_512x512.vtf"
+								],
+								"mallard_duck": [
+									"mallard_duck_256x256.vmt",
+									"mallard_duck_256x256.vtf",
+									"mallard_duck_512x512.vmt",
+									"mallard_duck_512x512.vtf"
+								],
+								"rubber_ducky": [
+									"rubber_ducky_128x128.vmt",
+									"rubber_ducky_128x128.vtf",
+									"rubber_ducky_256x256.vmt",
+									"rubber_ducky_256x256.vtf"
+								],
+								"rubber_ducky_accents": [
+									"rubber_ducky_accent_128x128.vmt",
+									"rubber_ducky_accent_128x128.vtf",
+									"rubber_ducky_accent_256x256.vmt",
+									"rubber_ducky_accent_256x256.vtf",
+									"rubber_ducky_accent_512x512.vmt",
+									"rubber_ducky_accent_512x512.vtf"
+								]
+							},
+							"customtex": [
+								"bloodstains.vmt",
+								"bloodstains.vtf",
+								"fightbar.vmt",
+								"fightbar.vtf",
+								"fightbar2.vmt",
+								"fightbar2.vtf",
+								"fightcock.vmt",
+								"fightcock.vtf",
+								"fightcred.vmt",
+								"fightcred.vtf",
+								"fightct.vmt",
+								"fightct.vtf",
+								"fightdoor.vmt",
+								"fightdoor.vtf",
+								"fightfish.vmt",
+								"fightfish.vtf",
+								"fightppl.vmt",
+								"fightppl.vtf",
+								"fightre.vmt",
+								"fightre.vtf",
+								"fightt.vmt",
+								"fightt.vtf",
+								"fightthank.vmt",
+								"fightthank.vtf",
+								"fighttop.vmt",
+								"fighttop.vtf",
+								"fighttor.vmt",
+								"fighttor.vtf",
+								"fightwarning.vmt",
+								"fightwarning.vtf",
+								"marla.vmt",
+								"marla.vtf",
+								"slide2.vmt",
+								"slide2.vtf",
+								"soap2.vmt",
+								"soap2.vtf",
+								"yum3.vmt",
+								"yum3.vtf",
+								"yum32.vmt",
+								"yum32.vtf"
+							]
+						},
+						"sound": {
+							"CUST": [
+								"quack.wav"
+							],
+							"admin_plugin": [
+								"quack_song_edit.wav"
+							]
+						}
+					}
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 345403,
+			"_nDownloadCount": 1299,
+			"_nFilesize": 1467595,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/345403",
+			"_sFile": "surf_club_quack_v2_2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1199834355
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 121835,
+	"_sName": "surf_club_quack_v2",
+	"_sText": "Follow installation instructions\r\n\r\nextract the contents of the archive to a place you know, then copy the cstrike folder and paste it over your cstrike folder, do not worry about overwriting as it will just add to it, not get rid of anything."
+}

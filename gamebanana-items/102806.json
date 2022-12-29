@@ -1,0 +1,35 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "NavPlace.db",
+					"maps": [
+						"de_junitown lisez-moi read me.txt",
+						"de_junitown.bsp"
+					],
+					"resource": [
+						"cstrike_english.txt",
+						"cstrike_french.txt"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 355873,
+			"_nDownloadCount": 2218,
+			"_nFilesize": 4582648,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/355873",
+			"_sFile": "de_junitown_v10.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1160243041
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 102806,
+	"_sName": "de_junitown",
+	"_sText": "Map by Supermike\r\nBot navigation mesh by Man Nay\r\nOptimization by L'inconnu\r\n\r\nOfficial website (map downloads/updates) : www.poutre.free.fr\r\n\r\nThe zip archive must be unzipped into the directory Steam/Steamapps/youraccount/counter-strike source/cstrike respecting the folder hierarchy.\r\n\r\nAll models, materials, sounds, nav mesh and additional elements are embedded into the bsp.\r\n\r\nThe files navplace.db, cstrike_english.txt and cstrike_french.txt are optional and the map can work without them. However, they allow more appropriate place names to be displayed under the radar and in the chat. Be warned that as long as these files are installed, they prevent the game to have access to the files bearing the same names in the gcf (cache) and to the potential modifications that Valve can make to them. If you're unsure, unzip only the .bsp"
+}

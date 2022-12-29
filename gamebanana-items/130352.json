@@ -1,0 +1,66 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"35hp_006_fix": {
+						"maps": [
+							"35hp_006_fix.bsp",
+							"35hp_006_fix.nav",
+							"35hp_006_fix.res",
+							"35hp_006_fix.txt"
+						],
+						"materials": {
+							"overviews": [
+								"35hp_006_fix.vmt",
+								"35hp_006_fix.vtf",
+								"35hp_006_fix_radar.vmt"
+							]
+						},
+						"resource": {
+							"overviews": [
+								"35hp_006_fix.txt"
+							]
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 277721,
+			"_nDownloadCount": 1074,
+			"_nFilesize": 444630,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/277721",
+			"_sFile": "35hp_006_fix.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1466987146
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Remove Liks"
+				},
+				{
+					"cat": "-",
+					"text": "Ipmroved BrushWork"
+				},
+				{
+					"cat": "-",
+					"text": "Reduce AeroPortals (~30 -> 9)"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Version 1.1",
+			"_tsDateAdded": 1466987751
+		}
+	],
+	"_idRow": 130352,
+	"_sName": "35hp_006_fix",
+	"_sText": "Edit and Fixed popular map <b>35hp_006 <br></b><ol><li>Radar</li><b></b><li>Map have good NAV file (include Radar/Radio Places)</li><li>Fixed errors and bugs, because map long time update</li><li>AI Players with good Navigation in the map (AI Players seldon fall and mistakes)<br></li></ol>"
+}

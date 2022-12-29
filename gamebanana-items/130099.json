@@ -1,0 +1,31 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"Easykillpit_v2": [
+						"Readme.txt",
+						"easykillpit_v2.bsp"
+					]
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 306637,
+			"_nDownloadCount": 5572,
+			"_nFilesize": 44485,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/306637",
+			"_sFile": "easykillpit_v2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1324202570
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 130099,
+	"_sName": "Easy Kill Pit v2",
+	"_sText": "To get ammo for the T weapons, press F2 when in a buy zone. It should restock your ammunition.\r\n\r\nTo get the most out of this map: \r\n\r\nMake sure console is enabled by going into options>controls>advanced and tick 'Enable developer console'\r\n\r\nLoad the map with 30 Terrorist bots\r\n\r\nIn the console (press ~ below escape) type mp_autoteambalance 0   press enter, then type  mp_limitteams 99   and press enter\r\n\r\nYou may want to disable weapons for the bots, untick all the bot's weapon choices before you create the match."
+}

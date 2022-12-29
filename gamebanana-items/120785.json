@@ -1,0 +1,121 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_hall_teather.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 373324,
+			"_nDownloadCount": 290,
+			"_nFilesize": 1172473,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "[With cs:s props] Lasted version (second version)",
+			"_sDownloadUrl": "https://gamebanana.com/dl/373324",
+			"_sFile": "de_hall_teather_update1.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1518895991
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_hall_teather_haste.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 373323,
+			"_nDownloadCount": 57,
+			"_nFilesize": 1168962,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "[Without cs:s props] Lasted version (second version)",
+			"_sDownloadUrl": "https://gamebanana.com/dl/373323",
+			"_sFile": "de_hall_teather_haste_update1.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1518895986
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_hall_teather.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 373294,
+			"_nDownloadCount": 61,
+			"_nFilesize": 1101998,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "With cs:s props (release version)",
+			"_sDownloadUrl": "https://gamebanana.com/dl/373294",
+			"_sFile": "de_hall_teather.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1518882426
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_hall_teather_haste.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 373295,
+			"_nDownloadCount": 61,
+			"_nFilesize": 1106498,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "Without cs:s props (release version)",
+			"_sDownloadUrl": "https://gamebanana.com/dl/373295",
+			"_sFile": "de_hall_teather_haste.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1518882426
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Improvement",
+					"text": "Moved hall bomb plant."
+				},
+				{
+					"cat": "Addition",
+					"text": "Added safe in the hall with easter egg"
+				},
+				{
+					"cat": "Removal",
+					"text": "Removed 6 point entities in restaurant"
+				},
+				{
+					"cat": "Removal",
+					"text": "Removed a hole in the wall"
+				},
+				{
+					"cat": "Improvement",
+					"text": "[cs_hall_teather] Moved props"
+				},
+				{
+					"cat": "Removal",
+					"text": "[cs_hall_teather] Removed a few seats"
+				},
+				{
+					"cat": "Removal",
+					"text": "[cs_hall_teather] Removed a few tables and chairs"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Small bugfix update",
+			"_tsDateAdded": 1518896049
+		}
+	],
+	"_idRow": 120785,
+	"_sName": "Hall with a scene (cs_hall_teather)",
+	"_sText": "2 versions of map.<br><br>First version, without cs:s props. (de_hall_teather_haste),<br>Second version, with cs:s props. (de_hall_teather)"
+}

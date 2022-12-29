@@ -1,0 +1,54 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "de_pulley Readme.txt",
+					"cstrike": {
+						"maps": [
+							"de_pulley.bsp",
+							"de_pulley.nav",
+							"de_pulley.res",
+							"de_pulley.txt"
+						],
+						"materials": {
+							"decals": {
+								"custom": {
+									"de_pulley": [
+										"cahl_starl.vmt",
+										"cahl_starl.vtf"
+									]
+								}
+							},
+							"overviews": [
+								"de_pulley.vmt",
+								"de_pulley.vtf"
+							]
+						},
+						"resource": {
+							"overviews": [
+								"de_pulley.txt"
+							]
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 332028,
+			"_nDownloadCount": 3284,
+			"_nFilesize": 11048922,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/332028",
+			"_sFile": "de_pulley.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1241885390
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 103599,
+	"_sName": "de_pulley",
+	"_sText": "---------------------\r\nPulley - Bomb/Defuse\r\n---------------------\r\n \r\nCounter-Terrorists: Charging the front side. Enter and secure \r\nthe depository and the generators in the old tunnels below.\r\n\r\nTerrorists: Coming from the back side. Plant the bomb \r\nin the depository or near the generators in the old tunnels\r\nand let it explode.\r\n \r\nOther Notes: There are 2 bomb sides in this mission.\r\nThere are 3 ways leading to the old tunnels.\r\n\r\nMap size: 31 megabytes\r\nWorking time: 4 weeks\r\nRecommended Players: 8\r\n\r\nCredits:\r\nMapping/Level Design by xTc\r\nSource content by Valve"
+}

@@ -1,0 +1,140 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrike": {
+						"maps": [
+							"aim_raid.bsp",
+							"aim_raid.nav",
+							"aim_raid.res",
+							"aim_raid.txt"
+						],
+						"materials": {
+							"aim_raid": [
+								"color.raw",
+								"concrete01.vmt",
+								"concretefloor008a.vmt",
+								"desert01.vmt",
+								"desert01.vtf",
+								"desert02.vmt",
+								"desert02.vtf",
+								"desert03.vmt",
+								"desert03.vtf",
+								"desert04.vmt",
+								"desert04.vtf",
+								"metalcrate001d.vmt",
+								"metalcrate002b.vmt"
+							],
+							"models": {
+								"de_piranesi": [
+									"pi_apc.vmt",
+									"pi_apc.vtf"
+								],
+								"props": {
+									"aim_raid": [
+										"aircraft_body.vmt",
+										"aircraft_body.vtf",
+										"cactus.vmt",
+										"cactus.vtf",
+										"computer_board.vmt",
+										"computer_board.vtf",
+										"computer_monitor.vmt",
+										"computer_monitor.vtf",
+										"screen.vmt",
+										"screen.vtf",
+										"screen_break.vmt",
+										"screen_break.vtf"
+									]
+								}
+							},
+							"overviews": [
+								"aim_raid.vmt",
+								"aim_raid.vtf",
+								"aim_raid_radar.vmt",
+								"aim_raid_radar.vtf"
+							]
+						},
+						"models": {
+							"props": {
+								"aim_raid": [
+									"aircraft.dx80.vtx",
+									"aircraft.dx90.vtx",
+									"aircraft.mdl",
+									"aircraft.sw.vtx",
+									"aircraft.vvd",
+									"cactus.dx80.vtx",
+									"cactus.dx90.vtx",
+									"cactus.mdl",
+									"cactus.sw.vtx",
+									"cactus.vvd",
+									"computer_monitor2.dx80.vtx",
+									"computer_monitor2.dx90.vtx",
+									"computer_monitor2.mdl",
+									"computer_monitor2.phy",
+									"computer_monitor2.sw.vtx",
+									"computer_monitor2.vvd",
+									"computer_monitor2_b.dx80.vtx",
+									"computer_monitor2_b.dx90.vtx",
+									"computer_monitor2_b.mdl",
+									"computer_monitor2_b.phy",
+									"computer_monitor2_b.sw.vtx",
+									"computer_monitor2_b.vvd",
+									"computer_monitor2_p1.dx80.vtx",
+									"computer_monitor2_p1.dx90.vtx",
+									"computer_monitor2_p1.mdl",
+									"computer_monitor2_p1.phy",
+									"computer_monitor2_p1.sw.vtx",
+									"computer_monitor2_p1.vvd",
+									"computer_monitor2_p2.dx80.vtx",
+									"computer_monitor2_p2.dx90.vtx",
+									"computer_monitor2_p2.mdl",
+									"computer_monitor2_p2.phy",
+									"computer_monitor2_p2.sw.vtx",
+									"computer_monitor2_p2.vvd",
+									"computer_monitor2_p3.dx80.vtx",
+									"computer_monitor2_p3.dx90.vtx",
+									"computer_monitor2_p3.mdl",
+									"computer_monitor2_p3.phy",
+									"computer_monitor2_p3.sw.vtx",
+									"computer_monitor2_p3.vvd",
+									"computer_monitor_p4.dx80.vtx",
+									"computer_monitor_p4.dx90.vtx",
+									"computer_monitor_p4.mdl",
+									"computer_monitor_p4.phy",
+									"computer_monitor_p4.sw.vtx",
+									"computer_monitor_p4.vvd"
+								]
+							}
+						},
+						"resource": {
+							"overviews": [
+								"aim_raid.txt"
+							]
+						},
+						"scripts": [
+							"soundscapes_aim_raid.txt"
+						]
+					}
+				},
+				"_sMimeType": "application/x-7z-compressed"
+			},
+			"_bContainsExe": false,
+			"_idRow": 319551,
+			"_nDownloadCount": 3549,
+			"_nFilesize": 7483449,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/319551",
+			"_sFile": "aim_raid.7z",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1283224638
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 108440,
+	"_sName": "aim_raid",
+	"_sText": "Equipment - dual elites, kevlar + helmet, khife\r\n\r\nAll non-standard resources attached to archive, not embedded to map, because this caused error during ingame loading. I have no idea what the problem. Res file attached\r\n\r\n"
+}

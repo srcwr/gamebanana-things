@@ -1,0 +1,30 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"awp_wallz.bsp",
+					"gg_deagle5_wallz.bsp",
+					"gg_wallz.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 316482,
+			"_nDownloadCount": 1282,
+			"_nFilesize": 9384839,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/316482",
+			"_sFile": "wallz.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1292119946
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 116801,
+	"_sName": "WALLZ - 2 concept maps (video)",
+	"_sText": "Hello.\r\n\r\nWelcome to WALLZ!!!\r\n\r\nSo, what is Wallz? Well, Wallz is a (very) simple little mapping technique that allows the player to run about freely on almost vertical surfaces. Wallz evolved from a simple little mapping idea I tested for fun one day. Someone must have done something like this before - I find it very hard to believe that no-one has thought of/tried this technique but at the same time I have never seen any maps using it as the central gameplay theme.\r\n\r\nHere is a little video showing a the wallz technique:\r\n(this is the first css vid I've made so sorry if its not such great quality)\r\n\r\n<object style=\"height: 390px; width: 640px\"><param name=\"movie\" value=\"http://www.youtube.com/v/EEiSuOi6lAE?version=3\"><param name=\"allowFullScreen\" value=\"true\"><param name=\"allowScriptAccess\" value=\"always\"><embed src=\"http://www.youtube.com/v/EEiSuOi6lAE?version=3\" type=\"application/x-shockwave-flash\" allowfullscreen=\"true\" allowScriptAccess=\"always\" width=\"640\" height=\"390\"></object>\r\n\r\nThe download RAR contains 3 maps gg_wallz, awp_wallz and gg_deagle5_wallz* (gg_wallz and awp_wallz are the same map - just the starting setups are different). The first map awp or gg_wallz is an completely original map created mainly to let players learn the wallz system. I have tried to make a large envrionment of differing wall \"complexity\" for players to experiment and have fun. The second map gg_deagle5_wallz is a wallz-style remake of a fairly well-known gg map... because of the increased speed the player moves up the wall I had to stretch out those parts of the map... I takes about the same time to get accross my map as it does the original.\r\n\r\nWallz is not like surfing or bunny-hopping etc as the is no special technique needed in-game to be able to do it. The only thing you need to know is that when going DOWN the walls YOU MUST USE THE \"WALK\" (or crouch) button. If not you will \"run\" out away from the wallz surface and fall off. To begin with I recommend using walk most of the time you are on the wall surface... believe it or not you actually move faster holding the walk button than you do without! It is in fact possible to go down wallz without using walk but you can only go down on an angle. If you watch the video starting at 2.08 I run go right from the top of the map to the bottom - this was all done WITHOUT holding down \"walk\".\r\n\r\nBecause wallz maps put the player up high there is the obvious problem of falling. Falling a long way in CSS is obviously and insta-kill and very frustrating. I have therefore tried to make these maps as safe as possible by using an invisible water texture. There are water areas at the bottom of every wall into which the player can fall safely. I have also put water onto other geometry (crates, ledges etc) the might be hit on the way down... however in these cases if you land on the edge of the thing the water will not always protect you, so be careful.\r\n\r\nThe biggest danger is that the player falls off the wall and crashes into it further down. By far the most common cause of this problem is that as the player moves down the surface of the wall they touch some geometry (a crate for example) on the way past. The player then winds up walking on the crate rather than the wall and when they drop off the crate they fall back onto the wall surface further below - try make sure you avoid objects as you pass them.\r\n\r\nAll in all I think the system is pretty stable, ocasionally changing direction/speed in a certain way can cause the collision physics to glitch out and the player will fall off the wall but it doesnt happen very often, and you never die like this as you fall away from the wall into the water.\r\n\r\nIt can take a little bit of time to get used to walking on wallz because of the massively increased speed in which you move vertically but really its pretty easy to get the hang of.\r\n\r\nI think running around on wallz can be quite fun in itself but what I am not sure about, and what i made these maps to find out, is if the idea still works when in a game against others players. There are no nav maps included with these maps because i think bot will never navigate the system properly (if anyone wants to try making a nav map you're more than welcome)\r\n\r\nI'd like to know if people have fun with this so please leave any comments or suggestions. Even if it turns out that these maps dont work for gameplay i hope that maybe other mappers will play around the idea... the technique could easily be incorperated into any map without necessarly making it the central theme.\r\n\r\nIf any mappers are interested in the idea; I know you can decompile my maps to look at them but I'd really prefer it if you'd write to me and I'll happily send you the .vmf(s) myself.\r\n\r\nK@rt.\r\n\r\n\r\n*Credit goes to the orignal author of gg_deagle5 - i used 3 deagle maps to get the correct layout of the crates - gg_deagle5/gg_deagle5_4hm and gg_deagle6_texture_sig... thank you to the authors of those maps"
+}

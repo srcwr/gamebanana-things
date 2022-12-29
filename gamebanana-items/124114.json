@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"maps.zip",
+					"materials.zip"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 332504,
+			"_nDownloadCount": 7368,
+			"_nFilesize": 125573851,
+			"_sAnalysisResult": "Archive contains nested archive",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/332504",
+			"_sFile": "hidden20map20pack_5.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1240072513
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 124114,
+	"_sName": "Hidden Map Pack",
+	"_sText": "Simply unzip the \"Hidden Map Pack.zip\" file, unzip the \"maps.zip\" and \"materials.zip\" files and place both the \"maps\" and \"materials\" folder in your source cstrike folder (Default: C:\\Program Files\\Steam\\steamapps\\login name\\counter-strike source\\cstrike). You should get a warning saying that you already have a \"maps\" and \"materials\" folder and asking whether you want to overwrite or not, Say yes to all."
+}

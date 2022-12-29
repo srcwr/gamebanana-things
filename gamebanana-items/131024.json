@@ -1,0 +1,55 @@
+{
+	"_aAlternateFileSources": [
+		{
+			"url": "https://www.dropbox.com/s/fxyq5gqbij7ornt/ze_stalker_ultimate_v2_3.rar?dl=0"
+		}
+	],
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ze_stalker_ultimate_v3.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 287034,
+			"_nDownloadCount": 4620,
+			"_nFilesize": 133598329,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/287034",
+			"_sFile": "ze_stalker_ultimate_v3.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1405359303
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Last and final version"
+				},
+				{
+					"cat": "-",
+					"text": "Contest results"
+				},
+				{
+					"cat": "-",
+					"text": "Added Gauss Riffle item that has a quest to get it"
+				},
+				{
+					"cat": "-",
+					"text": "Fixes, a lot of fixes"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "All updates to v3",
+			"_tsDateAdded": 1460889487
+		}
+	],
+	"_idRow": 131024,
+	"_sName": "ze_STALKER_Ultimate_v3",
+	"_sText": "The map is based on the game S.T.A.L.K.E.R. I think, you will enjoy the atmosphere of the map. Thanks to all the helpers and testers!<br><br>\r\n<h3>5 STAGES</h3>\r\n<h3>64 slots</h3>\r\n<h3>Custom particles</h3>\r\n<h3>Labaratories, Underground, ChAES, Pripyat and more interesting territories to explore</h3>\r\n<h3>4 bossfights</h3>\r\n<h3>Dynamic weather, blowouts, colorcorrection</h3>\r\n<h3>Spetial items (Artefacts) that can are leveling up (3 level on stage 5) Also zombie items (mutants)</h3>\r\n<h3>Map need tactics and not trash team to be beaten</h3>\r\n<h3>Detailed 3D Skybox</h3>\r\nOFFICIAL STEAM GROUP:<br><br>\r\n<a href=\"http://steamcommunity.com/groups/ze_stalker_ultimate\" target=\"_blank\">http://steamcommunity.com/groups/ze_stalker_ultimate</a><br><br>\r\nChangelog:<br><br>\r\n<pre><code>//a1_3 update\r\n1. Fixed early zombie teleportation.\r\n2. Fixed some bugs with triggers.\r\n3. More optimization.\r\n4. Fixed most of particle effects.\r\n\r\n//a1_4 \r\n1. Fixed a huge particle bug.\r\n\r\n//a1_5 \r\n1. Fixed particle errors and new bugs. \r\n2. Fixed balance and some missed textures\r\n3. Fixed missed sounds bug.\r\n\r\n//a1_6\r\nLevel 3 mass fix:\r\n1.Bloodsucker has hormal hp \r\n2.End teleport is only for humans\r\n\r\n//a1_6fix2\r\n1. Mass hurt trigger fixed.\r\n2. Bloodsucker is faster and stronger by 40%\r\n//a2 update\r\n1.Added new artefact\r\n2.**TOP SECRET**\r\n\r\n//a2_1\r\n1. Fixed small bugs.\r\n\r\n//a2_5\r\n- Graphics updated:\r\n1. Added a lot of detail objects and light effects\r\n2. Particles optimized\r\n3. Removed unnecessary geometry \r\n- Items and bosses updated:\r\n1. Poltergeist uses other particle system\r\n2. Some anomalies hurt the bloodsucker\r\n3. When player casts Meatchunk, the anomaly bounds to player\r\n4. Remade bloodsucker triggers, he became more dangerous\r\n\r\n//a2_6\r\n1. experimental update:\r\n added new colorcorrection.\r\n2. Bug fixes\r\n\r\n//b1_1\r\n1. Added Prypiat\r\n2. Level 4\r\n3. Items leveling system(2 available of 3)\r\n4. Remade ChAES, Spawn, Added Lab on the end of level 3.\r\n5. Boss fixes(bloodsucker breakdance), New boss\r\n//b2\r\n1. Remade level 4(Pripyat path)\r\n2. Added 2 more items for level 4 (Nightstar and Spikeball)\r\n3. Level 3 balance fixes. Fixed bloodsucker damage and health.\r\n4. Fixed zombie cage on level 4 boss.\r\n//b3 \r\n1. LEVEL 5!\r\n2. Remade Level 4 end path (Now survive 90 secs!)\r\n3. Remade electric balls on level 3 end boss.\r\n4. Added a lot of new music and effects!!\r\n//b3_1\r\n**FAST FIX!**\r\n1. Fixed 2 epic bugs: zombie cage (lvl 4/5)\r\nAnd zombies won't be killed, when winning level 5\r\n2. Added more balance to level 4 and level 5\r\n//V1\r\n**FINALLY RELEASED!**\r\n1. New admin room\r\n2. Contest!!(see the rules on the spawn)\r\n3. Fixes again for level 4 and 5.\r\n(So you can upload this version later, if you set b3_1 to your         \r\nserver. They're both hard)\r\n//v1_1\r\n1. Balance fixes for level 5\r\n2. Nightstar affect on level 4/level 5 boss\r\n3. Changed sky color on level 5\r\n//v2b\r\n1. Level 5 end remake (2 mini bossfights)\r\n2. Remade the controller boss (the seconds phase)\r\n3. Spikeball and Nightstar can be leveled up (The end of level 5)\r\n4. The end of level 4:\r\n    A. Added some anomalies on the roof (for campers)\r\n    B. One Random artefact is getting maximum power (like at the\r\nend of level 5)\r\n//v2\r\n1. Reduced entities number.\r\n2. Fixed sounds, shakes.\r\n3. Fixed crash server bug.\r\n4. Reduced level 5 end bosses hp.\r\n5. Correctrly leveling up nightstar and spikeball.\r\n6. Added sidequest on level 1 and 2.\r\nv2fix\r\n1. Fixed level 5 end boss bug.\r\n2. Added more game_text\r\nv2_1\r\n1.Contest winners board\r\n2.Fixed boss on level 4&amp;5\r\n3.Added some detail/props\r\n4.A bit changed team balance on level 5\r\n\r\nv2_3\r\n1.Entities fix (now the map has over 1000-1070 entities)\r\n2.Fixed hitbox bug ob lvl4/5 boss\r\n3.Particle fix (custom_particle_xxx)\r\n4.New item spawn system</code>\r\n\r\nv3beta(the great map update)\r\nbeta2(first beta, updated everything including gameplay):\r\n1. Added new locations (on stage 2 end and remade stage 4/5 end location)\r\n2. changed stage 2,4,5 endings\r\n3. Added new zombie items: bloodsucker, boar\r\n4. Added random weather to any round (on stage 4/5 it will be always cloudy or rainy due to 3DSkybox issues):\r\na) sunny(bright yellow lighting, clear sky)\r\nb) cloudy(gloomy gray lighting, cloudy sky)\r\nc) rainy(same as cloudy plus rain)\r\n5. Added more detail\r\n6. More hp to bosses\r\n\r\nbeta3(bug fixes update):\r\n1. game_text fixes\r\n2. console text fixes\r\n3. STAGE 3 second boss fix\r\n4. reduced entities (like 50-100 ents)\r\n5. 1 more zombie item (controller) after STAGE 4/5 boss death\r\n6. fixed STAGE 2 win triggers and it's a bit harder now than in v3beta2\r\n7. added radiation field effects(when you get in)\r\n8. zombie items fixes(now they are filtered and you can't get 2 or more zm items per round)</pre><pre>v3c </pre><pre>-New contest opened</pre><pre>-Added the Gauss Riffle item</pre><pre>v3 - Last and final version</pre><pre>-Contest results</pre><pre>-Bug fixes</pre>"
+}

@@ -1,0 +1,54 @@
+{
+	"_aAlternateFileSources": [
+		{
+			"description": "steam profilea",
+			"url": "https://steamcommunity.com/profiles/76561199012777490/"
+		}
+	],
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_bridge_snow.bsp",
+					"howtoinstall.txt"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 724339,
+			"_nDownloadCount": 151,
+			"_nFilesize": 6963890,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/724339",
+			"_sFile": "de_bridge_snow_fad3c.zip",
+			"_sMd5Checksum": "e3f18450a14c7409a7e25e7119f4ef7d",
+			"_tsDateAdded": 1641508937
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Fixed missing texturess"
+				},
+				{
+					"cat": "-",
+					"text": "They are now packed into bsp file"
+				},
+				{
+					"cat": "-",
+					"text": "Thanks to \"mantra\""
+				}
+			],
+			"_sText": "",
+			"_sTitle": "MAJOR FIX",
+			"_tsDateAdded": 1641508850
+		}
+	],
+	"_idRow": 348036,
+	"_sName": "De_bridge_snow",
+	"_sText": "Renovation has stopped duo to snow storm.Perfect time for terrorist to attack, protect the bridge or watch it fall.<br><br><i>HAPPY NEW YEAR!!!</i>"
+}

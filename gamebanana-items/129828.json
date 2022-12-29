@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ba_jail_electric_razor_v2.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 336535,
+			"_nDownloadCount": 7287,
+			"_nFilesize": 467797,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/336535",
+			"_sFile": "ba_jail_electric_razor_v2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1227854023
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 129828,
+	"_sName": "jb_electric_razor_v2",
+	"_sText": "Kalithan (Razor) - New map layout, FPS improvement, Thinner walls, New secrets\r\nMonstergnom - Creator of the original ba_jail_electric maps, special thanks to him for permission to create this remake.\r\nToph - Soccer ball texture\r\nCudly - Idea for the overlook in the CT area to balance out the map between T's and CT's\r\n\r\n\r\nI realize that this map is still fullbright, and not very detailed.  I have a friend working on the lighting right now, and I'm working on improving the details in the map.  For all of its flaws, I think this is a must for every jailbreak server.  The gameplay is extraordinary.\r\n\r\nWe are hosting this in the AHG (Afterhoursgaming.net) Jailbreak Server, and it is by far the most popular and most played map on the server! \r\n\r\nAgain, thanks to Monstergnom for the great layout!\r\n\r\n((ADDENDUM))\r\nBy the way, if you want the soccer ball to work properly, you'll need to have the following cvars set:\r\n\r\nphys_pushscale 900 (Makes the ball move further when hit with a knife)\r\nsv_turbophysics 0 (Prevents ball from passing through players)"
+}

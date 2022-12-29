@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ba_jail_greywall.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 319919,
+			"_nDownloadCount": 1184,
+			"_nFilesize": 1267806,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/319919",
+			"_sFile": "ba_jail_greywall.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1282413120
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 129290,
+	"_sName": "ba_jail_greywall",
+	"_sText": "known bug: If your lamp and lit on a gray wall, you'll see the skybox and you could not see very far. Switch off the light and the bug disappear.\r\n\r\nNote: There is a line in a cell, those leads can teleport a single person per round, this limit is set to teleport to avoid a rush of terrorism in the armory.\r\n\r\nMax player : 50 (20 ct and 30 t)"
+}

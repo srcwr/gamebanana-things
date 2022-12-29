@@ -1,0 +1,45 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"aim_desert_1v1.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 900633,
+			"_nDownloadCount": 48,
+			"_nFilesize": 836547,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/900633",
+			"_sFile": "aim_desert_1v1_publish_version.zip",
+			"_sMd5Checksum": "28ac9adfc0c1193a286bde83c00e2d46",
+			"_tsDateAdded": 1670060350
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Adjustment",
+					"text": "Lowered some prop's heights (Now it does not make such of a CLING-CLANG sound when starting the map)"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Made all info_player_terrorists & info_player_counterterrorists heights higher to prevent stuck on spawn (Thanks HL2BetaFAN! :3 )"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "CRITCAL UPDATE #1",
+			"_sVersion": "1.0.1",
+			"_tsDateAdded": 1670060123
+		}
+	],
+	"_idRow": 414831,
+	"_sName": "aim_desert_1v1",
+	"_sText": "This is a desert-based sunset map for counter strike: source<br>This is my first map made using Hammer ++! :3<br><br>Any questions/suggestions email : leodeng_hack@163.com<br><br>"
+}

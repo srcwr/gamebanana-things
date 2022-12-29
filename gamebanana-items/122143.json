@@ -1,0 +1,30 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"maps": [
+						"surf_goldarn.bsp"
+					]
+				},
+				"_sMimeType": "application/x-7z-compressed"
+			},
+			"_bContainsExe": false,
+			"_idRow": 290391,
+			"_nDownloadCount": 974,
+			"_nFilesize": 6117170,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/290391",
+			"_sFile": "maps_13.7z",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1389171059
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 122143,
+	"_sName": "surf_goldarn",
+	"_sText": "surf_goldarn\r\n==================\r\nFor all of those wondering what is up with the name:\r\n\r\n![goldarn. adjective, noun, adverb. 1. used as a euphemism for goddamn](http://i.imgur.com/N0tBawE.png \"goldarn\")\r\n\r\nWarning!\r\n------------------\r\nAll spawn points are terrorist spawns. This map was intended for skill surf servers where there is no jail, and this type of design would not affect game play. May not work properly on all servers!\r\n\r\n### Checkpoints!\r\nFor all servers running a checkpoint system, I already added zones with trigger_multiple. They are named as follows:\r\n<ul>\r\n  <li>Spawn Area: stage1</li>\r\n  <li>Checkpoint 1: stage2</li>\r\n  <li>Checkpoint 2: stage3</li>\r\n  <li>Checkpoint 3: stage4</li>\r\n  <li>Checkpoint 4: stage5</li>\r\n  <li>End of Map: endzone</li>\r\n  <li>Bonus Start: bonus1</li>\r\n  <li>Bonus End: bonusend</li>\r\n</ul>"
+}

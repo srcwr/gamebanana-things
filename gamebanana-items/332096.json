@@ -1,0 +1,51 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"bhop_molimentum_fix.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 695800,
+			"_nDownloadCount": 63,
+			"_nFilesize": 22228705,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/695800",
+			"_sFile": "bhop_molimentum_fix.rar",
+			"_sMd5Checksum": "4cab4f0d60eea07ff1f0a2a2576ee2fe",
+			"_tsDateAdded": 1637361710
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "added _fix at the end of the map name"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "name updated",
+			"_tsDateAdded": 1637361772
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "November 19th 2021 update:  Fixed a skip where you could jump onto a prop and skip essentially half a level. I didn't think people would have enough speed to do it but it was possible. Fixed a skip where there was an invisible booster. I had one there originally but then never removed it properly. Thanks to Kris for pointing these out for me."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Skip fixes",
+			"_tsDateAdded": 1637357984
+		}
+	],
+	"_idRow": 332096,
+	"_sName": "bhop_molimentum_fix",
+	"_sText": "Originally the map was going to be bhop_aurum2, hence why I used a similar style. However, I decided that I didn't feel like naming another map after myself lol. I was shooting for the map to be around 1:15 to 1:30 but it'll probably be closer to a 1 minute map. There is also a fairly basic bonus that should be around 10-15 seconds.&nbsp;<br>Steam:&nbsp;https://steamcommunity.com/id/Valetorious/<br><br>If anybody wants to port to CSGO, feel free to. I would probably take this time to learn how to do it, but I'm away from home and using my wife's laptop which can't run CSGO. Bhop_astra still needs to be ported as well if anybody is interested in that.<br><br>"
+}

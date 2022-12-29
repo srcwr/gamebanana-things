@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ze_thelostworld_redux_101j.bsp"
+				],
+				"_sMimeType": "application/x-7z-compressed"
+			},
+			"_bContainsExe": false,
+			"_idRow": 304234,
+			"_nDownloadCount": 3999,
+			"_nFilesize": 29425736,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/304234",
+			"_sFile": "ze_thelostworld_redux_101j.7z",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1332451396
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 131050,
+	"_sName": "ze_thelostworld_redux_101J",
+	"_sText": "Sorry for so many versions... \r\n\r\nze thelostworld redux 101j\r\n==========================\r\n\r\nMain fixes/changes\r\n------------------\r\n\r\n- Helicopter fall out problem sorta fixed (not 100% reliable. ride at your own risk)\r\n- Different spawning area\r\n- Ping/Lag issues around fence area fixed\r\n- Afk teleports\r\n- Boat speed altered to be the same time as other routes\r\n\r\nOther less noticeable changes\r\n----------------------------\r\n\r\n- Increased fps by adding dividing sky brushes\r\n- Increased health of the wood that holds up the falling rocks\r\n- Falling rocks now break to avoid player stuck\r\n- Logs over electric fence now wont lag when you walk over them\r\n- Removed jump for the bus that would often kill players\r\n- Various kill commands changed to avoid server crash\r\n- Bridge charge detonation has longer delay\r\n- Lag spot when crossing bridge fixed\r\n- C4's on bridge now are not solid\r\n- New trex model to replace sue.mdl\r\n- Various changes to dynamic model settings\r\n- Tree camp spots near end removed fixed\r\n- End killer deals more damage per second\r\n- Flying dino now not solid to avoid rare collision with helicopter\r\n- New fence models thanks to [LeGrem](http://www.gamebanana.com/members/905472 \"\")\r\n- New teleports for players who fall into water near end area\r\n\r\nKnown bugs in versions J\r\n\r\n- Bus under heavy load of players wont move fast or at all\r\n- Model used for boat may rarely bug and appear not solid however you wont actually fall through it"
+}

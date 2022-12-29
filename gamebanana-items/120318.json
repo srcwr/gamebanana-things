@@ -1,0 +1,35 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "README-breakfloor_jail_v2.txt",
+					"1": "breakfloor_jail_v2.bsp",
+					"screenshots": [
+						"Thumbs.db",
+						"backofjail.jpg",
+						"jail.jpg",
+						"main.jpg"
+					]
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 350269,
+			"_nDownloadCount": 4176,
+			"_nFilesize": 2680659,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/350269",
+			"_sFile": "breakfloor_jail_v2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1184344554
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 120318,
+	"_sName": "breakfloor_jail_v2",
+	"_sText": "Breakfloor_jail_v2\r\nby Pwn3r1001\r\nBrought to you by Dooz Mapping Studio @ http://www.fpsbanana.com/studios/1229\r\nrelease: July 13 2007\r\npwner1001@hotmail.com\r\nLORDSOFWARCLAN.ORG\r\n\r\n\r\nDescription\r\n***********\r\nThis is my second version of breakfloor_jail. I really just did some quick changes like when you teleport to the top you don't go so fast that you hit the ground and lose about 20 hp. I also changed some textures around, and made the jail have 1 door inside instead of 2 on both sides. I also changed the back of the jail to a new way of getting to a secret area. -Made by Pwn3r1001 -Brought to you by Dooz Mapping Studio.\r\n\r\nRequired\r\n********\r\nCounter-strike:Source.\r\n\r\nInstallation\r\n************\r\nDownload the file, extract the breakfloor_jail_v2.bsp file to  steam/steamapps/{yourusername}/counter-strike source/cstrike/maps/\r\n\r\n\r\nUninstall\r\n*********\r\nJust delete the map.\r\n\r\nUsage\r\n*****\r\nYou can test the map by going to start a new server in CS:S then pick the map and start. \r\n\r\nAdmins\r\n******\r\nI would suggest using bzipper from here: http://www.fpsbanana.com/tools/1495 . Extract the .bsp into the folder and use the bzipper tool to compress. Then take that compressed file and put it into your map folder in your server( usually at C:\\Program Files\\Valve\\HLServer\\cstrike\\maps) or if your using a webserver for downloads it's the same idea. Also add breakfloor_jail_v2 to maplist.txt in your server folder so it shows up in the ingame maplist.\r\n\r\nMappers\r\n*******\r\nIf you would like to customize/modify breakfloor_jail_v2 email me at pwner1001@hotmail.com and I'll be glad to give you the .vmf as long as you give proper credit to my name in the readme and installer if you make one. \r\n \r\n\r\nThanks to\r\n*********\r\nzymex for original breakfloor map, and valve for all textures.\r\n\r\n\r\nChangeLOG\r\n******************************************************\r\nVersion 1.0 (First Version)\r\n-Released\r\n\r\n******************************************************\r\n"
+}

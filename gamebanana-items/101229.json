@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_bluecorridor_kai.bsp",
+					"de_bluecorridor_kai_ReadMe.txt"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 331939,
+			"_nDownloadCount": 2224,
+			"_nFilesize": 17606013,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/331939",
+			"_sFile": "de_bluecorridor_kai.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1242118036
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 101229,
+	"_sName": "de_BlueCorridor_Kai",
+	"_sText": "De_BlueCorridor_Kai - Bomb/Defuse\r\nby Schuzak\r\n5/May/2009\r\n\r\n\r\nMore fps-friendly version of de_BlueCorridor.\r\n\r\nChanges:\r\n*Fixed stucking area.\r\n*Deleted HDR capability.\r\n*Deleted refract shader materials.\r\n*Removed all models.\r\n*Reduced spawn points. Now Ts can quick start off.\r\n\r\n\r\n1, Description\r\n\r\nA terrorists group is attacking a museum in Tokyo.\r\n\r\nCounter-Terrorists:\r\nSave important cultural assets or eliminate all terrorists.\r\n\r\nTerrorists:\r\nBlast one of two bombsites.\r\n\r\n\r\n2, Installation\r\n\r\nJust extract .BSP file into the maps folder. All required files (.NAV, radar map, materials etc.) are included in .BSP.\r\n\r\n\r\n3, Contact\r\n\r\ne-mail : admin AT schuzak.jp\r\nWeb site : http://www.schuzak.jp\r\n"
+}

@@ -1,0 +1,39 @@
+{
+	"_aAlternateFileSources": [
+		{
+			"description": "fastdl download",
+			"url": "http://5.199.136.88/cstrike/maps/"
+		}
+	],
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"bhop_scroll_killa.bsp",
+					"kz_city_extreme.bsp",
+					"kz_small_facility.bsp",
+					"kz_strafe_protraining.bsp",
+					"kz_tombraider.bsp",
+					"kz_utopia.bsp",
+					"kz_wallclimb.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 830457,
+			"_nDownloadCount": 44,
+			"_nFilesize": 71286875,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/830457",
+			"_sFile": "kz_72d73.7z",
+			"_sMd5Checksum": "c34063bfd06dc2330912563833ec5c23",
+			"_tsDateAdded": 1657767028
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 389352,
+	"_sName": "KZMOD port map pack 4",
+	"_sText": "Includes<br><br>kz_city_extreme<br>kz_small_facility<br>kz_strafe_protraining<br>kz_tombraider<br>kz_utopia<br>kz_wallclimb<br><br><br>Extra<br>bhop_scroll_killa<br><br><br>Descriptions<br><br><br>kz_city_extreme<br>Original map by fact or fiction<br>contains 1 course: city_extreme<br>notes: the map is one giant model, which may cause some lag<br><br>kz_small_facility<br>Original map by Chrizzy<br>contains 3 courses: kz_small_facility 1, kz_small_facility 2 and kz_boxes<br><br>kz_strafe_protraining<br>Original map by SoUlFaThEr<br>contains 3 courses: kz_arches, strafe_ez and strafe_hard<br><br>kz_tombraider<br>Original map by SoUlFaThEr<br>contains 2 courses: kz_tombraider and kz_egyptian_pillars<br>notes: this map is non-linear and can be confusing, I wrote a simple guide to help with this. http://5.199.136.88/tombraider<br>notes for server owners: set shavit_misc_startonspawn to 0<br><br>kz_utopia<br>Original map by fact or fiction<br>contains 2 courses: kz_utopia and mini bhop<br><br>kz_wallclimb<br>Original map by Solid<br>contains 2 courses: kz_wallclimb and kz_angle_climber<br>&nbsp;"
+}

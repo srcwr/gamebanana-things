@@ -1,0 +1,35 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"map": {
+						"cstrike": {
+							"maps": [
+								"mg_pacman_beta2.bsp",
+								"mg_pacman_beta2.nav"
+							]
+						}
+					}
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 303459,
+			"_nDownloadCount": 1546,
+			"_nFilesize": 29222870,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/303459",
+			"_sFile": "map_89.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1335349389
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 128429,
+	"_sName": "mg_pacman_beta2",
+	"_sText": "(update) gonna upload a new version fixing the powerup that i missed\r\n\r\nthis is the updated version with supports up to 15 players, up from 5. now the Ts move about 75% of normal speed (100%), or the CT \"pacman\" now moves about 25% faster then the Ts \"ghosts\"\r\nand also made some changes to the powerup.\r\n\r\nthis is takeing from the map txt file.\r\n\r\n\r\nIMPORTANT INFO: PRUT\r\n\r\nThis is a Pacman inspired level.\r\nCT acts as Pacman seen from a top-down angle.\r\nT acts as ghosts chasing Pacman, from First Person.\r\nWhile CT can see the entire level, and hide from T, T can only see staright ahead, and will need to co-op to catch CT.\r\n\r\nThe objective for CT is to rescue the Hostages, and avoid the T, since he cannot harm them without gaining a Power up.\r\nThe Power up lasts for 15 seconds, and will cause an alarm to alert the T that CT is lethal.\r\n\r\n\r\nRECOMMENTED CONTROL SETTINGS:\r\n\r\nWhen playing as Pacman (CT), its recommented not to use the mouse. Use the following control scheme for the optimal experience:\r\nMOVE: WASD\r\nTURN (R/L): ARROW KEYS <- and ->\r\nSHOOT: SPACE\r\n\r\n\r\nwe know the balanec might not be right but we were only 4 who could test it at a time."
+}

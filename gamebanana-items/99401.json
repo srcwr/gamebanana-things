@@ -1,0 +1,42 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"assault_classic": {
+						"0": "readme.txt",
+						"cstrike": {
+							"maps": [
+								"cs_assault_classic.bsp",
+								"cs_assault_classic.nav",
+								"cs_assault_classic.txt"
+							]
+						},
+						"hammer": [
+							"cs_assault_classic.prt",
+							"cs_assault_classic.vmf",
+							"cs_assault_classic.vmx"
+						]
+					}
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 378803,
+			"_nDownloadCount": 1984,
+			"_nFilesize": 1464040,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "Version 1.0 ",
+			"_sDownloadUrl": "https://gamebanana.com/dl/378803",
+			"_sFile": "assault_classic.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1523185700
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 99401,
+	"_sName": "Assault Classic",
+	"_sText": "<span class=\"GreenColor\">This map is an edit of this map port&nbsp;</span><br><a href=\"https://gamebanana.com/maps/166740\" class=\"linkified\" target=\"_blank\">https://gamebanana.com/maps/166740</a><br><span class=\"GreenColor\">With I think proper textures and new skybox, adjustment, playerclip fix, light fix and some minor modifications</span><br><br>I give an hammer file if you want to edit the map, don't forget to credit jiangqi9090 and Valve if you publish a new version<br><br><i>For the moment the map is not very optimized and there is no camera... maybe in an next update</i>"
+}

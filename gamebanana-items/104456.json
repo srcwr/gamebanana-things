@@ -1,0 +1,27 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_tv-tower.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 345575,
+			"_nDownloadCount": 2587,
+			"_nFilesize": 1483750,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/345575",
+			"_sFile": "de_tv-tower.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1199541521
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 104456,
+	"_sName": "de_tv-tower",
+	"_sText": "DE_TV-TOWER\r\n\r\nRemake of the tv-tower map from 1.6.\r\n\r\n\r\n\r\nKNOWN PROBLEMS\r\n---\r\n\r\n*Displacement that leads into water near Terrorist spawn flickers black. I've tried everything I've thought of... doesn't help.\r\n\r\n*Bots have trouble on this map. I edited nav file in the beta version ... but they still didn't work well. Did not include .nav file with this release because it would be pointless and use more space.\r\n\r\n\r\n\r\nSIMILARITIES / DIFFERENCES TO 1.6 VERSION\r\n---\r\n\r\n*Sliding door on top of ladder still there.\r\n\r\n*Elevator doors still there, but there's a button inside the lift to open and close them as well.\r\n\r\n*Can't enter roof of tower.\r\n\r\n*Is defusal instead of hostage rescue (cause of bad bot navigation).\r\n\r\n*Has darker elevator than original.\r\n\r\n*Elevator can be entered through an emergency exit.\r\n\r\n\r\nMISC\r\n---\r\n\r\n*18 seconds to compile with HDR enabled.\r\n\r\n*Around 11 cubemaps.\r\n\r\n*2 custom \"textures.\" 1 edited standard texture cause of the envmap bug (works perfect now).\r\n\r\n*Don't rename the map otherwise cubemaps will stop working. Rename it if you want overly shiny HDR and shiny, glossy fingernails and weapons.\r\n\r\n*Nothing was taken from the other remake, link: http://www.fpsbanana.com/maps/12773\r\n\r\n*Many thanks to nay0r for noting improvements that should've been made."
+}

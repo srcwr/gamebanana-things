@@ -1,0 +1,27 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"cs_olympic.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 318631,
+			"_nDownloadCount": 10675,
+			"_nFilesize": 17805851,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/318631",
+			"_sFile": "cs_olympic_3.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1286002455
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 100298,
+	"_sName": "cs_olympic",
+	"_sText": "NOTE: SO SORRY ABOUT MISSING TEXTURE - FIXED!!! I fogot a func_illusionary was using a texture I made for another map months ago. Texture has now been included - please download cs_olympic again and overwrite the previous version (posted yesterday the 01/10/2010) if you would like to see the texture. Sorry again (i counted this morning - over 350 custom files in this map! - Im suprised I forgot only one :/ \r\n\r\nHello Again. Well here it is, finally, the finished version of cs_olympic. Firstly, to anyone who downloaded and liked the beta version; I apolagize for the fact that it has taken so long to get out this finished version... I have a seasonal job which means from march to september I dont have the time for... well, anything really.\r\n\r\nSo the map... I am pleased with it, I think it is a big improvement over the beta version. Although the changes I have made are not dramatic, I think that they really make the difference and give the map the polished/complete feeling that the beta version lacked. Structurally almost nothing has changed, with the exception of some adjustments made to doorways to allow for better hostage movement. \r\n\r\nThe changes since the beta version are far more concerned with lighting, models and textures. The beta version was an LDR map, the final version is HDR which by itself makes the map look much better. I have spent a lot of time trying to get the lighting right inside the building... Putting in a light entity is one of the easist things to do in hammer, but I think that creating a good lighting scheme in a map is probably one of  the hardest.\r\n\r\nUsing I have taken the opportunity to make some custom models for the map which look nice. I always had the intention of putting in the advertising boards at the poolside but it also gave me the opportunity to remake some of the func_detail items that looked a little amateur, tables, bannisters, poolside benches etc. I think these models have made a positive difference, giving the map a more professional look. I have also extracted and reskinned source models to help contextualize the map better.\r\n\r\nI really hope that people like this version. I am pleased with it and hope very much that players will be able to enjoy good, interesting fights in a fun and imaginative environment. I have tried hard to create a map that is straightforward easy to learn and accessible to new-comers whilst at the same time leaving scope for evolution for players who know the map better - there are a lot of little hiding places, doors,exit signs, lights, cameras... (action?). Bunny-hoppers might be able to get to some fun places on this map, I really dont know. I kinda tried to leave that open a bit. Let me know what you think.\r\n\r\nAny feedback more than welcome and if you'd like to use the map on a server, please just send me the IP so I can look in :)\r\n"
+}

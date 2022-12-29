@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"gg_killarena.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 294389,
+			"_nDownloadCount": 1479,
+			"_nFilesize": 499139,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/294389",
+			"_sFile": "killarenabsp_css.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1369914513
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 135474,
+	"_sName": "gg_killarena",
+	"_sText": "Extract map from the zip file and put it in Program Files (x86)\\Steam\\Steamapps\\common\\Counter-Strike Source\\cstrike\\download\\maps. Make note that your Steam directory might be in Program Files instead of Program Files (x86), CHECK BOTH to make sure. Made by Psychotr0n Gamebanana map maker. You may want to rename the file to cs_killarena for now, the reason being some lighting problems when loaded as gg (For some odd reason, i don't know, don't ask me) This will be fixed in the next version."
+}

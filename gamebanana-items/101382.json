@@ -1,0 +1,56 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"Cash": {
+						"maps": [
+							"de_cash.bsp",
+							"de_cash.nav"
+						],
+						"materials": {
+							"overviews": [
+								"de_cash.vmt",
+								"de_cash.vtf"
+							]
+						},
+						"resource": {
+							"overviews": [
+								"de_cash.txt"
+							]
+						}
+					}
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 380511,
+			"_nDownloadCount": 1188,
+			"_nFilesize": 7527841,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/380511",
+			"_sFile": "de_cash.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1524627180
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Adjustment",
+					"text": "Change lighting/some stuff"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Version 1.1",
+			"_tsDateAdded": 1524627028
+		}
+	],
+	"_idRow": 101382,
+	"_sName": "De_Cash",
+	"_sText": "Not a big map, have fun."
+}

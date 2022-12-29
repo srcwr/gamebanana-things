@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"README.txt",
+					"ba_iPlay_jail.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 311145,
+			"_nDownloadCount": 3526,
+			"_nFilesize": 10947328,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/311145",
+			"_sFile": "_6958-.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1309792402
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 128986,
+	"_sName": "ba_iPlay_jail",
+	"_sText": "Video overview:\r\n\r\n<iframe width=\"475\" height=\"315\" src=\"http://www.youtube.com/embed/9cmKdovSvkw\" frameborder=\"0\" allowfullscreen></iframe>\r\n\r\nSlots: 24xCT, 28xT\r\n\r\nOptimisation: I did my best\r\n\r\nSecrets: Yes\r\n\r\nBugs: \r\n\r\n1) Sometimes props in prison cells become black and fully shadowed.\r\n\r\n2) If you have high latency, isolator doors' sound will be too annoying.\r\n\r\n3) If you breaks a table in VIP-room, a coffee mug will stay in the air)\r\n\r\n4) Fools who can't correctly open a secret gate in a punishment cell can get stuck in the floor.\r\n\r\n\r\n### =DESCRIPTION=\r\n\r\nMap has 2 main levels. \r\n\r\nFirst level contains 3 floors (prison cells), Main Hall, football, basketball, kitchen, waterpool, 1st weapon warehouse, outdoors areas, punishment cell, V.I.P. room and other places\r\n\r\nSecond level contains disco, 2nd weapon warehouse and 2nd Main Hall\r\n\r\nThere're many ways to get to 2nd level and back to 1st level\r\n\r\n### =NOTES=\r\n\r\nWeapons won't be spawned in prison cells if 5 terrorists or more are playing\r\n\r\nYou won't be able to get out from prison cell through ventilation if 7 terrorists or more are playing\r\n\r\nIf at least 1 terrorist hadn't been freed in about 60 seconds, map will automatically start \"RunOffDay\"\r\n\r\nWeapon (glock) will be randomly spawned in 1 of 2 specific prison cells every round.\r\nThere're 9 random secrets in ba_iPlay_jail. Only 1 will be chosen and appear\r\n\r\n### =RunOffDay - what's that?=\r\n\r\nRunOffDay - punishment for CTs who doesn't hurry up to open prison cells.\r\nThe RunOffDay automatically starts if at least 1 terrorist wasn't freed in 60 seconds since round start.\r\n\r\nWhen ROD is started:\r\n\r\n1) All prison cells open\r\n\r\n2) The lights turn off\r\n\r\n3) Both weapon warehouses open\r\n\r\n4) Music starts\r\n\r\nAfter 28 seconds since ROD is started:\r\n\r\n1) Half of lamps turns on\r\n\r\n2) Music ends\r\n\r\n\r\nRussia, Reutov, 2010-2011"
+}

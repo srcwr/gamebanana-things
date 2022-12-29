@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ze_LOTR_Mount_Doom_v4_2.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 331827,
+			"_nDownloadCount": 13025,
+			"_nFilesize": 20919268,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/331827",
+			"_sFile": "ze_lotr_mount_doom_v4_2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1242426594
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 130854,
+	"_sName": "ze_LOTR_Mount_Doom_v4_2",
+	"_sText": "UPDATES V4\\_2<br>\r\n- Fixed the crash caused by the classname filter on Earendil’s Light.<br>\r\n- Crates now have sightly more health.<br>\r\n- Sightly increased moving doors speed.<br>\r\n- Added a shortcut for the second to the last door opener (it won’t sacrifice).<br>\r\n- Fixed the bug where sometimes the nazgul’s zombie wouldn’t die and keep the high speed.\r\n\r\n\r\nUPDATES V3<br>\r\n- FIXED FOR NEW ENGINE (cs source update)<br>\r\n- Buf fix: you can't break the stairs of Cirith Ungol tower (destroy the way to the Ring/lever)<br>\r\n- Bug fix: no nuke zone<br>\r\n- Balance: no camp spot for humans.<br>\r\n- Force the first zombify timer (5 to 20 seconds)<br>\r\n- Command sv\\_turbophysics 1 (to prevent the bouncing physics)<br>\r\n- Balance: +10 seconds of holding in case of ring betrayer.<br>\r\n- Balance: if there are more than 12 humans, a new way will be open for the zombies (more difficult to hold)<br>\r\n- Balance: the wall at the end of the ramp (last escape) opens earlier.\r\n\r\nUPDATES v2\\_3F<br>\r\n- Balance adjustments<br>\r\n- Using of colorcorrection for better lighting<br>\r\n- Improved lighting<br>\r\n- Structure of some parts have been modified.<br>\r\n- Nazgul adjustment (less HP)<br>\r\n- Bouncing physics problem fixed<br>\r\n- Final version\r\n\r\n\r\nA map based on Lord Of The Rings; you will escape through Mordor until reach the Mount Doom, and throw the Ring (or defend the Ring carrier).\r\n\r\nSpecial feature, the two random missions:<br>\r\n- Destroy the ring (75% chance): go across Minas Morgul, reach Cirith Ungol, take the ring (2 or 3 humans must take it while the others must defend; humans have 50s to take the Ring),reach the Mount Doom and then:<br>\r\n· Ring carrier throws the ring: he earns 15 points and humans must escape and reach the safety zone.<br>\r\n· Ring carrier jump to the lava: he earns 25 points, and humans can escape 8s earlier and reach the safety zone.<br>\r\n· Ring carrier doesn't throw the ring: he losses -20 points and humans must go into the Mount Doom and defend 40s.\r\n\r\n- Reach the Mount Doom (25% chance): go across Minas Morgul, reach Cirith Ungol, open the door with a button at top of the tower (like ring), reach the Mount Doom and defend 20s, go into de Mount Doom and defend 30s.\r\n\r\nObjects:<br>\r\n- The Ring: will appear when the 'Destroy the Ring' mission has been selected.<br>\r\n- The Frodo's light: zombies can't touch the carrier during 10s (when he uses the object).\r\n\r\n\r\nWARNING!!:<br>\r\n- The map is done for servers without respawn (camper clean like in Moria)."
+}

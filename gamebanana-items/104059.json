@@ -1,0 +1,50 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"de_spaceship": {
+						"0": "Readme.txt",
+						"cstrike": {
+							"maps": [
+								"de_spaceship.bsp"
+							],
+							"materials": {
+								"skybox": [
+									"Sky_spacebk.vmt",
+									"Sky_spacedn.vmt",
+									"Sky_spaceft.vmt",
+									"Sky_spacelf.vmt",
+									"Sky_spacert.vmt",
+									"Sky_spaceup.vmt",
+									"sky_spacebk.vtf",
+									"sky_spacedn.vtf",
+									"sky_spaceft.vtf",
+									"sky_spacelf.vtf",
+									"sky_spacert.vtf",
+									"sky_spaceup.vtf"
+								]
+							}
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 347338,
+			"_nDownloadCount": 1466,
+			"_nFilesize": 2610094,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/347338",
+			"_sFile": "de_spaceship.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1194152267
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 104059,
+	"_sName": "de_spaceship",
+	"_sText": "Author notes\r\nde_SpaceShip\r\nThis map is A smiple Space ship with losts of triggers\r\nThe T spawn in the cargo hold with Large Bay doors that can open with a\r\nwith a control panle up top.(warning this ship is in space :) )\r\nTHe two Bomb sites are the Bridge and the Generators Both need to activate\r\ncontrol panles to reveal the bomb sites\r\nwhen the generator shield is down the emergency lights come on\r\nwhen the computer systems are off line the gravity is set to low\r\n(this is not cause by a server command enity it is a gravity control relation)\r\nThere is also a secruity room that i put just well i like the cameras"
+}

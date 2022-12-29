@@ -1,0 +1,34 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrike": {
+						"download": {
+							"maps": [
+								"zm_breaths.bsp"
+							]
+						}
+					}
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 282130,
+			"_nDownloadCount": 313,
+			"_nFilesize": 1366711,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/282130",
+			"_sFile": "zm_breaths_2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1437962217
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 131420,
+	"_sName": "zm_breaths",
+	"_sText": "This is my first submission which is a simple large fast-paced map that leans more towards being enjoyable and fun rather than being aesthetically pleasing (yet). \r\n\r\nI made this map using the “tunnel -> area -> tunnel -> area” method instead of having a single huge area. This is to hopefully reduce lag by spreading the players and stopping other areas to be unnecessarily rendered. By “area” I mean each of the three large regions.\r\n\r\nI had in mind to create a similar balanced game flow as seen in ‘zm_cbble’ whereas humans and zombies try to control each of the areas until their objectives are met.\r\n\r\nEach large “camping” spot has 2-3 ways to be reached. The majority of the small “camping” spots has one way to be single-handedly reached. All the spots has an extra way of being reached with clever teamwork. However, there are no spots that can be barricaded to prevent entry.\r\n\r\nThe map is intended for medium/high player count (32-64).\r\n\r\nEach of the three areas has a particular theme; household theme, semi-futuristic/industrial theme and dry/rocky theme.\r\n\r\nThe areas are easier to travel to due to the roads having conveyor entities on top which are set to a value of 100. There are 2 conveyors on the road that travel their opposing direction (right hand to be pushed forward).\r\n\r\nEach of the small \"black/white\" textured brushes in the household themed area are just boosters to reach the opposing spots on the other end. The leaves on the ground which are highlighted with yellow lights is a jump booster to reach the higher concrete platform beside it.\r\n\r\nThere is a teleport (green light) inside the cave (which can be reached via the long tunnel) that lets players end up in the semi-futuristic/industrial themed area in order to infiltrate the opposing players that controls tunnels, etc.\r\n\r\nThere are 5 hidden weapons with effects; 1 tracer trail effect (dual elites), 1 rainbow trail effect (dual elites), 1 crown (brush contraption hovering above head) effect (dual elites), 1 monster costume effect (dual elites) & 1 grenade that makes you 85% invisible upon pickup.\r\n\r\nThis map is also semi-optimized and lag-free (for me atleast), however not yet tested with full player count.\r\n\r\nThere are no lightings or reflections (cubemaps) included (yet).\r\n\r\nAny feedback or constructive criticism is greatly appreciated.\r\n\r\nThank you."
+}

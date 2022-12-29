@@ -1,0 +1,101 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ze_dev_r4a.bsp"
+				],
+				"_sMimeType": "application/x-7z-compressed"
+			},
+			"_bContainsExe": false,
+			"_idRow": 397659,
+			"_nDownloadCount": 114,
+			"_nFilesize": 57817091,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/397659",
+			"_sFile": "ze_dev_r4a.7z",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1538082751
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrike": {
+						"download": {
+							"materials": {
+								"overviews": [
+									"ze_dev_r4a.vmt",
+									"ze_dev_r4a.vtf",
+									"ze_dev_r4a_radar.vmt"
+								]
+							},
+							"resource": {
+								"overviews": [
+									"ze_dev_r4a.txt"
+								]
+							}
+						}
+					}
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 398431,
+			"_nDownloadCount": 53,
+			"_nFilesize": 31482,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "learned how to make a minimap so there it is",
+			"_sDownloadUrl": "https://gamebanana.com/dl/398431",
+			"_sFile": "ze_dev_minimap_f7654.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1538799167
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "2 new sub modes"
+				},
+				{
+					"cat": "Removal",
+					"text": "Removed normal mode from the random sub mode picker"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Clipped the \"admin room\" so knifed zm cant reach it"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Minor bugfixes and changes"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "r3",
+			"_tsDateAdded": 1519955330
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Adjustment",
+					"text": "Balanced some holds"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Buffed the attacks of the level 2 boss"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "r2c",
+			"_tsDateAdded": 1515179951
+		}
+	],
+	"_idRow": 130699,
+	"_sName": "ze_dev_r4a",
+	"_sText": "///////////<br>october 24 2018<br>STRIPPERFIX<br><a href=\"https://www.dropbox.com/s/n3qnolwl1okuoim/ze_dev_r4a.cfg?dl=0\" class=\"linkified\" target=\"_blank\">https://www.dropbox.com/s/n3qnolwl1okuoim/ze_dev_r...</a><br>ENTWATCH<br><a href=\"https://www.dropbox.com/s/l1jsjunnmku8m3s/ze_dev_r4a.cfg?dl=0\" class=\"linkified\" target=\"_blank\">https://www.dropbox.com/s/l1jsjunnmku8m3s/ze_dev_r...</a><br>///////////<br><br>-3 stages<br>-4 sub modes<br><br>Music used:<br>Vertex - Dodonpachi Daifukkatsu Black Label<br>Xanadu - Dodonpachi Daifukkatsu Black Label<span class=\"watch-title\" dir=\"ltr\" title=\"XI - Blue Zenith\"></span><span class=\"watch-title\" dir=\"ltr\" title=\"XI - Blue Zenith\"><br>XI - Blue Zenith<br></span>Flotage - Dodonpachi Daifukkatsu Black Label<br>Frenzy - Dodonpachi Daifukkatsu Black Label<br>Vertigo - Dodonpachi Daifukkatsu Black Label"
+}

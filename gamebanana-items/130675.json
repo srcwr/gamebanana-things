@@ -1,0 +1,82 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ze_citadel_episodic_escape_v04.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 272303,
+			"_nDownloadCount": 1299,
+			"_nFilesize": 53390431,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/272303",
+			"_sFile": "ze_citadel_episodic_escape_v04.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1501873933
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Removed unnecessary garbage (Prop Physics)"
+				},
+				{
+					"cat": "-",
+					"text": "Removed unnecessary files"
+				},
+				{
+					"cat": "-",
+					"text": "Reduced time at the door from 25 to 15 seconds"
+				},
+				{
+					"cat": "-",
+					"text": "Reduced time to train from 150 to 90 seconds"
+				},
+				{
+					"cat": "-",
+					"text": "Fixed a few places"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Version 0.4 beta",
+			"_tsDateAdded": 1504524032
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Fixed \"trigger_hurt\""
+				},
+				{
+					"cat": "-",
+					"text": "Removed the balconies"
+				},
+				{
+					"cat": "-",
+					"text": "Removed unnecessary map files"
+				},
+				{
+					"cat": "-",
+					"text": "Reduced the size of the \"cubemap\""
+				},
+				{
+					"cat": "-",
+					"text": "Fixed a few places"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "version 0.3 beta",
+			"_tsDateAdded": 1503152692
+		}
+	],
+	"_idRow": 130675,
+	"_sName": "ze_citadel_episodic_escape_v04",
+	"_sText": "Map created for the game \"Half - life 2 episode one\". This game was taken textures,models and sounds. And then there's \"Cubemap\", and the map compiled with \"HDR\". The essence of the card is that have to flee the city to escape. At first you will appear in the city and have to run to the train station.&nbsp;And the map was tested and validated."
+}

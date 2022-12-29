@@ -1,0 +1,32 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_Utility_BETA.prt",
+					"de_Utility_BETA.vmf",
+					"de_Utility_BETA.vmx",
+					"de_utility_beta.bsp",
+					"de_utility_beta.log",
+					"de_utility_beta.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 301486,
+			"_nDownloadCount": 1503,
+			"_nFilesize": 1834108,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/301486",
+			"_sFile": "de_utilitybeta.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1342462280
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 104529,
+	"_sName": "De_Utility_Beta",
+	"_sText": "Fully planned Tspawn-Garage and Sewers...after that made it up as I went.  \r\n\r\nProblems : Some clipping issue with items stuck into others and some textures need adjusting and will flesh out the map with some more props/ details for final version later on.\r\n\r\n3D skybox will be looked into- still pretty new to SDK HAMMER  have to get on some tutorials.\r\n\r\nI did included a labeled nav. mesh this time around though I didn't mess with the bot commands / path (dissapointed labels are set list and can't customize)\r\n\r\nI went with darker coloration for light after complaints about de_canyon looking too bright and cartoonish.\r\n\r\nAnyone wanna make a radar for me that'd be awesome lol I can try at some point.  Do not know anything about photo shop.   My wife has Photo Explosion version 4 I guess that counts as photoshop so maybe I'll be able to make a radar in the future.  I've glimpsed the tutorial on radar but ran away from it once got into all the photo shop stuff.\r\n\r\nAnyways carrying on.  T-s enter sewers from garage/basement or sewer access in alley.  From the Sewers T's have 3 options  to Asite through side door area(connects to mid)  or to Middle / connects all other areas) or to siteB through tunnel and stairs area.  There is also an alt route beside mid that is accessed from middle or B sewers/ tunnel"
+}

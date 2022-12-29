@@ -1,0 +1,32 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"dm_devcorners": [
+						"README.txt",
+						"dm_devcorners.bsp",
+						"dm_devcorners.nav"
+					]
+				},
+				"_sMimeType": "application/x-7z-compressed"
+			},
+			"_bContainsExe": false,
+			"_idRow": 341720,
+			"_nDownloadCount": 1154,
+			"_nFilesize": 1443934,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/341720",
+			"_sFile": "dm_devcorners.7z",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1211650407
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 117308,
+	"_sName": "dm_devcorners",
+	"_sText": "Dm_devcorners\r\nThis is my second map, my first being dm_devarena.  This map started as a simple Idea; the four different quadrants of the map would represent four different climate zones, but than I realized, I sucked with displacements.  It was as simple as that, so I put the .vmf aside and went on with my life,  Than I decided to make a new map, dm_devarena,  after completing this map I wanted more and I had remembered that I had a 35% done map just lying in my folders. So I Opened it and began working on it.  I also had optimized many things, I made several pieces of architecture a func_detail to lower compile times, I kept a skybox to a little 2x8 piece in the ceiling at the center.  I also used NoDraw on many of the textures that went unseen, you know the usual mapping stuff.\r\n\r\n\r\n-This Map Is Completly  Symmetrical (not completly :\\ )\r\n-Features many areas for cover and to ambush\r\n-Heavily tested with a team of me and 19 bots\r\n-Supports 20 People\r\n-Not too heavy for snipers with the exception of the outer linings.  \r\n-Probably Best with a shotgun or M4/AK \r\n\r\n*Quick Note* If someone runs a dedicated server and want's to use the map, just give me a quick heads up"
+}

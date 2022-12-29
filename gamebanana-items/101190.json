@@ -1,0 +1,46 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"de_bigmonkey": {
+						"cstrike": {
+							"maps": [
+								"de_bigmonkey.bsp",
+								"de_bigmonkey.res",
+								"de_bigmonkey.txt"
+							],
+							"materials": {
+								"overviews": [
+									"de_bigmonkey.vmt",
+									"de_bigmonkey.vtf"
+								]
+							},
+							"resource": {
+								"overviews": [
+									"de_bigmonkey.txt"
+								]
+							}
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 355147,
+			"_nDownloadCount": 1946,
+			"_nFilesize": 3407121,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/355147",
+			"_sFile": "de_bigmonkey.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1162264260
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 101190,
+	"_sName": "de_bigmonkey",
+	"_sText": "de_bigmonkey\r\n\r\n{W`C} BigMonkey: Brushwork, layout, texturing\r\n{W`C} Moon!: Props/Model placement, layout, and testing\r\n\r\nTerrorist Objective\r\n---------------------------------------------\r\nStorm the mansion and destroy the control room to disable the launch\r\nof the submarine or descend and destroy the submarine. Either will stop\r\nthe CT's from launching an assault on the Terrorists base.<br>\r\n\r\n\r\nCounter-Terrorist's Objective\r\n---------------------------------------------\r\nStop the Terrorists from bombing the submarine and control room."
+}

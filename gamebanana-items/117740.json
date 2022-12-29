@@ -1,0 +1,35 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"maps": {
+						"0": "dm_wizard_v1.bsp",
+						"1": "dm_wizard_v1.nav",
+						"2": "dm_wizard_v1.txt",
+						"graphs": [
+							"dm_wizard_v1.ain"
+						]
+					}
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 360642,
+			"_nDownloadCount": 1666,
+			"_nFilesize": 1505645,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/360642",
+			"_sFile": "dm_wizard_v1.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1125280887
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 117740,
+	"_sName": "dm_wizard_v1",
+	"_sText": "this is another halo 1 deathmatch remake.\r\nthis is a small map so I have incorperated a new method of entering the map, to provide a deathmatch type spawning without actually having the deathmatch mod.\r\n\r\nof course it should be perfect for css dm aswell.\r\nIMPORTANT\r\nthe gravity must be set at halo equivelent for this map to play right.\r\ntype\r\n\"sv_gravity 640\"\r\ninto the console without the speachmarks."
+}

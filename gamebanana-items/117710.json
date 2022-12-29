@@ -1,0 +1,49 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "dm_warzone_e01 (1).png",
+					"1": "dm_warzone_e01 (2).png",
+					"2": "dm_warzone_e01 (3).png",
+					"3": "dm_warzone_e01 (4).png",
+					"4": "dm_warzone_e01 (5).png",
+					"5": "readme.txt",
+					"maps": [
+						"dm_warzone_e01.bsp",
+						"dm_warzone_e01.nav"
+					],
+					"materials": {
+						"overviews": [
+							"dm_warzone_e01.vmt",
+							"dm_warzone_e01.vtf"
+						]
+					},
+					"resource": {
+						"overviews": [
+							"dm_warzone_e01.txt"
+						]
+					}
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 406733,
+			"_nDownloadCount": 170,
+			"_nFilesize": 13585085,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/406733",
+			"_sFile": "dm_warzone_e01.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1547124167
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 117710,
+	"_sName": "dm_warzone_e01",
+	"_sText": "Warzone 'E' at area '01'.<br><br>Include:<br>&gt; Map<br>&gt; Nav (Bots)<br>&gt; Radar (with Location)<br><br>MPBagas<br><br>The map also works for those who still playing in Counter-Strike Source v34.<br>"
+}

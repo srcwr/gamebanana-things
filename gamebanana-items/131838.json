@@ -1,0 +1,77 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"zm_foda_css.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 492992,
+			"_nDownloadCount": 86,
+			"_nFilesize": 464586,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "version 1",
+			"_sDownloadUrl": "https://gamebanana.com/dl/492992",
+			"_sFile": "zm_foda_css.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1603887673
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"zm_foda_css.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 495400,
+			"_nDownloadCount": 62,
+			"_nFilesize": 8406256,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "version 2",
+			"_sDownloadUrl": "https://gamebanana.com/dl/495400",
+			"_sFile": "zm_foda_css_da171.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1605117604
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Add a secret place that you can find yourself :D"
+				},
+				{
+					"cat": "Addition",
+					"text": "Add some objects in the middle of the map"
+				},
+				{
+					"cat": "Addition",
+					"text": "New skybox"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fix the right place and add a laser It lasts for 3 minutes(Some adjustments here and there, not important)"
+				},
+				{
+					"cat": "Removal",
+					"text": "Removal the props from the middle and added it inside the jail"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Version 2",
+			"_tsDateAdded": 1604999492
+		}
+	],
+	"_idRow": 131838,
+	"_sName": "zm_foda_css",
+	"_sText": "ZM_FODA_CSS!! this is zm_foda from cs 1.6 with some addition"
+}

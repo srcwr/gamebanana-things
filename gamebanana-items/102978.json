@@ -1,0 +1,44 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "readme.txt",
+					"maps": {
+						"0": "de_lockup_B1.bsp",
+						"1": "de_lockup_B1.res",
+						"2": "de_lockup_b1.nav",
+						"graphs": [
+							"de_lockup_b1.ain"
+						]
+					},
+					"materials": {
+						"de_lockup": [
+							"Lockuptilewall.vmt",
+							"Lockuptilewall.vtf",
+							"Lockuptilewall_normal.vtf",
+							"madeby.vmt",
+							"madeby.vtf"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 361884,
+			"_nDownloadCount": 2373,
+			"_nFilesize": 5430341,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/361884",
+			"_sFile": "de_lockup_b1.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1110685092
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 102978,
+	"_sName": "de_lockup",
+	"_sText": "First release of my map , has good fps:)"
+}

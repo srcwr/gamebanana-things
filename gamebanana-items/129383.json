@@ -1,0 +1,33 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "Readme.txt",
+					"cstrike": {
+						"maps": [
+							"ba_jail_minecraft_a1.bsp"
+						]
+					}
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 296909,
+			"_nDownloadCount": 1529,
+			"_nFilesize": 1566201,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/296909",
+			"_sFile": "ba_jail_minecraft_a1.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1358851798
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 129383,
+	"_sName": "Ba_jail_minecraft_a1",
+	"_sText": "Map works fine on old machines as-well. All you need to do is to put it in your cstrike/maps/ folder, and add it to your map cycle.\r\nFeatures:\r\n\r\n1. Soccer\r\n2. Big Gun Toss / LR Zone.\r\n3. Pool\r\n4. Team Activator checker for the weapons door\r\n5. 2 Escaping cells\r\n6. One weapon (Glock-18) cell with 30~ bullets.\r\n7. 'red cell', you can get to it through the soccer (hidden area).\r\n\r\nI'm working on ba jail minecraft a2 right now, the next version will be much better, inclouding: Race, Better LR zone (shot 4 shot, etc.) and more activity zones.\r\n\r\n== extremely important ==\r\nYou need to install textures from this link: http://www.sendspace.com/file/nfjyj5\r\nin order to actually see the map as it is. Extract the .rar in cstrike/meterials."
+}

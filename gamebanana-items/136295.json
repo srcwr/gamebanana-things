@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"gg_redd_twofort_v2.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 312440,
+			"_nDownloadCount": 1199,
+			"_nFilesize": 1764116,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/312440",
+			"_sFile": "_5148-.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1305669154
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 136295,
+	"_sName": "gg_redd_twofort_v2",
+	"_sText": "This is a compacted version of the TF2 map.  It's extremely condensed as the 'forts' on either side are only facades more or less with steps in the back.  The spawn areas are in the water underneath the forts which can be quickly accessed via ladders.\r\n\r\nThe major difference between this and a lot of my other maps is that I made extensive use of func_detail brushes in order to speed up normal vis rendering (something that I should have learned long ago!) and making the maps run much faster in the end.  I'm learning other optimization techniques, so I will be attempting to make fast-running, yet detailed maps in the future."
+}

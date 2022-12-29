@@ -1,0 +1,31 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"maps": [
+						"surf_pyramidrush_scoutznknivez_nolag.bsp",
+						"surf_pyramidrush_scoutznknivez_nolag.txt"
+					]
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 351534,
+			"_nDownloadCount": 1611,
+			"_nFilesize": 955750,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/351534",
+			"_sFile": "surf_pyramidrush_scoutznknivez_nol.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1179131326
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 122788,
+	"_sName": "surf_pyramidrush_scoutznknivez",
+	"_sText": "Hi there this is a new Mapcreation from Smoker and me!\r\nI noticed that I can only brush shit but im very good with Entities and stuff.\r\nSmoker is the other way. He can brush good and fast but dont know Entities.\r\nSo we decided that he makes the map and I do the effects and entities. So the idea and layout came completely from smoker. When he gave me the vmf and I opened it in Hammer I just could think of one thing: Ultimate Destruction!\r\nSo I first fixed some minor bugs and then the Ideas came in. I first thought of just making a big nuke explosion but that was not enough for me. After 12 more ideas of destruction I came up with my last and best Idea.\r\n\r\nTheres a platform that is very hard to reach with a button. Once the button is pressed the terror begins:\r\nThe sky changes and you get teleported to savety and can whatch what happens.First some lasers come from the pyramide and the pyramide opens up. Then you see Portals opening in the sky. A big beam comes from the middle Portal and then there is the BIG BOOOOM! U can survive the explosion but even if you manage to survive it, you will get killed by the lasers which come from the middle of the ex-pyramide.\r\n\r\nWell..thats the whole effect...you can see it in screens 2-5 step-by-step\r\n\r\nNow to the map itself: It was inspired by two maps: surf_pyramideduell2 and scoutznknivez\r\nYou start with a scout and a knive. the spawn looks like this: \r\n<a href=\"http://img291.imageshack.us/my.php?image=surfpyramidrushscoutsnksg3.jpg\" target=\"_blank\"><img src=\"http://img291.imageshack.us/img291/9053/surfpyramidrushscoutsnksg3.th.jpg\" border=\"0\" alt=\"Free Image Hosting at www.ImageShack.us\" /></a>\r\n\r\nYou will have to gain speed at the accelerators to get to multiple platforms to snipe and kill. As I mentioned: It is very hard to get to the highest platform with the button. Its either you dont make it, you make it, or you fly so high that u die when you land!\r\n\r\nThere are 32 spawnpoints.\r\n\r\nOh and the explosion lags on low-end computers! On my friends PC the fps dropped from 134 fps to 15-30 fps :P\r\nBut dont worry. You have to train much to get to the button :P\r\n\r\nNow go and enjoy this map!\r\n\r\nOh and dont mind the red lines in Console! Everything is fine and working as it should!\r\n\r\nEDIT: I forgot to mention: Because it was built to work under sv_airaccelerate 1000 and sv_gravity 750 it forces those cmd's on round start.\r\n\r\nEDIT2: Moved kill button up!\r\n\r\nEDIT3: Fixed a major bug!\r\n\r\n\r\nEDIT4: Reduced the lag...well reduced the time of the lag.. The shockwaves are causing the lag. But now every player will die (except the one who pressed the button) cuz of the explosion. Removed the fps-heavy smoke and all that reduced the size of the map to 4 mb\r\nHave Fun!\r\n\r\n"
+}

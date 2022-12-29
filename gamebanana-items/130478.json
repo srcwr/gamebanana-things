@@ -1,0 +1,32 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"Beta": {
+						"0": "README.txt",
+						"maps": [
+							"surf_spaghett_beta.bsp"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 277563,
+			"_nDownloadCount": 590,
+			"_nFilesize": 3736820,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/277563",
+			"_sFile": "surf_spaghett_beta_40d35.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1468203808
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 130478,
+	"_sName": "Surf Spaghett Beta",
+	"_sText": "This is a simple stage-style combat surf map.<br>no credit goes to GFL!<br><br>In order to surf on this map you must type these commands in console:<br>sv_acceleration 100<br>sv_airacceleration 1000"
+}

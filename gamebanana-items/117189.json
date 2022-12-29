@@ -1,0 +1,366 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "2014-12-13_00002.jpg",
+					"1": "2014-12-13_00003.jpg",
+					"2": "2014-12-13_00004.jpg",
+					"3": "2014-12-13_00005.jpg",
+					"maps": [
+						"dm_bigcity_v2.bsp",
+						"dm_bigcity_v2.log",
+						"dm_bigcity_v2.prt"
+					],
+					"materials": {
+						"BUILDINGS": [
+							"GEN01.vmt",
+							"GEN03.vmt",
+							"GEN11.vmt",
+							"GEN15.vmt",
+							"GEN16.vmt",
+							"GEN18.vmt",
+							"GEN19.vmt",
+							"GEN24.vmt",
+							"gen01.vtf",
+							"gen01_ref.vtf",
+							"gen03.vtf",
+							"gen03_ref.vtf",
+							"gen11.vtf",
+							"gen15.vtf",
+							"gen15_ref.vtf",
+							"gen16.vtf",
+							"gen16_ref.vtf",
+							"gen18.vtf",
+							"gen18_ref.vtf",
+							"gen19.vtf",
+							"gen19_ref.vtf",
+							"gen24.vtf",
+							"gen24_ref.vtf"
+						],
+						"BUILDING_TEMPLATE": [
+							"BRICKWALL014BZ.vmt",
+							"BRICKWALL014CZ.vmt",
+							"BRICKWALL014DZ.vmt",
+							"BRICKWALL014EZ.vmt",
+							"BRICKWALL014FZ.vmt",
+							"BRICKWALL031BZ.vmt",
+							"BRICKWALL045CZ.vmt",
+							"BUILDING_TEMPLATE001BZ.vmt",
+							"BUILDING_TEMPLATE001FZ.vmt",
+							"BUILDING_TEMPLATE002BZ.vmt",
+							"BUILDING_TEMPLATE002CZ.vmt",
+							"BUILDING_TEMPLATE002IZ.vmt",
+							"BUILDING_TEMPLATE003BZ.vmt",
+							"BUILDING_TEMPLATE003DZ.vmt",
+							"BUILDING_TEMPLATE003EZ.vmt",
+							"BUILDING_TEMPLATE003HZ.vmt",
+							"BUILDING_TEMPLATE003NZ.vmt",
+							"BUILDING_TEMPLATE004BZ.vmt",
+							"BUILDING_TEMPLATE005BZ.vmt",
+							"BUILDING_TEMPLATE005CZ.vmt",
+							"BUILDING_TEMPLATE006AZ.vmt",
+							"BUILDING_TEMPLATE006BZ.vmt",
+							"BUILDING_TEMPLATE012CZ.vmt",
+							"BUILDING_TEMPLATE012DZ.vmt",
+							"BUILDING_TEMPLATE012EZ.vmt",
+							"BUILDING_TEMPLATE012FZ.vmt",
+							"BUILDING_TEMPLATE012HZ.vmt",
+							"BUILDING_TEMPLATE014BZ.vmt",
+							"BUILDING_TEMPLATE017CZ.vmt",
+							"BUILDING_TEMPLATE017KZ.vmt",
+							"BUILDING_TEMPLATE019CZ.vmt",
+							"BUILDING_TEMPLATE019DZ.vmt",
+							"BUILDING_TEMPLATE019KZ.vmt",
+							"BUILDING_TEMPLATE020BZ.vmt",
+							"BUILDING_TEMPLATE027CZ.vmt",
+							"BUILDING_TRAINSTATION_TEMPLATE002BZ.vmt",
+							"BUILDING_TRAINSTATION_TEMPLATE002CZ.vmt",
+							"CONCRETEFLOOR013BZ.vmt",
+							"CONCRETEFLOOR028CZ.vmt",
+							"CONCRETEFLOOR028DZ.vmt",
+							"CONCRETEFLOOR033AZ.vmt",
+							"CONCRETEFLOOR033BZ.vmt",
+							"CONCRETEFLOOR033CZ.vmt",
+							"CONCRETEFLOOR033KZ.vmt",
+							"CONCRETEFLOOR033YZ.vmt",
+							"COURTYARD_TEMPLATE001CZ.vmt",
+							"COURTYARD_TEMPLATE001FZ.vmt",
+							"COURTYARD_TEMPLATE001GZ.vmt",
+							"COURTYARD_TEMPLATE002GZ.vmt",
+							"COURTYARD_TEMPLATE003BZ.vmt",
+							"COURTYARD_TEMPLATE003FZ.vmt",
+							"COURTYARD_TEMPLATE005FZ.vmt",
+							"METALROOF003AZ.vmt",
+							"METALROOF004AZ.vmt",
+							"METALROOF005AZ.vmt",
+							"METALROOF006AZ.vmt",
+							"METALWALL004DZ.vmt",
+							"METALWALL004EZ.vmt",
+							"METALWALL018EZ.vmt",
+							"METALWALL021DZ.vmt",
+							"METALWALL021EZ.vmt",
+							"METALWALL032GZ.vmt",
+							"METALWALL045AZ.vmt",
+							"METALWALL070GZ.vmt",
+							"NUKDOORSBZ.vmt",
+							"NUKWINDOWAZ.vmt",
+							"TOXICSLIME002AZ.vmt",
+							"toxicslime002aZ_beneath.vmt",
+							"toxicslime002aZ_dx70.vmt"
+						],
+						"COMPOSITE": [
+							"BUILDINGSET022B.vmt",
+							"BUILDINGSET023A.vmt",
+							"BUILDINGSET057A.vmt",
+							"buildingset022b.vtf",
+							"buildingset023a.vtf",
+							"buildingset057a.vtf"
+						],
+						"CONCRETE": [
+							"CONCRETEWALL002A.vmt",
+							"PRODFLRE.vmt",
+							"concretewall002a.vtf",
+							"prodflrb_normal.vtf",
+							"prodflre.vtf"
+						],
+						"CS_ASSAULT": [
+							"ASSAULT_SKYBOX_BUILDING01.vmt",
+							"ASSAULT_SKYBOX_BUILDING02.vmt",
+							"ASSAULT_SKYBOX_BUILDING04.vmt",
+							"PAVEMENT001.vmt",
+							"PAVEMENT001A.vmt",
+							"RIGHTCURB001.vmt",
+							"assault_pinup_decal01.vmt",
+							"assault_pinup_decal01.vtf",
+							"assault_pinup_decal02.vmt",
+							"assault_pinup_decal02.vtf",
+							"assault_skybox_building01.vtf",
+							"assault_skybox_building02.vtf",
+							"assault_skybox_building04.vtf",
+							"assault_tres_decal01.vmt",
+							"assault_tres_decal01.vtf",
+							"assault_vent_decal01.vmt",
+							"pavement001.vtf",
+							"pavement001_normal.vtf",
+							"pavement001a.vtf",
+							"rightcurb001.vtf",
+							"rightcurb001_normal.vtf"
+						],
+						"CS_HAVANA": [
+							"BUILDING03.vmt",
+							"building03.vtf",
+							"{FENCE3.vmt",
+							"{fence3.vtf"
+						],
+						"CS_ITALY": [
+							"DOOR_SN01.vmt",
+							"Door_sn01.vtf",
+							"Door_sn01_normal.vtf",
+							"IRONMETAL01.vmt",
+							"ironmetal01.vtf"
+						],
+						"DE_CBBLE": [
+							"GRASSFLOOR01.vmt",
+							"grassfloor01.vtf",
+							"grassfloor01_normal.vtf"
+						],
+						"DE_NUKE": [
+							"NUKE_CEILING_01.vmt",
+							"NUKE_METALFLOOR_01.vmt",
+							"nukdoorsb.vtf",
+							"nuke_ceiling_01.vtf",
+							"nuke_metalfloor_01.vtf",
+							"nukwindowa.vtf"
+						],
+						"DE_TRAIN": [
+							"TRAIN_CEMENTWEAR_01.vmt",
+							"TRAIN_CEMENT_FLOOR_01.vmt",
+							"TRAIN_GLASSWINDOW_01.vmt",
+							"decalgraffiti021a.vmt",
+							"decalgraffiti021a.vtf",
+							"train_cement_floor_01.vtf",
+							"train_cementwear_01.vtf",
+							"train_glasswindow_01.vtf",
+							"train_security_decal_01.vmt",
+							"train_security_decal_01.vtf"
+						],
+						"EFFECTS": [
+							"BLACK.vmt",
+							"black.vtf"
+						],
+						"METAL": [
+							"METALWALL021B_PLAIN.vmt",
+							"METALWALL021E_PLAIN.vmt",
+							"METALWALL066B_PLAIN.vmt",
+							"PRODDOORB.vmt",
+							"proddoorb.vtf"
+						],
+						"TEST_SPEAKERS": [
+							"FLOOR04.vmt",
+							"floor04.vtf"
+						],
+						"WOOD": [
+							"WOODFLOOR005A.vmt",
+							"WOODFLOOR006A.vmt",
+							"woodfloor005a.vtf",
+							"woodfloor006a.vtf",
+							"woodfloor006a_spec.vtf"
+						],
+						"decals": [
+							"decalgraffiti001d_cs.vmt",
+							"decalgraffiti001d_cs.vtf",
+							"decalgraffiti007a_cs.vmt",
+							"decalgraffiti007a_cs.vtf",
+							"decalgraffiti017a_cs.vmt",
+							"decalgraffiti017a_cs.vtf",
+							"decalgraffiti023a_cs.vmt",
+							"decalgraffiti023a_cs.vtf",
+							"decalgraffiti035a.vmt",
+							"decalgraffiti035a.vtf",
+							"decalgraffiti043a_cs.vmt",
+							"decalgraffiti043a_cs.vtf",
+							"decalgraffiti045a_cs.vmt",
+							"decalgraffiti045a_cs.vtf",
+							"decalgraffiti046a_cs.vmt",
+							"decalgraffiti046a_cs.vtf",
+							"decalgraffiti049a_cs.vmt",
+							"decalgraffiti049a_cs.vtf",
+							"decalgraffiti054a_cs.vmt",
+							"decalgraffiti054a_cs.vtf",
+							"decalgraffiti055a.vmt",
+							"decalgraffiti055a.vtf",
+							"decalgraffiti056a_cs.vmt",
+							"decalgraffiti056a_cs.vtf",
+							"decalgraffiti058a_cs.vmt",
+							"decalgraffiti058a_cs.vtf",
+							"decalmetalgrate007a.vmt",
+							"decalmetalgrate007a.vtf",
+							"milrug001.vmt",
+							"milrug001.vtf",
+							"posters01.vmt",
+							"posters01.vtf",
+							"posters04.vmt",
+							"posters04.vtf",
+							"posters05.vmt",
+							"posters05.vtf"
+						],
+						"detail": [
+							"dt_metal1.vtf"
+						],
+						"maps": {
+							"gm_bigcity67d3": {
+								"0": "c-7808_-5952_-10816.hdr.vtf",
+								"1": "c-7808_-5952_-10816.vtf",
+								"2": "cubemapdefault.hdr.vtf",
+								"3": "cubemapdefault.vtf",
+								"building_template": [
+									"building_template002l_-7808_-5952_-10816.vmt",
+									"building_template012f_-7808_-5952_-10816.vmt",
+									"courtyard_template001cz_-7808_-5952_-10816.vmt",
+									"courtyard_template001fz_-7808_-5952_-10816.vmt",
+									"courtyard_template001gz_-7808_-5952_-10816.vmt",
+									"courtyard_template002gz_-7808_-5952_-10816.vmt",
+									"courtyard_template003fz_-7808_-5952_-10816.vmt",
+									"courtyard_template005f_-7808_-5952_-10816.vmt",
+									"courtyard_template005fz_-7808_-5952_-10816.vmt",
+									"courtyard_template006e_-7808_-5952_-10816.vmt",
+									"toxicslime002az_-7808_-5952_-10816.vmt"
+								],
+								"buildings": [
+									"gen01_-7808_-5952_-10816.vmt",
+									"gen03_-7808_-5952_-10816.vmt",
+									"gen15_-7808_-5952_-10816.vmt",
+									"gen16_-7808_-5952_-10816.vmt",
+									"gen18_-7808_-5952_-10816.vmt",
+									"gen19_-7808_-5952_-10816.vmt",
+									"gen24_-7808_-5952_-10816.vmt"
+								],
+								"concrete": [
+									"concretewall001c_-7808_-5952_-10816.vmt"
+								],
+								"cs_assault": [
+									"pavement001_-7808_-5952_-10816.vmt",
+									"pavement001a_-7808_-5952_-10816.vmt",
+									"rightcurb001_-7808_-5952_-10816.vmt"
+								],
+								"maps": {
+									"gm_bigcity67d3": {
+										"building_template": [
+											"toxicslime002az_-7808_-5952_-10816_depth_176.vmt",
+											"toxicslime002az_-7808_-5952_-10816_depth_240.vmt"
+										]
+									}
+								},
+								"metal": [
+									"metaldoor030a_-7808_-5952_-10816.vmt",
+									"metaldoor046a_-7808_-5952_-10816.vmt",
+									"metaldoor059a_-7808_-5952_-10816.vmt",
+									"metalfloor001a_-7808_-5952_-10816.vmt",
+									"metalwall065e_-7808_-5952_-10816.vmt",
+									"metalwall066e_-7808_-5952_-10816.vmt",
+									"metalwall066e_cheap_-7808_-5952_-10816.vmt"
+								],
+								"plaster": [
+									"plasterwall043c_-7808_-5952_-10816.vmt",
+									"plasterwall044c_-7808_-5952_-10816.vmt"
+								],
+								"stone": [
+									"stonefloor006a_-7808_-5952_-10816.vmt",
+									"stonefloor006b_-7808_-5952_-10816.vmt"
+								],
+								"tile": [
+									"tilefloor020a_-7808_-5952_-10816.vmt",
+									"tilefloor021a_-7808_-5952_-10816.vmt",
+									"tileroof003a_-7808_-5952_-10816.vmt",
+									"tileroof004a_-7808_-5952_-10816.vmt"
+								],
+								"wood": [
+									"wooddoor014a_-7808_-5952_-10816.vmt",
+									"woodfloor006a_-7808_-5952_-10816.vmt"
+								]
+							}
+						},
+						"skybox": [
+							"militiaBK.vtf",
+							"militiaDN.vtf",
+							"militiaFT.vtf",
+							"militiaLF.vtf",
+							"militiaRT.vtf",
+							"militiaUP.vtf",
+							"militia_hdrbk.vmt",
+							"militia_hdrbk.vtf",
+							"militia_hdrdn.vmt",
+							"militia_hdrdn.vtf",
+							"militia_hdrft.vmt",
+							"militia_hdrft.vtf",
+							"militia_hdrlf.vmt",
+							"militia_hdrlf.vtf",
+							"militia_hdrrt.vmt",
+							"militia_hdrrt.vtf",
+							"militia_hdrup.vmt",
+							"militia_hdrup.vtf"
+						]
+					}
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 284977,
+			"_nDownloadCount": 3151,
+			"_nFilesize": 14434956,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/284977",
+			"_sFile": "dm_bigcity_v2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1418469524
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 117189,
+	"_sName": "DM_bigCity_v2",
+	"_sText": "This map from Gmod. I'm just remake it for CSS, for FUN. \r\nBot's on this map very long adapted!!! Time: half-hour or hour!\r\n\r\nP.s. -- Fun! JUST FUN!!!"
+}

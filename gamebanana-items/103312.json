@@ -1,0 +1,103 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"README.txt",
+					"Version and updates.txt",
+					"de_nuclear.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 377137,
+			"_nDownloadCount": 406,
+			"_nFilesize": 616547,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "Includes the .bsp file and a README.txt file for a guide to make it work",
+			"_sDownloadUrl": "https://gamebanana.com/dl/377137",
+			"_sFile": "de_nuclear_3647e.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1521815310
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"README.txt",
+					"de_nuclear.txt",
+					"de_nuclear.vmt",
+					"de_nuclear.vtf"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 377143,
+			"_nDownloadCount": 115,
+			"_nFilesize": 59220,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "If your radar isn't working, follow the steps thought in the README.txt file included in this .rar",
+			"_sDownloadUrl": "https://gamebanana.com/dl/377143",
+			"_sFile": "de_nuclear_radar_overview.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1521817949
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"README.txt",
+					"de_nuclear.nav"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 378380,
+			"_nDownloadCount": 92,
+			"_nFilesize": 12652,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "If your radar doesn't have names/it wanted you to generate a nav-mesh, then download this and README",
+			"_sDownloadUrl": "https://gamebanana.com/dl/378380",
+			"_sFile": "de_nuclear_nav_file_27336.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1522763053
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Detail here and there"
+				},
+				{
+					"cat": "Optimization",
+					"text": "The optimization is now way better."
+				},
+				{
+					"cat": "Addition",
+					"text": "Creates in T Spawn for Ts to snipe Outside / Side Alley / Long."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Beta 4.0",
+			"_tsDateAdded": 1523474845
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Shall your radar/nav file not work, now you can download them seperately and put them in your games folder."
+				}
+			],
+			"_sText": "I had always had problems with paking stuff with .bsp files, and so, if you do have a problem with the radar/nav file, then I left the option for people to download the overview image/nav file if they don't work in-game. Hope this helps, have fun!",
+			"_sTitle": "Beta 3.1",
+			"_tsDateAdded": 1521818500
+		}
+	],
+	"_idRow": 103312,
+	"_sName": "de_nuclear",
+	"_sText": "Worked on this map for about 2/3 months now! Hope you guys like it! This map has: radar-overview, custom nav-mesh for better bots and radar names. The map also goes a lot like de_nuke, with the bombsites on top of each other. Have fun!<br><br>From now on, this map will receive updates whenever all of the \"to do's\" are checked. I will add a few \"to do's\" whenever I am working on an update, so you can make an idea how it's going to be.<br><br>This map is still in its beta stage. I thought some feedback would be useful at this moment.<br>"
+}

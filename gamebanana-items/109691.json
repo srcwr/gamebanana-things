@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"fr_rifletrain readme.txt",
+					"fr_rifletrain.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 361995,
+			"_nDownloadCount": 1732,
+			"_nFilesize": 643240,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/361995",
+			"_sFile": "fr_rifletrain.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1108368720
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 109691,
+	"_sName": "fr_rifletrain",
+	"_sText": "Fr_rifletrain\r\n---------\r\nby Chris Ngo (GRD.ser) \r\ndungerg@hotmail.com\r\n13FEB05\r\n\r\nBased off of renoun aim_map from unknown author.  Best aim_training and reflex map I've ever played.  Feel free to email suggestions for the next iteration.  Your more than welcome to add to or remove from the map.  You may not claim this work as your own as it belongs to everyone (and me). Enjoy.\r\n\r\n1.0\r\n---\r\n- changed naming convention from fr_aimtrain to fr_rifletrain\r\n- removed props and random objects from chasm.\r\n- removed decals\r\n- removed ornamental lightsources\r\n- replaced mat_fullbright with env_light.\r\n- galil famas ak and m4.\r\n- no draw optimization \r\n\r\nbeta v3\r\n---\r\n- placed second deck on first tier\r\n- lengthened scirmish zones to address overcrowding\r\n- added \"tightrope\"\r\n\r\nbeta v2\r\n---\r\n- map overhaul using author prefabs instead of props.\r\n- added bunker \r\n- placed spawns on deck\r\n- buyzones added on top of boxes.\r\n- physics props\r\n- removed front row box entities and replaced with wood\r\n(now destroyable as per suggestion)\r\n\r\nbeta v1\r\n---\r\n- changed naming convention from aim_map_source to fr_aimtrain\r\n- fixed geometry bug after using carve function\r\n- removed \"obselete\" weapon entities\r\n- added game_player_equip function \r\n- removed buyzones for play balance\r\n- removed fps taxing entities\r\n- faced spawns away from contact to delay spawn shooting.\r\n\r\nalpha\r\n---\r\n- recreated aim_map\r\n- added func_breakable to boxes \r\n- compensated for hammer limitation by placing buyzones instead of prespawned weapons\r\n-added chasm for rush prevention"
+}

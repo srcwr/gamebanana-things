@@ -1,0 +1,42 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"aim_420_shotguns": {
+						"0": "README!.txt",
+						"1": "READMEALSO!.txt",
+						"For FastDL": [
+							"aim_420_shotguns.bsp.bz2",
+							"aim_420_shotguns.nav.bz2"
+						],
+						"For SDK": [
+							"aim_420_shotguns.vmf"
+						],
+						"For Server": [
+							"aim_420_shotguns.bsp",
+							"aim_420_shotguns.nav"
+						]
+					}
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 328092,
+			"_nDownloadCount": 1312,
+			"_nFilesize": 583640,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/328092",
+			"_sFile": "aim_420_shotguns_2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1255396207
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 110977,
+	"_sName": "aim_420_shotguns",
+	"_sText": "This map was originally named \"shotguns\".\r\nThat map is located at http://www.fpsbanana.com/maps/17996\r\n\r\nI revamped the map completely with the following changes:\r\n- Trees havae been discarded\r\n- If you manage to get on top of the map, you can now walk and see where you're actually\r\nwalking instead of there being a NODRAW texture.\r\n- The area with the two windows has been changed dramatically. A T and CT can now spawn \r\ninside of it and face each other (if they both spawn at the same time). There are also \r\nladders to get up and down.\r\n- You may still use the nades on the bridge, you also still spawn with elites and shotguns.\r\n\r\nThis map folder includes three sub folders. One is for your server, one is for your fast \r\ndownload server, one contains the vmf if you would like to edit the map. You do NOT need \r\nthe fast download files unless you have a fast download maps server. I put it in this \r\nzipped file as a courtesy :)\r\n\r\n\r\nDon't forget to assess the map after playing it on FPSBanana!\r\n\r\nIf you have requests for me to edit any maps lemme know, I do not take credit for anyones \r\noriginal map and will always include a link to the original version\r\nin my read me files."
+}

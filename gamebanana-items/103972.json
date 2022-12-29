@@ -1,0 +1,82 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"simplicity_v3.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 275757,
+			"_nDownloadCount": 1358,
+			"_nFilesize": 456819,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/275757",
+			"_sFile": "simplicity_v3.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1479935098
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Another complete re-design"
+				},
+				{
+					"cat": "-",
+					"text": "Removed perfectly straight corridors"
+				},
+				{
+					"cat": "-",
+					"text": "Added raised bombsites (for more depth)"
+				},
+				{
+					"cat": "-",
+					"text": "Added new bridge"
+				},
+				{
+					"cat": "-",
+					"text": "Removed bridge crates"
+				},
+				{
+					"cat": "-",
+					"text": "Added new Middle Drop from Bridge"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Version 3.0",
+			"_tsDateAdded": 1480126902
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Rounded edges to all corners"
+				},
+				{
+					"cat": "-",
+					"text": "Condensed the map to as small as possible"
+				},
+				{
+					"cat": "-",
+					"text": "Switched and spaced out both A & B bombsites"
+				},
+				{
+					"cat": "-",
+					"text": "Removed and added cover through hallways/corridors"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "de_simplicity_v2.1",
+			"_tsDateAdded": 1480044898
+		}
+	],
+	"_idRow": 103972,
+	"_sName": "de_simplicity_v3",
+	"_sText": "<b>- SIMPLICITY V. 3 -</b><br><br>&nbsp; &nbsp;A medium sized defuse map. Two bombsites. Have fun, Please comment suggestions!<br><br><br><br>"
+}

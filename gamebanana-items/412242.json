@@ -1,0 +1,41 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"awp_hekkinen.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 892104,
+			"_nDownloadCount": 46,
+			"_nFilesize": 974801,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "Map",
+			"_sDownloadUrl": "https://gamebanana.com/dl/892104",
+			"_sFile": "awp_hekkinen_00a83.rar",
+			"_sMd5Checksum": "63da1e96e6e9ef6ee66518e0ca3ade3a",
+			"_tsDateAdded": 1668605959
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "Fixed a bug that gave a small chance to Ts to spawn in one of the CT rooms."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Small Fix",
+			"_sVersion": "v0.1",
+			"_tsDateAdded": 1668605689
+		}
+	],
+	"_idRow": 412242,
+	"_sName": "awp_hekkinen",
+	"_sText": "This map is a centric (literal) map that uses a mix of orange and gray dev_measure textures.<br><br>AWPs can be found outside behind cover, this was done as a way to prevent people from being shot as soon as they step out of spawn. Additionally, there is also AWPs in the tunnel network below, and can be found right through the hole in the middle of every spawn.<br><br>There is no buy zones, as this is intended to be strictly played with AWPs, however, if you wish to try out other weapons you are still able to give yourself some through the console.<br>- sv_cheats 1<br>- give weapon_[name]<br>"
+}

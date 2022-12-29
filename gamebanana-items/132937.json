@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"zm_towers_redux_rc006.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 302267,
+			"_nDownloadCount": 2150,
+			"_nFilesize": 16702091,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/302267",
+			"_sFile": "zm_towers_redux_rc006.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1339731475
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 132937,
+	"_sName": "zm_towers_redux",
+	"_sText": "*********************!!!!!**********************\r\n*********************!!!!!**********************\r\n*********************!!!!!**********************\r\n\r\nEDIT #2: Here is the more optimized version of the map (##### thanks to GRUDGE): --> [zm_towers_redux_v1_final](http://www.mediafire.com/?6sh0mhspw9vby9u \"zm_towers_redux_v1_final\"). <-- FPS is steady and the game play is smooth. This will be the final version of this redux. Hope you guys enjoy it and thanks for the support.\r\n\r\n*********************!!!!!**********************\r\n*********************!!!!!**********************\r\n*********************!!!!!**********************\r\n\r\nEDIT #1: Working on a better and more optimized version. It seems that 64+ player servers will experience FPS lag when on the tower. New version will be uploaded when it is fully tested on a 64 man server.\r\n\r\nChangelog:\r\n+ Removed a lot of the railing brushwork which was causing fps lag.\r\n+ Broke up func_detail brush work so it wasn't one huge func_detail.\r\n+ Added a lot of hint/skip and removed some unnecessary areaportals.\r\n+ Removed some excessive lighting.\r\n\r\nOriginal Post: I love the classic zm_towers but I decided it needed a face lift and this is the result. Please let me know your thoughts! :) Thanks!"
+}

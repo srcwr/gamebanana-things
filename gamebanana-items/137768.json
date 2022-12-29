@@ -1,0 +1,49 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"surf_enlightened_ksf.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 535727,
+			"_nDownloadCount": 235,
+			"_nFilesize": 32343336,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/535727",
+			"_sFile": "surf_enlightened_ksf.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1616082865
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Removal",
+					"text": "removed & replaced the 2 bhop bonuses with a better bhop bonus"
+				},
+				{
+					"cat": "Removal",
+					"text": "removed multiple other bonuses due to various issues or exploits"
+				},
+				{
+					"cat": "Addition",
+					"text": "added _ksf prefix to prevent different versions causing issues"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "v2",
+			"_tsDateAdded": 1616083141
+		}
+	],
+	"_idRow": 137768,
+	"_sName": "surf_enlightened",
+	"_sText": "maxvel 10k<br><br>Fun project made my be and some friends with a design based off my bhop map, enlightened2.<br><br>This wasn't intended to be a serious map but it turned out pretty good with a simple but effective aesthetic. The main map is a tier 1 linear, the bonuses vary from 1 to 5/6.<br><br>This will likely be my last surf-related map, thank you to everyone in the ksf/surf community in general who helped me!<br><br>map zones:<br><br>map_startzone<br><br>map_endzone<br><br>b1_startzone<br><br>b1_endzone<br><br>b2_startzone<br><br>b2_endzone<br><br>b3_startzone<br><br>b3_endzone<br><br>"
+}

@@ -1,0 +1,46 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"README.txt",
+					"bricky_battle.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 463877,
+			"_nDownloadCount": 56,
+			"_nFilesize": 594379,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/463877",
+			"_sFile": "bb_v2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1589946534
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Changed whole map. Now have ladder, and also hostage and func_hostage_rescue."
+				},
+				{
+					"cat": "Addition",
+					"text": "Small room with trigger brush with func_hostage_rescue floor. (inv. trigger)"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Version 1.25",
+			"_tsDateAdded": 1589946642
+		}
+	],
+	"_idRow": 137671,
+	"_sName": "Bricky Battle",
+	"_sText": "Just a map that i randomly make in CSS's Hammer World Editor (E:\\Program Files (x86)\\Steam1\\stemapps\\common\\Counter-Strike Source\\bin\\), map for battle 1v1, 1v2, 2v2, etc.<br><br>To install just read README.txt"
+}

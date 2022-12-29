@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ze_elevator_escape__final.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 334992,
+			"_nDownloadCount": 3114,
+			"_nFilesize": 3694731,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/334992",
+			"_sFile": "ze_elevator_escape__final.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1232736039
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 130714,
+	"_sName": "ze_elevator_escape__final",
+	"_sText": "ZE_ELEVATOR_ESCAPE__FINAL\r\n\r\nMap Description\r\n\r\nThe nuclear core has become unstable, you must escape the facility via the final elevator. Before you reach the final elevators you will have to use other elevators and cross other obstacles to reach the last elevators.\r\n\r\nOnce you are at the final elevators you will have to make your way to the rescue zone, where there is a radio in which you must use to self destruct the nuclear core bunker in order to stop a wide scale disaster.\r\n\r\n*** FINAL UPDATE 2 ***\r\n\r\n- Removed ladders from last lift hold points, replaced them with boxs\r\n\r\n*** FINAL UPDATE ***\r\n\r\n- Reworked and added alot of geometry to the map\r\n\r\n- Both final lifts open at same time, no matter which elevator you pick\r\n\r\n- Added breakable gate at top of final lifts\r\n\r\n- Can no longer shoot the breakable parts on the rail in water\r\n\r\n- Added AFK Killer\r\n\r\n- Added models for buttons and ladders\r\n\r\n- More detail\r\n\r\n- More optimization\r\n\r\n- Removed wooden boards from middle path lift at spawn\r\n\r\n***Updates v6***\r\n\r\n- Added more strenght to the beam holding rocks up\r\n\r\n- Changed the water textures\r\n\r\n- Alinged the textures in the lifts\r\n\r\n- Added doors to the second set of lifts, this is so people cant skip the new route at top of lift\r\n\r\n- Made the shortcut route of the upper water part more noticable as people would not see it and just go by it\r\n\r\n- Made the path that leads to the safe zone wider so it is easier for zombies to attack at this point\r\n\r\n- Changed textures in various places and added more detail to the map\r\n\r\n- More optimized\r\n\r\n***Updates v5***\r\n\r\n- Added more health to beam holding rocks up, this will hopefull stop the selfish players from shooting rocks down on teammates\r\n\r\n- Made the higher route at the water transportation cart quicker to get to the end then the lower walking route\r\n\r\n- Added a small jumping part to the lower walking route at the water transportation cart\r\n\r\n- Added a extra part for the humans to defend at the final elevators. This should encourage the zombies to attack more at this part\r\n\r\n- Fixed the Water Pool, it is much more reliable and consistent now so no more waiting in the pool for ages like sometimes in v4\r\n\r\n- Removed the small boards at the top of the ladders in the elevators after the water pool and instead humans go through a new part added at this section, they still exit at the same point as before\r\n\r\n- Changed some minor geometry around the map\r\n\r\n- Optimization\r\n\r\n- Made the middle route at the start a bit more rewardng for the players that decide to use it, the boards dont have as much strength and the lift is faster then the others\r\n\r\n***Updates v4***\r\n\r\n- More Detail\r\n\r\n- Fixed people been pushed under the floor by the lifts ( Player will be teleported near by )\r\n\r\n- Added breakable gates at first lift exits ( Improves gameplay on servers where zombie spawns after 10 secs )\r\n\r\n- 3D Skybox\r\n\r\n- More Optimization\r\n\r\n- Added more time on first lifts ( extra time to break gates )\r\n\r\n- Added/Changed box stacks at end of map\r\n\r\n- Player clipped rocks at end of map so player cant get behind the rock\r\n\r\n- Added a small transportation cart to the water ( only humans can use it )"
+}

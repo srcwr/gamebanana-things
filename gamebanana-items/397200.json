@@ -1,0 +1,47 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"dm_orange_v11.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 851988,
+			"_nDownloadCount": 51,
+			"_nFilesize": 608632,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "da map",
+			"_sDownloadUrl": "https://gamebanana.com/dl/851988",
+			"_sFile": "dm_orange_v11.zip",
+			"_sMd5Checksum": "6c537679f25c60dfb653ce1361015db9",
+			"_tsDateAdded": 1661002765
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [],
+			"_sText": "<p>shitty map made by me</p><p>ayy lmao</p>",
+			"_sTitle": "de_alien",
+			"_tsDateAdded": 1668879309
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "a bank in the middle"
+				}
+			],
+			"_sText": "<p>still gotta fix CT spawn</p>",
+			"_sTitle": "de_alien",
+			"_sVersion": "v14",
+			"_tsDateAdded": 1661069839
+		}
+	],
+	"_idRow": 397200,
+	"_sName": "de_alien",
+	"_sText": "A really, really (technically) bad map. Hell, I'm still trying CT spawn working! But this is my first map"
+}

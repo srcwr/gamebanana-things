@@ -1,0 +1,88 @@
+{
+	"_aAlternateFileSources": [
+		{
+			"description": "disk.yandex",
+			"url": "https://yadi.sk/d/_movZ9S83NBJzj"
+		}
+	],
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "ze_infinite_run_final_fix3.bsp.bz2",
+					"cstrike": {
+						"cfg": {
+							"sourcemod": {
+								"entwatch": {
+									"maps": [
+										"ze_infinite_run_final_fix3.cfg"
+									]
+								},
+								"zombiereloaded": [
+									"ze_infinite_run_final_fix3.cfg"
+								]
+							}
+						},
+						"maps": [
+							"ze_infinite_run_final_fix3.bsp"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 278209,
+			"_nDownloadCount": 1269,
+			"_nFilesize": 79811954,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/278209",
+			"_sFile": "ze_infinite_run_final_fix3.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1464236826
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "Some bugs fixes"
+				},
+				{
+					"cat": "Refactor",
+					"text": "more zombie at the start"
+				},
+				{
+					"cat": "Removal",
+					"text": "Remove \"Level failed\""
+				}
+			],
+			"_sText": "",
+			"_sTitle": "fix3",
+			"_tsDateAdded": 1506258021
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Removed the global teleport of new zombies"
+				},
+				{
+					"cat": "-",
+					"text": "Removed most of the triggers that slow zombies"
+				},
+				{
+					"cat": "-",
+					"text": "Some optimization and bugs fixes"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "fix2",
+			"_tsDateAdded": 1505146584
+		}
+	],
+	"_idRow": 130807,
+	"_sName": "ze_infinite_run_final",
+	"_sText": "4 level with difficulty levels&nbsp;and a final boss.&nbsp;<br><br>Bonuses for humans and zombies.<br><iframe src=\"https://www.youtube.com/embed/4YWI9dHxPj0\" allowfullscreen=\"\" height=\"315\" frameborder=\"0\" width=\"560\"></iframe><br><br>Gameplay:<br><iframe src=\"https://www.youtube.com/embed/fFPLZPjxUBM\" allowfullscreen=\"\" height=\"315\" frameborder=\"0\" width=\"560\"></iframe>"
+}

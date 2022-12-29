@@ -1,0 +1,32 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"Alpha": {
+						"0": "README.txt",
+						"maps": [
+							"surf_spaghett_alpha.bsp"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 278737,
+			"_nDownloadCount": 278,
+			"_nFilesize": 3410874,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/278737",
+			"_sFile": "surf_spaghett_alpha.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1460941163
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 130477,
+	"_sName": "Surf spaghett alpha",
+	"_sText": "This is an alpha version, so if there is any suggestions/problems/bugs please tell me<br>in order to run the map you must type both of these in console:<br>sv_accelerate 5<br>sv_airaccelerate 1000<br>"
+}

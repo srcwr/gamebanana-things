@@ -1,0 +1,61 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"bhop_hangtime2.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 444600,
+			"_nDownloadCount": 114,
+			"_nFilesize": 23867618,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "old version",
+			"_sDownloadUrl": "https://gamebanana.com/dl/444600",
+			"_sFile": "bhop_hangtime2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1578360054
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"bhop_hangtime2_fix.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 452506,
+			"_nDownloadCount": 77,
+			"_nFilesize": 23771874,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "new version",
+			"_sDownloadUrl": "https://gamebanana.com/dl/452506",
+			"_sFile": "bhop_hangtime2_fix_32169.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1584256546
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Improvement",
+					"text": "Stage 4-6, although still difficult, is now much easier"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Fix",
+			"_tsDateAdded": 1584255654
+		}
+	],
+	"_idRow": 125183,
+	"_sName": "bhop_hangtime2",
+	"_sText": "FYI: The difficulty comes in running the map, rather than each individual level.<br><br>The CSS Bhop port of the infamous quake 3 DeFRaG map \"<b>Hangtime 2</b>\" by NaturalSpringWater (NSW). Although the original hangtime took me like a month to port and ended up not being very good, this one only took a week, and I paid extra special attention to making it look and feel very good, even if the gameplay is a little awkward.<br><br>Every single level is possible, some are just very difficult while others are just a little awkward. I have completed each myself, even if it took me like 10 minutes.&nbsp;<br><br>Difficulty: Hard - Insane<br>Difficulty (Casual Runs): Medium - Hard<br>Length: Long - 60 levels in total<br>Est. Run Time: 5 - 10 mins<br><br>Hopefully it ends up as good as I think it might.<br><br><b class=\"SelectedElement\">EDIT: It has come to my attention that somebody has edited this map and republished it somewhere with the same name (hangtime2_fix). I'm personally fine with people editing my maps; they've been ported to gmod by some russian guys before for instance, but if the one who is doing this is reading this:&nbsp;<i>please </i>save the map as a different name.&nbsp;</b>"
+}

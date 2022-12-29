@@ -1,0 +1,73 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"aim_wintermaze_2016_v3": {
+						"steamapps": {
+							"common": {
+								"Counter-Strike Source": {
+									"bin": {
+										"maps": [
+											"aim_Wintermaze_2016_V3.bsp"
+										]
+									}
+								}
+							}
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 847551,
+			"_nDownloadCount": 31,
+			"_nFilesize": 16585169,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "Updated Version",
+			"_sDownloadUrl": "https://gamebanana.com/dl/847551",
+			"_sFile": "aim_wintermaze_2016_v3.rar",
+			"_sMd5Checksum": "1cea8acf6aaac1a8a33c6deba117ba42",
+			"_tsDateAdded": 1660342202
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Improvement",
+					"text": "Tunnels have been Vastly improved. Deleted the old godawful models, and replaced them with newer, better looking and more functioning ones."
+				},
+				{
+					"cat": "Addition",
+					"text": "Radar minimap now available on top left corner"
+				},
+				{
+					"cat": "Optimization",
+					"text": "Hint/Skip have been added for optimization"
+				},
+				{
+					"cat": "Optimization",
+					"text": "All files are neatly packed in single .bsp, instead of multiple files, just plug and play!"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Lights in tunnels have also been improved"
+				},
+				{
+					"cat": "Removal",
+					"text": "removed blasters, now you can destroy signs with just your pistols"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "aim_Wintermaze_2016_V3",
+			"_sVersion": "1.01",
+			"_tsDateAdded": 1660342531
+		}
+	],
+	"_idRow": 110997,
+	"_sName": "aim_Wintermaze_2016_V3",
+	"_sText": "Now presenting 3rd map in the wintermaze_2016 series with added underground tunnel system.<br>See the video above for map tour.&nbsp;<br><br>Player count: 20vs20<br><br>If you have anny suggestions, ideas or bug reports, please let me know.&nbsp;<br><br>Hope you enjoy the map :)"
+}

@@ -1,0 +1,70 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"35hp_airborne_v2": [
+						"35hp_airborne_v2.bsp"
+					]
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 373337,
+			"_nDownloadCount": 297,
+			"_nFilesize": 14107245,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "v2 is finally here!!",
+			"_sDownloadUrl": "https://gamebanana.com/dl/373337",
+			"_sFile": "35hp_airborne_v2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1518901278
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Feature",
+					"text": "The secret round now has a 1 in 256 chance to override a normal round"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added ladders to the four supporting pillars"
+				},
+				{
+					"cat": "Removal",
+					"text": "Removed unnecessary chat messages"
+				},
+				{
+					"cat": "Optimization",
+					"text": "Optimised weapon handouts"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added a new secret"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added additional detail to structures"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Improved level logic"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Adjusted the sound of the fan blades"
+				}
+			],
+			"_sText": "In the future, I may consider adding some colour correction and detail props, as well as smoothing out some polygons and adjusting the lighting some more, to improve gameplay and justify the setting as a plausible location.",
+			"_sTitle": "Version 2",
+			"_tsDateAdded": 1518902585
+		}
+	],
+	"_idRow": 130364,
+	"_sName": "35hp_airborne_v2",
+	"_sText": "This is a fairly large 35hp map designed for up to 64 players. The map is set as a bunker in the middle of a snowy tundra with grey skies. It also appears to be snowing.<br><br><b>Summary:</b><br>In the centre of the map is a giant pit with a huge fan blowing upwards. Players have a huge list of options of where to fight, all limited by their ability to get there without dying. In order to keep the pace of the game going, there is a set time limit of 4 minutes.<br><br><b>Fan:</b><br>The fan is the main gimmick of the map. It will boost players up to the height that they fell from, as well as preserve their momentum. This allows players to \"iceskate\" along the equilibrium level, or to bob up and down. However, falling from too high may cause them to fall low enough to get hit by the fan blades, which will kill them instantly should they fail to avoid them.<br><br><b>Spawns:</b><br>Each of the spawns is lit up and will reset player HP back to 35. These are ideal for 1v1s, as they aren't out in the open and have appropriate lighting. Each spawn has bulletproof glass, which seals off all but two entrances.<br><br><b>Wooden Platforms:</b><br>There is a big, raised wooden platform inside the bunker which can be used for private 1v1 fights, or for dropping down on enemies. They are not lit, so the use of the flashlight will be necessary.<br><br><b>Centre Tower:</b><br>In the centre tower, there are 8 breakable windows that players can destroy to jump out from. The fan below will be able to bring them back up to the height that they fell from, which allows them to pull of tricky manoeuvres.<br><br><b>Football:</b><br>On the top of the tower, there is a football (soccer ball) idling. If players can reach it, they can use it to make rounds more interesting. Keep in mind that the football is affected by the massive fan below and the boost ramps.<br><br><b>Custom Music:</b><br>There is only one music track, but there are three total variants of it. Two variants can be heard during a standard round, but the secret round must be activated to hear the third.<br><br><b>Secret Round:</b><br>There is also a secret round that can be activated on this map! When activated, the first subsequent round will have players fighting with Scouts. It also has a 1 in 256 chance of occurring on a normal round.<br><br><b>Timelimit:</b><br>To prevent delaying, there is a maximum time limit of 4 minutes. Failing to start a new round by then will teleport all players to a smaller room above the entire map where they are literally walking on air. Failing to finish the round within 30 additional seconds will kill all players.<br><br><b>TL;DR</b><br>This map is focused on using momentum in addition to classic 35hp tactics to create an experience (hopefully) enjoyable by everyone.<br><br>Please enjoy this map, and perhaps even let me know what you think of it! I'm open to criticism, and I look for ways to improve my skills!"
+}

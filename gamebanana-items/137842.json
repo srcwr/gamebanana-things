@@ -1,0 +1,53 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"surf_midsommar.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 489553,
+			"_nDownloadCount": 98,
+			"_nFilesize": 54180139,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/489553",
+			"_sFile": "surf_midsommar_css.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1602017341
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Overhaul",
+					"text": "stage 3 remade from scratch"
+				},
+				{
+					"cat": "Addition",
+					"text": "4 new bonuses (b3 is old s3)"
+				},
+				{
+					"cat": "Addition",
+					"text": "strawberries"
+				},
+				{
+					"cat": "Improvement",
+					"text": "actual fixed drops"
+				}
+			],
+			"_sText": "I've procrastinated long enough, finally took the time to finish the tweaks i set out to do the month after the contest ended. I hope you enjoy this final version :)",
+			"_sTitle": "Final release",
+			"_tsDateAdded": 1602023511
+		}
+	],
+	"_idRow": 137842,
+	"_sName": "surf_midsommar",
+	"_sText": "This is my map submitted for the Spring 2020 KSF Mapping Contest, based off the Swedish midsummer holiday!<br><br>It may not be midsummer anymore but here's the map in all it's glory:<br><ul><li>3 stages</li><li>tier 3</li><li>4 bonus stages</li><li>Swedish references and easter eggs</li></ul><br><br>Bonuses 1 and 2 were made by fellow swedish mappers Shena and Wakthor while I made bonus 3 and 4 myself. Most models were made by me from scratch but trees/flowers as well as most textures are from google.<br><br>When playing offline surf settings should apply automatically.<br>The bonuses are found in the little lake :)<br><br>If you're adding this map to your server I highly recommend you make sure the tonemap settings from the logic_auto are applied as well as use the dedicated trigger_multiple stage/bonus zones I made:<br><ul><li>s1_startzone, ... , s3_startzone</li><li>s3_endzone</li><li>b1_startzone, b1_endzone</li><li>...</li><li>b4_startzone, b4_endzone<br></li></ul><br><a href=\"https://gamebanana.com/maps/212497\">link to csgo version</a><br>"
+}

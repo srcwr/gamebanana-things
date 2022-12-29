@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"cs_fallingliquid.bsp",
+					"cs_fallingliquid.txt"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 352519,
+			"_nDownloadCount": 8498,
+			"_nFilesize": 10646083,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/352519",
+			"_sFile": "cs_fallingliquid.7z",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1175282831
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 99895,
+	"_sName": "cs_fallingliquid_beta",
+	"_sText": "A hostage rescue map inspired by Frank Lloyd Wright's Kaufmann House.\r\nThis version is a reduced version of the HL2 map (the guest house is not present, for example)\r\nAll the artwork in the house was made by the map author and belongs to him. All the textures are either Valve's work or the author's work. The geometry was also built by the author based on information found freely around the world wide web.\r\n\r\nThere are 4 hostages in the house. CT forces have the advantage of a quicker trip to the hostages, but terrorists can use the many terraces and exits of the house to take out the CTs. Due to the nature of the building, there are multiple ways to approach and defend the house, making each round different.\r\n\r\nThe performance is still far from optimal, specially when it comes to long-range battles. Hopefully, this map will be more playable as computers become more powerful, who knows. There are several occluders placed to help performance but they don't help as much as we would like... Use HDR only if your computer can handle it. The LDR lighting looks a bit more yellow while the HDR has a prettier orange light. This could be fixed with another 5 hour compile, so I'm sorry if you don't like how the LDR version looks.\r\n\r\nA lot of graphical changes were done to the map. Higher-res pictures, more accurate stone textures, better lighting using smoothing groups, HDR and fixed \"most\" of the lightmap grid problems. Most of the windows and doors now use 2D textures to help with performance. It might not look as good as the HL2 version in that sense, but good performance was seen as more important. The river now uses a new custom material which is refractive, scrolling and mildly reflective. It looks better than the static HL2 water, fits the situation better and also helps with performance."
+}

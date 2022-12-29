@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"surf_ruin_v4.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 352809,
+			"_nDownloadCount": 1895,
+			"_nFilesize": 3019391,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/352809",
+			"_sFile": "surf_ruin_v4.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1174033140
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 122873,
+	"_sName": "surf_ruin_v4",
+	"_sText": "Another map I made, the basic idea is was to cram as much surf into a small space as I could, unfortunately this makes some paths short and others only slightly less short.\r\n\r\nSend feedback to etherealecs (aim) or post in here.\r\n\r\n**NOTE** all teleports appear to be unlabeled, but they in fact are, you just have to destroy the wood in front of the label (you can teleport without doing this, but unless you know where it goes you're taking a chance.)\r\n\r\nv2 changelog:\r\n-fixed the spawn so you couldn't shoot the opposing side, bullets still pass through due to problems creating an impenetrable barrier with only 10 inches of space (which used to be a piece of cake.) so now there's no glass, only ten inches of steel and two of bullet blocking texture...\r\n-shut down a game-breaking shortcut that would have you camping jail within seven seconds.\r\n-added a bombsite and a small battery of bombs/defusers.\r\n-fixed all water to be nodraw on all non-visible sides.\r\n-fixed an errant teleport.\r\n\r\nv3 changelog:\r\n-made it more difficult to skip to the end from the beginning, not impossible though.\r\n-falling in jail strips you of your weapons, yes, even the knife. fuck you campers taking the fun out of my map.\r\n-players can no longer see through the underside of the top platform from below it, only if you are above it. could prove a problem, but the entrance isn't well known anyway.\r\n-fixed a sticky ramp in the basement area of the ruin."
+}

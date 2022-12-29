@@ -1,0 +1,96 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "de_vostok.bsp",
+					"1": "de_vostok.bsp.bz2",
+					"2": "liesmich.txt",
+					"3": "readme.txt",
+					"4": "trailer_vostok.wmv",
+					"screenshots (1024 x 768)": [
+						"de_vostok_screenshot.jpg",
+						"de_vostok_screenshot_01.jpg",
+						"de_vostok_screenshot_02.jpg",
+						"de_vostok_screenshot_03.jpg",
+						"de_vostok_screenshot_04.jpg",
+						"de_vostok_screenshot_05.jpg",
+						"de_vostok_screenshot_06.jpg",
+						"de_vostok_screenshot_07.jpg",
+						"de_vostok_screenshot_08.jpg",
+						"de_vostok_screenshot_09.jpg"
+					],
+					"spawnpoints": {
+						"for deathmatch server (cssdm)": [
+							"de_vostok.txt",
+							"dm_spawns_overview_map.jpg",
+							"liesmich.txt",
+							"readme.txt"
+						],
+						"for mani admin plugin": [
+							"liesmich.txt",
+							"readme.txt",
+							"spawnpoints.txt"
+						],
+						"for stripper source": [
+							"de_vostok.cfg",
+							"liesmich.txt",
+							"readme.txt"
+						]
+					},
+					"thumbnails": {
+						"large (422 x 338)": [
+							"de_vostok_thumb_large_01.jpg",
+							"de_vostok_thumb_large_02.jpg",
+							"de_vostok_thumb_large_03.jpg",
+							"de_vostok_thumb_large_04.jpg",
+							"de_vostok_thumb_large_05.jpg",
+							"de_vostok_thumb_large_06.jpg",
+							"de_vostok_thumb_large_07.jpg",
+							"de_vostok_thumb_large_08.jpg",
+							"de_vostok_thumb_large_09.jpg"
+						],
+						"medium (218 x 164)": [
+							"de_vostok_thumb_medium_01.jpg",
+							"de_vostok_thumb_medium_02.jpg",
+							"de_vostok_thumb_medium_03.jpg",
+							"de_vostok_thumb_medium_04.jpg",
+							"de_vostok_thumb_medium_05.jpg",
+							"de_vostok_thumb_medium_06.jpg",
+							"de_vostok_thumb_medium_07.jpg",
+							"de_vostok_thumb_medium_08.jpg",
+							"de_vostok_thumb_medium_09.jpg"
+						],
+						"small (106 x 85)": [
+							"de_vostok_thumb_small_01.jpg",
+							"de_vostok_thumb_small_02.jpg",
+							"de_vostok_thumb_small_03.jpg",
+							"de_vostok_thumb_small_04.jpg",
+							"de_vostok_thumb_small_05.jpg",
+							"de_vostok_thumb_small_06.jpg",
+							"de_vostok_thumb_small_07.jpg",
+							"de_vostok_thumb_small_08.jpg",
+							"de_vostok_thumb_small_09.jpg"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 336393,
+			"_nDownloadCount": 10664,
+			"_nFilesize": 64700297,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/336393",
+			"_sFile": "de_vostok.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1228329120
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 104609,
+	"_sName": "de_vostok",
+	"_sText": "<center><b><h3>DEUTSCHMASCHINE PRESENTS:</h3>\r\n<h1>DE_VOSTOK</h1>\r\n\r\n\r\n<p><a href=\"http://www.youtube.com/watch?v=45i6JFFAK6E&fmt=18\" target=\"_blank\"><img src=\"http://www.deutschmaschine.de/youtube_deckblatt.jpg\" width=\"280\" height=\"208\" border=\"0\" ></a></p>\r\n<h3>WATCH THE TRAILER NOW!</h3>\r\n\r\nthis css version based on the original 1.6 map from valve\r\n\r\n<hr>\r\n\r\nredesigned and mapped by:\r\n\r\nuzy (sgill243@bellsouth.net)\r\n\r\nby order of:\r\n\r\nwww.deutschmaschine.de (info@deutschmaschine.de)\r\n\r\n<hr>\r\n\r\nmapname: de_vostok\r\nfilesize: 14.5 (packed 5 MB)\r\nspawnpoints: 32 (config-files for 64 spawnpoints included!)\r\nbombsites: 2 (in front of the church and at the big statue)\r\navailable weapons: standard\r\n\r\n<hr>\r\n\r\nthis download-package contains:\r\n\r\n- de_vostok.bsp\r\n- de_vostok.bsp.bz2\r\n- trailer_vostok.wmv\r\n- 10 big screenshots\r\n- 27 thumbnails in 3  sizes (large, medium, small)\r\n- 64 spawnpoints-file for \"stripper source\"\r\n- 64 spawnpoints-file for \"mani admin plugin\"\r\n- 64 spawnpoints-file for \"cssdm deathmatch\"\r\n\r\nthis map has 32 spawnpoints (16 x Terror, 16 x CT)but\r\nyou´ll get everything you need to play de_vostok with up\r\nto 64 players, even with cssdm deathmatch.\r\n\r\n.nav, .txt and radar-overview-files are already embeded\r\nin the .bsp file.\r\n\r\n<hr>\r\n\r\nWE SAY THANK YOU:\r\n\r\nto all deutschmaschine-testers. special thanks to duni, mete,\r\nbrot and absinth for their special patience.\r\n\r\nand special, special thanks to Misses Uzy for not leaving him!\r\n\r\n<hr>\r\n\r\nother maps from our mapper uzy you´ll find at:\r\nhttp://www.fpsbanana.com/members/subs/168576\r\n\r\nyou also should check out our download-section. from time to time\r\nwe will release new maps there, f.e. the forthcoming map de_sunny,\r\nmapped by uzy.\r\n\r\nwww.deutschmaschine.de\r\n\r\n<hr>\r\n\r\nHappy Death!\r\n\r\nPanza</b></center>\r\n\r\n\r\n"
+}

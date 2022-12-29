@@ -1,0 +1,100 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ba_prism_dtk_v3.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 289937,
+			"_nDownloadCount": 1585,
+			"_nFilesize": 51694518,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/289937",
+			"_sFile": "ba_prism_dtk_v3.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1391171867
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Fixed soccer"
+				},
+				{
+					"cat": "-",
+					"text": "Raised roof"
+				},
+				{
+					"cat": "-",
+					"text": "changed damage on interrogation to 500"
+				},
+				{
+					"cat": "-",
+					"text": "Fixed roulette"
+				},
+				{
+					"cat": "-",
+					"text": "Changed health of soccer vent to 1000"
+				},
+				{
+					"cat": "-",
+					"text": "Changed spot light width to 100"
+				},
+				{
+					"cat": "-",
+					"text": "Added bomb spawner to gun ramp for bomb tossing"
+				},
+				{
+					"cat": "-",
+					"text": "Added some wooden boards for creative play in pool"
+				},
+				{
+					"cat": "-",
+					"text": "Added some pipes for a bit more detail"
+				},
+				{
+					"cat": "-",
+					"text": "Added 11 speeds to the wipe out mini game"
+				},
+				{
+					"cat": "-",
+					"text": "Fixed up the textures so they blend nicely around the map."
+				},
+				{
+					"cat": "-",
+					"text": "Added 3 more songs to disco"
+				},
+				{
+					"cat": "-",
+					"text": "Fixed a bug with the hole in the wall game. CTs will now need to Kill the Losing Ts though."
+				},
+				{
+					"cat": "-",
+					"text": "Added 1000 health to the soccer vent"
+				},
+				{
+					"cat": "-",
+					"text": "Added colour changes to outside and soccer to encourage creative play"
+				},
+				{
+					"cat": "-",
+					"text": "Added a ball to outside area"
+				}
+			],
+			"_sText": "Thanks to those on Gamebanana and DTK community for point out bugs.",
+			"_sTitle": "Map update #1",
+			"_tsDateAdded": 1395449324
+		}
+	],
+	"_idRow": 129702,
+	"_sName": "ba_prism_dtk",
+	"_sText": "Ba Prism DTK\r\n============\r\n\r\nHi all,\r\n\r\nThis is a JB I whipped up out of boredom. I wanted to make a map while our development team was planning its new project, and I have been playing a lot more Jail break since the Mario map project, so I thought what the hell.\r\n\r\nThis is a pretty simple map. It has a heap of space for wardens to get creative with games, but also hosts a lot of mini games for those lazy wardens.\r\n\r\nI will go through each part of the map the best I can.\r\n\r\n\r\nCell room/Gun room\r\n=========\r\n\r\nThe first thing people notice about the cell room is the short ceiling. I designed it that way to give CTs a bit of a challenge from the get go.\r\n\r\nThere is a button in the middle to open cells, and an auto timer to do the same after 45 seconds of round start. There is an isolation room at the end of the room, and next to it is a roulet table. I originally had the table kill players automatically, but there were chances where both colours would die so I put it up to wardens discretion. \r\n\r\nMedic is the large cross (not solid) that rotates in the corner.\r\n\r\nThe gun room is equipped with selected weapons, which rotate/hover above futuristic shelves. The weapons will kill themselves after 0.5 seconds if no players pick them up, to save on resources.\r\n\r\n\r\nThe outside\r\n===========\r\nOn the outside part of the map, it displays the position of the jail (space).\r\nThere are 4 mini games outside:<br>\r\nDiving Game<br>\r\nConnect 4<br>\r\nWipe Out<br>\r\nObstacle<br>\r\n\r\nThere is a large pool and 2 secrets gun outside (hint - for 1 gun, you need to press a combination of the letters on the banner).\r\n\r\nPretty simple and enjoyable games\r\n\r\nInside games\r\n============\r\nThe inside games have had a little more thought put into them.\r\n\r\nThey consist of:\r\n\r\nInterrogation\r\n-------------\r\nCTs move the Ts into the interrogation room and locks the door. 1 T at a time walks into the Square marked out by the hazard tape and is asked a question. \r\n\r\nThe Warden sets the answers using their True or False buttons on their side, and the Terrorist must guess the answer correctly, or they will be hit for 15 damage.\r\n\r\n\r\nPacman\r\n------\r\nInspired by another jailbreak map (can't recall the name) I decided to make my own pacman game. 1 Terrorist moves into the Pacman door and the remainder move into the other side.\r\n\r\nPacman then has to kill the enemy terrorists as quickly as possible - ideal for getting to last request quickly. The game is stopped when the stop button is pressed and all terrorists are teleported to the corner of the room.\r\n\r\n\r\nHunger Games\r\n------------\r\nThis one was inspired by a fellow DTK member. It is a take on the Hunger Games books/movies where Terrorists are teleported into a chamber with platforms (no weapons - not even knife).\r\n\r\nWhen the CT presses the start button, the doors above will begin to open and the players will be raised up on the platforms (any players silly enough not to get on a platform will be auto killed).\r\n\r\nWhen the doors close, the guns will spawn around the map and the 10 second timer will begin. Once the timer reaches 0, mp_friendlyfire is turned on and all Terrorists must scavange for guns and kill each other.\r\n\r\nThe game can be ended when the CT presses the stop button (teleports everyone out).\r\n\r\n\r\nDisco memory\r\n------------\r\nThis game is played on the dance floor of the disco. The CT enables the game (showing the colours of the dance floor) and selects a colour.\r\n\r\nThe terrorists have to remember where the colours of the floor tiles are, and then the floor is changed to black and white checkers and a colour is shown on the wall. Players must get to the colour before the dance floor changes  back (3 seconds).\r\n\r\nOnce the timer is up, the real dance floor is revealed again and all ts are locked into place until the CT stops the game or selects another colour. The CT can do what they like to the losers.\r\n\r\n\r\nShapes\r\n------\r\nThis is a simple game inspired by Nos Pro on his minecraft JB map.\r\n\r\nTerrorists are moved into a room and must jump through the walls as they move towards them. if they touch the hazard line they die.\r\n\r\nThere is a tricky wall that looks solid, but has 1 func_breakable square.\r\n\r\n\r\nThe map also features basketball and Soccer, and has plenty of hidden guns and rebel options for Terrorists.\r\n\r\nAnyway, thats enough info. Download it and try it for yourself!\r\n\r\nCheers."
+}

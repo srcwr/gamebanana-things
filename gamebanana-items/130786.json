@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"Readme.txt",
+					"ze_hypernova_v2.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 311920,
+			"_nDownloadCount": 4629,
+			"_nFilesize": 30199340,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/311920",
+			"_sFile": "_5866-.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1307292052
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 130786,
+	"_sName": "ze_hypernova_v2",
+	"_sText": "Special thanks to:\r\nKaemon (map helping and testing)\r\nHannibal [SPA] (map testing and particle helping)\r\ni3D Community (forum support)\r\nSupreme Elite Community (testing the beta)\r\n\r\nTo install the map only place the .bsp file inside the maps folder.\r\n\r\nRAR file will no longer haver the bz2 for fastdownload, due to long upload and download times, create your own.\r\n-----------------------------------------------------------\r\n\r\nThe objective of the map is to enter in the scape pods before the giant star destroys the whole station.\r\nThere are two escape pods, if both pods are occupied by the same team, this team will win.\r\nIf humans and zombies are in different pods after the hypernova they will fight inside the pods.\r\nHumans will be forced to push zombies to the rear sections of the pod, and this section will separate from the structure, killing all players inside.\r\n\r\nThe map is made for 64 players, is required a zombiemod and noblock to play it. Also works with zombie respawn. Recomended WITHOUT unlimited ammo.\r\nRear rooms and corridors are closed and teleports enabled to prevent camping and allowing servers with zspawn to keep playing teleporting\r\nrespawned people near to the action.\r\n\r\nMap include custom particle effects, HDR lighting, color correctionand custom models.\r\nMusic comes from the RST game Starcraft.\r\n-----------------------------------------------------------\r\nChangelog\r\n\r\n--V1--\r\n\r\nFirst release\r\n\r\n--v1b--\r\n\r\n-Fixed some crates in that players can get stucked.\r\n-Modifyed the time of the map events to accelerate gameplay, now the game ends in less than 9 minutes instead of running out of time.\r\n-The final lift now has some pillars on the sides to prevent the assault zombies and infect humans easily. But humans can jump out and stand on the ramp behind the lift (I think is a good way to defend the lift, if people does not like i will change in a future version).\r\n-Fixed exploit that alows players to open the room access door when the elevator has left the room.\r\n-The elevator in the generator room now leaves faster and the half-closed door opens and closes faster.\r\n-Optimized water room and the sun room with the last lift to improve perofrmance.\r\n-Active buttons generate a blue glow to find the correct way more easy.\r\n-Fixed doors killng players with their detail parts.\r\n-When elevator and lift leaves, some arrows will spawn to indicate the way for zombies.\r\n-Zombie health will be set to 7000 before the hold position at the first elevator and before the last hold before the star explodes.\r\n\r\n\r\n--v1c--\r\n\r\n-Tweaked lighting at the water rooms, greenhouses and last hold position, exta light in LDR.\r\n-Modifyed time events to balance a little gameplay.\r\n-Modifyed some hold positions for better defense.\r\n-Optimized visibility for less mapsize and a little better performance.\r\n-Added shake effects when star explodes.\r\n-Improved cubemaps (less but with more quality).\r\n-Improved lighting and shadows on some doors and props.\r\n-Fixed some areas in corridors where players are not teleported.\r\n-Players cannot get outside the station if they stand betweem the double doors of the escape pod,\r\nthey will die.\r\n\r\n--v2--\r\n\r\n-The client crash in the corridor between the double doors and the generator could be fixed in this version.\r\n-Mapsize decreased from 110 to 67 MB, faster download.\r\n-Added one more respawn room.\r\n-Added one new path, both paths end togheter in the sun room.\r\n-Modifyed all the outside station structure.\r\n *More FPS inside the greenhouses and in the escape room.\r\n *Improved the station outside desing.\r\n *Reflective greenhouses from outside.\r\n *Reflective escape pods.\r\n-Zombies will recieve health more times to prevent dying early.\r\n-Modifyed the star explosion effect, better quality, more FPS.\r\n-Added a new song at the begin of the map.\r\n-Modifyed the last 2 events, the hold in the pods and the blackhole.\r\n *The barricade at the right pod, the most used in earlier versions will break 7 seconds before pod doors closes.\r\n *If one zombie enters in one of both escape pods, all zombies inside the last room will be teleported to this pod when pods leave the platform.\r\n *The battle at the pods, when blackhole starts is faster.\r\n *Doors inside the pods does not rotate to make easier attack and to prevent blocking when closed.\r\n-Some doors at the water rooms are open, or mid-open for better defense and less hold time.\r\n-Improved some fx and detail objects around the map."
+}

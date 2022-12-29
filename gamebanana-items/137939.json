@@ -1,0 +1,83 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"fastdl": [
+						"zm_italy_final_fix_v2.bsp.bz2",
+						"zm_italy_final_fix_v2.nav.bz2"
+					],
+					"server": [
+						"zm_italy_final_fix_v2.bsp",
+						"zm_italy_final_fix_v2.nav"
+					]
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 428550,
+			"_nDownloadCount": 444,
+			"_nFilesize": 22612874,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/428550",
+			"_sFile": "zm_italy_final_fix_v2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1565469337
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "Fix SkyBox"
+				},
+				{
+					"cat": "Optimization",
+					"text": "Optimization has been completely redone"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Fix",
+			"_tsDateAdded": 1584466856
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "Fix tree"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fix leaks"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fix balconies"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fix textures in the house"
+				},
+				{
+					"cat": "Optimization",
+					"text": "Added areaportals"
+				},
+				{
+					"cat": "Addition",
+					"text": "News secrets"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Final",
+			"_tsDateAdded": 1565469912
+		}
+	],
+	"_idRow": 137939,
+	"_sName": "zm_italy_final_fix",
+	"_sText": "<b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; HISTORY UPDATES</b><i><br>Version 1.0</i><br><ul><li><span class=\"GreenColor\">Fix&nbsp;windows</span></li><li><span class=\"GreenColor\">Fix&nbsp;bugs</span></li><li><span class=\"GreenColor\">Fix leaks</span></li><li><span class=\"GreenColor\">Added areportals (+FPS)</span></li></ul><br><i>Version 2.0</i><br><ul><li><span class=\"GreenColor\">Fix leaks</span></li><li><span class=\"GreenColor\">Fix bugs</span></li><li><span class=\"GreenColor\">Added new secrets</span></li><li><span class=\"GreenColor\">Added areaportals (+FPS)</span><br><br></li></ul><i>Version 3.0</i><br><ul><li class=\"SelectedElement\"><span class=\"GreenColor\">Fix SkyBox</span></li><li><span class=\"GreenColor\">Optimization has been completely redone</span><br></li></ul>"
+}

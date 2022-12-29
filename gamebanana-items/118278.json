@@ -1,0 +1,52 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"READ ME": [
+						"README.TXT",
+						"awp_coble.bsp"
+					]
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 430628,
+			"_nDownloadCount": 182,
+			"_nFilesize": 34597,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/430628",
+			"_sFile": "awp_coble_15a70.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1567343272
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "fix the leader that sometimes you get stuck on it"
+				},
+				{
+					"cat": "-",
+					"text": "fix that now there s a bsp map in the rar"
+				},
+				{
+					"cat": "-",
+					"text": "added relings"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "beta 0.2",
+			"_tsDateAdded": 1567241150
+		}
+	],
+	"_idRow": 118278,
+	"_sName": "Awp_coble",
+	"_sText": "my first map<br>FIX now you can play it"
+}

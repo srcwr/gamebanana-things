@@ -1,0 +1,51 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "read.txt",
+					"1": "read_low.txt",
+					"cstrike": {
+						"maps": [
+							"cs_dancing.bsp",
+							"cs_dancing.nav",
+							"cs_dancing_low.bsp",
+							"cs_dancing_low.nav"
+						],
+						"materials": {
+							"models": {
+								"props_junk": [
+									"GlassBottle01a.vmt",
+									"GlassBottle01a.vtf",
+									"GlassBottle01b.vmt",
+									"GlassBottle01b.vtf",
+									"garbage001a_01.vmt",
+									"garbage001a_01.vtf"
+								]
+							}
+						},
+						"scripts": [
+							"soundscapes_general.txt"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 356839,
+			"_nDownloadCount": 3447,
+			"_nFilesize": 6489839,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/356839",
+			"_sFile": "cs_dancing.7z",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1155858917
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 99803,
+	"_sName": "cs_dancing",
+	"_sText": "---- General Information  -----\r\n\r\nTitle : Club Dancing\r\nFilename : cs_dancing.bsp (Hostage Rescue)\r\nDate : 07.08.2006\r\n\r\n---- Play Information ----\r\n\r\nDeathmatch : No\r\nSingleplay : No\r\nTeamplay : Yes\r\nHow many Hostages: 5\r\n\r\n---- Construction ----\r\n\r\nEditor : Hammer World Editor (SourceSDK)\r\nUse HDR: No\r\nCompile Time : about 30 minuts\r\n \r\n---- Map Information -----\r\n\r\nNew Sounds : Yes\r\nNew Textures : Yes\r\nNew Models: No\r\n\r\n---- Other ----\r\n\r\nAvailable two versions of the map: cs_dancing.bsp - an original version of the map and cs_dancing_low.bsp - LOW-version of the map (without dynamic light) for weak computers."
+}

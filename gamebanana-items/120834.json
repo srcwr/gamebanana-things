@@ -1,0 +1,30 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"Kill_The_Terrorist_v2.bsp",
+					"README FIRST.txt",
+					"kill_the_terrorist_v2.nav"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 348966,
+			"_nDownloadCount": 2218,
+			"_nFilesize": 753542,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/348966",
+			"_sFile": "kill_the_terrorist_v2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1188685747
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 120834,
+	"_sName": "kill_the_terrorist_v2",
+	"_sText": "Made by: Wapo and FalO\r\n\r\n\r\n1 CT spawn\r\n12 Terrorist spawns\r\n\r\nThe idea is that the 1 CT must shoot all terrorist\r\nbefore they get to the teleport wich will take them \r\nto the place where the Terrorists can kill that 1 ct.\r\n \r\n\r\nif you have played the map Kill_the_terrorist, you will understand the idea quickly.\r\n \r\nIMPORTANT!!!!!!                                                              \r\nyou must set mp_autoteambalance 0 and mp_limitteams 0  \r\notherwise the map doesn't work properly.                           \r\n\r\nHave fun playing it."
+}

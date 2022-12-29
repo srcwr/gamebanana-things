@@ -1,0 +1,37 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"addons": {
+						"sourcemod": {
+							"plugins": [
+								"autorespawn.smx"
+							]
+						}
+					},
+					"maps": [
+						"mg_titan_mode_night_v1.bsp"
+					]
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 289233,
+			"_nDownloadCount": 1171,
+			"_nFilesize": 14811642,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/289233",
+			"_sFile": "mg_titan_mode_2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1394785115
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 128793,
+	"_sName": "mg_titan_mode",
+	"_sText": "I have been working on this game mode for about a week now.\r\n\r\nI have always been loved the Titan mode in battlefield 2142 and with the release of the Titan mode adaption for BF4 around the corner, thought I would create a map for CS:S.\r\n\r\nIt is adapted to suit the capabilities of Source (Titans are replaced with bases etc) but the objectives remain the same.\r\n\r\nHow to play\r\n===========\r\nTitan mode is very similar to conquest in the way the game is played. Players must take control of the missile control points and hold them for as long as possible. Once a missile control point has been captured, the missile batteries will fire a missile at the enemy Titan every 60 seconds unless interrupted (base changes ownership etc).\r\n\r\nEach Titan is equipped with 15 hit points: 5 Shield and 10 hull. While the shield of a Titan is still active, players cannot enter the base. When the shield is destroyed however, the enemy team can assault the base from the inside out or continue to hold the control points to win the round.\r\n\r\nThe inside of the base has 2 power generators that need to be destroyed before access to the core is given. A player must press the override button and remain in the activation point for 10 seconds to arm the bomb.\r\n\r\nOnce both stations have been destroyed, players can the access the core where they can blow it up using their guns. Each hit of the core has 1500hp, so multiple people are recommended for attacking.\r\n\r\nWhen the core is destroyed, a new func breakable will spawn until the Titan's hull reachs 0%.\r\n\r\n\r\nFeatures\r\n========\r\n\r\n### The Helicopter\r\nThe helicopter is something I normally don't like to add to a map due to the buggy-ness of source multi-player, but I found a solution to fix this.\r\n\r\nWhen a player walks up to the coloured door on the helicopter and presses E, they are teleported to a console that replicates the inside cockpit of the chopper. When they press E on the control panel, their view is moved to the chopper with a point viewcontroller and they can control the chopper as normal. \r\n\r\nThis stops players from falling out of the chopper while they are driving.\r\n\r\n\r\n### Boats\r\nThere are 3 boats on each team. Each boat has an ignition system before you can drive it to allow for reuse. The boats also stop and disable so you can use them as outposts when assulting/defending a control point.\r\n\r\n\r\n### Voice Overs\r\nI have added voice overs that will announce when a base is captured, a shield is destroyed and a round is won. There is also a client side how to play button on each spawn. When a player presses this button a voice over is played on their client (not to everyone) telling them how to play the map.\r\n\r\n### Respawn Script\r\nThe plugin attached to the download requires no adjustments or commands etc as it automatically loads when the server loads.\r\n\r\nIt will respawn players every 8 seconds when the titan mode map is active and will automatically stay dormant when other maps are active.\r\n\r\nSource Mod is required to run this script.\r\n\r\n### Teleporters\r\nEach base is equipped with 4 teleporters. The teleporters can be accessed when a base is taken, for quick entrance back into the game (just like in battlefield). There is also a teleporter that sends you to the island closest to your base, so you can easily contest the point closes to you for balance.\r\n\r\nTeleporters will disable when you lose a position.\r\n\r\nPlease report any bugs that you find so I can fix them.\r\n\r\nThank you,\r\nNewguy"
+}

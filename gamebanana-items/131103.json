@@ -1,0 +1,60 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ze_winter_bash_v2.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 567059,
+			"_nDownloadCount": 92,
+			"_nFilesize": 84668161,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/567059",
+			"_sFile": "ze_winter_bash_v2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1620496866
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Optimization",
+					"text": "Little bit better optimization."
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed known bugs (lvl1 boats etc.)"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Added 3 zm items, added/changed plenty of stuff."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "v2",
+			"_tsDateAdded": 1620497109
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Might be 2 different v1fix version's out there so thats why v1fix2"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "v1fix2",
+			"_tsDateAdded": 1584797084
+		}
+	],
+	"_idRow": 131103,
+	"_sName": "ze_Winter_Bash_v2",
+	"_sText": "<h3 class=\"SelectedElement\"><b>ze_Winter_Bash_v2</b></h3><br><ul><li>Zombie escape map with 4 completely different levels + 1 zm level at the end.</li><li>Map contains few boss fights and 2 of them are regular (moving ones based on triggers and thrusters) and 1 static. Bosses have dynamic hp (more players = more hp).</li><li>5 special human items and 3 zombie items. </li><li>Radio secret at spawn.<br></li></ul>Map may contain bugs, so if you find one let me know.<br><br>**PLEASE DO NOT COPY ANYTHING TO YOUR MAP WITHOUT MY PERMISSION**"
+}

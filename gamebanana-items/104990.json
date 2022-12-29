@@ -1,0 +1,53 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"wm_rialto.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 463757,
+			"_nDownloadCount": 1826,
+			"_nFilesize": 146658236,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/463757",
+			"_sFile": "wm_rialto.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1589893160
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Improvement",
+					"text": "Fixed most color and lighting of props"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Added cubemaps in both modes"
+				},
+				{
+					"cat": "Optimization",
+					"text": "Optimized some places"
+				},
+				{
+					"cat": "Tweak",
+					"text": "changed prefix map to \"wm_\" as \"wingman\" csgo game mod"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Update",
+			"_tsDateAdded": 1589893450
+		}
+	],
+	"_idRow": 104990,
+	"_sName": "Rialto CS:GO",
+	"_sText": "Rialto with Wingman mode from Cs go now avaliable to css"
+}

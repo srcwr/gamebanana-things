@@ -1,0 +1,87 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_italy.bsp",
+					"de_italy.nav",
+					"installation.txt"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 807346,
+			"_nDownloadCount": 221,
+			"_nFilesize": 4960399,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "Refined Version, New Sites",
+			"_sDownloadUrl": "https://gamebanana.com/dl/807346",
+			"_sFile": "de_italy_8e4d5.rar",
+			"_sMd5Checksum": "1122a3f7e25a60ef2c12376bb0f53144",
+			"_tsDateAdded": 1654024156
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_italy.bsp",
+					"installation.txt"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 491852,
+			"_nDownloadCount": 412,
+			"_nFilesize": 4609787,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "Different Sites, Old Version",
+			"_sDownloadUrl": "https://gamebanana.com/dl/491852",
+			"_sFile": "de_italy_f2206.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1603318919
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "Removed broken textures."
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Removed broken cubemaps."
+				}
+			],
+			"_sText": "<p>Makes the map not look awful.</p>",
+			"_sTitle": "bugfix",
+			"_sVersion": "0.9.9",
+			"_tsDateAdded": 1654024297
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Adjustment",
+					"text": "Changed B site"
+				},
+				{
+					"cat": "Addition",
+					"text": "New way to get on a ledge in CT spawn"
+				},
+				{
+					"cat": "Addition",
+					"text": "There is now a vent through the enterable building"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "New de_italy",
+			"_tsDateAdded": 1611706234
+		}
+	],
+	"_idRow": 102777,
+	"_sName": "de_italy",
+	"_sText": "This map is cs_italy, but for the far better game mode defusal. I dub thee de_italy!"
+}

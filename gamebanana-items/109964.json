@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"Readme.txt",
+					"training_aim3.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 302847,
+			"_nDownloadCount": 60923,
+			"_nFilesize": 1746563,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/302847",
+			"_sFile": "training_aim3_2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1337459962
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 109964,
+	"_sName": "training_aim3",
+	"_sText": "<font size=\"+4\"; color=\"red\">training_aim3</font><font size=\"+3\"> by kataS [<font color=\"red\">E</font><font color=\"yellow\">S</font><font color=\"red\">P</font>]</font>\r\n\r\n<font size=\"+2\"; color=\"green\">Train your aim, go pro!!!</font>\r\n\r\n<font size=\"-2\"; color=\"red\">EDIT: I reuploaded the bsp file fixing a small bug that changed some textures when changing the texture detail setting (Size displayed 180, 120 and 50 instead of 16R, 10R and 3R). I didn't change the map name since it is an offline map and I didn't considered it necesary.</font>\r\n\r\n<font size=\"+\">Hello CS:S Aimers =D!!, here I am with my new map training_aim3 :DD, yes it's finally here and it has 4 new training modes and an awesome control panel that will let you to configure absolute EVERYTHING!!\r\n\r\nActually training_aim is used by professional players to train their aim :P, big thanks to RpK (VERYGAMES player) to write that really nice article that got this map higher. I have worked REALLY HARD for this map, about 100 hours of intensive mapping in two weeks. I improved almost everything!!: 4 new training modes like reflex training, bursts, intensive...; fully configurable targets (head shaped, size, color, shots to kill...); an awesome control panel made with almost 240 custom textures with photoshop :P, etc...\r\n\r\nIf you want the original VMF file and all the custom files (textures and cfgs) you can download them from <a href=\"http://www.mediafire.com/?4dwujvfd6ec0sr2\" target=\"_blank\">here</a>.</font>\r\n\r\n<font size=\"+\"; color=\"red\"><font size=\"+3\">IMPORTANT:</font> since source engine is not perfect try to shoot ahead of dynamic targets. Sometimes you hit them and nothing happens, it's like a ghost target were a little advanced from the original one. Try to shoot at that \"ghost target\" ;).</font>\r\n\r\n<fieldset><legend><font size=\"+\"; color=\"blue\">Changelog</font></legend>\r\n<font color=\"orange\">>></font> Entirely updated control panel and weapons panel.<br>\r\n<font color=\"orange\">>></font> Help buttons that will show up well detailed instructions in your console (It won't work playing the map in an online server)<br>\r\n<font color=\"orange\">>></font> You can use everybutton by shooting it.<br>\r\n<font color=\"orange\">>></font> Added an additional counter that counts how many shots did you fail in each training.<br>\r\n<font color=\"orange\">>></font> Added a teleport panel for not wasting your time going throw ladders to different levels.<br>\r\n<font color=\"orange\">>></font> Different sizes for the targets and heap shaped ones.<br>\r\n<font color=\"orange\">>></font> 4 new training modes (Classic, angles and sliding, reflex training, burst training and intensive fast aiming).<br>\r\n<font color=\"orange\">>></font> Now you can choose random duration or delay for classic mode.<br>\r\n<font color=\"orange\">>></font> The ent_data has been reduced A LOT by remaking almos the entire entities system so the map is more optimized now :).<br>\r\n<font color=\"orange\">>></font> Created a new texture for targets that will prevent them from having shots decals.<br>\r\n<font color=\"orange\">>></font> New friendly skybox and added some glasses in the roof :P (Better looking).<br>\r\n<font color=\"orange\">>></font> Fixed a bug that caused the targets to keep being spawned once the training was over when 0.00 sec. delay option was choosed.<br>\r\n<font color=\"orange\">>></font> Fixed a CS:S crash bug when you unselect all target types in classic mode (Now you will never be able to unselect all of them).<br>\r\n<font color=\"orange\">>></font> New option that allows you to set the number of shots to kill each target (So you can practise bursting, in addition to the bursting training mode).</fieldset><br>\r\n\r\n<font size=\"+2\"; color=\"yellow\">How to use:</font><font size=\"+\"> Open CS:S, create a server and select training_aim3 in the maps list (don't allow bots). Join a team, choose a weapon, set your configuration and go the level you want. Then click start button and wait 2 seconds for the first target to appear, you can practise moving left and right or being stand in a position.</font>\r\n\r\n<font size=\"+5\"; color=\"yellow\">If you liked it please Rate and Comment =)</font>\r\n\r\n\r\n\r\n\r\n\r\n\r\nInstallation Instructions:\r\n\r\nGo to your game cstrike/maps directory (normally C:\\\\Program Files\\Steam\\SteamApps\\USER\\Counter-Strike Source\\cstrike\\maps) and extract the bsp file there."
+}

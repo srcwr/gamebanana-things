@@ -1,0 +1,80 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrike": {
+						"maps": {
+							"0": "breakship_b6.bsp",
+							"1": "breakship_b6.res",
+							"graphs": [
+								"breakship_b6.ain"
+							]
+						},
+						"materials": {
+							"breakship": [
+								"british.vmt",
+								"british.vtf",
+								"britishmap.vmt",
+								"britishmap.vtf",
+								"pirates.vmt",
+								"pirates.vtf",
+								"rope.vmt",
+								"ropeladder.vmt",
+								"ropeladder.vtf",
+								"sail.vmt",
+								"sail.vtf",
+								"treasuremap.vmt",
+								"treasuremap.vtf"
+							],
+							"models": {
+								"asteroid": [
+									"asteroid.vmt",
+									"asteroid.vtf",
+									"asteroid_normal.vtf"
+								],
+								"breakship": [
+									"blackmetal.vmt",
+									"blackmetal.vtf",
+									"sail.vmt",
+									"sail.vtf"
+								]
+							},
+							"skybox": [
+								"emerald_bk.vmt",
+								"emerald_bk.vtf",
+								"emerald_dn.vmt",
+								"emerald_dn.vtf",
+								"emerald_ft.vmt",
+								"emerald_ft.vtf",
+								"emerald_lf.vmt",
+								"emerald_lf.vtf",
+								"emerald_rt.vmt",
+								"emerald_rt.vtf",
+								"emerald_up.vmt",
+								"emerald_up.vtf"
+							]
+						}
+					}
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 359431,
+			"_nDownloadCount": 7116,
+			"_nFilesize": 3581357,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/359431",
+			"_sFile": "breakship_b6.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1134370200
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 115593,
+	"_sName": "breakship_b6",
+	"_sText": "Two breakable and sinkable wooden ships in a close range cannon battle."
+}

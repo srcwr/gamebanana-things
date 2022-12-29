@@ -1,0 +1,45 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_danger.bsp",
+					"de_danger.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 680218,
+			"_nDownloadCount": 202,
+			"_nFilesize": 410211,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "1.0.1",
+			"_sDownloadUrl": "https://gamebanana.com/dl/680218",
+			"_sFile": "de_danger_fix.zip",
+			"_sMd5Checksum": "503cab9d3b6cf8b7e43353bd04039725",
+			"_tsDateAdded": 1635038834
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "Added CT / T Spawn (forgot to add 5 of these)"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Clipping Bugfixes"
+				}
+			],
+			"_sText": "Well, it should now work people!<br>",
+			"_sTitle": "V1.0.1",
+			"_tsDateAdded": 1635038847
+		}
+	],
+	"_idRow": 330344,
+	"_sName": "de_danger",
+	"_sText": "<h1>Welcome To De_danger</h1>de_danger is a small 5v5 map, I am familiar with making defuse maps csgo, aim and fy maps in counter strike source, but not defuse maps for CS:S<br>And here we are! this is my first defuse map for CS:S<br><br>Counter Terrorist - Defend The Bombsites to prevent the terrorists bombing them.<br><br>Terrorist - Plant the bomb on one of the bomb sites.<br><br>Bombsite A - Houses, some oranges and uh crates<br><br>Bombsite B - The Palace, and more oranges? why does the terrorist want to blow up the oranges???<br><br>De_danger... that name does not fit the theme of dust, But oh well<br><br>Made In Hammerplusplus"
+}

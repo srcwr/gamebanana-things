@@ -1,0 +1,54 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "Instructions.txt",
+					"cstrike": {
+						"maps": [
+							"de_bonus_rm.bsp",
+							"de_bonus_rm.res",
+							"de_bonus_rm.vmf"
+						],
+						"materials": {
+							"nippertextures": {
+								"westwood": [
+									"nm_gas_floor1.vmt",
+									"nm_gas_floor1.vtf"
+								]
+							},
+							"sub": [
+								"ceil_white.vmt",
+								"ceil_white.vtf",
+								"ceil_white_normal.vtf"
+							]
+						},
+						"sound": {
+							"ambience": [
+								"bubbles.wav",
+								"fallscream.wav",
+								"rancid.wav"
+							]
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 339649,
+			"_nDownloadCount": 1320,
+			"_nFilesize": 2580674,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/339649",
+			"_sFile": "de_bonus_rm.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1217970352
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 101241,
+	"_sName": "de_bonus_rm",
+	"_sText": "Vents in floors are accessible, blinds strings are ladders. Plant bomb in the water pipe, or in the pyramid. Blue glass is bullet proof."
+}

@@ -1,0 +1,38 @@
+{
+	"_aAlternateFileSources": [
+		{
+			"description": "Fastdl download",
+			"url": "http://5.199.136.88/cstrike/maps/"
+		}
+	],
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"kz_invasion.bsp.bz2",
+					"kz_man_madness2.bsp.bz2",
+					"kz_melody.bsp.bz2",
+					"kz_showerworld.bsp.bz2",
+					"kz_still.bsp.bz2",
+					"kz_tiny_mountain.bsp.bz2"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 809124,
+			"_nDownloadCount": 47,
+			"_nFilesize": 178961148,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/809124",
+			"_sFile": "kz_e7d68.7z",
+			"_sMd5Checksum": "054b07958356fe7d20e0ac36b446a995",
+			"_tsDateAdded": 1654343404
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 381620,
+	"_sName": "KZMOD port map pack 3",
+	"_sText": "Includes<br><br>kz_invasion<br>kz_man_madness2<br>kz_melody<br>kz_showerworld<br>kz_still<br>kz_tiny_mountain<br><br>Descriptions<br><br>kz_invasion<br>Original map by SoUlFaThEr<br>contains 3 courses (With one being a mirrored version of the bonus) kz_invasion, kc_breakdown_left and kc_breakdown_right<br>notes: this map isn't a straight forward KZ map, there are puzzle-like parts, you can find a walkthrough on youtube.<br>You will more than likely run into issues if two people are on the same part of the course at the same time, for the best experience you should play this map with entities reset to their default state (reloading the map or round will reset them).<br>warning for players: don't shoot the buttons more than once, you will trigger them twice.<br>possible fps issues near the end, I couldn't replicate them and they wouldn't affect every player, it's near the end of the map where all you need to do is just run forward so it shouldn't be a big issue.<br>notes for server owners: if you have global stripper rules that block point_servercommand you will need to put shavit_misc_startonspawn 0 in map configs (there are some entities that are triggered when the player falls down from the spawn point)<br>Add a glitch zone slightly below the ending area but above the surf area (so you cannot skip via surf)<br><br><br>kz_man_madness2<br>Original map by SoUlFaThEr<br>contains 6 courses: kz_madness_hard, kz_madness_ez, surf_mad_1, surf_mad_2, kz_mad_mini_1 and kz_mad_mini_2<br>notes: only adjusted madness_hard and madness_ez for CSS, the surf touchpoints won't work and both mad_mini courses aren't adjusted for CSS but both are still playable<br>note for server owners: kz_madness_hard is the main course, you can access it from the spawn by heading into the madness hard teleport, the start zone should be placed inside the cage above the surf ramp (so you surf into the second cage).<br>The surf ramps will need to be glitch zoned for the KZ courses, you are not meant to be able to use the surf courses to complete the KZ courses.<br><br>kz_melody<br>Original map by DaTrippinHobbit and Kangaroo<br>contains 2 courses: kz_melody and bhop_conveyor_belt<br>notes: down sized the 50mb skybox to 5mb, it's not noticeably different.<br><br>kz_showerworld<br>Original map by Goldknight<br>contains 2 courses: kz_showerworld and kz_showerworld_mini<br><br>kz_still<br>Original map by Millet<br>contains 3 courses: kz_still, kz_sewer and kz_stalkers_den<br><br>kz_tiny_mountain<br>Original map by solid<br>contains 8 courses: kz_tiny_mountain, kz_longjump_garden, bhop_kz_garden_raceway and 5 mazes of varying difficulty<br><br>"
+}

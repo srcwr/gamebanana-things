@@ -1,0 +1,39 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"bhop_Zelda_Stone_Tower_a2.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 277967,
+			"_nDownloadCount": 1008,
+			"_nFilesize": 5203003,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/277967",
+			"_sFile": "bhop_zelda_stone_tower_a2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1465508830
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Modified all \"surf\" sides, to make them walkable"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "a2",
+			"_tsDateAdded": 1466261851
+		}
+	],
+	"_idRow": 126397,
+	"_sName": "bhop_Zelda_Stone_Tower",
+	"_sText": "<fieldset><legend><h1 align=\"center\"><b class=\"RedColor\">bhop_Zelda_Stone_Tower</b></h1></legend></fieldset>This map is a part of the current Zombie Escape map I'm making. Its an exact replica (or almost exact) of the Stone Tower from the N64 game: The Legend of Zelda: Majora's Mask.&nbsp;<br>I build everything from scratch.<br><br>Thanks to Tony Montana for his&nbsp;\"Efficent Non-Linear Multi-Stage Map Completion\" and his help when I started to learn how to rip N64 models.&nbsp;<br><br>Also thanks to Frozenstate for his help with N64 ripping.<br><br><br>\r\n<fieldset><legend><h1 align=\"center\"><b class=\"BlueColor\">Objective</b></h1></legend></fieldset>The style of the map gameplay is like in&nbsp;bhop_FFVII_Mako_Reactor_v2, you have to get things before you can progress. In the map,<b> you have to press 3 switches before you can pass the stone platforms</b>.<br>I couldn't make things like in the game, i.e you pressed 3 switches, and the stone platforms from below move, and create a way. That could work if the map was single player, but not multiplayer.<br><br><br>Put the start trigger where the \"Start Timer\" is. Near the edge of the hole.<br><br>Put the end trigger where the \"Stop Timer\" is. At the entrance of the temple.<br><br>With autobhop the map should be beatable under 1 minutes 30 s<br><br>In legit, it will take more time, but every jump is possible.<br><br><br>\r\n<fieldset><legend><h1 align=\"center\"><b class=\"BlueColor\">Update?</b></h1></legend></fieldset>I named the map a1, in case I release a new version with the temple.&nbsp;<br><br>&nbsp;Anyway, I&nbsp;already build, the Stone Tower Temple (which you can see the 1st room in the map) and the Inverted Stone Tower Temple&nbsp;in Hammer. So maybe a new version of this will come after I do some&nbsp;alpha tests of my Zombie Escape map (which will be a reproduction of the whole Ikana) with the 2 temples."
+}

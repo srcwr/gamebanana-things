@@ -1,0 +1,69 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "README The Matrix 1.1.txt",
+					"1": "de_thematrix01.jpg",
+					"2": "de_thematrix02.jpg",
+					"3": "de_thematrix03.jpg",
+					"4": "de_thematrix11a.jpg",
+					"5": "de_thematrix11b.jpg",
+					"6": "de_thematrix11c.jpg",
+					"maps": [
+						"de_thematrix_11.bsp",
+						"de_thematrix_11.nav",
+						"de_thematrix_11.res",
+						"de_thematrix_11.txt"
+					],
+					"materials": {
+						"custommaterials": [
+							"backdoor_floor.vmt",
+							"backdoor_floor.vtf",
+							"detector_lights.vmt",
+							"detector_lights.vtf",
+							"elebutton_off.vmt",
+							"elebutton_off.vtf",
+							"elebutton_on.vmt",
+							"elebutton_on.vtf",
+							"elevatorpanel.vmt",
+							"elevatorpanel.vtf",
+							"lobbytiles.vmt",
+							"lobbytiles.vtf",
+							"matrixcode.vmt",
+							"matrixcode.vtf",
+							"teleportcode.vmt",
+							"teleportcode.vtf",
+							"tv_back.vmt",
+							"tv_back.vtf",
+							"tv_front.vmt",
+							"tv_front.vtf"
+						]
+					},
+					"sound": {
+						"matrix": [
+							"catmeow.wav",
+							"matrixteleport.mp3"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 360216,
+			"_nDownloadCount": 160518,
+			"_nFilesize": 11203131,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/360216",
+			"_sFile": "de_thematrix11_for_css.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1128773340
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 104320,
+	"_sName": "de_thematrix_1.1",
+	"_sText": "The Matrix v1.1 for CS:S  by MoonQuake\r\n==================\r\n\r\n**READ ALL PLEASE -- IMPORTANT FOR ADMINS:** \r\nThe Matrix map is big! If you want people to be able to download the map directly from your server, you must use this command:  net\\_maxfilesize 27  Default 16mb. The Matrix map is 25mb.  Without this command changed to 27, people will download all the resources EXCEPT the .BSP and they will get an error message like \"de\\_thematrix\\_11.bsp not found\". -- If your server BZIPs the maps you're ok, but make sure you test it first.   \r\n\r\nMAP INFORMATION\r\n------------------\r\nMap Name: de\\_thematrix\\_11 Map Type: DE (Bomb/Defuse)  Release date: October 8th, 2005 Bombsites Locations: Dojo and Office (look for transparent matrix code areas on the ground) Available Weapons: Standard  Map Environment: part of a restricted system  Map Theme: The Matrix movies Map's Time of Day: Day and night  Special Features: elevator and low gravity hot spots Recommended/Maximum Players: 24/50 max Custom Textures Used: yes Custom Sounds Used: yes .NAV File Included (for bots and locations): yes Tips for this Map: \"Free Your Mind\"   \r\n\r\nA showcase video of The Matrix 1.1 can be watched here:<br>\r\n<iframe width=\"420\" height=\"315\" src=\"http://www.youtube.com/embed/_midCm6vhIs\" frameborder=\"0\" allowfullscreen></iframe>\r\n\r\nINSTALLATION\r\n------------------\r\nExtract the content of the ZIP file directly into your \"cstrike\" folder.  \".../steam/steamapps/username/counter-strike source/cstrike\"  If you previously installed any Matrix versions, overwrite everything when asked.  Extract the images (JPG) somewhere else if you want to.  Having trouble Unzipping the ZIP? DO NOT use the windows ZIP utility, use Winrar or Winzip.\r\n\r\nREAD the Readme file for changes and known bugs. Thanks\r\n\r\nMAP INFORMATION FOR GEEKS:\r\n------------------\r\n- This map took me 4 months to improve, from beta 1 to beta 3, and to this version 1.1. (Hopefully the last one)  \r\n- Total build time in Hammer: 1h 59 min.  \r\n- This map has 3819 light sources!  \r\n- This map has 1 Easter egg, 1 hidden signature and 1 hidden message.  \r\n- Total players dead from failing the roof jump during testing: around 50  \r\n- % of players who made the jump the first time during testing: around 10% (excluding me, lol!)\r\n\r\nSPECIAL THANKS:\r\n------------------\r\n- To my lovely girlfriend who supported me and has a lot of patience. :)  xx \r\n- To Zack who contacted me first, got interested in my project and made the Matrix Guide, and all the folks over at Wastelandsgaming.com who helped me beta test the map.\r\n- To Pepsi Cola \r\n- To Budweiser and Stella Artois Beers (and others I remember vaguely) - To Spicy Tostitos corn chips \r\n- To Zesty Lime Tostitos corn chips -To Winamp for the internet radio\r\n- To C0CoNUT for the .NAV tips. \r\n- To all CS:S players visiting the forums for their support, suggestions and bug reports! -And finally, to Valve of course (BTW, you guys got an open level designer position?)    Enjoy The Matrix universe for Counter-Strike: Source!  MoonQuake Level Designer hl2\\_moonquake(at)hotmail.com  Want to report a bug or give me some love? Email me!"
+}

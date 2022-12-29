@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ze_elevator_escape_v4.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 342986,
+			"_nDownloadCount": 4590,
+			"_nFilesize": 3126034,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/342986",
+			"_sFile": "ze_elevator_escape_v4.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1207083059
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 130713,
+	"_sName": "ze_elevator_escape_v4",
+	"_sText": "Ze_elevator_escape_v4\r\n\r\nMap Description\r\n\r\nThe nuclear core has become unstable, you must escape the facility via the final elevator. Before you reach the final elevators you will have to use other elevators and cross other obstacles to reach the last elevators.\r\n\r\nOnce you are at the final elevators you will have to make your way to the rescue zone, where there is a radio in which you must use to self destruct the nuclear core bunker in order to stop a wide scale disaster.\r\n\r\n***Updates***\r\n\r\n- More Detail\r\n\r\n- Fixed people been pushed under the floor by the lifts ( Player will be teleported near by )\r\n\r\n- Added breakable gates at first lift exits ( Improves gameplay on servers where zombie spawns after 10 secs )\r\n\r\n- 3D Skybox\r\n\r\n- More Optimization\r\n\r\n- Added more time on first lifts ( extra time to break gates )\r\n\r\n- Added/Changed box stacks at end of map\r\n\r\n- Player clipped rocks at end of map so player cant get behind the rock\r\n\r\n- Added a small transportation cart to the water ( only humans can use it )\r\n\r\n\r\n"
+}

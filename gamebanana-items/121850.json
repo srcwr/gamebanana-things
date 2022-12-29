@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"surf_combine_extended3.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 358547,
+			"_nDownloadCount": 1686,
+			"_nFilesize": 775507,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/358547",
+			"_sFile": "surf_combine_extended3.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1142816933
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 121850,
+	"_sName": "surf_combine_extended3",
+	"_sText": "This is the last time im updating surf_combine. Have fun :) \r\n\r\n<b>THIS MAP IS NOT MEANT TO BE PLAYED WITH LOW GRAVITY OR ANYTHING HIGHER THAN SV_AIRACCELERATE 10</b>\r\n\r\nChanges since surf_combine_extended2:\r\n\r\n-Added my name near spawn\r\n-Changed glass in spawn to combine glass\r\n-Added 4 level\r\n-Added Win room and fight arena\r\n-Fixed exploit where you could skip parts of the first level.\r\n-Fixed teleport triggers at bottom of map\r\n-Changed and fixed water and water textures (reports of death after teleporting form bottom of map)\r\n-Added env_cubemap to more appropirate surfaces.\r\n-Added Terrorist surf spiral (instead of CT and T sharing the same spiral in the first level)\r\n-And some more minor changes"
+}

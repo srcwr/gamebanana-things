@@ -1,0 +1,49 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cs_chickenrun": {
+						"0": "readme.mht",
+						"cstrike": {
+							"maps": [
+								"cs_chickenrun.bsp",
+								"cs_chickenrun.res",
+								"cs_chickenrun.txt"
+							],
+							"sound": {
+								"cs_chickenrun": [
+									"chicken.wav",
+									"chicken2.wav",
+									"famous4.wav",
+									"generatorstarted.wav",
+									"keypad.wav",
+									"poweravailable.wav",
+									"road.wav",
+									"vehicle1.wav",
+									"vehicle_start1.wav"
+								]
+							}
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 360850,
+			"_nDownloadCount": 2302,
+			"_nFilesize": 6028922,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/360850",
+			"_sFile": "cs_chickenrun.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1123130731
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 99691,
+	"_sName": "cs_chickenrun",
+	"_sText": "Story: The missing chickens from cs_italy have been found!\r\nTerrorists are holding the chickens at an abandoned \r\narea in the industrial district.\r\n\r\nCounter-terrorists: Rescue the chickens. You'll have to\r\npower up the building by starting the generator at site\r\nA or at site B. After 30 seconds the building power will\r\nbe on-line and you can use the controls to release the\r\nchickens.\r\n\r\nTerrorists: Prevent the counter-terrorists from rescuing\r\nthe chickens."
+}

@@ -1,0 +1,40 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ar__chess.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 614183,
+			"_nDownloadCount": 115,
+			"_nFilesize": 23461053,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/614183",
+			"_sFile": "ar__chess.rar",
+			"_sMd5Checksum": "06015b19dfb8c011bf897554b724c8a6",
+			"_tsDateAdded": 1626271447
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "Textures"
+				}
+			],
+			"_sText": "Fix of the appeared erroneous textures after updating valve.",
+			"_sTitle": "ar__chess",
+			"_tsDateAdded": 1626271660
+		}
+	],
+	"_idRow": 166797,
+	"_sName": "ar_chess",
+	"_sText": "ar_chess is a port of the ar_chess from the Counter-Strike: Global Offensive game.<br><br>- An Arms Race map set in an Alice in Wonderland-esque environment.<br><br>- Created for the \"Back to Mapping\" contest hosted by www.mappingbase.de<br><br>"
+}

@@ -1,0 +1,61 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "Beachassault1.jpg",
+					"1": "Beachassault2.jpg",
+					"2": "Beachassault3.jpg",
+					"3": "Beachassault4.jpg",
+					"4": "Beachassault_Readme.txt",
+					"5": "Beachassault_Version_History.txt",
+					"maps": [
+						"de_beachassault.bsp",
+						"de_beachassault.nav",
+						"de_beachassault.res",
+						"de_beachassault.txt"
+					],
+					"materials": {
+						"overviews": [
+							"de_beachassault.vmt",
+							"de_beachassault.vtf"
+						]
+					},
+					"materialsrc": {
+						"overviews": [
+							"de_beachassault.tga",
+							"de_beachassault.txt"
+						]
+					},
+					"resource": {
+						"overviews": [
+							"de_beachassault.txt"
+						]
+					},
+					"sound": {
+						"beachassault": [
+							"Chop_Suey.wav",
+							"Guns_n_Roses.wav"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 358896,
+			"_nDownloadCount": 12279,
+			"_nFilesize": 8079550,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/358896",
+			"_sFile": "s_de_beachassault_2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1139706437
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 101168,
+	"_sName": "de_beachassault",
+	"_sText": "The map supports maximum teams of 24v24. There are 3 bombspots, 2 outside the bunker and 1 inside. T's start at the beach, CT's in the bunker.\r\nMap includes custom soundscapes and sounds, full bot nav and map overview.\r\n\r\nTheory Behind Map:\r\n\r\nEver since 1.3 (I stopped playing after 1.3 until Source), I always wanted to do a map of this sort - with a realistic battle feel of rushing up a beach to take a strongpoint. With the old HL engine, it simply wasnt possible due to its limitations.\r\nSoon as HL2 came out, I realised it was possible. With the excellent remake of de_prodigy, a lot of the textures that I would be needing were there ready.\r\nSo, I put it into Hammer and have made it :)\r\n\r\nThis is also timed with the 3 year existence of my clan, SFS.\r\n\r\n\r\nThe map was also originally planned to include HDR after it had been released for CS:Source, however, the map file increased from 8Mb to a whooping 31Mb. Nobody is going to download a map that big, so I decided to take it for that reason alone. Which is a big shame, as it really made the map a LOT better.\r\n\r\nBottom line is, enjoy the map. Some good battles can be had and is great for that long range practising."
+}

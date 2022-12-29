@@ -1,0 +1,59 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"zm_skyscraper_v2_0.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 581872,
+			"_nDownloadCount": 145,
+			"_nFilesize": 9128154,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/581872",
+			"_sFile": "zm_skyscraper_v2_0.rar",
+			"_sMd5Checksum": "4961a45d1af69261376003a5deb0952d",
+			"_tsDateAdded": 1622423373
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"zm_skyscraper_v1.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 367883,
+			"_nDownloadCount": 751,
+			"_nFilesize": 1049297,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/367883",
+			"_sFile": "zm_skyscraper_v1.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1514701793
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Overhaul",
+					"text": "Complete remake of the map."
+				}
+			],
+			"_sText": "Major differences in the remake:<br><ul><li>Few more surf ramps have been added.</li><li class=\"SelectedElement\">A third tower has been added.</li><li>Few buildings have been renovated.</li><li>A better crane has been added.</li><li>Speed boost panels have been added.</li><li>The contents of some building is still somewhat reminiscent of the old building, but the others are just straight-up modified entirely to accommodate more viable spots.</li></ul>",
+			"_sTitle": "_v2_0",
+			"_tsDateAdded": 1622424404
+		}
+	],
+	"_idRow": 132787,
+	"_sName": "zm_skyscraper_v2_0",
+	"_sText": "<h1>Map Description (_v2_0)</h1><ul><li><b>zm_skyscraper </b>is a map that consists of skyscraper buildings.<br></li><li>Old version was not that good, so this is a remake. The map's general layout remain mostly identical, though there are some huge changes that are done.</li></ul><hr><h1>Map Features <span class=\"SelectedElement\">(_v2_0)</span></h1><ul><li>There are a plenty barricading/defending spot for the humans.</li><li>Surf ramps, and speed boost panels to allow easier navigation between buildings.</li><li>It has 64 spawns (32 CT and 32 T).</li><li>There are few secrets, and there are three towers with no teleporters, so you probably need to surf or bhop to get there.</li><li>There are nine teleporters that will teleport player back to the roof of the building.</li><li>All players suffer no fall damage.</li></ul><br>Please notify me should there be any issues within the map. Thank you!"
+}

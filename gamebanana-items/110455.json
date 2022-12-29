@@ -1,0 +1,156 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "instructions.txt",
+					"MapEditor": {
+						"0": "MapEdit.exe",
+						"VTFEdit": [
+							"DevIL.dll",
+							"HLLib.dll",
+							"VTFCmd.exe",
+							"VTFEdit.exe",
+							"VTFEdit.ini",
+							"VTFLib.dll"
+						]
+					},
+					"cstrike": {
+						"addons": {
+							"eventscripts": {
+								"soccerautoref": [
+									"es_soccerautoref.txt"
+								],
+								"soccermap": [
+									"es_soccermap.txt"
+								]
+							}
+						},
+						"cfg": {
+							"0": "es_tools.cfg",
+							"1": "lo3.cfg",
+							"2": "soccerautoref.cfg",
+							"3": "soccermap.cfg",
+							"mani_admin_plugin": {
+								"map_config": [
+									"ka_soccer_2008_v5.cfg"
+								]
+							}
+						},
+						"maps": [
+							"ka_soccer_2008_v5.bsp",
+							"ka_soccer_2008_v5.res"
+						],
+						"materials": {
+							"ka_soccer_2006": [
+								"aus.vmt",
+								"aus.vtf",
+								"billboard.vmt",
+								"billboard.vtf",
+								"bra.vmt",
+								"bra.vtf",
+								"can.vmt",
+								"can.vtf",
+								"eng.vmt",
+								"eng.vtf",
+								"esa.vmt",
+								"esa.vtf",
+								"esp.vmt",
+								"esp.vtf",
+								"fra.vmt",
+								"fra.vtf",
+								"ger.vmt",
+								"ger.vtf",
+								"irl.vmt",
+								"irl.vtf",
+								"irq.vmt",
+								"irq.vtf",
+								"ita.vmt",
+								"ita.vtf",
+								"jap.vmt",
+								"jap.vtf",
+								"kor.vmt",
+								"kor.vtf",
+								"por.vmt",
+								"por.vtf",
+								"rom.vmt",
+								"rom.vtf",
+								"rus.vmt",
+								"rus.vtf",
+								"saf.vmt",
+								"saf.vtf",
+								"sco.vmt",
+								"sco.vtf",
+								"team1.vmt",
+								"team1.vtf",
+								"team2.vmt",
+								"team2.vtf",
+								"team3.vmt",
+								"team3.vtf",
+								"team4.vmt",
+								"team4.vtf",
+								"team5.vmt",
+								"team5.vtf",
+								"team6.vmt",
+								"team6.vtf",
+								"team7.vmt",
+								"team7.vtf",
+								"team8.vmt",
+								"team8.vtf",
+								"usa.vmt",
+								"usa.vtf",
+								"wal.vmt",
+								"wal.vtf"
+							],
+							"ka_stadium_accsl": {
+								"s_teams": [
+									"1.vmt",
+									"1.vtf",
+									"10.vmt",
+									"10.vtf",
+									"11.vmt",
+									"11.vtf",
+									"12.vmt",
+									"12.vtf",
+									"2.vmt",
+									"2.vtf",
+									"3.vmt",
+									"3.vtf",
+									"4.vmt",
+									"4.vtf",
+									"5.vmt",
+									"5.vtf",
+									"6.vmt",
+									"6.vtf",
+									"7.vmt",
+									"7.vtf",
+									"8.vmt",
+									"8.vtf",
+									"9.vmt",
+									"9.vtf"
+								]
+							}
+						}
+					}
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": true,
+			"_idRow": 340960,
+			"_nDownloadCount": 2990,
+			"_nFilesize": 3996609,
+			"_sAnalysisResult": "Archive contains executable",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/340960",
+			"_sFile": "ka_soccer_2008_v5_18.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1214293332
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 110455,
+	"_sName": "ka_soccer_2008_v5",
+	"_sText": "Very similar to the previous map, ka_soccer_2008_v4: <a href=\"http://www.fpsbanana.com/maps/53757\">http://www.fpsbanana.com/maps/53757</a>\r\nOnly with that map, the scripts i included that control parts of the map were bugged, It is fixed in this version.\r\n\r\nWhat's new is that there is a scoreboard, which is controlled by a ref script that displays the time left in the period, scores, and teams.\r\nYou can set up to 12 teams on the scoreboard (only 8 team logos in the tunnels).\r\nYou'll need to edit the custom textures and set the teams in the autoref.cfg to do that.\r\n\r\nCommands:\r\nType these commands in chat to perform certain actions with the autoref script.\r\n<strong>!ref</strong> -- Brings up a referee menu to control manual aspects of the ref script. you must be set as an admin in the autoref config for !ref and !setteams.<br />\r\n<strong>!setteams [team1here] [team2here]</strong> -- Set teams for the ref script. Use underscores for spaces. For the newer scoreboards since 2008_v6, use full-stops to center the team.\r\n\r\n\r\nIn addition to the map and map customizing scripts, you can optionally install my soccer (gameplay) scripts, available here: <a href=\"http://addons.eventscripts.com/addons/view/soccer\">http://addons.eventscripts.com/addons/view/soccer</a>\r\n\r\nThey work for every setting different league/clans use.\r\nExtremely customisable. they record personal player stats (viewable in-game and on a webserver), Limit knives-per-minute,\r\nDisable knifing, Control health/god-mode options (including a commbox-as-bloodbin script),\r\nAutomatically referee (for clan/league matches), Control an in-game scoreboard on a special map,\r\nSlay people jumping on goals, Set separate skins for goalies and teams,\r\nAnd automatically load the scripts upon changing to a soccer map."
+}

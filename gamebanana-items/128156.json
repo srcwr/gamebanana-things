@@ -1,0 +1,34 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "Readme.txt",
+					"Downloadserver": [
+						"mg_item_battle_v6b.bsp.bz2"
+					],
+					"Gameserver": [
+						"mg_item_battle_v6b.bsp"
+					]
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 320797,
+			"_nDownloadCount": 3539,
+			"_nFilesize": 9950332,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/320797",
+			"_sFile": "mg_item_battle_v6b.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1280515284
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 128156,
+	"_sName": "mg_item_battle_v6b",
+	"_sText": "This is a mg/aim map.\r\n20 CT vs 20 T\r\n\r\nCurrent version: v6b\r\n\r\nThe objective of the map is to kill oposite force using weapons and items.\r\nTo get an item, take the knife inside. When you get the item you will also get a pistol.\r\nStrong itmes gives weak pistols (glock), weak items gives strong pistols (desert eagle).\r\n\r\nThe items are:\r\n\r\nShelby car (2):\r\nCar gives speed to the player who wears it. (Speed x2)\r\nGives dual elites.\r\n\r\nJetPack (2):\r\nThe jetpack allows player to fly.\r\nTo fly: Use knife secondary attack.\r\nTo fly forward: look at the ground.\r\nTo fly backwards: look at the sky.\r\nDon't worry if you fall, you will not die.\r\nThe jetpack has a Gas tank, when you fly will use the gas, to restore the gas wait, a HUD text will show you the status of the jetpack.\r\nGives dual elites.\r\n\r\nMedkit (2):\r\nRestores player and teammates health (20hp each second).\r\nGives desert eagle.\r\n\r\nMega Laser Dual(2):\r\nVery dangerous.\r\nYou can shot laser each 3,5 seconds, when the laser is ready, you will see sparks on the lasers canon.\r\nCaution laser can be used to kill enemies and teammates.\r\nTo shot use the knife secondary attack.\r\nGives glock.\r\n\r\nDual Rocket Launcher (2):\r\nShots 2 explsive rockets at the same time. Very destructive.\r\nEach rocketlauncher has 4 rockets in their clip, to reload rockets wait and dont shoot, a HUD text will notice the numbers of rockets.\r\nDo not fire at a near target or you will die.\r\nTo shot use the knife secodary attack.\r\nGives glock.\r\n\r\nCanon (1):\r\nThis canon can shot one ball each one second (not explosive).\r\nThe canon can be used to kill enemies or teammates.\r\nTo shot use the knife secondary attack.\r\nGives usp.\r\n\r\nFlamethrower(2):\r\nBurn enemies!!!\r\nUnlimited attack, short range.\r\nTo fire use knife secondary attack.\r\nDoesnt hurt teammates.\r\nGives usp.\r\n\r\nHeavy armor (2):\r\nProtects against weapons and some against items.\r\nDecreases the field of wiev.\r\nThe vulnerable area is the head.\r\nThe back is invulnerable.\r\nGives desert eagle.\r\n\r\nWizards staff (1):\r\nShots a explosive fireball, it destroys everything along its path.\r\nYou can use the staff when the light is on.\r\nTo make magic use the knife secondary attack.\r\nGives glock.\r\n\r\nReflector shield (2) NEW:\r\nReflects all item attacks except the flamethrower and the freezer.\r\nAlso reflects teammates attacks.\r\nDoes not give protection against bulets.\r\nGives usp.\r\n\r\nFreezer gun (1) NEW:\r\nFreezes enemies during 8 seconds.\r\nIs not very effective against the shelby item.\r\nGives desert eagle.\r\n\r\nUbercharger (1) NEW:\r\nMakes player and near teammates immortal during 8 seconds.\r\nwait 22 seconds to use another time.\r\nGives usp.\r\n--------------------------------------------------------------------\r\nChangelog\r\n\r\n--V1--\r\n\r\nFirst release\r\n\r\n--V2--\r\n\r\nPlayers will spawn with Desert eagle, knifes are in the items.\r\nNow the map has ambient light and new skybox.\r\nSolved tank armor bug, now armor activates the 100% of times.\r\nUpgraded tank armor.\r\nIntroduced a button to activate/deacitvate the jetpacks.\r\nNow items cant be dropped and only can be used 1 time each round.\r\nSphere of life now gives x2 HP.\r\nItems from each team will not work for the enemy force.\r\n\r\n--V2.1--\r\n\r\nPlayers increased to 20\r\n\r\n--v3--\r\n\r\n-New map, now is bigger than first.\r\n-20 weapons scattered arround the map.\r\n-Solved bugs:\r\n--Deleted tank (crash server).\r\n--Deleted armor box (crash server).\r\n--Solved jetpack bug.\r\n\r\n--v4--\r\n\r\n-Maxplayers incrased to 32\r\n-New items\r\n-Increased map size\r\n-Added HDR\r\n-New models\r\n\r\n--v4b--\r\n\r\n-Solved bugs\r\n-Improved HDR\r\n\r\n--V5--\r\n-Spehere of live updated to medkit, now can health teammates\r\n-Fixed old fast attack bug at rocketlauncher\r\n-Dual Rocket launcher can shot 8 rockets (1 each RL) and then must wait to reload\r\n-Rocket explosion radius increased\r\n-Rockets take less damage at outer radio\r\n-Flamethrower now burn enemies, cannot teamkill\r\n-Jetpack now can fly for a limited time, solved speed insane abuse and forces players to land to the ground.\r\n-Shield updated to armor, gives stronger protection.\r\n-New car model, with colored teams.\r\n-Added 3DSkybox\r\n-OPtimized map, now less filesize\r\n\r\n--v5b--\r\n-Updated flamethrower:\r\n--Fixed bug that makes flamethrower stop firing\r\n--Increased distance of fire\r\n--Easier to burn enemies\r\n-Fixed bug at the textures of wizard staffs\r\n\r\n--v6--\r\n-Improved and increased map, improved short battles.\r\n-Improved lighting.\r\n-Added color correction.\r\n-Improved item detail.\r\nAdded 3 new items: freezer gun, reflector shield and ubercharge.\r\n-Balanced items:\r\n--Now rockets move a little slower and burn in fire for easier detect.\r\n--Wizard staff has less damage, less radius and slower attack.\r\n--Medkit gives less HP.\r\n-Deleted primary weapons.\r\n-Added balanced weapon system.\r\n\r\n--v6b--\r\n-Fixed some items error after the CSS update.\r\n-Fixed bug at reflector shield when reflects lasers.\r\n-More realism at flamethrower attack.\r\n-Cannon now makes an explosion and plays a sound when attacks.\r\n-Freezer gun now freezes for 8 seconds."
+}

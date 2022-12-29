@@ -1,0 +1,50 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"welcometomexicov6": {
+						"0": "Instructions.txt",
+						"1": "welcometomexico_v6_screen1.png",
+						"2": "welcometomexico_v6_screen2.png",
+						"3": "welcometomexico_v6_screen3.png",
+						"maps": [
+							"welcometomexicov6.bsp"
+						],
+						"materials": {
+							"CustomText": {
+								"0": "guns.vmt",
+								"1": "guns.vtf",
+								"GC Textures": {
+									"wood": [
+										"Wood_Fnished05.vmt",
+										"Wood_Unfinished05.vmt",
+										"Wood_Unifnished05.vtf",
+										"Wood_Unifnished05_normal.vtf"
+									]
+								}
+							}
+						}
+					}
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 311892,
+			"_nDownloadCount": 4996,
+			"_nFilesize": 17278709,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/311892",
+			"_sFile": "_5904-.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1307397617
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 117984,
+	"_sName": "Welcometomexico_v6",
+	"_sText": "Instructions:\r\n\r\n1. Open up \"C:\\Program Files(x86)\\Steam\\steamapps\\(yourusername)\\counter-strike source\\cstrike\"\r\n\r\n2. Drop the \"maps\" folder and the \"materials\" into the folder named above.\r\n\r\n3. Open up Counter-Strike: Source and create a server.\r\n\r\n4. Enjoy!"
+}

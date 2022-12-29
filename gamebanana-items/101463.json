@@ -1,0 +1,40 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_chanda_r2.bsp",
+					"de_chanda_r2.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 293830,
+			"_nDownloadCount": 5975,
+			"_nFilesize": 40955462,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/293830",
+			"_sFile": "de_chanda_r2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1372369424
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Fixed missing texture on rock"
+				}
+			],
+			"_sText": "Just changed a texture because of a problem on pakrat.",
+			"_sTitle": "Version 2.0",
+			"_tsDateAdded": 1372427910
+		}
+	],
+	"_idRow": 101463,
+	"_sName": "De_chanda_css (r2)",
+	"_sText": "This is the remake of my De_chanda cs:go\r\nYou can check cs:go version here: [http://csgo.gamebanana.com/maps/173771](http://csgo.gamebanana.com/maps/173771 \"http://csgo.gamebanana.com/maps/173771\")\r\nFIXED VERSION 2.0: No textures bug\r\n==================\r\n\r\n### Got a water problem ? In option, set reflect to \"reflect all\".\r\nIf you got a sky bug, sorry. Just relaunch the game and play as dx_level 95.\r\n------------------"
+}

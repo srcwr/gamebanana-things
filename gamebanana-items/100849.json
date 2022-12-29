@@ -1,0 +1,141 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"de_event_horizon_2": {
+						"0": "README!.txt",
+						"cstrike": {
+							"maps": [
+								"de_event_horizon_2.bsp"
+							],
+							"materials": {
+								"brophis": {
+									"dhd": [
+										"DHDFACE1TEX.vmt",
+										"DHDFACE2TEX.vmt",
+										"DHDFACEBK.vmt",
+										"DHDREDBUTTON.vmt",
+										"dhdface1tex.vtf",
+										"dhdface1tex_normal.vtf",
+										"dhdface2tex.vtf",
+										"dhdfacebk.vtf",
+										"dhdfacebk_normal.vtf",
+										"dhdredbutton.vtf",
+										"dhdredbutton_normal.vtf"
+									],
+									"gate": {
+										"0": "BRO_BUT.vmt",
+										"1": "BRO_BUTTON.vmt",
+										"10": "CHEVRON3B.vmt",
+										"11": "CHEVRON3_.vmt",
+										"12": "CHEVRON7B.vmt",
+										"13": "CHEVRON7_.vmt",
+										"14": "CHEVRONTOP_.vmt",
+										"15": "HORIZONB.vmt",
+										"16": "STARGATE_FRONT.vmt",
+										"17": "STARGATE_INNER.vmt",
+										"18": "STARGATE_MAT.vmt",
+										"19": "STARGATE_OUTTER.vmt",
+										"2": "BRO_BUT_ALPHA.vmt",
+										"20": "STARGATE_OUTTER2.vmt",
+										"21": "STARGATE_REAR.vmt",
+										"22": "bro_but.vtf",
+										"23": "chevron1_.vtf",
+										"24": "chevron1__normal.vtf",
+										"25": "chevron1b.vtf",
+										"26": "chevron2_.vtf",
+										"27": "chevron2__normal.vtf",
+										"28": "chevron2b.vtf",
+										"29": "chevron3_.vtf",
+										"3": "BRO_BUT_BETA.vmt",
+										"30": "chevron3__normal.vtf",
+										"31": "chevron3b.vtf",
+										"32": "chevron7_.vtf",
+										"33": "chevron7__normal.vtf",
+										"34": "chevron7b.vtf",
+										"35": "chevrontop_.vtf",
+										"36": "chevrontop__normal.vtf",
+										"37": "horizonb.vtf",
+										"38": "horizonb_normal.vtf",
+										"39": "stargate_front.vtf",
+										"4": "BRO_PANEL_ALPHA.vmt",
+										"40": "stargate_front_normal.vtf",
+										"41": "stargate_inner.vtf",
+										"42": "stargate_inner_normal.vtf",
+										"43": "stargate_mat.vtf",
+										"44": "stargate_mat_normal.vtf",
+										"45": "stargate_outter.vtf",
+										"46": "stargate_outter2.vtf",
+										"47": "stargate_outter_normal.vtf",
+										"48": "stargate_rear.vtf",
+										"5": "BRO_PANEL_BETA.vmt",
+										"6": "CHEVRON1B.vmt",
+										"7": "CHEVRON1_.vmt",
+										"8": "CHEVRON2B.vmt",
+										"9": "CHEVRON2_.vmt",
+										"eh_opening": [
+											"EH_CLOSING_TEX.vmt",
+											"EH_OPENING_TEX.vmt",
+											"eh_closing.vtf",
+											"eh_opening.vtf"
+										]
+									}
+								}
+							},
+							"sound": {
+								"sg": [
+									"sgchvrnlck2.wav",
+									"sgcls.wav",
+									"sgeh2.wav",
+									"sgopn.wav",
+									"sgwtrsnd.wav"
+								]
+							}
+						},
+						"screenshots": [
+							"Thumbs.db",
+							"de_event_horizon0000.jpg",
+							"de_event_horizon0001.jpg",
+							"de_event_horizon0002.jpg",
+							"de_event_horizon0004.jpg",
+							"de_event_horizon0005.jpg",
+							"de_event_horizon0007.jpg",
+							"de_event_horizon0008.jpg",
+							"de_event_horizon0009.jpg",
+							"de_event_horizon0017.jpg",
+							"de_event_horizon_20000.jpg",
+							"de_event_horizon_20001.jpg",
+							"de_event_horizon_20002.jpg",
+							"de_event_horizon_20003.jpg",
+							"de_event_horizon_20004.jpg",
+							"de_event_horizon_20005.jpg",
+							"de_event_horizon_20006.jpg",
+							"de_event_horizon_20007.jpg",
+							"de_event_horizon_20008.jpg",
+							"de_event_horizon_20009.jpg",
+							"de_event_horizon_20010.jpg",
+							"de_event_horizon_20011.jpg"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 329408,
+			"_nDownloadCount": 1918,
+			"_nFilesize": 13446423,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/329408",
+			"_sFile": "de_event_horizon_2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1250927498
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 100849,
+	"_sName": "De Event Horizon 2",
+	"_sText": "Version 1 Includes: -\r\n\r\n- Changed Corridors In SGC\r\n- New Offworld\r\n- 3 New Teleporters\r\n- 3 New Teleporter Destinations\r\n- New Corridors Added To SGC\r\n- New Rooms Added To SGC\r\n- Added Cover In Some Corridors\r\n- Changed Hammonds Office Bomb Site To Area In New Section Of SGC\r\n\r\nHope You Enjoy It!"
+}

@@ -1,0 +1,55 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"Installation.txt",
+					"mg_multisports_b2_2.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 276002,
+			"_nDownloadCount": 1417,
+			"_nFilesize": 65711086,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/276002",
+			"_sFile": "mg_multisports_b2_2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1477961090
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "A level is chosen randomly 30 seconds after the round starts."
+				},
+				{
+					"cat": "-",
+					"text": "The turnstile at the spawn now stops  when a player is teleported to the choice room."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "b2_2",
+			"_tsDateAdded": 1483894977
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "See the description"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "b2_1",
+			"_tsDateAdded": 1483552959
+		}
+	],
+	"_idRow": 128355,
+	"_sName": "mg_multisports_b2_2",
+	"_sText": "This map is the first one I started, on january 2014. I stopped this map for more than 2 years and I finally decided to finish it (at least release a beta).<br>I didn't put a lot of efforts on the design, this map is aimed to be fun to play.<br><br>10 levels :<br><ul><li>Foot</li><li>Beach Volley</li><li>Waterpolo</li><li>Minigolf</li><li>Hurdle Course</li><li>Ice Hockey</li><li>Beach Soccer</li><li>Iceskate</li><li>Dodgeball</li><li>Ski</li></ul><br>Damages are disabled (including fall damage), except for Hurdle Course, Minigolf and Ski.<br>Fall damage is disabled for Iceskate.<br><hr><u>Music list :</u><br><ul><li>Can't Hold Us - Macklemore</li><li>Summer Moonlight - Bob Sinclar</li><li>Stay The Night - Zedd</li><li>Right Round - Florida</li><li>Chocobo Battle (from the game FFVII)</li><li>Levels - Avicii</li><li>Summer - Calvin Harris</li><li>Paradise - Coldplay (Fedde Le Grand remix)</li><li>And We Danced - Macklemore</li><li>Sugar - Robin Schulz</li></ul><br><hr><h1><span class=\"RedColor\">Change Log</span></h1><span class=\"GreenColor\">b1 --&gt; b1_2</span><br>Minor fixes<br><br>Fixed ERROR ball<br><br><span class=\"GreenColor\">b1_2 --&gt; b1_3</span><br>Fixed missing textures on the ball<br><br><span class=\"GreenColor\">b1_3 --&gt; b2</span><br>Added 3 more levels :<br><ul><li>Iceskate</li><li>Dodgeball</li><li>Ski</li></ul>Deactivation of the opponent trigger when a goal is scored<br><br>Possibility to turn off the musics (Music Volume on Options)<br><br><span class=\"GreenColor\">b2 --&gt; b2_1</span><br>Deleted the CT spawn on the Ski<br><br>Minor fixes on the trigger_hurt on Waterpolo"
+}

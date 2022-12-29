@@ -1,0 +1,93 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"WarOwl's Amigo": {
+						"maps": [
+							"de_amigo.bsp",
+							"de_amigo.nav"
+						],
+						"resource": {
+							"overviews": [
+								"de_amigo.txt"
+							]
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 841398,
+			"_nDownloadCount": 178,
+			"_nFilesize": 937574,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "updated.",
+			"_sDownloadUrl": "https://gamebanana.com/dl/841398",
+			"_sFile": "warowl_s_amigo_2561f.7z",
+			"_sMd5Checksum": "cc44920f4bf79ea61f3eddf3b1b2d2c9",
+			"_tsDateAdded": 1659443581
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"Texture Fixer": {
+						"materials": {
+							"0": "amigo_generic_bangable.vmt",
+							"1": "amigo_generic_bangable.vtf",
+							"2": "amigo_generic_cover.vmt",
+							"3": "amigo_generic_cover.vtf",
+							"4": "amigo_generic_floor.vmt",
+							"5": "amigo_generic_floor.vtf",
+							"6": "amigo_generic_wall.vmt",
+							"7": "amigo_generic_wall.vtf",
+							"overviews": [
+								"de_amigo.vmt",
+								"de_amigo.vtf",
+								"de_amigo_radar.vmt"
+							]
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 841402,
+			"_nDownloadCount": 77,
+			"_nFilesize": 109534,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "download this if you're still facing texture problems.",
+			"_sDownloadUrl": "https://gamebanana.com/dl/841402",
+			"_sFile": "texture_fixer_099b1.7z",
+			"_sMd5Checksum": "1c473670512973003eb70e049523d0a1",
+			"_tsDateAdded": 1659444039
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Tweak",
+					"text": "some sort of edit"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Analytics",
+			"_sVersion": "nothing",
+			"_tsDateAdded": 1664456499
+		},
+		{
+			"_aChangeLog": [],
+			"_sText": "<p>updated bsp file, pakrated textures inside it. separate nav file and a texture fixer.</p>",
+			"_sTitle": "adds texture fixer folder for some players",
+			"_sVersion": "1337",
+			"_tsDateAdded": 1659443786
+		}
+	],
+	"_idRow": 393423,
+	"_sName": "DE_AMIGO: Source Port",
+	"_sText": "source port of warowl's de_amigo (alpha 2.1 from his csgo workshop). 16 vs 16 max spawnpoint. working radar and fixed clip brushes and mismatched textures also fixed. you can contact me via <a href=\"https://www.facebook.com/justine.redddd\">facebook</a>, <a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fsteamcommunity.com%2Fprofiles%2F76561199248501684%2F%3Ffbclid%3DIwAR1JP0yY4vBFiuY1j06HsnmIY6sIOpYS4lCnPzcIOKeureO3OKgzX-Aj25Y&h=AT3RwSLGVu0FIsNZ5DXn2o3QV_f1AkOa0EdMWjCjQJe4veUKlnnTzcIjzoSJSkgNS81LoxYy6XBd8p3mHLw1D8H8MIPO5Q8Mkds8FcRqTTm3w9fjZ4yGqULIR_09eI0ZVNso\">steam</a>, and <a href=\"//justine357.inv@gmail.com\">gmail</a>."
+}

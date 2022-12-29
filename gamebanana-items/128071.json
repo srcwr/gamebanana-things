@@ -1,0 +1,32 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrike": {
+						"maps": [
+							"mg_HardBeat_Fix.bsp"
+						]
+					}
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 298217,
+			"_nDownloadCount": 1971,
+			"_nFilesize": 56899785,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/298217",
+			"_sFile": "cstrike_269.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1354570191
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 128071,
+	"_sName": "mg_HardBeat_Fix",
+	"_sText": "--------\r\n*FIXED VERSION*\r\n===============\r\n1. Race level is fixed (teleports + added weapon strip at the end of map..)\r\n---------------------------------------------------------------------------\r\n2. Slighly optimised (more func_detail)\r\n---------------------------------------\r\n3. Reduced songs bitrate (smaller map)\r\n--------------------------------------\r\n4. Starting area has been changed\r\n---------------------------------\r\n\r\nYeah, so this is my 4th map I guess.. I've improved myself in one year on mapping :D I'd like to say thanks for everyone who participated in creation of this map :D\r\n\r\n\r\n-----------------------------------\r\n\r\nAnd yeah, there is one little bug. When you press \"RANDOM\" when choosing level, and if that \"random\" level is \"Random Guns\", then countdown is bad. It goes like: \"Random Guns. 2. 1,\". (there is no number \"3\".) That is the biggest know problem yet. If you find something bad, bugs or huuuuuuuuge problems, PLEASE, tell me and Ill try to fix that :) If you will use my map on your server, please, let me know, just send me PM with your server IP ;D"
+}

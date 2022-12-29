@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ze_Parking_v3_1.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 309616,
+			"_nDownloadCount": 6022,
+			"_nFilesize": 65525712,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/309616",
+			"_sFile": "ze_parking_v3_1.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1313936718
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 130916,
+	"_sName": "Ze_Parking_v3_1",
+	"_sText": "Specifications :\r\n\r\n- 64 players\r\n- afk teleport\r\n- cubemap\r\n- particles\r\n- 4 weapons\r\n- 1 controled weapon\r\n- level system (with buttons to change difficulties for admin)\r\n\r\nThere is 3 levels with 2 difficulties, The levels get longer when you win it, it's working like that :\r\n\r\n- Level 1 = Level 1 (5 min)\r\n- Level 2 = Level 1 + level 2 (7/8 min)\r\n- Level 3 = Level 1 + level 2 + level 3 (9 min)\r\n\r\n**The story :**\r\n\r\n********* NEWS FLASH ************\r\n\r\nThat's crazy, there is zombies everywhere !! YES ZOMBIES !!!\r\n\r\nArmy is here to help for the evacuation, but they are almost all gone !!\r\n\r\noh no what is it ..... ahhhhh\r\n\r\n*************END*****************\r\n\r\nYou are the last survivors, the last messages invite us to evacuate to the parking in the middle of the city but they won't wait for long time !\r\n\r\nLet's go ! but be carefull, there is still some zombies around us.\r\n\r\nV3_1\r\n\r\n- fix bug that can make run again and again the warmup round\r\n- fix proxi mine, there was only 5 i/o 15\r\n- fix ammo disp, sometime you didn't get bullet\r\n- fix lvl change from 2 normal to lvl 3 xtrem (system changed)\r\n- modify climb part on broken ramp (clip)\r\n- adding visual effect on alarm cars\r\n- reduc time of stuck for CT on alarm cars (-1s), also the alarm get disable for 5s once someone touch the cars (to avoid huge stuck players)\r\n- moving back the cover on 1st floor, it's was too big, too much CT didn't cover\r\n- 100pts for players who have access to special weapons\r\n- change the special weapons access for less bug and players who try hard to get push again and again\r\n\r\n\r\nV3_0 :\r\n\r\n- fix bug map on level 2, you was able to avoid the bomb\r\n- more difficulties with alarm car which stuck you\r\n- adding 1 floor for level 1\r\n- there is now a warmup round, find a good spot, you can go at different places that you can't reach after\r\n- there is 3 new weapons that you can only take is you win the level\r\n- the leveling system is more simple, you will change of level if you reach the last cover point\r\n- modify cover points : 1st floor, truck floor with exploding roof, last cover point for level 2 (tower are back) and level 3 you should wait before go on the roof\r\n- weapons are filtered, no spam is possible\r\n- modify flamethrower burning and limit the proxi_mines quantity\r\n- new minigun and proxi mine models\r\n- adding some light on weapon to know when they are ready\r\n- adding some kind of wall on the access ramp, ct can't shoot zombies back\r\n- modify lot of timming\r\n- now weapons spawn randomly (minigun, flamethrower, grenade launcher and proxi mines)\r\n- remove the play everywhere sound from the minigun, and change is working\r\n- adding colorcorrection when extrem mode is on\r\n- breaking floor that lead to stairs before elevator is now very longer (10s to wait instead 4s before)\r\n\r\nV2a :\r\n\r\n- fix crash at the end of level2\r\n- timming adjustment\r\n- some little way modification on floor 12 / 13\r\n- weapon modification : minigun cooldown X2 and push reduce 60%, proxi_mines cooldown +5s\r\n\r\nV1c\r\n\r\n- fix leveling system that previously allow CT to win when it's lost\r\n- fix crashing client (hl2.exe ...) at the very end of level 2\r\n- fix floor 1 door which was closing when it should be open\r\n- flamethrower cooldown change from 60s to 45s\r\n- proxi mine are unlimited but cooldown change from 5s to 10s\r\n- modification of AFK teleport timming and adding an alert\r\n- modification of timming and barricades on holding at floor 1, 9 and 13\r\n- adding teleport + message for zonbies who waitting for the elevators\r\n- Level 3 is now shorter and can be finish\r\n- moving the weapons spawn for grenade launcher and proxi mine (closer to the way)\r\n- add doors on the sides entries, all paylers are at the sametime at the ramp to floor 1 \r\n- zombies spawn 5s later\r\n\r\nV1b :\r\n\r\n- visual bug correction\r\n- elevator doors fix\r\n- falling floor / roof modification to avoid stuck\r\n- falling roof from level 2 at trucks modify (teleport) to avoid stuck players too\r\n- fix respawn/die, this was come from the map"
+}

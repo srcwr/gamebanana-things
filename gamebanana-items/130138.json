@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"gg_cds9_ttt.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 318360,
+			"_nDownloadCount": 1122,
+			"_nFilesize": 1770559,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/318360",
+			"_sFile": "gg_cds9_ttt_2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1286758845
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 130138,
+	"_sName": "gg_cDS9_ttt",
+	"_sText": "This is a map idea i have been thinking about for a while. It is a simple idea - tick tack toe, though to put a twist on it I wanted to create 3 different tick tack toe boards so that the X's and O's were in different locations. To hammer the idea home even more I changed the textures of each board. My idea stems off strategy for the player. Normal maps people play are always the same, people tend to use the same tactics to win. With this map I was hoping people would have to use three or more different tactics because of the differentiations of the layout and also the textures (glass is key in some of the boards).\r\n\r\nThe biggest problem I had while creating this map was getting the players into the individual boards at at the same time (without players going into all 3 boards). Good thing I have contact with {cDS} Worm - which is an awesome mapper / logic builder. He came up with the smarts to make SDK hammer do what i wanted! If interested in \"Logic Spawning\" (players randomly spawning in different areas of a map) {cDS} Worm created an awesome tutorial located here: http://cyberdeathsquad.com/forums/index.php?topic=8427.0\r\n\r\nBig thanks to those that took the time for creating the textures that I am using for this map.\r\n\r\nEnjoy ^^"
+}

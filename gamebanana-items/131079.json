@@ -1,0 +1,73 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ze_uchiha_legacy_v1_3f.bsp",
+					"ze_uchiha_legacy_v1_3f.cfg",
+					"ze_uchiha_legacy_v1_3f_bosses.cfg"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 537409,
+			"_nDownloadCount": 457,
+			"_nFilesize": 154336176,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/537409",
+			"_sFile": "ze_uchiha_legacy_v1_3f_d5b2d.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1616327940
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ze_uchiha_legacy_v1_3f.cfg"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 589765,
+			"_nDownloadCount": 96,
+			"_nFilesize": 3186,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/589765",
+			"_sFile": "ze_uchiha_legacy_v1_3f.rar",
+			"_sMd5Checksum": "4fea9fdaa522df26a55ecbdb0d04a2ba",
+			"_tsDateAdded": 1623442627
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Overhaul",
+					"text": "Music fix and few adjustements"
+				}
+			],
+			"_sText": "Mostly to fix musics, so players can now change the volume how they want.<br><br>Few fixes and adjustement aswell.<br><br>Download link in the \"files\" section or <a href=\"https://pastebin.com/WYzpuzEn\">here</a>",
+			"_sTitle": "New stripper",
+			"_tsDateAdded": 1623442755
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Overhaul",
+					"text": "Map adjustment"
+				}
+			],
+			"_sText": "<a href=\"https://pastebin.com/sGrPhGtZ\">Stripper</a> <br><br>Include some changes such as magnitude explosion, zm items buff, bugfix and other small stuff",
+			"_sTitle": "v1_3f stripper",
+			"_tsDateAdded": 1621155220
+		}
+	],
+	"_idRow": 131079,
+	"_sName": "ze_uchiha_legacy",
+	"_sText": "Originally made for sibgamers mapping contest.<br><br>"
+}

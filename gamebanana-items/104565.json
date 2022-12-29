@@ -1,0 +1,63 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"DE_VERSUS_C&L": {
+						"0": "Overview.png",
+						"1": "Read me.txt",
+						"maps": [
+							"de_versus_c&l.bsp",
+							"de_versus_c&l.nav"
+						],
+						"overviews": [
+							"de_versus_c&l.txt",
+							"de_versus_c&l_radar.dds"
+						]
+					}
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 421894,
+			"_nDownloadCount": 187,
+			"_nFilesize": 1178132,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/421894",
+			"_sFile": "de_versus_c_l_e46f9.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1559464743
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Adjustment",
+					"text": "Made a separate map with only awps, no buy zones and bomb sites."
+				}
+			],
+			"_sText": "You can go check it out in my account!",
+			"_sTitle": "Map mode change",
+			"_tsDateAdded": 1559759535
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Props around the map were added for cosmetic and gameplay reasons."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Prop Update",
+			"_tsDateAdded": 1559464846
+		}
+	],
+	"_idRow": 104565,
+	"_sName": "de_versus_c&l",
+	"_sText": "You are on a map with two bomb sites and some snipers. You either eliminate the opposing team or plant/defuse the bomb (:"
+}

@@ -1,0 +1,51 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "Read Me.txt",
+					"cstrike": {
+						"maps": [
+							"de_force.bsp",
+							"de_force.nav",
+							"de_force.res",
+							"de_force.txt"
+						],
+						"materials": {
+							"custom textures": [
+								"Matt Decal.vmt",
+								"Matt Decal.vtf"
+							],
+							"overviews": [
+								"de_force.vmt",
+								"de_force.vtf",
+								"de_force_radar.vmt"
+							]
+						},
+						"resource": {
+							"overviews": [
+								"de_force.txt"
+							]
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 336441,
+			"_nDownloadCount": 2223,
+			"_nFilesize": 4171678,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/336441",
+			"_sFile": "de_force_3.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1228163660
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 102397,
+	"_sName": "de_force",
+	"_sText": "Map created by Matt Cordaro.\r\n\r\nCounter Terrorists: Prevent the terrorists from bombing one of two locations. Counter Terrorists must defuse any bombs that threaten these locations.\r\n\r\nTerrorists: Plant the bomb at the given locations on the map. You must either eliminate all Counter Terrorists, or destroy one of the given locations.\r\n\r\nQuestions? Comments? E-mail me at mattysmatts @ gmail.com\r\n\r\nThanks for playing!"
+}

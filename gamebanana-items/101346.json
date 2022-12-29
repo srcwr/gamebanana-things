@@ -1,0 +1,42 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"maps": [
+						"de_campgrounds_1_1_50.bsp"
+					],
+					"materials": {
+						"overviews": [
+							"de_campgrounds_1_1.vmt",
+							"de_campgrounds_1_1.vtf",
+							"de_campgrounds_1_1_radar.vmt",
+							"de_campgrounds_1_1_radar.vtf"
+						]
+					},
+					"resource": {
+						"overviews": [
+							"de_campgrounds_1_1.txt"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 302027,
+			"_nDownloadCount": 2299,
+			"_nFilesize": 5325363,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/302027",
+			"_sFile": "de_campgrounds.7z",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1340536708
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 101346,
+	"_sName": "de_campgrounds",
+	"_sText": "This map was originally created for HL2DM Pro MOD. I just converted it for CS:Source, fix some textures, geometry, lights and add radar minimap.\r\nMap was updated to 1.1. Fixed bombplaces, added blast effect. Other optimizations.\r\nMap was extended to 50 players. (25.06.12)"
+}

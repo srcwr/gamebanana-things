@@ -1,0 +1,30 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"gg_2fort_compound_hdr.bsp",
+					"gg_2fort_compound_hdr.nav",
+					"gg_2fort_compound_hdr.txt"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 323349,
+			"_nDownloadCount": 1566,
+			"_nFilesize": 2777252,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/323349",
+			"_sFile": "gg_2fort_compound_hdr_2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1271285450
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 133439,
+	"_sName": "gg_2fort_compound_hdr",
+	"_sText": "<big>Counter-Strike: <span style=\"color: grey;\">SOURCE</span></big>\r\n<h2><span style=\"color: tomato\">Gun Game, 2Fort Compound HDR</span></h2>Updated version from gg_2fort_compound.  Many fixes, adjustments, and a few changes made.\r\n\r\n\r\n - Removed func_buyzone's from out of the map.  In the oldschool gun game, there could be buyzones in the map without cause for problems, since the GG plug-in use to automatically disable buy-zones.  Since recent updates of Gun Game, I have been told it no longer disables buy-zones.  So this map is a fix.\r\n\r\n - Fixed many Prop Model Fade In / Out distances, to help up FPS and make the gameplay run smoother.\r\n\r\n - Added HDR Lighting to the map with a couple updated cube maps.\r\n\r\n - Changed Skybox background, adjusted env_light to match new sun, and preferred sdk brightness settings.\r\n\r\n - Added a couple smoke grenades in the map ( 8 Total )  4 for CT, and 4 for T.  Due to the fact that the map was actually designed around the usage of smoke grenades to push the field.\r\n\r\n - Replaced small old grandpa trees with bigger, greener and more lush trees.  Adds a bit more cover and helps to balance the map size.\r\n\r\n - Updated lighting throughout the map and changed a couple light props.\r\n\r\n...and a few other minor changes.\r\n\r\nTo be honest, I wanted to add in a couple more rooms into the map, and interconnect the back room that leads to the sniper nest, (the hl2 marked door) with the front spawn room area.  Also wanted to add in some more cover into the front field, though my main concern was to not change it up to much so that people didn't enjoy it anymore.  Perhaps I will make another version soon, that is more expansive.\r\n\r\nTill then, ALL comments and suggestions are welcomed.\r\n\r\n<b><span style=\"color:lime\">gg_compound_hdr map by nintentofu</span></b>\r\n"
+}

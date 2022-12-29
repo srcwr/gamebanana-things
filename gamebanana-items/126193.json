@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"bhop_thc_egypt.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 306658,
+			"_nDownloadCount": 2587,
+			"_nFilesize": 26330637,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/306658",
+			"_sFile": "bhop_thc_egypt.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1324071529
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 126193,
+	"_sName": "bhop_thc_egypt",
+	"_sText": "I wanted to make a map that could be played by players of most skill levels.\r\n\r\nI decided to make a map that the player decides to play easy / mid / hard\r\n\r\nThe map is the same for each choice but depending on what skill the player chooses, depends on how they can play the map (it is not 3 copies of the map)\r\n\r\n1.  Easy - the map is XC all blocks are available to the players. Long Jumps are disabled. No teleports on the blocks so the player can stand on every block\r\n2. Mid - the map now becomes mpbhop for the player, the \"white an00biz blocks\" are not available to the player\r\n3. Hard - The map now does not let the player pree-speed. Only 1 jump is allowed on each block, the player cannot go back 1 block. \"white an00biz blocks\" are not available to the player\r\n\r\nAlso I wanted other players to be able to tell which skill the player was on, so I coloured the player to denote the skill they chose. green=easy, blue=mid, red=hard.\r\n\r\nThe map has been tested on the ThC server & seems to work as designed, without bugs.\r\n\r\nIf you are a server owner then set up the timer to finish in the end room for \"HARD\", this will mean that the timer will only work for players on hard, other skills can still play but not finish the map as they will not be able to reach the finish room for \"HARD\". his makes it a map designed for Hard but available for other players to play instead of spectating or RTV.\r\n\r\ninspired by aoki for pree-speed & 1 jump, but I made my own triggers, that work in a similar way, but with additional features.\r\n\r\nI hope the triggers will inspire other mappers to make more friendly maps for all skill levels, instead of targetted at one skill."
+}

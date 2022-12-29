@@ -1,0 +1,30 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"gg_stoo_czktwo.bsp",
+					"gg_stoo_czktwo.nav",
+					"gg_stoo_czktwo.txt"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 350486,
+			"_nDownloadCount": 1189,
+			"_nFilesize": 2397611,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/350486",
+			"_sFile": "gg_stoo_czktwo.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1183567340
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 136813,
+	"_sName": "gg_stoo_czktwo",
+	"_sText": "Gg_stoo_czktwo\r\n-----------------\r\n\r\n  * THIS IS AN IMPROVED AND EXTENDED VERSION\r\n     OF <a href=\"http://www.fpsbanana.com/maps/25277\">GG_STOO_CHINZAK_DEVTEX</a>\r\n\r\nI played the map a bit and got some constructive criticism. Plus I'm a perfectionist who can't just leave things alone.\r\n\r\nAdded proper bot support! Bots can do _almost_ everything players can do in the map, including go to the roof, shoot out the windows, etc.\r\n\r\nThere will be times when the bots do something really stupid - like fall to their deaths or simply get stuck - but this is about the best I can do with a map of this type. Small ledges, lots of ladders and even stairs are pretty hard for the bots to handle. They definitely prefer horizontal maps.\r\n\r\nOn the other hand, the bots can easily \"see\" you through the glass when you might only just be able to see them, so they do provide some challenge, and they CAN traverse almost all of the map successfully when they feel like it. :)\r\n\r\nAdding the bot support was by far the most difficult and time-consuming part of making the map.\r\n\r\nYou'll see a message about needing to run a full nav_analyse. I've run nav_analyse on it several times and this message won't go away. I think the nav may be a bit screwed but I can't be bothered doing it again. It works as well as I'm willing to make it work. :P\r\n\r\nUsed highest quality RAD so compile time was considerably longer than before.\r\n\r\nBSP :: 6 seconds elapsed\r\nVIS :: 56 seconds elapsed\r\nRAD :: 34 minutes, 12 seconds elapsed\r\n\r\nHopefully this will be the final version...\r\n\r\nA full changelog is below.\r\n\r\nCheers again to _TIF_ who made the original dm_chinzak!\r\n\r\nStOo (<a href=\"http://www.betaneutral.com\">www.betaneutral.com</a>)\r\n\r\nThanks for playing!\r\n16.06.2007\r\n\r\n\r\n\r\nV2 CHANGELOG\r\n------------\r\n\r\nADDED:\r\n\r\n * Bot support! 100% hand-crafted .nav file!\r\n   (Don't expect miracles! It's a difficult map\r\n    for bots, to say the least.)\r\n\r\n * Ladders inside each tower from ground to top\r\n   floor. Now you have 2 ways to get to every\r\n   level. (stairs and ladders)\r\n\r\n * Expanded upper levels, more room to move!\r\n\r\n * Small stack of crates in the middle of the\r\n   courtyard outside.\r\n\r\n * Hint brushes. Hopefully doing more good than\r\n   harm.\r\n\r\n * Top floor on CT side to match T side. The two\r\n   towers are now almost completely identical in\r\n   layout!\r\n\r\n * Various cosmetic brushwork. (borders on\r\n   windows etc.)\r\n\r\nREMOVED:\r\n\r\n * Removed 2 of the water pools in the courtyard.\r\n   Makes it slightly harder to bail out of a\r\n   window in the middle of a firefight. :)\r\n\r\nCHANGED:\r\n\r\n * Fixed MANY texture alignment errors.\r\n\r\n * Fixed MANY brush alignment errors.\r\n\r\n * Reduced the quality of the cubemaps slightly.\r\n   They were a bit OTT and performance suffered.\r\n\r\n * Shorter mapname! Easier to type! ;)\r\n\r\n * Enlarged main doors and made them func_door\r\n   instead of func_door_rotating, so now they slide.\r\n\r\n * Made all windows much easier to break!\r\n\r\n * Made the ladders to the roof easier to climb by\r\n   rounding them slightly and removing the overhang\r\n   at the top.\r\n\r\n * Made the roofs all the same height, and simplified\r\n   their design.\r\n\r\n * Made all the \"light fixtures\" non-solid coz they\r\n   were getting in the way. :P\r\n\r\n * Changed 2D skybox from train to militia.\r\n\r\n * Reduced ambient light level very slightly.\r\n\r\n * Enlarged sun very slightly.\r\n\r\n * Used -final vrad directive for highest quality\r\n   lightmaps, hence the 30 min RAD time."
+}

@@ -1,0 +1,27 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_haunted_home_beta.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 308270,
+			"_nDownloadCount": 1950,
+			"_nFilesize": 4140642,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/308270",
+			"_sFile": "de_haunted_home_beta.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1318038847
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 102585,
+	"_sName": "de_haunted_home_beta",
+	"_sText": "This is a beta, and it is very much still in progress.  I'm just releasing it as a beta for now despite several known issues.  THESE ISSUES ARE:\r\n\r\nThe VIS would not run, bots cannot use this map because the .nav cannot run thanks to an unknown issue in the map.\r\n\r\nThe fog in the pictures had to be taken out, it caused a problem with the muzzleflash but it'll be worked on.\r\n\r\nThese issues might not seem like much, but without the VIS running, bots are useless and lag is abundant.\r\n\r\n**IMPORTANT** If any other map makers wish to help finalize this map and are willing to fix the VIS bug and fog issues, please download and use VMEX to decompile it into a hammer file that can be edited as such.  If you do make a finalized edit, send me a message and reupload the map under the same name excluding the beta part.  Please put me down as a main author and yourself as whatever part you wish.  DO NOT add a bunch of new areas, entities, or other things that will make the map too different from what it is now!  Have fun!"
+}

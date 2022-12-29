@@ -1,0 +1,70 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"mg_pharaohs_tomb2_v3.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 272396,
+			"_nDownloadCount": 895,
+			"_nFilesize": 8744332,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/272396",
+			"_sFile": "mg_pharaohs_tomb2_v3.7z",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1501425836
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Included a tonemap controller."
+				},
+				{
+					"cat": "-",
+					"text": "Fixed unintended ways to complete some traps."
+				},
+				{
+					"cat": "-",
+					"text": "Removed custom particles as they didn't work as I'd liked."
+				}
+			],
+			"_sText": "Hopefully this will be the last update.",
+			"_sTitle": "v3",
+			"_tsDateAdded": 1502155409
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Removed spawn kill and kill all triggers."
+				},
+				{
+					"cat": "-",
+					"text": "Removed music for smaller file size."
+				},
+				{
+					"cat": "-",
+					"text": "Removed some playerclip and anti-prespeed triggers."
+				},
+				{
+					"cat": "-",
+					"text": "Additional small improvements and fixes."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "v2",
+			"_tsDateAdded": 1501686378
+		}
+	],
+	"_idRow": 128446,
+	"_sName": "mg_pharaohs_tomb2_v3",
+	"_sText": "CS:GO version <a href=\"http://gamebanana.com/maps/196379\">here</a> to account for game differences.<br>Images are taken in CS:GO as the locations are the same in CS:S.<br><br>Course map which has been massively delayed, figured I'd finally finish \r\n<br><br>it and release it. Some traps were inspired by other mappers. <br><br>This map will not work correctly with save location for teleport after death plugins.<br><br>If there are any problems, please let me know."
+}

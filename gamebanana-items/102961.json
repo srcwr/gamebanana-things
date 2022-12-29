@@ -1,0 +1,81 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "de_littlevilla.bsp",
+					"1": "de_littlevilla.nav",
+					"2": "de_littlevilla0007.jpg",
+					"3": "de_littlevilla0008.jpg",
+					"4": "de_littlevilla0009.jpg",
+					"materials": {
+						"cncr04s": {
+							"concretetypes": [
+								"pierset.vmt",
+								"pierset.vtf"
+							],
+							"plaster": [
+								"it_e_3-2walltanbase_01a-512.vmt",
+								"it_e_3-2walltanbase_01a-512.vtf",
+								"it_e_3-2walltanbase_02-512.vmt",
+								"it_e_3-2walltanbase_02-512.vtf",
+								"plasterwal2b.vmt",
+								"plasterwal2b.vtf",
+								"plasterwal2b1.vmt",
+								"plasterwal2b1.vtf"
+							],
+							"woodcrate": [
+								"USCrate_02_.vmt",
+								"USCrate_02_.vtf",
+								"USCrate_02_a.vmt",
+								"USCrate_02_a.vtf",
+								"USCrate_02_b.vmt",
+								"USCrate_02_b.vtf"
+							],
+							"woodpanel": [
+								"AF-E-door02windowshutter.vmt",
+								"AF-E-door02windowshutter.vtf",
+								"AF-E-door03.vmt",
+								"AF-E-door03.vtf",
+								"AF-E-door05windowshutter2.vmt",
+								"AF-E-door05windowshutter2.vtf"
+							]
+						},
+						"cncr04sp2": {
+							"wood": [
+								"boards1.vmt",
+								"boards1.vtf"
+							]
+						},
+						"photorealistic_bricks": [
+							"brick058.vmt",
+							"brick058.vtf"
+						],
+						"photorealistic_rock-stone": [
+							"rock031.vmt",
+							"rock031.vtf",
+							"rock062.vmt",
+							"rock062.vtf"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 351396,
+			"_nDownloadCount": 1685,
+			"_nFilesize": 4714680,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/351396",
+			"_sFile": "de_littlevilla_2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1179948986
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 102961,
+	"_sName": "de_littlevilla",
+	"_sText": "<br>2 B.sites\r\n<br>2 buy zones\r\n<br>rar file contains:\r\n<br>de_littlevilla.bsp    &lt;-- bugs fixed\r\n<br>de_littlevilla.nav\r\n<br>materials folder\r\n<br>3 screenshots\r\n<br>it says rec. players 30, there are roughly 50-60 spawns\r\n<br>\r\n<br>materials folder goes in C:\\Program Files\\steam\\SteamApps\\your name\\counter-strike source\\cstrike\r\n<br>\r\n<br>and the two files (.nav and .bsp) go in C:\\Program Files\\steam\\SteamApps\\your name\\counter-strike source\\cstrike\\maps\r\n<br><br>the 3 bugs, yes THREE have been found and fixed, so if you have the old version, and for some reason decided to check back here, DELETE your old version and re-download this.\r\n<br>\r\n<br>thanks &amp; enjoy!"
+}

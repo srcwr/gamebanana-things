@@ -1,0 +1,42 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"gg_trs_mad_churches": {
+						"cstrike": {
+							"maps": [
+								"gg_trs_mad_churches.bsp",
+								"gg_trs_mad_churches.nav",
+								"gg_trs_mad_churches.txt"
+							],
+							"materials": {
+								"gg_trs_mad_churches": [
+									"skullwall.vmt",
+									"skullwall.vtf"
+								]
+							}
+						}
+					}
+				},
+				"_sMimeType": "application/x-7z-compressed"
+			},
+			"_bContainsExe": false,
+			"_idRow": 351774,
+			"_nDownloadCount": 1599,
+			"_nFilesize": 922731,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/351774",
+			"_sFile": "gg_trs_mad_churches_2.7z",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1177981686
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 137196,
+	"_sName": "gg_trs_mad_churches",
+	"_sText": "Updated and retextured by MadNoob from the FSK clan 29th April 2007.\r\n\r\ncell_7@msn.com\r\n\r\nBased on the 4HM Gun Game Mod version of ivix.\r\n---------------------------------------------------\r\nFebruary 28th, 2005\r\n\r\nMap name: trs_aim_churches\r\n\r\nAuthor: [trs] Colt 45 -- Mgbass1984@aol.com\r\n\r\nPackaging and release by: [trs] hapos\r\n\r\nThis map has been designed to accomodate 48 players.\r\n-----------------------------------------------------------------\r\n\r\nIMPORTANT\r\nFor server admins.\r\nAdd this texture code to your texturelist.txt here cstrike/cfg/mani_admin_plugin/ \r\n\r\n\"walltex-skullwall.vmt\"  \"materials/gg_trs_mad_churches/skullwall.vmt\"\r\n\"walltex-skullwall.vtf\"  \"materials/gg_trs_mad_churches/skullwall.vtf\""
+}

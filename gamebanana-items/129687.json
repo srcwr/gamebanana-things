@@ -1,0 +1,83 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ba_mario_party_extended_v1.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 291100,
+			"_nDownloadCount": 3795,
+			"_nFilesize": 33257555,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/291100",
+			"_sFile": "ba_mario_party_extended_v1.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1385632976
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Converted a lot of complex into models for better performance"
+				},
+				{
+					"cat": "-",
+					"text": "Added additional sound and music files to games"
+				},
+				{
+					"cat": "-",
+					"text": "Made the stop button stop the music as well"
+				},
+				{
+					"cat": "-",
+					"text": "Fixed the key crashing glitch"
+				},
+				{
+					"cat": "-",
+					"text": "Made Hexagon heat larger and more manageable for the CTs, as well as a music change."
+				},
+				{
+					"cat": "-",
+					"text": "Optimised Mari says with model flags instead of Brush. The blank and lettered flags are identical in shape now."
+				},
+				{
+					"cat": "-",
+					"text": "Fixed the gun room spamming issue (deletes the gun if no one picks it up after 0.50 seconds)."
+				},
+				{
+					"cat": "-",
+					"text": "Replaced the blue isolation with a doorway into new area"
+				},
+				{
+					"cat": "-",
+					"text": "Vastly extended the map (outside area now accessible)"
+				},
+				{
+					"cat": "-",
+					"text": "Added 6 new minigames (4corners, shooting range, balloon blow up, small obstacle, dodgeball and large obstacle)"
+				},
+				{
+					"cat": "-",
+					"text": "Added a cake room for use in creative play"
+				},
+				{
+					"cat": "-",
+					"text": "Added an isolation castle on the outside area"
+				}
+			],
+			"_sText": "Special thanks to those in DTK who helped me test the changes.",
+			"_sTitle": "Extended Version Update",
+			"_tsDateAdded": 1397196716
+		}
+	],
+	"_idRow": 129687,
+	"_sName": "Ba_Mario_Party",
+	"_sText": "<h1>MAJOR UPDATE 11th April 2014</h1>\r\nI have made some major changes to the map which include a completely new area, optimization and fixes on existing games etc. Check out the updates section to see a full list.<br><br>\r\n<h2>New games added</h2>\r\n<h3>4 Corners</h3>\r\nButton is pressed and the Ts pick a corner. A corner breaks and those standing on said corner fall and die.<br><br>\r\n<h3>Shooting Range</h3>\r\nA 4 slot shooting range with deagles. Ts must shoot their way to the finish to win. Losers are automatically killed.<br><br>\r\n<h3>Obstacle (small and large)</h3>\r\nHave added a brand new obstacle course to the map. It has 4 themed stages (summer, snow, desert and castle). The difficulties range in the same manner.<br><br>\r\nThere is also a new small obstacle in the walkway to large obstacle to enjoy.<br><br>\r\n<h3>Balloon Game</h3>\r\nA simple game that replicates Bowsers balloon game. Ts press the red and green button continuously until they blow enough air to reach the end.<br><br>\r\n<h3>Dodge ball</h3>\r\nA dodgeball with giant yellow ball. Multiple balls can be spawned for additional anarchy.<br><br>\r\n<h3>Cake Room</h3>\r\nThis is not a game in the normal sense. It was added purely for creative play and allows CTs to make their own games using the cake board. Be creative!<br><br>\r\n<h2>Pictures of maps/changes:</h2>\r\n<iframe width=\"480\" height=\"360\" src=\"http://s841.photobucket.com/user/twizz0/embed/slideshow/\"></iframe>\r\n<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/bdngv5tf1UM\" frameborder=\"0\" allowfullscreen=\"\"></iframe>\r\n<h1>BA_MARIO_PARTY</h1>\r\nThis is a Jail break map the team and I have been working on for over 6 months. It is our second project completed as a team (after ba_colourful_dtk).<br><br>\r\nThe map theme is, of course, Mario Party.<br><br>\r\nWe have used many custom textures and sounds to really bring out the playfulness of the map and after rigorous testing with the DTK community, we are proud to finally release it!<br><br>\r\nI will explain a bit about what the map has to offer<br><br>\r\n<h1>General info</h1>\r\nThe main Cell area has 3 green pipe cells and 6 giant coin boxes as cells. The gun room is fitted with mini coin boxes to allow access to a wide variety of weapons.<br><br>\r\nThere are 2 isolation rooms in this map, 1 next to gun room ramp and 1 near the medical thwomps. When players teleport from a minigame, they end up in the castle isolation room.<br><br>\r\nOn the adjacent room to the cell room, there are 3 \"Medical thwomps\" that heal. These have a 1/6 chance of crushing you when you walk under them (had a lot of fun with this!).<br><br>\r\nOn the wall opposite the medical thwomps is the gun toss ramp. It looks like coins built up on the wall, but there is an invisible brush allowing antiquate room for players to walk up and toss their guns.<br><br>\r\nThere are 2 doors under the gun room that allow access to the princess' secret room. If you can find the key and guess the invisible button combination, you can access the secret platform.<br><br>\r\nThere are also 3 hidden toad pictures around the map. If you find all 3 toad pictures (reveal them by pressing e) you will enable the hidden minigame (pipe entrance rises up in main cell area).<br><br>\r\nThere is also a spray game on the wall near the Hexagon Heat entrance.<br><br>\r\n<h1>The Mini Games</h1>\r\nIt wouldn't be a Mario Party map without mini games right?<br><br>\r\nWell we have replicated some great ones for this map, see the info below!<br><br>\r\n<h2>Hexagon Heat</h2>\r\nThis game is a great one. Terrorists move onto the coloured tiles while a CT assumes control of the coloured buttons. There is an invisible wall around the game to stop players from jumping out of the game.<br><br>\r\nWhen a coloured button is pressed, the players must run to the platform before the rest fall under the lave.<br><br>\r\nThe game gets progressively faster with every push and can be reset using the reset button.<br><br>\r\n<h2>Totem Pole pound</h2>\r\nThis game is the same one from colourful. It has 4 totem poles for terrorists to race on. The first terrorist to knife the platforms to the button wins the game and gets to choose the fate of his opponents. There is an option to Save, Explode, Drown or Gas them.<br><br>\r\n<h2>Bob-omb Counting</h2>\r\nThere are 10 terminals for terrorists to use. When the start button is pressed there are a random amount of bombs that spawn for 30 seconds. You must count the bombs and input your guess before the timer runs out. <br><br>\r\nLosers are teleported into the corner.<br><br>\r\n<h2>Mario Says</h2>\r\nThis is my personal favorite. The game is the same as Shy guy says. There are 3 marios and 15 platforms in this room.<br><br>\r\nTerrorists move onto a platform each, or 2 to a platform. When the game starts, the ground will disappear and if you touch the water, you die.<br><br>\r\nThe Marios will hold up a flag every few seconds, and you must press the correct button to stay up. Failure to do so will result in your platform receding into the water.<br><br>\r\nThere are 3 outcomes with the flags. Green-A means you must press the green button, Red-B means you must press the red button, Green or Red (no letter) means you must not touch the buttons.<br><br>\r\nGame can be stopped at any time.<br><br>\r\n<h2>Platform Peril</h2>\r\nThis is a simple race game with a twist.<br><br>\r\nTerrorists move to the start line and when the game begins, they must run and jump as fast as they can to the end.<br><br>\r\nThe platforms still start to fall off as soon as the first player leaves them so try and stay in front.<br><br>\r\nWinners get to choose 4 cool hats at the end.<br><br>\r\n<h2>Shock Drop or Roll</h2>\r\nIn this game, terrorists move onto the giant cylinder in the middle of the area. The counter terrorist move into the chamber at the other end and the game begins.<br><br>\r\nThe players must balance on the cylinder while the counter-terrorists have to use arrows to change the direction and trick the terrorists.<br><br>\r\nThe game can be stopped at any time.<br><br>\r\nThere is also a hidden brush that stops players from cheating by jumping.<br><br>\r\n<h2>Hidden Mini Game - Pirate Climb</h2>\r\nThis game is unlockable by finding the 3 hidden toad stool pictures throughout the map. The pipe will appear in the cell room and players can jump in.<br><br>\r\nThere is a massive pole/ladder in the middle.<br><br>\r\nWhen the game starts, boulders will fall on each side, killing you on touch. The objective of the game is to be the first one to the top to win.<br><br>\r\n<h1>Conclusion</h1>\r\nI would like to offer a special thanks to all who were involved. I would also like to thank Squall and the DTK community for all their feedback, support and ideas during this project.<br><br>\r\nIf you would like to join a cool gaming community (NOT CLAN) then head on over to <a href=\"www.dying2kill.com.au\" title=\"www.dying2kill.com.au\" target=\"_blank\">www.dying2kill.com.au</a> and join. We are always looking for new dev recruits :)<br><br>\r\nEnjoy the map!<br><br>"
+}

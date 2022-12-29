@@ -1,0 +1,112 @@
+{
+	"_aAlternateFileSources": [
+		{
+			"description": "Map author Topic",
+			"url": "https://ip-gamers.net/topic/2652-de_object-17-maps-for-css/"
+		}
+	],
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_object-17.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 857216,
+			"_nDownloadCount": 72,
+			"_nFilesize": 5809466,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "1.3",
+			"_sDownloadUrl": "https://gamebanana.com/dl/857216",
+			"_sFile": "de_object-17v3.zip",
+			"_sMd5Checksum": "8d437fd15634eaeb1ae64b28e3f4078a",
+			"_tsDateAdded": 1661938017
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_object-17.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 849174,
+			"_nDownloadCount": 48,
+			"_nFilesize": 6077684,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "1.2",
+			"_sDownloadUrl": "https://gamebanana.com/dl/849174",
+			"_sFile": "de_object-17.zip",
+			"_sMd5Checksum": "4a98292591ee73beeec28258652b408a",
+			"_tsDateAdded": 1660546342
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_object-17.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 853436,
+			"_nDownloadCount": 20,
+			"_nFilesize": 5814554,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/853436",
+			"_sFile": "de_object-17_0b157.zip",
+			"_sMd5Checksum": "b4e26a9fc8c2f9cabf1a28f9732190eb",
+			"_tsDateAdded": 1661247402
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Improvement",
+					"text": "Re-worked T spawn boost so it can definitely be done easily."
+				},
+				{
+					"cat": "Bugfix",
+					"text": "fixed a bug with a tree looking through the wall"
+				},
+				{
+					"cat": "Optimization",
+					"text": "OPTIMIZED the skybox so that on my laptop with HDR 60-70 fps"
+				},
+				{
+					"cat": "Improvement",
+					"text": "and a little easter egg..."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Final update",
+			"_sVersion": "1.3",
+			"_tsDateAdded": 1661938218
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Optimization",
+					"text": "Skybox is optimized"
+				},
+				{
+					"cat": "Improvement",
+					"text": "On T spawn you can climb on the railing"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "de_object-17",
+			"_sVersion": "1.2",
+			"_tsDateAdded": 1661247490
+		}
+	],
+	"_idRow": 396202,
+	"_sName": "de_object-17",
+	"_sText": "Ported map from Warface, from the IP-Gamers community."
+}

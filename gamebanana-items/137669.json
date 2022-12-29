@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"rush_skyscraper_beta5.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 291982,
+			"_nDownloadCount": 1857,
+			"_nFilesize": 11993630,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/291982",
+			"_sFile": "rush_skyscraper_beta5.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1381152554
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 137669,
+	"_sName": "Rush_Skyscraper",
+	"_sText": "<iframe width=\"420\" height=\"315\" src=\"http://www.youtube.com/embed/O5AWrOYlY3c\" frameborder=\"0\" allowfullscreen></iframe>\r\n\r\nWhat is Rush?\r\n=============\r\nRush is a game type from the battlefield series, notably battlefield bad company 2 and battlefield 3.\r\n\r\nThe game type is simple: attackers destroy the bomb sites and the defenders disarm/protect them.\r\n\r\nThe game consists of 3 stages, with 2 bomb sites in each stage.<br>\r\nA majority of the map is locked off to begin with, and the attackers must destroy the 2 bomb sites in stage one before the second stage is unlocked.\r\n\r\nOnce all 3 bomb sites have been cleared, the attackers are declared the winners and the game is restarted/level is changed.\r\n\r\nEvery time an attacker spawns, a ticket is deducted from their pot. If the attackers lose 120 tickets before they progress to the next stage, they lose. Tickets are reset after each stage.\r\n\r\nThe only thing I would recommend is a mod that controls respawning and weapons. A classes script would be a benefit.\r\n\r\nThe Map\r\n=======\r\nI have based this rush map in a Skyscraper. Terrorists enter from the roof of the building while CT's start inside. There are 3 stages in this map: the office, the lab and the car park.\r\n\r\nEach stage must be cleared to progress to the next.\r\n\r\nThere are multiple entry points into each map, giving a strategic value to both the attackers and the defenders.\r\n\r\nStages: 3<br>\r\nBombs per stage: 2 <br>\r\nBomb Timer: 30 seconds <br>\r\nAttacker Spawn tickets: 120<br>\r\nProgression delay: 10 seconds\r\n\r\nThe map: developer\r\n==================\r\n\r\nThe Rush mechanics are taken care of by my prefab, but require a mod to allow respawning and weapons. The map automatically hooks round end until the map is cleared, or the tickets are reduced to 0."
+}

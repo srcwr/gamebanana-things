@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"gg_inflames.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 339511,
+			"_nDownloadCount": 1072,
+			"_nFilesize": 473550,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/339511",
+			"_sFile": "gg_inflames_2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1218305262
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 135392,
+	"_sName": "gg_inflames",
+	"_sText": "************UPDATE 1***************\r\n-fixed 2 leaks\r\n-added a small brush to level out the concrete near CT spawn\r\n-removed the credits texture because it was \"broken\" (appeared as black and purple squares)\r\n**********************************\r\n\r\nGg_inflames is a small gungame map made to look somewhat cartoonish with all custom textures except for the metal grates and the skybox.  It is pretty small mainly for a small group, I've only tested with up to 3 players per team (6 altogether).  Bots do not use the outside part mainly because they can't scale the boxes.  There are two hidden rooms one is a knife arena (breakable brush sticking out of the wall outside) and the other is a square room right outside of Terrorist spawn (the wall is a different color, shoot that).  There is no .nav file.  All custom texture are packed into the .bsp, you won't have to download them seperately.  It does include a buyzone for each team if you'd like to play with some bots in your own server.\r\n\r\nP.S. Boogle and Foogi and DearDoctorQ are the same person/user just known by different names"
+}

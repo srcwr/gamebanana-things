@@ -1,0 +1,39 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"MidMirage.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 280314,
+			"_nDownloadCount": 736,
+			"_nFilesize": 275915,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/280314",
+			"_sFile": "midmirage.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1450280244
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Changed the spawn location to speed up travel time towards mid."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "v1.1",
+			"_tsDateAdded": 1450929837
+		}
+	],
+	"_idRow": 116312,
+	"_sName": "Mid-Mirage",
+	"_sText": "An optional 1v1 map, maximum 4v4.<br><br>Inspired slightly by Mirage."
+}

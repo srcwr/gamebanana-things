@@ -1,0 +1,89 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "readme.txt",
+					"cstrike": {
+						"maps": [
+							"de_awp_ufd.bsp",
+							"de_awp_ufd.nav"
+						],
+						"materials": {
+							"UFDlogos": [
+								"testtexture.vmt",
+								"testtexture.vtf"
+							],
+							"mappictures": [
+								"de_awp_ufd001.vmt",
+								"de_awp_ufd001.vtf",
+								"de_awp_ufd002.vmt",
+								"de_awp_ufd002.vtf",
+								"de_awp_ufd003.vmt",
+								"de_awp_ufd003.vtf",
+								"de_awp_ufd004.vmt",
+								"de_awp_ufd004.vtf",
+								"de_awp_ufd005.vmt",
+								"de_awp_ufd005.vtf",
+								"de_awp_ufd006.vmt",
+								"de_awp_ufd006.vtf"
+							],
+							"photorealistic_wood": [
+								"Readme_PhotoRealistic.txt",
+								"wood051.vmt",
+								"wood051.vtf",
+								"wood053.vmt",
+								"wood053.vtf"
+							],
+							"refract": [
+								"Refractglass002_normal.vtf",
+								"refractGlass002.vmt",
+								"refractGlass002.vmt.bak",
+								"refractGlass002.vtf",
+								"refractGlass002_dudv.vtf"
+							],
+							"skybox": [
+								"sky_nightbk.vmt",
+								"sky_nightbk.vtf",
+								"sky_nightdn.vmt",
+								"sky_nightdn.vtf",
+								"sky_nightft.vmt",
+								"sky_nightft.vtf",
+								"sky_nightlf.vmt",
+								"sky_nightlf.vtf",
+								"sky_nightrt.vmt",
+								"sky_nightrt.vtf",
+								"sky_nightup.vmt",
+								"sky_nightup.vtf"
+							]
+						},
+						"sound": {
+							"admin_plugin": [
+								"boomhead.wav"
+							],
+							"quake": [
+								"boom.wav"
+							]
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 358852,
+			"_nDownloadCount": 1332,
+			"_nFilesize": 5551338,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/358852",
+			"_sFile": "de_awp_ufd.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1140133401
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 101099,
+	"_sName": "de_awp_ufd",
+	"_sText": "A map designed for practicing AWP skills."
+}

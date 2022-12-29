@@ -1,0 +1,131 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ze_quiver_v2a.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 623793,
+			"_nDownloadCount": 160,
+			"_nFilesize": 127786873,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/623793",
+			"_sFile": "ze_quiver_v2a.rar",
+			"_sMd5Checksum": "ae2d2284e41cd61f3d56e23bec649d6d",
+			"_tsDateAdded": 1627402258
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Removal",
+					"text": "Prop jump skips"
+				},
+				{
+					"cat": "Addition",
+					"text": "Minor details"
+				},
+				{
+					"cat": "Tweak",
+					"text": "Added mp_roundtime 25 command"
+				},
+				{
+					"cat": "Tweak",
+					"text": "Flying props"
+				},
+				{
+					"cat": "Tweak",
+					"text": "Cargo-elevator hold time"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Missing music trigger"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Boss hp 35 per phase"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Office windows breakable by both teams"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Office windows cliped"
+				},
+				{
+					"cat": "Improvement",
+					"text": "HDR support"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Better prop lighting"
+				},
+				{
+					"cat": "Optimization",
+					"text": "More areaportal-windows"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Version 2a",
+			"_tsDateAdded": 1627403232
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Adjustment",
+					"text": "Teleport timing"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Hold position layout"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Hold position timing"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Elevator roof break timing"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Boss health"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Helipad button"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Music volume slider"
+				},
+				{
+					"cat": "Addition",
+					"text": "Chat message"
+				},
+				{
+					"cat": "Removal",
+					"text": "Player skip"
+				},
+				{
+					"cat": "Removal",
+					"text": "Spammable button"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Version 1d",
+			"_tsDateAdded": 1618072465
+		}
+	],
+	"_idRow": 130587,
+	"_sName": "Quiver",
+	"_sText": "<br><h2 class=\"SelectedElement\">Map made for SIBGamers.net Mapping Contest #1</h2><br>Thanks to <a href=\"https://gamebanana.com/members/1342811\">Soft Serve</a> and everyone who has <br>and still is reporting any bugs.<br><br>"
+}

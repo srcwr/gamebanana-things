@@ -1,0 +1,45 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"surf_sanguine.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 460953,
+			"_nDownloadCount": 232,
+			"_nFilesize": 144492846,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/460953",
+			"_sFile": "surf_sanguine_fixedtriggers_44808.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1588572167
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Adjustment",
+					"text": "fixed trigger for s2/s3 to prevent boost"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "fixed trigger and new filter for s6 to prevent boost"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "FIXED SOME STUFF",
+			"_tsDateAdded": 1588532996
+		}
+	],
+	"_idRow": 137893,
+	"_sName": "surf_sanguine",
+	"_sText": "CSGO Version: <a href=\"https://gamebanana.com/maps/209298\">https://gamebanana.com/maps/209298</a><br><br>This map was made for the KSF spring mapping contest 2020 in 20 days total.<br><br>The contest's theme was 'sunnyhappylove' - with that in mind, you start off by leaving your office after your working hours and go through various outside and inside areas that resemble a range of free time activities or/and are nature themed.<br><br>The map is designed as a staged linear map / linear map with checkpoints.<br><br>It features six stages, but there are multiple routes to complete this map in a linear fashion.<br><br>Each route varies in difficulty as can be seen in the three linked videos below this post.<br><br>The goal was to offer experienced surfers multiple shortcut possibilities that vary in difficulty, but also give more casual surfers a good chance at beating the map.<br><br>Tier (based on a stage-by-stage completion): 3<br><br>Stages: 6<br><br>Bonuses: 1<br><br><div class=\"SelectedElement\"><b>Important: the map is intended to be played with sv_maxvelocity set to 5000 (or more since you do not reach 5000 anyway on 66 tick)</b></div><br><br><b>Important2: the map is compiled with HDR lighting only - turn HDR on or it will be fullbright<br></b><br>Here are showcases of three different routes, depending on your experience you can combine / leave out different skips that are shown in the videos - or maybe find new ones?<br><br>Stage-by-Stage Route:<br><br><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/zbKshP0_cf8\" frameborder=\"0\" allowfullscreen=\"\"></iframe><br><br>Fast-Linear Route:<br><br><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/7apT_UiwXzY\" frameborder=\"0\" allowfullscreen=\"\"></iframe><br><br>Very-Fast-Linear Route (the s3 skip is very hard):<br><br><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/8Q_lVoFKRQQ\" frameborder=\"0\" allowfullscreen=\"\"></iframe><br><br>Credits and shoutouts:<br><br>Sid - Tree models<br>Cheroke98cz - Rock models<br>Tlba - Skybox<br>ShadowSheep - Help with textures<br>Squad & Yanzl - Textures / Props from de_zoo<br>FMPONE - Textures from de_season<br>Puddy & Rick - Textures / Props from cs_agency<br>"
+}

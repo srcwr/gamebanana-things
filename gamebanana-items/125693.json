@@ -1,0 +1,31 @@
+{
+	"_aAlternateFileSources": [
+		{
+			"url": "http://download1643.mediafire.com/xxf6gq9atagg/lddl3j23l820qfn/bhop_overline.zip"
+		}
+	],
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"bhop_overline.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 282167,
+			"_nDownloadCount": 1060,
+			"_nFilesize": 7353129,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/282167",
+			"_sFile": "bhop_overline.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1437828632
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 125693,
+	"_sName": "bhop_overline",
+	"_sText": "<p>\"Wow another shitty defrag port by pcpie\"</p>\r\n<p>No, this time its not a port.</p>\r\n<p>Or well, it is.</p>\r\n<p>Let me explain.</p>\r\n<p>This is a little project i decided to do. My goal was to make a map in <a href=\"https://projectrik.com/\" target=\"_blank\">projectrik</a>, and after im done with it port it to css.\r\nAnd try to make the gameplay work on both games without changing any brushes. I thought it would be fun to do, as i play and map for both games. It took me a long time to figure out the gameplay,\r\nBut i finally came up with something. The map has many routes you can take, and some might be faster in rik and some faster in css.</p>\r\n<hr>\r\n<p>\"what the hell is this projectrik game you are talking about?\"</p>\r\n<p><a href=\"https://projectrik.com\" target=\"_blank\">https://projectrik.com</a></p>\r\n<p><a href=\"https://projectrik.com/forum/little-project-i-did-with-pcpie-overline\" target=\"_blank\">https://projectrik.com/forum/little-project-i-did-with-pcpie-overline</a></p>\r\n<p>copy paste from the site:</p>\r\n<p>\"ProjectRIK is an FPS style racing game focused entirely around different types of movement.\r\nThere is no fragging or killing.\r\nThe basis of the game is competing for the fastest time on different 'runs'. In addition to the fairly challenging methods of gaining speed, there is also a wide variety of tricks you can perform. Multiple types of walljumps, halfjumps, crouchsliding, sloperunning, doublejumps, powerjumps, and so on. Surfing, along the lines of Counter-strike is also possible!\r\nMore movement related features will be added down the line ;) But coming up soon is the Circuit gametype (Mario kart-ish)!\r\nOh, and it's completely free!\"</p>\r\n<p>It has similar movement to defrag and its surprisingly easy to learn, I'd recommend trying it out.</p>\r\n<p>However, it is still in beta. So there is no GUI yet</p>\r\n<hr>\r\n<p>The map in projectrik:</p>\r\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/LJwd6TymnIc\" frameborder=\"0\" allowfullscreen=\"\"></iframe><div><br></div><div>The map in css:</div><div><br></div><div><br>\r\n<hr><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/0RGi_nv1dBw\" frameborder=\"0\" allowfullscreen=\"\"></iframe>\r\n<p>Csgo downloads: </p>\r\n<p><a href=\"http://download1519.mediafire.com/4za55gfccdng/e7mifp8gy793ip9/csgo_bhop_overline.zip\" target=\"_blank\">http://download1519.mediafire.com/4za55gfccdng/e7mifp8gy793ip9/csgo_bhop_overline.zip</a></p>\r\n<p><a href=\"http://steamcommunity.com/sharedfiles/filedetails/?id=487870461\" target=\"_blank\">http://steamcommunity.com/sharedfiles/filedetails/?id=487870461</a></p>\r\n<p>The map is about 33 secs long, and possible on scroll (not on 400vel)</p>\r\n<p>Bsp size is 39mb because i had to use the RGBA8888 .vtf format for the skyboxes, otherwise they would look weird </p>\r\n<p>Enjoy!</p></div>"
+}

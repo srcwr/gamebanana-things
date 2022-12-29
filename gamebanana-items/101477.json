@@ -1,0 +1,148 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "credits.txt",
+					"maps": {
+						"0": "de_chernobylnpp_beta.bsp",
+						"soundcache": [
+							"_other.cache",
+							"_other_rebuild.cache",
+							"_sharedprecache.cache",
+							"cs_havana.cache",
+							"cs_havana.manifest",
+							"cs_italy.cache",
+							"cs_italy.manifest",
+							"cs_office.cache",
+							"cs_office.manifest",
+							"de_aztec.cache",
+							"de_aztec.manifest",
+							"de_cbble.cache",
+							"de_cbble.manifest",
+							"de_chateau.cache",
+							"de_chateau.manifest",
+							"de_chernobylnpp_b.cache",
+							"de_chernobylnpp_b1.cache",
+							"de_chernobylnpp_b12.cache",
+							"de_chernobylnpp_b13.cache",
+							"de_chernobylnpp_beta.cache",
+							"de_dust.cache",
+							"de_dust.manifest",
+							"de_dust2.cache",
+							"de_dust2.manifest",
+							"de_piranesi.cache",
+							"de_piranesi.manifest",
+							"de_prodigy.cache",
+							"de_prodigy.manifest",
+							"de_tides.cache",
+							"de_tides.manifest",
+							"particle_benchmark.cache",
+							"test_hardware.cache",
+							"test_hardware.manifest",
+							"test_speakers.cache",
+							"test_speakers.manifest"
+						]
+					},
+					"materials": {
+						"chernobyl": {
+							"metal": [
+								"metal_2.vmt",
+								"metal_2.vtf",
+								"mtl_sarcofag.vmt",
+								"mtl_sarcofag.vtf"
+							]
+						},
+						"models": {
+							"0": "0c961cff.vmt",
+							"1": "0c961cff.vtf",
+							"10": "820d0e3b.vmt",
+							"11": "820d0e3b.vtf",
+							"12": "8cfbae18.vmt",
+							"13": "8cfbae18.vtf",
+							"14": "8d537e84.vmt",
+							"15": "8d537e84.vtf",
+							"16": "8e347e52.vmt",
+							"17": "8e347e52.vtf",
+							"18": "9893419d.vmt",
+							"19": "9893419d.vtf",
+							"2": "2be3c9fd.vmt",
+							"20": "c5a41cf9.vmt",
+							"21": "c5a41cf9.vtf",
+							"22": "c715e5bb.vmt",
+							"23": "c715e5bb.vtf",
+							"24": "f68a6778.vmt",
+							"25": "f68a6778.vtf",
+							"26": "metal_4.vmt",
+							"27": "metal_4.vtf",
+							"28": "mtl_sarcofag.vmt",
+							"29": "mtl_sarcofag.vtf",
+							"3": "2be3c9fd.vtf",
+							"30": "mtl_sarcofag_01_bump.vtf",
+							"4": "3f7f6258.vmt",
+							"5": "3f7f6258.vtf",
+							"6": "51df044b.vmt",
+							"7": "51df044b.vtf",
+							"8": "726f85f5.vmt",
+							"9": "726f85f5.vtf",
+							"_outdoor": {
+								"pflanzen": [
+									"baum01a.vmt",
+									"baum01a.vtf",
+									"baum01b.vmt",
+									"baum01b.vtf",
+									"baum01c.vmt",
+									"baum01c.vtf",
+									"baum01d.vmt",
+									"baum01d.vtf",
+									"baum01e.vmt",
+									"baum01e.vtf",
+									"baum01f.vmt",
+									"baum01f.vtf",
+									"baum01g.vmt",
+									"baum01g.vtf"
+								]
+							}
+						}
+					},
+					"models": [
+						"chernobyl.dx80.vtx",
+						"chernobyl.dx90.vtx",
+						"chernobyl.mdl",
+						"chernobyl.phy",
+						"chernobyl.sw.vtx",
+						"chernobyl.vvd",
+						"chernobyl_block.dx80.vtx",
+						"chernobyl_block.dx90.vtx",
+						"chernobyl_block.mdl",
+						"chernobyl_block.phy",
+						"chernobyl_block.sw.vtx",
+						"chernobyl_block.vvd",
+						"schornstein.dx80.vtx",
+						"schornstein.dx90.vtx",
+						"schornstein.mdl",
+						"schornstein.phy",
+						"schornstein.sw.vtx",
+						"schornstein.vvd"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 347368,
+			"_nDownloadCount": 2710,
+			"_nFilesize": 28708864,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/347368",
+			"_sFile": "de_chernobyl_beta.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1194113086
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 101477,
+	"_sName": "de_chernobylnpp_beta",
+	"_sText": "In the next Beta there will be some updates.\r\nI`ve added an 3d Skybox now but it is looking not that nice as i want it.\r\nBeta 2 is coming at the 24th December 2007."
+}

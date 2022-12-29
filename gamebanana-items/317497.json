@@ -1,0 +1,33 @@
+{
+	"_aAlternateFileSources": [
+		{
+			"description": "Itch.io",
+			"url": "https://rgb-valve.itch.io/surf-the-hole"
+		}
+	],
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"surf_the_hole.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 646187,
+			"_nDownloadCount": 122,
+			"_nFilesize": 476190,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/646187",
+			"_sFile": "surf_the_hole.zip",
+			"_sMd5Checksum": "388c2a2ad25426a5897679d34611d9d6",
+			"_tsDateAdded": 1630116691
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 317497,
+	"_sName": "surf_the_hole",
+	"_sText": "Inspired By Mariowned's surf_the_gap<br>A Simple 2 stage surfing map for counter strike source<br><br>Do not set sv_airaccelerate to 15 (default)<br>Use a minimum of sv_airaccelerate 20 or else it won't work<br>bigger the number, the more you will hold on<br><br>(I don't know how to map for goldsrc)<br><br>Made In Hammerplusplus"
+}

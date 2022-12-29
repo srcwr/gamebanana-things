@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"zm_natalyas_ship_v2a.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 344970,
+			"_nDownloadCount": 2711,
+			"_nFilesize": 14625207,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/344970",
+			"_sFile": "zm_natalyas_ship_v2a.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1201080323
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 132425,
+	"_sName": "zm_natalyas_ship_v2a",
+	"_sText": "<font color=\"#6666FF\" face=\"arial\"><b>zm_natalyas_ship_v2a</b>\r\n\r\n<font color=\"#FF0000\" face=\"arial\"><b>ATTENTION:</b>\r\nI have released an updated version of this map.  Please go download it instead:\r\n<a href=\"http://www.fpsbanana.com/maps/54958\">zm_natalyas_ship_v3</a></font>\r\n\r\nThis is the second version.  I made this version because there were a number of minor problems with the first version, and, most importantly, the boat did not work properly.\r\n\r\n\r\nIn This Version:\r\n48 Spawns (4 Areas)\r\nCubemaps\r\nRadar Map\r\nHDR Lighting\r\n2 Drivable Boats\r\nVideo of the Map\r\nModified Secret\r\nNew Camping Spots\r\nsv_turbophysics 0\r\nNew Crate Skins\r\n\r\n\r\nBecause of the two 100% functional drivable boats I had to have a point_servercommand set sv_turbophysics to 0.  This causes a number of problems involving barricades...  Zombies can no longer pull on objects, but can walk into them and push them that way.  This is not conducive to barricade play.  As such, I updated the map with some more climbing camping spots and modified a few existing ones for firewalls.  The map is now a more difficult map overall, but it will also be a lot more fun.  :)\r\n\r\nLike the older version, this map has custom Cargo Container and Vending Machine skins built in.  They only appear on this map and won't over-write any skins you already have.  This one has two different cargo container skins from the last one...  A 1337 UP container in place of the DHL, and another Umbrella container.  There is also a flag skin (The Latvian Flag) and a plasma tv skin.\r\n\r\nOther notes:\r\n-Nav isn't paked with the map.  If you want it, get the nav separately <a href=\"http://www.Aura-Forums.com/cstrike/zm_natalyas_ship_v2a.nav\">here</a>.\r\n-The only bug I've seen so far is that a desk doesn't appear in the command portion of the ship.\r\n\r\n\r\nIf you have any problems don't hesitate to let me know.  As far as I can tell there are no texture packing errors like there were with the previous version, but occasionally someone will say they don't have them so speak up if you don't.\r\n\r\n\r\n\r\nHave Fun!!\r\n\r\n*EDIT*\r\nI have added a gameplay video...  Shows you how the boats might work on a reload server with !propmenu.  There were only 4 or 5 of us playing though...  I haven't played on a full server so we've yet to see what that will be like.</font>\r\n\r\n\r\n\r\n<object id=\"MediaPlayer\" width=720 height=480 classid=\"CLSID:22D6f312-B0F6-11D0-94AB-0080C74C7E95\" standby=\"Eating Chicken...\" type=\"application/x-oleobject\" codebase=\"http://activex.microsoft.com/activex/controls/mplayer/en/nsmp2inf.cab#Version=6,4,7,1112\">\r\n<param name=\"filename\" value=\"http://www.Aura-Forums.com/cstrike/zm_natalyas_ship_v2a.wmv\">\r\n<param name=\"Showcontrols\" value=\"False\">\r\n<param name=\"autoStart\" value=\"False\">\r\n<embed type=\"application/x-mplayer2\" src=\"http://www.Aura-Forums.com/cstrike/zm_natalyas_ship_v2a.wmv\" name=\"MediaPlayer\" width=720 height=480></embed>\r\n</object>"
+}

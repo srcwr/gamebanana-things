@@ -1,0 +1,44 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"ba_field": {
+						"maps": [
+							"ba_field.bsp",
+							"ba_field.nav"
+						],
+						"materials": {
+							"overviews": [
+								"ba_field.vmt",
+								"ba_field.vtf"
+							]
+						},
+						"resource": {
+							"overviews": [
+								"ba_field.txt"
+							]
+						}
+					}
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 352840,
+			"_nDownloadCount": 3938,
+			"_nFilesize": 7652963,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/352840",
+			"_sFile": "ba_field.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1173819014
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 119673,
+	"_sName": "ba_field",
+	"_sText": "This is a BA map.\r\nThis map has a bunker(ct),base(t),underground are and the field.\r\n\r\nYou can rush through the field (not good for you),or go through the underground.\r\n\r\n!At the start of a round the map lags a bit because it use displacements\r\nso it's hard to make areaportals!\r\nAftet the lag it works fine :D\r\nEnjoy :D"
+}

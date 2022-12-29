@@ -1,0 +1,94 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"zm_dust2_fix.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 418828,
+			"_nDownloadCount": 212,
+			"_nFilesize": 12754708,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "version 1.1",
+			"_sDownloadUrl": "https://gamebanana.com/dl/418828",
+			"_sFile": "zm_dust2_fix_1c284.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1556947985
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"zm_dust2_fix_v2": {
+						"fastdl": {
+							"maps": [
+								"zm_dust2_fix_v2.bsp.bz2",
+								"zm_dust2_fix_v2.nav.bz2"
+							]
+						},
+						"server": {
+							"maps": [
+								"zm_dust2_fix_v2.bsp",
+								"zm_dust2_fix_v2.nav"
+							]
+						}
+					}
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 452980,
+			"_nDownloadCount": 133,
+			"_nFilesize": 31281767,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "version 2.0",
+			"_sDownloadUrl": "https://gamebanana.com/dl/452980",
+			"_sFile": "zm_dust2_fix_v2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1584478426
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Optimization",
+					"text": "Brush optimization"
+				},
+				{
+					"cat": "Addition",
+					"text": "Fog"
+				},
+				{
+					"cat": "Addition",
+					"text": "Old textures have been replaced with new ones"
+				},
+				{
+					"cat": "Addition",
+					"text": "News secrets"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Small bugs"
+				},
+				{
+					"cat": "Addition",
+					"text": "Sun and light"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Release",
+			"_tsDateAdded": 1584478570
+		}
+	],
+	"_idRow": 131738,
+	"_sName": "zm_dust2_fix",
+	"_sText": "<b><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</b>HISTORY UPDATES</b><br><i>Version 1.1</i><br><ul><li><span class=\"GreenColor\">Fixed bugs</span><br><br></li></ul><i>Version 2.0</i><br><ul><li class=\"SelectedElement\"><span class=\"GreenColor\">Added optimization</span></li><li><span class=\"GreenColor\">Added fog</span></li><li><span class=\"GreenColor\">Old textures have been replaced with new ones</span><br></li><li><span class=\"GreenColor\">Added news secrets</span></li><li><span class=\"GreenColor\">Fix small bugs</span></li><li><span class=\"GreenColor\">Added sun and lighs</span></li></ul>"
+}

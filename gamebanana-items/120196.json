@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_fun_stairs_v01.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 304866,
+			"_nDownloadCount": 2125,
+			"_nFilesize": 2795055,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/304866",
+			"_sFile": "de_fun_stairs_v01.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1330099102
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 120196,
+	"_sName": "A High Building",
+	"_sText": "There is a high building between the two teams, which has to be destroyed by the terrorists. The bomb can be placed on every floor of the building. When the bomb is placed, there should be \"lights\" outside of the building on that floor, which signal on which floor the bomb was placed.\r\nTo get to each floor you can either use the stairs (inside or outside) or use the elevator (which has some minor bugs).\r\n\r\nI was a bit bored so I just started building a house. I realized that it could be made to an high rise building, so i made one.\r\n\r\nFor now i think the terrorist side has an advantage because their spawn is closer to the building. I will change that in the future :).\r\nI will also try to add a 3d skybox.\r\n\r\nelevator used: \r\n[https://developer.valvesoftware.com/wiki/Multi-stop_elevators](https://developer.valvesoftware.com/wiki/Multi-stop_elevators \"\")\r\n\r\nI copied and modified it.\r\n\r\nIf you know how to make the map more dark, or even night pls tell me :).\r\n\r\nSteam: Dustin012"
+}

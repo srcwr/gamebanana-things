@@ -1,0 +1,77 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "arabicstreets_readme.txt",
+					"1": "de_arabicstreets0000.jpg",
+					"2": "de_arabicstreets0003.jpg",
+					"3": "de_arabicstreets0006.jpg",
+					"4": "de_arabicstreets0007.jpg",
+					"maps": [
+						"de_arabicstreets.bsp",
+						"de_arabicstreets.nav",
+						"de_arabicstreets.res",
+						"de_arabicstreets.txt"
+					],
+					"materials": {
+						"de_arabicstreets": [
+							"deepblue.vmt",
+							"deepblue.vtf"
+						],
+						"models": {
+							"chopper": [
+								"blackhawk.vmt",
+								"blackhawk.vtf",
+								"blackhawk_ref.vtf"
+							]
+						},
+						"overviews": [
+							"de_arabicstreets.vmt",
+							"de_arabicstreets.vtf",
+							"de_arabicstreets_radar.vmt",
+							"de_arabicstreets_radar.vtf"
+						]
+					},
+					"models": {
+						"chopper": [
+							"blackhawk.dx80.vtx",
+							"blackhawk.dx90.vtx",
+							"blackhawk.mdl",
+							"blackhawk.phy",
+							"blackhawk.sw.vtx",
+							"blackhawk.vmt",
+							"blackhawk.vvd"
+						]
+					},
+					"resource": {
+						"overviews": [
+							"de_arabicstreets.txt"
+						]
+					},
+					"sound": {
+						"de_arabicstreets": [
+							"arabmusic.wav"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 357315,
+			"_nDownloadCount": 3071,
+			"_nFilesize": 8465993,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/357315",
+			"_sFile": "_4574-.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1152785962
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 101038,
+	"_sName": "de_arabicstreets *UPDATED*",
+	"_sText": "de_arabicstreets\r\n*****************************************\r\n\r\nMapping by DeepBlue\r\nHelicopter Model by L.Duke\r\n\r\n*****************************************\r\n\r\nThis is my first map, i hope you like it. The map based on fast gameplay without being a fun map.\r\n\r\n*****************************************\r\n\r\nStory:\r\n\r\nTerrorist get very dangerous weapons and bombs in their hands, \r\na international anti-terror troop landed with a helicopter to save the weapons. \r\nThe Terrorist want to blow them up,\r\nbecause they have no possibility to transport them yet.\r\n\r\nCounter-Terrorists: Prevent Terrorists\r\nfrom bombing one of the targets.\r\nTeam members must defuse any bombs \r\nthat threaten targeted areas.\r\n\r\nTerrorists: The Terrorist carrying the\r\nC4 must employ the bomb on one of the targets. \r\n\r\nOther Notes: There are 2 Targets in this mission.\r\n\r\n*****************************************\r\n\r\nInstall: Extract this zip file into your cstrike directory.\r\nThe bsp file have to be in the counter-strike source/cstrike/maps folder.\r\n\r\n*****************************************\r\n\r\n(Minor) Update 5 May 2011:\r\n+ Map overview and radar image added\r\n+ Changed easteregg\r\n+ updated RES-file\r\n+ updated readme\r\n\r\n\r\nChanges since Beta2:\r\n\r\nAdded/changed:\r\n+ HDR lightning and sky\r\n+ Complete navigation file with place names\r\n+ New way to Bombspot A\r\n+ New roof and windows for the big house\r\n+ You are not longer able to throw grenades and flashes over the long wall\r\n+ Lights at T Spawn and in the small house at bombsite a\r\n+ Helicopter is now animated\r\n+ Many map optimizations\r\n+ New story for the map\r\n\r\nand much more...\r\n\r\nHave Fun!"
+}

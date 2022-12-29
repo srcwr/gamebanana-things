@@ -1,0 +1,43 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"maps": [
+						"de_sweat.bsp",
+						"de_sweat.nav",
+						"de_sweat.txt"
+					],
+					"materials": {
+						"overviews": [
+							"de_sweat.vmt",
+							"de_sweat.vtf"
+						]
+					},
+					"resource": {
+						"overviews": [
+							"de_sweat.txt"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 592699,
+			"_nDownloadCount": 541,
+			"_nFilesize": 110851415,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/592699",
+			"_sFile": "de_sweat.zip",
+			"_sMd5Checksum": "8f77d630e60ee7df8a8085ee1a80df62",
+			"_tsDateAdded": 1623808814
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 295712,
+	"_sName": "Sweatshop",
+	"_sText": "Sweatshop - Bomb/Defuse<br><br>de_sweat.bsp<br><br>Terrorists: Make your way from the backstreets<br>into either of the two weapon stashes before the <br>Defense canseize your operations. There is a <br>delivery parked at each stop, so plant the C4 <br>at either siteand it should take care <br>of any major evidence.<br><br>Counter-Terrorists: <br><br>Enter the facility<br>from the lower parking lot, not far from<br>where the reported trafficking is taking place.<br><br>This is the finalized version of Sweatshop, which I actually ported to CS:GO for fun. I figured it was more optimized and played much better with the new layout changes, so her its is back to Source!<br><br>Includes:<br><br><ul><li>New environment lighting</li><li>Assets brought over from the CS:GO version</li><li>New paths to each bombsite</li><li>Second Mid is now open</li><li>Heavy aesthetic changes</li><li class=\"SelectedElement\">New custom skybox texture</li></ul>"
+}

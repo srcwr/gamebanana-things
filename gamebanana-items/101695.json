@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ReadMe.txt",
+					"de_cruise_beta3.bsp",
+					"de_cruise_beta3.txt"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 355718,
+			"_nDownloadCount": 1647,
+			"_nFilesize": 3087653,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/355718",
+			"_sFile": "de_cruise.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1160733097
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 101695,
+	"_sName": "de_cruise_beta3",
+	"_sText": "Map created by [oap] Agent Smith\r\nMAP \t: DE_Cruise_Beta3\r\nVersion : 0.33\r\nDate\t: 25/02/04\r\n\r\nTo Install,\r\n\r\nextract the files to \r\nC:\\Program Files\\Valve\\Steam\\SteamApps\\STEAM@USERID\\\r\ncounter-strike source\\cstrike\\maps\r\n\r\nScenario.\r\n\r\nInternational terrorists have stowed away on a cruise ship\r\nLate one evening the break cover with the intention sinking\r\nthe ship while it is far off-shore.\r\n\r\nTips\r\n\r\nSite A is at the very rear of the ship behind the last row of\r\nbenches\r\n\r\nSite B is in the control tower accesible via the escape ladder\r\nor elevator from the dining room.\r\n\r\nYou can climb up into the helicopter but be careful the ropes\r\nare blowing in the wind and can be hard to climb.\r\n\r\nIn the engine room there are 3 switches that control the lights\r\non the 3 decks of the ship, use these to plunge the ship into\r\ndarkness and use the shadows.\r\n\r\nIf you get stuck in the eleveator to the control room there is\r\na flap in the roof to escape.\r\n\r\nThere is a horn in the control tower and though fun will alert\r\neveryone to your location.\r\n\r\n\r\n** Change Log **\r\n\r\n25/02/05 Third and final beta release version : 0.33\r\n\r\n** ISSUES FIXED IN THE THIS RELEASE **\r\n\r\nLighting on models and glowing entitys fixed \r\nComputer textures in control tower\r\nSome great advances in FPS internal decks are much better on FPS outter deck is still heavy but is better \r\nGreen water for some users : Water completley re-done \r\nStrange Terrorist spawn in engineroom with no buyzone \r\nSome Texture updates \r\nSlight pause in control towere elevator to allow doors to close before the elevator moves as its still too deadly! \r\nTerrorist elevator switches re modeled\r\nBar furniture\r\nMore detail in engine room\r\nDining area food counters re textured and food put on\r\n\r\n** KNOWN ISSUES TO FIX ** \r\n\r\nDiving board physics \r\nBench / Deck Chair models\r\nMore performance increase ( aim is 70-90 fps on a P43.2, 512mb, 5900, currently 50 )\r\n\r\n\r\n10/02/05 Second Beta Release Version : 0.23\r\n\r\n** ISSUES FIXED IN THE THIS RELEASE **\r\n\r\nSupport for 40 players ( good luck with that! )\r\nControl tower elevator shaft textures\r\nFire escape ladder\r\nLighting issues, bad reflections ( All Lighting now overhauled )\r\nEngines / Generators textures\r\nDeck textures\r\nLip arround pool to make the transition less harsh\r\nPool textures\r\n2nd Door into control room\r\nlights now emitting light from the right area\r\n3D skybox including Water surrounding ship\r\nNew Sky and new sunlight position\r\nElevator shaft now has doors that open when lift arrives (can be forced open)\r\nGeneral textures around ship improved\r\nHelicopter too dark, added light inside\r\nPerformance Increase (Average 30-40fps)\r\nSome deck loungers removed to aid performance\r\nFog added to recduce cpu textureload ( also makes sniping from helicopter more tricky)\r\nControl tower completly rebuilt, a bit blocky but returns good fps increase\r\nControl tower is now destructable (when T bomb goes off duck!)\r\nEngine room models not lighting properly\r\n\r\n\r\n23/01/05 First Beta Released Version : 0.01\r\n\r\nMap created by [oap] Agent Smith,\r\nVisit the [oap] clan at www.theoapclan.co.uk\r\nAnd www.iwannamap.com\r\nFeedback / bug reports welcome"
+}

@@ -1,0 +1,340 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "de_sonora-readme.txt",
+					"1": "de_westtest0016.jpg",
+					"2": "de_westtest_Bsite.jpg",
+					"counter-strike source": {
+						"cstrike": {
+							"maps": [
+								"de_sonora.bsp",
+								"de_sonora.nav"
+							],
+							"materials": {
+								"models": {
+									"props_west": {
+										"Bskull": [
+											"Bskull.vmt",
+											"Bskull.vtf"
+										],
+										"buttress": [
+											"buttress.vmt",
+											"buttress.vtf"
+										],
+										"cboy_boots": [
+											"cboy_boots.vmt",
+											"cboy_boots.vtf",
+											"spurs.vmt",
+											"spurs.vtf"
+										],
+										"eastwood": [
+											"eastwood.vmt",
+											"eastwood.vtf"
+										],
+										"g_store": [
+											"g_store.vmt",
+											"g_store.vtf"
+										],
+										"guitarra": [
+											"guitarra.vmt",
+											"guitarra.vtf"
+										],
+										"mariachi": [
+											"mariachi.vmt",
+											"mariachi.vtf"
+										],
+										"papelpicado": [
+											"papelpicado.vmt",
+											"papelpicado.vtf"
+										],
+										"peppers": [
+											"peppers.vmt",
+											"peppers.vtf"
+										],
+										"pickaxe": [
+											"pickaxe.vmt",
+											"pickaxe.vtf"
+										],
+										"saloon_door": [
+											"saloon_door.vmt",
+											"saloon_door.vtf"
+										],
+										"sombrero": [
+											"sombrero.vmt",
+											"sombrero.vtf"
+										],
+										"test": [
+											"test.vmt",
+											"test.vtf"
+										],
+										"tombstone": [
+											"tombstone.vmt",
+											"tombstone.vtf"
+										],
+										"wagon_cloth": [
+											"wagon_cloth.vmt",
+											"wagon_cloth.vtf"
+										],
+										"water_jug": [
+											"water_jug.vmt",
+											"water_jug.vtf"
+										],
+										"west_cactus": [
+											"west_cactus.vmt",
+											"west_cactus.vtf"
+										],
+										"west_cactus2": [
+											"west_cactus2.vmt",
+											"west_cactus2.vtf"
+										],
+										"west_cactus3": [
+											"west_cactus3.vmt",
+											"west_cactus3.vtf"
+										],
+										"west_wagon": [
+											"west_wagon.vmt",
+											"west_wagon.vtf"
+										],
+										"weststeps": [
+											"weststeps.vmt",
+											"weststeps.vtf",
+											"westtile.vmt",
+											"westtile.vtf"
+										]
+									},
+									"westhat": [
+										"westhat.vmt",
+										"westhat.vtf"
+									]
+								},
+								"west": [
+									"Woodgrainwest2.vmt",
+									"Woodgrainwest2.vtf",
+									"bluewoodside.vmt",
+									"bluewoodside.vtf",
+									"drymud.vmt",
+									"drymud.vtf",
+									"grassfloorwest.vmt",
+									"grassfloorwest.vtf",
+									"leatherwest.vmt",
+									"leatherwest.vtf",
+									"mextile.vmt",
+									"mextile.vtf",
+									"mextile2.vmt",
+									"mextile2.vtf",
+									"redplasterwest.vmt",
+									"redplasterwest.vtf",
+									"redwesttile.vmt",
+									"redwesttile.vtf",
+									"rewoodwest.vmt",
+									"rewoodwest.vtf",
+									"rockwallwest.vmt",
+									"rockwallwest.vtf",
+									"rockwallwest2.vmt",
+									"rockwallwest2.vtf",
+									"rockwestblend.vmt",
+									"skycactus.vmt",
+									"skycactus.vtf",
+									"stoneblockwest.vmt",
+									"stoneblockwest.vtf",
+									"west_Tan.vmt",
+									"west_Tan.vtf",
+									"west_sandblend.vmt",
+									"west_sandblend2.vmt",
+									"west_skyblendbox.vmt",
+									"west_wallpaper.vmt",
+									"west_wallpaper.vtf",
+									"westmud.vmt",
+									"westmud.vtf",
+									"westorangewall2.vmt",
+									"westorangewall2.vtf",
+									"westorangewood.vmt",
+									"westorangewood.vtf",
+									"westsand.vmt",
+									"westsand.vtf",
+									"westsand_grassblend.vmt",
+									"westtile.vmt",
+									"westtile.vtf",
+									"westtilered.vmt",
+									"westtilered.vtf",
+									"westwallorange.vmt",
+									"westwallorange.vtf",
+									"westwallorangebrick.vmt",
+									"westwallorangebrick.vtf",
+									"woodgrainwest.vmt",
+									"woodgrainwest.vtf",
+									"woodwallwest2.vmt",
+									"woodwallwest2.vtf",
+									"woodwest.vmt",
+									"woodwest.vtf",
+									"wornwoodwest.vmt",
+									"wornwoodwest.vtf"
+								]
+							},
+							"models": {
+								"props_west": [
+									"Bskull.dx80.vtx",
+									"Bskull.dx90.vtx",
+									"Bskull.phy",
+									"Bskull.sw.vtx",
+									"bskull.mdl",
+									"bskull.vvd",
+									"buttress.dx80.vtx",
+									"buttress.dx90.vtx",
+									"buttress.mdl",
+									"buttress.phy",
+									"buttress.sw.vtx",
+									"buttress.vvd",
+									"buttress2.dx80.vtx",
+									"buttress2.dx90.vtx",
+									"buttress2.mdl",
+									"buttress2.phy",
+									"buttress2.sw.vtx",
+									"buttress2.vvd",
+									"cboy_boot.dx80.vtx",
+									"cboy_boot.dx90.vtx",
+									"cboy_boot.mdl",
+									"cboy_boot.phy",
+									"cboy_boot.sw.vtx",
+									"cboy_boot.vvd",
+									"eastwood.dx80.vtx",
+									"eastwood.dx90.vtx",
+									"eastwood.mdl",
+									"eastwood.phy",
+									"eastwood.sw.vtx",
+									"eastwood.vvd",
+									"g_store.dx80.vtx",
+									"g_store.dx90.vtx",
+									"g_store.mdl",
+									"g_store.phy",
+									"g_store.sw.vtx",
+									"g_store.vvd",
+									"guitarra.dx80.vtx",
+									"guitarra.dx90.vtx",
+									"guitarra.mdl",
+									"guitarra.phy",
+									"guitarra.sw.vtx",
+									"guitarra.vvd",
+									"mariachi.dx80.vtx",
+									"mariachi.dx90.vtx",
+									"mariachi.mdl",
+									"mariachi.phy",
+									"mariachi.sw.vtx",
+									"mariachi.vvd",
+									"papelpicado.dx80.vtx",
+									"papelpicado.dx90.vtx",
+									"papelpicado.mdl",
+									"papelpicado.phy",
+									"papelpicado.sw.vtx",
+									"papelpicado.vvd",
+									"peppers.dx80.vtx",
+									"peppers.dx90.vtx",
+									"peppers.mdl",
+									"peppers.phy",
+									"peppers.sw.vtx",
+									"peppers.vvd",
+									"pickaxe.dx80.vtx",
+									"pickaxe.dx90.vtx",
+									"pickaxe.mdl",
+									"pickaxe.phy",
+									"pickaxe.sw.vtx",
+									"pickaxe.vvd",
+									"saloon_door.dx80.vtx",
+									"saloon_door.dx90.vtx",
+									"saloon_door.mdl",
+									"saloon_door.phy",
+									"saloon_door.sw.vtx",
+									"saloon_door.vvd",
+									"sombrero.dx80.vtx",
+									"sombrero.dx90.vtx",
+									"sombrero.mdl",
+									"sombrero.phy",
+									"sombrero.sw.vtx",
+									"sombrero.vvd",
+									"test.dx80.vtx",
+									"test.dx90.vtx",
+									"test.mdl",
+									"test.phy",
+									"test.sw.vtx",
+									"test.vvd",
+									"tombstone.dx80.vtx",
+									"tombstone.dx90.vtx",
+									"tombstone.mdl",
+									"tombstone.phy",
+									"tombstone.sw.vtx",
+									"tombstone.vvd",
+									"wagon_cloth.dx80.vtx",
+									"wagon_cloth.dx90.vtx",
+									"wagon_cloth.mdl",
+									"wagon_cloth.sw.vtx",
+									"wagon_cloth.vvd",
+									"water_jug.dx80.vtx",
+									"water_jug.dx90.vtx",
+									"water_jug.mdl",
+									"water_jug.phy",
+									"water_jug.sw.vtx",
+									"water_jug.vvd",
+									"west_cactus.dx80.vtx",
+									"west_cactus.dx90.vtx",
+									"west_cactus.mdl",
+									"west_cactus.phy",
+									"west_cactus.sw.vtx",
+									"west_cactus.vvd",
+									"west_cactus2.dx80.vtx",
+									"west_cactus2.dx90.vtx",
+									"west_cactus2.mdl",
+									"west_cactus2.phy",
+									"west_cactus2.sw.vtx",
+									"west_cactus2.vvd",
+									"west_cactus3.dx80.vtx",
+									"west_cactus3.dx90.vtx",
+									"west_cactus3.mdl",
+									"west_cactus3.phy",
+									"west_cactus3.sw.vtx",
+									"west_cactus3.vvd",
+									"west_wagon.dx80.vtx",
+									"west_wagon.dx90.vtx",
+									"west_wagon.mdl",
+									"west_wagon.phy",
+									"west_wagon.sw.vtx",
+									"west_wagon.vvd",
+									"weststeps.dx80.vtx",
+									"weststeps.dx90.vtx",
+									"weststeps.mdl",
+									"weststeps.sw.vtx",
+									"weststeps.vvd"
+								],
+								"westhat": [
+									"westhat.dx80.vtx",
+									"westhat.dx90.vtx",
+									"westhat.mdl",
+									"westhat.phy",
+									"westhat.sw.vtx",
+									"westhat.vvd"
+								]
+							}
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 359168,
+			"_nDownloadCount": 2188,
+			"_nFilesize": 12216297,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/359168",
+			"_sFile": "de_sonora.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1136862540
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 104054,
+	"_sName": "de_sonora",
+	"_sText": "Counter-Strike Source\r\n----------------------\r\nTitle- de_sonora\r\nAuthor- Kirschtorte\r\nemail- EnchantingWizardOfRhythm@hotmail.com\r\n\r\n-Description-\r\nde_sonora is a map set in the Sonora desert, of the southwestern United states and part of Mexico. \r\nIt was inspired by old western movies, I wanted to create a wild west/mexican feel to the map, and \r\nmake it a practical layout, so it would be fun to play counter strike on.\r\nI started it a long time ago, when I had a lot of free time in the summer.  There are about a \r\ndozen custom models that I modeled and textured myself.   I originally intended to \r\ndo a lot more work on the map, but I started College and have had no free time for the past several\r\nmonths, so I've decided to release it as is.  I also intend to release the .vmf files later on, so \r\npeople new to mapping can learn from my map, as I won't be really finishing it to the point I'd like to\r\n\r\nBugs- The only major bugs I know of are some bad textures, that turn black. I neglected to replace \r\nthem, so the'll just have to stay. Also Bots are pretty stupid on the map, but then they're stupid\r\non everymap, so...\r\n\r\nfiles: de_sonora.bsp, and all custom models and materials used in the map. + screenshots\r\nfile size: 12,735KB\r\nreleased: January/9th/2006"
+}

@@ -1,0 +1,89 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"mg_miners.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 272704,
+			"_nDownloadCount": 312,
+			"_nFilesize": 1269738,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/272704",
+			"_sFile": "mg_miners_update_01.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1499521178
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"mg_miners2.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 367595,
+			"_nDownloadCount": 77,
+			"_nFilesize": 385903,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/367595",
+			"_sFile": "mg_miners_update_2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1514481629
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Removal",
+					"text": "Removed AWP from the secret"
+				},
+				{
+					"cat": "Feature",
+					"text": "Added 8 Scouts"
+				},
+				{
+					"cat": "Feature",
+					"text": "Added flashbang,smoke."
+				},
+				{
+					"cat": "Feature",
+					"text": "Added A box in the middle of map. Inside it theres awp,deagle,grenades."
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Changed light_enviroment angle."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "mg_miners2",
+			"_tsDateAdded": 1514481004
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "New skybox"
+				},
+				{
+					"cat": "-",
+					"text": "Hidden AWP"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "mg_miners Update 01",
+			"_tsDateAdded": 1500034667
+		}
+	],
+	"_idRow": 128332,
+	"_sName": "mg_miners",
+	"_sText": "<b>About map:</b><br>In this map you have to mine with knife to find weapons and grenades. When you mine to the center of the map then fight starts! [im bad at writing descriptions]<br><span class=\"RedColor\">WARNING</span><br>This is my first map so don't expect something good.<br>But this map is fun to play with EXPERT bots or friends!<br><br>Feel to free host this map on your server."
+}

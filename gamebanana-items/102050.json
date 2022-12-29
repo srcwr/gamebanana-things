@@ -1,0 +1,47 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"dust2sundownradarfix": {
+						"maps": [
+							"de_dust2_sundown",
+							"de_dust2_sundown.bsp",
+							"de_dust2_sundown.nav",
+							"de_dust2_sundown.res"
+						],
+						"materials": {
+							"overviews": [
+								"de_dust2_hdr.vmt",
+								"de_dust2_hdr.vtf",
+								"de_dust2_hdr_radar.vmt",
+								"de_dust2_hdr_radar.vtf"
+							]
+						},
+						"resource": {
+							"overviews": [
+								"de_dust2_sundown.txt"
+							]
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 339975,
+			"_nDownloadCount": 3842,
+			"_nFilesize": 13355782,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/339975",
+			"_sFile": "dust2sundownradarfix.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1217104078
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 102050,
+	"_sName": "de_dust2_sundown",
+	"_sText": "Version 1 of the map.\r\n\r\nthere are a few problems.\r\n\r\n- the lights wont flicker without lagging game (so i got rid of em')\r\n\r\n- skybox is too bright\r\n\r\nRather then that the map is in a stable form and ready to play.\r\n\r\nThe two lights in the map can be turned off with the flick of a switch.\r\n\r\nradar, skybox, and nav by whippy\r\n\r\nmap redo by me, original map by valve\r\n\r\nHave Fun!"
+}

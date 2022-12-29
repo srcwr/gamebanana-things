@@ -1,0 +1,27 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"bhop_beyond_fix.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 280729,
+			"_nDownloadCount": 614,
+			"_nFilesize": 94226640,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/280729",
+			"_sFile": "bhop_beyond_fix.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1447068260
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 124544,
+	"_sName": "bhop_beyond_fix",
+	"_sText": "<p>Hello, I'm back with another CS:GO port.<br><br>This map was made with the intention of being played on SCROLL bhop, yet can be played on auto just as well. (so it should be possible on both scroll and auto)<br><br>Map is medium long/hard. The record on CS:GO appears to be around 6 minutes.<br><br>My only concerns while porting this were texture errors caused by using different texture settings in CS:S client. <br>Use mat_dxlevel 95 or else the glass parts will be missing textures. If you come across any other texture issues, configure your settings a little. I find it works best with anti-aliasing off.<br></p><p>The map includes a bonus which begins right behind the start area.</p><p>ORIGINAL MAP MADE FOR CS:GO BUNNYHOP BY BLETZKARN! NOT ME. All credit goes to him.</p><p><br></p><p>EDIT: The original author used toolsclip texture on the underside of some brushes which caused some issues as some were invisible in normal gameplay. This issue has since been fixed and the download has been updated with a new bsp. I apologize for any inconveniences.&nbsp; <br></p>"
+}

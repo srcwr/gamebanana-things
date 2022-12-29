@@ -1,0 +1,44 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "readme.txt",
+					"cstrike": {
+						"maps": [
+							"awp_littledust_final.bsp"
+						],
+						"materials": {
+							"overviews": [
+								"awp_littledust_final.vmt",
+								"awp_littledust_final.vtf"
+							]
+						},
+						"recource": {
+							"overviews": [
+								"awp_littledust_final.txt"
+							]
+						}
+					}
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 286256,
+			"_nDownloadCount": 4807,
+			"_nFilesize": 2779538,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/286256",
+			"_sFile": "awp_littledust_final.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1409086311
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 118831,
+	"_sName": "awp_littledust_final",
+	"_sText": "So i had the time to make a final version of this map, added/optimized much new stuff also HDR settings. you start with knife + awp full amo, map is optimized for normal and also noscope(+bhop) gameplay, i tried to balance the map as good as i can and also add some ways to get advantage to enemy,\r\nenjoy playing and hf!\r\n\r\n_____________________________________________________________________________\r\nfor installation just copy the files included in the download in your\r\nSteam\\SteamApps\\common\\Counter-Strike Source\\\"cstrike\" folder\r\n\r\nthe .bsp goes in \"maps\" folder and \r\nfor the minimap add the two files .vmt .vtf in \"materials/overviews\" folder\r\nand that one .txt file in \"recource/overviews\" folder should be easily understood, hf gl!"
+}

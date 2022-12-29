@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"surf_hourglass.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 500958,
+			"_nDownloadCount": 171,
+			"_nFilesize": 24883275,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/500958",
+			"_sFile": "surf_hourglass.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1607871311
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 137811,
+	"_sName": "surf_hourglass",
+	"_sText": "<span class=\"SelectedElement\"><a href=\"https://www.patreon.com/masog\">https://www.patreon.com/masog</a><br><br><b>surf_hourglass </b></span>- a&nbsp;<span class=\"GreenColor\">tier 1</span> map meant for both first timers as well as veteran surfers with a well thought out fast route. The map alternates the player between two timelines, and it includes a lot of rarely seen features in Source Engine maps, like moving clouds, dynamically changing skybox, color correction and expensive water on more than one Z axis at once.&nbsp;The map was made for a KSF mapping contest, where it has not won any prizes, but got an honorable mention. As a note from me, I started working on the map around 3 weeks before the contest's deadline, so I unfortunately did not have the time to polish the map and it feels unfinished to me, but I had&nbsp;no&nbsp;other&nbsp;choice than to release it - I hope you enjoy playing it anyway :)<br><br><b>FOR SERVER OWNERS:</b><br>- designed for <span class=\"GreenColor\">66/64</span> tickrate, <span class=\"GreenColor\">150</span> sv_airaccelerate, <span class=\"GreenColor\">5000</span> sv_maxvelocity<br>- in order for all of the map features to work properly, do <span class=\"RedColor\">NOT</span> remove any entities using plugins like stripper etc. on your server<br><b><br>FOR PLAYERS:</b><br>- client-side, make sure HDR and color correction are enabled and mat_specular is 1<br>- if the map appears too dark in some parts, I recommend raising the brightness settings, and if that doesn't help, in worst case you can also disable HDR which will make the map way brighter (but also uglier)"
+}

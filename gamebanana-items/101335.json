@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_cache.bsp",
+					"de_cache.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 300830,
+			"_nDownloadCount": 37208,
+			"_nFilesize": 6792206,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/300830",
+			"_sFile": "de_cache_2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1345163593
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 101335,
+	"_sName": "de_cache",
+	"_sText": "### What was your inspiration for the aesthetic and strategic design of de_cache, as well as the map name?\r\n\r\n> I decided to go with an industrial map that would feel like a weapon cache. I like the textures and theme on maps such as nuke and train so I adopted a similar feel while trying to eliminate the problem of having spots that are too dark.\r\n\r\n> Middle, as viewed from the CT-side of the map The strategic design all stemmed from the idea of only including what is necessary. I appreciate simplicity in level design. I tried to keep the number of major choke points to each bombsite to a minimum while following a figure of eight layout. If an ‘8’ were superimposed over a layout of the map, the center of the 8 would be right at the center of the map, with the other bombsites and routes to it being the rounded area on the 8. This means that the center of the map (middle) will generally be the area of the map with the most conflict.\r\n\r\n> I was seeking a map name that fits the 8.3 file format, much like some of the old school maps like de\\_cbble, de\\_dust, de\\_dust2, de\\_train, de\\_nuke etc. This means that the filename is 8 characters or less plus the additional 3 characters for the bsp extension. That is also the reason cobble was named cbble. The map has a warehouse full of weapons/explosives type feel so I went with the name de\\_cache, as in a weapons cache.\r\n\r\nChangelog for new version of de_cache.\r\n\r\n### Primary Changes\r\n\r\n- The vents are now large enough to run through, rather than having to crouch to maneuver through them. Additionally, the vents now require a boost to enter from the Counter-Terrorist side\r\n- A new side hall, with a door, has been added which leads into the \"A\" bombsite, to provide an additional entrance for Terrorists\r\n- The skybox has been removed from above the buildings in the \"A\" bombsite to allow more possibilities for grenades\r\n- Multiple changes have been made to the \"A\" bombsite including the removal of two \"headshot-level\" boxes, the replacement of the tires to instead be a \"quad-box\", and the reduction of the bomb plant radius\r\n- In the \"B\" bombsite, several objects from the platform have been removed and the generator has been pushed back to disallow players from fully hiding behind the object\r\n- To enter the \"B\" bombsite, rather than having a ladder that leads directly up to the catwalk, a tower has been constructed to allow additional movement for Counter-Terrorists\r\n- Added more space in the side room outside of the \"B\" bombsite, on the Terrorist side, to allow Terrorists greater ability to throw grenades through the bombsite window\r\n- Reduced the flow of traffic in the main terrorist warehouse by disallowing several access points\r\n\r\n### Minor Changes\r\n\r\n- Remodeled several buildings for aesthetic improvements\r\n- Fixed several clipping glitches\r\n- Reduced visibility from the Counter-Terrorist spawn entrance at the \"B\" bombsite that previously allowed a player to see from that entrance into the checkered hall\r\n- Simplified the 3D skybox to improve FPS"
+}

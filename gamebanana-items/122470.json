@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"surf_lt_omnific.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 301037,
+			"_nDownloadCount": 14360,
+			"_nFilesize": 21894992,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/301037",
+			"_sFile": "surf_lt_omnific_2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1344396677
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 122470,
+	"_sName": "surf_lt_omnific",
+	"_sText": "<a href=\"http://steamcommunity.com/groups/nyrosdk \"nyro's SDK Steam Group\"\">nyro's SDK Steam Group</a>\r\n\r\n- <!-- REMOVED FORM -->\r\n\r\n<iframe width=\"480\" height=\"270\" src=\"https://www.youtube.com/embed/sY6qHjo2LKk\" frameborder=\"0\" allowfullscreen></iframe>\r\n\r\nSURF\\_LT\\_OMNIFIC - 08-07-12\r\n\r\nNOTE TO SERVER OWNERS:\r\n======================\r\nThis map features secret trails, which are parented to grenades. \r\nIf your server removes these then you won't be able to acquire them.\r\n\r\n\tpoint_servercommand\r\n\t\t- sv_enablebunnyhopping 1\r\n\t\t- sv_airaccelerate 150\r\n\t\t- mp_limitteams 0\r\n\t\t- sv_maxvelocity 10000\r\n\r\nFPS ISSUES?\r\n===========\r\nTry r_3dsky 0 if you have fps issues. This disables the 3d skybox and will free up some resources.\r\n\r\nIf you're running in windowed mode, try switching to fullscreen as well.\r\n\r\nThis map has A LOT of custom content(specifically the amount of model files), I optimized it the best I could. Unfortunately some players will have fps problems while others will remain unaffected.\r\n\r\n\tDescription:\r\n\t\t- 18 stages increasing in difficulty as you progress.\r\n\t\t- 3 additional bonus stages.\r\n\t\t- All surf ramps were made out of models.\r\n\t\t- Designed for 66 tick.\r\n\r\n\tLead Mapper: nyro (Contact/Paypal: nyronic@gmail.com)\r\n\t\t- Spawn\r\n\t\t- Ending\r\n\t\t- Optimization\r\n\t\t- Stages: 1, 5, 9, 12, 15, 16, Bonus 3\r\n\tMapper: qr\r\n\t\t- Stages: 3, 6, 8, 10, 13, 18, Bonus 2\r\n\tMapper: checkem\r\n\t\t- Stages: 2, 4, 7, 11, 14, 17, Bonus 1\r\n\t\t\r\n\tMain Testers:\r\n\t\t- dillinger\r\n\t\t- explizit\r\n\t\t- hlstriker\r\n\t\t- joseph\r\n\t\t- luckycharms\r\n\t\t- rambjoe\r\n\t\t- showtime\r\n\t\t- skyline\r\n\tAdditional Testers:\r\n\t\t- anonymous\r\n\t\t- agoraphobic nosebleed\r\n\t\t- bella\r\n\t\t- brian\r\n\t\t- demon\r\n\t\t- dharkk\r\n\t\t- evolv\r\n\t\t- fasterkatt\r\n\t\t- foot fetish joe\r\n\t\t- habitat\r\n\t\t- morning\r\n\t\t- nolf\r\n\t\t- prad bitt\r\n\t\t- ronjon\r\n\t\t- seeker\r\n\t\t- untouch\r\n\t\t- yoshiii\r\n\t\t- zeppelin\r\n\t\t- zombieslayer\r\n\t\t- Everyone who played _a18\r\n\t\t- Anyone I missed!\r\n\t\t\r\n\tMusic:\r\n\t\t- Mono/Poly - Land of Love/Star Grab\r\n\t\t- M83 - Black Hole\r\n\r\n\tSpecial Thanks:\r\n\t\t- cfoust: Author of Propper\r\n\t\t- Chris528: Author of the dev texture pack\r\n\t\t\r\n\tCompile Stats:\r\n\t\t- brushes: 99.5%\r\n\t\t- brushsides: 92.7%\r\n\t\t- waterindices: 47.8%\r\n\r\n- <!-- REMOVED FORM -->"
+}

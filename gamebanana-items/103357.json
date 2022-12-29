@@ -1,0 +1,27 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_office_complex.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 323271,
+			"_nDownloadCount": 2555,
+			"_nFilesize": 12851656,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/323271",
+			"_sFile": "de_office_complex_by_teshok_final_.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1271587523
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 103357,
+	"_sName": "De_office_complex",
+	"_sText": "Been Working on this for the last week or so\r\nthanks to TopHATTwaffle for his beautifull textures\r\nhttp://www.fpsbanana.com/textures/2573\r\n\r\n-UPDATE--FINAL- \r\n*fixed the shadow controller so its using correct angles.\r\n*added some crates in the middle alley to provide cover.\r\n*named the nav mesh so it will now tell you where you  are and bots yell enemy locations.\r\n*added a couple vents to the roof to add some height variation.\r\nno more updates from now on the map is done, its stable and im happy with it.\r\n\r\n-UPDATE- quickfix i left a spawn in an area I was testing silly me.\r\n\r\n-UPDATE- 21_4_10 *ugg will this never end :S\r\n*optimized the map futher im now getting a minimum of 90-100 fps and averaging about 200-300\r\n*added some benches around and some random vine things\r\n*placed some decals around the map randomly\r\n*added a couple more props inside\r\n*tweaked some of the buildings in the 3d skybox\r\n*added a shadow controll\r\n\r\n-UPDATE- 20_4_10\r\n*swaped more cliffs out for models\r\n*fixed the foor in the foyer it had 3 cubemaps linked to it(could be the issue)\r\n*removed most of the props in the offices to reduse entdata(was at 140% could also be issue)\r\n*changed the cliffs in 3dskybox for the coast model that comes with halflife (less polys)\r\nthe only other thing i can think of is changeing the skybox to a hdr version. Currently its running HDR lighting with a normal skybox. Ive never known this to cause a crash though.\r\n\r\n-UPDATE- 19_4_10\r\n*converted some of the complex brushwork into models\r\nlike the distant mountains and wooden roofs.\r\n*changed a couple areas\r\n*removed the env_sun (was being overridden by the HDR)\r\n*changed the lighting in a couple of the rooms to make it brighter\r\n*clipped the area that Gecko managed to get onto.\r\nIf anyone is experiencing crashes post your specs mainly your card. The map work perfectly on my rig\r\nrunning 32bit vista with a nividia GTX 285\r\n\r\n---One of the fixes for the people that crash seems to be turning off the HDR---\r\n\r\n-64 players max 32 per side (duh)\r\n-Large 3d skybox\r\n-Nav mesh\r\n-Overview\r\n-Compiled with HDR\r\n\r\nIf you find any errors please let me know been testing for the last few days but i could have overlooked something.\r\n\r\n"
+}

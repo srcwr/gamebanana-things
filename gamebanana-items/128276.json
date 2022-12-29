@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"mg_lt_galaxy_v5.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 312692,
+			"_nDownloadCount": 10899,
+			"_nFilesize": 48039740,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/312692",
+			"_sFile": "mg_lt_galaxy_v5.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1304908331
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 128276,
+	"_sName": "mg_lt_galaxy_v5",
+	"_sText": "<a href=\"http://steamcommunity.com/groups/nyrosdk \" nyro's=\"\" sdk=\"\" steam=\"\" group\"\"=\"\" target=\"_blank\">nyro's SDK Steam Group</a>\r\n\r\nMG\\_LT\\_GALAXY\\_V5 - 01-09-12\r\n=======================\r\n- Map by: nyro&nbsp;- <!-- REMOVED FORM -->\r\n- Feedback &amp; Testing: The Lt. Team\r\n\r\nA space themed map consisting of 12 different games, enjoy!\r\n\r\n**01-09-12** _v5\r\n------------------\r\n- _v5 release\r\n- [BLACKHOLE] Fixed issue where physics objects didn't have 0 gravity.\r\n- [BLACKHOLE] Asteroid spawn rate now increases sooner, and platforms get sucked in no matter what over time.\r\n- [BLACKHOLE] Knives are no longer present at the start, instead they are given near the end.\r\n- [ICESKATE] Fixed issue where the player would fall to the ground while skating.\r\n- [ICESKATE] Reduced the amount of extra ammo in the shotguns to 8.\r\n- [ICESKATE] Increased the speed of the boosters at the bottom middle.\r\n- [ICESKATE] Lowered the roof heights by 64 units.\r\n- [NADE] Reduced gravity from 300 to 175.\r\n- [SCOUT] Removed Glocks.\r\n- [SLIDE] Removed a set of poles after the first ramp.\r\n- [SPHERE] Attempted to fix monitor lag/freezes again.\r\n- Unused map entities are now removed once a game is chosen in order to free up resources.\r\n- Reduced the push height of the end platforms to prevent players who finish 2nd or lower from flying out of it.\r\n\r\n**09-14-11** _v4\r\n------------------\r\n- _v4 release\r\n- [AWP] Optimized for better FPS\r\n- [BUY] Added last player location announcement, enabled after 15 seconds\r\n- [BLACKHOLE] Reduced chance this will get picked on random from 20% to 15%(roughly)\r\n- [BLACKHOLE] Reduced the total amount of platforms\r\n- [BLACKHOLE] Fixed objects falling to bottom(Related to above change)\r\n- [BLACKHOLE] Platforms no longer get automatically sucked in after a certain time\r\n- [BLACKHOLE] Asteroids will spawn at a faster rate as time passes\r\n- [NADE] Removed middle ramp\r\n- [SCOUT] Optimized for better FPS\r\n- [SURF] Added a 2nd yellow surf and changed the red section slightly\r\n- [SURF] Fixed an imbalance between the 2 paths\r\n- Reduced autoslay timer from 5m to 3m30s(As a result, .mp3 file size is smaller too)\r\n- Reduced time knives are given from 15s to 10s\r\n- Fixed a Linux server crash related to point_template's(If your server crashed before v3 I don't know the cause, sorry!)\r\n\r\n**08-28-11** _v3\r\n------------------\r\n- _v3 release\r\n- [BLACKHOLE] New game in random\r\n- [BHOP] Optimized for better FPS\r\n- [CLIMB] Optimized for better FPS\r\n- [CLIMB] Revised Yellow &amp; Red sections\r\n- [AWP] Revised\r\n- [AWP] Added Deagles\r\n- [NADE] Revised\r\n- [ICESKATE] Lowered push from 64 to 48 units\r\n- [ICESKATE] Lowered height needed to reach the rooftops\r\n- [ICESKATE] Added bottom middle non-skating section\r\n- [OBSTACLE] Made the spinner platforms wider\r\n- [OBSTACLE] The start of the air strafe has been made easier\r\n- [SCOUT] Added booster ramps\r\n- [SCOUT] Added Glocks\r\n- [SLIDE] Extended end of the final jump\r\n- [SPHERE] Rings are now syncronized with the music's beat\r\n- [SPHERE] Changed loser room, sorry for the nausea!\r\n- [SPHERE] Disabled 3d Skybox in an attempt to eliminate lag issues\r\n- [SPHERE] The 1st level no longer has a red ring, and the 3rd/4th levels don't last as long\r\n- [SURF] Made green section on Surf slightly easier\r\n- The skybox will sometimes revert back to the old v1 style\r\n- sv_gravity will reset at the end of each round(no more lowgrav physics on following map)\r\n- Added 15 second wait time on race based courses once a player wins(except for Climb)\r\n- Fixed ugly stretched texture on background stars\r\n\r\n**05-16-11** _v2\r\n------------------\r\n- _v2 release\r\n- Optimized the 3d Skybox\r\n- Optimized Sphere\r\n- Optimized Buy\r\n- Added various details\r\n- The 3d skybox has been revised to look more realistic\r\n- Reduced the poly count of the asteroids by roughly 33%\r\n\r\n\r\n**05-08-11** _v1\r\n------------------\r\n- _v1 release\r\n\r\n**Special Thanks**\r\n------------------\r\n- cfoust - Author of Propper\r\n- qr - Helping pick out the majority of the soundtrack.\r\n- CHECK EM - Vote system idea for choosing what you want to play.\r\n- Chris528 - Author of the dev texture pack.\r\n\r\n**Soundtrack**\r\n------------------\r\n- Surf // Air - Empty House\r\n- Sphere // Guitar - Red and White\r\n- Climb // Bathysphere - Augusta\r\n- Bhop // Jon Hopkins - Wire\r\n- Scout // Loscil - Brittle\r\n- Iceskate // Fennesz &amp; Sakamoto - Glow\r\n- Nade // Flica - Late\r\n- Race // Sonic Mayhem - Disclosure\r\n- Startroom // Immediate Music - The Hidden\r\n- Awp // Spacecraft - Earthtime Tapestry\r\n- Buy // Solar Fields - Electric Fluids (Early Mix)\r\n- Slide // Ulrich Schnauss - Monday-Paracetamol\r\n\r\nPlease rate and/or leave a comment! Thanks!\r\n\r\n- <!-- REMOVED FORM -->"
+}

@@ -1,0 +1,61 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"maps": [
+						"fy_ski_css.bsp",
+						"fy_ski_css.res"
+					],
+					"materials": {
+						"models": {
+							"player": {
+								"b4p": {
+									"c3po": [
+										"c3po_arm_torso.vmt",
+										"c3po_arm_torso.vtf",
+										"c3po_face.vmt",
+										"c3po_face.vtf",
+										"c3po_hand.vmt",
+										"c3po_hand.vtf",
+										"c3po_leg.vmt",
+										"c3po_leg.vtf"
+									]
+								}
+							}
+						}
+					},
+					"models": {
+						"player": {
+							"b4p": [
+								"b4p_c3po.dx80.vtx",
+								"b4p_c3po.dx90.vtx",
+								"b4p_c3po.mdl",
+								"b4p_c3po.phy",
+								"b4p_c3po.sw.vtx",
+								"b4p_c3po.vvd"
+							]
+						}
+					}
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 326714,
+			"_nDownloadCount": 2120,
+			"_nFilesize": 5353268,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/326714",
+			"_sFile": "fy_ski_css.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1260229433
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 114261,
+	"_sName": "fy_ski_css",
+	"_sText": "This is my first map !! I hope you all can enjoy.\r\nWe have a ski lift that works (thanks to Grégoire \"Chidelabedledester\" Rinolfi), some Christmas trees with music and a lot of snow.\r\n\r\nKnown bug: it snows inside of some of the houses....\r\n"
+}

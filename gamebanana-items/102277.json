@@ -1,0 +1,136 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "README!.txt",
+					"cstrike": {
+						"maps": [
+							"de_event_horizon.bsp"
+						],
+						"materials": {
+							"brophis": {
+								"dhd": [
+									"DHDFACE1TEX.vmt",
+									"DHDFACE2TEX.vmt",
+									"DHDFACEBK.vmt",
+									"DHDREDBUTTON.vmt",
+									"dhdface1tex.vtf",
+									"dhdface1tex_normal.vtf",
+									"dhdface2tex.vtf",
+									"dhdfacebk.vtf",
+									"dhdfacebk_normal.vtf",
+									"dhdredbutton.vtf",
+									"dhdredbutton_normal.vtf"
+								],
+								"gate": {
+									"0": "BRO_BUT.vmt",
+									"1": "BRO_BUTTON.vmt",
+									"10": "CHEVRON3B.vmt",
+									"11": "CHEVRON3_.vmt",
+									"12": "CHEVRON7B.vmt",
+									"13": "CHEVRON7_.vmt",
+									"14": "CHEVRONTOP_.vmt",
+									"15": "HORIZONB.vmt",
+									"16": "STARGATE_FRONT.vmt",
+									"17": "STARGATE_INNER.vmt",
+									"18": "STARGATE_MAT.vmt",
+									"19": "STARGATE_OUTTER.vmt",
+									"2": "BRO_BUT_ALPHA.vmt",
+									"20": "STARGATE_OUTTER2.vmt",
+									"21": "STARGATE_REAR.vmt",
+									"22": "bro_but.vtf",
+									"23": "chevron1_.vtf",
+									"24": "chevron1__normal.vtf",
+									"25": "chevron1b.vtf",
+									"26": "chevron2_.vtf",
+									"27": "chevron2__normal.vtf",
+									"28": "chevron2b.vtf",
+									"29": "chevron3_.vtf",
+									"3": "BRO_BUT_BETA.vmt",
+									"30": "chevron3__normal.vtf",
+									"31": "chevron3b.vtf",
+									"32": "chevron7_.vtf",
+									"33": "chevron7__normal.vtf",
+									"34": "chevron7b.vtf",
+									"35": "chevrontop_.vtf",
+									"36": "chevrontop__normal.vtf",
+									"37": "horizonb.vtf",
+									"38": "horizonb_normal.vtf",
+									"39": "stargate_front.vtf",
+									"4": "BRO_PANEL_ALPHA.vmt",
+									"40": "stargate_front_normal.vtf",
+									"41": "stargate_inner.vtf",
+									"42": "stargate_inner_normal.vtf",
+									"43": "stargate_mat.vtf",
+									"44": "stargate_mat_normal.vtf",
+									"45": "stargate_outter.vtf",
+									"46": "stargate_outter2.vtf",
+									"47": "stargate_outter_normal.vtf",
+									"48": "stargate_rear.vtf",
+									"5": "BRO_PANEL_BETA.vmt",
+									"6": "CHEVRON1B.vmt",
+									"7": "CHEVRON1_.vmt",
+									"8": "CHEVRON2B.vmt",
+									"9": "CHEVRON2_.vmt",
+									"eh_opening": [
+										"EH_CLOSING_TEX.vmt",
+										"EH_OPENING_TEX.vmt",
+										"eh_closing.vtf",
+										"eh_opening.vtf"
+									]
+								}
+							}
+						},
+						"sound": {
+							"sg": [
+								"sgchvrnlck2.wav",
+								"sgcls.wav",
+								"sgeh2.wav",
+								"sgopn.wav",
+								"sgwtrsnd.wav"
+							]
+						}
+					},
+					"screenshots": [
+						"Thumbs.db",
+						"de_event_horizon0000.jpg",
+						"de_event_horizon0001.jpg",
+						"de_event_horizon0002.jpg",
+						"de_event_horizon0003.jpg",
+						"de_event_horizon0004.jpg",
+						"de_event_horizon0005.jpg",
+						"de_event_horizon0006.jpg",
+						"de_event_horizon0007.jpg",
+						"de_event_horizon0008.jpg",
+						"de_event_horizon0009.jpg",
+						"de_event_horizon0010.jpg",
+						"de_event_horizon0011.jpg",
+						"de_event_horizon0012.jpg",
+						"de_event_horizon0013.jpg",
+						"de_event_horizon0014.jpg",
+						"de_event_horizon0015.jpg",
+						"de_event_horizon0016.jpg",
+						"de_event_horizon0017.jpg"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 331037,
+			"_nDownloadCount": 1509,
+			"_nFilesize": 13044758,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/331037",
+			"_sFile": "de_event_horizon_v13.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1245631793
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 102277,
+	"_sName": "de_event_horizon",
+	"_sText": "The Read Me has all of the information on changes that have been made.\r\n\r\nPartial credit goes to Flyboi for Layout of the SGC.\r\n\r\nThe gate is custom textures and sounds, all of the files ARE included.\r\n\r\n-------You Can-------\r\n\r\n- Upload this file to other websites if you wish as long as you tell me.\r\n- Put this map on your server.\r\n\r\n-------You Cannot-------\r\n\r\n- Edit this map\r\n- Claim as your own and redistribute it."
+}

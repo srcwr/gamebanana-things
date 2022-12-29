@@ -1,0 +1,122 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "instructions.txt",
+					"MapEditor": {
+						"0": "MapEdit.exe",
+						"VTFEdit": [
+							"DevIL.dll",
+							"HLLib.dll",
+							"VTFCmd.exe",
+							"VTFEdit.exe",
+							"VTFEdit.ini",
+							"VTFLib.dll"
+						]
+					},
+					"cstrike": {
+						"addons": {
+							"eventscripts": {
+								"soccermap": [
+									"es_soccermap.txt"
+								]
+							}
+						},
+						"cfg": {
+							"0": "soccermap.cfg",
+							"mani_admin_plugin": {
+								"map_config": [
+									"ka_soccer_2008_v4.cfg"
+								]
+							}
+						},
+						"maps": [
+							"ka_soccer_2008_v4.bsp",
+							"ka_soccer_2008_v4.res"
+						],
+						"materials": {
+							"ka_soccer_2006": [
+								"aus.vmt",
+								"aus.vtf",
+								"billboard.vmt",
+								"billboard.vtf",
+								"bra.vmt",
+								"bra.vtf",
+								"can.vmt",
+								"can.vtf",
+								"eng.vmt",
+								"eng.vtf",
+								"esa.vmt",
+								"esa.vtf",
+								"esp.vmt",
+								"esp.vtf",
+								"fra.vmt",
+								"fra.vtf",
+								"ger.vmt",
+								"ger.vtf",
+								"irl.vmt",
+								"irl.vtf",
+								"irq.vmt",
+								"irq.vtf",
+								"ita.vmt",
+								"ita.vtf",
+								"jap.vmt",
+								"jap.vtf",
+								"kor.vmt",
+								"kor.vtf",
+								"por.vmt",
+								"por.vtf",
+								"rom.vmt",
+								"rom.vtf",
+								"rus.vmt",
+								"rus.vtf",
+								"saf.vmt",
+								"saf.vtf",
+								"sco.vmt",
+								"sco.vtf",
+								"team1.vmt",
+								"team1.vtf",
+								"team2.vmt",
+								"team2.vtf",
+								"team3.vmt",
+								"team3.vtf",
+								"team4.vmt",
+								"team4.vtf",
+								"team5.vmt",
+								"team5.vtf",
+								"team6.vmt",
+								"team6.vtf",
+								"team7.vmt",
+								"team7.vtf",
+								"team8.vmt",
+								"team8.vtf",
+								"usa.vmt",
+								"usa.vtf",
+								"wal.vmt",
+								"wal.vtf"
+							]
+						}
+					}
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": true,
+			"_idRow": 342074,
+			"_nDownloadCount": 5022,
+			"_nFilesize": 3919511,
+			"_sAnalysisResult": "Archive contains executable",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/342074",
+			"_sFile": "ka_soccer_2008_v4__09_07_08.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1210246519
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 110454,
+	"_sName": "ka_soccer_2008_v4",
+	"_sText": "You may have seen a customized version of this map on australian or american servers.\r\nI've decided to make a universal version available to everyone instead of continuing to have to make changes to the map for the different international leagues.\r\n\r\nThe main improvements are that I've fixed the v3 goal glitch at the back of the nets, and made realistic textures for the ball, grass, goals, and flags.\r\n\r\nI've added other things like billboards, stopping people entering the crowds, team logos etc.. but they are all optional.\r\n\r\nYou control what parts of the map you want and don't want, and you can chose your own country flags on both sides of the map.\r\nTo do this you have to edit the \\cstrike\\cfg\\soccermap.cfg file.\r\nI've also made a program (Mapedit.exe) for those that can't edit the config file. It will also allow you to change the textures easily.\r\n\r\nYou must have eventscripts and mani admin plugin installed on your server for this map to work.\r\nIt is fairly heavily designed around the scripts, by default the map won't look good.\r\nIf you can auto-load the 'soccermap' script another way you don't need mani.\r\n\r\nIn addition to the map and map customizing scripts, you can optionally install my soccer (gameplay) scripts, available here: <a href=\"http://addons.eventscripts.com/addons/view/soccer\">http://addons.eventscripts.com/addons/view/soccer</a>\r\n\r\nThey work for every setting different league/clans use.\r\nExtremely customisable. they record personal player stats (viewable in-game and on a webserver), Limit knives-per-minute,\r\nDisable knifing, Control health/god-mode options (including a commbox-as-bloodbin script),\r\nAutomatically referee (for clan/league matches), Control an in-game scoreboard on a special map,\r\nSlay people jumping on goals, Set separate skins for goalies and teams,\r\nAnd automatically load the scripts upon changing to a soccer map."
+}

@@ -1,0 +1,91 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"de_little_city": {
+						"linux": {
+							"cstrike": {
+								"maps": [
+									"de_little_city_linux.bsp",
+									"de_little_city_linux.nav"
+								],
+								"materials": {
+									"customs": [
+										"fritsie.vmt",
+										"fritsie.vtf",
+										"nlfs.vmt",
+										"nlfs.vtf",
+										"surf_pyramide_amd.vmt",
+										"surf_pyramide_amd.vtf",
+										"surf_pyramide_nv.vmt",
+										"surf_pyramide_nv.vtf"
+									],
+									"overviews": [
+										"de_little_city_linux.vmt",
+										"de_little_city_linux.vtf"
+									]
+								},
+								"resource": {
+									"overviews": [
+										"de_little_city_linux.txt"
+									]
+								}
+							}
+						},
+						"windows": {
+							"cstrike": {
+								"maps": [
+									"de_little_city.bsp",
+									"de_little_city.nav"
+								],
+								"materials": {
+									"customs": [
+										"fritsie.vmt",
+										"fritsie.vtf",
+										"nlfs.vmt",
+										"nlfs.vtf",
+										"surf_pyramide_amd.vmt",
+										"surf_pyramide_amd.vtf",
+										"surf_pyramide_nv.vmt",
+										"surf_pyramide_nv.vtf"
+									],
+									"overviews": [
+										"de_little_city.vmt",
+										"de_little_city.vtf"
+									]
+								},
+								"resource": {
+									"overviews": [
+										"de_little_city.txt"
+									]
+								},
+								"sound": {
+									"de_little_city": [
+										"lebedinsky mp3.mp3"
+									]
+								}
+							}
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 356577,
+			"_nDownloadCount": 1641,
+			"_nFilesize": 13856763,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/356577",
+			"_sFile": "de_little_city.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1157053367
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 102962,
+	"_sName": "de_little_city",
+	"_sText": "This is a remake of zm_little_city i added 3 bombzones a plan of the map background music^^.\r\n\r\nTHERE IS NO SOUND IN THE LINUX FOLDER IN THE RAR ARCHIVE\r\nCOPY THE SOUND FROM THE WINDOWS FOLDER AND INSERT IN THE\r\nLINUX DIRECTORY\r\n\r\nthere are 2 versions of it 1 for linux 1 for windows.\r\n\r\nIf you have problems with linux post them.\r\n\r\nEnjoy"
+}

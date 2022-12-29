@@ -1,0 +1,94 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "breakout.txt",
+					"1": "breakout_v1.jpg",
+					"2": "breakout_v2.jpg",
+					"maps": [
+						"breakout_v2.bsp",
+						"breakout_v2.res"
+					],
+					"materials": {
+						"breakout": [
+							"atari-catalog.vmt",
+							"atari-catalog.vtf",
+							"blue.vmt",
+							"blue.vtf",
+							"counter.vmt",
+							"counter.vtf",
+							"green.vmt",
+							"green.vtf",
+							"grey.vmt",
+							"grey.vtf",
+							"message.vmt",
+							"message.vtf",
+							"purple.vmt",
+							"purple.vtf",
+							"red.vmt",
+							"red.vtf",
+							"score.vmt",
+							"score.vtf",
+							"yellow.vmt",
+							"yellow.vtf"
+						],
+						"models": {
+							"breakout": [
+								"atari2600.vmt",
+								"atari2600.vtf",
+								"ball.vmt",
+								"ball.vtf",
+								"ball_spec.vtf",
+								"controller.vmt",
+								"controller.vtf",
+								"supabreakout.vmt",
+								"supabreakout.vtf"
+							],
+							"trees": [
+								"japanese_tree_bark_02.vmt",
+								"japanese_tree_bark_02.vtf",
+								"japanese_tree_round_02.vmt",
+								"japanese_tree_round_02.vtf",
+								"japanese_tree_round_03.vmt",
+								"japanese_tree_round_03.vtf",
+								"japanese_tree_round_04.vmt",
+								"japanese_tree_round_04.vtf",
+								"japanese_tree_round_05.vmt",
+								"japanese_tree_round_05.vtf",
+								"plant_fern.vmt",
+								"plant_fern.vtf"
+							]
+						}
+					},
+					"sound": {
+						"breakout": [
+							"fireworks.mp3",
+							"hit.wav",
+							"miss.wav",
+							"paddle.wav",
+							"round.wav"
+						]
+					}
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 358006,
+			"_nDownloadCount": 2458,
+			"_nFilesize": 5145555,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/358006",
+			"_sFile": "breakout_v2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1147507560
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 115592,
+	"_sName": "breakout_v2",
+	"_sText": "CS:S BREAKOUT_V2 by SUPA.\r\n\r\nThe Atari 2600, originally called the Atari VCS (Video Computer System) is the godfather of modern video game systems, and helped found the video game industry. Atari released the Atari VCS in October 1977 with nine games. This system would come to dominate the industry for many years. Atari sold over thirty million of the consoles, and together with other companies sold hundreds of millions of games. Atari continued to release games for the 2600 and in 1978 gave us Breakout.\r\n\r\nSo now with the power of the source engine we go back to the beginning of it all. I am pleased to present you with Breakout for Counter-Strike: Source. This the merging of the dig/breakfloor/glass type concepts with a source physics based ball in play.\r\n\r\nVersion 2 Specifics:\r\n\r\nIn this more themed version you are inside a monitor playing a game of breakout. The bricks are your floor, and is slowly (and sometimes quickly) being destroyed from under you. You must reach and eliminate the other team. A game score is kept for the amount blocks that have been destroyed during gameplay. Since the wall blocks are tougher they are worth 5 points.\r\n\r\nOutside the monitor is an Atari equipped with 6 switches, some of which can be shot through the glass to affect gameplay. You must have good aim and a powerful bullet to toggle them.\r\n\r\n   wall hp : reduces hp of wall bricks by 1000\r\n   left hp : reduces hp of counter-terrorist floor bricks by half\r\n  right hp : reduces hp of terrorist floor bricks by half\r\nmulti-ball : add two more dangerous balls to the game\r\n\r\nThe two other switches must be activated in person either by teleport or noclip. There is also a notch by the Breakout cart you can use to control the paddle.\r\n\r\nI would like to thank wolf for the tree and fern models that decorate the breakout_v2 skybox and Tstar for making breakfloor design that breakout_v1 builds upon. If your interested in some scaled down versions of the Atari models for use in other maps let me know. I can only hope this release will inspire other mappers to revive more old classic games for us in source.\r\n\r\nSupa \r\n\r\n~~~~~~\r\n\r\nYokai's Side Notes: \r\n I remember when Supa first posted this map on Interlopers a few months ago and remembered me saying \"that has to be one of the most unique maps I have seen in a long long time.\" I now have server that switches onto the map every once and a while depending on vote/mapcycle. \r\n\r\nMy ratings:\r\n\r\nGraphics = 5/5\r\nGame Play = 4/5\r\nSounds = 4/5\r\nOverall : 86%, A must try. "
+}

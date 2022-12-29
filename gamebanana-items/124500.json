@@ -1,0 +1,71 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"bhop_aux_a9.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 290655,
+			"_nDownloadCount": 2161,
+			"_nFilesize": 17239253,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/290655",
+			"_sFile": "bhop_aux_a9.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1387830142
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Complete rework of textures"
+				},
+				{
+					"cat": "-",
+					"text": "Added few lights on last level"
+				},
+				{
+					"cat": "-",
+					"text": "Fixed lights on various levels"
+				},
+				{
+					"cat": "-",
+					"text": "Moved accidental teleport from level 31 to 32"
+				}
+			],
+			"_sText": "Level 31 is no longer accessible, although nothing is really made there yet, so it'd make no sense to get there anyways",
+			"_sTitle": "a09",
+			"_tsDateAdded": 1391625053
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Added actual bonus"
+				},
+				{
+					"cat": "-",
+					"text": "Added level 16, 32 and 99"
+				},
+				{
+					"cat": "-",
+					"text": "Fixed brightness of lights"
+				}
+			],
+			"_sText": "Bonus may be extended, level 16 and 32 may be switched to other numbers and textures will need to be redone. Ground texture is too similar to most block textures, (more colour most likely being added).",
+			"_sTitle": "a08",
+			"_tsDateAdded": 1391251681
+		}
+	],
+	"_idRow": 124500,
+	"_sName": "bhop_aux",
+	"_sText": "Pet project, may take extensive time to complete. \r\nSettings intended are autobhop with AA100+, but should be doable without auto... Maybe other than the last level"
+}

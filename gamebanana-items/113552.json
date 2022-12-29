@@ -1,0 +1,30 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"fy_pain_fortress.bsp",
+					"fy_pain_fortress.txt",
+					"fy_pain_fortress0002.jpg"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 359235,
+			"_nDownloadCount": 1186,
+			"_nFilesize": 1679202,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/359235",
+			"_sFile": "fy_pain_fortress_2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1136217184
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 113552,
+	"_sName": "fy_pain_fortress",
+	"_sText": "Information:\r\n------------\r\n\r\nThis map is a result of getting bored with a previous map \r\nand just fiddling around in Hammer for a few hours. I \r\nsomewhat got the idea to make it into a FY sniper/fort map\r\nafter playing a very, very crappy fortress map earlier that\r\nday. Despite the fact that the architecture was fairly\r\nsimple, it KILLED my framerate due to none of the brushes\r\nbeing func_details. I decided that if nobody was making\r\nanymore decent fortress maps, I might as well do it myself.\r\n\r\n98% of all of the brushes you will see on this map are\r\nfunc_details, and I got an averate framerate of 120FPS\r\nusing a ATi 9800 Pro 256MB. In the water area I still got\r\n~90FPS, so I don't think this map will be too bad.\r\n\r\n\r\nI know this map isn't all that great, but I think it will \r\nmake for somewhat decent gameplay, especially if played as\r\na sniper map. By default, the design idea was to have it \r\nplayed with the AWP disabled, and force players to dive to\r\nthe bottom of the pool of water to retrieve one. But, it\r\ndoesn't have to be played that way at all. There are buy \r\nzones, so it should be rather flexible.\r\n\r\nAdditional Notes:\r\n-----------------\r\n\r\n  * 5 AWPS are located in the center of the map, down at\r\n    the bottom of the pool structure (underwater).\r\n \r\n  * 2 scouts also exist in the map, one on the roof of\r\n    each fort, in the central position near the spikey\r\n    spire.\r\n\r\n  * Due the (near perfect) symmetry of the map, to better\r\n    distinguish which fort belongs to what team, the\r\n    terrorist side has been baked with red lights, while\r\n    the counter-terrorist side has been baked with blue\r\n    ones. This is also to pay homage to the map 2fort5,\r\n    which was part of one of the greatest Quake1 mods\r\n    to ever grace us with its awesomeness--Teamfortress.\r\n\r\n  * There is one custom texture used in this map, and it was\r\n    added to the BSP file using bspzip, meaning there are no\r\n    textures needing to be unzipped, making it for easier\r\n    installation. The custom texture is in the easter egg room\r\n    located somewhere outside of the map.\r\n\r\nShoutouts & Contact Info\r\n------------------------\r\n\r\nThis map was developed to be played on the After Hours Pub\r\n(AHP) CS:S server. Visit their website at:\r\n       \r\n        http://www.ahpkicksass.com/\r\n\r\nI want to give shout-outs to some people on the AHP server:\r\n\r\n* Kaijin, for being a great consultant on Source mapping\r\n* Killerpimp, for creating some awesome custom maps for\r\n  the server already\r\n* Devilman, for being one of the few people who idle on IRC\r\n  as much as I do.\r\n\r\nAnd some shoutouts to websites that helped me with mapping:\r\n\r\n* The Valve Developer Community :: http://developer.valvesoftware.com/wiki/SDK_Docs\r\n* Zombie's Optimizing Page :: http://www.student.kun.nl/rvanhoorn/Optimization.htm\r\n* HL2World Knowledge Base :: http://www.hl2world.com/wiki/index.php/Main_Page\r\n* Interlopers.net :: http://www.interlopers.net/index.php?page=hl2.htm\r\n\r\nOther websites I want to give a shoutout to:\r\n\r\n* Burning Souls Forum, a great NIN forum: http://www.burningsoulsforum.com/forum/\r\n* Weltfunk v2.0, my VNV Nation forum: http://mandos.us/weltfunk2/\r\n\r\nPersonal contact information:\r\n\r\nIf you're really wanting to tell me how much my map(s) suck, feel free to drop \r\nme a line. Or visit my website. Whichever you find fit.\r\n\r\nE-mail: kabojnk@gmail.com\r\nWebsite: http://mandos.us/\r\n\r\n\r\nThis map can be found at FPS Banana under the name\r\nfy_pain_fortress.\r\n\r\n\r\nEOF"
+}

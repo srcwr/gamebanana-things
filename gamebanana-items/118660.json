@@ -1,0 +1,87 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"map_src": {
+						"0": "awp_india_xmas-beta-RECOVERY.lin",
+						"1": "awp_india_xmas-beta-RECOVERY.vmf",
+						"2": "awp_india_xmas-beta-RECOVERY.vmx",
+						"3": "awp_india_xmas-beta-recovery.log",
+						"resource": {
+							"materials": {
+								"HESSI": [
+									"LICHTERKETTEN.vmt",
+									"lichterketten.vtf"
+								],
+								"models": {
+									"models_kit": {
+										"xmas": [
+											"xmastree_miscA.vmt",
+											"xmastree_miscA.vtf",
+											"xmastree_miscA_skin2.vmt",
+											"xmastree_miscA_skin2.vtf",
+											"xmastree_miscB.vmt",
+											"xmastree_miscB.vtf",
+											"xmastree_miscB_skin2.vmt",
+											"xmastree_miscB_skin2.vtf",
+											"xmastree_miscB_spec.vtf"
+										]
+									}
+								},
+								"sprites": {
+									"trails": [
+										"mat_spongebob.vmt",
+										"mat_spongebob.vtf"
+									]
+								}
+							},
+							"models": {
+								"models_kit": {
+									"xmas": [
+										"xmas_teddybear.dx80.vtx",
+										"xmas_teddybear.dx90.vtx",
+										"xmas_teddybear.mdl",
+										"xmas_teddybear.phy",
+										"xmas_teddybear.sw.vtx",
+										"xmas_teddybear.vvd",
+										"xmastree_mini.dx80.vtx",
+										"xmastree_mini.dx90.vtx",
+										"xmastree_mini.mdl",
+										"xmastree_mini.phy",
+										"xmastree_mini.sw.vtx",
+										"xmastree_mini.vvd"
+									]
+								}
+							},
+							"sound": {
+								"acegamer": [
+									"karusel128.mp3"
+								]
+							}
+						}
+					},
+					"maps": [
+						"awp_india_xmas.bsp"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 275573,
+			"_nDownloadCount": 2066,
+			"_nFilesize": 4364568,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/275573",
+			"_sFile": "awp_india_xmas.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1481231002
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 118660,
+	"_sName": "awp_india_xmas",
+	"_sText": "Map reworked into a Christmas atmosphere. Besides a huge number of bugs have been fixed the original map.<br>PS. Text - by google translate :D<br><br>"
+}

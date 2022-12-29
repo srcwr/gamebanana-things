@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ze_simple_teamplay_v1.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 312118,
+			"_nDownloadCount": 1427,
+			"_nFilesize": 1923545,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/312118",
+			"_sFile": "_5605-.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1306729457
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 130995,
+	"_sName": "Ze_simple_teamplay_v1",
+	"_sText": "This is my map that I've created, it's not like most escape maps, there isn't loads of running.\r\nI saw that atix panic was well liked and I believe it's because there is always loads of action.\r\nI found maps with loads of running were just boring and you didn't get much action between humans and zombies, so whats the point ?\r\n\r\nBasically there are 6 holding points at the start of the map, you must defend them and wait for the escape doors to then break.\r\nAfter this you must travel to the roof, prime the escape lift and set off the nuke all the time whilst defending against zombies to which there are breakable blockades and moving floors just so all the zombies can get to the end and hopyfully make it action packed.\r\n\r\nProblem I saw with atix panic is people stuck in props !\r\nAfter the escape doors break there is a timer that turns on trigger_remove, this will remove any physic props touching this brush, therefore freeing the zombies stuck inside giving them a chance to make it to the end.\r\n\r\nThe fps in tests have been 260-500 so I hope this will be fine on a server.\r\nI did want a 3d skybox with displacment but this affected fps more then I expected and it's better to have a map that performs well then one that perfroms badly so had to miss it for now.\r\n\r\n\r\nMap compailed on \"normal\" with cubemaps working."
+}

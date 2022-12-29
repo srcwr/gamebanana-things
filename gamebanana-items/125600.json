@@ -1,0 +1,41 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"bhop_nevercu.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 482717,
+			"_nDownloadCount": 41,
+			"_nFilesize": 2504941,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/482717",
+			"_sFile": "bhop_nevercu_8ead2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1598549176
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "Fixed Particles"
+				}
+			],
+			"_sText": "Fixed particles so everybody can see them",
+			"_sTitle": "Version 1.1",
+			"_tsDateAdded": 1598546131
+		}
+	],
+	"_idRow": 125600,
+	"_sName": "bhop_nevercu",
+	"_sText": "Features:<br>-Custom Particles<br>-Boosters<br>-Bonus Level"
+}

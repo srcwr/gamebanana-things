@@ -1,0 +1,44 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"maps": [
+						"fy_pool_day_reloaded_re.bsp",
+						"fy_pool_day_reloaded_re.nav",
+						"fy_pool_day_reloaded_re.txt"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 770790,
+			"_nDownloadCount": 515,
+			"_nFilesize": 6599373,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/770790",
+			"_sFile": "fy5.zip",
+			"_sMd5Checksum": "a50c34418789917b4b605090b14bb914",
+			"_tsDateAdded": 1648185064
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Overhaul",
+					"text": "Recompile"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "V1.1",
+			"_tsDateAdded": 1648179120
+		}
+	],
+	"_idRow": 365919,
+	"_sName": "fy_pool_day_reloaded_re",
+	"_sText": "This is a slightly modified version of&nbsp;fy_pool_day_reloaded. Changes:<br><br>Famas and Galil in T and CT spawns.<br><br>Cleaner pool water.<br><br>New music cue.<br><br>No draw fix for the lockers in entrance.<br><br>More to come!"
+}

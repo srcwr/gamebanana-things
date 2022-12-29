@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"br_BaseRace_Beta.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 323041,
+			"_nDownloadCount": 1126,
+			"_nFilesize": 821386,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/323041",
+			"_sFile": "br_baserace_beta.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1272563376
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 115609,
+	"_sName": "br_BaseRace_Beta",
+	"_sText": "The base race idea originally came from Wolfenstein Enemy Territory map, and I created a version of it for Counter Strike: Source.\r\n\r\nin the game the team must steal the other team's flag (like capture the flag), bring it back to base an upgrade part of the base.\r\nI made 7 upgradable things with 3 upgrades each which are:\r\ngate\r\nfront wall\r\nleft wall\r\nright wall\r\nback wall\r\narmory\r\nmedical center\r\n\r\nyou must play this map with deathmatch mod.\r\n\r\nthis is still a beta version an it may be laggy, there are few known bugs:\r\n-nades's damage can bypass upgraded walls.\r\n-the rain sound may not work on the second round.\r\n\r\nAlso there is a twist with the gameplay, team members can pick up their on flag and carry it around (but can't upgrade their on base with it of course).\r\n\r\nlacking stuff that I'll add to later versions:\r\n-sounds\r\n-when one team upgrade all upgrades to the max, the other team dies (and the round is over).\r\n-fix bugs.\r\nmake the flag to return to base when member of its own team touch it(only if the twist won't be liked)."
+}

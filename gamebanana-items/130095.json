@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"dev_hostage_a2.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 374028,
+			"_nDownloadCount": 1750,
+			"_nFilesize": 19880,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "Auto hostage achievements map",
+			"_sDownloadUrl": "https://gamebanana.com/dl/374028",
+			"_sFile": "dev_hostage_a2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1519371772
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 130095,
+	"_sName": "dev_hostage_a2",
+	"_sText": "Hi,<br>I just wanted to create a fully automatized map to rescue hostages, you don't have to do anything (not even moving) beside starting the map and joining ct, you'll get the 4 achievements listed below within 3-4 minutes if you start from 0 hostages recued.<br><br>Only work in single-player since a server would prevent the +use client command that I do with some trigger, to start it in single-player just use the map command in your game console:<br>map dev_hostage_a2<br><br>With this map you can do:<br><br><div class=\"achieveTxtHolder\"><div class=\"achieveTxt\"><h3>Cowboy Diplomacy</h3><h5>Rescue 100 hostages</h5></div></div><br><div class=\"achieveTxtHolder\"><div class=\"achieveTxt\"><h3>SAR Czar</h3><h5>Rescue 500 hostages</h5></div></div><br clear=\"left\"><div class=\"achieveTxt\"><h3>Good Shepherd</h3><h5>Rescue all hostages in a single round</h5></div><br><div class=\"achieveTxtHolder\"><div class=\"achieveTxt\"><h3>Freed With Speed</h3><h5>Rescue all hostages within 90 seconds</h5></div></div><br>My other achievement map:<br><a href=\"https://gamebanana.com/maps/199385\">dev_pistol_round_a1</a><br><img src=\"https://gamebanana.com/maps/embeddables/199385?type=large\"><br>"
+}

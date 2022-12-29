@@ -1,0 +1,54 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"bhop_pride.bsp",
+					"bhop_pride.nav"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 447530,
+			"_nDownloadCount": 162,
+			"_nFilesize": 28750609,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/447530",
+			"_sFile": "bhop_pride_fix.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1580648308
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "fixing skip with which you could skip half of map, and fixing a bug due to which it was possible to fly outside the map"
+				},
+				{
+					"cat": "Optimization",
+					"text": "some optimization of blocks and spaces"
+				},
+				{
+					"cat": "Amendment",
+					"text": "change the length of the walls to 6 stage for more convenient passage on source"
+				},
+				{
+					"cat": "Overhaul",
+					"text": "align most textures"
+				}
+			],
+			"_sText": "I didn't change the name of the map since it is not on any server I know xD",
+			"_sTitle": "fix",
+			"_tsDateAdded": 1580649233
+		}
+	],
+	"_idRow": 125765,
+	"_sName": "bhop_pride",
+	"_sText": "Bhop map by Jurd9R<br><br>Pretty simple map, with a complex bonus. The whole map is made in a space style and has unusual (maybe) elements. Enjoy.<br><br>CS:GO version: <a href=\"https://gamebanana.com/maps/201185\">https://gamebanana.com/maps/201185</a>"
+}

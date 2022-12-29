@@ -1,0 +1,41 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"DnagDam": {
+						"0": "DangDam_Readme.txt",
+						"1": "dangdam0034.jpg",
+						"2": "dangdam0035.jpg",
+						"3": "dangdam0037.jpg",
+						"counter-strike source": {
+							"cstrike": {
+								"maps": [
+									"DangDam.bsp",
+									"DangDam.txt",
+									"dangdam.nav"
+								]
+							}
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 315356,
+			"_nDownloadCount": 1752,
+			"_nFilesize": 1870710,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/315356",
+			"_sFile": "393__706-.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1295531755
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 100841,
+	"_sName": "DangDam",
+	"_sText": "DangDam.bsp Read Me\nMap by Arrogant Orange(in game name: MIR\\/EN-131)\nTo use with:Counter-Strike: SOURCE\nMade with: SOURCE SDK\nVersion: 1.NL / status: Functional\n\n=================================================\n\nContents of folder:\n1x DangDam.bsp map file\n1x DangDam.nav BOT Navagation file\n1x DangDam.txt Intro screen text file \n3x Screen Shots\n1x DangDam_Readme.txt file\n\n=================================================\n\nMap Story: \n\nOK, so the Terrorists have entered into the dock threw the sewers with the objective of obliterating the tanker that is being serviced in the dry dock. Due to the main maintenance elevator being down for repair the T's have chosen to attack while the dock workers are on leave. The Docks Security team was having lunch in the rec room near the wood shop when the commotion that took place when the T-Forces made breech in the Service Warehouse alerted them.\n\n\n\nMap description:\n\nDangDam.bsp was just a map I started for fun. Like most of my maps DangDam started out as a fascination with another map I was ether playing or some movie I was watching(007 LOL.) The objective, in DangDam, is the classic \"de_\" mission, which is to ether place the bomb in the bomb site(T-Forces)or to Defuse the active bomb(CT-Forces). The one and only bomb site is located on top of the tanker ship. Aside from the OG de style the map dose offer an interesting Fight-Yard aspect since the huge ship is in the way and the dock is drained so there is a huge valley in between the two spawn points.\n\nSide Note(s):\n\n+I had previously posted DangDam.bsp a while back but I forgot that I had used a few models and textures from DOD:S and that I hadn't included any of said files with the up-loaded .zip. Also I got a few comments one from a fellow banananner(Can't  remember who since I deleted the file soon afterwards)who said that he detested the idea of having two wildly different Bomb  Sites. He also noted that having a Bomb-Site atop the dam just wasn't all that great(or at least i think he/she did.) So, I  made those few fixes and then added a few more additions. Manly building and atmosphere changes. I also had to remove the  lighting, for this build version: 1.NL(NL=No Lights,)as it was eating up my PC's resource consumption during the compiling.\n\n+The crossing tunnel(the big cylinder in the dock ravine)can be penetrated by heavy fire. So shoot it up if you want. \n\n\n\n\n=================================================\n\nBugs/ Known Issues:\n\n+The map is missing a few different bits of detail here and there.\n\n+Some of the terrain MIGHT not be lined up correctly.\n\n+The BOT's don't really move until you fire at them or if they see you. The T-Forces will advance but will all fall into the  dock ravine. They won't die but they will just run back and forth down in there. And they've never used the crossing  tunnel...EVER! Most likely I'll have to add a ladder to the CT_forces side of the dock too.\n\n+Um...oh and the lighting sucks, as always X)\n\n+The main part of the map works nicely and it fits the theme but the dam and the inside part is just a waste of space at the  moment. \n\n+Only the red barrels and the gas can on the ladder lift will take hit-points away. The air or propane tanks(the red long slender tanks)don't damage the players at all.  \n\n=================================================\n\nAcknowledgment's:\n\nA big thank you to,\n\nVALVE: for CS:S and the SDK _ Official site: \n@http://www.valvesoftware.com/\n\nGame(Formally FPS)banana: For hosting and sharing all our creations. _ Just in case you forgot how you DL'ed this: @http://www.gamebanana.com/ \n\n3kliksphilip: For all his great and powerful tutorials. _ A big must if your in need of veiwing a ton of great and powerful tutorials:\n@http://www.youtube.com/user/3kliksphilip\n\nAnd to our our fellow Banana peeps who download and rate/commnet all our many styles of file's. _ My Gamebanana Profile is: @http://www.gamebanana.com/members/934991"
+}

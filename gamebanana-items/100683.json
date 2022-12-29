@@ -1,0 +1,48 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "shot1.jpg",
+					"1": "shot2.jpg",
+					"2": "shot3.jpg",
+					"3": "shot4.jpg",
+					"4": "shot5.jpg",
+					"cstrike": {
+						"maps": [
+							"cs_straight_militia.bsp",
+							"cs_straight_militia.log",
+							"cs_straight_militia.nav"
+						],
+						"sound": {
+							"door": [
+								"metal_door01_locked.wav",
+								"metal_door01_open.wav",
+								"metal_door02_open.wav",
+								"wood_door01_open.wav",
+								"wood_door02_open.wav",
+								"wood_door03_open.wav"
+							]
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 328401,
+			"_nDownloadCount": 2192,
+			"_nFilesize": 3355946,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/328401",
+			"_sFile": "cs_straight_militia.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1254158430
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 100683,
+	"_sName": "Straight Militia",
+	"_sText": "This is a \"Miltia\"-styled map, but there`s only one direct way to the hostage buildings. So the CT`s need players, who got good skills on attacking.\r\n\r\nIn both buildings the lighting can be turned off, if you manipulate the energy care.\r\n\r\nDoor sounds are taken from \"Resident Evil 3\""
+}

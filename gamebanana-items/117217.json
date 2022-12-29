@@ -1,0 +1,42 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"dm_breakout": {
+						"maps": [
+							"dm_breakout.bsp",
+							"dm_breakout.nav",
+							"dm_breakout.txt"
+						],
+						"materials": {
+							"overviews": [
+								"dm_breakout.vmt",
+								"dm_breakout.vtf",
+								"dm_breakout_radar.vmt",
+								"dm_breakout_radar.vtf"
+							]
+						}
+					}
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 354833,
+			"_nDownloadCount": 1675,
+			"_nFilesize": 1155298,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/354833",
+			"_sFile": "dm_breakout_2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1163874895
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 117217,
+	"_sName": "dm_breakout",
+	"_sText": "  Alright, This is a map where you shoot the ceiling and after a certain amount of damage has been done it breaks and a large block smashes anything below it. This can be used to create cover or smash other players.\r\n\r\n*updated*\r\nThe Rader is usable on this map"
+}

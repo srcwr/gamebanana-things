@@ -1,0 +1,74 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrike": {
+						"maps": [
+							"de_camelot.bsp",
+							"de_camelot.nav",
+							"de_camelot.res",
+							"de_camelot.txt"
+						],
+						"materials": {
+							"de_camelot": [
+								"respawnpoint_logo.vmt",
+								"respawnpoint_logo.vtf",
+								"ritter_der_tafelrunde.vmt",
+								"ritter_der_tafelrunde.vtf",
+								"schwert_der_tafelrunde.vmt",
+								"schwert_der_tafelrunde.vtf",
+								"tafelrunde_logo.vmt",
+								"tafelrunde_logo.vtf"
+							],
+							"overviews": [
+								"de_camelot.vmt",
+								"de_camelot.vtf"
+							],
+							"skybox": [
+								"camelotbk.vmt",
+								"camelotbk.vtf",
+								"camelotdn.vmt",
+								"camelotdn.vtf",
+								"camelotft.vmt",
+								"camelotft.vtf",
+								"camelotlf.vmt",
+								"camelotlf.vtf",
+								"camelotrt.vmt",
+								"camelotrt.vtf",
+								"camelotup.vmt",
+								"camelotup.vtf"
+							]
+						},
+						"resource": {
+							"overviews": [
+								"de_camelot.txt"
+							]
+						},
+						"sound": {
+							"de_camelot": [
+								"gallery.wav"
+							]
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 317027,
+			"_nDownloadCount": 2525,
+			"_nFilesize": 12563891,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/317027",
+			"_sFile": "de_camelot_css.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1290538595
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 101345,
+	"_sName": "de_camelot",
+	"_sText": "de_camelot\r\n\r\nA defuse map for Counter-Strike: Source.\r\nThis map is a remake from my own de_camelot for the old Counter-Stirke: Condition Zero.\r\n\r\nHave Fun\r\nuPd4t3d Data\r\n"
+}

@@ -1,0 +1,132 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"maps": [
+						"ge_007complex.bsp",
+						"ge_007complex.txt"
+					],
+					"materials": {
+						"Goldeneye": {
+							"Complex_classic": [
+								"ceilingtile.vmt",
+								"ceilingtile.vtf",
+								"complexclassic0.vmt",
+								"complexclassic0.vtf",
+								"complexclassic1.vmt",
+								"complexclassic1.vtf",
+								"complexclassic10.vmt",
+								"complexclassic10.vtf",
+								"complexclassic11.vmt",
+								"complexclassic11.vtf",
+								"complexclassic12.vmt",
+								"complexclassic12.vtf",
+								"complexclassic13.vmt",
+								"complexclassic13.vtf",
+								"complexclassic14.vmt",
+								"complexclassic14.vtf",
+								"complexclassic15.vmt",
+								"complexclassic15.vtf",
+								"complexclassic16.vmt",
+								"complexclassic16.vtf",
+								"complexclassic2.vmt",
+								"complexclassic2.vtf",
+								"complexclassic3.vmt",
+								"complexclassic3.vtf",
+								"complexclassic4.vmt",
+								"complexclassic4.vtf",
+								"complexclassic5.vmt",
+								"complexclassic5.vtf",
+								"complexclassic6.vmt",
+								"complexclassic6.vtf",
+								"complexclassic7.vmt",
+								"complexclassic7.vtf",
+								"complexclassic8.vmt",
+								"complexclassic8.vtf",
+								"complexclassic9.vmt",
+								"complexclassic9.vtf",
+								"complexclassicdivision.vmt",
+								"complexclassicdivision.vtf",
+								"diamondplate.vmt",
+								"diamondplate.vtf",
+								"diamondplatelargegrayscale.vtf",
+								"redhandrailclassic.vmt",
+								"redhandrailclassic.vtf",
+								"vent.vmt",
+								"vent.vtf",
+								"ventalpha.vmt",
+								"ventalpha.vtf"
+							],
+							"Control": [
+								"metal_truss2.vmt",
+								"metal_truss2.vtf"
+							],
+							"Facility_classic": [
+								"wall_vent_hr.vmt",
+								"wall_vent_hr.vtf"
+							]
+						},
+						"models": {
+							"props": {
+								"complex": [
+									"clouds.vmt",
+									"clouds.vtf",
+									"clouds_color_mask.vtf"
+								]
+							}
+						},
+						"skybox": [
+							"sky_complexclassicBK.vmt",
+							"sky_complexclassicBK.vtf",
+							"sky_complexclassicDN.vmt",
+							"sky_complexclassicDN.vtf",
+							"sky_complexclassicFT.vmt",
+							"sky_complexclassicFT.vtf",
+							"sky_complexclassicLF.vmt",
+							"sky_complexclassicLF.vtf",
+							"sky_complexclassicRT.vmt",
+							"sky_complexclassicRT.vtf",
+							"sky_complexclassicUP.vmt",
+							"sky_complexclassicUP.vtf"
+						]
+					},
+					"models": {
+						"props": {
+							"complex": [
+								"clouds.dx80.vtx",
+								"clouds.dx90.vtx",
+								"clouds.mdl",
+								"clouds.sw.vtx",
+								"clouds.vvd",
+								"clouds.xbox.vtx"
+							]
+						}
+					},
+					"sound": {
+						"Goldeneye": [
+							"silo.mp3"
+						]
+					}
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 339340,
+			"_nDownloadCount": 1324,
+			"_nFilesize": 11796966,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/339340",
+			"_sFile": "ge_007complex_2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1218775621
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 117797,
+	"_sName": "ge_007complex",
+	"_sText": "Play the classic complex level from Goldeneye 64.\r\n\r\nMap, Sound, Models and textures by the Goldeneye: Source team\r\nConvert to Counter Strike: Source by Trezza\r\n\r\nEnjoy :)\r\n\r\nNotes: Bots may not work correctly."
+}

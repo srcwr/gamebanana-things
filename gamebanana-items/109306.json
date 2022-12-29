@@ -1,0 +1,105 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"aim_wallbang": {
+						"cstrike": {
+							"maps": [
+								"aim_wallbang.bsp",
+								"aim_wallbang.nav"
+							],
+							"materials": {
+								"ukcs": [
+									"ak47.vtf",
+									"aug.vtf",
+									"awp.vtf",
+									"ctkillsn.vmt",
+									"ctkillsn.vtf",
+									"ctkillsn2.vtf",
+									"deagle.vtf",
+									"defuse.vtf",
+									"elite.vtf",
+									"famas.vtf",
+									"fiveseven.vtf",
+									"g3sg1.vtf",
+									"galil.vtf",
+									"glock18.vtf",
+									"grenade.vtf",
+									"knife.vtf",
+									"m249b.vtf",
+									"m3.vtf",
+									"m4a1.vtf",
+									"mac10.vtf",
+									"medal-ak47.vmt",
+									"medal-aug.vmt",
+									"medal-awp.vmt",
+									"medal-ctkillsn2.vmt",
+									"medal-deagle.vmt",
+									"medal-defuse.vmt",
+									"medal-elite.vmt",
+									"medal-famas.vmt",
+									"medal-fiveseven.vmt",
+									"medal-g3sg1.vmt",
+									"medal-galil.vmt",
+									"medal-glock18.vmt",
+									"medal-grenade.vmt",
+									"medal-knife.vmt",
+									"medal-m249b.vmt",
+									"medal-m3.vmt",
+									"medal-m4a1.vmt",
+									"medal-mac10.vmt",
+									"medal-mp5navy.vmt",
+									"medal-p228.vmt",
+									"medal-p90.vmt",
+									"medal-plant.vmt",
+									"medal-rescue.vmt",
+									"medal-scout.vmt",
+									"medal-sg550.vmt",
+									"medal-sg552.vmt",
+									"medal-tkillsn2.vmt",
+									"medal-tmp.vmt",
+									"medal-ump45.vmt",
+									"medal-usp.vmt",
+									"medal-xm1014.vmt",
+									"mp5navy.vtf",
+									"p228.vtf",
+									"p90.vtf",
+									"plant.vtf",
+									"rescue.vtf",
+									"scout.vtf",
+									"sg550.vtf",
+									"sg552.vtf",
+									"tkillsn.vmt",
+									"tkillsn.vtf",
+									"tkillsn2.vtf",
+									"tmp.vtf",
+									"ump45.vtf",
+									"usp.vtf",
+									"xm1014.vtf"
+								]
+							}
+						}
+					}
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 321264,
+			"_nDownloadCount": 1792,
+			"_nFilesize": 693850,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/321264",
+			"_sFile": "aim_wallbang_6.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1279722293
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 109306,
+	"_sName": "aim_wallbang",
+	"_sText": "This is one of my first maps made using the Valve Hammer WorldCraft tool.\r\n\r\nThis is a basic map that is made to help you get better at hitting people through walls (eg. through double-doors in de_dust2). It's a basic field, with a wooden wall right down the middle. You must shoot through this wall in order to kill your enemy on the other side. To make things easier, I've added spaces in the wall so that you can see your enemy and try to predict where they are moving to, then \"wall-bang\" them. To prevent people from cheating and simply shooting through these gaps, I've made them bullet-proof, and solid so that you may not shoot/walk through them. They work as an invisible wall.\r\n\r\nI've added 4 weapon dispensers on each side of the field (where each team spawns). These will give you Ak47s, M4A1s, AWPs and DEAGLES. These weapons are provided with nearly-full clips so that \"frequent\" re-dispensing is required.\r\n\r\n*UPDATE*\r\nFixed some bugs:\r\n1. The weapon dispensers would shoot the weapons out the sides. FIXED\r\n2. When the weapon dispenser on one side of the map was used, the one on the other side would also dispense a weapon. FIXED\r\n\r\nIf you find any more bugs, please post them in your feedback. THANKS."
+}

@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"bhop_space.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 285288,
+			"_nDownloadCount": 1314,
+			"_nFilesize": 57366161,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/285288",
+			"_sFile": "bhop_space_2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1415700960
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 126043,
+	"_sName": "bhop_space",
+	"_sText": "Fixed a problem with the boosters, re-download the map if you downloaded it within a few minutes after it was uploaded or played the test version.\r\n\r\nA short map intended for speedrunning.\r\n\r\nI started making this map in order to try out a new 1-hop trigger system I invented which didn't work out (changed to mpbhops), hence the blocks being positioned the way they are. I think some areas could've used some additional detailing, but I don't feel like spending any more time on it. Comes with a bonus and some secrets."
+}

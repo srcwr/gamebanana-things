@@ -1,0 +1,46 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "info.readme.txt",
+					"1": "ze_temple_raider_b4.bsp",
+					"entwatch cfg": [
+						"ze_temple_raider_b4.cfg"
+					],
+					"required plugin": {
+						"cstrike": {
+							"addons": {
+								"sourcemod": {
+									"plugins": [
+										"roundtimeextender.smx"
+									],
+									"scripting": [
+										"roundtimeextender.sp"
+									]
+								}
+							}
+						}
+					}
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 382588,
+			"_nDownloadCount": 826,
+			"_nFilesize": 49929019,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/382588",
+			"_sFile": "ze_temple_raider_b4.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1526328896
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 131043,
+	"_sName": "ze_temple_raider_b4",
+	"_sText": "A map with 1 challenging level. Don't be disappointed when it is 0-20. Learn the map, get to know where to hold more.. Without teamwork you will fail.. HARD! Prove what YOU and your TEAM are worth!<br><br>?Can you win it?"
+}

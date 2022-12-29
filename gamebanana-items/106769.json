@@ -1,0 +1,67 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "README.txt",
+					"maps": [
+						"aim_deagle_basement_BETA1.bsp"
+					],
+					"materials": {
+						"RealWorldTextures": {
+							"0": "glass.vmt",
+							"1": "glass.vtf",
+							"2": "glass_break.vmt",
+							"3": "glass_break.vtf",
+							"glass": [
+								"Glass_01.vmt",
+								"Glass_01_P.vmt",
+								"Glass_01_P.vtf",
+								"Glass_01_nrm.vtf"
+							]
+						},
+						"custommaterials": [
+							"matrixcode.vmt",
+							"matrixcode.vtf"
+						],
+						"nature": [
+							"water_tunnels01.vmt",
+							"water_tunnels01_beneath.vmt",
+							"water_tunnels01_beneath_dx8.vmt",
+							"water_tunnels01_cheap.vmt",
+							"water_tunnels01_dx8.vmt"
+						]
+					},
+					"screenshots": [
+						"cs_deagle_alpha0000.jpg",
+						"cs_deagle_alpha0001.jpg",
+						"cs_deagle_alpha0002.jpg",
+						"cs_deagle_alpha0003.jpg",
+						"cs_deagle_alpha0004.jpg",
+						"cs_deagle_alpha0005.jpg",
+						"cs_deagle_alpha0006.jpg",
+						"cs_deagle_alpha0007.jpg",
+						"cs_deagle_alpha0008.jpg"
+					]
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 316779,
+			"_nDownloadCount": 1204,
+			"_nFilesize": 2504105,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/316779",
+			"_sFile": "aim_deagle_basement_beta1_3.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1291300805
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 106769,
+	"_sName": "Aim_deagle_basement_beta",
+	"_sText": "<INFO>\r\n_________________________________________________\r\nThis map is my little side project and it's presently only beta version.\r\n\r\n-PLEASE tell me if textures or knife fight music is missing or if you find leaks or bugs in the map\r\n\r\n- includes few custom textures\r\n\r\n-map is completely dark (except knife fight area)\r\n \r\n[IMPORTANT]-Flashlight is required and its MUST BE ALLOWED if you run this map in you server because you cant see anything without it-[IMPORTANT]\r\n\r\n-Playing in completely dark with only flashlight is new multiplayer experience and its much more harder than playing in normal map\r\n\r\n-players can use desert eagles,knifes and smoke grenades but if you go in knife fight area then weapon stripper removes all weapons and you have to take knife in the ground\r\n\r\n-map includes sound scape's and matrix music in knife fight area\r\n----------------------------------------------------------------------------------------------------------------------------------------------------------------\r\nINSTALLING\r\n\r\n-extract materials and maps folders in your cstrike folder and if it ask to overwrite click yes to all.\r\nTypical cstrike folder C:\\Program Files\\Steam\\steamapps\\your steam account name\\counter strike source\\cstrike\r\n-----------------------------------------------------------------------------------------------------------------\r\nCREDITS\r\nAll credits of mapping goes to me but i have to thank a guy who made cs_deagle5 map because it inspired me to do this map\r\n----------------------------------------------------------------------------------------------------------------------------\r\n                             \t\t\t\t\t\t "
+}

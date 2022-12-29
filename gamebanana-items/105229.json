@@ -1,0 +1,47 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrike": {
+						"maps": [
+							"aim_10th_mountains.bsp",
+							"aim_10th_mountains.nav",
+							"aim_10th_mountains.nav.ztmp"
+						],
+						"materials": {
+							"overviews": [
+								"aim_10th_mountains.VTF",
+								"aim_10th_mountains.vmt",
+								"aim_10th_mountains_radar.VTF",
+								"aim_10th_mountains_radar.vmt"
+							]
+						},
+						"resource": {
+							"overviews": [
+								"aim_10th_mountains.txt"
+							]
+						}
+					}
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 343810,
+			"_nDownloadCount": 2506,
+			"_nFilesize": 3276742,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/343810",
+			"_sFile": "aim_10th_mountains.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1204313958
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 105229,
+	"_sName": "aim_10th_mountains",
+	"_sText": "Hi all,\r\n\r\nI basicly started this map for the 10th moutains clan (http://10th-mountains.com), but i will make it public to as: aim_10th_moutains\r\n\r\nThe idea was to create a map that has realism, it had to be a urban/city type off map and it had to be dusty. So this is the result. I did focust on the outside, rather than the inside but i got like at least 6 building you can go in, and 3 of them have a 2nd floor. The map alsow has background noises, like on my other (slightly to big) map; cs_Dessert_Conflict. So you hear guns being fired in the distence and you hear explosions and stuf like that. All of those sounds are randomly played over a period of 5 min from the start of the round. I liked that on my last map so I used it again. What i didn't made this time was a 3d skybox, simply because it wasn't needed. And I don't have HDR light on the map, thats because 2 lightmaps make the file a little to big, and i like the size now that's around 5 MB. I've alsow included a radar, again players are not able to download it from your server, if you do want that: ad it to the bsp with pakrat or something. The size wil grow to about 15 MB's when you do that. That's why I didn't. So the radar and overview are in the .rar file but players just cant download them from your server. After all, missing the radar won't make a big difference. But you will see. Bots can go evrywhere, so they can also go upstairs, set them to extreme, and you will have a good time getting owned :) Max players/bots : 24 dont have more spawns. So 12 players per team. Best way to play the map: i think anything bolow 8 vs 8.\r\n\r\nMay wana take a look at this movie of the map: \r\n<object width=\"425\" height=\"355\"><param name=\"movie\" value=\"http://www.youtube.com/v/vZ2OAozneTI\"></param><param name=\"wmode\" value=\"transparent\"></param><embed src=\"http://www.youtube.com/v/vZ2OAozneTI\" type=\"application/x-shockwave-flash\" wmode=\"transparent\" width=\"425\" height=\"355\"></embed></object>\r\n\r\nOverall i hope you guys like my map and good luck playing on it ;)\r\nDennis van Heeren  - ingame: Mr.Shotgun_NL"
+}

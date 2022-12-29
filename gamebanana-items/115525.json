@@ -1,0 +1,46 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"_bg_zombie_escape": {
+						"cfg": [
+							"autoexec.cfg"
+						],
+						"maps": [
+							"bg_zombie_escape.bsp"
+						],
+						"materials": {
+							"console": [
+								"bg_zombie_escape.vmt",
+								"bg_zombie_escape.vtf",
+								"bg_zombie_escape_widescreen.vmt",
+								"bg_zombie_escape_widescreen.vtf"
+							]
+						},
+						"scripts": [
+							"ChapterBackgrounds.txt"
+						]
+					}
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 289507,
+			"_nDownloadCount": 1256,
+			"_nFilesize": 11938268,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/289507",
+			"_sFile": "bg_zombie_escape_3.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1393256211
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 115525,
+	"_sName": "bg_zombie_escape",
+	"_sText": "You're NOT allowed to change any parts of this map or use any parts of this map on other maps.\r\n\r\n--------------------------------------------\r\n\r\nMy 4th CS:S map. It works as a main menu's dynamic background, like in HL2 for example. It replaces the default static background image with a special Zombie Escape themed map.\r\n\r\nContent:\r\n\r\n- Custom loading screen;\r\n- Background map that contains 2 random rooms;\r\n- Music in each random room that can be adjusted in Options > Sound > Music Volume.\r\n\r\n--------------------------------------------\r\n\r\nInstallation\r\n\r\n- Download the bg zombie escape.rar archive;\r\n- Unpack it's content into your CSS/cstrike/custom folder. **IMPORTANT**: You must keep the folders hierarchy exactly the same as in the archive (for example, the materials folder should be in \"CSS/cstrike/custom/_bg zombie escape/materials\");\r\n\r\n\r\n**IMPORTANT**:\r\n\r\nThe map is using a custom autoexec.cfg file which contains console commands needed for the map to work. If you're already using your own autoexec.cfg, delete the new one and add next strings to your file:\r\n\r\n\tmap_background bg_zombie_escape\t\t\t// enabling the map as the background\r\n\tmat_colorcorrection 1\t\t\t\t\t// enabling color correction for better look of the map (optional, but recommended)\r\n\r\n--------------------------------------------\r\n\r\nDe-installation\r\n\r\nIf for whatever reason you don't want this map to stay as the background anymore, just delete your \"CSS/cstrike/custom/_bg zombie escape\" folder. If you are using your own autoexec.cfg file, also delete the strings listed above from it. \r\n\r\n--------------------------------------------\r\n\r\nNotes\r\n\r\n- Since the map itself takes much more disc space than a single simple default background image, it makes the game to launch much longer.\r\n- The map sets \"mp_autokick\" parameter to 0, since without it the map will keep closing after about 3-4 minutes and changing to the loading screen image without any warning.\r\n\r\n--------------------------------------------\r\n\r\nBeta\r\n\r\nThe map is in beta right now. I'm planning to add one more random room to it.\r\nI'll add a short preview video soon for these who don't want to download a huge 11 MB archive without knowing what's in it.\r\n\r\n--------------------------------------------\r\n\r\n--------------------_**UPDATE**_--------------------\r\n\r\nI forgot to include the color correction file. It's fixed now, so people who have already downloaded the map should redownload it again to see the map the way it's supposed to be. Thanks."
+}

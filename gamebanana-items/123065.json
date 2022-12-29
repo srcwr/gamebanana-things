@@ -1,0 +1,58 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"surf_stray.bsp",
+					"surf_tree.bsp",
+					"surf_weathered_stray.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 503705,
+			"_nDownloadCount": 39,
+			"_nFilesize": 5907436,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/503705",
+			"_sFile": "surf_stray_4e92d_48bde.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1609020857
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "added hard version"
+				}
+			],
+			"_sText": "beep boop",
+			"_sTitle": "surf_weathered_stray",
+			"_tsDateAdded": 1609021289
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "Fixed leak in the map"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added lights"
+				}
+			],
+			"_sText": "<span class=\"GreenColor\">haha</span>",
+			"_sTitle": "final",
+			"_tsDateAdded": 1599294911
+		}
+	],
+	"_idRow": 123065,
+	"_sName": "surf_stray",
+	"_sText": "haha<br><br>`^`"
+}

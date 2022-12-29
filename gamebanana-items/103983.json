@@ -1,0 +1,43 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrike": {
+						"maps": [
+							"de_site23.bsp",
+							"de_site23.nav"
+						],
+						"materials": {
+							"overviews": [
+								"de_site23.vmt",
+								"de_site23.vtf"
+							]
+						},
+						"resource": {
+							"overviews": [
+								"de_site23.txt"
+							]
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 329145,
+			"_nDownloadCount": 3007,
+			"_nFilesize": 5621409,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/329145",
+			"_sFile": "de_site23.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1251755404
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 103983,
+	"_sName": "de_site23",
+	"_sText": "Final much improved version of de_23\r\n\r\nAdded a whole extra section to address some balancing issues. I felt the bottom bombsite (B) was slightly isolted and having tested this map it is now much better to play.\r\n\r\nI've also added lots of extra detail and addressed all of the concerns levelled at the original map. Having tested this map substantially myself and with a few friends i'm hoping people will take a look at this one and give me some feedback.\r\n\r\nI haven't generated a .nav file for this as i've had a few problems with these in the past. Also i've tried many times but cant seem to get the map overview working. I created the texture for the overview and it works fine in hammer but can't get it to work in game so any suggestions would be great.\r\n\r\n******************UPDATE*******************************\r\n\r\nIncluded all the files needed now, including .nav file and the files needed to get the overview working. (see install instructions)\r\n\r\nI'm hoping that this could be tested with more players so anyone who thinks this might be a good map to play and has access to a server all your help would be fantastic.\r\n\r\nHow you like it."
+}

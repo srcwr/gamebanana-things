@@ -1,0 +1,48 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "leia-me.txt",
+					"maps": [
+						"cs_scrap-iron.bsp",
+						"cs_scrap-iron.nav",
+						"cs_scrap-iron.res",
+						"cs_scrap-iron.txt"
+					],
+					"materials": {
+						"TioRAC": [
+							"created.vmt",
+							"created.vtf",
+							"madeinbrazil.vmt",
+							"madeinbrazil.vtf"
+						]
+					},
+					"sound": {
+						"TioRAC": [
+							"brigacasal1.mp3",
+							"cerveja.wav",
+							"credit.mp3"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 352288,
+			"_nDownloadCount": 1537,
+			"_nFilesize": 2740315,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/352288",
+			"_sFile": "cs_scrap-iron.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1176081978
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 100421,
+	"_sName": "cs_scrap-iron",
+	"_sText": "My first map"
+}

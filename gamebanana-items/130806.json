@@ -1,0 +1,35 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"ze_infiltration_final": {
+						"0": "README.txt",
+						"Cstrike": {
+							"Maps": [
+								"ze_infiltration_final.bsp",
+								"ze_infiltration_final.cache"
+							]
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 319477,
+			"_nDownloadCount": 5116,
+			"_nFilesize": 59582205,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/319477",
+			"_sFile": "ze_infiltration_final.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1283375651
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 130806,
+	"_sName": "ze_infiltration_final",
+	"_sText": "<hr>\r\n<h2>ze_infiltration version 3.0 (FINAL)</h2>\r\n<p>Map made by: Per30010 - Luffaren (same person)\r\nYoutube: Per30010\r\nFpsbanana: Per30010\r\nSteamnick: Luffaren\r\nadd me: per_r94</p>\r\n<hr>\r\n<h2>Installation instructions</h2>\r\n<p>...open cstrike/maps and extract all files to \r\n\"C:/program/steam/steamapps/\"steamnick\"/counter-strike:source/cstrike/maps\"\r\nStart/restart Cs:s and type \"map ze_inflitration\" in the console or just create a server.</p>\r\n<hr>\r\n<h2>Map description</h2>\r\n<ul>\r\n<li>\r\n<p>64 players</p>\r\n</li>\r\n<li>\r\n<p>Cubemapped</p>\r\n</li>\r\n<li>\r\n<p>5 different spawns</p>\r\n</li>\r\n<li>\r\n<p>Size of map - Large</p>\r\n</li>\r\n<li>\r\n<p>music - (Halo by bungie)</p>\r\n</li>\r\n<li>\r\n<p>Soundscaped</p>\r\n</li>\r\n<li>\r\n<p>particle systems</p>\r\n</li>\r\n<li>\r\n<p>3d skybox</p>\r\n</li>\r\n<li>\r\n<p>Secrets</p>\r\n</li>\r\n<li>\r\n<p>Helicopter</p>\r\n</li>\r\n<li>\r\n<p>Tram</p>\r\n</li>\r\n<li>Elevators</li>\r\n</ul>\r\n<hr>\r\n<h2>UPDATE V.2.0</h2>\r\n<ul>\r\n<li>\r\n<p>Added trigger_hurt in the secret area</p>\r\n</li>\r\n<li>\r\n<p>Fixed a bug when the same music could play twice</p>\r\n</li>\r\n<li>\r\n<p>Added another smaller secret (not an area)</p>\r\n</li>\r\n<li>\r\n<p>Added crane platform in the crane room</p>\r\n</li>\r\n<li>\r\n<p>Fixed the elevator to go faster and move\r\ndown the ladder another floor</p>\r\n</li>\r\n<li>\r\n<p>Fixed texture problems</p>\r\n</li>\r\n<li>\r\n<p>Fixed filesize by converting the .wav files to .Mp3 files (thanks kaemon) :)</p>\r\n</li>\r\n<li>\r\n<p>shortened the map to go a little bit faster due to mp_roundtime 9 \r\n(if it still isnt fixed, please give me some feedback what i can shorten up)</p>\r\n</li>\r\n<li>Added a very very small amount of detail</li>\r\n</ul>\r\n<hr>\r\n<h2>UPDATE V.3.0 (FINAL)</h2>\r\n<ul>\r\n<li>\r\n<p>Fixed all the texture issues</p>\r\n</li>\r\n<li>\r\n<p>Changed the helicopter route </p>\r\n</li>\r\n<li>\r\n<p>Speeded up the helicopter</p>\r\n</li>\r\n<li>\r\n<p>Fixed some timing issues</p>\r\n</li>\r\n<li>\r\n<p>Changed the vortex</p>\r\n</li>\r\n<li>\r\n<p>!Secret!</p>\r\n</li>\r\n<li>\r\n<p>Fixed an issue when players could block the tram</p>\r\n</li>\r\n<li>\r\n<p>Imported an voiceover from the movie predator</p>\r\n</li>\r\n<li>\r\n<p>Fixed an issue when zombies got stuck in a trap</p>\r\n</li>\r\n<li>\r\n<p>Made more console messages for less confusion</p>\r\n</li>\r\n<li>\r\n<p>Fixed an issue when players could jump on a fence and get knifed by zombies</p>\r\n</li>\r\n<li>\r\n<p>Changed a secret</p>\r\n</li>\r\n<li>\r\n<p>Made an extra effect at the end. The platform that sticks out falls after the \r\nhelicopter goes by it.</p>\r\n</li>\r\n<li>Changed music timing a bit</li>\r\n</ul>\r\n<hr>\r\n<h2>Notes</h2>\r\n<p>if there is any issues please contact me,\r\ni will fix them in the next version.\r\nPLEASE ADD THIS MAP TO YOUR SERVER,\r\nit would be much appriceated ;D</p>\r\n<p>Update v.3.0 (final)!</p>\r\n<p>This is it! The final version of ze_infiltration\r\nDownload it, upload it to your server and play it!</p>\r\n<p>Thank you all! </p>\r\n<hr>\r\n<h2>Special thanks </h2>\r\n<p>Tophattwaffle - he taught me some good stuff.\r\nValve - for making Cs:s, U ROCK VALVE!\r\nBungie - for the soundtracks of awesomeness. Love bungie!\r\nKaemon - for giving me great feedback and support!\r\nSandfly - for giving me huge support (sent me the voiceover etc)! \r\nHe also gave me a huge step into the mapping community!</p>\r\n<hr>\r\n<h2>HAVE FUN! </h2>\r\n<p>...also prepare for something upcoming... &gt;:D</p>"
+}

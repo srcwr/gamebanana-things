@@ -1,0 +1,49 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"bhop_vandora.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 552130,
+			"_nDownloadCount": 89,
+			"_nFilesize": 46512987,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/552130",
+			"_sFile": "bhop_vandora_48e4f.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1618417214
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "fixed lightning"
+				},
+				{
+					"cat": "-",
+					"text": "resized props"
+				},
+				{
+					"cat": "-",
+					"text": "trigger_teleports now have !activator parameter"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "fix",
+			"_tsDateAdded": 1618417706
+		}
+	],
+	"_idRow": 126300,
+	"_sName": "bhop_vandora (CSS)",
+	"_sText": "original map by smokedout<br>port from csgo<br><br>"
+}

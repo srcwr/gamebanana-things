@@ -1,0 +1,31 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"ze_prototype_v2": [
+						"Read Me.txt",
+						"ze_prototype_v2.bsp"
+					]
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 301198,
+			"_nDownloadCount": 3539,
+			"_nFilesize": 57634166,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/301198",
+			"_sFile": "ze_prototype_v2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1343781583
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 130937,
+	"_sName": "ze_prototype_v2",
+	"_sText": "ZE PROTOTYPE V2\r\n==================\r\n\r\nFeatures\r\n------------------\r\n- Level System: As seen in many other popular maps (Mako, Pred, Paper) are levels. My map has 3 missions (Easy, Hard, and Extreme) and ends with a ZM round.\r\n\r\n- Music and CC: Each mission has a variety of music and I make use of Color Correction to spice up the environment.\r\n\r\n- Models: I used a model from Dan's Pack as well as custom made Helicopter and APC to add some taste to the map.\r\n\r\n- Secret Items: Two different items (both of which can be used to ease the final stand in Mission 2) spawn at one of five different locations. One makes defending easier, one makes attacking easier.\r\n\r\n- Admin room/Level Selection: Located behind the APC in the spawn area you can control the levels.\r\n\r\n- Particle Effects: These add much better visuals for the map (despite the pain they were to figure out!)\r\n\r\nFeedback\r\n------------------\r\nIf anyone has the time, I would be very grateful to have as much feedback as I can get. Please feel free to critique the hell out of my map and leave the feedback in the comments below!\r\nThank-you and I hope you like Prototype!\r\n\r\n\r\nChange Log\r\n------------------\r\n### B2\r\n- Fixed missing textures on helicopter\r\n- Fixed missing sounds\r\n### B3\r\n- Fixed balancing issues at end of Mission 1\r\n### B4\r\n- Reworked the teleporting system for AFK/losers who camp the beginning. It should be good to go.\r\n### B5\r\n- Mostly small changes to make the map enjoyable while I work on the official V1 release\r\n- Reworked the teleport system and fixed up the ending hold point in Mission 1\r\n### V1\r\n- Introduced particle effects to the map for better visuals\r\n- Whole new level (Extreme) + boss.\r\n- Rebalancing based off of suggestions\r\n- 2 new songs\r\n- 1 new secret weapon spawn spot (not a new weapon, same as before) on Mission 2 (Hard)\r\n### V1_fix\r\n- Reworked the teleporting AGAIN. Much simpler design and should be playable w/o getting stuck.\r\n- Moved the level choosing system to another area due to shooting through walls causing problems. Admins can access it by noclipping behind the APC at spawn and going through the teleport.\r\n- Fixed the Color Correction not disabling at the end of Mission 2 when failing\r\n- Added a failure if zombies get too close to the final stand point in Mission 3 (prevents glitching into the \"win\" room if humans lose)\r\n### V2\r\n- Fixed the rock glitch that allowed you to skip to level 2\r\n\r\nOther ZE maps\r\n------------------\r\nGameshow_v1_2: http://csszm.gamebanana.com/maps/172357"
+}

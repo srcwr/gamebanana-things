@@ -1,0 +1,40 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"bhop_futile_fix.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 740899,
+			"_nDownloadCount": 81,
+			"_nFilesize": 11286907,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/740899",
+			"_sFile": "bhop_futile_fix_e0e07.rar",
+			"_sMd5Checksum": "dcc3e55e22ea4ccef3e54cda5de22a28",
+			"_tsDateAdded": 1643843140
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Added playerclips to fix an exploit"
+				}
+			],
+			"_sText": "Fix created by cammyhops",
+			"_sTitle": "fix",
+			"_tsDateAdded": 1643763436
+		}
+	],
+	"_idRow": 125107,
+	"_sName": "bhop_futile",
+	"_sText": "For those who like to be challenged.<br><br>I call this a bhop unit map. You need precise units to make it through the map. Every platform enforces one jump.<br><br>Special thanks to everyone who helped test this. I would not have been able to make this without them.<br><br>"
+}

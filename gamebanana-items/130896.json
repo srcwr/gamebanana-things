@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"Read Me.txt",
+					"ze_notredame_v1_3.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 290348,
+			"_nDownloadCount": 1707,
+			"_nFilesize": 27430420,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/290348",
+			"_sFile": "ze_notredame_v1_3.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1389366386
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 130896,
+	"_sName": "ze_NotreDame_v1_3",
+	"_sText": "Time Splitters Notre Dame V1 - Release Date 10/01/2013\r\n\r\nVisit - www.lagmasters.co.uk for more Source development work\r\n\r\nInstallation Instructions:\r\nPlease place inside your Couter Strike Source Map Folder\r\n\r\nMap Version: Version 1.3\r\n\r\nIMPORTANT: PLEASE MAKE SURE YOU HAVE NOBLOCK MOD RUNNING\r\n\r\nCredits:\r\n- Based off the Time Splitters 2 - Notre Dame\r\n- CSS Map created by: Mononoke\r\n- Time Splitters 2 Music & Models belongs to respective owners\r\n- Catherdral Textures belong to respective owners\r\n\r\nContact Email: mononokie12@gmail.com\r\n\r\nNotes:\r\n- New Boss System implemented but it required me to make an extra area.\r\n- Boss Health +125 per CT in boss room.\r\n- AI Zombies have 650HP each. Headshots only.\r\n- Pickup Items by picking up duel elites. Cool down of 1 minute each\r\n\r\nFixes/New Features\r\n- Fixed Broken Teleport\r\n- Linked ground floor spawns to help zombies if they get stuck in one area\r\n- Extra spawn path for zombies to help push humans into the first defence room, rather than hide by the gutter gate.\r\n- Moved guttergate forward so CT's cannot defend and bottle neck  approaching zombies. \r\n- Increased shotgun force to actually do some damage\r\n- Newly implemented boss system using math counter. System required me to make a new boss room (slightly bland but it works for now)\r\n- Use nades on boss to do 50 damage\r\n- Boss will follow players rather than get stuck\r\n- Added alternative path at wood stairs to stop CT's defending too early. Climb ropes between concrete supports.\r\n- Added slight hint to theme of my next map\r\n\r\n\r\nPrevious Fixes\r\n- Recreated ending of map (Notre Dame Tower Climb)\r\n- Item cool down is now 1 minute to stop spamming.\r\n- Map Timer changed to 10 minutes\r\n- Added explosion effect to Undead Priest Item\r\n- Fixed func_brush which was not resetting causing the map to block after first round\r\n- Packed Maiden Model Texture\r\n- Added Extra tunnels to avoid bottle neck in final defence room\r\n- Fixed Crypt Zombie Health\r\n- Increased all AI zombie health to 650\r\n- Added interactive components to Catacomb\r\n- Reduced zombie walk speed for realistic effect\r\n- Added  Character item Viola - 5 Second Speed Boost / 30 Second Cooldown\r\n- Added  Character item Hunchback - Shotgun Push / 30 Second Cooldown\r\n- Added  Character item Undead Priest - Set zombies on fire for 10 seconds / 30 Second Cooldown\r\n- Added higher door blocking damage for Wine Cellar\r\n\r\n\r\nKnown Issues/Future Improvements\r\n- Character models start randomly moving (this is something I cannot control due to parenting the models. Tried recompiling but it did nothing).\r\n- Boss Balancing\r\n- Tweak Items if required\r\n- Tweak Item Trigger Heights if required\r\n- Balancing and Bug fixing dependant on community feedback.\r\n\r\nNote\r\n- Unless anything is majorly broken, this will be the last release of the map. Working on my new map if you can guess what it is :)\r\n\r\nMy Other Time Splitters Map:\r\nZombie Escape - Time Splitters Virtual - http://css.gamebanana.com/maps/167314"
+}

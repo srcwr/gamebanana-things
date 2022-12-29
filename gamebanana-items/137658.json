@@ -1,0 +1,77 @@
+{
+	"_aAlternateFileSources": [
+		{
+			"url": "https://yadi.sk/d/nmlPAKoF3MTtGP"
+		}
+	],
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "zr_zombie_arena.bsp.bz2",
+					"cstrike": {
+						"addons": {
+							"sourcemod": {
+								"configs": {
+									"zr": [
+										"models.rar",
+										"zombie-arena.txt"
+									]
+								}
+							}
+						},
+						"cfg": {
+							"sourcemod": {
+								"zombiereloaded": [
+									"zr_zombie_arena.cfg"
+								]
+							}
+						},
+						"maps": [
+							"zr_zombie_arena.bsp",
+							"zr_zombie_arena.nav"
+						],
+						"models": {
+							"player": {
+								"zh": [
+									"zh_zombie003.rar"
+								]
+							}
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 277913,
+			"_nDownloadCount": 1535,
+			"_nFilesize": 287444,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/277913",
+			"_sFile": "zr_zombie_arena_9ec5b.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1465810438
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "zombie_arena --> zr_zombie_arena"
+				},
+				{
+					"cat": "-",
+					"text": "add *.bz2 in archive"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Rename",
+			"_tsDateAdded": 1504119618
+		}
+	],
+	"_idRow": 137658,
+	"_sName": "zr_zombie_arena",
+	"_sText": "Hopefully, there will use this map.<br><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/_9oR8dTF56I\" frameborder=\"0\" allowfullscreen=\"\"></iframe><br>Humans can use the command !zshield to protect against zombies for 3 sec., every 15 sec.<br>(Configured in \\cstrike\\addons\\sourcemod\\configs\\zr\\zombie-arena.txt)<br><br>If you want to add bots&nbsp;look in \\cstrike\\cfg\\sourcemod\\zombiereloaded\\zr_zombie_arena.cfg"
+}

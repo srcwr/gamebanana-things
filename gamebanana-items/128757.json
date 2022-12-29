@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"mg_survival_v1_4.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 332167,
+			"_nDownloadCount": 1886,
+			"_nFilesize": 1136577,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/332167",
+			"_sFile": "mg_survival_v1_4.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1241213967
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 128757,
+	"_sName": "mg_survival_v1_4",
+	"_sText": "<font color=\"green\">Sorry for the so many trashed posts. FPSB is giving me some troubles uploading and editing my uploaded maps :(.</font>\r\n\r\n<fieldset><legend><b>Update 1-5-09</b></legend>\r\nBug fix:\r\n - Fixed a bug that caused the damage field not to reset when the red button was pressed.\r\nExtra:\r\n - Added a new event.\r\n</fieldset>\r\n\r\n<fieldset><legend><b>Update 30-4-09</b></legend>\r\nBug fixes:\r\n - Fixed a bug that would cause the red buttons not to function when pressed to early\r\n - The wall in the middle will now disappear when 6 (instead of 10) rounds have been played.\r\n\r\nAdditional info:\r\n - Added some moving obstacles to the map.\r\n</fieldset>\r\n\r\nIt goes like this:\r\n\r\nThere are 5 events that can randomly happen. Once the first event has ended, the next will start. This will keep happening. If the players can survive 6 events, the events will stop happening, the walls in the middle will disappear, and players will be able to pick up a deagle with 7 bullets or just go in with nothing but a knife.\r\n\r\nThe last team standing wins.\r\n\r\n<font color=\"red\">If you find any bugs, please let me know</font>"
+}

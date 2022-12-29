@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"README.txt",
+					"xc_citadel_01_v2.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 313583,
+			"_nDownloadCount": 3568,
+			"_nFilesize": 14485541,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/313583",
+			"_sFile": "_3657-.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1301979672
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 123684,
+	"_sName": "xc_citadel_01",
+	"_sText": "April 7, 2011 - V2 Released, changelog below\r\n\r\nThis is my first map, a climb built over the citadel map from HL2, because I decided that I wanted a map with more of a context than just floating platforms. <br>\r\nI learned a lot from building over an existing map (especially one by Valve) enabling me to make major extensions to it whilst preserving the visual and structural style of the combine citadel.<br>\r\n<br>\r\nThis map includes soundscapes, custom sounds and custom textures, so make sure to keep the bsp named as it should be.<br>\r\n<br>\r\nv2 changes<br>\r\n- Fixed being able to get on top of the little concrete surf<br>\r\n- Fixed elevators height glitching after players block them<br>\r\n- Adjusted some steps underneath the huge tilted piece of glass near 2 elevators<br>\r\n- Adjusted the positioning of combine terminals, making them easier to climb<br>\r\n- Adjusted ceiling of an area that players have to crawl through, in case they saved<br>\r\n- Placed playerclip underneath elevators to stop players getting crushed<br>\r\n- Added more arrows<br>\r\n- Added a ladder in case players dropped down to a wrong area and saved<br>\r\n- Removed an unintended step which players could get to<br>\r\n- Added \"xc_citadel_01 by Acren\" hint"
+}

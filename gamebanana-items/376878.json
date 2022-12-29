@@ -1,0 +1,50 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"aim_houseblock.bsp",
+					"aim_houseblock.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 798720,
+			"_nDownloadCount": 95,
+			"_nFilesize": 745174,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "Fixed and optimized",
+			"_sDownloadUrl": "https://gamebanana.com/dl/798720",
+			"_sFile": "aim_houseblock_35410.zip",
+			"_sMd5Checksum": "bd70264c12b8d261b218abc08ef426f9",
+			"_tsDateAdded": 1652536173
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "Added a ct buy zone"
+				},
+				{
+					"cat": "Optimization",
+					"text": "More nodraws"
+				},
+				{
+					"cat": "Tweak",
+					"text": "You can no longer see opponent's legs if you crouch on spawn"
+				}
+			],
+			"_sText": "<p>Slight changes and optimizations to the map, also including a ct buy menu zone because my dumb ass forgot to.</p>",
+			"_sTitle": "Fixed and optimized",
+			"_sVersion": "1.1",
+			"_tsDateAdded": 1652535820
+		}
+	],
+	"_idRow": 376878,
+	"_sName": "aim_houseblock",
+	"_sText": "A simple aim map i made in two days."
+}

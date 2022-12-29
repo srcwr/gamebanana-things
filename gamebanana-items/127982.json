@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"mg_fission_course_fix.bsp",
+					"readme.txt"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 310763,
+			"_nDownloadCount": 3663,
+			"_nFilesize": 30362382,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/310763",
+			"_sFile": "_7449-.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1310824731
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 127982,
+	"_sName": "mg_fission_course_fix",
+	"_sText": "[FIX]\r\n\r\n- Removed abilities granted from race, it crashed servers and also made completing the course again close to impossible.\r\n\r\n- Gave more attention to clipping in areas that were criticized.\r\n\r\n[/FIX]\r\n\r\nThis course is neither too difficult nor too easy to complete. There is a separate race course at the end, all players still alive when one player finishes will be teleported to the race. There is a spawn fail after five minutes of play; this is to allow multiple attempts at the early obstacles and to give opportunity for more participants in the death race. There is a theme to the map:\r\n\r\n You are part of a terrorist organization that is paid to infiltrate a nuclear energy facility posing as a construction warehouse. There was a fatal catastrophe at the plant and a scientist on the payroll has documents to pass on before his life expires. Get to the scientist, retrieve the documents and get out of there!\r\n\r\nCourse Obstacles:\r\n\r\n1. To open the main gate, get in to the security office and use the keyboard on the console. The security office door is sealed tight, so you have to figure out another way in.\r\n2. Make your way around the radiation and debris to the elevator hallway. The toxic floor is insta-death throughout the map.\r\n3. Level one lasers, these will add up to some major damage so don’t get sloppy\r\n4. Descend the elevator shaft using the notches on the side.\r\n5. Level two lasers, these are insta-death.\r\n6. Leap over the toxic floor and enter the ventilation.\r\n7. Use the console to open the door into the lab. Proceed through the machinery to the following room.\r\n8. Use the remains of the bridge to get to the door across the room; only after the button fails to open the door is an alternative route given.\r\n9. Use strafe jumps and precise timing to cross these platforms to the other side. Enter the room to complete the course.\r\n10. DEATH RACE – The player who completes the objective will have the option to: \r\n\r\nA. Enter through the door and be teleported to the Winnervator\r\n\r\nB. Remain in the map with the other players and be teleported to the holding room.\r\n\r\nThe player has 15 seconds to choose, after 15 seconds everyone still alive on the map will teleport to the holding room. Shortly after, the gate will open and players have roughly 15 seconds to climb before the rising water activates. The Winnervator will rise with the water, not harming whoever is inside, and the view is quite nice (Note: There is a button to send the Winnervator up inside as well. This is crucial for if there are no players eligible for the race (dead). At the top of the race course there is a disco room with two laser platforms. There are two ways in to this room, one through Winnervator access and the other at the top of the course, should you escape the water. Each platform in the room awards game points. There is a secret room in the map, and a few easter eggs as well.\r\n\r\nHave fun! Thanks for playing"
+}

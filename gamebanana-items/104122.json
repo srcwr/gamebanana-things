@@ -1,0 +1,41 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"wm_stmarc.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 408256,
+			"_nDownloadCount": 1592,
+			"_nFilesize": 135971167,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/408256",
+			"_sFile": "wm_stmarc_28c03.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1548322605
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Added vertex shadows"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Update 1.0",
+			"_tsDateAdded": 1548322792
+		}
+	],
+	"_idRow": 104122,
+	"_sName": "de_stmarc",
+	"_sText": "+ port stmarc by me. Prefix Name in game is wm (wingman mode) because in 2 on 2 is a batter balance for game, but map have a 16x16 spawn points<br>+ Used Early version of st. marc (more phys_props) <br>+ Create a smal optimaze (build areaportals)<br>+ Map no need a custom particles from cs go (Create a original visual effect like a smokes, police light etc)"
+}

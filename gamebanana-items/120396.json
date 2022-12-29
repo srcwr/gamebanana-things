@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ctf_castle_wars_v3.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 329339,
+			"_nDownloadCount": 2250,
+			"_nFilesize": 9958248,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/329339",
+			"_sFile": "ctf_castle_wars_v3.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1251142761
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 120396,
+	"_sName": "ctf_castle_wars_v3",
+	"_sText": "********************\r\n****ctf_castle_wars****\r\n********************\r\nMap made by: Westsid3r & >>Nemesi$[FR]<<\r\n\r\n*NEW IN V3*\r\n- Guns can't be spammed.\r\n- Guns protection added, hurt with 25hp when left clicking (same with the knife, dont use it).\r\n- When a flag is saved by his own team, it respawn only if the gun has been removed from the world.\r\n- The player who have the gun is forced to drop it by hurting. (when the flag is saved).\r\n- 1 minutes after the rounds start, the crown can open his own gate.\r\n- Only 1 king per team, if the king die, the crown is destroyed.\r\n- The crowns heal only the players of his own teams.\r\n- The flags are now detected immediatly : dont need to drop it to win.\r\n- Underground added.\r\n- Added more trees, rocks and high grass.\r\n- Fish added in water.\r\n- Water changed.\r\n- Added 12 more spawnpoints.\r\n- Barels respawn 20 seconds after using.\r\n- Barels not kill.\r\n- Lighning changed.\r\n- Cubemap added (= some walls have a reflect).\r\n- Skybox highest.\r\n- Applause can be heared when a team won by taking the flag.\r\n- Flag spawn like a trophy and light spot flashes when a team won with the flag.\r\n\r\nAdditional settings :\r\n\r\n- mp_limitteams 1 (to balance the game)\r\n- mp_freezetime 0 (no need freezetime, no buyzone)\r\n\r\n******************\r\n*****Map info:*****\r\n******************\r\n\r\nPlayer spawns: 72 (36 ct, 36 t)\r\nCannons: 4 (2 on each castle)\r\nThe ctf flags are on top of each castle\r\nPlayers spawn with knife only.\r\n\r\n*The flags are attached to a gun (USP)\r\n-Pick it up to take the flag\r\n-Bring it to the second floor in your base and drop it\r\n-If you die, you will drop the gun/flag on the floor. If a person from your team\r\ntakes it up, he wields it. If a enemy player takes the flag, the flag will be teleported back to the base.\r\n-If the flag is dropped into water, it will also teleport back to the base.\r\n-There is a gun protection.\r\n\r\n*Cannons\r\n-Cannons can shoot after each 5seconds\r\n-There is an instruction manual for the cannons on the wall nearby\r\n\r\n*Crowns\r\n-Pick the smokegrenade up above the gate and become the king of your castle\r\n-If you die, crown will be destroyed.\r\n-If you fire the smoke nade, the crown will disappear\r\n\r\n*Teamwork\r\n-Is required for more fun\r\n-Knifing the huge doors alone can be hard and boring, easier with more\r\n-Focus on helping the flag holder!\r\n\r\n******************\r\n\r\nThanks to:\r\nZalos for the ctf prefab, which got tweaked by myself.\r\nSmurfii, for his bridge prefab.\r\nRunescape, for the idea.\r\ni3D members and other people that helped testing this map."
+}

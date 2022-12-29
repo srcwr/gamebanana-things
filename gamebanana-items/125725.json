@@ -1,0 +1,45 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"bhop_perspective.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 474340,
+			"_nDownloadCount": 119,
+			"_nFilesize": 2045510,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "Quality of Life Update, fixed nodraw texture.",
+			"_sDownloadUrl": "https://gamebanana.com/dl/474340",
+			"_sFile": "bhop_perspective_fix.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1594773685
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "Fixed Nodraw Texture."
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Adjusted trigger placement for cleaner viewing."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Version 1.1",
+			"_tsDateAdded": 1594773997
+		}
+	],
+	"_idRow": 125725,
+	"_sName": "bhop_perspective",
+	"_sText": "<a href=\"https://gamebanana.com/maps/210969\">CS:GO Version</a><br><br>A fun bhop map about perspective and Fullbright colors!<br><br>Had fun creating this map, it needed a lot of troubleshooting but here it finally is!<br><br><span class=\"GreenColor\">Works for both Momentum Mod and CS:S!</span><br>"
+}

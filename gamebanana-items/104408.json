@@ -1,0 +1,36 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"maps": [
+						"de_train_old.bsp",
+						"de_train_old.nav",
+						"de_train_old.txt"
+					],
+					"resource": {
+						"overviews": [
+							"de_train_old.txt"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 351278,
+			"_nDownloadCount": 2668,
+			"_nFilesize": 4247900,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/351278",
+			"_sFile": "de_train_old.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1180464960
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 104408,
+	"_sName": "de_train_old original/radarfix",
+	"_sText": "This is the original de_train from the css beta wihout the new switcher layout and an fixed radar for source."
+}

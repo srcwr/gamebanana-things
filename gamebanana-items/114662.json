@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"README + Changelog.txt",
+					"fy_topfloor_v2.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 276588,
+			"_nDownloadCount": 1573,
+			"_nFilesize": 566058,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/276588",
+			"_sFile": "fy_topfloor_v2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1473581151
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 114662,
+	"_sName": "fy_topfloor_v2",
+	"_sText": "This fightyard map is based in the setting of an abandoned hotel building on the topfloor. It features 3 breakable walls separating 4 abandoned hotel rooms ready for battle. There's 3 ways to reach the enemy team in this map; 1: Though the hallway 2: Climbing out of a window and sneaking around via the catwalk or 3: (my personal favorite) Smashing right through the destructible walls.&nbsp;<br><br><br>Changelog v2:<br><br>-Removed exterior pipes on the catwalk:<br>The pipes located alongside the building were removed because they were too difficult to strafe jump around without falling. I've removed the pipes and added another small jump.<br><br>-Added decorative pipes along the catwalk:<br>Since the \"strafe pipes\" were removed, I've added a few extra \"out-of-the-way\" pipes for decoration.<br><br>-Adjusted wall texutre:<br>The interior wallpaper texture wasn't lining up properly in the hallway. I adjusted it slightly so it looks better.<br><br>-Changed lightbulbs:<br>The lighting looks too similar throughout the building so I replaced a few lightbulbs with slightly dimmer lights.<br><br>-Replaced physbox with func_breakable walls:This was a big issue. From T spawn the breakable walls looked a little glitchy with the lighting. I've replaced all the breakable walls with func_breakable walls so they look better.<br><br>-Rearranged hallway:<br>I've slightly rearranged the hallway props, as well as adding boards to the unopenable doors to make them obviously unopenable.<br><br>-Rearranged \"Room 3\" (Room after CT spawn):<br>The room directly after CT spawn has been a big issue. Players would often get stuck between a table and the beds in the middle and it would become frusterating. I've rearranged the room to prevent further issues.<br><br>-Replaced some static props with physics props:Some props should have been able to move with enough force. I've replaced the light-weighted props with physics so they will now be able to move.<br><br>"
+}

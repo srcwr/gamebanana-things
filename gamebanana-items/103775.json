@@ -1,0 +1,30 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"64_spawns.txt",
+					"de_rush.bsp",
+					"de_rush.nav",
+					"de_rush_readme.txt"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 354333,
+			"_nDownloadCount": 87360,
+			"_nFilesize": 14363310,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/354333",
+			"_sFile": "de_rush.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1166757688
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 103775,
+	"_sName": "de_rush",
+	"_sText": "About:\r\n------\r\nThis is the final version of de\\_rush, the 4th map of d00ds.com following de\\_losttemple, de\\_cpl_fire and de\\_nightfever.\r\nde\\_rush takes place on a small island, where you easily could spend your next holidays. Back from nightfever you'll find yourself in a warm and sunny environment, just in time to fight back a terrorist attempt to ruin your vacation day. So don't forget your sunglasses ...\r\n\r\nStory:\r\n------\r\n\"Cannab Island\" is under current terrorist attacks mostly blackmail. It wont take long before the terrorists execute more aggressive plans. A small counterterrorist unit has been dispatched to deal with the situation. Nobody knows yet what the terrorists are up to. So prepare for everything.\r\n\r\nLayout:\r\n-------\r\nThere are 3 main routes in the map: to the left rushing the beach to enter A, through the middle walking up the pier giving the opportunity to attack both A and B, to the right through the cave storming B. Both teams start closer to bomb spot A but have still a fair chance to attack/defend bomb spot B.\r\nThe map includes 40 spawns. If you want to upgrade to 64 spawns refer to 64\\_spawns.txt coming with this package.\r\n\r\nPerformance:\r\n------------\r\nLow detail models makes a lot of models much simpler without affecting gameplay. Some models like the ivy fade out completely.\r\nTheres a lot of water in the map, so using cheap water can give a fps boost too.\r\n\r\nFeedback:\r\n---------\r\nPlease send us bugs & comments to<br>\r\nc o n t a c t @ d 0 0 d s . c o m<br>\r\n(remove the spaces)\r\n\r\nPlease feel free to host the map for download or on your gameserver.<br>\r\nOriginal download @ http://d00ds.com\r\n\r\nAttention Server Admins:\r\n------------------------\r\nSince the map is larger than 16MB with all the custom content, put \"net\\_maxfilesize 64\" into server.cfg to allow download of the map.\r\nHowever with BZIP2, it is from now on possible to compress large files which the players must download before being able to play (e.g. maps...) This way you can reduce the size of the de\\_rush download from 34MB to 17MB. Also the file gets downloaded from your fast webserver. That allows an enormous saving of time at the time of the remote loading.<br>\r\nJust follow these easy steps:<br>\r\n* Download the file \"de\\_rush.bsp.bz2\" @ http://files.ingame.de/counterstrike/gameserver/maps/de_rush.bsp.bz2<br>\r\n* In your server.cfg set \"sv\\_downloadurl http://www.yourURLgoeshere.com/cstrike\". (insert your own domain name)<br>\r\n* In the public\\_html directory (default) of your webserver create a new folder \"cstrike\" and a subfolder \"maps\".<br>\r\n* Place the file \"de\\_rush.bsp.bz2\" in the folder \"cstrike/maps\" on the webserver via ftp.<br>\r\n* Keep in mind you still need to install the map de\\_rush.bsp on your gameserver as you would normally do.\r\n\r\nChanges for final:\r\n-------------------\r\n- fixed some small lighting issues\r\n- added place painted nav-file\r\n\r\nNo bot tweaks were made yet. I need a little more feedback on their behavior. But the nav-file can be updated anytime, cause it's not necessary for the clients. So if you see them acting strange post a descriptive comment in this thread please."
+}

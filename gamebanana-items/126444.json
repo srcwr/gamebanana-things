@@ -1,0 +1,103 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"kz_bhop_awake_fix.bsp"
+				],
+				"_sMimeType": "application/x-7z-compressed"
+			},
+			"_bContainsExe": false,
+			"_idRow": 382892,
+			"_nDownloadCount": 252,
+			"_nFilesize": 108841156,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "Fixed \"final\" version",
+			"_sDownloadUrl": "https://gamebanana.com/dl/382892",
+			"_sFile": "kz_bhop_awake_fix.7z",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1526613423
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "Fixed the single hop system. No more random teleports! (I hope)"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed first stage SoundScape playing random music."
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed a weird ladder at the lava room."
+				},
+				{
+					"cat": "Addition",
+					"text": "Add another Checkpoint at the lava room."
+				},
+				{
+					"cat": "Addition",
+					"text": "Add some particles in the 3D skybox."
+				},
+				{
+					"cat": "Addition",
+					"text": "Music/Lj room."
+				},
+				{
+					"cat": "Tweak",
+					"text": "Better visibility at the cave."
+				},
+				{
+					"cat": "Tweak",
+					"text": "Changed how the SoundScape works, dont want to hear it? Don't touch the Music trigger."
+				},
+				{
+					"cat": "Tweak",
+					"text": "Tweaked lighting in some places."
+				},
+				{
+					"cat": "Tweak",
+					"text": "Secret skin."
+				},
+				{
+					"cat": "Tweak",
+					"text": "Changed some textures here and there."
+				},
+				{
+					"cat": "Removal",
+					"text": "Removed some useless anti-prespeed triggers in the first stage. Gotta go fast, right?"
+				},
+				{
+					"cat": "Removal",
+					"text": "Removed 1 song."
+				}
+			],
+			"_sText": "Feel free to report any game breaking bugs.",
+			"_sTitle": "Stable.",
+			"_tsDateAdded": 1526614409
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "Fixed 3 bhop triggers."
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed the checkpoint at the lava room."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Update1",
+			"_tsDateAdded": 1525489142
+		}
+	],
+	"_idRow": 126444,
+	"_sName": "kz_bhop_awake_fix",
+	"_sText": "Short map, meant to be played on <span class=\"RedColor\"><span class=\"RedColor\"><span class=\"GreenColor\">legit/scroll</span></span></span> settings.<br><br>"
+}

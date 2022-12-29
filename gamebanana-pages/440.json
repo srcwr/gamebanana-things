@@ -1,0 +1,1479 @@
+[
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"training_base_v2.bsp"
+					],
+					"_sMimeType": "application/x-rar"
+				},
+				"_bContainsExe": false,
+				"_idRow": 331634,
+				"_nDownloadCount": 1957,
+				"_nFilesize": 1097709,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/331634",
+				"_sFile": "training_base_v2.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1242980168
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 116716,
+		"_sName": "training_base_v2",
+		"_sText": "So this map is some were around par level. I though I'd explain it a little so while looking though the request I stumbled upon this... \r\n\r\n\r\n<div>Posted by Kurosaki08\r\n\r\nI would like a map made for my realism unit. I would like it to be some sort of Army Boot Camp map. With barracks, m4a1 range, sniper range, able to run obstacle course, buildings to clear, and some sort of large platform with a stage or podium (this will be where my companies fall into formation). I would really appreciate if this could be done for me. Thanks in advance!\r\n</div>\r\nSo I started working on this however then California caught on fire and I found out I get dispatched in 8 hours so I might not be back for some time so I thought I'd give Kurosaki08 his map. The textured is a little rushed and the lighting doesn't have sources but nothings missing that will affect game play. I may come back to this latter but for now it's as done as it's going to get.\r\n\r\nWhen playing this map it really only works for an organized clan or group since the spawns are a little close. The armory has 10 of every gun in the game. It may cause lag if you throw them all in to the center of the room. Other things to note about the armory is the weapons are a little close together so you don't always get the one you want. Outside there is a shooting range with targets at 50, 100 and 150 feet. Their small targets so you'll find out how bad a shot you really are. Next to the range there is an obstacle course. It goes like this run, crawl, jump, climb, balance, cross over to the other side, jump to water, swim, run and shoot. My best time was 28 seconds with a p90. If you using this to test people you can come up with rules like every shot is plus one second or the shotgun is plus 10 seconds since the shooting portion requires you to shoot small targets to progress. On the other side of the barracks/armory there is a yard with several basic structures for Kurosaki08 to practice clearing rooms. And lastly and my favorite there is a stage behind the barracks with a giant American flag behind it for giving dramatic speeches to clan members. The flag can be turned off via button on the podium for all you European/Canadian(/ where ever you are) people out there. I would have used a UN flag but due to time constraints and it not being easy to do with out importing a texture I choose to just go with an American flag. \r\n\r\n\r\n==UPDATE:May 22 2009\r\nI'm back again. I was looking over the comments and decided to add more stuff. now there is a target wall behind each of the shooting stall targets. I is not interactive like the old targets but the old ones are still there. also i added a full house with targets to the training yard. all of the houses have targets now and about half of them light up when hit. Due to technical limitations with hammer i can only have a few of the targets that light up so don't bother asking unless you have an idea for a work around. Near the entrance i added a tower with a over view of the house where the dots represent targets and they toggle on or off when hit. i played around with triggers to see if i could get it to only turn off when hit instead of toggling but with toggle as the only option it is sort of hard.\r\n\r\nyou still some times get the wrong gun in the armory (Almost always) the only way to fix this is to make the armory far to big."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"maps": [
+							"training_base.bsp"
+						]
+					},
+					"_sMimeType": "application/zip"
+				},
+				"_bContainsExe": false,
+				"_idRow": 340933,
+				"_nDownloadCount": 1832,
+				"_nFilesize": 770344,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/340933",
+				"_sFile": "training_base.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1214383061
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 116715,
+		"_sName": "training_base",
+		"_sText": "So this map is some were around par level. I though I'd explain it a little so while looking though the request I stumbled upon this... \r\n\r\n\r\n<div>Posted by Kurosaki08\r\n\r\nI would like a map made for my realism unit. I would like it to be some sort of Army Boot Camp map. With barracks, m4a1 range, sniper range, able to run obstacle course, buildings to clear, and some sort of large platform with a stage or podium (this will be where my companies fall into formation). I would really appreciate if this could be done for me. Thanks in advance!\r\n</div>\r\nSo I started working on this however then California caught on fire and I found out I get dispatched in 8 hours so I might not be back for some time so I thought I'd give Kurosaki08 his map. The textured is a little rushed and the lighting doesn't have sources but nothings missing that will affect game play. I may come back to this latter but for now it's as done as it's going to get.\r\n\r\nWhen playing this map it really only works for an organized clan or group since the spawns are a little close. The armory has 10 of every gun in the game. It may cause lag if you throw them all in to the center of the room. Other things to note about the armory is the weapons are a little close together so you don't always get the one you want. Outside there is a shooting range with targets at 50, 100 and 150 feet. Their small targets so you'll find out how bad a shot you really are. Next to the range there is an obstacle course. It goes like this run, crawl, jump, climb, balance, cross over to the other side, jump to water, swim, run and shoot. My best time was 28 seconds with a p90. If you using this to test people you can come up with rules like every shot is plus one second or the shotgun is plus 10 seconds since the shooting portion requires you to shoot small targets to progress. On the other side of the barracks/armory there is a yard with several basic structures for Kurosaki08 to practice clearing rooms. And lastly and my favorite there is a stage behind the barracks with a giant American flag behind it for giving dramatic speeches to clan members. The flag can be turned off via button on the podium for all you European/Canadian(/ where ever you are) people out there. I would have used a UN flag but due to time constraints and it not being easy to do with out importing a texture I choose to just go with an American flag. "
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"Readme.txt",
+						"training_aim.bsp"
+					],
+					"_sMimeType": "application/x-rar"
+				},
+				"_bContainsExe": false,
+				"_idRow": 319312,
+				"_nDownloadCount": 42937,
+				"_nFilesize": 1520280,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/319312",
+				"_sFile": "training_aim_3.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1283816575
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 116714,
+		"_sName": "training_aim",
+		"_sText": "<font size=\"+4\"; color=\"red\">Training_Aim</font><font size=\"+3\"> by Katas [<font color=\"red\">E</font><font color=\"yellow\">S</font><font color=\"red\">P</font>]</font>\r\n\r\n<font size=\"+2\"; color=\"green\">An individual map for powering your aim!</font>\r\n\r\n<a href=\"http://gamebanana.com/css/maps/165928\r\n\" target=\"_blank\"><font size=\"+4\"; color=\"BLUE\">UPDATED TO TRAINING_AIM3, GET IT NOW!!</font></a>\r\n\r\n<font size=\"+\">I created this map for training my aim and I decided to show it the world :D. It has a Control panel for setting the intervals in wich targets and respawned and holded randomly in the wall. You can choose all the weapons from Counter-Strike: Source to practise with. Use this map everyday for aiming better ingame :).</font>\r\n\r\n<font size=\"+\"; color=\"red\">It is not necesary to reload weapons while shooting the targets (unlimited ammo).</font>\r\n\r\n<fieldset><legend><font size=\"+\"; color=\"blue\">Features</font></legend>\r\n<font color=\"orange\">>></font> You can control the respawn and holding delay of targets.\r\n\r\n<font color=\"orange\">>></font> Explanations about Control panel in the wall (decals). People with low textures setting or FPS configurations won't be able to see those explanations.\r\n\r\n<font color=\"orange\">>></font> You can choose any weapon from CS:S.\r\n\r\n<font color=\"orange\">>></font> Hits Counter that counts how much targets did you shoot.\r\n\r\n<font color=\"orange\">>></font> A beep sounds when you get to shoot at a target.\r\n\r\n<font color=\"orange\">>></font> You can control how much targets to spawn in a row before stopping (25/50/100/999).\r\n\r\n<font color=\"orange\">>></font> Different distances from the wall (levels)\r\n\r\n<font color=\"orange\">>></font> Start and Stop button in each level.\r\n\r\n<font color=\"orange\">>></font> 200 Different targets all over the wall.\r\n\r\n<font color=\"orange\">>></font> Unlimited ammo with all the weapons (Don't need to reload).\r\n\r\n<font color=\"orange\">>></font> It has a good environment to prevent headaches (xD).\r\n\r\n<font color=\"orange\">>></font> Custom textures for the buttons.</fieldset>\r\n\r\n<font size=\"+2\"; color=\"yellow\">How to use:</font><font size=\"+\"> Open CS:S, create a server and select training_aim in the maps list (don't allow bots). Join a team, choose a weapon, set the delay and duration you prefer for targets and go the level you want. Then click start button and wait 2 seconds for the first target to appear, you can practise moving left and right or being stand in a position.</font>\r\n\r\n<font size=\"+5\">If you liked it please Vote and Comment :)</font>"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"tragedy.bsp"
+					],
+					"_sMimeType": "application/zip"
+				},
+				"_bContainsExe": false,
+				"_idRow": 336446,
+				"_nDownloadCount": 1174,
+				"_nFilesize": 841957,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/336446",
+				"_sFile": "tragedy_2.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1228154083
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 116713,
+		"_sName": "tragedy",
+		"_sText": "I made this map for my friends becaust they wanted a fun little map and they definitely got one"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"tp_oilrig_v2.bsp",
+						"tp_oilrig_v2.nav"
+					],
+					"_sMimeType": "application/x-rar"
+				},
+				"_bContainsExe": false,
+				"_idRow": 354228,
+				"_nDownloadCount": 1113,
+				"_nFilesize": 862182,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/354228",
+				"_sFile": "tp_oilrig_v2.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1167357540
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 116712,
+		"_sName": "tp_oilrig_v2",
+		"_sText": "Mtztiger"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"tp_landmass.bsp"
+					],
+					"_sMimeType": "application/zip"
+				},
+				"_bContainsExe": false,
+				"_idRow": 342157,
+				"_nDownloadCount": 1095,
+				"_nFilesize": 113440,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/342157",
+				"_sFile": "tp_landmass.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1209874580
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 116711,
+		"_sName": "tp_landmass",
+		"_sText": "This is my 6th map ive made im starting to get better but still learning my other maps are indoors i just now found out how to make a outdoor map"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"Installation.txt",
+						"tp_Justdust.bsp"
+					],
+					"_sMimeType": "application/x-rar"
+				},
+				"_bContainsExe": false,
+				"_idRow": 340904,
+				"_nDownloadCount": 2353,
+				"_nFilesize": 1092887,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/340904",
+				"_sFile": "black_-_tp_justdust_v1.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1214489485
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 116710,
+		"_sName": "tp_justdust",
+		"_sText": "<font size=\"4\" color=\"ivory\" face=\"arial\">Map made on request:</font><font size=2 face=\"times new roman\"> \r\n<a href=\"http://www.fpsbanana.com/threads/122201\">Plz make sniper target practice map</a>\r\n\r\n<u>Target Practice map with <i>moving targets</i>, made for training.</u>\r\n\r\nDesigned for single player, but it is possible to run the map on a server, if mp_limitteams is set to 0.\r\nDesigned for sniper practice, because the targets are a 1 hit kill, but you can also train with an ak47/m4a1/deagle.\r\nMap devided in 7 sections, when you have killed all the targets of 1 section you get 15 seconds to move on before the door closes.\r\n\r\nI tried to improve the movement of the car in section 7 so it would look more realistic, but for some reason the car kept spawning to the wrong direction(0 270 0), therefor I was forced to check the flag 'Fixed orientation'. If someone knows how to fix this please comment/pm me.\r\n\r\nMap is not protected from decompiling, because I would like other people to learn from this map, I would like to see other (training) maps with moving targets/parts.\r\nPM me if you have any questions.\r\n\r\nType this in console to refill your ammo:\r\nsv_cheats 1\r\nimpulse 101\r\n\r\n\r\n<font color=\"red\" size=\"7\"><font size=\"2\"><b>Please comment and assess.</b></font></font>\r\n- Black\r\n\r\nCredits:\r\n- Valve\r\n- PrivateParts</font>"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"tox_clock_town_v2.bsp",
+						"tox_clock_town_v2.nav"
+					],
+					"_sMimeType": "application/x-rar"
+				},
+				"_bContainsExe": false,
+				"_idRow": 318912,
+				"_nDownloadCount": 1390,
+				"_nFilesize": 2503332,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/318912",
+				"_sFile": "tox_clock_town_v2.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1284934327
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 116709,
+		"_sName": "tox_clock_town_v2",
+		"_sText": "Well, this is my final release of this map, Clock Town, from the game The Legend of Zelda, Majora's Mask. It have all areas, and I hope you enjoy it ;D"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"tox_clock_town.bsp",
+						"tox_clock_town.nav"
+					],
+					"_sMimeType": "application/x-rar"
+				},
+				"_bContainsExe": false,
+				"_idRow": 320498,
+				"_nDownloadCount": 1345,
+				"_nFilesize": 1516278,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/320498",
+				"_sFile": "tox_clock_town.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1281222728
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 116708,
+		"_sName": "tox_clock_map",
+		"_sText": "Well, like allways, to install this map, you must go to: C/Program files/Steam/steamapps/your account/counter-strike source/cstrike/maps and extract there the files from the rar"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"wulfd.bsp",
+						"wulfd.nav"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 276533,
+				"_nDownloadCount": 736,
+				"_nFilesize": 1133537,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/276533",
+				"_sFile": "town_18ae9.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1474122141
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 116707,
+		"_sName": "Town",
+		"_sText": "Map story:<br>Terrorist group must deliver bomb to Port, they have to drive through an abandoned town called<br>\"Wolfholm\". Unknown to them, CT's planted a mine near the entrance of The Town, Terrorist truck is blown up, Terrorist realize that it was an ambush.<br>Mission<br>Terrorists:<br>Eliminate Counter-Terrorists and deliver bomb to the Port<br>Counter-Terrorists:<br>Eliminate all terrorists and secure the bomb<br><br>"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"towers_beta01.bsp"
+					],
+					"_sMimeType": "application/x-rar"
+				},
+				"_bContainsExe": false,
+				"_idRow": 361934,
+				"_nDownloadCount": 16134,
+				"_nFilesize": 716434,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/361934",
+				"_sFile": "towers_beta01.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1109619311
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 116706,
+		"_sName": "towers_beta01",
+		"_sText": "This map is SIMILAR to the world trade center, but in no way am I trying to make this map offensive or have any relation to the world trade center.  These are just towers.  So if you cry about it, you will be...... well, just don't complain about it.\r\n\r\nEnjoy!"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"total_destructionv1.bsp"
+					],
+					"_sMimeType": "application/zip"
+				},
+				"_bContainsExe": false,
+				"_idRow": 349238,
+				"_nDownloadCount": 1161,
+				"_nFilesize": 956541,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/349238",
+				"_sFile": "total_destructionv1.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1187696368
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 116705,
+		"_sName": "total_destructionv1",
+		"_sText": "This is a fun maps to play, its mostly made of wood and half the wood is breakable, there are better guns hidden under the floorboards. Every player starts with an M3, Pistol and a He nade. There will be more versions to come and the next versions will be jointly made by me: thehidden and my friend: the punisher."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"Installation Info.txt",
+						"top_churches.bsp",
+						"top_churches.nav"
+					],
+					"_sMimeType": "application/zip"
+				},
+				"_bContainsExe": false,
+				"_idRow": 345757,
+				"_nDownloadCount": 1169,
+				"_nFilesize": 405942,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/345757",
+				"_sFile": "top_churches.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1198891542
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 116704,
+		"_sName": "top_churches",
+		"_sText": "This is a very unique map. When you spawn, you'll notice that your viewpoint is about 100 ft. above your head! This really twists the gameplay and forces you to try some new tactics. Flashbangs for example are particularly lethal.\r\n\r\nTry this out! Get started with a few bots (max of 20), or put it on your server!"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"tmpnades.bsp",
+						"tmpnades.bsp.ztmp",
+						"tmpnades.nav",
+						"tmpnades.nav.ztmp"
+					],
+					"_sMimeType": "application/x-rar"
+				},
+				"_bContainsExe": false,
+				"_idRow": 361582,
+				"_nDownloadCount": 1199,
+				"_nFilesize": 156781,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/361582",
+				"_sFile": "tmpnades.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1114377791
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 116703,
+		"_sName": "tmpnades",
+		"_sText": ""
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"tk_riverside": [
+							"tk_riverside.bsp"
+						]
+					},
+					"_sMimeType": "application/zip"
+				},
+				"_bContainsExe": false,
+				"_idRow": 362281,
+				"_nDownloadCount": 3303,
+				"_nFilesize": 1456502,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/362281",
+				"_sFile": "tk_riverside.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1100241163
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 116702,
+		"_sName": "tk_riverside",
+		"_sText": "Enjoy!"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"tk_noname_twoside.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 280342,
+				"_nDownloadCount": 415,
+				"_nFilesize": 1063640,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/280342",
+				"_sFile": "tk_noname_twoside.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1450094810
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 116701,
+		"_sName": "tk_noname_twoside",
+		"_sText": "<p>It's the first map of my new mod, the throwing knives !&nbsp;</p><div><span>Map work entierly only here:&nbsp;176.31.181.150:37125</span><br></div><div><p></p></div><p></p>"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"tk_dustworld_hd": [
+							"tk_dustworld_hd.bsp",
+							"tk_dustworld_hd.txt"
+						]
+					},
+					"_sMimeType": "application/zip"
+				},
+				"_bContainsExe": false,
+				"_idRow": 362282,
+				"_nDownloadCount": 1985,
+				"_nFilesize": 688955,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/362282",
+				"_sFile": "tk_dustworld_hd.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1100241148
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 116700,
+		"_sName": "tk_dustworld_hd",
+		"_sText": "Enjoy!"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"TH_texture_arena.bsp",
+						"th_texture_arena.nav"
+					],
+					"_sMimeType": "application/x-rar"
+				},
+				"_bContainsExe": false,
+				"_idRow": 350293,
+				"_nDownloadCount": 1061,
+				"_nFilesize": 154680,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/350293",
+				"_sFile": "th_texture_arena.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1184220417
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 116699,
+		"_sName": "th_texture_arena",
+		"_sText": "Ok this is the first map ive uploaded here. please leave a few comments/suggestins. critisism is allways welcome.(as long as your not mean)"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"ThunderHouse": [
+							"thunderhouse.bsp"
+						]
+					},
+					"_sMimeType": "application/x-rar"
+				},
+				"_bContainsExe": false,
+				"_idRow": 337663,
+				"_nDownloadCount": 1019,
+				"_nFilesize": 444633,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/337663",
+				"_sFile": "thunderhouse.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1223923747
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 116698,
+		"_sName": "thunderhouse",
+		"_sText": "Look in tutorials theres a tutorial "
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"thunderball_v1.bsp"
+					],
+					"_sMimeType": "application/x-rar"
+				},
+				"_bContainsExe": false,
+				"_idRow": 337880,
+				"_nDownloadCount": 1163,
+				"_nFilesize": 168882,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/337880",
+				"_sFile": "thunderball_v1.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1223209560
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 116697,
+		"_sName": "thunderball_v1",
+		"_sText": "X:\\Programmer\\Steam\\steamapps\\xxxxxx\\counter-strike source\\cstrike\\maps"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"maps": [
+							"the_stairs2_s.bsp",
+							"the_stairs2_s.txt"
+						]
+					},
+					"_sMimeType": "application/x-rar"
+				},
+				"_bContainsExe": false,
+				"_idRow": 359659,
+				"_nDownloadCount": 1989,
+				"_nFilesize": 621462,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/359659",
+				"_sFile": "the_stairs2_s.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1132011970
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 116696,
+		"_sName": "the_stairs2",
+		"_sText": "The Stairs 2 - Bomb<br>\r\nMapping  by Nathaniel Miller AKA NIPPER<br>\r\nmaps @ www.geocities.com/nipper14223<br><br>\r\n\r\nFight."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"The_Shire_LOTR.bsp"
+					],
+					"_sMimeType": "application/zip"
+				},
+				"_bContainsExe": false,
+				"_idRow": 360803,
+				"_nDownloadCount": 2832,
+				"_nFilesize": 4432179,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/360803",
+				"_sFile": "the_shire_lotr.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1123740639
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 116695,
+		"_sName": "the_shire_lotr",
+		"_sText": "This is the completed version, enjoy!"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"readme.txt",
+						"the_museum.bsp"
+					],
+					"_sMimeType": "application/zip"
+				},
+				"_bContainsExe": false,
+				"_idRow": 358236,
+				"_nDownloadCount": 1136,
+				"_nFilesize": 1189025,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/358236",
+				"_sFile": "the_museum_3.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1145319631
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 116694,
+		"_sName": "the_museum",
+		"_sText": "This is my 2nd map I have made for CSS.\r\n\r\nYou are fighting in a museum, and it has 2 floors.\r\n\r\nCT starts outside in the slightly foggy and cloudy weather, right outside the entrance to the museum.\r\n\r\nT starts inside in the back room.\r\n\r\nThere is 1 hostage on the map but he is just for looks =p.  In other words, he doesn't move.\r\n\r\nThere are some explosive towers around the map to blow up and have fun with as well.\r\n\r\nAlright, have fun =)\r\n"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"css_room2.bsp"
+					],
+					"_sMimeType": "application/x-rar"
+				},
+				"_bContainsExe": false,
+				"_idRow": 347869,
+				"_nDownloadCount": 1240,
+				"_nFilesize": 661261,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/347869",
+				"_sFile": "css_room2.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1192484143
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 116693,
+		"_sName": "the_maze",
+		"_sText": "This is my first map of ever so flame away, its the only way I can become a better mapper."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"The_Houses.bsp"
+					],
+					"_sMimeType": "application/zip"
+				},
+				"_bContainsExe": false,
+				"_idRow": 359918,
+				"_nDownloadCount": 1415,
+				"_nFilesize": 4335061,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/359918",
+				"_sFile": "the_houses.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1130589216
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 116692,
+		"_sName": "the_houses",
+		"_sText": ""
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"the_chamber.bsp",
+						"the_chamber.txt"
+					],
+					"_sMimeType": "application/zip"
+				},
+				"_bContainsExe": false,
+				"_idRow": 360772,
+				"_nDownloadCount": 1168,
+				"_nFilesize": 1826331,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/360772",
+				"_sFile": "the_chamber.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1123974720
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 116691,
+		"_sName": "the_chamber",
+		"_sText": "The Chamber - Fun Map\r\n\r\nBeware of the electrified water.\r\n\r\nBreak the floor to reach your opponents or break the power boxes to approach via the water."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"the_best_map_eva.bsp"
+					],
+					"_sMimeType": "application/x-rar"
+				},
+				"_bContainsExe": false,
+				"_idRow": 315088,
+				"_nDownloadCount": 1245,
+				"_nFilesize": 284290,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/315088",
+				"_sFile": "509__1060-.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1296360058
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 116690,
+		"_sName": "the_best_map_eva",
+		"_sText": "bezt_maep_evah.\n\n\nand no, you can't disapprove this map."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"cs_thewall1.bsp",
+						"cs_thewall1.nav"
+					],
+					"_sMimeType": "application/zip"
+				},
+				"_bContainsExe": false,
+				"_idRow": 316164,
+				"_nDownloadCount": 1049,
+				"_nFilesize": 72635,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/316164",
+				"_sFile": "cs_thewall1.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1293010442
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 116689,
+		"_sName": "TheWallUno",
+		"_sText": "Another Light test"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"TheTwilightZone.bsp"
+					],
+					"_sMimeType": "application/x-rar"
+				},
+				"_bContainsExe": false,
+				"_idRow": 350960,
+				"_nDownloadCount": 1488,
+				"_nFilesize": 2232365,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/350960",
+				"_sFile": "thetwilightzone.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1181630039
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 116688,
+		"_sName": "thetwilightzone",
+		"_sText": "\"Your traveling to another dimension, A dimension not only of sight and sound but of mind. A wonderous land who's boundries are that of imagination. There's the sign post up ahead! Your next stop, The Twilight Zone...\" \r\n\r\n\r\n\r\nIn this map you travel through 3 classic 'Twilight Zone' episodes. TZ fans will probably enjoy this and others... well I dont know how this map is on the gameplay end. Please give it a go and let me know what ya think. Oh and if you start at CT dont run forward in the wormhole it'll hurt ya..."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"cs_thewall.bsp",
+						"cs_thewall.nav"
+					],
+					"_sMimeType": "application/zip"
+				},
+				"_bContainsExe": false,
+				"_idRow": 316165,
+				"_nDownloadCount": 1098,
+				"_nFilesize": 68712,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/316165",
+				"_sFile": "cs_thewall.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1293010042
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 116687,
+		"_sName": "The Wall",
+		"_sText": "Same as nathan just made for bot testing"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"MapTower.vmf"
+					],
+					"_sMimeType": "application/zip"
+				},
+				"_bContainsExe": false,
+				"_idRow": 326742,
+				"_nDownloadCount": 1051,
+				"_nFilesize": 8330,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/326742",
+				"_sFile": "maptower.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1260085492
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 116686,
+		"_sName": "The Rave House",
+		"_sText": "This is my first map love it, hate it it still loves you. 8 peeps its a small bomb map but more of a team death match"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"The Darkness.bsp"
+					],
+					"_sMimeType": "application/x-rar"
+				},
+				"_bContainsExe": false,
+				"_idRow": 337355,
+				"_nDownloadCount": 1072,
+				"_nFilesize": 88483,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/337355",
+				"_sFile": "353_the_darkness.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1224894240
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 116685,
+		"_sName": "the blackness",
+		"_sText": "Hope you find the secret =P"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"The Backrooms": [
+							"README.txt",
+							"backrooms.bsp"
+						]
+					},
+					"_sMimeType": "application/zip"
+				},
+				"_bContainsExe": false,
+				"_idRow": 518548,
+				"_nDownloadCount": 1069,
+				"_nFilesize": 1425377,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/518548",
+				"_sFile": "the_backrooms.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1612949775
+			}
+		],
+		"_aLatestUpdates": [
+			{
+				"_aChangeLog": [
+					{
+						"cat": "Adjustment",
+						"text": "Fixed weird looking lights and certain areas of the map with a slightly different ceiling texture"
+					}
+				],
+				"_sText": "",
+				"_sTitle": "Version 1.1",
+				"_tsDateAdded": 1612949566
+			}
+		],
+		"_idRow": 116684,
+		"_sName": "The Backrooms",
+		"_sText": "<i>\"If you're not careful and you noclip out of reality in the wrong areas, you end up in the Backrooms, where it's nothing but the stink of old moist carpet, the madness of mono-yellow, the endless background noise of fluorescent lights at maximum hum-buzz, and approximately six hundred million square miles of randomly segmented empty rooms to be trapped in. God save you if you hear something wandering around nearby because it sure as hell heard you.\"</i><br><br>This map is a recreation of the Backrooms for CSS. It isn't really meant for playing matches in but it is good if you're going to use it for Garry's Mod. I tried to go the authentic yellow wallpaper look which I've not seen many people do when it comes to recreating the Backrooms in the Source engine. I hope you enjoy it. It's inspired by a YouTube video called \"INTO THE BACKROOMS\" by Evan Royalty<br><br><b>Made by StanleyLikesCyan</b>"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"THAY_Marble_Tracks": [
+							"THAY_Marble_Tracks.bsp"
+						]
+					},
+					"_sMimeType": "application/zip"
+				},
+				"_bContainsExe": false,
+				"_idRow": 339868,
+				"_nDownloadCount": 1210,
+				"_nFilesize": 10696204,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/339868",
+				"_sFile": "thay_marble_tracks.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1217391960
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 116683,
+		"_sName": "thay_marble_tracks",
+		"_sText": "This is my contest entry for the FPSBANANA marble track competition! Once in a while the ball cannon will fail but just kill yourself and it should work the next round.\r\n\r\n<object width=\"350\" height=\"310\"><param name=\"movie\" value=\"http://www.youtube.com/v/phOgW_CFM8k&hl=en&fs=1&color1=0x3a3a3a&color2=0x999999\"></param><param name=\"allowFullScreen\" value=\"true\"></param><embed src=\"http://www.youtube.com/v/phOgW_CFM8k&hl=en&fs=1&color1=0x3a3a3a&color2=0x999999\" type=\"application/x-shockwave-flash\" allowfullscreen=\"true\" width=\"350\" height=\"310\"></embed></object>"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"tex_rammstein.bsp",
+						"tex_rammstein1.jpg",
+						"tex_rammstein2.jpg",
+						"tex_rammstein3.jpg"
+					],
+					"_sMimeType": "application/zip"
+				},
+				"_bContainsExe": false,
+				"_idRow": 353395,
+				"_nDownloadCount": 1259,
+				"_nFilesize": 1617094,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/353395",
+				"_sFile": "tex_rammstein.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1171295666
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 116682,
+		"_sName": "tex_rammstein",
+		"_sText": "Hi there, this is a map based off the rammstein band logo, its just a little map i made inbetween a project im doing...\r\n\r\nThis is my first attempt at a texture map (i eaven made my own hammer skybox texture! :P)"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"tex_dodget_knives_v2.bsp"
+					],
+					"_sMimeType": "application/x-rar"
+				},
+				"_bContainsExe": false,
+				"_idRow": 353761,
+				"_nDownloadCount": 1251,
+				"_nFilesize": 657153,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/353761",
+				"_sFile": "tex_dodget_knives_v2.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1169390321
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 116681,
+		"_sName": "tex_dodget_knives_v2",
+		"_sText": "This is an improvement of my previous map \"tex_dodget_knives\". This map uses HDR lighting and has a better water texture, as well as stripping you of your weapons and only giving you a knife and a he grenade at the start of each round. Definately an improvement. Enjoy."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"tex_dodget_knives.bsp",
+						"tex_dodget_knives.nav"
+					],
+					"_sMimeType": "application/x-rar"
+				},
+				"_bContainsExe": false,
+				"_idRow": 353988,
+				"_nDownloadCount": 1196,
+				"_nFilesize": 295399,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/353988",
+				"_sFile": "tex_dodget_knives.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1168457960
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 116680,
+		"_sName": "tex_dodget_knives",
+		"_sText": "IMPROVED -- IMPROVED\r\n\r\nThe water on the ground hurts you but the body of water in the middle of the map is safe to swim down and there (if u bothered to read this you deserve to know) lies a scout that falls from the top of the map. If you pay attention at the beginning of each round you will see it splash into the water at the top."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"0": "tex_dodget_docks.bsp",
+						"tex_dodget_docks jpeg pics": [
+							"tex_dodget_docks corner.JPG",
+							"tex_dodget_docks ctspawn.JPG",
+							"tex_dodget_docks docks.JPG",
+							"tex_dodget_docks tspawn.JPG",
+							"tex_dodget_docks view.JPG"
+						]
+					},
+					"_sMimeType": "application/x-rar"
+				},
+				"_bContainsExe": false,
+				"_idRow": 353942,
+				"_nDownloadCount": 1177,
+				"_nFilesize": 522392,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/353942",
+				"_sFile": "tex_dodget_docks_2.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1168640325
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 116679,
+		"_sName": "tex_dodget_docks",
+		"_sText": "A lighthouse structure stands in a corner with the sun behind it throwing a light shadow over the map. There is a body of water thinly spread over the ground taking up the majority of the ground, but there is a dock like system to manoevre around it. The boxes and other obstacles make this a fun and strategic map to play on."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"tex_citystrike.bsp",
+						"tex_citystrike.nav",
+						"tex_citystrike.txt"
+					],
+					"_sMimeType": "application/zip"
+				},
+				"_bContainsExe": false,
+				"_idRow": 354468,
+				"_nDownloadCount": 1530,
+				"_nFilesize": 1444681,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/354468",
+				"_sFile": "tex_citystrike.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1165810677
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 116678,
+		"_sName": "tex_citystrike",
+		"_sText": "Tex_citystrike\r\n\r\nMAPPER: \tubertingly\r\nCREATED: \t10:04PM, Dec. 12, 2006\r\nCONTACT: \twww.3gen-gaming.com\r\nBUILD TIME: \t4 Days (Would have been 3 days, but I went raving)\r\nTHANKS: \tTo all 3GEN members: Ant, Pete, Ryan \r\n\t\tTo my friends: Mike and Connor; and Weitom for being the first to play it\r\n\t\tTo my family: just because....\r\n\t\t\r\n--------------------------------\r\nMAP SPECS\r\n--------------------------------\r\nMAP TYPE: \tTexture Map\r\nPLAYERS: \t8 T / 8 CT, 16 Players maximum\r\nBOT SUPPORT: \tYes\r\n\r\n--------------------------------\r\nMAP STORY\r\n--------------------------------\r\nFirst map to use the tex_ prefix\r\n(....that I'm aware of)\r\n\r\n--------------------------------\r\nTERMS OF USE \t\r\n--------------------------------\r\nThis work is (c) Ian Polivka. You may freely use or distribute this map, \r\nso long as it is for NON-commercial use and all files are intact and untouched. \r\nAny commercial use or distribution is forbidden without my written permission. \r\n\r\nAll manipulation, renaming or modification of this work is strictly forbidden!"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"tex_bigpen.bsp",
+						"tex_bigpen.nav",
+						"tex_bigpen.txt"
+					],
+					"_sMimeType": "application/zip"
+				},
+				"_bContainsExe": false,
+				"_idRow": 353791,
+				"_nDownloadCount": 1544,
+				"_nFilesize": 726199,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/353791",
+				"_sFile": "tex_bigpen.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1169277633
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 116677,
+		"_sName": "tex_bigpen",
+		"_sText": "Tex_bigpen\r\n\r\nMAPPER: \tubertingly\r\nCREATED: \t4:20PM, January 19, 2007\r\nCONTACT: \twww.3gen-gaming.com\r\nBUILD TIME: \tAbout 60hrs\r\nTHANKS: \tTo my friends:  Mike, for being the first to test it. \r\n\t\t\t\tAnd the rest...you know who you are\r\n\t\tTo my family: \tjust because....\r\n\t\t\r\n\r\n--------------------------------\r\nMAP SPECS\r\n--------------------------------\r\nMAP TYPE: \tTexture Map\r\nPLAYERS: \t12 T / 12 CT, 24 Players maximum\r\nBOT SUPPORT: \tYes\r\n\r\n\r\n--------------------------------\r\nMAP STORY\r\n--------------------------------\r\nOOOO...Mountains!!\r\n\r\n\r\n--------------------------------\r\nINSTALLING\r\n--------------------------------\r\nExtract to your css folder.\r\nC:\\Valve\\Steam\\SteamApps\\YOURSTEAMLOGIN\\counter-strike source\\cstrike\r\n\r\n\r\n--------------------------------\r\nTERMS OF USE \t\r\n--------------------------------\r\nThis work is (c) Ian Polivka. You may freely use or distribute this map, \r\nso long as it is for NON-commercial use and all files are intact and untouched. \r\nAny commercial use or distribution is forbidden without my written permission. \r\n\r\nAll manipulation, renaming or modification of this work is strictly forbidden!"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"info.txt",
+						"screenshot.png",
+						"texture_ultima_v15_bylost.bsp",
+						"texture_ultima_v15_bylost.nav"
+					],
+					"_sMimeType": "application/zip"
+				},
+				"_bContainsExe": false,
+				"_idRow": 351128,
+				"_nDownloadCount": 1287,
+				"_nFilesize": 3020402,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/351128",
+				"_sFile": "texture_ultima_v15_bylost.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1181050309
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 116676,
+		"_sName": "texture_ultima_v15_bylos",
+		"_sText": "Map Created By: ...Lost     ([Formerly known as Mr. Brightside])\r\nEmail: brad.cb.b@gmail.com"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"texture_test_drk.bsp"
+					],
+					"_sMimeType": "application/x-rar"
+				},
+				"_bContainsExe": false,
+				"_idRow": 339831,
+				"_nDownloadCount": 1132,
+				"_nFilesize": 22976,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/339831",
+				"_sFile": "texture_text_drk.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1217506740
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 116675,
+		"_sName": "texture_test_drk",
+		"_sText": "This is my FIRST test map, includes a T/CT spawn zone, a ladder, 2 floors and 2 metal blocks\r\n\r\n----------------------------------------------------\r\nI would like to thank :\r\n\r\n |Nm| Legend for giving me the idea\r\n\r\n  Cooleh [J-server] for being there, lol\r\n\r\n  The |Nm| Clan\r\n  \r\n                  Ty SO MUCH   =) !\r\n----------------------------------------------------\r\n\r\n\r\nHomepage : Http://deadlyretardedkids.es.tl"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"readme.txt",
+						"texturebattle.JPG",
+						"texturebattle1.JPG",
+						"texturebattle2.JPG",
+						"texturebattle3.JPG",
+						"texturedbattle.bsp"
+					],
+					"_sMimeType": "application/x-rar"
+				},
+				"_bContainsExe": false,
+				"_idRow": 360272,
+				"_nDownloadCount": 1539,
+				"_nFilesize": 321996,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/360272",
+				"_sFile": "texture_battle.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1128272470
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 116674,
+		"_sName": "texture_battle",
+		"_sText": "This is my first map...not very good with the textures and looks a lil shoddy..but a fun map to battle on. please post your improvement comments and so forth."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"Textured_evo": [
+							"Anticamper_evo_textured.bsp",
+							"evo txt..txt"
+						]
+					},
+					"_sMimeType": "application/x-rar"
+				},
+				"_bContainsExe": false,
+				"_idRow": 336422,
+				"_nDownloadCount": 1029,
+				"_nFilesize": 48261,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/336422",
+				"_sFile": "texture_evo.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1228232412
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 116673,
+		"_sName": "texture_anticamper",
+		"_sText": "FaBle\r\n"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"- A LIRE -.txt",
+						"tetris.bsp"
+					],
+					"_sMimeType": "application/zip"
+				},
+				"_bContainsExe": false,
+				"_idRow": 360974,
+				"_nDownloadCount": 2181,
+				"_nFilesize": 305135,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/360974",
+				"_sFile": "tetris.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1121637376
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 116672,
+		"_sName": "tetris",
+		"_sText": "Enjoy!"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"test_weapons.bsp",
+						"test_weapons.cache"
+					],
+					"_sMimeType": "application/x-rar"
+				},
+				"_bContainsExe": false,
+				"_idRow": 330763,
+				"_nDownloadCount": 1406,
+				"_nFilesize": 568355,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/330763",
+				"_sFile": "stffs.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1246558260
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 116671,
+		"_sName": "Test_weapons",
+		"_sText": "I whipped up this map in about 3 hours, its main purpose is to help a person show off there new skins for a compile. its modeled after a shooting range i used to attend. I know its not very detail but i figured i submit it if you want you can use it to show off your skin i don't really care.\r\n<object width=\"300\"><param name=\"movie\" value=\"http://www.youtube.com/v/co84rylaofQ&hl=en&fs=1&\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://www.youtube.com/v/co84rylaofQ&hl=en&fs=1&\" type=\"application/x-shockwave-flash\" allowscriptaccess=\"always\" allowfullscreen=\"true\" width=\"300\"></embed></object>"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"test_hardware_V1.bsp"
+					],
+					"_sMimeType": "application/zip"
+				},
+				"_bContainsExe": false,
+				"_idRow": 323403,
+				"_nDownloadCount": 1195,
+				"_nFilesize": 5371621,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/323403",
+				"_sFile": "test_hardware_v1.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1271010540
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 116670,
+		"_sName": "Test_Hardware_V1",
+		"_sText": "HI everyone\r\n\r\nThis is my first uplaud in FPS banana and my first modification of a map\r\n\r\n[INSTALLATION]: Extract the file in your maps folder in cstrike and run counter strike source; create a new game enjoy !\r\n\r\nContact me if you have any problems with my map\r\n\r\nthis map haven't buy zone !\r\n\r\nPS: sorry for my english im french :-D "
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"0": "install.txt",
+						"cstrike": {
+							"maps": [
+								"test_hardware.bsp"
+							]
+						}
+					},
+					"_sMimeType": "application/zip"
+				},
+				"_bContainsExe": false,
+				"_idRow": 299717,
+				"_nDownloadCount": 2719,
+				"_nFilesize": 5662764,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/299717",
+				"_sFile": "test_hardware_2012.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1347711994
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 116669,
+		"_sName": "test_hardware",
+		"_sText": "UPDATE - install map to custom folder</br>\r\n<pre>...Steam\\steamapps\\common\\Counter-Strike Source\\cstrike\\custom\\abcd\\maps</pre></br>\r\n<font size=\"1\" color=\"red\">This map only for players, not multiplayer server!</font>\r\n<h1>Original Valve benchmark map.</h1></br>\r\nCurrently counter-strike source <b>VIDEO STRESS TEST</b> not work properly.</br>\r\nSo I made little changes in map entities to get it work again.</br>\r\n</br>\r\nAlso, \"fixed\" sound effects what supposed to be there from the beginning.\r\n</br>\r\n</br>\r\nHere what I have post before in steam forums, but that community is ridiculous hate people.</br>\r\n<a href=\"http://forums.steampowered.com/forums/showpost.php?p=29663251&postcount=564\">http://forums.steampowered.com/forums/showpost.php?p=29663251&postcount=564</a></br>\r\n\r\nAll credits to Valve.\r\nSry for bad english.\r\n\r\n<iframe width=\"490\" height=\"276\" src=\"https://www.youtube.com/embed/tPgZbxV0794?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"test_glyphi.bsp"
+					],
+					"_sMimeType": "application/zip"
+				},
+				"_bContainsExe": false,
+				"_idRow": 391325,
+				"_nDownloadCount": 77,
+				"_nFilesize": 47263,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "Download the map.",
+				"_sDownloadUrl": "https://gamebanana.com/dl/391325",
+				"_sFile": "test_glyphi.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1532784968
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 116668,
+		"_sName": "test_glyphi",
+		"_sText": "<h1>This is my first map so don't expect a beautiful and huge map.</h1>\r\nI spent about <b>2 hours</b> on this and I also got confused on how to make a buy zone.<br>\r\nThis is just a simple and small 3v3 map.<br>\r\n\r\n<h1>That's all I can say.</h1>"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"test_features.bsp"
+					],
+					"_sMimeType": "application/x-rar"
+				},
+				"_bContainsExe": false,
+				"_idRow": 327382,
+				"_nDownloadCount": 1100,
+				"_nFilesize": 334987,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/327382",
+				"_sFile": "test_features.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1257592948
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 116667,
+		"_sName": "test_features",
+		"_sText": "Just testing some things out, doesn't really apply to css but was to lazy to download hl2. Includes walk through glass, oil drum stressing then breaking glass, colapsing wall, and an exploding cube."
+	}
+]

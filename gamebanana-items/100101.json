@@ -1,0 +1,35 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrike": {
+						"0": "cs_logistic_assault_hdr_info.txt",
+						"maps": [
+							"cs_logistic_assault_hdr.bsp",
+							"cs_logistic_assault_hdr.nav",
+							"cs_logistic_assault_hdr.res",
+							"cs_logistic_assault_hdr.txt"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 351380,
+			"_nDownloadCount": 3273,
+			"_nFilesize": 8567139,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/351380",
+			"_sFile": "cs_logistic_assault_hdr.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1179971510
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 100101,
+	"_sName": "cs_logistic_assault_hdr",
+	"_sText": "Extraxt all files to the Counter-Strike Source/cstrike/maps folder.\r\n\r\n================================================================================\r\n* LEVEL INFORMATION *\r\n--------------------------------------------------------------------------------\r\nTITLE                   : cs_logistic_assault_hdr\r\nFILENAME                : cs_logistic_assault_hdr.bsp\r\nAUTHOR                  : Bluestrike McQueen\r\nDATE                    : 26 februari 2007 \r\nGAME                    : half-Life 2 COunter-Strike Source.\r\nEMAIL ADDRESS           : Bluestrike@bluestrike.be\r\nHOMEPAGE URL            : http://www.bluestrike.be\r\n \r\n--------------------------------------------------------------------------------\r\n* LEVEL DESCRIPTION *\r\n--------------------------------------------------------------------------------\r\nAnother remake of cs_assault but I took a wider approach.\r\nSetting is a european industrial area, Terrorists drove into a industial\r\nbuilding when followed by the police and took hostages,\r\nA Counter Terrorism team is send to handle the situation.\r\n \r\nNEW TEXTURES            : Advertising texture and trailer skin.\r\nNEW MODELS\t\t: Trailer model.\r\n\r\n--------------------------------------------------------------------------------\r\n* CONSTRUCTION *\r\n--------------------------------------------------------------------------------\r\nMAP BASE                : Size reference of cs_assault\r\nMAP VERSION\t\t: build 54 \r\nPREFABS USED            : none\r\nEDITOR(S) USED          : Hammer 4,0, Softimage XSI and Paint Shop Pro 7\r\nOTHER UTILITIES USED    : none \r\nKNOWN BUGS              : none.\r\n \r\nCOMPILE MACHINE         : Core2duo Qx6700 2gb DDR2\r\n \r\ncompile time\t\t: 45 minutes for a -final compile.\r\ntime spend on building \t: 1.0 3-4 weeks after work\r\n\t\t\t  1.1 Update after 1.5 year after release.\r\n\r\n--------------------------------------------------------------------------------\r\n* OTHER LEVELS BY THE AUTHOR *\r\n--------------------------------------------------------------------------------\r\nToo many to name but here is a pick:\r\n\r\nSingleplay:\r\n\r\n  Awakening (Half-Life 2) http://awakening.hl2files.com/\r\n  Nickrock (Farcry)\r\n\r\nMultiplay:\r\n\r\n  cs_beirut (Counter-strike)\r\n  de_kilo (Counter-strike)\r\n  \r\n  de_kilo2 (Counter-strike source)\r\n  de_battleship (Counter-strike source)\r\n  cs_beirut2 (Counter-strike source)\r\n\r\n  ins_karkar (insurgency HL2 mod)\r\n  ins_escort (insurgency HL2 mod)\r\n\r\n  ctf_portalstorm (ctf HL2 mod)\r\n\r\n--------------------------------------------------------------------------------\r\n* SPECIAL INSTRUCTIONS / ADDITIONAL INFORMATION *\r\n--------------------------------------------------------------------------------\r\nFixes RC2 -> v1.0:\r\n- Improved fps indoor.\r\n- Added more 3d skybox detail.\r\n- Added 2nd ladder to vents for terrorists.\r\n- Wider doors to hostages.\r\n- Improved nav file for bots by CoCoNut. \r\n\r\nFixes 1.1.\r\n- Added hdr support.\r\n- Added 'green' radar image.\r\n- Added custom trailer model.\r\n\r\n \r\n--------------------------------------------------------------------------------\r\n* CREDITS *\r\n--------------------------------------------------------------------------------\r\nCryptr for the orriginal map cs_assault\r\nSpine for the trailer skin. (http://www.spineroyal.com)\r\nCocoNuT for the improved NAV file. (http://coconut.de.tc)\r\nValve for their awesome game and support\r\nThanks to all the tutorial makers out there.\r\nThanks to the people who gave valuable feedback.\r\n\r\n\r\n================================================================================\r\n* COPYRIGHT / PERMISSIONS *\r\n--------------------------------------------------------------------------------\r\nYou MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH\r\nNO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE\r\nIT IN ANY FORM!!.\r\n\r\nYou can do everything you like as long as this unchanged text file will be included!\r\nof course letting me know will be appreciated. \r\n\r\nBluestrike, Belgium."
+}

@@ -1,0 +1,75 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"surf_devs_ksf.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 868351,
+			"_nDownloadCount": 103,
+			"_nFilesize": 16817611,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/868351",
+			"_sFile": "surf_devs_ksf.zip",
+			"_sMd5Checksum": "2a07d56e460968c7dfecda93d61d38cf",
+			"_tsDateAdded": 1664110142
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Added fixed drops for all stages & bonusses"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed lighting somewhat on stage 7 ending"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added trigger_multiple zones on main map start/end and on all bonusses"
+				},
+				{
+					"cat": "Optimization",
+					"text": "Removed textures not used which was still in the map somewhere"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added playerclip walls at stages with boosters to block re-boosting"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added names to boosters on stages for server owners, if they wanna use em"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Adjusted a few lights"
+				},
+				{
+					"cat": "Optimization",
+					"text": "Minor optimizations"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Updated",
+			"_sVersion": "Final",
+			"_tsDateAdded": 1664110344
+		},
+		{
+			"_aChangeLog": [],
+			"_sText": "<p>Fixed B3 not being correct size for CS:S.</p><p>- Thanks <strong>ApeXe!</strong></p>",
+			"_sTitle": "Updated",
+			"_tsDateAdded": 1663264266
+		}
+	],
+	"_idRow": 401858,
+	"_sName": "surf_devs_ksf",
+	"_sText": "<div class=\"Content\">\r\n\t\t\t\t\t\t<article class=\"RichText ui-droppable\"><b>surf_devs</b><b>_ksf<br></b><br>now released for source!<br><br>I would say this map is set for <b>tier 2</b>.<br>It has 3 bonuses. B1 by ronin, B2 by Spy and B3 by me.<br>Staged map.<br><br><b><span class=\"GreenColor\">Settings i used:</span></b><br>sv_airaccelerate 400<br>Tick 64<br>3500 maxvelocity<br><br><b class=\"SelectedElement\">Hope you enjoy!<br><br>Unpack the .zip file here:<br><span class=\"GreenColor\">C:\\Program Files (x86)\\Steam\\steamapps\\common\\counter-strike source\\cstrike\\maps</span><br></b><span class=\"GreenColor\"></span></article>\r\n\t\t\t\t\t</div>"
+}

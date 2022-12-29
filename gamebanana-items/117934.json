@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"dm_seine_crossing.bsp",
+					"dm_seine_crossing.txt"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 305738,
+			"_nDownloadCount": 5454,
+			"_nFilesize": 10495638,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/305738",
+			"_sFile": "dm_seine_crossing.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1327123072
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 117934,
+	"_sName": "Seine Crossing",
+	"_sText": "[Youtube Trailer for this map](http://www.youtube.com/watch?v=pjB4PbNutXo)\r\n\r\nThis is a Battlefield 3 map remake \"Seine Crossing\" was the name. I just picked this part of the map and decided to stretch the Source Engine's legs a bit to see what it could do, this is what came of it. Some parts were re-imagined for playability purposes or ease of creation (learned my lesson about doing diagonal things real fast)\r\nAnyway it turns out it's not a very good map for de_ or cs_ (bombsite or hostage rescue) because of how open it is, kind of limits the strategical part of it. So I just made it into a deathmatch. I provided a .txt with 44 spawn locations that should be in the correct format for CSSDM. If you do not want to run CSSDM and just want to run round-based matches, there are 20 spawn points for either team and a buyzone encompassing all of them. I did not include a .nav file, on final release there will be one.\r\nMAKE SURE THAT YOUR WATER REFLECTIONS ARE TURNED TO SIMPLE REFLECTIONS OR REFLECT WORLD IF YOU WANT TO PLAY ON THIS MAP. FAILING TO DO SO WILL RESULT IN UNPLAYABLE FPS.\r\nAlso HDR is known to be buggy so I would recommend turning that off as well.\r\n\r\nDev Notes:\r\nAs stated earlier, I modeled this after the Battlefield 3 map \"Seine Crossing\" which turned out to be a, fairly large task. I took about 95 hours over the course of 10 days to get what you see here (including the optimizations). I did ignore my girlfriend for these 10 days and I did not pay attention in most classes. So I'm taking a (I think) well deserved break from it and going to spend some time paying attention in class and hanging out with my girlfriend.\r\n\r\nKnown bugs:\r\n - The trim on the outermost part of the bridges (on top of the stone) is missing\r\n - HDR is more problematic than it is pretty (won't be included in the final game)\r\n - If you have the water reflections turned to anything but \"Simple Reflections\" or \"Reflect World\" you will likely get less than 40 fps when facing the water (this is mainly due to the size of the map and how much the water reflects back. I've done many optimizations, tried different water, changed the water LOD to always render cheap water, it all basically gives you the same outcome)\r\n - There's a couple lighting bugs here and there but if you see any let me know.\r\n - A map overview is in the works\r\n\r\nThe future plans, however are:\r\n\r\n- Create 3d skybox to match up with the level so it doesn't look so bland and just like the level ends (since it kind of does)\r\n- Create minimap overlay\r\n- Fix any bugs that are reported or I find between now and then"
+}

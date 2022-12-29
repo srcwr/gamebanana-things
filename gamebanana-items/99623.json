@@ -1,0 +1,53 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"cs_bikini_hdr readme.txt",
+					"cs_bikini_hdr.bsp",
+					"cs_bikini_hdr.nav"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 393836,
+			"_nDownloadCount": 2367,
+			"_nFilesize": 26683440,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/393836",
+			"_sFile": "cs_bikini_hdr_niko_.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1534679715
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Improvement",
+					"text": "Expanded the area of buy zone at the CT spawn (correction of the situation when the player was out of the buy zone)"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Update 2",
+			"_tsDateAdded": 1534679954
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Improvement",
+					"text": "Corrected the critical error significantly influencing a strategy of gameplay (Hostage Rescue Zone didn't extend to an area of underground pass with ladder that didn't allow to rescue the hostages through a tunnel's path)"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Update 1",
+			"_tsDateAdded": 1531838619
+		}
+	],
+	"_idRow": 99623,
+	"_sName": "cs_bikini_hdr",
+	"_sText": "<b>BIKINI (HDR)</b><br><br>Hostage Rescue Map for Counter-Strike: Source<br><br>CS:S initial map creator (LDR version 2005): 3D-Mike<br>CS:S final map editor (HDR version 2018): Niko<br>Navigation Mesh editor: Meurglis3<br><br>Essential renovation of the legendary Hostage Rescue map for CS:S <a href=\"https://gamebanana.com/maps/9429\">cs_bikini</a> by 3D-Mike (released February 2005).<br><br>General changes (improvements) in comparison with the original initial release:<br>   - Map compiled with HDR (instead the LDR-compiled original);<br>   - Considerably increased the performance (an average gain ~ 50 fps);<br>   - Corrected the critical error significantly influencing a strategy of gameplay (Hostage Rescue Zone didn't extend to an area of underground pass with ladder that didn't allow to rescue the hostages through a tunnel's path);<br>   - Added a significant amount of decorative content (for a bigger variety and revival of the environment);<br>   - Added and/or simplified for usage several minor paths (which significantly influencing to the intensity and fascination of a gameplay).<br><br>Story:<br>   After arrest of the previous owner the Bikini Hangout mansion at the Paradise Bay has been sold at auction. The new owner of the estate has decided that the house is in need of repair. Therefore he has employed construction crew from among illegal immigrants. And that was his serious mistake... 'cause the terrorists who have pretended the workers have captured the employee of the estate as the hostages. And now FBI is forced to storm this hornet's nest!<br><br>P.S. ~ Dont forget to bring yer swimming trunks! :-)<br><br>"
+}

@@ -1,0 +1,47 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"README!!.txt",
+					"cs_warehouse.bsp",
+					"cs_warehouse.nav"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 501695,
+			"_nDownloadCount": 338,
+			"_nFilesize": 571813,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "the newest version of the map which has the nav mesh, instructions and the map",
+			"_sDownloadUrl": "https://gamebanana.com/dl/501695",
+			"_sFile": "cs_warehouse_version36.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1608231922
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Improvement",
+					"text": "Stairs have actual clippings now"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Added clipping to t spawn fence"
+				}
+			],
+			"_sText": "<br><br><ol class=\"SelectedElement\"><span class=\"GreenColor\"><b><code>Credits</code></b></span></ol><br><u>Map maker</u><br><a href=\"https://gamebanana.com/members/1761020\">niz</a><br><br><u>Testers</u><br><a href=\"https://gamebanana.com/members/1761020\">niz</a><br><br><u>Textures</u><br>Valve<br><br>",
+			"_sTitle": "Update #35",
+			"_tsDateAdded": 1608203042
+		}
+	],
+	"_idRow": 100602,
+	"_sName": "cs_warehouse",
+	"_sText": "cs_warehouse is a old map i made but i decided to publish anyway  it takes place in a city but mainly in a warehouse<br><br>Pros:<br>has soundscapes<br>bots support (although they do sometimes get stuck<br>great view from t spawn<br>cubemaps<br>nicely decorated<br><br>Cons:<br>not very big<br>bots can get stuck sometimes<br><br>"
+}

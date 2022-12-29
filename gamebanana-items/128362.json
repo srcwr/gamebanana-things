@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"mg_mythic_flag_v3s.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 306213,
+			"_nDownloadCount": 2032,
+			"_nFilesize": 33283145,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/306213",
+			"_sFile": "mg_mythic_flag_v3s.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1325601170
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 128362,
+	"_sName": "mg_mythic_flag_v3s",
+	"_sText": "- Changes v3s -\r\n===============\r\n* Added Radar\r\n* Added Weapon (Use with Controllable E) Note: Do not use it when you have a flag\r\n* Added protecion blocks 30max (Use with E)\r\n* New Zone of the cave\r\n* Change system flag use (charli)\r\n* Delete: Plugin AutoRespawn (use sourcemod)\r\n* Other changes etc ...\r\n\r\nThe objective of the map is to capture 4 flags (area) to finish the game the losing team will be removed the weapons and teleport in a cage the winning team may kill them all. \r\n\r\n> To the 9min of the game will be removed from the AutoRespawn to finish the game\r\n\r\nEach new round there will be various weapons a total 12 weapons to a maximum 300HP regeneration and speed more gravity. \r\n\r\nNote: SourceMod (sm respawn @dead) 3s - 10s random time"
+}

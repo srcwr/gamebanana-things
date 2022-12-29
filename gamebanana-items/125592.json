@@ -1,0 +1,39 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"bhop_nebula_v1.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 275848,
+			"_nDownloadCount": 656,
+			"_nFilesize": 75752685,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/275848",
+			"_sFile": "bhop_nebula_90bde.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1479069173
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Playerclipped slopes"
+				}
+			],
+			"_sText": "Some people were getting stuck on the slopes, the new version is for those people. If you never got stuck in the slopes to begin with dont even bother with this update.&nbsp;<br><br>",
+			"_sTitle": "Slopes are not as steep - and playerclipped",
+			"_tsDateAdded": 1479261365
+		}
+	],
+	"_idRow": 125592,
+	"_sName": "bhop_nebula",
+	"_sText": "This map is more of an adventure map, but still can be done in a speed run fashion.&nbsp;<br><br><span class=\"RedColor\">Note: The map changes the players targetname and classname constantly, if your plugin changes these values the map will be exploitable/broken.</span><br><br>&nbsp;The map also uses screen overlays, if these are \r\n<br><br>disabled the tutorial on the map will not work.&nbsp;<br><br>Otherwise its around 2mins give or take.<br><br>There are a lot of secrets in the map, they may be really hard to find.\r\n<br><br>Have fun!<br><br><span class=\"RedColor\">Dont bother updating your map if you weren't getting stuck on the slope, the only thing this update changes is making the slopes steeper and player-clipped.</span><br><br><br><br><br>\r\n\r\n<iframe width=\"560\" height=\"290\" src=\"https://www.youtube.com/embed/vDMSaeoN_Gw\" frameborder=\"0\" allowfullscreen></iframe>"
+}

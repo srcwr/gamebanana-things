@@ -1,0 +1,85 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"ze_temple_escape_v1_5": {
+						"ze_temple_escape": {
+							"0": "readme.txt",
+							"maps": [
+								"ze_temple_escape.bsp",
+								"ze_temple_escape.nav"
+							],
+							"screenshots": [
+								"ze_temple_escape0000.jpg",
+								"ze_temple_escape0001.jpg",
+								"ze_temple_escape0002.jpg",
+								"ze_temple_escape0003.jpg",
+								"ze_temple_escape0004.jpg",
+								"ze_temple_escape0005.jpg",
+								"ze_temple_escape0006.jpg",
+								"ze_temple_escape0007.jpg",
+								"ze_temple_escape0008.jpg",
+								"ze_temple_escape0009.jpg",
+								"ze_temple_escape0010.jpg",
+								"ze_temple_escape0011.jpg",
+								"ze_temple_escape0012.jpg"
+							]
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 276781,
+			"_nDownloadCount": 1459,
+			"_nFilesize": 39827061,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/276781",
+			"_sFile": "ze_temple_escape_v1_5_fix.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1472443745
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Fixed NODRAW texture."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Version 1.5 Fix",
+			"_tsDateAdded": 1477264205
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Some changes in the map."
+				},
+				{
+					"cat": "-",
+					"text": "AFK Killer has changed to AFK Teleports. (Thanks Syoudous for the feedback)"
+				},
+				{
+					"cat": "-",
+					"text": "LDR and HDR cubemaps."
+				},
+				{
+					"cat": "-",
+					"text": "Wait times are changed. The spawn wait takes 30 seconds. Thanks Syoudous for the feedback)"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Version 1.5",
+			"_tsDateAdded": 1477203427
+		}
+	],
+	"_idRow": 131042,
+	"_sName": "ze_temple_escape",
+	"_sText": "This is a Zombie Escape map for Counter-Strike: Source.<br><br>If you see a bug, please report me via PM or comment section."
+}

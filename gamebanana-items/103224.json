@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_motel_b3.bsp",
+					"de_motel_b3.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 321387,
+			"_nDownloadCount": 2114,
+			"_nFilesize": 5706910,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/321387",
+			"_sFile": "de_motel_b3.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1279362593
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 103224,
+	"_sName": "de_motel_b3",
+	"_sText": "<a href=\"http://www.fpsbanana.com/maps/141224\">de_motel_b4 has been released!</a>\r\n\r\n------\r\n\r\nThird Version of de_motel, once a cs_map. It turned out that most of the time the bombb was planted at A and not at B. I tried to make bomb spot B more interesting and gave more options to approach it: I added\r\n\r\n-truck added for more cover\r\n-stairs from the floor of Cafe Baltic to B\r\n-ladder at one of the trucks, you can use to get to the roof of B\r\n-a second ladder to the quadratic roof\r\n-ladder at the staircase to the roof\r\n-moved van, so you can get through at bove sides\r\n\r\nFurther changes:\r\n\r\n-created a real pool at A. Players can stand in the water. Bomb can be planted underwater. By ducking you may try to hide underwater.\r\n-created a hole in the red roof\r\n-used playerclip to avoid that players get stuck\r\n-many optimizations (changing passable appartments, so you can't look through; removed the most unnecessary appartments)\r\n-few details added.\r\n-includes 2*64 spawnpoints\r\n"
+}

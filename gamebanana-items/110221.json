@@ -1,0 +1,47 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"ka_dust_35-120hp_v2": [
+						"Readme.txt",
+						"ka_dust_35-120hp_v2.bsp"
+					]
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 297707,
+			"_nDownloadCount": 2132,
+			"_nFilesize": 598080,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/297707",
+			"_sFile": "ka_dust_35-120hp_v2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1355940289
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "map now playable in Death-Match knife servers"
+				},
+				{
+					"cat": "-",
+					"text": "health-mods fixed for past joiners"
+				}
+			],
+			"_sText": "I had to update my map quickly by this one possibility. This map is now playable in Death-Match knife servers, because any spawn at any time will get the same health-mod it was chose by random system.",
+			"_sTitle": "V2.0",
+			"_tsDateAdded": 1357414108
+		}
+	],
+	"_idRow": 110221,
+	"_sName": "ka_dust_35-120hp (Now V2)",
+	"_sText": "<h1><center><font color=\"Orange\">DUST 35-120HP</font></center></h1>\r\n<h2><font color=\"yellow\">KnifeArena</font></h2>\r\n\r\nProperties\r\n----------\r\n- UPDATE 2 released (read at Changelog)\r\n- Working Progress: 2 hours\r\n- some standart commands have been enabled on this map\r\n- added 3 health-mods: 35hp; 100hp; 120hp\r\n- only knife\r\n- play with one player vs or play with full 30 slots\r\n- nice look\r\n\r\nEnabled Commands Overview\r\n-------------------------\r\n\r\nEnabled Commands Overview shows you all enabled commands of this map.\r\n\r\n\tmp_roundtime 3.5\r\n\tsv_enablebunnyhopping 1\r\n\tsv_airaccelerate 1000\r\n\tsv_wateraccelerate 1000\r\n\r\nBug Reports\r\n-----------\r\n\r\nPlease report all bugs on this GameBanana comments page.\r\n\r\nChangelog\r\n---------\r\nTo watch the log pls look in <a href=\"http://gamebanana.com/maps/updates/171073\">Updates</a> section.\r\n\r\n_____________________________________________________________________________\r\n\r\n<p><center><font color=\"Lightgreen\">Please leave comments, rate, give feedback and subscribes if you like.</font></center></p>"
+}

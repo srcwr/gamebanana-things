@@ -1,0 +1,27 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ba_whacky_electric_public_v2.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 325614,
+			"_nDownloadCount": 1270,
+			"_nFilesize": 1097655,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/325614",
+			"_sFile": "ba_whacky_electric_jail_public_v2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1263659733
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 129735,
+	"_sName": "ba_whacky_electric_jail_v2",
+	"_sText": "<p>NEW FEATURES:</p>\r\n<p>Electric chair\r\nObstacle course\r\nBomb bascetball\r\nSimon says room (prefab)\r\nWatch tower\r\nCouch room (AKA chair room)\r\nBath in every cage (prefab)\r\nNew weapons in armory\r\nCredits room\r\nLots of breakable walls and vents\r\nMore guns in T cages\r\nMore fences and ralings to help CTs confine Ts\r\nPool Door\r\nMore spawn points\r\nMore teleports \r\nMuch more new breakable walls/floors, shafts and teleports\r\n\"ST bombs\" which when picked up by terrorists spell \"ST\" (short for special treatment) above their heads</p>\r\n<p>BUG/GLITCH FIXES:</p>\r\n<p>Fixed pool \"leak\" glitch (v1.0)\r\nFixed Medic sign and football having a invalid texture (likeley caused\r\nby a custom texture) (v1.0)\r\nFixed some guns in armory having just one clip of ammo (v1.0)\r\nFixed small \"leak\" glitch at the side of the simon says room (v2.0)</p>\r\n<p>HOW TO INSTALL:</p>\r\n<p>Place ba_whacky_electric_jail.bsp in INSTALLDIR:\\Steam\\SteamApps\\\r\nyour username\\Counter Strike Source\\cstrike\\maps</p>\r\n<p>HOW TO UNINSTALL:</p>\r\n<p>Remove the file from the install directory</p>\r\n<p>CHANGELOG: \r\nv1.0 - Initial Public release\r\nv1.1 - Added a new tower, a race setup (go into the new tower which is in\r\nthe race/obstacle course and click the left set of buttons to enable race,\r\nrickt click to disable it. When in race mode everyone but the first person \r\nwill get slayed once the first person touches the finish line.),\r\nfixed some bugs and added a door to the medic (heal) room (use opens).\r\nv2.0 - Fixed race, now works properly (tested), fixed several textures, fixed small leak glitch, added several decals to represent jail notices as well as grafiti and notes in the prisoner's cells, removed some of the steam in the showers, they should stop lagging now, added water drops coming from the showers, added the \"ST bombs\", these are bombs, which when picked up/held by the Ts, say \"ST\" above their head and ST meaning Special Treatment, added ways to get out of execution room and isolation. Added several custom textures packed with the BSP. </p>\r\n<p>KNOWN BUGS:\r\n<em>FIXED IN v2</em> A very small \"leak\" glitch appears on the side of the simon says room\r\nslightly sticking out of the wall. I am unable to fix this for now, since\r\nworking with the simon says room is VERY hard (don't worry, its only visual and VERY hard to spot unless you inspect all nooks and cranies on the map, chances are 99.99% of the people in your server won't see it). <em>FIXED IN v2</em></p>\r\n<p>Enjoy!</p>"
+}

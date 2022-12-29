@@ -1,0 +1,56 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"indoor_shooting_range": {
+						"0": "1.jpg",
+						"1": "2.jpg",
+						"2": "3.jpg",
+						"3": "4.jpg",
+						"4": "Thumbs.db",
+						"cstrike": {
+							"maps": {
+								"0": "indoor_shooting_range.bsp",
+								"1": "indoor_shooting_range.nav",
+								"2": "indoor_shooting_range.txt",
+								"graphs": [
+									"indoor_shooting_range.ain"
+								]
+							},
+							"materials": {
+								"indoor_shooting_range": [
+									"ctisr.vmt",
+									"ctisr.vtf",
+									"ctisr_normal.vmt",
+									"ctisr_normal.vtf",
+									"numbers.vmt",
+									"numbers.vtf",
+									"target_paper.vmt",
+									"target_paper.vtf"
+								]
+							}
+						}
+					}
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 361147,
+			"_nDownloadCount": 5524,
+			"_nFilesize": 1290667,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/361147",
+			"_sFile": "indoor_shooting_range.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1120017526
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 116167,
+	"_sName": "indoor_shooting_range",
+	"_sText": "This map is intended for aim practice (obviously) and there isn't many features in the map, but more will be added as time goes by.\r\n\r\nMore Information\r\n\r\nTo go to your paper to see how you've done, there are two small doors - one on the left and another on the right.\r\n\r\n\r\nTo buy weapons, simply go up to the counter or whatever you want to call it and it will trigger a buy zone.\r\n\r\n\r\nBefore starting the game, in the \"Create Game\" menu, you should set your buytime to a high amount because there is no possible way for you to get any money in this level.\r\n\r\n\r\nType \"sv_cheats 1\" and then \"impulse 101\" to get full money for more weapons. If you run out of money again just type in \"impulse 101\" without typing \"sv_cheats 1\" \r\n"
+}

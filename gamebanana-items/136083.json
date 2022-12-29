@@ -1,0 +1,55 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "ReadMe.txt",
+					"cstrike": {
+						"maps": [
+							"gg_paint.bsp",
+							"gg_paint.nav",
+							"gg_paint.txt"
+						],
+						"materials": {
+							"gg_paint": [
+								"brick_wall_myggmap.vmt",
+								"brick_wall_myggmap.vtf",
+								"ceiling_myggmap.vmt",
+								"ceiling_myggmap.vtf",
+								"confloor_myggmap.vmt",
+								"confloor_myggmap.vtf",
+								"crate_2_myggmap.vmt",
+								"crate_2_myggmap.vtf",
+								"crate_myggmap.vmt",
+								"crate_myggmap.vtf",
+								"grass_myggmap.vmt",
+								"grass_myggmap.vtf",
+								"inside_myggmap.vmt",
+								"inside_myggmap.vtf",
+								"roof_myggmap.vmt",
+								"roof_myggmap.vtf"
+							]
+						}
+					}
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 339160,
+			"_nDownloadCount": 1167,
+			"_nFilesize": 391346,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/339160",
+			"_sFile": "gg_paint_3.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1219271490
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 136083,
+	"_sName": "gg_paint",
+	"_sText": "This is my first GunGame map. I've created it in cartoon style :)\r\nHope you enjoy it.\r\n\r\nChanges in new version:\r\n-The house has 3 rooms\r\n-Crates compiled to physbox entities\r\n-More crates, more trees\r\n-2 new walls"
+}

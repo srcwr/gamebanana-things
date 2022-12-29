@@ -1,0 +1,82 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"mg_smash_dev": [
+						"mg_smash_dev.bsp",
+						"mg_smash_dev_t.bsp",
+						"readme.txt"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 281360,
+			"_nDownloadCount": 662,
+			"_nFilesize": 2444389,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/281360",
+			"_sFile": "mg_smash_dev_3a61e.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1443160813
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "You now can not die from fall damage at all."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "mg_smash_dev",
+			"_tsDateAdded": 1504355001
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Changed skybox."
+				},
+				{
+					"cat": "-",
+					"text": "Health will reset to 100 instantly upon damage."
+				},
+				{
+					"cat": "-",
+					"text": "Changed timings on the block spawning."
+				},
+				{
+					"cat": "-",
+					"text": "Changed how ladders work."
+				},
+				{
+					"cat": "-",
+					"text": "Platforms won't be instantly destroyed anymore, it will take a few more seconds before it completely disappears."
+				},
+				{
+					"cat": "-",
+					"text": "After 180 seconds, everything will start flying, to prevent games from taking too long to end."
+				},
+				{
+					"cat": "-",
+					"text": "Spread the spawns around the map."
+				},
+				{
+					"cat": "-",
+					"text": "Added an extra map file for only T spawns."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "mg_smash_dev",
+			"_tsDateAdded": 1504307954
+		}
+	],
+	"_idRow": 128674,
+	"_sName": "mg_smash_dev",
+	"_sText": "In the environment of development, the CT and T team must survive the outburst of the blocks shooting out of the middle of the map, how long can your team survive?\r\n<br><br>Our server running this map: 185.38.151.201:27205"
+}

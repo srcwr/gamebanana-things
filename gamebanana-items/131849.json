@@ -1,0 +1,33 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"zm_fortress_b3": [
+						"zm_fortress_b3 - changelog - information.txt",
+						"zm_fortress_b3.bsp",
+						"zm_fortress_b3.nav",
+						"zm_fortress_b3.txt"
+					]
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 353394,
+			"_nDownloadCount": 1850,
+			"_nFilesize": 2575812,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/353394",
+			"_sFile": "zm_fortress_b3.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1171299585
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 131849,
+	"_sName": "zm_fortress_b3",
+	"_sText": "Zm_fortress_b3 Changelog\r\n(newer version of zm_ZFC_b2)\r\n=====================\r\nCreated by [#OMEGA] - K2\r\n=====================\r\nThis is my first offical multiplayer map; I deceided to create a zombie mod because zombie mod owns. Orginally it was crated for a clan out of a HL² Map (which was created just for SP ^^), but this clan kicked me so I won't work for the clan anymore. This map is independent now ^^\r\n=====================\r\nMap Information:\r\n\r\nThis is somekind of a fortress build by humans and overtaken by the combines during the war. Now it is abonded and the combine and thair human slaves disappeared without a trace. Blood and somekind of \"Headcrabs\" were found here; according to roumors zombies were seen in the fortress...\r\nNow it's about you to find out what really happened here... \r\n---> Good Luck soldier! \r\n\r\n=====================\r\nVersion Info:\r\n\r\nVersion: Beta 3 \r\nReleased: 06.01.2007 (Febuary)\r\nSpawnpoints: 32 T, 32 CT (64) \r\nNotes: NO HDR, not all rooms finished yet, Decals missing\r\nCompiling Time: \tvbsp.exe 13 sec. \r\n\t\t\tvvis.exe 13 min. 16 sec.\r\n\t\t\tvrad.exe 9 min. 21.sec\r\nTotal: 22min. 50 sec\r\n\r\n=====================\r\nContact @ (no spam)\r\n\r\nE-Mail: omegak2@gmx.de\r\nICQ: 192-355-651\r\nMSN: omegak2@hotmail.de\r\n\r\nor Visit my Clan hompage @ www.team-PoA.de.vu\r\n\r\n=====================================================================\r\nChangelog:\r\n\r\n-new physic props were added in the \"old room\" (4 Chairs)\r\n-added a clip texture in the storage with the vent; you can't fall behind the container anymore\r\n-changed the maxfadedist of some props in the \"old room\"\r\n-added a clip texuter to the winerack in the \"old room\"\r\n-changed the model of the rook outside (near the biggest tree)\r\n-changed the width of the windows\r\n-changed the trigger_push near the secret vent room\r\n-replaced the ZFC logo with omega k2 logo\r\n-increased the damage of the doors of the secret room\r\n-added a windows in the door (upstairs) of the secret room\r\n-removed some clip texutes belonging to the ladders\r\n-made a camp spot worser\r\n-added another roof and a clip texture to prevent bug abusing\r\n-added some new (small) buildings and barriers\r\n-added new railing near ct spawn\r\n-changed textures and with of the blocks near ct spawn\r\n-added lights and props belonging to the lights\r\n-added a clip texture near the room with the weapons; you can't get on the other clip texture now\r\n-completed the \"ventroom\"; added buttons to open the vents too\r\n-replaced some unnecessary textures with noclip\r\n-fixed some faces of the weaponracks\r\n-added a new camp spot above the weaponracks\r\n-changed the big tree's rotation\r\n-finished the kitchen\r\n-increased the End Fade Dist of some props\r\n-finished the bathroom\r\n-increased the length of a wall in the computer room\r\n-used more vertexes\r\n-finished the supervison room\r\n-increased the mass of the spoolwires\r\n-chenged the postion of some secret buttons a bit\r\n-moved the car a bit back\r\n\r\n=====================================================================\r\nPlanned for new Versions:\r\n\r\n-cubemaps\r\n-all Rooms\r\n-some more props\r\n-all props (even the light props) with a End Fade Dist\r\n-different Button position (secret buttons)\r\n-decals\r\n-scoundscape / some scary sounds\r\n-bugfixes (If I find some or someone report bugs)\r\n-balancing \r\n-(HDRR)\r\n-Area Portals\r\n\r\n=====================================================================\r\nZip-File should contain:\r\n\r\nzm_fortress_b3.bsp 5.431.564 Bytes\r\nzm_fortress_b3.nav 333.938 Bytes\r\nzm_fortress_b3.txt 1.290 Bytes\r\nzm_fortress_b3 - changelog - information.txt\r\n\r\nIf one of these files is missing please redownload the zip; I offically uploaded them on fpsbanana and the zombiemod website.\r\n\r\n(copied form the zm_fortress_b3 - changelog - information.txt file, please report every bug you find and post your suggestions ^^)\r\n\r\nEDIT: Please get zm_fortress_b4 instead of _b3! - http://www.fpsbanana.com/maps/21496\r\n"
+}

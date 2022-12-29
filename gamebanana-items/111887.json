@@ -1,0 +1,97 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"2 fy_corridor_c1 r0": {
+						"0": "readme_fy_corridor_c1.txt",
+						"maps": [
+							"fy_corridor_c1.bsp"
+						]
+					}
+				},
+				"_sMimeType": "application/x-7z-compressed"
+			},
+			"_bContainsExe": false,
+			"_idRow": 423269,
+			"_nDownloadCount": 412,
+			"_nFilesize": 2715340,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "Main Release",
+			"_sDownloadUrl": "https://gamebanana.com/dl/423269",
+			"_sFile": "2_fy_corridor_c1_r0.7z",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1560776070
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"2 fy_corridor_c1 Source File r0": [
+						"fy_corridor_c1.vmf",
+						"readme_fy_corridor_c1_sourcefile.txt"
+					]
+				},
+				"_sMimeType": "application/x-7z-compressed"
+			},
+			"_bContainsExe": false,
+			"_idRow": 423268,
+			"_nDownloadCount": 121,
+			"_nFilesize": 46808,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "Source File",
+			"_sDownloadUrl": "https://gamebanana.com/dl/423268",
+			"_sFile": "2_fy_corridor_c1_source_file_r0.7z",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1560776068
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Added a room near T Spawn with some explosive barrels"
+				},
+				{
+					"cat": "Overhaul",
+					"text": "Remade areas of stairs"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Moved doorway at CT Spawn"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Adjusted light sources for all lights"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Replaced all explosive crates with barrels"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Added details for skybox background"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Added more cubemaps"
+				},
+				{
+					"cat": "Tweak",
+					"text": "Various minor tweaks"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Stable 1",
+			"_tsDateAdded": 1560776614
+		}
+	],
+	"_idRow": 111887,
+	"_sName": "fy_corridor",
+	"_sText": "Title: Corridor<br>Internal name: fy_corridor<br><br>[BRIEF INTRO]<br>Medium-size fight yard map<br><br>[CORE FILE INFO]<br>Core file name: fy_corridor_c1.bsp<br>Core file size: 10,351,639 bytes<br>Core file last modified time: 2019-06-17,00:47 (Beijing)<br><br>[MAP INFO]<br>Intended game: Counter-Strike: Source<br>Intended mode: Fight yard<br>Max supported players: 16T + 16CT<br><br>[VERSION]<br>Source #2 Stable 1<br>Goldsource equivalent: <a href=\"https://gamebanana.com/maps/184706\">#19 fy_corridor</a><br><br>[CREDITS]<br>Key authors:<br>– Flora Canou (floracanou@qq.com) &gt; Level designer<br>Contributors:<br>– Valve Corporation &gt; Resources provider"
+}

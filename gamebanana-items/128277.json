@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"mg_lt_glacier.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 306381,
+			"_nDownloadCount": 6665,
+			"_nFilesize": 35429667,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/306381",
+			"_sFile": "mg_lt_glacier.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1325134285
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 128277,
+	"_sName": "mg_lt_glacier",
+	"_sText": "<a href=\"http://steamcommunity.com/groups/nyrosdk \" nyro's=\"\" sdk=\"\" steam=\"\" group\"\"=\"\" target=\"_blank\">nyro's SDK Steam Group</a>\r\n\r\n- <!-- REMOVED FORM -->\r\n\r\nMG\\_LT\\_GLACIER - 12-28-11\r\n==========================\r\n\r\n- **NoBlock plugin is required to play this with more than 1 player**\r\n- **Some plugins rename players and cause teles not to work, some trail plugins may cause this**\r\n- **This map modifies sv\\_gravity, it is set up to change back to 800 at the end of each round. I recommend putting sv\\_gravity 800 in your server config incase the map changes mid-round.**\r\n\r\n**Description**\r\n------------------\r\n- A racing map based off of the popular minigame \"iceskate\". Players race to the end dodging various obstacles and hitting boosters to gain speed. \t\r\n\r\n\t**Features a random track generator so no 2 tracks are ever the same.**\r\n\r\n After each race players will battle it out in a randomized iceskate arena. Players that placed 1st -&gt; 10th will be rewarded with weapons for the arena. The better your place the better your reward will be.\r\n\r\n- Choose between EASY, MEDIUM, and HARD difficulties for the track, or select BONUS to play a Long Jump competition!\r\n\r\n**Author**\r\n------------------\r\n- Map by: nyro\r\n-&nbsp;**Custom Textures**\r\n------------------\r\n- CHECK EM\r\n\r\n**Music Recommendations**\r\n------------------\r\n- qr\r\n\r\n**Feedback &amp; Testing**\r\n------------------\r\n- CHECK EM\r\n- hlstriker\r\n- N.O.L.F.\r\n- qr\r\n- TonyCip\r\n- Detonater\r\n- Kanka\r\n- [bella basic]\r\n\r\n**Special Thanks**\r\n------------------\r\n- cfoust // Author of Propper. The map wouldn't have been possible without this!\r\n- CHECK EM // Vote system idea for choosing what you want to play.\r\n- hlstriker // Providing ideas to help me debug the generator early on.\r\n- qr // Helping pick out the majority of the soundtrack.\r\n\r\n**Soundtrack**\r\n------------------\r\n- AK1200 - Rabbit in the Moon (Remix)\r\n- Diddy Kong Racing Music - Victory Theme\r\n- Global Communication - 8:07\r\n- Jon Hopkins - Cold Out There\r\n- Nicorisone - An Old Friend\r\n- Sander Van Doorn - Lobby\r\n- Stendeck - Admira And Bosko\r\n- Stendeck - Hybrid\r\n- Working for a Nuclear Free City - Je Suis Le Vent\r\n\r\n**Known Bugs**\r\n------------------\r\n- If you receive a Snapshot Overflow message when trying to join a server running this map, it means the current track is too long and it is trying to sync too many entities to the client at once. You will be able to join once the current race ends.\r\n- Reaching the far end of Long Jump will prevent you from being teleported on the following rounds.\r\n- If the generated track is very long, the finish line tele may not work. I believe this is related to the loser tele that covers the entire map touching too many entities at once(All the track pieces, scenery, obstacles, tunnels, etc).\r\n- Sometimes it says \"45 seconds remaining...\" as its calculating top 10 for long jump.\r\n- Sometimes winner music repeatedly plays during the arena DM.\r\n\r\nPlease rate and/or comment. Thanks!\r\n\r\n- <!-- REMOVED FORM -->"
+}

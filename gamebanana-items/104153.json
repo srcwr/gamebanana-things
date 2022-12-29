@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_Streets_beta_3.bsp",
+					"de_streets_beta_3.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 328281,
+			"_nDownloadCount": 2085,
+			"_nFilesize": 8487027,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/328281",
+			"_sFile": "streetsv3.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1254716839
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 104153,
+	"_sName": "de_Streets",
+	"_sText": "A couple of streets with some alley's connecting them\r\nIve finished with the brushwork for now but ive still gotta populate\r\nthe map with props and finish textureing\r\nand the 3d skybox looks like poo \r\nUpdate\r\nadded some more props\r\ndetailed the buildings around CT's spawn\r\nstill working on optimization... its a bitch working out how to fit the skybox around my buildings to allow\r\nthe hint/skip brushes to function"
+}

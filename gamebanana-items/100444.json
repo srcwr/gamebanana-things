@@ -1,0 +1,49 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "cs_siege.bsp",
+					"1": "readme.txt",
+					"brush_materials": [
+						"dieAmericanPigs.vtf",
+						"dieCtScum.vmt",
+						"dieCtScum.vtf",
+						"ryans_logo.vmt",
+						"ryans_logo.vtf",
+						"xs_TeaBerry.vtf",
+						"xs_TropicalBlast.vtf",
+						"xs_cherryBlast.vmt",
+						"xs_cherryBlast.vtf",
+						"xs_citrusBlast.vmt",
+						"xs_citrusBlast.vtf",
+						"xs_cranGrape.vmt",
+						"xs_cranGrape.vtf",
+						"xs_lemonBlast.vmt",
+						"xs_lemonBlast.vtf",
+						"xs_teaBerry.vmt",
+						"xs_tropicalBlast.vmt",
+						"yellowRoadPaint.vmt",
+						"yellowRoadPaint.vtf"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 355998,
+			"_nDownloadCount": 2581,
+			"_nFilesize": 5693845,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/355998",
+			"_sFile": "s_cs_siege_v2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1159652391
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 100444,
+	"_sName": "cs_siege_v2",
+	"_sText": "Remake of cs_siege with some extra stuff in it. I'm going to be adding some extra areas to this. The layout is pretty much the same except that you've got an access tunnel that leads to a power station that you can blow up and cut power to the entire level. This will disable all the lights inside the buildings. You can also toggle the lights for the garage, the warehouse, and the sewers in this version. The switches are located at the warehouse enterance to the sewer, and also at the garage enterance to the sewer. The map geometry is constructed for the most part. I am currently optimizing the map, and making the lighting look good. I'm also adding things to spice up the rooms."
+}

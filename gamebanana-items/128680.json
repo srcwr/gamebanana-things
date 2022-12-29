@@ -1,0 +1,57 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"mg_smash_madness_fix2": [
+						"mg_smash_madness_fix2.bsp",
+						"mg_smash_madness_fix2_t.bsp",
+						"readme.txt"
+					]
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 406611,
+			"_nDownloadCount": 188,
+			"_nFilesize": 2926503,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/406611",
+			"_sFile": "mg_smash_madness_fix2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1546994448
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Removal",
+					"text": "- Removed the teleportation when falling to the water."
+				},
+				{
+					"cat": "Improvement",
+					"text": "- Players now die when they touch the water."
+				},
+				{
+					"cat": "Addition",
+					"text": "- Added a terrorist only version of the map."
+				},
+				{
+					"cat": "Tweak",
+					"text": "- Blocks now come out of the middle when the map loads, not when a player spawns."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "mg_smash_madness_fix2",
+			"_tsDateAdded": 1546994456
+		}
+	],
+	"_idRow": 128680,
+	"_sName": "mg_smash_madness",
+	"_sText": "**mg_smash_madness**\r\n<br>\r\n<br>This is my first ever released map on CSS, I am a bit late because of the release of CS:GO I know but I prefer CSS in general.\r\n<br>\r\n<br>**Map Description**\r\n<br>\r\n<br>Made for the new Trinity community, mg_smash_madness is a map about surviving incoming blocks that will obliterate the platforms that holds you're life, what team will survive the longest?\r\n<br>\r\n<br>Note: This map is physics intensive.<br><br>"
+}

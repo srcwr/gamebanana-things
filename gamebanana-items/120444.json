@@ -1,0 +1,52 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"maps": [
+						"de_rollerfun.bsp",
+						"de_rollerfun.res",
+						"de_rollerfun.txt"
+					],
+					"materials": {
+						"dancemat": {
+							"1": [
+								"red.vmt"
+							],
+							"2": [
+								"red.vtf"
+							],
+							"3": [
+								"yellow.vmt"
+							],
+							"4": [
+								"yellow.vtf"
+							]
+						},
+						"ukcs": [
+							"ukcs_decal.vmt",
+							"ukcs_decal.vtf"
+						]
+					}
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 348844,
+			"_nDownloadCount": 1191,
+			"_nFilesize": 813150,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/348844",
+			"_sFile": "de_rollerfun.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1189096494
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 120444,
+	"_sName": "de_rollerfun",
+	"_sText": "This is a fun map with SMGs only in a cave. the map is split up in 2 similar sections (bombsites). one is marked with red, the other with yellow. both sections are sealed by gates which open on touch. they are to prevent spawn killing and close after 10 seconds after they have been opened.\r\n\r\nThe Rollers are on the side of the bomb area that is marked with a glow, they push the players to the outside of it and if they fall off they die.\r\n\r\nThe map most likely will result in sprayfests and could be laggy in 32 vs 32 so its recomended to play on 24 vs 24. The map is made in fy style to prevent everyone taking the same weapon. for more information read the textfile with the map."
+}

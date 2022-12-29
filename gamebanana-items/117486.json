@@ -1,0 +1,39 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "Readme.txt",
+					"cfg": {
+						"mani_admin_plugin": {
+							"map_config": [
+								"dm_morpheus.cfg"
+							]
+						}
+					},
+					"maps": [
+						"dm_morpheus.bsp",
+						"dm_morpheus.txt"
+					]
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 357134,
+			"_nDownloadCount": 5260,
+			"_nFilesize": 4425835,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/357134",
+			"_sFile": "dm_morpheus.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1153995179
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 117486,
+	"_sName": "dm_morpheus",
+	"_sText": "dm_morpheus Remake for CSS\r\n=====================\r\nClassic UT map rebuilt for CS Source:\r\n\r\nFeatures:\r\nUT Classic morpheus design\r\n36 Random Spawns\r\nLauncher On Mid Platform\r\nCustom Textures + Custom Skybox\r\n\r\nAll embedded into BSP inv NAV file\r\n\r\n======================\r\nHint:\r\nJust before you hit the launch pad, jump\r\n======================\r\nCredits:\r\nOriginal concept/design to the first compiletion, wether it be EA or any other indivudual who may have released it first, rebuilt in hammer for Source by mr-thermaltakexXx©\r\n\r\nReadme.txt Contains Other Information.\r\n\r\nTo successfully use this map you must use the following CVARS on your server.\r\n\r\nsv_gravity 200\r\nsv_airaccelerate 250\r\nsv_friction 3\r\n\r\nZip contains mani CFG file which will automatically execute the settings for servers running mani admin"
+}

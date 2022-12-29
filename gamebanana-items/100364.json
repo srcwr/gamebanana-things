@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"cs_quackhouse.bsp",
+					"cs_quackhouse.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 324107,
+			"_nDownloadCount": 2998,
+			"_nFilesize": 10642142,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/324107",
+			"_sFile": "cs_quackhouse.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1268366618
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 100364,
+	"_sName": "cs_quackhouse",
+	"_sText": "This is yet another recreation of the popular map cs_crackhouse. This version is based on the CS:S version, not the original CS 1.6 version as I've never played it.\r\n\r\nAll of the other recreations have some little quirk in them I did not like. I did not like the day lighting, alternate routes or portions added in, or they just edited the decompiled original map to make it look better. This is a complete recreation from scratch, using measurements from the original (rounded to the nearest power of 2, of course).\r\n\r\nI believe this is the first crackhouse map to use HDR, so that should be a big plus. The bots only get stuck on the rarest of occasions, due to me editing the nav. Place names, overviews, more detail, soundscapes, etc. Basically, this is what cs_crackhouse SHOULD have been, if it had been made better.\r\n\r\nAnyway, hope you enjoy!"
+}

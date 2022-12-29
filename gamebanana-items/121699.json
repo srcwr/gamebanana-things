@@ -1,0 +1,42 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"maps": [
+						"surf_battlegrounds.bsp",
+						"surf_battlegrounds.nav"
+					],
+					"materials": {
+						"overviews": [
+							"surf_battlegrounds.vmt",
+							"surf_battlegrounds.vtf"
+						]
+					},
+					"resource": {
+						"overviews": [
+							"surf_battlegrounds.txt"
+						]
+					}
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 343585,
+			"_nDownloadCount": 3391,
+			"_nFilesize": 5751959,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/343585",
+			"_sFile": "surf_battlegrounds.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1205096943
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 121699,
+	"_sName": "surf_battlegrounds",
+	"_sText": "After testing this map on other servers, I noticed that the trigger_push entities are more powerful and overshoot where you're supposed to go. On a 33 tick rate server it runs fine. I'm gonna redo this map without the trigger_push entities.\r\n\r\nIt is still playable on 66/100 tic servers. It just kinda sucks when you get launched past where your supposed to go.\r\n\r\n\r\n\r\nA remake from another map I released 6 months ago, surf_towers. Added a small surf area, new spawn, new textures, new light, and a lot of other small stuff. \r\n\r\nThis is a freestyle surf map witch is compact so you can battle it out anywhere in the map. Instead of a jail, you get teleported to an open area where you are vulnerable to attack. Lots of areas to snipe from means more combat, enjoy!"
+}

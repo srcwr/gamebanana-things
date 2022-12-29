@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"mg_sceri_course_v1_2.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 293936,
+			"_nDownloadCount": 1472,
+			"_nFilesize": 20087920,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/293936",
+			"_sFile": "mg_sceri_course_v1_2_2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1371934025
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 128600,
+	"_sName": "mg_sceri_course_v1.2",
+	"_sText": "The map has 11 traps with different enviroments. Some are easy, some are pretty hard. I made the bhop part to teleport players back to start because using a trigger_hurt would be kinda hard for players. The explosion in the background city is just a random thought.\r\n\r\nMusic can be turned off from CSS settings.\r\n\r\nPlease report any bugs or so to me in comments.\r\n\r\nVersion 1.1\r\n==================\r\n- Removed the displacement hole at spawn and replaced it with a brush hole. This was done because some players got stuck in the hole for some reason.\r\n\r\n\r\n- Black room with lights has a sprite trail which will guide you through the correct route.\r\n\r\n- Made some platforms at the first climb wider and longer, so it will be a bit easier to climb.\r\n\r\n- Now many people can finish the map with points and correct ending. The hole will be different every time, so nobody can \"leech\" their way to victory.\r\n\r\nVersion 1.2\r\n==================\r\n\r\n- Fixed: the correct way in the final trap didn't change.\r\n\r\n- Added a wall to prevent two or more people from going in to press the final button\r\n\r\n- Added a new bhop trap in a rocky pit"
+}

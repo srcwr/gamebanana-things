@@ -1,0 +1,33 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "readme.txt",
+					"cstrike": {
+						"maps": [
+							"surf_agentmapzors_v2.bsp"
+						]
+					}
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 357041,
+			"_nDownloadCount": 2017,
+			"_nFilesize": 785256,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/357041",
+			"_sFile": "surf_agentmapzors_v2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1154529337
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 121578,
+	"_sName": "surf_agentmapzors_v2",
+	"_sText": "yayzors!?! this is my 1st map, it took longer than it looks lol. i tried to be creative and use things that worked on other maps on our server such as battle points, a gun room, jail, and a place thats kinda hard to get to. i would like to thank Kate for helping me play-test it and 4ngryToasters for telling me how to make a door and the wonder of the func_detail. Enjoy!\r\n\r\n\r\n**ALSO**\r\nThere seems to be something wrong with the map file showing up this error:\r\n\r\n\r\nDataTable warning: (class player): Out-of-range value (xxxx.xxxx) in SendPropFloat 'm_vecVelocity[1]', clamping.\r\n\r\n\r\nI'm still fairly new to mapping and don't know what the problem is but if it is something that can be fixed I will fix it if there's another version.\r\n"
+}

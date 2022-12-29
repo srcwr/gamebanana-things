@@ -1,0 +1,50 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"maps": [
+						"de_wpoint.bsp",
+						"de_wpoint.nav",
+						"de_wpoint.txt"
+					],
+					"materials": {
+						"overviews": [
+							"de_wpoint.vmt",
+							"de_wpoint.vtf",
+							"de_wpoint_radar.vmt",
+							"de_wpoint_radar.vtf"
+						],
+						"wilku": [
+							"logog4g.vmt",
+							"logog4g.vtf",
+							"who.vmt",
+							"who.vtf"
+						]
+					},
+					"resource": {
+						"overviews": [
+							"de_wpoint.txt"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 338236,
+			"_nDownloadCount": 1714,
+			"_nFilesize": 2321143,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/338236",
+			"_sFile": "de_wpoint.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1221929584
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 104735,
+	"_sName": "de_wpoint",
+	"_sText": "Originally de_point was designed by unknown mapper and it had a lot of bugs. I've decided to repair it and re-design some parts of the map ;)\r\n\r\n<b>Change log:</b>\r\n1. Terrorists don't spawn in front of the door anymore.\r\n2. Added a breakable glass at terrorist spawn - it protects from kills at round start. It has only 1 hp, so you can destroy it very fast ;)\r\n3. Added a ladder which makes possible to cross the fence at longway.\r\n4. Crates on the long street don't block players anymore.\r\n5. Deleted bugged room.\r\n6. Fixed doors in building.\r\n7. Added some decals.\r\n8. A few textures changed.\r\n9. Rotating block has been textured.\r\n10. Created INACCURATE radar.\r\n\r\n<b>INSTALATION:</b>\r\nPlayers: just unpack the file into your \\Steam\\SteamApps\\login\\counter-strike source\\cstrike directory\r\n\r\n<b>Servers: If your server has tick 100, you have to run map with phys_timescale 1.5 parameter</b>"
+}

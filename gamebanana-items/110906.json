@@ -1,0 +1,83 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrike": {
+						"maps": [
+							"$2000$.nav",
+							"$2017$.bsp"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 274011,
+			"_nDownloadCount": 1797,
+			"_nFilesize": 1496930,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/274011",
+			"_sFile": "2017__3.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1490577536
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Added Sniper room on both sides"
+				},
+				{
+					"cat": "-",
+					"text": "Optimized visportals for faster framerate and less unnecessary draw"
+				},
+				{
+					"cat": "-",
+					"text": "Added decals"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Update 3",
+			"_tsDateAdded": 1493997757
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Replaced fenced ledge with solid stone and connected on both ends"
+				},
+				{
+					"cat": "-",
+					"text": "Added High altitude tunnels to reach to either side"
+				},
+				{
+					"cat": "-",
+					"text": "Added ladder around bomb zone into tunnels"
+				},
+				{
+					"cat": "-",
+					"text": "Optimized the map for visibility and better frame-rate on multiplayer"
+				},
+				{
+					"cat": "-",
+					"text": "Added 2 more spawn points"
+				},
+				{
+					"cat": "-",
+					"text": "Created bot navigation file (included in zip)"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Version 2.0",
+			"_tsDateAdded": 1490709297
+		}
+	],
+	"_idRow": 110906,
+	"_sName": "$2017$",
+	"_sText": "Inspired by map the $2000$ by Calou<br>I built this map from scratch with some additions<br>- The terrain size is same, more or less<br>-<span class=\"GreenColor\"> Optimized for visibility and multiplayer frame-rate</span><br>- 16 + 16 Spawn points<br>- <span class=\"GreenColor\">Handmade NAV file for bot navigation</span><br><br>- Made in this year, hence name 2017<br>- All the textures are default so you dont need to download any extra resources<br>- <span class=\"RedColor\">Map fit for deathmatch and gungames</span><br>- You are welcomed to use this in your servers.<br><br><b><span class=\"RedColor\">features</span></b>:<br>------------------------<br>Bomb Zone<br>Buy Zone (if you want to play it as normal)<br><br>Please do <span class=\"GreenColor\">suggest and vote </span>if you see this map enjoyable"
+}

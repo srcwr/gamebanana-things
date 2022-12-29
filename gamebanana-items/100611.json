@@ -1,0 +1,86 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrike": {
+						"maps": [
+							"cs_western-filmset.bsp",
+							"cs_western-filmset.nav"
+						]
+					}
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 424334,
+			"_nDownloadCount": 570,
+			"_nFilesize": 24723880,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/424334",
+			"_sFile": "cs_western-filmset_v1-5.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1561655171
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Adjustment",
+					"text": "- Fixing position of a lot objects."
+				},
+				{
+					"cat": "Adjustment",
+					"text": "- Fixing a lot of errors and bugs."
+				},
+				{
+					"cat": "Improvement",
+					"text": "- New 3D objects, like stones etc."
+				},
+				{
+					"cat": "Addition",
+					"text": "- Added brushes inside of inside cactus (so bullets don't fly as through an empty object)."
+				},
+				{
+					"cat": "Addition",
+					"text": "- Making a holes for chimney pipes, near hostages."
+				},
+				{
+					"cat": "Adjustment",
+					"text": "- Added brushes inside of chimney pipes (that not have colliders, so do not be as an emty object), near hostages."
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Added some \"Clip\" objects (colliders from brushes) to certain entries (for smoot movement)."
+				},
+				{
+					"cat": "Adjustment",
+					"text": "- Also added \"Clip\" objects to the roots of the big tree (for smoot movement)."
+				},
+				{
+					"cat": "Improvement",
+					"text": "- Added some decals and overlays."
+				},
+				{
+					"cat": "Improvement",
+					"text": "- Optimization for a while."
+				},
+				{
+					"cat": "Improvement",
+					"text": "- Edited navigation of bots (for cool movement among the new objects)."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "1.5",
+			"_tsDateAdded": 1561655478
+		}
+	],
+	"_idRow": 100611,
+	"_sName": "CS_Western-Filmset",
+	"_sText": "-Hello guys! We present to you our  map , based on western topic and inspired from western classic.<br><br>We hope you will enjoy. :)<br><br>--------------------------------------------------------------------------------<br><br>Story: A filming platform has been attacked by some unknown terrorists. Bandits have demanded $ 500,000 for the release of hostages plus a helicopter.<br><br>Counter Terrorists: Our state does not fulfill the requirements of terrorists! Eliminate all  terrorists and save hostages!<br><br>Terrorists: We can expect a wave of counterattack. Under no circumstances don't let counter-terrorists to escape the hostages! They represent our guarantee of success.<br><br>Notes: Four hostages remained alive on the filming platform. Three hostages are on the roof of a house on the right of the damaged train. Another hostage is on the roof of a house on the left of the train.<br><br>Credits: <br><br>Marin Colta - main level designer, idea of map, basic geometry & lights, positioning objects, main object and position, hostages placement.<br><br>Dmitry Ghervas - mentor, minimap, errors & bugs fixing, 3D sky, editing of bot navigation.<br><br>=======================================<br><br>Instalation instruction:<br><br>Unzip the file \"CS_Western-Filmset.zip\" into the main folder of the game.<br><br>Leave a comment !<br>"
+}

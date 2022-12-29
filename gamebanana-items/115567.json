@@ -1,0 +1,50 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"maps": [
+						"bp_seizure.bsp",
+						"bp_seizure.nav",
+						"bp_seizure.res",
+						"bp_seizure.txt"
+					],
+					"materials": {
+						"bptextures": [
+							"mehface.vmt",
+							"mehface.vtf",
+							"partyfloor.vmt",
+							"partyfloor.vtf",
+							"siezure.vmt",
+							"siezure.vtf",
+							"wall.vmt",
+							"wall.vtf"
+						]
+					},
+					"sound": {
+						"bpsounds": [
+							"bptech.wav"
+						]
+					}
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 357855,
+			"_nDownloadCount": 1309,
+			"_nFilesize": 1449682,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/357855",
+			"_sFile": "bp_seizure.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1148829003
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 115567,
+	"_sName": "bp_seizure",
+	"_sText": ""
+}

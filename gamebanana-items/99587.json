@@ -1,0 +1,110 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "redme first!!!.txt",
+					"maps": [
+						"cs_bank.bsp",
+						"cs_bank.nav"
+					],
+					"materials": {
+						"bmwm3": [
+							"bmwm3.vmt",
+							"bmwm3.vtf",
+							"bmwm32.vmt",
+							"bmwm32.vtf",
+							"bmwm33.vmt",
+							"bmwm33.vtf",
+							"bmwm34.vmt",
+							"bmwm34.vtf",
+							"bmwm35.vmt",
+							"bmwm35.vtf",
+							"bmwm36.vmt",
+							"bmwm36.vtf",
+							"bmwm3c.vtf",
+							"tex2.vmt",
+							"tex2.vtf",
+							"tex3.vmt",
+							"tex3.vtf",
+							"tex4.vmt",
+							"tex4.vtf",
+							"tex5.vmt",
+							"tex5.vtf",
+							"tex6.vmt",
+							"tex6.vtf",
+							"window.vmt",
+							"window.vtf"
+						],
+						"mini": [
+							"mini1.vmt",
+							"mini1.vtf",
+							"mini1c.vtf",
+							"mini2.vmt",
+							"mini2.vtf",
+							"miniint1.vmt",
+							"miniint1.vtf",
+							"tex2.vmt",
+							"tex2.vtf",
+							"trans1.vmt",
+							"trans1.vtf"
+						],
+						"overviews": [
+							"cs_bank.vmt",
+							"cs_bank.vtf"
+						],
+						"path": [
+							"tex2.vmt",
+							"tex2.vtf",
+							"tex2a.vmt",
+							"tex2a.vtf",
+							"tex3.vmt",
+							"tex3.vtf"
+						]
+					},
+					"models": [
+						"bmwm3.dx80.vtx",
+						"bmwm3.dx90.vtx",
+						"bmwm3.mdl",
+						"bmwm3.phy",
+						"bmwm3.sw.vtx",
+						"bmwm3.vvd",
+						"mini.dx80.vtx",
+						"mini.dx90.vtx",
+						"mini.mdl",
+						"mini.phy",
+						"mini.sw.vtx",
+						"mini.vvd",
+						"path.dx80.vtx",
+						"path.dx90.vtx",
+						"path.mdl",
+						"path.phy",
+						"path.sw.vtx",
+						"path.vvd"
+					],
+					"resource": {
+						"overviews": [
+							"cs_bank.txt"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 333683,
+			"_nDownloadCount": 3011,
+			"_nFilesize": 34210902,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/333683",
+			"_sFile": "cstrike_149.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1236623032
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 99587,
+	"_sName": "cs_bank",
+	"_sText": "Save hostages from a bank\r\nsome models from Garrys mod\r\nZalm - optimization"
+}

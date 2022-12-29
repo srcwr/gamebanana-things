@@ -1,0 +1,39 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "gg_lala_crash_v2_2.bsp",
+					"1": "readme.txt",
+					"cstrike": {
+						"maps": [
+							"gg_lala_crash_v2_2.bsp"
+						],
+						"sound": {
+							"Map Sounds": [
+								"Police_Car_Siren_Sound_Effect.wav"
+							]
+						}
+					}
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 301384,
+			"_nDownloadCount": 1190,
+			"_nFilesize": 8315402,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/301384",
+			"_sFile": "gg_lala_crash_v2_2_2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1342875054
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 134291,
+	"_sName": "GG_Crash_Accident",
+	"_sText": "Put this into cstrike folder, the reason it does not go into maps instead is because I have added sounds so you have to put it in cstrike or if you want you can check what's in it :D\r\nIf your running a server then you do the same or for some reason its incorrect put it in manually \r\nIf there are any bugs/ideas post them below :)\r\n~Lala"
+}

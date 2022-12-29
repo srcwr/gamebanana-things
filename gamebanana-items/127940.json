@@ -1,0 +1,54 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"addons": {
+						"sourcemod": {
+							"config": [
+								"gunmenu.ini"
+							],
+							"plugins": {
+								"0": "koth.aztec.smx",
+								"disabled": [
+									"sm_dmlite.smx",
+									"sm_gunmenu.smx",
+									"sm_replen.smx"
+								]
+							},
+							"scripting": [
+								"sm_dmlite.sp",
+								"sm_gunmenu.sp",
+								"sm_replen.sp"
+							]
+						}
+					},
+					"cfg": [
+						"dmlite.cfg",
+						"replen.cfg"
+					],
+					"maps": [
+						"mg_dtk_koth_tomb.bsp"
+					]
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 289530,
+			"_nDownloadCount": 843,
+			"_nFilesize": 2416211,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/289530",
+			"_sFile": "koth_tomb.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1393119096
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 127940,
+	"_sName": "mg_dtk_koth_tomb",
+	"_sText": "This is a game I made after hearing after watching VGHS. I really liked the game play and thought I would bring it to Source.\r\n\r\nKing of the hill is a game mode where players are fighting for control over a point on the map. When a player walks into the \"hill\" it activates for their team and sets a timer.\r\n\r\nWhen the timer reaches its limit (3:00) the round is over and the opposite team is killed.\r\n\r\nThis mod requires a plugin to work, which I have attached, to take care of respawns etc. I have also used the cvar mp_ignore_round_win_conditions 1 to stop the round from ending when all players are killed on low pop servers.\r\n\r\n\r\nThe plugin and game are designed to finish when the map is completed and the ignore round win conditions cvar is disabled when the timer reaches 3:00.\r\n\r\nAnyway, if this plugin gets some good feedback, I would be happy to release a few more maps like this.\r\n\r\nCheers."
+}

@@ -1,0 +1,40 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"bhop_gigaheish_fix.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 579785,
+			"_nDownloadCount": 123,
+			"_nFilesize": 23037238,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/579785",
+			"_sFile": "bhop_gigaheish_fix.rar",
+			"_sMd5Checksum": "c5acef5c990bb1a0844c67f04e965dbe",
+			"_tsDateAdded": 1622140905
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Adjustment",
+					"text": "fixed spiral bhop/surf"
+				}
+			],
+			"_sText": "fixed something that was not intended.",
+			"_sTitle": "fix",
+			"_tsDateAdded": 1622141315
+		}
+	],
+	"_idRow": 289140,
+	"_sName": "Bhop_gigaheish",
+	"_sText": "Hey,<br><br>New linear and high velocity based map.<br><br>Overall difficulty: 6/10 (a few gaps requiere good units/edge).<br><br><span class=\"GreenColor\">sv_maxvelocity 5000 or above / autobhop with 1000 AA.</span><br><br><span class=\"RedColor\">/!\\ Not suited for beginners /!\\</span><br><br>start and end zones location are in the screenshots."
+}

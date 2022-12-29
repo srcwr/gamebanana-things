@@ -1,0 +1,107 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_desert_base.bsp",
+					"de_desert_base.log",
+					"de_desert_base.nav",
+					"de_desert_base.prt",
+					"de_desert_base.vmf",
+					"de_desert_base.vmx"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 439624,
+			"_nDownloadCount": 257,
+			"_nFilesize": 1217644,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "The map file",
+			"_sDownloadUrl": "https://gamebanana.com/dl/439624",
+			"_sFile": "desert_base_defuse__14ed7.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1574555873
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_desert_base_v3.bsp",
+					"de_desert_base_v3.nav",
+					"de_desert_base_v3.vmf"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 455667,
+			"_nDownloadCount": 101,
+			"_nFilesize": 1610058,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/455667",
+			"_sFile": "desert_base_v3_vmf.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1585948801
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "More cover for spawns"
+				},
+				{
+					"cat": "Suggestion",
+					"text": "The map has been made smaller (credit to Rathard)"
+				},
+				{
+					"cat": "Tweak",
+					"text": "Both spawns have been shortened"
+				},
+				{
+					"cat": "Addition",
+					"text": "Both spawns now have 2 paths"
+				},
+				{
+					"cat": "Addition",
+					"text": "The skybox is now more detailed"
+				},
+				{
+					"cat": "Addition",
+					"text": "Terrorists now have a 3rd path only reachable by boosting (will be added to CT Spawn as well)"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Desert Base Update 2",
+			"_tsDateAdded": 1585948975
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Adjustment",
+					"text": "Bot navmesh adjusted."
+				},
+				{
+					"cat": "Tweak",
+					"text": "Clipping on outer walls tweaked."
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Outer walls themselves raised."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Small tweaks",
+			"_tsDateAdded": 1574555900
+		}
+	],
+	"_idRow": 100863,
+	"_sName": "Desert Base",
+	"_sText": "The terrorists are trying to bomb the desert base!<br>"
+}

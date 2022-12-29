@@ -1,0 +1,53 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cs_silo": {
+						"0": "readme - Gameplay Instructions.txt",
+						"1": "readme - Install Instructions.txt",
+						"cstrike": {
+							"maps": [
+								"dm_silo.bsp",
+								"dm_silo.nav"
+							],
+							"materials": {
+								"overviews": [
+									"dm_silo.vmt",
+									"dm_silo.vtf",
+									"dm_silo_radar.vmt"
+								],
+								"thegamer367": [
+									"map_signatureoverlay.vmt",
+									"map_signatureoverlay.vtf"
+								]
+							},
+							"resource": {
+								"overviews": [
+									"dm_silo.txt"
+								]
+							}
+						}
+					}
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 303133,
+			"_nDownloadCount": 1624,
+			"_nFilesize": 703790,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/303133",
+			"_sFile": "cs_silo.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1336339423
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 117590,
+	"_sName": "dm_silo",
+	"_sText": "This is my first ever, completely developed CS:S map. Like the name implies, it is set inside of a missile silo. One of the most unique aspects, and probably the most important one, is that the missile can be launched from a control panel in a side room, which will kill anyone within the blast radius. Boxes are  also spread around in the hallways to provide some cover. Up to 32 players can play.\r\n\r\nI hope you can enjoy it as much as I had fun making it. Enjoy! :)"
+}

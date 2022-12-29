@@ -1,0 +1,54 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"ka_void": {
+						"0": "1.jpg",
+						"1": "2.jpg",
+						"2": "3.jpg",
+						"3": "4.jpg",
+						"cstrike": {
+							"maps": [
+								"ka_void.bsp"
+							],
+							"materials": {
+								"skybox": [
+									"space_01bk.vmt",
+									"space_01bk.vtf",
+									"space_01dn.vmt",
+									"space_01dn.vtf",
+									"space_01ft.vmt",
+									"space_01ft.vtf",
+									"space_01lf.vmt",
+									"space_01lf.vtf",
+									"space_01rt.vmt",
+									"space_01rt.vtf",
+									"space_01up.vmt",
+									"space_01up.vtf"
+								]
+							}
+						}
+					}
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 332540,
+			"_nDownloadCount": 1241,
+			"_nFilesize": 1409244,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/332540",
+			"_sFile": "ka_void.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1239979869
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 110529,
+	"_sName": "ka_void",
+	"_sText": "Ka_void, a map made by max power\r\n\r\nthis is a fun map with a moving playing field, a centre button in the middle will reverse the direction of the moving platforms.\r\n\r\nmerge the cstrike folder into your own cstrike folder to install it. make sure you dont just put the map in the maps folder. you need the materials aswell."
+}

@@ -1,0 +1,84 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"maps": [
+						"awp_building_day.bsp",
+						"awp_building_day.res",
+						"awp_building_day.txt",
+						"awp_building_night.bsp",
+						"awp_building_night.res",
+						"awp_building_night.txt"
+					],
+					"materials": {
+						"TioRAC": [
+							"RACsite.vmt",
+							"RACsite.vtf",
+							"created.vmt",
+							"created.vtf",
+							"madeinbrazil.vmt",
+							"madeinbrazil.vtf"
+						],
+						"overviews": [
+							"awp_building.vmt",
+							"awp_building.vtf",
+							"awp_building_day.txt",
+							"awp_building_night.txt",
+							"awp_building_radar.vmt",
+							"awp_building_radar.vtf"
+						],
+						"skybox": [
+							"racneb.vtf",
+							"racneb_1bk.vmt",
+							"racneb_1dn.vmt",
+							"racneb_1ft.vmt",
+							"racneb_1lf.vmt",
+							"racneb_1rt.vmt",
+							"racneb_1up.vmt",
+							"racnew.vtf",
+							"racnew_1bk.vmt",
+							"racnew_1dn.vmt",
+							"racnew_1ft.vmt",
+							"racnew_1lf.vmt",
+							"racnew_1rt.vmt",
+							"racnew_1up.vmt"
+						]
+					},
+					"resource": {
+						"overviews": [
+							"awp_building_day.txt",
+							"awp_building_night.txt"
+						]
+					},
+					"scripts": [
+						"soundscapes_awp_building_day.txt",
+						"soundscapes_awp_building_night.txt"
+					],
+					"sound": {
+						"ambience": [
+							"fallscream.wav"
+						]
+					}
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 352286,
+			"_nDownloadCount": 2875,
+			"_nFilesize": 2915563,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/352286",
+			"_sFile": "awp_building.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1176082711
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 118223,
+	"_sName": "awp_building",
+	"_sText": "Create by TioRAC\r\n\r\nhttp://cs.tiorac.eti.br"
+}

@@ -1,0 +1,79 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"afp_de_infanterie.bsp",
+					"afp_de_infanterie.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 274789,
+			"_nDownloadCount": 3434,
+			"_nFilesize": 2540467,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/274789",
+			"_sFile": "afp_de_infanterie_caa6c.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1485786460
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "changed some models with blocktools and converted to func_detail"
+				},
+				{
+					"cat": "-",
+					"text": "added a corridor to bombsite A for more spots"
+				},
+				{
+					"cat": "-",
+					"text": "added nav_edit to bots to use ladders"
+				},
+				{
+					"cat": "-",
+					"text": "deleted a tree that causes low fps on some spots"
+				},
+				{
+					"cat": "-",
+					"text": "added some  wires"
+				},
+				{
+					"cat": "-",
+					"text": "changed T spwn thanks to user Frikadellendieb"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Version 1.2",
+			"_tsDateAdded": 1490883528
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "added hint/skip for fps"
+				},
+				{
+					"cat": "-",
+					"text": "updated some detail elements to func_detail"
+				},
+				{
+					"cat": "-",
+					"text": "bombsite B changed"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Version 1.1",
+			"_tsDateAdded": 1490539785
+		}
+	],
+	"_idRow": 100725,
+	"_sName": "afp_de_infanterie",
+	"_sText": "Welcome to my new Counter-Strike: Source map!<br><br>If you like this map, please rate it and share.<br><br>"
+}

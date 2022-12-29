@@ -1,0 +1,1940 @@
+[
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"cs_bank.bsp",
+						"cs_bank.nav"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 327239,
+				"_nDownloadCount": 3108,
+				"_nFilesize": 816728,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/327239",
+				"_sFile": "cs_bank.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1258227195
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99588,
+		"_sName": "Cs_Bank",
+		"_sText": "Introducing a Bank Robbery\r\n\r\nSituation\r\nThieves (Terrorists) have taken over G.N.B. (Name inspired over Goliath National Bank) and had taken hostages. Negotiations have been futile. We (Counter Terrorist) have secured the perimeter, and no one can escape without us noticing. Your objective is to Rescue the hostages by any means necessary. Our satellite reveals that the robbers are all spread out in corridors as general surveillance, a back alley providing guard from the Back doors, others are located inside the vault taking the money and a few are holding the hostages, so expect heavy fire as soon as you get there.\r\n\r\nGame play\r\nIt’s a Bank situation, but it’s a slightly different game play than usual CS games. In here Action is instant. All CT start at the entrance with an option to buy weapons, However the Terrorist team are all spread out over bank (Some start in corridors as general surveillance, a back alley providing guard from the Back doors, others are located inside the vault taking the money and a few are holding the hostages). The hostages are just a few feet away, yet its not as simple as rushing in as that ends up in death, so CT have to fight and try to flank using other entrances to the bank.\r\n\r\nThe inspiration came from having watching a few bank robberies movies, and the fact that I have never played a bank map in here, so it looked like an interesting idea to make. I am very happy with the results\r\n\r\nFeatures\r\nDifferent spawning points for Terrorist\r\nHostages are relatively close to rescue zone, yet it still can be quite challenging to still rescue them quickly\r\n\r\nCapacity\r\n24 vs. 24\r\n\r\nRelease 1.01\r\nUpdates. More optimized, should run smoother\r\n\r\nRelease 1.02\r\nFixed an issue near the vault in which it was possible to see into the ''Nothingness''\r\n\r\n\r\nPlease comment and report bugs etc\r\n\r\nIf you take this map for your server online DONT FORGET TO PM ME YOUR I.P. address so I CAN JOIN along!\r\n\r\nMore maps from me to come\r\n\r\nSpecial thanks to 3kliksphilp for his support, guidance, and tutorials at http://3kliksphilip.com/index.html\r\n\r\nLook at the screenshots and try it!\r\n\r\nInstallation, just paste the .nav and .bsp on your maps folder for counter strike source\r\n\r\nDefault should be Files\\Steam\\steamapps\\Account_Name\\counter-strike source\\cstrike\\maps\r\n"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"0": "redme first!!!.txt",
+						"maps": [
+							"cs_bank.bsp",
+							"cs_bank.nav"
+						],
+						"materials": {
+							"bmwm3": [
+								"bmwm3.vmt",
+								"bmwm3.vtf",
+								"bmwm32.vmt",
+								"bmwm32.vtf",
+								"bmwm33.vmt",
+								"bmwm33.vtf",
+								"bmwm34.vmt",
+								"bmwm34.vtf",
+								"bmwm35.vmt",
+								"bmwm35.vtf",
+								"bmwm36.vmt",
+								"bmwm36.vtf",
+								"bmwm3c.vtf",
+								"tex2.vmt",
+								"tex2.vtf",
+								"tex3.vmt",
+								"tex3.vtf",
+								"tex4.vmt",
+								"tex4.vtf",
+								"tex5.vmt",
+								"tex5.vtf",
+								"tex6.vmt",
+								"tex6.vtf",
+								"window.vmt",
+								"window.vtf"
+							],
+							"mini": [
+								"mini1.vmt",
+								"mini1.vtf",
+								"mini1c.vtf",
+								"mini2.vmt",
+								"mini2.vtf",
+								"miniint1.vmt",
+								"miniint1.vtf",
+								"tex2.vmt",
+								"tex2.vtf",
+								"trans1.vmt",
+								"trans1.vtf"
+							],
+							"overviews": [
+								"cs_bank.vmt",
+								"cs_bank.vtf"
+							],
+							"path": [
+								"tex2.vmt",
+								"tex2.vtf",
+								"tex2a.vmt",
+								"tex2a.vtf",
+								"tex3.vmt",
+								"tex3.vtf"
+							]
+						},
+						"models": [
+							"bmwm3.dx80.vtx",
+							"bmwm3.dx90.vtx",
+							"bmwm3.mdl",
+							"bmwm3.phy",
+							"bmwm3.sw.vtx",
+							"bmwm3.vvd",
+							"mini.dx80.vtx",
+							"mini.dx90.vtx",
+							"mini.mdl",
+							"mini.phy",
+							"mini.sw.vtx",
+							"mini.vvd",
+							"path.dx80.vtx",
+							"path.dx90.vtx",
+							"path.mdl",
+							"path.phy",
+							"path.sw.vtx",
+							"path.vvd"
+						],
+						"resource": {
+							"overviews": [
+								"cs_bank.txt"
+							]
+						}
+					}
+				},
+				"_bContainsExe": false,
+				"_idRow": 333683,
+				"_nDownloadCount": 3011,
+				"_nFilesize": 34210902,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/333683",
+				"_sFile": "cstrike_149.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1236623032
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99587,
+		"_sName": "cs_bank",
+		"_sText": "Save hostages from a bank\r\nsome models from Garrys mod\r\nZalm - optimization"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"cs_bank.bsp",
+						"cs_bank.nav"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 361754,
+				"_nDownloadCount": 6492,
+				"_nFilesize": 1236757,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/361754",
+				"_sFile": "cs_bank_1115753694.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1112305752
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99586,
+		"_sName": "cs_bank",
+		"_sText": "Immortal Infantry Clan Map,\r\nwww.immortal-infantry.com/maps\r\ncs_bank\r\nMap made by -=][-][=-MeShootU"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"cs_baneblade": {
+							"cstrike": {
+								"maps": [
+									"cs_baneblade3.bsp"
+								]
+							}
+						}
+					}
+				},
+				"_bContainsExe": false,
+				"_idRow": 334914,
+				"_nDownloadCount": 1310,
+				"_nFilesize": 1835882,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/334914",
+				"_sFile": "cs_baneblade.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1232946247
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99585,
+		"_sName": "cs_baneblade",
+		"_sText": "Hey everyone, First submission to fps banana.\r\nThe map was inspired from playing Dawn Of War: Dark Crusade.\r\nIt's a hostage rescue taking place in a manufacturing complex.\r\nThe map currently runs regularly on the [MAD] server\r\nLet me know if you want to use the map on a server\r\n\r\n-Cheers,\r\n                Tommy-Gun"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"cs_banana_island": {
+							"cs_banana_island": {
+								"cstrike": {
+									"maps": {
+										"0": "cs_banana_island.bsp",
+										"1": "cs_banana_island.res",
+										"2": "cs_banana_island.txt",
+										"graphs": [
+											"cs_banana_island.ain"
+										]
+									},
+									"materials": {
+										"bananaisland": [
+											"fpsbanana.vmt",
+											"fpsbanana.vtf"
+										]
+									},
+									"models": {
+										"plants": [
+											"Thumbs.db",
+											"bananatree.dx80.vtx",
+											"bananatree.dx90.vtx",
+											"bananatree.jpg",
+											"bananatree.mdl",
+											"bananatree.phy",
+											"bananatree.sw.vtx",
+											"bananatree.vvd",
+											"fern.dx80.vtx",
+											"fern.dx90.vtx",
+											"fern.jpg",
+											"fern.mdl",
+											"fern.sw.vtx",
+											"fern.vvd"
+										]
+									},
+									"sound": {
+										"bananaisland": [
+											"Zombie_song.wav",
+											"doors_open.wav",
+											"intruder.wav",
+											"lasers_deactivate.wav",
+											"scanning_complete.wav",
+											"scanning_start.wav",
+											"welcome_bananabase.wav"
+										]
+									}
+								}
+							}
+						}
+					}
+				},
+				"_bContainsExe": false,
+				"_idRow": 359425,
+				"_nDownloadCount": 3634,
+				"_nFilesize": 6707811,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/359425",
+				"_sFile": "cs_banana_island_2.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1134417660
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99584,
+		"_sName": "cs_banana_island",
+		"_sText": "This map is a tropical island, is has two entrances to the base 1. In the the little hut in middle of the island. 2. The secret underwater entrance. Once your in you will have to go up a lift then though a body scan and a high-tec security system before entering (including lasers) Once your past those in the first room you come to there will be a fireable nucealar rocket :) Go thought this room and you will come to the main room in here you will find: Singing zombies, a huge monitor showing the island, table and kitchen. There is also a tortue chamber and a garage in this base.\r\n\r\nBecuase of all this cool stuff it may lag a little and shouldn't be attempted with a machine equal or greater than: 2.8GHZ proccessor, 512RAM, ATI RADEON 9200\r\n\r\n<b class=\"red\">Update : New Zip file with a smaller size. re-download</b>"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"maps": [
+							"cs_baltic_corner.bsp",
+							"cs_baltic_corner.nav"
+						]
+					}
+				},
+				"_bContainsExe": false,
+				"_idRow": 353770,
+				"_nDownloadCount": 1791,
+				"_nFilesize": 1002687,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/353770",
+				"_sFile": "baltic_corner.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1169358206
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99583,
+		"_sName": "cs_baltic_corner",
+		"_sText": "The terrorists have taken hostages inside of a cafe! The cts must rescue them!"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"cs_badwood.bsp",
+						"cs_badwood.nav"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 348066,
+				"_nDownloadCount": 1237,
+				"_nFilesize": 308436,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/348066",
+				"_sFile": "cs_badwood.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1191720319
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99582,
+		"_sName": "cs_badwood",
+		"_sText": "Ok it a twist to my badwood map\r\n\r\nthe hostages ain\\t that important i just want to get the terrorists camping \r\n\r\nhits a hidden door there a half magasine of the glock in burst mode\r\nand it opens (50dmg)\r\n\r\ncoments would be great\r\n\r\nIT IS CRAP THE DOWNLOAD SERVER AIN'T WORKING"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"cs_badvilla.bsp",
+						"cs_batvilla.nav"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 349348,
+				"_nDownloadCount": 1893,
+				"_nFilesize": 1192048,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/349348",
+				"_sFile": "cs_badvilla.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1187296181
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99581,
+		"_sName": "cs_badvilla",
+		"_sText": "Cs_badvilla, a hostage rescue map."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"cs_backstreets.bsp",
+						"cs_backstreets_night.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 326997,
+				"_nDownloadCount": 1345,
+				"_nFilesize": 4551838,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/326997",
+				"_sFile": "cs_backstreets_pack.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1259027766
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99580,
+		"_sName": "cs_backstreets pack",
+		"_sText": "Please note that this is a map pack, it comes with 2 maps, the same map, just 1 is day time and the other is at night."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"README.txt",
+						"cs_backalley_bracket.bsp",
+						"cs_backalley_bracket.nav",
+						"cs_backalley_bracket.txt"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 361683,
+				"_nDownloadCount": 6193,
+				"_nFilesize": 4838021,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/361683",
+				"_sFile": "cs_backalley_bracket.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1112810708
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99579,
+		"_sName": "cs_backalley_bracket",
+		"_sText": "Complete remake of the original cs_backalley with an additional twist. \r\n\r\nMAP DETAILS : \r\n\r\n50 total spawn points - 25 vs 25\r\nTwo hostage rescue zones - A + B \r\n\r\ncustom decals - [drastikat] \r\ncustom models - Zareh (chevyvan) / Shiroko (magic plant)\r\n\r\n_________________________________________________________\r\n\r\nThis version will be the one and only beta, with the final \r\nrelease coming around a month later so that I have plenty of \r\ntime work on more custom decals, better optimization, better \r\nlighting arrangements, and a more enhanced skybox.  IMPORTANT NOTE: Although this is beta, I only say that from an artistic standpoint and not from a playability standpoint.  THIS MAP IS FULLY PLAYABLE - so enjoy this fun, classic, and action-packed ol' school map brought to by [drastikat] \r\n\r\nThanks to everyone who helped playtest. "
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"0": "ReadMeMap.txt",
+						"Maps": [
+							"cs_backalley_2005fv2.bsp",
+							"cs_backalley_2005fv2.nav"
+						]
+					}
+				},
+				"_bContainsExe": false,
+				"_idRow": 359998,
+				"_nDownloadCount": 2425,
+				"_nFilesize": 1433623,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/359998",
+				"_sFile": "cs_backalley_2005_fv2.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1130331516
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99578,
+		"_sName": "cs_backalley_2005_fv2",
+		"_sText": "\r\nEnjoy!"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"cstrike": {
+							"0": "cs_backalley_2005F Install Readme.txt",
+							"maps": [
+								"cs_backalley_2005F.bsp",
+								"cs_backalley_2005f.nav"
+							]
+						}
+					},
+					"_sMimeType": "application/zip"
+				},
+				"_bContainsExe": false,
+				"_idRow": 379638,
+				"_nDownloadCount": 877,
+				"_nFilesize": 1680841,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/379638",
+				"_sFile": "cs_backalley_2005f_768b3.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1523876551
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99577,
+		"_sName": "cs_backalley_2005f",
+		"_sText": "Yes! Another backalley map for CS: Source!<br><br>It's clean and simple, easy to run and lots of fun!<br><br>Doesn't need any special files or textures.<br><br>From my personal download library.<br><br>I am redistributor only - I did not author this map (original author unknown).<br><br>Best wishes and enjoy!<br><br>Turkey*Raptor<br><br>Other backalley maps:&nbsp; cs_backalley_bracket and cs_backalley2<br><br>"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"counter-strike source": {
+							"cstrike": {
+								"maps": [
+									"cs_backalley2 readme.txt",
+									"cs_backalley2.bsp",
+									"cs_backalley2.nav",
+									"cs_backalley2.txt"
+								],
+								"materials": {
+									"brick": [
+										"brickwall016g-2.vmt",
+										"brickwall016g-2.vtf",
+										"brickwall016g-2_normal.vtf"
+									],
+									"concrete": [
+										"concretewall015b-2.vmt",
+										"concretewall015b-2.vtf",
+										"concretewall026f-2.vmt",
+										"concretewall026f-2.vtf",
+										"concretewall036a-2.vmt",
+										"concretewall036a-2.vtf"
+									],
+									"metal": [
+										"metalhull002a-2.vmt",
+										"metalhull002a-2.vtf"
+									]
+								}
+							}
+						}
+					}
+				},
+				"_bContainsExe": false,
+				"_idRow": 361397,
+				"_nDownloadCount": 11869,
+				"_nFilesize": 3988457,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/361397",
+				"_sFile": "cs_backalley2.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1116696870
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99576,
+		"_sName": "CS_BACKALLEYV2",
+		"_sText": "cs_backalley2 by m1cHi\r\n\r\nthis map is a remake of the counter-strike map cs_backalley\r\n\r\nthx to:\r\n#cs.maps (QuakeNet)\r\n#hl2.maps (QuakeNet)\r\n#pf.de.server (QuakeNet)\r\ncstrike.de mapping board\r\n\r\nhf :)\r\n\r\n"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"cstrike": {
+							"maps": [
+								"cs_axe.bsp",
+								"cs_axe.nav",
+								"cs_axe.txt"
+							],
+							"materials": {
+								"overviews": [
+									"cs_axe.vmt",
+									"cs_axe.vtf",
+									"cs_axe_radar.vmt",
+									"cs_axe_radar.vtf"
+								]
+							},
+							"resource": {
+								"overviews": [
+									"cs_axe.txt"
+								]
+							}
+						}
+					}
+				},
+				"_bContainsExe": false,
+				"_idRow": 302236,
+				"_nDownloadCount": 10040,
+				"_nFilesize": 2619797,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/302236",
+				"_sFile": "cs_axe.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1339890140
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99575,
+		"_sName": "cs_axe",
+		"_sText": "Axe\r\n Office Assault - Hostage Rescue Scenario\r\n\r\nCounter-Terrorists: \r\nInvade the office complex and resuce the \r\nhostages being held there. Kill any hostiles.\r\n\r\nTerrorists: \r\nMake haste to guard the hostages within\r\nthe office against the incoming offense\r\nof the Counter-Terrorists. Victory must\r\nbe achieved at any cost!\r\n \r\nNotes: \r\n-There are 4 hostages within 2 \r\nsectors of the building within this map. \r\nHostage rescue is at CT Spawn\r\n-Built for 40 players\r\n-See if you can find all weapons in the egg!"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"House2.bsp",
+						"house2.nav"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 303201,
+				"_nDownloadCount": 4352,
+				"_nFilesize": 3620479,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/303201",
+				"_sFile": "cs_avenue_alpha_.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1336082217
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99574,
+		"_sName": "cs_avenue",
+		"_sText": "Got a headache from making the outside level so decided to just release it the way it is and just get feedback from the main side of the level. Keep in mind this is just an Alpha version so all the fancy details I have not bothered to produce.\r\n\r\n<iframe width=\"560\" height=\"315\" src=\"http://www.youtube.com/embed/jqYzQvrcIho?rel=0\" frameborder=\"0\" allowfullscreen></iframe>\r\nThanks to [Violation](http://www.gamebanana.com/css/textures/3302 \"\") for their texture!\r\n\r\n[Envy Promotions](https://www.facebook.com/EnvyPromotionsBH \"Envy Promotions\")"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"cs_aurora_final.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 296068,
+				"_nDownloadCount": 7360,
+				"_nFilesize": 70034951,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/296068",
+				"_sFile": "cs_aurora_final.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1362007890
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99573,
+		"_sName": "cs_aurora_final",
+		"_sText": "NOTE An updated version of this map is available [here](http://css.gamebanana.com/maps/183222 \"here\"). NOTE\r\n\r\nThis is the updated, hopefully final version of [cs_aurora](http://css.gamebanana.com/maps/172440 \"cs_aurora\"), revised largely due to the fine feedback of USF|Jack. For details on the map, check the above [link](http://css.gamebanana.com/maps/172440 \"link\"). Here are the changes I made:\r\n\r\n- added a new route to the hostages.\r\n- added some kind of radar/overview. \r\n- fixed a few bad player clips.\r\n- added a couple of models.\r\n- fiddled a bit with cubemaps and sprites.\r\n\r\n(The screenshots are supposed to show most of the changes.)\r\n\r\nWhile I'm at it, thanks to everyone who commented, rated, downloaded and played the original cs_aurora. Next map is under construction.\r\n\r\n\r\nLaBello"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"cs_aurora_2.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 285579,
+				"_nDownloadCount": 8874,
+				"_nFilesize": 84624008,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/285579",
+				"_sFile": "cs_aurora_2_3.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1413767571
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99572,
+		"_sName": "cs_aurora_2",
+		"_sText": "cs_aurora_2.\r\n\r\nThis map replaces the previous cs_aurora and cs_aurora_final.\r\n\r\nThe big difference with this release compared to earlier versions is the performance optimization made by LurkyUK. And even though I kind of thwarted him by adding more detail, a bigger skybox, and hdr, this map should now be quite playable :) \r\nNew in this release is also a fine-tuned NAV-file, made by Meurglis3. \r\n\r\nI hope you like it.\r\n\r\nBACKGROUND.\r\n\r\nInspired by Isaac Asimov's novel \"The Robots Of Dawn\".\r\n\r\nOn the human colony planet of Aurora, society revolves largely around the use of robots. Certain political forces say further colonization of the galaxy should be handled exclusively by androids, wich is why the Auroran Robotics Institute is now focusing their efforts on creating a humaniform robot - a machine indistinguishable from a human. This accomplishment has however already been achieved, by a robot scientist outside of the institute, who, due to his political views, refuses to share his knowledge with the ARI. This, in combination with a complete lack of progress of their own, may be why the Auroran Robotics Institute has now stolen this unique, humaniform robot. Before the lone scientist has a rescue team assembled, the ARI has managed to duplicate the android twice.\r\n\r\nRobot rescue team (CT): Get the humaniform robot and its two clones out of the Institute and back to their engineer.\r\n\r\nARI security (T): Defend the idea of public domain knowledge, and your hostage.\r\n\r\nMap by LaBello.\r\n\r\n\r\nTHANKS.\r\n\r\nLurkyUK (for overall awesomeness), Lionheart & ukcs.net (in the end perhaps not the perfect 64 player map, but thanks for playing it), Meurglis3 (Hail To The Bots Of Dawn!), USF|Jack (for early development feedback), Gamebanana, Valve."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"cs_aurora.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 296341,
+				"_nDownloadCount": 5042,
+				"_nFilesize": 69137078,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/296341",
+				"_sFile": "cs_aurora.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1360961318
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99571,
+		"_sName": "cs_aurora",
+		"_sText": "**NOTE** An updated version of this map is available [here](http://css.gamebanana.com/maps/172713 \"here\"). **NOTE**\r\n\r\nBACKGROUND\r\n\r\n(Slightly) based on Isaac Asimov's novel \"The Robots Of Dawn\".\r\n\r\nOn the human colony planet of Aurora, society revolves largely around the use of robots. Certain political forces say further colonization of the galaxy should be handled exclusively by androids, wich is why the Auroran Robotics Institute is now focusing their efforts on creating a humaniform robot - a machine indistinguishable from a human. This accomplishment has of course already been achieved, by a robot scientist outside of the institute, who, due to his political views, refuses to share his knowledge with the ARI. This, in combination with a complete lack of progress of their own, may be why the Auroran Robotics Institute has now stolen this unique, humaniform robot. Before the lone scientist has a rescue team assembled, the ARI has now managed to duplicate the android twice.\r\n\r\nRobot rescue team (CT): Get the humaniform robot and its two clones out of the Institute and back to their engineer.\r\n\r\nARI security (T): Defend the idea of public domain knowledge, and your hostage.\r\n\r\nMap by LaBello.\r\n\r\nFEATURES.\r\n\r\nHostage map set in an earth-like sci-fi environment, combining long range/close quarter combat. 20 spawns. Default .nav file. \r\n\t\r\nNOTES.\r\n\r\nMy first hostage map. Probably poorly balanced in one way or the other.\r\n\r\nTHANKS.\r\n\r\nGamebanana, for hosting.\r\nEveryone in the credits list, especially PhilipK, for fantastic textures.\r\nThe Last Resort, the pride of Germany."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"cs_atp_remixed_16x16.bsp",
+						"cs_atp_remixed_16x16.nav",
+						"cs_atp_remixed_16x16.txt"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 332374,
+				"_nDownloadCount": 3381,
+				"_nFilesize": 46333650,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/332374",
+				"_sFile": "cs_atp_remixed_16x16_final.7z",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1240394124
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99570,
+		"_sName": "cs_atp_remixed_16x16",
+		"_sText": "This map has been based on the SDK version of the \"ATP\" location in S.T.A.L.K.E.R. game.\r\n\r\nThe map is not a copy or reproduction of the original location, but rather an attempt to make a free-style remix, barely preserving the initial buildings layout.\r\n\r\nSome models and a few textures were borrowed from the original S.T.A.L.K.E.R. game. Most materials are custom.<br><br>This is a 16x16 version of my previous release (<a href=\"https://gamebanana.com/mods/99569\">https://gamebanana.com/mods/99569</a>).\r\n32 player slots instead of 16. Otherwise the two maps are identical."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"cs_atp_remixed.bsp",
+						"cs_atp_remixed.nav",
+						"cs_atp_remixed.txt"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 332585,
+				"_nDownloadCount": 5621,
+				"_nFilesize": 46340821,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/332585",
+				"_sFile": "cs_atp_remixed_final_2.7z",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1239881100
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99569,
+		"_sName": "cs_atp_remixed",
+		"_sText": "This map has been based on the SDK version of the \"ATP\" location in S.T.A.L.K.E.R. game.\r\n\r\nThe map is not a copy or reproduction of the original location, but rather an attempt to make a free-style remix, barely preserving the initial buildings layout. \r\n\r\nSome models and a few textures were borrowed from the original S.T.A.L.K.E.R. game. Most materials are custom."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"cs_atlas_b2.bsp",
+						"cs_atlas_b2.nav"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 354282,
+				"_nDownloadCount": 6044,
+				"_nFilesize": 2712150,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/354282",
+				"_sFile": "cs_atlas_b2.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1167022417
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99568,
+		"_sName": "cs_atlas_b2",
+		"_sText": "(UPDATE: Fixed a couple things with the .nav file and textures. Upgraded version to Beta 2.)\r\n\r\nThis is my first effort with the Source engine and Hammer, although I've had lots of past experience with Worldcraft and HL1 mapping. I would like to get feedback on the map before I go from \"beta\" to \"final\" status. The following things are not finished yet:\r\n\r\n- HUD map image\r\n- Special effects\r\n- Soundscapes and ambient sounds\r\n- Some speed optimization\r\n\r\nThere are 32 total spawn points in the map, but it seems to play best with 8-16 players. More than that, and the halls start to get clogged with bodies :-D\r\n\r\nThere's also a small secret area in the map. I salute anyone who discovers how to get inside...\r\n\r\n(UPDATE: A lot of people have requested directions or said it was impossible to get into the secret room. I've added a screen shot that shows how.)\r\n\r\nHope ya enjoy!"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"cs_atkhouse.bsp",
+						"cs_atkhouse.nav"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 321568,
+				"_nDownloadCount": 1288,
+				"_nFilesize": 664642,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/321568",
+				"_sFile": "cs_atkhouse.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1278605252
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99567,
+		"_sName": "Cs_atkhouse",
+		"_sText": "This is my first well done map. I worked on it a long time, and it was not wasted. On the map you can find swimming pool and a lot of places through which you can get into the house and into the street.\r\nI hope you enjoy.\r\n\r\nIf you find any bugs or problems realties - write."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"cs_atafaris+": {
+							"0": "readme.txt",
+							"cstrike": {
+								"maps": [
+									"cs_atafaris+.bsp",
+									"cs_atafaris+.nav",
+									"cs_atafaris+.txt"
+								]
+							},
+							"screenshots": [
+								"cs_atafaris01.jpg",
+								"cs_atafaris02.jpg",
+								"cs_atafaris03.jpg",
+								"cs_atafaris04.jpg",
+								"cs_atafaris05.jpg",
+								"cs_atafaris06.jpg",
+								"cs_atafaris07.jpg",
+								"cs_atafaris08.jpg",
+								"cs_atafaris09.jpg"
+							]
+						}
+					}
+				},
+				"_bContainsExe": false,
+				"_idRow": 347527,
+				"_nDownloadCount": 8339,
+				"_nFilesize": 6545332,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/347527",
+				"_sFile": "cs_atafaris.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1193610981
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99566,
+		"_sName": "cs_atafaris+",
+		"_sText": "Map:cs_atafaris+\r\nmapper:CoKie\r\nspawnpoints:64\r\nreleasedate:11.november.2007\r\n\r\ndescription:inspired by de_dust, de_prodigy and myself.\r\n\r\nterrorists: two hostages you keep imprisoned in the sternmost corner of the old desert stronghold. for some reason keep it yours!\r\n\r\ncounter-terrorists: infiltrate the old desert stronghold and rescue the two hostages!\r\n\r\n\r\nhave fun! \r\nCoKie\r\n\r\n--------------------------------------\r\nchanges since cs_atafaris\r\n--------------------------------------\r\n\r\nthe trigger to create a \"plus-version\" of cs_atafaris was that ive unfortunately forgotten to compile the cubemaps for LDR, concentrated all the time on HDR; so ive only generated the cubemaps for HDR, not for LDR in cs_atafaris.. mistakes/slips like that are really annoying..\r\n\r\nwhats new/changed?\r\n- edited HDR in the whole map, HDR effect is now more intensive but less bedazzling\r\n- edited and optimized the lightning in the lower server room\r\n- several minor changes of optical nature\r\n- generated cubemaps for HDR AND LDR..\r\n- edited the general enviroment lightning, more smooth now less bedazzling\r\n- added some smoothing groups\r\n\r\n- credits go out to chizbone; he created, optimized and placepainted the navigationmesh/navfile, great job!  "
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"0": "cs_asylum.bsp",
+						"1": "cs_asylum.nav",
+						"2": "cs_asylum.res",
+						"3": "cs_asylum.txt",
+						"4": "cs_asylum_install.txt",
+						"Asylum": [
+							"Chainsaw_Mutilation.mp3",
+							"Children_Of_The_Damned_Evil.mp3",
+							"Children_Of_The_Damned_Good.mp3",
+							"Dogsbark.mp3",
+							"Footsteps_Up_Stairs.mp3",
+							"Gonna_Die.mp3",
+							"Middle_C_Organ.wav",
+							"Moon.mp3",
+							"Owls.mp3",
+							"Telephone.mp3",
+							"Volts.mp3",
+							"Wolves.mp3"
+						],
+						"cs_asylum": [
+							"Entrance_Poster.vmt",
+							"Entrance_Poster.vtf",
+							"Jesus_Poster.vmt",
+							"Jesus_Poster.vtf",
+							"Moon.vmt",
+							"Moon.vtf",
+							"Nametags_1.vmt",
+							"Nametags_1.vtf",
+							"Nametags_10.vmt",
+							"Nametags_10.vtf",
+							"Nametags_2.vmt",
+							"Nametags_2.vtf",
+							"Nametags_3.vmt",
+							"Nametags_3.vtf",
+							"Nametags_4.vmt",
+							"Nametags_4.vtf",
+							"Nametags_5.vmt",
+							"Nametags_5.vtf",
+							"Nametags_6.vmt",
+							"Nametags_6.vtf",
+							"Nametags_7.vmt",
+							"Nametags_7.vtf",
+							"Nametags_8.vmt",
+							"Nametags_8.vtf",
+							"Nametags_9.vmt",
+							"Nametags_9.vtf",
+							"Room_Infoboard_Evil.vmt",
+							"Room_Infoboard_Evil.vtf",
+							"Room_Infoboard_Good.vmt",
+							"Room_Infoboard_Good.vtf"
+						]
+					}
+				},
+				"_bContainsExe": false,
+				"_idRow": 359482,
+				"_nDownloadCount": 4091,
+				"_nFilesize": 9074576,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/359482",
+				"_sFile": "cs_asylum.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1133898515
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99565,
+		"_sName": "cs_asylum",
+		"_sText": "Terrorists: A terrorist faction heard the horrors of the asylum. Just days earlier their fellow Allah worshipper was sent there because he pleaded for insanity in court. They intend to get him out of there so he won't hog all the virgins if he'd die.\r\n\r\nCounter-Terrorists: The CTs must rescue the staff! Reports are that 4 staff members were captured.. the rest got slaughtered or managed to escape. They need to get them out of harms way for interrogation to know what exactly went on in that place!\r\n\r\nThey won't like being rescued by cops... so they might not do what we want them all the time, but we can't let that get us down."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"cs_assust_final.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 338896,
+				"_nDownloadCount": 2134,
+				"_nFilesize": 43606892,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/338896",
+				"_sFile": "cs_assust_final.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1219818230
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99564,
+		"_sName": "cs_assust_final",
+		"_sText": "My first Map.\r\n\r\nHostage Situation in Desert Metropolis. Nice Gameplay, mostly final ;)\r\nI'd say: The BEST Map of this time, but I dont want to overscale your expectations, see for yourself. :)\r\n\r\nNewest Version, with far less bugs. Quite similar to assust_fff, but much Brighter, better Bot nav_mesh, Textures, music, arches thicker, etc.\r\nTell me your Opinion.\r\n\r\nFUSION Emperor greets the mapping community!"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"0": "Read me.txt",
+						"maps": [
+							"cs_assault_zt.bsp",
+							"cs_assault_zt.nav"
+						],
+						"materials": {
+							"Zeta": [
+								"decal_gabegraf3_fixed.vmt",
+								"decal_gabegraf3_fixed.vtf",
+								"decal_hl2worldposter_fixed.vmt",
+								"decal_hl2worldposter_fixed.vtf",
+								"decal_zeta_fixed.vmt",
+								"decal_zeta_fixed.vtf",
+								"plainconcrete.vmt",
+								"plainconcrete.vtf",
+								"shot1.vmt",
+								"shot1.vtf",
+								"shot2.vmt",
+								"shot2.vtf",
+								"shot4.vmt",
+								"shot4.vtf",
+								"shot5.vmt",
+								"shot5.vtf"
+							]
+						}
+					}
+				},
+				"_bContainsExe": false,
+				"_idRow": 361864,
+				"_nDownloadCount": 5072,
+				"_nFilesize": 4403162,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/361864",
+				"_sFile": "cs_assault_zt.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1110890914
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99563,
+		"_sName": "cs_assault_zt",
+		"_sText": "cs_assault_zt\r\n_____________\r\nby zeta\r\n\r\n_________________\r\n\r\nIntroduction\r\n_________________\r\n\r\nThis is the final release of my remake of assault, with\r\nthe previous version being an incomplete rushed piece of \r\nrubbish. I really hope this tides everyone over untill \r\nvalve get around to recreating it themselves.\r\n\r\n\r\nThere are a couple of easter eggs hidden in the map. See\r\nhow long it takes you to find them ;) \r\n\r\n(hint : noclip might be usefull)\r\n\r\nHave fun!\r\n\r\n_________________\r\n\r\n\r\n\r\nInstallation\r\n_________________\r\n\r\n\r\n\r\nSimply extract all files in the zip too:\r\n\r\n\r\nC:\\Steam\\SteamApps\\USERNAME\\counter-strike source\\cstrike\r\n\r\n\r\nAnd you're done.\r\n\r\n\r\n_________________\r\n\r\n\r\n\r\n\r\nHuge thanks to the following:\r\n-----------------------------\r\n\r\n\r\nKabuki - Optimizing GOD & TMP whore\r\nJoeyslucky - Amazing custom decals\r\nDura - Compadre\r\nFeedbag - For an amazing site \r\n\r\n\r\n\r\n\r\n_________________\r\nVisit www.hl2world.com for an amazing community, mapping help & tutorials,\r\nalong with all the custom source content you'll ever need!\r\n\r\n"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"cs_assault_yoshi.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 347487,
+				"_nDownloadCount": 1845,
+				"_nFilesize": 1778712,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/347487",
+				"_sFile": "cs_assault_yoshi.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1193753133
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99562,
+		"_sName": "cs_assault_yoshi",
+		"_sText": "Lol"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"0": "cs_assault_wood_beta0002.jpg",
+						"1": "cs_assault_wood_beta0005.jpg",
+						"2": "cs_assault_wood_beta0009.jpg",
+						"3": "cs_assault_wood_beta0015.jpg",
+						"map": [
+							"cs_assault_wood_beta.bsp",
+							"cs_assault_wood_beta.bsp.bz2",
+							"cs_assault_wood_beta.res",
+							"cs_assault_wood_beta.txt"
+						],
+						"materials": {
+							"cs_assault_wood_beta": [
+								"Imagewerbung.vtf",
+								"imagewerbung.vmt"
+							]
+						}
+					}
+				},
+				"_bContainsExe": false,
+				"_idRow": 360759,
+				"_nDownloadCount": 2405,
+				"_nFilesize": 2916177,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/360759",
+				"_sFile": "cs_assault_wood_beta.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1124177393
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99561,
+		"_sName": "cs_assault_wood_beta",
+		"_sText": "Cs_assault_wood_beta - CS Assault in a wood fort setting\r\n\r\nBy Aaron Ankiel AKA Lugz \r\n(thefoobagger AT gmail.com)\r\nmaps at www.bloodsportgaming.com/maps/lugz/\r\n\r\nThis map is based on the classic assault with many different things that no other assaults have. This map has many ways to get inside and out of the main assault building. It also has things like a big sniper area. It also has an underground tunnel like some other assault maps. It has a wood theme hence the name assault wood and it doesn't have hosties yet but they will be coming in the final release.\r\n\r\nClassic CS_Assault map...\r\nCTs - Rescue Hostages, or guard the fort!!!\r\nTs - Guard Hostages, or go outside and protect the fort!!!"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"cs_assault_v2.bsp",
+						"cs_assault_v2.nav"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 359072,
+				"_nDownloadCount": 6471,
+				"_nFilesize": 4261643,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/359072",
+				"_sFile": "cs_assault_v2.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1137774184
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99560,
+		"_sName": "cs_assault_v2",
+		"_sText": "cs_assault_v2 is the 2nd version made, you will see some changes when you test them yourselves.\r\n\r\nTest Server (8 players):\r\n\r\nServer Title: CoastNet | Assault v2 #1\r\nServer IP: 143.238.181.210:40354\r\nServer Map: cs_assault_v2\r\n\r\nYou can test the map and play it at the server."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"0": "cs_assault_upc_css.txt",
+						"1": "cs_assault_upc_css.vmf",
+						"cstrike": {
+							"maps": [
+								"cs_assault_upc_css.bsp"
+							]
+						}
+					}
+				},
+				"_bContainsExe": false,
+				"_idRow": 359073,
+				"_nDownloadCount": 9787,
+				"_nFilesize": 6946760,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/359073",
+				"_sFile": "cs_assault_upc_css.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1137769283
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99559,
+		"_sName": "cs_assault_upc_css",
+		"_sText": "Final version\r\n\r\nmade some func_detail into world for performance\r\nfew more area portals\r\nused the assault soundscape\r\nsome more decals/props\r\ndifferent grass for the displacments\r\nnew texture on the hostage room roof\r\nadded fade dist for some props\r\nput a clip brush around the poster on top of the big metal crate\r\nmore nodraw\r\nchanged vents to militia ones\r\nchanged the nav file so the bots dont walk off the high places anymore\r\nadded placenames"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"cs_assault_tactik.bsp",
+						"cs_assault_tactik.nav",
+						"cs_assault_tactik.txt"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 345170,
+				"_nDownloadCount": 7146,
+				"_nFilesize": 6508018,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/345170",
+				"_sFile": "cs_assault_tactik.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1200268447
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99558,
+		"_sName": "cs_assault_tactik",
+		"_sText": "This map was here before but is no longer here, \r\ni uploaded for any one who needs it, \r\nits assault but BIGGER ! !\r\n\r\n---------------------------------------\r\n\r\nLaundery Assault - Hostage Rescue\r\n\r\nThe Marr Freight Company has fallen \r\nvictim to a band of Terrorists hell bent \r\non using their operation to launder money.\r\nThe Harper Appliance Company is\r\nunwittingly shipping out more than they\r\nbargained for.\r\n \r\nCounter-Terrorists: Enter the Terrorist\r\nstronghold and rescue the hostages. \r\nTake out the Terrorists without \r\njeopardizing the hostages.\r\n\r\nTerrorists: Prevent Counter-Terrorist\r\nforce from rescuing the hostages. \r\n \r\nOther Notes: There are 4 hostages in \r\nthis mission.\r\n\r\nCredits:\r\nSource Version by Valve\r\nOriginal Version by CryptR"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"cs_assault_storm.bsp",
+						"cs_assault_storm.bsp.bz2",
+						"cs_assault_storm.txt",
+						"cs_assault_storm.txt.bz2"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 345111,
+				"_nDownloadCount": 4839,
+				"_nFilesize": 9278200,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/345111",
+				"_sFile": "cs_assault_storm.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1200511055
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99557,
+		"_sName": "cs_assault_storm",
+		"_sText": "I never made this map,\r\n\r\nIts raining on assault,\r\n\r\n------------\r\n\r\nLaundery Assault - Hostage Rescue\r\n\r\nThe Marr Freight Company has fallen \r\nvictim to a band of Terrorists hell bent \r\non using their operation to launder money.\r\nThe Harper Appliance Company is\r\nunwittingly shipping out more than they\r\nbargained for.\r\n \r\nCounter-Terrorists: Enter the Terrorist\r\nstronghold and rescue the hostages. \r\nTake out the Terrorists without \r\njeopardizing the hostages.\r\n\r\nTerrorists: Prevent Counter-Terrorist\r\nforce from rescuing the hostages. \r\n \r\nOther Notes: There are 4 hostages in \r\nthis mission.\r\n\r\nCredits:\r\nSource Version by Valve\r\nOriginal Version by CryptR\r\nEdited by Serpent & Dark Spirit"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"cs_assault_source.bsp",
+						"cs_assault_source.txt"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 362119,
+				"_nDownloadCount": 11238,
+				"_nFilesize": 1661777,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/362119",
+				"_sFile": "cs_assault_source.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1105820843
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99556,
+		"_sName": "cs_assault_source",
+		"_sText": "This is a little improvement from my last map, cs_assault_gadget. It's supposed to run smoother, and there are some other visual improvements. The idea of this map is to keep the style true to the original cs_assault. Some might think that I should have used more of what Source can offer, but I didn't bother with this map. That would have changed the gameplay of the map."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"cs_assault_sm.bsp",
+						"cs_assault_sm.nav"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 356136,
+				"_nDownloadCount": 1878,
+				"_nFilesize": 1532249,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/356136",
+				"_sFile": "cs_assault_sm.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1158818460
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99555,
+		"_sName": "cs_assault_sm",
+		"_sText": "...just found it on the net. nav-file is included. i didnt test it - try out or leave it ^^"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"cstrike": {
+							"maps": [
+								"cs_assault_rev.bsp",
+								"cs_assault_rev.nav",
+								"cs_assault_rev.res",
+								"cs_assault_rev.txt"
+							],
+							"materials": {
+								"cs_assault_rev": [
+									"oneway.vmt",
+									"oneway.vtf"
+								]
+							}
+						}
+					}
+				},
+				"_bContainsExe": false,
+				"_idRow": 361891,
+				"_nDownloadCount": 7851,
+				"_nFilesize": 2627281,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/361891",
+				"_sFile": "cs_assault_rev_1110644059.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1110644059
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99554,
+		"_sName": "cs_assault_rev",
+		"_sText": "cs_assault   revolution\r\n\r\n\r\nBuilt from scratch, tried to keep the original feel\r\n\r\n\r\nTh3Grind3R\r\noriginal map by CryptR"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"0": "Readme.txt",
+						"maps": [
+							"cs_assault_ren.bsp"
+						],
+						"materials": {
+							"Building_Template": [
+								"Building_Template001b.vmt",
+								"Building_Template001b.vtf",
+								"Building_Template001g.vmt",
+								"Building_Template001g.vtf",
+								"Building_Template001h.vmt",
+								"Building_Template001h.vtf",
+								"Building_Template001i.vmt",
+								"Building_Template001i.vtf",
+								"Building_Template001k.vmt",
+								"Building_Template001k.vtf",
+								"Building_Template003b.vmt",
+								"Building_Template003b.vtf",
+								"Building_Template003f.vmt",
+								"Building_Template003f.vtf",
+								"Building_Template015c.vmt",
+								"Building_Template015c.vtf",
+								"Building_Template015c_normal.vtf",
+								"Building_Template018b.vmt",
+								"Building_Template018b.vtf",
+								"Building_Template018i.vmt",
+								"Building_Template018i.vtf"
+							],
+							"Props": [
+								"metalcrate001a.vmt",
+								"metalcrate001a.vtf",
+								"metalcrate001b.vmt",
+								"metalcrate001b.vtf",
+								"metalcrate001c.vmt",
+								"metalcrate001c.vtf",
+								"metalcrate002a.vmt",
+								"metalcrate002a.vtf",
+								"metalcrate002b.vmt",
+								"metalcrate002b.vtf",
+								"metalcrate002c.vmt",
+								"metalcrate002c.vtf",
+								"metalcrate004c.vmt",
+								"metalcrate004c.vtf",
+								"metalcrate010a.vmt",
+								"metalcrate010a.vtf",
+								"metaldumpster001a.vmt",
+								"metaldumpster001a.vtf",
+								"metaldumpster001b.vmt",
+								"metaldumpster001b.vtf",
+								"metaldumpster001c.vmt",
+								"metaldumpster001c.vtf",
+								"metaldumpster001d.vmt",
+								"metaldumpster001d.vtf",
+								"tarpaperroof002a.vmt",
+								"tarpaperroof002a.vtf",
+								"tarpaperroof003a.vmt",
+								"tarpaperroof003a.vtf",
+								"woodcrate003d.vmt",
+								"woodcrate003d.vtf"
+							],
+							"brick": [
+								"brickfloor001a.vmt",
+								"brickfloor001a.vtf",
+								"brickwall001a.vmt",
+								"brickwall001a.vtf",
+								"brickwall045b.vtf",
+								"brickwall045d.vmt",
+								"brickwall045d.vtf",
+								"brickwall045d_normal.vtf",
+								"brickwall053a.vmt",
+								"brickwall053a.vtf"
+							],
+							"bricks": [
+								"brickwall045b.vmt",
+								"brickwall045b_normal.vtf"
+							],
+							"composite": [
+								"buildingset003a.vmt",
+								"buildingset003a.vtf",
+								"buildingset006a.vmt",
+								"buildingset006a.vtf",
+								"buildingset023a.vtf",
+								"buildingset023b.vmt",
+								"buildingset038a.vmt",
+								"buildingset038a.vtf",
+								"buildingset050a.vmt",
+								"buildingset050a.vtf"
+							],
+							"concrete": [
+								"concreteceiling004a.vmt",
+								"concreteceiling004a.vtf",
+								"concretefloor027a.vmt",
+								"concretefloor027a.vtf",
+								"concretefloor029a.vmt",
+								"concretefloor029a.vtf",
+								"concretewall013b.vmt",
+								"concretewall013b.vtf",
+								"concretewall013b_normal.vtf",
+								"concretewall013e.vmt",
+								"concretewall013e.vtf",
+								"concretewall013f.vmt",
+								"concretewall013f.vtf",
+								"concretewall038d.vmt",
+								"concretewall038d.vtf",
+								"concretewall057a.vmt",
+								"concretewall057a.vtf",
+								"concretewall071a.vmt",
+								"concretewall071a.vtf",
+								"concretewall071c.vmt",
+								"concretewall071c.vtf",
+								"ren_con1.vmt",
+								"ren_con1.vtf",
+								"ren_con2.vmt",
+								"ren_con2.vtf"
+							],
+							"glass": [
+								"glasswindow070a.vmt",
+								"glasswindow070a.vtf"
+							],
+							"metal": [
+								"metaldoor050a.vmt",
+								"metaldoor050a.vtf",
+								"metaldoor061a.vmt",
+								"metaldoor061a.vtf",
+								"metalgrate013b.vmt",
+								"metalgrate013b.vtf",
+								"metalhull003a.vmt",
+								"metalhull003a.vtf",
+								"metalladder001a.vmt",
+								"metalladder001a.vtf",
+								"metalroof008a.vmt",
+								"metalroof008a.vtf",
+								"metalroof008a_normal.vtf",
+								"metaltruss016a.vmt",
+								"metaltruss016a.vtf",
+								"metaltruss022b.vmt",
+								"metaltruss022b.vtf",
+								"metaltruss022c.vmt",
+								"metaltruss022c.vtf",
+								"metalvent010a.vmt",
+								"metalvent010a.vtf",
+								"metalwall001a.vmt",
+								"metalwall001a.vtf",
+								"metalwall001a_normal.vtf",
+								"metalwall001b.vmt",
+								"metalwall001b.vtf",
+								"metalwall001b_normal.vtf",
+								"metalwall001c.vmt",
+								"metalwall001c.vtf",
+								"metalwall001c_normal.vtf",
+								"metalwall002a.vmt",
+								"metalwall002a.vtf"
+							],
+							"skybox": [
+								"sky_airexchange01bk.vmt",
+								"sky_airexchange01bk.vtf",
+								"sky_airexchange01dn.vmt",
+								"sky_airexchange01dn.vtf",
+								"sky_airexchange01ft.vmt",
+								"sky_airexchange01ft.vtf",
+								"sky_airexchange01lf.vmt",
+								"sky_airexchange01lf.vtf",
+								"sky_airexchange01rt.vmt",
+								"sky_airexchange01rt.vtf",
+								"sky_airexchange01up.vmt",
+								"sky_airexchange01up.vtf"
+							]
+						},
+						"sound": {
+							"doors": {
+								"func_door_rotating": [
+									"default_locked.wav"
+								]
+							}
+						}
+					}
+				},
+				"_bContainsExe": false,
+				"_idRow": 362317,
+				"_nDownloadCount": 19834,
+				"_nFilesize": 9148636,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/362317",
+				"_sFile": "cs_assault_ren.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1100152484
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99553,
+		"_sName": "cs_assault_ren",
+		"_sText": "CS_Assault_Ren:\r\n\t\r\nRemake of the original assault for CS.\r\n\r\n\r\n\r\n\r\nINSTALLATION:\r\nExtract this .zip into:\r\n\r\n\"C:\\Program Files\\Valve\\Steam\\SteamApps\\\"Source E-mail\\counter-strike source\\cstrike\\\"\r\n\r\nIt will ask you to overwrite some files, just say yes to all, it only says that cause of the \r\nfolder that are being extracted.\r\n\r\n\r\n\r\n\r\nMAP INFO:\r\n\r\nBuild Time:\r\n'bout 3 days from start to finish\r\n\r\n\r\nCompile time:\r\n13 minutes or so\r\n\r\n\r\nTextures:\r\nAll HL2 Textures\r\n\r\n\r\nModels:\r\nAll HL2 Models\r\n\r\n\r\nBugs:\r\nIt is possible for the player to jump off the warehouse and get outside of the level.\r\nThis isn't a big deal as it isn't an advantage to the player.  It would have been fixed\r\nbut i've having some problems opening the map in Source, so i though i'd just release what\r\ni have done so far, which is very playable, and is almost what i had in mind for the\r\nfinal version.\r\n\r\nAlso, the players show up as pure black when outside in only the sunlight, this is\r\ndue to the problem that the sun doesn't cast light on players for some reason.  It's ok\r\nthough, doesnt' detract from gameplay.  my final version has tons of little lights outside\r\nbut, since i can't open it in source i can't get it uploaded.\r\n\r\n\r\n\r\n\r\nCredits:\r\n\r\nMapping - Renegade\r\nTesting - Renegade\r\n\t- DarkMauler\r\n\r\n\r\nThis map can be be redistributed, but only if this file is attached. Thank"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"cs_Assault_Reloaded.bsp",
+						"cs_Assault_Reloaded.txt",
+						"cs_assault_reloaded.nav"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 357744,
+				"_nDownloadCount": 4221,
+				"_nFilesize": 1156246,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/357744",
+				"_sFile": "assault_reloaded.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1149716886
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99552,
+		"_sName": "cs_assault_reloaded",
+		"_sText": "Assault Reloaded\r\n\r\nA mod of the cs_Assault map.\r\n\r\nThis map has an EXTRA area in the back and a few more things.\r\n\r\nRescue the 4 hostages and eliminate all the Terrorists before\r\nthe terrorists eliminate you.\r\n\r\n\r\nLET'S GET READY TO RUMBLE!!"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"Cs_assault_prison": [
+							"cs_assault_prison.bsp",
+							"cs_assault_prison.nav"
+						]
+					}
+				},
+				"_bContainsExe": false,
+				"_idRow": 326559,
+				"_nDownloadCount": 2175,
+				"_nFilesize": 1528739,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/326559",
+				"_sFile": "cs_assault_prison.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1260732862
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99551,
+		"_sName": "Cs_assault_prison",
+		"_sText": "<p>My CS:S hostage rescue map i made a couple of weeks ago</p>\r\n<p>hope u like it</p>"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"cs_assault_oldcs_final.bsp",
+						"cs_assault_oldcs_final.nav"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 312670,
+				"_nDownloadCount": 9280,
+				"_nFilesize": 1679803,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/312670",
+				"_sFile": "_4954-.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1304967920
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99550,
+		"_sName": "cs_assault_oldcs_final",
+		"_sText": "This is the final version of my CS_ASSAULT map. It's a remake from the old CS 1.6, old times are always better\r\n\r\nI tested it on our server, all were fascinated and loved the map, played it 60 minutes without getting bored, obiously with alltalk ok. Hope u like\r\n\r\n32 Slots\r\n\r\nFixes : \r\nPlayers can't run on the ducts\r\nRe-decorated hostage room\r\nAdded more textures\r\nLightning changed"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"cs_assault_old.bsp",
+						"cs_assault_old.nav"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 352395,
+				"_nDownloadCount": 2914,
+				"_nFilesize": 803585,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/352395",
+				"_sFile": "cs_assault_old_2.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1175698020
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99549,
+		"_sName": "cs_assault_old",
+		"_sText": "Very good map. if you have your own server clan or pub you should add this in you maplist"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"cstrike": {
+							"maps": [
+								"cs_assault_np_final.bsp"
+							]
+						}
+					}
+				},
+				"_bContainsExe": false,
+				"_idRow": 361275,
+				"_nDownloadCount": 11299,
+				"_nFilesize": 2577731,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/361275",
+				"_sFile": "cs_assault_np_final.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1117989791
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99548,
+		"_sName": "cs_assault_np_final",
+		"_sText": "Map for CS:Source\r\n\r\ncs_ASSAULT_NP - Hostage Rescue\r\n\r\nCounter-Terrorists: Terrorists have taken\r\nover the Nothern Petrol Warehouse. They have \r\ntaken some of the workers hostage. You must\r\nrescue them!!\r\n\r\nTerrorists: Prevent the CTs from\r\nrescuing the hostages. \r\n\r\nOther Notes: There are 2 hostage rescue zones.\r\n\r\n\r\nMap by: Hemp-omate\r\nCookies to: Curry\r\n\r\n\r\nthanks to: Effexx, nba1341, dark666angel, \r\nGloStiX\r\n\r\n\r\nhttp://gelsenclan.ge.funpic.de/"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"maps": [
+							"cs_assault_np_edit.bsp",
+							"cs_assault_np_edit.nav"
+						],
+						"materials": {
+							"deviant": [
+								"editbydeviant.vmt",
+								"editbydeviant.vtf"
+							]
+						}
+					}
+				},
+				"_bContainsExe": false,
+				"_idRow": 328552,
+				"_nDownloadCount": 4288,
+				"_nFilesize": 1601722,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/328552",
+				"_sFile": "cs_assault_np_edit_2.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1253526048
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99547,
+		"_sName": "cs_assault_np_edit",
+		"_sText": "I decompiled cs_assault_np_final to remove all this emo-checkers (borken textures) and made some little improvements"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"cs_assault_night_2011": {
+							"cstrike": {
+								"maps": [
+									"cs_assault_night_2011.bsp",
+									"cs_assault_night_2011.nav"
+								]
+							}
+						}
+					}
+				},
+				"_bContainsExe": false,
+				"_idRow": 315658,
+				"_nDownloadCount": 4198,
+				"_nFilesize": 3806572,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/315658",
+				"_sFile": "448__281-.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1294407167
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99546,
+		"_sName": "cs_assault_night_2011",
+		"_sText": ""
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"0": "readme.txt",
+						"maps": {
+							"0": "cs_assault_night.bsp",
+							"1": "cs_assault_night.nav",
+							"soundcache": [
+								"cs_assault_night_french.cache"
+							]
+						}
+					}
+				},
+				"_bContainsExe": false,
+				"_idRow": 304865,
+				"_nDownloadCount": 8762,
+				"_nFilesize": 7387102,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/304865",
+				"_sFile": "cs_assault_night.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1330099585
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99545,
+		"_sName": "Cs_Assault_Night",
+		"_sText": "<iframe width=\"560\" height=\"315\" src=\"http://www.youtube.com/embed/k_pRTusYBXk\" frameborder=\"0\" allowfullscreen></iframe>\r\n\r\nDon't forget to give feedback !"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"cs_assault_night.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 351036,
+				"_nDownloadCount": 13696,
+				"_nFilesize": 2943192,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/351036",
+				"_sFile": "cs_assault_night_2.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1181342547
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99544,
+		"_sName": "cs_assault_night",
+		"_sText": "One day I just decided to edit cs_assault into a night version. So i did...\r\n\r\nThe radar will/should work without any extra files. (Included in the map itself)\r\n\r\nI just changed the lighting, and made some of the outdoor lamps work."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"cs_assault_mudda.bsp",
+						"cs_assault_mudda.nav"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 358496,
+				"_nDownloadCount": 2374,
+				"_nFilesize": 2696370,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/358496",
+				"_sFile": "cs_assault_mudda.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1143326038
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99543,
+		"_sName": "cs_assault_mudda",
+		"_sText": "LOLIGE MAP^^ hehe "
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"cs_assault_ii.bsp",
+						"cs_assault_ii.nav"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 361584,
+				"_nDownloadCount": 6076,
+				"_nFilesize": 341692,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/361584",
+				"_sFile": "cs_assault_ii.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1114333213
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99542,
+		"_sName": "cs_assault_mini",
+		"_sText": "Immortal Infantry Clan Map,\r\nwww.immortal-infantry.com,\r\ncs_assault_mini\r\nMap made by -=][-][=-Silent"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"cs_assault_lith_legos.bsp",
+						"cs_assault_lith_legos.nav"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 353585,
+				"_nDownloadCount": 3230,
+				"_nFilesize": 2554658,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/353585",
+				"_sFile": "cs_assault_lith_legos.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1170283938
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99541,
+		"_sName": "cs_assault_lith_legos",
+		"_sText": "Bsp und nav in mapordner  ...  fertig"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"0": "Readme.txt",
+						"maps": [
+							"cs_assault_lith.bsp",
+							"cs_assault_lith.nav"
+						],
+						"materials": {
+							"metal": [
+								"metaldoor050a.vmt",
+								"metaldoor050a.vtf",
+								"metaldoor061a.vmt",
+								"metaldoor061a.vtf"
+							]
+						},
+						"sound": {
+							"doors": {
+								"func_door_rotating": [
+									"default_locked.wav"
+								]
+							}
+						}
+					}
+				},
+				"_bContainsExe": false,
+				"_idRow": 362316,
+				"_nDownloadCount": 14945,
+				"_nFilesize": 1380592,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/362316",
+				"_sFile": "cs_assault_lith.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1100152521
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99540,
+		"_sName": "cs_assault_lith",
+		"_sText": "CS_Assault_Lith:\r\n\t\r\nCS_Assault Remake for CS:Source!!!!!\r\n\r\n\r\n\r\n\r\nINSTALLATION:\r\n------------------------------------------\r\nExtract this .zip into your your \r\n\r\n\"C:\\Program Files\\Valve\\Steam\\SteamApps\\\"Source E-mail\"\\counter-strike source\\cstrike\\\"\r\n\r\nIt will ask you to overwrite some files, just say yes, it only says this because of the \r\nfolders that are being extracted.\r\n\r\n\r\n\r\n\r\n\r\nMAP INFO:\r\n------------------------------------------\r\n\r\nBuild Time:\r\n'bout 5 days from start to finish\r\n\r\n\r\n\r\nCompile time:\r\n11 minutes or so\r\n\r\n\r\n\r\nTextures:\r\nAll HL2 Textures\r\n\r\n\r\n\r\nModels:\r\nAll HL2 Models\r\n\r\n\r\n\r\nBugs:\r\nCannot take the hostages out of the back door.\r\ni'm not sure exactly how to make this work.\r\n\r\n\r\n\r\n\r\n\r\nCredits:\r\n------------------------------------------\r\nMapping - Monolith\r\nTesting - Monolith\r\n\t- DarkMauler\r\n\r\n\r\ncontact:\r\n------------------------------------------\r\nMonolith - darylbrigner@hotmail.com\r\n\r\n\r\n------------------------------------------\r\nThis map can be be redistributed, but only if this file is attached. Thank You"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"cs_assault_hslan_reloaded": {
+							"cstrike": {
+								"maps": [
+									"cs_assault_hslan_reloaded.bsp",
+									"cs_assault_hslan_reloaded.nav",
+									"cs_assault_hslan_reloaded.res",
+									"cs_assault_hslan_reloaded.txt"
+								]
+							}
+						}
+					}
+				},
+				"_bContainsExe": false,
+				"_idRow": 360345,
+				"_nDownloadCount": 2699,
+				"_nFilesize": 2973665,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/360345",
+				"_sFile": "cs_assault_hslan_reloaded.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1127728398
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 99539,
+		"_sName": "cs_assault_hslan_reloaded",
+		"_sText": "cs_assault_hslan_reloaded - 2005 by hslan.Lotte\r\nhttp://maps.hslan.de\r\n\r\nNOTES:\r\n\r\nCounterterrorists: resque the hostages\r\nthrough the maingate or the sewer\r\n\r\nTerrorists: resque yourself ;-)"
+	}
+]

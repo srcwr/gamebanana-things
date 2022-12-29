@@ -1,0 +1,106 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ze_laserheaven_css2.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 853280,
+			"_nDownloadCount": 73,
+			"_nFilesize": 74456036,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "world's greatest map updated to fix gamebreaking bugs",
+			"_sDownloadUrl": "https://gamebanana.com/dl/853280",
+			"_sFile": "ze_laserheaven_css2.7z",
+			"_sMd5Checksum": "f885d6fab17340f39bf3d2987246c61d",
+			"_tsDateAdded": 1661211770
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ze_laserheaven_css2.cfg"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 854086,
+			"_nDownloadCount": 20,
+			"_nFilesize": 522,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "fixed a few beauty marks",
+			"_sDownloadUrl": "https://gamebanana.com/dl/854086",
+			"_sFile": "ze_laserheaven_css2_stripper.7z",
+			"_sMd5Checksum": "c6a3546152779f23cc5dba20eb74125a",
+			"_tsDateAdded": 1661378046
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Added bhop cap to prevent skipping of RTV final lasers"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "EX voting logic works properly"
+				},
+				{
+					"cat": "Refactor",
+					"text": "Boss 1 was rebalanced"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "i love stripper!!!!!",
+			"_tsDateAdded": 1661378146
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "Fixed gamebreaking spawn issue"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed some overlays not being assigned to the correct faces"
+				},
+				{
+					"cat": "Tweak",
+					"text": "Nerfed the Ralsei NPCs"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed EX fog swapping"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed transition from RTV into Stage 4"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed an exploit with the nuke"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed teleporters not displaying in certain areas"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed misaligned textures in the skybox"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "ze_laserheaven_css2",
+			"_tsDateAdded": 1661213982
+		}
+	],
+	"_idRow": 397671,
+	"_sName": "ze_laserheaven (CSS)",
+	"_sText": "<h1>--=ZE_LASERHEAVEN_CSS=--<br></h1><h2>-=FEATURES=-</h2><br>-4 Stages<br><br>-Lasers (I LOVE LASERS! I LOVE LASERS!)<br><br>-15 minutes of grandma-gameplay per stage<br><br>-Maria (My wife)<br><br>-Admin Room (1423 4870 161)<br><br>-Fully functional minimap<br><br>-Bosses<br><br>-NPCs<br><br>"
+}

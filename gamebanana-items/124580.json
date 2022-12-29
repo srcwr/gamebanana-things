@@ -1,0 +1,41 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"bhop_bloodflow.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 418917,
+			"_nDownloadCount": 179,
+			"_nFilesize": 9746079,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/418917",
+			"_sFile": "bloodflowmap.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1557039067
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Improvement",
+					"text": "Fixed fullbright issued caused on css if you have below mat_hdr_level 2"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "FIXED FULLBRIGHT ISSUE",
+			"_tsDateAdded": 1557039132
+		}
+	],
+	"_idRow": 124580,
+	"_sName": "bhop_bloodflow",
+	"_sText": "----------------------------------<br><span class=\"RedColor\">BHOP_BLOODFLOW</span><br>----------------------------------<br><br><span class=\"RedColor\">55~ second map with a difficult route and challenging bonus. </span><br><br>(yes the map is supposed to be dark)"
+}

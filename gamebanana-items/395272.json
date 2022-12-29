@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"cs_militia_csgo.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 846424,
+			"_nDownloadCount": 399,
+			"_nFilesize": 73713575,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/846424",
+			"_sFile": "cs_militia_csgo_d90b9.rar",
+			"_sMd5Checksum": "257f87388f409e6031151180db6c06ee",
+			"_tsDateAdded": 1660165758
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 395272,
+	"_sName": "cs_militia_csgo",
+	"_sText": "Just a port I did a few months ago of Militia from CSGO. If I remember correctly some details like soundscapes or certain decorative lights were omitted. Otherwise, it should work fine. NAV file included in the BSP with place names.<br><br>This was my first working port from CSGO to CS:S, expect some errors or missing content."
+}

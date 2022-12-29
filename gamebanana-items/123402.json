@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"Info.txt",
+					"glass_fall.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 332984,
+			"_nDownloadCount": 1703,
+			"_nFilesize": 1722238,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/332984",
+			"_sFile": "glass_fall_4.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1238623897
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 123402,
+	"_sName": "Glass Fall",
+	"_sText": "Several layers,\r\nTOP, has barrels and a jump platform, the barrels are triggered to fall from the button.\r\nLayer 1, is where people spawn, they can climb up to trigger the barrels or fall through the glass to layer 2\r\nLayer 2, is a pure glass and metal lattice with an elevator in the middle to get to layer 1.\r\nBottom, a pool of water for falling in surrounded by spikes, a ladder leads back up to the 2 layers.\r\n\r\nThere is a ladder to the glass layers that has a falling van trap on it that is triggered by a button.\r\nThe jump platform has 3 gravity triggers.\r\nThe lower glass layer is rigged to break when a platform reaches its peak."
+}

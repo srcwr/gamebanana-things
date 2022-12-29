@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"Bossfight_justinbieber_v2.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 310207,
+			"_nDownloadCount": 2943,
+			"_nFilesize": 19723855,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/310207",
+			"_sFile": "_8365-.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1312404285
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 115553,
+	"_sName": "Bossfight_justinbieber_v2",
+	"_sText": "Hello guys\r\n==========\r\n\r\nV2 Changes\r\n------------------\r\n\r\nBalanced verseion after 1 Testrun on a server:\r\n\r\n- The 1. Attack that Bieber does deals no dmg anymore because it is very unbalanced when people dont have already bought a weapon\r\n- Better Initiate sequence: People have time in arena to buy weapons. \r\n- Removed those buildings. Reason: unneedet physics only slow down weak pcs\r\n- New location of teleport to lobby that forces people to explore the dungeon\r\n\r\nThis is my new bossfight map\r\nIt has everything a boss needs\r\n\r\nAIM is to kill **JUSTIN BIEBER**\r\n\r\n- HP bar where you see how much hp he has left\r\n- Attacks get announced so you know what attack he do\r\n- HP scales with amount of players fighting\r\n\r\nNew dmg formula system\r\nThere are hitzones like in monster hunter\r\n- low dmg for legs\r\n- med dmg for body\r\n- high dmg for head\r\n- You can see which hitbox you are hitting\r\n- they have different surfaceprops\r\n\r\nTheres also a little dungeon where you can unlock special weapons. They have spells you can activate by pressing E while holdng such weapon\r\nThis boss also has a enraged system\r\nIts an own counter that for rage and if this is full he enrages like you know it from monster hunter. Then he has different attacks\r\n- If you beat normal then you unlock hardcore\r\n\r\n- Map supports 32 players\r\nBut i dont recommend more than 16 players or its just to crowdet\r\n\r\nThis should be an example map of a bossfight.\r\nI upload a prefab for the dmg system later and write a tutorial how to make some basic attacks\r\n\r\nThe hitboxes are also easy to hook by servers when an experience system is running on a server\r\n\r\nThe names are\r\n\r\n- hitbox_low\r\n- hitbox_med\r\n- hitbox_crit"
+}

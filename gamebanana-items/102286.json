@@ -1,0 +1,78 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"de_experimental": {
+						"maps": [
+							"de_experimental.bsp",
+							"de_experimental.nav"
+						]
+					}
+				},
+				"_sMimeType": "application/x-7z-compressed"
+			},
+			"_bContainsExe": false,
+			"_idRow": 448234,
+			"_nDownloadCount": 168,
+			"_nFilesize": 990522,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/448234",
+			"_sFile": "de_experimental.7z",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1581134161
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_experimental_v2.vpk"
+				],
+				"_sMimeType": "application/x-7z-compressed"
+			},
+			"_bContainsExe": false,
+			"_idRow": 454585,
+			"_nDownloadCount": 96,
+			"_nFilesize": 1019160,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/454585",
+			"_sFile": "de_experimental_v2.7z",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1585376458
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Added smooth curves to the walls!"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added the sun!"
+				},
+				{
+					"cat": "Addition",
+					"text": "Shadow control added."
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Adjusted the waterfall"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Version 2",
+			"_tsDateAdded": 1585376923
+		}
+	],
+	"_idRow": 102286,
+	"_sName": "de_experimental",
+	"_sText": "My first map that I've made for Counter-Strike: Source! It's a pretty easy to learn Bomb/Defuse map. Also, It's not final, so expect some major or minor changes here and then. This map includes bot navigation as well. Have fun! ;)"
+}

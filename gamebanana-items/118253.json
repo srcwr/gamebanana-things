@@ -1,0 +1,73 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"awp_cbfd": {
+						"0": "readMEH.txt",
+						"maps": [
+							"awp_cbfd.bsp"
+						],
+						"materials": {
+							"overviews": [
+								"awp_cbfd.vmt",
+								"awp_cbfd.vtf",
+								"awp_cbfd_radar.vmt",
+								"awp_cbfd_radar.vtf"
+							],
+							"toxtex": [
+								"CTsign.vmt",
+								"CTsign.vtf",
+								"Luparrow.vmt",
+								"Luparrow.vtf",
+								"Ruparrow.vmt",
+								"Ruparrow.vtf",
+								"Tsign2.vmt",
+								"Tsign2.vtf",
+								"UNflag.vmt",
+								"UNflag.vtf",
+								"blendmillrockCavewall.vmt",
+								"cautiontape.vmt",
+								"cautiontape.vtf",
+								"cavesign.vmt",
+								"cavesign.vtf",
+								"creditsA.vmt",
+								"creditsA.vtf",
+								"creditsB.vmt",
+								"creditsB.vtf",
+								"creditsC.vmt",
+								"creditsC.vtf",
+								"integ1.vmt",
+								"integ1.vtf",
+								"tupsrock.vmt",
+								"tupsrock.vtf"
+							]
+						},
+						"resource": {
+							"overviews": [
+								"awp_cbfd.txt"
+							]
+						}
+					}
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 306866,
+			"_nDownloadCount": 1842,
+			"_nFilesize": 5415570,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/306866",
+			"_sFile": "awp_cbfd.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1323272547
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 118253,
+	"_sName": "awp_cbfd (Conkers Bad Fur Day)",
+	"_sText": "Readme.txt is in the download as well.\r\n\r\n#### AWP_CBFD(Conkers Bad Fur Day)\r\n\r\nThis map was inspired from the Nintendo 64 game called \"Conkers Bad Fur Day.\" It was a creation of Rare, LTD which no longer exists. I played this for years on my N64, and still do occasionally today. I figured this map, \"Colors\" would be great for an AWP map in CSS, and so I made it. \r\n\r\nIt has a radar as well as custom textures, so there may be a few extra steps in installing. \r\n\r\nUsually you can just take the models, materials, and resources folder and shove it in the cstrike folder and it'll copy the files to the correct places its self. \r\nIf that doesn't work, you're gonna have to extract...\r\n\r\nMap (.bsp) to:\r\nc:\\program files\\steam\\steam apps\\<name/email>\\counter-strike source\\cstrike\\maps\r\n\r\nCONTENTS of the Materials Folder to:\r\nc:\\program files\\steam\\steam apps\\<name/email>\\counter-strike source\\cstrike\\materials\\\r\nYou can just put the overviews folder in there as well as \"toxtex\"\r\n\r\nThe Resource folder will go\r\nc:\\program files\\steam\\steam apps\\<name/email>\\counter-strike source\\cstrike\r\n\r\nIf any of the folders such as \"materials\" \"resource\" or \"overviews\" are already created, you can just take the contents of my folders and put them into the already created ones. \r\n\r\n### Credits:<br>\r\nValve: Server/Models/etc<br>\r\nRare, Ltd.: Conkers Bad Fur Day and the inspiration for the map<br>\r\nTwizz: Textures/testing<br>\r\nRicky Mo: Testing<br>\r\nTupelo: Testing<br>\r\nTeam Integrity: Testing<br>\r\nCE from GFAQs: Testing<br>\r\nwww.Interlopers.net: Mapping help and tips<br>"
+}

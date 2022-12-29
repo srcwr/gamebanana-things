@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"zm_cf_funhouse_v2_fix2.bsp",
+					"zm_cf_funhouse_v2_fix2.nav"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 347461,
+			"_nDownloadCount": 1199,
+			"_nFilesize": 1289453,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/347461",
+			"_sFile": "zm_cf_funhouse_v2_fix2_2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1193810074
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 131489,
+	"_sName": "zm_cf_funhouse_v2_fix2",
+	"_sText": "Im hoping everyone enjoys this update release of my first-ever CSS map.\r\n\r\nCHANGELOG\r\n\r\n---v2_fix2---\r\n* Moved the new vent system up higher so it is only accessible from lower levels\r\n* The second and third level of tubes were removed.\r\n* General map optimizations were included.\r\n\r\n---v2_fix1---\r\n* Moved elevator and torture room to better place\r\n* Added new vent system to move around the map\r\n* Tubes added to the warehouse along with player clips to prevent players doing stuff that would make it nearly impossible for zombies to get them\r\n* Improved some glitchy lighting issues\r\n* Removed secret button to access secure room near T spawn, instead the door can be opened by use until I can add a keypad in later version.\r\n* Combine op center optimised for performance, less crap on that level.\r\n\r\nBasically evened the map out for both teams a bit :)."
+}

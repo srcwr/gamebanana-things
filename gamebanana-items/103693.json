@@ -1,0 +1,56 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrike": {
+						"maps": [
+							"de_renegade.bsp",
+							"de_renegade.nav"
+						]
+					}
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 382940,
+			"_nDownloadCount": 905,
+			"_nFilesize": 4868884,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/382940",
+			"_sFile": "de_renegade_ea1e0.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1526668520
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Improvement",
+					"text": "1) Blocked the central passage of the tunnel, to prevent terrorists heading to bombsite b to get killed too early by ct snipers 2) included a prop handrail on the balcony to allow bullet passage through empty spaces 3) included a wood structure at bombsite a to prevente skybox expousure when jumping from the high crate 4) fixed nav file 5) sorry for my poor english"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "de_renegade",
+			"_tsDateAdded": 1526668391
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Optimization",
+					"text": "fixed nav file"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "de_renegade",
+			"_tsDateAdded": 1526508726
+		}
+	],
+	"_idRow": 103693,
+	"_sName": "de_renegade",
+	"_sText": "Renegade - Bomb-Defuse\r\n<br><br>\r\nCounter-Terrorists: Prevent Terrorists\r\nfrom bombing biological weapon crates.\r\nTeam members must defuse any bombs \r\nthat threaten targeted areas.\r\n\r\n<br><br>Terrorists: The Terrorist carrying the\r\nC4 must destroy one of the biological\r\nweapon stashes. \r\n\r\nOther Notes: There are 2 biological\r\nweapon stashes in the mission.\r\n<br><br>\r\n\r\n32 spawn points"
+}

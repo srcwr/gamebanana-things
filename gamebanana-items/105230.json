@@ -1,0 +1,37 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "README-aim_1337.txt",
+					"1": "aim_1337.bsp",
+					"2": "aim_1337.nav",
+					"SCREENSHOTS": [
+						"Thumbs.db",
+						"aerial view.png",
+						"basicview.png",
+						"snipertower.png",
+						"underground.png"
+					]
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 350350,
+			"_nDownloadCount": 3023,
+			"_nFilesize": 4538105,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/350350",
+			"_sFile": "aim_1337.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1184025883
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 105230,
+	"_sName": "aim_1337",
+	"_sText": "Aim_1337\r\nby Pwn3r1001\r\nBrought to you by Dooz Mapping Studio @ http://www.fpsbanana.com/studios/1229\r\nrelease: July 9 2007\r\npwner1001@hotmail.com\r\nLORDSOFWARCLAN.ORG\r\n\r\n\r\n\r\nDescription\r\n***********\r\nWhen I first started this map I wanted to recreate the map gob_aim which is a custom call of duty 2 map. So once I got most of it complete I wanted to add more to it. Both sides are pretty much identical, there's a buyzone for each team and 2 towers. There's a bridge in the middle and an underground part. The map originally had guns dropped down onto players at the spawn, but was removed due to a 4 second lag at spawn. Most terrain is sandy, and the skybox is de_dust. Nothing in this map was stolen from any other maps, considering it's impossible to get things from a COD2 map into a CSS map. ;-) Anyways I included this readme, the .bsp, .nav, and screenshots. By the way if you don't know what 1337 means its just a cooler way of typing leet which is short for elite.\r\n\r\n\r\nRequired\r\n********\r\nCounter-strike:Source.\r\n\r\nInstallation\r\n************\r\nDownload the file, extract the aim_1337.bsp file and aim_1337.nav to  steam/steamapps/{yourusername}/counter-strike source/cstrike/maps/\r\n\r\n\r\nUninstall\r\n*********\r\nJust delete the map and nav file.\r\n\r\nUsage\r\n*****\r\nYou can test the map by going to start a new server in CS:S then pick the map and start. You can also play with bots that is what the .NAV file is for. It's a navigational mesh so bots know where to go.\r\n\r\nAdmins\r\n******\r\nI would suggest using bzipper from here: http://www.fpsbanana.com/tools/1495 . Extract the .bsp into the folder and use the bzipper tool to compress. Then take that compressed file and put it into your map folder in your server( usually at C:\\Program Files\\Valve\\HLServer\\cstrike\\maps) or if your using a webserver for downloads it's the same idea. Also add aim_1337 to maplist.txt in your server folder.\r\n\r\nMappers\r\n*******\r\nIf you would like to customize/modify aim_1337 email me at pwner1001@hotmail.com and I'll be glad to give you the .vmf as long as you give proper credit to my name in the readme and installer if you make one. Try decomiling the map, it won't work with vmex. Trust me, it's a lot easier to simply ask via email.\r\n \r\n\r\nThanks to\r\n*********\r\nBattleDX for ideas on map including weapon rack underground!\r\nValve for all models, and hammer editor to make map.\r\n\r\n\r\nChangeLOG\r\n******************************************************\r\nVersion 1.0 (First Version)\r\n-Released\r\n\r\n******************************************************\r\n"
+}

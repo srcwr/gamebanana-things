@@ -1,0 +1,84 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"maps": [
+						"st_beacon_beta005.bsp",
+						"st_beacon_beta005.nav"
+					],
+					"materials": {
+						"models": {
+							"Player": {
+								"TrekMod": {
+									"ct_gsg9": [
+										"ct_gsg9.vmt",
+										"ct_gsg9.vtf"
+									]
+								}
+							}
+						}
+					},
+					"models": {
+						"player": {
+							"TrekMod": {
+								"ct_gsg9": [
+									"ct_gsg9.dx80.vtx",
+									"ct_gsg9.dx90.vtx",
+									"ct_gsg9.mdl",
+									"ct_gsg9.phy",
+									"ct_gsg9.sw.vtx",
+									"ct_gsg9.vvd"
+								]
+							}
+						}
+					},
+					"sound": {
+						"TrekMod": [
+							"borgassimilate.wav",
+							"borgassimilate2.wav",
+							"borgforcefieldoff.wav",
+							"borgforcefieldon.wav",
+							"borgitem.wav",
+							"borgitem2.wav",
+							"borgitem3.wav",
+							"borgitem4.wav",
+							"borgitem5.wav",
+							"borgitem6.wav",
+							"borgtransport.wav",
+							"borgtransport2.wav",
+							"borgwelcomemessage.wav",
+							"cloakdevice.wav",
+							"ctphaser.wav",
+							"cttransportin.wav",
+							"cttransportout.wav",
+							"disruptor.wav",
+							"doug-myheartsbeatin.mp3",
+							"locutus.wav",
+							"redalert.wav",
+							"strfleet.wav",
+							"tricorder.wav"
+						]
+					}
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 355755,
+			"_nDownloadCount": 1350,
+			"_nFilesize": 3671394,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/355755",
+			"_sFile": "trekmod.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1160629610
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 116634,
+	"_sName": "st_beacon_alpha",
+	"_sText": "http://ninjaserve.org/forums/showthread.php?t=4424&highlight=trekmod\r\nhttp://ninjaserve.org/forums/showthread.php?t=4900&highlight=trekmod\r\n\r\nThis is for the whole trekmod.  It's the map and everything."
+}

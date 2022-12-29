@@ -1,0 +1,76 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"readme.txt",
+					"zm_clouds_v2_1.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 293316,
+			"_nDownloadCount": 2838,
+			"_nFilesize": 3393451,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/293316",
+			"_sFile": "zm_clouds_v2_1.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1374584897
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Trams no longer crush players on top of the rails to death"
+				},
+				{
+					"cat": "-",
+					"text": "Added alternate way of activating the statue secret"
+				},
+				{
+					"cat": "-",
+					"text": "Moved the tram buttons around"
+				},
+				{
+					"cat": "-",
+					"text": "A couple of minor balance changes"
+				}
+			],
+			"_sText": "Final version.",
+			"_sTitle": "v2_1",
+			"_tsDateAdded": 1384900632
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Added new area with tram system between two islands"
+				},
+				{
+					"cat": "-",
+					"text": "Changed skybox/env lighting/fog"
+				},
+				{
+					"cat": "-",
+					"text": "Balanced overpowered spots"
+				},
+				{
+					"cat": "-",
+					"text": "Small visual adjustments"
+				}
+			],
+			"_sText": "Balance and feature update.",
+			"_sTitle": "v2_0",
+			"_tsDateAdded": 1379842548
+		}
+	],
+	"_idRow": 131548,
+	"_sName": "zm_clouds_v2_1",
+	"_sText": "UPDATED 19 Nov 2013 - See \"Updates\" to the left for changelog.\r\n\r\nzm\\_clouds by Soft Serve (a.k.a. Satin Storm)\r\n\r\nFeatures:\r\n\r\n- A map that scales well for both high and low population servers.\r\n- Special item: speedsuit.\r\n- Several secrets."
+}

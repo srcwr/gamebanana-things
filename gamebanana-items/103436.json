@@ -1,0 +1,41 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_palermo.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 536177,
+			"_nDownloadCount": 418,
+			"_nFilesize": 87393491,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/536177",
+			"_sFile": "de_palermo_50922.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1616159429
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "func_buyzone"
+				}
+			],
+			"_sText": "Fixed a bug with no buy zone.",
+			"_sTitle": "Add buy zone.",
+			"_tsDateAdded": 1616159729
+		}
+	],
+	"_idRow": 103436,
+	"_sName": "de_palermo",
+	"_sText": "De_palermo is a port of the official dod_palermo map (based on the unofficial dod_salerno map) from Day of Defeat: Source game.<br><br>Now this map is adapted for plant a bomb by terrorists.<br><br>"
+}

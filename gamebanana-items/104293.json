@@ -1,0 +1,27 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_texduelpro.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 329786,
+			"_nDownloadCount": 1048,
+			"_nFilesize": 676708,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/329786",
+			"_sFile": "de_texduelpro.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1250004116
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 104293,
+	"_sName": "de_texduelpro",
+	"_sText": "\r\n\r\nObject names       Objects/Maxobjs  Memory / Maxmem  Fullness \r\n------------       ---------------  ---------------  -------- \r\nmodels                   6/1024          288/49152    ( 0.6%) \r\nbrushes               1953/8192        23436/98304    (23.8%) \r\nbrushsides           17916/65536      143328/524288   (27.3%) \r\nplanes                6108/65536      122160/1310720  ( 9.3%) \r\nvertexes              7186/65536       86232/786432   (11.0%) \r\nnodes                 1019/65536       32608/2097152  ( 1.6%) \r\ntexinfos               469/12288       33768/884736   ( 3.8%) \r\ntexdata                 12/2048          384/65536    ( 0.6%) \r\ndispinfos                0/0               0/0        ( 0.0%) \r\ndisp_verts               0/0               0/0        ( 0.0%) \r\ndisp_tris                0/0               0/0        ( 0.0%) \r\ndisp_lmsamples           0/0               0/0        ( 0.0%) \r\nfaces                 3362/65536      188272/3670016  ( 5.1%) \r\nhdr faces                0/65536           0/3670016  ( 0.0%) \r\norigfaces             2702/65536      151312/3670016  ( 4.1%) \r\nleaves                1026/65536       32832/2097152  ( 1.6%) \r\nleaffaces             3658/65536        7316/131072   ( 5.6%) \r\nleafbrushes           2160/65536        4320/131072   ( 3.3%) \r\nareas                    2/256            16/2048     ( 0.8%) \r\nsurfedges            26915/512000     107660/2048000  ( 5.3%) \r\nedges                15128/256000      60512/1024000  ( 5.9%) \r\nLDR worldlights         66/8192         5808/720896   ( 0.8%) \r\nHDR worldlights          0/8192            0/720896   ( 0.0%) \r\nwaterstrips            509/32768        5090/327680   ( 1.6%) \r\nwaterverts               0/65536           0/786432   ( 0.0%) \r\nwaterindices          8529/65536       17058/131072   (13.0%) \r\ncubemapsamples           0/1024            0/16384    ( 0.0%) \r\noverlays                 0/512             0/180224   ( 0.0%) \r\nLDR lightdata         [variable]      216128/0        ( 0.0%) \r\nHDR lightdata         [variable]           0/0        ( 0.0%) \r\nvisdata               [variable]      108284/16777216 ( 0.6%) \r\nentdata               [variable]       13852/393216   ( 3.5%) \r\nLDR leaf ambient      1026/65536       24624/1572864  ( 1.6%) \r\nHDR leaf ambient         0/65536           0/1572864  ( 0.0%) \r\noccluders                0/0               0/0        ( 0.0%) \r\noccluder polygons        0/0               0/0        ( 0.0%) \r\noccluder vert ind        0/0               0/0        ( 0.0%) \r\ndetail props          [variable]           1/12       ( 8.3%) \r\nstatic props          [variable]           1/470      ( 0.2%) \r\npakfile               [variable]       10020/0        ( 0.0%) \r\n\r\nLevel flags = 0\r\n\r\nWin32 Specific Data:\r\nphysics               [variable]      540759/4194304  (12.9%) \r\n==== Total Win32 BSP file data space used: 1936069 bytes ====\r\n\r\nTotal triangle count: 9375\r\nWriting c:\\program files (x86)\\steam\\steamapps\\sakumies123\\sourcesdk\\bin\\ep1\\bin\\de_texduelpro.bsp\r\n11 seconds elapsed\r\n"
+}

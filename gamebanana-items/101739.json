@@ -1,0 +1,31 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "de_dam_facility_readme.txt",
+					"maps": [
+						"de_dam_facility_fixed.bsp",
+						"de_dam_facility_fixed.nav"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 358172,
+			"_nDownloadCount": 12877,
+			"_nFilesize": 5257137,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/358172",
+			"_sFile": "de_dam_facility_fixed.7z",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1145894009
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 101739,
+	"_sName": "de_dam_facility_fixed",
+	"_sText": "I just finished the fixed version which addressed the clipping issues as well as a couple other things too. Read below for a complete list of changes. Please download it and give me any feedback you have good or bad. This will be the first peice that I can start my portfolio with.\r\n\r\nMap Name: de_dam_facility_fixed\r\n\r\nAuthor: Joe Motz\r\nRelease Date: 3/12/06\r\nFixed Release: 4/23/06\r\n\r\nNumber of Spawn Points: 30 vs. 30.\r\n\r\nAlso, thanks to everyone who has helped me with this map. It's been a long time coming but overall a whole lot of fun. Please spread the word and get this map on servers. Tell your admins that you wanna play it. Also a huge thanks goes out to BarnDoor for making a kickass nav file.\r\n\r\nChangelog:\r\n- Moved trash cans in garage so you can jump on them and over for quicker access through the garage coming from the back way.\r\n\r\n- You can now jump through the upstairs windows. in the building. Windows to closed offices are still unaccessable.\r\n\r\n- Added short B route to map. Too many people were boosting so I decided to make it legit.\r\n\r\n- Removed forklift from B and replaced it with control booth. Too many people were camping by the forklift. Too good of cover, had to mix it up a little.\r\n\r\n- imporved bot mesh thanks to BarnDoor : http://www.tequilakawa.plus.com/\r\n\r\n- moved a light in the vent.\r\n\r\n- added a few more props to the computer room.\r\n\r\n- moved location of one of the opening point cameras. Looks down alley now.\r\n\r\n- changed crate in A to allow players to jump onto it.\r\n\r\n- one door at ct spawn leading into the building will always stay open.\r\n\r\n- opened ip the hallway at one of the corners in the office on the bottom floor.\r\n\r\n- Clipped random areas to prevent players from dropping the bomb \"out-of-play\"\r\n\r\n- Optimized both teams spawn points for better spread of players\r\n\r\n- added more optimizations to map for slightly smoother gameplay.\r\n\r\n- Fixed CT's spawning outside buyzone.\r\n"
+}

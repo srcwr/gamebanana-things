@@ -1,0 +1,124 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"aim_wintermaze_2016_v4_beta": {
+						"Steamapps": {
+							"common": {
+								"Counter-Strike Source": {
+									"cstrike": {
+										"maps": [
+											"aim_wintermaze_2016_v4_beta.bsp"
+										]
+									}
+								}
+							}
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 847895,
+			"_nDownloadCount": 40,
+			"_nFilesize": 20190962,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "Updated version",
+			"_sDownloadUrl": "https://gamebanana.com/dl/847895",
+			"_sFile": "aim_wintermaze_2016_v4_beta_ed5f6.rar",
+			"_sMd5Checksum": "715cbc2015c549f9359ece0c57286bdd",
+			"_tsDateAdded": 1660406127
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "minimap radar on top left corner, for easier orientation"
+				},
+				{
+					"cat": "Improvement",
+					"text": "helicopter stop button can now be activated using gun"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Hint/Skip modification"
+				},
+				{
+					"cat": "Optimization",
+					"text": "All assets are neatly packed in a single .bsp file. Just plug and play!"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "aim_Wintermaze_2016_V4",
+			"_sVersion": "1.02",
+			"_tsDateAdded": 1660406279
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "CCTV console now has a glass screen. When destroyed, the console goes out of commission"
+				},
+				{
+					"cat": "Addition",
+					"text": "Instructions for tram and copter available on spawn"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added timers on a few doors, so they close on their own"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added ladders to compound so that players can climb out"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Moved the teleport platform"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Changed helicopters flight path so that it is less stiff then before."
+				},
+				{
+					"cat": "Improvement",
+					"text": "Increased the speed for trams and copter, so players can't outrun them"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Added sound for NVG spawner"
+				},
+				{
+					"cat": "Optimization",
+					"text": "Insulated the armory with area portals and vphysics so that players can't toss weapons out of the room and cause massive lag"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed lights on copter"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed lights on tram"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed tram wheel"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed wierd errors for func_detais"
+				}
+			],
+			"_sText": "I hope that all the files are in the right place.&nbsp; If someone could confirm, that would be nice.&nbsp;<br>",
+			"_sTitle": "aim_Wintermaze_2016_V4_beta",
+			"_tsDateAdded": 1623438273
+		}
+	],
+	"_idRow": 292411,
+	"_sName": "aim_Wintermaze_2016_V4_beta",
+	"_sText": "Map has now entered the beta phase, which means if there are any bugs, im not aware of them....most likely.<br><br>About the map:&nbsp;<br>Player count: 20vs20<br>Newest map as part of project \"Wintermaze_2016\".&nbsp; The map is huge and took me a long time to get it up and running.&nbsp;<br>There are 2 reasons as to why I added fog to this map.&nbsp;<br>1)AWP's<br>While sniping someone can be fun, I wouldn't want to get shot by an awp overlord from the other side of the map<br>2)Optimization<br>Due to its size and amount of detail in this map I deemed it necessary to add fog, in order to reduce lag.<br><br>The map is quite interactive, not your standard layout, but you shouldn't get lost either.&nbsp; I tried to make a relatively fun map that would be interesting to play with friends, or to wage war against other clans. Control of certain parts of this map can be useful as there certain things that can give you an advantage (helicopter, trams, armory, warehouse, CCTV room).&nbsp; Oh and CCTV,helicopters and trams are all working.&nbsp;<br><br>This map was also a test for myself as a mapper, to see what can i come up with and do.&nbsp;<br><br>Instructions:&nbsp;<br>When you download the map, every file will be in a folder, that has the same name as the folders in your steam directory.&nbsp;<br><br>If you see some bugs or problems, please let me know, as this is the alpha version. :)"
+}

@@ -1,0 +1,40 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_quick.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 654183,
+			"_nDownloadCount": 352,
+			"_nFilesize": 358041,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/654183",
+			"_sFile": "de_quick.rar",
+			"_sMd5Checksum": "08a9a115805e07e90a4b6ae6e031ce00",
+			"_tsDateAdded": 1631125493
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "fixed the missing textures"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "de_quick (updated)",
+			"_tsDateAdded": 1631125451
+		}
+	],
+	"_idRow": 103620,
+	"_sName": "de_quick",
+	"_sText": "This is my first map using the Hammer Editor, that is why it has many re-used assets and simple geometry.<br>The matches end very quickly, depending of how the match goes.<br><br>Credits to <a class=\"MemberLink\" href=\"https://gamebanana.com/members/274308\">Chris528</a> by making the textures and they can be downloaded from here: https://gamebanana.com/textures/707"
+}

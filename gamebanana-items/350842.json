@@ -1,0 +1,127 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"de_ism": [
+						"README.txt",
+						"de_ism.bsp"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 833610,
+			"_nDownloadCount": 170,
+			"_nFilesize": 34570907,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "Versión 1.2",
+			"_sDownloadUrl": "https://gamebanana.com/dl/833610",
+			"_sFile": "de_ism.7z",
+			"_sMd5Checksum": "7fbde82a2a21fadcd151264a0e117517",
+			"_tsDateAdded": 1658251862
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"de_ism": [
+						"README.txt",
+						"de_ism.bsp",
+						"de_ism.nav"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 729658,
+			"_nDownloadCount": 358,
+			"_nFilesize": 37965235,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "Versión 1.0",
+			"_sDownloadUrl": "https://gamebanana.com/dl/729658",
+			"_sFile": "de_ism.zip",
+			"_sMd5Checksum": "d63daf24daf3bda13d5bd8fdd8b6b36b",
+			"_tsDateAdded": 1642311584
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Overhaul",
+					"text": "Se reemplazaron las baldosas de los patios por baldosas más cercanas a las reales"
+				},
+				{
+					"cat": "Overhaul",
+					"text": "Se mejoró la reja del gimnasio por una más fiel a la real"
+				},
+				{
+					"cat": "Overhaul",
+					"text": "Se reemplazó la textura del suelo de madera de Secretaría, y del techo del Lobby de Carmen"
+				},
+				{
+					"cat": "Overhaul",
+					"text": "Se añadieron normals al metal rojo usado para los pilares"
+				},
+				{
+					"cat": "Overhaul",
+					"text": "Las baldosas de la calle ahora tienen normals"
+				},
+				{
+					"cat": "Overhaul",
+					"text": "El suelo de las escaleras de San Martín ahora tiene la \"goma\" que tiene en la realidad, junto a las viejas baldosas azules"
+				},
+				{
+					"cat": "Addition",
+					"text": "Se añadió un piano en el Salón Champagnat para cubrir a quienes entren por el patio de media superior de francotiradores que estén en el pasillo del segundo piso de media inicial, ya que podían ver hacia dentro desde el otro extremo"
+				},
+				{
+					"cat": "Addition",
+					"text": "Se añadieron las luces redondas del Lobby de Carmen"
+				},
+				{
+					"cat": "Addition",
+					"text": "Se añadieron urinales a los baños de hombres"
+				},
+				{
+					"cat": "Addition",
+					"text": "Mejoras a la skybox"
+				},
+				{
+					"cat": "Optimization",
+					"text": "Se reemplazaron muchos bordes de ladrillo rojos por texturas"
+				},
+				{
+					"cat": "Optimization",
+					"text": "Se reemplazaron marcos de ventanas que eran func_detail por texturas"
+				},
+				{
+					"cat": "Optimization",
+					"text": "Se ajustaron partes del mapa que no estaban en la malla"
+				},
+				{
+					"cat": "Optimization",
+					"text": "La calle se hizo parte de la skybox para mejorar el rendimiento"
+				},
+				{
+					"cat": "Tweak",
+					"text": "Mejoras leves de clipping"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Corrección de errores menores que afectaban el rendimiento"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "",
+			"_sVersion": "1.2",
+			"_tsDateAdded": 1658252445
+		}
+	],
+	"_idRow": 350842,
+	"_sName": "de_ism",
+	"_sText": "Actualizado el 19/07/2022<br>-------------------------------------<br><br>Mapa basado en el Instituto San Martín de \r\nCuricó, tratando de ser lo más fiel al real.\r\nDisponible con todos sus patios y pasillos, acceso a \r\nla biblioteca, ex-biblioteca, secretaría, entradas de San Martín y \r\nCarmen, salón y gimnasio.<br><br>Usando memoria y fotos disponibles en la página web, se buscó \r\nrepresentar al colegio en el periodo en el que fui alumno. Se buscó priorizar la precisión sobre el gameplay, por lo que cada puerta, ventana y pilar, está donde debería estar en la vida real. Con el paso de los años algunas cosas han cambiado, pero el edificio es el mismo. <br><br>Debido a la gran cantidad de áreas abiertas y pasillos largos, rápidamente se darán cuenta de que los sniper son bastante OP. Si quieren divertirse, les recomiendo jugar sin ellos. <br><br>Para la ciudad, se retrata Curicó en el periodo de mediados de 2000s a 2010s, con varios edificios característicos que los ex alumnos podrán reconocer.<br><br>Este mapa se comenzó a desarrollar en febrero de 2019 y casi se terminó alrededor de julio de 2020. Por la universidad el lanzamiento se pospuso, pero finalmente podrán tener esta joyita en sus manos. <br><br>Con esto se cumple el sueño de todo alumno, poder jugar CS en su colegio xD<br><br>Agradecimientos especiales a todos quienes ayudaron a probar el mapa, y aportaron con su feedback para tratar de balancearlo. <br><br>"
+}

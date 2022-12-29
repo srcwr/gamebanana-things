@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"bhop_dfwc2017_6.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 446367,
+			"_nDownloadCount": 90,
+			"_nFilesize": 7246433,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/446367",
+			"_sFile": "bhop_dfwc2017_6_596ad.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1579846043
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 124834,
+	"_sName": "bhop_dfwc2017_6",
+	"_sText": "This map was originally a defrag map, and I have intermittently been porting and optimizing it for css. This map is very large for a source map and there were many brushes that did not translate well on the source engine. Due to the size, the end zone has been rotated 90 degrees in order to fit in the hammer grid. I attempted many different methods of shaping up the map and this is the most stable, playable, and aesthetically pleasing combination of brushwork I could manage. There were too many stretched seams and pixel wide gaps to manually seal within a more timely manner - the vertex and plane limits were both initially met. I have spent too much time trying to polish this map from a meticulous standpoint which i expect most players will not have. Please enjoy!"
+}

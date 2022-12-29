@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"mg_hellz_multigame_fix.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 330641,
+			"_nDownloadCount": 23625,
+			"_nFilesize": 43892252,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/330641",
+			"_sFile": "mg_hellz_multigame_fix_2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1247041826
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 128088,
+	"_sName": "mg_hellz_multigame_fix",
+	"_sText": "This is the fix version of my mg_hellz_multigame.\r\n* Sv_airaccelerate is fixed for some games\r\n* The rotating arch is less laggy\r\n* Fixed some bug\r\n* A jail was added for the long jump\r\n* Less mine's damage for benny hills' run and more stone\r\n* The IS game was added\r\n...\r\n\r\n\r\n->The credits are in the choose team menu\r\n\r\nUpdate 24/06/2010:\r\n* The rotating arch is stopped\r\nI modified the binary, so you just have to overwrite the map on your server"
+}

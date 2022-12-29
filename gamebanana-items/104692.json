@@ -1,0 +1,45 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"maps": [
+						"de_westwood_sp.bsp",
+						"de_westwood_sp.nav"
+					],
+					"materials": {
+						"overviews": [
+							"de_westwood_sp.vmt",
+							"de_westwood_sp.vtf",
+							"de_westwood_sp_radar.vmt",
+							"de_westwood_sp_radar.vtf"
+						]
+					},
+					"resource": {
+						"overviews": [
+							"de_westwood_sp.txt"
+						]
+					}
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 488485,
+			"_nDownloadCount": 608,
+			"_nFilesize": 9443823,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/488485",
+			"_sFile": "de_westwood_sp.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1601404547
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 104692,
+	"_sName": "de_westwood_sp",
+	"_sText": "Original Westwood by Nipper / Nate Miller.<br><br>This is based off the Westwood maps we all know but more specifically off de_westwood_07.<br><br>I did not copy and paste anything over, but instead completely built this anew from the ground up. I included 30 spawn positions per team and a custom overview / radar."
+}

@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_poolday_ruins.bsp",
+					"readme.txt"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 308915,
+			"_nDownloadCount": 1663,
+			"_nFilesize": 3301332,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/308915",
+			"_sFile": "de_poolday_ruins.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1315898329
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 103547,
+	"_sName": "de_poolday_ruins",
+	"_sText": "My final compile of this map for The [\"Time Traveler\"](http://www.gamebanana.com/news/20032 \"The \"Time Traveler\" Mapping Contest\") Mapping Contest. I don't have much free time left, so I thought I'd wrap up this project and hope for the best. I took a lot of previous comments to heart, and looked up some Tutorials here to help me on some things I was lost about. I hope you enjoy this map in-game as much as I enjoyed making it! I find it fun for even bot killing. :)\r\n\r\n### **Features & Background**\r\n\r\n- Full recreation of the original fy_poolday for source.\r\n- Set 50 years ahead of the original map theme. Thick foliage has overgrown the place, and a shift in climates has resulted in thunderstorms.\r\n- This map has built in thunder and lightning sequences, as well as precipitation outside to fully incorporate an eery and somewhat challenging environment that I was looking for.\r\n- A shift in times has resulted in the Terrorists wanting to bomb the old facility to further provoke fear and lack of trust among the citizens of the local town.\r\n- There are also buyzones in this map, a new twist in this version that the original did not have.\r\n- Full support for 64-man servers, although this map is recommended for around 32-36 players for best experience.\r\n- Tweaked navigational mesh with included area naming for a full experience.\r\n- Addition of radar map.\r\n\r\n### **Known Bugs**\r\n\r\n- Some very minor lighting issues, primiarly around the upper ivy/grass bordering. Some prop lighting issues too.\r\n- Slightly bugged bumpmaping of the red and blue floor tiling.\r\n- Slight navigation issues around Bombsite B (diving board).\r\n\r\n### **Changelog**\r\n\r\n#### Alpha 1 -> Alpha 4\r\n\r\n- Removal of dense smoke as it proved quite random.\r\n- Tweaking of lightning sequences and improved lighting.\r\n- Addition of dynamic lighting around the bathroom and spawn areas.\r\n- Tedious process of mapping tile by tile has started.\r\n- General fixes and improvements to the spa area of the level.\r\n\r\nAlpha 4 -> Final\r\n\r\n- Finished tiling process.\r\n- Added a smoother upper border to get rid of blocky feeling.\r\n- Changed flooring around the pool to better accommodate the run-down environment.\r\n- Addition of better lighting around the Side Hall area of the map.\r\n- Texture fixes above the Side spa area, primarily the leaves above the glass.\r\n- Improve soundscapes.\r\n- Improved cubemapping of areas.\r\n- Addition of player clippings to remove access to unintended areas.\r\n- General texture and brush tweaks to improve movement.\r\n- Other minor updates and fixes...\r\n\r\n### **Please post your thoughts and ideas! Remember, looking at the screenshots does no justice, please don't be afraid to try it out, even if it's just with bots! If you for some reason would like to make a video preview of the map, that would be lovely. :)**"
+}

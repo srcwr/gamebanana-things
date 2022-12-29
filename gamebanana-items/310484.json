@@ -1,0 +1,221 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"mg_bw_417_v3_fix1.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 657907,
+			"_nDownloadCount": 45,
+			"_nFilesize": 10856621,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/657907",
+			"_sFile": "mg_bw_417_v3_fix1.zip",
+			"_sMd5Checksum": "7cce9bfd8069a4eed520533d4fcded0f",
+			"_tsDateAdded": 1631610913
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"mg_bw_417_v3.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 655730,
+			"_nDownloadCount": 11,
+			"_nFilesize": 10861094,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/655730",
+			"_sFile": "mg_bw_417_v3_94bd4.zip",
+			"_sMd5Checksum": "a1c67f41487656416a8daeb139708ff6",
+			"_tsDateAdded": 1631293676
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"mg_bw_417.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 628415,
+			"_nDownloadCount": 25,
+			"_nFilesize": 10319815,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/628415",
+			"_sFile": "mg_bw_417.zip",
+			"_sMd5Checksum": "17ca234e2529834e6b9c5e4f216f0900",
+			"_tsDateAdded": 1627900406
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"mg_bw_417_fix1.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 629403,
+			"_nDownloadCount": 7,
+			"_nFilesize": 10317861,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/629403",
+			"_sFile": "mg_bw_417_fix1.zip",
+			"_sMd5Checksum": "1eb936d7e41250fcea94f46a7ef96d81",
+			"_tsDateAdded": 1628015150
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"mg_bw_417_v2.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 631237,
+			"_nDownloadCount": 9,
+			"_nFilesize": 10327278,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/631237",
+			"_sFile": "mg_bw_417_v2.zip",
+			"_sMd5Checksum": "a6d93f105034a2d081bfc932ba2d39d8",
+			"_tsDateAdded": 1628239065
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"mg_bw_417_v2_fix.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 632216,
+			"_nDownloadCount": 9,
+			"_nFilesize": 10484136,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/632216",
+			"_sFile": "mg_bw_417_v2_fix.zip",
+			"_sMd5Checksum": "4a96a6e374670c41aaaadbdf04e47911",
+			"_tsDateAdded": 1628369831
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"mg_bw_417_v2_fix2.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 635588,
+			"_nDownloadCount": 17,
+			"_nFilesize": 10417105,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/635588",
+			"_sFile": "mg_bw_417_v2_fix2_54319.zip",
+			"_sMd5Checksum": "b90cce386f113114041d4df8a6ea0996",
+			"_tsDateAdded": 1628767429
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "Fixed payload button logic, i hope."
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Closed up a few gaps up top the map where players could see beyond the map."
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed the blocks texture"
+				},
+				{
+					"cat": "Tweak",
+					"text": "Changed pistols scattered around the map to be deagles."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "v3_fix1",
+			"_tsDateAdded": 1631612706
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Tweak",
+					"text": "Attacker side is a bit smaller."
+				},
+				{
+					"cat": "Overhaul",
+					"text": "Attacker side is elevated now."
+				},
+				{
+					"cat": "Addition",
+					"text": "Helicopter replaced with a working one."
+				},
+				{
+					"cat": "Addition",
+					"text": "Introduction of VCSS. Allows Ts and Cts to swap roles in after round end."
+				},
+				{
+					"cat": "Overhaul",
+					"text": "Defender middle building - tweaked the layout."
+				},
+				{
+					"cat": "Addition",
+					"text": "Added a payload that attackers have to push across the map."
+				},
+				{
+					"cat": "Addition",
+					"text": "Added 3 arches on the right side of defender side."
+				},
+				{
+					"cat": "Tweak",
+					"text": "Attack and Defend now spawn with Five sevens and knifes."
+				},
+				{
+					"cat": "Addition",
+					"text": "Added info tables to both team spawn points to explain the mode a little bit better."
+				},
+				{
+					"cat": "Overhaul",
+					"text": "Defender blocks are now props, should fix most of the visual glitches."
+				},
+				{
+					"cat": "Tweak",
+					"text": "Defender blocks blocks spawn delay changed from 0.75 to 0.5"
+				},
+				{
+					"cat": "Tweak",
+					"text": "Attacker HP boosted to 200, Defender HP boosted to 150."
+				}
+			],
+			"_sText": "Hope y'all have a great day. I've been working hard on this update for 4 days, and I hope it will be the last one. This is the final major version that I'll release for a while.<br>",
+			"_sTitle": "v3",
+			"_tsDateAdded": 1631291080
+		}
+	],
+	"_idRow": 310484,
+	"_sName": "mg_bw_417",
+	"_sText": "This is just a little MG map I've put together in around 3 days. It's basically Jackmaster's mg_jacks_multigames_v1 castlewars minigame but a little different.<br><br> In this map CTs build a fort using blocks and Ts attack them. Ts have 2 special weapons and a transport helicopter.<br><br>Textures: https://gamebanana.com/mods/7926<br>https://gamebanana.com/mods/6185<br><br>Latest version: mg_bw_417_v3_fix1&nbsp; (check the update log above)<br><br>Any feedback is welcome.<br>"
+}

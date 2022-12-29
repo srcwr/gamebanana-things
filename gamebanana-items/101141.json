@@ -1,0 +1,49 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_bank.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 409447,
+			"_nDownloadCount": 3993,
+			"_nFilesize": 101477195,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/409447",
+			"_sFile": "de_bank_10fd2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1549350799
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "+Added vertex lights"
+				},
+				{
+					"cat": "Addition",
+					"text": "+Edit some particles (smokes)"
+				},
+				{
+					"cat": "Tweak",
+					"text": "+fixed Env_sounds"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Update 1",
+			"_tsDateAdded": 1549350902
+		}
+	],
+	"_idRow": 101141,
+	"_sName": "de_Bank",
+	"_sText": "Bank from Csgo now Avaliable for Cs Source!<br>--------------------------------------------------------------------------------------------------------<br>Counter-Terrorists: Prevent Terrorists from bombing the safe. Team members must defuse any bombs that threaten targeted area.<br><br>Terrorists: The Terrorist carrying the C4 must destroy the safe.<br><br>"
+}

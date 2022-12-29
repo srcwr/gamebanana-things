@@ -1,0 +1,50 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_steamworks.bsp",
+					"de_steamworks.log",
+					"de_steamworks.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 576120,
+			"_nDownloadCount": 85,
+			"_nFilesize": 492642,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/576120",
+			"_sFile": "de_steamworks_43210.zip",
+			"_sMd5Checksum": "7c04729b7d88f50f3d51c46788724fac",
+			"_tsDateAdded": 1621687557
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "New door texture. Its a push door ^^"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Skybox"
+				},
+				{
+					"cat": "Improvement",
+					"text": "NoDraw Textures on several faces added"
+				}
+			],
+			"_sText": "I won't make any gameplay changes, because this was just a project to polish up my mapping skills. In the future, I want to make something better than this. Smileyface",
+			"_sTitle": "Aesthetic and Optimization Changes (w6a7z99)",
+			"_tsDateAdded": 1621687452
+		}
+	],
+	"_idRow": 287865,
+	"_sName": "de_steamworks",
+	"_sText": "The sub-urban part of Kharkov was the target for the terrorists. They will try to detonate the underground pipe system, or one of the abandoned flats and playground.<br><br>WARNING! Nav-mesh still not complete<br>"
+}

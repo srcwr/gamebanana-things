@@ -1,0 +1,105 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"de_lan_party_v3": [
+						"de_lan_party.bsp"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 794529,
+			"_nDownloadCount": 105,
+			"_nFilesize": 198603,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "CURRENT NEWEST",
+			"_sDownloadUrl": "https://gamebanana.com/dl/794529",
+			"_sFile": "de_lan_party_v3_e708f.7z",
+			"_sMd5Checksum": "90c9b83933304020ea5e8e04087baddb",
+			"_tsDateAdded": 1651793918
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"de_lan_party_v2": [
+						"de_lan_party.bsp"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 794038,
+			"_nDownloadCount": 17,
+			"_nFilesize": 199346,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "OLD VERSION",
+			"_sDownloadUrl": "https://gamebanana.com/dl/794038",
+			"_sFile": "de_lan_party_v2.7z",
+			"_sMd5Checksum": "150549e19417b4320b9b05727f4e36a1",
+			"_tsDateAdded": 1651711973
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"de_lan_party": [
+						"de_lan_party.bsp"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 793569,
+			"_nDownloadCount": 26,
+			"_nFilesize": 117251,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "OLD VERSION",
+			"_sDownloadUrl": "https://gamebanana.com/dl/793569",
+			"_sFile": "de_lan_party.7z",
+			"_sMd5Checksum": "43d49e68adcacdb1eca26831421227aa",
+			"_tsDateAdded": 1651617519
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Added Radar"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "de_lan_party Update 2",
+			"_sVersion": "1.2",
+			"_tsDateAdded": 1651793561
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Improvement",
+					"text": "Map Textures"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Arch Geometry"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Skybox/Lighting"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "de_lan_party Update 1",
+			"_sVersion": "1.1",
+			"_tsDateAdded": 1651711917
+		}
+	],
+	"_idRow": 375376,
+	"_sName": "de_lan_party",
+	"_sText": "This is my first map, so I am aware it's not that great. However, it can be fun with bots, pretty chaotic. I don't know how to make foliage look good, so there is none. And I have decided to keep the sides open because it's kind of fun. I also do not know yet how to make a mini-map. Give me some feedback, all is appreciated!<br><br>Story: <br>Located in a compound in the middle of nowhere, the T's challenged the CT's to a game of C:SS. The T's got completely demolished so they trashed the place and decided to leave, and hours later they have threatened to demolish the house. The CT's were called to defend the compound, as they want to establish their dominance. Now they go head to head to battle it out!"
+}

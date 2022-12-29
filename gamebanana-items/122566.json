@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"surf_minimumwage.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 473815,
+			"_nDownloadCount": 102,
+			"_nFilesize": 152539878,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/473815",
+			"_sFile": "surf_minimumwage_f877f.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1594520888
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 122566,
+	"_sName": "surf_minimumwage (Source Port)",
+	"_sText": "This map was ported by ksf. The original creator is Serz.&nbsp; I decided to upload it for people who want to play the map in source or momentum-mod and also because I couldn't find it online.&nbsp; Here is the description of the <a href=\"https://gamebanana.com/maps/190809\">csgo version</a>&nbsp;(you don't need to install any plugins or scripts those instructions are for csgo):<br><code class=\"SelectedElement\">hey so this is a surf map with 6 stages, it has fluid gameplay throug out the map (mostly) wich means if you fail you'll start back up at the last checkpoint with enough speed to finish that stage.&nbsp;<br><br>also if you want to play the map as it is intended (please do) then install the SM plugin I included in the .rar, it's a particle precacher, 2 files big the smx and sp, merge the sourcemod folders and you should be good to go.<br><br>Big thanks to tony for geting me this after i tirelessly tried working stuff out with what i had from before.&nbsp;<br><br>zone trigger_multiple's and teleport destinations for those of you with those kinds of server plugins;<br><br>stage1 - teleport1<br><br>stage2 - surfpart2.2blackbox<br><br>stage3 - surfpart2.3blackbox<br><br>stage4 - wtf<br><br>stage5 - wtf2<br><br>stage6 - surfpart2.zblackbox<br><br>endzone<br><br>bonus_start - poolbonus<br><br>bonus_end<br><br>now there is a few minor problems, with this precaching plugin there is one particle i couldent get to play as it should but whatever and some other minor shit but im done working on this so yep<br><br>i feel like im forgetting something else very important but ill come back and edit if there is anything.<br></code><br>"
+}

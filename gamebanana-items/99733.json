@@ -1,0 +1,143 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "readme.txt",
+					"maps": [
+						"cs_computerpro.bsp",
+						"cs_computerpro.nav",
+						"cs_computerpro.res",
+						"cs_computerpro.txt"
+					],
+					"materials": {
+						"atam": {
+							"concrete": [
+								"nuke_conrete01.vmt",
+								"nuke_conrete01.vtf",
+								"nuke_conrete01_normal.vtf"
+							]
+						},
+						"cncr04s": {
+							"concretetypes": [
+								"brln_ceilingwht.vmt",
+								"brln_ceilingwht.vtf",
+								"wall_verts_base2.vmt",
+								"wall_verts_base2.vtf"
+							],
+							"metalpanel": [
+								"nor_panelflat.vmt",
+								"nor_panelflat.vtf"
+							]
+						},
+						"cncr04sp2": {
+							"concretetypes": [
+								"hhconcrete_h.vmt",
+								"hhconcrete_h.vtf"
+							]
+						},
+						"customtex": [
+							"a.vmt",
+							"a.vtf",
+							"alot_sign.vmt",
+							"alot_sign.vtf",
+							"arrow_parking.vmt",
+							"arrow_parking.vtf",
+							"asusboardbox.vmt",
+							"asusboardbox.vtf",
+							"brokencpu.vmt",
+							"brokencpu.vtf",
+							"computerprotxt.vmt",
+							"computerprotxt.vtf",
+							"cprou_window.vmt",
+							"cprou_window.vtf",
+							"cproulogo.vmt",
+							"cproulogo.vtf",
+							"dairy_savealot.vmt",
+							"dairy_savealot.vtf",
+							"doorlogo.vmt",
+							"doorlogo.vtf",
+							"employ.vmt",
+							"employ.vtf",
+							"frozen_savealot.vmt",
+							"frozen_savealot.vtf",
+							"lease_sign.vmt",
+							"lease_sign.vtf",
+							"lo_sign.vmt",
+							"lo_sign.vtf",
+							"maxtor160.vmt",
+							"maxtor160.vtf",
+							"meat_savealot.vmt",
+							"meat_savealot.vtf",
+							"parkingline.vmt",
+							"parkingline.vtf",
+							"produce_savealot.vmt",
+							"produce_savealot.vtf",
+							"save_sign.vmt",
+							"save_sign.vtf",
+							"savealot.vmt",
+							"savealot.vtf",
+							"savealotstoresign.vmt",
+							"savealotstoresign.vtf",
+							"storehrs.vmt",
+							"storehrs.vtf",
+							"storenumber.vmt",
+							"storenumber.vtf",
+							"t_sign.vmt",
+							"t_sign.vtf",
+							"yellowcurb.vmt",
+							"yellowcurb.vtf"
+						],
+						"metal": [
+							"metalpipe001b.vmt",
+							"metalpipe001b.vtf",
+							"metalwall046a.vmt",
+							"metalwall046a.vtf"
+						],
+						"orginal source materials": {
+							"materials": {
+								"cs_assault": [
+									"assault_crosswalk_decal1.vmt"
+								],
+								"cs_havana": [
+									"concrete03.vmt",
+									"concrete03.vtf"
+								]
+							}
+						},
+						"photorealistic_road": [
+							"asphalt_01.vmt",
+							"asphalt_01.vtf",
+							"asphalt_03_03.vmt",
+							"asphalt_03_03.vtf",
+							"asphalt_04.vmt",
+							"asphalt_04.vtf",
+							"road02_01.vmt",
+							"road02_01.vtf",
+							"road02_02.vmt",
+							"road02_02.vtf",
+							"road02_03.vmt",
+							"road02_03.vtf"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 350598,
+			"_nDownloadCount": 2462,
+			"_nFilesize": 3869508,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/350598",
+			"_sFile": "cs_computerpro.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1183149551
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 99733,
+	"_sName": "cs_computerpro",
+	"_sText": "Description:\r\nThis is a original make of the Computer Pro Unl. Store\r\nCounter-Terrorist have to enter the computer pro store and rescue the hostages\r\nwhile the terrorist are in the building awaiting.\r\n\r\nEnjoy :)"
+}

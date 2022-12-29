@@ -1,0 +1,143 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"Green Knife.vpk"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 408347,
+			"_nDownloadCount": 30,
+			"_nFilesize": 468969,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "update 0.2",
+			"_sDownloadUrl": "https://gamebanana.com/dl/408347",
+			"_sFile": "green_knife_02.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1548415312
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"Green Knife": {
+						"maps": [
+							"ko_greenknife.bsp",
+							"ko_greenknife.nav",
+							"ko_greenknife.prt",
+							"ko_greenknife.vmf",
+							"ko_greenknife.vmx"
+						],
+						"materials": {
+							"correction": [
+								"cc_ko_greenknife.raw"
+							]
+						}
+					}
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 408351,
+			"_nDownloadCount": 26,
+			"_nFilesize": 470907,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "map source of 0.2 to edit it.",
+			"_sDownloadUrl": "https://gamebanana.com/dl/408351",
+			"_sFile": "source_02.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1548416000
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"Green Knife.vpk"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 408282,
+			"_nDownloadCount": 24,
+			"_nFilesize": 410130,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "Map file.",
+			"_sDownloadUrl": "https://gamebanana.com/dl/408282",
+			"_sFile": "green_knife.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1548350226
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"Green knife": {
+						"maps": [
+							"ko_greenknife.bsp",
+							"ko_greenknife.nav",
+							"ko_greenknife.prt",
+							"ko_greenknife.vmf",
+							"ko_greenknife.vmx"
+						],
+						"materials": {
+							"correction": [
+								"cc_ko_greenknife.raw"
+							]
+						}
+					}
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 408283,
+			"_nDownloadCount": 25,
+			"_nFilesize": 409372,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "Map source to edit it.",
+			"_sDownloadUrl": "https://gamebanana.com/dl/408283",
+			"_sFile": "source.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1548350412
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Optimization",
+					"text": "change most rocks to func_detail (and the ones in the skybox) to save some fps."
+				},
+				{
+					"cat": "Bugfix",
+					"text": "fixed the fact that you can jump on one of the rocks and see the part where the mountains end."
+				},
+				{
+					"cat": "Improvement",
+					"text": "added a new mountain."
+				},
+				{
+					"cat": "Improvement",
+					"text": "made the mountains look better (you can barely see it, but it's nice anyway.)"
+				},
+				{
+					"cat": "Improvement",
+					"text": "instead of 10 vs 10 (players/bots) i made it so you can do 20 vs 20 (players/bots.)"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Version 0.2",
+			"_tsDateAdded": 1548415198
+		}
+	],
+	"_idRow": 116222,
+	"_sName": "ko_greenknife",
+	"_sText": "My first map! Green knife is a  small \"knife only\" map (you can get a m249  on it with only 100 ammo.) hope you like it!<br><br>"
+}

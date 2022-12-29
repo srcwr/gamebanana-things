@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"dm_atf_dustbox.bsp",
+					"dm_atf_dustbox.nav"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 333462,
+			"_nDownloadCount": 1808,
+			"_nFilesize": 3546408,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/333462",
+			"_sFile": "dm_atf_dustbox_2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1237218782
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 117166,
+	"_sName": "dm_atf_dustbox",
+	"_sText": "A small and tight deathmatch map, themed in the Dust 2 style.\r\n\r\nThis is an incremented version of dm_dustbox.\r\n\r\nChanges:\r\n-------\r\n\r\n* Optimized the map, added hints, fades, etc.\r\n\t- Made a lot of changes to what the game believes is visible from any one place, and hence what it draws\r\n\t- Map should now perform much more stably as the server population increases\r\n\r\n* Add DD's on opposite sides of the map - Gives some nice additional gameplay\r\n\r\n* Removed the dustclouds (performance)\r\n\r\n* Extended / moved some walls inside (breaks centre up a bit, better performance)\r\n\r\n* Changed the small breakaway doors to classic Dust door shape\r\n\r\n* Added / moved several props, especially crates, to enable easier climbing\r\n\r\n* Removed a member's name, added 2 other members' names\r\n\r\n* Moved some names out of shadow\r\n\r\n* Func-brushed name brushes, to make them non-solid\r\n\r\n* Changed roof-dome props and moved palm-tree\r\n\r\n* Raised sand-level near corner platform, to enable easy entry\r\n\r\n* Added more cover on corner platform\r\n"
+}

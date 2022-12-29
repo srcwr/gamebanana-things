@@ -1,0 +1,71 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"README (Important info about file placement).txt",
+					"cs_compoil.bsp",
+					"cs_compoil.nav",
+					"cs_compoil.txt",
+					"cs_compoil.vmt",
+					"cs_compoil.vtf",
+					"cs_compoil_radar.vmt",
+					"cs_compoil_should_work.zip"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 476956,
+			"_nDownloadCount": 535,
+			"_nFilesize": 8937276,
+			"_sAnalysisResult": "Archive contains nested archive",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "By_Mr_Blodrok ver1.2",
+			"_sDownloadUrl": "https://gamebanana.com/dl/476956",
+			"_sFile": "cs_compoil.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1595918168
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Adjustment",
+					"text": "Env_light should work this time."
+				}
+			],
+			"_sText": "<img src=\"https://imgur.com/FNPXBuf\"><br>For some unknown reason \"light_env\" entity didnt work on someone's computer. This is first and hopefully last attempt to fix this issue.&nbsp;<br><a href=\"https://imgur.com/FNPXBuf\">https://imgur.com/FNPXBuf</a><br><br>Please leave a short review of this map and its bugs.<br>Cheers to Krezand for notifying me about the light problem.",
+			"_sTitle": "ver1.2 \"No env. light bug\"",
+			"_tsDateAdded": 1595918526
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Added functional radar"
+				},
+				{
+					"cat": "Tweak",
+					"text": "Corrected sizes of some door that had gaps."
+				},
+				{
+					"cat": "Tweak",
+					"text": "Minor texture changing"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added more props"
+				}
+			],
+			"_sText": "Update 1.1:<br>I finally figured out how to make a custom radar and I got one working in this map. The radar doesn't feel perfect (due to the white color without \"green screen\" effect.<br><br>I also noticed that some doors, including storage gates had gaps between them and walls. This is fixed now.",
+			"_sTitle": "cs_compoil_1.1 Minor fixes + radar",
+			"_tsDateAdded": 1595379361
+		}
+	],
+	"_idRow": 99726,
+	"_sName": "cs_compoil",
+	"_sText": "This is a Hostage Rescue map where hostages are located in THREE different areas. Terrorists are starting outside between all buildings, from where players in T side will decide where to go and what areas to cover.<br>Counter_terrorists stars from a bit far away area and will need to run a little before getting into hostile area. This is done to give Terrorists time to get in their positions.<br><br>"
+}

@@ -1,0 +1,27 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_escape_b1.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 300619,
+			"_nDownloadCount": 6942,
+			"_nFilesize": 12275134,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/300619",
+			"_sFile": "de_escape_b1.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1345684182
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 102269,
+	"_sName": "de_escape",
+	"_sText": "I know! I know! I know! First forest, now this! Honestly I am not trying to make a career out of revamping other peoples maps, I promise! Actually there is little comparison between this and forest... forest was a project that I took a long time over and went very deeply into the structure and editing. In contrast this project was much simpler and quicker.\r\n\r\nSo de escape? Well the original version of this map was made for VIP hostage mode and the last version of it went by the name as _escape _beta _v8. It was made by a guy called Skitz ([www.KrookedGaming.com](http://www.krookedgaming.com/ \"http://www.krookedgaming.com/\")) who is better know for his huge conributions to the VIA servers and server scripting generally. \r\n\r\nA friend who knew this map showed it to me and asked if I could make it possible to play again is CS:S either as a cs or de map. Looking at the structure I thought it could be quite fun as a de map. I contacted Skitz to ask him if he minded. I didn't know Skitz at all before this, but as it turned out he's a great guy and has been very involved with the conversion of his map. He gave me a lot of feedback and ideas and in the end this version of de escape comes to you with his blessing.\r\n\r\nConverting from one gameplay type to another is by no means guarenteed to work, in many cases it's discouraged, but that said there is no reason it cannot work either. I am concerned about balance in this map, we spent a lot of time discussing it, which is why we decided to put it out as a beta. If people like the map but it turns out to be too one sided then let me/us know and we can make the changes accordingly.\r\n\r\nLike I said I haven't made too many changes to this map. I obviously had to adapt the structure for bomb defuse gameplay, but other than that I have tried to keep the changes to a minimum and leave as much of Skitz's original work as possible. There is however one minor problem and that the console error:\r\n\r\n\"too many vertex formats in frame, whole world not rendered\"\r\n\r\nNow actually theres a lot of maps out there that have this (nightfever for example) and it doesnt interfere with gameplay. Normally I never release maps with console errors however, without going into complex details, this error is not caused by one thing within the map that can be fixed... its a general brushwork/texturing related error. The point is that I managed to reduce significantly the number of places where this error occurs, in fact now there is only one place in the whole playable area of the map where the error crops up, however if you go into free view and fly above the map you will see the error more.\r\n\r\nIf the error anoys you, type this in console:\r\n\r\ncon _filter _enable 1\r\n\r\ncon _filter _text _out \"Too many vertex format changes in framce, whole world not renedered\"\r\n\r\nThats about it, hope you like the map. A big thanks to Skitz for his feedback and help.\r\n\r\nk@rt"
+}

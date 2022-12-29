@@ -1,0 +1,55 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"maps": [
+						"he_jenga.bsp",
+						"he_jenga.res",
+						"he_jenga.txt"
+					],
+					"materials": {
+						"ukcs": [
+							"ukcs_decal.vmt",
+							"ukcs_decal.vtf"
+						]
+					},
+					"sound": {
+						"aliassounds": {
+							"GTA2": [
+								"Choctastic.wav",
+								"Expiditious.wav",
+								"Genocide.wav",
+								"KillFrenzy.wav",
+								"MedicalEmer.wav",
+								"Molotovs.wav",
+								"OohDidThatHurt.wav",
+								"RespectIs.wav",
+								"SomethingsCookin.wav",
+								"Wipeout.wav",
+								"YoureToastBuddy.wav"
+							]
+						}
+					}
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 348745,
+			"_nDownloadCount": 2109,
+			"_nFilesize": 1602294,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/348745",
+			"_sFile": "he_jenga.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1189429110
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 110761,
+	"_sName": "he_jenga",
+	"_sText": "This map is simply a HE arena with a jenga tower in the front. the blocks of the jenga tower can be destroyed by grenades or mass knifing it. All blocks are physboxes which make it collapse nice.\r\n\r\nThe map tested on ukcs before with about 30 players (see screen 3 for the result) and showed that even with the physboxes there was barely lag even though you had pretty much choke (most likely coused by low FPS).\r\n\r\nThis map supports 64 players but i suggest to use less to prevent heavy lag (also there are only about 55 grenades on the floor).\r\n\r\nThe sound effects are from GTA2.\r\n\r\nNote: I have placed the blocks a little bit apart because the FPS would drop massively if they were all placed to each other and now the tower collapses faster because blocks get damages easier."
+}

@@ -1,0 +1,89 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"de_italy_tactik_2009": {
+						"0": "Thumbs.db",
+						"1": "de_italy_tactik_20090000.jpg",
+						"2": "de_italy_tactik_20090001.jpg",
+						"3": "de_italy_tactik_20090002.jpg",
+						"4": "de_italy_tactik_20090003.jpg",
+						"5": "de_italy_tactik_20090004.jpg",
+						"6": "de_italy_tactik_20090005.jpg",
+						"7": "de_italy_tactik_20090006.jpg",
+						"8": "de_italy_tactik_20090007.jpg",
+						"cstrike": {
+							"maps": [
+								"de_italy_tactik_2009.bsp",
+								"de_italy_tactik_2009.nav",
+								"de_italy_tactik_2009.res"
+							],
+							"materials": {
+								"decals": {
+									"custom": {
+										"mani_admin_plugin": [
+											"deaglemassaigang.vmt",
+											"deaglemassaigang.vtf",
+											"dogtag_noobdown.vmt",
+											"dogtag_noobdown.vtf",
+											"duelctt.vmt",
+											"duelctt.vtf"
+										]
+									}
+								},
+								"overviews": [
+									"de_italy_tactik_2009.vmt",
+									"de_italy_tactik_2009.vtf"
+								],
+								"skybox": [
+									"miramarbk.vmt",
+									"miramarbk.vtf",
+									"miramardn.vmt",
+									"miramardn.vtf",
+									"miramarft.vmt",
+									"miramarft.vtf",
+									"miramarlf.vmt",
+									"miramarlf.vtf",
+									"miramarrt.vmt",
+									"miramarrt.vtf",
+									"miramarup.vmt",
+									"miramarup.vtf"
+								],
+								"vgui": {
+									"logos": [
+										"CSS_afterSource.vmt",
+										"CSS_afterSource.vtf",
+										"de_italy_tactik_2009.vmt",
+										"de_italy_tactik_2009.vtf"
+									]
+								}
+							},
+							"resource": {
+								"overviews": [
+									"de_italy_tactik_2009.txt"
+								]
+							}
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 328445,
+			"_nDownloadCount": 2652,
+			"_nFilesize": 8457251,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/328445",
+			"_sFile": "de_italy_tactik_2009.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1254004170
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 102785,
+	"_sName": "de_italy_tactik_2009",
+	"_sText": "Resumption of the map cs_italy_tactik, with some modification is passage in more skybox is new."
+}

@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"gg_cemetery_ggn.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 342482,
+			"_nDownloadCount": 1469,
+			"_nFilesize": 1086606,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/342482",
+			"_sFile": "gg_cemetery_ggn.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1208643162
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 134126,
+	"_sName": "gg_cemetery_ggn",
+	"_sText": "Second and final version of my cemetery map. Had many complaints about the darkness of the map and all the gravestone models causing lag for those with older computers. Also decided to not put a 3d skybox.. to be honest i dont like them except in a few cases. I also decided not to add ambient sound. The whole spooky theme went out the window when i brightened the map. heres whats been changed:\r\n\r\nMap Brightened.\r\nOutside fence replaced with wall.\r\n4 graves removed and replaced with larger \"family\" gravestone and one tunnel between the spawn points.\r\nReplaced all gravestone models with brushes.\r\nRemoved names on graves (lot of brushwork)\r\nRemoved reflection pools.\r\nAnd many others i cant think of right now.\r\n\r\nMy fellow GGNuts member Elliotuk gave me some help and personally helped to optimize the map.. nodraw, visleafs, func_details etc.. You'll notice a large improvement in FPS over the previous release. So thanks Elliotuk!"
+}

@@ -1,0 +1,79 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"zm_Chernobyl": [
+						"zm_Chernobyl_v3D.bsp",
+						"zm_Chernobyl_v3N.bsp",
+						"zm_Chernobyl_v3W.bsp"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 788572,
+			"_nDownloadCount": 351,
+			"_nFilesize": 232612448,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "zm_Chernobyl",
+			"_sDownloadUrl": "https://gamebanana.com/dl/788572",
+			"_sFile": "zm_chernobyl.7z",
+			"_sMd5Checksum": "00258eff8149183ef7f21ab0902cf89c",
+			"_tsDateAdded": 1650786550
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "New skybox"
+				},
+				{
+					"cat": "Addition",
+					"text": "New models"
+				},
+				{
+					"cat": "Addition",
+					"text": "New indoor spaces"
+				},
+				{
+					"cat": "Addition",
+					"text": "New lighting"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "v3.",
+			"_tsDateAdded": 1650786918
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "New textures"
+				},
+				{
+					"cat": "Addition",
+					"text": "New anomalies"
+				},
+				{
+					"cat": "Addition",
+					"text": "New indoor spaces"
+				},
+				{
+					"cat": "Addition",
+					"text": "Dynamic 3D skybox"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "v2",
+			"_tsDateAdded": 1627515236
+		}
+	],
+	"_idRow": 299012,
+	"_sName": "zm_Chernobyl",
+	"_sText": "The Chernobyl Nuclear Power Plant. Map has three versions: daytime, night and rainy. There are some dangerous anomalies and teleports."
+}

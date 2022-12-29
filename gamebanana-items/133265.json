@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"gg_redd_castlevania_v1.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 312414,
+			"_nDownloadCount": 1871,
+			"_nFilesize": 1691736,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/312414",
+			"_sFile": "_5177-.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1305746426
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 133265,
+	"_sName": "Castlevania Theme Map",
+	"_sText": "This map has been in the works for a while.  It uses a new spawn placement scheme (vertical difference vs. opposing sides) which makes play a bit more vertically oriented.\r\n\r\nThis map also makes extensive use of func_detail brushes to speed up high-quality vis rendering.  This map rendered in 'normal' vis in under 30 seconds because of the optimizations I've made.\r\n\r\nIt may be required that qubemaps be built using 'buildcubemaps' in the console, but I am pretty sure I got em working already, I'm kinda new to getting bumpmaps and cubemaps to actually work properly.\r\n\r\nAll in all, I designed this map to run fast, with plenty of players."
+}

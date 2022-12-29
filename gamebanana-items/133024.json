@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"zm_vehiclecenter_b3.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 329225,
+			"_nDownloadCount": 1502,
+			"_nFilesize": 3542673,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/329225",
+			"_sFile": "zm_vehiclecenter_b3.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1251541837
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 133024,
+	"_sName": "zm_vehiclecenter_b3",
+	"_sText": "Well. Not much I want to write about, but I think it has huge improvements over the previous version (zm_vehicelecnter_b2).\r\n\r\nMainly theres only minor changes to the map when it comes to new areas. I have used all the thinking for improving and twaking existing areas just because the map was large enought already.\r\n\r\nIt has some new stuff such as:\r\n\r\n - Smoke turrets @ the pipes\r\n\r\n - More small stuff to find/figure out\r\n\r\n - Tweaked spots\r\n\r\n - More realistic enviroment (now it also has 3D skybox)\r\n\r\n - New/tweaked details\r\n\r\nwell it has much more than those, but im not in the mood (morning >:f) to list out stuff. Its while a go I actually did the map, but now I polished final things and going to finally publish this new version..\r\n\r\n\r\n\r\n\r\nEDIT 01.09.2009:\r\n\r\n\r\nSome stuff I wanted to list before, but FPSB Edit page was broken etc.\r\nSo heres some thats in my mind atm:\r\n\r\n - Radar minimap\r\n\r\n - Reduced graveyard penaltytime\r\n\r\n - If stucked when teleported from graveyard, you will be automatically killed after a while.\r\n(Just to prevent situations where 2 humans are stuck and zombies cant do nothing. Stucking can be avoided by not standing besides your teammate at the graveyard.)\r\n\r\n - Made human defensive breakables/barricades unbreakable by humas\r\n(only zombies can break them, this was a major issue with the security barricade at the helpdesk)\r\n\r\n - Reduced the helpdesk hitpoints due to the change above\r\n\r\n - Made a escape tunnel at the helpdesk, so humans can get out of there if they  want\r\n\r\n - Made a escape tunnel out of office\r\n\r\n - Made the tires at the parking lot harder to defence: easier to jump in\r\n\r\n - Changed the position of the tires, so theres no direct view to spawn points\r\n(With respawn this was sometimes too much for the zombies)\r\n\r\n - Lift cannot be blocked/stucked any way\r\n\r\n - Made the storage hall higher and added spot at the ceiling level\r\n(screenshot)\r\n\r\n - Added lights at the pipes in the bottom spots where you cant see directly above\r\n(These lights will be turned on only when theres some one camping, the lights will just tell that some one is right now there. So you \r\n\r\ndont have to go all the way down to check it out.)\r\n\r\n\r\nAnd no this is not a full list. Just what popped in my mind right now and I'm not listing all the changes anyway. :P\r\n\r\n\r\nSo hope u guys have fun with it. o_O"
+}

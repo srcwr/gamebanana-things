@@ -1,0 +1,32 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"cs_gentech_final.bsp",
+					"cs_gentech_final.nav",
+					"cs_gentech_final.txt",
+					"gg_gentech_final.bsp",
+					"gg_gentech_final.nav",
+					"gg_gentech_final.txt"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 352988,
+			"_nDownloadCount": 4259,
+			"_nFilesize": 7043391,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/352988",
+			"_sFile": "dru_gentech_final.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1173065097
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 99933,
+	"_sName": "cs_gentech_final",
+	"_sText": "Here's the final version of my map, originally called \"cs_atlas\". I'm calling it 'final' because I'm trying to move on to other projects...\r\n\r\nThe map was made with lower-end computers in mind, so some of the geometry and prop placement is a bit sparse, and there is no HDR support.\r\n\r\nThere are a total of 40 spawnpoints in the map, to help support servers with higher player counts. However, it seems to play best with around 16 players. \r\n\r\nI also included a version of the map with no buyzones or hostages, suitable for GG or CSDM. \r\n\r\nEnjoy!\r\n\r\n\r\n**EDIT** \r\nI had to fix an issue with some of the physics objects in the map. I've renamed the updated map \"cs_gentech_final\"."
+}

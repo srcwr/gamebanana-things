@@ -1,0 +1,53 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "de_simpsons_mini.txt",
+					"1": "de_simpsons_mini.vmf",
+					"maps": [
+						"de_simpsons_mini.bsp",
+						"de_simpsons_mini.res"
+					],
+					"materials": {
+						"skybox": [
+							"simpsons_hdrbk.vtf",
+							"simpsons_hdrdn.vtf",
+							"simpsons_hdrft.vtf",
+							"simpsons_hdrlf.vtf",
+							"simpsons_hdrrt.vtf",
+							"simpsons_hdrup.vtf",
+							"simpsonsbk.vtf",
+							"simpsonsdn.vtf",
+							"simpsonsft.vtf",
+							"simpsonslf.vtf",
+							"simpsonsrt.vtf",
+							"simpsonsup.vtf"
+						]
+					},
+					"sound": {
+						"misc": [
+							"simp.wav"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 359139,
+			"_nDownloadCount": 6052,
+			"_nFilesize": 5182983,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/359139",
+			"_sFile": "de_simpsons_mini.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1137034340
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 103977,
+	"_sName": "de_simpsons_mini",
+	"_sText": "Forgot the res file again\r\nif you dont want to download it again for the res\r\nhttp://www.freewebs.com/choggi/de_simpsons_mini.res.zip\r\n\r\nCreated by James Isaac\r\n-- http://www.dotagame.com/\r\n-- james_isaac@yahoo.com\r\n\r\nJames was making this map but stopped when i released de_simpsons_css.\r\nhe said i could have a go. i think its about finished, so i did a bit of optimization.\r\nmore spawnpoints 12 seems a bit small\r\na few minor touchups"
+}

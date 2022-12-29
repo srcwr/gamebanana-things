@@ -1,0 +1,30 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ka_soccer2007_v3a.bsp",
+					"ka_soccer2007_v3a.txt",
+					"readme.txt"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 350851,
+			"_nDownloadCount": 7232,
+			"_nFilesize": 7669899,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/350851",
+			"_sFile": "ka_soccer2007_v3a.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1182081729
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 110449,
+	"_sName": "ka_soccer2007_v3",
+	"_sText": "<p style=\"color: YELLOW; font-size: large; text-align: center;\">Changes made since V2</p><p style=\"color: WHITE; font-size: small; text-align:left;\"><ul><li>Changed sunlight so that no shadow is cast over the pitch. Sunlight is now directly down. (Midday).</li><li>Changed \"Matt_\" credit from \"func_physbox\" to \"func_detail\" to stop it being brought onto the pitch.</li><li>Made pitch flat for the ball. Ball no longer gets effected by the pitch line paint. The lines are now \"func_illusionary\" entities and are non-solid to the player and the ball.</li><li>Fixed goal glitch where when used on some soccer mods, a goal could be scored by hitting the ball onto the top of the net.</li><li>Added \"ka_\" prefix to map name in order for the map to be more easily found in the server browser.</li></ul></p>\r\n\r\n<hr />Thnx to .:|GGA|:. Clan for testing the map for bugs, glitches, and needed fixes.\r\n\r\nInspired by Lolobubu's ka_soccer_2006<hr>"
+}

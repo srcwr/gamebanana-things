@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"Readme.txt",
+					"mg_hellz_multigame_2012_fix.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 305231,
+			"_nDownloadCount": 6887,
+			"_nFilesize": 42260940,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/305231",
+			"_sFile": "mg_hellz_multigame_2012_fix_2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1328735540
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 128087,
+	"_sName": "mg_hellz_multigame_2012_fix",
+	"_sText": "MAKE SURE phys_timescale 1 IS IN YOUR SERVER.CFG BEFORE ADDING THIS MAP\r\n<br>\r\n<br>mg_hellz_mutltigame now fixed, fixes are:\r\n<br>\r\n<br>Star wars lazers map is now playable.\r\n<br>\r\n<br>Made bhop platforms not go down (Fixed by Changed)\r\n<br>\r\n<br>Bug where you get stuck on cannon is fixed.\r\n<br>\r\n<br>Lazers in slide race are fixed.\r\n<br>\r\n<br>Shortened the timer for the conveyor belt level.\r\n<br>\r\n<br>Added command mp_flashlight 0 so people wont have to worry about flashlight bugs.\r\n<br>\r\n<br>Fixed ladder bug.\r\n<br><br>Installation:\r\n<br>\r\n<br>Copy mg_hellz_multigame_2012_fix.bsp in directory cstrike/maps.\r\n<br><br>All credits go to Pho3nix for making this map in the first place."
+}

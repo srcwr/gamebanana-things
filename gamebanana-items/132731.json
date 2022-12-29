@@ -1,0 +1,201 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "Readme.txt",
+					"1": "zm_rwanda.dem",
+					"DownloadLists": [
+						"zm_rwanda.lst"
+					],
+					"maps": [
+						"zm_rwanda.bsp",
+						"zm_rwanda.res"
+					],
+					"materials": {
+						"kahega": [
+							"Thumbs.db",
+							"awning.vmt",
+							"awning.vtf",
+							"hutu.vmt",
+							"hutu.vtf",
+							"mapby_usmc-kahega.vmt",
+							"mapby_usmc-kahega.vtf",
+							"tutsi.vmt",
+							"tutsi.vtf"
+						],
+						"models": {
+							"0": "Thumbs.db",
+							"ill_hanger": {
+								"vehicles": [
+									"btr8cal.vmt",
+									"btr8cal.vtf",
+									"btr8chas.vmt",
+									"btr8chas.vtf",
+									"btr8lite.vmt",
+									"btr8lite.vtf",
+									"btr8whl.vmt",
+									"btr8whl.vtf",
+									"mh53fuse.vmt",
+									"mh53fuse.vtf",
+									"mh53glas.vmt",
+									"mh53glas.vtf",
+									"mh53int.vmt",
+									"mh53int.vtf",
+									"mh53whl.vmt",
+									"mh53whl.vtf",
+									"ts.vmt",
+									"ts.vtf"
+								]
+							},
+							"props": {
+								"slow": {
+									"bananatree": [
+										"banana_tree_stem.vmt",
+										"banana_tree_stem.vtf",
+										"banana_tree_tex_02.vmt",
+										"banana_tree_tex_02.vtf",
+										"banana_tree_tex_03.vmt",
+										"banana_tree_tex_03.vtf",
+										"slow_blatt1.vtf",
+										"slow_blatt2.vtf",
+										"slow_stamm.vtf"
+									]
+								}
+							},
+							"vehicles": {
+								"0": "lada.vmt",
+								"1": "lada.vtf",
+								"10": "lada_windows.vtf",
+								"11": "lada_windows_env.vtf",
+								"12": "mercedes190_mesh.vmt",
+								"13": "mercedes190_mesh.vtf",
+								"14": "mercedes190_mesh2.vmt",
+								"15": "mercedes190_mesh2.vtf",
+								"16": "mercedes190_mesh_damaged.vmt",
+								"17": "mercedes190_mesh_damaged.vtf",
+								"18": "mercedes190_mesh_env.vtf",
+								"2": "lada_burnout.vmt",
+								"3": "lada_burnout.vtf",
+								"4": "lada_env.vtf",
+								"5": "lada_red.vmt",
+								"6": "lada_red.vtf",
+								"7": "lada_taxi.vmt",
+								"8": "lada_taxi.vtf",
+								"9": "lada_windows.vmt",
+								"nissan": [
+									"glass.vmt",
+									"glass.vtf",
+									"green.vmt",
+									"green.vtf"
+								]
+							}
+						}
+					},
+					"models": {
+						"ill_hanger": {
+							"vehicles": [
+								"btr8.dx80.vtx",
+								"btr8.dx90.vtx",
+								"btr8.mdl",
+								"btr8.phy",
+								"btr8.sw.vtx",
+								"btr8.vvd",
+								"h53_fuse.dx80.vtx",
+								"h53_fuse.dx90.vtx",
+								"h53_fuse.mdl",
+								"h53_fuse.phy",
+								"h53_fuse.sw.vtx",
+								"h53_fuse.vvd",
+								"h53_int.dx80.vtx",
+								"h53_int.dx90.vtx",
+								"h53_int.mdl",
+								"h53_int.phy",
+								"h53_int.sw.vtx",
+								"h53_int.vvd",
+								"h53_rotor.dx80.vtx",
+								"h53_rotor.dx90.vtx",
+								"h53_rotor.mdl",
+								"h53_rotor.phy",
+								"h53_rotor.sw.vtx",
+								"h53_rotor.vvd"
+							]
+						},
+						"props": {
+							"slow": {
+								"bananatree": [
+									"bananatree.dx80.vtx",
+									"bananatree.dx90.vtx",
+									"bananatree.mdl",
+									"bananatree.phy",
+									"bananatree.sw.vtx",
+									"bananatree.vvd",
+									"bananatree.xbox.vtx"
+								]
+							}
+						},
+						"vehicles": [
+							"civ_lada.dx80.vtx",
+							"civ_lada.dx90.vtx",
+							"civ_lada.jpg",
+							"civ_lada.mdl",
+							"civ_lada.phy",
+							"civ_lada.sw.vtx",
+							"civ_lada.vvd",
+							"civ_lada_damaged.dx80.vtx",
+							"civ_lada_damaged.dx90.vtx",
+							"civ_lada_damaged.jpg",
+							"civ_lada_damaged.mdl",
+							"civ_lada_damaged.phy",
+							"civ_lada_damaged.sw.vtx",
+							"civ_lada_damaged.vvd",
+							"civ_mercedes.dx80.vtx",
+							"civ_mercedes.dx90.vtx",
+							"civ_mercedes.mdl",
+							"civ_mercedes.phy",
+							"civ_mercedes.sw.vtx",
+							"civ_mercedes.vvd",
+							"civ_mercedes_damaged.dx80.vtx",
+							"civ_mercedes_damaged.dx90.vtx",
+							"civ_mercedes_damaged.mdl",
+							"civ_mercedes_damaged.phy",
+							"civ_mercedes_damaged.sw.vtx",
+							"civ_mercedes_damaged.vvd",
+							"civ_pickup.dx80.vtx",
+							"civ_pickup.dx90.vtx",
+							"civ_pickup.mdl",
+							"civ_pickup.phy",
+							"civ_pickup.sw.vtx",
+							"civ_pickup.vvd"
+						]
+					},
+					"sound": {
+						"kahega": [
+							"kweli_tutaweza.wav",
+							"pickup_move.wav",
+							"rocket_congo.wav",
+							"truck_crash.wav"
+						]
+					}
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 348695,
+			"_nDownloadCount": 1319,
+			"_nFilesize": 13659751,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/348695",
+			"_sFile": "zm_rwanda_2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1189551033
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 132731,
+	"_sName": "zm_rwanda",
+	"_sText": "This is the map zm_rwanda for CSS in conjunction with the Zombie Mod.\r\nIt is modeled after the border between Rwanda and the DRC, also it has\r\nsome input from the movie Congo.  Basically, all people start out in\r\nan urban area, a market in particular.  Nearby, there is a biochemical\r\nbomb the humans must arm so that the zombies will all die once the\r\nhumans have escaped.  Many modes of transportation exist on the map,\r\nthere is a convoy of two trucks, an H53 helicopter and a raft.\r\nThere are many options on this map.  First, players can chose to not\r\narm the bomb and try to barricade themselves in buildings nearby.  \r\nSecond, the players can ride the trucks, or walk, to the border\r\nwhere they will be stopped, so a rescue helicopter is sent.  \r\nThen, another crossroad arrives.  Players can chose to wait for the\r\nhelicopter which will take them directly to the safe\r\nisland, or they can break the fence at the border, jump back\r\nin the trucks and when near the cab of the truck, press use.\r\nThen, the trucks will run the border (occassional bug - trucks\r\nget stuck with the Congolese border guard truck, jump \r\nor exit the trucks to stop, don't worry, very uncommon).  After,\r\nthe trucks will stop at the water where the humans must take a raft\r\nto the island.  \r\nDemo of the map included in the zip, playing instructions in the readme."
+}

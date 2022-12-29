@@ -1,0 +1,84 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "readme.txt",
+					"maps": [
+						"de_snow_v2.bsp",
+						"de_snow_v2.nav",
+						"de_snow_v2.txt"
+					],
+					"materials": {
+						"Marshall": [
+							"de_snow_brickwall1.vmt",
+							"de_snow_brickwall1.vtf",
+							"de_snow_brickwall2.vmt",
+							"de_snow_brickwall2.vtf",
+							"de_snow_brickwall2_normal.vtf",
+							"de_snow_concwall1.vmt",
+							"de_snow_concwall1.vtf",
+							"de_snow_concwall2.vmt",
+							"de_snow_concwall2.vtf",
+							"de_snow_concwall3.vmt",
+							"de_snow_concwall3.vtf",
+							"de_snow_concwall4.vmt",
+							"de_snow_concwall4.vtf",
+							"de_snow_concwall5.vmt",
+							"de_snow_concwall5.vtf",
+							"de_snow_curb1.vmt",
+							"de_snow_curb1.vtf",
+							"de_snow_curb1_normal.vtf",
+							"de_snow_metaltrim1.vmt",
+							"de_snow_metaltrim1.vtf",
+							"de_snow_metalwall1.vmt",
+							"de_snow_metalwall1.vtf",
+							"de_snow_metalwall10.vmt",
+							"de_snow_metalwall10.vtf",
+							"de_snow_metalwall2.vmt",
+							"de_snow_metalwall2.vtf",
+							"de_snow_metalwall3.vmt",
+							"de_snow_metalwall3.vtf",
+							"de_snow_metalwall4.vmt",
+							"de_snow_metalwall4.vtf",
+							"de_snow_metalwall5.vmt",
+							"de_snow_metalwall5.vtf",
+							"de_snow_metalwall6.vmt",
+							"de_snow_metalwall6.vtf",
+							"de_snow_metalwall7.vmt",
+							"de_snow_metalwall7.vtf",
+							"de_snow_metalwall8.vmt",
+							"de_snow_metalwall8.vtf",
+							"de_snow_metalwall9.vmt",
+							"de_snow_metalwall9.vtf",
+							"de_snow_road1.vmt",
+							"de_snow_road1.vtf",
+							"de_snow_road1_normal.vtf",
+							"de_snow_road2.vmt",
+							"de_snow_road2.vtf",
+							"de_snow_road2_normal.vtf",
+							"de_snow_trim1.vmt",
+							"de_snow_trim1.vtf"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 356913,
+			"_nDownloadCount": 3641,
+			"_nFilesize": 8987766,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/356913",
+			"_sFile": "de_snow_v2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1155364252
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 104043,
+	"_sName": "de_snow_v2",
+	"_sText": "Map: de_snow_v2\r\n\r\nVersion 2 changes:\r\n-Re-compiled with updated SDK tools (to run on linux servers)\r\n-Fixed lighting inside office building\r\n-Removed improperly placed physics object\r\n-Fixed alignment of brush on part of the road\r\n\r\n\r\nCREDITS:\r\n\r\nAuthor:\r\nKeith M. Stephens - {MOUF}MarshaLL\r\nemail: mrsksteph@sbcglobal.net\r\n\r\nThis map is in a testing phase.\r\nPlease provide feedback on the {MOUF} Community forums at http://s2.invisionfree.com/mouf or by email.\r\n\r\n\r\n\r\n"
+}

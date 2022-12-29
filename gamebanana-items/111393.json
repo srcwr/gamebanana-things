@@ -1,0 +1,41 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "install.txt",
+					"maps": [
+						"fy_assault.bsp",
+						"fy_assault.res",
+						"fy_assault.txt"
+					],
+					"materials": {
+						"vgui": {
+							"maps": [
+								"menu_thumb_fy_assault.vmt",
+								"menu_thumb_fy_assault.vtf"
+							]
+						}
+					}
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 320213,
+			"_nDownloadCount": 3828,
+			"_nFilesize": 3274097,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/320213",
+			"_sFile": "fy_assault_-_final_release_3.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1281908830
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 111393,
+	"_sName": "fy_assault",
+	"_sText": "<br />\r\nThis is the third custom map I ever released, and the second map for Counter Strike.<br />\r\nIt was my first attempt on recreating a setting that has been used in an original map, and seeing how I always liked assaults setting and even the unique gameplay (read: camping), I preferred it over a nuke-themed map.<br />\r\nEven though the outside scenery reminds me more of GTA than of Counter Strike I am overall pretty content with the result.<br />\r\n<br />\r\n<br />\r\nThe total time spent working on the project was two weeks in November 2008 and later roughly half a week in August 2010, during which I completely rebuilt CT spawn and optimized the map overall. It used to be 11MB, now it's 4.<br />\r\n<br />\r\n<br />\r\nI tried balancing the map out in a way that made it fun for all kinds of players. It features long range, mid range and short range rush combat with weapons all over the place - there are even pistols in the spawn rooms, so it should be fun for a whole while. Moreover, there are so many spots that can only be reached through jumping on the crates and money stashes which adds some more layers to the gameplay overall.<br />\r\n<br />\r\nI hope you like it! Have fun.<br />\r\n<br />\r\n<br />\r\n<b>Update August 17th:</b><br />\r\n o Constrained all weapons so the map won't lag when launching on a low-end computer<br />\r\n o Fixed missing radar files<br />\r\n o Repositioned some grenades<br />\r\n o Fixed weapons missing ammo<br />\r\n o Resolved clipping issues<br />\r\n o Minor fixes regarding graffiti<br />\r\n o Minor optimizations<br />\r\n<br />\r\n[b]Update August 17th:[/b]<br />\r\n o Added promo video<br />\r\n<br />\r\n[b]Update August 19th:[/b]<br />\r\n o Fixed some typos<br />\r\n o Fixed Credits room<br />\r\n o Removed env_sun<br />\r\n o Changed sky so it fits the skybox more<br />\r\n o Modified Soundscapes<br />\r\n<br />"
+}

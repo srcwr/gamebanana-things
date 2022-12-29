@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ft_amazing.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 335739,
+			"_nDownloadCount": 1068,
+			"_nFilesize": 374625,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/335739",
+			"_sFile": "ft_amazing_2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1230555215
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 120519,
+	"_sName": "ft_amazing",
+	"_sText": "\r\n\r\nmaterialPath: c:\\program files\\steam\\steamapps\\diedman\\counter-strike source\\cstrike\\materials\r\nLoading C:\\Users\\Jonas\\Desktop\\css maps\\ft_amazing.vmf\r\nfixing up env_cubemap materials on brush sides...\r\n0...1...2...3...4...5...6...7...8...9...10**** leaked ****\r\nEntity info_teleport_destination (160.03 -163.99 1281.00) leaked!\r\n\r\nFindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1024.0, 512.0, -104.0)\r\nLeaf 0 contents: CONTENTS_SOLID \r\nLeaf 1 contents: \r\nviscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID \r\nThis means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID \r\nCheck for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID \r\nCandidate brush IDs: \r\n\r\n\r\nFindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1024.0, 96.0, 352.0)\r\nLeaf 0 contents: CONTENTS_SOLID \r\nLeaf 1 contents: \r\nviscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID \r\nThis means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID \r\nCheck for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID \r\nCandidate brush IDs: \r\n\r\n\r\nFindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1024.0, 64.0, 928.0)\r\nLeaf 0 contents: CONTENTS_SOLID \r\nLeaf 1 contents: \r\nviscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID \r\nThis means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID \r\nCheck for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID \r\nCandidate brush IDs: \r\n\r\n\r\nFindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1024.0, 64.0, 1184.0)\r\nLeaf 0 contents: CONTENTS_SOLID \r\nLeaf 1 contents: \r\nviscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID \r\nThis means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID \r\nCheck for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID \r\nCandidate brush IDs: \r\n\r\n\r\nFindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1024.0, 64.0, 1344.0)\r\nLeaf 0 contents: CONTENTS_SOLID \r\nLeaf 1 contents: \r\nviscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID \r\nThis means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID \r\nCheck for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID "
+}

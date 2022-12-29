@@ -1,0 +1,40 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrike": {
+						"0": "README.txt",
+						"1": "map.jpg",
+						"cfg": [
+							"addbot.cfg",
+							"db_bot.cfg",
+							"turnoff.cfg"
+						],
+						"maps": [
+							"db_bot.bsp",
+							"db_bot.nav"
+						]
+					}
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 335606,
+			"_nDownloadCount": 1653,
+			"_nFilesize": 311611,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/335606",
+			"_sFile": "db_bot.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1230907814
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 120407,
+	"_sName": "db_bot",
+	"_sText": "This is a fun map i created after we did something similar in cs_office. The problem was every on just ran the bots in circles in the open part in the front. So i made this map to remove that and also to make it more difficult to camp when there is no place where you can't get flanked.\r\n\r\n\r\nInstall: Copy the files to the folders needed. The cfg file is a extra added to make it easy.\r\n\r\nUse: Type 'exec db_bot' in console. This will change the map and set up the bots for you. If you need to add the bots or more bots type 'exec addbot'. You can add things that need to be turned off beforehand to the turnoff.cfg. I have rpg in it all ready.\r\n\r\nExtra: i Suggest having some fun mods and if you have beetles mod i would suggest having RTD on.\r\n\r\nCome join us when we play. Add   98.243.109.82:27015   to your favorites and play with us when it's on."
+}

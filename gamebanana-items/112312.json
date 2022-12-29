@@ -1,0 +1,89 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"fy_easter": {
+						"maps": [
+							"fy_easter.bsp",
+							"fy_easter.nav",
+							"fy_easter.txt"
+						],
+						"materials": {
+							"fy_easter": [
+								"grass01.vmt",
+								"grass01.vtf",
+								"rock01.vmt",
+								"rock01.vtf"
+							],
+							"models": {
+								"fy_easter": {
+									"easterhat01": [
+										"easterhat01.vmt",
+										"easterhat01.vtf"
+									],
+									"easterstatue01": [
+										"easterstatue01.vmt",
+										"easterstatue01.vtf"
+									],
+									"easterstone01": [
+										"easterstone01.vmt",
+										"easterstone01.vtf"
+									]
+								}
+							}
+						},
+						"models": {
+							"fy_easter": {
+								"easterhat01": [
+									"easterhat01.dx80.vtx",
+									"easterhat01.dx90.vtx",
+									"easterhat01.mdl",
+									"easterhat01.phy",
+									"easterhat01.sw.vtx",
+									"easterhat01.vvd",
+									"easterhat01.xbox.vtx"
+								],
+								"easterstatue01": [
+									"easterstatue01.dx80.vtx",
+									"easterstatue01.dx90.vtx",
+									"easterstatue01.mdl",
+									"easterstatue01.phy",
+									"easterstatue01.sw.vtx",
+									"easterstatue01.vvd",
+									"easterstatue01.xbox.vtx"
+								],
+								"easterstone01": [
+									"easterstone01.dx80.vtx",
+									"easterstone01.dx90.vtx",
+									"easterstone01.mdl",
+									"easterstone01.phy",
+									"easterstone01.sw.vtx",
+									"easterstone01.vvd",
+									"easterstone01.xbox.vtx"
+								]
+							}
+						}
+					}
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 328412,
+			"_nDownloadCount": 1693,
+			"_nFilesize": 3319367,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/328412",
+			"_sFile": "fy_easter.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1254095090
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 112312,
+	"_sName": "fy_easter",
+	"_sText": "fy_easter\r\ncreated by: [POD]ILL bot (0)\r\n28.09.09\r\n\r\nMAX PLAYERS: 24\r\n\r\nHAVE FUN !!!"
+}

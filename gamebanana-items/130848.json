@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ze_LOTR_Helms_Deep_v5.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 330288,
+			"_nDownloadCount": 15071,
+			"_nFilesize": 11923496,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/330288",
+			"_sFile": "ze_lotr_helms_deep_v5.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1248345452
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 130848,
+	"_sName": "ze_LOTR_Helms_Deep_v5",
+	"_sText": "UPDATES V5\r\n- All bugs fixed (knife boosting, crash ladders)\r\n- Few things improved.\r\n- V5 = FINAL version\r\n\r\nUPDATES V4_1\r\n- Torch works now\r\n- Force zombie spawn from 5 to 10 seconds\r\n\r\nUPDATES V4\r\n- FIXED FOR NEW ENGINE(cs source update) (the torch works now)\r\n- Balance: battering ram is more powerful\r\n- Balance: barricades at castle are more effective\r\n- Force zombie spawn from 5 to 15 seconds.\r\n- New explosion effect (by source engine 2009)\r\n\r\nUPDATES V3\r\n- Minor bug fix: last charge obstruct coz the gate tables\r\n- Bug exploit (boost zombies to the secret passage at castle) fixed.\r\n- New way between two of the spawn zones.\r\n- Battering ram is more powerful.\r\n\r\nResume video:\r\n<object width=\"300\" height=\"250\"><param name=\"movie\" value=\"http://www.youtube.com/v/BahZFg-ZwUU&hl=es&fs=1&\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://www.youtube.com/v/BahZFg-ZwUU&hl=es&fs=1&\" type=\"application/x-shockwave-flash\" allowscriptaccess=\"always\" allowfullscreen=\"true\" width=\"300\" height=\"300\"></embed></object>\r\n\r\nUPDATES V3_2\r\n- Bug fix (people getting in mountains, invisible prop at charge, stuck, etc).\r\n- Final hall with static barrier.\r\n- Less defending time at forth (40s no 50s)\r\n- Small barricade near the small door of forth.\r\n- The shiny points (of the retreat) will appear only when the fort doors are open.\r\n- The gate will be break easily with the battering ram.\r\n- No teleport zone at last charge.\r\n\r\n\r\nUPDATES V3_1\r\n- Balance adjustments\r\n- No crash problem\r\n- Bugs fix\r\n\r\nUPDATES V2_3L\r\n- A lot of adjustments (balance problems)\r\n- Optimization\r\n- Crash problem\r\n- Zombie block problem (server with 25 s of zombie spawn)\r\n\r\n\r\nWARNING: this map is ready for :\r\n- Servers with 1º zombify time between 0 and 25 s (more than 25 will generate weird and bad rounds).\r\n- Servers without unlimited ammo (the ladders will break sooner, much more easy)\r\n- Servers no block.\r\n\r\n\r\n\r\nLOTR scenery------\r\nFangorn and Helms Deep outdoors.\r\n\r\nHistory------------\r\nSame as the film, humans must reach Helms Deep and fight against the orcs and their weapons and items.\r\n\r\nHow to win (as human)---------\r\nEscape from Fangorn forest, reach the Helms Deep, defend at the walls or at the main door as much as you can; if the main door breaks, people at wall must retrieve to the fort, if zombies pass the wall, the main door will break in 40s; before one of these events, CT must defend the first level during 30 s before get in the fort (2º level), where they need to defend during 40s; after this,they must go into the hall, defend during 20 s, and then charge against the zombies to escape from Helms Deep.\r\n\r\nHow to win (as zombie)--------\r\nWhen night falls, you can attack the wall or the door:\r\n- The main door: you can break it with knife, and try to get in, or wait until the ram to break the door easily (you need to stay near the ram to move it). At more than 1:30 minutes, you can use the huge stair to get at the fort.\r\n- The walls: siege the walls; use the stairs to climb the wall and try to kill CT; at more than 1:30 minutes, you can catch the torch, and explode the wall.\r\n\r\nSpecial features-----------\r\n· Day and night fight.\r\n· Zombies have 500 hp regen every 10 s (they are zombie Uruk-Hai ).\r\n· AFK and people out of Helms Deep will be forced to be zombies.\r\n· The torch will expire in 25s; then will appear another torch.\r\n· The ladders are breakable, you can pull the ladders.\r\n· Optional barricade: some static barricades can be activated with +use button.\r\n· LOTR scenes:\r\n- Aragorn and Gimli: jump as human to the bridge and pull the zombies.\r\n- Legolas shoot: the only way to pull the huge stair, is shooting at the rope, you have 0.5 s to shoot a little point.\r\n- Final charge: you must follow the shiny path to push away the zombies.\r\n· 2 secret items."
+}

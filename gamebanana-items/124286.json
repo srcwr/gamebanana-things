@@ -1,0 +1,70 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"maps": [
+						"sg_tetris.bsp",
+						"sg_tetris.res",
+						"sg_tetris.txt"
+					],
+					"materials": {
+						"alias": {
+							"tetristextures": [
+								"black.vmt",
+								"black.vtf",
+								"blockblue.vmt",
+								"blockblue.vtf",
+								"blockdarkgray.vmt",
+								"blockdarkgray.vtf",
+								"blockgray.vmt",
+								"blockgray.vtf",
+								"blockgreen.vmt",
+								"blockgreen.vtf",
+								"blockpurple.vmt",
+								"blockpurple.vtf",
+								"blockred.vmt",
+								"blockred.vtf",
+								"blockyellow.vmt",
+								"blockyellow.vtf",
+								"bombsiteblue.vmt",
+								"bombsiteblue.vtf",
+								"bombsitegreen.vmt",
+								"bombsitegreen.vtf",
+								"bombsitered.vmt",
+								"bombsitered.vtf",
+								"bombsiteyellow.vmt",
+								"bombsiteyellow.vtf",
+								"gridblue.vmt",
+								"gridblue.vtf",
+								"gridgreen.vmt",
+								"gridgreen.vtf",
+								"gridred.vmt",
+								"gridred.vtf",
+								"gridyellow.vmt",
+								"gridyellow.vtf"
+							]
+						}
+					}
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 348300,
+			"_nDownloadCount": 2825,
+			"_nFilesize": 277831,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/348300",
+			"_sFile": "sg_tetris.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1191005516
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 124286,
+	"_sName": "sg_tetris",
+	"_sText": "A map based on the game tetris. In this map the T's start at the top of the map and have to go down to the bombsites and plant. The CTs have to defend them. all colored and white blocks are destructable (some are stronger than others).\r\n\r\nEveryone starts with an m3 however the Ts have some grenades and autoshotguns which they can also take from the ground.\r\n\r\nThe marked blocks can be made to move by using E (some of them are only once)"
+}

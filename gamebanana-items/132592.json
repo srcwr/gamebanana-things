@@ -1,0 +1,35 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrike": {
+						"0": "readme.txt",
+						"maps": [
+							"zm_plagueground.bsp",
+							"zm_plagueground.nav",
+							"zm_plagueground.txt"
+						]
+					}
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 354442,
+			"_nDownloadCount": 1527,
+			"_nFilesize": 14140674,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/354442",
+			"_sFile": "zm_plagueground.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1166014143
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 132592,
+	"_sName": "zm_plagueground",
+	"_sText": "This was quick map for a map contest. Tons of custom models and textures.  I based the design on the mod type, lots of ways to block passages and change the game play. The trees look a little funky, but I needed some fuller than the standard models or other trees I created before. Since I am at the deadline, there is one problem there is custom pallet that is missing it's gib pieces due to a bspzip malfunction and did not have enough time to make an overview. Bots play very well, custom tuned nav mesh w/ nameplaces. There is a buy zone for the t's so the map plays as expect on regular CS:S. Comments are welcome."
+}

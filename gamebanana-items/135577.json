@@ -1,0 +1,38 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"gg_Lego_MAFIA_arena": {
+						"0": "01 READ ME.txt",
+						"maps": [
+							"gg_Lego_MAFIA_arena.bsp",
+							"gg_Lego_MAFIA_arena.txt",
+							"gg_lego_mafia_arena.nav"
+						],
+						"spawnpoints": [
+							"es_gg_lego_mafia_arena_db.txt"
+						]
+					}
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 351568,
+			"_nDownloadCount": 4626,
+			"_nFilesize": 342279,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/351568",
+			"_sFile": "gg_lego_mafia_arena.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1179007683
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 135577,
+	"_sName": "gg_lego_mafia_arena",
+	"_sText": "This is my first map. After reading some tutorials 4 days ago, I decided to get my feet wet.\r\n\r\nSpecial thanks to mck-76...the original mapper of gg_lego_arena (proper credits are given in the txt file and on a textured map decal visible on the map).\r\n\r\nThe modifications include:\r\n1. Expanded the walkable surface\r\n2. The 4 blocks located in corners are now rooms\r\n3. Added tunnels in the lower level that can access the 4 rooms\r\n4. Retextured the brushes.\r\n\r\nThe black and white textures were intentionally used to depict a mafia colorization for my clan.\r\n\r\nPlease give some feedback and be critical. I know that I have a long ways to go to be a mapper.\r\n\r\nThe zip files includes the bsp, nav, txt, and gg spawnpoints."
+}

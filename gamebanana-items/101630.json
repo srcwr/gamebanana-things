@@ -1,0 +1,30 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_cortona.bsp",
+					"de_cortona.nav",
+					"de_cortona.txt",
+					"de_cortona_readme.txt"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 299376,
+			"_nDownloadCount": 7741,
+			"_nFilesize": 29251591,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/299376",
+			"_sFile": "de_cortona.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1349194983
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 101630,
+	"_sName": "de_cortona",
+	"_sText": "### Cortona - Bomb/Defuse\r\n#### by Will2k\r\n\r\nde\\_cortona is a bomb/defuse map based on several old and historical towns in Tuscany, northern Italy. The inspiration was mainly drawn from the following cities: Cortona, Monteriggioni, San Gimignano, Montepulciano, Montalcino, Pistoia and Siena. This is not an accurate recreation as I took the creative freedom to merge several elements from real life counterparts into one old town in the map.\r\n\r\nThe map presents many authentic aspects from the above towns: The coat of arms of Tuscany on the town hall, the coat of arms of Cortona on the old castle, the church of Monteriggioni, the tower and gate of San Gimignano, the town hall of Cortona, the well of Montepulciano, the monastery of Pistoia and many others. Some landmarks were faithfully recreated in-game while others served as an inspiration to create something similar in the map.\r\n\r\nThe map is highly detailed and most of what you see is hand-made using brushwork; since this is potentially my last project for Counter-Strike Source, I decided to unleash my creativity on the brushwork to create the most complex of shapes without resorting much to custom models. It was somehow an exhausting task as it involved lots of precise clipping, vertex manipulation, texture scaling and rotation and so on. Almost all of the arches and buildings decorations are made of brushes while a smaller fraction is made of displacements. The brushwork load reached 91%. \r\n\r\nThe layout is the classic figure of 8, made popular by dust/dust2. It's easy to remember and navigate through while offering plenty of tactical options for both sides.\r\n\r\nThe optimization process was a little less demanding than my last map [cs\\_east\\_borough](http://gamebanana.com/css/maps/164363 \"\") and took me around 4 days to finalize and to find the optimum locations for hints and areaportals and the optimum fade distances for models. The high FPS is consistent around the map and provides smooth gameplay for players. (Stable 300fps on my system at every location in the map while walking alone without bots/players).\r\n\r\nAdditional optimization was done to the gameplay flow by heavily implementing clip brushes to ensure a smooth and fluid gameplay/motion for players. The last kind of optimization was for lighting through modification of lightmaps and smoothing groups. This step was necessary since the map has lots of arched brushes and many of them managed to confuse Vrad which made my manual intervention a must to avoid poor lighting optimization.\r\n\r\nThe map has:\r\n\r\n- 64 spawn points (32 vs 32)\r\n- radar overview\r\n- 3D skybox (actual Tuscan landscape)\r\n- Soundscapes\r\n- custom textures \r\n- 3 custom models (2 trees, 1 shrub freely available from STALKER game, courtesy of the now defunct GSC Gameworld)\r\n- Manually-tuned Nav file with place names\r\n\r\nAll the custom resources (except the nav) are embedded in the bsp.\r\n\r\nFor installation, simply extract the 4 files in the zip archive (bsp, nav and 2 txt files) to your \\Counter-Strike Source\\cstrike\\maps folder.\r\n\r\nThis project had a lifespan of 4 months: I started it in May 2012, stopped in June, resumed in July,  picked up the pace in August and went into overdrive in September. As I mentioned earlier, this is potentially my last level for CSS as I shall be moving to CSGO (a map is already underway for Global Offensive).\r\n\r\nI really hope you enjoy this map as much as I did creating and testing it.\r\n\r\nComments and constructive feedback are always welcome.\r\n\r\nWill2k\r\n\r\nOctober 1, 2012"
+}

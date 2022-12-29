@@ -1,0 +1,142 @@
+{
+	"_aAlternateFileSources": [
+		{
+			"description": "DropBox",
+			"url": "https://www.dropbox.com/s/673m58hx1ff98c4/ze_flying_zombies_b3fix.7z?dl=0"
+		},
+		{
+			"description": "Stripper",
+			"url": "https://www.dropbox.com/s/pyumi9y5ca3xxna/ze_flying_zombies_b3fix.cfg?dl=0"
+		}
+	],
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "ze_flying_zombies_b3fix.bsp",
+					"bosshp": [
+						"ze_flying_zombies_b3fix.cfg"
+					]
+				},
+				"_sMimeType": "application/x-7z-compressed"
+			},
+			"_bContainsExe": false,
+			"_idRow": 381305,
+			"_nDownloadCount": 273,
+			"_nFilesize": 87422330,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "Map",
+			"_sDownloadUrl": "https://gamebanana.com/dl/381305",
+			"_sFile": "ze_flying_zombies_b3fix.7z",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1525265718
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ze_flying_zombies_b3fix.cfg"
+				],
+				"_sMimeType": "application/x-7z-compressed"
+			},
+			"_bContainsExe": false,
+			"_idRow": 381306,
+			"_nDownloadCount": 89,
+			"_nFilesize": 323,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "Stripper fix",
+			"_sDownloadUrl": "https://gamebanana.com/dl/381306",
+			"_sFile": "ze_flying_zombies_b3fix_d540b.7z",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1525265807
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Removal",
+					"text": "Derol's room deleted"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "sofa mode bugfix"
+				},
+				{
+					"cat": "Amendment",
+					"text": "knockback zombies"
+				},
+				{
+					"cat": "Addition",
+					"text": "HE grenade knockback zombies"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fix gravity bug in new round"
+				},
+				{
+					"cat": "Addition",
+					"text": "Wall in AdminRoom"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Invulnerability on collector and football modes"
+				},
+				{
+					"cat": "Amendment",
+					"text": "Accelerated Collector Battle mode"
+				},
+				{
+					"cat": "Amendment",
+					"text": "More time to get away on Tetris mode"
+				},
+				{
+					"cat": "Amendment",
+					"text": "Change texture"
+				},
+				{
+					"cat": "Amendment",
+					"text": "Various minor amendments"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "b3fix",
+			"_tsDateAdded": 1525265527
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "bugs of the previous version are fixed"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added 7 new mods"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added a secret for zombies"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added new textures"
+				},
+				{
+					"cat": "Amendment",
+					"text": "Fixed balance"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added different endings"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "b3",
+			"_tsDateAdded": 1519563326
+		}
+	],
+	"_idRow": 130743,
+	"_sName": "ze_flying_zombies_b3fix",
+	"_sText": "<b><span class=\"GreenColor\">The map has:</span></b><br><ul><li>64 spawns</li><li>19 modes</li><li>32 sounds</li><li>4 secrets</li><li>Items - Gravity, Tetris, Zombie Jump</li><li>Lasers</li><li>Boss</li><li>Triggers</li></ul><hr>Group steam:&nbsp;<a href=\"http://steamcommunity.com/groups/dzemapper\" target=\"_blank\">http://steamcommunity.com/groups/dzemapper</a><br><br>For Server-Admin:&nbsp;<br><ul><li><span class=\"RedColor\">Disable&nbsp;semi-transparency of players&nbsp;</span></li></ul>"
+}

@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"deathrun_the_cube_b1.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 319843,
+			"_nDownloadCount": 1186,
+			"_nFilesize": 2245811,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/319843",
+			"_sFile": "deathrun_the_cube_b1.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1282586843
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 127253,
+	"_sName": "deathrun_the_cube_b1",
+	"_sText": "Alright, I got a first beta version. It works pretty well but there are still a few bugs remaining. And if you can find some more just tell me.\r\n\r\nSpecifications:\r\n\r\nQuote\r\n- 3 hidden grenades (1 of each)\r\n- 2 elevators\r\n- 13 traps (a good number :))\r\n- a camera system for terrorists\r\n- 1 terrorist only (because of the current camera system problem, described below)\r\n- 30 cts\r\n- afk-killer in first room after 30 seconds\r\n- every button can be used only once\r\n- falling out of the map would kill (just in case)\r\n- single end for CTs (getting weapons to go kill the Ts)\r\n\r\n\r\nKnown issues:\r\n\r\nQuote\r\n- camera system only allows to show one camera at a time (same one on every func_monitor at a time). If anyone knows how to use multiple cameras and monitors at once please let me know :)\r\n- elevators could be a problem because it is possible to get out of the proper map thanks to them\r\n- I don't remember more for the moment so we'll see\r\n- doors sometimes not closing correctly\r\n\r\n\r\nWhat's already planned:\r\n\r\nQuote\r\n- fix the bugs of course\r\n- adding different original endings\r\n- doing a full compile (HDR included) ^^\r\n- add lighting and skybox\r\n- eventually use different textures if requested... (I mainly used \"dev_\" textures here)\r\n\r\n\r\nWell that's it. Let me know what you think. It's not a great map like some others you have already played but it can be worth playing on it. If you have any suggestions for new traps or trap modifications let me know and i'll see if it's possible or not. Remember that I don't yet know everything that can be done (actually I forgot many things since last time I made a map, which was a few years ago)."
+}

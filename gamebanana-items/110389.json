@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ka_parkhead.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 342059,
+			"_nDownloadCount": 3589,
+			"_nFilesize": 13386374,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/342059",
+			"_sFile": "ka_parkhead.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1210325093
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 110389,
+	"_sName": "ka_parkhead",
+	"_sText": "Soon after the IOS:S beta was released I made this map.\r\nMany of us ka_soccer players were not intrigued by the gameplay of IOS, because you press buttons to kick the ball.\r\nIn ka_soccer, you have full control over the ball movement and learn the physics of it to get good at it.\r\n\r\nThis map is a conversion of the IOS map ioss_parkhead. with modifications to the ball and goals etc.. to make it work as a ka_soccer map.\r\nYou still have the jumping crowds, crowd noises, changing billboards and everything else that you get in the IOS map.\r\n\r\nThis map is much bigger than the usual ka_soccer map. You could quite easily have 11v11 matches on it.\r\nIn file size it is also big.. 50MB unfortunately :(\r\nIf you can setup bzip compression on your server, it should be only around 10mb to download though. (like the rar file you download from here)\r\n\r\nOne \"bug\" exists at the moment. and that is.. there is a weird patchy transparency on the goal nets sometimes.\r\nNot big enough to effect gameplay, but it's a bit ugly.\r\nI suspect the problem is that I haven't compiled the vvis lighting info for it.. which would also make the map look alot better.\r\nThe only reason I haven't done it is because last time it took over 24 hours and still hadn't finished."
+}

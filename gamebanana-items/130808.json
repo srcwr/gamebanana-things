@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ze_isla_nublar_v2_1.bsp"
+				],
+				"_sMimeType": "application/x-7z-compressed"
+			},
+			"_bContainsExe": false,
+			"_idRow": 311112,
+			"_nDownloadCount": 23969,
+			"_nFilesize": 36599302,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/311112",
+			"_sFile": "ze_isla_nublar_v2_1.7z",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1309932185
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 130808,
+	"_sName": "ze_isla_nublar_v2_1",
+	"_sText": "ze isla nublar v2_1<br>\r\n==================<br><br>\r\n\r\nv2_1 Fixes<br>\r\n--------<br><br>\r\n\r\n- trigger push to stop zombies from knifing under the helicopter<br>\r\n- moved a teleport exit to avoid teleport spam<br>\r\n- fixed zombie healer from teleporting instead of healing<br>\r\n- normal mode more easy<br><br>\r\n\r\nv2 Fixes<br>\r\n--------<br><br>\r\n\r\n- random teleport glitches fixed<br>\r\n- hard mode more harder<br><br>\r\n\r\nv1fix Fixes<br>\r\n--------<br><br>\r\n\r\n- added missing helicopter propeller textures<br><br>\r\n\r\nv1 Fixes<br>\r\n--------<br><br>\r\n\r\n- added a new spawn area<br>\r\n- shotgun/medic kit can't be spammed<br>\r\n- fixed shotgun ammo<br>\r\n- moved medic kit spawn<br>\r\n- extreme ending more easy<br>\r\n- helicopter rotors fixed<br>\r\n- cube maps (shiny surfaces)<br>\r\n- better fps in lobby/boss fight area.<br>\r\n- new path into the roof for zombies<br>\r\n- some doors for zombies now break, so those behind the group can catch up<br>\r\n- added a table at a hold point<br>\r\n- crates in the cafe now break on extreme<br>\r\n- trex moon walk now happens alot less.<br>\r\n- fixed a bug where ct could win with zombies in the copter<br><br>\r\n\r\nb2 Fixes<br>\r\n--------<br><br>\r\n\r\n- fixed invisible boxes and other items not showing gltich<br>\r\n- added button so admin can change the level<br>\r\n- fixed the tele on hard mode so afk's and respawns will go into raptor pen and not respawn in the complex<br>\r\n- zombies now heal when in the raptor pen<br>\r\n- added timer on the trex battle<br>\r\n- reduced trex hp<br>\r\n- added medic kit<br>\r\n- adjusted heli paths<br><br>\r\n\r\nb1_5 Fixes<br>\r\n--------<br><br>\r\n\r\n- compile time now down to 6mins<br>\r\n- bsp size reduced (.bsp=80mb) (.bz2=41mb)<br>\r\n- reduced the amount of phys objects in map<br>\r\n- removed area portal windows<br>\r\n- removed some breakables<br>\r\n- changed normal hold at the end<br>\r\n- new improved clipping, to reduce chance of zombie fail nade<br>\r\n- minor spawn changes<br>\r\n- trex trigger_hurt now larger radius<br>\r\n- fixed water outside of visitors center<br><br><br>\r\n\r\n\r\nb1 Fixes<br>\r\n--------<br><br>\r\n\r\n- removed secret teleport<br>\r\n- re-worked level system<br>\r\n- optimization (compile from 18mins to 9mins)<br>\r\n- added new helicopter (black hawk)<br>\r\n- more trex hp<br>\r\n- last ending rocks light glitch is fixed<br>\r\n- removed area portals from outisde<br>\r\n- increased far z plane for more fps<br>\r\n- more level brushes/displacments are now 3d skybox<br>\r\n- normal ending roof area optimized (player should get 25-100 more fps here than before)<br><br>\r\n\r\na4 Fixes<br>\r\n--------<br><br>\r\n\r\n- crash fix update (crash should be now fixed, if not please report)<br>\r\n- trex health added<br>\r\n- route time adjustment<br>\r\n- prop adjustment<br>\r\n- predator texture added<br>\r\n- some minor detail changes<br>\r\n- secret changed<br>\r\n- added some he nades in more secret places<br>\r\n- added another shotgun in the most secret route (hard extreme only)<br><br>\r\n\r\na3 Fixes<br>\r\n--------<br><br>\r\n\r\n- zombies can get under the gate at raptor pen<br>\r\n- improved cliping in places<br>\r\n- rotated a crate at a defend spot<br>\r\n- secret way teleport is now allowed for only ct<br>\r\n- added a new camp spot at the raptor pen<br>\r\n- improved timing of extreme helicopter<br>\r\n- added some more HP to t-rex<br>\r\n- doors dont block or stick players on extreme mode<br>\r\n- changed a texture or two<br>\r\n- fixed non working helicopter blades on some rounds<br><br>\r\n\r\na2 Fixes<br>\r\n--------<br><br>\r\n\r\n- crash is now fixed (not 100% though until tested)<br>\r\n- double wooded doors dont kill you<br>\r\n- normal differcultie helicopter comes in faster<br>\r\n- delayed control room glass break time<br>\r\n- ending of extreme completely changed (now is like the novel)<br>\r\n- doors at spawn break faster<br>\r\n- some minor detail changes<br>\r\n- t-rex increased HP (only fair match if server has regular clip)<br>\r\n- improved 3d skybox<br>\r\n- displacment value reduced in some places<br>\r\n- removed 1 route for normal only (less camper)<br>\r\n- player can no longer live the fall over the pen<br>\r\n- fail nade zombie up to trigger \"lose_trigger\" is now almost impossible<br>\r\n- added boxes and table for defence<br>\r\n- more console messages<br><br><br>\r\n\r\n\r\nFeatures<br>\r\n--------<br><br>\r\n\r\n- Normal,hard and extreme modes<br>\r\n- trex boss fight<br>\r\n- different endings<br>\r\n- 3d skybox<br>\r\n- usable spas12 shot gun and medic kit<br>\r\n- 64 spawns<br>\r\n- custom models, sounds, textures and music<br>\r\n- cube maps<br><br><br>\r\n\r\n\r\nPlease leave feedback on any bugs and improvements, thanks."
+}

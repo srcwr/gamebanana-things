@@ -1,0 +1,51 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"bhop_museum_fix2.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 737945,
+			"_nDownloadCount": 59,
+			"_nFilesize": 38136195,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/737945",
+			"_sFile": "bhop_museum_fix2.rar",
+			"_sMd5Checksum": "c79001ff83e1529eb6b35b65f476ccc2",
+			"_tsDateAdded": 1643485782
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "should be good now"
+				}
+			],
+			"_sText": "The first _fix did fix a certain situation, however the map could still be abused fairly easily. The problem was that the checkpoint reset was RNG when a person would reset their timer inside of it. The fix to this was suggested by Nira and it seems to have fixed it. The fix was to put 4 separate reset_triggers around the  starting zone so that there was no conflict between the timer and the trigger. Snippsku did some testing and everything appears to be good this time around. <br><br>If it's still broken then idk.<br><br>Also startzone has been moved back to accommodate this change.",
+			"_sTitle": "_fix2",
+			"_tsDateAdded": 1643486678
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "\"Fixing\" the bug that nope discovered, where you could get a 6s run in normal."
+				}
+			],
+			"_sText": "The thing is about this bug, is that it should of never happened on a normal run. What had happened was that Nope completed a segmented run on the map and then went to normal mode and wanted to see what would happen if he went to the final teleport straight out of spawn. Luckily for him, it worked and broke the map. This shouldn't have happened because the checkpoint reset is in the start zone. What I did to \"fix\" this was adding a second reset zone directly in the end room. I am not 100% confidently positive that this fixes the problem on normal. Theoretically it shouldn't of been possible. However, hopefully with this 2nd zone it is 2x as hard for it to happen. Nope, Judge (blvd) and I tested it for awhile and I tested it for around an hour on my own and could not repeat the problem.<br><br>Unfortunately, the map is always going to be broken on segmented. Due to the fact that you can just fly around the map and collect checkpoints and then teleport back to a save and boost up. I have no idea how other maps have avoided this problem (if they have). But I fear it's probably something I can't fix.<br><br>Apologies for making a flawed map. It'll be up to server managers to remove glitched segmented times if they want to. Hopefully they won't have to on normal runs.",
+			"_sTitle": "_fix",
+			"_tsDateAdded": 1643165200
+		}
+	],
+	"_idRow": 352114,
+	"_sName": "bhop_museum_fix2",
+	"_sText": "<br>Bhop_museum is a map that features Tony Montana's non-linear checkpoint system. The map spawns you in at the start point in the middle of the map. From here, you have the freedom to choose which path you want to go first, and which paths you want to go from there.<br><br>The map features four wings:<br><br><ul><li>Military Wing</li><li>Classical Wing</li><li>Modern Wing</li><li>Cultural Wing<br><br></li></ul>Each of these hallways leads to a room that must be completed. Upon completion, you may use the booster and elevate yourself up to the red platform above spawn. Which will then teleport you to the end room. Nonetheless, I am proud of this map and I believe it to my best. I have a very unhealthy tendency to get obsessed with a map, and grind all of my free-time with it. Funny enough, I made the map in about 8 days. However, each of those days I literally spent 8-14 hours grinding it out (I really, really wish I was exaggerating). I hope that everybody can appreciate it, as it is my first map with a truly unique theme.<br><br>All of the paintings and text were originally uploaded by me.<br><br>The gameplay overall is tier 3, with segmented times running from 1:30 to 1:40. A few of the wings have multiple route and skip options depending on how much speed you are. Also, due to the non-linear nature, there should be a lot of replayability. Hopefully if I designed the map decently, there should be a few decent viable level orders. There is also a 20-30 second bonus. The bonus teleporter is stuck behind the first wing (military wing). Thank you guys for playing this, and as always, if there is a problem, please let me know ASAP so I can fix it for everyone! <3<br><br>Map should be possible on scroll."
+}

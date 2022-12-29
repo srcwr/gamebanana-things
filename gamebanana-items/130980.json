@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ze_sewer_escape__final.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 334991,
+			"_nDownloadCount": 3522,
+			"_nFilesize": 6251404,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/334991",
+			"_sFile": "ze_sewer_escape__final.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1232737263
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 130980,
+	"_sName": "ze_sewer_escape__final",
+	"_sText": "ZE_SEWER_ESCAPE_FINAL\r\n\r\nThis escape map is located in and around a sewer plant.\r\n\r\n____________________________\r\n\r\nFeatures\r\n\r\nRandom Traps - Each round the traps will change, this will make each round different.\r\n\r\nUnique Ending - There is two different endings for the same escape, it just takes two alternate routes to the same ending. When near the end one of the routes will be randomly picked.\r\n\r\n64 Spawns\r\n\r\nCubemaps\r\n\r\n____________________________\r\n\r\n*** FINAL UPDATES 2 ***\r\n\r\n- Fixed Nuke Glitch\r\n\r\n*** FINAL UPDATES ***\r\n\r\n- Alterations at two sections of map to look different and balance the gameplay more\r\n\r\n- Made visual alterations on the buttons and ladders\r\n\r\n- Fixed players been glitched into floor and walls by the lift\r\n\r\n- Fixed the light models so they look like they are on\r\n\r\n- Clipped off camping spots\r\n\r\n*** V8 UPDATES ***\r\n\r\n- More Balanced\r\n\r\n*** V7 UPDATES ***\r\n\r\n- Added another route to the side tunnels at spawn\r\n\r\n- Increased the strength of the gates at the spawn\r\n\r\n- Increased the strength of the other gate\r\n\r\n- More optimization\r\n\r\n- Increased strength of the boards at the lift\r\n\r\n- Made the wall near the lift break a bit faster so humans have a bit longer to set up barricade\r\n\r\n*** V6 UPDATES ***\r\n\r\n- Added different props at the lift to barricade with\r\n\r\n- More Optimized\r\n\r\n- Added more strength to the gate\r\n\r\n- Added some more detail in places\r\n\r\n- Added some more props at the end points to make better barricades with\r\n\r\n- Player cliped parts that would get players stuck\r\n\r\n*** V5 UPDATES ***\r\n\r\n- Replaced first gate at spawn with a door, their is a button next to which opens the door. This change should help with the balance of the map\r\n\r\n- Made the lift a little bit more faster\r\n\r\n- Fixed doors getting stuck on dropped weapons\r\n\r\n- Added a gate on the train so people cant get on untill the train is ready to go\r\n\r\n- Added a gate at the back of the train for when the window route is used, this will stop zombies jumping to train and then going inside the train holding the game up\r\n\r\n- Removed the trigger hurt from the train track and replaced it with trigger push\r\n\r\n- Changed some parts of the map a little\r\n\r\n*** V4 UPDATES ***\r\n\r\n- Added a extra gate at the start\r\n\r\n- Reduced the amount of time at the end to defend from 1:20 to 1:00\r\n\r\n- Increased the speed of the lift a little\r\n\r\n- When underground at the end, a message will display telling you a few seconds before the trains leaves to get on the train.\r\n\r\n- Removed the second door on the train and moved it to the back of the train.\r\n\r\n- When above the train at the end, you will see a message telling you when you can jump to train from window.\r\n\r\n- Added a secret to get a extra prop to barricade with at the end area with the window.\r\n\r\n- Added some more detail to the map\r\n\r\n- Blocked of any camp spots in the spawn\r\n\r\n- Removed a set of planks from each tunnel at the start\r\n\r\n- Spaced out the spawn places so each tuneel gets more of a equal amount of players, but you dont have to go down the tunnel you spawn near\r\n\r\n- Added a message that says when the gate before the car jumping has been closed\r\n\r\n*** V3 UPDATES ***\r\n\r\n- Made the windows easier to get through\r\n\r\n- Fixed the issue with people camping at the start and zombies not been able to get back to spawn, they now can\r\n\r\n- Added some new parts to the map to help balance it out, added a gate that can be closed which can be broke after a number of hits. This can be used to slow down the zombies when been chased.\r\n\r\n- Added some fences to the car jumping part, this will stop zombies been able to just ingnore jumping on the cars and just going through the slime and getting humans very easily\r\n\r\n- Added a meesage that states when the lift is leaving\r\n\r\n- Added a extra route to one of the ending of the map to help and encourage the zombies to attack more at that certain point\r\n\r\n*** V2 UPDATES ***\r\n\r\n- Changed Lift to func_tracktrain, this stops people from killing other players by jumping on heads.\r\n\r\n- Fixed map messages not showing up."
+}

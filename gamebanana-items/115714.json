@@ -1,0 +1,31 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cssp_aiming_training": [
+						"Readme.txt",
+						"cssp_aiming_training.bsp"
+					]
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 295126,
+			"_nDownloadCount": 2268,
+			"_nFilesize": 179518,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/295126",
+			"_sFile": "cssp_aiming_training.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1366045237
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 115714,
+	"_sName": "cssp_aiming_training",
+	"_sText": "<h1><center><font color=\"Orange\">AIMING TRAINING</font></center></h1>\r\n<h2><font color=\"yellow\">CS Single-Player</font></h2>\r\n\r\nMap Info\r\n----------\r\n\r\n- Map Version: V1.0\r\n- Working Progress: 1 day\r\n- simple dev textures\r\n- 10 enemys to kill\r\n- unlimited ammo, money and health\r\n- improved lighting\r\n- collect XP in-game and in your brain\r\n- learn how to kill in distances quickly\r\n- map designed for SINGLE-PLAYER game\r\n- join only as CT and let join 10 bots to T\r\n- bot-quota set to 10\r\n- you get 50% transparency\r\n\t\r\nThis map was designed for Single-Player. <font color =\"Lightgreen\"><font face =\"Lucida Console\">sv-cheats 1</font></font> is enabled on this map, because the map need <font color =\"Lightgreen\"><font face =\"Lucida Console\">bot-stop 1</font></font>. You have to join <font color =\"Lightgreen\"><font face =\"Lucida Console\">Counter Terrorist</font></font> >**ONLY**. Health, Ammo and Money are unlimited. The mission is to kill all <font color =\"Lightgreen\"><font face =\"Lucida Console\">10 Targets</font></font>. While you kill them you gain XP (1550 XP Max.). Please do not change any values in console! All entities in the map will do the work, you only have to kill the bots. Be sure you have tick <font color =\"Lightgreen\"><font face =\"Lucida Console\">Bot join after player</font></font> before you starting <font color =\"Lightgreen\"><font face =\"Lucida Console\">Created Server</font></font>.\r\n\r\nYou can only use all CT weapons without <font color =\"Lightgreen\"><font face =\"Lucida Console\">AK 47</font></font>, <font color =\"Lightgreen\"><font face =\"Lucida Console\">Dual Elites</font></font>, <font color =\"Lightgreen\"><font face =\"Lucida Console\">Krieg 552</font></font>, <font color =\"Lightgreen\"><font face =\"Lucida Console\">D3/AU-1</font></font> and <font color =\"Lightgreen\"><font face =\"Lucida Console\">IDF Defender</font></font>. I found the answer... you need only to write in console at start <font color =\"Lightgreen\"><font face =\"Lucida Console\">give</font></font> and behind it weapon <font color =\"Lightgreen\"><font face =\"Lucida Console\">ID</font></font>. The list is below.\r\n\r\n\t- give weapon_ak47   //gives AK-47\r\n\t- give weapon_elite  //gives Dual Elites\r\n\t- give weapon_sg552  //gives Krieg 552 (Zooming Rifle)\r\n\t- give weapon_g3sg1  //gives D3/AU-1 (Auto-Sniper)\r\n\t- give weapon_galil  //gives IDF Defender (Galil)\r\n\r\nIf you want to get full Money and Ammo, you need to write in console <font color =\"Lightgreen\"><font face =\"Lucida Console\">sv_cheats 1</font></font> and after that <font color =\"Lightgreen\"><font face =\"Lucida Console\">impulse 101</font></font>. The impulse 101 command is only available on activate cheats, so not really for multiplayer.\r\n\r\n\t- impulse 101  //reset all Money and Ammo to full capacity\r\n\r\nSpecial Thanks\r\n--------------\r\n\r\n- TopHATTWaffle - Dev Textures\r\n\r\nBug Reports\r\n-----------\r\n\r\nPlease report all bugs on GameBanana Comments page.\r\n\r\nChangelog\r\n---------\r\nTo watch all changes pls watch in <a href=\"http://css.gamebanana.com/maps/updates/173624\">Updates</a> section.\r\n\r\n_____________________________________________________________________________\r\n\r\n<p><center><font color=\"Lightgreen\">Please leave comments, rate, give feedback and subscribes if you like.</font></center></p>"
+}

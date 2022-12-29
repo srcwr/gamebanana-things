@@ -1,0 +1,47 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"fy_MetaBridge": {
+						"Download Server": {
+							"cstrike": {
+								"maps": [
+									"fy_MetaBridge.bsp.bz2",
+									"fy_MetaBridge.nav.bz2",
+									"fy_MetaBridge.txt.bz2"
+								]
+							}
+						},
+						"Game Server": {
+							"cstrike": {
+								"maps": [
+									"fy_MetaBridge.bsp",
+									"fy_MetaBridge.nav",
+									"fy_MetaBridge.txt"
+								]
+							}
+						}
+					}
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 315580,
+			"_nDownloadCount": 1349,
+			"_nFilesize": 1703959,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/315580",
+			"_sFile": "_400-.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1294655615
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 113281,
+	"_sName": "FY_MetaBridge",
+	"_sText": "FY_MetaBridge\n\nmade by MetaHazard\n\nThis is my first ever map.\n\nMap have HDR, 50 spawn points, buyzone and m4a1 spawner\n\nI included .bz2 files for Download Server\n\nNotes:\nThe files in \"Download Server\" Can't be used for play, it used for Fast Download feature. (sv_downloadurl)"
+}

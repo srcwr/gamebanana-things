@@ -1,0 +1,33 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "trikz_research_laboratories_b.bsp",
+					"particles": [
+						"combine_fx.pcf",
+						"tubes.pcf",
+						"tubes_dx80.pcf"
+					]
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 312946,
+			"_nDownloadCount": 2564,
+			"_nFilesize": 18891992,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/312946",
+			"_sFile": "_4475-.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1304091917
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 127562,
+	"_sName": "trikz_research_laboratories_b",
+	"_sText": "Havent been active for while, but now decided complete some of my old projects. This is first beta of my first trikz map. more levels will be added in later versions.\r\n\r\nThese first levels are around low-mid, later versions new levels will be propably mid-pro.\r\n\r\nGive feedback to effect maps further progress.\r\n_____________________________________________________\r\n\r\nprefabs:\r\nMustang GT500 by NatalyaAF:\r\nhttp://www.fpsbanana.com/prefabs/3839\r\nEscalator by freshinger:\r\nhttp://www.fpsbanana.com/prefabs/565\r\nPushing combine by TopHATTwaffle:\r\nhttp://www.gamebanana.com/prefabs/4585\r\n\r\ntextures:\r\nPortal 2 themed texture pack by reacz:\r\nhttp://www.fpsbanana.com/textures/2862\r\n_____________________________________________________\r\n\r\nReport any found bugs. Ill fix them fast as i can.\r\n\r\nGood Luck and Have Fun. ;)\r\n\r\nNote; couldnt pack particles corectly so added them in folder. If someone knows how pack particles, please tell.\r\n\r\nadd \r\n\r\n\r\nparticles_manifest\r\n{\r\n\"file\"\t\t\"particles/combine_fx.pcf\"\r\n\"file\"\t\t\"particles/tubes.pcf\"\r\n}\r\n\r\nto your cstrike/particles/particles_manifest if particles arent otherwise visible."
+}

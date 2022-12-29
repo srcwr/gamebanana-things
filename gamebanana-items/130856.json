@@ -1,0 +1,123 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ze_m0w0m_b2.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 625322,
+			"_nDownloadCount": 105,
+			"_nFilesize": 162954821,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/625322",
+			"_sFile": "ze_m0w0m_b2.zip",
+			"_sMd5Checksum": "7c04d3583b2eadeadaa64b61ad3780a0",
+			"_tsDateAdded": 1627558823
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Adjustment",
+					"text": "nerfed gatling item"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "stage1/4 : increased boss hp"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "stage2/5 : increased boss hp"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "stage3/6 : increased minion hp"
+				},
+				{
+					"cat": "Improvement",
+					"text": "stage3/6 : changed the destination of 2nd afk teleport in the 2nd area"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "fixed some animated sprite doesn't work"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "stage2/5 : fixed the 2nd boss lose hp immediately upon spawn"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "b2",
+			"_tsDateAdded": 1627560639
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Overhaul",
+					"text": "remade all bossfights"
+				},
+				{
+					"cat": "Overhaul",
+					"text": "remade all unique items"
+				},
+				{
+					"cat": "Overhaul",
+					"text": "remade npc"
+				},
+				{
+					"cat": "Overhaul",
+					"text": "remade 3d skybox"
+				},
+				{
+					"cat": "Overhaul",
+					"text": "rebuilt most of structure"
+				},
+				{
+					"cat": "Addition",
+					"text": "added slugger and toxic cannon to unique item"
+				},
+				{
+					"cat": "Addition",
+					"text": "added 1 npc in stage 2/5"
+				},
+				{
+					"cat": "Addition",
+					"text": "added 3 npc in stage 3/6"
+				},
+				{
+					"cat": "Removal",
+					"text": "removed shotgun and mines from unique item"
+				},
+				{
+					"cat": "Removal",
+					"text": "removed priests magic and harpys feather from zombie item"
+				},
+				{
+					"cat": "Removal",
+					"text": "removed some npc in stage 2/5"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "fixed server crash due to overflowing edicts"
+				},
+				{
+					"cat": "-",
+					"text": "changed some musics"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "b1",
+			"_tsDateAdded": 1619449225
+		}
+	],
+	"_idRow": 130856,
+	"_sName": "ze_m0w0m_b2",
+	"_sText": "<h1 class=\"SelectedElement\">Secret Stage is now on hold</h1><h2>Map Information</h2>- 6 Stages (3 Normal Stages & 3 Extreme Stages)<br>- 11items for human<br>- 2items for zombie<br>- Bossfights<br>- Color correction<br>- NPC"
+}

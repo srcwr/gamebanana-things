@@ -1,0 +1,57 @@
+{
+	"_aAlternateFileSources": [
+		{
+			"description": "Yandex Disk (Yadisk)",
+			"url": "https://disk.yandex.ru/d/jJMYoNnJwKeYvQ"
+		},
+		{
+			"description": "Google Drive",
+			"url": "https://drive.google.com/file/d/17eQF5nYe4bfYEB9I1QHQKEm7BfChGUdG/view?usp=sharing"
+		}
+	],
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"bhop_experience.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 591781,
+			"_nDownloadCount": 105,
+			"_nFilesize": 124943402,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/591781",
+			"_sFile": "bhop_experience_6c787.rar",
+			"_sMd5Checksum": "90dd2a0188bf73e55479d37875c5e25a",
+			"_tsDateAdded": 1623695532
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "env_fade is not anymore works for every player on the map at the same time"
+				},
+				{
+					"cat": "Removal",
+					"text": "Removed bad decals"
+				},
+				{
+					"cat": "Feature",
+					"text": "EndTP is always opened after the first env_fade"
+				}
+			],
+			"_sText": "Please, everyone who has uploaded the map on public servers - Re-Download the map!",
+			"_sTitle": "Hotfix",
+			"_tsDateAdded": 1623695744
+		}
+	],
+	"_idRow": 295219,
+	"_sName": "bhop_experience",
+	"_sText": "<i>Falling through a dream, you wake up in an unusual place. A mystical and at the same time attractive cave. The head hurts and is very dizzy. I got up with difficulty and looked around. In the dark, candles burn and illuminate my path. Who lit these candles?<br>- I need to find a way out of here as soon as possible...</i><br><br><hr>That map was made for <b><span class=\"GreenColor\">SourceJump Mapping Contest 2021</span></b>. <br><br><b>Length</b> - <b><span class=\"RedColor\">Long </span></b><i>(Average segmented autobhop route is 3:10~)</i><br><b>Tier</b> - <span class=\"GreenColor\">3</span> <i>(Medium)</i><br><br>It's<b> <span class=\"RedColor\">HIGHLY RECOMMENDED</span> </b>to play with brightness level value<b> 1.6</b> (LIGHT)<br><br><u>Music used:</u><br><b>Stage 1</b>: Hoten Neon - The Time Between<br><b>Stage 2:</b> Ugasanie - To The Land Of Storm and Mists<br><b>Stage 3:</b> Vzglyad Ischezayushego - Neznakomoe Mesto<br><b>Ending:</b> The Caretaker - Things That Are Beautiful and Transient<br><br><hr><i class=\"SelectedElement\">P.S. Since Gamebanana download speed is pretty slow these days, I have added additional download sources (<span class=\"GreenColor\">Google Drive & Yandex Drive</span>). Enjoy! :)</i>"
+}

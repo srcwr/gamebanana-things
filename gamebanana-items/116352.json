@@ -1,0 +1,67 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"mx_tree_b1.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 362305,
+			"_nDownloadCount": 2823,
+			"_nFilesize": 155960,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/362305",
+			"_sFile": "mx_tree_b1_2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1100155466
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"nested_archive_test": [
+						"archive.zip"
+					]
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 379359,
+			"_nDownloadCount": 23,
+			"_nFilesize": 552,
+			"_sAnalysisResult": "Archive contains nested archive",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/379359",
+			"_sFile": "nested_archive_test.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1523669282
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"test.exe"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": true,
+			"_idRow": 379360,
+			"_nDownloadCount": 19,
+			"_nFilesize": 166,
+			"_sAnalysisResult": "Archive contains executable",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/379360",
+			"_sFile": "contains_exe_test.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1523669282
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 116352,
+	"_sName": "mx_tree_b1",
+	"_sText": "test test test<br><br>"
+}

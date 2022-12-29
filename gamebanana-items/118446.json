@@ -1,0 +1,61 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"awp_dusty_dawn_fixed": {
+						"0": "screen01.png",
+						"1": "screen02.png",
+						"2": "screen03.png",
+						"If skybox fail": {
+							"cstrike": {
+								"materials": {
+									"skybox": [
+										"sky45bk.vmt",
+										"sky45bk.vtf",
+										"sky45dn.vmt",
+										"sky45dn.vtf",
+										"sky45ft.vmt",
+										"sky45ft.vtf",
+										"sky45lf.vmt",
+										"sky45lf.vtf",
+										"sky45rt.vmt",
+										"sky45rt.vtf",
+										"sky45up.vmt",
+										"sky45up.vtf"
+									]
+								}
+							}
+						},
+						"cstrike": {
+							"maps": [
+								"awp_dusty_dawn_v2.bak",
+								"awp_dusty_dawn_v2.bsp",
+								"awp_dusty_dawn_v2.bsp.bak",
+								"awp_dusty_dawn_v2.nav",
+								"awp_dusty_dawn_v2.prt"
+							]
+						}
+					}
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 301447,
+			"_nDownloadCount": 1595,
+			"_nFilesize": 19064249,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/301447",
+			"_sFile": "awp_dd_fixed_g37_.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1342620997
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 118446,
+	"_sName": "awp_dusty_dawn(fixed)",
+	"_sText": "Hi everybody !I'm G.37 as well as the author of the map awp_dusty_dawn, I thought, and wanted to somehow re-decorate the map.I've replaced some textures and brushes also added a full magazine in weapons, stalls are altered, added more lights, etc. Download and see for yourself :)"
+}

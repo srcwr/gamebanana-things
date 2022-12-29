@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"fk_fungi_tower.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 341409,
+			"_nDownloadCount": 1499,
+			"_nFilesize": 10710570,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/341409",
+			"_sFile": "fk_fungi_tower_2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1212771836
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 120501,
+	"_sName": "fk_fungi_tower",
+	"_sText": "I made this map fairly quickly for the \"ThePwnd\" community Playground server. It's sort of a remake of TV Tower I guess, since that's a fairly fun map to play, but this one is far better looking and has more balanced gameplay.\r\n\r\nThe idea is that the Terrorists wait at the top, and the CT have a choice of 4 elevators on the inside which they can mix up their group numbers in to try and disorient the Terrorists' judgement. The Terrorists must guess which elevator will be the most occupied. CT can choose from many combos like all in one (or if there is a lot of players, two elevators might be necessary), or a few in all.\r\n\r\nThere is also four elevators outside the tower on the corners which allow the CT to enter the Terrorists' spawn from the single vent duct at the center. This entrance is very risky since it exposes you in the middle from all sides. This is more of a last resort for CT if they have had their numbers cut drastically.\r\n\r\nThe elevators will go up and down, allowing the Terrorists to gain access to the CT spawn. I really made this in case someone wanted to be a douche and camp at the CT spawn, or if someone were AFK. That way the round wouldn't last forever.\r\n\r\nThe inner elevators will go up a second after a player steps on it. The outer elevators require a button. The only bug in this map is two of the outer elevators will operate from one button. Meaning if you press one of the elevator's button, the other elevator comes with you, and vice versa.\r\n\r\nAnyway, the mushroom models are from Shantytown if you are wondering. Those are the only mushrooms I used. I made the custom soundscape including the sounds it uses. I also used dynamic color correction in this map, but I don't know if it will work for you or not. I had a premade color_correction_volume entity at the T spawn that SHOULD activate a color correction file I made after compiling, but for some reason it wasn't working for me. Maybe it will for you.\r\n\r\nIf you are wondering why the walls of the fungi room are black, <b>read the Programs & Design Process paragraph.</b>"
+}

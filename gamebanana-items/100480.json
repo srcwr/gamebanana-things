@@ -1,0 +1,33 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cs_stormynight": {
+						"0": "ReadMe.txt",
+						"maps": [
+							"cs_stormynight.bsp",
+							"cs_stormynight.nav"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 329004,
+			"_nDownloadCount": 1836,
+			"_nFilesize": 5177629,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/329004",
+			"_sFile": "cs_stormynight.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1252187425
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 100480,
+	"_sName": "cs_stormynight",
+	"_sText": "I put quite a bit of time into this map.  the buildings were made by nodraw, i just moved them around and added some lighting and props, and deleted his areaportals because they were conflicting with the map compiling right.  i wanted a map that would actually benefit from nightvision, which it does.  i did my best at making some realistic lightning, and its randomized.  its fun to play and there are several distinct paths and strategys for getting to the hostages, there is lots of cover and the environment limits vision enough to force you to get moving, so the game doesnt stall and rounds dont drag on, also the nav file is included and bots work fine, and use the paths effectively, they just arent affected by the environment and opening doors give them a headache it seems\r\ni know that there are small aesthetic changes i could make, but when it comes to little detail-fixes, maps would never be released if you fixed every one. my vmf file went crazy and is corrupted or something, so i wont be able to tweak it anymore, also i have no desire to,  so this is final.\r\n\r\ngive it a try and please rate and let me know what you think."
+}

@@ -1,0 +1,40 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"surf_eryr2_fix.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 398982,
+			"_nDownloadCount": 180,
+			"_nFilesize": 58620487,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/398982",
+			"_sFile": "surf_eryr2_fix.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1539390764
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "Fixed the first ramp of s3 being visually buggy"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Fix 1",
+			"_tsDateAdded": 1539390645
+		}
+	],
+	"_idRow": 137771,
+	"_sName": "surf_eryr2",
+	"_sText": "**** CSS VERSION ****<br><br>Tier 5&nbsp;<br>Stages 4<br>Bonuses 3<br><br>sv_airaccelerate 150<br>sv_maxvelocity 3500<br><br>Bonus order RGB-123<br><br>To Server Operators:<br>You're probably best not looking at the filters, they're pretty confusing. It's mostly just for anti-cheat.&nbsp;"
+}

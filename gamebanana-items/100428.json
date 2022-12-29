@@ -1,0 +1,31 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"cs_secretlab_v3.ain",
+					"cs_secretlab_v3.bsp",
+					"cs_secretlab_v3.cache",
+					"cs_secretlab_v3.nav",
+					"cs_secretlab_v3.txt"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 361222,
+			"_nDownloadCount": 2090,
+			"_nFilesize": 4952744,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/361222",
+			"_sFile": "cs_secretlab_v3.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1118764351
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 100428,
+	"_sName": "cs_secretlab_v3",
+	"_sText": "This is V3 and possibly the final version.\r\n\r\n  Added in 4 area portals and an func_occluder to speed up the FPS for slower computers.\r\n  Added in sound effects.\r\n\r\n Cleaned up a few other areas\r\n\r\n Fixed a bug in the .nav file that told the hostages an area was blocked when it wasn't."
+}

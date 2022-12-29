@@ -1,0 +1,50 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"Readme.txt",
+					"Readme_PLUGIN_ConVar (2).txt",
+					"SCP.smx",
+					"SCP.sp",
+					"ze_SCP_Escape_v02.bz2",
+					"ze_SCP_Escape_v02.cfg"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 552693,
+			"_nDownloadCount": 94,
+			"_nFilesize": 65826443,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/552693",
+			"_sFile": "map_pack_9f426.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1618507373
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Improvement",
+					"text": "Scp_173 added hp"
+				},
+				{
+					"cat": "Optimization",
+					"text": "removed complex geometry"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "ver_02",
+			"_tsDateAdded": 1617230977
+		}
+	],
+	"_idRow": 130975,
+	"_sName": "ze_SCP_Escape_v1",
+	"_sText": "Hi, this is an experimental SCP map made for SIBGamers.net Mapping Contest # 1.<br><br>____________________________________________________________________________________________________________________________________________________________<br><br>This map has two levels:<br><br>The first is the familiar simple level of zombie escape, in which you need to run to the room and wait for the door to close while firing back at the zombies.<br><br>The second - I made the second level as similar as possible (with assumptions) to the gameplay of the game \"SCP Containment Breach\".<br><br>At this level, each CT player can escape from the laboratory, as well as help others.<br><br>____________________________________________________________________________________________________________________________________________________________<br><br>Conditions for opening Gate A:<br><br>_________________________________________________________________________________<br><br>Compliance order is important!<br><br>First, the computer must be powered up (control room in the \"offices\" zone).<br><br>The second should be a conversation with a computer (room in a \"heavy zone\").<br><br>_________________________________________________________________________________<br><br>Conditions for opening Gate B:<br><br>_________________________________________________________________________________<br><br>The order of compliance is not important!<br><br>A conversation with a computer should be conducted (room in a \"heavy zone\").<br><br>You must turn on the power to Gate B in the genset (genset room in the \"light zone\" zone).<br><br>_________________________________________________________________________________<br><br>_<br><br>Conditions for activating Alpha warheads:<br><br>_________________________________________________________________________________<br><br>The order of compliance is not important!<br><br>The first thing to do is to turn on the power of the computer (control room in the \"offices\" zone).<br><br>You must turn on the power to the generator room (generator room in the \"light zone\" zone).<br><br>_________________________________________________________________________________<br><br>How SCP_173 works:<br><br>____________________________________________________________________________________________________________________________________________________________<br><br>For SCP_173 to work: the plugin that comes with the map must be added!<br><br>SCP_173 kills CT_team players by touching it!<br><br>SCP_173 has an increased movement speed of 1.75!<br><br>As soon as the CT_team player looks at SCP_173, he stops!<br><br>The functionality of the plugin for SCP_173 uses the \"Blink\" time interval when the player \"Blinks\" SCP_173 can move regardless of the vision of other players!<br><br>The plugin for SCP_173 has many settings, you can customize it for your server. (Read Readme_PLUGIN_ConVar).<br><br>____________________________________________________________________________________________________________________________________________________________<br><br>Roles:<br><br>__________________________________________________________________________________________________________<br><br>At the second level, players are assigned to roles based on the total number of spawned players!<br><br>Possible non-critical problems with the player distribution system ...<br><br>It is also possible that the player does not clearly understand what role he has.<br><br>Role of \"Security\" - Guard the people!<br><br>You have to protect people from SCPs and zombies, you know! they are not armed until they find a weapon.<br><br>-You appear with a weapon.<br><br>-You have the opportunity to send people from the laboratory WITHOUT delay (Button near the elevator)!<br><br>The role of the \"scientist\" - Survive!<br><br>-You appear in the \"offices\" location<br><br>-You appear unarmed.<br><br>-When escaping from the laboratory, the delay in sending players is 15 seconds!<br><br>Role of \"Class_D\" - Survive!<br><br>-You appear in the \"light zone\" location<br><br>-You appear unarmed.<br><br>-When escaping the laboratory, the delay in sending players is 15 seconds!<br><br>__________________________________________________________________________________________________________<br><br>"
+}

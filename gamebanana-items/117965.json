@@ -1,0 +1,35 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrike": {
+						"maps": [
+							"dm_Torrent_Basin.bsp"
+						],
+						"sound": [
+							"MidnightSoulSession.mp3"
+						]
+					}
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 334614,
+			"_nDownloadCount": 2097,
+			"_nFilesize": 1531230,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/334614",
+			"_sFile": "torrentbasin_2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1234063733
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 117965,
+	"_sName": "Torrent Basin",
+	"_sText": "A Map by me (captain ferril) bug and lighting help by WMSwatPlayer\r\nan open feild with a large puddle in the center, it is raining and the teams spawn in areas outside the map to prevent spawn killing.\r\n\r\nhas a music \"theme\" for the stage, to toggle type ent_fire sound togglesound in the console\r\n\r\n\r\nknown bugs:\r\nchoppy walking when hugging left wall going up CT hill\r\nsound doesnt loop, to play it again type the above console command twice"
+}

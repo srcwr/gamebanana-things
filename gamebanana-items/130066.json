@@ -1,0 +1,30 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"achievement_kill_rep.bsp",
+					"achievement_kill_rep.nav",
+					"readme.txt"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 321780,
+			"_nDownloadCount": 1883,
+			"_nFilesize": 220243,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/321780",
+			"_sFile": "achievement_kill_rep.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1277814607
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 130066,
+	"_sName": "achievement_kill_rep",
+	"_sText": "Make sure you download and uplaod the .nav file!\r\n\r\nBots auto spawn, there can be upto 60 depending on your slot's.\r\n\r\nThis can get you over 40 acheivments.\r\n\r\nIf you run into any problems dont forget to add these commands to your server.cfg, or run them with rcon.\r\n(It should be fine these commands are passed from the map to the server anyway.)\r\n\r\n// Achievment Server Cvars\r\nmp_autoteambalance 0 \r\nmp_limitteams 0\r\nbot_join_team t\r\nmp_humanteam ct\r\n\r\n\r\nDONT FORGET THE .NAV FILE!! - ENJOY"
+}

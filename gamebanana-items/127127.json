@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"Readme.txt",
+					"deathrun_parking_garage.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 339660,
+			"_nDownloadCount": 4708,
+			"_nFilesize": 1249382,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/339660",
+			"_sFile": "deathrun_parking_garage.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1217949638
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 127127,
+	"_sName": "deathrun_parking_garage",
+	"_sText": "Map based in a Parking Garage.\r\n2-3 days of work for v1.\r\n\r\nMap got 60~ Ct Spawns 3 T Spawns\r\nMajor Bugs may be hotfixed if there should be any.\r\n\r\nFinal Version\r\nMapname Changed to deathrun_Parking_Garage\r\nRemade Fan, but it still looks ugly rotating ( i suck at fans )\r\nAdded Blocking Damage to the Fire Trap Doors\r\nAdded Details\r\nSpinning Spikes Trap now runs several times, making it harder for people incoming late to get through\r\nIt automaticly stops 3 times after the 3 times it keeps spinning ( you can pass it while spinning )\r\nTerrorists can only press it if CTs passed the Barrel Trap due to balance it and not be pressed to soon.\r\nMade Steamtrap Basement bigger.\r\nMade Fantrap bigger.\r\nButton of Car Trap doesnt make any sound now when pressed to be harder to be noticed by the Counter Terrorists.\r\nChanged Electric Fence Press Delay by 20ms\r\nBarrels on 2nd Floor should now spawn faster.\r\nFixed the earthquake still shaking after a new round. Earthquake shakes more now, but shorter.\r\nAdded 1 not user controlled Trap, and 2 breakfloor traps wich put you down 1 level and you have to pass the Spinning spikes Trap again , wich is harder by increased Time.\r\nFixed a bug where cts wouldnt die in basement while being under effect of Earthquake.\r\n\r\nv4\r\nImproved last Trap\r\nReplaced 2nd last Trap\r\nAdded Detail\r\nGue and Retarded Speed Upgrade\r\nKilling Afk People after 40 seconds ( thanks to DrivenbyFear )\r\nAdded Credits Ingame\r\n\r\nv3\r\nOnly CTs die by Earthquake\r\n1 not usercontrolled trap ( thanks to DrivenbyFear for the idea )\r\nMinor Fixes\r\nDarker/Different Lights in Basement\r\nSpeedmod for Terrorists\r\nLast Trap Replaced\r\n\r\nv2\r\nAdded Timer Earthquake to limit Time ( thx to Infini )\r\nIncreased size of Gue and Disabled Trap ( thx to Infini )\r\nPut Cars into Garage so it doesnt look weird ( thx to shiniNYJ for the idea)\r\nCar explosion trap has now 3 buttons so you can chose wich one to use ( thx to shiniNYJ for the idea)\r\nFixed some Glitches wich could let you bypass traps\r\nAdded Anti Portal Camping\r\nChanged Buttons ( Do they fit my garage theme now ?)\r\nCar Explosion Radius is now bigger\r\nSteam Trap Area is now bigger\r\n\r\nv1\r\nMap improved\r\n\r\n\r\nTo Change for an fixed final release:\r\nEarthquake doesnt kill at one part.\r\nMake it so you cant glitch Steam Garage Trap."
+}

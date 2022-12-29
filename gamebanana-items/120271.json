@@ -1,0 +1,34 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "README.txt",
+					"Downloadserver": [
+						"balloon_race_v3.bsp.bz2"
+					],
+					"Gameserver": [
+						"balloon_race_v3.bsp"
+					]
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 323877,
+			"_nDownloadCount": 3449,
+			"_nFilesize": 17724093,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/323877",
+			"_sFile": "balloon_race_v3.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1269364665
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 120271,
+	"_sName": "balloon_race_v3",
+	"_sText": "**SERVER REQUERIMENTS**\r\nServer must run the next scripts/mods to run this map and complete the objectives:\r\n\r\n-Deathmatch script.\r\n-Noblock.\r\n\r\nCurrent version: v3\r\n\r\nThis is a balloon race.\r\nThe objective of the game is to win the race, each team controls one balloon, each balloon has a weapon box (only rifles) and healthkit (restores 4HP/second). To move the ballon at least one player must stay in the boat rudder, the balloon gradually picks up speed, if player leaves the rudder the balloon will slow down gradually until it stops.\r\n\r\nIn the map are 4 checkpoints, each checkpoint has different objectives.\r\n\r\nCheckpoint 1: Capture the flag\r\nThe team that captures the flag and carried the extreme of the boat (under the arrow) wins the point.\r\n\r\nCheckpoint 2: Elevator race\r\nWorks similar than the balloons, stay inside the elevator  until it reach the top. The first elevator that reachs top win, the loser elevator will explode (caution).\r\n\r\nCheckpoint 3: Press the button\r\nThe first team that press their button will win.\r\n\r\nCheckpoint 4: Capture the point\r\nThe first team tha captures the point wins. when a player is at the point their flag will start to ascend, if players leaves the point after 5 seconds the flag will start to go down, only 1 team can capture the flag at the same time. WHen the flags reaches top the point is fully captured.\r\n\r\nWhen a team wins a checkpoint their ballon will get a speedbost for 16 seconds.\r\n\r\nWhen race ends both teams will be disarmed and will be teleported to the kill room, winners will get equiped with a m249 and will start a rampage, after 10 seconds all losers will die and a new round will start.\r\n\r\n--------------------------------------------------------------------\r\nChangelog\r\n\r\n--v1--\r\n\r\nFirst release\r\n\r\n--v1b--\r\n\r\nFixed Flag bug, now respawns correctly.\r\n\r\n--v2--\r\n-Added lighting, also added HDR.\r\n-Balloons and boats now have reflective surfaces.\r\n-Added startmusic (Lets get ready to rumble).\r\n-Fixed old bugs.\r\n-The hangar doors now rotates instead to move up, allowing players to rush to the enemies base but can't enter in the enemy spawnroom.\r\n-Time until door opens increased to 20 seconds\r\n-Inside the boats players can get now grenades and AWPs.\r\n\r\n--v2b--\r\n-Fixed server crash\r\n-Improved lighthing and shadows on displacements.\r\n\r\n--v2c--\r\n-Excesive dropped weapons wil be removed\r\n-Added 3DSkybox\r\n-Bug fixed on checkpoint 3 & 4\r\n\r\n--v2d--\r\n-Less dropped weapons in the map will be abled.\r\n-Fixed the weapon spawn glicth.\r\n\r\n--v3--\r\n-Bigger map with improved design.\r\n-New boat design.\r\n-Alternative tracks for later ballon that makes shorter tracks.\r\n-AWP replaced by scouts.\r\n-Balloons max speed increased.\r\n-Less time to increase 20% speed and more time to decrease 20% speed.\r\n-Medical kit gives x2 HP.\r\n-Players spawn with usp and 1000 ammo.\r\n-Now weapons are locked, when a balloon reachs first CP or both balloons are near from first CP players will be able to use strong weapons.\r\n-Checkpoint 1 and checkpoint 3 with new desing that improves fights.\r\n-Now Flag dont need to be dropped unde the arrow to win the point.\r\n-When a player pickups the flag he must capture in 30 seconds, after this time flag will respawn.\r\n-Fixed bugs when CP are captured incorrectly."
+}

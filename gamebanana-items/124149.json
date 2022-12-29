@@ -1,0 +1,62 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"Sebhael's Italia": {
+						"0": "Read Me.txt",
+						"Fight Yard": {
+							"cstrike": {
+								"maps": [
+									"fyseb_italia_finalv2.bsp",
+									"fyseb_italia_finalv2.txt"
+								]
+							}
+						},
+						"GunGame - Deathmatch": {
+							"cstrike": {
+								"maps": [
+									"dmseb_italia_finalv1.bsp",
+									"dmseb_italia_finalv1.txt"
+								]
+							}
+						},
+						"OHLAWD IS THIS A FOLDER OF SCREENS - I DO THINK SO!!!": [
+							"1.jpg",
+							"2.jpg",
+							"3.jpg",
+							"4.jpg",
+							"5.jpg",
+							"6.jpg"
+						],
+						"Vanilla CSS": {
+							"cstrike": {
+								"maps": [
+									"seb_italia_finalv1.bsp",
+									"seb_italia_finalv1.txt"
+								]
+							}
+						}
+					}
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 349360,
+			"_nDownloadCount": 5380,
+			"_nFilesize": 7746607,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/349360",
+			"_sFile": "sebhaels_italia.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1187250658
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 124149,
+	"_sName": "seb_italia (fixes - multivers)",
+	"_sText": "This pack consists of 3 different versions of my most recent FySeb_Italia map. \r\n\r\nThe pack contains an updated version of fyseb_italia that SHOULD \r\n(I don't know, cause I don't have any friends to test with) fix problems with getting stuck when two people \r\ngo through the same spawn door shortly after each other. \r\n\r\nA few more tweaks have been made as well, such as placing nodraw brushes in places unseen to hopefully improve\r\nmap performance.\r\n\r\nThis release also contains a AFK solution, thanks to Fox154. \r\nAfter 60 seconds of the round, anyone left in the spawnzone will be teleported.\r\n\r\n---\r\nFight Yard - \r\nThis is the same map that I have been working on for about a week now. \r\nDepending on the door you choose, you will be spawned with certian weaponry.\r\n\r\nGunGame - Deathmatch - \r\nThis version lacks the whole \"Your door = your weapons\" thing I had going, but has no buyzone. \r\nBest used in conjunction with the Mattie EventScript GUNGAME, and the SourceMod plug-in, CSSDM.\r\n\r\nVanilla CSS - \r\nThis version is the same as above, just with a buyzone in the spawn.\\\r\n\r\n<object width=\"425\" height=\"355\"><param name=\"movie\" value=\"http://www.youtube.com/v/0hvmbawrOkw&rel=1\"></param><param name=\"wmode\" value=\"transparent\"></param><embed src=\"http://www.youtube.com/v/0hvmbawrOkw&rel=1\" type=\"application/x-shockwave-flash\" wmode=\"transparent\" width=\"425\" height=\"355\"></embed></object>"
+}

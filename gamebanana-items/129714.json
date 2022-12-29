@@ -1,0 +1,56 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"ba_skyyjail": {
+						"0": "readme.txt",
+						"maps": [
+							"ba_skyyjail.bsp",
+							"ba_skyyjail.res"
+						],
+						"materials": {
+							"de_rennes_v1": [
+								"dev_cratewood01a.vmt",
+								"dev_cratewood01a.vtf",
+								"metal_red.vmt",
+								"metal_red.vtf"
+							],
+							"decals": {
+								"custom": {
+									"mani_admin_plugin": [
+										"brochette_v2.vmt",
+										"brochette_v2.vtf",
+										"credits__.vmt",
+										"credits__.vtf",
+										"luciole_tag_f.vmt",
+										"luciole_tag_f.vtf",
+										"skyymap's.vmt",
+										"skyymap's.vtf"
+									]
+								}
+							}
+						}
+					}
+				},
+				"_sMimeType": "application/x-7z-compressed"
+			},
+			"_bContainsExe": false,
+			"_idRow": 315752,
+			"_nDownloadCount": 1154,
+			"_nFilesize": 697241,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/315752",
+			"_sFile": "_117-.7z",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1294090447
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 129714,
+	"_sName": "ba_skyyjail",
+	"_sText": "Put the file /map in your serveur on /halflife2/orangebox/cstrike/maps\n\nand the file materials in your server on /halflife2/orangebox/cstrike/materials"
+}

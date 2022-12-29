@@ -1,0 +1,60 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_orange.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 549166,
+			"_nDownloadCount": 1083,
+			"_nFilesize": 134294359,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/549166",
+			"_sFile": "de_orange_c2bf5.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1617997147
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_oranges.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 598430,
+			"_nDownloadCount": 431,
+			"_nFilesize": 133416139,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/598430",
+			"_sFile": "de_oranges.rar",
+			"_sMd5Checksum": "a85c11946643eec54f854994bc06aba4",
+			"_tsDateAdded": 1624478757
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Repair"
+				}
+			],
+			"_sText": "- delet teleport<br><br>+ repair&nbsp;doors<br><br>+ repair collision of balcony railings<br><br>+ added some sounds<br><br>",
+			"_sTitle": "de_oranges",
+			"_tsDateAdded": 1624478851
+		}
+	],
+	"_idRow": 103401,
+	"_sName": "de_orange",
+	"_sText": "<div class=\"SelectedElement\">de_orange is a port with remake of the de_orange from the Counter-Strike: Global Offensive game.</div>original map: https://gamebanana.com/maps/175911<br><br>"
+}

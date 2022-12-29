@@ -1,0 +1,72 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"bhop_transitions.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 469103,
+			"_nDownloadCount": 81,
+			"_nFilesize": 32577265,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/469103",
+			"_sFile": "bhop_transitions_6836d.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1592395026
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Added Triggers/clips to prevent people from skipping(again..)"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Extended Glass/Triggers on garden stage"
+				}
+			],
+			"_sText": "Stop breaking my map pls",
+			"_sTitle": "V3",
+			"_tsDateAdded": 1592395077
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Adjustment",
+					"text": "Extended playerclip on start to prevent skipping"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Made bottom displacements on lava stage non-solid"
+				},
+				{
+					"cat": "Addition",
+					"text": "Replaced nodraws with clips on lava stage"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Fixed some displacements where you could see-through"
+				},
+				{
+					"cat": "Removal",
+					"text": "Removed surf bonus (because the more i tried to fix it the more it broke)"
+				}
+			],
+			"_sText": "Thanks kwik hops for testing and finding that stupid skip",
+			"_sTitle": "Fixed Version",
+			"_tsDateAdded": 1592173804
+		}
+	],
+	"_idRow": 126242,
+	"_sName": "bhop_transitions",
+	"_sText": "My first bhop(fly?) map. Made for Autobhop.<br><br>Big thanks to Dream for helping me with displaying the water properly which intially caused me numerous headaches. And thanks to all the people who tested this map: MJAU, Dream, dinget.<br><br>In case i forgot anyone please inform me..<br><br>Difficulty: Hardish<br>Checkpoints: what?<br>Autobhop: yes<br>Scroll: Just don't<br>"
+}

@@ -1,0 +1,56 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"zm_building": [
+						"zm_Building_v3D.bsp",
+						"zm_Building_v3N.bsp",
+						"zm_Building_v3W.bsp"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 715528,
+			"_nDownloadCount": 344,
+			"_nFilesize": 136281434,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "zm_Building",
+			"_sDownloadUrl": "https://gamebanana.com/dl/715528",
+			"_sFile": "zm_building_58643.7z",
+			"_sMd5Checksum": "27d1fe8280dd9223375421449725010a",
+			"_tsDateAdded": 1640256311
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "More details"
+				},
+				{
+					"cat": "Addition",
+					"text": "More cranes"
+				},
+				{
+					"cat": "Addition",
+					"text": "New helicopter"
+				},
+				{
+					"cat": "Addition",
+					"text": "New indoor spaces"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "v2",
+			"_tsDateAdded": 1640257513
+		}
+	],
+	"_idRow": 311025,
+	"_sName": "zm_Building",
+	"_sText": "The building under construction. Map has three versions: daytime, night and smoky. There are some helicopters, dynamic car, rotating cranes and code door.<br><br>"
+}

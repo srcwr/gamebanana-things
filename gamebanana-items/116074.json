@@ -1,0 +1,74 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"hns_lazytown": {
+						"Screen": [
+							"hns_lazytown0006.jpg",
+							"hns_lazytown0007.jpg",
+							"hns_lazytown0008.jpg",
+							"hns_lazytown0009.jpg",
+							"hns_lazytown0010.jpg",
+							"hns_lazytown0011.jpg",
+							"hns_lazytown0012.jpg",
+							"hns_lazytown0013.jpg",
+							"hns_lazytown0014.jpg",
+							"hns_lazytown0015.jpg",
+							"hns_lazytown0016.jpg"
+						],
+						"cstrike": {
+							"downloadlists": [
+								"hns_lazytown.lst"
+							],
+							"maps": [
+								"hns_lazytown.bsp",
+								"hns_lazytown.bsp.ztmp",
+								"hns_lazytown.nav"
+							],
+							"materials": {
+								"models": {
+									"lazytown": [
+										"123.vmt",
+										"123.vtf",
+										"1234.vmt",
+										"1234.vtf",
+										"12345.vmt",
+										"12345.vtf",
+										"lazytown.vmt",
+										"lazytown.vtf"
+									]
+								},
+								"simpsons": {
+									"0": "kwikimartsign.vmt",
+									"1": "kwikimartsign.vtf",
+									"pictures": [
+										"Homer_Bart_Matrix.vmt",
+										"Homer_Bart_Matrix.vtf"
+									]
+								}
+							}
+						}
+					}
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 332536,
+			"_nDownloadCount": 1789,
+			"_nFilesize": 4841891,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/332536",
+			"_sFile": "hns_lazytown.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1239990780
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 116074,
+	"_sName": "hns_lazytown",
+	"_sText": "This is a map that terrorists hide and counter-terrorists seek.\r\nSimply this is a small town with stairs on the wall to jump on.\r\nIf you want to play this map properly it's good to have sv_airaccelerate 250.\r\n\r\nIn this version everyone starts with a pistol. but ofcourse it's better that terrorists dont have guns and CT only knife."
+}

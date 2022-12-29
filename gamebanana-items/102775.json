@@ -1,0 +1,56 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"de_italy": {
+						"maps": [
+							"de_italy.bsp",
+							"de_italy.nav",
+							"de_italy.txt"
+						],
+						"materials": {
+							"models": {
+								"props": {
+									"de_italy": [
+										"builder.vmt",
+										"builder.vtf",
+										"italy.vmt",
+										"italy.vtf",
+										"no entry.vmt",
+										"no entry.vtf"
+									]
+								}
+							},
+							"overviews": [
+								"de_italy_radar.vmt",
+								"de_italy_radar.vtf"
+							]
+						},
+						"resource": {
+							"overviews": [
+								"de_italy.txt"
+							]
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 330626,
+			"_nDownloadCount": 3498,
+			"_nFilesize": 5251794,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/330626",
+			"_sFile": "de_italy_6.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1247086693
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 102775,
+	"_sName": "de_italy",
+	"_sText": "\t\r\nA simple remake of cs_italy. There were added new areas and new routes are now open for your opponents out of the ambush to do.\r\n\t\r\nUnfortunately, my mistakes because of the radar will not be displayed. I have already corrected the error. Those which the map does not want to download times can also fix errors as follows.\r\n\r\ncstrike -> resource -> overviews -> de_italy.txt\r\n\r\nHere you must just \"overviews/de_italy\" in \"overviews/de_italy_radar change. \r\n\r\n\r\n\r\nMy special thx go to Chizbone for tuning the old Nav file."
+}

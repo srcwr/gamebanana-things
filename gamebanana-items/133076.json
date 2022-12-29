@@ -1,0 +1,128 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"zm_winter_helicopter_v2r_o_3.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 474387,
+			"_nDownloadCount": 226,
+			"_nFilesize": 3996857,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "_v2r_o_3",
+			"_sDownloadUrl": "https://gamebanana.com/dl/474387",
+			"_sFile": "zm_winter_helicopter_v2r_o_3.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1594802728
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"zm_winter_helicopter_v2r_o_2.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 468933,
+			"_nDownloadCount": 121,
+			"_nFilesize": 3135637,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "_v2r_o_2",
+			"_sDownloadUrl": "https://gamebanana.com/dl/468933",
+			"_sFile": "zm_winter_helicopter_v2r_o_2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1592315654
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"zm_winter_helicopter_v2r_o_1.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 466723,
+			"_nDownloadCount": 140,
+			"_nFilesize": 2799559,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "_v2r_o_1",
+			"_sDownloadUrl": "https://gamebanana.com/dl/466723",
+			"_sFile": "zm_winter_helicopter_v2r_o_1.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1591277443
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"zm_winter_helicopter_v2r_o.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 465804,
+			"_nDownloadCount": 147,
+			"_nFilesize": 2740065,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "_v2r_o",
+			"_sDownloadUrl": "https://gamebanana.com/dl/465804",
+			"_sFile": "zm_winter_helicopter_v2r_o_2aa3d.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1590832212
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Adjustment",
+					"text": "Hatch rotation angle"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Bunker mechanism"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Playerclips of helicopter's landing skid are wider"
+				}
+			],
+			"_sText": "This update is a mini-update with the purpose of resolving the problems pointed out by xkonsole.<br><br>The biggest change in this version would be the bunker mechanism, which I will explain.<br><br>During the actual gameplay using the bunker, this is what I had in mind:<br><ul><li><b>Round start: </b>Humans choose either one of the two buildings connected to a bunker, and defend/barricade in that building for 2 minutes.</li><li><b>After 2 Minutes:</b>&nbsp;The bunker entrance opens. Humans can now enter the bunker, or try to maintain the barricade in the building.</li><li class=\"SelectedElement\"><b>Final Defend:</b>&nbsp;Humans protect the bunker by defending and preventing zombies from<b> touching</b> or <b>passing through </b>the hazard mark. If they fail, the bunker will kill any humans/zombies in the bunker's safe zone. This is intentional, since I want to prevent zombies hiding in the bunker to avoid map nuke.<br></li></ul><br><b>Bunker 1</b><br><img src=\"//drive.google.com/uc?id=1fZgGvskT1tjV-zn-cS-A-skiRenYFP9t\"><br><br><b>Bunker 2</b><img src=\"//drive.google.com/uc?id=10fs_pDGYkFgv3kZXpD-FcPF0lFcfIqqn\"><br>&nbsp;I do have to add that the <b>\"Safe Zone\"</b>&nbsp;part of the bunker that's protected from the map nuke is only the rooms with metal floor.<br><br>This bunker is only an ALTERNATIVE choice for humans to survive, and the MAIN choice would be reaching the end through the helicopter.<br><br><img src=\"//drive.google.com/uc?id=1MvdZ0JAg5y8Q4ngUF31z37EWusjUjVhU\"><br><br>I've made a diagram that consists of in-game events, that hopefully will be a better form of explanation rather than me typing walls of texts:<br><img src=\"//drive.google.com/uc?id=1EZ-prn_60tuFIUDWJrEkBHPE3bMg--Dm\"><br><br>I've added a computer desk in the final zone with light indicator that turns green when there are no zombies in the 2nd helicopter. Otherwise, it turns red.<br><br>I hope these explanations are clear, and it has good gameplay in an actual round. <u>If the image is too small, please right click and open in new tab.</u>",
+			"_sTitle": "_v2r_o_3",
+			"_tsDateAdded": 1594804609
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Added a small amount of detail to the map"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "As suggested by xkonsole, the value of nuke damage is changed to 65535"
+				},
+				{
+					"cat": "Addition",
+					"text": "A small bunker area"
+				}
+			],
+			"_sText": "This is just a mini update that features some suggestions by xkonsole, and I most likely won't make another update, or upload new maps for a month or two.<br><br>Several things about the bunker:<br><ul><li>Only <b>humans</b>&nbsp;can enter it. The reason why will be clear once you read the third point.</li><li>Bunker hatch opens only if humans <b>safely</b>&nbsp;reach the end of the map. If <b>no humans </b>reach the end of the map, the hatch<b> won't</b> open.</li><li class=\"SelectedElement\"><i>(Please look at the second to last screenshot with the caption: Bunker Entrance</i>&nbsp;<i>for visualization)</i>&nbsp;In a situation where some humans <b>safely reach the end of the map</b>, the bunker hatch <b>opens</b>. However, if one or more zombies crosses the hazard mark, the hatch <b>instantly closes</b>. If this happens, <b>zombies</b>&nbsp;should NOT be able to enter the bunker. If zombies do manage to get into the bunker, the nuke also damages zombie hiding in the bunker (not humans). The gameplay goal is humans can defend / create prop barricade in the building with the bunker. <i>I will probably add more bunkers in the future.</i></li></ul><br>I've tested whether the triggers work, and I think they do. If there are any errors, please notify me. I will try to fix them when I have the time.",
+			"_sTitle": "_v2r_o_2",
+			"_tsDateAdded": 1592316236
+		}
+	],
+	"_idRow": 133076,
+	"_sName": "zm_winter_helicopter",
+	"_sText": "Original thread of first version of this map:<br><a href=\"https://plaguefest.com/threads/zm_winter_escape_qr_v1.20907/\" target=\"_blank\">http://plaguefest.com/threads/zm_winter_escape_qr_v1.20907/</a><br><br>The map linked above was my first ever attempt to combine ZM+ZE into one map. However, I failed to do so. This <b>zm_winter_helicopter</b>&nbsp;is my most recent attempt, and I think this fits in ZM gamemode, rather than my <a href=\"https://gamebanana.com/maps/209986\">previous submission</a>.<br><br>Both this map <b>zm_winter_helicopter</b>&nbsp;and <b>ze_winter_warehouse</b>&nbsp;are the successor of that <i>first version of this map</i>, hence I treat both maps as v2.<br><br><h1>Map Description</h1><ul><li><b>zm_winter_helicopter</b>&nbsp;is a town/city-themed map.</li><li>Old version was not that good, so this is a remake.</li><li>This map is inspired by ATIX helicopter.</li><li>This map combines both ZM aspects (barricading), and ZE aspects (escaping).<br></li><li>It has 64 player spawns, some spots to barricade, or to hold.<br></li></ul><hr><h1><b>Map Feature</b></h1><ul><li>There are many buildings containing one or more barricading/defending spot.</li><li class=\"SelectedElement\">Players can choose to play regular ZM by just barricading/defending in a spot (however they would still die by the nuke), or they can escape with the helicopter.</li><li>There are <b>two </b>helicopters.</li><li>There is a secret teleport room that can be unlocked with the right code. Different codes will change the teleport destination.</li></ul><hr><h1><b>Gameplay Flow</b></h1><b>Humans</b><br><ul><li>Humans can either choose a spot to defend/barricade just like in regular ZM, or they can go to the roof to enter the helicopter that will approach them after a certain amount of time.</li></ul><br><b>Zombies</b><br><ul><li>Attack humans in the barricading/defending spot.</li><li>Try to enter the helicopter and trigger the nuke before the timer runs out.</li></ul><hr><h1><b>Changelog (v1 to v2)</b></h1><ul><li>The entire map layout is completely different. Rather than lila panic-like buildings, I made a whole new town layout.</li><li>Changed from daytime to dusk/dawn-time.</li><li>Helicopter has been changed, I decided to use the prefab made by AuroraF:&nbsp;<a href=\"https://gamebanana.com/prefabs/2742\">https://gamebanana.com/prefabs/2742</a></li></ul><br>If there are bugs in the map, please notify me and i'll try to fix it.<br>"
+}

@@ -1,0 +1,216 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "Acerca del mapa.txt",
+					"Screenshots": [
+						"1er Piso Base CT'S.jpg",
+						"1er Piso Base TT'S.jpg",
+						"Acueducto.jpg",
+						"Bombsite Base CT'S.jpg",
+						"Bombsite Deposito CT'S.jpg",
+						"Callejon Base CT'S.jpg",
+						"Callejon Base TT'S.jpg",
+						"Deposito TT'S.jpg",
+						"Habitacion Oculta.jpg",
+						"Habitacion con TV.jpg",
+						"Habitacion con radio.jpg",
+						"Habitacion de camaras de seguridad.jpg",
+						"Interseccion Base CT'S-Habitacion con radio.jpg",
+						"Interseccion Base TT'S-Habitacion con radio.jpg",
+						"Interseccion Deposito CT'S-Habitacion con TV.jpg",
+						"Interseccion Deposito TT'S-Habitacion con TV.jpg",
+						"Pileta.jpg",
+						"Spawn CT'S.jpg",
+						"Spawn TT'S.jpg",
+						"Tunel subterraneo.jpg"
+					],
+					"cstrike": {
+						"maps": [
+							"de_deposito.bsp",
+							"de_deposito.nav",
+							"de_deposito.txt"
+						],
+						"materials": {
+							"de_deposito": [
+								"Argentina.vmt",
+								"Argentina.vtf",
+								"Camaramaterial.vmt",
+								"Camaramaterial.vtf",
+								"Camaramaterial_spec.vtf",
+								"brickwall031a.vmt",
+								"brickwall031a.vtf",
+								"cagon.vmt",
+								"cagon.vtf",
+								"cajaexplosivosa.vmt",
+								"cajaexplosivosa.vtf",
+								"cajaexplosivosb.vmt",
+								"cajaexplosivosb.vtf",
+								"cajaexplosivosc.vmt",
+								"cajaexplosivosc.vtf",
+								"cajaverde.vmt",
+								"cajaverde.vtf",
+								"cajaverde1.vmt",
+								"cajaverde1.vtf",
+								"concretefloor008a.vmt",
+								"concretefloor008a.vtf",
+								"concretefloor009a.vmt",
+								"concretefloor009a.vtf",
+								"concretefloor016a.vmt",
+								"concretefloor016a.vtf",
+								"concretefloor031a.vmt",
+								"concretefloor031a.vtf",
+								"concretewall006a.vmt",
+								"concretewall006a.vtf",
+								"concretewall007a.vmt",
+								"concretewall007a.vtf",
+								"contranuevo.vmt",
+								"contranuevo.vtf",
+								"cratesm01.vmt",
+								"cratesm01.vtf",
+								"decalseguridad.vmt",
+								"decalseguridad.vtf",
+								"door011.vmt",
+								"door011.vtf",
+								"doorbutton002a.vmt",
+								"doorbutton002a.vtf",
+								"gallinas.vmt",
+								"gallinas.vtf",
+								"graffiti_boludo.vmt",
+								"graffiti_boludo.vtf",
+								"grassfloor003a.vmt",
+								"grassfloor003a.vtf",
+								"lhnuevo.vmt",
+								"lhnuevo.vtf",
+								"metalcrate002d.vmt",
+								"metalcrate002d.vtf",
+								"metaldoor009a.vmt",
+								"metaldoor009a.vtf",
+								"metaldoor017a.vmt",
+								"metaldoor017a.vtf",
+								"metaltruss017a.vmt",
+								"metaltruss017a.vtf",
+								"notocar.vmt",
+								"notocar.vtf",
+								"peligrocartel.vmt",
+								"peligrocartel.vtf",
+								"peligrocartel1.vmt",
+								"peligrocartel1.vtf",
+								"pipe_wall5_1.vmt",
+								"pipe_wall5_1.vtf",
+								"plasterwall041a.vmt",
+								"plasterwall041a.vtf",
+								"rojo.vmt",
+								"rojo.vtf",
+								"salidacartel.vmt",
+								"salidacartel.vtf",
+								"terrornuevo.vmt",
+								"terrornuevo.vtf",
+								"tilefloor008a.vmt",
+								"tilefloor008a.vtf",
+								"wall03b.vmt",
+								"wall03b.vtf",
+								"wallpaper02a.vmt",
+								"wallpaper02a.vtf",
+								"woodfloorlh.vmt",
+								"woodfloorlh.vtf",
+								"woodfloorlh_spec.vtf"
+							],
+							"models": {
+								"props": {
+									"de_deposito": [
+										"Camara.vmt",
+										"Camara.vtf",
+										"Camara_ref.vtf",
+										"Metaldeposito.vmt",
+										"Metaldeposito.vtf",
+										"Metaldeposito_ref.vtf",
+										"Vidrio.vmt",
+										"Vidrio.vtf",
+										"Vidrio_ref.vtf",
+										"fence_alpha.vmt",
+										"fence_alpha.vtf",
+										"fence_sheet01.vmt",
+										"fence_sheet01.vtf",
+										"lh_2702.vmt",
+										"lh_2702.vtf"
+									]
+								}
+							},
+							"overviews": [
+								"de_deposito.vmt",
+								"de_deposito.vtf",
+								"de_deposito_radar.vmt",
+								"de_deposito_radar.vtf"
+							]
+						},
+						"models": {
+							"props": {
+								"de_deposito": [
+									"Camara.dx80.vtx",
+									"Camara.dx90.vtx",
+									"Camara.phy",
+									"Camara.sw.vtx",
+									"Camara.xbox.vtx",
+									"Metaldeposito.dx80.vtx",
+									"Metaldeposito.dx90.vtx",
+									"Metaldeposito.phy",
+									"Metaldeposito.sw.vtx",
+									"Metaldeposito.xbox.vtx",
+									"camara.mdl",
+									"camara.vvd",
+									"exterior_fence002d.dx80.vtx",
+									"exterior_fence002d.dx90.vtx",
+									"exterior_fence002d.mdl",
+									"exterior_fence002d.phy",
+									"exterior_fence002d.sw.vtx",
+									"exterior_fence002d.vvd",
+									"exterior_fence002d.xbox.vtx",
+									"lh_2702.dx80.vtx",
+									"lh_2702.dx90.vtx",
+									"lh_2702.mdl",
+									"lh_2702.phy",
+									"lh_2702.sw.vtx",
+									"lh_2702.vvd",
+									"lh_2702.xbox.vtx",
+									"metaldeposito.mdl",
+									"metaldeposito.vvd"
+								]
+							}
+						},
+						"resource": {
+							"overviews": [
+								"de_deposito.txt"
+							]
+						},
+						"sound": {
+							"ambient": {
+								"de_deposito": [
+									"maradona_fuck_ingleses.wav",
+									"nelson.wav"
+								]
+							}
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 279735,
+			"_nDownloadCount": 2171,
+			"_nFilesize": 11449834,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/279735",
+			"_sFile": "de_deposito_3.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1454024859
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 101809,
+	"_sName": "de_deposito",
+	"_sText": "<hr>\r\n<h2 class=\"\">Title : Deposito</h2>\r\n<h2 class=\"\">Type:&nbsp;<span>DE - Bomb/Defuse</span></h2>\r\n<h2>Version of the game: Counter - Strike : Source</h2>\r\n<h2>Author : LH_2702</h2>\r\n<h2>E-Mail: lheitt@gmail.com</h2>\r\n<hr>\r\n<h2>Greetings ;) ...</h2>"
+}

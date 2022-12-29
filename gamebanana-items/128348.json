@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"mg_mountain_course_gk_v2.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 296923,
+			"_nDownloadCount": 1603,
+			"_nFilesize": 7048506,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/296923",
+			"_sFile": "mg_mountain_course_gk_v2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1358779491
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 128348,
+	"_sName": "mg_mountain_course_gk_v2",
+	"_sText": "MG_Mountain_Course_GK_v2\r\n\r\nImprovements:\r\nOnly the first 4 levels, and last level, will now kill players when they fail.\r\nAdded 3 more levels (effectively doubling the size of the original map).\r\nRemoved the AFK killer, as any AFKs will be teleported to the end of the map upon completion anyway.\r\nMade a few structural changes to improve FPS."
+}

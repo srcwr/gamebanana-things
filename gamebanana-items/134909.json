@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"gg_funround_b2.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 349274,
+			"_nDownloadCount": 1455,
+			"_nFilesize": 659822,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/349274",
+			"_sFile": "gg_funround_b2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1187548862
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 134909,
+	"_sName": "gg_funround_b2",
+	"_sText": "To the average player, the only real thing new on this map is the ladders. Much easier to go up as well as down. I also fixed a bunch of places that snagged the player model. Some textures have been altered.\r\n\r\nThis was my first map, and that said it was horrible as far as optimization goes. Leaks, tons of extra brush faces, no func_detail use.  \r\n\r\nI went through and fixed everything I could find, even added clip brushes around the outer wall top just in case people try to go up there. Long story short, the frame rate is way up and the file size is down almost half a meg. \r\n\r\nAdded about 40 cubemaps. Where as there was only a single one before."
+}

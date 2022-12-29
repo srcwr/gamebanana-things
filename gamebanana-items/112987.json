@@ -1,0 +1,45 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "Installation.txt",
+					"Screenshots": [
+						"Thumbs.db",
+						"fy_ishtar01.jpg",
+						"fy_ishtar02.jpg",
+						"fy_ishtar03.jpg",
+						"fy_ishtar04.jpg",
+						"fy_ishtar05.jpg"
+					],
+					"cstrike": {
+						"maps": [
+							"fy_ishtar.bsp",
+							"fy_ishtar.nav"
+						],
+						"scripts": [
+							"soundscapes_fy_ishtar.txt"
+						]
+					}
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 341834,
+			"_nDownloadCount": 1950,
+			"_nFilesize": 4779308,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/341834",
+			"_sFile": "fy_ishtar_11.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1211241221
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 112987,
+	"_sName": "fy_ishtar",
+	"_sText": "Decided to make something relatively realistic for a change.\r\n\r\nInitially I went way overboard with details and geometry which resulted in major performance issues, so I had to simplify and redesign quite a bit. I need to learn to use 3DSMax so I can use custom models instead of func_details. =/\r\n\r\nV1.1\r\n\r\n1. Fixed weapon ammo capacity.\r\n2. Replaced carpet brushes with overlays.\r\n3. Fixed player clips.\r\n4. Replaced func_detail with func_brush for ivy's"
+}

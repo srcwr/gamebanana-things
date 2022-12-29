@@ -1,0 +1,33 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "ReadMe.txt",
+					"maps": [
+						"cs_cells.bsp",
+						"cs_cells.res",
+						"cs_cells.txt"
+					]
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 356011,
+			"_nDownloadCount": 1582,
+			"_nFilesize": 94014,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/356011",
+			"_sFile": "cs_cells.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1159645216
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 111088,
+	"_sName": "cs_cells",
+	"_sText": "Players spawn within a cellular structure with breakable walls which give access to other cells within the map.\r\n\r\nBoth teams are split into two groups and spawn at opposite ends of the map.\r\n\r\nThere is no way of predicting which end your team mates have spawned at, so be careful and make sure that you don't end up having to reload as soon as a wall has broken open."
+}

@@ -1,0 +1,69 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"dm_runoff_fixes.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 388355,
+			"_nDownloadCount": 677,
+			"_nFilesize": 5075730,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/388355",
+			"_sFile": "dm_runoff_fixes.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1531039606
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"materials": {
+						"overviews": [
+							"dm_runoff_fixes.vmt",
+							"dm_runoff_fixes.vtf"
+						]
+					},
+					"resource": {
+						"overviews": [
+							"dm_runoff_fixes.txt"
+						]
+					}
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 388501,
+			"_nDownloadCount": 261,
+			"_nFilesize": 385541,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/388501",
+			"_sFile": "radar_dm_runoff_fixes.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1531137652
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Added radar for the map. Archive attached below"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Final Release",
+			"_tsDateAdded": 1531137602
+		}
+	],
+	"_idRow": 117565,
+	"_sName": "dm_runoff_fixes",
+	"_sText": "<span class=\"GreenColor\"><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/tTtp6RKhiy8\" frameborder=\"0\" allowfullscreen=\"\"></iframe><br><br>Port of the map with HL2 DM - <span class=\"RedColor\">dm_runoff</span>.<br><br>Goal on the map: Keep the room on the map. Video detailed attach below<br><br></span>"
+}

@@ -1,0 +1,45 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"maps": [
+						"de_dust_2043.bsp",
+						"de_dust_2043.nav"
+					],
+					"materials": {
+						"overviews": [
+							"de_dust_2043.vmt",
+							"de_dust_2043.vtf",
+							"de_dust_2043_radar.vmt",
+							"de_dust_2043_radar.vtf"
+						]
+					},
+					"resource": {
+						"overviews": [
+							"de_dust_2043.txt"
+						]
+					}
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 490678,
+			"_nDownloadCount": 301,
+			"_nFilesize": 6195800,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/490678",
+			"_sFile": "de_dust_2043.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1602643295
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 102130,
+	"_sName": "de_dust_2043",
+	"_sText": "This is taken directly from the classic map de_dust by the great Dave Johnston. All measurements were taken from the original but this is technically a complete rebuild with a futuristic, industrial theme, lighting adjustments and a few fun extras.<br><br>- 30 players per team (60 total)<br><br>Update 10/12 @ 12:15pm: I found an accidentally placed additional terrorist spawn point in the middle of the map that I didn't catch before compiling the map so it's been updated with this removed. The .nav was updated as well to reflect this.<br><br><br>NOTE: Files now read as \"de_dust_2043\" for the update, so please take note if you've already added this to your server! Thanks!"
+}

@@ -1,0 +1,43 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"bhop_pharma.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 277769,
+			"_nDownloadCount": 1210,
+			"_nFilesize": 70403512,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/277769",
+			"_sFile": "bhop_pharma_2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1466524233
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "removed env_fades"
+				},
+				{
+					"cat": "-",
+					"text": "fixed a trigger that would send u back 2 levels"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "final",
+			"_tsDateAdded": 1466600083
+		}
+	],
+	"_idRow": 125728,
+	"_sName": "bhop_pharma",
+	"_sText": "just a small map i have been working on.<br><br>hopefully ive found and fixed everything in the map, but if any large bugs will be found contact me.<br><br>heres some alpha pics <a href=\"http://imgur.com/a/9sann\" target=\"_blank\">http://imgur.com/a/9sann</a><br><br><b>download the fixed version if u have trouble with env_fade</b>"
+}

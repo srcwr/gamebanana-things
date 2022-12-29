@@ -1,0 +1,43 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "mg_bm_bossfight0000.jpg",
+					"1": "mg_bm_bossfight0001.jpg",
+					"2": "mg_bm_bossfight0002.jpg",
+					"3": "mg_bm_bossfight0003.jpg",
+					"addons": {
+						"sourcemod": {
+							"plugins": [
+								"autorespawn.smx",
+								"delayroundend.smx"
+							]
+						}
+					},
+					"maps": [
+						"mg_bm_bossfight.bsp"
+					]
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 454630,
+			"_nDownloadCount": 298,
+			"_nFilesize": 10975205,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/454630",
+			"_sFile": "mg_bm_bossfight.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1585411869
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 127605,
+	"_sName": "Boss Fight Map mg_bm_bossfight",
+	"_sText": "First things First <br><span class=\"RedColor\">[Important Note] This Map Suggested To PLAY Only Online! because if you die the map will be restart round if die alone </span><br><span class=\"RedColor\">[Note Number 2] This map Uses custom plugin cvars sm_ar_enable 1 (AutoRespawn) and mp_ignore_round_win_conditions 1 (NoRound End even all players are dead)</span><br>i dont know if mp_ignore_round_win_conditions works on css steam cuz i use old versions of the game<br>but anyway i will put both plugins in the rar file in the download<br>sorry for this types of map posting but i did a lot of work on it<br><span class=\"GreenColor\">CREDITS<br>Emnu - Red Flash / Ideas<br>Nyctophobia - Boss HP Materials<br>Pycc-Team - Moving Monster Attacker Tools Coding </span><br><br>Musics<br>First Music of the Fight - Kevin Macloud<br>Second Music of the Fight - Kevin Macloud<br>End Music - Gaming Songs<br><br>Anyway i hope you enjoy the map<br>You Find a Problem in the Map? Comment"
+}

@@ -1,0 +1,62 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"changes.txt",
+					"surf_lowestbidder.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 515317,
+			"_nDownloadCount": 68,
+			"_nFilesize": 21328010,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/515317",
+			"_sFile": "lowestbidder_dccbc.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1612337980
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"surf_lowestbidder.bsp",
+					"surf_lowestbidder.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 755907,
+			"_nDownloadCount": 27,
+			"_nFilesize": 35017213,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/755907",
+			"_sFile": "surf_lowestbidder_csgo.zip",
+			"_sMd5Checksum": "311f210c4af91228fda272f3e0ec8d6f",
+			"_tsDateAdded": 1645930227
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "CS:GO port available for download"
+				}
+			],
+			"_sText": "Thank you to <a href=\"https://gamebanana.com/members/1739799\">Dini</a> for creating the port.<br>",
+			"_sTitle": "Port",
+			"_tsDateAdded": 1645930658
+		}
+	],
+	"_idRow": 137838,
+	"_sName": "surf_lowestbidder",
+	"_sText": "Tier 4 map (3 checkpoints) with a goofy bonus.<br>"
+}

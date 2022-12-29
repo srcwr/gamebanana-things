@@ -1,0 +1,60 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrike": {
+						"maps": [
+							"fy_pacmap.bsp",
+							"fy_pacmap.txt"
+						],
+						"materials": {
+							"fy_pacmap": [
+								"moribus_pacmap.VMT",
+								"moribus_pacmap.vtf",
+								"pac_evil.vmt",
+								"pac_evil.vtf",
+								"pac_ground.vmt",
+								"pac_ground.vtf",
+								"pac_main.vmt",
+								"pac_main.vtf",
+								"pac_wall.vmt",
+								"pac_wall.vtf",
+								"paccman.vmt",
+								"paccman.vtf",
+								"pacman3.vmt",
+								"pacman3.vtf",
+								"pacmapp.vmt",
+								"pacmapp.vtf"
+							]
+						},
+						"sound": {
+							"ambient": {
+								"fy_pacmap": [
+									"GAMEBEGINNING.WAV"
+								]
+							}
+						}
+					}
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 338921,
+			"_nDownloadCount": 1124,
+			"_nFilesize": 442835,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/338921",
+			"_sFile": "fy_pacmap_2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1219760235
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 113531,
+	"_sName": "fy_pacmap",
+	"_sText": "Map looks like PacMan game."
+}

@@ -1,0 +1,41 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_nove.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 471039,
+			"_nDownloadCount": 73,
+			"_nFilesize": 847958,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/471039",
+			"_sFile": "de_nove_b68f0.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1593345989
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Fixed bug where bots get stuck near a side"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "de_nove_v3",
+			"_tsDateAdded": 1593346181
+		}
+	],
+	"_idRow": 103307,
+	"_sName": "de_nove_v3",
+	"_sText": "Bomb defuse map"
+}

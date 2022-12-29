@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"surf_mystic_beta.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 333684,
+			"_nDownloadCount": 1170,
+			"_nFilesize": 222136,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/333684",
+			"_sFile": "surf_mystic_beta.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1236622531
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 122594,
+	"_sName": "surf_mystic_beta",
+	"_sText": "Surf_Mystic_beta\r\n\r\nHi all! This is my first submission here in FPSBANANA and my first surf map so... I hope you like it.\r\n\r\nPlease test it and report any bug you see or any suggestion to improve it.\r\n\r\nIf you dont know how to test it without a server then follow this instructions :\r\n\r\nFirts go to steam->games tab\r\nThen select CSS->right-click it->properties->set launch options->add the following line :\r\n\r\n-tickrate 66\r\n\r\n(If you have any option already for example \"-console\" then it would be \"-console -tickrate 66\")\r\n\r\nNow open CSS->Create Server->Select the map->When it launches open up console and type in \"sv_airaccelerate 150\" without the \"s\r\n\r\n\r\nYour done, now just surf it ;D"
+}

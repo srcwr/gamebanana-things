@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"aim_gg_2fort_remix_v3.bsp",
+					"aim_gg_2fort_remix_v3.nav"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 335422,
+			"_nDownloadCount": 1084,
+			"_nFilesize": 1235967,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/335422",
+			"_sFile": "aim_gg_2fort_remix_v3.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1231412153
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 133229,
+	"_sName": "aim_gg_2fort_remix_v3",
+	"_sText": "This map is a modification of the original GoldSrc 2Fort from Team Fortress Classic, retextured and modified for gun game. It is only the bridge and the 2 forts.\r\n\r\nDue to my converting the GoldSrc version of the map to a Source-compatible .vmf there are quite a few small leaks in some of the brushes, a lot I have fixed. Nothing bad and not too noticeable unless you look for them. I will try to fix some of these in future updates.\r\n\r\n\r\nUpdate Notes:\r\n\r\nV2:\r\n- Fixed some light leaks (My benefit, to optimize compile time)\r\n- Made part of the bridge breakable.\r\n- Added water into the pit to avoid fall damage.\r\n- Added lights in the sniper towers.\r\n- Added a secret room.\r\n\r\nV3:\r\n- Fixed more light leaks (My benefit, to optimize compile time)\r\n- Fixed breakable bridge.\r\n- Made light fixtures for the lights in the forts.\r\n- Adjusted the ladders to a slight angle.\r\n\r\nTo Do:\r\n- Make the breakable bridge brush more complex.\r\n- Fix most, if not all light leaks.\r\n- Fix brush glitches.\r\n- Make map HDR (Not until all light leaks are fixed).\r\n- Fix brush alignment/blends.\r\n\r\nFinal notes: It seems like every time I fix one thing, 2 more problems pop up."
+}

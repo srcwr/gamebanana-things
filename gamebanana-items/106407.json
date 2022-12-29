@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"aim_campthis.bsp"
+				],
+				"_sMimeType": "application/x-7z-compressed"
+			},
+			"_bContainsExe": false,
+			"_idRow": 327732,
+			"_nDownloadCount": 1827,
+			"_nFilesize": 8026316,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/327732",
+			"_sFile": "aim_campthis.7z",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1256637393
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 106407,
+	"_sName": "aim_campthis",
+	"_sText": "This is my first map. It's a pretty small, 24 player max, enclosed symmetrical arena style map. Started off as an experiment/learning process and didn't expect to release it, however, I ended up continuing the project and believe I have come up with something worth releasing. The map is designed to discourage camping as much as possible. Players can camp if they wish, but will find that they are always vulnerable in some way due to their position.\r\n\r\n------------------------------\r\n\r\nFeatures:\r\n-Very high ceiling (no bouncing nades off the sky)\r\n-Buyzones\r\n-Overview & Radar\r\n-Anti-camp design\r\n-Cubemaps\r\n-Multiple path gameplay\r\n-Symmetrical map for fair play\r\n-Breakable cover\r\n-Bulletproof* one way mirror\r\n-Slippery floors\r\n-Custom textures (just two)\r\n-Automatic lighting zones (enter the area, lights turn on. Leave the area, lights turn off [it's to prevent camping])\r\n-Electrified towers (when generator is destroyed)\r\n-All textures and sounds are included in the bsp. Nav file is included too (Yay Pakrat!)\r\n-Nav file makes for stupid bots... I'll call it a feature :P\r\n\r\n*Please let me know if you experience a counter example.\r\n\r\n------------------------------\r\n\r\nI used a custom texture from the map de_westwood. If you are the author of this texture please let me know so I can add you to the credits. If you do NOT want me to use it then I can remove it on request.\r\n\r\n------------------------------\r\n\r\nThis is version 1.1 of this map. 1.0 was never released.\r\nMy own testing showed that the one way mirror wasn't bulletproof. I did some research and my own testing and have fixed the problem by making the glass much thicker and extending a section of the map to compensate.\r\n\r\n------------------------------\r\n\r\nComments/suggestions/feedback is welcome and wanted. Let me know how the map plays and if you enjoy it or not."
+}

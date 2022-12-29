@@ -1,0 +1,27 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_villa_cocaina_hdr_v1b.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 305806,
+			"_nDownloadCount": 5343,
+			"_nFilesize": 10241853,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/305806",
+			"_sFile": "de_villa_cocaina_hdr_v1b_4.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1326896769
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 104592,
+	"_sName": "de_villa_cocaina_hdr",
+	"_sText": "I have recently fixed this awesome map because original version doesn't work on newer source engines anymore.\r\n<br>\r\n<br>**Fixes/Tweaks**\r\n<br>\r\n<br>- Added HDR\r\n<br>- Now 64 Spawn points instead of 24!\r\n<br>- Replaced missing textures and overlays with new ones\r\n<br>- Fixed foliage and vine lighting\r\n<br>- Removed fog which was causing weird lighting effects\r\n<br>- Removed unnecessary foliage fading\r\n<br>- Added entry to the balcony on 2nd floor\r\n<br>- Removed some unnecessary nodraw textures which were causing strange house transparency\r\n<br>- Fixed darkness in main hall caused by usage of hdr\r\n<br>- Added ladder from outside to \"B\" bombsite to improve gameplay/tactics\r\n<br>- Fixed trees' and 3DSkybox trees' gray textures. Now environment looks much more realistic\r\n<br>\r\n<br>**Changes in 1.1**\r\n<br>\r\n<br>- Restored some original textures\r\n<br>- Restored two ladders on the facade\r\n<br>- Added old, custom \"nav\" file for bots.\r\n<br>- Changed sprite textures. Now they look smoother.\r\n<br>- Generated cubemaps textures for shiny effect.\r\n<br>- Restored radar overview and txt file\r\n<br>\r\n<br>Original map:\r\n<br><a href=\"http://www.gamebanana.com/maps/18057 \" de_villa_cocaina\"\"=\"\">de villa cocaina</a>"
+}

@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ze_chicken_lords_tower_b2mix5.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 304397,
+			"_nDownloadCount": 506,
+			"_nFilesize": 9445720,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/304397",
+			"_sFile": "ze_chicken_lords_tower_b2mix5.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1331761113
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 130670,
+	"_sName": "ze_chicken_lords_tower_b2mix5",
+	"_sText": "This is a mix version of ze_the_chicken_lords_tower\r\n\r\n- The icy slide ramp is removed\r\n- Tried to tone down the AWP abuse a bit by adding a few invisible walls at certain spots. You can still shoot zombies off most sides of the tower, though.\r\n- Humans who jump/fall in the water at the beggining will now die instead of being teleported onto the bridge.\r\n- Added a small plank that covers part of the first jump spot 30 seconds after someone passes it. (the second jump spot already has a small walkway on the side).\r\n- Two new paths to take at the beggining, as an attempt to fix the terribad spawn.\r\n- The chicken will now actually kill people.\r\n- Fixed spots where you could jump around walls and such instead of waiting.\r\n- Reduced the gate trap's wait time from 30 to 20 seconds.\r\n- The water inside the tower now pushes back both humans and zombies, so they can't just jump in and skip the platforms all the way to the ladder. It also still hurts humans, but their health is still set to 100 once they manage to get to the ladder.\r\n- Added a small holding spot at the top of the tower so humans actually have a chance instead of the zombies just running up and knifing everyone.\r\n- Replaced most of the textures, as well as fixed a lot of errors.\r\n- New lighting. Say goodbye to the crappy fullbright lighting.\r\n- New escape platform at the ending and a console message about when it starts to leave so half the team doesn't end up missing it.\r\n\r\nLink to original map - http://www.gamebanana.com/csszm/maps/130667"
+}

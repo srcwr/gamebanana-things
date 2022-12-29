@@ -1,0 +1,53 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"maps": [
+						"cs_area35.bsp",
+						"cs_area35.nav",
+						"cs_area35.res"
+					],
+					"materials": {
+						"Building_Template": [
+							"Building_Trainstation_Truss_Template001e.vmt",
+							"Building_Trainstation_Truss_Template001e.vtf",
+							"Building_Trainstation_Truss_Template001h.vmt",
+							"Building_Trainstation_Truss_Template001h.vtf"
+						],
+						"Concrete": [
+							"concretestair004a.vmt",
+							"concretestair004a.vtf",
+							"concretewall004c.vmt",
+							"concretewall004c.vtf"
+						],
+						"nature": [
+							"blendgrassgravel001b.vmt",
+							"blendrockdirt008a.vmt",
+							"blendrockgrass004a.vmt",
+							"blendrockgrass004a_tooltexture.vtf",
+							"dirtfloor001a.vmt",
+							"dirtfloor001a.vtf"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 361357,
+			"_nDownloadCount": 3535,
+			"_nFilesize": 4536768,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/361357",
+			"_sFile": "cs_area35.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1116979018
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 99509,
+	"_sName": "cs_area35",
+	"_sText": "This map is really complete. really nice work."
+}

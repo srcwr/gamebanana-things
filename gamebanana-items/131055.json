@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"Change Log.txt",
+					"ze_timeline_v5_2.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 305520,
+			"_nDownloadCount": 1674,
+			"_nFilesize": 55215569,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/305520",
+			"_sFile": "timeline_map.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1327821486
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 131055,
+	"_sName": "ze_timeline_v5_2",
+	"_sText": "SIZE:\r\n52.6mb compressed, 63.0mb uncompressed.\r\n\r\nVERSION 5:\r\nEDIT: Changed the skybox and the sun position, and made general improvements to the map to both look better and perform better!\r\n-Songs at the beginning now play at the beggining of a round rather than someone activating a trigger to begin them.\r\n-Fall damage has been disabled.\r\n-Ladders on the front of the bridge only function some time after the lever is pressed, therefore removing the ability to climb them before opening and shutting the door.\r\n-Made it easier to defend the inner bridge doors.\r\n-The inner bridge doors are now faster.\r\n-Made it easier to defend the entrance to the cemetary.\r\n-Changed how the right path in the cemetery works (added text, new sound)\r\n_Added a helicopter to the center of the cemetary.\r\n-Made the second combine access wall easier to defend as well as adding new text for it.\r\n-changed the secret weapons to be more special.\r\n-Removed some sprites.\r\n-Made the invisible walls surrounding the map higher.\r\n-Made the map look better.\r\n-General performance increases.\r\n-Fixed spark effects around the map.\r\n-Changed the end teleport timer.\r\n-Shortened the end push.\r\n-Added more thumpers.\r\n\r\nVERSION 4:\r\nEDIT: Added the skybox to the bsp so that there isn't an error that occurs.\r\nEDIT2: Added cubemaps to the PAK, as well as changing the location of one cubemap/adding another. Changed the textures of some blocks.\r\nEDIT3:Added a playerclip near the secret AWP so people can not fall off.\r\nChanged the Citadel 'change' activation area. Now it activates at the end castle.\r\nAdded env-sprites.\r\nRemoved Citadel Explosion.\r\nChanged the skybox, and placed the sun in a new area accordingly.\r\nChanged the sun/env-enviroment color.\r\nChanged teleports so that they teleport to random locations rather than just one.\r\nAdded new console messages to facilitate actions.\r\nAdded portal effect on top of citadel.\r\nAdded thumpers around the landscape to force people to run around them.\r\nChanged some music to fit players' request.\r\nChanged the water texture in some areas.\r\nChanged the timer for the teleport at the second Combine Access Wall.\r\nChanged name of map to avoid a map error.\r\n\r\nVERSION 3:\r\nRemoved the 'portal spire' and added the Citadel (THAT MOVES) instead. Added a sound that goes off when the citadel moves.\r\nAdded a 'surprise' at the end.\r\nAdded random props along the running areas to slow people down.\r\nCreated teleport occasions that bring the zombies closer to humans.\r\nThe strider has proper animations now.\r\nAdded a thumper with animations.\r\nFixed some lights.\r\nRemoved rain and fires to improve frame-rates.\r\nReduced file size.\r\nChanged some music to reflect players' interest.\r\n\r\nA SMALL UPDATE:\r\nFixed the open displacements.\r\n\r\nVERSION 2:\r\nAdded another hold area.\r\nAdded walls to make the map smaller/less open space.\r\nIncreased the trigger times on the bridge(now you have to hold for longer).\r\nLovely Cube maps are back.\r\nThe map is only 5 mb larger in real space, but the zip file is only 1 mb larger (if not less.)\r\nAdded a door that opens when you get to the castle.\r\nChanged the inner door at the bridge so that it starts closed.\r\nAdded a button to open the door at the front of the bridge. (You have to hold while it opens, then run it to close it.)\r\n\r\nORIGINAL TEXT:\r\nMake your way through the strange blend of old and new so you can survive!\r\nThis is my first map! Hopefully, it will be worth the download.\r\nIN CASE YOU ARE WONDERING:\r\nCaptain Cliche created the landscape, objectives, water, 3d skybox and main buildings. I fixed nearly every error in the map, added the tower in the 3d skybox (as well as the portal effect and the lasers) changed the textures of things, added more console messages,created the teleporter boxes, changed the variables of certain entities  (such as the door closing times), removed the fog present in the original map, added music and random song choosers, fixed the path-chooser entity, removed and added rubble, and many other things."
+}

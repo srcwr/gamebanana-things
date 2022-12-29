@@ -1,0 +1,40 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "fy_taboo.bsp",
+					"1": "fy_taboo.nav",
+					"bz2": [
+						"fy_taboo.bsp.bz2",
+						"fy_taboo.nav.bz2"
+					],
+					"cfg": {
+						"cssdm": {
+							"spawns": [
+								"fy_taboo.txt"
+							]
+						}
+					}
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 335538,
+			"_nDownloadCount": 2015,
+			"_nFilesize": 2549579,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/335538",
+			"_sFile": "fy_taboo.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1231069318
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 114545,
+	"_sName": "fy_taboo",
+	"_sText": "Welcome to Fight Yard Taboo!\r\n\r\nThis secret Prodigy training yard was buried amongst the endless tunnels and passage ways beep in the Prodigy military compound. Due to the small size and relatively close contact with the enemy a sharp eye and lightning fast reaction is needed to survive, everyone must constantly be on the move with very few places to camp this training yard will test your skills and your endurance!\r\n\r\nYou will be dropped into Fight Yard Taboo with only your side arms, scattered around the yard are 7 HE nads. Hold on to these and make good use of them. If you chose to offer your participants alternative weapons let the noobs have there sniper rifles they’ll probably never get to use them! ;)\r\n<hr />\r\nThis map was created and intended to be run with CS:S DM (http://www.bailopan.net/cssdm/)\r\n\r\nCS:S DM is not required and the buy zones will work with out it!!\r\n<hr /><h1>Installing</h1>Unzip taboo.zip and copy or move fy_taboo.bsp and fy_taboo.nav to your map folder, normally found at:\r\n\r\nC:\\Program Files\\Steam\\SteamApps\\STEAM_ID\\counter-strike source\\cstrike\\maps\r\n<hr /><h1>Server Files</h1>There are two extra folder in the zip file, if your only wanting to play this map with bots you wont need them, however since most maps here find a home on servers I'm including bz2 versions\r\n\r\nfy_taboo.bsp.bz2\r\nfy_taboo.nav.bz2\r\n\r\ncopy these files to your servers maps folder!\r\n\r\n<font color=\"red\">Lastly, if you have cssdm installed and want utter chaos, check out cfg\\cssdm\\spawns and have upto 32 players spawn in 58 random locations around the map!</font>\r\n<hr />\r\nProject page: http://www.fpsbanana.com/studios/projects/view/20680\r\n\r\n\r\nEnjoy!\r\nJason, AKA GrayTap, The Black Llama"
+}

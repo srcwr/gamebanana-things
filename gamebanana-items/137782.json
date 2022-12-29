@@ -1,0 +1,70 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"frey2_changelog_readme.txt",
+					"surf_frey2_ksf.bsp",
+					"surf_frey2_ksf.nav"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 529698,
+			"_nDownloadCount": 146,
+			"_nFilesize": 40777776,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/529698",
+			"_sFile": "surf_frey2_ksf.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1615128137
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Bonus 2"
+				},
+				{
+					"cat": "Overhaul",
+					"text": "Texture rework"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Improved details"
+				}
+			],
+			"_sText": "<div class=\"AdditionalNotes RichText\">Final version for which I made alot of improvements and added an extra bonus. :)</div>",
+			"_sTitle": "2.0",
+			"_tsDateAdded": 1615128484
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Overhaul",
+					"text": "Moved bonus away from main map to prevent trigger mixup on certain zonetrigger plugins."
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Improved ambient lighting by a tiny bit but lowered overall lightmap."
+				},
+				{
+					"cat": "Removal",
+					"text": "Removed end bhop skip."
+				}
+			],
+			"_sText": "Just a tiny fix version where I moved the bonus away from the main map, due to a few reports of plugins that use trigger_multiples for zoning, ignoring a deny filter.<br><br>I made a stripper fix for it, but here's a more permanent fix. :)",
+			"_sTitle": "Fixed version",
+			"_tsDateAdded": 1602345252
+		}
+	],
+	"_idRow": 137782,
+	"_sName": "surf_frey2",
+	"_sText": "Surf_frey2 is a part of my more experimental map series where I just slap shit together from what I've learnt from my other projects.&nbsp;<br>(But psst, please do not look up frey1, it's not good)<br><br>Hard T3 with 2 bonus, not too long but not too short either.<br>Designed and tested on CSS &amp; MoM 66tick, 150 aa, 3500 maxvel.<br><br>CSGO:&nbsp;<a href=\"https://gamebanana.com/maps/212501\">https://gamebanana.com/maps/212501</a>"
+}

@@ -1,0 +1,58 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"gg_quick_combat_v2.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 280519,
+			"_nDownloadCount": 622,
+			"_nFilesize": 1900150,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/280519",
+			"_sFile": "gg_quick_combat_v2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1448691447
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "+ fixed missing texture proplems"
+				},
+				{
+					"cat": "-",
+					"text": "+fixed the old weird size"
+				},
+				{
+					"cat": "-",
+					"text": "+added more map around the original"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Version 2.0",
+			"_tsDateAdded": 1457554890
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "added the custom sky texture"
+				}
+			],
+			"_sText": "<p></p>",
+			"_sTitle": "gg_quick_combat_v1_fixed",
+			"_tsDateAdded": 1448692301
+		}
+	],
+	"_idRow": 136243,
+	"_sName": "gg_quick_combat_v1",
+	"_sText": "<p>My third map.</p>[You cand destroy the laser wall by shooting it]<br>Edited the orignial, have fun<br><p>-StrongfieldtheGerman</p>"
+}

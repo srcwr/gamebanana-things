@@ -1,0 +1,96 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "leia-me.txt",
+					"cstrike": {
+						"maps": [
+							"de_cinema.bsp",
+							"de_cinema.nav",
+							"de_cinema.res",
+							"de_cinema.txt"
+						],
+						"materials": {
+							"TioRAC": [
+								"MovieTio.vmt",
+								"MovieTio.vtf",
+								"RACsite.vmt",
+								"RACsite.vtf",
+								"anuncio.vmt",
+								"anuncio.vtf",
+								"cine1.vmt",
+								"cine1.vtf",
+								"cine2.vmt",
+								"cine2.vtf",
+								"created.vmt",
+								"created.vtf",
+								"creditocine.vmt",
+								"creditocine.vtf",
+								"madeinbrazil.vmt",
+								"madeinbrazil.vtf",
+								"maquina.vmt",
+								"maquina.vtf",
+								"paredeB.vmt",
+								"paredeB.vtf",
+								"pipoca.vmt",
+								"pipoca.vtf",
+								"poster-ataquedosvermes.vmt",
+								"poster-ataquedosvermes.vtf",
+								"poster-cs.vmt",
+								"poster-cs.vtf",
+								"poster-goonies.vmt",
+								"poster-goonies.vtf",
+								"poster-maoassassina.vmt",
+								"poster-maoassassina.vtf",
+								"poster-tomatesassassinos.vmt",
+								"poster-tomatesassassinos.vtf",
+								"wall_curtain_red.vmt",
+								"wall_curtain_red.vtf"
+							],
+							"overviews": [
+								"de_cinema.txt",
+								"de_cinema.vmt",
+								"de_cinema.vtf",
+								"de_cinema_radar.vmt",
+								"de_cinema_radar.vtf"
+							]
+						},
+						"resource": {
+							"overviews": [
+								"de_cinema.txt"
+							]
+						},
+						"scripts": [
+							"soundscapes_de_cinema_beta.txt"
+						],
+						"sound": {
+							"TioRAC": [
+								"cine.wav",
+								"disc-filme.mp3",
+								"gt40.wav",
+								"pipoca.wav"
+							]
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 352285,
+			"_nDownloadCount": 2157,
+			"_nFilesize": 4227475,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/352285",
+			"_sFile": "de_cinema.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1176083910
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 101488,
+	"_sName": "de_cinema",
+	"_sText": "Maximum Players: 64\r\n\r\nMade in Brazil\r\n\r\nhttp://cs.tiorac.eti.br"
+}

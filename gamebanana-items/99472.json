@@ -1,0 +1,151 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrike": {
+						"custom": {
+							"my_custom_stuff": {
+								"0": "credits.txt",
+								"materials": {
+									"models": {
+										"player": {
+											"Vad36Hostage": [
+												"hostage_hair.vmt",
+												"hostage_hair.vtf",
+												"hostage_hair_normal.vtf",
+												"hostage_head.vmt",
+												"hostage_head.vtf",
+												"hostage_head_exponent.vtf",
+												"hostage_head_normal.vtf",
+												"hostage_head_normal_variantc.vtf",
+												"hostage_head_variant_a.vmt",
+												"hostage_head_variant_a.vtf",
+												"hostage_head_variantc.vmt",
+												"hostage_head_variantc.vtf",
+												"hostage_lowerbody.vmt",
+												"hostage_lowerbody.vtf",
+												"hostage_lowerbody_exponent.vtf",
+												"hostage_lowerbody_normal.vtf",
+												"hostage_lowerbody_normal_variantd.vtf",
+												"hostage_lowerbody_variantd.vmt",
+												"hostage_lowerbody_variantd.vtf",
+												"hostage_lowerbody_variante.vmt",
+												"hostage_lowerbody_variante.vtf",
+												"hostage_lowerbody_variantf.vmt",
+												"hostage_lowerbody_variantf.vtf",
+												"hostage_upperbody.vmt",
+												"hostage_upperbody.vtf",
+												"hostage_upperbody_exponent.vtf",
+												"hostage_upperbody_normal.vtf",
+												"hostage_upperbody_varianta.vmt",
+												"hostage_upperbody_varianta.vtf"
+											]
+										}
+									}
+								},
+								"models": {
+									"characters": [
+										"Hostage_01.dx80.vtx",
+										"Hostage_01.dx90.vtx",
+										"Hostage_01.mdl",
+										"Hostage_01.phy",
+										"Hostage_01.sw.vtx",
+										"Hostage_01.vvd",
+										"Hostage_02.dx80.vtx",
+										"Hostage_02.dx90.vtx",
+										"Hostage_02.mdl",
+										"Hostage_02.phy",
+										"Hostage_02.sw.vtx",
+										"Hostage_02.vvd",
+										"hostage_03.dx80.vtx",
+										"hostage_03.dx90.vtx",
+										"hostage_03.mdl",
+										"hostage_03.phy",
+										"hostage_03.sw.vtx",
+										"hostage_03.vvd",
+										"hostage_04.dx80.vtx",
+										"hostage_04.dx90.vtx",
+										"hostage_04.mdl",
+										"hostage_04.phy",
+										"hostage_04.sw.vtx",
+										"hostage_04.vvd"
+									]
+								}
+							}
+						},
+						"maps": [
+							"cs_abandoned.bsp",
+							"cs_abandoned.nav",
+							"cs_abandoned.txt"
+						],
+						"materials": {
+							"cs_abandoned": [
+								"carpet.vmt",
+								"carpet.vtf",
+								"rug.vmt",
+								"rug.vtf"
+							]
+						},
+						"sound": {
+							"cs_abandoned": [
+								"2nd Sonata - Malign Chords.wav",
+								"Anguish.wav",
+								"Happy Ending.wav",
+								"credits.txt"
+							]
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 752819,
+			"_nDownloadCount": 127,
+			"_nFilesize": 40421686,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/752819",
+			"_sFile": "cs_abandoned_3f526.rar",
+			"_sMd5Checksum": "41d6c05fd6a4748d1de39c6b55f30646",
+			"_tsDateAdded": 1645497966
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Adjustment",
+					"text": "The planks on the windows have now a strength value of 25 (previously had the double)."
+				},
+				{
+					"cat": "Adjustment",
+					"text": "The stronger planks on the big window of the second floor have now a strength value of 50 (previously had 75)."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Brush entities",
+			"_tsDateAdded": 1621509830
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Added some new props."
+				},
+				{
+					"cat": "Addition",
+					"text": "A new window was made on the stairs from the lobby to the second floor."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Map appearance",
+			"_tsDateAdded": 1621509342
+		}
+	],
+	"_idRow": 99472,
+	"_sName": "cs_abandoned",
+	"_sText": "Greetings to all. This is the first attempt at a target map I make. It is the second version of a map that I had previously completed but from which I decided to continue later. I tried to make it as complete as possible and at the same time develop it in a closed environment, since at the moment I still need to learn how to handle myself outdoors.<br>Other than that, the map is based on an abandoned house. It is dark, medium to large in size and has a basement and second floor.<br>Terrorists have taken the place to hold their prisoners. Counter-terrorists must intervene in their actions and end them by ambushing the building. The priority, beyond neutralizing enemies, is to safeguard the lives of hostages.<br>I hope my work is to your liking. Any opinion will be duly appreciated. From already, thank you very much!<br><br>Thanks to:<br>-LucasFacu for testing the map and helping me improve it.<br><br>-Patrick de Arteaga for providing me with the music present on the map.<br>(his music is free, visit his page if you like: https://patrickdearteaga.com/es/index-es/).<br><br>-Chesterfield, since from him I was able to get the hostage skins present on the map. The one who ported these skins to CSS was originally vad36. Credits to both for their respective actions.<br><br>NOTE: If you want to uninstall the hostage skins then go to the \"cstrike\" folder of the game, then go to \"custom\" and there delete the folder called \"my_custom_stuff\". If you already have any other modifications installed, then you have to delete the folders of the files individually:<br><br>-materials > models > player > Vad36Hostage (delete)<br>-models > characters (delete)<br><br>(Sorry if my english was not too fluent or clear)"
+}

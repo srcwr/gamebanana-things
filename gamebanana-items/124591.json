@@ -1,0 +1,57 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"bhop_bl_bram_v12.bsp",
+					"bhop_bl_bram_v12.vmf"
+				],
+				"_sMimeType": "application/x-7z-compressed"
+			},
+			"_bContainsExe": false,
+			"_idRow": 493135,
+			"_nDownloadCount": 98,
+			"_nFilesize": 20562358,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/493135",
+			"_sFile": "bhop_bl_bram_v12.7z",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1603971519
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "some optimizations (more nodraw to God nodraw)"
+				},
+				{
+					"cat": "-",
+					"text": "fix displacements"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "1.2",
+			"_tsDateAdded": 1603971886
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "fix models textures"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "1.1",
+			"_tsDateAdded": 1603902791
+		}
+	],
+	"_idRow": 124591,
+	"_sName": "bhop_bl_bram",
+	"_sText": "Redesign for the contest <a href=\"https://gamebanana.com/maps/212773\">https://gamebanana.com/maps/212773</a>"
+}

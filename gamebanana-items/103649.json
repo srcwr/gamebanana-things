@@ -1,0 +1,145 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrike": {
+						"Sound": {
+							"ambient": [
+								"Mammoht_song.mp3",
+								"slavank118.wav"
+							]
+						},
+						"maps": [
+							"de_rash_css2.bsp",
+							"de_rash_css2.nav",
+							"de_rash_css2.txt"
+						],
+						"materials": {
+							"models": {
+								"props_foliage": [
+									"tree_pine_01_branches.vmt",
+									"tree_pine_01_branches.vtf",
+									"tree_pine_cards_01.vmt",
+									"tree_pine_cards_01.vtf"
+								],
+								"props_italian": [
+									"gramophone.vmt",
+									"gramophone.vtf",
+									"gramophonespecularmask.vtf"
+								]
+							},
+							"sprays": [
+								"MAMMOHT.vmt",
+								"MAMMOHT.vtf"
+							]
+						},
+						"models": {
+							"fishy": {
+								"ripped": [
+									"car3.dx80.vtx",
+									"car3.dx90.vtx",
+									"car3.mdl",
+									"car3.phy",
+									"car3.sw.vtx",
+									"car3.vvd",
+									"towtruck.dx80.vtx",
+									"towtruck.dx90.vtx",
+									"towtruck.mdl",
+									"towtruck.phy",
+									"towtruck.sw.vtx",
+									"towtruck.vvd",
+									"truck1.dx80.vtx",
+									"truck1.dx90.vtx",
+									"truck1.mdl",
+									"truck1.phy",
+									"truck1.sw.vtx",
+									"truck1.vvd",
+									"truck2.dx80.vtx",
+									"truck2.dx90.vtx",
+									"truck2.mdl",
+									"truck2.phy",
+									"truck2.sw.vtx",
+									"truck2.vvd"
+								]
+							},
+							"props_foliage": [
+								"tree_pine_01.dx80.vtx",
+								"tree_pine_01.dx90.vtx",
+								"tree_pine_01.mdl",
+								"tree_pine_01.phy",
+								"tree_pine_01.sw.vtx",
+								"tree_pine_01.vvd",
+								"tree_pine_02.dx80.vtx",
+								"tree_pine_02.dx90.vtx",
+								"tree_pine_02.mdl",
+								"tree_pine_02.phy",
+								"tree_pine_02.sw.vtx",
+								"tree_pine_02.vvd",
+								"tree_pine_03.dx80.vtx",
+								"tree_pine_03.dx90.vtx",
+								"tree_pine_03.mdl",
+								"tree_pine_03.phy",
+								"tree_pine_03.sw.vtx",
+								"tree_pine_03.vvd",
+								"tree_pine_card_cluster_01.dx80.vtx",
+								"tree_pine_card_cluster_01.dx90.vtx",
+								"tree_pine_card_cluster_01.mdl",
+								"tree_pine_card_cluster_01.sw.vtx",
+								"tree_pine_card_cluster_01.vvd",
+								"tree_pine_card_cluster_01_skybox.dx80.vtx",
+								"tree_pine_card_cluster_01_skybox.dx90.vtx",
+								"tree_pine_card_cluster_01_skybox.mdl",
+								"tree_pine_card_cluster_01_skybox.sw.vtx",
+								"tree_pine_card_cluster_01_skybox.vvd",
+								"tree_pine_card_cluster_02.dx80.vtx",
+								"tree_pine_card_cluster_02.dx90.vtx",
+								"tree_pine_card_cluster_02.mdl",
+								"tree_pine_card_cluster_02.sw.vtx",
+								"tree_pine_card_cluster_02.vvd",
+								"tree_pine_card_cluster_02_skybox.dx80.vtx",
+								"tree_pine_card_cluster_02_skybox.dx90.vtx",
+								"tree_pine_card_cluster_02_skybox.mdl",
+								"tree_pine_card_cluster_02_skybox.sw.vtx",
+								"tree_pine_card_cluster_02_skybox.vvd",
+								"tree_pine_cluster_01.dx80.vtx",
+								"tree_pine_cluster_01.dx90.vtx",
+								"tree_pine_cluster_01.mdl",
+								"tree_pine_cluster_01.phy",
+								"tree_pine_cluster_01.sw.vtx",
+								"tree_pine_cluster_01.vvd"
+							],
+							"props_italian": [
+								"gramophone.dx80.vtx",
+								"gramophone.dx90.vtx",
+								"gramophone.mdl",
+								"gramophone.phy",
+								"gramophone.sw.vtx",
+								"gramophone.vvd"
+							]
+						},
+						"scripts": [
+							"soundscapes_office.txt"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 357439,
+			"_nDownloadCount": 1384,
+			"_nFilesize": 5505947,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/357439",
+			"_sFile": "rash_css2.7z",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1151954578
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 103649,
+	"_sName": "de_rash_css2",
+	"_sText": "Remaked from original map \"by aSsMoNkEy (aSsMoNkEy@Test-Chamber-Clan.de)\""
+}

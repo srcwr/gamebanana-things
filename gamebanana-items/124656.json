@@ -1,0 +1,51 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"bhop_challenjour_v2.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 276204,
+			"_nDownloadCount": 849,
+			"_nFilesize": 94265431,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/276204",
+			"_sFile": "bhop_challenjour_v2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1476506836
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Now cant double-boost on diamond stage"
+				},
+				{
+					"cat": "-",
+					"text": "Now forced to complete the 2nd part of diamond stage in its entirety"
+				},
+				{
+					"cat": "-",
+					"text": "Tunnel connecting 1st and 2nd part of diamond stage was made more speed friendly "
+				},
+				{
+					"cat": "-",
+					"text": "Renamed from bhop_challenjour_final to bhop_challenjour_v2"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Diamond stage adjusted",
+			"_tsDateAdded": 1477776861
+		}
+	],
+	"_idRow": 124656,
+	"_sName": "bhop_challenjour_v2",
+	"_sText": "My first map, decided to theme it around League of Legends.&nbsp; <br><br>Intended for auto but possible on all styles (there are slow skip routes for the last 2 parts). Gameplay is a fluid spreedrun from start to finish with many major inbuilt skips and I'm estimating global to be around the 3 minute mark. Difficulty is about a hard T5 otherwise using the skip routes I'd say a T3 (rating out of 6 tiers). I still wanted to add more to this map (Elo hell stage , more interesting alternate skip routes, seperate master / challenger stages etc.) however I've reached the brushlimit. Porting this map was much easier than I thought it would be which is why I did it when I said I wouldn't anytime soon (http://gamebanana.com/maps/192355). The 2nd part of the diamond stage may be a little confusing on where to go the first time round, so here's a quickly thrown together video on how to do it: https://youtu.be/SQQWKo6Jtbw <br>&nbsp;<br>Thanks to Biql, Roger, and Saving Private Pyle for helping me when I got stuck with hammer issues. Thanks to TopHattWaffle and Saspatoon for their texture packs, used it for about 80% of my map. \r\n<br><br>Finally thanks to xXLoliMaster69 for playtesting / giving feedback on the global route<br><br>Good Luck Have fun.<br><br><br> <iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/TCC92u-uXHw\" frameborder=\"0\" allowfullscreen></iframe>"
+}

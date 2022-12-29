@@ -1,0 +1,66 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"fy_apache": [
+						"Read me.txt",
+						"fy_apache.bsp",
+						"fy_apache.log",
+						"fy_apache.prt",
+						"fy_apache.vmf",
+						"fy_apache.vmx"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 572875,
+			"_nDownloadCount": 126,
+			"_nFilesize": 1126030,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/572875",
+			"_sFile": "fy_apache.zip",
+			"_sMd5Checksum": "77c1450e07d04f0fe61654f62f3b17a3",
+			"_tsDateAdded": 1621244201
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Adjustment",
+					"text": "Moved changelogs to Read me.txt"
+				}
+			],
+			"_sText": "Changelogs are in the Read me.txt from now on! And yes, I have returned! Hope you enjoy the new version of the map!<br><br>Update:<br>-https://files.fm/u/7q258e47u<br>",
+			"_sTitle": "Version 2.0.0",
+			"_tsDateAdded": 1620819478
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Adjustment",
+					"text": "Lowered the buildings floor"
+				},
+				{
+					"cat": "Removal",
+					"text": "Removed the street barriers"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added cover walls, boxes and cars around the building for more cover"
+				}
+			],
+			"_sText": "Thanks for doctorn0 for giving the recommendations for fixing the map. Check out his profile and maps:&nbsp;<a href=\"https://gamebanana.com/members/1686694\">https://gamebanana.com/members/1686694</a>.<br>Next update: Adding HDR and Cubemaps<br>plus, here is the updated .bsp file:&nbsp;<a href=\"https://files.fm/u/bzg3ty78\">https://files.fm/u/bzg3ty78</a>",
+			"_sTitle": "fy_apache 1.5",
+			"_tsDateAdded": 1582310720
+		}
+	],
+	"_idRow": 115966,
+	"_sName": "fy_apache",
+	"_sText": "This is my 1st map project, for CS:Source, which is named <b>fy_apache</b>, inspired by a map from Block Strike, which had a map also named Apache. Some things I added and some removed, also, to say,<br>this map is a little town located in Italy, I hope you enjoy it!"
+}

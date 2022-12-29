@@ -1,0 +1,55 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrike": {
+						"maps": [
+							"de_vine2.bsp",
+							"de_vine2.res",
+							"de_vine2.txt"
+						],
+						"materials": {
+							"Composite": [
+								"buildingset050a.vmt",
+								"buildingset050a.vtf",
+								"buildingset051a.vmt",
+								"buildingset051a.vtf"
+							],
+							"brick": [
+								"brickwall003e.vmt",
+								"brickwall003e.vtf",
+								"brickwall003f.vmt",
+								"brickwall003f.vtf"
+							],
+							"metal": [
+								"metalvent004a.vmt",
+								"metalvent004a.vtf"
+							],
+							"props": [
+								"signstreet004a.vmt",
+								"signstreet004a.vtf"
+							]
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 358945,
+			"_nDownloadCount": 2549,
+			"_nFilesize": 6732997,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/358945",
+			"_sFile": "869_cstrike_13.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1139184263
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 104593,
+	"_sName": "de_vine2",
+	"_sText": "De_Vine2 map by Slackiller\r\n\r\nMap has HDR and LDR lighting.\r\n\r\nTerroists: must find one of the 2 bomb sites and detonate the bomb,or\r\nkill all the counter-terroists\r\n\r\nCounter-Terroists: must stop the terrorists from blowing up the importants documents/computers or the loading dock on back of the main building."
+}

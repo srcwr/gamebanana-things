@@ -1,0 +1,2202 @@
+[
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_venom_dust_beta.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 347086,
+				"_nDownloadCount": 1972,
+				"_nFilesize": 384563,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/347086",
+				"_sFile": "de_venom_dust_beta.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1194808762
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104559,
+		"_sName": "de_venom_dust_beta",
+		"_sText": "- de_venom_dust_beta -\r\n\r\nThis was a map i made ages ago. My bro and me where making a map for our clan. We made this but just not looking as nice and using alot of prefabs. \r\n5 months later i make it look good so i can put it on fpsb. My clan also loved playing it. \r\n\r\nCome to me if you find any bugs.\r\n\r\nStory: In the lands of css, de_dust. A place bombed by terrorist's is about to get bombed. After getting bombed the last time the small village in the dessert of de_dust got together and started building. Now the terrorist's have came again to bomb it and all the supply's. Killing alot of the people. The counter terrorist's heard of this plan and have got to the village just in time.\r\nNow its your turn to carry on. Your turn to tell the villages future.\r\n\r\nCredits:\r\nMap: Drimp\r\nFixing error: Crazypip, Lost\r\noptimize: Crazypip\r\n\r\nThanks all that helped and good luck, have fun.\r\n\r\n'Drimp'"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"VENITIAN SUN README.txt",
+						"de_venitian_sun_beta.bsp",
+						"de_venitian_sun_beta.cache",
+						"de_venitian_sun_beta.nav"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 319024,
+				"_nDownloadCount": 2385,
+				"_nFilesize": 4541377,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/319024",
+				"_sFile": "de_venitian_sun_beta.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1284651096
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104558,
+		"_sName": "de_venitian_sun_beta",
+		"_sText": "When running on servers this map is designed for no awp and autosnipers.\r\n\r\n\r\nDE_VENITIAN_SUN_BETA\r\n\r\nA CounterStrike.Source Map by La Gare\r\n\r\nThanks for downloading my first map! Hope you like!\r\n\r\nThe .bsp and the .nav file go in the following directory\r\n\r\nC:\\Program Files\\Steam\\steamapps\\\"YOUR STEAM ID/NAME\"\\counter-strike source\\cstrike\\maps\r\n\r\nand the .cache file goes in the soundcache folder\r\n\r\nC:\\Program Files\\Steam\\steamapps\\\"YOUR STEAM ID/NAME\"\\counter-strike source\\cstrike\\maps\\soundcache\r\n\r\nWhen you've extracted them to their correct directories you're ready to go!\r\n\r\nOh! And a little tip, the boat on the map...like any boat on cs.s has some issues, drive slowly at first!\r\nThe steering wheel is the ignition. It's set to start on touch AND on use so either walk into the \r\nsteering wheel or press e on it. It does sometimes have problems, but be persistant it will start!\r\n\r\nEnjoy! And thanks again for downloading!\r\n\r\n\r\nLa Gare\r\n\r\n:)\r\n\r\n\r\n\r\nBig Thanks to:-\r\n\r\n3kliksphilip - You Tube God\r\nStarving Hobo - Hammer Deamon\r\n\r\nWob[NOFX]\r\nK&#926;ÐJ&#1044;S | Þ&#1044;&#65357;Ø&#1071;Ð&#1028;&#8730;S\r\nC4RONT3\r\nWOT EVA {UK}\r\nProf.^10^7ak\r\nMr. Liboi\r\nCpt. Asshat\r\nBr1ght\r\nMonkaey\r\n1legmidget\r\n\r\n|INC|Gaming Clan and their 24/7 cs_italy server which inspired the making of this map.\r\n\r\nAnd Valve..."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"de_venice_beta1": {
+							"de_venice internal beta1": {
+								"cstrike": {
+									"maps": [
+										"de_venice_sourcebeta1.bsp"
+									],
+									"materials": {
+										"Dev": [
+											"dev_hazzardstripe01a.vmt",
+											"dev_hazzardstripe01a.vtf",
+											"dev_water2.vmt",
+											"reflectivity_60.vmt",
+											"reflectivity_60.vtf",
+											"reflectivity_80.vmt",
+											"reflectivity_80.vtf"
+										],
+										"Nature": [
+											"blenddirtgrass001a.vmt",
+											"blendrockdirt005a.vmt",
+											"blendrockdirt008a.vft",
+											"blendrockdirt008a.vmt",
+											"blendrockdirt008c.vmt",
+											"blendrockdirt008d.vmt",
+											"blendrockdirt008d_tooltexture.vtf",
+											"dirtfloor006b.vmt",
+											"dirtfloor006b.vtf",
+											"grassfloor002a.vmt",
+											"grassfloor002a.vtf",
+											"gravelfloor002a.vmt",
+											"gravelfloor002a.vtf",
+											"rockwall002a.vmt",
+											"rockwall002a.vtf",
+											"rockwall007a.vmt",
+											"rockwall007a.vtf",
+											"rockwall012b.vmt",
+											"rockwall012b.vtf"
+										],
+										"lights": [
+											"fluorescent001a.vmt",
+											"fluorescent001a.vtf",
+											"fluorescentcool001a.vmt",
+											"fluorescentcool001a.vtf",
+											"fluorescentcool001b.vmt",
+											"fluorescentcool001b.vtf",
+											"incandescentcool001a.vmt",
+											"incandescentcool001a.vtf"
+										],
+										"myart": [
+											"aaatrigger.vmt",
+											"aaatrigger.vtf",
+											"babtech_dr4c.vmt",
+											"babtech_dr4c.vtf",
+											"basewall03a.vmt",
+											"basewall03a.vtf",
+											"black.vmt",
+											"black.vtf",
+											"blendrockdirt008a.vft",
+											"blendrockdirt008a.vmt",
+											"c1a1w1d.vmt",
+											"c1a1w1d.vtf",
+											"clip.vmt",
+											"clip.vtf",
+											"crete1_wall01.vmt",
+											"crete1_wall01.vtf",
+											"crete3_wall01.vmt",
+											"crete3_wall01.vtf",
+											"cubed.vmt",
+											"cubed.vtf",
+											"cubldb.vmt",
+											"cubldb.vtf",
+											"cubldc.vmt",
+											"cubldc.vtf",
+											"cublde.vmt",
+											"cublde.vtf",
+											"cubldf.vmt",
+											"cubldf.vtf",
+											"cubooksa.vmt",
+											"cubooksa.vtf",
+											"cubrusha.vmt",
+											"cubrusha.vtf",
+											"cucrba.vmt",
+											"cucrba.vtf",
+											"cucredits.vmt",
+											"cucredits.vtf",
+											"cudra.vmt",
+											"cudra.vtf",
+											"cudrb.vmt",
+											"cudrb.vtf",
+											"cudrd.vmt",
+											"cudrd.vtf",
+											"cudre.vmt",
+											"cudre.vtf",
+											"cudrf.vmt",
+											"cudrf.vtf",
+											"cudrg.vmt",
+											"cudrg.vtf",
+											"cudrh.vmt",
+											"cudrh.vtf",
+											"cudri.vmt",
+											"cudri.vtf",
+											"cudrj.vmt",
+											"cudrj.vtf",
+											"cudumpsterb.vmt",
+											"cudumpsterb.vtf",
+											"cudumpsterc.vmt",
+											"cudumpsterc.vtf",
+											"cufountaina.vmt",
+											"cufountaina.vtf",
+											"cufridge.vmt",
+											"cufridge.vtf",
+											"cugena.vmt",
+											"cugena.vtf",
+											"cugenab.vmt",
+											"cugenab.vtf",
+											"cugenap.vmt",
+											"cugenap.vtf",
+											"cugenb.vmt",
+											"cugenb.vtf",
+											"cugenc.vmt",
+											"cugenc.vtf",
+											"cugend.vmt",
+											"cugend.vtf",
+											"cugrounda.vmt",
+											"cugrounda.vtf",
+											"cugroundb.vmt",
+											"cugroundb.vtf",
+											"cugroundd.vmt",
+											"cugroundd.vtf",
+											"cugroundi.vmt",
+											"cugroundi.vtf",
+											"cuiceila.vmt",
+											"cuiceila.vtf",
+											"cuiceilb.vmt",
+											"cuiceilb.vtf",
+											"cuiflra.vmt",
+											"cuiflra.vtf",
+											"cuiflrb.vmt",
+											"cuiflrb.vtf",
+											"cuiflrc.vmt",
+											"cuiflrc.vtf",
+											"cuiflrd.vmt",
+											"cuiflrd.vtf",
+											"cuiflre.vmt",
+											"cuiflre.vtf",
+											"cuiflrf.vmt",
+											"cuiflrf.vtf",
+											"cuiwllc.vmt",
+											"cuiwllc.vtf",
+											"cuiwlld.vmt",
+											"cuiwlld.vtf",
+											"cuiwlle.vmt",
+											"cuiwlle.vtf",
+											"cuiwllf.vmt",
+											"cuiwllf.vtf",
+											"cuiwllg.vmt",
+											"cuiwllg.vtf",
+											"culighta.vmt",
+											"culighta.vtf",
+											"culightb.vmt",
+											"culightb.vtf",
+											"culightc.vmt",
+											"culightc.vtf",
+											"cunumbers.vmt",
+											"cunumbers.vtf",
+											"cupicta.vmt",
+											"cupicta.vtf",
+											"cupictb.vmt",
+											"cupictb.vtf",
+											"cupictc.vmt",
+											"cupictc.vtf",
+											"cupllra.vmt",
+											"cupllra.vtf",
+											"cupllrb.vmt",
+											"cupllrb.vtf",
+											"curamp.vmt",
+											"curamp.vtf",
+											"curda.vmt",
+											"curda.vtf",
+											"cusdwlka.vmt",
+											"cusdwlka.vtf",
+											"cusolida.vmt",
+											"cusolida.vtf",
+											"cusolidb.vmt",
+											"cusolidb.vtf",
+											"custairsa.vmt",
+											"custairsa.vtf",
+											"custovefront.vmt",
+											"custovefront.vtf",
+											"custovetop.vmt",
+											"custovetop.vtf",
+											"cutrasha.vmt",
+											"cutrasha.vtf",
+											"cutrashb.vmt",
+											"cutrashb.vtf",
+											"cutrkfrnt.vmt",
+											"cutrkfrnt.vtf",
+											"cutrkrr.vmt",
+											"cutrkrr.vtf",
+											"cutrksd.vmt",
+											"cutrksd.vtf",
+											"cutrkt.vmt",
+											"cutrkt.vtf",
+											"cutrma.vmt",
+											"cutrma.vtf",
+											"cutrmb.vmt",
+											"cutrmb.vtf",
+											"cutrmc.vmt",
+											"cutrmc.vtf",
+											"cutrmd.vmt",
+											"cutrmd.vtf",
+											"cutrme.vmt",
+											"cutrme.vtf",
+											"cutrmf.vmt",
+											"cutrmf.vtf",
+											"cutrmg.vmt",
+											"cutrmg.vtf",
+											"cuwlla.vmt",
+											"cuwlla.vtf",
+											"cuwllb.vmt",
+											"cuwllb.vtf",
+											"cuwllc.vmt",
+											"cuwllc.vtf",
+											"cuwlld.vmt",
+											"cuwlld.vtf",
+											"cuwlle.vmt",
+											"cuwlle.vtf",
+											"cuwllf.vmt",
+											"cuwllf.vtf",
+											"cuwllg.vmt",
+											"cuwllg.vtf",
+											"cuwllgb.vmt",
+											"cuwllgb.vtf",
+											"cuwllh.vmt",
+											"cuwllh.vtf",
+											"cuwllhc.vmt",
+											"cuwllhc.vtf",
+											"cuwllj.vmt",
+											"cuwllj.vtf",
+											"cuwllk.vmt",
+											"cuwllk.vtf",
+											"cuwllm.vmt",
+											"cuwllm.vtf",
+											"cuwlln.vmt",
+											"cuwlln.vtf",
+											"cuwllo.vmt",
+											"cuwllo.vtf",
+											"cuwllp.vmt",
+											"cuwllp.vtf",
+											"cuwlls.vmt",
+											"cuwlls.vtf",
+											"cuwllt.vmt",
+											"cuwllt.vtf",
+											"cuwllu.vmt",
+											"cuwllu.vtf",
+											"cuwnda.vmt",
+											"cuwnda.vtf",
+											"cuwndb.vmt",
+											"cuwndb.vtf",
+											"cuwndc.vmt",
+											"cuwndc.vtf",
+											"cuwndd.vmt",
+											"cuwndd.vtf",
+											"cuwnde.vmt",
+											"cuwnde.vtf",
+											"cuwndf.vmt",
+											"cuwndf.vtf",
+											"cuwndg.vmt",
+											"cuwndg.vtf",
+											"cuwndh.vmt",
+											"cuwndh.vtf",
+											"cuwndi.vmt",
+											"cuwndi.vtf",
+											"cuwndib.vmt",
+											"cuwndib.vtf",
+											"cuwndj.vmt",
+											"cuwndj.vtf",
+											"cuwndk.vmt",
+											"cuwndk.vtf",
+											"cuwndl.vmt",
+											"cuwndl.vtf",
+											"cuwndm.vmt",
+											"cuwndm.vtf",
+											"cuwndn.vmt",
+											"cuwndn.vtf",
+											"cuwndo.vmt",
+											"cuwndo.vtf",
+											"cuwndp.vmt",
+											"cuwndp.vtf",
+											"cuwndq.vmt",
+											"cuwndq.vtf",
+											"cuwoodf.vmt",
+											"cuwoodf.vtf",
+											"cuwoodm.vmt",
+											"cuwoodm.vtf",
+											"cxwoodf.vmt",
+											"cxwoodf.vtf",
+											"dirt.vft",
+											"dirt.vmt",
+											"drkmtlt_bord11.vmt",
+											"drkmtlt_bord11.vtf",
+											"mklamphead.vft",
+											"mklamphead.vmt",
+											"mklamphead.vtf",
+											"newivy.vmt",
+											"newivy.vtf",
+											"railing.vmt",
+											"railing.vtf",
+											"sky.vmt",
+											"sky.vtf",
+											"white.vmt",
+											"white.vtf",
+											"{bars.vmt",
+											"{bars.vtf",
+											"{cufence.vmt",
+											"{cufence.vtf",
+											"{cugzboa.vmt",
+											"{cugzboa.vtf",
+											"{cugzbob.vmt",
+											"{cugzbob.vtf",
+											"{culaundrya.vmt",
+											"{culaundrya.vtf",
+											"{culaundryb.vmt",
+											"{culaundryb.vtf",
+											"{culaundryc.vmt",
+											"{culaundryc.vtf",
+											"{curaila.vmt",
+											"{curaila.vtf",
+											"{cxivy.vmt",
+											"{cxivy.vtf",
+											"{cxivyb.vmt",
+											"{cxivyb.vtf",
+											"{fence3.vmt",
+											"{fence3.vtf",
+											"{hrpoint.vmt",
+											"{hrpoint.vtf",
+											"{invisible.vmt",
+											"{invisible.vtf",
+											"{siteA.vmt",
+											"{siteA.vtf",
+											"{siteB.vmt",
+											"{siteB.vtf"
+										],
+										"skybox": [
+											"sky_bloomtest01bk.vmt",
+											"sky_bloomtest01bk.vtf",
+											"sky_bloomtest01dn.vmt",
+											"sky_bloomtest01dn.vtf",
+											"sky_bloomtest01ft.vmt",
+											"sky_bloomtest01ft.vtf",
+											"sky_bloomtest01lf.vmt",
+											"sky_bloomtest01lf.vtf",
+											"sky_bloomtest01rt.vmt",
+											"sky_bloomtest01rt.vtf",
+											"sky_bloomtest01up.vmt",
+											"sky_bloomtest01up.vtf",
+											"sky_perf01hdrbk.vmt",
+											"sky_perf01hdrbk.vtf",
+											"sky_perf01hdrdn.vmt",
+											"sky_perf01hdrdn.vtf",
+											"sky_perf01hdrft.vmt",
+											"sky_perf01hdrft.vtf",
+											"sky_perf01hdrlf.vmt",
+											"sky_perf01hdrlf.vtf",
+											"sky_perf01hdrrt.vmt",
+											"sky_perf01hdrrt.vtf",
+											"sky_perf01hdrup.vmt",
+											"sky_perf01hdrup.vtf",
+											"sky_quarry03bk.vmt",
+											"sky_quarry03bk.vtf",
+											"sky_quarry03dn.vmt",
+											"sky_quarry03dn.vtf",
+											"sky_quarry03ft.vmt",
+											"sky_quarry03ft.vtf",
+											"sky_quarry03lf.vmt",
+											"sky_quarry03lf.vtf",
+											"sky_quarry03rt.vmt",
+											"sky_quarry03rt.vtf",
+											"sky_quarry03up.vmt",
+											"sky_quarry03up.vtf"
+										],
+										"tools": [
+											"toolsfog.vmt",
+											"toolsfog.vtf",
+											"toolsnodraw.vtf",
+											"toolsskybox.vtf",
+											"toolsskyfog.vmt",
+											"toolsskyfog.vtf"
+										]
+									}
+								}
+							}
+						}
+					}
+				},
+				"_bContainsExe": false,
+				"_idRow": 362286,
+				"_nDownloadCount": 3482,
+				"_nFilesize": 18793472,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/362286",
+				"_sFile": "de_venice_beta1.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1100240856
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104557,
+		"_sName": "de_venice_beta1",
+		"_sText": "Enjoy!"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_VeniceCity.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 360387,
+				"_nDownloadCount": 2409,
+				"_nFilesize": 2430343,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/360387",
+				"_sFile": "de_venicecity.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1127506899
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104556,
+		"_sName": "de_VeniceCity",
+		"_sText": "FINAL FINAL FINAL FINAL \r\n\r\nVERY FUN MAP VENICE UNDER ATTACK ----PLEASE HELP THEM \r\n\r\nHAVE FUN GAMING "
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_venice.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 350250,
+				"_nDownloadCount": 2264,
+				"_nFilesize": 1566818,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/350250",
+				"_sFile": "de_venice.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1184438975
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104555,
+		"_sName": "de_venice",
+		"_sText": "AIM\r\ndoogiehoogie\r\nxfire\r\nrocketrascal34\r\ne-mail\r\ndoogiehoogie@aol.com\r\n\r\nthis is my first cs/de map hope u like it!!! :)"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_venedig.txt",
+						"de_venedig_beta1_2.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 357391,
+				"_nDownloadCount": 1237,
+				"_nFilesize": 520006,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/357391",
+				"_sFile": "de_venedig_beta1_2.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1152222349
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104554,
+		"_sName": "de_venedig_beta1_2",
+		"_sText": "A little venedig map. There are many water ways... and so on..."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"DE_Velvet_East.exe"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 360200,
+				"_nDownloadCount": 2855,
+				"_nFilesize": 14690921,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/360200",
+				"_sFile": "de_velvet_east.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1128850379
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104553,
+		"_sName": "de_velvet_east",
+		"_sText": "This is an excellent CSS map: very detailed, good gameplay, etc...Download it, I recommend it."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"0": "READ ME.txt",
+						"maps": [
+							"de_veikko_b4.bsp",
+							"de_veikko_b4.nav",
+							"de_veikko_b4.res",
+							"de_veikko_b4.txt"
+						]
+					}
+				},
+				"_bContainsExe": false,
+				"_idRow": 356180,
+				"_nDownloadCount": 3449,
+				"_nFilesize": 4179119,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/356180",
+				"_sFile": "de_veikko_b4.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1158470017
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104552,
+		"_sName": "de_veikko_b4",
+		"_sText": "***ATTENTION***: Thanks to Valve's new update, this version (b4) has COMPLETE AND FULL LINUX SERVER SUPPORT! Feel free to add it to your CS:S server wether Windows or Linux!\r\n\r\nBeta 4:\r\n\r\n-Linux support\r\n-More sewer detail added (New arches)\r\n-Lighting adjustments\r\n-Gameflow adjustments\r\n-Slight tweaks and finalizations abound\r\n\r\n__________________________________________________________________\r\n\r\nThis map is highly planned and detailed, having multiple pathways to the two bomb sites complete with optional paths to every area, perfect to test out your strategy.\r\n\r\n\r\nThis map comes complete with:\r\n\r\n\r\n-Highly polished graphics, with all the bells and whistles from moving overhead clouds to crisp skylight shadows\r\n\r\n-Smooth frame-rate in all areas with the use of Hint brushes\r\n-Environmental based audio for all areas\r\n\r\n-Strategically placed explosive barrels to weaken the enemy before attacking\r\n\r\n-Timed meeting points for optimum game-play\r\n\r\n-Bot support (being improved for final release)\r\n\r\n-Great Z-action (The use of height to gain advantage on a player) with the use of overhanging catwalks\r\n\r\n-Fun game-play and support for any number of players, from 4-32!\r\n\r\nHope you download and enjoy! "
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"FIXED.txt",
+						"LITE VERSION.txt",
+						"de_vegas_lite.bsp",
+						"readme.txt"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 342340,
+				"_nDownloadCount": 7230,
+				"_nFilesize": 26249156,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/342340",
+				"_sFile": "de_vegas_lite_2.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1209226420
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104551,
+		"_sName": "de_vegas_lite  (4 big servers)",
+		"_sText": "<FONT COLOR=\"yellow\"><B>NOW FIXED FOR ORANGE BOX UPDATE!</B></FONT>\r\n\r\n===================================<br>\r\n<FONT COLOR=\"yellow\"><B>DE_VEGAS\\_LITE (FOR LARGE SERVERS)</B></FONT><br>\r\n===================================<br>\r\n\r\n<B>- This is a LITE version of de\\_vegas\\_css which allows for\r\n  up to 64 players.</B>\r\n\r\n- The full version of this map can only support up to 32\r\n  players due to entity lists reaching their capacity.\r\n\r\n- In order to make the map compatible with 64 players,\r\n  minor physics props have been removed (such as hanging\r\n  pictures on the walls) and the lighting effects have\r\n  been greatly recuded throughout the map.\r\n\r\n- If your server is LARGER than 32 slots, use this\r\n  version of the map. Otherwise, use the full version\r\n  called \"<A HREF=\"http://www.fpsbanana.com/maps/52549\">de_vegas\\_css</A>\".\r\n\r\n===================================<br>\r\n\r\n<B>Author:</B> SM Sith Lord<br>\r\n<B>Email:</B> smsithlord@yahoo.com<br>\r\n<B>Website:</B> <A HREF=\"http://www.engport.net\">http://www.engport.net</A>\r\n\r\n<B>Description:</B><br>\r\n<FONT COLOR=\"yellow\">THIS IS THE LITE VERSION OF THE MAP</FONT>, meaning a good portion of the lighting effects and minor props (such as hanging pictures) have been removed to allow for 64 working spawn points without crashing the server. The complete version of this map is called de\\_vegas\\_css and is recommended for no more than 32 player servers or less. These maps are remakes of the original old 1.X map de\\_vegas (original credits below). Stayed true to the original layout. Nearly all the old angles are still there. Changed a few secrets, and added a few more. Most changes to the map are purely visual.\r\n\r\nIslamic extremists have targeted Sin City for their next strike against the American way of life. Hoping to further cripple the US economy, a string of attacks have been coordinated and executed in the fabulous city of Las Vegas, Nevada.\r\n\r\nThe intensity of the strikes increase as the CT's initial response teams quickly become overwhelmed, effectively turning Las Vegas into a war zone.\r\n\r\nYour squad has been assigned to respond to an unidentified helicopter landing at the High Times Hotel & Casino, the sight of an earlier attack which claimed the lives of several of your fellow agents.\r\n\r\nHomeland Security has identified the strike and confirmed that the terrorist have two probable objectives that they are likely to attempt to destroy.\r\n\r\n<B>Target A:</B> As a moral statement, the terrorists have been detonating bombs at strip clubs across the city all night. It is suspected that the High Times Lounge will be the next club to be hit. The club is identifiable by the large Sphinx statue outside of its entrance.\r\n\r\n<B>Target B:</B> The previous attack at this location was a failed effort to empty the casino's vault. It is probable that this second attack is an attempt to finish the job. Allowing the terrorists to escape the scene with the funds is unacceptable. Secure & hold the vault!\r\n\r\n<B>Additional Credits:</B><br>\r\nAll the beta testers on the [DoP] High Times server for finding & putting up with all the terrible bugs & giving valuable feedback. [DoP] Vulgar for letting all that happen. All the people from other forums that helped me fix those bugs (FPSBanana, Interlopers). The authors of GMOW v3 Solid\\_Granite, GiGaBiTe. All the creators of the original de\\_vegas. And, lastly, VALVE for creating a sweet game/engine/resources that I could work with.\r\n\r\n<B>Original Map Credits:</B><br>\r\nOriginally created by +Cadaver+, textures by George\\_Pooshoes and JOeSmOe. Additional credits to Macman, Chaos, Tech3D, Jubilee, and Agent Orange.\r\n\r\n=====================<br>\r\n<FONT COLOR=\"yellow\"><B>NAVIGATION FILE (.nav)</B></FONT><br>\r\n=====================<br>\r\nCredits for the .nav file go to <A HREF=\"http://www.fpsbanana.com/members/55178\">chizbone</A>.  Special thanks to him for taking care of it for me.\r\n\r\n<U><B><A HREF=\"http://files.gamebanana.com/devfiles/de_vegas_lite.zip\">Download CSS .nav file for de\\_vegas\\_lite here</A></B></U>."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_vegas_lite.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 316241,
+				"_nDownloadCount": 4543,
+				"_nFilesize": 25219950,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/316241",
+				"_sFile": "de_vegas_css_2.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1292849574
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104550,
+		"_sName": "de_vegas_css",
+		"_sText": "Refer http://www.fpsbanana.com/maps/52549\r\n\r\nThis is the FIXED version for Orangebox. I invaded the test server with a few mates until it changed to the map and downloaded it."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"changelog.txt",
+						"de_vegas_css.bsp",
+						"readme.txt"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 342425,
+				"_nDownloadCount": 40664,
+				"_nFilesize": 26321166,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/342425",
+				"_sFile": "de_vegas_css.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1208826176
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104549,
+		"_sName": "de_vegas_css",
+		"_sText": "=======<br>\r\n<FONT COLOR=\"yellow\"><B>NOTICE</B></FONT><br>\r\n=======<br>\r\n<B>- This is the FULL version of the map and supports up to 32 players.</B>\r\n- If you run a LARGE server (more than 32 slots) then you need to run the _LITE version of this map, which you can <A HREF=\"http://www.fpsbanana.com/maps/52855\">grab from here</A>.\r\n\r\n<B>Author:</B> SM Sith Lord<br>\r\n<B>Email:</B> smsithlord@yahoo.com<br>\r\n<B>Website:</B> <A HREF=\"http://www.engport.net\">http://www.engport.net</A>\r\n\r\n<B>Description:</B><br>\r\nRemake of the old 1.X map de\\_vegas (original credits below). Stayed true to the original layout. Nearly all the old angles are still there. Changed a few secrets, and added a few more. Most changes to the map are purely visual.\r\n\r\nIslamic extremists have targeted Sin City for their next strike against the American way of life. Hoping to further cripple the US economy, a string of attacks have been coordinated and executed in the fabulous city of Las Vegas, Nevada.\r\n\r\nThe intensity of the strikes increase as the CT's initial response teams quickly become overwhelmed, effectively turning Las Vegas into a war zone.\r\n\r\nYour squad has been assigned to respond to an unidentified helicopter landing at the High Times Hotel & Casino, the sight of an earlier attack which claimed the lives of several of your fellow agents.\r\n\r\nHomeland Security has identified the strike and confirmed that the terrorist have two probable objectives that they are likely to attempt to destroy.\r\n\r\n<B>Target A:</B> As a moral statement, the terrorists have been detonating bombs at strip clubs across the city all night. It is suspected that the High Times Lounge will be the next club to be hit. The club is identifiable by the large Sphinx statue outside of its entrance.\r\n\r\n<B>Target B:</B> The previous attack at this location was a failed effort to empty the casino's vault. It is probable that this second attack is an attempt to finish the job. Allowing the terrorists to escape the scene with the funds is unacceptable. Secure & hold the vault!\r\n\r\n<B>Additional Credits:</B><br>\r\nAll the beta testers on the [DoP] High Times server for finding & putting up with all the terrible bugs & giving valuable feedback. [DoP] Vulgar for letting all that happen. All the people from other forums that helped me fix those bugs (FPSBanana, Interlopers). The authors of GMOW v3 Solid_Granite, GiGaBiTe. All the creators of the original de\\_vegas. And, lastly, VALVE for creating a sweet game/engine/resources that I could work with.\r\n\r\n<B>Original Map Credits:</B><br>\r\nOriginally created by +Cadaver+, textures by George\\_Pooshoes and JOeSmOe.<br> Additional credits to Macman, Chaos, Tech3D, Jubilee, and Agent Orange.\r\n\r\n=====================<br>\r\n<FONT COLOR=\"yellow\"><B>NAVIGATION FILE (.nav)</B></FONT><br>\r\n=====================<br>\r\nCredits for the .nav file go to <A HREF=\"http://www.fpsbanana.com/members/55178\">chizbone</A>. Special thanks to him for taking care of it for me.\r\n\r\n<U><B><A HREF=\"http://files.gamebanana.com/devfiles/de_vegas_css.zip\">Download CSS .nav file for de\\_vegas_css here</A></B></U>."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_vector.bsp",
+						"de_vector.log",
+						"de_vector.prt",
+						"de_vector.vmf",
+						"de_vector.vmx"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 326036,
+				"_nDownloadCount": 1118,
+				"_nFilesize": 2520555,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/326036",
+				"_sFile": "de_vector.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1262349907
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104548,
+		"_sName": "De_Vector",
+		"_sText": "This is my First Map.\r\nThe map called like the weapon \"Vector\""
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"cstrike": {
+							"maps": [
+								"de_vectar_DD_v01.bsp",
+								"de_vectar_dd_v01.nav"
+							],
+							"materials": {
+								"models": {
+									"player": {
+										"b4p": {
+											"vader": [
+												"alnewhope.vmt",
+												"alnewhope.vtf",
+												"beltxtras.vmt",
+												"beltxtras.vtf",
+												"darthshing.vmt",
+												"darthshing.vtf",
+												"dbreather.vmt",
+												"dbreather.vtf",
+												"dcape.vmt",
+												"dcape.vtf",
+												"handhope.vmt",
+												"handhope.vtf",
+												"headhope.vmt",
+												"headhope.vtf",
+												"helmethope.vmt",
+												"helmethope.vtf",
+												"hipsvader.vmt",
+												"hipsvader.vtf",
+												"legsvader.vmt",
+												"shoulderhope.vmt",
+												"shoulderhope.vtf",
+												"torsovader.vmt",
+												"torsovader.vtf",
+												"vaderface.vmt"
+											],
+											"yoda": [
+												"yoda_body.vmt",
+												"yoda_body.vtf",
+												"yoda_body_normal.vtf",
+												"yoda_head.vmt",
+												"yoda_head.vtf",
+												"yoda_head_normal.vtf"
+											]
+										}
+									}
+								}
+							},
+							"models": {
+								"player": {
+									"b4p": {
+										"b4p_vader": [
+											"b4p_vader.dx80.vtx",
+											"b4p_vader.dx90.vtx",
+											"b4p_vader.mdl",
+											"b4p_vader.phy",
+											"b4p_vader.sw.vtx",
+											"b4p_vader.vvd"
+										],
+										"b4p_yoda": [
+											"b4p_yoda.dx80.vtx",
+											"b4p_yoda.dx90.vtx",
+											"b4p_yoda.mdl",
+											"b4p_yoda.phy",
+											"b4p_yoda.sw.vtx",
+											"b4p_yoda.vvd"
+										]
+									}
+								}
+							}
+						}
+					}
+				},
+				"_bContainsExe": false,
+				"_idRow": 342416,
+				"_nDownloadCount": 1196,
+				"_nFilesize": 2353369,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/342416",
+				"_sFile": "430_cstrike_91.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1208883137
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104547,
+		"_sName": "de_vectar_dd_v01",
+		"_sText": "Nothing fancy here, just a fun little map with some secrets ;)"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"de_vast": [
+							"de_vast.bsp",
+							"de_vast.nav",
+							"de_vast.txt"
+						]
+					}
+				},
+				"_bContainsExe": false,
+				"_idRow": 360638,
+				"_nDownloadCount": 11154,
+				"_nFilesize": 5309434,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/360638",
+				"_sFile": "de_vast.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1125295599
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104546,
+		"_sName": "de_vast",
+		"_sText": "de_vast by DarkMortar\r\n_____________________\r\n\r\nThis map takes place in a un-real city that contains\r\na refinery, a hotel, roads, and a overpass. This map supports \r\n32 players. This small and simple layout creates frantic fire-\r\nfights within the dark tunnels and the outside of the hotel.\r\n\r\nThis level may cause quite a bit of lag and/or stress on the \r\nvideo card. It is recommended you lower your settings in \r\nintense multi-play. This map has bot support yet they do not \r\nuse all the paths well and are predictable. They may also get \r\nstuck at the windows of the hotel.\r\n\r\nThis map also contains custom soundscapes which will make you feel like you are really there. \r\n\r\nMost of all, have fun.\r\n\r\nDarkMortar."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_varikko_v2.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 328230,
+				"_nDownloadCount": 2021,
+				"_nFilesize": 6507002,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/328230",
+				"_sFile": "de_varikko_v2.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1254989362
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104545,
+		"_sName": "de_varikko_v2",
+		"_sText": "Map designed by Hakk1tus oct 8th 2009\r\nContact: hakkitus@hotmail.com\r\n\r\nHello all,\r\n\r\nok here is the fixed version of de_varikko. There was a couple texture bugs and also some route bugs too. I added two new routes to help both teams to get bombsites mch easier.\r\n\r\nAlso fine tuned T's door too so now it open much more that earlier.\r\nClosed one route with fences cuase it was meaningless.\r\n\r\nIf you find bugs or something unusual please contact me so i can fix those."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_varikko.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 329123,
+				"_nDownloadCount": 1558,
+				"_nFilesize": 11356079,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/329123",
+				"_sFile": "de_varikko.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1251818718
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104544,
+		"_sName": "de_varikko",
+		"_sText": "Hello,\r\n\r\nhere it is now my second own build map. Hope people enjoy of it and like to play it.\r\n\r\nIf found error please contact me so i can fix them soon as possiple."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_varasto_v3.bsp",
+						"de_varasto_v3.nav"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 328335,
+				"_nDownloadCount": 3895,
+				"_nFilesize": 4510937,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/328335",
+				"_sFile": "de_varasto_v3.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1254505731
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104543,
+		"_sName": "de_varasto_v3",
+		"_sText": "This is the renewed and improved version of oldest map of mine, <a href=\"http://www.fpsbanana.com/maps/61520\">de_varasto</a> here on FPSBANANA. This one is called de_varasto_v3 and it is propably the last and latest version of this map. This contains fixes and addresses some of the issues that were left in the first official release due to my lack of skills in mapping. While this map received some great ratings over a year ago, this one is even better than before! You are advised to upgrade to this latest version. In it, i have adressed some concerns that came after the map was released.\r\n\r\nThe most important changes in this are:\r\n\r\n- Fixes the crashbug that is occuring especially with large servers\r\n- FPS is up to 35% better depending on the area!\r\n- Added more optimizations, eyecandy and so on.\r\n- No layout changes, only minor fixes.\r\n\r\nFull map changelog can be found from <a href=\"http://ics-base.net/css_skins/if_varasto_changes.php\">here!</a>\r\n\r\nCreated by ICS 3rd of August 2008, Updated 31st of July 2009!\r\nE-mail: ics@ics-base.net\r\nWWW: http://www.ics-base.net\r\n\r\nCheck out more maps from my website, <a href=\"http://ics-base.net/css_maps\">http://ics-base.net/css_maps</a>\r\n\r\nThis map is also in mapcycle on the following servers:\r\n\r\n<font color=\"#00FF00\"><b>89.166.50.111:27025</b> - Pelipurkki.net #1 - 50+ Custom maps, tickrate 100</a></font>\r\n<font color=\"#00AAFF\"><b>89.166.50.111:27035</b> - Pelipurkki.net #2 - 50+ ICS + Hakk1tus maps only!</a></font>\r\n\r\nWhat is also cool is that i have released the map vmf officially so you can see how it's done. Note that you are NOT allowed to do remakes or make any changes to this map. The VMF can be downloaded at my website, <a href=\"http://www.ics-base.net/css_skins/if_maps_varasto.php\">here</a>\r\n\r\nEnjoy!"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_varasto.bsp",
+						"de_varasto.nav"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 339732,
+				"_nDownloadCount": 7402,
+				"_nFilesize": 5029016,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/339732",
+				"_sFile": "de_varasto.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1217777069
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104542,
+		"_sName": "de_varasto",
+		"_sText": "The Plot:\r\nIt is a peacefull sunday. Birds are singing and everything is fine until Counter-Terrorist forces learn about a Terrorists plan to infiltrate into the warehouse area and bomb nearby buildings unless their demands are met. CT-unit has been dispatched to secure 2 key areas to stop them. Meanwhile, Terrorists are planning the attack...\r\n\r\n\r\nThis is the map that i have been working on for long time. I havent counted hours but for the last 4 months i have been working with this when i have had time and here it is. The final version. Compared to the beta release, I fixed lightning and this one has way better fps among other fixes (a ton). Textures to their rightfull places, small scenery issues and especially few odd walls. I had some help harnessing out the bugs and finding errors. Thanks for all who contributed and i am happy with the final result. \r\n\r\n\r\nTotal filesize is 16,3MB\r\nTotal filesize as Bzip2 packed: 5,45MB\r\nNavigation file (.nav) is 0,5MB (bzip2 packed less than 200KB)\r\n\r\n\r\nCreated by ICS on 3rd of August 2008\r\nE-mail: ics@ics-base.net\r\nWWW: http://www.ics-base.net\r\n\r\n\r\nPS: Play the map, don't just look at the screenshots. "
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"maps": [
+							"de_vangogh_s.bsp",
+							"de_vangogh_s.txt"
+						],
+						"materials": {
+							"nippertextures": {
+								"de_vangogh_s": [
+									"nmg_awall1.vmt",
+									"nmg_awall1.vtf",
+									"nmg_awall2.vmt",
+									"nmg_awall2.vtf",
+									"nmg_black.vmt",
+									"nmg_black.vtf",
+									"nmg_bluewall.vmt",
+									"nmg_bluewall.vtf",
+									"nmg_brick1.vmt",
+									"nmg_brick1.vtf",
+									"nmg_brickwall1.vmt",
+									"nmg_brickwall1.vtf",
+									"nmg_buildwall1.vmt",
+									"nmg_buildwall1.vtf",
+									"nmg_bushess.vmt",
+									"nmg_bushess.vtf",
+									"nmg_chwall1.vmt",
+									"nmg_chwall1.vtf",
+									"nmg_chwin1.vmt",
+									"nmg_chwin1.vtf",
+									"nmg_chwin2.vmt",
+									"nmg_chwin2.vtf",
+									"nmg_dobrown.vmt",
+									"nmg_dobrown.vtf",
+									"nmg_dored.vmt",
+									"nmg_dored.vtf",
+									"nmg_doredd.vmt",
+									"nmg_doredd.vtf",
+									"nmg_field1.vmt",
+									"nmg_field1.vtf",
+									"nmg_flowerwall.vmt",
+									"nmg_flowerwall.vtf",
+									"nmg_grass_big1.vmt",
+									"nmg_grass_big1.vtf",
+									"nmg_grass_big2.vmt",
+									"nmg_grass_big2.vtf",
+									"nmg_green1.vmt",
+									"nmg_green1.vtf",
+									"nmg_hosgrass1.vmt",
+									"nmg_hosgrass1.vtf",
+									"nmg_hoswin1.vmt",
+									"nmg_hoswin1.vtf",
+									"nmg_mirror1.vmt",
+									"nmg_mirror1.vtf",
+									"nmg_multitrim.vmt",
+									"nmg_multitrim.vtf",
+									"nmg_paint1.vmt",
+									"nmg_paint1.vtf",
+									"nmg_path1.vmt",
+									"nmg_path1.vtf",
+									"nmg_por1.vmt",
+									"nmg_por1.vtf",
+									"nmg_por10.vmt",
+									"nmg_por10.vtf",
+									"nmg_por11.vmt",
+									"nmg_por11.vtf",
+									"nmg_por12.vmt",
+									"nmg_por12.vtf",
+									"nmg_por13.vmt",
+									"nmg_por13.vtf",
+									"nmg_por14.vmt",
+									"nmg_por14.vtf",
+									"nmg_por15.vmt",
+									"nmg_por15.vtf",
+									"nmg_por16.vmt",
+									"nmg_por16.vtf",
+									"nmg_por17.vmt",
+									"nmg_por17.vtf",
+									"nmg_por18.vmt",
+									"nmg_por18.vtf",
+									"nmg_por19.vmt",
+									"nmg_por19.vtf",
+									"nmg_por2.vmt",
+									"nmg_por2.vtf",
+									"nmg_por3.vmt",
+									"nmg_por3.vtf",
+									"nmg_por4.vmt",
+									"nmg_por4.vtf",
+									"nmg_por5.vmt",
+									"nmg_por5.vtf",
+									"nmg_por6.vmt",
+									"nmg_por6.vtf",
+									"nmg_por7.vmt",
+									"nmg_por7.vtf",
+									"nmg_por8.vmt",
+									"nmg_por8.vtf",
+									"nmg_por9.vmt",
+									"nmg_por9.vtf",
+									"nmg_portrait1.vmt",
+									"nmg_portrait1.vtf",
+									"nmg_real1.vmt",
+									"nmg_real1.vtf",
+									"nmg_real2.vmt",
+									"nmg_real2.vtf",
+									"nmg_real3.vmt",
+									"nmg_real3.vtf",
+									"nmg_real4.vmt",
+									"nmg_real4.vtf",
+									"nmg_real5.vmt",
+									"nmg_real5.vtf",
+									"nmg_real6.vmt",
+									"nmg_real6.vtf",
+									"nmg_real7.vmt",
+									"nmg_real7.vtf",
+									"nmg_red.vmt",
+									"nmg_red.vtf",
+									"nmg_roofblack.vmt",
+									"nmg_roofblack.vtf",
+									"nmg_roofblue.vmt",
+									"nmg_roofblue.vtf",
+									"nmg_roofred.vmt",
+									"nmg_roofred.vtf",
+									"nmg_roofstraw.vmt",
+									"nmg_roofstraw.vtf",
+									"nmg_tiles1.vmt",
+									"nmg_tiles1.vtf",
+									"nmg_white.vmt",
+									"nmg_white.vtf",
+									"nmg_win1.vmt",
+									"nmg_win1.vtf",
+									"nmg_wood1.vmt",
+									"nmg_wood1.vtf",
+									"nmg_woodfloor1.vmt",
+									"nmg_woodfloor1.vtf",
+									"nmg_woodfloor2.vmt",
+									"nmg_woodfloor2.vtf",
+									"{nmg_bush1.vmt",
+									"{nmg_bush1.vtf",
+									"{nmg_bush2.vmt",
+									"{nmg_bush2.vtf",
+									"{nmg_bush3.vmt",
+									"{nmg_bush3.vtf",
+									"{nmg_clock.vmt",
+									"{nmg_clock.vtf",
+									"{nmg_light1.vmt",
+									"{nmg_light1.vtf",
+									"{nmg_light2.vmt",
+									"{nmg_light2.vtf",
+									"{nmg_stuff1.vmt",
+									"{nmg_stuff1.vtf",
+									"{nmg_stuff2.vmt",
+									"{nmg_stuff2.vtf",
+									"{nmg_sunflower.vmt",
+									"{nmg_sunflower.vtf",
+									"{nmg_sunflower2.vmt",
+									"{nmg_sunflower2.vtf",
+									"{nmg_sunflower3.vmt",
+									"{nmg_sunflower3.vtf",
+									"{nmg_tree1.vmt",
+									"{nmg_tree1.vtf",
+									"{nmg_tree2.vmt",
+									"{nmg_tree2.vtf",
+									"{nmg_tree3.vmt",
+									"{nmg_tree3.vtf",
+									"{nmg_treeline1.vmt",
+									"{nmg_treeline1.vtf",
+									"{nmg_treeline2.vmt",
+									"{nmg_treeline2.vtf",
+									"{nmg_treeline3.vmt",
+									"{nmg_treeline3.vtf",
+									"{nmg_vincentsig.vmt",
+									"{nmg_vincentsig.vtf"
+								],
+								"xmas_lodge": [
+									"nm_brick1.vmt",
+									"nm_brick1.vtf",
+									"nm_doorz4.vmt",
+									"nm_doorz4.vtf",
+									"nm_furn1.vmt",
+									"nm_furn1.vtf",
+									"nm_ha_floor2.vmt",
+									"nm_ha_floor2.vtf",
+									"nm_wdfloor1.vmt",
+									"nm_wdfloor1.vtf",
+									"nmcf_fence_a.vmt",
+									"nmcf_fence_a.vtf",
+									"nmu_cab1.vmt",
+									"nmu_cab1.vtf",
+									"nmu_cab2.vmt",
+									"nmu_cab2.vtf",
+									"nmu_cab3.vmt",
+									"nmu_cab3.vtf",
+									"nmu_pooltable.vmt",
+									"nmu_pooltable.vtf",
+									"nmxl_carpet1.vmt",
+									"nmxl_carpet1.vtf",
+									"nmxl_ceil1.vmt",
+									"nmxl_ceil1.vtf",
+									"nmxl_inwall1.vmt",
+									"nmxl_inwall1.vtf",
+									"nmxl_outwall1.vmt",
+									"nmxl_outwall1.vtf",
+									"nmxl_trimy1.vmt",
+									"nmxl_trimy1.vtf",
+									"nmxl_wdfloor2.vmt",
+									"nmxl_wdfloor2.vtf",
+									"nmxl_windows1.vmt",
+									"nmxl_windows1.vtf",
+									"rock_snowy_01.vmt",
+									"rock_snowy_01.vtf",
+									"snow.vmt",
+									"snow.vtf",
+									"tik_jukebox.vmt",
+									"tik_jukebox.vtf",
+									"{n_xmastree.vmt",
+									"{n_xmastree.vtf",
+									"{nm_reath.vmt",
+									"{nm_reath.vtf",
+									"{nm_xmaslights.vmt",
+									"{nm_xmaslights.vtf",
+									"{nmxl_ccxmas.vmt",
+									"{nmxl_ccxmas.vtf",
+									"{nmxl_garland.vmt",
+									"{nmxl_garland.vtf",
+									"{nmxl_moose.vmt",
+									"{nmxl_moose.vtf",
+									"{nmxl_treelineq.vmt",
+									"{nmxl_treelineq.vtf",
+									"{nmxl_treezzz1.vmt",
+									"{nmxl_treezzz1.vtf",
+									"{railing_04.vmt",
+									"{railing_04.vtf"
+								]
+							},
+							"skybox": [
+								"spacebk.vmt",
+								"spacebk.vtf",
+								"spacedn.vmt",
+								"spacedn.vtf",
+								"spaceft.vmt",
+								"spaceft.vtf",
+								"spacelf.vmt",
+								"spacelf.vtf",
+								"spacert.vmt",
+								"spacert.vtf",
+								"spaceup.vmt",
+								"spaceup.vtf",
+								"vangoghbk.vmt",
+								"vangoghbk.vtf",
+								"vangoghdn.vmt",
+								"vangoghdn.vtf",
+								"vangoghft.vmt",
+								"vangoghft.vtf",
+								"vangoghlf.vmt",
+								"vangoghlf.vtf",
+								"vangoghrt.vmt",
+								"vangoghrt.vtf",
+								"vangoghup.vmt",
+								"vangoghup.vtf"
+							]
+						},
+						"sound": {
+							"nippersounds": [
+								"nm_wonderfulxmastime.wav"
+							]
+						}
+					}
+				},
+				"_bContainsExe": false,
+				"_idRow": 359672,
+				"_nDownloadCount": 2975,
+				"_nFilesize": 3759374,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/359672",
+				"_sFile": "de_vangogh_s.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1131934256
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104541,
+		"_sName": "de_vangogh_s",
+		"_sText": "<b>I, YellowJello, did not make this map.  NIPPER made this map.  All credit goes to NIPPER, not YellowJello.  YellowJello only submitted this map.\r\n\r\n<a href=\"http://www.nipper.cjb.net\" target= _blank>NIPPER's Official Site</a></b>"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_vampeds_deli.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 348950,
+				"_nDownloadCount": 1434,
+				"_nFilesize": 4218370,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/348950",
+				"_sFile": "de_vampeds_deli.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1188746694
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104540,
+		"_sName": "de_vampeds_deli",
+		"_sText": "This map was made by the -=|C.P.O.K.W.D.W.H.|=- clan for the [U][A] server.  It was mapped by BadGraphicsGhost, designed by HunterDestroyer, and textures by §ephiroth.  Ct's defend the deli and the hotel basement from the t's."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"de_valve_museum BETA": {
+							"0": "Eyo! README!!!.txt",
+							"maps": [
+								"de_valve_museum.bsp",
+								"de_valve_museum.lin",
+								"de_valve_museum.vmf",
+								"de_valve_museum.vmx"
+							]
+						}
+					}
+				},
+				"_bContainsExe": false,
+				"_idRow": 352461,
+				"_nDownloadCount": 1367,
+				"_nFilesize": 1518054,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/352461",
+				"_sFile": "de_valve_museum_beta.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1175464223
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104539,
+		"_sName": "de_valve_museum beta",
+		"_sText": "This is the BETA release of de_valve_museum. I am hoping to improve greatly upon this map, but I need feedback. Tell me what you think and provide some suggestions on what it needs!^^\r\n\r\n\r\n******************\r\nREADME \r\n******************************************\r\n**********de_valve_museum beta************\r\n******************************************\r\n\r\nBY CHEEKY BASTARD & CH33KY STUDIOS\r\n\r\n*******************************************\r\nTo Install:\r\n\r\nExtract the \"maps\" folder into:\r\n\r\nC:\\Program Files\\Valve\\Steam\\SteamApps\\(username)\\counter-strike source\\cstrike\r\n\r\n\r\n*******************************************\r\n\r\nPlease SEND ME SOME FEED BACK! This map needs your help!!!"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_valley_b1.bsp",
+						"de_village_b10000.jpg",
+						"de_village_b10001.jpg",
+						"de_village_b10002.jpg"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 361887,
+				"_nDownloadCount": 1334,
+				"_nFilesize": 825186,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/361887",
+				"_sFile": "de_valley_b1.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1110659665
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104538,
+		"_sName": "de_valley_b1",
+		"_sText": "cool map i bet you will like it. enjoy!"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"de_valley1 by eribic650": [
+							"de_valley1.bsp",
+							"de_valley1.nav",
+							"de_valley1.txt"
+						]
+					}
+				},
+				"_bContainsExe": false,
+				"_idRow": 272240,
+				"_nDownloadCount": 833,
+				"_nFilesize": 1139728,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/272240",
+				"_sFile": "de_valley1_by_eribic650.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1502213190
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104537,
+		"_sName": "de_valley1",
+		"_sText": "This is a map set in a canyon an underground lab<br><br>This is my first upload so please be nice and give me constructive feedback because I would like to hear what people think about it"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_vallavagen_107.bsp",
+						"de_vallavagen_107.nav"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 345655,
+				"_nDownloadCount": 1248,
+				"_nFilesize": 696590,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/345655",
+				"_sFile": "de_vallavagen_107_beta.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1199389886
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104536,
+		"_sName": "de_vallavagen_107",
+		"_sText": "De_vallavagen_107\r\nby Fearlezz\r\n\r\nPlease don't comment, \"It's to blocky!\"\r\nAppartment are often blocky!\r\n"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_valikkari.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 349059,
+				"_nDownloadCount": 1215,
+				"_nFilesize": 653373,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/349059",
+				"_sFile": "de_valikkari.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1188340645
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104535,
+		"_sName": "de_valikkari",
+		"_sText": "Map is made by me. This is made copy from in real life place located Finland - Pyhäjoki. If you have something to ask, my singnature is in maps wall.\r\n\r\nInstall: Put the map file (de_valikkari.bsp) into ur Counter-Strike Source map foldier.\r\n\r\nREAD THIS TOO IF U LIKE THE MAP:\r\nI m making de_valikkari_extended. There is more rooms, And defferent spawn places for longer gaming. :) And i was thinking for making a outside area too. There will be 3 doors for getting in. Windows i m going to add after my friend takes some photos from that house. He cant go there now because som1 has tried to burn that house down ;< Policetapes everywhere.\r\n\r\n!! My computer is down, Now i cannot finish the de_valikkari_extended because my computer is broken. I blow my prosessor too. Gave too much power ;) So you must wait until i buy new computer. !!"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_vac_b3.bsp",
+						"de_vac_b3.nav"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 336540,
+				"_nDownloadCount": 1697,
+				"_nFilesize": 24794626,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/336540",
+				"_sFile": "de_vac_b3.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1227833161
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104534,
+		"_sName": "de_vac_b3",
+		"_sText": "This map is based on dust2 game play..\r\nBut i modified the game play to have finally \r\nan appropriate game play has this map\r\ni take five months for created this.\r\nI haven t finished with this map and i don t know \r\nhow many time i have need for finish this\r\n\r\nbut i published this vertion for improve it.\r\n\r\n\r\nmaybe i transform this to a \"as_\" or a \"dm_\" map in the futur"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"README.txt",
+						"de_vacant.bsp",
+						"de_vacant.nav",
+						"de_vacant.txt"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 361019,
+				"_nDownloadCount": 5078,
+				"_nFilesize": 1892721,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/361019",
+				"_sFile": "de_vacant.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1121050626
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104533,
+		"_sName": "de_vacant",
+		"_sText": "Enjoy!"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"v2.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 321562,
+				"_nDownloadCount": 1551,
+				"_nFilesize": 1543446,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/321562",
+				"_sFile": "425_v2.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1278617589
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104532,
+		"_sName": "de_v2_rocket_facility",
+		"_sText": "This is a little project I'm currently doing trying to replicate the V2 Rocket Facility map from Medal of Honor: Allied Assault by EA Games.\r\n\r\nI will keep the core layout the same, the only thing changing if I absolutely have to will be spawn zones, buy areas, and various props and decorations.\r\n\r\nBest played with 8-16 players, although 32 man support is included.\r\n\r\nCurrently this is in the very early build phase."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"0": "read me.txt",
+						"cstrike": {
+							"maps": [
+								"de_uvalno_kopec.bsp",
+								"de_uvalno_kopec.nav"
+							]
+						}
+					},
+					"_sMimeType": "application/x-rar"
+				},
+				"_bContainsExe": false,
+				"_idRow": 310498,
+				"_nDownloadCount": 3311,
+				"_nFilesize": 14553893,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/310498",
+				"_sFile": "_7801-.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1311614122
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104531,
+		"_sName": "de_uvalno_kopec",
+		"_sText": "Bomb defusal<br>40 players<br>3 bombsites<br><br>Probably last map of my <a href=\"http://www.gamebanana.com/wips/23860 \" reconstruction=\"\" project\"\"=\"\">reconstruction project</a>.&nbsp;<br>We call this top of hill \"kopec\" which means hill in czech. There is ancient Watchtower build 100 years ago. There is also pub next to this sight. Little lower is abandoned\r\npool, which become dilapidated.<br><br>I tried to make strategic experiment - make 3 bombsites on relative open and small area.\r\n\r\nAll three bombsites are connected by underground halls and rooms.<br><br>Unfortunately, CSS don't count with 3 bombsites, so C doesn't appear on minimap. Bombsite area covers entire building so you can put bomb even on roof, if you can get there...<br><br>I learned soundscapes for this map, so atmosphere is quite better than in my recent maps. Next big step is my own models used in map. You may notice new cars. Those are part of my <a href=\"http://www.gamebanana.com/prefabs/5726 \" custom=\"\" models=\"\" pack\"\"=\"\">custom models pack</a>.&nbsp;<br><br>If you like this one,&nbsp;<a href=\"http://www.gamebanana.com/members/submissions/maps/311690\" my=\"\" maps\"\"=\"\">check all of my maps here</a><br>This map or its parts is also used in my&nbsp;<a href=\"https://gamebanana.com/gamefiles/8038\">singleplayer mod</a><br><br>Have a fun<br>Dinus Saurus<br>"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"cstrike": {
+							"0": "Thumbs.db",
+							"maps": [
+								"de_uvalno_funeral.bsp"
+							]
+						},
+						"screenshots, photos": [
+							"DSC04497.jpg",
+							"DSC04550.jpg",
+							"Thumbs.db",
+							"de_uvalno_funeral0002.jpg",
+							"de_uvalno_funeral0003.jpg",
+							"de_uvalno_funeral0006.jpg",
+							"de_uvalno_funeral0007.jpg",
+							"de_uvalno_funeral0008.jpg",
+							"de_uvalno_funeral0009.jpg",
+							"de_uvalno_funeral0010.jpg"
+						]
+					},
+					"_sMimeType": "application/x-rar"
+				},
+				"_bContainsExe": false,
+				"_idRow": 331122,
+				"_nDownloadCount": 4296,
+				"_nFilesize": 11321043,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/331122",
+				"_sFile": "de_uvalno_funeral.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1245330945
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104530,
+		"_sName": "de_uvalno_funeral",
+		"_sText": "This is 1st playable version of map inspired by real location.\r\nI took a part on <a href=\"http://www.fpsbanana.com/mapcats/4109\" target=\"_blank\">Realistic mapping contest</a> with <a href=\"http://www.fpsbanana.com/maps/89391\" target=\"_blank\">uvalno_kostel</a> map, which was big and unplayable. So I decided to remake this map to defusal map.<br><br>Technical note.: Please don't be confused... Max/Min Fade distance causing disappearing some far-away props. IT IS NOT BUG, it is optimization method.&nbsp;\r\n<font color=\"greenred\"><br><br>MAP UPDATED ON 20th JULY 2009!!!\r\nPLEASE REDOWNLOAD MAP, IF YOU STILL HAVE OLDER VERSION\r\n\r\nfeatures<br>- Tree props set to prop_dynamic (better tree shadows casting)<br>- lightmap grid decreased on floors (8) (more detailed shadows)<br>- ambient light color changed bit\r\n- 3D skybox bugs fixed\r\n- T spawn stuck fixed</font><br><br>See also <a href=\"http://www.fpsbanana.com/maps/99091\" target=\"_blank\">cs_uvalno_night</a>, 2nd playable map based on original map of real location<br><br>If you like this one,&nbsp;<a href=\"http://www.gamebanana.com/members/submissions/maps/311690\" my=\"\" maps\"\"=\"\">check all of my maps here</a><br>This map or its parts is also used in my&nbsp;<a href=\"https://gamebanana.com/gamefiles/8038\">singleplayer mod</a><br><br>Have a fun<br>Dinus Saurus<br>"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_Utility_BETA.prt",
+						"de_Utility_BETA.vmf",
+						"de_Utility_BETA.vmx",
+						"de_utility_beta.bsp",
+						"de_utility_beta.log",
+						"de_utility_beta.nav"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 301486,
+				"_nDownloadCount": 1503,
+				"_nFilesize": 1834108,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/301486",
+				"_sFile": "de_utilitybeta.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1342462280
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104529,
+		"_sName": "De_Utility_Beta",
+		"_sText": "Fully planned Tspawn-Garage and Sewers...after that made it up as I went.  \r\n\r\nProblems : Some clipping issue with items stuck into others and some textures need adjusting and will flesh out the map with some more props/ details for final version later on.\r\n\r\n3D skybox will be looked into- still pretty new to SDK HAMMER  have to get on some tutorials.\r\n\r\nI did included a labeled nav. mesh this time around though I didn't mess with the bot commands / path (dissapointed labels are set list and can't customize)\r\n\r\nI went with darker coloration for light after complaints about de_canyon looking too bright and cartoonish.\r\n\r\nAnyone wanna make a radar for me that'd be awesome lol I can try at some point.  Do not know anything about photo shop.   My wife has Photo Explosion version 4 I guess that counts as photoshop so maybe I'll be able to make a radar in the future.  I've glimpsed the tutorial on radar but ran away from it once got into all the photo shop stuff.\r\n\r\nAnyways carrying on.  T-s enter sewers from garage/basement or sewer access in alley.  From the Sewers T's have 3 options  to Asite through side door area(connects to mid)  or to Middle / connects all other areas) or to siteB through tunnel and stairs area.  There is also an alt route beside mid that is accessed from middle or B sewers/ tunnel"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_usb_dust_b1.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 362287,
+				"_nDownloadCount": 5069,
+				"_nFilesize": 1136358,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/362287",
+				"_sFile": "de_usb_dust_b1.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1100240820
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104528,
+		"_sName": "de_usb_dust_b1",
+		"_sText": ""
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_united.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 357274,
+				"_nDownloadCount": 1821,
+				"_nFilesize": 1100189,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/357274",
+				"_sFile": "146_new_winrar_archive_4.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1153066451
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104527,
+		"_sName": "de_usa",
+		"_sText": "This map is only for show of what de_white-house looks like because it will never be finished because of technical diffeculties, so have fun with wats left of de_white-house if you have any request for the level post it for me.\r\n\r\nP.S there are no buy zones"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_Urisch.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 328610,
+				"_nDownloadCount": 1637,
+				"_nFilesize": 474179,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/328610",
+				"_sFile": "de_urisch.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1253369885
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104526,
+		"_sName": "de_urisch",
+		"_sText": "This is a good map.\r\n"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_Urban_Downtown.bsp",
+						"de_urban_downtown.nav"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 315371,
+				"_nDownloadCount": 3831,
+				"_nFilesize": 56018461,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/315371",
+				"_sFile": "_689-.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1295495435
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104525,
+		"_sName": "de_urban_downtown",
+		"_sText": "zm Urban Downtown Final\n\n\nWell guys. This is it. I've been working on this map for a while now. And the job is done. This is the final version. It's a nice downtown with a bank, a gas station, a movie theater, and a lot more.\n\nTerrorists are trying to explode the city hall. Disable the bomb and kill all those bastards to save the day.\n\nSpawn Points: 64\n\nThanks to:\n\nA special thanks to the guys at ICC server, specialy Sandfly. This project would not be possible, with this quality, without you guys."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_urban_beta.bsp",
+						"de_urban_beta.nav"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 331765,
+				"_nDownloadCount": 1540,
+				"_nFilesize": 3144298,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/331765",
+				"_sFile": "de_urban_beta.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1242589977
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104524,
+		"_sName": "de_urban_beta",
+		"_sText": "Just put it in your map folder"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_urbanwarfare.bsp",
+						"de_urbanwarfare.nav"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 350990,
+				"_nDownloadCount": 8905,
+				"_nFilesize": 28300594,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/350990",
+				"_sFile": "de_urbanwarfare.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1181509417
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104523,
+		"_sName": "de_urbanwarfare",
+		"_sText": "..:: DE_URBANWARFARE\r\n\r\n\t\t..::WWW.URBANWARFARE.CO.UK\r\n\r\nCreated by Nathan \"nay0r\" | www.map-central.co.uk\r\n\r\nApart of the Dimension Studios Network\r\nhttp://www.dimensionstudios.org\r\n\r\nhttp://www.urbanwarfare.co.uk\r\n\r\nDown town there has been a rising fear \r\nof crime and activity and secret intelligence \r\nhas recently found that a possible attack could\r\ntake place at the famous Victoria Park or the \r\nMulti-Billion Pound Bank Consumer. A Specialized \r\nsquad has been sent in to prevent these possible\r\nactions.\r\nAs a Terrorist You must Ensure you Plant C4 Explosives \r\nEither In Victoria Park or In the Central Area of the\r\nBank\r\nAs a Counter-Terrorist You must Prevent and Secure \r\nThese Two Areas At all Cost, Failure Could result in\r\ndeadly consequences.\r\n\r\nPre-Development Layout \"Alexsandr\"\r\nProp Exterior Building Fronts  \"Something\"\r\nBeta Testers \"Darkem, Neo\"\r\n\r\nNav By Peter \"Barndoor\" Calvert \r\nhttp://www.tequilakawa.plus.com/ \r\n\r\n\r\n\r\nnayisdeath@hotmail.com\r\n\r\n\r\n"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"cs_urbanstrike": [
+							"de_urbanstrike_V2.bsp"
+						]
+					}
+				},
+				"_bContainsExe": false,
+				"_idRow": 295708,
+				"_nDownloadCount": 1302,
+				"_nFilesize": 2538025,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/295708",
+				"_sFile": "cs_urbanstrike_3.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1363471380
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104522,
+		"_sName": "de_urbanstrike",
+		"_sText": "To install map: Program Files(x86) - Steam - steamapps - (Your profile name) - counter-strike source - cstrike - maps\r\n\r\nPut the map there"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_urbanstrike.bsp",
+						"de_urbanstrike.nav",
+						"de_urbanstrike.txt"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 353007,
+				"_nDownloadCount": 1421,
+				"_nFilesize": 989448,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/353007",
+				"_sFile": "de_urbanstrike.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1172978392
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104521,
+		"_sName": "de_urbanstrike",
+		"_sText": "Layout inspired by de_karachi of 1.6"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"credits and shit.txt",
+						"de_urbandekay_beta5.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 328354,
+				"_nDownloadCount": 1735,
+				"_nFilesize": 4002073,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/328354",
+				"_sFile": "urbandecaybeta5.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1254413385
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104520,
+		"_sName": "de_urbandecay_beta5",
+		"_sText": "Map by Grandma^\r\nBetatesters: Shiny , johnybravo , mythyk , Rolly , Tavi , lala , Woozie.\r\nCredits to: Authors of the buildings (most of them) , and myself.\r\n\r\nAdd to C:/ProgramFiles/Steam/Steamapps/user_name/counter strike source/cstrike/maps.\r\n\r\n\r\nEnjoy.!"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_urbancollege_a1.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 342450,
+				"_nDownloadCount": 1222,
+				"_nFilesize": 2566114,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/342450",
+				"_sFile": "de_urbancollege_a1.7z",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1208728480
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104519,
+		"_sName": "de_urbancollege_a1",
+		"_sText": "This is the alpha of de_urbancollege_a1. Obviously, it is an large urban college in the middle of a city. This is dev textured of course, due to it being an alpha. Due to this being a 420 release, one of the bombsites is designed to reflect that. The other bomb site has a bunch of random nuclear waste. These are placeholders. I do plan on changing the bomb sites when I texture it and go on to the beta version, but I just wanted to include something more then just 'bomb site crates' for the time being. \r\n\r\nIt is designed for 32-64 players and the map is very large with both indoor and outdoor combat. You can actually travel anywhere both indoors and outdoors and the map is easily large enough to have a good 64 player firefight without it being crowded."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_urbanalleys_b2.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 344105,
+				"_nDownloadCount": 1619,
+				"_nFilesize": 2045819,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/344105",
+				"_sFile": "de_urbanalleys_b2.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1203488307
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104518,
+		"_sName": "de_urbanalleys_b2",
+		"_sText": "Beta 2"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_urban1.bsp",
+						"de_urban1.nav",
+						"de_urban1.txt"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 334780,
+				"_nDownloadCount": 1396,
+				"_nFilesize": 16181274,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/334780",
+				"_sFile": "de_urban.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1233435452
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104517,
+		"_sName": "de_urban1",
+		"_sText": "    This map was made for a LAN party where team work is key. This map feel is mid to close quarters combat, with many alternate routes so your team shouldn't get bottle necked.\r\n    The T's spawn in a deserted under ground parking garage. And the CT's spawn in a small park. There are 2 bomb sites. One on a helicopter landing pad filled with crates. And the other in a small industrial building.\r\n    The player can use the ground or climb on to cat walks for a height advantage.\r\n\r\nThis map was created by th3HAWKER. Have fun."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_urban.bsp",
+						"de_urban.nav"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 331258,
+				"_nDownloadCount": 1360,
+				"_nFilesize": 916424,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/331258",
+				"_sFile": "de_urban_2.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1244744579
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104516,
+		"_sName": "de_urban",
+		"_sText": "This is the updated, and much improved, version of Rage. The updates include two important glitch fixes and a major face lift. Urban takes you out of the Dev arena of Rage, and places you in an urban training zone, with construction, trees and even bushes to hide in. The lighting is by far my best, and the textures give the map an all-around green look. One of the glitches fixed was the ability to jump off the rooftop bombsite, and navigate along the outer walls along the map. This was fixed with the addition of taller walls. Another glitch fixed, was the water planting site. I noticed it was way too hard for the bots to plant/defuse with the ability to plant in the water, so I removed that. Other than those details, Urban remains nearly the same as Rage in geography, with a whole new color scheme and lighting effect. "
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"Readme.htm",
+						"de_urban.bsp",
+						"de_urban_banner.png"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 343406,
+				"_nDownloadCount": 1522,
+				"_nFilesize": 32545284,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/343406",
+				"_sFile": "de_urban.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1205700818
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104515,
+		"_sName": "de_urban",
+		"_sText": "Map that I've started working on about a week ago. \r\n\r\nVideo of the map can be found <a href=\"http://www.fpsbanana.com/studios/news/view/1286\">here</a>\r\n\r\n<b>De_Urban Banner!</b>\r\n\r\n<img src=\"http://images.elrebellionstudios.com/maps/de_urban_banner.png\" />\r\n\r\n<a>HTML:</a>\r\n<textarea eadonly=\"1\" cols=\"65\" rows=\"5\"><a href=\"http://www.fpsbanana.com/studios/projects/view/5721\"><img src=\"http://images.elrebellionstudios.com/maps/de_urban_banner.png\" /></a></textarea>\r\n\r\n<a>BBCode:</a>\r\n<textarea eadonly=\"1\" cols=\"65\" rows=\"5\">[url=http://www.fpsbanana.com/studios/projects/view/5721][img]http://images.elrebellionstudios.com/maps/de_urban_banner.png[/img][/url]</textarea>"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_up_yours.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 360724,
+				"_nDownloadCount": 1317,
+				"_nFilesize": 58510,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/360724",
+				"_sFile": "de_up_yours.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1124415871
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104514,
+		"_sName": "de_up_yours",
+		"_sText": "Don't be fooled by this maps look, it's quite fun."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"0": "20200617235835_1.jpg",
+						"1": "20200617235839_1.jpg",
+						"10": "20200617235932_1.jpg",
+						"11": "20200617235936_1.jpg",
+						"12": "20200617235941_1.jpg",
+						"13": "de_uptown_plus_1_0_readme.txt",
+						"2": "20200617235844_1.jpg",
+						"3": "20200617235848_1.jpg",
+						"4": "20200617235853_1.jpg",
+						"5": "20200617235858_1.jpg",
+						"6": "20200617235904_1.jpg",
+						"7": "20200617235915_1.jpg",
+						"8": "20200617235919_1.jpg",
+						"9": "20200617235928_1.jpg",
+						"maps": [
+							"de_uptown_plus.bsp",
+							"de_uptown_plus.nav"
+						],
+						"materials": {
+							"overviews": [
+								"de_uptown_plus.vmt",
+								"de_uptown_plus.vtf"
+							]
+						},
+						"resource": {
+							"overviews": [
+								"de_uptown_plus.txt"
+							]
+						}
+					},
+					"_sMimeType": "application/zip"
+				},
+				"_bContainsExe": false,
+				"_idRow": 469555,
+				"_nDownloadCount": 573,
+				"_nFilesize": 17252198,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "1.0",
+				"_sDownloadUrl": "https://gamebanana.com/dl/469555",
+				"_sFile": "de_uptown_plus_1_0.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1592639031
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104513,
+		"_sName": "de_uptown_plus",
+		"_sText": "Just a simple quiet town, which features a new Botanical In-House Garden and the old public Binocular spot.<br><br>The terrorists are planning to bomb one of those two targets, and CT are brought in, to secure those landmarks.<br><br>The map is pretty top-down (CT to T), but not too steep, and if you have any scoped weapons (snipers and auto-snipers are included), you have the definite advantage.<br>"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"DE_UNREAL V2": [
+							"DE_UNREAL_V2.bsp"
+						]
+					}
+				},
+				"_bContainsExe": false,
+				"_idRow": 326525,
+				"_nDownloadCount": 1128,
+				"_nFilesize": 405874,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/326525",
+				"_sFile": "de_unreal_v2.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1260842833
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104512,
+		"_sName": "de_unreav_v2",
+		"_sText": "hi its a remake of the first enjoy\r\n\r\n<object width=\"480\" height=\"295\"><param name=\"movie\" value=\"http://www.youtube.com/v/VabDAXEmGkw&hl=en_US&fs=1&color1=0x3a3a3a&color2=0x999999\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://www.youtube.com/v/VabDAXEmGkw&hl=en_US&fs=1&color1=0x3a3a3a&color2=0x999999\" type=\"application/x-shockwave-flash\" allowscriptaccess=\"always\" allowfullscreen=\"true\" width=\"480\" height=\"295\"></embed></object>"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_unrealx.bsp",
+						"de_unrealx.nav",
+						"de_unrealx.res",
+						"readme.txt"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 361018,
+				"_nDownloadCount": 1303,
+				"_nFilesize": 2097792,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/361018",
+				"_sFile": "de_unrealx.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1121056213
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104511,
+		"_sName": "de_unrealx",
+		"_sText": "Enjoy!"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"cstrike": {
+							"maps": [
+								"de_unknownloc by Toc.txt",
+								"de_unknownloc.bsp"
+							]
+						}
+					}
+				},
+				"_bContainsExe": false,
+				"_idRow": 350511,
+				"_nDownloadCount": 2293,
+				"_nFilesize": 8193855,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/350511",
+				"_sFile": "de_unknownloc_final.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1183468264
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104510,
+		"_sName": "de_unknownloc",
+		"_sText": "OK, here it is. The final version of de_unknownloc\r\n\r\nThe nav mesh is pretty good, I spent a lot of time on it and have become a minor expert on nav mesh editing. HDR looks pretty good, worked out well.\r\nStill not insanely detailed, but good looking. Play tested like mad with a buddy that always gives me suggestions. It's a fun ass map.\r\n\r\nHDR: Yes\r\nBots: Yes \r\n\r\nSmall urban map, good for instant action fun. Bots work great. "
+	}
+]

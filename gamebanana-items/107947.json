@@ -1,0 +1,53 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"maps": [
+						"aim_magic_labyrinth.bsp",
+						"aim_magic_labyrinth.res",
+						"aim_magic_labyrinth.txt"
+					],
+					"materials": {
+						"alias": {
+							"dev": [
+								"dev_measurefoolbutton.vmt",
+								"dev_measurefoolbutton.vtf",
+								"dev_measureross.vmt",
+								"dev_measureross.vtf",
+								"dev_wallswitchlabyrinth.vmt",
+								"dev_wallswitchlabyrinth.vtf"
+							]
+						},
+						"ukcs": [
+							"ukcs_decal.vmt",
+							"ukcs_decal.vtf"
+						]
+					},
+					"sound": {
+						"aim_magic_labyrinth": [
+							"alert.wav"
+						]
+					}
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 350075,
+			"_nDownloadCount": 1142,
+			"_nFilesize": 415046,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/350075",
+			"_sFile": "aim_magic_labyrinth.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1185043633
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 107947,
+	"_sName": "aim_magic_labyrinth",
+	"_sText": "This is a aim map with the main target to test your reaction. the map is in ag texture style because of the making moving blocks easier to spot (since the normal walls are orange and the moving blocks are gray). The map however has only 2 diffirent versions so you are able to know all the spots after a while. The easter eggs are simply some traps which you could abuse or get fooled with.\r\n\r\nEven though this map usualy results in much fun.\r\n\r\nThe labyrinth changes on button press and sometimes randomly\r\n\r\nNote: the normal blocks deal damage very fast but you sometimes will be able to get out of it. the trap is instant kill."
+}

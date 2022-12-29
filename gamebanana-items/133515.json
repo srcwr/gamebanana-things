@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"gg_Accumulatorion.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 351903,
+			"_nDownloadCount": 2057,
+			"_nFilesize": 1148366,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/351903",
+			"_sFile": "gg_accumulatorion.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1177538821
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 133515,
+	"_sName": "gg_accumulatorion",
+	"_sText": "An update of gg_Accumulator.\r\n\r\nFixes:\r\n-More Decals\r\n-MUCH less props, and no phsyics props\r\n-Deleted office crates as they did not fit the theme\r\n-Fixed a minor brush overlay at doors at spawn\r\n-Added env_embers in roof light\r\n-Added ambient sounds in some spots\r\n-Small optimization increase\r\n-FPS increased\r\n   -At spawn around 50\r\n   -Other places over 80\r\n\r\nI had at LOWEST 49 at spawn, and at most other places I had over 100. Some places even reached over 170. Hope that's better for you guys.\r\n\r\nI did not create brush crates as I wanted this to look more realistic, and brush crates would look out of place in this map.\r\n\r\nEnjoy!"
+}

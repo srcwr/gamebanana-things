@@ -1,0 +1,39 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "de_storm_cssbeta.txt",
+					"1": "de_storm_cssbeta.vmf",
+					"cstrike": {
+						"maps": [
+							"de_storm_cssbeta.bsp",
+							"de_storm_cssbeta.res"
+						],
+						"sound": {
+							"storm": [
+								"thunder-theme.wav"
+							]
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 358965,
+			"_nDownloadCount": 3223,
+			"_nFilesize": 4812152,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/358965",
+			"_sFile": "de_storm_cssbeta_2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1138906636
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 104139,
+	"_sName": "de_storm_cssbeta2",
+	"_sText": "Beta test 2\r\nchanged textures\r\nchanged brush boxes to models (i'll make them different models in beta3)\r\nadded displacements to grassy path\r\noptimization\r\nmade dustmotes less visible\r\nlots of other stuff\r\n\r\nbeta test 1\r\nsame as 747 brushes first then textures/detail\r\nlamppost and lights have already been changed to models\r\nmade the light_env a bit lighter\r\na couple of func_dustmotes were added\r\n\r\nChoGGi@gmail.com\r\n\r\ncredits:\r\noriginal map by FLiPMoDE|Daank \r\noriginal textures by Fingers - jOeSmOe - MattC"
+}

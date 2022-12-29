@@ -1,0 +1,36 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"Trikz_training": [
+						"Readme.txt",
+						"trikz_training.bsp",
+						"trikz_training0000.jpg",
+						"trikz_training0001.jpg",
+						"trikz_training0002.jpg",
+						"trikz_training0003.jpg",
+						"trikz_training0004.jpg"
+					]
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 334312,
+			"_nDownloadCount": 2036,
+			"_nFilesize": 1359833,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/334312",
+			"_sFile": "trikz_training.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1234984965
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 127584,
+	"_sName": "trikz_training",
+	"_sText": "A perfect map for trikz training.\r\n\r\nnote: This map is not build for puplic, it is perfect for:\r\n      Longjump training\r\n      Trikjump training\r\n      mappers who want to build a Trikz_ map\r\n-as you can count each Unit.\r\n\r\n\r\nThere are 3 different areas\r\nAll areas contain teleporters to the other areas and a healh give side.\r\n\r\n1.Weapons: Here you can find weapons like scout or awp.\r\n           You can also find information about the \"Unitcounter\".\r\n           There is a hidden skywalk to get hegrenades and smokes.\r\n2.+3.Jump: Each area contain a flashspawner, a flash jump platform \r\n           and 7 platform control buttons:\r\n           (2 of each of the 3 different speed and 1 stop button)\r\n      The 2.Highjump area got a horizontal moving platform and \"Unitcounter\"\r\n            => Perfect for jumps, trying to get as high as possible.\r\n      The 3.Longjump area got a vertikal moving platform and \"Unitcounter\"\r\n            => Perfect for jumps, trying to get as far as possible.\r\n\r\nThe \"Unitcounter\":\r\n   Have a look at the nearest line of the \"Unitcounter\" to the platform,\r\n   to see how far or high you jumped in units.\r\nHow to read it?\r\n=> Each coulour stands for a number in units:\r\n   black=0; dark-red=1; dark-blue=2; dark-green=3; yellow=4; light red=5;\r\n   light blue=6; light green=7; light brown=8; white=9\r\n=> There are 4 rows:\r\n   Multiply the left/top row by 1000; the second left/top row by 100;\r\n   the second right/bottom row by 10 and add them up.\r\n=> Last row:\r\n   (One purple or black stripe stands for 1 unit)\r\n   Add the sum of stripes that are after the last coulour change in the \r\n   second right/bottom row;\r\n   Or subtract the sum of stripes that are before the next coulour change \r\n   in the second right/bottom row after adding 10\r\n= You now have the number of units you jumped.\r\n\r\n1 unit = 1 inch = 2.54 centimeters"
+}

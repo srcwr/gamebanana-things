@@ -1,0 +1,31 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cs_riverside": [
+						"ReadMe.txt",
+						"cs_riverside.bsp",
+						"cs_riverside.nav"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 346744,
+			"_nDownloadCount": 1553,
+			"_nFilesize": 954463,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/346744",
+			"_sFile": "cs_riverside.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1195338945
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 100393,
+	"_sName": "cs_riverside",
+	"_sText": "This is probably my first map that I actually put a lot of work into. Took about 1-2 weeks to make. There's only 1 bug, which doesn't really get in the way of gameplay, which is the roof. If you ever notice, the roof may look a bit strange. For some reason, in Hammer, I try to use the vertex editor to shape the brushes into a roof, but whenever I compile the map or launch hammer again, some of the brushes go back into a cube, so some parts of the roof look a bit strange. Oh, and try not to fall in the water, because there's no way out.\r\n\r\nEnjoy."
+}

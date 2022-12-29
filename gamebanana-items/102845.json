@@ -1,0 +1,27 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_keysiv.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 305488,
+			"_nDownloadCount": 6021,
+			"_nFilesize": 76367058,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/305488",
+			"_sFile": "de_keysiv.7z",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1327883715
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 102845,
+	"_sName": "de_KeySIV",
+	"_sText": "<dt>Story line</dt>\r\n\r\n<blockquote>On December 5, 2011 Astronomers discovered Kepler-22b, the first planet known to orbit a single star Within ITS habitable zone. In 2061, after 50 years studying and preparing to colonize the planet, the conglomerate of Earth Space Agencies was ready to launch the \"Keystone IV,\" the largest, most expensive and most complex machine ever conceived - to travel to and colonize Kepler-22b.</blockquote>\r\n\r\n<blockquote>On November 2, two years after the initial launch. The Keystone IV finally reached it's destination Kepler-22b. Unfortunatly for the ESA's crew, they weren't welcome there. An alien spaceship chopped half of the Keystone IV. The shield they used during the hyperspace travel has been destroyed in only one shot. That could have been the end. \r\n\r\nBut then, coming out from nowhere, the main ship Scarlet-I launched in secret by the DTT Corporation hitted the alien spaceship with it's shield, cutting the ennemy ship in half and saving the Keystone IV.\r\n\r\nThe alien managed to mind control half of the crew during the battle, they're now trying to C4 the whole spaceship. The civil part of the crew has been evacuated to Scarlet-I, the military now need to recover the control of the ship. Keystone being half destroyed, there's a lot of spacequake.</blockquote>\r\n\r\n<dt>About the development</dt>\r\n\r\nAfter 3 weeks of hard work and more than 200 hours of SDK I finally managed to make it before the deadline. Close, that's true, but in time. Anyway, I barely slept this month and I'll be sure to rest this week :3\r\n\r\nOf course I could have done better but in limited time I think I've did my best.\r\n\r\n<dt>Some values</dt>\r\nKeySIV that's :<br> \r\n<b>Over 100 brand new textures and 91 materials<br> \r\n50 new models</b><br> \r\n1300 point entities<br> \r\n200 bloc entities<br> \r\n230mo for the light version, uncompressed (81mo compressed)<br> \r\nMore than 3Go with the HD version that sit on my computer. (Too heavy to be uploaded, however I plan something for it)\r\n\r\n<dt>Video by EXpMiNi</dt>\r\n<iframe width=\"480\" height=\"274\" src=\"http://www.youtube.com/embed/cwhV4KU9LzU\" frameborder=\"0\" allowfullscreen></iframe>\r\n\r\n<dt>Announcement</dt>\r\nAlso I announce that all theses custom resources will be released in a resource pack for the community within the next two weeks. I hope you guys will enjoy this news.\r\n\r\n\r\nAs always, please report bugs if you encounter them.\r\n\r\n<dt>Known bug and fixed issues</dt>\r\n\r\n_HUGE BUG : Every model has broken material (thanks to pakrat) Currently uploading a fix._ **FIXED**\r\n\r\n_Due to Gamebanana timeout. I can't upload the fix myself. So please, hold your download until tomorrow when I'll get a friend to upload it for me._ **FIXED**\r\nDogers reuploaded the map with the right bsp and everything is now working.\r\n\r\nTwo doors (leading to nowhere, just a little space with nodraw) and some pipes models miss collision. As long peoples doesn't use it to have an advantage it's not much of an issue.\r\n\r\n# 03/02/2012 : Last update - Final version\r\n\r\n-Fixed most of collisions\r\n-Added the possibility to walk throughout the beds\r\n-Overall optimization\r\n-Added a little \"blink\" to another game, you should find it easily\r\n-Added sound for the camera"
+}

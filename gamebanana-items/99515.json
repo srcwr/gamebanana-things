@@ -1,0 +1,53 @@
+{
+	"_aAlternateFileSources": [
+		{
+			"url": "http://www.ehalm.at/cs_cs16_assault.php"
+		}
+	],
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"maps": [
+						"cs_cs16_assault.bsp"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 284913,
+			"_nDownloadCount": 15224,
+			"_nFilesize": 10750909,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/284913",
+			"_sFile": "cs_cs16_assault_v3.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1418857254
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Fixed extreme shiny textures that could appear on older hardware."
+				},
+				{
+					"cat": "-",
+					"text": "Fixed vertical stripes in the skybox."
+				},
+				{
+					"cat": "-",
+					"text": "Changed the vent cover from glass to metal."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "V3",
+			"_tsDateAdded": 1459085465
+		}
+	],
+	"_idRow": 99515,
+	"_sName": "cs_assault from CS 1.6",
+	"_sText": "<p>This map is a port of cs_assault from Counter-Strike 1.6.</p>\r\n<p>I decompiled it fixed everything to work in source engine and recompiled it.</p>\r\n<p>The textures are from Half-Life: Source and CS:S alpha and fixed by me.</p>\r\n<p>CS:GO version: <a target=\"_blank\" href=\"http://steamcommunity.com/sharedfiles/filedetails/?id=356365718\">http://steamcommunity.com/sharedfiles/filedetails/?id=356365718</a></p>\r\n<p>Garry's Mod: <a target=\"_blank\" href=\"http://steamcommunity.com/sharedfiles/filedetails/?id=357662134\">http://steamcommunity.com/sharedfiles/filedetails/?id=357662134</a></p>"
+}

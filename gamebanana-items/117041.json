@@ -1,0 +1,74 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "Install Instructions.txt",
+					"Fast DL": {
+						"cstrike": {
+							"maps": [
+								"cs_crackhouse_f5.bsp.bz2",
+								"cs_crackhouse_f5.nav.bz2"
+							]
+						}
+					},
+					"Personal PC": {
+						"Steam": {
+							"steamapps": {
+								"common": {
+									"counter-strike source": {
+										"cstrike": {
+											"maps": [
+												"cs_crackhouse_f5.bsp",
+												"cs_crackhouse_f5.nav"
+											]
+										}
+									}
+								}
+							}
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 275881,
+			"_nDownloadCount": 1741,
+			"_nFilesize": 3833802,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/275881",
+			"_sFile": "cs_crackhouse_f5_b7f09.7z",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1478903643
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Fixed a texture that was missing from the previous update."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Texture Fix",
+			"_tsDateAdded": 1479611462
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Added a breakable wall in the room above garage to help the bots escape and add difficulty."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Let's Break Things!",
+			"_tsDateAdded": 1479594865
+		}
+	],
+	"_idRow": 117041,
+	"_sName": "cs_crackhouse_f5",
+	"_sText": "Good Evening,<br><br>I have completed making a new cs_crackhouse map for the HG and F5 community. I have spent about four days on the map so may need some touching up but it should be pretty well ready to go. The map was completely remade from scratch so there will be differences in heights, wall thickness (Prevent feet from showing through) and much more. I have tested it inside and out seems to be working pretty smooth. There are no buy zones, hostage rescue or bomb sites. I kept those all off as it is more of a DM map. Also there are quite a few screenshots but I wanted to allow you to view before downloading.<br><br>Map Objective<br><br>The sole purpose of this map was to make it so the map is not one sided. If you have great players on a single team they will eventually destroy the opponents to the point you can't even leave spawn. I also wanted to make a few differences to allow some what of a change to the map. Adding in a few extra spots and changing already existing areas. Also of course I wanted to make it FUN!<br><br>I am open to critique and ideas. So if you play it and think something may be better please do not hesitate to ask and or point it out! All in all I hope to see this map on the cs_crackhouse server in the future and I hope all the players enjoy it as much as I enjoyed making it! I also do not know the original author of cs_crackhouse but shout out to them as I my map is based on it.<br><br>Below are servers that are running the map. HG is playing on a slightly different one that is missing the windows and all breakable walls. Other than that it's the same.<br><br>F5 Site: http://factor5gaming.com<br>24/7 Crackhouse DM: 104.207.138.195:27095<br><br>Hellsgamers Site: http://hellsgamers.com<br>Deathmatch Rotation Server:&nbsp;67.228.181.64:27015<br><br>Enjoy,<br><br>OneShot23<br><br><br><br>"
+}

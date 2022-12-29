@@ -1,0 +1,30 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"cs_calm_pro.bsp",
+					"cs_calm_pro.nav",
+					"cs_calm_pro.txt",
+					"cs_calm_pro_readme.txt"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 307990,
+			"_nDownloadCount": 7241,
+			"_nFilesize": 9301883,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/307990",
+			"_sFile": "cs_calm_pro_2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1319307970
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 99661,
+	"_sName": "cs_calm_pro",
+	"_sText": "#### Calm Village Pro - Hostage Rescue\r\n\r\n##### By Will2k\r\n\r\ncs-calm-pro is a remastered version of my earlier source map cs-calm-source released in 2010 (can be found here http://www.gamebanana.com/maps/151858)\r\n\r\nWhile the map was nice and fun to play and was featured on several servers, I never felt that it got the attention that it deserved fom my side. After all, cs-calm-source was itself a quick remake of my map cs-calm for CS 1.6 from 2003. It actually helped me get back to business after I stopped mapping for almost 7 years. \r\n\r\nMany people also indicated that the map needs some adjustments and more details; so after releasing de-spezia last month, I went back to cs-calm-source and what actually started as slight modification ended up as redesigning and rebuilding around 70% of the map from scratch :)\r\n\r\nNew areas and routes were added, old layout was heavily modified; textures, lighting and props were completely replaced and the overall map area was slightly increased to ensure smoother gameplay.\r\n\r\nAs usual, the map is fully optimized to ensure fluid gameplay and consistent high FPS.\r\n\r\nThe map has:\r\n\r\n- 32 spawn points (16 vs 16) I considered 64 spawn points but I think it would be too much for the size of the map.\r\n- radar overview\r\n- 3D skybox\r\n- Soundscapes\r\n- custom textures and models\r\n- Nav file with place names\r\n\r\nAll the custom resources (except the nav) are embedded in the bsp.\r\n\r\nFor installation, simply extract the 4 files in the zip archive (bsp, nav and 2 txt files) to your \\Counter-Strike Source\\cstrike\\maps folder.\r\n\r\n\r\nI really hope you enjoy this map as much as I did creating and testing it.\r\nComments and constructive feedback are always welcome.\r\n\r\nWill2k\r\n\r\nOctober 22, 2011"
+}

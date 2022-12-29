@@ -1,0 +1,41 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"bhop_voxel.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 431985,
+			"_nDownloadCount": 144,
+			"_nFilesize": 10367734,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/431985",
+			"_sFile": "bhop_voxel.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1568522219
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Updated Lighting issue now no one will see fullbright regardless of hdr level"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Fixed FB issue",
+			"_tsDateAdded": 1568522254
+		}
+	],
+	"_idRow": 126319,
+	"_sName": "bhop_voxel",
+	"_sText": "<b>BHOP_VOXEL</b><br><br>A map in the \"voxel(ish)\" style. This map took a while as i worked more on making the map feel more environmental with little to no \"bhop blocks\" eg. just 64u squares.<br><br>CHANGE HDRLEVEL TO \"MAT_HDR_LEVEL 2\" IF EXPERIENCING FULLBRIGHT&nbsp; (FIXED 15/9/19)<br><br><span class=\"GreenColor\">Main map: 1:30 min<br>Bonus: 23-25 sec</span>"
+}

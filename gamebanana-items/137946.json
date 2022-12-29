@@ -1,0 +1,52 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"fastdl": {
+						"maps": [
+							"zm_vertigo_v1.bsp.bz2",
+							"zm_vertigo_v1.nav.bz2"
+						]
+					},
+					"server": {
+						"maps": [
+							"zm_vertigo_v1.bsp",
+							"zm_vertigo_v1.nav"
+						]
+					}
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 428431,
+			"_nDownloadCount": 197,
+			"_nFilesize": 9988405,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/428431",
+			"_sFile": "zm_vertigo_v1.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1565372133
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "leaks fixed"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Stable",
+			"_tsDateAdded": 1565372403
+		}
+	],
+	"_idRow": 137946,
+	"_sName": "zm_vertigo",
+	"_sText": "<b>                                              HISTORY UPDATES</b><br><i>Version 1.0</i><br><ul><li><span class=\"GreenColor\">Added secrets</span></li><li><span class=\"GreenColor\">Added areportals (+FPS)</span></li><li><span class=\"GreenColor\">Added teleports</span></li><li class=\"SelectedElement\"><span class=\"GreenColor\">Added fallscream</span></li><li><span class=\"GreenColor\">Skybox increased</span></li><li><span class=\"GreenColor\">Added more spawns (64 players)</span></li></ul>"
+}

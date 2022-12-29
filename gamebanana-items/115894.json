@@ -1,0 +1,132 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"example_jungle_map": {
+						"0": "Readme.txt",
+						"1": "example_jungle_map.vmf",
+						"2": "jungle.bsp",
+						"cstrike": {
+							"0": "detail.vbsp",
+							"correction": [
+								"jungle.raw"
+							],
+							"materials": {
+								"detail": [
+									"detailsprites.vmt",
+									"detailsprites.vtf",
+									"dt_grass1.vtf",
+									"dt_stone4.vtf"
+								],
+								"models": {
+									"_outdoor": {
+										"pflanzen": [
+											"baum01a.vmt",
+											"baum01a.vtf",
+											"baum01b.vmt",
+											"baum01b.vtf",
+											"baum01c.vmt",
+											"baum01c.vtf",
+											"baum01d.vmt",
+											"baum01d.vtf",
+											"baum01e.vmt",
+											"baum01e.vtf",
+											"baum01f.vmt",
+											"baum01f.vtf",
+											"baum01g.vmt",
+											"baum01g.vtf"
+										]
+									},
+									"chopper": [
+										"blackhawk.vmt",
+										"blackhawk.vtf",
+										"blackhawk_ref.vtf"
+									]
+								},
+								"rock05": [
+									"grass5.vmt",
+									"grass5.vtf",
+									"grass_normal.vtf",
+									"rock5.vmt",
+									"rock5.vtf",
+									"rock_normal.vtf"
+								],
+								"water3": [
+									"cube_coast212.vtf",
+									"cube_coast212_hdr.hdr.vtf",
+									"water_2012.vmt",
+									"water_2012_beneath.vmt",
+									"water_2012_cheap001.vmt",
+									"waterfog.vmt",
+									"waterfog.vtf"
+								]
+							},
+							"models": {
+								"_outdoor": {
+									"pflanzen": [
+										"baum01.dx80.vtx",
+										"baum01.dx90.vtx",
+										"baum01.mdl",
+										"baum01.phy",
+										"baum01.sw.vtx",
+										"baum01.vvd",
+										"baum02.dx80.vtx",
+										"baum02.dx90.vtx",
+										"baum02.mdl",
+										"baum02.phy",
+										"baum02.sw.vtx",
+										"baum02.vvd",
+										"baum03.dx80.vtx",
+										"baum03.dx90.vtx",
+										"baum03.mdl",
+										"baum03.phy",
+										"baum03.sw.vtx",
+										"baum03.vvd",
+										"baum06.dx80.vtx",
+										"baum06.dx90.vtx",
+										"baum06.mdl",
+										"baum06.phy",
+										"baum06.sw.vtx",
+										"baum06.vvd",
+										"busch02.dx80.vtx",
+										"busch02.dx90.vtx",
+										"busch02.mdl",
+										"busch02.phy",
+										"busch02.sw.vtx",
+										"busch02.vvd"
+									]
+								},
+								"chopper": [
+									"blackhawk.dx80.vtx",
+									"blackhawk.dx90.vtx",
+									"blackhawk.mdl",
+									"blackhawk.phy",
+									"blackhawk.sw.vtx",
+									"blackhawk.vvd"
+								]
+							}
+						}
+					}
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 307472,
+			"_nDownloadCount": 4779,
+			"_nFilesize": 86508873,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/307472",
+			"_sFile": "example_jungle_map_6.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1321159918
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 115894,
+	"_sName": "example_jungle_map",
+	"_sText": "example jungle map\r\n\r\nSpawn points: 10 Bots Support: No\r\nEnvironment: Jungle\r\n\r\nAuthor: Xzertel\r\n\r\nModel Author: RuudVanPistolrooy \r\nMap http://www.gamebanana.com/maps/54178 de static rc6\r\nlicense type? Credit RuudVanPistolrooy."
+}

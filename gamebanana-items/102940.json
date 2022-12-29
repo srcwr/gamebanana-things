@@ -1,0 +1,43 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "de_leisure_v2.txt",
+					"cstrike": {
+						"maps": [
+							"de_leisure_v2.bsp",
+							"de_leisure_v2.res"
+						],
+						"materials": {
+							"kuma": [
+								"metal_black.vmt",
+								"metal_black.vtf",
+								"metal_red.vmt",
+								"metal_red.vtf",
+								"scoreboard.vmt",
+								"scoreboard.vtf"
+							]
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 359154,
+			"_nDownloadCount": 1255,
+			"_nFilesize": 2374357,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/359154",
+			"_sFile": "de_leisure_v2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1136929094
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 102940,
+	"_sName": "de_leisure_v2",
+	"_sText": "de_leisure_v2 - 2005 by Kuma\r\n\r\nCounter-Terrorists: Prevent the terrorists from bombing the weapon stashes\r\n\r\nTerrorists: Destroy one of the weapon stashes by planting the bomb\r\n\r\n\r\n\r\nUnpack into your counterstrike source folder.\r\n\r\nChanges since version 1\r\n\r\nMap has been rebuilt to reduce the lag. \r\nSkybox and surrounding buildings have changed \r\nAdded a few custom textures \r\nClosed off the front door and made a hole through a wall for T's to enter giving cts a better chance of leaving spawn (but not to much) \r\nRemoved some items to make more space \r\nFixed SOLID_VPHYSICS errors. \r\n"
+}

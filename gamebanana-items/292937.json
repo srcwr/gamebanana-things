@@ -1,0 +1,67 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ze_something_ordinary_v4rf.cfg"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 586335,
+			"_nDownloadCount": 37,
+			"_nFilesize": 316,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/586335",
+			"_sFile": "entwatch_config.rar",
+			"_sMd5Checksum": "0da083fe5aae770d556ec937c5499f1c",
+			"_tsDateAdded": 1622981298
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ze_something_ordinary_v4rf2.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 629940,
+			"_nDownloadCount": 61,
+			"_nFilesize": 29136447,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/629940",
+			"_sFile": "ze_something_ordinary_v4rf2.rar",
+			"_sMd5Checksum": "a11a53ddad9be1d7f1a6ea91e8d6ad59",
+			"_tsDateAdded": 1628081639
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "Fixed teleport at the end of level 3 (the filters were not set)"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Changing some map geometry"
+				},
+				{
+					"cat": "Amendment",
+					"text": "Changes to some textures"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "ze_something_ordinary_v4rf2",
+			"_tsDateAdded": 1628081280
+		}
+	],
+	"_idRow": 292937,
+	"_sName": "ze_something_ordinary_v4rf2",
+	"_sText": "<b><span class=\"GreenColor\">MAP DESCRIPTION:</span></b><br><hr><b>3 LEVELS.</b><br>Easy - normal level, without any complications.<br>Hard - same level, but with complications. Different end.<br>End - the level is already with a different location, at the end you need to go through the lasers. <br><br>The first and second levels use music from the map \"<a href=\"https://gamebanana.com/mods/285320\">ze_visualizer</a>\"<br><br><b>1 SPECIAL ITEM FOR HUMANS.</b><br>Wall item - duration 7 seconds. Cooldown 100 seconds.<br><hr>This is my first map! Post bugs and suggestions in the comments!<br><br>"
+}

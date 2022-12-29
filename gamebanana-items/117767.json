@@ -1,0 +1,43 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "fire_sky0000.jpg",
+					"1": "fire_sky0001.jpg",
+					"2": "fire_sky0005.jpg",
+					"maps": {
+						"0": "fire_sky.bsp",
+						"1": "fire_sky.nav",
+						"soundcache": [
+							"fire_sky.cache"
+						]
+					},
+					"vmf file": [
+						"fire_sky.lin",
+						"fire_sky.log",
+						"fire_sky.vmf",
+						"fire_sky.vmx"
+					]
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 343411,
+			"_nDownloadCount": 1100,
+			"_nFilesize": 1416153,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/343411",
+			"_sFile": "fire_sky.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1205688464
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 117767,
+	"_sName": "fire_sky",
+	"_sText": "Same map as fire_sky_TV without TV.\r\nThink it's more fair without TV.\r\n------------------------------------------------------------\r\n\r\n.vmf File is included for individual changes."
+}

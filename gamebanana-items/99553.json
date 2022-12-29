@@ -1,0 +1,201 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "Readme.txt",
+					"maps": [
+						"cs_assault_ren.bsp"
+					],
+					"materials": {
+						"Building_Template": [
+							"Building_Template001b.vmt",
+							"Building_Template001b.vtf",
+							"Building_Template001g.vmt",
+							"Building_Template001g.vtf",
+							"Building_Template001h.vmt",
+							"Building_Template001h.vtf",
+							"Building_Template001i.vmt",
+							"Building_Template001i.vtf",
+							"Building_Template001k.vmt",
+							"Building_Template001k.vtf",
+							"Building_Template003b.vmt",
+							"Building_Template003b.vtf",
+							"Building_Template003f.vmt",
+							"Building_Template003f.vtf",
+							"Building_Template015c.vmt",
+							"Building_Template015c.vtf",
+							"Building_Template015c_normal.vtf",
+							"Building_Template018b.vmt",
+							"Building_Template018b.vtf",
+							"Building_Template018i.vmt",
+							"Building_Template018i.vtf"
+						],
+						"Props": [
+							"metalcrate001a.vmt",
+							"metalcrate001a.vtf",
+							"metalcrate001b.vmt",
+							"metalcrate001b.vtf",
+							"metalcrate001c.vmt",
+							"metalcrate001c.vtf",
+							"metalcrate002a.vmt",
+							"metalcrate002a.vtf",
+							"metalcrate002b.vmt",
+							"metalcrate002b.vtf",
+							"metalcrate002c.vmt",
+							"metalcrate002c.vtf",
+							"metalcrate004c.vmt",
+							"metalcrate004c.vtf",
+							"metalcrate010a.vmt",
+							"metalcrate010a.vtf",
+							"metaldumpster001a.vmt",
+							"metaldumpster001a.vtf",
+							"metaldumpster001b.vmt",
+							"metaldumpster001b.vtf",
+							"metaldumpster001c.vmt",
+							"metaldumpster001c.vtf",
+							"metaldumpster001d.vmt",
+							"metaldumpster001d.vtf",
+							"tarpaperroof002a.vmt",
+							"tarpaperroof002a.vtf",
+							"tarpaperroof003a.vmt",
+							"tarpaperroof003a.vtf",
+							"woodcrate003d.vmt",
+							"woodcrate003d.vtf"
+						],
+						"brick": [
+							"brickfloor001a.vmt",
+							"brickfloor001a.vtf",
+							"brickwall001a.vmt",
+							"brickwall001a.vtf",
+							"brickwall045b.vtf",
+							"brickwall045d.vmt",
+							"brickwall045d.vtf",
+							"brickwall045d_normal.vtf",
+							"brickwall053a.vmt",
+							"brickwall053a.vtf"
+						],
+						"bricks": [
+							"brickwall045b.vmt",
+							"brickwall045b_normal.vtf"
+						],
+						"composite": [
+							"buildingset003a.vmt",
+							"buildingset003a.vtf",
+							"buildingset006a.vmt",
+							"buildingset006a.vtf",
+							"buildingset023a.vtf",
+							"buildingset023b.vmt",
+							"buildingset038a.vmt",
+							"buildingset038a.vtf",
+							"buildingset050a.vmt",
+							"buildingset050a.vtf"
+						],
+						"concrete": [
+							"concreteceiling004a.vmt",
+							"concreteceiling004a.vtf",
+							"concretefloor027a.vmt",
+							"concretefloor027a.vtf",
+							"concretefloor029a.vmt",
+							"concretefloor029a.vtf",
+							"concretewall013b.vmt",
+							"concretewall013b.vtf",
+							"concretewall013b_normal.vtf",
+							"concretewall013e.vmt",
+							"concretewall013e.vtf",
+							"concretewall013f.vmt",
+							"concretewall013f.vtf",
+							"concretewall038d.vmt",
+							"concretewall038d.vtf",
+							"concretewall057a.vmt",
+							"concretewall057a.vtf",
+							"concretewall071a.vmt",
+							"concretewall071a.vtf",
+							"concretewall071c.vmt",
+							"concretewall071c.vtf",
+							"ren_con1.vmt",
+							"ren_con1.vtf",
+							"ren_con2.vmt",
+							"ren_con2.vtf"
+						],
+						"glass": [
+							"glasswindow070a.vmt",
+							"glasswindow070a.vtf"
+						],
+						"metal": [
+							"metaldoor050a.vmt",
+							"metaldoor050a.vtf",
+							"metaldoor061a.vmt",
+							"metaldoor061a.vtf",
+							"metalgrate013b.vmt",
+							"metalgrate013b.vtf",
+							"metalhull003a.vmt",
+							"metalhull003a.vtf",
+							"metalladder001a.vmt",
+							"metalladder001a.vtf",
+							"metalroof008a.vmt",
+							"metalroof008a.vtf",
+							"metalroof008a_normal.vtf",
+							"metaltruss016a.vmt",
+							"metaltruss016a.vtf",
+							"metaltruss022b.vmt",
+							"metaltruss022b.vtf",
+							"metaltruss022c.vmt",
+							"metaltruss022c.vtf",
+							"metalvent010a.vmt",
+							"metalvent010a.vtf",
+							"metalwall001a.vmt",
+							"metalwall001a.vtf",
+							"metalwall001a_normal.vtf",
+							"metalwall001b.vmt",
+							"metalwall001b.vtf",
+							"metalwall001b_normal.vtf",
+							"metalwall001c.vmt",
+							"metalwall001c.vtf",
+							"metalwall001c_normal.vtf",
+							"metalwall002a.vmt",
+							"metalwall002a.vtf"
+						],
+						"skybox": [
+							"sky_airexchange01bk.vmt",
+							"sky_airexchange01bk.vtf",
+							"sky_airexchange01dn.vmt",
+							"sky_airexchange01dn.vtf",
+							"sky_airexchange01ft.vmt",
+							"sky_airexchange01ft.vtf",
+							"sky_airexchange01lf.vmt",
+							"sky_airexchange01lf.vtf",
+							"sky_airexchange01rt.vmt",
+							"sky_airexchange01rt.vtf",
+							"sky_airexchange01up.vmt",
+							"sky_airexchange01up.vtf"
+						]
+					},
+					"sound": {
+						"doors": {
+							"func_door_rotating": [
+								"default_locked.wav"
+							]
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 362317,
+			"_nDownloadCount": 19834,
+			"_nFilesize": 9148636,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/362317",
+			"_sFile": "cs_assault_ren.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1100152484
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 99553,
+	"_sName": "cs_assault_ren",
+	"_sText": "CS_Assault_Ren:\r\n\t\r\nRemake of the original assault for CS.\r\n\r\n\r\n\r\n\r\nINSTALLATION:\r\nExtract this .zip into:\r\n\r\n\"C:\\Program Files\\Valve\\Steam\\SteamApps\\\"Source E-mail\\counter-strike source\\cstrike\\\"\r\n\r\nIt will ask you to overwrite some files, just say yes to all, it only says that cause of the \r\nfolder that are being extracted.\r\n\r\n\r\n\r\n\r\nMAP INFO:\r\n\r\nBuild Time:\r\n'bout 3 days from start to finish\r\n\r\n\r\nCompile time:\r\n13 minutes or so\r\n\r\n\r\nTextures:\r\nAll HL2 Textures\r\n\r\n\r\nModels:\r\nAll HL2 Models\r\n\r\n\r\nBugs:\r\nIt is possible for the player to jump off the warehouse and get outside of the level.\r\nThis isn't a big deal as it isn't an advantage to the player.  It would have been fixed\r\nbut i've having some problems opening the map in Source, so i though i'd just release what\r\ni have done so far, which is very playable, and is almost what i had in mind for the\r\nfinal version.\r\n\r\nAlso, the players show up as pure black when outside in only the sunlight, this is\r\ndue to the problem that the sun doesn't cast light on players for some reason.  It's ok\r\nthough, doesnt' detract from gameplay.  my final version has tons of little lights outside\r\nbut, since i can't open it in source i can't get it uploaded.\r\n\r\n\r\n\r\n\r\nCredits:\r\n\r\nMapping - Renegade\r\nTesting - Renegade\r\n\t- DarkMauler\r\n\r\n\r\nThis map can be be redistributed, but only if this file is attached. Thank"
+}

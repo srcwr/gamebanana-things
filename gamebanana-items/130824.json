@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ze_Jurassic_Park_Story_v1.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 313103,
+			"_nDownloadCount": 16155,
+			"_nFilesize": 49063671,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/313103",
+			"_sFile": "ze_jurassic_park_story_v1.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1303661621
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 130824,
+	"_sName": "ze_Jurassic_Park_Story_V1",
+	"_sText": "A Zombie Escape map based on the movie \"Jurassic Park\" that following the story\r\n\r\nSpec :\r\n\r\n- 64 players\r\n- afk teleport\r\n- cubemap\r\n- particle\r\n- 2 weapons\r\n- 3 differents way to finish\r\n- day/night\r\n\r\nV1 modifications :\r\n\r\n- fix door opening for zombies\r\n- fix little glich that allow to zombies to keep 50 000 hp if they don't pass the door\r\n- fix opening of the second door of the bunker\r\n- new bunker design\r\n- new helicopter to avoid lag\r\n- modification of starting crate to avoid lag\r\n- new decoration of controle room\r\n- removing the teleporter after the brigde and replace by clip\r\n- zombies can't climb to the tree anymore, they should climb the hill and there is rocks and tree to slow them\r\n- new rail detail\r\n- moving the WC next to the T-rex attack\r\n- new stairs in the main room of the visitor center\r\n- timming adjustements\r\n- plank in the t-rex paddock no longer blok you (no more jumping necessary)\r\n- add a vent next to the control room\r\n- more console messages\r\n- (new screenshots)\r\n\r\nV_0_9 modifications :\r\n\r\n- more zombies fights\r\n- modification of the bunker and dock ending\r\n- modification of helicopter timming\r\n- optimisation (i've gain 15 min of compilation)\r\n- reduction of the entities\r\n- vending machines replace by fix vending to avoid fail nades and because zombies can passe thru it.\r\n- modification of the door opening of the visitor center and timming of the jeep\r\n- modification of the tour cars timming to avoid CT die by the doors\r\n- weapons are more easy to take\r\n- fixing trunk fall, and WC bloking door\r\n- some new decoration at different places\r\n\r\nV_0_8 modifications :\r\n\r\n- fix the huge lag on new round start (server crash in some case)\r\n- some little adjustements of timming\r\n\r\nV_0_7 modifications :\r\n\r\n- doors fix !\r\n- start totally modify\r\n- one new ending\r\n- 2 others endings modify\r\n- more automatique triggers (no more button to press to call the boad and the chopper)\r\n- modifications of timings and add some defense spot\r\n- more help in the bunker\r\n- jeep at the end will no more block the players (teleporter attach in front of the jeeps)\r\n- fix afk teleport\r\n- some help to avoid to die with the high tree (teleport + water)\r\n- fix some ways where you should crouch to pass\r\n\r\nV_0_6 modifications :\r\n\r\n- crash fix !\r\n- ladder fix in t-rex fence\r\n- more console messages to explain where to go\r\n- some light to show the way or to show where are important buttons\r\n- more car speed\r\n- some help for zombies for door to break\r\n- some little adjustments"
+}

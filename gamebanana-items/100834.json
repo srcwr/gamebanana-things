@@ -1,0 +1,39 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrike": {
+						"maps": [
+							"ctsupportfacility.bsp"
+						],
+						"materials": {
+							"overviews": [
+								"ctsupportfacility.vmt",
+								"ctsupportfacility.vtf",
+								"ctsupportfacility_radar.vmt",
+								"ctsupportfacility_radar.vtf"
+							]
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 327613,
+			"_nDownloadCount": 1514,
+			"_nFilesize": 9109694,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/327613",
+			"_sFile": "ctsupportfacility.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1256945656
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 100834,
+	"_sName": "CT Support Facility",
+	"_sText": "CT Support Facility is a medium sized map set for 20 players. Intel has provided info that Terrorists have hidden in shipping containers and gained access to the base. CT's start in Headquarters and the Terrorists start in the container area. Bomb sites are Headquarters and Personal barracks.\r\n\r\nShould run good, not a whole lot of imported or authored models, nav file is edited and included in bsp. Compiled for HDR - BLOOM ONLY!\r\n\r\nBeen awhile since I have done anything in source so any and all comments are welcomed.\r\n\r\nATTN:\r\n\r\nI had a few problems with HDR so please set to bloom or map will appear silver."
+}

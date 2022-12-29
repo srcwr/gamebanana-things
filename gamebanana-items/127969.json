@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"mg_fallingthings1_lim_b4.bsp",
+					"mg_fallingthings1_lim_b4.nav"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 299864,
+			"_nDownloadCount": 2304,
+			"_nFilesize": 12961845,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/299864",
+			"_sFile": "mg_fallingthings1_lim_b4_2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1347229692
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 127969,
+	"_sName": "mg_fallingthings1_lim_b4",
+	"_sText": "<center><h1><font color=\"Yellow\">mg_falling<font color=\"Red\">things</font>1_lim_b4</font></h1></center><hr>Another map with new variation of gameplay. I love smash\\propspawn style. So here is my map.<br><br>So what is it?<br>- FreeMode (no scorepoints \\ no timelimit \\ spawnlimit is 40)<br>- TimeMode (scorepoints 100 \\ timelimit 2min \\ buttonslimit - opens at a certain time (left to right))<br>- FunMode (scorepoints 200 \\ timelimit 3min \\ buttonslimit - only some types of \"things\" \\ spawnlimit is 80 \\ low gravity)<br>- Survivor also can get scorepoints (TimeMode after 2min \\ FunMode after 3min)<br>- Some custom textures...<br>- Many hints<br>- 64 players<br>- ANTILAG system: you can spawn 40 \"things\" in FreeMode\\TimeMode and 80 in FunMode \\ 41 and 81 will remove all \"things\". Also you will hear beepsound at 39 and 40 or 79 and 80 (example: you wanna spawn many crates and 1-2 rotatings)<br>- NavFile<br>- 16 main and 4 bonus buttons<br>- You can remove each type of \"things\"<br>- Working Counter Systems<br>- Music Buttons (also disable) \\ Floordoor and Pushthingzone buttons. Last 2 buttons also duplicated on the glassfloor (after black wires) near all other buttons<br>- Kick\\Die protect: if player (after teleport to controlplace) died\\kicked\\left - restart<br><br>x2 means that if you will press this button it will count as 2 \"things\".<br><br>AFTER START: you must choose what you want (fun\\time\\free) and break it (with knife) - you will be teleported to mainlocation. Now first player who will touch the white block will be teleported to controlplace (buttons). Here's only TS so if you want respawn you will be teleported to specslocation (unlimited respawn fix).<br><br><font color=\"Yellow\">CHANGELOG:</font><br>\r\n\r\nb1-b4 - first versions (tested with friends...a lot of fixes)<br>b4 - first public release<br><br><h1><font color=\"LightGreen\">requires noblock</font></h1><br><hr><center><h1><font color=\"Yellow\">mg_falling<font color=\"Red\">things</font>1_lim_b4</font></h1></center><br><br>"
+}

@@ -1,0 +1,49 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"maps": [
+						"de_doomhouse.bsp",
+						"de_doomhouse.nav"
+					],
+					"sound": {
+						"nippersounds": [
+							"nm_dh_door01.wav",
+							"nm_dh_door02.wav",
+							"nm_dh_door03.wav",
+							"nm_dh_frags01.wav",
+							"nm_dh_frags02.wav",
+							"nm_dh_frags03.wav",
+							"nm_dh_frags04.wav",
+							"nm_dh_frags05.wav",
+							"nm_dh_frags06.wav",
+							"nm_dh_lowtax01.wav",
+							"nm_dh_lowtax02.wav",
+							"nm_dh_lowtax03.wav",
+							"nm_dh_music01.wav",
+							"nm_dh_why01.wav",
+							"nm_dh_why02.wav"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 350824,
+			"_nDownloadCount": 12371,
+			"_nFilesize": 8101921,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/350824",
+			"_sFile": "de_doomhouse.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1182186696
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 101891,
+	"_sName": "de_doomhouse",
+	"_sText": "Sounds go in cstrike/sound/nippersounds"
+}

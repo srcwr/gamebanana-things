@@ -1,0 +1,37 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "mg_skeet_shoot_beta.bsp",
+					"1": "mg_skeet_shoot_beta.nav",
+					"PICS": [
+						"sspic1.png",
+						"sspic2.png",
+						"sspic3.png",
+						"sspic4.png",
+						"sspic5.png",
+						"sspic6.png"
+					]
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 330989,
+			"_nDownloadCount": 1503,
+			"_nFilesize": 3202776,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/330989",
+			"_sFile": "mg_skeet_shoot_beta.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1245764246
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 128637,
+	"_sName": "mg_skeet_shoot_beta",
+	"_sText": "BETA MAP\r\nmg_skeet_shoot_beta\r\n\r\nBy: D-PUNK\r\n\r\nGlowing openings teleport you between the sky bunker and terrorist spawn.\r\nGlowing halls in CT spawn push you up the ramp to launch you\r\n\r\n\r\nCT's get launched off ramps into the air over a pool, which has targets on the bottom.\r\nLanding on a target will teleport the CT's to the T spawn where they can then teleport to the AWP bunker.\r\nMissing the target will send you back to spawn to try again.\r\n\r\nT's leave spawn and try to snipe the CT's as they fly through the air trying to land on the target.\r\nWatch you back, a CT may hit a target and be coming to knife you.\r\n\r\n\r\n\r\nGOAL: kill all\r\n\r\nCT's - launch out the ramps and try to land on the targets\r\nT's - shoot and kill CT's as the are flying\r\n\r\n\r\n\r\nInstall: Place the '.bsp' and '.nav' files in your cstrike maps folder\r\n\r\ndefault location \"Program Files\\Steam\\steamapps\\~username~\\counter-strike source\\cstrike\\maps\""
+}

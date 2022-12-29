@@ -1,0 +1,52 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"bhop_FFVII_Mako_Reactor_v2.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 283634,
+			"_nDownloadCount": 1628,
+			"_nFilesize": 32686552,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/283634",
+			"_sFile": "bhop_ffvii_mako_reactor_v2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1427317999
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Remade the materia-collection system, it should not glitch anymore"
+				},
+				{
+					"cat": "-",
+					"text": "Added a bonus as suggested by Frosties where you have to collect all 6 materias"
+				},
+				{
+					"cat": "-",
+					"text": "Implemented more directional triggers for first timers"
+				},
+				{
+					"cat": "-",
+					"text": "Added a missing teleport along with some other minor fixes"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Version 2",
+			"_tsDateAdded": 1427467196
+		}
+	],
+	"_idRow": 125007,
+	"_sName": "bhop_FFVII_Mako_Reactor_v2",
+	"_sText": "**This is a modified version of ze_FFVII_Mako_Reactor_v5_3 by Hannibal[SPA] with help from Kaemon. I did not make this. I simply re-worked it to function as a bhop/course map, with permission.**\r\n\r\nA true classic in the zombie mod realm. I like the map, and I like jumping around on it, so I made this. Bunnyhopping isn't required to complete the objectives. Intended for servers with timers, which is also how I justified the bhop_ prefix. Please note that the timer zones **has to be where specified in order to prevent any glitching.\r\n**\r\n\r\nThis map uses a new non-linear completion system. [Click here for the prefab.](http://css.gamebanana.com/prefabs/6845 \"\")"
+}

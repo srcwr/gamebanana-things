@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ze_barrage_v1.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 314714,
+			"_nDownloadCount": 4429,
+			"_nFilesize": 56274451,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/314714",
+			"_sFile": "_1678-.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1297623587
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 130637,
+	"_sName": "Ze_Barrage_v1",
+	"_sText": "Ma premiere map ZE_ finalisee. L'histoire :\nLes zombies sont partout, votre seule issue est le barrage, quittez la route par 2 chemins differents : \n\n- une vieille maison \n- une station service\nRejoignez une grange a bois dans la foret et defendez un pont.\nEt au final faites sauter le barrage pour noyer les zombies\n\nMy first ZE_ map completed. The story :\nThe zombies are everywhere, your only issue is the barrage, leave the road by 2 different ways :\n\n- an old house\n- a gas station\nJoin the barn of wood in the forest and defend a bridge\nAnd to finish blow up the barrage to drown the zombies.\n\n\n[A nice video with the map](http://www.youtube.com/watch?v=m1zfTR7ivVY \"A nice video with my map\")\n\nNew map post on gamebanana because the new version of the site didn't allow me to upload on the other (upload limit reach)\n\nSpec :\n\n- 64 Players\n- 2 different ways\n- Cubemaps\n- Particles\n- differents difficulties depending the numbers of CT \n\n___________________________________________________________\nV1 : \n\n- reduce the road running (around 30s)\n- 20s less of defense on gas station and house\n- 10s more at the bridge\n- 2 bridges now\n- only one batiment to defend at the end, with different entries\n- some trees modifications\n- some modifications in the barn\n- force defending entry of the barn with bloker on the ladders and the handtruck couldn't move anymore\n- 15s of defense at the entry of the barn and 45s for all instead 1 minute\n- Reduction of the size of the bsp to 140 Mo (B4_2 size was 155 and B1 was 189)\n\n____________________________________________________________________\nBeta4 modifications :\n\n- more fog for optimization\n- Optimization of the entities to avoid crash server\n- Modification of roads for optimization also\n- Increase the number of cars at the biginning to avoid a meeting of zm in the crossing\n- Addition of security rails at the beginning on the invisible walls\n- Reduction of the time of blocking the zm in the crossing\n- fix the blocking too, because zm can pass it before the first zm spawn\n- Modify on the house, it is not possible any more to go on the roof if the door is locked, but there is one little pass through a window\n- Modify of the boards of the house, they are outside now\n- Modify on the gas station: explosion of gas pumps happens before the tank explosion\n- Addition of a teleport to avoid that zombies jam with objects not to be pushed away when the gas station explode\n- Modify of timer on the station and the house: 15s the time which that closes and 1 min to defend\n- New part in the hill where it is necessary to defend a barn with wood\n- The opening of 2 buildings to be defended is at 16 players instead of 12 + very visible warning message!\n- Addition of box after the barriers of entry of buildings\n- Blocking of the access to the roof as long as the trapdoor is not opened \n- The roof ladder breaks at the same time as barriers at the entry, do not wait for a long time on ground\n- Modify of the explosion of the dam\n- Addition of a sound of electricity for the electrocution of the losers\n- Addition of 30s on the map\n- trigger of the computer even if nobody press the button but there will be no messages and it is necessary to wait 40s furthermore!\n- Reduction of the size of the map of 10 Mb\n- Modification in capital letter of messages and reduction of the number\n\n********************\nBeta 3 modifications :\nFixing crash map when the players exceed 20, i've test the new version with succes for 3 hours with 32 bots, and 70 rounds later it's still working. on beta2 it previously crash after 2 or 3 rounds.\nI've also make some optimizations.\n\n\n*******************\nBeta 2  modifications :\nCorrection of 2 bugs : 1 teleporter doesn't work so the afk aren't killed and you could go the left batiment at the end by passing over the fence\nI've reduct the map size from 182 mo to 165 mo\nModification, add and remove of objects\nYou can't go to press the last button until the bidge is broken\nI've reduct hp on the gas and house wood fence\nAnd better protection on the colline part\n*******************"
+}

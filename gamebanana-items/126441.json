@@ -1,0 +1,79 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"kz_bhop_algetic_fix.bsp"
+				],
+				"_sMimeType": "application/x-7z-compressed"
+			},
+			"_bContainsExe": false,
+			"_idRow": 462187,
+			"_nDownloadCount": 184,
+			"_nFilesize": 145631927,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "Map file //",
+			"_sDownloadUrl": "https://gamebanana.com/dl/462187",
+			"_sFile": "kz_bhop_algetic_fix.7z",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1589145993
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"algetic.rad",
+					"info.txt",
+					"kz_bhop_algetic_fix.vmf"
+				],
+				"_sMimeType": "application/x-7z-compressed"
+			},
+			"_bContainsExe": false,
+			"_idRow": 462185,
+			"_nDownloadCount": 61,
+			"_nFilesize": 985084,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": ".vmf file for Mappers.",
+			"_sDownloadUrl": "https://gamebanana.com/dl/462185",
+			"_sFile": "kz_bhop_algetic_fix_vmf.7z",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1589144647
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Adjustment",
+					"text": "Finally had the time to come back to this map and tweak a few things"
+				},
+				{
+					"cat": "Addition",
+					"text": "Re-added the final stage."
+				},
+				{
+					"cat": "Addition",
+					"text": "Added a few new checkpoints throughout the map."
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed a big map skip (Thanks Nyu, Mjau and Madara)"
+				},
+				{
+					"cat": "Improvement",
+					"text": "And a few small changes you might not even notice"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "kz_bhop_algetic_fix",
+			"_tsDateAdded": 1589146079
+		}
+	],
+	"_idRow": 126441,
+	"_sName": "kz_bhop_algetic_fix",
+	"_sText": "Like the name implies, this is a hard map, or at least was the initial idea.<br>Its kinda not long enough 'cause I hit some engine limits, but it's still pretty darn long.<br><br><h3><span class=\"GreenColor\">It includes everything you might hate like:</span></h3><ul><li>SingleHop system</li><li>Forced jump stats</li><li>Forced perf bhops</li><li>Ladders</li><li>Anti pre speed</li><li>NoDuck longjumps</li><li>SlowMotion longjumps</li><li>Boosters!</li><li>Surf ?????</li><li>Dev Textures</li><li>\"Where am I suposed to go?\" bonus</li><li>Mandatory longjump room</li><li>Generic particle system</li><li>And a lot more!</li></ul><br><span class=\"GreenColor\">There's also a Minigame room behind the start zone, with 4 diferent games + 1v1 bhop track.<br></span><ul><li>Air Hockey</li><li>Flappy Birb</li><li>Connect 4</li><li>Tic-Tac-Toe</li></ul><br>The first two are disabled by default because they both use game_ui's to function, and if you don't know already these entities can<u> crash dedicated servers </u>If the user disconect while using it. So, for safety I had to disable them OnMapSpawn. If you want to enable those games, make sure your server has the <a href=\"https://forums.alliedmods.net/showthread.php?t=261173\" target=\"_blank\">game_ui fix by GoD-Tony</a> and use this stripper config:<br><br><pre class=\"SelectedElement\"><font color=\"#6ee16c\" face=\"IBM Plex Mono, monospace\">;; Enable Minigames</font><br><font color=\"#6ee16c\" face=\"IBM Plex Mono, monospace\">filter:</font><br><font color=\"#6ee16c\" face=\"IBM Plex Mono, monospace\">{</font><br>\t<font color=\"#6ee16c\" face=\"IBM Plex Mono, monospace\">\"targetname\" \"ah_disable\"</font><br><font color=\"#6ee16c\" face=\"IBM Plex Mono, monospace\">}</font><br><br><br><font color=\"#6ee16c\" face=\"IBM Plex Mono, monospace\">;; Patch first portal skip(Where you can climb the top of it)</font><br><font color=\"#6ee16c\" face=\"IBM Plex Mono, monospace\">add:</font><br><font color=\"#6ee16c\" face=\"IBM Plex Mono, monospace\">{</font><br>\t<font color=\"#6ee16c\" face=\"IBM Plex Mono, monospace\">\"model\" \"*821\"</font><br>\t<font color=\"#6ee16c\" face=\"IBM Plex Mono, monospace\">\"origin\" \"2557 -10449.4 4712\"</font><br>\t<font color=\"#6ee16c\" face=\"IBM Plex Mono, monospace\">\"target\" \"end_portal1_tp1\"</font><br>\t<font color=\"#6ee16c\" face=\"IBM Plex Mono, monospace\">\"classname\" \"trigger_teleport\"</font><br>\t<font color=\"#6ee16c\" face=\"IBM Plex Mono, monospace\">\"StartDisabled\" \"0\"</font><br>\t<font color=\"#6ee16c\" face=\"IBM Plex Mono, monospace\">\"spawnflags\" \"1\"</font><br><font color=\"#6ee16c\" face=\"IBM Plex Mono, monospace\">}</font><br><br><font color=\"#6ee16c\" face=\"IBM Plex Mono, monospace\">;; and last portal skip(where you can bhop inside the frame and skip the whole final stage).</font><br><font color=\"#6ee16c\" face=\"IBM Plex Mono, monospace\">add:</font><br><font color=\"#6ee16c\" face=\"IBM Plex Mono, monospace\">{</font><br>\t<font color=\"#6ee16c\" face=\"IBM Plex Mono, monospace\">\"model\" \"*821\"</font><br>\t<font color=\"#6ee16c\" face=\"IBM Plex Mono, monospace\">\"origin\" \"-11696 3552 624\"</font><br>\t<font color=\"#6ee16c\" face=\"IBM Plex Mono, monospace\">\"target\" \"lab_tp1\"</font><br>\t<font color=\"#6ee16c\" face=\"IBM Plex Mono, monospace\">\"filtername\" \"ft_cp1\"</font><br>\t<font color=\"#6ee16c\" face=\"IBM Plex Mono, monospace\">\"classname\" \"trigger_teleport\"</font><br>\t<font color=\"#6ee16c\" face=\"IBM Plex Mono, monospace\">\"StartDisabled\" \"0\"</font><br>\t<font color=\"#6ee16c\" face=\"IBM Plex Mono, monospace\">\"spawnflags\" \"1\"</font><br><font color=\"#6ee16c\" face=\"IBM Plex Mono, monospace\">}</font></pre><br><br>Zones are already pre-set if you're using shavit's bhoptimer.<br>Textures are a mix of default dev textures, my own and some remakes/edits from yonkoma.<br>This is clearly inspired by maps like Yonkoma and Benchmark, but with my own twist to it.<br>You can find the music list in the main hub, in the pink side of the room.<br>Music volume is also controled using the ingame music slider (snd_musicvolume 0)<br>BSP file is repacked with bspzip to save filesize.<br>Original .vmf included"
+}

@@ -1,0 +1,71 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"fy_italian_house.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 394027,
+			"_nDownloadCount": 856,
+			"_nFilesize": 674201,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/394027",
+			"_sFile": "fy_italian_house.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1534797913
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"materials": {
+						"overviews": [
+							"fy_italian_house.vmt",
+							"fy_italian_house.vtf",
+							"fy_italian_house_radar.vmt",
+							"fy_italian_house_radar.vtf"
+						]
+					},
+					"resource": {
+						"overviews": [
+							"fy_italian_house.txt"
+						]
+					}
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 394261,
+			"_nDownloadCount": 263,
+			"_nFilesize": 495476,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/394261",
+			"_sFile": "radar_fy_italian_house.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1534981083
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Added radar for the map. Archive attached below"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Final Release",
+			"_tsDateAdded": 1534981023
+		}
+	],
+	"_idRow": 112994,
+	"_sName": "fy_italian_house",
+	"_sText": "<span class=\"RedColor\"><span class=\"GreenColor\">This map is ported with <span class=\"RedColor\">CS</span> <span class=\"RedColor\">1.6</span><br>Changed textures and lighting.</span></span>"
+}

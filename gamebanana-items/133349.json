@@ -1,0 +1,30 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"es_fy_shipment_v2.sqldb",
+					"fy_shipment_v2.bsp",
+					"fy_shipment_v2.nav"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 342284,
+			"_nDownloadCount": 2074,
+			"_nFilesize": 495825,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/342284",
+			"_sFile": "fy_shipment_v2_2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1209410230
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 133349,
+	"_sName": "fy_shipment_v2",
+	"_sText": "This is the second and hopefully final version of this map.\r\n\r\nChange/update log\r\n-Reduced grass by half to reduce lag on low-end machines\r\n-Removed the swaying of the grass to reduce lag on low-end machines\r\n-Added more trash/junk models around the map(like in cod4)\r\n-Added a mound at CT spawn (like in cod4)\r\n-Changed some of the crates to be opened (like in cod4)\r\n-Added another crane to the dock(like in cod4)\r\n-Included a NAV file with the download\r\n\r\nThis map is a remake of COD4s map shipment. It is meant to be a similar port, that can be used for different gametypes like gungame, DM, or normal play (kill the other team)\r\n\r\nI also added a GunGame4 spawnpoint file for deathmatch servers. You would place es_fy_shipment_v2.sqldb in addons/eventscripts/gungame4/addons/gg_deathmatch/spawnpoints"
+}

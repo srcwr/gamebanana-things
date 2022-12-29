@@ -1,0 +1,148 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_void.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 615146,
+			"_nDownloadCount": 140,
+			"_nFilesize": 1769532,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/615146",
+			"_sFile": "de_void_v0_5_1.zip",
+			"_sMd5Checksum": "7101c7090daead3afa37588675e4437b",
+			"_tsDateAdded": 1626378712
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_void.bsp",
+					"de_void.nav"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 454019,
+			"_nDownloadCount": 331,
+			"_nFilesize": 1817647,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/454019",
+			"_sFile": "de_void_v0_5.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1585039537
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Improvement",
+					"text": "Fixed up the jank-ass area next to A"
+				},
+				{
+					"cat": "Addition",
+					"text": "Planted some shrubs"
+				},
+				{
+					"cat": "Addition",
+					"text": "Minor additions"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "V 0.5.1",
+			"_tsDateAdded": 1626379176
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Optimization",
+					"text": "Made the skybox HUG the map"
+				},
+				{
+					"cat": "Optimization",
+					"text": "Lots of fancy nodraw textures in areas where you'll never see"
+				},
+				{
+					"cat": "Tweak",
+					"text": "I didn't like the sand very much. It is now grass"
+				},
+				{
+					"cat": "Tweak",
+					"text": "Made some nice brick effects on various walls, windows and doors. Thoughts?"
+				},
+				{
+					"cat": "Tweak",
+					"text": "Shortened the house between River and Bombsite B"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Removed the area behind TSpawn by extending TSpawn's room"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Removed the wall between the eating area and the walkway behind Bombsite A"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Added a ladder from the eating area to the balcony overlooking courtyard"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Reversed the 'lobby' area"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Instead of the broken hole in the wall between Crates and Courtyard, there are now two very nice holes in the wall."
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Crates has been moved to the right side of the wall, so it's not effectively the same as Long Hall"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "There is now a slight gap in the wall blocking the walkway behind Bombsite A. There was something similar in a previous version, but I think it wasn't released"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Changed the ramp next to Lobby and Long to be stairs"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Made the eating area next to Bombsite A look so fuckin supreme"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Clipped lots of stairs, may have missed a few"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Rounded areas I wanted to be more rounder"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added a sewer from lobby to the area between TSpawn and the house, now referred to as River"
+				},
+				{
+					"cat": "Addition",
+					"text": "Lots of inaccesible decorative areas, for no reason other than I like them :-)"
+				}
+			],
+			"_sText": "went bonkers this update. made it all over a few days, mostly at 2am.<br><br>i'm actually quite nervous about the reception of this update, so i'd love to hear feedback if you don't mind. thank you for checking out my map, i really appreciate it.<br>",
+			"_sTitle": "V 0.5",
+			"_tsDateAdded": 1585040389
+		}
+	],
+	"_idRow": 104601,
+	"_sName": "de_void",
+	"_sText": "This is my first attempt at an actual, playable map. It's a fairly small map.<br><br>I really just went with what felt good. I'm open to suggestions for improving the map!<br>"
+}

@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"README.txt",
+					"cs_twilight_2017.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 275282,
+			"_nDownloadCount": 3005,
+			"_nFilesize": 4336214,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/275282",
+			"_sFile": "cs_twilight_2017.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1483007261
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 100560,
+	"_sName": "cs_twilight_2017",
+	"_sText": "cs_twilight_2017 is a major edit from the original cs_twilight.<br><br>Edits include:<br>:: Every light in the level has been modified<br>:: Sprites added for every light<br>:: Extensive brushwork reduction/cleaning across the map<br>:: Texture changes to the sidewalk, road, some outside buildings<br>:: Beveled some outside buildings so they're not as flat<br>:: Fixed weird, unused parameters on entities across the map<br>:: Modified the 'secret' room to be open and feature information about the map<br>:: Increased lightmap scale in several areas<br>:: Re-designed both stair rooms<br>(Many more changes, that cannot be listed)<br><br>This map was compiled on -final -both with Orange Box parameters for best prop shadows.&nbsp;<br>LDR and HDR cubemaps built."
+}

@@ -1,0 +1,41 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"surf_psychedelia.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 462078,
+			"_nDownloadCount": 139,
+			"_nFilesize": 102848543,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/462078",
+			"_sFile": "surf_psychedelia_cb03c.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1589114126
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Improvement",
+					"text": "Reflection maps properly packed"
+				}
+			],
+			"_sText": "Reflections on surfaces were not properly packed, the download file has been updated and the map will look as intended.",
+			"_sTitle": "Reflection Fix",
+			"_tsDateAdded": 1589110448
+		}
+	],
+	"_idRow": 137869,
+	"_sName": "surf_psychedelia",
+	"_sText": "My winning entry of the KSF Spring 2020 Mapping Contest!<br><br>This map is all about relaxation and feeling groovy. Get the picture? ;)<br><br>Tier 3 Linear<br>1 Bonus"
+}

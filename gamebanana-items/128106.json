@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"mg_hn_compoundcourse2.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 302054,
+			"_nDownloadCount": 2371,
+			"_nFilesize": 21741192,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/302054",
+			"_sFile": "mg_hn_compoundcourse2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1340430508
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 128106,
+	"_sName": "mg_hn_compoundcourse2",
+	"_sText": "Previous version is here: http://gamebanana.com/maps/161721\r\n\r\nIncludes 33 obstacles, 50 slots, spawn + first section (obstacles 1-20) killer activates after about 4.5 minutes, increased from the previous 90 seconds. \r\n\r\nThe round timelimits mean that those that die in the first section get to watch the others complete the rest of the map, and hopefully win (I figured it wouldn't be very enjoyable to finish the map and then find out no-one saw you do it).\r\n\r\nOther changes include environment rock textures scaled down, 2 of the secrets being moved, almost all visual/graphics errors fixed, the \"one at a time\" obstacle teleports now rather than killing, and some of the more repetitive obstacles at the start have been replaced (see screenshots 3 and 4, though 2 others were also replaced). I chose not to add sprites to help with lighting because I figured it wouldn't make much difference, and the focus is on the map's gameplay anyway.\r\n\r\nThe overall round timelimit has remained the same though, it is meant to be challenging to finish. As stated before, the time for the first 20 obstacles is more than enough for several attempts per player per round, though to finish the map, a player needs a near flawless run :)\r\n\r\nPlease do not decompile, if you want to know how I made an obstacle I will explain it in the comments for you :)\r\n - I made a new submission so the ratings and comments wouldn't be skewed how they were even with the changes..."
+}

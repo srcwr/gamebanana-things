@@ -1,0 +1,31 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrike": {
+						"maps": [
+							"cs_alleyways_final.bsp"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 300501,
+			"_nDownloadCount": 6477,
+			"_nFilesize": 8825344,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/300501",
+			"_sFile": "cs_alleyways_final_2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1345869335
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 99424,
+	"_sName": "CS Alleyways",
+	"_sText": "This map started as a mission map for 007 Nightfire. Once it was complete, it occured to me that the layout would be perfect for a hostage map in CSS. So, off I went, completely redoing the textures in high-res with bump mapping. I then set out on a quest to get the most realistic thunderstorm effects possible for source. I stumbled upon a video showcasing the pre-release orange box particle rain. It was by far the most realistic rain I'd ever seen in a video game. The drawback was it's high particle count which contributed to very low frame rates when used in large numbers. I tweaked it down a notch to have a playable frame rate. \r\n\r\nThere are multiple routes you can take in this map. CT's spawn in one large section and have two paths they can take to get to the hostages and two inter-connect paths to get between each destination. One path allows them to traverse the ocean and go around to try and sneak in to the ship where the hostages are located, while the other is a large open path that is faster, but will leave you open if you do not find cover. Terrorists have an advantage of height where they can climb atop a crane to snipe the CTs.\r\n\r\n\r\n\r\nEdit: I have converted the map to CSGO and added in changes such as steam coming from the manholes, more props in the streets, less harsh rain and fog (better performance), another path for CT to get to T and vise versa, and a much improved bot navigational mesh. I have not released it yet as I am still trying to figure out how to pack up the map since bspzip no longer works."
+}

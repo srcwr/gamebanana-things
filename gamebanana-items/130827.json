@@ -1,0 +1,71 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ze_l0v0l_v1_4.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 365678,
+			"_nDownloadCount": 937,
+			"_nFilesize": 117175892,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/365678",
+			"_sFile": "ze_l0v0l_v1_4.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1512731604
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "fixed server crash"
+				},
+				{
+					"cat": "-",
+					"text": "fixed fire beam of main boss on secret stage"
+				},
+				{
+					"cat": "-",
+					"text": "deleted some traps and 2 bossfights from secret stage"
+				},
+				{
+					"cat": "-",
+					"text": "deleted warm up round"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "v1_4",
+			"_tsDateAdded": 1512732425
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "added entwatch cfg"
+				},
+				{
+					"cat": "-",
+					"text": "made easier ending of secret stage"
+				},
+				{
+					"cat": "-",
+					"text": "extended round time"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "v1_2",
+			"_tsDateAdded": 1501988279
+		}
+	],
+	"_idRow": 130827,
+	"_sName": "ze_l0v0l_v1_4",
+	"_sText": "- 4stages (3normal stages + secret stage)<br>- 13items for human (6items per 1round)<br>- 2items for zombie&nbsp;<br>- all stages has bossfight<br>- including color correction"
+}

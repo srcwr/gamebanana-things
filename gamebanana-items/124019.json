@@ -1,0 +1,59 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "FPSBANANA  The FPS Customization Community.url",
+					"1": "Read Me.txt",
+					"2": "as_oilrig_dj1.jpg",
+					"3": "as_oilrig_dj2.jpg",
+					"4": "as_oilrig_dj3.jpg",
+					"5": "as_oilrig_dj4.jpg",
+					"maps": [
+						"as_oilrig_dj.bsp"
+					],
+					"materials": {
+						"models": {
+							"chopper": [
+								"blackhawk.vmt",
+								"blackhawk.vtf",
+								"blackhawk_ref.vtf"
+							]
+						}
+					},
+					"models": {
+						"chopper": [
+							"blackhawk.dx80.vtx",
+							"blackhawk.dx90.vtx",
+							"blackhawk.mdl",
+							"blackhawk.phy",
+							"blackhawk.sw.vtx",
+							"blackhawk.vvd"
+						]
+					},
+					"sound": [
+						"oilrigelevator.wav",
+						"oilriggodzilla.wav"
+					]
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 358543,
+			"_nDownloadCount": 29132,
+			"_nFilesize": 7741521,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/358543",
+			"_sFile": "as_oilrig_dj.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1142837534
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 124019,
+	"_sName": "as_oilrig_dj",
+	"_sText": "Fairly similar to the as_oilrig on CS1.6, just with a source theme."
+}

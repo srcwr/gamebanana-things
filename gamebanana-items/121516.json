@@ -1,0 +1,56 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"surf_toast_remade": {
+						"0": "README.txt",
+						"maps": [
+							"surf_toast_remade.bsp"
+						]
+					}
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 368160,
+			"_nDownloadCount": 561,
+			"_nFilesize": 7153154,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/368160",
+			"_sFile": "surf_toast_remade_335d9.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1514949398
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Adjustment",
+					"text": "Made the map a bit harder and fixed all of the bugs"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Fix",
+			"_tsDateAdded": 1514856062
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "the BSP wasnt in the zip before, idk how that happened"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Fixed",
+			"_tsDateAdded": 1514299384
+		}
+	],
+	"_idRow": 121516,
+	"_sName": "Surf Toast Remade",
+	"_sText": "I decided to remake the old and outdated surf_toast_redone and update it. Ive completely remade the map but the only notable changes are custom textures, smoothing ramps, overall better aesthetics, and a new jail. The goal was to keep as much of the theory and layout of the map as original as i could while making it up to today standards; hopefully ive been successful.<br>Note: i am not the original creator of this map"
+}

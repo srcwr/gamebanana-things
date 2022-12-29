@@ -1,0 +1,31 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "cs_mansionsimpsons_css.txt",
+					"1": "cs_mansionsimpsons_css.vmf",
+					"maps": [
+						"cs_mansionsimpsons_css.bsp"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 359252,
+			"_nDownloadCount": 2808,
+			"_nFilesize": 5882580,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/359252",
+			"_sFile": "cs_mansionsimpsons_css.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1136096202
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 100115,
+	"_sName": "cs_mansionsimpsons_css",
+	"_sText": "Changes from original\r\nchanged some of the outside textures\r\nat each tunnel ladder near ct spawn theres a lightswitch for the lights in the tunnel\r\nin that underground area below the house theres a switch that only turns off all the switchable lights\r\ntheres a switch near the front door that turns them all on again\r\nthe pictures are func_breakable\r\nthe chairs and some smaller tables are physboxes\r\nthe toilets have breakable seats\r\n32 instead of 14 spawnpoints\r\n\r\nand a very big thank you to CunningStunt of www.sourceaddiction.com for fixing the ldr skybox problem\r\n\r\nhappy new years! go get drunk and shoot things"
+}

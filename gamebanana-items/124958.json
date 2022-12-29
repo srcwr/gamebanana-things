@@ -1,0 +1,41 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"bhop_epiphany2.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 432380,
+			"_nDownloadCount": 366,
+			"_nFilesize": 186670875,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/432380",
+			"_sFile": "bhop_epiphany2_d3aac.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1568823569
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Removal",
+					"text": "removed tigger on first level that let you skip most of the map. Servers should install the newer version or anticheat the trigger."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "large skip fix",
+			"_tsDateAdded": 1568836313
+		}
+	],
+	"_idRow": 124958,
+	"_sName": "bhop_epiphany2",
+	"_sText": "Epiphany returns with a second version that improves upon the old in every way."
+}

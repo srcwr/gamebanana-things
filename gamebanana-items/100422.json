@@ -1,0 +1,67 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "cs_scrapyard_beta.bsp",
+					"1": "cs_scrapyard_beta.nav",
+					"cs_scrapyard_beta": {
+						"0": "readme.txt",
+						"cstrike": {
+							"maps": [
+								"cs_scrapyard_beta.bsp",
+								"cs_scrapyard_beta.nav"
+							],
+							"materials": {
+								"rge_S": [
+									"concretewall001a.vmt",
+									"metalgrate011a.vmt",
+									"metalgrate011a.vtf",
+									"rost_kran.vmt",
+									"rost_kran.vtf",
+									"rost_kran_normal.vtf",
+									"schwarz.vmt",
+									"schwarz.vtf",
+									"zink_cv.vmt",
+									"zink_cv.vtf"
+								]
+							},
+							"models": {
+								"zm_2337": [
+									"kran.dx80.vtx",
+									"kran.dx90.vtx",
+									"kran.mdl",
+									"kran.phy",
+									"kran.sw.vtx",
+									"kran.vvd",
+									"kran_base.dx80.vtx",
+									"kran_base.dx90.vtx",
+									"kran_base.mdl",
+									"kran_base.phy",
+									"kran_base.sw.vtx",
+									"kran_base.vvd"
+								]
+							}
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 315103,
+			"_nDownloadCount": 2491,
+			"_nFilesize": 5235951,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/315103",
+			"_sFile": "069__1039-.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1296323565
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 100422,
+	"_sName": "cs_scrapyard_beta",
+	"_sText": "BETA TEST VERSION 1\nVery unfinished, unoptimized test map.\nPlease if you get a RENDERING error, such as: models not displaying, or textures not displaying, DO NOT worry about it, just check out the layout and trust that this map will be rebuilt from scratch with the same basic theme and layout, just better built and optimized, since the map started as a workspace for me, then gradually grew into a map, i didnt plan well enough to avoid major FPS and Visleaf slowdown :/"
+}

@@ -1,0 +1,110 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrike": {
+						"maps": [
+							"de_industry_b1.bsp",
+							"de_industry_b1.nav",
+							"de_industry_b1.txt"
+						],
+						"materials": {
+							"decals": [
+								"easter-egg.vmt",
+								"easter-egg.vtf"
+							],
+							"models": {
+								"kontejner": [
+									"bag1.vmt",
+									"bag1.vtf",
+									"garbage001a_01.vmt",
+									"popelnice.vmt",
+									"popelnice.vtf",
+									"popelnice_mask.vtf"
+								]
+							},
+							"momo": [
+								"map00_plan.vmt",
+								"map00_plan.vtf"
+							],
+							"overviews": [
+								"de_industry_b1.vmt",
+								"de_industry_b1.vtf"
+							],
+							"skybox": [
+								"office1BK.vtf",
+								"office1DN.vtf",
+								"office1FT.vtf",
+								"office1LF.vtf",
+								"office1RT.vtf",
+								"office1UP.vtf",
+								"office1bk.vmt",
+								"office1dn.vmt",
+								"office1ft.vmt",
+								"office1lf.vmt",
+								"office1rt.vmt",
+								"office1up.vmt"
+							]
+						},
+						"models": {
+							"kontejner": [
+								"kontejner.dx80.vtx",
+								"kontejner.dx90.vtx",
+								"kontejner.mdl",
+								"kontejner.phy",
+								"kontejner.sw.vtx",
+								"kontejner.vvd",
+								"trash_pop.dx80.vtx",
+								"trash_pop.dx90.vtx",
+								"trash_pop.mdl",
+								"trash_pop.phy",
+								"trash_pop.sw.vtx",
+								"trash_pop.vvd",
+								"viko.dx80.vtx",
+								"viko.dx90.vtx",
+								"viko.mdl",
+								"viko.phy",
+								"viko.sw.vtx",
+								"viko.vvd"
+							]
+						},
+						"resource": {
+							"overviews": [
+								"de_industry_b1.txt"
+							]
+						},
+						"scripts": [
+							"soundscapes_industry.txt",
+							"soundscapes_manifest.txt"
+						],
+						"sound": {
+							"industry": [
+								"momo_amiance_port_loop.wav",
+								"momo_chien_loop.wav",
+								"momo_horn_boat.wav",
+								"momo_train.wav"
+							]
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 358839,
+			"_nDownloadCount": 1956,
+			"_nFilesize": 17812665,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/358839",
+			"_sFile": "133_cstrike_15.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1140236577
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 102717,
+	"_sName": "de_industry_b1",
+	"_sText": "Map Details\r\n===============\r\n\r\nMap Name      :\t de_industry_b1\r\nFile Name     :\t de_industry_b1.bsp\r\nVersion       :  first beta\r\nGame          :\t Counter Strike Source\r\nDesigner      :\t *MoroeS*\t\t\r\nE-mail        :  mappeur_syrus@yahoo.fr\r\nWeb Site      :  www.moroes.fr.tc"
+}

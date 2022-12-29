@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"surf_collaboration.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 324230,
+			"_nDownloadCount": 2114,
+			"_nFilesize": 21676614,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/324230",
+			"_sFile": "surf_collaboration_2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1267914520
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 121837,
+	"_sName": "surf_collaboration",
+	"_sText": "Hey,\r\n\r\nthis is my second map. This time i worked togheter with Chuck Norris.\r\nThe Map has 8 Stages, 6 Jails (5 after finishing the map, 1 after timeleft.), \r\nand 1 littl bonus in every Stage. Both of us worked on the Stages so every Stage has something of me or Chuck Norris.\r\nSystem written by me.\r\nEvery Team can collect max. 4 bonuses of 8.\r\n\r\n------------------------------------------------------------------\r\n\r\nHow the System works:\r\n\r\nWhen you start at Spawn you can enter only Stage 1 and 2.\r\nIf you finish one of the Stages you have to push a button to gain Points.\r\nAlso there is a bar that turns around after you pressed the button where you can enable one of the other 6 Stages for ur team.\r\nYou get points for every Stage your Team will finish.\r\n\r\nStage 1 = 1 point\r\nStage 2 = 2 points\r\nStage 3 = 3 points\r\n...etc.\r\n\r\nThat means that you can gain max 36 points in one round.\r\n\r\n---------------------------------------------------------------------\r\n\r\nWhen the timer is at the end before your team finished you get a weapon depending on how many points you gained.\r\n\r\nFor example:\r\n\r\n9 points = tmp\r\n22 points = p90\r\n26 points = scout\r\n\r\n--------------------------------------------------------------------\r\n\r\nSpecial thanks to Exither. He inspired us with surf_injection to the system of this map.\r\n\r\n---------------------------------------------------------------------\r\n\r\nThanks to Betatesters\r\n\r\nFuddy\r\nExither\r\nCh1!!3r\r\nNoPro\r\nShoop\r\nbowl\r\nShifty\r\n2Shot\r\nyoshiii\r\nNeuesbrot\r\nSnowrider\r\nBlacky\r\n\r\n----------------------------------------------------------------------\r\n\r\nSome facts about the map from our compile log:\r\n\r\nObject names       Objects/Maxobjs  Memory / Maxmem  Fullness \r\n------------       ---------------  ---------------  -------- \r\nmodels                 557/1024        26736/49152    (54.4%) \r\nbrushes               7780/8192        93360/98304    (95.0%) VERY FULL!\r\nbrushsides           63913/65536      511304/524288   (97.5%) VERY FULL!\r\nplanes               37590/65536      751800/1310720  (57.4%) \r\nvertexes             53974/65536      647688/786432   (82.4%) VERY FULL!\r\nfaces                32675/65536     1829800/3670016  (49.9%) \r\nentdata               [variable]      382436/393216   (97.3%) VERY FULL!\r\n\r\n----------------------------------------------------------------------\r\n\r\nfor perfect look write in console: mat_colorcorrection 1\r\n\r\n----------------------------------------------------------------------\r\n\r\nVideo by Ch1!!3r\r\n\r\n<object width=\"200\" height=\"150\"><param name=\"movie\" value=\"http://www.youtube.com/v/69BL5CrsaAo&hl=de_DE&fs=1&\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://www.youtube.com/v/69BL5CrsaAo&hl=de_DE&fs=1&\" type=\"application/x-shockwave-flash\" allowscriptaccess=\"always\" allowfullscreen=\"true\" width=\"480\" height=\"295\"></embed></object>"
+}

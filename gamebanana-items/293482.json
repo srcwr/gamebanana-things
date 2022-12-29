@@ -1,0 +1,71 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_productive_v1_1.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 587762,
+			"_nDownloadCount": 326,
+			"_nFilesize": 7451533,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/587762",
+			"_sFile": "de_productive_v1_1.rar",
+			"_sMd5Checksum": "82e987e2289737d7d8cf5c33de4a0553",
+			"_tsDateAdded": 1623165633
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_productive_v1_0.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 587572,
+			"_nDownloadCount": 54,
+			"_nFilesize": 7954776,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/587572",
+			"_sFile": "de_productive_v1_0.rar",
+			"_sMd5Checksum": "2baa69904c161e76e9a298ba98cd57aa",
+			"_tsDateAdded": 1623128632
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Added clips to podcrates to prevent the stuck-insta-death bug. (See image below)"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added light to B Stairs entrance from Outside."
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Adjusted the playerclip on the container in the Back Office."
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Adjusted the playerclip of railings so that players don't get stuck while walking."
+				}
+			],
+			"_sText": "This is just an update to include the things that I forgot to include in the initial version, and to fix the things I noticed hours after the initial release.<br><br><img src=\"https://i.imgur.com/LvRlISv.png\"><br>These crates had a chance of killing players that get stuck in the middle of it, hence I added a clip to prevent that from happening.<br><br><b>Note:</b>&nbsp;In this version of map, there are no reflections at all. I want to gather feedbacks whether is it better to have reflections or not. I considered adding reflections to make the map prettier, but the glass window reflections seem to be disruptive.",
+			"_sTitle": "_v1_1",
+			"_tsDateAdded": 1623166074
+		}
+	],
+	"_idRow": 293482,
+	"_sName": "de_productive_v1_1",
+	"_sText": "<b>de_productive </b>is a simple bomb defusal map set in an ordinary office, in an ordinary city.<br><br>This map is not that large in size, when compared to standard bomb defusal maps, e.g. dust2, inferno, mirage, etc.<br><br>There are 20 spawns for each team, so that's 40 players total. <br><br>Looking at the screenshot may not give you the entire idea of how the map parts connect to each other, so I'd recommend you to watch a compact preview of the map linked at the top.<br><br>The video has been split to lots of sections, along with the callouts(?) of the place that is currently being shown. At the end of the video, I showed that the skyboxes of both exterior area are connected, so players can throw nades. For instance, I threw a smoke that blocks A site from the B site (I don't know if this is useful in actual gameplay, though).<br><br><b>Just as a form of disclaimer, I do not own any of the SKINS shown in this video.</b><br>\r\n<ul><li>KNIFE: https://gamebanana.com/mods/212494</li><li>DEAGLE, AWP: https://gamebanana.com/wips/48384</li><li class=\"SelectedElement\">GLOVES: https://gamebanana.com/mods/216550<br></li><li class=\"SelectedElement\">SLEEVES: https://gamebanana.com/mods/216848</li></ul>"
+}

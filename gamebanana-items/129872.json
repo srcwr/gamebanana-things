@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ReadMe.txt",
+					"jb_last_encounter.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 313647,
+			"_nDownloadCount": 3844,
+			"_nFilesize": 20048186,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/313647",
+			"_sFile": "_3514-.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1301739037
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 129872,
+	"_sName": "jb_last_encounter",
+	"_sText": "<br>This is my second jail map and finally, it is my last map ever.\r\n<br>This map has 30 spawns for Ts and 20 spawns for CT.\r\n<br>\r\n<br><b><font color=\"yellow\">Map contains several elements, which arent very common.</font></b>\r\n<br>1) Each cell has vent, but only one cell per round has destroyable vent.\r\n<br>2) Each cell has a chance to have a pistol, but only one pistol can be found each round.\r\n<br>3) Cells can be opened automatically (60 sec) or manually and automatic opening can be disabled by button.\r\n<br>\r\n<br><b><font color=\"yellow\">Armory has a lot of weapons, which quantity isnt limited.</font></b>\r\n<br>- Pistol p228\r\n<br>- Pistol FiveSeven\r\n<br>- SMG Mp5navy\r\n<br>- SMG P90 \r\n<br>- Rifle Famas\r\n<br>- Rifle M4A1\r\n<br>- Sniper Rifle Scout\r\n<br>\r\n<br><font color=\"yellow\">Armory is protected, so only CTs can open it (from front side).</font>\r\n<br>\r\n<br><b><font color=\"yellow\">Of course, there are some well-known games like:</font></b>\r\n<br>- Simon Says\r\n<br>- Jump Rope\r\n<br>- Disco with DiscoGame (similiar to bench room)\r\n<br>- Race 1vs1\r\n<br>- Gun (or bomb) Toss\r\n<br>- Last Reaction (up to 5 players)\r\n<br>- Talent Stage\r\n<br>- Swimming Pool (competitive swimming for 3 players)\r\n<br>- Football (or soccer) with scoreboard (up to 5)\r\n<br>- BasketBall with scoreboard (up to 5)\r\n<br>\r\n<br><b><font color=\"yellow\">And some important rooms like:</b></font>\r\n<br>- Armory\r\n<br>- CT spawn\r\n<br>- 3 small rooms with buttons, which can open doors on CT floor\r\n<br>- Hospital\r\n<br>- Small sancutary dedicated to Yellow\r\n<br>\r\n<br><font color=\"#cc0000\" size=\"4\"><b>!IMPORTANT!</b></font><br>\r\nTo play football properly, server should have phys_pushscale 200 (or more).\r\nI fogot to set it in my map.<br>"
+}

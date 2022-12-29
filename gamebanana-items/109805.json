@@ -1,0 +1,59 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"lol_laserquest_laby1": {
+						"0": "Thumbs.db",
+						"1": "lol_laserquest_laby1A.JPG",
+						"2": "lol_laserquest_laby1B.JPG",
+						"3": "lol_laserquest_laby1C.JPG",
+						"4": "lol_laserquest_laby1D.JPG",
+						"maps": [
+							"lol_laserquest_laby1.bsp",
+							"lol_laserquest_laby1.res"
+						],
+						"materials": {
+							"lol_laserquest_laby1": [
+								"complet.vmt",
+								"complet.vtf",
+								"lq.vmt",
+								"lq.vtf",
+								"me4dcln.vmt",
+								"me4dcln.vtf",
+								"mur5.vmt",
+								"mur5.vtf",
+								"spaceup.vmt",
+								"spaceup.vtf",
+								"~light4b.vmt",
+								"~light4b.vtf"
+							]
+						},
+						"sound": {
+							"lol_laserquest_laby1": [
+								"rock.wav"
+							]
+						}
+					}
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 344825,
+			"_nDownloadCount": 1126,
+			"_nFilesize": 2559626,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/344825",
+			"_sFile": "lol_laserquest_laby1_3.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1201468774
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 109805,
+	"_sName": "lol_laserquest_laby1",
+	"_sText": "Hello,\r\n\r\nit is my second map after lol_lasergame.\r\n\r\nThis map is better than thirst map because is must finished.\r\n\r\nSpecial thanks a Cortexd mappeur of fy_laserquest in cs 1.6 for take me *.rmf and texture of this map.\r\n\r\nspecificity :\r\n\r\n- 24 slots ( but better play 7 vs 7 )\r\n\r\n- only cut and P90 with 2 recharges\r\n\r\n- unique style map \r\n\r\n- good optimisation ( with func_occluder, aero portal, buildcubemaps ... ) turn at more 200 fps ^^ in server\r\n\r\n- better gameplay with plugin MB_tracer de MBchrono.\r\n\r\n*.rar : Maps ( *.bsp and *.res ) ; Textures ; sound ... tested and approuved on the loosersOnLine serveur !!! ;)\r\n\r\nEnjoy !!! ;) \r\n\r\nEdit : new *.bsp with 45 sec kill afk ( before is 60 sec ) and block_bullet in glass in arme_room."
+}

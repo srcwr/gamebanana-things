@@ -1,0 +1,50 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrike": {
+						"DownloadLists": [
+							"de_station17_underground_beta.lst"
+						],
+						"maps": {
+							"0": "de_station17_underground_beta.bsp",
+							"1": "de_station17_underground_beta.nav",
+							"2": "de_station17_underground_beta.txt",
+							"soundcache": [
+								"de_station17_underground_beta.cache"
+							]
+						},
+						"materials": {
+							"overviews": [
+								"de_station17_underground_beta.vmt",
+								"de_station17_underground_beta.vtf"
+							]
+						},
+						"resource": {
+							"overviews": [
+								"de_station17_underground_beta.txt"
+							]
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 355530,
+			"_nDownloadCount": 2271,
+			"_nFilesize": 5959286,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/355530",
+			"_sFile": "de_station17_underground_beta.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1161126300
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 104113,
+	"_sName": "de_station17_underground",
+	"_sText": "De_Station17_underground_beta\r\n\r\nThis is a beta version of my map so it still has to be tweaked a bit more before the final release.\r\n\r\nBackground:\r\nBefore the combine oppression of City17, all was not well, there was still great stife and civil unrest. One extremist political group had been ignored far too long, in a series of attacks they would bring the city to its knees; the world would hear their demands.\r\nThe Terrorists have already begun their attack, derailing a train and blowing a hole in the underground platform giving them direct access to the server room.\r\n\r\nTerrorist:\r\nSecure and bomb either the train carrage (A) or the server room (B) to cease all train transport in the city.\r\nYou may need to eliminate the CT team so you can later succeed at your objective.\r\n\r\nCounter-Terrorists:\r\nTerrorist have stormed the ticket office, killing several civilans, eliminate the threat and stop the bombing at all costs.\r\n\r\nOriginal Half-life 2 station by valve\r\nAll additions and modifications are by Ben Andrews.\r\nAny feedback e-mail Benlandrews@aol.com"
+}

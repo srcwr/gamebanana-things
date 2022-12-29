@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"gg_watchtower_GGN.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 345514,
+			"_nDownloadCount": 2891,
+			"_nFilesize": 1211416,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/345514",
+			"_sFile": "gg_watchtower_ggn.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1199676182
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 137368,
+	"_sName": "gg_watchtower_ggn",
+	"_sText": "Final release of gg_watchtower.\r\n\r\nChanges include:\r\nBrush alignments fixed.\r\nTower ladder replaced with model and extended to ground lvl.\r\n2 side ladders replaced with stacked crates.\r\nAdded alpha blending to ground texture.\r\nAdded rope to side of tower as second means to reach top.\r\nBrightened map, removed rain, and changed skybox texture.\r\nAdded slanted window holes to corners of the giant X, by the spawn points.\r\nChanged top of tower to rectangular shape instead of circular one as before.\r\nOptimized map for better loading.\r\n\r\nSome suggestions given by LoneIceDragon and Carbon16. Thanks guys.\r\n\r\nNOTE: .nav file not included. Run map with bots in it and it will auto-create."
+}

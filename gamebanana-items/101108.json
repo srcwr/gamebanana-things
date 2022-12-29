@@ -1,0 +1,54 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"de_aztec_csgo": {
+						"maps": [
+							"de_aztec_csgo.bsp",
+							"de_aztec_csgo.nav"
+						],
+						"materials": {
+							"nature": [
+								"blend_grass2.vtf"
+							]
+						}
+					}
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 402514,
+			"_nDownloadCount": 1879,
+			"_nFilesize": 58744354,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/402514",
+			"_sFile": "de_aztec_csgo.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1542880468
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "fixed blend texture"
+				},
+				{
+					"cat": "-",
+					"text": "copy missed texture"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "my edit",
+			"_tsDateAdded": 1542880431
+		}
+	],
+	"_idRow": 101108,
+	"_sName": "de_aztec_csgo",
+	"_sText": "Not my port. Credits to unknown author"
+}

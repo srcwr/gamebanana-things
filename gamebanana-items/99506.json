@@ -1,0 +1,77 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrike": {
+						"maps": {
+							"0": "cs_arcticstorm.bsp",
+							"1": "cs_arcticstorm.nav",
+							"2": "cs_arcticstorm.res",
+							"3": "cs_arcticstorm.txt",
+							"soundcache": [
+								"cs_arcticstorm.cache"
+							]
+						},
+						"materials": {
+							"cs_arcticstorm": [
+								"logo_01_newhorizons.vmt",
+								"logo_01_newhorizons.vtf",
+								"metaldoor_type1_a1.vmt",
+								"metaldoor_type1_a1.vtf",
+								"metaldoor_type1_b1.vmt",
+								"metaldoor_type1_b1.vtf",
+								"metaldoor_type2_b1_a.vmt",
+								"metaldoor_type2_b1_a.vtf",
+								"metaldoor_type2_b1_a_L.vmt",
+								"metaldoor_type2_b1_a_L.vtf",
+								"metaldoor_type2_b1_a_r.vmt",
+								"metaldoor_type2_b1_a_r.vtf",
+								"metaldoor_type3_d1_a.vmt",
+								"metaldoor_type3_d1_a.vtf",
+								"metaldoor_type3_d1_a_L.vmt",
+								"metaldoor_type3_d1_a_L.vtf",
+								"metaldoor_type3_d1_a_r.vmt",
+								"metaldoor_type3_d1_a_r.vtf",
+								"poster_ast.vmt",
+								"poster_ast.vtf",
+								"poster_author.vmt",
+								"poster_author.vtf",
+								"snow_concrete_floor.vmt",
+								"snow_rock_wall.vmt"
+							],
+							"overviews": [
+								"cs_arcticstorm.vmt",
+								"cs_arcticstorm.vtf"
+							]
+						},
+						"resource": {
+							"overviews": [
+								"cs_arcticstorm.txt"
+							]
+						},
+						"scripts": [
+							"soundscapes_cs_arcticstorm.txt"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 353569,
+			"_nDownloadCount": 6470,
+			"_nFilesize": 14871827,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/353569",
+			"_sFile": "cs_arcticstorm_100.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1170424012
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 99506,
+	"_sName": "cs_arcticstorm",
+	"_sText": "Correction (!):\r\n\r\nThe .res file (it is a list of files for server's client to to download all of materials need for current map) have mistake. This is the link to fixed file:\r\n\r\nhttp://predator-koszalin2004.fm.interia.pl/files/cs_arcticstorm_pache_1.01.rar\r\n\r\nIt's recommandet specially for the servers.\r\n\r\n\r\nNotice:\r\n\r\n1. Hostages are like penguins. They can't use ladders.\r\n2. If You want to have a fun, play with many players on this map. It's a little big one.\r\n\r\n\r\nBriefing:\r\n\r\nTerrorists have taken control over the sience laboratory somewhere in Arctic. They planning to escape with the new type of virus and sell them at the black market. They attacked when some of blocks of the complex are closed, and at the night when there isn't many guards. The silent alert has been activated and counter-terrorists are coming. Terrorists have taken four hostages to try a trade with CTs.\r\n\r\n\r\nAbout the map:\r\n\r\nThis map is dedicated to CS:S servers with many slots (CT/T spawns: 32 - max players: 64). The map is a little big so I think 3 minutes per round isn't correct time to rescue the hostages with breaking through the enemy lines. 4 or even 3.5 minutes should be OK. Generally there are 3 ways to hostages, but only 2 You can use to transport hostages (they can't use a ladder). You have to get them on the helipad or to APCs (2 rescue zones)."
+}

@@ -1,0 +1,41 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"gg_fraggit_skyfix_map": {
+						"0": "fraggit.PNG",
+						"1": "fraggit_skyfix0000.jpg",
+						"2": "fraggit_skyfix0001.jpg",
+						"3": "fraggit_skyfix0002.jpg",
+						"4": "fraggit_skyfix0003.jpg",
+						"cstrike": {
+							"maps": [
+								"gg_fraggit_skyfix.bsp",
+								"gg_fraggit_skyfix.nav",
+								"mapname.txt"
+							]
+						}
+					}
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 349592,
+			"_nDownloadCount": 1112,
+			"_nFilesize": 657703,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/349592",
+			"_sFile": "gg_fraggit_skyfix_map.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1186589224
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 134876,
+	"_sName": "gg_fraggit_skyfix.bsp",
+	"_sText": "Map: fraggit_skyfix.bsp\r\nVersion: fraggit_skyfix\r\n\r\nMap Notes\r\n20 Man Map.\r\nSmall basic map that should be ok for all types of counter strike source gameplay, except surf.\r\nDesigned with gungame in mind.\r\nExploding Car.\r\n\r\n\r\nThe previous version was tested on a public server, feedback was positive on the game play, so hopefully this new version with new fixes n features should top it.\r\n\r\n\r\nOK this version should of fixed the bug that was sometimes occurring in fraggit.bsp, also includes the following new features (thanks to those who suggested these from my first map, fraggit.bsp)\r\n\r\nNew Textures.\r\nNew sky fix.\r\nNew lighting.\r\n2 New hidden teleports.\r\n\r\n**UPDATED**\r\nFixed teleports & lighting leak.\r\n\r\nAny bugs, glitches, suggestions or comments are welcome as always\r\n\r\n~cyborg\r\n"
+}

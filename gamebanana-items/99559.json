@@ -1,0 +1,33 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "cs_assault_upc_css.txt",
+					"1": "cs_assault_upc_css.vmf",
+					"cstrike": {
+						"maps": [
+							"cs_assault_upc_css.bsp"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 359073,
+			"_nDownloadCount": 9787,
+			"_nFilesize": 6946760,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/359073",
+			"_sFile": "cs_assault_upc_css.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1137769283
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 99559,
+	"_sName": "cs_assault_upc_css",
+	"_sText": "Final version\r\n\r\nmade some func_detail into world for performance\r\nfew more area portals\r\nused the assault soundscape\r\nsome more decals/props\r\ndifferent grass for the displacments\r\nnew texture on the hostage room roof\r\nadded fade dist for some props\r\nput a clip brush around the poster on top of the big metal crate\r\nmore nodraw\r\nchanged vents to militia ones\r\nchanged the nav file so the bots dont walk off the high places anymore\r\nadded placenames"
+}

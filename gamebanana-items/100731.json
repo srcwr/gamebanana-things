@@ -1,0 +1,27 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"af_omega_v2.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 341650,
+			"_nDownloadCount": 5720,
+			"_nFilesize": 9127141,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/341650",
+			"_sFile": "af_omega_v2.7z",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1211958004
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 100731,
+	"_sName": "af_omega_v2",
+	"_sText": "<font color=\"royalblue\" face=\"arial\"><b>af_omega_v2\r\n(This is a bomb or de_ map.)\r\n\r\nMap Features:</b>\r\n- 48 Spawns\r\n- Cubemaps\r\n- Radar Map\r\n- 2 Bomb Sites\r\n- Breakable Lights\r\n- Nav File w/ Place Names\r\n- 3D Skybox\r\n\r\n<b>Map Information</b>\r\nThis map is an updated and optimized version of the original <a href=\"http://www.fpsbanana.com/maps/32441\">af_omega</a>, which was also made solely by me.  This map is everything that the original tried to be, and more.  There have been a large number of changes since the original...\r\n\r\n\r\nThe story behind the map is that some terrorists have decided to blow up LOL Mart's regional distribution center.  The building is half warehouse, half offices.  However, the police were tipped off and have secured the upper floor of the building.  The terrorists arrived by the main road, killing the two officers stationed there.  They have destroyed a section of the wall, and are ready to move in and blow up the building.\r\n\r\nTerrorists must bomb either the weapons cache in the warehouse, or the power transformers on the second floor to start an electrical fire, which will burn the building down.\r\n\r\nCT's must protect these areas and prevent the terrorists from detonating their weapon.\r\n\r\n\r\n\r\n<b>Map Changes</b>\r\n\r\nOptimization:\r\nI loaded the map with hint brushes, which let it have a big fps boost.  There is no more lag on this map.  However, players with low-end computers which normally get 30 fps or less may experience render lag for players walking around some corners.  However, people with middle range (50+ fps) to good computers benefit from the changes.\r\n\r\nLooks & Functionality:\r\nAs you can see, the map looks way better than the original.  I re-did some of the surroundings, gave the map a new skybox, and made it feel more realistic.  I also upgraded a lot of the lighting in certain places.  The elevators now look better and run more like real ones, and the doors now look and behave better.  You can now press E to open them, and the ones on the lower levels can have their glass panes shot out for added realism.  The hole in the wall by T-Spawn has been widened, so it is now easier for players to jump through it.  (2 at a time can fit)  I also added an extra room in CT Spawn which let me get most of the CT spawn locations out of the big office area, so they don't get naded and awped by terrorists at the round start.  The remaining ones are back against the far wall so they're safe.  The ceiling was also raised in all of the office areas so it doesn't feel so cramped, and you don't hit the ceiling the second you hit jump.\r\n\r\nBreakable Lights:\r\nAs with the original, this is two maps in one...  A normal office building at night, and a shadowy haven of death when the lights get shot out.  When the lights are gone, night vision is almost required...  A flash light will help, but will get you spotted.  You need to move around in teams to win here.  Running in blindly will get you killed.  I fixed some shading errors caused by the breakable lights, so now only one minor one appears out of the whole map.  The lighting in the warehouse was also greatly improved, making it look more real.\r\n\r\n\r\n\r\nAll of the custom textures along with the radar and .nav file are paked into the map, and should display properly in game.  If you have problems, let me know.  I appreciate any comments and assessments, and am more than happy to answer your questions.  Thanks for playing!!"
+}

@@ -1,0 +1,62 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"CS_Overwatch_pack": [
+						"Readme.rtf",
+						"cs_overwatch_HDR_v2016.zip",
+						"cs_overwatch_v34-old_HDR.zip"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 275930,
+			"_nDownloadCount": 5118,
+			"_nFilesize": 16577209,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/275930",
+			"_sFile": "cs_overwatch_pack_30152.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1478467612
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Rebuld of all cubemaps for increasing the quality of the graphics."
+				},
+				{
+					"cat": "-",
+					"text": "Edited nav paths of bots."
+				},
+				{
+					"cat": "-",
+					"text": "Little bugs fixed."
+				}
+			],
+			"_sText": "Now the graphics looks better, because I did rebuild of all cubemaps for both maps (of old &amp; latest version of „CS Source”).<br>I also edited navigation paths of bots, that to be more interesting to play with them (on both maps!).<br>Plus little bugs were fixed.<br>And the map for old version now was compiled with HDR effect (special HDR, specific only for old versions, like v.34 &amp; v.45).<br>Press on \"Manual Download\" and just download the archive. You can unzip over the previous files (see Installation Instructions). :)",
+			"_sTitle": "Update-0.3",
+			"_tsDateAdded": 1485893427
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "A lot of bugs fixed, improved the optimization. added some objects, also new sounds for ambient."
+				}
+			],
+			"_sText": "A lot of bugs were fixed! Was improved the optimization.<br>Also added some sounds for ambient.<br>Some objects were added for background and not only.<br>I hope for you will be more exciting to play. :)<br>Have a good hunting! :)<br><br><br><br>",
+			"_sTitle": "Version 0.2",
+			"_tsDateAdded": 1480205471
+		}
+	],
+	"_idRow": 100317,
+	"_sName": "CS_Overwatch",
+	"_sText": "- Hi! :) I present to you my new map “cs_overwatch” for \"Counter-Strike: Source\".<br>I am game developer, but sometimes I do level design for some existing games, to gather experience or to keep fit.<br>This map is called “cs_overwatch” (with a mission of hostage rescue) and is created on the basis of map from “Half-Life 2 Deathmatch” – just I have taken a level with almost empty walls and removed the nonworking elements and made a playable level for \"Counter-Strike: Source\".<br>So here is everything you need to play, plus I also added a tactical places for snipers or for a sudden attack, plus some \"landmarks\" and even a map for radar.<br>Changes and enhancements are really a lot, also the map is better optimized.<br>I hope will be exciting to play. :)<br>Have a good hunting! :)<br>---------------------------------<br>A kind of review of my map here:<br><iframe src=\"https://www.youtube.com/embed/ZNyajpiaSl4\" allowfullscreen=\"\" width=\"560\" height=\"315\" frameborder=\"0\"></iframe><br>For download this map just <span class=\"short_text\" lang=\"en\">click below on</span> \"Manual Download\"."
+}

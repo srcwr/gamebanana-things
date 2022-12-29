@@ -1,0 +1,43 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"gg_2rooms_advanced": {
+						"0": "README!.txt",
+						"1": "READMEALSO!.txt",
+						"For Fast Download": [
+							"gg_2rooms_advanced.bsp.bz2",
+							"gg_2rooms_advanced.nav.bz2"
+						],
+						"For Server": {
+							"cstrike": {
+								"maps": [
+									"gg_2rooms_advanced.bsp",
+									"gg_2rooms_advanced.nav"
+								]
+							}
+						}
+					}
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 328556,
+			"_nDownloadCount": 1418,
+			"_nFilesize": 86404,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/328556",
+			"_sFile": "gg_2rooms_advanced.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1253498649
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 133449,
+	"_sName": "gg_2rooms_advanced",
+	"_sText": "This map was originally named \"2rooms\" where players would just spawn out in the open and be able to shoot each other automatically.\r\nThat map is located at http://www.fpsbanana.com/maps/3798\r\n\r\nI revamped the map completely with the following changes:\r\n- Fixed spawning so everyone spawns same direction\r\n- Added glass spawn box in middle, room for one spawning T and one spawning CT\r\n- Added sides of the map, making the old outward walls pillars you can hide behind\r\n- Made spawns 8.0 instead of the size they originally were\r\n\r\n\r\nThis map folder includes two sub folders. One is for your server, one is for your fast download server. You do NOT need the fast download \r\nfiles unless you have a fast download maps server. I put it in this zipped file as a courtesy :)\r\n\r\nThis won't be the only time I edit this map.\r\n\r\nDon't forget to assess the map after playing it!\r\nIf you have requests for me to edit any maps lemme know, I do not take credit for anyones original map and will always include a link to the original version\r\nin my read me files."
+}

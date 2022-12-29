@@ -1,0 +1,27 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"bhop_coast.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 274414,
+			"_nDownloadCount": 1858,
+			"_nFilesize": 85822138,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/274414",
+			"_sFile": "bhop_coast.7z",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1488091023
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 124701,
+	"_sName": "bhop_coast",
+	"_sText": "Gameplay: Bhop_coast is a short speed-run map that can be completed on scroll and auto styles. In terms of gameplay, the map is very easy. There are many blocks for each section, allowing for multiple routes on autobhop. The map is designed for high speed gameplay, there are no teleports to additional levels, and no intentional obstacles that will halt your speed. This makes for a very quick map and around a 1 minute time with a good route.<br><br>Inspiration/custom: &nbsp;Bhop_coast was inspired from the coastal levels in Half Life-2. The map features similar characteristics to one of the coastal levels, specifically&nbsp;d2_coast_04. Several custom materials and models were used in bhop_coast. Most of the landscape textures and props are from the game Dear Esther. Some of the rock models are from the Turzo rock pack. For the booster triggers, Pcpie's basevelocity booster prefab was used.<br><br>Problems: &nbsp;While I did my best to optimize, bhop_coast does not play to the strengths of the source engine. The map is a large open area where many things have to be rendered all at once. Because of this, people may have low fps in certain parts of the map.<br>&nbsp;&nbsp;"
+}

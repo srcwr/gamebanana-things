@@ -1,0 +1,73 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"bhop_spdmp_2hr.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 431396,
+			"_nDownloadCount": 85,
+			"_nFilesize": 10850697,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/431396",
+			"_sFile": "bhop_spdmp_2hr_f63e8.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1568000186
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Added a couple of blocks for slightly better route viability"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Changed the textures on the sides of the blocks"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed the visible nodraw texture"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Improved/basically fixed seeing large areas of the map through the sky"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Added cubemaps"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added lights in dark areas and some plants"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Added a direction indicator texture on the block below the drop"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Adjusted booster heights"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added zone indicators"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Urgent to-do's Update",
+			"_tsDateAdded": 1568000071
+		}
+	],
+	"_idRow": 126048,
+	"_sName": "bhop_spdmp_2hr",
+	"_sText": "This map was made on stream in 2 hours for a little speed mapping challenge.<br>A lot of <b>known</b> issues, but it'll remain as-is for a couple days so that I don't get harassed by my viewers for actually putting more than the allotted time into it. >.><br><br>It was made with 100t 1000aa autobhop in mind, absolutely not tested on scroll, although it's probably possible."
+}

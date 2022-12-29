@@ -1,0 +1,143 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "readme.txt",
+					"cstrike": {
+						"0": "maplist.txt",
+						"maps": [
+							"cs_irak.bsp",
+							"cs_irak.nav",
+							"cs_irak.txt"
+						],
+						"materials": {
+							"models": {
+								"player": {
+									"ct_seal1": [
+										"ct_urban.vmt",
+										"ct_urban.vtf",
+										"ct_urban_glass.vmt",
+										"ct_urban_glass.vtf",
+										"ct_urban_glass_spec.vtf",
+										"ct_urban_height.vtf",
+										"ct_urban_normal.vtf"
+									],
+									"ct_seal2": [
+										"ct_urban.vmt",
+										"ct_urban.vtf",
+										"ct_urban_glass.vmt",
+										"ct_urban_glass.vtf",
+										"ct_urban_glass_spec.vtf",
+										"ct_urban_normal.vtf"
+									],
+									"ct_seal3": [
+										"ct_urban.vmt",
+										"ct_urban.vtf",
+										"ct_urban_glass.vmt",
+										"ct_urban_glass.vtf",
+										"ct_urban_glass_spec.vtf",
+										"ct_urban_normal.vtf"
+									],
+									"ct_urban": [
+										"ct_urban.vmt",
+										"ct_urban.vtf",
+										"ct_urban_glass.vmt",
+										"ct_urban_glass.vtf",
+										"ct_urban_glass_spec.vtf",
+										"ct_urban_normal.vtf"
+									],
+									"t_arctic": [
+										"t_arctic.vmt",
+										"t_arctic.vtf",
+										"t_arctic_exp.vtf",
+										"t_arctic_normal.vtf"
+									],
+									"t_guerilla": [
+										"T_Guerilla._exp.vtf",
+										"T_Guerilla.vtf",
+										"T_Guerilla_Normal.vtf",
+										"t_guerilla.vmt"
+									],
+									"t_leet": [
+										"t_leet.vmt",
+										"t_leet.vtf",
+										"t_leet_exp.vtf",
+										"t_leet_glass.vmt",
+										"t_leet_glass.vtf",
+										"t_leet_glass_spec.vtf",
+										"t_leet_normal.vtf"
+									],
+									"t_phoenix": [
+										"t_phoenix.vmt",
+										"t_phoenix.vtf",
+										"t_phoenix_exp.vtf",
+										"t_phoenix_normal.vtf"
+									]
+								},
+								"weapons": {
+									"v_models": {
+										"hands": [
+											"v_hands.vmt",
+											"v_hands.vtf",
+											"v_hands_normal.vtf"
+										]
+									}
+								}
+							}
+						},
+						"models": {
+							"player": [
+								"ct_gign.dx80.vtx",
+								"ct_gign.dx90.vtx",
+								"ct_gign.mdl",
+								"ct_gign.phy",
+								"ct_gign.sw.vtx",
+								"ct_gign.vvd",
+								"ct_gsg9.dx80.vtx",
+								"ct_gsg9.dx90.vtx",
+								"ct_gsg9.mdl",
+								"ct_gsg9.phy",
+								"ct_gsg9.sw.vtx",
+								"ct_gsg9.vvd",
+								"ct_sas.dx80.vtx",
+								"ct_sas.dx90.vtx",
+								"ct_sas.mdl",
+								"ct_sas.phy",
+								"ct_sas.sw.vtx",
+								"ct_sas.vvd"
+							]
+						}
+					},
+					"pictures": [
+						"cs_irak_1.jpg",
+						"cs_irak_2.jpg",
+						"cs_irak_3.jpg",
+						"cs_irak_4.jpg",
+						"cs_irak_5.jpg",
+						"cs_irak_6.jpg",
+						"cs_irak_7.jpg",
+						"cs_irak_8.jpg"
+					]
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 325399,
+			"_nDownloadCount": 1544,
+			"_nFilesize": 30458050,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/325399",
+			"_sFile": "cstrike_174.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1264345446
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 119996,
+	"_sName": "cs_irak",
+	"_sText": "NOTE: This is my first map!\r\n      \r\n\r\nBugs,glitches,improves?\r\ncomment!\r\n\r\n\r\n\r\n\r\n\r\nREADME ENGLISH **********************\r\n\r\nOpen cstrike whit Winrar or other rar programs.\r\n(www.winrar.com)\r\n\r\nYou will see a folder named cstrike, extract that to your steam folder:\r\nsteam/steamapps/yoursteamname/counter-strike source/\r\n\r\nIf a popup box come up click yes to all.\r\n\r\n_____________________________________________________\r\n\r\n\r\n\r\nREADME NORWEGIAN *************\r\n\r\nåpne cstrike med Winrar eller et aen .rar program\r\n(www.winrar.com)\r\n\r\nSå skal du se en fil med navn cstrike, extract den til steam mappen din:\r\nsteam/steamapps/DittSteamNavn/counter-strike source/\r\n\r\n\r\n_____________________________________________________________\r\nMade by Thomas38\r\n\r\nwww.fpsbanana.com\r\n\r\n"
+}

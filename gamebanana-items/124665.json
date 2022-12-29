@@ -1,0 +1,41 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"bhop_chip_bhopnoob_fix.bsp",
+					"how to install.txt"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 369282,
+			"_nDownloadCount": 200,
+			"_nFilesize": 913933,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/369282",
+			"_sFile": "bhop_chip_bhopnoob_fix.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1515945278
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "Fixed missing textures"
+				}
+			],
+			"_sText": "Uploader note:<br>I advise you play this map with a higher texture setting, as lower settings reduce quality of submitted textures drastically, giving a blurry appearance.",
+			"_sTitle": "Final Release",
+			"_tsDateAdded": 1515945817
+		}
+	],
+	"_idRow": 124665,
+	"_sName": "bhop_chip_bhopnoob_fix",
+	"_sText": "port from 1.6<br>*fixed corrupted water texture"
+}

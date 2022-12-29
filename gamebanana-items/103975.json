@@ -1,0 +1,53 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "de_simpsons_css_v2.txt",
+					"1": "de_simpsons_css_v2.vmf",
+					"maps": [
+						"de_simpsons_css_v2.bsp",
+						"de_simpsons_css_v2.res"
+					],
+					"materials": {
+						"skybox": [
+							"simpsons_hdrbk.vtf",
+							"simpsons_hdrdn.vtf",
+							"simpsons_hdrft.vtf",
+							"simpsons_hdrlf.vtf",
+							"simpsons_hdrrt.vtf",
+							"simpsons_hdrup.vtf",
+							"simpsonsbk.vtf",
+							"simpsonsdn.vtf",
+							"simpsonsft.vtf",
+							"simpsonslf.vtf",
+							"simpsonsrt.vtf",
+							"simpsonsup.vtf"
+						]
+					},
+					"sound": {
+						"misc": [
+							"simp.wav"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 359140,
+			"_nDownloadCount": 9546,
+			"_nFilesize": 9409036,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/359140",
+			"_sFile": "de_simpsons_css_v2_2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1137029723
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 103975,
+	"_sName": "de_simpsons_css_v2",
+	"_sText": "Forgot the res file again\r\nif you dont want to download it again for the res\r\nhttp://www.freewebs.com/choggi/de_simpsons_css_v2.res.zip\r\n\r\nv2\r\nkrusty sign is still black\r\n\r\nsecret area, get there by the trees (or hammer)\r\nnew skybox textures\r\nmore surfaceprops\r\nbeing under the water in burns office will save you from the bomb\r\nyou can now see through the underwater tunnel\r\nmoved the bomb brush in burns office back a bit so you cant drop it down the hole\r\nput a delay on the trigger for the trapdoor\r\ndid some areaportal work\r\nufo (this one doesnt leave you can also ride it)\r\nand others i forgot about\r\n\r\nforgot to mention the beta tester :)\r\nCunningStunt (http://www.sourceaddiction.com/)\r\n\r\ni got a request for cs_assault_upc so thats next. then i'm going to watch a bunch of futurama and make the basic building (btw i suck at textures so unless someone else wants to do them dont complain)."
+}

@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"Readme.txt",
+					"de_supply_beta1.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 345362,
+			"_nDownloadCount": 3183,
+			"_nFilesize": 18267998,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/345362",
+			"_sFile": "de_supply_beta1.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1199909731
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 104201,
+	"_sName": "de_supply_beta1",
+	"_sText": "I started doing this map in the ends of june, while I was learning how to map properly, with the idea of doing a good de_map for 5on5 matches very detailed with some nice covering spots.\r\n\r\nUnfortunately I've been unable to test it for my self so I'm releasing this beta so I can have some feedback and improve the gameplay and some minor bugs I have noticed.\r\n\r\nI have optimized the map as much as I can and also reduced the lightmapscales and used the less amount of cubemaps I was able to but the filesize is still big, 45mb. Anyway if you use bz2 in your servers I think there wont be any problem at all."
+}

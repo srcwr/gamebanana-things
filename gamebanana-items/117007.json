@@ -1,0 +1,199 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"Chopshop Map by USMC Recon and SWAT_Sniper": {
+						"0": "Readme - Must be read before playing.txt",
+						"Screenshots": [
+							"chopshop1.jpg",
+							"chopshop10.jpg",
+							"chopshop11.jpg",
+							"chopshop12.jpg",
+							"chopshop13.jpg",
+							"chopshop2.jpg",
+							"chopshop3.jpg",
+							"chopshop4.jpg",
+							"chopshop5.jpg",
+							"chopshop6.jpg",
+							"chopshop7.jpg",
+							"chopshop8.jpg",
+							"chopshop9.jpg"
+						],
+						"counter-strike source": {
+							"csrtike": {
+								"maps": [
+									"chopshop.bsp",
+									"chopshop.res"
+								],
+								"materials": {
+									"0": "CWAS23.vmt",
+									"1": "CWAS23.vtf",
+									"10": "chopshopSlide.vmt",
+									"11": "chopshopSlide.vtf",
+									"12": "colt_poster.vmt",
+									"13": "colt_poster.vtf",
+									"14": "decal@biohazz.vmt",
+									"15": "decal@biohazz.vtf",
+									"16": "dev_brickwall012_decals.vmt",
+									"17": "dev_brickwall012_decals.vtf",
+									"18": "dno_schlipps.vmt",
+									"19": "dno_schlipps.vtf",
+									"2": "METAL@CWASH2.vmt",
+									"20": "glass_light@BUD2.vmt",
+									"21": "glass_light@BUD2.vtf",
+									"22": "glass_light@MILLER.vmt",
+									"23": "glass_light@MILLER.vtf",
+									"24": "glass_light@ZSBAR.vmt",
+									"25": "glass_light@ZSBAR.vtf",
+									"26": "glass_light@sn23.vmt",
+									"27": "glass_light@sn23.vtf",
+									"28": "glass_light@sn56.vmt",
+									"29": "glass_light@sn56.vtf",
+									"3": "METAL@CWASH2.vtf",
+									"30": "glock_poster.vmt",
+									"31": "glock_poster.vtf",
+									"32": "hk_poster.vmt",
+									"33": "hk_poster.vtf",
+									"34": "jacks_barrels.vmt",
+									"35": "jacks_barrels.vtf",
+									"36": "osama_target.vmt",
+									"37": "osama_target.vtf",
+									"38": "red_light.vmt",
+									"39": "red_light.vtf",
+									"4": "beer_helping.vmt",
+									"40": "silhouette_target.vmt",
+									"41": "silhouette_target.vtf",
+									"42": "usgunstore.vmt",
+									"43": "usgunstore.vtf",
+									"44": "wangleelaundary.vmt",
+									"45": "wangleelaundary.vtf",
+									"5": "beer_helping.vtf",
+									"6": "benelli_poster.vmt",
+									"7": "benelli_poster.vtf",
+									"8": "blue_light.vmt",
+									"9": "blue_light.vtf",
+									"models": {
+										"vehicles": {
+											"0": "bus_interior_map.vmt",
+											"1": "bus_interior_map.vtf",
+											"10": "lada.vmt",
+											"11": "lada.vtf",
+											"12": "lada_burnout.vmt",
+											"13": "lada_burnout.vtf",
+											"14": "lada_env.vtf",
+											"15": "lada_red.vmt",
+											"16": "lada_red.vtf",
+											"17": "lada_taxi.vmt",
+											"18": "lada_taxi.vtf",
+											"19": "lada_windows.vmt",
+											"2": "bus_map.vmt",
+											"20": "lada_windows.vtf",
+											"21": "lada_windows_env.vtf",
+											"22": "mercedes190_mesh.vmt",
+											"23": "mercedes190_mesh.vtf",
+											"24": "mercedes190_mesh2.vmt",
+											"25": "mercedes190_mesh2.vtf",
+											"26": "mercedes190_mesh_damaged.vmt",
+											"27": "mercedes190_mesh_damaged.vtf",
+											"28": "mercedes190_mesh_env.vtf",
+											"3": "bus_map.vtf",
+											"4": "bus_map_2.vmt",
+											"5": "bus_map_2.vtf",
+											"6": "bus_windows.vmt",
+											"7": "bus_windows.vtf",
+											"8": "bus_windows_2.vmt",
+											"9": "bus_windows_2.vtf",
+											"nissan": [
+												"glass.vmt",
+												"glass.vtf",
+												"green.vmt",
+												"green.vtf"
+											]
+										}
+									}
+								},
+								"models": {
+									"vehicles": [
+										"civ_bus.dx80.vtx",
+										"civ_bus.dx90.vtx",
+										"civ_bus.jpg",
+										"civ_bus.mdl",
+										"civ_bus.phy",
+										"civ_bus.sw.vtx",
+										"civ_bus.vvd",
+										"civ_bus_lod.dx80.vtx",
+										"civ_bus_lod.dx90.vtx",
+										"civ_bus_lod.mdl",
+										"civ_bus_lod.phy",
+										"civ_bus_lod.sw.vtx",
+										"civ_bus_lod.vvd",
+										"civ_lada.dx80.vtx",
+										"civ_lada.dx90.vtx",
+										"civ_lada.jpg",
+										"civ_lada.mdl",
+										"civ_lada.phy",
+										"civ_lada.sw.vtx",
+										"civ_lada.vvd",
+										"civ_lada_damaged.dx80.vtx",
+										"civ_lada_damaged.dx90.vtx",
+										"civ_lada_damaged.jpg",
+										"civ_lada_damaged.mdl",
+										"civ_lada_damaged.phy",
+										"civ_lada_damaged.sw.vtx",
+										"civ_lada_damaged.vvd",
+										"civ_mercedes.dx80.vtx",
+										"civ_mercedes.dx90.vtx",
+										"civ_mercedes.mdl",
+										"civ_mercedes.phy",
+										"civ_mercedes.sw.vtx",
+										"civ_mercedes.vvd",
+										"civ_mercedes_damaged.dx80.vtx",
+										"civ_mercedes_damaged.dx90.vtx",
+										"civ_mercedes_damaged.mdl",
+										"civ_mercedes_damaged.phy",
+										"civ_mercedes_damaged.sw.vtx",
+										"civ_mercedes_damaged.vvd",
+										"civ_pickup.dx80.vtx",
+										"civ_pickup.dx90.vtx",
+										"civ_pickup.mdl",
+										"civ_pickup.phy",
+										"civ_pickup.sw.vtx",
+										"civ_pickup.vvd"
+									]
+								}
+							},
+							"hl2": {
+								"materials": {
+									"models": {
+										"props_vehicles": [
+											"car002a_01.psd",
+											"car002a_01.vtf"
+										]
+									}
+								}
+							}
+						}
+					}
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 350432,
+			"_nDownloadCount": 1794,
+			"_nFilesize": 12512700,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/350432",
+			"_sFile": "chopshop_map_by_usmc_recon_and_swa_2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1183773770
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 117007,
+	"_sName": "chopshop",
+	"_sText": "WANT THE NAV? - http://www.filefactory.com/file/4b718d/\r\n\r\nThere is a terrorist buyzone; however, to add realism terrorists must make\r\ntheir way about a block up the road from their spawn to a gun shop where\r\nthey can buy weapons.  Don't get mad though, the terrorists have plenty\r\nof guns already in their hide-out, but each weapon only has one clip.\r\n\r\nMap Specialties - 2 cars that explode when shot with a high enough powered weapon, a bus with a bomb on board that explodes when the detonator is pushed (its in a building nearby), police cars, a rotating bar sign, new civilian vehicles from the Insurgency Mod for HL2, a generator that emits sparks after it is shot, a working camera in the security booth and many custom textures.\r\n\r\nCredits - \r\nSwat_Sniper and USMC Recon - the map\r\nUSMC Recon and SWAT Mod - custom textures\r\n\r\n(The next set of credits for things that can be found at FPSBanana.com)\r\nScytha - Police Car (light bar modified)\r\nJ.Carbone AkA Manfly  - exploding car prefab\r\nmonkeyhead52988 - camera prefab\r\n._:_ENEMY_:_.  - facade buildings outside the map\r\nR4DoN - garage set\r\nSup - Vending machines (had to be modified, gave 2 bottles)\r\nInsurgency Mod Team - Civilian Vehicles\r\nSGT_kick_ur_ass - His awesome \"protector\"\r\n\r\nAdditional Screenshots in folder"
+}

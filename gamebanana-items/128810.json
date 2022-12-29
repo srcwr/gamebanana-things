@@ -1,0 +1,36 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"mg_train_assault_v1": {
+						"0": "XIX Train Assault Plugin Readme.txt",
+						"Map": [
+							"mg_train_assault_v1.rar"
+						],
+						"Srcipt": [
+							"mg_train_assault plugin.rar"
+						]
+					}
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 305667,
+			"_nDownloadCount": 2956,
+			"_nFilesize": 37948806,
+			"_sAnalysisResult": "Archive contains nested archive",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/305667",
+			"_sFile": "mg_train_assault_v1.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1327347641
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 128810,
+	"_sName": "mg_train_assault_v1",
+	"_sText": "Welcome to mg train assault !!!\r\n\r\nGameplay:\r\n\r\nThere is an attack team and a defense team. \r\nThe attack team must hacking a button to open the train door and capture the train.\r\nThe Defense team must defense the train for 5 minutes to win the round.\r\nAfter each round the teams will change sides.\r\n\r\n\r\nAbout the map: \r\n\r\n-Respawn Script for respawning after death\r\n\r\n-No Buyzone, but you can find weapons with respawn\r\n\r\n-Pickups: Health Kits, Mega Health Kits and Speed Boost\r\n\r\n-Unreal Tournament music\r\n\r\n-Inspired by Unreal Tournament\r\n\r\n\r\nSCRIPT\r\n***********\r\nRequired plugin for Train Assault Map. The plugin controls the respawn of the players and the team switch on the end of the round.\r\n\r\nREQUIREMENTS FOR PLAY WITH RESPAWN SCRIPT !!!\r\n************\r\n- Sourcemod 1.3+ \r\n- Requirement for Sourcemod: Metamod:Source 1.8+ Download Link ---) (www.sourcemod.net)\r\n\r\n\r\nHave Fun !!!"
+}

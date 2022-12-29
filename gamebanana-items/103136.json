@@ -1,0 +1,39 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "Readme.txt",
+					"SteamApps": {
+						"common": {
+							"Counter-Strike Source": {
+								"cstrike": {
+									"maps": [
+										"de_militaryoccupation09.bsp",
+										"de_militaryoccupation09.nav"
+									]
+								}
+							}
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 283719,
+			"_nDownloadCount": 2832,
+			"_nFilesize": 4044796,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/283719",
+			"_sFile": "militaryoccupation09.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1426718344
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 103136,
+	"_sName": "de_MilitaryOccupation v0.9",
+	"_sText": "I know, it's been two years since my last update due to the fact that I have ignored this project for some time now. \r\n\r\nChanges since 0.8:\r\n- Added back alley area.\r\n- Added extra room + vent underground.\r\n- Added a way into one of the buildings.\r\n- Added a way into the house in front of the CT spawn.\r\n- Expanded area in front of T spawn.\r\n- Removed existing vent system.\r\n- Plus some other minor changes."
+}

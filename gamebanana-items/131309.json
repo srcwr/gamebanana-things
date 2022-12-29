@@ -1,0 +1,31 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"zm_autoville.bsp",
+					"zm_autoville.vmf",
+					"zm_autoville_round.bsp",
+					"zm_autoville_round.vmf"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 292287,
+			"_nDownloadCount": 1065,
+			"_nFilesize": 2012732,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/292287",
+			"_sFile": "zm_autoville_2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1379437703
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 131309,
+	"_sName": "zm_autoville",
+	"_sText": "The above screenshots are taken from the same position, as it can be seen in the numbers displayed on the upper right.\r\n\r\n--------\r\n\r\nA simple zm map to test a little thing I've been working on. The map will build itself every time it's played, using a few preset buildings and spawn positions. The texturework/placement etc. is sloppy because it was meant to be a test of the generation system, but I think it'd be playable kinda ish.\r\n\r\n------\r\n\r\nCopypaste from my original post in a different webpage to explain it a bit (overall, unfunny, useless explanation + the generation shitstem are explained here):\r\n\r\nOne of the things I've always wanted the most was to be able to create a map that would build itself each time it was played. This would, with little wittle poodly poop effort, allow hours of endless (probably glitchy as fuck) fun. I've kinda had this thought in mind since I was little and mapped for Warcraft 3 TFT (in which I made a maximum-sized forest map in which the trees would randomly spawn and you'd have no unit constraints so you'd end up having laggy as fuck empires).\r\n\r\nI started mapping for dem CS:S and I always thought about it, but it was hard. Even if all the buildings were there and I was to draw a path/chose them, that'd be a fuckload of entities and systems and things and that's so complex I'd probably die doing it. I had to wait.\r\n\r\nTime forward, ZE, maps, levels, pewpew, oh func_brush is a permanent entity - GOOD, oh you can't template it - STOP RUINING MY DREAMS. Then I discovered that addoutputting 'classname func_brush' on a wall toggle made it stay forever. Good. But I had no props. Bad.\r\n\r\nI started looking for permanent entities. Point_viewcontrol, func_brush, info_target, trigger_soundscape... There's more than a few! Hey, what about addoutputting func_brush as a classname to anything? Oh, the door stays! Oh, the breakable window stays! Holy fuck the nuke stays and I can't spawn ever again...! But I knew this had had problems in other maps, when used on the player class (which is a permanent entity too!)... Perhaps... Perhaps point entities shouldn't have a brush entity classname? Oh, no problem, info_target is our friend. Ok. I can make that a bulding stays and that a prop stays, but if you shoot the prop out (for zm_) you're boned. Poop. Hey, what if we template all the props, and using entity makers turnt permanent, we spawn them each round? That sounds about right, yeah, let's go.\r\n\r\nWhen I had all this donely-done I mapped a fast thing (bear the horror of dev textures, awkward prop placement and having fucked the env_entity_makers up so the angles aren't being set, sorry for that), and that is zm_autoville (.rar attached with the .bsp and the .vmf, you can extract all the files from the map using bspsource + extract map contents), a map that builds itself on a simple little grid.\r\n\r\nThe horror, the damn horror, as always, had to appear... How in the world are we going to optimize a map that is randomly generated and that requires a flat, empty area to be placed? Well... We're going to need some hinting for VVIS to take some advantage, as well as some extra walls to hide things - it won't be enough... What if we fade the playermodels and the weapons at a distance, considering they're the laggiest pieces of poopadoodle usually? Yeah, we'll do that. So we addoutput values for 'player' and 'weapon_*' for the fields of fademaxdist and fademindist. Cool. Thingies disappear in the distance, players become ghosts... what else?\r\n\r\nWe need to initialize everything. Only once (or overlapping cities and eventually a crash will ocurr). Hrm. We can use levels like in ZE but that's boring. Oh, wait, func_brushes are permanent, so if they fire an input that is ticked with only once they won't fire it again. Cool, we'll have an initializer brush (as Taboo already uses one, in fact, that taboo doesn't crash due to classnames is the 'proof' that the system does worky-torky) that will kill himself (for if something went horribly wrong) and fire the building relays.\r\n\r\nWhat else? Nothing at all.\r\n\r\n\r\nAttached: The map file that explains the whole system better (because the explanation here sucks, but basically you addoutput the func_brush/info_target classname to entities and voilà, permanent)."
+}

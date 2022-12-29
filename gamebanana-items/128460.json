@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"mg_piratewars_extended_fixed.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 322995,
+			"_nDownloadCount": 5220,
+			"_nFilesize": 1305576,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/322995",
+			"_sFile": "mg_piratewars_extended_fixed.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1272731221
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 128460,
+	"_sName": "mg_piratewars_extended_fixed",
+	"_sText": "Well, this is my final map i will be making.\r\n\r\nOnce i finish typing up this map explaination i will be retired from mapping.\r\n\r\nThanks to everyone who helped me make my maps and an even bigger thank you to everyone who played them.\r\n\r\nOk here goes.\r\n\r\nEDIT: Was a major bug i missed. Is now fixed.\r\n\r\nVersion name is now mg_piratewars_extended_fixed\r\n\r\n-------------------------------------------------------\r\n\r\nmg_piratewars_extended_fixed\r\n\r\n-------------------------------------------------------\r\n\r\nThis map is simply an extension of the original mg_piratewars.\r\n\r\nIt looks very similar but is very different in terms of gameplay. \r\n\r\nFull list of changes below:\r\n\r\n-------------------------------------------------------\r\n\r\n- Pirate ships now take an average of 2 hits to an area before it breaks, also on the first hit the area will become a physics prop before breaking on the 2nd hit.\r\n\r\n- Pirate ships no longer sink. Instead, when the damage is great enough to the overall ship, all areas will become physics props and the ship will fall to pieces.\r\n\r\n- Cannons on areas that have been hit and turned to physics props will be disabled after 20 seconds.\r\n\r\n- Cannonsballs now kill if they hit a player directly.\r\n\r\n- Life boats now have unlimited hp (Due to popular demand)\r\n\r\n- Life boats now have ladders on either side to assist players who are attmepting to climb on board after falling into the water.\r\n\r\n- Treasure chests can now be found on the bottom deck of the ships. On rare occasion this chest holds a compact pistol with 1 clip. (May spawn on both ships in one round)\r\n\r\n- Crows nest now added on the smaller sail of each ship. In the crows nest you will find a cannon. The crows nest/sail can take 3 hits before turning into a physics prop.\r\n\r\n- Every player must now pick up a knife at the exit to the spawn at the start of each round. The first knife gives the player who picks it up 'Captain Status'. The captain gives all players of his team an HP regeneration buff. Therefore staying near by and protecting the captain is advised. \r\n\r\n- Both life boats and cannons are now activated by pressing 'use' (Deafult E) on them. To activate the cannon push E at its base, for the boats push E on the rudder handle.\r\n\r\n- 1 or 2 textures have been changed to make it look a tiny bit nicer. Nothing special though in terms of the looks. \r\n\r\n-------------------------------------------------------\r\n\r\nI hope you enjoy my final ever map and i hope to see you all playing soon.\r\n\r\nGoodbye, forever :)"
+}

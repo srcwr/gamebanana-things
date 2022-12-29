@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_nukes_b9.bsp",
+					"de_nukes_b9.txt"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 361358,
+			"_nDownloadCount": 9454,
+			"_nFilesize": 4020111,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/361358",
+			"_sFile": "de_nukes_b9_1.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1116976831
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 103319,
+	"_sName": "de_nuke_b9",
+	"_sText": "Nuke - Bomb/Defuse\r\nby Weeper (vegard@clipace.com)\r\nVeriosn: Beta 0.9 PUB\r\n\r\n\r\nBriefing:\r\n\r\n- Counter-Terrorists: Prevent Terrorists\r\n  from bombing the nuclear missile. The \r\n  mission can be targeted from above and\r\n  below. Team members must defuse any \r\n  bombs that threaten targeted areas.\r\n\r\n- Terrorists: The Terrorist carrying the\r\n  C4 must destroy the nuclear missile.\r\n\r\n- Other Notes: There are 2 bomb targets\r\n  in the mission. \r\n\r\n\r\nSpecial thanks to Jo Bieg for making\r\nde_nuke for original counter-strike.\r\n\r\n\r\n\r\nBugg fixes for de_nuke_b8:\r\n\r\n- Added doors inside b2\r\n\r\n- Added the original crates near the ct\r\n  spawn.\r\n\r\n- Added small details that makes the map\r\n  more \"live\"\r\n\r\n- Removed the blue container (might be added\r\n  back in the final verison)\r\n\r\n- Removed all fruits in the map.\r\n\r\n- Fixed the rainbowcolor issue\r\n\r\n- Fixed the black mountain issue.\r\n\r\n- Fixed glass inside garuage breakable"
+}

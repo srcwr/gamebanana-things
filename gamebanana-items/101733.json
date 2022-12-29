@@ -1,0 +1,124 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrike": {
+						"maps": [
+							"de_dakota_b1.bsp",
+							"de_dakota_b1.lin",
+							"de_dakota_b1.res"
+						],
+						"materials": {
+							"models": {
+								"props_foliage": [
+									"tree_pine_01_branches.vmt",
+									"tree_pine_01_branches.vtf",
+									"tree_pine_cards_01.vmt",
+									"tree_pine_cards_01.vtf",
+									"tree_pine_cards_01b.vmt"
+								],
+								"props_silo": [
+									"rocket_body.vmt",
+									"rocket_body.vtf",
+									"rocket_body_exponent.vtf",
+									"rocket_body_normal.vtf",
+									"rocket_low.vmt",
+									"rocket_low.vtf",
+									"rocket_low_normal.vtf"
+								]
+							}
+						},
+						"models": {
+							"props_foliage": [
+								"tree_pine_01.dx80.vtx",
+								"tree_pine_01.dx90.vtx",
+								"tree_pine_01.mdl",
+								"tree_pine_01.phy",
+								"tree_pine_01.sw.vtx",
+								"tree_pine_01.vvd",
+								"tree_pine_02.dx80.vtx",
+								"tree_pine_02.dx90.vtx",
+								"tree_pine_02.mdl",
+								"tree_pine_02.phy",
+								"tree_pine_02.sw.vtx",
+								"tree_pine_02.vvd",
+								"tree_pine_03.dx80.vtx",
+								"tree_pine_03.dx90.vtx",
+								"tree_pine_03.mdl",
+								"tree_pine_03.phy",
+								"tree_pine_03.sw.vtx",
+								"tree_pine_03.vvd",
+								"tree_pine_card_cluster_01.dx80.vtx",
+								"tree_pine_card_cluster_01.dx90.vtx",
+								"tree_pine_card_cluster_01.mdl",
+								"tree_pine_card_cluster_01.sw.vtx",
+								"tree_pine_card_cluster_01.vvd",
+								"tree_pine_card_cluster_01_skybox.dx80.vtx",
+								"tree_pine_card_cluster_01_skybox.dx90.vtx",
+								"tree_pine_card_cluster_01_skybox.mdl",
+								"tree_pine_card_cluster_01_skybox.sw.vtx",
+								"tree_pine_card_cluster_01_skybox.vvd",
+								"tree_pine_card_cluster_01b.dx80.vtx",
+								"tree_pine_card_cluster_01b.dx90.vtx",
+								"tree_pine_card_cluster_01b.mdl",
+								"tree_pine_card_cluster_01b.sw.vtx",
+								"tree_pine_card_cluster_01b.vvd",
+								"tree_pine_card_cluster_02.dx80.vtx",
+								"tree_pine_card_cluster_02.dx90.vtx",
+								"tree_pine_card_cluster_02.mdl",
+								"tree_pine_card_cluster_02.sw.vtx",
+								"tree_pine_card_cluster_02.vvd",
+								"tree_pine_card_cluster_02_skybox.dx80.vtx",
+								"tree_pine_card_cluster_02_skybox.dx90.vtx",
+								"tree_pine_card_cluster_02_skybox.mdl",
+								"tree_pine_card_cluster_02_skybox.sw.vtx",
+								"tree_pine_card_cluster_02_skybox.vvd",
+								"tree_pine_card_cluster_02b.dx80.vtx",
+								"tree_pine_card_cluster_02b.dx90.vtx",
+								"tree_pine_card_cluster_02b.mdl",
+								"tree_pine_card_cluster_02b.sw.vtx",
+								"tree_pine_card_cluster_02b.vvd",
+								"tree_pine_card_cluster_02b_skybox.dx80.vtx",
+								"tree_pine_card_cluster_02b_skybox.dx90.vtx",
+								"tree_pine_card_cluster_02b_skybox.mdl",
+								"tree_pine_card_cluster_02b_skybox.sw.vtx",
+								"tree_pine_card_cluster_02b_skybox.vvd",
+								"tree_pine_cluster_01.dx80.vtx",
+								"tree_pine_cluster_01.dx90.vtx",
+								"tree_pine_cluster_01.mdl",
+								"tree_pine_cluster_01.phy",
+								"tree_pine_cluster_01.sw.vtx",
+								"tree_pine_cluster_01.vvd"
+							],
+							"props_silo": [
+								"rocket_low.dx80.vtx",
+								"rocket_low.dx90.vtx",
+								"rocket_low.mdl",
+								"rocket_low.phy",
+								"rocket_low.sw.vtx",
+								"rocket_low.vvd"
+							]
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 338535,
+			"_nDownloadCount": 1405,
+			"_nFilesize": 8037162,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/338535",
+			"_sFile": "de_dakota_b1.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1220828264
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 101733,
+	"_sName": "de_dakota_b1",
+	"_sText": "First release. This map is still in beta."
+}

@@ -1,0 +1,34 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "Readme.txt",
+					"DownloadServer": [
+						"mg_airstrike_v2b.bsp.bz2"
+					],
+					"Gameserver": [
+						"mg_airstrike_v2b.bsp"
+					]
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 323242,
+			"_nDownloadCount": 1844,
+			"_nFilesize": 6016260,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/323242",
+			"_sFile": "mg_airstrike_v2b.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1271667712
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 127681,
+	"_sName": "mg_airstrike_v2b",
+	"_sText": "**SERVER REQUERIMENTS**\r\n-High Rate values (minimum should be 30000, to avoid lag or choke you should have 50000 at least).\r\n-Recomended 33 or 66 tickrate, with 100 you will have more choke.\r\n\r\nCurrent version: v2 (beta)\r\n\r\nThe objective of the map is to use chopters to kill enemies, or defend the beach against copters.\r\nWins the team who kills the enemy.\r\n\r\nAttack/defence\r\nThe map chooses randomly one team to drive copters and the other to defence the beach with 50% of chance.\r\n\r\nCopter Controls:\r\nWASD to control copter.\r\nPrimary fire to fly up.\r\nSecondary fire to shoot.\r\n\r\nCannon/Vulcan Controls:\r\nWASD to move canon.\r\nPrimary fire to shoot.\r\n\r\nWeapons:\r\nPlayers can use weapons to destroy copters, weapons placed at the sapawnroom are:\r\n6 M4A1\r\n6 AK47\r\n2 M249\r\n1 AUG\r\n1 SG552\r\nWeapons cause less damage than canons, but allow players attack while moving, making them a harder target.\r\n\r\nCopter features:\r\n-Is very very strong: needs around 6 rocket or 100 bullets (m249) to be destroyed.\r\n-Shots 2 rockets at the same time (works at 1 against other copters).\r\n-Low damage.\r\n-Small radius, must be a perfect impact to kill a player in one shot.\r\n0% protection against explosions.\r\n50% protection against the vulcan canon.\r\n70% protection against weapons.\r\n\r\nCanon features:\r\n-Unbreakable, but the player who controls it can die easily.\r\n-Shots 1 rocket faster and with bigger explosion radius than copter rockets.\r\n-Cannot kill teammates.\r\n-Explodes near copters, dont need to impact to explode.\r\n\r\nVulcan canon features:\r\n-Low range.\r\n-Medium damage against copters.\r\n-Firing increases vulcan temperature.\r\n-When overheat limit reached vulcan blocked during 6 seconds.\r\n\r\nScore:\r\n-When a player dies or when copter is destroyed players will get points:\r\nPoints to defensor:\r\n-For each copter destroyed 3 points.\r\n-For all enemies killed 8 points.\r\nPoints to attacker:\r\n-For eache deensor killed 2 points.\r\n-For all enemies killed 6 points.\r\nPoints are given to all players of the team, not only to the player that get the score.\r\n\r\nKnockback:\r\n-Copters can get pushed back when shooted (as in zombiemod) to increase or decrease knockback use this value:\r\nphys_pushscale\r\n-Recomended values from 1 to 3; negative vaules will atract copters (not recomended); value to 0 disables knockback\r\n-----------------------------------------------------------\r\nChangelog:\r\n\r\n--v1--\r\n\r\nFirst release.\r\n\r\n--v2--\r\n\r\n-Copters now get damage against weapons.\r\n-Added weapons for defence.\r\n-16 to 8 defensive canons (6 vulcan and 2 normal canons)\r\n-Added crosshairs to canons and copters for easier aim.\r\n-Decreased the chance of server and client crash (players can use only weapons to aviod the crash).\r\n-Modifyed canon model.\r\n-Added score for killing enemies.\r\n\r\n--v2b--\r\n\r\n-Fixed server and client crash after CS:S OrangeBox update."
+}

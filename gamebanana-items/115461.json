@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ambush.bsp",
+					"ambush.nav"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 361949,
+			"_nDownloadCount": 1644,
+			"_nFilesize": 2013758,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/361949",
+			"_sFile": "065_ambush.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1109412189
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 115461,
+	"_sName": "ambush",
+	"_sText": "Ambush is a small map that starts out quick. The CT's start off in two Army trucks that are blockaded in the street. Terrors start out in their compound, which overlooks the ambush spot, or in a mosque across the street. The Army trucks are trapped inbetween a debris blockade and a burning fuel tanker that's been destroyed by a carbomb. The action starts out fast because some CT's and T's can see each other, but if you duck you're out of their sights ... so pull the trigger quick or fall back. \r\n\r\nI've spent a lot of time tweeking the navigation mesh so that bot's run pretty smoothly on the map. With my 3ghz 512mb ram 128mb radeon 9800 system I can load up 15 bots for 8 on 8 matches and it's pretty damn fun. More then that though and the bots start taxing my system to much and the fps start to get out of hand. \r\n\r\nI've labeled all the area's of the navigation mesh so that you can use the radio to give out locations and if you play with bots they will give you locations as well. Most of the area names are pretty fitting. The closest match I could get for the mosque was 'Inside' which I'm not really happy with. I've got Apartments, Market, Upstairs, Downstairs, Porch, Balconey, Alley, CTSpawn, Truck (the destroyed fuel tanker), Atrium, Inside, Outside, Middle, Stairs, Dumpster and Tunnel ... I think that's all.  \r\n\r\n \r\n"
+}

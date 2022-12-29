@@ -1,0 +1,30 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"cs_veristy.bsp",
+					"cs_veristy.nav"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 409426,
+			"_nDownloadCount": 860,
+			"_nFilesize": 4814253,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/409426",
+			"_sFile": "cs_veristy.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1549332166
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 100586,
+	"_sName": "cs_veristy",
+	"_sText": "<ul><li>Spawn Points: 20vs20</li><li>Luscious 2007 HDR lighting.</li></ul><hr>Intended to be my 20th map, and released before <a href=\"https://gamebanana.com/maps/156189\">gg_chatsa</a>, this fairly bare bones map should give a cramped feeling similar to cs_assault within a winter setting, as terrorists barricade themselves inside the central building.  <br><br>It was quite the fight to get cs_veristy compiled in hammer. Constant compile errors, one prop with a bad value crashing the damn map, issues with hostages not moving through doorways properly... After a while I couldn't get the damn .vmf to open in the SDK like it used to. Some update \r\nfucked it all up. Turns out the Hammer I needed hides in a \\bin\\ now. I gave up on this map quite a few times but finally the essentials are done. The outer city surrounding the map leaves much to be desired in the looks department but hopefully the layout is fine for big team fights.  <br><br>I couldn't figure out how to prevent the fireplace from projecting light onto the building across the street (seen in screenshot) and the snow seems unusually bright. It can be a problem if you're trying to see how much money you have.<br><hr><br><br>Credit to <a href=\"//www.gamebanana.com/members/434559\">aFreindlyCow</a> who placed some props to the right of CT spawn's alleyway. Though I did everything else, he was going to help me finish the map further but got banned. Rest in peace my milky man.  <br>"
+}

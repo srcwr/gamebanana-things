@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"zm_cf_funhouse_v2_fix1.bsp",
+					"zm_cf_funhouse_v2_fix1.nav"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 347970,
+			"_nDownloadCount": 1131,
+			"_nFilesize": 982936,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/347970",
+			"_sFile": "zm_cf_funhouse_v2_fix1.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1192130053
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 131488,
+	"_sName": "zm_cf_funhouse_v2_fix1",
+	"_sText": "***CHANGELOG***\r\n\r\n---v2_fix1---\r\n* Moved elevator and torture room to better place\r\n* Added new vent system to move around the map\r\n* Tubes added to the warehouse along with player clips to prevent players doing stuff that would make it nearly impossible for zombies to get them\r\n* Improved some glitchy lighting issues\r\n* Removed secret button to access secure room near T spawn, instead the door can be opened by use until I can add a keypad in later version.\r\n* Combine op center optimised for performance, less crap on that level.\r\n\r\nBasically evened the map out for both teams a bit :)."
+}

@@ -1,0 +1,70 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ze_FFXII_Mt_Bur_Omisace_v5_5fix.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 600028,
+			"_nDownloadCount": 178,
+			"_nFilesize": 134599382,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/600028",
+			"_sFile": "ze_ffxii_mt_bur_omisace_v5_5fix.rar",
+			"_sMd5Checksum": "a9614ed92aa446b6b1d1c1d8e52f529b",
+			"_tsDateAdded": 1624672751
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ze_ffxii_mt_bur_omisace_v5_5fix.cfg"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 651802,
+			"_nDownloadCount": 26,
+			"_nFilesize": 842,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/651802",
+			"_sFile": "stripper__2_v5_5fix.rar",
+			"_sMd5Checksum": "b78ad59dce16b515856453a933c54b0b",
+			"_tsDateAdded": 1630782591
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Improvement",
+					"text": "Nerf bomb boss attacks and hp on each player"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Stripper #2",
+			"_tsDateAdded": 1630782608
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "Fixed broken attacks (FPS Killers)"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Stripper #1",
+			"_tsDateAdded": 1627253517
+		}
+	],
+	"_idRow": 294387,
+	"_sName": "ze_ffxii_mt_bur_omisace_v5_5fix",
+	"_sText": "<h2 class=\"SelectedElement\">This is port of cs go map. After create stilshrine of miriam I feel unsatisfied, ze_ffxii_mt_bur_omisace is an extension of miriam. The whole map will focus on the Kiltian temple tower (level 3 and level 4 on miriam) the whole was reproduced better or worse on the basis of the original map. Don't be surprised if you notice some similarities with miriam, a few things are based quite heavily on the latter map. I hope you like it, the map will be developed in the future ;) </h2>"
+}

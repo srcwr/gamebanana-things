@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"dr_ApertureScience_b20.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 326928,
+			"_nDownloadCount": 1400,
+			"_nFilesize": 11334978,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/326928",
+			"_sFile": "dr_aperturescience_b20.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1259348823
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 127320,
+	"_sName": "dr_ApertureScience",
+	"_sText": "The Third Instalment from my Aperture Experiment Series!!\r\n\r\nIn this universe, Aperture science simulates combats, in this case a Deathrun Experiment, in order to study the subjects.. Each map is enclosed in a cube, where anyone who attempts to escape will certainly die! So fight for your survival and win! Winners get cake at the end!\r\n\r\nWhy? You might ask, do Aperture Science goes through all of this trouble? The answer is simple, for the people who are still alive!\r\n\r\n\r\n\r\n\r\nThis is a deathrun map with 12 chambers, so it’s about 18 traps total. The setting is inspired by Portal. It is supposed to be inside a building at all times; you start at the top and jump down through some tubes to the next chamber\r\n\r\nFeatures!\r\n-Up to 52 player capability, 2 Terrorist and 50 Counter-Terrorist\r\n-Many innovative Traps!\r\n-Custom Textures!\r\n-Custom Models!\r\n-Extremely optimized! \r\n-Teleports\r\n-Explosions!\r\n-Lasers!\r\n-If ct does not move after 30 seconds the simulation starts they will NOT get cake!\r\n-And many stuff more!\r\n\r\nThis is a beta version 20\r\nPlease send your issues and improvements, any feedback is greatly encouraged!\r\n\r\nAs a few may have expirienced, T may rush to the breakable chamber, break the window, and try to knife Counter-Terrorist.This is okay, as being creative is greatly encouraged by Aperture Science!\r\n\r\nChanges in b20\r\n-Optimized the file size, now it is smaller than b19\r\n\r\nChanges in b19\r\n-Added Still Alive Song at the begining area!!!\r\n-Added Portal-look alike when choosing minigame at the end\r\n-Added speed for Terrorist, they run almost as twice as fast\r\n-Added lighting to many chambers, now it is even more bright, for those who complay it is a bit to dark! \r\n\r\n\r\nOld Changes\r\n-Fixed and Issue with teleporting Terrorist at the end of a game\r\n-Fixed water in the Fake winning Chamber\r\n-Fixed a button that kept respawning, although it didnt work anyways after it respawned\r\n-Added a hurt brush to damage any players trying to staying in the breakable chamber trying to knife each other through a small window.\r\n-Fixed an issue in which custom textures and models did not work properly\r\n-Rename to dr_ApertureScience from dr_Experiment for Marketing purposes\r\n-Fixed an Issue in which Textures looked very bad ingame\r\n-Fixed an issue in which players were not given knives at the begining of the game\r\n-Removed the Portal song for File size and because of techincal issues\r\n-More brightness\r\n-Fixed some spelling errors\r\n-Fixed an issue with not showing some textures in the 09 chamber\r\n-Added a song at the begining of the game\r\n-Terrorist know can see more clearly through the windows, even it might not be a texture for window, there is still a window\r\n-Terrorist are now completely safe from the explosions in Chamber 2\r\n-added the song to .bsp file\r\n-Changed the deadly water texture, to a cheaper water\r\n-Removed a button which allowed ct to activate a trap\r\n\r\n\r\nKnown Issues\r\n-There is a chance you will get damaged in chamber 04, it is not deadly. Try to aim either perfectly to the hole, or one of the sides so that you slide smoothly.\r\n-The song at the begning might not play at the begining of each round\r\n-Some console errors involving cubemaps might appear, ignore them, they seem to not affect gameplay at all\r\n\r\nIMPORTANT\r\nWhen a button moves down, the event has started. Different traps have different delays, but as a rule, the first traps have more of a delay, and the last traps are more instantly.\r\nIn the Waterfall chamber, there are two buttons, but only ONE can be pressed. Pressing one will disable the other button, and viceversa. This is intended\r\n\r\nNOTE.- If you want to see the complete map with all of its possible endings you will need at least 2 people, as Ts need to be triggered to the mini game by a CT. The breakable window is breakable ONLY before the trap has been triggered so CTs are only allowed to keep running their intended way!\r\n\r\nDeveloped by Eugenio 'Motanum' Roman\r\nBugs, comments, suggestions to agent_2114@hotmail.com\r\n\r\nIf you take this map for your server online DONT FORGET TO SEND ME YOUR I.P. address so I CAN JOIN along!\r\n\r\nMore maps from me to come\r\n\r\nSpecial thanks to 3kliksphilp and the Uber Micro Forums for their support and guidance.\r\nSponsored by ]Hell[ Servers\r\n\r\nSee screenshots\r\n\r\nInstallation, just paste the all of the files in the ZIP on your maps folder for counter strike source\r\n\r\nDefault should be Files\\Steam\\steamapps\\Account_Name\\counter-strike source\\cstrike\\maps\r\n"
+}

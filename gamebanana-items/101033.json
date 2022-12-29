@@ -1,0 +1,122 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrike": {
+						"maps": [
+							"de_dust3.bsp",
+							"de_dust3.txt"
+						],
+						"materials": {
+							"0": "SignatureAlex.vmt",
+							"1": "SignatureAlex.vtf",
+							"2": "SignatureAlex2.vmt",
+							"3": "SignatureAlex2.vtf",
+							"skybox": [
+								"sky_dust3bk.vmt",
+								"sky_dust3bk.vtf",
+								"sky_dust3dn.vmt",
+								"sky_dust3dn.vtf",
+								"sky_dust3ft.vmt",
+								"sky_dust3ft.vtf",
+								"sky_dust3lf.vmt",
+								"sky_dust3lf.vtf",
+								"sky_dust3rt.vmt",
+								"sky_dust3rt.vtf",
+								"sky_dust3up.vmt",
+								"sky_dust3up.vtf"
+							]
+						},
+						"sound": {
+							"ambient": {
+								"atmosphere": [
+									"hole_amb3.wav"
+								],
+								"music": [
+									"HansZimmer.wav"
+								]
+							}
+						}
+					},
+					"hl2": {
+						"materials": {
+							"models": {
+								"props_junk": [
+									"garbage001a_01.vmt",
+									"garbage001a_01.vtf",
+									"garbage002a_01.vmt",
+									"garbage002a_01.vtf",
+									"garbage003a_01.vmt",
+									"garbage003a_01.vtf"
+								]
+							}
+						},
+						"models": {
+							"props_junk": [
+								"garbage_bag001a.dx80.vtx",
+								"garbage_bag001a.dx90.vtx",
+								"garbage_bag001a.jpg",
+								"garbage_bag001a.mdl",
+								"garbage_bag001a.phy",
+								"garbage_bag001a.sw.vtx",
+								"garbage_bag001a.vvd",
+								"garbage_coffeemug001a.dx80.vtx",
+								"garbage_coffeemug001a.dx90.vtx",
+								"garbage_coffeemug001a.jpg",
+								"garbage_coffeemug001a.mdl",
+								"garbage_coffeemug001a.phy",
+								"garbage_coffeemug001a.sw.vtx",
+								"garbage_coffeemug001a.vvd",
+								"garbage_coffeemug001a_chunk01.dx80.vtx",
+								"garbage_coffeemug001a_chunk01.dx90.vtx",
+								"garbage_coffeemug001a_chunk01.jpg",
+								"garbage_coffeemug001a_chunk01.mdl",
+								"garbage_coffeemug001a_chunk01.phy",
+								"garbage_coffeemug001a_chunk01.sw.vtx",
+								"garbage_coffeemug001a_chunk01.vvd",
+								"garbage_coffeemug001a_chunk02.dx80.vtx",
+								"garbage_coffeemug001a_chunk02.dx90.vtx",
+								"garbage_coffeemug001a_chunk02.jpg",
+								"garbage_coffeemug001a_chunk02.mdl",
+								"garbage_coffeemug001a_chunk02.phy",
+								"garbage_coffeemug001a_chunk02.sw.vtx",
+								"garbage_coffeemug001a_chunk02.vvd",
+								"garbage_coffeemug001a_chunk03.dx80.vtx",
+								"garbage_coffeemug001a_chunk03.dx90.vtx",
+								"garbage_coffeemug001a_chunk03.jpg",
+								"garbage_coffeemug001a_chunk03.mdl",
+								"garbage_coffeemug001a_chunk03.phy",
+								"garbage_coffeemug001a_chunk03.sw.vtx",
+								"garbage_coffeemug001a_chunk03.vvd",
+								"garbage_metalcan001a.dx80.vtx",
+								"garbage_metalcan001a.dx90.vtx",
+								"garbage_metalcan001a.jpg",
+								"garbage_metalcan001a.mdl",
+								"garbage_metalcan001a.phy",
+								"garbage_metalcan001a.sw.vtx",
+								"garbage_metalcan001a.vvd"
+							]
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 310244,
+			"_nDownloadCount": 2438,
+			"_nFilesize": 10208464,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/310244",
+			"_sFile": "_8146-.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1312296099
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 101033,
+	"_sName": "De_ArabFuse",
+	"_sText": "De_arabfuse  \r\nA Small map like  de dust so enjoy it, :)\r\nIf Some there Some Bug Please tell me. ill fix it."
+}

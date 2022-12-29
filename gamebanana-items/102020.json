@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"README.txt",
+					"de_dustII_pro.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 315073,
+			"_nDownloadCount": 3953,
+			"_nFilesize": 16911234,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/315073",
+			"_sFile": "_1088-.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1296426862
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 102020,
+	"_sName": "de_dust2_pro (video)",
+	"_sText": "With this project I have tried to adapt de_dust2 in a way that (as far as I know!) has not been attempted before. Even though it is probably the most played source map de_dust2 is often refered to as a nOObs map. Whether or not you agree with this opinion, it is sure that de_dust2 is one of the simpler more straight-forward counter-strike maps. de_dust2_pro is an attempt to make a more complex and technically challenging version of de_dust2, offering players new strategic and tatical possibilities whilst at the same time preserving as much as possible the character and personality of the original map. Appart from their sometimes impractical size, one of the flaws with the unlimited/extended type maps is that the extra areas and encounter spots tend to undermine the character of the original map. With de_dust2_pro I tried at all time to respect and preserve the elements that characterize and define de_dust2.\n\nde_dust2_pro contains:\n\nThe enitre playable and walkable space of the original de_dust2, unchanged.\nSix completely new areas mapped into the structure of the original map.\nFull HDR lighting.\nOver 50 custom-made models.\nCustom textures and sounds.\nOverview, soundscapes, nav map.\nSex.\nViolence.\nAnd fun for all.\n\nHere is a video walkthrough of the map\n\n\n\nhttp://www.youtube.com/watch?feature=player_detailpage&amp;v=vnfWGYBQ1qE\n\nAlthough I didnt put in the map-name, this release (de_dustII_pro) is basically a beta version. I am hoping that players will try out the map and give me any feeback on things they think need changing or any problems they encounter.\n\nThis map has taken a huge amount of work, far more than I originally thought, in fact. I spent a long time optimizing and tyring to get the best FPS possible. I have basically had to rebuild the entire map. I am pleased with the result but I have had to be very aggressive with the optimizing and visibility. I have run a lot of tests on the map and have tried to find all the rendering errors (props fading too early, occluders etc) but its possible that I have still missed some. If you come accross any rendering glitches or problems please let me know.\n\nEnjoy!"
+}

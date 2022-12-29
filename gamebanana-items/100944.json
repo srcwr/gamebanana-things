@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"README.txt",
+					"de_adriatic.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 351359,
+			"_nDownloadCount": 3924,
+			"_nFilesize": 2468097,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/351359",
+			"_sFile": "de_adriatic.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1180108740
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 100944,
+	"_sName": "de_adriatic",
+	"_sText": "README:\r\n\r\nAdriatic Coast\r\n<hr>\r\nCounter Strike Source (CSS) Bomb Defusion Map (de_adriatic)\r\n<hr>\r\nAUTHOR: Simon 'Hurtz' Davies\r\n\r\nE-MAIL: mjrhurtz@spl33n.co.uk\r\n\r\nFILENAME: de_adriatic.bsp\r\n\r\nDESCRIPTION: A small coastal town is disrupted by a terrorist attack to destroy commercial operations in the area.\r\n\r\nIn game description...\r\n\r\nCounter-Terrorists:\r\nPrevent Terrorist operatives from disrupting commercial operations at this coastal industrial town. Two viable targets, cargo crates currently located on a nearby roof top, or the computer terminals in the dock building.\r\nTerrorists:\r\nDisrupt commercial operations by the destruction of vital cargo crates or computer systems in the dock building, controlling shipping in the local area.\r\n\r\nDetails: 32 Players max. 16 Player starts each side.\r\n\r\nCOMMENTS: \r\n\r\nThis is my first real foray into level creation for a source title other than a few test maps for Half-Life 2 Deathmatch, and I am fairly happy with it.\r\n\r\nBot support included in the .bsp file. Bots do not take every path, although this is barely noticeable (dont go over crates by the wall for example.) Sometimes get stuck on the doors, otherwise fairly good.\r\n\r\nOptimisation isnt great, but overall is fairly smooth with only some areas with noticeable slow down. (on my system at least.)\r\n\r\nMap de_adriatic copyright(c) Hurtz 2007, feel free to distribute as long as the file(s) remains unchanged."
+}

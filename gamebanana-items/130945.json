@@ -1,0 +1,164 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ze_ravenholm_v05.cfg"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 505411,
+			"_nDownloadCount": 111,
+			"_nFilesize": 322,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "EntWatch Config",
+			"_sDownloadUrl": "https://gamebanana.com/dl/505411",
+			"_sFile": "ze_ravenholm_v05_409f4.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1609672563
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ze_ravenholm_v05fix.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 505899,
+			"_nDownloadCount": 144,
+			"_nFilesize": 17023921,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "Map",
+			"_sDownloadUrl": "https://gamebanana.com/dl/505899",
+			"_sFile": "ze_ravenholm_v05fix.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1609865519
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ze_ravenholm_v05fix.cfg"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 505900,
+			"_nDownloadCount": 31,
+			"_nFilesize": 159,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "ZombieReloaded Config",
+			"_sDownloadUrl": "https://gamebanana.com/dl/505900",
+			"_sFile": "ze_ravenholm_v05fix_a38fe.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1609865663
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ze_ravenholm_v05fix.cfg"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 506096,
+			"_nDownloadCount": 41,
+			"_nFilesize": 252,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "*RECOMMENDED* Stripper Source cfg",
+			"_sDownloadUrl": "https://gamebanana.com/dl/506096",
+			"_sFile": "ze_ravenholm_v05fix_ba00d.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1609946975
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "Adjusted the size of the nuke, for the newest version"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Improved the hitbox of the HEV-Stuit a bit"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added human counter for optional outputs"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added Giant Headcrab zombie item on 20 cts"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added a little zombie help depending on how many humans play"
+				},
+				{
+					"cat": "Tweak",
+					"text": "Tweaked some minor issues"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Lowered the first infection time, enabled zr ambient sound"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Version 0.5fix",
+			"_tsDateAdded": 1609865973
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "Fixed full packaging of custom files"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Enabled existing AFK-Teleports to shorten the walk ways for newly spawned zombies"
+				},
+				{
+					"cat": "Optimization",
+					"text": "further optimized mapping"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Overhauled the design of the last hold"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Added short zombie protection upon entering the final tower"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added \"HEV-Suit\" Item, which protects you from 4 zombie strikes until dying on the 5th hit, 30% movement boost for 30 seconds from morphine-shot when the HEV-Suit reaches 20% armor level"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Improved the effects of the Crowbar"
+				},
+				{
+					"cat": "Optimization",
+					"text": "Added more light effects"
+				}
+			],
+			"_sText": "After years, I finally got back to work on Ravenholm.<br><br>Hope you enjoy !<br><br>-Strongfield<br>",
+			"_sTitle": "Version 0.5",
+			"_tsDateAdded": 1609671329
+		}
+	],
+	"_idRow": 130945,
+	"_sName": "ze_ravenholm_v05fix",
+	"_sText": "<h1 class=\"SelectedElement\">ze_ravenholm_v05fix</h1>This map takes place in Ravenholm, which most of you recognize from Half Life 2.<br>It has suprised me, that there is no ravenholm-themed map for ZE.<br>So here it is, the first part of Ravenholm.<br>I consider it as first proper map of mine, altough it isn't the full map. It's more like Stage 1, because I plan to make more.<br>This stage serves as feedback. I hope to see how it comes out on a real gameplay. This feedback helps me to advance my creations.<br>Stage 1 contains the basic of ZE and mapping. <br>There is no boss, there are no custom particles nor textures.<br>But there is one human item (Crowbar).<br>I hope that my config works for the entwatch plugin.<br><br><h2>Story</h2>(Some of us are still waiting for Half Life 3)<br>Three months after the destruction of the citadel, the citizens of City 17 are in a peril situation. The combine may be weakend and they went to their last bases, but the real danger is the environment. <br>Due ciritcal damage, caused by the explosion of the citadel, most flats and accommodations are uninhabitable.<br>Humanity has to live with the lack of resources.<br>In a peril attempt, a new organized special force has been sent to Ravenholm to evaluate the situation. <br>Ravenholm itself fell under the attack of the combines back in the old regime, but most buildings are intact.<br>The main proplem are the headcrabs and their fellow zombies.<br>The Combine have used almost 80% of their caught headcrabs for Ravenholm.<br>It's the Nexus of the Zombie-Plague and its residents have evolved.....<br><br><h3>To do list:</h3><del>+ Add more details and decals<br></del>+ Improve the lightning<br><del>+ [Maybe] Change the gameplay after real gameplay, if needed</del><br>+ Fix bad lightnings on some doors<br><del>+ Optimize the map</del><br><del>+ Add Hint and Skips</del><br><del>+ Add grass-sprites<br></del><br>**** Hotfix ****<br>removed the nav. which caused crashing the server.<br><br><h3>Credits and special thanks:</h3>Valve for the Hammer Editor, Maps, Textures, Models and Sounds. (I took the first area of Ravenholm, which was made by Valve for Half Life 2, for my map for a fitting story.)<br><br>TOPHattWaffle<br>Unloze<br>Moltard<br><br>Have fun with the map,<br>-StrongfieldtheGerman"
+}

@@ -1,0 +1,123 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"lego_map_usp": {
+						"0": "README!.txt",
+						"1": "READMEALSO!.txt",
+						"For FastDL": [
+							"lego_map_usp.bsp.bz2",
+							"lego_map_usp.nav.bz2"
+						],
+						"For SDK": {
+							"!TEXTURES!": {
+								"0": "README!.txt",
+								"boharox": {
+									"lego": [
+										"daceil_01.vmt",
+										"daceil_01.vtf",
+										"daceil_02.vmt",
+										"daceil_02.vtf",
+										"daceil_03.vmt",
+										"daceil_03.vtf",
+										"daceil_04.vmt",
+										"daceil_04.vtf",
+										"daceil_05.vmt",
+										"daceil_05.vtf",
+										"daceil_09.vmt",
+										"daceil_09.vtf",
+										"daceil_10.vmt",
+										"daceil_10.vtf",
+										"dafloor_01.vmt",
+										"dafloor_01.vtf",
+										"dafloor_03.vmt",
+										"dafloor_03.vtf",
+										"dafloor_04.vmt",
+										"dafloor_04.vtf",
+										"dafloor_05.vmt",
+										"dafloor_05.vtf",
+										"daplate_01.vmt",
+										"daplate_01.vtf",
+										"daplate_02.vmt",
+										"daplate_02.vtf",
+										"daplate_03.vmt",
+										"daplate_03.vtf",
+										"daplate_04.vmt",
+										"daplate_04.vtf",
+										"daplate_05.vmt",
+										"daplate_05.vtf",
+										"daplate_06.vmt",
+										"daplate_06.vtf",
+										"daplate_07.vmt",
+										"daplate_07.vtf",
+										"daplate_08.vmt",
+										"daplate_08.vtf",
+										"daplate_09.vmt",
+										"daplate_09.vtf",
+										"daplate_10.vmt",
+										"daplate_10.vtf",
+										"dawall_01.vmt",
+										"dawall_01.vtf",
+										"dawall_03.vmt",
+										"dawall_03.vtf",
+										"dawall_05.vmt",
+										"dawall_05.vtf",
+										"dawall_07.vmt",
+										"dawall_07.vtf",
+										"dawall_07midbot.vmt",
+										"dawall_07midbot.vtf",
+										"dawall_07midtop.vmt",
+										"dawall_07midtop.vtf",
+										"dawall_07stripes.vmt",
+										"dawall_07stripes.vtf",
+										"dawall_07stripmid.vmt",
+										"dawall_07stripmid.vtf",
+										"dawall_09.vmt",
+										"dawall_09.vtf",
+										"dawall_09midbot.vmt",
+										"dawall_09midbot.vtf",
+										"dawall_09midtop.vmt",
+										"dawall_09midtop.vtf",
+										"dawall_09stripes.vmt",
+										"dawall_09stripes.vtf",
+										"dawall_09stripmid.vmt",
+										"dawall_09stripmid.vtf",
+										"dawall_middle.vmt",
+										"dawall_middle.vtf",
+										"thatwayshiny.vmt",
+										"thatwayshiny.vtf",
+										"thatwayshiny2.vmt",
+										"thatwayshiny2.vtf"
+									]
+								}
+							},
+							"0": "lego_map_usp.vmf"
+						},
+						"For Server": [
+							"lego_map_usp.bsp",
+							"lego_map_usp.nav"
+						]
+					}
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 328059,
+			"_nDownloadCount": 1278,
+			"_nFilesize": 10855774,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/328059",
+			"_sFile": "lego_map_usp.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1255508718
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 109801,
+	"_sName": "lego_map_usp",
+	"_sText": "This map was originally named \"aim_map_usp\"\r\nThat map is located at http://www.fpsbanana.com/maps/11402\r\n\r\nI revamped the map completely with the following changes:\r\n- Textures have been replaced with custom lego textures by boharox\r\n- Two extra entities have been added, meaning instead of 12 on each side there's now 13 on each side, they are also organized and aligned to be next to each other rather than some in front, some in back, you know.\r\n- The wall art is still there. I did not touch it and personally, I think it looks pretty cool with the grey lego texture, looks more realistic.\r\n\r\nThis map folder includes three sub folders. One is for your server, one is for your fast download server, one contains the vmf if you would like to edit the map. You do NOT need the fast download files unless you have a fast download maps server. I put it in this zipped file as a courtesy :)\r\n\r\nDon't forget to assess the map after playing it on FPSBanana!\r\nIf you have requests for me to edit any maps lemme know, I do not take credit for anyones original map and will always include a link to the original version\r\nin my read me files."
+}

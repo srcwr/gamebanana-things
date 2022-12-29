@@ -1,0 +1,30 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"readme.txt",
+					"soccer2007_v2.bsp",
+					"soccer2007_v2.txt"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 351012,
+			"_nDownloadCount": 7329,
+			"_nFilesize": 5799536,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/351012",
+			"_sFile": "soccer2007_v2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1181422032
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 110610,
+	"_sName": "soccer2007",
+	"_sText": "<a href=http://www.fpsbanana.com/maps/26925><p style=\"color: YELLOW; font-size: x-large; text-align: center;\">V3 Added Here</p><hr /></a><p style=\"color: RED; font-size: x-large; text-align: center;\">V2</p><p style=\"color: RED; font-size: small; text-align: center;\">The map has been updated to version 2. Please re-download the map file from this page.</p>\r\n<p style=\"color: WHITE; font-size: small; text-align: center;\">Changes made:\r\n\r\n- Added invisible ball boundary around and above the pitch to stop the ball going out of play.\r\n\r\n- Fixed graphical glitches on shiny surfaces. This was to do with a cubemap error. The knife and fingernails of the player still have a visible hint of blue but this isn't a major problem, it's related to the map using the default cubemap of the skybox.</p>\r\n<hr />\r\nThis is the first map I've released on FPSB.\r\n\r\nInspired by \"ka_soccer_2006_v1\" by lolobubu.\r\n\r\n<ul type=\"square\">\r\n<li>Football/Soccer Map.</li>\r\n\r\n<li>KA-Knife Arena.</li>\r\n\r\n<li>32 Players - 16 A Side.</li>\r\n</ul>\r\n(This map can hold up to 32 players but I'd\r\n recommend 16-24.)\r\n\r\n--------------------------------------------------------\r\nThanks to Lost for helping me with compile errors.\r\n\r\n\r\nIf you want to add this map to your server, I'd recommend using bzip2 compression as it is possible to get the filesize down to ~5MB."
+}

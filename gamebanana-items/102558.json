@@ -1,0 +1,149 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrike": {
+						"maps": [
+							"de_guerilla_tactics.bsp",
+							"de_guerilla_tactics.res",
+							"de_guerilla_tactics.txt"
+						],
+						"materials": {
+							"models": {
+								"hamburghannes": {
+									"astrabottle": [
+										"skin.vmt",
+										"skin.vtf",
+										"skin.vtf.ztmp"
+									],
+									"fussmatte": [
+										"fussmatte.vmt",
+										"fussmatte.vtf"
+									],
+									"gitter": [
+										"gitter.vmt",
+										"gitter.vtf"
+									],
+									"pfanne": [
+										"pfanneskin.vmt",
+										"pfanneskin.vtf",
+										"pfanneskin.vtf.ztmp"
+									],
+									"pizza": [
+										"pizza.vmt",
+										"pizza.vtf"
+									]
+								}
+							}
+						},
+						"models": {
+							"hamburghannes": {
+								"astrab_splitter1": [
+									"astrab_splitter1.dx80.vtx",
+									"astrab_splitter1.dx90.vtx",
+									"astrab_splitter1.mdl",
+									"astrab_splitter1.mdl.ztmp",
+									"astrab_splitter1.phy",
+									"astrab_splitter1.phy.ztmp",
+									"astrab_splitter1.sw.vtx",
+									"astrab_splitter1.vvd",
+									"astrab_splitter1.vvd.ztmp"
+								],
+								"astrab_splitter2": [
+									"astrab_splitter2.dx80.vtx",
+									"astrab_splitter2.dx90.vtx",
+									"astrab_splitter2.mdl",
+									"astrab_splitter2.mdl.ztmp",
+									"astrab_splitter2.phy",
+									"astrab_splitter2.phy.ztmp",
+									"astrab_splitter2.sw.vtx",
+									"astrab_splitter2.vvd",
+									"astrab_splitter2.vvd.ztmp"
+								],
+								"astrabottle": [
+									"astrabottle.dx80.vtx",
+									"astrabottle.dx90.vtx",
+									"astrabottle.mdl",
+									"astrabottle.mdl.ztmp",
+									"astrabottle.phy",
+									"astrabottle.phy.ztmp",
+									"astrabottle.sw.vtx",
+									"astrabottle.vvd",
+									"astrabottle.vvd.ztmp"
+								],
+								"fensterbogen": [
+									"fensterbogen.dx80.vtx",
+									"fensterbogen.dx90.vtx",
+									"fensterbogen.mdl",
+									"fensterbogen.phy",
+									"fensterbogen.sw.vtx",
+									"fensterbogen.vvd"
+								],
+								"fussmatte": [
+									"fussmatte.dx80.vtx",
+									"fussmatte.dx90.vtx",
+									"fussmatte.mdl",
+									"fussmatte.phy",
+									"fussmatte.sw.vtx",
+									"fussmatte.vvd"
+								],
+								"gitter": [
+									"gitter.dx80.vtx",
+									"gitter.dx90.vtx",
+									"gitter.mdl",
+									"gitter.phy",
+									"gitter.sw.vtx",
+									"gitter.vvd"
+								],
+								"pfanne": [
+									"pfanne.dx80.vtx",
+									"pfanne.dx90.vtx",
+									"pfanne.mdl",
+									"pfanne.mdl.ztmp",
+									"pfanne.phy",
+									"pfanne.phy.ztmp",
+									"pfanne.sw.vtx",
+									"pfanne.vvd",
+									"pfanne.vvd.ztmp"
+								],
+								"pizza": [
+									"pizza.dx80.vtx",
+									"pizza.dx90.vtx",
+									"pizza.mdl",
+									"pizza.phy",
+									"pizza.sw.vtx",
+									"pizza.vvd"
+								],
+								"pizzastk": [
+									"pizzastk.dx80.vtx",
+									"pizzastk.dx90.vtx",
+									"pizzastk.mdl",
+									"pizzastk.phy",
+									"pizzastk.sw.vtx",
+									"pizzastk.vvd"
+								]
+							}
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 361399,
+			"_nDownloadCount": 3389,
+			"_nFilesize": 3393056,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/361399",
+			"_sFile": "de_guerillatactics.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1116694885
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 102558,
+	"_sName": "de_guerilla_tactics",
+	"_sText": "Guerilla Tactics - Bomb Target\r\n\r\n\r\nCounter-Terrorists: Navigate your way\r\nthrough the destroyed cityblocks and prevent\r\nthose Terrorists from planting the bio-chemical bomb.\r\n\r\nTerrorists: Plant the bio-chemical bomb to wipe out \r\nthe whole city! \r\n\r\nMap + custom models/textures (c) by hamburghannes in April '05\r\ncritcism, suggestions etc. to hamburghannes@gmx.de\r\n\r\n"
+}

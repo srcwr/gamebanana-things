@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_scud_pro.bsp",
+					"de_scud_pro_readme.txt"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 306424,
+			"_nDownloadCount": 6926,
+			"_nFilesize": 13178280,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/306424",
+			"_sFile": "de_scud_pro.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1324986061
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 103889,
+	"_sName": "de_scud_pro",
+	"_sText": "**BACKGROUND:**                                          \r\n  Terrorists have infiltrated a hidden\r\n  American missile base in an abandoned\r\n  palace near the Iraqi border.\r\n\r\n**COUNTER-TERRORISTS:**                                 \r\n  Protect the missiles and launch command\r\n  from the Terrorist strike force.\r\n\r\n**TERRORISTS:**                                         \r\n  Destroy the launch command or the\r\n  missiles themselves.\r\n\r\n**CREDITS:**                                             \r\nCS:Source version made by:                               \r\nGrantaX      (started map 2005)                          \r\nnice b00bs   (finished map 2011'12)                     \r\nOriginal CS version made by:                             \r\nJeramy Cooke (2000)\r\n\r\nPlayers capacity: \r\n21 vs. 21 (42)\r\n\r\n**Changes from scud to scud_pro I can remember:**\r\n\r\nMapping/source engine bugs fixed.                   \r\nBetter optimization.                            \r\nUpdated/added - sounds/textures/decals/models/details.   \r\nRounded architecture.                                   \r\nBetter shadows in map.                                 \r\nCorrected cubemaps.                                  \r\nFixed bots navigation.                                 \r\nFixed places where bomb could be lost.                  \r\nCliped places where you could go off map by boost jump.  \r\nFixed indefusible bomb exploit at B                    \r\nCorridors are better lit.                             \r\nFixed \"crazy smoke nade\" bug at A.                     \r\nSecret room.                                          \r\nLadder to climb on T balcony's roof.                   \r\nLadder to climb on bunker's(B) roof                     \r\nAbility to jump on T's balcony with teammates help.      \r\nEasier to jump into bunker(B) through all windows.       \r\nAdded lots of interactive objects.                      \r\nOne of them is **launchable missiles** at bombsite A.    \r\nSome changes for tactical gameplay.                      \r\n\r\nAbsence of HDR is intentional.                          \r\nBasic layout of map didn't changed(only added garage at T spawn)                                                \r\nMap is compatible with CS:S nosteam v34                 \r\n\r\n**Finaly map is balanced now.**                         \r\nWin ratio was(de_scud):\r\n59.69%(T)/40.31%(CT)                                  \r\n**Win ratio now(scud_pro)**\r\n51.57%(T)/48.43%(CT)                                    \r\n![balance](http://img266.imageshack.us/img266/6126/17744790.png \"http://img266.imageshack.us/img266/6126/17744790.png\")\r\n\r\nVideo of gameplay from **early** beta:\r\n<iframe width=\"560\" height=\"315\" src=\"http://www.youtube.com/embed/EOW-EFgq2R4\" frameborder=\"0\" allowfullscreen></iframe>\r\n\r\nYou can play it online on Setti custom maps server - 78.46.42.232:27016\r\n\r\nOr search there for servers:\r\n[Gamemonitor](http://www.game-monitor.com/search.php?map=*scud*&game=cstrike2 \"http://www.game-monitor.com/search.php?map=*scud*&game=cstrike2\")"
+}

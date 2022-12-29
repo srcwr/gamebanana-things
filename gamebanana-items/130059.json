@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"achievement_bombhostie_rep.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 321773,
+			"_nDownloadCount": 3895,
+			"_nFilesize": 303290,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/321773",
+			"_sFile": "achievement_bombhostie_rep.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1277876715
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 130059,
+	"_sName": "achievement_bombhostie_rep",
+	"_sText": "As a CT you can do bomb achievements, and hostie achevments.\r\nAs a T you can do some bomb achievements and help your CT buddy do his, then swap.\r\n\r\nThis map requires 2 people for bombs and 1 for Hostie farming.\r\n\r\n\r\nIf you find the hosties do not follow you do the following:\r\n\r\nDo this only once on your server, to build the .nav file.\r\n\r\nrcon_password blahblah\r\nrcon sv_cheats 1\r\nrcon nav_generate\r\n\r\nHave fun.\r\n\r\nBe sure you have mp_humanteam set to all.\r\n\r\nRemember to check show your achievements on H.U.D\r\n\r\n\r\n-Rep"
+}

@@ -1,0 +1,47 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "de_inferno_bis_lisez_moi.txt",
+					"1": "de_inferno_bis_readme.txt",
+					"maps": [
+						"de_inferno_bis_v1.bsp",
+						"de_inferno_bis_v1.nav",
+						"de_inferno_bis_v1.res",
+						"de_inferno_bis_v1.txt"
+					],
+					"resource": {
+						"overviews": [
+							"de_inferno_bis_v1.txt"
+						]
+					},
+					"screenshots": [
+						"800_de_inferno_bis01.jpg",
+						"800_de_inferno_bis02.jpg",
+						"800_de_inferno_bis03.jpg",
+						"800_de_inferno_bis04.jpg",
+						"800_de_inferno_bis05.jpg",
+						"800_de_inferno_bis06.jpg"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 360505,
+			"_nDownloadCount": 3446,
+			"_nFilesize": 11008868,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/360505",
+			"_sFile": "inferno_bis_v1.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1126454103
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 104907,
+	"_sName": "Inferno Bis Map (v1)",
+	"_sText": "Readme File:\r\nExtract all the files (and the folder resource!) in your cstrike folder. (default C:\\Program Files\\Steam\\SteamApps\\your_account\\\r\ncounter-strike source\\cstrike)\r\n\r\n\r\nDESCRIPTION :\r\n\r\nThis is my third map.\r\n1st one: awp_source_map\r\n2nd one: awp_source_lake\r\n\r\nThe action takes place in another little sunny village. There are two bomb sites in this map which are two squares:\r\n\"plaza del Mariucci\" and \"plaza del Sol\". Counter-terrorists must prevent the terrorists from destroying either\r\none of the bomb targets.\r\nThere are three main ways to reach the bomb sites. I add sewers to the original map de_inferno which link the\r\ntwo targets and the terrorists respawn.\r\n\r\nMax players : 44 (22 terrorists and 22 counter-terrorists :)\r\n\r\n\r\nFILES :\r\n\r\n> maps\\de_inferno_bis_v1.bsp\r\n> maps\\de_inferno_bis_v1.nav\r\n> maps\\de_inferno_bis_v1.txt\r\n> maps\\de_inferno_bis_v1.res\r\n> de_inferno_bis_readme.txt\r\n> de_inferno_bis_lisez_moi.txt\r\n> resource\\overviews\\de_inferno_bis_v1.txt\r\n> folder \"screenshots\" with some screenshots ;)\r\n\r\n\r\nCREDITS:\r\n\r\nOriginal source map by Turtle Rock Studios.\r\nOriginal map by Chris Auty (Barney).\r\n\r\nSpecial thanks to all who helped me through the web and its forums !\r\n\r\n\r\nOTHER NOTES :\r\n\r\nPleaze do not modify these files and mail me if you have some questions or suggestions.\r\n\r\nThis map is dedicated to my friend Dimitri MARIEY.\r\n\r\nI hope you will enjoy this map!\r\n\r\nPiou "
+}

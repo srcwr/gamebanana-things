@@ -1,0 +1,56 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"ba_skyyjail": {
+						"0": "readme, à lire pour les infos.txt",
+						"maps": [
+							"ba_skyyjail.bsp",
+							"ba_skyyjail.res"
+						],
+						"materials": {
+							"de_rennes_v1": [
+								"dev_cratewood01a.vmt",
+								"dev_cratewood01a.vtf",
+								"metal_red.vmt",
+								"metal_red.vtf"
+							],
+							"decals": {
+								"custom": {
+									"mani_admin_plugin": [
+										"brochette_v2.vmt",
+										"brochette_v2.vtf",
+										"credits__.vmt",
+										"credits__.vtf",
+										"luciole_tag_f.vmt",
+										"luciole_tag_f.vtf",
+										"skyymap's.vmt",
+										"skyymap's.vtf"
+									]
+								}
+							}
+						}
+					}
+				},
+				"_sMimeType": "application/x-7z-compressed"
+			},
+			"_bContainsExe": false,
+			"_idRow": 315972,
+			"_nDownloadCount": 1103,
+			"_nFilesize": 697827,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/315972",
+			"_sFile": "ba_skyyjail_2.7z",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1293555348
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 129713,
+	"_sName": "ba_skyyjail",
+	"_sText": "Surtout, il faut fusionner le dossier \"/materials\" avec celui de votre serveur, sans ça vous aurez la texture des caisses de la cage centrale en inconnu (damier rose et noir) et vous ne verrez pas mes tags.\r\n\r\nSi vous avez un soucis ou avez un demande de map à me soumettre envoyez moi un e-mail sur whiskyy1@gmail.com ou rendez vous sur www.brochette.net, le site de ma team, mon pseudo est whiskyy."
+}

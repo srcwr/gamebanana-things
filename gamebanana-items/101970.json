@@ -1,0 +1,115 @@
+{
+	"_aAlternateFileSources": [
+		{
+			"description": "Mirror RU (MOSCOW)",
+			"url": "https://3axap.net/downloads/gaming/css/de_dust2_csgo$ver_b5.zip"
+		}
+	],
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"de_dust2_csgo_ver_b5": {
+						"0": "readme.txt",
+						"maps": [
+							"de_dust2_csgo$ver_b5.bsp",
+							"de_dust2_csgo$ver_b5.nav"
+						],
+						"pic": [
+							"de_dust2_csgo$ver_01.jpg",
+							"de_dust2_csgo$ver_02.jpg",
+							"de_dust2_csgo$ver_03.jpg",
+							"de_dust2_csgo$ver_04.jpg",
+							"de_dust2_csgo$ver_05.jpg",
+							"de_dust2_csgo$ver_06.jpg",
+							"de_dust2_csgo$ver_07.jpg",
+							"de_dust2_csgo$ver_08.jpg",
+							"de_dust2_csgo$ver_09.jpg",
+							"de_dust2_csgo$ver_10.jpg",
+							"de_dust2_csgo$ver_11.jpg",
+							"de_dust2_csgo$ver_12.jpg",
+							"de_dust2_csgo$ver_13.jpg",
+							"de_dust2_csgo$ver_14.jpg",
+							"de_dust2_csgo$ver_15.jpg",
+							"de_dust2_csgo$ver_16.jpg",
+							"de_dust2_csgo$ver_17.jpg",
+							"de_dust2_csgo$ver_18.jpg",
+							"de_dust2_csgo$ver_19.jpg",
+							"de_dust2_csgo$ver_20.jpg",
+							"de_dust2_csgo$ver_21.jpg",
+							"de_dust2_csgo$ver_22.jpg",
+							"de_dust2_csgo$ver_23.jpg",
+							"de_dust2_csgo$ver_24.jpg",
+							"de_dust2_csgo$ver_25.jpg",
+							"de_dust2_csgo$ver_26.jpg",
+							"de_dust2_csgo$ver_27.jpg"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 782339,
+			"_nDownloadCount": 697,
+			"_nFilesize": 122445197,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "beta5 (final)",
+			"_sDownloadUrl": "https://gamebanana.com/dl/782339",
+			"_sFile": "de_dust2_csgo_ver_b5.zip",
+			"_sMd5Checksum": "21d1ed4d9bd6e53573a6d7c09c8a8ec7",
+			"_tsDateAdded": 1649856496
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Tweak",
+					"text": "disappearing prop_static container"
+				},
+				{
+					"cat": "Removal",
+					"text": "csgo c4 (model, textures))"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "texuters"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "light"
+				}
+			],
+			"_sText": "Special _b5 version for [www.jiaxingcs.cn], thanx Tandy Lee for found bugs",
+			"_sTitle": "Version beta 5 (de_dust2_csgo$ ver_b5)",
+			"_tsDateAdded": 1649852158
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "Stoneblock model like csgo"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Many glitches brush whisout light"
+				},
+				{
+					"cat": "Addition",
+					"text": "Bomb models from CSGO"
+				},
+				{
+					"cat": "Addition",
+					"text": "Stoneblock model"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Version beta 4 (de_dust2_csgo$ver_b4)",
+			"_tsDateAdded": 1548310511
+		}
+	],
+	"_idRow": 101970,
+	"_sName": "de_dust2_csgo$ver",
+	"_sText": "<h1 class=\"SelectedElement\"><b><span class=\"GreenColor\">DE_DUST2_CSGO$VER_B5</span></b></h1>(Special _b5 version for [www.<a href=\"http://www.jiaxingcs.cn\">jiaxingcs.cn</a>], thanx Tandy Lee)<br><br>DE_DUST2_CSGO$VER made from <a href=\"https://gamebanana.com/maps/200228\">this</a> (Dust2 [Compatibility Version 1.36.0.6] from CSGO) my work.<br>You can remove dust smoke and junk from map, use this Stripper:Source by BAILOPAN (<a href=\"https://www.bailopan.net/stripper\" class=\"linkified\" target=\"_blank\">https://www.bailopan.net/stripper</a>)<br><br>Config for Stripper:Source<br><br><pre><a href=\"//start\" class=\"linkified\" target=\"_blank\">//start</a>\r\nremove:\r\n{\r\n\t\"model\" \"/.*props_junk/.*/\"\r\n}\r\n\r\n{\r\n\t\"classname\" \"func_smokevolume\"\r\n}\r\n\r\n{\r\n\t\"model\" \"models/props_urban/tire001.mdl\"\r\n}\r\n<a href=\"//end\" class=\"linkified\" target=\"_blank\">//end</a><br></pre><br>Thanks for <a href=\"https://gamebanana.com/maps/199876\" class=\"linkified\" target=\"_blank\">https://gamebanana.com/maps/199876</a> and b00bs and Saidteshnologi and Mr.Lighterman<br>(What are the differences: my version of map is last version of de_dust2 + fixed many bugs after porting map)<br><br>(What are the differences: my version of map is last version of de_dust2 + fixed many bugs after porting map)<br><br><u><span class=\"GreenColor\">Do not forget make bz2 files for fast dl</span></u> and add to server.cfg <span class=\"GreenColor\">net_maxfilesize \"250\"</span> and <span class=\"GreenColor\">sm_cvar net_maxfilesize \"250\"</span> ( for downloading  and playing this map on client fine )<br><br>Ported by Zachary V.<br><a href=\"https://gamebanana.com/members/1535453\" class=\"linkified\" target=\"_blank\">https://gamebanana.com/members/1535453</a><br><a href=\"https://steamcommunity.com/id/3axap\" class=\"linkified\" target=\"_blank\">https://steamcommunity.com/id/3axap</a><br><a href=\"https://vk.com/zakharv\" class=\"linkified\" target=\"_blank\">https://vk.com/zakharv</a><br><a href=\"https://t.me/zakharv\" target=\"_blank\">https://t.me/zakharv</a><br>"
+}

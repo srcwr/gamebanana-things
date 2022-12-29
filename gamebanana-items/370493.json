@@ -1,0 +1,38 @@
+{
+	"_aAlternateFileSources": [
+		{
+			"description": "Fastdl + bz2 + individual map DL",
+			"url": "http://5.199.136.88/cstrike/maps/"
+		}
+	],
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"bhop_cartooncastle_kzmod.bsp",
+					"kz_bricks.bsp",
+					"kz_cavewell.bsp",
+					"kz_cityswingers.bsp",
+					"kz_clocktower.bsp",
+					"kz_cookbook.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 781027,
+			"_nDownloadCount": 50,
+			"_nFilesize": 51246795,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/781027",
+			"_sFile": "maps_e1a17.7z",
+			"_sMd5Checksum": "7bb3a3982ac9e56ccc8680d1587ab2cd",
+			"_tsDateAdded": 1649652356
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 370493,
+	"_sName": "KZMOD port map pack 2",
+	"_sText": "Includes<br><br><br>kz_bricks<br>kz_cavewell<br>kz_cityswingers<br>kz_clocktower<br>kz_cookbook<br><br><br>Extra<br>bhop_cartooncastle_kzmod<br><br><br>Descriptions<br><br><br>kz_bricks<br>Original map by FOF<br>contains 3 courses: kz_bricks, bhop_genesis and bhop_velocity<br><br>kz_cavewell<br>Original map by Kangaroo<br>contains 2 courses: kz_cavewell and bhop_kz_rocks<br>Note for server owners, add a glitch zone for the bhop course that covers the KZ track (So you can't use the KZ course to complete the bhop course)<br><br>kz_cityswingers<br>Original map by Kaos_nyrb and SoUlFaThEr<br>contains 2 courses: kz_antenna and surf_building<br>Note for servers owners, if using Shavit's timer the end zone is already placed.<br><br>kz_clocktower<br>Original map by DaTrippinHobbit, Kangaroo and SoUlFaThEr<br>contains 2 courses: kz_clocktower and bhop_minilongjumprace<br><br><br>kz_cookbook<br>Original map author unknown<br>contains 2 courses: kz_cookbook_hard and kz_bridge<br>notes: Only ported the hard course as having two courses would be impossible in multiplayer without making a complicated filter system and moved the end of kz_cookbook to skip the maze, didn't feel like a crouch hold maze after a 10+ minute kz_course was very fun or enjoyable, it's not removed and you can still get there with noclip.<br><br>bhop_cartooncastle_kzmod<br>Original map by solid<br>contains 1 course: bhop_cartooncastle<br>notes: This map already exists on CSS but it's an older/beta version, this is a longer and more updated version with the optional ability to enable the music via this stripper (https://0x0.st/obhb.txt)<br><br><br>"
+}

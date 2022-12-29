@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"credits.txt",
+					"xc_tones.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 331304,
+			"_nDownloadCount": 3908,
+			"_nFilesize": 10547870,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/331304",
+			"_sFile": "xc_tones.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1244587477
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 123816,
+	"_sName": "xc_tones",
+	"_sText": "This is a short climb map set in some Greek-inspired ruins.  The first play through of the map requires some exploration and the path may not be immediately obvious.  Some areas have multiple paths and shortcuts that require skill.  This map was made to be played without checkpoints and with the timer, though you can play it however you like.  There is a 3D skybox if you set \"r_3dsky 1\".  Soundscapes are used within the map as well as some looped ambient sounds (though the ambient_generics don't seem to play on non-LAN servers).\r\n\r\nAt the end, there is a tone matrix that can be set between pure notes or drum and bass.  Shoot the tiles within the border to activate tones and make some simple tunes.\r\n\r\nMaterials used can be found in credits.txt of the download archive."
+}

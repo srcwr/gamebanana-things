@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"read_me.txt",
+					"ze_naruto_v2_1a.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 300351,
+			"_nDownloadCount": 6905,
+			"_nFilesize": 76037150,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/300351",
+			"_sFile": "ze_naruto_v2_1a.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1346159139
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 130886,
+	"_sName": "ze_naruto",
+	"_sText": "map cs:s zm ZE_NARUTO by CriSsys\r\n==================\r\n\r\nLibrary/Author Information:\r\n------------------\r\n\r\nTitle:\r\nze_naruto\r\n\r\nDate:\r\n27 Aout, 2012\r\n\r\nAuthors:\r\nCriSsys\r\n\r\nSpecial thanks:\r\nFireWavezz for help Chinesse level design.\r\nHannibal [spa] for his particle.\r\nThanks to keamon and enviolinador for the time they lost\r\nto test the map and make it better :).\r\n\r\nBuild:\r\nv2.0.1\r\n\r\nEmail:\r\n.....\r\n\r\nWebsite:\r\nhttp://www.supreme-elite.fr\r\nrafuron.wordpress.com\r\n\r\nWritten In:\r\n.vmf/.bsp\r\n\r\n### Structure:\r\n\r\nMap who using particle, models, materials and personal sounds.\r\n\r\nDocumentation:\r\n===================\r\n\r\nDocumentation on VTFLib can be found here:\r\n\r\nhttp://gamebanana.com/csszm/maps/168427\r\n\r\nLibrary Changelog:\r\n========================\r\n v2.0.1\r\n  - Some little change, correct, add ect...\r\n  - Remove \"Zombie Master\" passage in normal mode\r\n  - Remove back to normal mode when you loose hard mode\r\n  - Remove afk teleport (too much teleport in old version)\r\n  - Fix bug in hard mode\r\n  - Fix glitch\r\n  - Add one new secret\r\n  - Add a surprise\r\n  - Add new textures/models\r\n  - Add new way\r\n  - Add one respawn for all zombie in Extrem Mode\r\n  - Change WarmUp Round\r\n  - Change normal mode\r\n  - Change Final Boss Skin\r\n  - Change Admin Room (access with noclip only)\r\n\r\n  v1.fix\r\n  - add button for admin (change level and restart round)\r\n  - correction sound extrem\r\n  - correction bug cover and other\r\n  - better fps for cover zone\r\n  - changing light on some points\r\n  - correction bug of wall when restarting new hard round\r\n\r\n  v1.8.0\r\n  - add radar overview\r\n  - add new sound\r\n  - correct bug\r\n  - correct multiplayer crash\r\n  - add new cover point\r\n  - change light\r\n  - add objective for zm in level hard\r\n  - add more time for the boss\r\n  - modify the end of extrem level\r\n  - add new thanks texture\r\n\r\n  v1.5.0\r\n  - extrem trigger end correction\r\n  - add protection against round who don't end\r\n  - fix black/pink texture\r\n\r\n  v1.3.0\r\n  -multiplayer bug correction\r\n\r\n  v1.2.0\r\n  -particle bug correction  \r\n\r\n  v1.1.0\r\n  - add map by\r\n  - add thanks\r\n  - add new end for extrem difficulty\r\n\r\n  v1.0.1\r\n  - finish test map\r\n  - bug correction\r\n  - others\r\n\r\n  v1.0\r\n  - final original build\r\n\r\n  v2.1 beta\r\n  - release thrid version (in beta).\r\n\r\n  v2.0.3 beta\r\n  - add console info\r\n  - making corlor correction\r\n  - add special boss/end for map levels\r\n  - finish other works\r\n\r\n  v2.0.3 beta\r\n  - add changing weather\r\n  - finish texture art\r\n  - finish map levels animation\r\n  - finish all i/o links\r\n\r\n  v2.0.2 beta\r\n  - finish add sound\r\n  - add map level sound\r\n  - finish modeling art\r\n  - add map levels model\r\n\r\n  v2.0.2 beta\r\n  - finished map levels\r\n\r\n  v2.0.1 beta\r\n  - add map levels\r\n\r\n  v2.0 beta\r\n  - beta second build.\r\n\r\n  v1.1 beta\r\n  - release second version (in beta).\r\n\r\n  v1.0.4 beta\r\n  - add gameplay models\r\n  - finished gameplay \r\n\r\n  v1.0.3 beta\r\n  - add gameplay\r\n  - add animations\r\n  - add trigger\r\n  - add sounds\r\n\r\n  v1.0.2 beta\r\n  - fixing light bug\r\n  - fixing naruto model bug\r\n  - add areaportals\r\n  - second optimisation\r\n\r\n  v1.0.1 beta\r\n  - add naruto\r\n  - add light\r\n  - first optimisation\r\n\r\n  v1.0 beta\r\n  - beta original build.\r\n\r\n  v1.1 alpha\r\n  - release first version (in alapha).\r\n\r\n  v1.0.3 alpha\r\n  - add 3D skybox\r\n  - add sound\r\n\r\n  v1.0.2 alpha\r\n  - finished brush art\r\n  - finished displacement art\r\n  - adding models\r\n  - adding custom materials\r\n\r\n  v1.0.1 alpha\r\n  - brushs art\r\n  - displacements art\r\n  - adding first models\r\n\r\n  v1.0 alpha\r\n  - Original build.\r\n\r\nProgram Copyright-Permissions:\r\n=====================================\r\n\r\nsee the Copyright-Permissions on the map's page on game banana.\r\nall rights reserved."
+}

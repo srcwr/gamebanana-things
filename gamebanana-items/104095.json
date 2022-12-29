@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_stadium.bsp",
+					"de_stadium.nav",
+					"de_stadium.txt"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 332980,
+			"_nDownloadCount": 3081,
+			"_nFilesize": 8927588,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/332980",
+			"_sFile": "de_stadium_b1.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1238634365
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 104095,
+	"_sName": "de_stadium",
+	"_sText": "<center><h3>General</h3></center>\r\n\r\nI needed a project, so I chose to remake one of my favorite maps from Counter-Strike: Condition Zero.\r\n\r\n\r\n This took 3-4 weeks to get into it's first Beta stage. It's far from being complete, as there are still some texture, lighting, or game play tweaks that need to be done.\r\n\r\n\r\n I went all out with this project. I used a couple custom textures, fine-tuned the .nav, and even made a custom radar.\r\n<br>\r\n<br>\r\n<center><h3>Gameplay</h3></center>\r\n\r\n I've tested the map so far with bots, and it seems to play like the original. There are still some issues, such as the bots will not use the vending machines by bombsite A to reach it, even though I've made the area myself in the .nav. They tend to use the staircase which takes longer, or go straight to bombsite B, which is where most of the firefights occur. Hopefully in later versions I can address this so the map doesn't get boring."
+}

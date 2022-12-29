@@ -1,0 +1,31 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrike": {
+						"maps": [
+							"cs_prison_rescue_REB01.bsp"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 350174,
+			"_nDownloadCount": 1293,
+			"_nFilesize": 3823754,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/350174",
+			"_sFile": "prison_rescue_reb01_2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1184746995
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 100362,
+	"_sName": "cs_prison_rescue_reb01",
+	"_sText": "This is the second version of a map i've made it looks a lot better even tho this version is in the dark ( will make a HDR version but need to find out how to fix some things first) performance has also increased a lot has a lot more props and decails have also rebuilt half of the jail and the CT spawn ps performance comparrison between this version and the old one \r\n\r\nreb01 -1280x1024 all on high/full 4x AA 16x AF\r\nMin 26\r\nAvg 44.017\r\nMax 87\r\norriginal -1280x1024 all on high/full 4x AA 16x AF\r\nMin 14\r\nAvg 18.583\r\nMax 27\r\nreb01 -1280x1024 all on low/off none AA trilinear AF\r\nMin 45\r\nAvg 79.200\r\nmax 159\r\norriginal -1280x1024 all on low/off none AA trilinear AF\r\nMin 34\r\nAvg 56.450\r\nMax 91\r\n\r\nbenchmarks where taken with a geforce 6800XT\r\n\r\nif u find any bugs or have some suggestions u can just post them here or send a e-mail to masia.bugreport@gmail.com\r\n\r\n-anubis"
+}

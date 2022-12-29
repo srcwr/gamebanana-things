@@ -1,0 +1,35 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"achievement_1.bsp",
+					"achievement_1.nav",
+					"achievement_defuse_1.bsp",
+					"achievement_defuse_1.nav",
+					"achievement_hostage_1.bsp",
+					"achievement_hostage_1.nav",
+					"achievement_win_1.bsp",
+					"achievement_win_1.nav"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 321737,
+			"_nDownloadCount": 3378,
+			"_nFilesize": 53220,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/321737",
+			"_sFile": "achievement_krisis_pack.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1278003915
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 130067,
+	"_sName": "achievement_krisis_pack",
+	"_sText": "-achievement map\r\n     kill 30 enemys within 5 seconds!\r\n     kill 30 enemys with a single HE grenade / c4!\r\n     get kills with every gun!\r\n    etc.\r\n\r\n   hint: You can't lose as t (if u aren't that silly).\r\n         Cts can't get the guns.\r\n         Add as mutch bots as possible!\r\n\r\n-hostage\r\n     rescue 50 hostages in a single round!\r\n\r\n   hint: Don't add bots!\r\n\r\n-defuse\r\n     defuse the bomb in 10 seconds!\r\n\r\n   hint: bot_add_t\r\n\r\n-win\r\n     win rounds and gain money for doing nothing!!\r\n\r\n  hint: do not join t\r\ngo afk and do something else\r\n\r\nTipps:\r\n\r\n\"bind x mp_restartgame 1\" and press x afer each round for faster roundwins\r\nuse mods like unlimited ammo; set health; deathmatch;etc\r\n\r\nRecommanded commands:\r\n\r\nmp_limitteams 0\r\nmp_autoteambalance 0\r\nmp_freezetime 0\r\nbot_mimic 1\r\nbot_add_ct\r\nbot_add_ct\r\nbot_add_ct\r\nbot_add_ct\r\nbot_add_ct\r\n..."
+}

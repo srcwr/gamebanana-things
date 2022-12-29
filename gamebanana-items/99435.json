@@ -1,0 +1,30 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"csde_CarGarage.bsp",
+					"csde_CarGarage.nav",
+					"csde_CarGarage.vmf",
+					"readme.txt"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 345302,
+			"_nDownloadCount": 3320,
+			"_nFilesize": 2795239,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/345302",
+			"_sFile": "csde_cargarage.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1199982220
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 99435,
+	"_sName": "csde_cargarage",
+	"_sText": "TITLE: Cargarage Map\r\nAUTHOR: Olivier Doorenbos\r\nUNZIPPED FILESIZE: 8.0 MB\r\nDATE RELEASED: October 2006\r\nCREDITS: Map and navigation mesh by Olivier Doorenbos.\r\n\r\n\r\nMAP DESCRIPTION:\r\nA detailed compact multi-level car park with unique open plan. A bit like a large FY map, its good for fast action rounds as well as slower tactical/camping gameplay. Hostage &amp; Bomb mode combined! (update of \"de_cargarage_oli4\") Features:\r\n\t\t- Advanced 4 level ELEVATOR !!!\r\n\t\t- LIVE CCTV camera &amp; monitor\r\n\t\t- Four hostages &amp; a bomb site\r\n\t\t- Flooded bottom floor with fish &amp; oil drums - Very dark\r\n\t\t- Button to run lethal electricity through flooded level\r\n\t\t- Buttons to control lights on floors\r\n\t\t- Ambient &amp; damage activated sounds (break the toilets)\r\n\t\t- Optimized visleafs for better frame rate\r\n\t\t- Good Bot nav mesh\r\n\t\t- vmf included!\r\n\r\nIMPROVEMENTS:\r\nThis is an update of \"de_cargarage_oli4\" with hostage mode added. The elevator buttons have been fixed! Stairwells now have detailed handrails. Static shadows improvements. CCTV camera can be shot. Fade distances set for props. Elevator doors open instantly on request now. Security room has semi bullet proof windows. Hope you enjoy it!\r\n\r\nTHE PLOT:\r\nAn unused multi-storage car garage in a deprived district appears to be the base of operation of a heavily armed gang who abducted four men a few days ago. An armed force is beeing airdropped on the premises to search it for the hostages and neutralise the gang if necessary. The hostages can be extracted by the helicopter or the conventional garage entrances.\r\n\r\nNOTES:\r\nThis is the final improved version of my first map. It took just under a month to make the map but that was because I was also learning how to do everything in hammer editor. As there are more than enough normal CSS maps on the internet, I tried to do something a bit different here - an unusual layout etc. I may not be better than all the most skilled mappers out there, but I can at least do something different! I will try to take that approach to the extreme with my next map de_ropax.\r\n\r\nPrivileges:\r\nYou can distribute this map WITH THIS README in any way you want without asking.\r\nYou can use the VMF for anything you want as long as you give me part credit."
+}

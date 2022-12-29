@@ -1,0 +1,47 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"bhop_monster_jam_xc.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 645516,
+			"_nDownloadCount": 51,
+			"_nFilesize": 36574111,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/645516",
+			"_sFile": "bhop_monster_jam_xc_07843.zip",
+			"_sMd5Checksum": "9084c39fea19675c2b92e2bf9ffe52be",
+			"_tsDateAdded": 1630038745
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"bhop_monster_jam_xc.cfg"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 645571,
+			"_nDownloadCount": 18,
+			"_nFilesize": 215,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "Use this config with the stripper plugin to remove doors (at your discretion.)",
+			"_sDownloadUrl": "https://gamebanana.com/dl/645571",
+			"_sFile": "bhop_monster_jam_xccfg.zip",
+			"_sMd5Checksum": "4116eb4f88b53775a5b72c151d3917e1",
+			"_tsDateAdded": 1630051285
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 317260,
+	"_sName": "bhop_monster_jam_xc",
+	"_sText": "All credits go to Aoki. This is an edited version of his map bhop_monster_jam with the bhop platforms removed, forcing you to use the xc (climb) sections."
+}

@@ -1,0 +1,924 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "easter egg steps.txt",
+					"maps": [
+						"mg_underwater_v1.bsp",
+						"mg_underwater_v1.nav"
+					],
+					"materials": {
+						"mikeshinodarap": [
+							"firma_mapas.vmt",
+							"firma_mapas.vtf",
+							"firma_mapas_doblada.vmt",
+							"firma_mapas_doblada.vtf"
+						],
+						"mikeshinodarap1": [
+							"Linkin Park Faint.vmt",
+							"Linkin Park Faint.vtf",
+							"Linkin Park HYBRID THEORY.vmt",
+							"Linkin Park HYBRID THEORY.vtf",
+							"MAP BY mikeshinodarap.vmt",
+							"MAP BY mikeshinodarap.vtf",
+							"VALVe Publicity.vmt",
+							"VALVe Publicity.vtf",
+							"ms f.vmt",
+							"ms f.vtf",
+							"ms ht.vmt",
+							"ms ht.vtf",
+							"ms mbmsr.vmt",
+							"ms mbmsr.vtf",
+							"ms vp.vmt",
+							"ms vp.vtf"
+						],
+						"models": {
+							"invex": {
+								"pets": {
+									"ugandan_knuckles": [
+										"commandah.vmt",
+										"commandah.vtf",
+										"eyes.vmt",
+										"eyes.vtf",
+										"knuckles.vmt",
+										"knuckles.vtf",
+										"sanic.vmt",
+										"sanic.vtf"
+									]
+								}
+							},
+							"player": {
+								"slow": {
+									"50cent": [
+										"slow_arms.vmt",
+										"slow_blingbling.vmt",
+										"slow_blingbling_belt.vmt",
+										"slow_blingbling_belt_phong.vmt",
+										"slow_body.vmt",
+										"slow_body.vtf",
+										"slow_body_bump.vtf",
+										"slow_bullets.vmt",
+										"slow_cap.vmt",
+										"slow_clips.vmt",
+										"slow_eyes.vmt",
+										"slow_eyes.vtf",
+										"slow_eyes_bump.vtf",
+										"slow_eyes_phong.vmt",
+										"slow_head.vmt",
+										"slow_head.vtf",
+										"slow_head_bump.vtf",
+										"slow_nades.vmt",
+										"slow_nades_metal.vmt",
+										"slow_phong.vtf",
+										"slow_watch.vmt",
+										"slow_watch_glass.vmt",
+										"slow_watch_glass.vtf"
+									],
+									"amberlyn": {
+										"lotr": {
+											"aragorn": [
+												"slow_armor.vmt",
+												"slow_armor.vtf",
+												"slow_armor_bump.vtf",
+												"slow_cape.vmt",
+												"slow_cape.vtf",
+												"slow_chain_skirt.vmt",
+												"slow_clothes.vmt",
+												"slow_clothes.vtf",
+												"slow_clothes_bump.vtf",
+												"slow_eyes.vmt",
+												"slow_face.vmt",
+												"slow_face.vtf",
+												"slow_face_bump.vtf",
+												"slow_hair.vmt",
+												"slow_hair.vtf",
+												"slow_hair_2.vmt",
+												"slow_hair_bump.vtf",
+												"slow_ring.vmt",
+												"slow_weapon.vmt",
+												"slow_weapon.vtf",
+												"slow_weapon_bump.vtf"
+											]
+										}
+									},
+									"arkham_asylum": {
+										"harley_quinn": [
+											"slow_bangle.vmt",
+											"slow_body.vmt",
+											"slow_body.vtf",
+											"slow_body_bump.vtf",
+											"slow_body_exp.vtf",
+											"slow_card.vmt",
+											"slow_eyes.vmt",
+											"slow_hair.vmt",
+											"slow_hair.vtf",
+											"slow_hair_bump.vtf",
+											"slow_hair_fix.vmt",
+											"slow_lashes.vmt",
+											"slow_lashes.vtf",
+											"slow_limb.vmt",
+											"slow_limb.vtf",
+											"slow_limb_bump.vtf",
+											"slow_limb_exp.vtf",
+											"slow_spikes.vmt"
+										]
+									},
+									"ayumi": [
+										"slow_body.vmt",
+										"slow_body.vmt.bz2",
+										"slow_body.vtf",
+										"slow_body.vtf.bz2",
+										"slow_chain_red.vmt",
+										"slow_chain_red.vmt.bz2",
+										"slow_chain_white.vmt",
+										"slow_chain_white.vmt.bz2",
+										"slow_eye.vmt",
+										"slow_eye.vmt.bz2",
+										"slow_eye.vtf",
+										"slow_eye.vtf.bz2",
+										"slow_eyebrow.vmt",
+										"slow_eyebrow.vmt.bz2",
+										"slow_eyebrow.vtf",
+										"slow_eyebrow.vtf.bz2",
+										"slow_face.vmt",
+										"slow_face.vmt.bz2",
+										"slow_face.vtf",
+										"slow_face.vtf.bz2",
+										"slow_fingernails.vmt",
+										"slow_fingernails.vmt.bz2",
+										"slow_hairs.vmt",
+										"slow_hairs.vmt.bz2",
+										"slow_hand_white.vmt",
+										"slow_hand_white.vmt.bz2",
+										"slow_hands.vmt",
+										"slow_hands.vmt.bz2",
+										"slow_hands.vtf",
+										"slow_hands.vtf.bz2",
+										"slow_metal_belt.vmt",
+										"slow_metal_belt.vmt.bz2",
+										"slow_metal_blue.vmt",
+										"slow_metal_blue.vmt.bz2",
+										"slow_metal_red.vmt",
+										"slow_metal_red.vmt.bz2",
+										"slow_spec_mask.vtf",
+										"slow_xblades.vmt",
+										"slow_xblades.vmt.bz2",
+										"slow_xblades.vtf",
+										"slow_xblades.vtf.bz2",
+										"slow_xblades_blades.vmt",
+										"slow_xblades_blades.vmt.bz2",
+										"slow_xblades_cubemap.vtf",
+										"slow_xblades_grip.vmt",
+										"slow_xblades_grip.vmt.bz2"
+									],
+									"banana_joe": [
+										"slow_body.vmt",
+										"slow_body.vtf",
+										"slow_body_bump.vtf",
+										"slow_eyes.vmt",
+										"slow_eyes.vtf",
+										"slow_limbs.vmt",
+										"slow_limbs.vtf",
+										"slow_limbs_bump.vtf",
+										"slow_mouth.vmt",
+										"slow_mouth.vtf"
+									],
+									"fat_nurse": [
+										"nurse_body.vmt",
+										"nurse_body.vtf",
+										"nurse_body_normal.vtf",
+										"nurse_head.vmt",
+										"nurse_head.vtf",
+										"nurse_head_normal.vtf"
+									],
+									"flamingo": [
+										"slow_flamingo.vmt",
+										"slow_flamingo.vtf",
+										"slow_flamingo_arme.vmt",
+										"slow_flamingo_arme.vtf",
+										"slow_flamingo_arme_bump.vtf",
+										"slow_flamingo_bump.vtf"
+									],
+									"gaycat": [
+										"yellowcat_map.vmt",
+										"yellowcat_map.vmt.bz2",
+										"yellowcat_map.vtf",
+										"yellowcat_map.vtf.bz2"
+									],
+									"gaycat_v2": [
+										"yellowcat_map.vmt",
+										"yellowcat_map.vtf",
+										"yellowcat_map_normal.vtf"
+									],
+									"hitler": [
+										"breen_face.vmt",
+										"breen_face.vtf",
+										"breen_face.vtf.bz2",
+										"breen_sheet.vmt",
+										"breen_sheet.vtf",
+										"breen_sheet.vtf.bz2",
+										"breen_sheet_normal.vtf",
+										"breen_sheet_normal.vtf.bz2",
+										"eyeball_l.vmt",
+										"eyeball_l.vtf",
+										"eyeball_l.vtf.bz2",
+										"eyeball_r.vmt",
+										"eyeball_r.vtf",
+										"eyeball_r.vtf.bz2",
+										"glint.vmt",
+										"mouth.vmt"
+									],
+									"homer_v2": [
+										"eye01.vmt",
+										"eye01.vtf",
+										"homer.vmt",
+										"homer.vtf",
+										"homer_e.vmt",
+										"homer_slow.vtf",
+										"mouththree.vmt",
+										"mouththree.vtf",
+										"mouthtwo.vmt",
+										"mouthtwo.vtf"
+									],
+									"jamis": {
+										"kingpin": [
+											"slow_body.vmt",
+											"slow_body.vtf",
+											"slow_body_bump.vtf",
+											"slow_head.vmt",
+											"slow_head.vtf",
+											"slow_head_bump.vtf"
+										],
+										"mkvsdcu": {
+											"batman": [
+												"slow_batman.vmt",
+												"slow_batman.vtf",
+												"slow_batman_belt.vmt",
+												"slow_batman_blades.vmt",
+												"slow_batman_bump.vtf",
+												"slow_batman_exp.vtf",
+												"slow_batman_eyes.vmt",
+												"slow_batman_latex.vmt",
+												"slow_batman_pockets.vmt",
+												"slow_batman_skin.vmt"
+											],
+											"catwoman": [
+												"slow_catwoman.vmt",
+												"slow_catwoman.vmt.bz2",
+												"slow_catwoman.vtf",
+												"slow_catwoman.vtf.bz2",
+												"slow_catwoman_bump.vtf",
+												"slow_catwoman_bump.vtf.bz2",
+												"slow_catwoman_dark.vtf",
+												"slow_catwoman_dark.vtf.bz2",
+												"slow_catwoman_dark_glasses.vmt",
+												"slow_catwoman_dark_glasses.vmt.bz2",
+												"slow_catwoman_dark_leather.vmt",
+												"slow_catwoman_dark_leather.vmt.bz2",
+												"slow_catwoman_exp.vtf",
+												"slow_catwoman_eyes.vmt",
+												"slow_catwoman_eyes.vmt.bz2",
+												"slow_catwoman_eyes.vtf",
+												"slow_catwoman_eyes.vtf.bz2",
+												"slow_catwoman_glass.vmt",
+												"slow_catwoman_glass.vmt.bz2",
+												"slow_catwoman_glass.vtf",
+												"slow_catwoman_glass.vtf.bz2",
+												"slow_catwoman_metal.vmt",
+												"slow_catwoman_metal.vmt.bz2",
+												"slow_catwoman_mixed.vmt",
+												"slow_catwoman_mixed.vmt.bz2",
+												"slow_catwoman_mixed_dark.vmt",
+												"slow_catwoman_mixed_dark.vmt.bz2",
+												"slow_catwoman_whip.vmt",
+												"slow_catwoman_whip.vmt.bz2"
+											],
+											"dark_kahn": [
+												"slow_dark_kahn.vmt",
+												"slow_dark_kahn.vtf",
+												"slow_dark_kahn_bump.vtf",
+												"slow_dark_kahn_mask.vmt"
+											],
+											"flash": {
+												"v2": [
+													"slow_flash.vmt",
+													"slow_flash.vtf",
+													"slow_flash_bump.vtf",
+													"slow_flash_eyes.vmt",
+													"slow_flash_metal.vmt",
+													"slow_flash_mouth.vmt",
+													"slow_flash_skin.vmt",
+													"slow_flash_sole.vmt",
+													"slow_flash_white.vmt",
+													"slow_flash_yellow.vmt"
+												]
+											},
+											"green_lantern": {
+												"v2": [
+													"slow_green_lantern.vmt",
+													"slow_green_lantern.vtf",
+													"slow_green_lantern_bump.vtf",
+													"slow_green_lantern_carbon.vmt",
+													"slow_green_lantern_eyes.vmt",
+													"slow_green_lantern_head.vmt",
+													"slow_green_lantern_mask.vmt",
+													"slow_green_lantern_metal.vmt",
+													"slow_green_lantern_ring.vmt",
+													"slow_green_lantern_ring_2.vmt",
+													"slow_green_lantern_sole.vmt",
+													"slow_green_lantern_white.vmt"
+												]
+											},
+											"joker": {
+												"v2": [
+													"slow_joker.vmt",
+													"slow_joker.vtf",
+													"slow_joker_bump.vtf",
+													"slow_joker_buttons.vmt",
+													"slow_joker_clothes.vmt",
+													"slow_joker_clothes_fx.vmt",
+													"slow_joker_clothes_green.vmt",
+													"slow_joker_eyes.vmt",
+													"slow_joker_flower.vmt",
+													"slow_joker_hands.vmt",
+													"slow_joker_head.vmt",
+													"slow_joker_head.vtf",
+													"slow_joker_head_bump.vtf",
+													"slow_joker_shirt.vmt",
+													"slow_joker_shoes.vmt",
+													"slow_joker_socks.vmt"
+												]
+											},
+											"superman": {
+												"v2": [
+													"slow_superman.vmt",
+													"slow_superman.vtf",
+													"slow_superman_belt.vmt",
+													"slow_superman_belt_metal.vmt",
+													"slow_superman_boots.vmt",
+													"slow_superman_bump.vtf",
+													"slow_superman_cape.vmt",
+													"slow_superman_cape.vtf",
+													"slow_superman_cape_bump.vtf",
+													"slow_superman_eyes.vmt",
+													"slow_superman_sign.vmt",
+													"slow_superman_sign_cape.vmt",
+													"slow_superman_sign_cape_metal.vmt",
+													"slow_superman_sign_metal.vmt",
+													"slow_superman_skin.vmt",
+													"slow_superman_suit.vmt"
+												]
+											}
+										},
+										"wolverine": [
+											"slow_1.vmt",
+											"slow_1.vtf",
+											"slow_1_bump.vtf",
+											"slow_2.vmt",
+											"slow_2.vtf",
+											"slow_2_bump.vtf",
+											"slow_blades.vmt",
+											"slow_blades.vtf"
+										]
+									},
+									"jknies": {
+										"bloodz": [
+											"slow_1.vmt",
+											"slow_1.vtf",
+											"slow_1_bump.vtf",
+											"slow_2.vmt",
+											"slow_2.vtf",
+											"slow_2_bump.vtf",
+											"slow_3.vmt",
+											"slow_3.vtf",
+											"slow_3_bump.vtf",
+											"slow_mask.vmt",
+											"slow_mask.vtf",
+											"slow_mask_bump.vtf",
+											"slow_soldierx.vmt",
+											"slow_soldierx.vtf",
+											"slow_soldierx_2.vmt",
+											"slow_soldierx_2.vtf",
+											"slow_soldierx_bump.vtf",
+											"slow_soldierx_logo.vmt",
+											"slow_soldierx_logo.vtf",
+											"slow_soldierx_logo_2.vmt",
+											"slow_soldierx_logo_bump.vtf"
+										]
+									},
+									"l4d": {
+										"hot_ass_zombie": [
+											"slow_head_bump.vtf",
+											"slow_legs_bump.vtf"
+										],
+										"hot_ass_zombie_gay_edition": [
+											"slow_body.vmt",
+											"slow_body.vtf",
+											"slow_body_bump.vtf",
+											"slow_dildo.vmt",
+											"slow_dildo.vtf",
+											"slow_head.vmt",
+											"slow_head.vtf",
+											"slow_legs.vmt",
+											"slow_legs.vtf"
+										]
+									},
+									"luigi_gxy": [
+										"slow_body.vmt",
+										"slow_body.vtf",
+										"slow_cap.vmt",
+										"slow_cap.vtf",
+										"slow_eye.vmt",
+										"slow_eye.vtf",
+										"slow_eyelid.vmt",
+										"slow_eyelid.vtf",
+										"slow_face.vmt",
+										"slow_face.vtf",
+										"slow_fake_logo.vmt",
+										"slow_hair.vmt",
+										"slow_hair.vtf",
+										"slow_hand.vmt",
+										"slow_hand.vtf"
+									],
+									"madcow_v2": [
+										"mad cow.vmt",
+										"mad cow.vmt.bz2",
+										"mad cow.vtf",
+										"mad cow.vtf.bz2",
+										"slow_bump.vtf",
+										"slow_bump.vtf.bz2"
+									],
+									"mario_gxy": [
+										"slow_body.vmt",
+										"slow_body.vtf",
+										"slow_cap.vmt",
+										"slow_cap.vtf",
+										"slow_eyelid.vmt",
+										"slow_eyelid.vtf",
+										"slow_face.vmt",
+										"slow_face.vtf",
+										"slow_fake_logo.vmt",
+										"slow_hair.vmt",
+										"slow_hair.vtf",
+										"slow_hand.vmt",
+										"slow_hand.vtf",
+										"slow_shoe.vmt",
+										"slow_shoe.vtf"
+									],
+									"mitch": {
+										"ichigo_v2": [
+											"slow_body.vmt",
+											"slow_body.vmt.bz2",
+											"slow_body.vtf",
+											"slow_body.vtf.bz2",
+											"slow_body_bump.vtf",
+											"slow_body_bump.vtf.bz2",
+											"slow_head.vmt",
+											"slow_head.vmt.bz2",
+											"slow_head.vtf",
+											"slow_head.vtf.bz2",
+											"slow_head_bump.vtf",
+											"slow_head_bump.vtf.bz2",
+											"slow_sash.vmt",
+											"slow_sash.vmt.bz2",
+											"slow_sash.vtf",
+											"slow_sash.vtf.bz2",
+											"slow_sash_bump.vtf",
+											"slow_sash_bump.vtf.bz2",
+											"slow_zangetsu.vmt",
+											"slow_zangetsu.vmt.bz2",
+											"slow_zangetsu.vtf",
+											"slow_zangetsu.vtf.bz2",
+											"slow_zangetsu_bump.vtf",
+											"slow_zangetsu_bump.vtf.bz2"
+										]
+									},
+									"penis_man": [
+										"slow_balls.vmt",
+										"slow_balls.vtf",
+										"slow_balls_bump.vtf",
+										"slow_dildo.vmt",
+										"slow_dildo.vtf",
+										"slow_dildo_bump.vtf",
+										"t_guerilla.vmt"
+									],
+									"polizei": [
+										"ct_gsg9.vmt",
+										"ct_gsg9.vmt.bz2",
+										"ct_gsg9.vtf",
+										"ct_gsg9.vtf.bz2",
+										"ct_gsg9_glass.vmt",
+										"ct_gsg9_glass.vmt.bz2",
+										"ct_gsg9_glass.vtf",
+										"ct_gsg9_glass.vtf.bz2",
+										"ct_gsg9_glass_spec.vtf",
+										"ct_gsg9_glass_spec.vtf.bz2"
+									],
+									"robocop_chrome": [
+										"slow_1.vmt",
+										"slow_1.vtf",
+										"slow_1_bump.vtf",
+										"slow_1_phong.vmt",
+										"slow_2.vmt",
+										"slow_2.vtf",
+										"slow_2_bump.vtf",
+										"slow_2_phong.vmt",
+										"slow_3.vmt",
+										"slow_3_bump.vtf",
+										"slow_3_phong.vmt",
+										"slow_4.vmt",
+										"slow_4_bump.vtf",
+										"slow_5.vmt",
+										"slow_5.vtf",
+										"slow_5_bump.vtf",
+										"slow_6.vmt",
+										"slow_6.vtf",
+										"slow_knightrider_scanner.vtf",
+										"slow_robocop_visir.vmt"
+									],
+									"stickman": [
+										"slow_strichmaennchen.vmt",
+										"slow_strichmaennchen.vmt.bz2",
+										"slow_strichmaennchen.vtf",
+										"slow_strichmaennchen.vtf.bz2",
+										"slow_strichmaennchen_gesicht.vmt",
+										"slow_strichmaennchen_gesicht.vmt.bz2",
+										"slow_strichmaennchen_gesicht.vtf",
+										"slow_strichmaennchen_gesicht.vtf.bz2",
+										"slow_strichmaennchen_hinten.vmt",
+										"slow_strichmaennchen_hinten.vmt.bz2",
+										"slow_strichmaennchen_hinten.vtf",
+										"slow_strichmaennchen_hinten.vtf.bz2"
+									]
+								},
+								"techknow": {
+									"sonic": [
+										"sonic.vmt",
+										"sonic.vtf",
+										"sonic_n.vtf"
+									]
+								}
+							}
+						}
+					},
+					"models": {
+						"invex": {
+							"pets": {
+								"ugandan_knuckles": [
+									"IDST1.smd",
+									"`Íÿÿ§v",
+									"`ÍÿÿŸv",
+									"ugandan_commandah.dx90.vtx",
+									"ugandan_commandah.dx90.vtx.bz2",
+									"ugandan_commandah.mdl",
+									"ugandan_commandah.mdl.bz2",
+									"ugandan_commandah.vvd",
+									"ugandan_commandah.vvd.bz2",
+									"ugandan_knuckles.dx90.vtx",
+									"ugandan_knuckles.dx90.vtx.bz2",
+									"ugandan_knuckles.mdl",
+									"ugandan_knuckles.mdl.bz2",
+									"ugandan_knuckles.vvd",
+									"ugandan_knuckles.vvd.bz2",
+									"ugandan_sanic.dx90.vtx",
+									"ugandan_sanic.dx90.vtx.bz2",
+									"ugandan_sanic.mdl",
+									"ugandan_sanic.mdl.bz2",
+									"ugandan_sanic.vvd",
+									"ugandan_sanic.vvd.bz2"
+								]
+							}
+						},
+						"player": {
+							"0": "blank.txt",
+							"slow": {
+								"50cent": [
+									"slow.dx80.vtx",
+									"slow.dx90.vtx",
+									"slow.mdl",
+									"slow.phy",
+									"slow.sw.vtx",
+									"slow.vvd"
+								],
+								"amberlyn": {
+									"lotr": {
+										"aragorn": [
+											"slow.dx80.vtx",
+											"slow.dx90.vtx",
+											"slow.mdl",
+											"slow.phy",
+											"slow.sw.vtx",
+											"slow.vvd"
+										]
+									}
+								},
+								"arkham_asylum": {
+									"harley_quinn": [
+										"slow.dx80.vtx",
+										"slow.dx90.vtx",
+										"slow.mdl",
+										"slow.phy",
+										"slow.sw.vtx",
+										"slow.vvd"
+									]
+								},
+								"ayumi": [
+									"slow.dx80.vtx",
+									"slow.dx90.vtx",
+									"slow.mdl",
+									"slow.phy",
+									"slow.sw.vtx",
+									"slow.vvd"
+								],
+								"banana_joe": [
+									"slow.dx80.vtx",
+									"slow.dx90.vtx",
+									"slow.mdl",
+									"slow.phy",
+									"slow.sw.vtx",
+									"slow.vvd"
+								],
+								"fat_nurse": [
+									"fat_nurse.dx80.vtx",
+									"fat_nurse.dx90.vtx",
+									"fat_nurse.mdl",
+									"fat_nurse.phy",
+									"fat_nurse.sw.vtx",
+									"fat_nurse.vvd"
+								],
+								"flamingo": [
+									"flamingo.dx80.vtx",
+									"flamingo.dx90.vtx",
+									"flamingo.mdl",
+									"flamingo.phy",
+									"flamingo.sw.vtx",
+									"flamingo.vvd"
+								],
+								"gaycat": [
+									"gaycat.dx80.vtx",
+									"gaycat.dx90.vtx",
+									"gaycat.mdl",
+									"gaycat.sw.vtx",
+									"gaycat.vvd"
+								],
+								"gaycat_v2": [
+									"gaycat_v2.dx80.vtx",
+									"gaycat_v2.dx90.vtx",
+									"gaycat_v2.mdl",
+									"gaycat_v2.phy",
+									"gaycat_v2.sw.vtx",
+									"gaycat_v2.vvd"
+								],
+								"hitler": [
+									"hitler.dx80.vtx",
+									"hitler.dx90.vtx",
+									"hitler.mdl",
+									"hitler.phy",
+									"hitler.sw.vtx",
+									"hitler.vvd",
+									"hitler.vvd.bz2"
+								],
+								"homer_v2": [
+									"sheiks_homer.dx80.vtx",
+									"sheiks_homer.dx90.vtx",
+									"sheiks_homer.mdl",
+									"sheiks_homer.phy",
+									"sheiks_homer.sw.vtx",
+									"sheiks_homer.vvd"
+								],
+								"jamis": {
+									"kingpin": [
+										"slow_v2.dx80.vtx",
+										"slow_v2.dx90.vtx",
+										"slow_v2.mdl",
+										"slow_v2.phy",
+										"slow_v2.sw.vtx",
+										"slow_v2.vvd"
+									],
+									"mkvsdcu": {
+										"batman": [
+											"slow_pub_v2.dx80.vtx",
+											"slow_pub_v2.dx90.vtx",
+											"slow_pub_v2.mdl",
+											"slow_pub_v2.phy",
+											"slow_pub_v2.sw.vtx",
+											"slow_pub_v2.vvd"
+										],
+										"catwoman": [
+											"slow_dark_pub_v2.dx80.vtx",
+											"slow_dark_pub_v2.dx90.vtx",
+											"slow_dark_pub_v2.mdl",
+											"slow_dark_pub_v2.phy",
+											"slow_dark_pub_v2.sw.vtx",
+											"slow_dark_pub_v2.vvd",
+											"slow_pub_v2.dx80.vtx",
+											"slow_pub_v2.dx90.vtx",
+											"slow_pub_v2.mdl",
+											"slow_pub_v2.phy",
+											"slow_pub_v2.sw.vtx",
+											"slow_pub_v2.vvd"
+										],
+										"dark_kahn": [
+											"slow_pub.dx80.vtx",
+											"slow_pub.dx90.vtx",
+											"slow_pub.mdl",
+											"slow_pub.phy",
+											"slow_pub.sw.vtx",
+											"slow_pub.vvd"
+										],
+										"flash": [
+											"slow_pub.dx80.vtx",
+											"slow_pub.dx90.vtx",
+											"slow_pub.mdl",
+											"slow_pub.phy",
+											"slow_pub.sw.vtx",
+											"slow_pub.vvd"
+										],
+										"green_lantern": [
+											"slow_pub.dx80.vtx",
+											"slow_pub.dx90.vtx",
+											"slow_pub.mdl",
+											"slow_pub.phy",
+											"slow_pub.sw.vtx",
+											"slow_pub.vvd"
+										],
+										"joker": [
+											"slow_pub.dx80.vtx",
+											"slow_pub.dx90.vtx",
+											"slow_pub.mdl",
+											"slow_pub.phy",
+											"slow_pub.sw.vtx",
+											"slow_pub.vvd"
+										],
+										"superman": [
+											"slow_pub.dx80.vtx",
+											"slow_pub.dx90.vtx",
+											"slow_pub.mdl",
+											"slow_pub.phy",
+											"slow_pub.sw.vtx",
+											"slow_pub.vvd"
+										]
+									},
+									"wolverine": [
+										"slow.dx80.vtx",
+										"slow.dx90.vtx",
+										"slow.mdl",
+										"slow.phy",
+										"slow.sw.vtx",
+										"slow.vvd"
+									]
+								},
+								"jknies": {
+									"bloodz": [
+										"slow_1.dx80.vtx",
+										"slow_1.dx90.vtx",
+										"slow_1.mdl",
+										"slow_1.phy",
+										"slow_1.sw.vtx",
+										"slow_1.vvd"
+									]
+								},
+								"l4d": {
+									"hot_ass_zombie_gay_edition": [
+										"slow.dx80.vtx",
+										"slow.dx90.vtx",
+										"slow.mdl",
+										"slow.phy",
+										"slow.sw.vtx",
+										"slow.vvd"
+									]
+								},
+								"luigi_gxy": [
+									"slow.dx80.vtx",
+									"slow.dx90.vtx",
+									"slow.mdl",
+									"slow.phy",
+									"slow.sw.vtx",
+									"slow.vvd"
+								],
+								"madcow_v2": [
+									"madcow.dx80.vtx",
+									"madcow.dx80.vtx.bz2",
+									"madcow.dx90.vtx",
+									"madcow.dx90.vtx.bz2",
+									"madcow.mdl",
+									"madcow.mdl.bz2",
+									"madcow.phy",
+									"madcow.phy.bz2",
+									"madcow.sw.vtx",
+									"madcow.sw.vtx.bz2",
+									"madcow.vvd",
+									"madcow.vvd.bz2"
+								],
+								"mario_gxy": [
+									"slow.dx80.vtx",
+									"slow.dx90.vtx",
+									"slow.mdl",
+									"slow.phy",
+									"slow.sw.vtx",
+									"slow.vvd"
+								],
+								"mitch": {
+									"ichigo": [
+										"slow_v2.dx80.vtx",
+										"slow_v2.dx80.vtx.bz2",
+										"slow_v2.dx90.vtx",
+										"slow_v2.dx90.vtx.bz2",
+										"slow_v2.mdl",
+										"slow_v2.mdl.bz2",
+										"slow_v2.phy",
+										"slow_v2.phy.bz2",
+										"slow_v2.sw.vtx",
+										"slow_v2.sw.vtx.bz2",
+										"slow_v2.vvd",
+										"slow_v2.vvd.bz2",
+										"slow_v2.xbox.vtx",
+										"slow_v2.xbox.vtx.bz2"
+									]
+								},
+								"penis_man": [
+									"slow.dx80.vtx",
+									"slow.dx90.vtx",
+									"slow.mdl",
+									"slow.phy",
+									"slow.sw.vtx",
+									"slow.vvd"
+								],
+								"polizei": [
+									"ct_gsg9.dx80.vtx",
+									"ct_gsg9.dx80.vtx.bz2",
+									"ct_gsg9.dx90.vtx",
+									"ct_gsg9.dx90.vtx.bz2",
+									"ct_gsg9.mdl",
+									"ct_gsg9.mdl.bz2",
+									"ct_gsg9.phy",
+									"ct_gsg9.phy.bz2",
+									"ct_gsg9.sw.vtx",
+									"ct_gsg9.sw.vtx.bz2",
+									"ct_gsg9.vvd",
+									"ct_gsg9.vvd.bz2"
+								],
+								"robocop_chrome": [
+									"slow.dx80.vtx",
+									"slow.dx90.vtx",
+									"slow.mdl",
+									"slow.phy",
+									"slow.sw.vtx",
+									"slow.vvd",
+									"slow.xbox.vtx"
+								],
+								"stickman": [
+									"s-low.dx80.vtx",
+									"s-low.dx80.vtx.bz2",
+									"s-low.dx90.vtx",
+									"s-low.dx90.vtx.bz2",
+									"s-low.mdl",
+									"s-low.mdl.bz2",
+									"s-low.phy",
+									"s-low.phy.bz2",
+									"s-low.sw.vtx",
+									"s-low.sw.vtx.bz2",
+									"s-low.vvd",
+									"s-low.vvd.bz2",
+									"s-low.xbox.vtx",
+									"s-low.xbox.vtx.bz2"
+								]
+							},
+							"techknow": {
+								"sonic": [
+									"sonic.dx80.vtx",
+									"sonic.dx90.vtx",
+									"sonic.mdl",
+									"sonic.phy",
+									"sonic.sw.vtx",
+									"sonic.vvd"
+								]
+							}
+						}
+					},
+					"sound": [
+						"uganda knuckles css.wav"
+					]
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 383157,
+			"_nDownloadCount": 82,
+			"_nFilesize": 102233941,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/383157",
+			"_sFile": "mg_underwater_v1_ddaa2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1526798165
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 128834,
+	"_sName": "mg_underwater_v1 + easter egg steps",
+	"_sText": "I'M SEARCHING FOR HELP TO SOLVE A BUG THAT CAUSE PROBLLEMS TO DO THE EASTER EGG TWO TIMES PER MAP.<br><br>Here you can fight with the other players under water with knifes! But that's not all!<br><br>There is an easter egg, and if you follow this steps, you can decide what to do with the other players!&nbsp;<br><br>1. Destroy the grate in the middle cylinder.<br><br>2. Press the button in it.<br><br>3. Pick up the hegrendae spawned behind the button.<br><br>4. Go to surface.<br><br>5. Throw the grenade in front of the door (do not throw it too close to the door)<br><br>6. Grab the desert eagle that the red character offers you.<br><br>7. Go out of the white place and press the button to close the door.<br><br>8. Go to the cylinder again.<br><br>9. Shoot to the hidden character behind the button.<br><br>10. Go to the surface and shoot to the door. IF YOU ENTER TO THE WHITE PLACE USING NOCLIP YOU WILL UNDERSTAND BETTER WHERE YOU HAVE TO SHOOT.&nbsp;<br><br>11. Pick up the P90 that character dropped and shoot on the new chracter's (that spawned in water) head.&nbsp;<br><br>&nbsp; &nbsp; In case this character appears without you trying to make the easter egg you have to grab it as soon as possible and shoot on the head of&nbsp;<br><br>the other player who owns the p90.<br><br>12. After being teleported to a place similar to Super Smash Flash, you will find the same person you shot over the head or vice versa and you&nbsp;<br><br>will have to give him a rematch. In a battle with the same conditions as in step 11 with a different gravity.<br><br>IMPORTANT INFORMATION: The middle button changes gravity.<br><br>If I were you, the first thing I would do if you won the battle similar to the super smash flash, it would go for the player who lost who is in&nbsp;<br><br>a wooden construction on the other side of the island that can be destroyed by many bulllets.<br><br>There is a hidden button behind the yellow statue.<br><br>So this map includes a lot of game modes in it!"
+}

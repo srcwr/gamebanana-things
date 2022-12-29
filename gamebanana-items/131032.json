@@ -1,0 +1,81 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"readme.txt",
+					"ze_sunlight_v2_0.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 285542,
+			"_nDownloadCount": 9226,
+			"_nFilesize": 50327921,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/285542",
+			"_sFile": "ze_sunlight_v2_0.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1414078308
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Adjusted ZR config: fewer mother zombies, zombies now have slightly less health"
+				},
+				{
+					"cat": "-",
+					"text": "Changed skybox"
+				},
+				{
+					"cat": "-",
+					"text": "Added/changed some hold points"
+				},
+				{
+					"cat": "-",
+					"text": "Boosted boss health slightly"
+				},
+				{
+					"cat": "-",
+					"text": "Reduced speed of boss lifesteal push"
+				},
+				{
+					"cat": "-",
+					"text": "Reduced boss lifesteal amount"
+				},
+				{
+					"cat": "-",
+					"text": "Boosted melon/orange launcher damage slightly"
+				},
+				{
+					"cat": "-",
+					"text": "Zombies don't teleport as quickly after each hold point"
+				},
+				{
+					"cat": "-",
+					"text": "Changed indoor soundscape to something with less echo"
+				},
+				{
+					"cat": "-",
+					"text": "Optional override config: put your override settings in sunlight_override.cfg"
+				},
+				{
+					"cat": "-",
+					"text": "Various minor changes"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "v2_0",
+			"_tsDateAdded": 1415681268
+		}
+	],
+	"_idRow": 131032,
+	"_sName": "ze_sunlight_v2_0",
+	"_sText": "UPDATE 11-NOV-2014: v2_0 released.\r\n\r\n---\r\n\r\nze_sunlight by Soft Serve\r\n\r\nThis is my first fully complete ZE map. I took a lot of inspiration from Zelda and Dark Souls dungeon design, as well as the general atmosphere of Shadow of the Colossus. I hope you enjoy.\r\n\r\nFeatures:\r\n\r\n- 5 stages, all with different routes and endings\r\n- 4 special weapons\r\n- 1 boss fight\r\n- Music\r\n- Admin room for changing stages\r\n\r\n---\r\n\r\nChangelog:\r\n\r\nv2_0\r\n- Adjusted ZR config: fewer mother zombies, zombies now have slightly less health\r\n- Changed skybox\r\n- Added/changed some hold points\r\n- Boosted boss health slightly\r\n- Reduced speed of boss lifesteal push\r\n- Reduced boss lifesteal amount\r\n- Boosted melon/orange launcher damage slightly\r\n- Zombies don't teleport as quickly after each hold point\r\n- Changed indoor soundscape to something with less echo\r\n- Optional override config: put your override settings in sunlight_override.cfg\r\n- Various minor changes\r\n\r\nv1_0\r\n- Fixed boss and dragon health scaling\r\n- Nerfed all special weapons\r\n- Added 3D skybox\r\n- Added ZR config file\r\n- Fixed stage 2 nuke glitch\r\n- Boosted music volume\r\n- Various minor changes\r\n\r\nv0_1\r\n- Beta release"
+}

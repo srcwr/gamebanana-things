@@ -1,0 +1,54 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"mg_smash_4tower": [
+						"mg_smash_4tower.bsp",
+						"mg_smash_4tower_t.bsp",
+						"readme.txt"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 271889,
+			"_nDownloadCount": 363,
+			"_nFilesize": 2397742,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/271889",
+			"_sFile": "mg_smash_4tower_6e9ca.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1504018970
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "You now can not die from fall damage at all."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "mg_smash_4tower",
+			"_tsDateAdded": 1504355706
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Attempt #2 to fix the insane amount of lag."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "mg_smash_4tower",
+			"_tsDateAdded": 1504271270
+		}
+	],
+	"_idRow": 128668,
+	"_sName": "mg_smash_4tower",
+	"_sText": "The 4th map to my smash map series, this one ends a lot quicker than my previous ones, who will remain the last standing survivor?<br><br>Note: you can climb the tall towers and there is an issue with the props colliding so much that it lags slightly."
+}

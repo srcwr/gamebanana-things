@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"surf_japan_v7oon.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 356534,
+			"_nDownloadCount": 2292,
+			"_nFilesize": 2282217,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/356534",
+			"_sFile": "surf_japan_v7oon.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1157159893
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 122354,
+	"_sName": "surf_japan_v7oon",
+	"_sText": "Alright guys.  I admit that I did a horrible job on japan_v4.  I fixed spawn killing in that version and added my section from surf_oblivionv1final (level 1 from it--it's not called danger-surf lol that's just telling you what textures kill you)...  But when I did these edits I ended up making the map worse.\r\n\r\nI was a noob then, but I think I did a good job this time.\r\n\r\nI run a geforce6200--not a great card, and I would get 10-11 fps from spawn with nothing else running.  Japanv2 maybe 14.  Japanv6 I'd get around 17.  But this version I net up to 27 fps looking straight out from spawn.  That doesn't sound like much to most people but to me it's a huge improvement.\r\n\r\nI'll go through my edits...\r\n\r\nFixed the water bug where you'd get stuck (you can still get stuck going off to the water sides but you can break out by strafing/turning hard)\r\n\r\nadded various hint/skip textures\r\n\r\nadded several areaportals in the opening areas of japan\r\n\r\nUsed a teleporter to separate the two halves of japan and used a landmark to save your position (while not perfect and the best looking, it cuts lag big time)\r\n\r\nlowered the height of spawn\r\n\r\nmoved bottom section of the map with monkeydie's original credits which was lagging me like a bitch\r\n\r\nglass should be bulletproof to awps, if not tell me.\r\n\r\nsqueezed the skybox more (raised the bottom I mean)\r\n\r\nAdded level 2 of oblivionv1final and put level 1 back in also.  Also added area portals in these sections\r\n\r\nFinishing my sections gives you awps, both autos, and several textures explaining why I redid this.  You can also directly port to either spawn or the sniping top area.\r\n\r\nAdded a direct portal to top where if you cheat in the second section, you port in water on top.\r\n\r\nChanged a freakin' horde of textures into func_detail to shorten compile time (I forget what else that does...) and I might have done other things I can't remember right now.\r\n\r\nThings I did badly though...  I could have done the landmark better, there's a bad looking texture at the end of the water, I added several hint/skip textures that weren't needed in a few areas.  One of the reasons I added func_detail stuff is because I was getting a vvis error when I compiled.  Actually, this version gave me a vrad error, but the water works so I don't care.  It's 8mb but I don't care about file size (find oblivionv1final and you'll see why).\r\n\r\nAnd I know some people will hate me for doing this (some already hate me for v4...).  But I loved this map back in the day, but I couldn't play it because of the lag on my machine.  So I redid it again...  As I said in the final credits area, I will do another version without my sections.  I just can't do it right now, as I've got college and a crap load of maps to make for my clan.\r\n\r\nAnd before someone says it, I'm not a member of Dark Arena (which is now Underground Central... which removed their surf server).\r\n\r\nAdded oon to the end of the map name because someone may have already made a v7...\r\n\r\nIf there is an error tell me.  If you need to decompile this, tell me and I'll tell you how to fix it and save you some time.  Actually, I could just give you the vmf...\r\n\r\nIf I remember something important I'll post here.  Added push platforms to compensate for the lack of height."
+}

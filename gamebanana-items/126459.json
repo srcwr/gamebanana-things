@@ -1,0 +1,53 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"kz_bhop_heritage_fix.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 417494,
+			"_nDownloadCount": 127,
+			"_nFilesize": 133226771,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/417494",
+			"_sFile": "kz_bhop_heritage_fix.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1555852562
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "Fixed unintentional skip"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed(?) checkpoints"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Fixed misaligned textures and models"
+				},
+				{
+					"cat": "Tweak",
+					"text": "Changed layout of bhop-section to improve gameplay"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "kz_bhop_heritage_fix",
+			"_tsDateAdded": 1555852700
+		}
+	],
+	"_idRow": 126459,
+	"_sName": "kz_bhop_heritage_fix",
+	"_sText": "kz map made by Madara and me<br><br>Map size: Medium<br>Difficulty: Medium<br><br>"
+}

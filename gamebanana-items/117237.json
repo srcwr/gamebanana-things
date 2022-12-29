@@ -1,0 +1,148 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "cliff_0_02.vmt",
+					"1": "cliff_0_02.vtf",
+					"2": "cliff_0_02_nrm.vtf",
+					"3": "cliff_0_03.vmt",
+					"4": "cliff_0_03.vtf",
+					"5": "cliff_0_03_nrm.vtf",
+					"maps": [
+						"dm_castle_defence_pb.bsp"
+					],
+					"materials": {
+						"RealWorldTextures": {
+							"Floor": {
+								"0": "Floor_1_08.vmt",
+								"1": "Floor_1_08.vtf",
+								"2": "Floor_1_09.vmt",
+								"3": "Floor_1_09.vtf",
+								"MixTile": {
+									"Bump": [
+										"1024.vtf",
+										"512.vtf"
+									],
+									"Gray-Blue": [
+										"Border.vmt",
+										"Border.vtf",
+										"Checked.vmt",
+										"Checked.vtf",
+										"inlay1.vmt",
+										"inlay1.vtf",
+										"inlay2.vmt",
+										"inlay2.vtf"
+									],
+									"Gray-Red": [
+										"Border.vmt",
+										"Border.vtf",
+										"Checkered.vmt",
+										"Checkered.vtf",
+										"Inlay1.vtf",
+										"Inlay2.vtf",
+										"inlay1.vmt",
+										"inlay2.vmt"
+									],
+									"Mixed": [
+										"White_Mixed2.vmt",
+										"White_Mixed2.vtf"
+									],
+									"Solid": [
+										"Blue1.vmt",
+										"Blue1.vtf",
+										"Brown1.vmt",
+										"Brown1.vtf",
+										"Gray.vmt",
+										"Gray.vtf",
+										"Green1.vmt",
+										"Orange.vmt",
+										"Orange.vtf",
+										"Red1.vmt",
+										"Red1.vtf",
+										"Tan.vtf",
+										"White.vtf",
+										"White1.vmt",
+										"White1.vtf",
+										"black.vmt",
+										"black.vtf",
+										"blue2.vmt",
+										"blue2.vtf",
+										"blue3.vmt",
+										"blue3.vtf",
+										"blue4.vmt",
+										"blue4.vtf",
+										"brown2.vmt",
+										"brown2.vtf",
+										"gray1.vmt",
+										"gray1.vtf",
+										"gray2.vmt",
+										"gray2.vtf",
+										"green1.vtf",
+										"green2.vmt",
+										"green2.vtf",
+										"green3.vmt",
+										"green3.vtf",
+										"purple.vmt",
+										"purple.vtf",
+										"red2.vmt",
+										"red2.vtf",
+										"tan.vmt",
+										"white.vmt",
+										"yellow.vmt",
+										"yellow.vtf"
+									]
+								}
+							},
+							"Walls": [
+								"Wall_1_15.vmt",
+								"Wall_1_15.vtf"
+							],
+							"ceiling": [
+								"Ceiling_03.vmt",
+								"Ceiling_03.vtf",
+								"Ceiling_1_01.vmt",
+								"ceiling_1_01.vtf",
+								"ceiling_1_04.vmt",
+								"ceiling_1_04.vtf",
+								"ceiling_1_04_nrm.vtf",
+								"ceiling_1_05.vmt",
+								"ceiling_1_05.vtf",
+								"ceiling_1_05_nrm.vtf"
+							],
+							"glass": [
+								"Glass_08.vmt",
+								"glass_08_nrm.vtf"
+							],
+							"new": [
+								"wall_b02.vmt",
+								"wall_b02.vtf"
+							]
+						},
+						"dev": [
+							"dev_measuregeneric08.vmt",
+							"dev_measuregeneric08.vtf"
+						]
+					}
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 323049,
+			"_nDownloadCount": 1165,
+			"_nFilesize": 6536621,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/323049",
+			"_sFile": "dm_castle_defence_pb.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1272502459
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 117237,
+	"_sName": "dm_castle_defence_pb",
+	"_sText": "This is my first map ever. Special thank to thelove_is_bitter (my friend), TopHATTwaffle and zaoman for their great textures. Hope people enjoy it!"
+}

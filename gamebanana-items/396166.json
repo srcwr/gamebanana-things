@@ -1,0 +1,38 @@
+{
+	"_aAlternateFileSources": [
+		{
+			"url": "http://5.199.136.88/cstrike/maps/"
+		}
+	],
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"bhop_asendrix_v1.bsp",
+					"kz_aggressive.bsp",
+					"kz_aggressive_ez.bsp",
+					"kz_asendrix.bsp",
+					"kz_bhop_cage.bsp",
+					"kz_hb_holy.bsp",
+					"kzro_raincliff.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 849071,
+			"_nDownloadCount": 26,
+			"_nFilesize": 189770049,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/849071",
+			"_sFile": "kz_f59a2.7z",
+			"_sMd5Checksum": "e2731dbdc7fb2211c6b53ac5fc2e5a65",
+			"_tsDateAdded": 1660529253
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 396166,
+	"_sName": "KZMOD port map pack 6",
+	"_sText": "Includes<br><br>kz_aggressive<br>kz_asendrix<br>kz_bhop_cage<br>kz_hb_holy<br>kzro_raincliff<br><br>Extra<br>bhop_asendrix_v1<br>kz_aggressive_ez<br><br>Descriptions<br><br>kz_aggressive<br>Original map by Timmycakes, KZMOD remake by Hardcore<br>contains 3 courses: kz_aggressive, kz_cave and bkz_polar_climber<br><br>kz_asendrix<br>Original map by Hardcore and Xinc<br>contains 3 courses: kz_asendrix, bhop_asendrix and kz_bhop_asendrix<br>notes for server owners: set shavit_misc_startonspawn 0 and start zone should be placed as shown in the gamebanana photo.<br><br>kz_bhop_cage<br>Original map author unknown<br>contains 1 course: kz_bhop_cage<br><br>kz_hb_holy<br>Original map by pacMan<br>contains 3 courses: kz_hb_holy (which is the kz + bhop course combined + extra), kz course and bhop course.<br>notes: the main course starts on the purple in the climb section and finishes in the purple on the bhop section.<br><br>kzro_raincliff<br>Original map by fuZzy1, KZMOD port by pacMan<br>contains 1 course: kz_raincliff<br>notes: intended to played with a velocity limit either 400 velocity or strafe settings (sv_enablebunnyhopping 0), NL styles can skip most of the map.<br><br>kz_aggressive_ez<br>The easy course from kz_aggressive, bonuses are identical.<br><br>bhop_asendrix_v1<br>Just the bhop + lj course from kz_asendrix with the kz section removed"
+}

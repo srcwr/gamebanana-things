@@ -1,0 +1,33 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "readme.txt",
+					"cstrike": {
+						"maps": [
+							"mg_gore_course_b1_fix.bsp"
+						]
+					}
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 282298,
+			"_nDownloadCount": 1504,
+			"_nFilesize": 40899363,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/282298",
+			"_sFile": "mg_gore_course_b1_fix.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1437124591
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 128050,
+	"_sName": "mg_gore_course_b1_fix",
+	"_sText": "Course map originally named mg_gore_course_b1, created by ScHoOuFi and La Boule (original). I just took the map and fixed all of the leaks and optimized it a bit.\r\n\r\nThe sole purpose of this 'fix' was to improve performance on low-end PCs. So, for those still using toasters to play CS:S (including myself), this is for you. (~30 FPS on high settings looking down the hallway from spawn in original; 90-100 FPS in optimized version)\r\n\r\nChanges:\r\n- Optimization and leak fixes; previously, the entire map was rendered at once. Areaportals have been placed at every door\r\n- Ice skate ramp is now a simple brush rather than a displacement, should no longer stop you\r\n- Spawn timer changed from 10s to 30s; screen shake drastically reduced to avoid annoyance\r\n- Secret trails adjusted a bit\r\n- Added more player spawns.\r\n- The floating sofa in level 3 has a static orientation.\r\n- maybe some more I forgot about\r\n\r\nI do not take any credit for creating this map; all credit belongs to the other authors listed under \"Original Authors\" above."
+}

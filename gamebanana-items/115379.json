@@ -1,0 +1,76 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"3k_Alley": {
+						"0": "Readme! REALLY!.txt",
+						"BSPs": [
+							"Alley_23_Cloudy.bsp",
+							"Alley_23_Cloudy.jpg",
+							"Alley_23_Evening.bsp",
+							"Alley_23_Evening.jpg",
+							"Alley_23_Foggy.bsp",
+							"Alley_23_Foggy.jpg",
+							"Alley_23_Night.bsp",
+							"Alley_23_Night.jpg",
+							"Alley_23_Sunny.bsp",
+							"Alley_23_Sunny.jpg"
+						],
+						"VMFs": [
+							"Alley_01.vmf",
+							"Alley_02.vmf",
+							"Alley_03.vmf",
+							"Alley_04.vmf",
+							"Alley_05.vmf",
+							"Alley_05b.vmf",
+							"Alley_06.vmf",
+							"Alley_07.vmf",
+							"Alley_07b.vmf",
+							"Alley_08.vmf",
+							"Alley_08b.vmf",
+							"Alley_08c.vmf",
+							"Alley_09.vmf",
+							"Alley_10.vmf",
+							"Alley_11.vmf",
+							"Alley_12.vmf",
+							"Alley_13.vmf",
+							"Alley_14.vmf",
+							"Alley_15.vmf",
+							"Alley_16.vmf",
+							"Alley_17.vmf",
+							"Alley_18.vmf",
+							"Alley_19.vmf",
+							"Alley_20.vmf",
+							"Alley_21.vmf",
+							"Alley_22.vmf",
+							"Alley_23.vmf",
+							"Alley_23_b.vmf",
+							"Alley_23_c.vmf",
+							"Alley_23_d.vmf",
+							"Alley_23_e.vmf",
+							"Alley_23_f.vmf"
+						]
+					}
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 328481,
+			"_nDownloadCount": 3067,
+			"_nFilesize": 8441445,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/328481",
+			"_sFile": "3k_alley.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1253832486
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 115379,
+	"_sName": "3k_alley",
+	"_sText": "The VMF folder has every stage of making this map included. Some earlier versions might be made slightly later, this was because I added a fair bit, then saved a simplified version so that every stage represents a small jump.\r\n\r\nThere are 5 BSPs for each of the end, lit versions.\r\n\r\nThis map is not playable. I do not intend to finish it. It was just a little project for me to work on. I thought it would be useful for mappers who are perhaps struggling to add detail to their levels. If you'd like to finish this map then I'd be pleased to see how you get on, and what you do to it.\r\n\r\nI have learnt a lot from this project. I would normally have stopped at the 12th vmf file (out of 23) but instead, I looked at some of the ready-made CSS maps and implemented several features from each of them. For instance,\r\n\r\n13 - Piranesi (Overhanging roofs, benches, wall tops, buttresses)\r\n14 - Havana (Street, steps, buildings stick out)\r\n15 - Darker, meaner skybox and lighting angle, changed ropes position and slackness\r\n16 - Italy (Position of back tower, Ivy, ambient colour brighter)\r\n17 - Office (Lights, fog colour, 3D skybox)\r\n\r\nThis project took about 6 hours to do, then several more to edit into a video and stuff like that."
+}

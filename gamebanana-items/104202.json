@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_supply_beta2_ldr.bsp",
+					"de_supply_beta2_ldr.nav",
+					"readme.txt"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 344831,
+			"_nDownloadCount": 2526,
+			"_nFilesize": 6102608,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/344831",
+			"_sFile": "de_supply_beta2_ldr.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1201450180
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 104202,
+	"_sName": "de_supply_beta2_ldr",
+	"_sText": "ATTENTION !!\r\n\r\nThis version is easier to play, less detailed, has more fps and no hdr (not used in pcws) and some tweaks to make it play better in 5on5 matches. Anyway it can be played on public ones. I'll release an HDR version once It has been tested enough.\r\n\r\nChanges in BETA2:\r\n-Color correction is now static and less red (so the filesize is lower).\r\n-Clip added to the windows in the hangar and other spots.\r\n-Reduced the number of props in the map (some people told me it was hard to play because it was too detailed).\r\n-Blocked some spots and simplified few details to make it easier to play (there were to many spots to hide and people didn't like it in pcws).\r\n-Changed a bit the layout so now T reach 1 to 3sec later bombsite A.\r\n-Slightly fps improve due to the amount of props and details deleted.\r\n-Dramatic fps improve in T's base and grave ramp.\r\n-Ambient light is now a bit more light.\r\n-Some cubemaps have been reduced and two deleted so the filesize is lower now.\r\n-There is only 1 Color correction file so filesize will be like 1mb lower for this.\r\n-Radar is now compressed so it weights 1/3 (~3mb now,  ~10mb before).\r\n-Sound effects are now generic (people didn't like the eco and sound distortion in some areas so now there is no distorsion).\r\n-Many prop distances have been reduced and faded to improve fps on lowend PC's.\r\n-Improved spawn points to make it easier or harder to rush in some rounds and added 8 spawn points more (40 now)\r\n\r\nNotes:\r\n-Best seen with Color correction + HDR + gamma 2.2 (remember to add sv_allow_color_correction 1)\r\n-Beta test. Feedback is appreciated!\r\n-Meant to be played for 5on5 games but has up to 40 spawn points\r\n-Do not decompile without authorization. PM on FPSBANANA, INTERLOPERS, \r\nMAPCORE or HL2SPAIN if you want to know how has something been done or\r\njust for feedback. acc: Deh0lise / Deh0\r\n\r\nInstall notes:\r\nExtract to cstrike/maps/"
+}

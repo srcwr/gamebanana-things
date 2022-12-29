@@ -1,0 +1,45 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "README!.txt",
+					"1": "hellscrypt.bsp",
+					"2": "hellscrypt.nav",
+					"3": "hellscrypt.res",
+					"decals": {
+						"hellscrypt": [
+							"hellbinder.vmt",
+							"hellbinder.vtf",
+							"russell.vmt",
+							"russell.vtf"
+						]
+					},
+					"sound": {
+						"hellscrypt": [
+							"crow.wav",
+							"hellssong.mp3"
+						]
+					}
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 338269,
+			"_nDownloadCount": 1239,
+			"_nFilesize": 9855298,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/338269",
+			"_sFile": "hellscrypt.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1221777633
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 116063,
+	"_sName": "hellscrypt",
+	"_sText": "Map Name: hellscrypt\r\n\r\nAuthor Michael Russell a.k.a. Hellbinder\r\nhellbinder@comcast.net\r\n\r\nGame Type: Zombie, I wouldnt use this map for any other game type.\r\n\r\nThe zip file contains the following files:\r\n\r\nhellscrypt.bsp\r\nhellscrypt.nav\r\nhellscrypt.res\r\n\r\nThe zip file also contains the two folders:\r\n\r\ndecals\r\nsound\r\n\r\nTo install place hellscrypt.bsp and hellscrypt.nav into your map folder..example:\r\n\r\nC:\\Program Files\\Steam\\SteamApps\\youraccountname\\counter-strike source\\cstrike\\maps\r\n\r\n*This example is from a Vista machine the folder might be differently placed on an XP machine*\r\n\r\n\r\nPlace the decals folder into the following directory:\r\n\r\nC:\\Program Files\\Steam\\SteamApps\\youraccountname\\counter-strike source\\cstrike\\materials\r\n\r\n\r\nPlace the sound folder into the following directory:\r\n\r\nC:\\Program Files\\Steam\\SteamApps\\youraccountname\\counter-strike source\\cstrike\r\n\r\nIf you did everything ok the map should be ready to play. The file: hellscrypt.res is for\r\nrunning the map on a server. If you want to use the map on your server put this file into your map directory\r\nalong with the other files as instructed above.\r\n\r\nThanks\r\n"
+}

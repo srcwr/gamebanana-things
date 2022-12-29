@@ -1,0 +1,42 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"dev_showcase": {
+						"0": "dev_showcase.vmf",
+						"maps": [
+							"dev_showcase.bsp"
+						],
+						"materials": {
+							"neths": {
+								"reflective_tilefloor021a": [
+									"tilefloor021a.vmt",
+									"tilefloor021a.vtf",
+									"tilefloor021a_normal.vtf"
+								]
+							}
+						}
+					}
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 299504,
+			"_nDownloadCount": 1537,
+			"_nFilesize": 472084,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/299504",
+			"_sFile": "dev_showcase_2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1348517613
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 115804,
+	"_sName": "dev_showcase - A showcase",
+	"_sText": "This map was requested by my friend and he was satisfied with results so I am releasing it in public for everyone to use.\r\nNo credits required, althought it would be nice.\r\n\r\nI am putting vmf, bsp and materials inside the package, feel free to modify it."
+}

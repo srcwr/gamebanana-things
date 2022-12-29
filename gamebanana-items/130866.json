@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ze_minecraft_adventure_v1_2c.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 294877,
+			"_nDownloadCount": 19837,
+			"_nFilesize": 33541183,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/294877",
+			"_sFile": "ze_minecraft_adventure_v1_2c.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1367364054
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 130866,
+	"_sName": "ze_minecraft_adventure_v1_2c",
+	"_sText": "New version of my 2 years old one-staged bad looking Minecraft map. Some people forced me to work on it. So it's here...\r\n\r\nMap Features\r\n==================\r\n- 64 spawns\r\n- Radar\r\n- Custom end round overlays for ZR\r\n- Minecraft songs\r\n- Minecraft player model with 13 random skins\r\n- Minecraft style obstacles (like solving redstone puzzles, using pickaxe to build Nether portal, activating portal using flint and steel)\r\n- 4 different levels\r\n    1. Overworld\r\n    2. The Nether\r\n    3. Jungle\r\n    4. The End\r\n- 2 bossfights\r\n    1. Ghast\r\n    2. Ender dragon\r\n- special items\r\n    1. Sword\r\n    2. Bow\r\n    3. Flint and steel\r\n    4. Block builder\r\n    5. Cake (Heal)\r\n    6. Torches\r\n    - Every item is filtered, others can't spam it\r\n\r\n\r\nMy [todo list/changelog](http://db.tt/rtGWilF4). Lines marked with * are done, - means to-do.\r\n\r\n\r\nHow to disable Minecraft player models\r\n==================\r\nIf player skins are broken/not working/you don't want them on your server you can disable them kinda easily. Just follow any of these steps.\r\n\r\n### Option 1\r\nSimplest way is pressing 'Disable skins' button in Admin room. Once you press it it will disable until the map is changed. You will have to do it every time the map is played though.\r\n\r\n### Option 2\r\nYou can use my [config](https://db.tt/yZrfNEV8) that will automatically do it. You have to put it in your server into **cstrike\\cfg**. Works every time.\r\n\r\n### Option 3\r\nMake sure to execute command **minecraft_noskins** using your own config that gets executed with the map."
+}

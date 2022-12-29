@@ -1,0 +1,92 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ze_swamp_crypt_v1_7f.bsp",
+					"ze_swamp_crypt_v1_7f.cfg"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 774600,
+			"_nDownloadCount": 55,
+			"_nFilesize": 26579792,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "Map with stripper (stripper is optional, only for admins)",
+			"_sDownloadUrl": "https://gamebanana.com/dl/774600",
+			"_sFile": "ze_swamp_crypt.zip",
+			"_sMd5Checksum": "b87d6d3099c90850d42359351774c7ad",
+			"_tsDateAdded": 1648748785
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "fixed final attack in the end"
+				},
+				{
+					"cat": "Improvement",
+					"text": "added new music for 1 lvl"
+				},
+				{
+					"cat": "Improvement",
+					"text": "added advice friend (he says what to do)"
+				},
+				{
+					"cat": "Improvement",
+					"text": "added healing zone in boss fight, will be used automatically during boss fight in ~120s"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "now easier to climbing in stairs to swamp houses"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "increased boss hp"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "v1_7f (final version)",
+			"_tsDateAdded": 1648581161
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Feature",
+					"text": "now absolutely playable"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "fixed crash during boss fight"
+				},
+				{
+					"cat": "Optimization",
+					"text": "unnecessary entities will be removed to each level"
+				},
+				{
+					"cat": "Improvement",
+					"text": "reduced size of map (from 98MB to 52MB)"
+				},
+				{
+					"cat": "Improvement",
+					"text": "updated particles"
+				},
+				{
+					"cat": "Improvement",
+					"text": "updated 3d skybox"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "v1_6",
+			"_tsDateAdded": 1648232681
+		}
+	],
+	"_idRow": 363843,
+	"_sName": "ze_swamp_crypt",
+	"_sText": "<b class=\"SelectedElement\">ze_swamp_crypt_v1_7f (CS:S)</b><br><br><u>minimum online for map: 30 players<br>beating map is 15 minute playthrough.</u><br><br>- 2 lvls<br>- 5 items (4 for humans, 1 for zm, but for humans only 2 random items spawning in every round)<br>- npcs<br>- 1 boss<br>- rare triggers that decreasing time of hold (chance of spawn - 1/7)<br>- random triggers<br><span class=\"RedColor\"><span class=\"Spoiler\">no lasers</span></span>"
+}

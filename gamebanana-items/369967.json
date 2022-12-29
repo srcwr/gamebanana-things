@@ -1,0 +1,32 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "read-me.txt",
+					"maps": [
+						"fy_carve.bsp",
+						"fy_carve.nav"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 779722,
+			"_nDownloadCount": 217,
+			"_nFilesize": 5853922,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/779722",
+			"_sFile": "fy_carve_v1.zip",
+			"_sMd5Checksum": "a74711c1b29b3ad3699bf62643687faa",
+			"_tsDateAdded": 1649461833
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 369967,
+	"_sName": "FY CARVE MAP",
+	"_sText": "<b>FY CARVE</b><br><br>This is an AWP map I made for a server and I decided to turn it into an FY map. I wanted to add a weapon system inside ammocrates so I tested this version. You don't need to press and to drop the weapons, just get close to the ammocrates and they will open immediately, when you leave their range they will close in a second.<br><br>NOTE: I edited the default HL2 ammocrates, but forgot to remove the cubemap tests from them, I will update and remove them soon, as well as the invisible grenade on top of the glass.<br><br>"
+}

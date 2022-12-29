@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"cs_assault_16.bsp",
+					"cs_assault_16.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 359754,
+			"_nDownloadCount": 6865,
+			"_nFilesize": 2335134,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/359754",
+			"_sFile": "cs_assault16.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1131311720
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 99525,
+	"_sName": "cs_assault_16",
+	"_sText": "<div style=\"height:256px;overflow:auto;margin:-3px;\"><strong class=\"green\">*Updated* May, 22<sup>nd</sup>, 2006</strong>\r\n\r\n<fieldset style=\"background-color: rgb(24, 41, 51);border:1px solid gray;border-bottom:2px solid gray;border-right:2px solid gray;\"><legend><a class=\"blue\"><b>Bug Fixes</b></a></legend>\r\n<ul style=\"margin:0 0 0 10px;padding:0;line-height:14px;\"><li>Fixed Players and Physics' shadows.</li></ul></fieldset>\r\n\r\n<fieldset style=\"background-color: rgb(24, 41, 51);border:1px solid gray;border-bottom:2px solid gray;border-right:2px solid gray;\"><legend><a class=\"blue\"><b>Changes/Additions</b></a></legend>\r\n<ul style=\"margin:0 0 0 10px;padding:0;line-height:14px;\"><li>Added more env_cubemap's</li><li>Changed ducts texture and changed their illumination</li><li>The blackness of the 'Police Line, Don't cross' ways destroys any entity that touches it's end. Your game Will crash if you use Noclip to touch 'em.</li><li>Indoor areas are brighter.</li></ul></fieldset>\r\n\r\n<hr style=\"width:80%\">\r\n<strong class=\"green\">*Updated*</strong>\r\n\r\n<fieldset style=\"background-color: rgb(24, 41, 51);border:1px solid gray;border-bottom:2px solid gray;border-right:2px solid gray;\"><legend><a class=\"blue\"><b>Bug Fixes</b></a></legend>\r\n<ul style=\"margin:0 0 0 10px;padding:0;line-height:14px;\"><li>Fixed small bugs</li></ul></fieldset>\r\n\r\n<fieldset style=\"background-color: rgb(24, 41, 51);border:1px solid gray;border-bottom:2px solid gray;border-right:2px solid gray;\"><legend><a class=\"blue\"><b>Changes/Additions</b></a></legend>\r\n<ul style=\"margin:0 0 0 10px;padding:0;line-height:14px;\"><li>Changed Vents' Ilummination</li></ul></fieldset>\r\nFixed little bugs, and changed vents ilummination...\r\n\r\nNote: The objective of this map is not be a realistic map, the objective is to make it the most exact remake of 1.6's cs_assault  as possible\r\n\r\nAll credits to valve, Ii just remaked the map =]</div>"
+}

@@ -1,0 +1,53 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"HowToPlayMap.txt",
+					"awp_invictus.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 489223,
+			"_nDownloadCount": 161,
+			"_nFilesize": 5971783,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/489223",
+			"_sFile": "awp_invictus_641e8.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1601844004
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Feature",
+					"text": "Added moving trains at the wooden platforms"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Patch 1.2",
+			"_tsDateAdded": 1601844281
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "Fixed certain torches not having correct geometry"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Patch 1.1",
+			"_tsDateAdded": 1601828819
+		}
+	],
+	"_idRow": 118667,
+	"_sName": "awp_invictus",
+	"_sText": "Small desert map I made in a few hours. Mainly intended for use on a certain AWP bhop server, but will work for just about any DM gamemode. Support for at most 27 players on each team.<br>"
+}

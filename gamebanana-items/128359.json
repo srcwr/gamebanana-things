@@ -1,0 +1,39 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"addons": {
+						"sourcemod": {
+							"plugins": {
+								"disabled": [
+									"radar_config.smx"
+								]
+							}
+						}
+					},
+					"maps": [
+						"mg_mvp_ambushed.bsp"
+					]
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 288714,
+			"_nDownloadCount": 995,
+			"_nFilesize": 15005497,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/288714",
+			"_sFile": "mg_mvp_ambushed.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1397198981
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 128359,
+	"_sName": "mg_mvp_ambushed",
+	"_sText": "Marines VS Predators\r\n====================\r\nThis map is a remake of my original mvp_ambushed map. The only thing I have changed is the mvp plugin configs so the map does it all, meaning the only plugin required (which included in pack) is the radar remover.\r\n\r\nWhen the map is loaded, the radar will automatically be removed from all clients for the duration of the map. Once the map is finished, the plugin will unload and it will be business as usual.\r\n\r\nThe objective of the map is for Ts (predators) to hunt the CTs (marines) and vice versa. CTs will be equipped with the latest in weapons and night vision, and the Ts will have heightened speed, health and regeneration. They also be nearly invisible.\r\n\r\nThe best ratio for this game is 1 predator for every 4 marines.\r\n\r\nTo install, just extract to your cstrike folder and overwrite any existing files.\r\n\r\nBe sure to reload server before after installing this map or the models will not work correctly when its played."
+}

@@ -1,0 +1,48 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"lattehs_Cliff_tunnel": {
+						"LATTEHs Map": {
+							"0": "Read Me!.txt",
+							"cstrike": {
+								"maps": [
+									"de_cliff_tunnel_Final.bsp",
+									"de_cliff_tunnel_final.nav"
+								],
+								"materials": {
+									"overviews": [
+										"de_cliff_tunnel_final.VMT",
+										"de_cliff_tunnel_final.vtf"
+									]
+								},
+								"resource": {
+									"overviews": [
+										"de_cliff_tunnel_final.txt"
+									]
+								}
+							}
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 303373,
+			"_nDownloadCount": 3555,
+			"_nFilesize": 26984255,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/303373",
+			"_sFile": "lattehs_cliff_tunnel.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1335571918
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 101527,
+	"_sName": "de_cliff_tunnel",
+	"_sText": "Hello Thank you for taking a look at my Level! If you want to use any of my models in my level please PM or email @ BrianB233@live.com Ill be more then happy to let you use them!\r\nDescription\r\n=======\r\nTerrorist's have got wind of Some Bombs going to be dismantled. Still containing there explosives they planned to stop the semi under a tunnel. The tunnel Has a pipeline that delivers gas to the town past the cliffs. Having the Terrorist detonate the bomb Near either the Facility above the bombs or near will result in billions of dollars lost.\r\n\r\nIll add more to this Later.\r\n\r\n\r\nUpdate 4/28/2012\r\n================\r\n-fixed missing textures on the roof and door.\r\n\r\n-added a trim onto the stairs so it blends better.\r\n\r\n-fixed the collision with the semi trailer\r\n\r\n-fixed the missing light\r\n\r\n-added overview map\r\n\r\nUpdate 4/29/2012\r\n================\r\n\r\n-Added clip brush by t-spawn\r\n\r\n-built the cubemaps\r\n\r\nUpdate 6/25/2012\r\n===============\r\n\r\n-Update the collision mesh for the trailer\r\n\r\n-Add some asset's so players know that it clips (as requested)\r\n\r\nUpdate 9/1/2012\r\n=================\r\n\r\n-Added the radar files for anyone getting purple textures. No changes to version.\r\n\r\nUpdate 11/29/2013\r\n=================\r\nI found something that i thought was fixed. Thanks to Meurglis3!\r\n\r\n-Fixed the Resource File It had the wrong map name.\r\n\r\n-Added Meurglis3 Nav file."
+}

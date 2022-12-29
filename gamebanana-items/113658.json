@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"fy_poolday_bsod_lite.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 361263,
+			"_nDownloadCount": 6863,
+			"_nFilesize": 3554262,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/361263",
+			"_sFile": "fy_poolday_bsod_lite.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1118139594
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 113658,
+	"_sName": "fy_poolday_bsod_lite",
+	"_sText": "Exactly the same as the original bsod_poolday except I have reduced its file size by half, I have got rid of most custom textures and have embedded all remaining models and textures into the bsp, making for a much tidier end result. Adding models to bsp has also remideed the issue of models loading from server to client as there  is no need to a .res file naymore.\r\n\r\nOh and again many thanks go out to the original creator of poolday, for bringing us so many hours of pleasure. =P"
+}

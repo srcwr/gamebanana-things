@@ -1,0 +1,40 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrike": {
+						"maps": [
+							"fy_cubicles.bsp",
+							"fy_cubicles.res",
+							"readme.txt"
+						],
+						"materials": {
+							"fy_cubicles": [
+								"wgc.vmt",
+								"wgc.vtf"
+							]
+						}
+					}
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 312884,
+			"_nDownloadCount": 1737,
+			"_nFilesize": 1133574,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/312884",
+			"_sFile": "_4571-.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1304342745
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 111961,
+	"_sName": "fy_cubicles",
+	"_sText": "fy_cubicles 2011 by Tropical_Plague\r\n\r\n\r\n*********************************** \r\nA Counter-strike source map\r\n*********************************** \r\nTITLE: fy_cubicles\r\nAUTHOR: Tropical_Plague\r\nFILENAME: fy_cubicles.bsp / fy_cubicles.res / wgc.vmt / wgc.vtf\r\nFILESIZE: 3.98mb\r\nDATE RELEASED: 2 May 2011\r\n\r\nINSTALLATION INSTRUCTIONS: Please put fy_cubicles.bsp and fy_cubicles.res in \\cstrike\\maps. \r\n\r\nPut the \\fy_cubicles folder, which contains wgc.vmt and wgc.vtf, in the \\cstrike\\materials folder. Without these, the custom graphic in the map will appear with the pink and black checkerboard replacement texture.\r\n\r\nDESCRIPTION: fy_cubicles is a counter-strike source fight yard map set in a high-rise office building. It contains pickup weapons as well as buy zones and a single bombsite on the roof.\r\n\r\nBUGS: None. \r\n\r\nCOMMENTS: I originally made this map for FarCry in 2004. It was a popular deathmatch map. I then remade it for Crysis in 2007, and then for FarCry2 in 2009. It has had over 30,000 downloads for Farcry2. Although the unusual design and gameplay are not everyone's cup of tea, a lot of people enjoy it. So when I decided to start learning the Hammer editor and to make my first CSS map, I stuck with the tradition. This version contains elements of all the three previous \"Cubies\" maps, plus I went with the orange dev texture for the desks and dividers to give it that CSS feeling."
+}

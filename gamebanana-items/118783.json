@@ -1,0 +1,81 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"awp_lego_byHelk_v1.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 473741,
+			"_nDownloadCount": 92,
+			"_nFilesize": 5420044,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/473741",
+			"_sFile": "awp_lego_byhelk_v1.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1594480216
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"awp_lego_byHelk_v2.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 476992,
+			"_nDownloadCount": 28,
+			"_nFilesize": 8004505,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/476992",
+			"_sFile": "awp_lego_byhelk_v2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1595935306
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"awp_lego_byHelk_v3.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 479221,
+			"_nDownloadCount": 45,
+			"_nFilesize": 5595885,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/479221",
+			"_sFile": "awp_lego_byhelk_v3_d2755.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1596892291
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Added armor, night vision device."
+				}
+			],
+			"_sText": "Added armor, night vision device. All this in a separate room. Armor is needed in order to climb the tower.<br><br>Two types of weapons with effects at the end of the mazes were also added.<br><br>",
+			"_sTitle": "awp_lego_byHelk_v1",
+			"_tsDateAdded": 1594480695
+		}
+	],
+	"_idRow": 118783,
+	"_sName": "awp_lego_byHelk_v3",
+	"_sText": "Converted awp lego map<br>"
+}

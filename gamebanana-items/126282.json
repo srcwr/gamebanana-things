@@ -1,0 +1,52 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"bhop_understanding.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 281341,
+			"_nDownloadCount": 414,
+			"_nFilesize": 1520727,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/281341",
+			"_sFile": "bhop_understanding_03.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1443282901
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Fixed custom textures"
+				},
+				{
+					"cat": "-",
+					"text": "Fixed booster"
+				},
+				{
+					"cat": "-",
+					"text": "Made jump on last stage smaller so it is possible on scroll"
+				},
+				{
+					"cat": "-",
+					"text": "Added invisible wall above long jump so it's actually hard"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Version 0.3",
+			"_tsDateAdded": 1443377059
+		}
+	],
+	"_idRow": 126282,
+	"_sName": "bhop_understanding ",
+	"_sText": "Bhop Understanding\r\n====================\r\nJust another small bhop map I made. Not much too it so it's pretty self-explanatory. You get the idea.\r\n\r\nIf you find any bugs or have any suggestions, post them in the comments.\r\n\r\nThanks."
+}

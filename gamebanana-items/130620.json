@@ -1,0 +1,37 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "antartika_readme.txt",
+					"cfg": [
+						"blizard_overwrite.cfg",
+						"ch1_overwrite.cfg",
+						"ch2_overwrite.cfg",
+						"ch3_overwrite.cfg"
+					],
+					"maps": [
+						"ze_antartika_b2.bsp"
+					]
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 290416,
+			"_nDownloadCount": 3718,
+			"_nFilesize": 56458136,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/290416",
+			"_sFile": "ze_antartika_b2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1389027781
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 130620,
+	"_sName": "ze_antartika",
+	"_sText": "I started making this map about a week and a half ago, on and off. I wanted to do the map as a follow-up of my other recent ZE map Taboo Carnation but, instead of starting over from the first level no matter what, I wanted to have a Life system like in Contra or similar run 'n gun games. I felt tired of the map, however, and just completed it as a normal ZE map with no items and no bosses.\r\n\r\nThe gameplay should be rather straightforward. The map contains 3 chapters, each of them increasingly hard (I hope) with built cubemaps and ambience. The music is different for each chapter too, and so is the path. \r\n\r\nI might do a new version soon including the life system and a 'hard' mode for once it is beaten with less lives for starters and little or no one-ups appearing.\r\n\r\nEverything should work but, as I don't trust myself and vehicles in source are a bit messy, if the ending chopper kills you I am not to blame.\r\n\r\n---------\r\n\r\nThe chapters are:\r\n\r\n - I : Ascension\r\n - II : A touch of heaven\r\n - III : The womb\r\n\r\nOn the first two chapters you advance towards the core of the fortress and to the mountain side so you can see the entire continent below. The third chapter, being the opposite, is all about getting down and rushing out to get the chopper.\r\n\r\nThe estimated lengths of each chapter if you aren't pants-on-head level dumbo is 6:45, 6:30 and 7:45 minutes:seconds respectively. If you surpass that limits by more than 1 minute you should seek medical assistance or, better yet, a well trained neurologist.\r\n\r\n---------\r\n\r\nI might release the .vmf with the next/final version. You're allowed to decompile and do whatever you wish with the map. I don't like being creditted, please don't do it. \r\n\r\nThis map contains no particles that can be stolen, so you can't get custom.pcf, map_weapons.pcf or map_details.pcf from here. Life's tough for you if you wanted to claim them as yours.\r\n\r\n---------\r\n### CUSTOM CVARS\r\n### ____________\r\n(Fake cvars that can be added to a config file for the map; they work as a normal cvar but they communicate with the map and let you modify how it works)\r\n\r\n\r\n**antartika\\_force\\_stealth**\r\n\r\n Forces the map to always run on Infiltration mode. \r\n \r\n NPCs will spawn, although the map will not change much aside from that\r\n since the NPCs should be enough of a difficulty boost anyway.\r\n\r\n Take note that Chapter 3 has those vents that hurt you if you jump straight...\r\n \r\n**blizard\\_mode\\_enable and blizard\\_mode\\_disable**\r\n\r\n Enable/disable the blizard -hard- mode. Blizard mode adds a bit of difficulty\r\n by applying multipliers on zombie classes.\r\n\r\n Muultipliers applied:\r\n\r\n \tHealth: \t4.0\r\n\tSpeed:\t\t1.05\r\n\tKnockback: \t0.8\r\n\r\n The multipliers can be modified by writing your own blizzard_overwrite.cfg file.\r\n\r\n The mode also features a few visual changes (CC, clouds) and environmental (thunder sounds)"
+}

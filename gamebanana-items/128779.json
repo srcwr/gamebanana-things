@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"mg_terminator_v1_fix2.bsp",
+					"mg_terminator_v1_fix2.nav"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 307971,
+			"_nDownloadCount": 4365,
+			"_nFilesize": 3376955,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/307971",
+			"_sFile": "mg_terminator_v1_fix2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1319379701
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 128779,
+	"_sName": "mg_terminator_v1_fix2",
+	"_sText": "Hi \r\n\r\nThis fix2 was for mg and autorespawn mode server.\r\nThanks to $p@w! help me made mg server to test my vehicle and we fix meny bug. \r\n\r\n* Teleport bug was wen i parent this to vehicle, so i have no parent now.\r\n* Driver camera view disable pasanger 2,3,4 when exit, so i delet vehicle view camera.\r\n* Player was inside Func button and they fall down in nonblock server, so i have brush box for player.\r\n* For autorespawn deathmatch server when player enter and exit vehicle they have  diferent name, so i must make  trigger !activator name none befor they enter the map. Thanks to Z-RAY-Z for testing this on his server. If you finde more bug please tel me.\r\n\r\n_______________________________________________________________________________________________\r\n\r\n\r\nThis is my fantasy terminator map. I made this map very fast to test my new vehicles hummer. Tel me what you like and dont like and i will try fix if i can. I have work 1 month with this Hummer i hope you like it. When hummer vehicles break they will spawn from garage.\r\n\r\n[Video of the map...](http://www.youtube.com/watch?v=E7UBPeJgJIg \"video\")\r\n\r\n\r\n* i have game_weapon_manager in the map that allows max 1 weapon on the floor, but for deagel is max.\r\n\r\n* 4 prop_physic hummer vehicle \r\n* 2 coustom weapon \r\n* skybox\r\n\r\n\r\n\r\nThanks and have fun"
+}

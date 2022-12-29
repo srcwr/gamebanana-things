@@ -1,0 +1,81 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ze_minimal_v4_1.bsp",
+					"ze_minimal_v4_1.cfg"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 476798,
+			"_nDownloadCount": 129,
+			"_nFilesize": 56037198,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/476798",
+			"_sFile": "ze_minimal_v4_1.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1595859923
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Adjustment",
+					"text": "Nerfed stage 2 boss hp."
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Nerfed last boss of stage 4 hp."
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Fixed few teleport that were to fast"
+				}
+			],
+			"_sText": "I believe this is the final version for a while :&lt;",
+			"_sTitle": "ze_minimal_v4_1",
+			"_tsDateAdded": 1595860072
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Adjustment",
+					"text": "Fixed stage 2 bossfight zm platform attack that were killed permanently"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Fixed stage 4 second miniboss, people cannot shoot from outside now"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Changed a bit one of the surf ramp on stage 4 that was to much.."
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Changed a bit kz triggers on stage 4, added extra units.. made it easier"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "The two last boss on stages 4 now add hp correctly"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Tried to make the ending dodge less laggy.."
+				}
+			],
+			"_sText": "I believe v4 is the final and stable version for a while.<br><br>I also should have named the map as \"v1_1, v1_2\". But its kinda late.<br><br><br><br>",
+			"_sTitle": "ze_minimal_v4",
+			"_tsDateAdded": 1595511475
+		}
+	],
+	"_idRow": 130868,
+	"_sName": "ze_minimal_v4_1",
+	"_sText": "Hey, <br><br>Here is my second zombie escape map.<br><br>ze_minimal is based on kz_bhop_minimal, a map I made around 2 years ago.<br>The lightning, textures and the atmosphere is really similar.<br>I added a bit of kz triggers but didnt want to force the map to be \"ze_kz\". So its actually doable if you have correct movements skill.<br><br>The map have 4 stages.<br><br>Stage 1, Cyan.<br>Stage 2, Green.<br>Stage 3, Purple.<br>Stage 4, Blue.<br><br>There is 12 items in total. 6 for humans and 6 for zombies. All items are unlocked on stage 4.<br>The map is kinda challenging and need good teamplay.<br><br>If you have any suggestion on how the map can be improve or any report you can send me a message on discord (m4dara#9181).<br><br>Special thanks to Unloze and Nide that allow me to test beta version on their public server.<br><br>Special thanks to Moltard for the global help around hammer.<br><br>Good luck and have fun!"
+}

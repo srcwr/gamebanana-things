@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"surf_clockwork.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 326022,
+			"_nDownloadCount": 1513,
+			"_nFilesize": 10125914,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/326022",
+			"_sFile": "surf_clockwork.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1262381442
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 121833,
+	"_sName": "surf_clockwork",
+	"_sText": "-=surf_clockwork=-\r\n\r\nThis is one of my oldest projects that I finished. Actually it's a map I made in the days I was less experienced. However I restarted this map for 90% and I decided to fully release it. \r\n\r\n<b>The map system</b>\r\n\r\nThe players start in the spawn and as they walk towards the first ramp a pre-timer will be activated. When this timer runs out (after 2 minutes) the real timer will start.\r\nDuring the pre-timer, every failure will be forgiven and there will be an instant retry. However, after the first 2 minutes, every player will be sent to jail after a fail. More about the jail later.\r\n\r\nThe surf track is a linear track with high difficulty level. As you start surfing you will move through different environments going from black-white to colourfull. Also there are both compact and spacy surf. Just before the final and hardest surf room, there is water. Land in here and walk into the portal and you will go to jail with a weapon. Then you can kill everyone you see. But watch out! (more on the jail later)\r\n\r\nThere are three time-challenges in the map. When you encounter a dead end, then this is no dead end but a time-challenge. You must surf through a black/white circle/corona. After that, doors will open which will allow you to continue surfing. The trick is to think out how to reach this corona and get through a door before it closes again. These events are time-based and you will see a visual clock which displays the time that is left.\r\n\r\nThere is also a special bonus stage which is a collapsed version of my surf stage in surf_Qlimax_Q. There is a 33.33% chance the bonus stage will be enabled during a round.\r\nYou can check if it is enabled by starting with the surf track and land into the blue water (where you can go to jail with a weapon). When you are teleported, you are lucky. Only 1 player is allowed in the bonus stage during a round and you only have 10 attempts to beat it. If you fail after 10 tries, then you will be teleported back to spawn.\r\nWhen you are not teleported, then either the teleporter is not activated (try again next round) or someone went in before you got there.\r\n\r\n<b>The Jail</b>\r\n\r\nTime is your ally, and your enemy on this map. When you get sent to jail you will see a huge clock. Do not touch this clock, you will instantly die. As you may guess, you will have to clock jump. So when you get sent to jail then immediatly try to focus on where the clock is and try to avoid it while landing in the clock chamber. Try to survive as long as possible until you are teleported out. Then you can try again. Players that went to jail with a weapon also have to watch out. They will have to combine survival and PvP skills in order to get kills.\r\n\r\n<b>Completing the map</b>\r\n\r\nYou can complete the map in two different ways. Beat the regular surf track or beat the bonus stage. When you beat the map in the regular way, you will be sent to a room above the jail. Players will be teleported and you can choose between 3 buttons.\r\n\r\nButton 1: Gives you a para and you will be able to kill everyone. (Beware, the other players will get knives so also keep an eye on your health)\r\n\r\nButton 2: Two panels will lower through the ceiling and all the players will be dropped into the clockjumping room. Now YOU have control over the clock. Press the orange button to increase speed and press the green one to decrease.\r\n\r\nButton 3: It is silent...suddently the whole area starts to shake and a huge sound can be heard. In a matter of seconds...your enemy team is dead and you get the kills.\r\n\r\nI hope you have fun. If there are any gameplay-killing bugs then please do message me. If it is just a small detail, then nevermind."
+}

@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ReadMe.txt",
+					"de_favela_rio.bsp",
+					"leiame.txt"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 309405,
+			"_nDownloadCount": 45062,
+			"_nFilesize": 25303269,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/309405",
+			"_sFile": "_59-.7z",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1314466641
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 102341,
+	"_sName": "de_favela_rio",
+	"_sText": "This is the final version of my new favela map, this one set in the city of Rio de Janeiro, launched in April/2011 in beta version as de_favela_rio_beta2. It is not a modified version of my previous favela maps, nor has anything to do with cs_rio, its an entirely new map. A unique feature of this map is the 3D skybox which portraits with fidelity the topography of the city. I also gave special attention to the layout for gameplay. However, its a very large map, so its more interesting with at least 20 players, and should be very fun with 40+ players. Despite the long distance views, the fps is fairly good throughout the map.\r\n\r\nThe map plays songs that are not included in the BSP, and must be installed manually.\r\n\r\nInstructions for installation of songs:\r\n\r\nThis map plays songs in the stereos located at T base and bombsite B. To install the songs, create the folder ...cstrike/sound/de_favela, and save 6 mp3 music files to your liking named as music1, music2 ... music6. To toggle songs, press use key (default <E>) in front of the stereo.\r\n\r\nNote on the radar bug: If the radar does not appear, check the parameter cl_radaralpha, it must be set between 0 and 255 but by default is 1, which is almost Transparent. Adjust to 100 or more.\r\n\r\nNote on the effect of vegetation fade-out: The vegetation of the map fades out at a certain distance. To eliminate this effect, change the parameter cl_detaildist 1200 (default) to 3000.\r\n\r\nIMPORTANT: CHECK THESE NEW LIGHTING VERSIONS OF THIS MAP HERE:\r\n\r\n[de_favela_rio dusk,night&dawn mappack](http://www.gamebanana.com/maps/160179 \"de_favela_rio desk,night&dawn mappack\")\r\n\r\nGood fun, and give me your feedback.\r\n\r\n\r\nHastal @ Vista\r\n\r\nThis is a video on the map:\r\n\r\n<iframe width=\"560\" height=\"315\" src=\"http://www.youtube.com/embed/Bl53hkx2GPM\" frameborder=\"0\" allowfullscreen></iframe>"
+}

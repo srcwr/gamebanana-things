@@ -1,0 +1,77 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"surf_luminaris_refix.bsp",
+					"surf_luminaris_refix.nav"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 470712,
+			"_nDownloadCount": 114,
+			"_nFilesize": 52356474,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "Refix",
+			"_sDownloadUrl": "https://gamebanana.com/dl/470712",
+			"_sFile": "surf_luminaris_refix.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1593189231
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "S1 & S2 curved ramp playerclips remade"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Added teleport under b1 goal"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Changed b1 start and b3 end from model to brush"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Refix",
+			"_tsDateAdded": 1593189337
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "Fixed ramp collision"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Remade a few ramps on main map"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Added small signs/details on bonuses to show route"
+				},
+				{
+					"cat": "Tweak",
+					"text": "Compiled with HDR & LDR"
+				},
+				{
+					"cat": "Optimization",
+					"text": "Repacked with BSPZip"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "CSS Fixes/Improvements",
+			"_tsDateAdded": 1589855192
+		}
+	],
+	"_idRow": 137840,
+	"_sName": "surf_luminaris",
+	"_sText": "An eternity project finally complete! <br>Not the most detailed piece of work, but it's decent fun atleast so hope that makes up for it. :)<br>Zone file for Momentum included in the zip file.<br><br>3 Stages & 6 Bonuses<br>Tier 2 or 3'ish<br><br>CSGO: <a href=\"https://gamebanana.com/maps/209791\">https://gamebanana.com/maps/209791</a><br><br>"
+}

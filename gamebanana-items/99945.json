@@ -1,0 +1,100 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrike": {
+						"maps": [
+							"cs_graymill.bsp",
+							"cs_graymill.nav",
+							"cs_graymill.txt"
+						],
+						"materials": {
+							"models": {
+								"props_foliage": [
+									"leaf_ncweeping02de_de.vmt",
+									"leaf_ncweeping02de_de.vtf"
+								]
+							}
+						},
+						"models": {
+							"hds": [
+								"baum02b.dx80.vtx",
+								"baum02b.dx90.vtx",
+								"baum02b.mdl",
+								"baum02b.phy",
+								"baum02b.sw.vtx",
+								"baum02b.vvd",
+								"efeu03.dx80.vtx",
+								"efeu03.dx90.vtx",
+								"efeu03.mdl",
+								"efeu03.phy",
+								"efeu03.sw.vtx",
+								"efeu03.vvd",
+								"gate.dx80.vtx",
+								"gate.dx90.vtx",
+								"gate.mdl",
+								"gate.phy",
+								"gate.sw.vtx",
+								"gate.vvd",
+								"lampe02.dx80.vtx",
+								"lampe02.dx90.vtx",
+								"lampe02.mdl",
+								"lampe02.phy",
+								"lampe02.sw.vtx",
+								"lampe02.vvd",
+								"lampe07.dx80.vtx",
+								"lampe07.dx90.vtx",
+								"lampe07.mdl",
+								"lampe07.phy",
+								"lampe07.sw.vtx",
+								"lampe07.vvd",
+								"statue.dx80.vtx",
+								"statue.dx90.vtx",
+								"statue.mdl",
+								"statue.phy",
+								"statue.sw.vtx",
+								"statue.vvd"
+							],
+							"props_foliage": [
+								"vrba1a.dx80.vtx",
+								"vrba1a.dx90.vtx",
+								"vrba1a.mdl",
+								"vrba1a.phy",
+								"vrba1a.sw.vtx",
+								"vrba1a.vvd"
+							]
+						},
+						"sound": {
+							"hds_graymill": [
+								"graymill_theme.wav",
+								"hds_cavern.wav",
+								"hds_chip.wav",
+								"hds_church.wav",
+								"hds_hills.wav",
+								"hds_sea.wav",
+								"hds_toad.wav"
+							]
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 356655,
+			"_nDownloadCount": 4207,
+			"_nFilesize": 5115377,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/356655",
+			"_sFile": "cs_graymill.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1156764563
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 99945,
+	"_sName": "cs_graymill",
+	"_sText": "Nice map in a manor lost in forest"
+}

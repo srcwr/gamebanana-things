@@ -1,0 +1,71 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "ze_candy_star_a3.bsp",
+					"__MACOSX": [
+						"._ze_candy_star_a3.bsp"
+					]
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 481932,
+			"_nDownloadCount": 83,
+			"_nFilesize": 20050613,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/481932",
+			"_sFile": "ze_candy_star_a3bsp.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1598151412
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Overhaul",
+					"text": "Recompiled with Slammin' Tools: added ambient occlusion"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Removed a nuke avoidance spot"
+				}
+			],
+			"_sText": "Small update; no new features, just bug fixes and basic visual upgrades<br>",
+			"_sTitle": "a3",
+			"_tsDateAdded": 1598151505
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Added multiple difficulties (star, galaxy, universe)"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed nuke avoidance exploit"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added some music"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Minor visual adjustments"
+				}
+			],
+			"_sText": "Still 1 stage, no items and no bosses. 3 difficulties now. Have fun! \\&gt;.&lt;/",
+			"_sTitle": "a2",
+			"_tsDateAdded": 1516795094
+		}
+	],
+	"_idRow": 130662,
+	"_sName": "ze_candy_star",
+	"_sText": "ze_candy_star<br><br>A super simple map loosely based on a weird recurring dream I used to have as a child.<br><br>1 stage for now with 3 difficulties. No items. No bosses. Don't expect anything \"epic\""
+}

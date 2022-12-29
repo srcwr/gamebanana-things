@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"cs_centralstation_a1.bsp",
+					"cs_centralstation_a1.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 341375,
+			"_nDownloadCount": 1482,
+			"_nFilesize": 1869466,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/341375",
+			"_sFile": "cs_centralstation_a1.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1212867069
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 99687,
+	"_sName": "cs_centralstation_a1",
+	"_sText": "This map is made by me, mainly after passing through the hall of the central trainstation in Groningen (city in the Netherlands). Its architecture fascinated me, and therefore I decided to try and make a Counter-Strike map around it. \r\n\r\nThe hall has been reconstructed using pictures and a sketch (see screenshots, note: drawing not made by me). The area around it is purely fictional and adjusted to fit a CS Counter-strike map.\r\n\r\nIt is currently in development and halfway done (T-side done, CT side just a box :P). The roof is still to come as well. See the development tab above for more pictures and the whole process. \r\n\r\nIt has been uploaded for testing and fun, to let the public see the map, test it and tell me what I can improve :)\r\n\r\nIt is made for max 20 players (10vs10, obviously), but it has not yet been fully optimized in brushwork and VISleafs (for those who know what I mean), I cannot guarantee optimal fps in large groups. In addition, it works nicely in 3vs3ish as well.\r\n\r\nKnown bugs at the moment: \r\n# In the secret passage vent from the storage room to the upstairs office, people can have problems climbing the stairs and jumping from it. Face the stairs, press crouch and jump to get there.\r\n# When 1vs1 Bot remain after a while (T bot camping the Hostage Rescue zone and CT bot rescuing the hostages, they might get stuck and look at a wall for a few minutes before continuing to their confrontation. \r\n# Lag problems due to no complete optimization\r\n\r\nHave fun testing and debugging. :D"
+}

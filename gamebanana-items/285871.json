@@ -1,0 +1,76 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"bhop_hextra-f.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 627170,
+			"_nDownloadCount": 159,
+			"_nFilesize": 31623601,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "...",
+			"_sDownloadUrl": "https://gamebanana.com/dl/627170",
+			"_sFile": "bhop_hextra-final.zip",
+			"_sMd5Checksum": "d0e6972b6a096a13dc8d3d07a161421b",
+			"_tsDateAdded": 1627759969
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "half-way checkpoint in each stage"
+				},
+				{
+					"cat": "Addition",
+					"text": "strafe+surf+boost bonus added"
+				},
+				{
+					"cat": "Overhaul",
+					"text": "major rework of stage flow/meta"
+				},
+				{
+					"cat": "Removal",
+					"text": "all boosters removed from main stages"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "staircased sections flattened out"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "extended many 1x1 tiles, added more curve/bend platforms"
+				},
+				{
+					"cat": "Improvement",
+					"text": "teleports are a bit more seamless now"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "colours+contrast adjusted, slightly darker theme"
+				},
+				{
+					"cat": "Optimization",
+					"text": "reduced bsp size by properly compressing the textures this time"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "teleports near start/end zones no longer exploitable"
+				}
+			],
+			"_sText": "bhop_hextra-f brings the course to its polished/final state - major reworking of the stage flow+interactions, obstacles reduced to make speedruns more feasible.&nbsp;<br><br>the bonus takes away all bhop platforms, making the stage floors solid. there is a green hexagon near the middle - surf up to it for a 600u boost each pass! a total of 6 boosts possible in the bonus run, however the first may be tricky to reach!<br>",
+			"_sTitle": "bhop_hextra-f",
+			"_tsDateAdded": 1627667026
+		}
+	],
+	"_idRow": 285871,
+	"_sName": "bhop_hextra-f",
+	"_sText": "bhop_hextra is a hexagonal tunnel with bhops on all sides.<br>the structure repeats itself to create 6 stages, only rolled 60 degrees per copy.<br>bhops then double as surf ramps and ledges, useful for speed+height in adjacent stages!<br><br>this map started as a small concept map bhop_cubic_a1 - and many many years of struggling with blender, finally I'm satisfied with how this came out. special thanks for all that gave feedback on v1, truly hope that more will enjoy this version of the map! <br>"
+}

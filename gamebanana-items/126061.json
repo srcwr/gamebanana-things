@@ -1,0 +1,58 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"bhop_spiral_lennys_v1_6.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 278489,
+			"_nDownloadCount": 591,
+			"_nFilesize": 1815787,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/278489",
+			"_sFile": "bhop_spiral_lennys_v1_6.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1462521280
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Added trigger_teleport on top of the blocks: stand on it for 1 second and goodbye."
+				},
+				{
+					"cat": "-",
+					"text": "Minor fixes."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Version 1.6",
+			"_tsDateAdded": 1462949702
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Added level select room: Choose level you want to tp to."
+				},
+				{
+					"cat": "-",
+					"text": "Minor fixes."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Version 1.5",
+			"_tsDateAdded": 1462875833
+		}
+	],
+	"_idRow": 126061,
+	"_sName": "bhop_spiral_lennys_v1_6",
+	"_sText": "My first map. Dedicated to CSFrag gaming community.<br>Meh, i'm just a 12 year old mapper xD so I don't know much about hammer."
+}

@@ -1,0 +1,137 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_clifftop_v05b.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 850694,
+			"_nDownloadCount": 321,
+			"_nFilesize": 6330204,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "mapfile v0.5b",
+			"_sDownloadUrl": "https://gamebanana.com/dl/850694",
+			"_sFile": "de_clifftop_v05b.rar",
+			"_sMd5Checksum": "7aa89ec99eead86a9c3c4b0ff993832b",
+			"_tsDateAdded": 1660769564
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "-Corrected detail brush clipping in various locations"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "-Fixed a level crash related to pak file contents"
+				},
+				{
+					"cat": "Optimization",
+					"text": "-Further reduced global vertex calls"
+				},
+				{
+					"cat": "Tweak",
+					"text": "-Altered environment and local lighting"
+				},
+				{
+					"cat": "Tweak",
+					"text": "-Replaced textures in many areas"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "-Reworked T spawn stairs to a more simple ramp"
+				}
+			],
+			"_sText": "<p>Thank you <strong>Just1ne</strong> for pointing out most of these issues!</p>",
+			"_sTitle": "de_clifftop",
+			"_sVersion": "v0.5 b",
+			"_tsDateAdded": 1660769810
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Optimization",
+					"text": "Reduced global Vertex calls in the world space"
+				},
+				{
+					"cat": "Optimization",
+					"text": "Added min max fadeout to a number of props"
+				},
+				{
+					"cat": "Optimization",
+					"text": "Simplified some func_detail geometry for visibility and performance"
+				},
+				{
+					"cat": "Optimization",
+					"text": "Changed a large number of textures to aid vertex buffer limits and visibility"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Addressed a large number of console errors upon level load"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Reworked some brushes and decal sprites"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Re worked minimap"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Changed Church layout to ease navigation and help CTs hold a stronger position while allowing Ts to rotate more effectively"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Changed cover layout in B site"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Removed canopy roof from B site"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Changed LoS from B interion to Lobby doors reducing this positions effectiveness"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Changed Tree model in A long Yard to ease visibility"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added waist height cover to T Spawn"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Widened apartment corridors"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Removed stairway window from House"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Adjusted most prop foliage density"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Made crate jump from sewer to A site slightly harder"
+				}
+			],
+			"_sText": "<p>V.04B will be a last major update for some time.<br>Please submit suggestions and bug reports in the comments.</p>",
+			"_sTitle": "de_clifftop",
+			"_sVersion": "v0.4 b",
+			"_tsDateAdded": 1660209893
+		}
+	],
+	"_idRow": 394364,
+	"_sName": "de_clifftop",
+	"_sText": "Beta version of de_clifftop for testing and feedback before finalisation.<br><br>I have been working on this map periodically for a little over 2 years going through many changes, overhauls and reworks, there is much more work to do, I hope you enjoy.&nbsp; Please leave any feedback and criticism below.<br><br>Thank you to the lovely members of TheFragHunted for helping me test and make many improvements.&nbsp; You know who you are &lt;3<br><br><b><span class=\"GreenColor SelectedElement\">Latest Release:: V0.5b</span></b><br><br><span class=\"RedColor\">!!Known Issues To Be Fixed Later!!</span><br><br><del>-No Radar</del><br>-Missing detailing / Texture work<br><del>-Reduce global vertex calls<br>-Layout and LoS tweak to B site</del><br><del>-Ease navigation in apartments to lobby stairs</del><br><del>-Clear certain console errors relating to prop collision models</del><br>-Triggering the Onion spawn (location 2 or 3) may slightly load the server for a moment<br><del>-Minor bugs in geometry</del><br>-No custom Nav Mesh<br>-Minimal Sounscape<br>-Skybox rework<br><del>-Layout changes to Church</del><br>-Spawn changes<br>-Interacting with tree7 (OOB) will grant certain players slightly increased movespeed<br>-Certain wallbangs tuned<br>-VVIS recalculation<br>-Adjustment to encounter timing on map extremities<br><del>-Add cover to Tspawn from mid/ct snipers</del><br><del>-Make crate jump from mid connector to A a bit harder</del><br>-Static reflection bug in 3dskybox water<br><del>-Improve lighting in B courtyard interior</del><br><del>-Missing texture on T spawn stairs<br>-Pixel gap on T mid arch<br>-Doorway brush clipping through door prop on A long</del><br><br>Thankyou<br><br>"
+}

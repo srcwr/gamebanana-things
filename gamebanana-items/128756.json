@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"mg_survival2_beta2.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 327876,
+			"_nDownloadCount": 1895,
+			"_nFilesize": 1788640,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/327876",
+			"_sFile": "mg_survival2_beta2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1255986741
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 128756,
+	"_sName": "mg_survival2_beta [2]",
+	"_sText": "<font color=\"red\"><b>Note that this is a beta version. When I tested it, it functioned correctly. If you do find any bugs, however, please report them to me!</b></font>\r\n\r\n<b><font color=\"yellow\">Also, any suggestions for improvement are very much appreciated!</font></b>\r\n\r\n<fieldset style=\"border: black 2px dotted\"><legend><b>Changes in beta 2</b></legend>\r\n- Spikes will not go underground at the start of each round. Instead, they will start underground.\r\n- Spawns have been placed closer to the ground, hopefully to prevent lag at the start of the round.\r\n- Some additional decorative and tactical objects have been added.\r\n- During <i>find&destroy the crates</i>, if only one team manages to destroy the crate, that team won't die.\r\n- The trigger_push fields on top of the crates now have the correct speed of push value.\r\n</fieldset>\r\n\r\nThe terrorists and the counter-terrorists spawn on different sides of a glass wall. They can see eachother, but not hurt eachother. \r\n\r\nThe idea of the map is to survive a number of events. Players will have nothing but a knife during these events. Each event has to be survived or completed within a given time. If you can't reach the goal of the event in time, you die. \r\n\r\nAfter a series of events (three events per round in this version of mg_survival), the glass wall in the middle will break, and the remaining players will have to fight to death.\r\n\r\n<b><font color=\"orange\">Changes planned for final release:</b>\r\n\r\n- Give the trigger_pushes on top of the crates in the map the correct \"speed of push\" value.\r\n- Gonna make it so that if one team is able to destroy the crate, but the other isn't, only one team will die.\r\n</font>"
+}

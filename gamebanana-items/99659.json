@@ -1,0 +1,74 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "Credits.txt",
+					"1": "ReadMe.txt",
+					"cstrike": {
+						"maps": [
+							"cs_cabaret.bsp",
+							"cs_cabaret.nav",
+							"cs_cabaret.res"
+						],
+						"sound": {
+							"cabaret": [
+								"car1.wav",
+								"car2.wav",
+								"scratch.wav",
+								"specroom.wav",
+								"telephone.wav",
+								"track1.wav",
+								"track2.wav",
+								"track3.wav"
+							],
+							"hostage": {
+								"hpain": [
+									"hpain1.wav",
+									"hpain2.wav",
+									"hpain3.wav",
+									"hpain4.wav",
+									"hpain5.wav",
+									"hpain6.wav"
+								],
+								"hunuse": [
+									"comeback.wav",
+									"dontleaveme.wav",
+									"illstayhere.wav",
+									"notleaveme.wav",
+									"yeahillstay.wav"
+								],
+								"huse": [
+									"getouttahere.wav",
+									"illfollow.wav",
+									"letsdoit.wav",
+									"letsgo.wav",
+									"letshurry.wav",
+									"letsmove.wav",
+									"okletsgo.wav",
+									"youlead.wav"
+								]
+							}
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 347943,
+			"_nDownloadCount": 8355,
+			"_nFilesize": 23822751,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/347943",
+			"_sFile": "cs_cabaret.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1192292716
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 99659,
+	"_sName": "cs_cabaret",
+	"_sText": "Another quality map i never made, not sure why this has never been uploaded before or if it has why was it removed its great\r\n\r\n---------------------\r\n\r\nThe basic idea of CS_Cabaret is that a group of Terrorists have taken control of a gentlemens club, while taking a few hostages at the same time. Its up to the Counter-Terrorists to break in and save the day. Theres quite a few entrances on all different sides of the club, allowing both quick entry and quick exit for both teams while providing both outdoor long range combat and indoor CQB action.\r\n\r\nCabaret has been heavily balanced and fine tuned to make sure that no team has a clear advantage, and that each team has equal opportunities at victory. Through countless hours of playtesting with both humans and bots, the map has proved to be amazingly balanced for a assault-styled map.\r\n\r\nThe custom hostage models included with the map are strippers, as it definetly suites the map more than the original (and boring) worker hostages. Theres also a ton of custom textures, models and sounds which are completely new, so it definetly gives the map a unique look and feel which is unlike any other map around. The downside of all the custom content is that t he filesize of the map grows considerably. The materials, models and sounds account for about 20mb out of the 60mb bsp, while almost all the rest of the filesize is due to HDR lighting (it nearly triples the filesize). Its good to use new technology, though. I also spent alot of time making sure that the map was balanced for each side, allowing fair and maybe even competitive gameplay. I tested the map with both human players and bots for balance, and after lots of tweaking, the map eventually became even.\r\n\r\nSpeaking of bots, there is a heavily tweaked .nav file included in the map which I created almost from the ground up, which will make those with unstable internet connections happy as the bots preform quite well around the map. The only issue which I couldent figure out a way to fix (but did manage to lessen its occurrence) was how the bots interact with doors. Sometimes theyll get caught on the door and wait for a few seconds before managing to get by. Since the hostages also use the .nav file aswell, they run around very well and will rarely get stuck on anything (unless you decide to lead them through the entire building while running as fast as possible).\r\n\r\nRecomended Players: 6-20 Maximum: 40"
+}

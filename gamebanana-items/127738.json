@@ -1,0 +1,39 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "mg_battlefield_island1.bsp",
+					"1": "mg_battlefield_island1_particles.txt",
+					"sound": {
+						"ctf": [
+							"blue_team_is_the_winner.wav",
+							"blue_team_scores.wav",
+							"flag_returned.wav",
+							"flag_taken.wav",
+							"red_team_is_the_winner.wav",
+							"red_team_scores.wav"
+						]
+					}
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 306992,
+			"_nDownloadCount": 7621,
+			"_nFilesize": 26521037,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/306992",
+			"_sFile": "mg_battlefield_island1_2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1322928414
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 127738,
+	"_sName": "mg_battlefield_island1",
+	"_sText": "Bug to fix : Dont kick player that drive vehickles and dont change map when you drive vehicles this make Crash the map. Game_ui entity dont like this =) I will try fix this bug.\r\n\r\nhii \r\n\r\nI have work long time to make this vehicles so i hope you like it. Thanks to Spawi help made server so i can test my map and see all bug in server.\r\n\r\nMap info: I have flag in CT and T oil platform and 1 in the house. So when you have activate all flag then the enemy will die and you win. Player that activate last flag get 3 point. You can use vehicle to defend yourself from sniper =) \r\n\r\n- 90sc byzon.\r\n- Ammo box in ct and t spawn and in house.\r\n- Speed and gravity mode in ct and t spawn, ore normal with more health.\r\n- 2 boat 1 driver and can take passengers on board.  \r\n- 2 Apache helicopter 1 driver and missil user. 1 mashingun user.\r\n- 2 Tank 1 driver and flame user, 1 canon user, 1 mashingun user.\r\n- 2 plane 1 driver and missile user.\r\n- 2 Hummer 1 driver and mashingun user, and 3 passengers can enter. \r\n- 2 custom weapon 1 RPG user and 1 mine user.\r\n- 3 flag to activate. \r\n- All vehicles will autorespawn after break.\r\n\r\n[Video...](http://www.youtube.com/watch?v=2RmQi69UEpk \"video\")\r\n\r\nIf you find any bug ore any changes just tel me, and i will try fix it.\r\nIf your server crash then see this [Assertion failed crash...](http://forums.steampowered.com/forums/showthread.php?p=25976394 \"crash\")"
+}

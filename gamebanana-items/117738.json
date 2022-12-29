@@ -1,0 +1,62 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrike": {
+						"maps": [
+							"dm_whutdufuk.bsp",
+							"dm_whutdufuk.nav",
+							"dm_whutdufuk.res",
+							"dm_whutdufuk.txt"
+						],
+						"materials": {
+							"whutdufuk": [
+								"countert.vmt",
+								"countert.vtf",
+								"grid2.vmt",
+								"grid2.vtf",
+								"grid3.vmt",
+								"grid3.vtf",
+								"grid4.vmt",
+								"grid4.vtf",
+								"gridbase.vmt",
+								"gridbase.vtf",
+								"logo.vmt",
+								"logo.vtf",
+								"sinful.vmt",
+								"sinful.vtf",
+								"terrorist.vmt",
+								"terrorist.vtf"
+							]
+						},
+						"sound": {
+							"ambient": {
+								"atmosphere": [
+									"ambience5.wav"
+								]
+							}
+						}
+					}
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 361223,
+			"_nDownloadCount": 2250,
+			"_nFilesize": 982597,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/361223",
+			"_sFile": "dm_whutdufuk.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1118714136
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 117738,
+	"_sName": "dm_whutdufuk",
+	"_sText": "Small map I ported over upon request, map includes textures and a .res file for servers, and .nav files for bots also see\r\n\r\nhttp://csm2.net/forum/index.php/topic,289.0.html \r\n\r\nfor other install tips."
+}

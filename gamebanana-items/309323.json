@@ -1,0 +1,56 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ze_rebelground_css_v1_fix.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 665945,
+			"_nDownloadCount": 55,
+			"_nFilesize": 2876398,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/665945",
+			"_sFile": "ze_rebelground_css_v1_fix.rar",
+			"_sMd5Checksum": "fea1a8875b6fd4cc914a7541532aaf3b",
+			"_tsDateAdded": 1632894047
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "+Added steam (sorta, not really) in the airlock"
+				},
+				{
+					"cat": "-",
+					"text": "+Fixed some audio issues"
+				},
+				{
+					"cat": "-",
+					"text": "+Fixed some minor texture issues"
+				},
+				{
+					"cat": "-",
+					"text": "-Removed the vending machine in the dorm"
+				},
+				{
+					"cat": "-",
+					"text": "-Removed the secret sign and replaced it with another one"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Version 1.1 Fix",
+			"_tsDateAdded": 1632893984
+		}
+	],
+	"_idRow": 309323,
+	"_sName": "ze_rebelground_css_v1_fix",
+	"_sText": "<hr><hr><br><br><h1><b><span class=\"GreenColor\"><span class=\"RedColor\">ZE_REBELGROUND_CSS</span></span></b></h1><br><hr><hr><br>ze_rebelground_css is a Zombie Escape map made for CSS inspired by Black Mesa East (HL2) and a Garry's Mod map called gm_breach<br><br>If you have any questions, you can comment down below or contact me on Discord."
+}

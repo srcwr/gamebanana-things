@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"Readme.txt",
+					"deathrun_random_final.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 336091,
+			"_nDownloadCount": 1528,
+			"_nFilesize": 417714,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/336091",
+			"_sFile": "deathrun_random_final_3.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1229481015
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 127149,
+	"_sName": "deathrun_random_final",
+	"_sText": "This map is a AI controlled deathrun map, therefore CT players is NOT needed to control each sets of traps.\r\n\r\nThere is only terrorist spawnpoints, therefore player can respawn by joining terrorist again upon death.\r\n\r\nIf you cannot join Terrorist due to limited teams, use rcon or in server console, type in mp_limitteams 20.\r\n\r\nFor single player: player can use no clip to play each traps without worries about reseting teleporters and waypoints\r\n\r\nFor multiplayer: one player must be alive in terrorist, if all players die the map restarts. To prevent this from happening, one player should stay back until someone respawn before he attempts any traps. \r\n\r\nOr, try to add a bot to the server, the server will create a nav file and restart the map, then the map will be ready to add a bot, the bot will be on Terrorist and will not move nor attack, preventing map restart.\r\n\r\n\r\n------------------\r\nUpdates:\r\nIncrease slot to 32 players."
+}

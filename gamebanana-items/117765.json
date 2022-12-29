@@ -1,0 +1,48 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"ffa_simpsons_dusty_rh": {
+						"0": "css-20090306-185059.jpg",
+						"1": "css-20090306-185109.jpg",
+						"2": "css-20090306-185147.jpg",
+						"3": "css-20090306-185202.jpg",
+						"4": "css-20090306-185217.jpg",
+						"5": "css-20090306-185317.jpg",
+						"6": "ffa Tutorial.txt",
+						"cstrike": {
+							"cfg": {
+								"cssdm": {
+									"spawns": [
+										"ffa_simpsons_dusty_rh.txt"
+									]
+								}
+							},
+							"maps": [
+								"ffa_simpsons_dusty_rh.bsp"
+							]
+						}
+					}
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 333736,
+			"_nDownloadCount": 3667,
+			"_nFilesize": 3673772,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/333736",
+			"_sFile": "ffa_simpsons_dusty_rh.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1236518192
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 117765,
+	"_sName": "ffa_simpsons_dusty_rh",
+	"_sText": "CSS free-for-all mode\r\nThis ffa mod is based on CSS:DM and you need maps only with Counter-Terror or Terror spawn points, but only one of this.\r\nThe different to normal maps is, that you have only one team and the round never ends, because there is no team winning the round. \r\nIn fact you need some changes in the server config to disable team kill messages and sounds. It's also possible to remove counter or terror spawn points with the mod stripper, but it makes only trouble with your server.\r\nIt's also advantageous that it isn't round based and respawn all over the map after death.\r\n\r\n\r\nRead the tutorial \r\nhttp://www.fpsbanana.com/tuts/8023 \r\nbefor install\r\nthis map is designed for CSS:DM Free-for-all mod"
+}

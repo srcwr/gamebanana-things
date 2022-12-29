@@ -1,0 +1,49 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"bhop_verbena_v2.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 435936,
+			"_nDownloadCount": 194,
+			"_nFilesize": 12067053,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/435936",
+			"_sFile": "bhop_verbena_v2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1571755618
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Removal",
+					"text": "Removed final stage"
+				},
+				{
+					"cat": "Tweak",
+					"text": "Tweaked certain stages to be more speedrun friendly"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Adjusted lights to not be so bright"
+				}
+			],
+			"_sText": "Due to several people asking me to a v2 of this map with the last stage removed, I decided to finally put it out, any server with bhop_verbena should either replace it with this one or add this one as well. This version is way more speedrun friendly and has a lot of tweaks to make the map more enjoyable for everyone. Cheers!<br>",
+			"_sTitle": "bhop_verbena_v2",
+			"_tsDateAdded": 1571755474
+		}
+	],
+	"_idRow": 126308,
+	"_sName": "bhop_verbena_v2",
+	"_sText": "Longest map I have made so far and probably the last one.<br><br>-20 stages with varied gameplay<br>-30-35 second very fast paced bonus<br>-decent aesthetics<br>-good for both beginners to bhop but also challenging to one shot <br>-loosely inspired by both fpsmax and aux_a9<br><br>Thanks, and have fun<br>"
+}

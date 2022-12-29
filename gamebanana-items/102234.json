@@ -1,0 +1,49 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"de_ED_blast": {
+						"0": "readme.txt",
+						"cstrike": {
+							"maps": [
+								"de_ED_blast.bsp",
+								"de_ED_blast.nav",
+								"de_blast_ed.bsp"
+							],
+							"materials": {
+								"overviews": [
+									"de_ED_blast.vmt",
+									"de_ED_blast.vtf",
+									"de_ED_blast_radar.vmt",
+									"de_ED_blast_radar.vtf"
+								]
+							},
+							"resource": {
+								"overviews": [
+									"de_ED_blast.txt"
+								]
+							}
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 349677,
+			"_nDownloadCount": 1465,
+			"_nFilesize": 6581715,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/349677",
+			"_sFile": "de_ed_blast.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1186329770
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 102234,
+	"_sName": "de_ed_blast",
+	"_sText": "De_ED_blast\r\n\r\nThis is in no way a decompile or edit of the original map (included). \r\nThe map remains the same all credit to Junks. \r\nOnly things added are 8 spawn points and an overview.\r\nName change is simply to avoid confusion, also you may need to keep the original for ED matches as sv_pure may kick this map as not being the original due to spawns and overview being added.\r\n\r\nStandard de_ style map with 2 bomb spots\r\nThis is Enemy Down's official Counter-Strike Source map. \r\nIt was created by Junks who is a member of the ED admin team. \r\nThis map is available to use in ED matches and will be featured in ED cup and league events.\r\n\r\ncopy the cstrike file and paste into\r\n\r\nC:\\Program Files\\Steam\\steamapps\\**YOUR USER NAME**\\counter-strike source\r\n\r\nHave Fun,\r\n\r\nObii August 2007\r\nhttp://irishpirates.org\r\n\r\n\r\n\r\n\r\nde_blast_ed\r\n\r\nDesigned and created by Junks (daniel.scott23@ntlworld.com, #snipers on Quakenet)\r\n\r\nThis map was made for Enemy Down (http://www.enemydown.co.uk) for use in their ladders and league.\r\n\r\nPlace the .bsp file in your C:\\Program Files\\Valve\\Steam\\SteamApps\\YOURUSERNAME\\counter-strike source\\cstrike\\maps folder.\r\n\r\nAll custom textures have been embedded.\r\n\r\nEnjoy,\r\n\r\nJunks, August 2005"
+}

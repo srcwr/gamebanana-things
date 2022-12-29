@@ -1,0 +1,83 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "smee lite v2 readme.txt",
+					"cstrike": {
+						"maps": [
+							"mg_smee_tower_lite_v2_1.bsp"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 279741,
+			"_nDownloadCount": 2153,
+			"_nFilesize": 32528564,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/279741",
+			"_sFile": "mg_smee_tower_lite_v2_1.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1453961056
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "ladder in m4 secret is back, sorry about that"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "v2_1",
+			"_tsDateAdded": 1454737650
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Fixed some CTs dying at spawn"
+				},
+				{
+					"cat": "-",
+					"text": "Small edits to brushes"
+				},
+				{
+					"cat": "-",
+					"text": "Changed secret AWPs to Scouts, gave them no extra ammo"
+				},
+				{
+					"cat": "-",
+					"text": "turtle"
+				},
+				{
+					"cat": "-",
+					"text": "Fixed secret round not working every time"
+				},
+				{
+					"cat": "-",
+					"text": "Moved more outside CT spawns to the pool"
+				},
+				{
+					"cat": "-",
+					"text": "Added ladders to the pool, easier to get out"
+				},
+				{
+					"cat": "-",
+					"text": "Small light_environment changes"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "v2",
+			"_tsDateAdded": 1454726492
+		}
+	],
+	"_idRow": 128697,
+	"_sName": "mg_smee_tower_lite_v2_1",
+	"_sText": "<p>It's mg_smee_tower_fix2 by Mathijs. But better. At first I wanted to fix the elevator, but eventually I worked on revamping most of the map.</p><h2>Changes</h2><p></p><ul><li><span>Two secret AWPs with trails, and one MP5.</span><br></li><li><span>Brushwork cleaned up a bit with some optimizations that may make the map run a bit better for some people.</span></li><li>Lots of texture changes. Now uses militia skybox.</li><li>Lighting, shadows...</li><li>Each team now has 32 spawnpoints (previously 25). 7 CT spawns were moved to the pool.</li><li>Small ladder added behind the base of the tower.</li><li>Some boxes added to the roof, and a vending machine added to the lounge room (under vent).</li><li>Alignment of the ladder from T spawn to roof was fixed.</li><li>(hopefully) blocked some surf spots.</li><li>Elevator cleaned up and correctly aligned with the floors. There's also some elevator music and a vent on the ceiling. Elevator buttons now glow, too.</li><li>Weapon trails look smoother.</li><li>Pool stairs changed.</li><li>Cubemaps.</li><li>Vent cover is now transparent.</li><li>Replaced bottom floor beneath elevator to a player clip, so everything except players will fall through. This means that smoke grenades can't (well, shouldn't be able to) stop the elevator</li><li>secret game mode :)</li><li>...maybe too secret?</li></ul><p></p>"
+}

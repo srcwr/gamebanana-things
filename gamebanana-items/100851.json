@@ -1,0 +1,140 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "README!.txt",
+					"cstrike - counter-strike source": {
+						"maps": [
+							"de_fp_base.bsp"
+						],
+						"materials": {
+							"brophis": {
+								"dhd": [
+									"DHDFACE1TEX.vmt",
+									"DHDFACE2TEX.vmt",
+									"DHDFACEBK.vmt",
+									"DHDREDBUTTON.vmt",
+									"dhdface1tex.vtf",
+									"dhdface1tex_normal.vtf",
+									"dhdface2tex.vtf",
+									"dhdfacebk.vtf",
+									"dhdfacebk_normal.vtf",
+									"dhdredbutton.vtf",
+									"dhdredbutton_normal.vtf"
+								],
+								"gate": {
+									"0": "BRO_BUT.vmt",
+									"1": "BRO_BUTTON.vmt",
+									"10": "CHEVRON3B.vmt",
+									"11": "CHEVRON3_.vmt",
+									"12": "CHEVRON7B.vmt",
+									"13": "CHEVRON7_.vmt",
+									"14": "CHEVRONTOP_.vmt",
+									"15": "HORIZONB.vmt",
+									"16": "STARGATE_FRONT.vmt",
+									"17": "STARGATE_INNER.vmt",
+									"18": "STARGATE_MAT.vmt",
+									"19": "STARGATE_OUTTER.vmt",
+									"2": "BRO_BUT_ALPHA.vmt",
+									"20": "STARGATE_OUTTER2.vmt",
+									"21": "STARGATE_REAR.vmt",
+									"22": "bro_but.vtf",
+									"23": "chevron1_.vtf",
+									"24": "chevron1__normal.vtf",
+									"25": "chevron1b.vtf",
+									"26": "chevron2_.vtf",
+									"27": "chevron2__normal.vtf",
+									"28": "chevron2b.vtf",
+									"29": "chevron3_.vtf",
+									"3": "BRO_BUT_BETA.vmt",
+									"30": "chevron3__normal.vtf",
+									"31": "chevron3b.vtf",
+									"32": "chevron7_.vtf",
+									"33": "chevron7__normal.vtf",
+									"34": "chevron7b.vtf",
+									"35": "chevrontop_.vtf",
+									"36": "chevrontop__normal.vtf",
+									"37": "horizonb.vtf",
+									"38": "horizonb_normal.vtf",
+									"39": "stargate_front.vtf",
+									"4": "BRO_PANEL_ALPHA.vmt",
+									"40": "stargate_front_normal.vtf",
+									"41": "stargate_inner.vtf",
+									"42": "stargate_inner_normal.vtf",
+									"43": "stargate_mat.vtf",
+									"44": "stargate_mat_normal.vtf",
+									"45": "stargate_outter.vtf",
+									"46": "stargate_outter2.vtf",
+									"47": "stargate_outter_normal.vtf",
+									"48": "stargate_rear.vtf",
+									"5": "BRO_PANEL_BETA.vmt",
+									"6": "CHEVRON1B.vmt",
+									"7": "CHEVRON1_.vmt",
+									"8": "CHEVRON2B.vmt",
+									"9": "CHEVRON2_.vmt",
+									"eh_opening": [
+										"EH_CLOSING_TEX.vmt",
+										"EH_OPENING_TEX.vmt",
+										"eh_closing.vtf",
+										"eh_opening.vtf"
+									]
+								}
+							}
+						},
+						"sound": {
+							"sg": [
+								"sgchvrnlck2.wav",
+								"sgcls.wav",
+								"sgeh2.wav",
+								"sgopn.wav",
+								"sgwtrsnd.wav"
+							]
+						}
+					},
+					"czero for condition zero": {
+						"0": "uk_base.wad",
+						"maps": [
+							"uk_base.bsp"
+						]
+					},
+					"uk base comparison screenshots": [
+						"Thumbs.db",
+						"new_cliffs.JPG",
+						"new_front.JPG",
+						"new_front2back.JPG",
+						"new_gateoff.JPG",
+						"new_gateroom.JPG",
+						"new_mine.JPG",
+						"new_special.JPG",
+						"new_warehouse.JPG",
+						"old_front2back.JPG",
+						"old_warehouse.JPG",
+						"screenshot 1.JPG",
+						"screenshot 2.JPG",
+						"screenshot 3.JPG",
+						"screenshot 4.JPG",
+						"screenshot 5.JPG",
+						"screenshot 6.JPG"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 330212,
+			"_nDownloadCount": 1703,
+			"_nFilesize": 10815896,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/330212",
+			"_sFile": "de_fp_base.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1248549708
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 100851,
+	"_sName": "de fp base",
+	"_sText": "This file contains: -\r\n\r\nA readme\r\nScreenshots\r\n\r\n-------For Condition Zero ------- (old)\r\n\r\nUK base map\r\nukbase.WAD (for custom textures)\r\n\r\n------Four Counter-Strike: Source------ (new)\r\n\r\nFP base map\r\nMaterials\r\nSounds\r\n\r\nI hope that you all enjoy my new map and please let me know what you all think!"
+}

@@ -1,0 +1,135 @@
+{
+	"_aAlternateFileSources": [
+		{
+			"description": "Map with BossHP and EntWatch",
+			"url": "https://www.dropbox.com/s/pnxai78n3b7whd6/ze_surf_dark_fantasy_v1.7z?dl=0"
+		},
+		{
+			"description": "Stripper",
+			"url": "https://www.dropbox.com/s/zm0yavaa3s092bk/stripper_v1.7z?dl=0"
+		}
+	],
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "ze_surf_dark_fantasy_v1.bsp",
+					"bosshp": [
+						"ze_surf_dark_fantasy_v1.cfg"
+					],
+					"entwatch": [
+						"ze_surf_dark_fantasy_v1.cfg"
+					],
+					"stripper only for Russian Servers": [
+						"ze_surf_dark_fantasy_v1.cfg"
+					]
+				},
+				"_sMimeType": "application/x-7z-compressed"
+			},
+			"_bContainsExe": false,
+			"_idRow": 427562,
+			"_nDownloadCount": 329,
+			"_nFilesize": 80069480,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "Map with BossHP and EntWatch",
+			"_sDownloadUrl": "https://gamebanana.com/dl/427562",
+			"_sFile": "ze_surf_dark_fantasy_v1.7z",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1564607571
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"stripper fix for Other Servers": [
+						"ze_surf_dark_fantasy_v1.cfg"
+					],
+					"stripper only for Russian Servers with fix": [
+						"ze_surf_dark_fantasy_v1.cfg"
+					]
+				},
+				"_sMimeType": "application/x-7z-compressed"
+			},
+			"_bContainsExe": false,
+			"_idRow": 428777,
+			"_nDownloadCount": 88,
+			"_nFilesize": 3660,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/428777",
+			"_sFile": "stripper_v1.7z",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1565698388
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "fix catacomb skillroom killing zombies"
+				},
+				{
+					"cat": "Addition",
+					"text": "invisible wall between zombie and human in the cutscene 3"
+				},
+				{
+					"cat": "Addition",
+					"text": "hiding weapons in cutscenes"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "more hp bosses"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "more damage true ending lasers"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "v1 stripper",
+			"_tsDateAdded": 1565698635
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "now when activating Human's Health ammo are given"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "changed win overlays"
+				},
+				{
+					"cat": "Addition",
+					"text": "walls on cutscenes 2 and 3"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "changed finalboss: 90 sec to kill and add 150 HP per Human"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "easier to hold in the Normal Defend Zone"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "slight changes in the Defend Zones"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "corners fixed on almost all ramps"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "v1",
+			"_tsDateAdded": 1564608516
+		}
+	],
+	"_idRow": 131035,
+	"_sName": "ze_surf_dark_fantasy_v1",
+	"_sText": "<b><span class=\"GreenColor\">The map has:</span></b><br><ul><li>64 spawns</li><li>Items Humans - Gravity, Wind, Heal, Electro(Secret)</li><li>Items Zombies - ZHeal, ZFire1, ZFire2(DarkMode), ZDroper(DarkMode)</li><li>True End(Add about 50-60 minutes gameplay)</li><li class=\"SelectedElement\">Boss and MiniBoss</li><li>Traps</li><li>Logical puzzles</li><li>DarkMode</li><li>Many Secrets and Eggs</li></ul><hr>Group steam: <a href=\"http://steamcommunity.com/groups/dzemapper\" target=\"_blank\">http://steamcommunity.com/groups/dzemapper</a>"
+}

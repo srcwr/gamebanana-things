@@ -1,0 +1,91 @@
+{
+	"_aAlternateFileSources": [
+		{
+			"url": "https://www.mediafire.com/?7pk1z7yfvute7d1"
+		}
+	],
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"gzm_raid.bsp",
+					"gzm_raid.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 280873,
+			"_nDownloadCount": 1466,
+			"_nFilesize": 718914,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/280873",
+			"_sFile": "gzm_raid_4.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1446200557
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Fixed glitchy walls around the map"
+				},
+				{
+					"cat": "-",
+					"text": "Fixed Barrels"
+				},
+				{
+					"cat": "-",
+					"text": "Removed lots of unneeded light sources"
+				},
+				{
+					"cat": "-",
+					"text": "Increased size of buy area at T Spawn"
+				},
+				{
+					"cat": "-",
+					"text": "Added frames to the windows"
+				},
+				{
+					"cat": "-",
+					"text": "Download: https://www.mediafire.com/?7pk1z7yfvute7d1"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "gzm_raid v4 | The Light Update (Final Build)",
+			"_tsDateAdded": 1490035845
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "- Fixed Glitchy Walls at T spawn0"
+				},
+				{
+					"cat": "-",
+					"text": "- Fixed Glitchy Walls at Bathroom"
+				},
+				{
+					"cat": "-",
+					"text": "- Added New Vent Section"
+				},
+				{
+					"cat": "-",
+					"text": "- Added 2 New Rooms"
+				},
+				{
+					"cat": "-",
+					"text": "Download: https://www.mediafire.com/?t3hvifbwj7ghol0"
+				}
+			],
+			"_sText": "<p>Download:&nbsp;https://www.mediafire.com/?t3hvifbwj7ghol0</p>",
+			"_sTitle": "gzm_raid Full Version",
+			"_tsDateAdded": 1454853720
+		}
+	],
+	"_idRow": 100646,
+	"_sName": "gzm_raid",
+	"_sText": "An office complex that includes:\r\n<br><br>Air Vents\r\n<br><br>Bathrooms\r\n<br><br>Storage\r\n<br><br>T-Spawn\r\n<br><br>CT-Spawn\r\n<br><br>It is a hostage rescue mission! You must rescue the hostages quickly as a counter-terrorist, and as a terrorist, you must defend the hostages, keep them in your spawn at all times!<br><br>NOTE: The nav mesh included with the map has some faults, so I recommend you generate your own in game.<br><br>You can do this by:<br>Opening the console up in the map, and typing in 'sv_cheats 1', then hit enter. After that, type 'nav_generate' then a new nav mesh will be generated and the server will restart with the new mesh.<br>"
+}

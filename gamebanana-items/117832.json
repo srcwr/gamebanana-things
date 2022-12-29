@@ -1,0 +1,111 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrike": {
+						"maps": [
+							"gg_tunnel_rats.bsp",
+							"gg_tunnel_rats.nav"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 274127,
+			"_nDownloadCount": 4007,
+			"_nFilesize": 2590885,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/274127",
+			"_sFile": "gg_tunnel_rats4.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1489881156
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Refined  the textures"
+				},
+				{
+					"cat": "-",
+					"text": "Added decals"
+				},
+				{
+					"cat": "-",
+					"text": "Added curved ceiling to sewer"
+				},
+				{
+					"cat": "-",
+					"text": "Changed lighting in sewer to pale"
+				},
+				{
+					"cat": "-",
+					"text": "Further optimized the visleafs for even better framerate"
+				},
+				{
+					"cat": "-",
+					"text": "Added more crates in places"
+				},
+				{
+					"cat": "-",
+					"text": "Added a van in parking"
+				},
+				{
+					"cat": "-",
+					"text": "Changed sky and map ambience"
+				},
+				{
+					"cat": "-",
+					"text": "Reworked cubemaps for reflections"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Update 4.0",
+			"_tsDateAdded": 1493882345
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Changed the tower to be quadratic for better bot navigation"
+				},
+				{
+					"cat": "-",
+					"text": "Removed previous tunnels because they were too messy"
+				},
+				{
+					"cat": "-",
+					"text": "Added a big underground canal and tunnel interconnecting two zones"
+				},
+				{
+					"cat": "-",
+					"text": "Removed some artifacts which were not necessary"
+				},
+				{
+					"cat": "-",
+					"text": "Recalculated and crafted new mesh nav file"
+				},
+				{
+					"cat": "-",
+					"text": " Optimized the map for better performance on multiplayer"
+				},
+				{
+					"cat": "-",
+					"text": "Added a tower in CT zone too to balance the sniper strikes"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Version 3.0",
+			"_tsDateAdded": 1491391644
+		}
+	],
+	"_idRow": 117832,
+	"_sName": "gg_tunnel_rats",
+	"_sText": "Map best suitable for gun game or deathmatch. This is third version of the map, i will keep updating it with new stuff and expansion. Using default textures have considerably reduced the download size and server loading time.<br><br>1. Underground Canal and Tunnel<br>3. Various Spawn points<br>4. Hidden Spots<br>5. Sniper Spots<br>6. A tower in each zone for sniper strikes<br><br>7. <span class=\"GreenColor\">Bot navigation file included</span>"
+}

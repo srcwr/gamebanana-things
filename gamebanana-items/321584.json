@@ -1,0 +1,37 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "instructions.txt",
+					"hacked de_inferno": [
+						"de_inferno.bsp",
+						"dynamic shadow map.txt"
+					],
+					"vmf source": [
+						"de_inferno.prt",
+						"de_inferno.vmf",
+						"de_inferno.vmx"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 658002,
+			"_nDownloadCount": 289,
+			"_nFilesize": 30200525,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/658002",
+			"_sFile": "css_mapatcher_9a2e6.zip",
+			"_sMd5Checksum": "449edfc1f8f5593cdd4e1fb04bf37915",
+			"_tsDateAdded": 1631634085
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 321584,
+	"_sName": "Enhanced de_inferno",
+	"_sText": "<span class=\"RedColor\"><b><u class=\"SelectedElement\">(Its client side map, Not for servers)<br></u></b><br>(Shadows look better ingame because the screenshots taken in fast compile version of map)<br></span><br>Its a hacked map so you must use a special tool to allow you to run such maps on any online server<br><br><span class=\"GreenColor\"><b>Map in download<br></b></span>Dynamic shadow and lighting de_inferno.bsp<br><br><span class=\"GreenColor SelectedElement\"><br>Note:<br>Theres two missing shadows-lightmaps on walls in T spawn that I didnt notice and it needs attention, I will not fix it due to <u><b>very high</b></u> amount of time this map takes to final compile(Took me 2 full days)</span>"
+}

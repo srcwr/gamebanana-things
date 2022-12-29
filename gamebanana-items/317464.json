@@ -1,0 +1,68 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"de_lan": {
+						"0": "de_lan.bsp",
+						"1": "de_lan.vmf",
+						"2": "readme-install.txt",
+						"materials": [
+							"chodeh.vmt",
+							"chodeh.vtf",
+							"gibby.vmt",
+							"gibby.vtf",
+							"heberanderic.vmt",
+							"heberanderic.vtf",
+							"henry.vmt",
+							"henry.vtf",
+							"johnxina.vmt",
+							"johnxina.vtf",
+							"lan.vmt",
+							"lan.vtf",
+							"lanparty.vmt",
+							"lanparty.vtf",
+							"tankman.vmt",
+							"tankman.vtf",
+							"weed.vmt",
+							"weed.vtf"
+						],
+						"sound": [
+							"John Xina.mp3",
+							"John Xina.wav"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 648484,
+			"_nDownloadCount": 68,
+			"_nFilesize": 9421810,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/648484",
+			"_sFile": "de_lan_ea870.zip",
+			"_sMd5Checksum": "bf679f30ba3f959bdd5d803f751efba6",
+			"_tsDateAdded": 1630367671
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Minor Changes"
+				}
+			],
+			"_sText": "Overall improvement<br>little noteworthy additions over than skybox<br>things are subject to change",
+			"_sTitle": "Version 0.2",
+			"_tsDateAdded": 1630367632
+		}
+	],
+	"_idRow": 317464,
+	"_sName": "de_lan",
+	"_sText": "WIP map created for an upcoming LAN party this year."
+}

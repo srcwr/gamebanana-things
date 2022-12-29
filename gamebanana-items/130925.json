@@ -1,0 +1,68 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ze_PKMN_Adventure_v8_6s_fix2.bsp",
+					"ze_PKMN_Adventure_v8_6s_fix2.cfg"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 390849,
+			"_nDownloadCount": 284,
+			"_nFilesize": 58614512,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "Final Balance Patch",
+			"_sDownloadUrl": "https://gamebanana.com/dl/390849",
+			"_sFile": "pkmn_v8_6s_fixver2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1532491052
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "Fixed tons of exploitable bugs"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Reduced Arceus Laser Speed"
+				}
+			],
+			"_sText": "<b><u>Cases matters</u></b>, if you use lowercases the entwatch is not going to work.",
+			"_sTitle": "Final balance patch (_fix2)",
+			"_tsDateAdded": 1532491260
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Adjustment",
+					"text": "Reduced Level 3 Wally fight breakable HP Pokemons from 40k to 25k"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Groudon boss platform is smaller, Roar push speed from 400 to 300"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Replaced the skipping cutscene with a logic_branch (Thanks moltard)."
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Night Slash laser speed reduced."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Balance version for CSS (_fix)",
+			"_tsDateAdded": 1532202163
+		}
+	],
+	"_idRow": 130925,
+	"_sName": "ze_pkmn_adventure_v8_6s_fix2",
+	"_sText": "Port made by Lv. 100 Crobat. Special thanks to Moltard, Dakotec and Luffaren.<br><br>The map includes:<br><br>5 Stages to play on.<br>Human Items.<br>Lasers."
+}

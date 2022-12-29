@@ -1,0 +1,47 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "You-gotta-read-this.txt",
+					"maps": [
+						"wh_warhawks_playground.bsp",
+						"wh_warhawks_playground.nav"
+					],
+					"materials": {
+						"Americas_Army": [
+							"cliffrock.vmt",
+							"cliffrock.vtf",
+							"cliffrock_normal.vtf",
+							"dirt_broke.vmt",
+							"dirt_broke.vtf",
+							"dirt_broke_normal.vtf"
+						],
+						"warhawks_textures": [
+							"wood1.vmt",
+							"wood1.vtf",
+							"wood1_normal.vtf"
+						]
+					}
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 353305,
+			"_nDownloadCount": 1791,
+			"_nFilesize": 2479125,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/353305",
+			"_sFile": "wh_warhawks_playground.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1171775640
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 120164,
+	"_sName": "wh_warhawks_playground",
+	"_sText": "Thanks for looking at this, and thanks for downloading it if you download it.\r\nYou won't regret it.\r\n\r\nYay! Version 2 of warhawks playground has been released!!!!\r\nYes, it has been renamed from gm_warhawks_playground to\r\nwh_warhawks_playground for the fact that it is now a CSS map too. And I don't want it just to be recognized as a gm (garrysmod) map.\r\n\r\nThis map works for both Garrysmod and counter strike source.\r\nTHIS IS A COUNTER STRIKE SOURCE BATTLE MAP WITH WEAPONS THAT YOU BUY!!!!\r\n\r\nYou should know where to put it.\r\n-MAKE SURE YOU PUT IN THE MATERIALS FOLDER YOU NEED THIS!!!!\r\n\r\n-MAKE SURE YOU ADD THE .nav FILE IN COUNTER STRIKE\r\nIf you don't add the .nav it could take up to 10 minutes for CSS to auto-generate one!\r\n\r\nFor Gmod 9:\r\nC:\\Program Files\\Valve\\Steam\\steamapps\\SourceMods\\gmod9\r\n\r\nFor garrysmod:\r\nC:\\Program Files\\Valve\\Steam\\steamapps\\*****yourACCOUNT-NAMEhere*****/garrysmod/garrysmod\r\nI think thats it, im not sure since i dont have it.\r\n\r\nFor Counter-Strike Source:\r\nC:\\Program Files\\Valve\\Steam\\steamapps\\*****yourACCOUNT-NAMEhere*****\\counter-strike source\\cstrike\r\n\r\nAs for bugs:\r\n1. The fan that is spinning will seem laggy, kinda jumpy, in CSS (((((((IT IS NOT YOUR SYSTEM!!!!!!!!!)))))))))) but not in GarrysMod. \r\n2. If CSS minimizes when you launch the map go into\r\n\tC:\\Program Files\\Valve\\Steam\\steamapps\\*****yourACCOUNT-NAMEhere*****\\counter-strike source\\cstrike\\maps\\soundcache \r\n and delete wh_warhawks_playground.cache\r\n\tC:\\Program Files\\Valve\\Steam\\steamapps\\*****yourACCOUNT-NAMEhere*****\\counter-strike source\\cstrike\\DownloadLists\r\n and delete wh_warhawks_playground.lst\r\nThats all I've found so far.\r\n\r\nAnd if you did'nt know the americas army textures are from the AMERICAS ARMY game, i just extracted them and made _normal maps for them."
+}

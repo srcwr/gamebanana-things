@@ -1,0 +1,58 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"awp_highbulletflow.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 284915,
+			"_nDownloadCount": 10500,
+			"_nFilesize": 4318824,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/284915",
+			"_sFile": "awp_highbulletflow_updatefix.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1418851338
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Fixed the cubemaps"
+				}
+			],
+			"_sText": "That's the last update, nothing needs to be edited now.",
+			"_sTitle": "Version 4 (Bug fix)",
+			"_tsDateAdded": 1436222073
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Placed an entity controlling the weapons at spawn, instead of weapons under the spawnpoints"
+				},
+				{
+					"cat": "-",
+					"text": "Added some details"
+				},
+				{
+					"cat": "-",
+					"text": "Some props"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Version 3 (Improvements)",
+			"_tsDateAdded": 1436219620
+		}
+	],
+	"_idRow": 118618,
+	"_sName": "AWP_HighBulletFlow",
+	"_sText": "<h1>AWP High Bullet Flow</h1>\r\nTwo Skyscrapers in a big city, connected with a plank (sounds strange, isn't it? :D)<br><br>\r\nIt took me about 5 days to make this map.<br><br>\r\nFEATURES:<br><br>\r\n<ul>\r\n<li>HDR</li>\r\n<li>Cubemaps</li>\r\n<li>Dust motes</li>\r\n<li>Dynamic smoke around the skyscrapers</li>\r\n<li>Seagulls (they exist, but CS:S does not support birds)</li>\r\n<li>NODRAW, func_detail and lightmap optimisation</li>\r\n</ul>\r\nVersion 2:<br><br>\r\n<ul>\r\n<li>new sky (tides)</li>\r\n<li>fixed spawnpoints and AWP when spawning</li>\r\n<li>some bug fixes</li>\r\n</ul>\r\nVersion 3:<br><br>\r\n<ul>\r\n<li>Fixed the weapons at last</li>\r\n<li>added some sun rays (volumetric light (my custom texture))</li>\r\n</ul>\r\nVersion 4 (last one)<br><br>\r\n<ul>\r\n<li>Fixed cubemaps</li>\r\n</ul>\r\n<h2>Enjoy the map :)</h2>"
+}

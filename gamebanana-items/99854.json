@@ -1,0 +1,48 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "Readme.txt",
+					"1": "cs_drugdealer0000.jpg",
+					"downloadlists": [
+						"cs_drugdealer_v2.lst"
+					],
+					"maps": {
+						"0": "cs_drugdealer_v2.bsp",
+						"1": "cs_drugdealer_v2.nav",
+						"2": "cs_drugdealer_v2.txt",
+						"graphs": [
+							"cs_drugdealer_v2.ain"
+						],
+						"soundcache": [
+							"cs_drugdealer_v2.cache"
+						]
+					},
+					"materials": {
+						"cs_drugdealer": [
+							"needed.vmt",
+							"needed.vtf"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 360393,
+			"_nDownloadCount": 1824,
+			"_nFilesize": 2796862,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/360393",
+			"_sFile": "cs_drugdealer_v2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1127451600
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 99854,
+	"_sName": "cs_drugdealer_v2",
+	"_sText": "*UPDATE*\r\nFIXES\r\n -Reduced lag dramatically\r\n -Bots navigate around doors better\r\n -Hostiges navigate better\r\n\r\nCHANGES\r\n -Backyard has more substance\r\n -Aesthetic additions\r\n -Higher capacity of players"
+}

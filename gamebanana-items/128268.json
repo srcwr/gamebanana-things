@@ -1,0 +1,31 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"README.txt",
+					"bound.smx",
+					"bound.sp",
+					"mg_level_up_bound_4.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 302808,
+			"_nDownloadCount": 1906,
+			"_nFilesize": 281808,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/302808",
+			"_sFile": "mg_level_up_bound_4.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1337540752
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 128268,
+	"_sName": "mg_level_up_bound",
+	"_sText": "This is a team based puzzle map. The goal of the map is extremely simple -> reach the top of the map. But that's easier said then done. The map contains 25 unique levels, with each level presenting it's own challenges. However, you're not working in first person view. This is a top down puzzle game, and because of this every person needs to look unique to be able to tell which character you are. So, there is quite a selection that you can choose from. You can choose to be squares, circles, triangles, and mixes of all three shapes (see screenshots).\r\n\r\nDue to the difficulty however, everyone is expected to die. But that's been accounted for. Initially, the entire server starts off with 5 lives, and every time everyone has died, you will lose a life, and everyone will respawn. Once you reach 0 lives, it's game over, and you must start again from scratch. However, every time a level is beaten, everyone is respawned and get's to attempt that level.\r\n\r\nSo what do the levels look like? The levels all take place at the same area, in a 5x5 grid. Repeating patterns appear, and once a brown block hits you, you are dead. Screenshots don't do this justice however, but you can see a sample in the screenshots. Since they do not clearly show what each level looks like, so watch the video below (which is from StarCraft 2) to see the gameplay. Each level is possible (since I have beaten it to test!), but some require creative thinking to pass (in the more difficult levels). \r\n\r\nMade for the SteamGamers Mapping Contest. The map contains 48 spawns.\r\n\r\nLink to see preview (from StarCraft 2): http://www.youtube.com/watch?v=CU9yM8fsijw\r\n\r\n**This map requires a Sourcemod plugin. The plugin and source is included in the download. But I repeat, it is required, and will not work at all without it. To compile the plugin yourself, see the readme**"
+}

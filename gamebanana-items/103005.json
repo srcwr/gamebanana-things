@@ -1,0 +1,67 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "Readme.txt",
+					"1": "de_lost_town.bsp",
+					"FOLDER": {
+						"_radar": [
+							"ScreenshotRadar-Editing.psd",
+							"Thumbs.db",
+							"de_lost_town_radar.tga",
+							"position.txt",
+							"screenshot.jpg"
+						],
+						"_screenshot": [
+							"Thumbs.db",
+							"de_lost_town0000.jpg",
+							"de_lost_town0001.jpg",
+							"de_lost_town0002.jpg",
+							"de_lost_town0003.jpg",
+							"de_lost_town0004.jpg",
+							"de_lost_town0005.jpg",
+							"de_lost_town0006.jpg"
+						],
+						"cstrike": {
+							"materials": {
+								"customtextures": [
+									"Thumbs.db",
+									"shalka_de_lost_town.jpg",
+									"shalka_de_lost_town.vmt",
+									"shalka_de_lost_town.vtf"
+								],
+								"overviews": [
+									"de_lost_town_radar.tga",
+									"de_lost_town_radar.vmt",
+									"de_lost_town_radar.vtf"
+								]
+							},
+							"resource": {
+								"overviews": [
+									"de_lost_town.txt"
+								]
+							}
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 286135,
+			"_nDownloadCount": 3599,
+			"_nFilesize": 12706773,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/286135",
+			"_sFile": "de_lost_town.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1409835918
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 103005,
+	"_sName": "de_lost_town",
+	"_sText": "de_lost_town is a custom map builded for 32 players, but medium size map, 16 players recommanded. Camping zone are limited, fast games garanty.\r\n<br>\r\n<br>Included:\r\n<br>* de_lost_town.bsp\r\n<br>* Readme.txt\r\n<br>* Folder = Textures, Radar &amp; Screenshots\r\n<br>\r\n<br>Fast map install:\r\n<br>* Drag and drop de_lost_town.bsp into location ...\\Valve\\Steam\\SteamApps\\common\\Counter-Strike Source\\cstrike\\maps\r\n<br>\r\n<br>Enjoy!"
+}

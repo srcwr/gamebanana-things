@@ -1,0 +1,92 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ze_v0u0v_b2.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 432557,
+			"_nDownloadCount": 152,
+			"_nFilesize": 146878299,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/432557",
+			"_sFile": "ze_v0u0v_b2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1568993691
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "remade all bossfights"
+				},
+				{
+					"cat": "-",
+					"text": "remade 3d skybox"
+				},
+				{
+					"cat": "-",
+					"text": "remade npcs"
+				},
+				{
+					"cat": "-",
+					"text": "rebuilt spawn area"
+				},
+				{
+					"cat": "-",
+					"text": "added 3 npcs"
+				},
+				{
+					"cat": "-",
+					"text": "fixed the location spawns heal item on stage 3 & 6"
+				},
+				{
+					"cat": "-",
+					"text": "fixed heal item"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "b2",
+			"_tsDateAdded": 1568995024
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "added laserbeam on bossfight of stage5"
+				},
+				{
+					"cat": "-",
+					"text": "changed boss texture on stage3"
+				},
+				{
+					"cat": "-",
+					"text": "fixed problem that players stuck the bridge before boss fight of stage1,4 (put teleport)"
+				},
+				{
+					"cat": "-",
+					"text": "fixed shortcut bridge on stage1, 4"
+				},
+				{
+					"cat": "-",
+					"text": "new attacks for boss of stage3"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "a6",
+			"_tsDateAdded": 1500967735
+		}
+	],
+	"_idRow": 131092,
+	"_sName": "ze_v0u0v_b2",
+	"_sText": "<h1>Currently developing Secret Stage</h1><h2>Map Information</h2>- 6 Stages (3 Normal Stages & 3 Extreme Stages)<br>- 13items for human (7items per 1round)<br>- 2items for zombie (only 1 item on normal mode)<br>- Bossfights<br>- Color correction<br>- NPC<br>"
+}

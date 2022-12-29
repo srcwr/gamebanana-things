@@ -1,0 +1,96 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrike": {
+						"maps": [
+							"de_vectar_DD_v01.bsp",
+							"de_vectar_dd_v01.nav"
+						],
+						"materials": {
+							"models": {
+								"player": {
+									"b4p": {
+										"vader": [
+											"alnewhope.vmt",
+											"alnewhope.vtf",
+											"beltxtras.vmt",
+											"beltxtras.vtf",
+											"darthshing.vmt",
+											"darthshing.vtf",
+											"dbreather.vmt",
+											"dbreather.vtf",
+											"dcape.vmt",
+											"dcape.vtf",
+											"handhope.vmt",
+											"handhope.vtf",
+											"headhope.vmt",
+											"headhope.vtf",
+											"helmethope.vmt",
+											"helmethope.vtf",
+											"hipsvader.vmt",
+											"hipsvader.vtf",
+											"legsvader.vmt",
+											"shoulderhope.vmt",
+											"shoulderhope.vtf",
+											"torsovader.vmt",
+											"torsovader.vtf",
+											"vaderface.vmt"
+										],
+										"yoda": [
+											"yoda_body.vmt",
+											"yoda_body.vtf",
+											"yoda_body_normal.vtf",
+											"yoda_head.vmt",
+											"yoda_head.vtf",
+											"yoda_head_normal.vtf"
+										]
+									}
+								}
+							}
+						},
+						"models": {
+							"player": {
+								"b4p": {
+									"b4p_vader": [
+										"b4p_vader.dx80.vtx",
+										"b4p_vader.dx90.vtx",
+										"b4p_vader.mdl",
+										"b4p_vader.phy",
+										"b4p_vader.sw.vtx",
+										"b4p_vader.vvd"
+									],
+									"b4p_yoda": [
+										"b4p_yoda.dx80.vtx",
+										"b4p_yoda.dx90.vtx",
+										"b4p_yoda.mdl",
+										"b4p_yoda.phy",
+										"b4p_yoda.sw.vtx",
+										"b4p_yoda.vvd"
+									]
+								}
+							}
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 342416,
+			"_nDownloadCount": 1196,
+			"_nFilesize": 2353369,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/342416",
+			"_sFile": "430_cstrike_91.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1208883137
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 104547,
+	"_sName": "de_vectar_dd_v01",
+	"_sText": "Nothing fancy here, just a fun little map with some secrets ;)"
+}

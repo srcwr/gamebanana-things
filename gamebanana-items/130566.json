@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"mvp_lab_v1.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 296758,
+			"_nDownloadCount": 1920,
+			"_nFilesize": 3963903,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/296758",
+			"_sFile": "mvp_lab_v1.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1359359021
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 130566,
+	"_sName": "mvp_lab",
+	"_sText": "**What is Marines VS Predators?**\r\n=================================\r\nMarines VS Predators is a mod for Counter-Strike: Source. The basic gameplay is to kill the other team. Marines have the safety of numbers, well stocked ammo and teamwork, where as the Predators must use their cunning and stealth abilities to kill the marines.\r\n\r\n**Where do I get the mod?**\r\n===========================\r\nI am aware that there are not many versions of the mod available in the source mod world, but I have scripted up my own version with a lot of customize-able options for admins. If you would like to download this mod, please visit [THE MOD DOWNLOAD PAGE](http://addons.eventscripts.com/addons/view/hideexecmvp \"\") to do so.\r\n\r\n**Story**\r\n=========\r\nThe map is based at the top research facility for genetic experimentation, high up in the hills of the Blue Mountains has been attacked.\r\nThe screams at the other end of the radio were horrendous. The Elevator was on lock down while the initial attack began, so your team was trapped on the lower floors of the facility, so you could do nothing but watch on the monitors as scientists and security guards were ripped apart by invisible creatures.\r\n\r\nThere is silence now. No one is left but your squad.\r\n\r\nYou are marines, you are strong, you are smart...you are being hunted....\r\n\r\n**The mechanics of the map**\r\n============================\r\nThere are 2 parts to the map. The topside, surrounded by hills with a house and a tool shed in the middle, then the underground complex where the research is done.\r\nThe marines have just made it through the service elevator onto the second floor after a 12 hours lock down.\r\nThere are creaks and groans that can be heard in the distance, as well as a faint sound that could be mistaken for an engine.\r\n\r\nThe marines must brave the corridors of the lab and have 2 ways to reach the surface (via an elevator or through the pipe work).\r\n\r\n**Notes**\r\n=========\r\nThis is the first map I have done that I incorporated soundscape scripts into the level. I have found they create a nice atmosphere and surrounding. For those of you who don't know what soundscapes are, they are background sounds that trigger when a player moves into the target radius (ie when walking from indoors to outdoors). The soundscape triggers and the player hears a variety of sounds, for example: The outdoor area of this map is raining, so the primary soundscape is raining, but has wind howling, crickets etc in the background as well, where as inside, underground, you hear the humming sound of lab equipment.\r\nFor those of you who have never used them in your map, look at a tutorial and do it. Makes it so much more immersive.\r\n\r\nI also had a bit more of a play around with cubemaps. They made the glass look at lot more solid and the reflective capabilities blend nice with the reflective floor. This is especially good when the lights are turned off and the backup power turns on."
+}

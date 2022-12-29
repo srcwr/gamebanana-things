@@ -1,0 +1,49 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"maps": [
+						"cs_train_trap.bsp",
+						"cs_train_trap.nav",
+						"cs_train_trap.txt"
+					],
+					"materials": {
+						"overviews": [
+							"cs_train_trap_radar.vmt",
+							"cs_train_trap_radar.vtf"
+						],
+						"zeromapping_logo": [
+							"zero_logo.vmt",
+							"zero_logo.vtf"
+						]
+					},
+					"resource": {
+						"overviews": [
+							"cs_train_trap.txt"
+						]
+					},
+					"scripts": [
+						"soundscapes_cs_train_trap.txt"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 286613,
+			"_nDownloadCount": 4166,
+			"_nFilesize": 1698968,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/286613",
+			"_sFile": "cs_train_trap.7z",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1407179058
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 100548,
+	"_sName": "cs_train_trap",
+	"_sText": "locked train station, have sewer on the map, and two workarounds through the workrooms."
+}

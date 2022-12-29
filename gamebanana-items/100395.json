@@ -1,0 +1,32 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrike": {
+						"maps": [
+							"cs_robinson.bsp",
+							"cs_robinson_fade.bsp"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 342370,
+			"_nDownloadCount": 5952,
+			"_nFilesize": 3357675,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/342370",
+			"_sFile": "cs_robinson__fade_2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1209060205
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 100395,
+	"_sName": "cs_robinson",
+	"_sText": "It is small island (aprox 5000 x 5000 pxs) covered with forest. There are few buildings: cottage, dock, chapel and \"energy tower\" on cliff. In small shipyard dock on north east is one hostage, which has to be rescue by CTs. In shipyard start terrorists. You can move everywhere on island, so you can choose your way of movement. You are limited only by water and further clip.\r\n\r\nI registered that you have problems with fps, so I try to make easier render. I recompiled map as \"prop fade\" version. I experimented with prop fade dist because when you are in one corner of island, why have to be rendered props in opposite corner?"
+}

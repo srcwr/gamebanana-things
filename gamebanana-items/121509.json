@@ -1,0 +1,32 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"surf_nolifearena": {
+						"0": "README.txt",
+						"maps": [
+							"surf_nolifearena_alpha.bsp"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 278858,
+			"_nDownloadCount": 1052,
+			"_nFilesize": 1623253,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/278858",
+			"_sFile": "surf_nolifearena.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1460175411
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 121509,
+	"_sName": "Surf nolifearena",
+	"_sText": "<p class=\"\">This is the first surf map i have actually completed. If there are any changes that should be made, please do tell me!</p><p class=\"SelectedElement\">In order to run the map, you must type in consol &nbsp; &nbsp;<span class=\"\">sv_accelerate 5 &nbsp;and &nbsp;</span><span class=\"\">sv_airaccelerate 1000</span></p>"
+}

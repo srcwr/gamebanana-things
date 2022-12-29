@@ -1,0 +1,45 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"trikz_ethereal2.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 447300,
+			"_nDownloadCount": 191,
+			"_nFilesize": 11088807,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/447300",
+			"_sFile": "trikz_ethereal2_a63b6.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1580490121
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Fixed first level blinking runboost bug, occurring on some servers"
+				},
+				{
+					"cat": "-",
+					"text": "Fixed rare bug happening when player lags at the moment of fast entering and leaving anticheat trigger causing anticheat effect to remain outside of the trigger zone (engine bug)"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Final Release",
+			"_tsDateAdded": 1580490151
+		}
+	],
+	"_idRow": 127495,
+	"_sName": "trikz_ethereal2",
+	"_sText": "<h2 class=\"SelectedElement\"><span class=\"GreenColor\">*</span> trikz_ethereal2 <span class=\"GreenColor\">*</span></h2>12 levels on the map<br><br><span class=\"RedColor\">-</span> have fun <span class=\"RedColor\">-</span>"
+}

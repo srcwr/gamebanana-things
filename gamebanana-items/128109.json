@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"mg_hn_randomracev2.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 295040,
+			"_nDownloadCount": 1691,
+			"_nFilesize": 18486460,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/295040",
+			"_sFile": "handsomenick_-randomracev2_2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1366539745
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 128109,
+	"_sName": "mg_hn_randomracev2",
+	"_sText": "~ An updated version of v1, which you can still access from my gamebanana profile page ~\r\n\r\nRandomised, selects one of 15 races at the start of each round. There are a few secrets, almost all of which are at the spawn.\r\n\r\n~~~\r\n\r\nUpdates to the original include:\r\n\r\n-A few different songs (ie, less trance than before)\r\n\r\n-The \"Boats\" racing minigame has been removed. Having 2 camera screens meant the server could only update one at a time, so the projections were too laggy.\r\n\r\n-The \"Boats\" racing minigame has been replaced by a new minigame, \"Chase\", where one team must try and survive for 90 seconds (without weapons), and the other teams has to try and work together to knife them.\r\n\r\n-Everything has generally been made \"more obvious\" to the players, but the major changes include: arrows showing where to go for the \"Hard\" race, a sign for the jail in \"Escape\", arrows and some easier to reach guns in \"Flying\" (the one with the smoke and the wings), semi-transparent red glass on the \"Future City\" level (the glass shows you where you can climb up, the texture is a ladder), the entire levels of \"Points\" and \"Arena\" have both been redone, players should now have less trouble finding out where to go or what to do, the time spent in the spawn room has been increased, so players have longer to read the hints for the selected race (if applicable).\r\n\r\n~~~\r\n\r\nKnown issues:\r\nCTF is sort of laggy, but the entity method I used stops people delaying, as well as letting them see clearly what to do.\r\n\r\nAnother issue that might arise with a lot of players is the map thinking someone has a CTF flag when they actually don't have one attached to them (this is due to the delay in touching the trigger and picking up the smoke grenade with the parented flag). Despite not having a flag, they will still be able to score and win the round.\r\n\r\nThe final issue is that the music quality is lower than what I would have liked. I would have preferred to have better quality music instead, but when I uploaded the original, some users complained about the file size.\r\n\r\n~~~\r\n\r\nMusic credits are in-game, shown as HUD hints on the right-hand side of the screen.\r\n\r\n~~~\r\n\r\nDo not post this map on other sites and claim it as your own, do not upload it on other map-making sites, if you want to know how part of the map was made, please post here and I will answer within a few days.\r\n\r\n~~~\r\n\r\nI finished making this about 2 weeks ago (ie, before Hammer was temporarily killed by Valve), but I haven't had time to upload it until now. Please rate and comment :)\r\n\r\nAlso, mg-hn-whaledefencev2 has already been released (the link is on my gamebanana profile). Instead of a dedicated upload, I just edited the original submission, so not many people knew about the change.\r\n\r\nAnd if you add this to your server, can you please give me a heads up? Something in the comments, a post on my gamebanana profile, or a PM, anything's fine :)"
+}

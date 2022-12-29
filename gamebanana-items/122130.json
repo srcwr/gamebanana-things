@@ -1,0 +1,30 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"surf_gforce - HOW TO INSTALL.txt",
+					"surf_gforce - README.txt",
+					"surf_gforce.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 349413,
+			"_nDownloadCount": 3778,
+			"_nFilesize": 1778929,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/349413",
+			"_sFile": "surf_gforce.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1187140915
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 122130,
+	"_sName": "surf_gforce",
+	"_sText": "This is a fast map with some challenging surfing.  There's a pro section, and several secrets.\r\n\r\n<b>Special thanks to <a href=\"http://forums.solidsurf.info/index.php?action=profile;u=10\">ArchAngel</a> at <a href=\"http://forums.solidsurf.info/index.php\">SolidSurf.info</a>, who made <a href=\"http://www.fpsbanana.com/maps/8740\">surf_rebel_resistance_final2</a>.  A portion of the pro section was modeled after the pro section in RR.</b>\r\n\r\n<font size=\"4\"><u><a href=\"http://www.youtube.com/watch?v=VmYESOb8los\">Here is a youtube video of someone surfing this map.</a></u></font>\r\n<i>(Although, the video is of a BETA version.  This final version does not have any logos or clan names included in the map.)</i>\r\n\r\nNote: since this is a surf map, you have to remember to go into console and type \"sv_airaccelerat 600\" or some high number over 100.  This is what all actual \"surf servers\" do.  Otherwise you won't be able to stay on the surf ramps.  Always keep gravity at the default 800 for surf maps.\r\n\r\nLike all surf maps, it's my opinion that the best server for these maps will have DM respawn and noblock mods.  Also a guns menu is nice.  If not, there's a buy zone on top of spawn."
+}

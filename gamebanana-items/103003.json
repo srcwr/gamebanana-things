@@ -1,0 +1,98 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "de_losttown_v20000.jpg",
+					"1": "de_losttown_v20001.jpg",
+					"2": "de_losttown_v20002.jpg",
+					"3": "de_losttown_v20003.jpg",
+					"4": "de_losttown_v20004.jpg",
+					"5": "de_losttown_v20005.jpg",
+					"6": "de_losttown_v20006.jpg",
+					"Maps": [
+						"de_losttown_v2.bsp"
+					],
+					"materials": {
+						"models": {
+							"player": {
+								"vad36pvk": [
+									"bill_head.vmt",
+									"bill_head.vtf",
+									"cop_leg.vmt",
+									"cop_leg.vtf",
+									"cop_leg_n.vtf",
+									"ojos.vmt",
+									"ojos.vtf",
+									"secret_service_assault_col.vmt",
+									"secret_service_assault_col.vtf",
+									"secret_service_assault_n.vtf",
+									"upper.vmt",
+									"upper.vtf",
+									"upper_n.vtf"
+								]
+							},
+							"slenderman": [
+								"face.vtf",
+								"hands_n.vtf",
+								"hands_w.vtf",
+								"lightwarp.vtf",
+								"mini_iridescence.vtf",
+								"skin_bump.vtf",
+								"slender_hands.vmt",
+								"slender_hands.vtf",
+								"slender_lightwarp.vtf",
+								"slender_mask_detail.vtf",
+								"slender_mask_left.vmt",
+								"slender_mask_left.vtf",
+								"slender_mask_normal.vtf",
+								"slender_mask_right.vmt",
+								"slender_mask_right.vtf",
+								"slender_suit.vmt",
+								"slender_suit.vtf",
+								"slenderman_suit_n.vtf"
+							]
+						}
+					},
+					"models": {
+						"player": {
+							"vad36pvk": [
+								"cop2.dx80.vtx",
+								"cop2.dx90.vtx",
+								"cop2.mdl",
+								"cop2.phy",
+								"cop2.sw.vtx",
+								"cop2.vvd"
+							]
+						},
+						"slenderman": [
+							"slenderman.dx80.vtx",
+							"slenderman.dx90.vtx",
+							"slenderman.mdl",
+							"slenderman.phy",
+							"slenderman.sw.vtx",
+							"slenderman.vvd"
+						]
+					}
+				},
+				"_sMimeType": "application/x-7z-compressed"
+			},
+			"_bContainsExe": false,
+			"_idRow": 287201,
+			"_nDownloadCount": 705,
+			"_nFilesize": 14620292,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/287201",
+			"_sFile": "de_losttown_v2.7z",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1404519793
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 103003,
+	"_sName": "de_losttown_v2",
+	"_sText": "Extract the folders to cstrike folder<br><br>This is the Second version of the first release<br><br>**News in version 2:<br>-Added a cool 3d skybox.<br>-Deleted some useless lightings.<br>-Added an env light to make the map better."
+}

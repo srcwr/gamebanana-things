@@ -1,0 +1,45 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"bhop_lolauto.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 507778,
+			"_nDownloadCount": 100,
+			"_nFilesize": 22030822,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/507778",
+			"_sFile": "bhop_lolauto_8083b.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1610551912
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "removed triggers without models that could crash map"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "you can't stuck anymore at the start of blue stage"
+				}
+			],
+			"_sText": "thanks for feedback.",
+			"_sTitle": "fix",
+			"_tsDateAdded": 1610552047
+		}
+	],
+	"_idRow": 125460,
+	"_sName": "bhop_lolauto (CSS)",
+	"_sText": "Port from CS:GO<br>Original map by roger<br><br>report any bugs pls (Nyushiri#4691)"
+}

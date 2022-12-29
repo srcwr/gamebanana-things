@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"Michaels-First-Map2.vmf"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 342345,
+			"_nDownloadCount": 1144,
+			"_nFilesize": 6130,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/342345",
+			"_sFile": "michaels-first-map2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1209200535
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 117038,
+	"_sName": "cs_carlot",
+	"_sText": "MaterialPath: c:\\program files\\steam\\steamapps\\thehargs\\counter-strike source\\cstrike\\materials\r\nLoading C:\\Documents and Settings\\Hargreaves\\My Documents\\Michaels-First-Map2v2.vmf\r\nfixing up env_cubemap materials on brush sides...\r\n0...1...2...3...4...5...6...7...8...9...10**** leaked ****\r\nEntity prop_physics (-2072.00 424.00 117.32) leaked!\r\nProcessing areas...done (0)\r\nBuilding Faces...done (0)\r\nFixTjuncs...\r\nPruneNodes...\r\nWriteBSP...\r\ndone (0)\r\nCreating default cubemaps for env_cubemap using skybox materials:\r\nskybox/sky_day01_01*.vmt\r\nRun buildcubemaps in the engine to get the correct cube maps.\r\n\r\nNo such variable \"$hdrbasetexture\" for material \"skybox/sky_day01_01rt\"\r\nCan't load skybox file skybox/sky_day01_01 to build the default cubemap!\r\nFinding displacement neighbors...\r\nFinding lightmap sample positions...\r\nDisplacement Alpha : 0...1...2...3...4...5...6...7...8...9...10\r\nBuilding Physics collision data...\r\ndone (0) (16914 bytes)\r\nPlacing detail props : 0...1...2...3...4...5...6...7...8...9...10\r\nCompacting texture/material tables...\r\nReduced 81 texinfos to 75\r\nReduced 11 texdatas to 11 (275 bytes to 275)\r\nWriting C:\\Documents and Settings\\Hargreaves\\My Documents\\Michaels-First-Map2v2.bsp\r\n2 seconds elapsed"
+}

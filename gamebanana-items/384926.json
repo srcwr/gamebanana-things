@@ -1,0 +1,81 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ze_regular_rooftoprunaway2_v2.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 866031,
+			"_nDownloadCount": 21,
+			"_nFilesize": 45897403,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/866031",
+			"_sFile": "ze_regular_rooftoprunaway2_v2_06032.zip",
+			"_sMd5Checksum": "1d7775bf2f4667ec3a2a52578006cedf",
+			"_tsDateAdded": 1663627755
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "filter cleaner"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "static boss hp"
+				},
+				{
+					"cat": "Optimization",
+					"text": "minor improvements all over"
+				}
+			],
+			"_sText": "<p>got big nasty error for bspzipgui, so it has vpk files packed still. youll live</p>",
+			"_sTitle": "ze_regular_rooftoprunaway2_v2",
+			"_sVersion": "v2",
+			"_tsDateAdded": 1658367994
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Overhaul",
+					"text": "The C4 is no more"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Cant skip benches anymore"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "End should be working"
+				},
+				{
+					"cat": "Tweak",
+					"text": "No missing textures"
+				},
+				{
+					"cat": "Tweak",
+					"text": "Boss has less HP"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Minor improvements"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "ze_regular_rooftoprunaway2_v1",
+			"_sVersion": "v1",
+			"_tsDateAdded": 1656186924
+		}
+	],
+	"_idRow": 384926,
+	"_sName": "ze_regular_rooftoprunaway",
+	"_sText": "Made this to get to know entities better. <br>Its been a while since I mapped, so this will have bugs etc.<br>Testing is also necessary, mostly for zm tps.<br><br><span class=\"Spoiler\">The map is a mix of some mg maps and the old classic rooftop_runaway</span><br><br>For feedback feel free to add me on steam:<br>https://steamcommunity.com/id/siatbf/ <br>"
+}

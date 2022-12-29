@@ -1,0 +1,34 @@
+{
+	"_aAlternateFileSources": [
+		{
+			"description": "CSGO Version Original",
+			"url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1913105429"
+		}
+	],
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"mg_anime_course.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 474862,
+			"_nDownloadCount": 308,
+			"_nFilesize": 90067901,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/474862",
+			"_sFile": "mg_anime_course_c4a31.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1594984166
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 127687,
+	"_sName": "mg_anime_course",
+	"_sText": "<span class=\"GreenColor\">mg_anime_course!<br><br>A CSGO map i made some months ago now ported to cs:s<br><br>- 9 course levels + 3 bonus levels!<br>- Disco! to dance with your friends!<br>- Ecchi room<br>- Mini Map Radar<br><br>Recommended Settings:<br><br>its nice and funny to play with sv_autobunnyhopping 1 (in css maybe you want to have some plugins to do it) but you can finish the map with scroll bhop anyways.<br><br>the map will put these cvars ONLY at the first round, you can change its as you want in the next round and not will be changed.<br><br>- sv_enablebunnyhopping 1<br>- sv_airaccelerate 1000<br>- sv_staminajumpcost 0<br>- sv_staminalandcost 0<br>- mp_roundtime 40<br><br>this means you can download and play the map without put any settings!.<br><br><br>About the Disco: if you want to dance like me and my friends you need to install this plugin from sourcemod! [This is not working on cs:s i wish some day someone make a port so we can dance in cs:s<br><br>Info about the weight:<br><br>239MB this means if you will upload this map to a webhost (for fast download in a public server) remember to not compress the map to bz2 because the csgo/css limit is 150mb and your clients will not download the map.<br></span><span class=\"GreenColor SelectedElement\"><span class=\"RedColor\"><br></span><span class=\"RedColor\">About the CS:S Version:<br>this version has some small changes to adapt to cs: s.</span></span><br>"
+}

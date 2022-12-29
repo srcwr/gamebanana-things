@@ -1,0 +1,37 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrike": {
+						"cfg": {
+							"Zombiemod": [
+								"zm_idm_hauntedhouse_v1.cfg"
+							]
+						},
+						"maps": [
+							"zm_idm_hauntedhouse_v1.bsp"
+						]
+					}
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 342126,
+			"_nDownloadCount": 3798,
+			"_nFilesize": 12257042,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/342126",
+			"_sFile": "zm_idm_hauntedhouse_v1.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1209946207
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 132048,
+	"_sName": "zm_idm_hauntedhouse_v1",
+	"_sText": "=======================\r\nzm_idm_hauntedhouse_v1\r\n\r\nMade by: [ZFC] idm\r\nIdeas: [ZFC] idm and [ZFC] rev\r\n=======================\r\n\r\n\r\n-==READ EVERYTHING PLEASE==-\r\n\r\n\r\nIMPORTANT FOR ADMINS: Haunted House is a big map. If you want people to be able to \r\ndownload the map directly from your server, you must use this command:\r\n\r\nnet_maxfilesize 22\r\n\r\nDefault 16mb. Haunted House is 21mb.\r\n\r\nWithout this command changed to 22, people will not be able to download it and will get \r\nan error message like \"Map zm_idm_hauntedhouse_v1.bsp missing\".\r\n-->If your server BZIPs the map you're ok, but make sure you test it.\r\n\r\n-----------------------------\r\nMap Information:\r\n\r\nMap Name: zm_idm_hauntedhouse_v1\r\nFilesize: 21 mb\r\nSpawnpoints: 60\r\nSpecial Features: many secrets, home made ambient\r\nCustom Textures Used: yes\r\nCustom Sounds Used: yes\r\n\r\n-----------------\r\nINSTALLATION:\r\n-----------------\r\n\r\nCopy the cstrike folder into your \"\".../steam/steamapps/username/counter-strike source/\" \r\nfolder. Click yes to all and you are done.\r\n\r\nIMPORTANT: the rar file contains a cfg file that will disable the default zombiemod \r\nambient on this map. This map has his own ambient. If you like the ambient and \r\nyou want to use it on your server, PM me.\r\n\r\n\r\n----------------------------------------\r\nA couple of features:\r\n\r\n* A lot of barricade spots, camp spots and hunting ground\r\n* Team play and ego play both possible ;)\r\n* Big rooms for team players, possible to build massive barricades\r\n* Well balanced spots, not impossible for zombies and not to easy\r\n* A lot of secrets!\r\n* Scary atmosphere!\r\n* 60 (!) spawn points for big servers\r\n* and much more\r\n\r\nADDITIONAL INFORMATION:\r\n \r\nAfter a couple of tests I decided to make the doors breakable in stead of real doors. \r\nSo pressing use wont open them, you can just break them by shooting them. I decided \r\nto do this because I saw in my own map and other maps that real doors bug barricades \r\nmaking it impossible for zombies to get in, or the doors will push away barricades so \r\nhumans are screwed. Only the main door, main hall doors, the back door and the doors \r\nunder the stairs are normal doors.\r\n\r\nThere is one \"secret\" that is kind of important. In the kitchen there a two refrigerators. \r\nWhen you open the right one and step into it, you will be teleported to a fridge-room. In \r\nthe fridge room you can exit be walking into the green light and you will be teleported back \r\nto the kitchen again.\r\n\r\n- This is a pretty big map, so take the time to discover all area's and secrets. \r\n- Some windows can break (tree-house for example).\r\n-  There are secret ways into rooms (like double walls). \r\n- When you walk on the side-edge of the house you can boost each other onto the roof. \r\n(handy when humans barricade the stairs to the 3rd floor)\r\n- WHEN YOU THINK THE MAP IS TOO DARK,  LOWER YOUR GAMMA. :P (although it will lower the atmosphere too ;)  )\r\n\r\nFor other tips and tricks on this map PM me :)\r\n\r\n===========\r\nSpecial Thanks:\r\n===========\r\n\r\n* to [ZFC] Rev, for coming up with a lot of ideas on this map. He made it possible for me \r\nto build it. Our ideas fitted perfectly together.\r\n* [ZMod] Spelworm, for helping me out with optimizing this map and debugging.\r\n* Box-O-Pwn (here from fpsbanana) who gave permission to use his awesome vending \r\nmachine skin in this map. The old ones took away the atmosphere, and these rock!\r\n* [ZFC] Satch for editing the thumbnail picture and adding text to it.\r\n\r\nNow have fun playing Haunted House!\r\n\r\nWhen you:\r\n\r\n-have advice on how I could improve the map\r\n-discover a bug\r\n-want to give me thumbs up\r\n\r\nPM me!\r\n\r\n[ZFC] idm"
+}

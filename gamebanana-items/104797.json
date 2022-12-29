@@ -1,0 +1,53 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_first1.bsp",
+					"de_first1.nav"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 469051,
+			"_nDownloadCount": 64,
+			"_nFilesize": 563289,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/469051",
+			"_sFile": "de_first1_bc13c.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1592357918
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "fixes and patches"
+				}
+			],
+			"_sText": "added decoration<br>fixed door sound<br>fixed boosting place (to the top of the map)<br>added fx<br>removed flickering lights",
+			"_sTitle": "version 1.6",
+			"_tsDateAdded": 1592349550
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "fixes"
+				}
+			],
+			"_sText": "sunlight rework<br>fixed dissapearing static props<br>lighting rework",
+			"_sTitle": "version1.4",
+			"_tsDateAdded": 1592336128
+		}
+	],
+	"_idRow": 104797,
+	"_sName": "First map (competetive)",
+	"_sText": "This is my first experience with hammer sdk<br><br>"
+}

@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"mt_sonic_v1.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 339590,
+			"_nDownloadCount": 2756,
+			"_nFilesize": 8139134,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/339590",
+			"_sFile": "mt_sonic_v1.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1218117720
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 116344,
+	"_sName": "mt_sonic",
+	"_sText": "Mt_sonic\r\n\r\nby ZaLoS\r\n\r\nskybox by Karatekaefer\r\n\r\ncustom textures by ZaLoS, IceCreamLock\r\n\r\n\r\nI decided to go with a theme based on one of my favorite games. My goal was to give people the feel for speed as these marbles go careening down the track!\r\n\r\n-Features custom sounds from the game. However, the song from the vid is not included in the map.\r\n\r\n-This map is chaos driven, thus it doesnt always work out perfect, but its still fun when it doesnt! :D\r\n\r\n-The first ball is to represent sonic while the second tails.\r\n\r\n-I had a lot of fun making this, I hope you have fun viewing it. I hit max_map_planes and almost max_map_overlays. lol. There are suppose to be a lots more curves in those ramps as well as more rings/brushwork but I had to cut back in order to compile.\r\n\r\n-This map was compiled in HDR, if you dont like hdr you can turn it off with mat_hdr_enabled 0\r\n \r\n\r\nRunning instructions: \r\nMade this in the cs:s game environment. It includes a spawn spot for T if you prefer to noclip rather than spectate. I suggest reloading the map each time you want to restart the marbles, otherwise things parented to the marbles will not be reset, however it is not a huge issue.\r\n\r\n\r\nvid:\r\n\r\n\r\n\r\nhttp://www.youtube.com/watch?v=OR_tOU5fvu4\r\n\r\n<object width=\"256\" height=\"344\"><param name=\"movie\" value=\"http://www.youtube.com/v/OR_tOU5fvu4&hl=en&fs=1\"></param><param name=\"allowFullScreen\" value=\"true\"></param><embed src=\"http://www.youtube.com/v/OR_tOU5fvu4&hl=en&fs=1\" type=\"application/x-shockwave-flash\" allowfullscreen=\"true\" width=\"256\" height=\"344\"></embed></object>"
+}

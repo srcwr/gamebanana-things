@@ -1,0 +1,33 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "Dont read this!.txt",
+					"1": "Read me! or die.txt",
+					"maps": [
+						"ba_jail_guatanamo_bay.bsp",
+						"ba_jail_guatanamo_bay.bsp.bak"
+					]
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 328436,
+			"_nDownloadCount": 1415,
+			"_nFilesize": 2331861,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/328436",
+			"_sFile": "ba_jail_bane.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1254019606
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 119776,
+	"_sName": "Ba_jail_Guatanamo_Bay",
+	"_sText": "Hi! Long time no C. :D\r\nI got this job to make a map to a friends server. :P\r\nbut, suddently he changed his mind and told me he wasn't gonna make a ba_jail server anyway. :(\r\nBy then, I was already finished with my map, so I disided I'd put it on FPSB beacuse I don't like wasting my time in nothing at all.\r\nSo I wasted a little more of my time to write this extremly long readme note and publishing my map, just for fun.\r\n\r\n-------------------------------------------------------------------------------------\r\nThe map contains:\r\n\r\n-Cells.\r\n-A big play arena.\r\n-Healing. (Not spiritual)\r\n-Pool.\r\n-Showers.\r\n-Soccer field.\r\n-Playground.\r\n-Vents.\r\n-Race track.\r\n-Multifuncional dooropener. (1 to open, 1 to close :D)\r\n\r\n-----------------------------------------------------------------------------------\r\n\r\nEffects and Stuff like that!!!\r\n\r\n-HDR (that looks good at night. :O)\r\n-Nice light effects in cells.\r\n-Areaportals.\r\n-Top glass windows.\r\n-3D skybox. (got 2 <3 it!!!)\r\n-Advanced soccer settings. (automaticly change the server settinge to soccer settings.)\r\n-Custom skybox.\r\n\r\n-----------------------------------------------------------------------------------\r\n\r\nHope U like it :D\r\n\r\nPS: U better like it!!!\r\n\r\n\r\n\r\n-----------------------------------------------------------------------------------\r\n\r\nSome People don't like HDR. (like me :S)\r\n\r\nthis is how to turn it off:\r\n\r\nwrite: \"mat_hdr_enable 0\" in console.\r\n\r\nthe hdr isn't modifyed correctly when u download the map.\r\nthis is the settings u have to us on the server:\r\n\r\n1.) write: \"buildcubamaps\" in console.\r\n2.) write: \"mat_hdr_enable 0\" in console.\r\n3.) write: \"buildcubemaps\" in console again.\r\n4.) exit the server.\r\n5.) write \"mat_hdr_enable 1\" in console.\r\n6,) open the server and the HDR will work properly.\r\n\r\n\r\nif u didn't get the part on the top... just turn the HDR off :P\r\n\r\n\r\n------------------------------------------------------------------------------------\r\n\r\nThanks 2 : Karatekäfer for the nice skybox texture :D"
+}

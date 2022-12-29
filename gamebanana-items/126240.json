@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"bhop_tranquility.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 458565,
+			"_nDownloadCount": 191,
+			"_nFilesize": 28373888,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/458565",
+			"_sFile": "bhop_tranquility.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1587398267
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 126240,
+	"_sName": "bhop_tranquility",
+	"_sText": "bhop_tranquility, a map created for the bhop world cup 2020 and played during week two of the tournament. This map was a work in progress for a long time and i really wanna thank Ahimsa and Unity for testing and giving feedback on the map countless amount of times, as well as Roger for hosting the tournament and motivating me to create the map.&nbsp;<br><br>Congratulations to Kris for winning the second week of the BHWC 2020!<br><br>I would also like to thank everyone who participated in the tournament, especially those who gave the map a fair chance and completed it. I understand people have different preferences for maps so i really do appreciate those who actually took the time to complete the map at least once even if it may not have been one of your favorites.<br><br>This is the offical release of the map meaning a few smaller things have changed from the version played during the tournament. First of all i removed some of the unintended skips that were found. I also changed the grass models to be detail sprites meaning they can be disabled now using the command:&nbsp;<code>cl_detaildist 0&nbsp;</code><br><br>Please note the default value is 1200 in case you end up turning it off to improve FPS when playing the map on a slower PC.<br><br>I also threw in some quotes from the week that i found quite funny (mainly inside jokes for those participating in the tournament)<br><br>I would also like to point out we noticed after the tournament that the map do not work in combination with Blanks improved showtriggers plugin. However with all the other plugins the map was tested on it worked, therefore im tired of guessing what the issue could be and ill instead leave it to Blank to fix his plugin so it works with the map if he so desire.&nbsp;<br><br>The map should be fully playable on scroll as well as having multiple route options for auto bhop. Enjoy &amp; let me know if i forgot to mention someone! ;w;<br><br><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/3YhWhvRG3Dc\" frameborder=\"0\" allowfullscreen=\"\"></iframe><br>"
+}

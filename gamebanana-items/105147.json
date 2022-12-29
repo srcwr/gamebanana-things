@@ -1,0 +1,30 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"maps": [
+						"3mc_training_detailed.bsp",
+						"README.txt"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 307407,
+			"_nDownloadCount": 2102,
+			"_nFilesize": 746289,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/307407",
+			"_sFile": "3mc_training_detailed_2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1321455323
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 105147,
+	"_sName": "3mc_training_detailed",
+	"_sText": "A simple remake of the famous map \"3mc\\_training\".\r\n\r\n\r\nADDED:\r\n\r\n- More detail and realism;\r\n- New spots and rooms;\r\n- Sun environment;\r\n- New Skybox;\r\n- 3D Skybox;\r\n- Dynamic lights with physics (ragdoll if you shoot or touch them) in the indoors;\r\n- Player clips to fix some bad/unfair camping spots, and now the palms are real! You can't pass through them;\r\n- More tactics available for Terrorists adding a scalable rope on the right of the T spawn to reach immediately the second floor;\r\n- More tactics available for Counter-Terrorists adding an indoor stairway on the left of the CT spawn to reach the second floor paying less attention to the Terrorists shots;\r\n- Forced lightmap at 3 on the outdoor floor to make the shadows looks much better;\r\n- Lighting atmosphere is now realistic.\r\n\r\nYou may have some FPS decrease by 30/40 because of the modify, if you want to play with good FPS (if you have a bad computer), try to turn the shadows \"Min.\" in the advanced video options.\r\n\r\n\r\nINSTALL:\r\n\r\nPut the \"3mc\\_training\\_detailed.bsp\" file into your \"counter-strike source/cstrike/maps\" directory, and then run the game by clicking \"Create Server\" and selecting \"3mc\\_training\\_detailed\"."
+}

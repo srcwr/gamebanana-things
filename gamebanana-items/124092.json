@@ -1,0 +1,33 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"fy_iceworld_orig2010_du5t.bsp",
+					"fy_iceworld_orig2010_du5t.nav",
+					"fy_iceworld_orig2010_gr33n.bsp",
+					"fy_iceworld_orig2010_gr33n.nav",
+					"fy_iceworld_orig2010_n30n.bsp",
+					"fy_iceworld_orig2010_n30n.nav"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 325471,
+			"_nDownloadCount": 2640,
+			"_nFilesize": 7877137,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/325471",
+			"_sFile": "fy_iceworld_orig2010.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1264177920
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 124092,
+	"_sName": "fy_iceworld_orig2010",
+	"_sText": "I wasnt going to remake iceworld but i saw .Krusty's neon texture tutorial and began to play around with the settings in source SDK untill it looked very nice to me, so i decided to make some different versions and upload them.\r\nAnd thats what came out.\r\n\r\nDon't ask me why all three maps are named fy_iceworld_orig, thats just because most people know what the map will look like then, thats why i kept it.\r\n\r\nAs allways im using different textures and skyboxes to make it look nicer.\r\nAlso hdr is enabled in these maps to make the neontextures glow effect more visible, although thers still the problem with the weapons glowing to much because of the reflections, i hope i will get to know how to fix that in the future.\r\nIf you wanna get rid of it just dont enable hdr, BUT not enableing or disableing hdr will also stop the glow effect of neon textures and stuff..\r\n\r\n\r\nCredits:\r\n\r\n.Krusty - neon stripes tutorial\r\nkomaokc - texturepack and skybox\r\nCow-Grain - grass texture\r\nGatorlangman - egypt textures\r\nShoX! - neon textures\r\nKaratekäfer - skyboxes\r\n\r\n\r\nFor those who know how to stop the weapons from glowing to much without disableing hdr, please tell me i really wanna fix this."
+}

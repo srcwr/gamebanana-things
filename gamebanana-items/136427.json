@@ -1,0 +1,31 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"gg_sand_village_v2": [
+						"gg_sand_village_v2.bsp",
+						"gg_sand_village_v2.nav"
+					]
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 338420,
+			"_nDownloadCount": 1331,
+			"_nFilesize": 6582142,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/338420",
+			"_sFile": "gg_sand_village_v2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1221244698
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 136427,
+	"_sName": "gg_sand_village_v2",
+	"_sText": "I updated the original map to get rid of some problems that had been noted.  I fixed the player clips so players can no longer get on the roofs of the surrounding buildings and then ultimately outside the map.  Also, I retextured many faces with nodraw to increase player FPS.  At the request of some, I only included in this version a standard lighting map and no HDR version. Thanks for downloading! nav file and buyzones included."
+}

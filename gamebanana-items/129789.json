@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"jb_avalanche.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 317166,
+			"_nDownloadCount": 6902,
+			"_nFilesize": 21219539,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/317166",
+			"_sFile": "jb_avalanche.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1290132148
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 129789,
+	"_sName": "jb_avalanche",
+	"_sText": "This map came about because I was bored by all the jailbreak maps which relied on wardens to be clever enough to come up with some way of making trivia interesting. I decided to make a map which had some games which were actually fun. I drew inspiration from mg_ski_mountain and built my map around the idea of having a ski resort for a prison.\r\n\r\nThis map requires noblock to function properly. It was heavily tested on a 46 player server with a tickrate of 33 and an sv_airaccelerate of 300. It has more than 64 spawns.\r\n\r\n<b>Games, areas and items include:</b>\r\n*Ski\r\n*Surf\r\n*Race\r\n*Climb\r\n*Hot Potato\r\n*Four Chairs\r\n*Hockey\r\n*1v100\r\n*Disco\r\n*Solitary\r\n*Armory\r\n*Defend the House Cabin\r\n*World's Smallest Box Cage\r\n*RC Helicopter\r\n*Some vents to armory\r\n*9 special items and weapons, including a musical grenade and an unlimited ammo deagle\r\n\r\n<b>Credits</b>\r\nPuck and hockey goals from ka_wn_icehockey\r\nSome custom textures made with bases from cgtextures.com, a sign from spencersnook.com\r\nAmazing trees, stumps and rocks from de_forest by the esteemed Robert Briscoe.\r\nCredit for the timers goes to Fibbs (original timer), vince (improved timer) and CartraxWolf (advanced timer). I modified it to count downwards and stop at 0 instead of counting up. I also created a miniature counter because the one provided did not shrink well. The hockey scoreboard and climb damage indicator are also heavily modified versions of the timer.\r\nMusical grenade by Adamfish, modified to toggle off and change songs when the holder jumps.\r\nKrassell's unlimited ammo prefab, heavily edited so it doesn't suck.\r\nControllable helicopter by smurfi. Log cabin by Metz. Speakers by Di[M]aN\r\n\r\n<b>Please feel free to send bugs, questions or suggestions</b>\r\n\r\nThis map was designed for the sG Jailbreak server - 174.36.231.16:27015 - joinsG.net\r\n\r\n<i>Enjoy\r\n-thorgot</i>"
+}

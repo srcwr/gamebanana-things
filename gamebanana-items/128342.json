@@ -1,0 +1,48 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"mg_moarlazor_course_v3.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 292710,
+			"_nDownloadCount": 2044,
+			"_nFilesize": 14480950,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/292710",
+			"_sFile": "mg_moarlazor_course_v3.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1377350788
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Difficulty change"
+				},
+				{
+					"cat": "-",
+					"text": "Textures fixes"
+				},
+				{
+					"cat": "-",
+					"text": "Some littles cool things"
+				}
+			],
+			"_sText": "I reduced a bit the difficulty on the second trap (the glass one) a lot of people were dying here , and it is supposed to be an \"easy trap\"\r\n\r\nSome \"nodraw\" textures were visible , just a little fix.\r\n\r\nAdded 3 \"trail grenades\"\r\n\r\nAdded some details like blood and corpses.",
+			"_sTitle": "v3",
+			"_tsDateAdded": 1377646613
+		}
+	],
+	"_idRow": 128342,
+	"_sName": "mg_Moarlazor_course_v3",
+	"_sText": "Hello everyone , this is my first -published- map.\r\nI know there is not a lot of details , but i think this is not the most important thing in a course map.\r\nThanks to [D!di] for additional testing.\r\nThanks to Jean-Baboule , and the TLD server for the live testing :)\r\n\r\nThere is the v3 ! Unless some criticals bugs are found (i don't think there is any) ,this version is the last version !\r\n\r\n\r\n\r\nTextures : \r\n\r\n- PK01 http://css.gamebanana.com/textures/3670\r\n- PK02 http://css.gamebanana.com/textures/3669\r\n- Disturbed's Water Textures http://css.gamebanana.com/textures/652\r\n\r\n/!\\ For local testing , don't forget to use \"sv_airaccelerate 150\"  /!\\\r\n\r\nps : Sorry about the \"quick updates\" to the maps , i know this is not cool for servers administrators , but all the updates were importants..\r\n\r\nHope you enjoy :)"
+}

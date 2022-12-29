@@ -1,0 +1,34 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"de_lochs2": {
+						"0": "de_lochs2_readme.txt",
+						"maps": [
+							"de_lochs2.bsp",
+							"de_lochs2.nav",
+							"de_lochs2.txt"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 362024,
+			"_nDownloadCount": 5898,
+			"_nFilesize": 6896422,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/362024",
+			"_sFile": "de_lochs2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1107587422
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 102972,
+	"_sName": "de_lochs2",
+	"_sText": "2_04_05 4:09pm\r\nDe_lochs version \"2\"\r\nMap and cusotm textures made by Vig AKA Mark Dygert\r\nSite: www.vigville.com/de_lochs\r\nEmail: vig@vigville.com\r\n\r\n=========================\r\n\r\n\r\nInstall instructions:\r\n--------------------------------------------\r\n- Unzip de_lochs2.zip to your cstrike folder normally found in;\r\n*X:program files\\valve\\Steam\\SteamApps\\yoursteamnamehere\\counter-strike source\\\r\n\r\nManual Install:\r\n- Place de_lochs2.bsp, de_lochs2.nav, de_lochs2.txt inside your cstrike\\maps folder.Normally found in:\r\n X:program files\\valve\\Steam\\SteamApps\\yoursteamnamehere\\counter-strike source\\cstrike\\maps\\\r\n\r\n*or wherever you installed steam to, hopefully you know how to find the cstrike folder by either doing a search or you just know how to find it...\r\n\r\n\r\n\r\n==========================\r\nContents:\r\n-----------------------------------------------\r\n- de_lochs2.bsp:\r\nThis is the main map file that also contains all the custom textures that Where used for the map.\r\n\r\n- de_lochs2.nav:\r\nThis is the navigation file for the bots. I included it so you don't have to spend the 15 min setting up the bots for the first time.\r\n\r\n- de_lochs2.txt:\r\nThis file contains the text you see at the beginning of the map. You know the text that no one reads?\r\n\r\nThe custom textures I created for this map have been compiled into the bsp file so there is no need for a res file. What a pain that was...\r\n\r\nA special \"thanks\" ester egg room has been included in the map for who are adventerous enough to find it. \r\n\r\nThere are a lot of changes, new routes, new places to hide, more detail. And above all I have optimized the holy crap out of the map using every trick I know how to use. I even used a few I had no clue could be done before =) It runs great all of the test machines, so if you encounter poor FPS it will be news to me =P\r\n\r\n===========================\r\nDownload VERSION 2.0 and view CURRENT screen shots:\r\n-------------------------------------------------\r\nhttp://www.vigville.com/de_lochs/"
+}

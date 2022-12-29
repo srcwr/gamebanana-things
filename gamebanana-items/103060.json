@@ -1,0 +1,42 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "README.txt",
+					"cstrike": {
+						"maps": [
+							"de_marketplace.bsp",
+							"de_marketplace.nav",
+							"de_marketplace.txt"
+						],
+						"materials": {
+							"props": [
+								"hescobarrier_side.vmt",
+								"hescobarrier_side.vtf",
+								"hescobarrier_top.vmt",
+								"hescobarrier_top.vtf"
+							]
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 310175,
+			"_nDownloadCount": 2396,
+			"_nFilesize": 11176242,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/310175",
+			"_sFile": "_8347-.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1312492151
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 103060,
+	"_sName": "De_Marketplace",
+	"_sText": "De_Marketplace by nukedrabbit95. (v3)\r\n\r\nINSTALLATION:\r\n\r\nExtract cstrike into the counter-strike source folder.\r\n\r\nThis is my first released map, so enjoy!\r\n\r\nV3 Changes:\r\n-Fixed bombsite balance issues.\r\n-Fixed some spawnpoints being outside of the buyzone."
+}

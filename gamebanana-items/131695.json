@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"zm_diablo_final.bsp",
+					"zm_diablo_final.txt"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 356405,
+			"_nDownloadCount": 2061,
+			"_nFilesize": 3698412,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/356405",
+			"_sFile": "zm_diablo_final.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1157491632
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 131695,
+	"_sName": "zm_diablo_final",
+	"_sText": "Improvements:\r\n\r\n- Doors are physboxes, no more func_doors (dont push away barricades)\r\n\r\n- The zombie gate is locked until someone find and activate the switch\r\n\r\n- Some rooms and high spots added\r\n\r\nHope you'll enjoy that last version"
+}

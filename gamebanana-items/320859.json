@@ -1,0 +1,37 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "instructions.txt",
+					"hacked de_nuke": [
+						"de_nuke.bsp",
+						"dynamic shadow map.txt"
+					],
+					"vmf source": [
+						"de_nuke.prt",
+						"de_nuke.vmf",
+						"de_nuke.vmx"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 656223,
+			"_nDownloadCount": 297,
+			"_nFilesize": 42546900,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/656223",
+			"_sFile": "css_mapatcher_c3107.zip",
+			"_sMd5Checksum": "433cb1de204cb40a8da880f62388fe0b",
+			"_tsDateAdded": 1631366780
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 320859,
+	"_sName": "Enhanced de_nuke",
+	"_sText": "<b><u class=\"SelectedElement\"><span class=\"RedColor\">(Its client side map, Not for servers)<br></span></u></b><br>Its a hacked map so you must use a special tool to allow you to run such maps on any online server<br><br><span class=\"GreenColor\"><b>Map in download<br></b></span>Dynamic shadow and lighting de_nuke.bsp<br><br>This map was a hard one to pull off due to engine hunk overflow error, It actually pushes CSS engine to almost max limit"
+}

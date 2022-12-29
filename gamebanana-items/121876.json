@@ -1,0 +1,32 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"Readme.txt",
+					"screen1.jpg",
+					"screen2.jpg",
+					"screen3.jpg",
+					"surf_crossfire.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 358159,
+			"_nDownloadCount": 1815,
+			"_nFilesize": 1754859,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/358159",
+			"_sFile": "surf_crossfire.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1146000873
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 121876,
+	"_sName": "surf_crossfire",
+	"_sText": "Surf_crossfire;\r\nCreated by MikeKnoop;\r\nConcept by MikeKnoop;\r\n\r\nVersion Control:\r\nThe most recent versions can be found in one of two places. Both are updated simotaneosly.\r\n\t1. http://www.fpsbanana.com, search for surf_crossfire\r\n\t2. http://www.mikeknoop.com/upload/surf_crossfire.zip, the link will always contain the newest version.\r\n\r\n\r\nHistory:\r\n\tVersion_FINAL:\r\n\t\t-Final Release on May 30, 2006\r\n\t\t-ADD: The gun you may pickup now randomlly cycles through AK47, M4A1, and Shotgun\r\n\t\t\t(that was back-breaking labour!)\r\n\t\t-FIX: The edge of the bottom surfs push you into the water to prevent camping.\r\n\r\n\tVersion_v2c:\r\n\t\t-Release on April 29, 2006\r\n\t\t-CHANGE: Last release had 28 spawn points, now there are 40\r\n\t\t-CHANGE: There used to be 6 random teleport location in the jail, upped to 12\r\n\t\t\t with hopes of reducing people getting stuck in each other\r\n\t\t-FIX: Water depth increased, with hopes of fixing people dying when hitting the\t\r\n\t\t\tjail floor (this fix is for 66 and 100 tick servers)\r\n\t\t\t\r\n\tVersion_v2b:\r\n\t\t-Released on April 28, 2006\r\n\t\t-Version_v2 was used for internal teesting\r\n\t\t-ADD: AWP weapon to the bombsite platform\r\n\t\t-ADD: Bomb explode effects\r\n\t\t-FIX: Fixed the glitch causing people to die when entering jail \"hard\"\r\n\t\t-FIX: Fixed players getting stuck on main ramp, now they can climb the lower lip\r\n\t\t-CHANGE: Added a trigger_hurt entity to the lips of the jail water. Meaning, the game\r\n\t\t\t will now hurt you if you try to camp on one of the water lips\r\n\t\t-CHANGE: Shotguns now don't start with full ammo. Just one clip of 8. Extra ammo can be\r\n\t\t\t obtained by going through teleports on top of spawn boxes\r\n\r\n\tVersion_v1:\r\n\t\t-Released to public on April 25, 2006\r\n\r\n\r\nContact:\r\n\tEmail: mikeknoop@gmail.com\r\n\tAIM: ohsnapitsm1ke\r\n\r\n~ All map ideas, suggestions, requests, anger, flamings, etc. etc. are appreciated! ~"
+}

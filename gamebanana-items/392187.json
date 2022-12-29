@@ -1,0 +1,75 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ze_hydroponic_garden_css1.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 838310,
+			"_nDownloadCount": 50,
+			"_nFilesize": 75865868,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/838310",
+			"_sFile": "ze_hydroponic_garden_css1.zip",
+			"_sMd5Checksum": "0ddf04bd9a9831bdf9a46906628ece77",
+			"_tsDateAdded": 1658954680
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "Client crash fix on stage 4"
+				},
+				{
+					"cat": "Addition",
+					"text": "Boost music volume"
+				},
+				{
+					"cat": "Addition",
+					"text": "3 items now on stage 1"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "bhop stripper fix"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "stage 2 lasers are no more csgo height"
+				}
+			],
+			"_sText": "<p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://pastebin.com/hT2sy2UF\">Click here</a> for the stripper</p>",
+			"_sTitle": "New stripper",
+			"_tsDateAdded": 1659881182
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Added one more item on stage 1 for humans"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Removed bhop on ending stage 1 to avoid huge boost from the top side"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "PickRandomShuffle on ending stage 1 instead of PickRandom"
+				}
+			],
+			"_sText": "<p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://pastebin.com/LGYJxYa4\">Stripper fix</a></p>",
+			"_sTitle": "Stripper",
+			"_tsDateAdded": 1659106711
+		}
+	],
+	"_idRow": 392187,
+	"_sName": "ze_hydroponic_garden [CSS PORT]",
+	"_sText": "Port of hydroponic garden<br><br>visualizer sequel<br><br>original map :&nbsp;https://gamebanana.com/mods/370092"
+}

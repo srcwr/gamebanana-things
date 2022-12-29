@@ -1,0 +1,30 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"cs_calm_source readme.txt",
+					"cs_calm_source.bsp",
+					"cs_calm_source.nav",
+					"cs_calm_source.txt"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 316218,
+			"_nDownloadCount": 2675,
+			"_nFilesize": 3004323,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/316218",
+			"_sFile": "cs_calm_source.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1292879626
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 99412,
+	"_sName": "Calm Village",
+	"_sText": "Calm Village - Hostage Rescue\r\nby Will2k\r\nwill2k@hot-shot.com\r\nhttp://will8k.tripod.com\r\n\r\nOverview\r\n--------\r\nThis map is a source remake of my own map cs_calm for counterstrike 1.5\r\n\r\nThe original goes back to 2003, a date at which I stopped mapping (traveling, lack of time...), and stopped updating the website.\r\n\r\n7 years later, the mod/map bug bit me again :) as it did the first time in 1998 and I found myself firing up Hammer and setting it up for CS source.\r\n\r\nAfter spending couple of days on the valve developer wiki to see the new stuff in Hammer/source engine, I figured that the best way to get back to business is to convert one of my own maps from Goldsrc to source, instead of starting a new map from scratch.\r\n\r\nI slightly modified the original layout of the map, adding some areas and embellishing existing ones and incorporating the source changes into it.\r\n\r\nThe result is cs_calm_source; a small to medium map that can fit up to 32 players and that is very true to the original map.\r\n\r\nI kept it simple and used existing resources from CSS / HL2. No new textures/materials, no new sounds, no new models.\r\n\r\nThe gameplay is fast and balanced, the routes are clear and the ambience is not distracting.\r\n\r\n\r\nInstallation\r\n------------\r\nSimply extract the 4 files in the zip archive to your \\Counter-Strike Source\\cstrike\\maps\r\n\r\nI have included a nav file for offline play with bots.\r\n\r\nEnjoy the map and have fun playing it as I had fun making it\r\n\r\n\r\nWill2k\r\n\r\nDecember 20, 2010"
+}

@@ -1,0 +1,31 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"deathrun_adrenalin_v4fix.bsp",
+					"deathrun_adrenalin_v4fix.bsp.bak",
+					"deathrun_adrenalin_v4fix.prt",
+					"readme.txt"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 309617,
+			"_nDownloadCount": 1680,
+			"_nFilesize": 5773992,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/309617",
+			"_sFile": "_9007-.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1313935976
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 126801,
+	"_sName": "deathrun_adrenalin_v4fix",
+	"_sText": "Place .BSP file into username/cunter-strike source/maps\r\nI also take no credit in the creation of this map, all credit goes to the original creator.\r\n\r\n\r\nTraps have been fixed, pictures to see what i have done.\r\n\r\n\r\n\r\nTRAPS\r\n1. Steam Trap: Added a invisible block above the vent that breaks on button, so that the \"trigger_push\" pushes you up no matter what, I also added larger walls all around so no wall glitching :).\r\n\r\n\r\n\r\n2. Explosion: The trap where there is an explosion in the  air actually does a good amount of damage\r\n\r\n\r\n\r\n3. Slow Steam: The steam now slows you only a bit, now you actually can press the button without people getting angry... It only now slows you slightly basically so t's don't have to react fast.\r\n\r\n\r\n\r\n4. Fire: The fire trap had a glitch where you can walk far on the side and no get hurt ( PICTURE INCLUDED - IN HAMMER EDITOR ) I have now added a \"trigger_hurt\" so i don't have to change the flame, i also made the \"trigger_hurt\" built up damage so it acts like fire.\r\n\r\n\r\n5. I have fixed NOOB event where the T doesn't get sent to the area, i have added a teleport and it now works fine \r\n\r\n\r\n\r\nI haven't changed this map in any other way other than just fixing it up fully.\r\n\r\n\r\nPLEASE GIVE ME FEEDBACK AND COMMENT :))"
+}

@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"cs_atlas_b2.bsp",
+					"cs_atlas_b2.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 354282,
+			"_nDownloadCount": 6044,
+			"_nFilesize": 2712150,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/354282",
+			"_sFile": "cs_atlas_b2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1167022417
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 99568,
+	"_sName": "cs_atlas_b2",
+	"_sText": "(UPDATE: Fixed a couple things with the .nav file and textures. Upgraded version to Beta 2.)\r\n\r\nThis is my first effort with the Source engine and Hammer, although I've had lots of past experience with Worldcraft and HL1 mapping. I would like to get feedback on the map before I go from \"beta\" to \"final\" status. The following things are not finished yet:\r\n\r\n- HUD map image\r\n- Special effects\r\n- Soundscapes and ambient sounds\r\n- Some speed optimization\r\n\r\nThere are 32 total spawn points in the map, but it seems to play best with 8-16 players. More than that, and the halls start to get clogged with bodies :-D\r\n\r\nThere's also a small secret area in the map. I salute anyone who discovers how to get inside...\r\n\r\n(UPDATE: A lot of people have requested directions or said it was impossible to get into the secret room. I've added a screen shot that shows how.)\r\n\r\nHope ya enjoy!"
+}

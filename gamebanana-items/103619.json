@@ -1,0 +1,70 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "Install.txt",
+					"Screenshots": [
+						"de_quebec0000.jpg",
+						"de_quebec0002.jpg",
+						"de_quebec0003.jpg",
+						"de_quebec12.jpg",
+						"de_quebec13.jpg",
+						"de_quebec14.jpg",
+						"de_quebecb10004.jpg"
+					],
+					"maps": [
+						"de_quebec.bsp",
+						"de_quebec.nav",
+						"de_quebec.res",
+						"de_quebec.txt"
+					],
+					"materials": {
+						"de_quebec": [
+							"drivemenu.vmt",
+							"drivemenu.vtf",
+							"drivemenu_ref.vtf",
+							"la_Belle_Province_logo.vmt",
+							"la_Belle_Province_logo.vtf",
+							"maudite_englicheversion.vmt",
+							"maudite_englicheversion.vtf",
+							"maurice.vmt",
+							"maurice.vtf",
+							"menu1.vmt",
+							"menu1.vtf",
+							"menu1_ref.vtf",
+							"nmg_real5.vmt",
+							"nmg_real5.vtf",
+							"quebec.vmt",
+							"quebec.vtf",
+							"wheellegs.vmt",
+							"wheellegs.vtf"
+						],
+						"nippertextures": {
+							"de_vangogh_s": [
+								"nmg_real5.vmt",
+								"nmg_real5.vtf"
+							]
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 361950,
+			"_nDownloadCount": 4716,
+			"_nFilesize": 4763454,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/361950",
+			"_sFile": "de_quebec.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1109403611
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 103619,
+	"_sName": "de_quebec",
+	"_sText": "DE_QUEBEC\r\n\r\nCreated by: Wheel-Knee\r\nContact: johnlawrance@gmail.com\r\nRelease Date: January 23/2005\r\nCapacity: 20 vs. 20\r\nWorks with Bots: 80% - They can't go out windows.\r\n\r\nThis map is based on Quebec City, and the Chateau Frontenac Hotel. Counter-Terrorists (RCMP) must stop the Terrorists (FLQ), from bombing the hotel. That is if they don't stop for poutine on the way.\r\n\r\n"
+}

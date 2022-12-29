@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"surf_rocketman_v2.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 352316,
+			"_nDownloadCount": 7689,
+			"_nFilesize": 2741118,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/352316",
+			"_sFile": "surf_rocketman_v2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1175977384
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 122852,
+	"_sName": "surf_rocketman_v2",
+	"_sText": "**v1**\r\nFeatures:\r\n-Original texturing\r\n-Visually pleasing\r\n-Fully functional rocketsystem, shooting (random location) rockets that actually break stuff in the map, changing gameplay around a little. (Made using a bunch of func_tracktrains)\r\n-Combat/Surf-style\r\n-Time-release laser jail\r\n-Secret Buyzone\r\n-Moving rocket-launchpad\r\n\r\n\r\n-SmOoth\r\n\r\nGameplay really didnt work out, so:\r\n**v2**\r\nChanges:\r\n-Made it smaller\r\n-Made the circling rocket so that it kills people camping top of jail\r\n-Made outside of jail a more vulnerable place\r\n-Removed platforms\r\n-Removed deagle at start\r\n-Boosters off rocketplatforms\r\n-Changed texture scales and lightmaps\r\n-Optimized a little bit more\r\n-Made sure the sound won't loop if one of the rockets fails\r\n-More minor changes"
+}

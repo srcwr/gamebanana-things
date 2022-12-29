@@ -1,0 +1,34 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrike": {
+						"maps": [
+							"scouts_vs_awps.bsp",
+							"scouts_vs_awps.nav",
+							"scouts_vs_awps.txt"
+						]
+					}
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 356859,
+			"_nDownloadCount": 1253,
+			"_nFilesize": 234342,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/356859",
+			"_sFile": "scouts_vs_awps.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1155760241
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 119510,
+	"_sName": "scouts_vs_awps",
+	"_sText": "scouts_vs_awps\r\nCreated by MNtMzng\r\n\r\n16 CT Spawns\r\n16 Terrorist Spawns\r\n\r\nAt the beginning of each round, each team will be randomly assigned \"awp\" or \"scout\".\r\n\r\nIf a team is assigned \"awp\", they start off with an awp, 10 extra bullets in their gun, and a smoke grenade.\r\nThis team has an offensive position.\r\n\r\nIf a team is assigned \"scout\", they start off with a scout, 60 extra bullets in their gun, and an assault kit (vest and helmet).\r\nThis team has a defensive position.  The building's lights are in their color (t's red, ct's blue).\r\n\r\nThanks to Jotheman for ideas.\r\nThanks to l33t betatester Kemistry."
+}

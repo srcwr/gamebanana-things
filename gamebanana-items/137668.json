@@ -1,0 +1,27 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"rush_neighbourhood_v2.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 293007,
+			"_nDownloadCount": 2082,
+			"_nFilesize": 12377488,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/293007",
+			"_sFile": "rush_neighbourhood_v2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1376077432
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 137668,
+	"_sName": "Rush_neighbourhood",
+	"_sText": "<iframe width=\"560\" height=\"315\" src=\"http://www.youtube.com/embed/iYtR1KyH2ew\" frameborder=\"0\" allowfullscreen=\"\"></iframe>\r\n<h1>What is Rush?</h1>\r\nRush is a game type from the battlefield series, notably battlefield bad company 2 and battlefield 3.<br><br>\r\nThe game type is simple: attackers destroy the bomb sites and the defenders disarm/protect them.<br><br>\r\nThe game consists of 3 stages, with 2 bomb sites in each stage.<br>\r\nA majority of the map is locked off to begin with, and the attackers must destroy the 2 bomb sites in stage one before the second stage is unlocked.<br><br>\r\nOnce all 3 bomb sites have been cleared, the attackers are declared the winners and the game is restarted/level is changed.<br><br>\r\nEvery time an attacker spawns, a ticket is deducted from their pot. If the attackers lose 120 tickets before they progress to the next stage, they lose. Tickets are reset after each stage.<br><br>\r\nThe only thing I would recommend is a mod that controls respawning and weapons. A classes script would be a benefit.<br><br>\r\n<h1>The Map</h1>\r\nThis is my latest Rush map for CS:S. It is based in a city and starts from a neighbourhood and progresses through to until ending in a shopping center. <br>\r\nAfter hours of BETA testing with the <a href=\"http://www.dying2kill.com.au/forum.php\" title=\"DTK Community\" target=\"_blank\">DTK Community</a>, we have finally worked out the bugs and I am happy to release this map in its final stage.<br>\r\nI tried to make it as balanced as possible on all stages and have included multiple points of access to each bomb site on each stage, eliminating bottle necking for the most part.<br><br>\r\nStages: 3<br>\r\nBombs per stage: 2 <br>\r\nBomb Timer: 30 seconds <br>\r\nAttacker Spawn tickets: 120<br>\r\nProgression delay: 10 seconds<br><br>\r\n<h1>The map: developer</h1>\r\nI have broken up the three stages with closed area portals, ensuring high FPS throughout the map. When stage one is cleared, the AP is opened for stage 2, and again for stage 3 once stage 2 is cleared. <br><br>\r\nThe Rush mechanics are taken care of by my prefab, but require a mod to allow respawning and weapons. The map automatically hooks round end until the map is cleared, or the tickets are reduced to 0.<br><br>\r\nI normally like to test new skills inside a map, and this one was purely about optimization. I have used various tactics for optimization ranging from AP's to hint/skip brushes, occulders and shaping the skybox a certain way to stop rendering on certain parts.<br><br>"
+}

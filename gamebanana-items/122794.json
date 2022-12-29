@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"surf_Qlimax_Q.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 329439,
+			"_nDownloadCount": 2089,
+			"_nFilesize": 12130345,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/329439",
+			"_sFile": "surf_qlimax_q.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1250843270
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 122794,
+	"_sName": "surf_Qlimax_Q",
+	"_sText": "-=surf_Qlimax_Q=-\r\n\r\nThis is a fixed version of surf_Qlimax. A lot of things have been fixed or have been improved:\r\n\r\n-The tesla game in jail works properly again.\r\n-Lightning on stage 2, 3 and 4 have been improved.\r\n- ''and theres a texture glitch for me on a part of the floor in braves level.'' - has been fixed.\r\n-More arrows have been added on stage 4 to make the route of that stage more clearly.\r\n-The carpet at the end of stage 5 now looks like it was supposed to.\r\n-''I get \"buffer overflow in net message\" consistantly when I walk into the first level'' - MIGHT be fixed.\r\n-An unnecessary ramp on stage 5 has been removed.\r\n-Stage 1 is now easier because it was first harder than stage 2.\r\n-A timer has been added on the last part of Lody's stage so you can also see how much time is left on that part of the map.\r\n-You can now wait at the teleporter before the end so when you finish it you can still allow people to continue surfing.\r\n\r\n\r\nsurf_Qlimax is a collaborative skill surf map. It has 6 stages. You have 6 minutes to complete the map. If the timer runs out before anyone was able to finish, everybody will be teleported to an ice skate jail with 1 HP. (The moment you lose 99 hp can be bugged, if that is the case then contact me immediatly.)\r\nIn the middle of this ice skate room you can see a beam. Skate right through it and you will receive flashbang grenades. With this way you can get some flashkills!\r\n\r\nWhen someone did complete the map, everybody will be teleported to another jail. The player that won can now select between 3 buttons. One button offers you kills by killing the other people with a gun, another button will start a survival game and the last one will kill the other people without you getting kills. The details of these effects will be for you to discover.\r\n\r\nThe stages and creators:\r\n\r\nSpawn: Helix\r\nStage 1: Helix\r\nStage 2: Juice\r\nStage 3: Fox\r\nStage 4: Bravesurf\r\nStage 5: Bala the Shark\r\nStage 6: Lody Blokady\r\nJail 1: Helix\r\nJail 2: Helix\r\n\r\nThe map is designed for 66 tick and noblock is required to play this map properly."
+}

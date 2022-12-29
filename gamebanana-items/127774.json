@@ -1,0 +1,34 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "Readme.txt",
+					"Downloadserver": [
+						"mg_boatrace_v1b.bsp.bz2"
+					],
+					"Gameserver": [
+						"mg_boatrace_v1b.bsp"
+					]
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 322749,
+			"_nDownloadCount": 1718,
+			"_nFilesize": 2564046,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/322749",
+			"_sFile": "mg_boatrace_v1b.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1273669835
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 127774,
+	"_sName": "mg_boatrace_v1b",
+	"_sText": "**Recomended rate config**\r\ncl_cmdrate 33 (higher value will require more rate)\r\ncl_updaterate 33\r\nrate 25000 (or higher)\r\n\r\nCurrent version v1 (beta)\r\n\r\nThe objective of this map is to win a race driving a boat.\r\nThe race has 2 laps, when a player wins the race the enemy team will die.\r\nPlayers cannont kill enemies using any weapon.\r\nEach team can control 8 boats, players that cannot drive boats can see the race choose background music and try to break enemy boats with grenades.\r\n\r\nThe boat is driven using WASD, at faster speed the boat will spin less, as any other vehicle break before taking a curve.\r\nRemember that te boat is breakable, avoid any impact against walls or other boats, also avoid grenades.\r\nIf the driver suicides then the boat will break, if all boats where broken during the race or any player drives boats then everyone will die.\r\n\r\n------------------------\r\nChangelog:\r\n\r\n--v1--\r\n\r\nFirst release.\r\n\r\n--v1b--\r\n\r\n-Disabled collisions between boats, this decreases lag and glitches in race.\r\n-Now boats are blocked in the spawnboxes this prevents boats to start moving without driver when damaged.\r\n-One more bridge for spectator players.\r\n-Small map optimizations."
+}

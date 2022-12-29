@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"mg_color_multigames_v2_fix.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 310004,
+			"_nDownloadCount": 8446,
+			"_nFilesize": 37921480,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/310004",
+			"_sFile": "mg_color_multigames_v2_fix.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1312944851
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 127855,
+	"_sName": "mg_color_multigames_v2_fix",
+	"_sText": "IF I HAVE NOT CREDITED YOU FOR SOMETHING, PLEASE LET ME KNOW.\r\n\r\n---------------------------------------------------------------------------------------------------------\r\n\r\nBasically this is another multimap. There are 13 different minigames. I would also like to thank Daniel_Lyness for his awesome textures. \r\n\r\n---------------------------------------------------------------------------------------------------------\r\n\r\nThis map is just like any other multimap, first person that gets to the center picks what minigame they want for the round. The song will be randomly chosen every round. I've tested this map on my mg server for about 1 hour, the map has not glitched once and worked perfectly fine the entire time. I have fixed any small glitches/bugs I found. \r\n\r\n---------------------------------------------------------------------------------------------------------\r\n\r\n - MG SERVER IP: 208.167.242.46:27015\r\n - http://undefinedgaming.org/\r\n - http://steamcommunity.com/groups/UndefinedGamingP\r\n\r\n---------------------------------------------------------------------------------------------------------\r\n\r\nMINIGAMES\r\n\r\n - Knife\r\n - Shotguns\r\n - Iceskate\r\n - Breakwall\r\n - Awp\r\n - Bhop\r\n - Random\r\n - Headshot\r\n - Race\r\n - Squash\r\n - Grenades\r\n - Slide Race\r\n - Climb\r\n\r\n---------------------------------------------------------------------------------------------------------\r\n\r\nSONGS\r\n\r\n - Zelda Remix 1\r\n - Zelda Remix 2\r\n - Zelda Remix 3\r\n - My Horse Is Amazing\r\n - Nyan Cat\r\n - Tetris Remix\r\n\r\n---------------------------------------------------------------------------------------------------------\r\n\r\nPICTURES\r\n\r\n 1. Spawn\r\n 2. Bhop (2nd stage)\r\n 3. Race\r\n 4. Squash\r\n 5. Slide Race\r\n 6. Climb (1st stage)\r\n\r\n---------------------------------------------------------------------------------------------------------\r\n\r\nI don't know why, but for some reason the fixed version kept crashing my server. I recompiled it with the v2 name and now it seems to work fine again.\r\n\r\n---------------------------------------------------------------------------------------------------------\r\n\r\n***FIXES (v2_fix)***\r\n\r\n-Shotgun spawn bug\r\n-Added time limit to bhop (3 mins)\r\n-Made bhop easier\r\n-Added timer for spawn (1 min)"
+}

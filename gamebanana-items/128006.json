@@ -1,0 +1,49 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "Contact.txt",
+					"1": "Map Information.txt",
+					"2": "Movie References.txt",
+					"3": "Secrets.txt",
+					"Killers": [
+						"Freddy Krueger (the knife).jpg",
+						"Jack Torrance (the axe).jpg",
+						"Leatherface (the chainsaw).jpg"
+					],
+					"Maps": [
+						"mg_frightnight_final_v3.bsp"
+					],
+					"Screenshots": [
+						"Screenshot A.jpg",
+						"Screenshot B.jpg",
+						"Screenshot C.jpg",
+						"Screenshot D.jpg",
+						"Screenshot E.jpg",
+						"Screenshot F.jpg",
+						"Screenshot G.jpg",
+						"Screenshot H.jpg"
+					]
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 298917,
+			"_nDownloadCount": 5005,
+			"_nFilesize": 20628322,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/298917",
+			"_sFile": "mg_frightnight_final_v3.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1351554529
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 128006,
+	"_sName": "mg_frightnight_final_v3",
+	"_sText": "**Be aware:** Changes in this version are minimal and it has mainly been released as an attempt at fixing the team switcher in time for Halloween. The map will receive a lot more updates, and potentially even a CS:GO port some time soon. If you have good ideas for improvements PLEASE message me either on here, or YouTube (which I check almost every day) http://www.youtube.com/SpyWhoLovedHimself I **WILL** take your suggestions very seriously. Those who have criticism, definitely message me with ways I can make it more enjoyable for you, I want to make this map fun for everyone.\r\n\r\n\r\nQuick Message\r\n=====================\r\n\r\nCrazy to think I first released this map Halloween of 2009 (3 whole years ago) and have been further developing it on and off ever since! Thank you to those who have supported me and this map throughout! I know it's a bit like Marmite, some will love it, whilst some don't enjoy Hide & Seek (I am always trying to improve the gameplay to make it more fun for those players, hence the CT knife). But to everyone who has messaged me to tell me how much they love the map, thank you... That's what makes it all worth it to me! I take all suggestions very seriously, without user input it wouldn't be where it is now... Again, thanks.\r\n\r\n- Starving Hobo\r\n\r\nP.S. If you have a few friends with mic, try playing this map at night in a small private server. Alltalk on. I personally think it's the most fun played that way :)\r\n\r\n\r\nFright Night: Part 2 (Fix: V3)\r\n=====================\r\n\r\nAbout the map:\r\n\r\nIt functions as a hide and seek map with a few twists.  Counter-Terrorists spawn with no weapons and must hide and avoid being killed by the Terrorists who must hunt them down and kill them.  There is a three minute time limit, after which the Terrorists will be killed and swapped with Counter-Terrorists.  There is a maximum of three Terrorists who play as Leatherface, Jack Torrance and Freddy Krueger, each gets a special weapon apart from Freddy, but Freddy can play scary music by right clicking after a certain amount of time has passed.  It is set up to be like a horror movie with some areas being based on movie scenes, such as the kitchen (The Texas Chainsaw Massacre), bathroom (The Shining), tool shed (The Evil Dead), maze (The Shining) and the \"bookshelf\" door (horror cliché).\r\n\r\nThere is a single knife which spawns in the tool shed after a random amount of time each round.  When a Counter-Terrorist picks it up he assumes the character of Ash (The Evil Dead) with matching quotes on right click.\r\n\r\n\r\nTerrorists: 3\r\nCounter-Terrorists: 29\r\n\r\nMaximum of 32 players.\r\n\r\n\r\nNO-BLOCK SERVER PLUGIN VERY HIGHLY RECOMMENDED FOR PLAYING THIS MAP\r\n\r\n\r\nChangelog\r\n=====================\r\n\r\n\r\nChangelog [CURRENT VERSION] (mg_frightnight_final_v3):\r\n\r\n- REDRUM added to bathroom door\r\n- Title screen music fixed\r\n- Team switcher altered as the old one did not work\r\n\r\n\r\nChangelog [CURRENT VERSION] (mg frightnight final v2):\r\n\r\n- Team switcher, switches Terrorists with surviving Counter-Terrorists if Terrorists lose\r\n- Added new tool shed\r\n- Added a knife which spawns in the tool shed\r\n- Added Evil Dead quotes (Ash) for the CT knife\r\n- New exit from the mansion in the bookshelf secret compartment, locked if there is only one Terrorist\r\n- New Jack Torrance quote when trying to open a locked bathroom door as Jack\r\n- Leatherface screams and cries like in the movies\r\n- Fixed ghost, new scarier model\r\n- 3 ghostly experiences to find\r\n- Alternate Freddy music (there are now two tracks)\r\n- New intro view, very horror movie-esque title credit roll\r\n- Various added detail including a head in a saucepan in the kitchen\r\n- Attic extended again with a secret compartment at the back\r\n- Attic lighting dimmed\r\n- Counter-Terrorists can't get a Terrorist weapon anymore\r\n- Fixed bug where a Terrorist could use a flashlight\r\n- Fixed attic window glitch\r\n- Added 3D skybox (credit thegregster101)\r\n- Altered fog settings\r\n- Secrets more user friendly (e.g. door lock pulsates before use to make it more obvious)\r\n- New skybox texture (credit Hip Shot)\r\n- \"Cheap\" hiding spot in the maze lit\r\n- \"Cheap\" hiding spot in the gallery lit\r\n- \"Here's Johnny!\" quote can only be used once every 30 seconds now (used to be 10)\r\n- Axe now also swings on right click\r\n- Axe can't be spammed anymore\r\n- TV may or may not come on at random intervals instead of always turning on every 100 seconds\r\n- Small cubemap fixes\r\n- Added more hiding places in attic\r\n\r\n\r\nChangelog 2010 (mg frightnight final):\r\n\r\n- Added cellar with trap door into maze\r\n- Scream sound effect when the first Counter-Terrorist is murdered.\r\n- Soundscapes to make the rain quieter inside\r\n- Window models added on the back of the house\r\n- Attic smaller and lit\r\n- Bathroom door can be knifed anywhere to break it down in sequence\r\n- Round time shortened to 3 minutes to cut down waiting time for dead players\r\n\r\n\r\nChangelog 2009 (mg frightnight beta2):\r\n\r\n- Quotes for all terrorist players by right clicking\r\n- Terrorists have a chainsaw, axe, and knife (no glove model for Freddy exists)\r\n- Living room TV plays the video from The Ring, and illuminates the room\r\n- Awesome thunder weather effects\r\n- Closet on the second floor of the mansion you can hide in\r\n- Flashlights disabled\r\n\r\n\r\nMap Story\r\n=====================\r\n\r\nIt's 3 minutes to midnight on Halloween! A group of CTs have seeked refuge from the storm in an old haunted mansion. Just when everything seemed okay, a huge lightning bolt struck three graves outside of the mansion! Shocked, the CTs watched outside, as three killers rose from their graves wielding scary looking weapons! The CTs desperately searched for their own weapons but remembered that they had lost them a long way back! The murderers have just 3 minutes until Halloween ends and they must return to their graves for another year, but can the CTs survive for that long as they are chased and taunted in the dark scary mansion?!\r\n\r\n\r\nGhost Hunting Side Quest\r\n=====================\r\n\r\nThere are 3 ghost sightings hidden in this map. The ghost is of the caretaker (you can find his hanging corpse in the tool shed basement). If you want a little ghost hunting fun see if you can find them all. One of the sightings is only enabled on certain rounds randomly (1/6 chance).\r\n\r\nVideo Showing Secrets & Lesser Known Gameplay Features\r\n=====================\r\n\r\n**Warning: Ghost hunt spoilers.**\r\n\r\nhttp://www.youtube.com/watch?v=YSC7Mb1-g3Y\r\n\t<iframe width=\"420\" height=\"315\" src=\"http://www.youtube.com/embed/YSC7Mb1-g3Y\" frameborder=\"0\" allowfullscreen></iframe>\r\n\r\nTrivia (A.K.A. sh*t nobody cares about)\r\n=====================\r\n\r\n- The map was originally going to be a spooky version of item battle until during play-testing, one of the players without a weapon commented that it was really scary being chased without any way to defend himself.\r\n- The attic of the original map prior to release was the full length of the room and completely pitch black, terrorists would run around using radar to find any CTs hiding up there.\r\n- Before the gameplay was changed from item battle, the crypt outside was going to be an entrance to a ghost train which would take players around the map and through the mansion.\r\n- The TV works by using a series of doors, a logic_timer and a LOT of hard work syncing it with the original video (it used to have audio)... The title screen works the same way."
+}

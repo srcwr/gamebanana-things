@@ -1,0 +1,84 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"zm_lila_panic_190fix.bsp",
+					"zm_lila_panic_190fix.bsp.bz2",
+					"zm_lila_panic_190fix.nav"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 423212,
+			"_nDownloadCount": 153,
+			"_nFilesize": 9146876,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "version 1.2",
+			"_sDownloadUrl": "https://gamebanana.com/dl/423212",
+			"_sFile": "zm_lila_panic_190fix.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1560710767
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"zm_lila_panic_190_fix_v2": {
+						"fastdl": {
+							"maps": [
+								"zm_lila_panic_190_fix_v2.bsp.bz2",
+								"zm_lila_panic_190_fix_v2.nav.bz2"
+							]
+						},
+						"server": {
+							"maps": [
+								"zm_lila_panic_190_fix_v2.bsp",
+								"zm_lila_panic_190_fix_v2.nav"
+							]
+						}
+					}
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 452969,
+			"_nDownloadCount": 97,
+			"_nFilesize": 7207594,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "version 2.0",
+			"_sDownloadUrl": "https://gamebanana.com/dl/452969",
+			"_sFile": "zm_lila_panic_190_fix_v2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1584472508
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "Fixed water"
+				},
+				{
+					"cat": "Optimization",
+					"text": "Added hints"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed sun and lights"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Stable",
+			"_tsDateAdded": 1584472592
+		}
+	],
+	"_idRow": 137942,
+	"_sName": "zm_lila_panic_190_fix",
+	"_sText": "<b><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</b>HISTORY UPDATES</b><i><br>Version 1.2</i><br><ul><li><span class=\"GreenColor\">Fixed teleport to secret room</span></li><li><span class=\"GreenColor\">Fixed&nbsp;landscape</span><br><br></li></ul><i>Version 2.0</i><br><ul><li><span class=\"GreenColor\">Fixed water</span></li><li><span class=\"GreenColor\">Added hints (+FPS)</span></li><li class=\"SelectedElement\"><span class=\"GreenColor\">Fixed sun and lights</span></li></ul>"
+}

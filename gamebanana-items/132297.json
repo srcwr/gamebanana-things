@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"zm_lobby_b5.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 348065,
+			"_nDownloadCount": 1626,
+			"_nFilesize": 3517854,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/348065",
+			"_sFile": "zm_lobby_b5_2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1191723364
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 132297,
+	"_sName": "zm_lobby_b5",
+	"_sText": "<div><b><font size=\"3\" color=\"#ff9900\">zm_lobby_b5</font></b><br>\r\n<b><font size=\"2\" color=\"#ffaa00\">Changelog:</font></b>\r\n- removed turning on of sv_cheats\r\n- added slow-motion on break\r\n- added low-gravity on break (generator)\r\n- added refract-overlay on break\r\n- added speed-tunnel connections\r\nbetween the rooms\r\n- added new lightnings in dystopia-room\r\n- removed 3d skybox for better performance\r\n\r\nI recommend at least 32 players to have on the map!\r\nIt runs very good on the Zombie ZEUS Server,\r\nwhich everyone should know ;)\r\n\r\n<font color=\"#ff3300\">You need to have Es_tools and\r\nEventscripts installed to run the\r\nmap well with extra effects!</font>\r\n\r\n<i>Update: Added custom-textures into\r\nbsp file with bsp-zip cause Man didn't\r\nworked properly! Pls redownload map.</i>\r\n</div>"
+}

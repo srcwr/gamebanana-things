@@ -1,0 +1,37 @@
+{
+	"_aAlternateFileSources": [
+		{
+			"description": "fastdl dl link",
+			"url": "http://212.129.39.115/cstrike/maps/"
+		}
+	],
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"bhop_kz_zigzag.bsp.bz2",
+					"kz_4youreyesonly.bsp.bz2",
+					"kz_beach.bsp.bz2",
+					"kz_computer.bsp",
+					"kz_cube.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 762413,
+			"_nDownloadCount": 36,
+			"_nFilesize": 82019963,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/762413",
+			"_sFile": "kzmod_maps.7z",
+			"_sMd5Checksum": "b08fe507646992c29455d6e967dc3457",
+			"_tsDateAdded": 1646902526
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 363364,
+	"_sName": "KZMOD port map pack 1",
+	"_sText": "Contains<br>kz_4youreyesonly<br>kz_beach<br>bhop_kz_zigzag<br>kz_computer<br>kz_cube<br><br>Notes<br>kz_beach: r_drawdetailprops 0 if you have fps issues<br>kz_computer: start zone should be lowered by 48 units from default height if using shavit's timer, the player should need to start from the \"ground\" which in this case is the skybox texture<br>kz_cube: start zone should be in the spawn and the end zone should be in the room similarily looking to the spawn after you escape the cube.<br>crouch if you get stuck after teleporting inside a clip brush (it's to prevent you falling off the teleport destination due to pre speed), use showtriggers for visual aid on where to go.<br><br>"
+}

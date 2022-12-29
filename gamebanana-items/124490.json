@@ -1,0 +1,54 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"bhop_atrium_fix.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 278455,
+			"_nDownloadCount": 712,
+			"_nFilesize": 1369247,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/278455",
+			"_sFile": "bhop_atrium_fix_2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1462710728
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Patched up that pretty gay skip"
+				},
+				{
+					"cat": "-",
+					"text": "Fixed a block that got messed up"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Fix v2",
+			"_tsDateAdded": 1462913780
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Forgot to pack the textures for the first level, should be fine now."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Fixed",
+			"_tsDateAdded": 1462714165
+		}
+	],
+	"_idRow": 124490,
+	"_sName": "bhop_atrium_fix",
+	"_sText": "Hey guys, i really only made this map to jive up some ideas for map making. Prior to making this map which took me about a day I worked on 8 different maps/ideas trying to create something that was unique, fun, aesthetically pleasing and good. Unfortunately I have been stumped on what to do so I decided to take inspiration from bhop_anyyy and create a map similar to it. This was however probably the most annoying thing I have ever dealt with, bug fixing took me about 4-5 hours because of an entity leak (somehow it got fixed). Don't even know how i fixed it but w/e lol anyways im going to publish it just for the sake of it, the map itself was pretty fun but yeah hf<br><br>20-30s&nbsp;"
+}

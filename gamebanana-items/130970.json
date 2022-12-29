@@ -1,0 +1,64 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ze_sandstorm_css_v1_5x3.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 490429,
+			"_nDownloadCount": 334,
+			"_nFilesize": 91244075,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/490429",
+			"_sFile": "ze_sandstorm_css_v1_5x3.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1602505019
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Improvement",
+					"text": "Small boost to bosses."
+				},
+				{
+					"cat": "Improvement",
+					"text": "Visual changes."
+				},
+				{
+					"cat": "Improvement",
+					"text": "Small improvements."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "v1_5x1 -> v1_5x3",
+			"_tsDateAdded": 1602505202
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Just an update..."
+				},
+				{
+					"cat": "-",
+					"text": "Small fixes"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "f1 -> v1_5x1",
+			"_tsDateAdded": 1595351668
+		}
+	],
+	"_idRow": 130970,
+	"_sName": "ze_sandstorm_css_v1_5x3",
+	"_sText": "<pre><code>The map has:\r\n• 64 spawns\r\n• 5 levels + ZM round(6 level)\r\n• 6 items for humans\r\nItem 1: Heal staff\r\nItem 2: Tornado staff\r\nItem 3: Quicksand staff\r\nItem 4: Earth staff\r\nItem 5: Fire staff\r\nItem 6: SandStorm(Ultimate) staff(2, 3, 4, 5, 6 level)\r\n\r\n• 3 items for zombies\r\nItem 1: Antlion(3, 4, 5 level)\r\nItem 2: Fire\r\nItem 3: Dark\r\n\r\n• 4 bosses</code></pre><br>Fixed a bug where the player is stuck on spawn.<br><br>29.10.2017: Gameplay is not changed<br>Fixed a bug, where 1 zombie could infect the whole team of humans at level 5.<br>Found a bug yesterday, although the map was made a long time ago, but I believe that bugs need to be fixed.<br>12.10.2020:&nbsp;Small boost to bosses. Visual changes.<br><br>"
+}

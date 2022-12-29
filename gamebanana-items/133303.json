@@ -1,0 +1,82 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"de_cf_ship_beta by Gamesta3000": {
+						"0": "Screenshot (1).png",
+						"1": "Screenshot (2).png",
+						"2": "readme.txt",
+						"cstrike": {
+							"download": {
+								"maps": [
+									"de_cf_ship_beta_fixed.bsp",
+									"de_cf_ship_beta_fixed.log"
+								],
+								"materials": {
+									"0": "d_ship_credits.vmt",
+									"1": "d_ship_credits2.vmt",
+									"2": "d_ship_credits2_d.vtf",
+									"3": "d_ship_credits_d.vtf",
+									"VBD": {
+										"Pack 1 Floors": [
+											"VBD_Metal_Floor001.vmt",
+											"VBD_Metal_Floor001.vtf"
+										]
+									},
+									"dev_nyro": [
+										"dev_yellow_b-05.vmt",
+										"dev_yellow_b-05.vtf"
+									],
+									"skybox": [
+										"ctbk.vmt",
+										"ctbk.vtf",
+										"ctdn.vmt",
+										"ctdn.vtf",
+										"ctft.vmt",
+										"ctft.vtf",
+										"ctlf.vmt",
+										"ctlf.vtf",
+										"ctrt.vmt",
+										"ctrt.vtf",
+										"ctup.vmt",
+										"ctup.vtf"
+									]
+								}
+							}
+						}
+					}
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 293056,
+			"_nDownloadCount": 5007,
+			"_nFilesize": 5115238,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/293056",
+			"_sFile": "de_cf_ship_beta_fixed.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1375810279
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "minor bug fixes"
+				}
+			],
+			"_sText": "All reported bugs were fixed now.\r\n\r\nIf you find any more bugs report them, please! :)",
+			"_sTitle": "0.9.1",
+			"_tsDateAdded": 1375895546
+		}
+	],
+	"_idRow": 133303,
+	"_sName": "de_cf_ship_beta",
+	"_sText": "This map can be used for Gungame, Aim Deagle or AWP for example.\r\n\r\nI am grateful for every feedback!\r\n\r\n\r\nedit 10/06/13 thank you for 1K downloads! :)"
+}

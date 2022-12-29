@@ -1,0 +1,68 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ka_house.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 784005,
+			"_nDownloadCount": 13,
+			"_nFilesize": 83450,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "the map",
+			"_sDownloadUrl": "https://gamebanana.com/dl/784005",
+			"_sFile": "ka_house.rar",
+			"_sMd5Checksum": "04fce20aaed47593f6dc8d4ee703d332",
+			"_tsDateAdded": 1650104468
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ka_house.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 785631,
+			"_nDownloadCount": 15,
+			"_nFilesize": 83450,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "new version of map",
+			"_sDownloadUrl": "https://gamebanana.com/dl/785631",
+			"_sFile": "ka_house_new.rar",
+			"_sMd5Checksum": "5ec9f2ecfb4b15b1d72387d22adecd7e",
+			"_tsDateAdded": 1650331434
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Added New Secret Healing Spot"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Added More Props"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Bug Fixes And Other Stuff"
+				}
+			],
+			"_sText": "<p>enjoy the update</p><p></p>",
+			"_sTitle": "ka_house",
+			"_sVersion": "New",
+			"_tsDateAdded": 1650331618
+		}
+	],
+	"_idRow": 371590,
+	"_sName": "ka_house",
+	"_sText": "house more like party house"
+}

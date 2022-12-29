@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"zm_dual_rooms_v3.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 350117,
+			"_nDownloadCount": 1233,
+			"_nFilesize": 1584982,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/350117",
+			"_sFile": "zm_dual_rooms_v3.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1184903943
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 131730,
+	"_sName": "zm_dual_rooms_v3",
+	"_sText": "Ok, this is simply just an optimized version of V2.\r\n\r\nPeople at the TAG zm server complained about the lag, so I did my best to try and optimize it. I added a couple of areaportalwindows in the map to help block out uneeded rendering. I added fade distances to every prop so that they disappear when you get far enough away. I tried to my best to specify the distances corresponding to the map's structure. There may be rare occasions where you see a prop randomly disappear because of the specified distances.\r\n\r\nI know this sucks, but I converted it to dev textures. The reason being that they are not as hard to render, making the performance ultimately better.\r\n\r\n\r\nI added one tiny little addition to the concrete building. It has a pathway around it's mid-section that has 3 small rooms you can get in. I don't know if it's useful, but someone is bound to discover some sort of crazy thing that makes it good."
+}

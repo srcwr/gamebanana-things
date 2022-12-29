@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"dr_ravenholm.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 322201,
+			"_nDownloadCount": 1259,
+			"_nFilesize": 1776946,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/322201",
+			"_sFile": "dr_ravenholm.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1276116135
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 127387,
+	"_sName": "dr_Ravenholm",
+	"_sText": "This is my first Deathrun map. All of the traps, triggers, sounds and textures should work. If the textures look goofy, take these three steps:\r\n1. In console, type sv_cheats 1\r\n2. In console, type mat_reloadallmaterials\r\n3. In console, type sv_cheats 0\r\n\r\nif that doesn't work, do it over again.\r\nI tried my best to base the map off of the Half-Life 2 town of Ravenholm, which was hard.\r\nI hope you like it!"
+}

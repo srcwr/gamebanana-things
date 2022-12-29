@@ -1,0 +1,89 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"cs_leet.bsp",
+					"cs_leet.txt"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 626318,
+			"_nDownloadCount": 65,
+			"_nFilesize": 1850898,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "older version",
+			"_sDownloadUrl": "https://gamebanana.com/dl/626318",
+			"_sFile": "cs_leet_90731.zip",
+			"_sMd5Checksum": "ef26f7ae54e3c7140e1196c5224281a6",
+			"_tsDateAdded": 1627664868
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"cs_leet.bsp",
+					"cs_leet.nav",
+					"cs_leet.txt"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 628519,
+			"_nDownloadCount": 78,
+			"_nFilesize": 2025404,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "newer version",
+			"_sDownloadUrl": "https://gamebanana.com/dl/628519",
+			"_sFile": "cs_leet_1_3_38ed9.zip",
+			"_sMd5Checksum": "be22967f529efd36f876c1758a76bdd4",
+			"_tsDateAdded": 1627916100
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Improvement",
+					"text": "stairs on side changed to crates because doesnt seem natural"
+				},
+				{
+					"cat": "Addition",
+					"text": "there is no longer 2 rescue zones and apartments now lead to sewers"
+				},
+				{
+					"cat": "Overhaul",
+					"text": "skybox is a bit higher and fog ends a bit further"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "1.3",
+			"_tsDateAdded": 1627898669
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Improvement",
+					"text": "crates with planks on right side of map moved and dont lead to balcony anymore, instead of them its done by stairs for better nav mesh"
+				},
+				{
+					"cat": "Improvement",
+					"text": "ladder to roof moved a bit and now stairs lead to hostages"
+				},
+				{
+					"cat": "Improvement",
+					"text": "callouts updated"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "1.1...?",
+			"_tsDateAdded": 1627665024
+		}
+	],
+	"_idRow": 309603,
+	"_sName": "cs_leet",
+	"_sText": "2nd map I post anywhere, I think its done better then my previous css map. Hostage Rescue Scenario map with 2 Hostage Rescue Zones. Has Callouts under radar and lore even."
+}

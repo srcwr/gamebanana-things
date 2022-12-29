@@ -1,0 +1,87 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"3B - fy_plainfite_c2_dusk": {
+						"0": "readme_fy_plainfite_c2_dusk.txt",
+						"maps": [
+							"fy_plainfite_c2_dusk.bsp"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 281845,
+			"_nDownloadCount": 2179,
+			"_nFilesize": 1804963,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/281845",
+			"_sFile": "3b_-_fy_plainfite_c2_dusk_4554c.7z",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1439820249
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Adjusted the skybox background: added some water"
+				},
+				{
+					"cat": "-",
+					"text": "Adjusted the fog"
+				},
+				{
+					"cat": "-",
+					"text": "Adjusted some electric poles"
+				},
+				{
+					"cat": "-",
+					"text": "Adjusted the texture of the ground"
+				},
+				{
+					"cat": "-",
+					"text": "Minor tweaks"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Candidate 2",
+			"_tsDateAdded": 1485881832
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Fixed lighting issues for some props"
+				},
+				{
+					"cat": "-",
+					"text": "Adjusted the fog"
+				},
+				{
+					"cat": "-",
+					"text": "Adjusted the sunlight"
+				},
+				{
+					"cat": "-",
+					"text": "Added a soundscape"
+				},
+				{
+					"cat": "-",
+					"text": "Minor tweaks"
+				}
+			],
+			"_sText": "<p></p>",
+			"_sTitle": "Candidate 1",
+			"_tsDateAdded": 1448729061
+		}
+	],
+	"_idRow": 113617,
+	"_sName": "fy_plainfite_dusk",
+	"_sText": "<b>Map name: Plain Fight (Dusk)</b><br><br>- BRIEF INTRO -<br>A simple fight yard map that features a siege to a hut on plains.<br><br>- KEY FILE INFO -<br>Key file name: fy_plainfite_c2_dusk.bsp<br>Key file size: 10,928,024 Bytes<br>Key file last modified time: 2017-01-31,22:31<br><br>- MAP INFO -<br>Suggested game: Counter-Strike: Source<br>Suggested mode: Fight yard<br>Max supported players: 20T + 20CT<br><br>- VERSION -<br>Map number: #3B<br>Map version: Candidate 2<br>Goldsource equivalent: <a href=\"http://gamebanana.com/maps/185296\">#30 - fy_plainfight_pro</a><br><br>- AUTHOR -<br>Author: Flora Canou<br>Email: <a href=\"mailto:1392727125@qq.com\" class=\"linkified\" target=\"_blank\">1392727125@qq.com</a><br><br>- ATTACHED FILES -<br>All packed in BSP file."
+}

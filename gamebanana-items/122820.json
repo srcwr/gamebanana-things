@@ -1,0 +1,47 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"surf_reactor.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 273204,
+			"_nDownloadCount": 511,
+			"_nFilesize": 20942995,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/273204",
+			"_sFile": "surf_reactor_eb88d.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1496001408
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Compiled new bsp with hammers compiler instead of VBCT"
+				},
+				{
+					"cat": "-",
+					"text": "Combined two used PCFS into onoe"
+				},
+				{
+					"cat": "-",
+					"text": "Removed misplaced and unused particle systems"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Bsp and File fixes",
+			"_tsDateAdded": 1496066469
+		}
+	],
+	"_idRow": 122820,
+	"_sName": "surf_reactor",
+	"_sText": "A map made for the surf-mod.<br><br>Watch <iframe src=\"https://www.youtube.com/embed/r3SOEN4NjzE\" allowfullscreen=\"\" width=\"560\" height=\"315\" frameborder=\"0\"></iframe> for a full run of the map <br><br>Created by Kujoen &amp; Skittl35<br>Please notify me of any mayor issues"
+}

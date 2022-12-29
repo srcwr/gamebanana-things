@@ -1,0 +1,46 @@
+{
+	"_aAlternateFileSources": [
+		{
+			"description": "Steam Workshop",
+			"url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1721924094"
+		}
+	],
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"bhop_vile_short.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 417860,
+			"_nDownloadCount": 216,
+			"_nFilesize": 57311647,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/417860",
+			"_sFile": "bhop_vile_short_a360e.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1556134453
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "Fixed a bug there a trigger wouldn't teleport you back"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "bhop_vile_short",
+			"_tsDateAdded": 1556134555
+		}
+	],
+	"_idRow": 126315,
+	"_sName": "bhop_vile_short",
+	"_sText": "Hello!<br><br>This is my second map! (Let's say first since the first one was me fooling around with brushes and entities). I did my best to try and make a decent bhop map which I think I partially succeeded at but there's still lots of improvements to be done and I'd like your feedback to get there!<br><br>The map consists of 3 stages where 2 are really short and the third is just above the short timespand in which I did the map in about a minute and thirty seconds, give it a try and let me know what I can improve on :')"
+}

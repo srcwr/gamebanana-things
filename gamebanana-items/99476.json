@@ -1,0 +1,71 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrike": {
+						"maps": [
+							"cs_abattoir.bsp",
+							"cs_abattoir.nav",
+							"cs_abattoir.res",
+							"cs_abattoir.txt"
+						],
+						"materials": {
+							"abattoir": [
+								"abattoirsig.vmt",
+								"abattoirsig.vtf",
+								"concrete034x.vmt",
+								"concrete034x.vtf",
+								"edge.vmt",
+								"edge.vtf",
+								"framewood.vmt",
+								"framewood.vtf",
+								"hay.vmt",
+								"hay.vtf",
+								"propwoodfence.vmt",
+								"propwoodfence.vtf",
+								"stripedwood.vmt",
+								"stripedwood.vtf"
+							],
+							"concrete": [
+								"concretewall015b-2.vmt",
+								"concretewall015b-2.vtf"
+							],
+							"nippertextures": {
+								"westwood": [
+									"nm_gas_floor1.vmt",
+									"nm_gas_floor1.vtf"
+								]
+							},
+							"overviews": [
+								"cs_abattoir.vmt",
+								"cs_abattoir.vtf"
+							]
+						},
+						"resource": {
+							"overviews": [
+								"cs_abattoir.txt"
+							]
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 360455,
+			"_nDownloadCount": 2906,
+			"_nFilesize": 2901257,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/360455",
+			"_sFile": "cs_abattoir.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1126824124
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 99476,
+	"_sName": "cs_abattoir",
+	"_sText": "cs_abattoir by Jack Bauer\r\n\r\nThis map was inspired by the Splinter Cell level, \"Abattoir.\"\r\n\r\nFeel free to use the custom textures included in your own map.\r\n\r\nNote:  Getting the hostages to go upstairs IS possible, but difficult.  A team effort would make in considerably simpler.  Still, the best way out is through the garage."
+}

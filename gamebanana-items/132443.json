@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"zm_nemesis_escape_v1.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 340265,
+			"_nDownloadCount": 1462,
+			"_nFilesize": 5464324,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/340265",
+			"_sFile": "zm_nemesis_escape_v1.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1216377973
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 132443,
+	"_sName": "zm_nemesis_escape_v1",
+	"_sText": "This is my first map.\r\n\r\n- size : 17.2Mo\r\n- number of faces : 36825 (35929 in beta1)\r\n- number of props (dynamic, static and phys) : 797 (865 in beta1)\r\n- number of entity point (without props, env_cubemap and weapon) : 742 (1031 in beta1)\r\n- FPS min see : 40\r\n- FPS max see : 140\r\n\r\nno env_cubemap (for now)\r\n\r\n---------------------\r\n>>NeMe$is[FR]<<\r\n---------------------\r\n\r\nUpdate :\r\n\r\n*** beta1 *** 18/07/2008 13:25 : \r\n- fix nuke bug.\r\n- .rar fixed, now the download is working ;)\r\n\r\n*** beta2 *** 24/07/2008 15:00 :\r\n- reduction of the second room.\r\n- NO BUYZONE, just compact pistol (p228) and knife at spawn.\r\n- some smokegrenade and 3 different weapons are recoverable in the first and second room (galil, famas and ump65), in the 3rd room all weapon wait you ;)\r\n- when you are outside : some p90, mp5navy and grenade wait you !\r\n- when you are in the terrace (where you get the helicopter) some pumpgun (xm1014 and m3) and grenade wait you !\r\n- all the doors are oppening 2 minutes after the map spawn.\r\n- elevator in the self-destruction room fixed !\r\n\r\n*** v1 *** 05/08/2008 16:00 :\r\n-elevator of the room 3 corrected\r\n-2 corridors deleted (spawn ct and t, corridor at the center - first floor)\r\n-changing of the guns room under the room 3 (textures changed)\r\n-textures of the walls, ceilings and the floor of the room 3 changed\r\n-Textures and Lighting of the elevators room changed (for the 3 levels)\r\n-Global changement of the textures for the room 1\r\n-weapons dispenser added at the room1\r\n-Lighting changement at the room 1\r\n-room1: add platform in the center for weapon disturbing\r\n-boats optimized\r\n-lengthening the gap time for the opening of doors\r\n-Adding jib and \"exit\" panels, for know where the player must going\r\n-geometry of the corridors for leaving the 1rst room (after the stairs) change\r\n-all restricted weapons are deleted, smokegrenade and flashbang too\r\n-weapons provision change in the map, showcase are replaced by dispenser (take less ressources)\r\n-some \"props\" are deleted in the map.\r\n-shadow's helicopter deleted (Primary responsibility of the lagg when he left the terrace)\r\n-nuke attack forced (midway through the route taken by helicopter when he leave the terrace)"
+}

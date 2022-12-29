@@ -1,0 +1,75 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "instructions.txt",
+					"new version": {
+						"hacked de_dust2": {
+							"0": "dynamic sharp shadow map.txt",
+							"1": "put all in cstrike folder.txt",
+							"maps": [
+								"de_dust2.bsp"
+							],
+							"materials": {
+								"models": {
+									"de_dust_newer": {
+										"crates": [
+											"crate_64x64.vmt",
+											"crate_64x64.vtf"
+										]
+									}
+								}
+							},
+							"models": {
+								"props": {
+									"de_dust_new": [
+										"du_crate_64x644.dx80.vtx",
+										"du_crate_64x644.dx90.vtx",
+										"du_crate_64x644.mdl",
+										"du_crate_64x644.phy",
+										"du_crate_64x644.sw.vtx",
+										"du_crate_64x644.vvd"
+									]
+								}
+							}
+						},
+						"vmf source": [
+							"de_dust2.prt",
+							"de_dust2.vmf",
+							"de_dust2.vmx"
+						]
+					},
+					"old version": {
+						"hacked de_dust2": [
+							"de_dust2.bsp",
+							"dynamic soft shadow map.txt"
+						],
+						"vmf source": [
+							"de_dust2.prt",
+							"de_dust2.vmf",
+							"de_dust2.vmx"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 666755,
+			"_nDownloadCount": 248,
+			"_nFilesize": 58327427,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/666755",
+			"_sFile": "css_mapatcherr.zip",
+			"_sMd5Checksum": "9d4a40b2b616874151e979ab2eebe12f",
+			"_tsDateAdded": 1633042876
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 320207,
+	"_sName": "Enhanced de_dust2 Final",
+	"_sText": "<h1><span class=\"GreenColor\">Info</span></h1><span class=\"GreenColor SelectedElement\">Have you ever wondered wheres the chemical boxes in bombside B/A? Well I added green boxes like in 1.6 back at bombsides, And what about prop shadow? huh? You probably never heard it from valve.. Well I got that too.<br>You get some fancy lighting and shadows effects unlike the original map.</span><br><br><b><u><span class=\"RedColor\">(Its client side map, Not for servers)<br></span></u></b><br>Its a hacked map so you must use a special tool to allow you to run such maps on any online server<br><br><span class=\"GreenColor\"><b>Map in download<br></b></span>Dynamic soft shadow and lighting de_dust2.bsp<br>Dynamic sharp shadow and lighting de_dust2.bsp<br><span class=\"RedColor\"><br>NOTE: In new version of the map you will clip in some places in ground a bit because the ground is redone in the whole map.(can be fixed but tricky)</span><br><span class=\"GreenColor\">Note: Newer version and older version are available in download, Newer version introduces sharper shadows like in screenshots, Older with much softer shadows.</span><br>"
+}

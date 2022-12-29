@@ -1,0 +1,114 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"maps": [
+						"de_foodcourt.bsp",
+						"de_foodcourt.nav"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 822108,
+			"_nDownloadCount": 35,
+			"_nFilesize": 822144,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "Version 1.0.0",
+			"_sDownloadUrl": "https://gamebanana.com/dl/822108",
+			"_sFile": "de_foodcourt_280c0.rar",
+			"_sMd5Checksum": "5365cdb61a84e3c2daf7685f80a0c30e",
+			"_tsDateAdded": 1656549854
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"maps": [
+						"de_foodcourt.bsp",
+						"de_foodcourt.nav"
+					],
+					"materials": {
+						"pig": [
+							"pig_back.vmt",
+							"pig_back.vtf",
+							"pig_belly.vmt",
+							"pig_belly.vtf",
+							"pig_foot_back.vmt",
+							"pig_foot_back.vtf",
+							"pig_foot_front.vmt",
+							"pig_foot_front.vtf",
+							"pig_foot_side1.vmt",
+							"pig_foot_side1.vtf",
+							"pig_foot_side2.vmt",
+							"pig_foot_side2.vtf",
+							"pig_foot_top.vmt",
+							"pig_foot_top.vtf",
+							"pig_front.vmt",
+							"pig_front.vtf",
+							"pig_head_back.vmt",
+							"pig_head_back.vtf",
+							"pig_head_bottom.vmt",
+							"pig_head_bottom.vtf",
+							"pig_head_front.vmt",
+							"pig_head_front.vtf",
+							"pig_head_side1.vmt",
+							"pig_head_side1.vtf",
+							"pig_head_side2.vmt",
+							"pig_head_side2.vtf",
+							"pig_head_top.vmt",
+							"pig_head_top.vtf",
+							"pig_side.vmt",
+							"pig_side.vtf",
+							"pig_top.vmt",
+							"pig_top.vtf",
+							"techno_back.vmt",
+							"techno_back.vtf",
+							"techno_front.vmt",
+							"techno_front.vtf",
+							"techno_side1.vmt",
+							"techno_side1.vtf",
+							"techno_side2.vmt",
+							"techno_side2.vtf"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 829996,
+			"_nDownloadCount": 31,
+			"_nFilesize": 933779,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "Version 1.0.1",
+			"_sDownloadUrl": "https://gamebanana.com/dl/829996",
+			"_sFile": "de_foodcourt_v_1_0_1.rar",
+			"_sMd5Checksum": "512932d9440eebbfc578105a2bb984b4",
+			"_tsDateAdded": 1657707940
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "Fixed Places where bomb could get stuck"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added Easter Egg"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Minor Update",
+			"_sVersion": "1.0.1",
+			"_tsDateAdded": 1657708119
+		}
+	],
+	"_idRow": 386454,
+	"_sName": "Defuse Foodcourt",
+	"_sText": "Takes place in a medieval themed food court<br>32 spawn points (16 teams each)<br>2 terrorist routes to mid<br>3 counter-terrorist routes to mid<br>1 dead body by counter-terrorist spawn<br>Tested With Bots<br>This is my first counter strike map so any criticism is welcome and helpful!"
+}

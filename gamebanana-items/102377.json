@@ -1,0 +1,42 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "readme.txt",
+					"cstrike": {
+						"DownloadLists": [
+							"de_flash.lst"
+						],
+						"maps": {
+							"0": "de_flash.bsp",
+							"1": "de_flash.txt",
+							"graphs": [
+								"de_flash.ain"
+							],
+							"soundcache": [
+								"de_flash.cache"
+							]
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 348901,
+			"_nDownloadCount": 1506,
+			"_nFilesize": 2275615,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/348901",
+			"_sFile": "de_flash_2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1188866016
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 102377,
+	"_sName": "de_flash",
+	"_sText": "Spawns:20 for Terrorist, 20 for Counter-Terrorist Creator: Umbra Textures: Standard valve textures Models: Standard valve models."
+}

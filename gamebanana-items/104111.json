@@ -1,0 +1,41 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "de_static_rc6.bsp.bz2",
+					"1": "de_static_rc60000.jpg",
+					"2": "de_static_rc60001.jpg",
+					"3": "de_static_rc60002.jpg",
+					"4": "de_static_rc60003.jpg",
+					"5": "de_static_rc60004.jpg",
+					"6": "de_static_rc60005.jpg",
+					"7": "de_static_rc60006.jpg",
+					"8": "de_static_rc60007.jpg",
+					"9": "de_static_rc60008.jpg",
+					"cstrike": {
+						"maps": [
+							"de_static_rc6.bsp"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 341926,
+			"_nDownloadCount": 3610,
+			"_nFilesize": 26621394,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/341926",
+			"_sFile": "de_static_rc6.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1210893734
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 104111,
+	"_sName": "de_static_rc6",
+	"_sText": "<b>NOTE:</b>\r\n\r\nI did not create, or in anyway participate, in the creation of this map. I solely submit it for others to enjoy. Thanks to RuudVanPistolrooy for giving me permission to submit it.\r\n\r\n\r\n<b>AUTHOR'S NOTES:</b>\r\n\r\nSo here's the latest WIP version of the map. I wasn't sure if I wanted to release this version of it, since it's still needing a serious last layer of polish and fixing up. However I think the map needs a last round of feedback before I go for a final.\r\n\r\n<u>Known issues:</u>\r\n\r\n- Some texture alignment bugs.\r\n- Model collisions.\r\n- Some of the models need re-skinning (remaking possibly, I pretty much suck at modelling still).\r\n- Totally unoptimised - FPS is shite in places.\r\n- Nav mesh is rough and dirty with no place painting.\r\n- You can escape from the map in some places.\r\n- Some z-fighting where the tree shadow overlays hit displacements.\r\n- Soundscapes appear broken in this build.\r\n- Some of the overlays are a bit crap.\r\n- Terrorists have more spawnpoints than CT\r\n\r\nAll comments and crits appreciated. I am pretty much set on the layout now, I just want to concentrate on making it look nicer and fixing bugs.\r\n\r\n<a href=\"http://www.fragnbag.com\">http://www.fragnbag.com</a>\r\n\r\n\r\n<b>EXTRA NOTES:</b>\r\n\r\n- The spawnpoints seem a bit messed up. Terrors have 13 as far as I coult tell, while Counter-Terrors only have 10. Still, the map is very playable.\r\n- Check out the previous version of this map here: <a href=\"http://www.fpsbanana.com/maps/13148\">Click</a>\r\n- I included a bzipped2 version in the .rar, for easy use with fast download servers. "
+}

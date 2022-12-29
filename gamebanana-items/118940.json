@@ -1,0 +1,53 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "awp_monopoly.rtf",
+					"1": "awp_monopoly001.jpg",
+					"2": "awp_monopoly002.jpg",
+					"3": "awp_monopoly003.jpg",
+					"4": "awp_monopoly004.jpg",
+					"5": "awp_monopoly005.jpg",
+					"6": "awp_monopoly006.jpg",
+					"cstrike": {
+						"maps": [
+							"awp_monopoly.bsp",
+							"awp_monopoly.nav",
+							"awp_monopoly.res",
+							"awp_monopoly.txt"
+						],
+						"materials": {
+							"overviews": [
+								"awp_monopoly.vmt",
+								"awp_monopoly.vtf"
+							]
+						},
+						"resource": {
+							"overviews": [
+								"awp_monopoly.txt"
+							]
+						}
+					}
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 358777,
+			"_nDownloadCount": 25245,
+			"_nFilesize": 9811633,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/358777",
+			"_sFile": "awp_monopoly_final.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1140745376
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 118940,
+	"_sName": "awp_monopoly",
+	"_sText": "awp_monopoly \r\ninspired by the 1.6 map of the same name\r\nremade for source by: JamesL & Generalvivi\r\n\r\nmap & textures - JamesL\r\nmodels & lighting FX - Generalvivi\r\n\r\nConstruction - 2 weeks\r\nCompile Time - 10 mins\r\nBSP zipped size - 22meg\r\nLDR/HDR - enabled\r\nSpawns - 24\r\nWeapons - awp / deagle / knife\r\nSet mp_roundtime @ 2 mins\r\nSet net_maxfilesize @ 25meg\r\n\r\nboard is a 1936 German edition\r\ncards are 1936 US edition"
+}

@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"fy_poolparty_v2_fairfix.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 326520,
+			"_nDownloadCount": 1476,
+			"_nFilesize": 331851,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/326520",
+			"_sFile": "fy_poolparty_v2_fairfix.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1260893645
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 113851,
+	"_sName": "fy_poolparty_v2_fairfix",
+	"_sText": "This is a fix of fy_poolparty_v2, there were some annoying things and i also think that the map is not perfectly balanced.\r\n\r\nI removed the black bar over the ct spawn and also the gap where the t's could camp. I made a func_illusionary glass at t spawn where ct's could see t's feet, you can go, but don't shoot through. There are also some other small fixes and changes...\r\n\r\nI didn't make a rush protection, because there are server scripts which work better.\r\n\r\npls test and leave a comment, its my first upload ;)\r\n\r\nlg eatthefish"
+}

@@ -1,0 +1,47 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "Readme.txt",
+					"de_fast": {
+						"cstrike": {
+							"maps": [
+								"de_fast_v6.bsp",
+								"de_fast_v6.nav",
+								"de_fast_v6.res",
+								"de_fast_v6.txt"
+							],
+							"materials": {
+								"fast": [
+									"cr2.vmt",
+									"cr2.vtf",
+									"fast_tile1.vmt",
+									"fast_tile1.vtf",
+									"fast_tile2.vmt",
+									"fast_tile2.vtf"
+								]
+							}
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 286417,
+			"_nDownloadCount": 3326,
+			"_nFilesize": 7782396,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/286417",
+			"_sFile": "de_fast_v6_2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1408218621
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 102329,
+	"_sName": "de_fast",
+	"_sText": "**This is in beta-state.**\r\n======================\r\n\r\nThe read-me notes are available in the .zip file\r\n\r\n### FIXED BUGS\r\n- Models not rendered when viewed from certain areas\r\n- Tweaked performance issues\r\n- Some shadow problems\r\n\r\n### 25 AUGUST UPDATE\r\n- Limited models view distance (increased FPS)\r\n- Minor Bugs\r\n\r\n### 11 SEPTEMBER UPDATE\r\n- Fixed few polygons\r\n- Added textures\r\n- Added details\r\n- CT Spawn is now also a hostage rescue point\r\n\r\n### 28 SEPTEMBER UPDATE\r\n- Added Textures\r\n- Improved FPS\r\n- Bullets can pass through the grills\r\n\r\n### 28 JUNE 2015 UPDATE\r\n- Fixed FPS issue\r\n- Fixed distorted polygons\r\n- Fixed few Lighntining Errors"
+}

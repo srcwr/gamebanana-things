@@ -1,0 +1,45 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "README.txt",
+					"cstrike": {
+						"maps": [
+							"gg_rush_arena_v1.bsp",
+							"gg_rush_arena_v1.nav"
+						],
+						"materials": {
+							"overviews": [
+								"gg_rush_arena_v1.vmt",
+								"gg_rush_arena_v1.vtf"
+							]
+						},
+						"resource": {
+							"overviews": [
+								"gg_rush_arena_v1.txt"
+							]
+						}
+					}
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 313854,
+			"_nDownloadCount": 1152,
+			"_nFilesize": 2154420,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/313854",
+			"_sFile": "_3186-.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1301052512
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 136398,
+	"_sName": "gg_rush_arena_v1",
+	"_sText": "gg_rush_arena_v1\r\n\r\nDesigned and created by: AudioEffect\r\n\r\nVersion: 1.0.0\r\n\r\nUploaded: 03.25.11\r\n\r\nMap type: Gun Game\r\n\r\n=========================================================================================\r\n\r\nInstallation:\r\n\r\nPretty straight forward.\r\nCopy the cstrike folder from the zip folder into your \"Steam/steamapps/[username]/counter-strike source\" folder\r\n\r\nIt should prompt you to merge folders. Click Yes to All.\r\n\r\nNow the map should be in your maplist when starting a game. When playing, a top down view of the map should appear in your radar. If you play with bots, it shouldn't have to create a nav mesh.\r\n\r\nFuture releases will include:\r\nMore detail, better gameplay, and a more refined nav mesh for the AI."
+}

@@ -1,0 +1,131 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrike": {
+						"maps": [
+							"fy_ags.txt",
+							"fy_ags_v11.bsp"
+						],
+						"materials": {
+							"ags": [
+								"aom.vmt",
+								"aom.vtf",
+								"elevraad.vmt",
+								"elevraad.vtf",
+								"jessennoob.vmt",
+								"jessennoob.vtf",
+								"kontor.vmt",
+								"kontor.vtf",
+								"musik.vmt",
+								"musik.vtf",
+								"photoshop.vmt",
+								"photoshop.vtf",
+								"spisehuset.vmt",
+								"spisehuset.vtf"
+							],
+							"models": {
+								"ags": {
+									"bench": [
+										"bench.vmt",
+										"bench.vtf",
+										"bench_spec.vtf"
+									],
+									"chair": [
+										"chair.vmt",
+										"chair.vtf",
+										"chair_spec.vtf"
+									],
+									"lamp": [
+										"lamp.vmt",
+										"lamp.vtf",
+										"lamp_spec.vtf"
+									],
+									"table": [
+										"table.vmt",
+										"table.vtf",
+										"table_spec.vtf"
+									]
+								},
+								"bold": [
+									"bolduvw.tga",
+									"bolduvw.vmt",
+									"bolduvw.vtf"
+								]
+							}
+						},
+						"models": {
+							"ags": {
+								"0": "bench.dx80.vtx",
+								"1": "bench.dx90.vtx",
+								"10": "bold.phy",
+								"11": "bold.sw.vtx",
+								"12": "bold.vvd",
+								"13": "bold.xbox.vtx",
+								"14": "chair.dx80.vtx",
+								"15": "chair.dx90.vtx",
+								"16": "chair.mdl",
+								"17": "chair.phy",
+								"18": "chair.sw.vtx",
+								"19": "chair.vvd",
+								"2": "bench.mdl",
+								"20": "chair.xbox.vtx",
+								"21": "lamp.dx80.vtx",
+								"22": "lamp.dx90.vtx",
+								"23": "lamp.mdl",
+								"24": "lamp.phy",
+								"25": "lamp.sw.vtx",
+								"26": "lamp.vvd",
+								"27": "lamp.xbox.vtx",
+								"28": "table.dx80.vtx",
+								"29": "table.dx90.vtx",
+								"3": "bench.phy",
+								"30": "table.mdl",
+								"31": "table.phy",
+								"32": "table.sw.vtx",
+								"33": "table.vvd",
+								"34": "table.xbox.vtx",
+								"4": "bench.sw.vtx",
+								"5": "bench.vvd",
+								"6": "bench.xbox.vtx",
+								"7": "bold.dx80.vtx",
+								"8": "bold.dx90.vtx",
+								"9": "bold.mdl",
+								"Bold": [
+									"bold.SMD"
+								],
+								"table2": [
+									"table2.dx80.vtx",
+									"table2.dx90.vtx",
+									"table2.mdl",
+									"table2.phy",
+									"table2.sw.vtx",
+									"table2.vvd",
+									"table2.xbox.vtx"
+								]
+							}
+						}
+					}
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 337008,
+			"_nDownloadCount": 1367,
+			"_nFilesize": 6619411,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/337008",
+			"_sFile": "fy_ags.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1225883514
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 111302,
+	"_sName": "fy_ags",
+	"_sText": "V1.1"
+}

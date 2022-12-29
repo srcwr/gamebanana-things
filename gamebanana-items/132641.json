@@ -1,0 +1,40 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"zm_quarry_extended_v2_fixed.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 289379,
+			"_nDownloadCount": 1437,
+			"_nFilesize": 14555668,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/289379",
+			"_sFile": "zm_quarry_extended_v2_fixed.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1394016805
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Skybox texture missing fixed"
+				}
+			],
+			"_sText": "It's higly recomended delete old file and download new one.",
+			"_sTitle": "BETA 2",
+			"_tsDateAdded": 1394361630
+		}
+	],
+	"_idRow": 132641,
+	"_sName": "zm_quarry_extended_v2",
+	"_sText": "- Fixed missing textures / models\r\n- Fixed HDR settings\r\n- Optimization, but no Hints & Skips added yet\r\n- Added some ambient sounds\r\n- Waterfall now falls down\r\n\r\nSkybox texture:\r\n\r\n- [Realsky6_HDR](http://css.gamebanana.com/textures/3350 \"Realsky6_HDR\")\r\n\r\nEDIT: Fixed skybox texture missing"
+}

@@ -1,0 +1,128 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"DE_training_pit_B1_release.vmf",
+					"de_training_pit_b1_release.bsp",
+					"de_training_pit_b1_release.log",
+					"de_training_pit_b1_release.nav",
+					"de_training_pit_b1_release.prt"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 414369,
+			"_nDownloadCount": 266,
+			"_nFilesize": 4548440,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "Beta 1 Release",
+			"_sDownloadUrl": "https://gamebanana.com/dl/414369",
+			"_sFile": "de_training_pit_b1_release.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1553247046
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"DE_training_pit_A5_release.vmf",
+					"de_training_pit_a5_release.bsp",
+					"de_training_pit_a5_release.log",
+					"de_training_pit_a5_release.nav",
+					"de_training_pit_a5_release.prt"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 414135,
+			"_nDownloadCount": 97,
+			"_nFilesize": 3932370,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "Alpha 5 Version",
+			"_sDownloadUrl": "https://gamebanana.com/dl/414135",
+			"_sFile": "de_training_pit_a5_release.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1553004438
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"DE_traing_pit_A3D_compile.vmf",
+					"de_traing_pit_a3d_compile.bsp",
+					"de_traing_pit_a3d_compile.log",
+					"de_traing_pit_a3d_compile.nav",
+					"de_traing_pit_a3d_compile.prt"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 413422,
+			"_nDownloadCount": 169,
+			"_nFilesize": 3055569,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "Alpha 4 Version",
+			"_sDownloadUrl": "https://gamebanana.com/dl/413422",
+			"_sFile": "de_traing_pit_a3d_compile.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1552384397
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"DE_training_pit_A4_release.vmf",
+					"DE_training_pit_A4_release.vmx",
+					"de_training_pit_a4_release.bsp",
+					"de_training_pit_a4_release.log",
+					"de_training_pit_a4_release.prt"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 413719,
+			"_nDownloadCount": 81,
+			"_nFilesize": 3568664,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "Alpha 3 Version",
+			"_sDownloadUrl": "https://gamebanana.com/dl/413719",
+			"_sFile": "de_training_pit_a4_release.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1552649660
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Beta 1 Change-Log: -slight Tweak to max player limit (slight increase Tweak) -Added Props to light sources for immersion (detail) -Added Phys_props to CT spawn (detail) -Slightly Trashed Storage room (detail) -Added railings around the top of the outdoor area (detail) -Added various decorative buildings to the map (detail) -added various decorative Props on top of the map (detail) -Minor detailing tweaks on the interior detail of the Blue shack (detail/tweaks) -Connected all sewer Lights with wires (detail) -Changed wall textures in Main Yard (detail/tweak)"
+				}
+			],
+			"_sText": "At this point in the maps development im quite happy with the way it is, So there probably won't be as many beta releases compared to the alpha, as any changes or tweaks may be minor in nature but i may add a 3D skybox as well as get around to the Radar at some point, though i do think it would be fine without it at this point.<br>",
+			"_sTitle": "Beta 1 release",
+			"_tsDateAdded": 1553248242
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "-All Dev Textures replaced with nodraw (optimisation) -Changed geometry in T spawn-ladder shaft -Added Detail in CT spawns -Added Detail in CT's Path to B -Added Detail in T's path to Office -Added Detail in Bombsite B's storage room thing (IDK what's its called so i'll just refer to it as B storage) -Added Red strip to the main outdoor area (a nice bit of detail) -minor lighting tweaks -also placed radio in B storage room"
+				}
+			],
+			"_sText": "This is probably going to be the last alpha release before i switch over to beta.",
+			"_sTitle": "Alpha 5",
+			"_tsDateAdded": 1553005987
+		}
+	],
+	"_idRow": 104394,
+	"_sName": "De_TrainingPit",
+	"_sText": "Hello and welcome to the Alpha version of the First CSS map I've ever published DE_training_pit. this is the first time I've ever uploaded a anything to this site so you have any feedback or advice it would be very much appreciated!<br><br>DE_training_pit is a map set in a live-fire Training Site for Counter Terrorists, with CT's being fresh recruits whilst the Terrorists's are probably just some CT posing for training purposes.<br>With all that out of the way i hope you enjoy plying on the the map and hope you have fun!"
+}

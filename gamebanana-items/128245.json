@@ -1,0 +1,32 @@
+{
+	"_aAlternateFileSources": [
+		{
+			"url": "http://steamcommunity.com/sharedfiles/filedetails/?id=353368833"
+		}
+	],
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"mg_last_man_alive_v1.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 285017,
+			"_nDownloadCount": 1299,
+			"_nFilesize": 4583074,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/285017",
+			"_sFile": "maps_171.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1418070777
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 128245,
+	"_sName": "mg_last_man_alive_v1",
+	"_sText": "Video: https://www.youtube.com/watch?v=2RhNKbSyEBM\r\n\r\n**What is this?**\r\nThis is a simple minigames map in which players are spawned on a number of blocks. After 3 seconds, the blocks will start breaking when the player runs over them. Below the stage is deadly lava, so watch out! The overall goal is to be the last player alive.\r\n\r\n**Things to note**\r\nBlocks break 0.5 seconds after being touched, meaning speed will have to be accounted. Player's sprinting speed in stamina works perfectly fine. \r\n\r\n**Hey, the lava doesn't kill the player in the video!**\r\nThat's my dev server being weird, I double-checked on singleplayer to make sure I hadn't fucked the trigger_hurt and it was okay, but let me know if there's any issues!"
+}

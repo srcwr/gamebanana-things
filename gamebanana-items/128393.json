@@ -1,0 +1,86 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"mg_north_castle_v16.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 271498,
+			"_nDownloadCount": 553,
+			"_nFilesize": 41183130,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/271498",
+			"_sFile": "mg_north_castle_v16.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1506967470
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Added 2 levels"
+				},
+				{
+					"cat": "Addition",
+					"text": "Increased level 2 in length"
+				},
+				{
+					"cat": "Addition",
+					"text": "Removed some details of the levels due to the limitation of the engine"
+				},
+				{
+					"cat": "Addition",
+					"text": "Removed settings lighting and sound"
+				},
+				{
+					"cat": "Addition",
+					"text": "Fixed some levels"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Version 1.6 Final",
+			"_tsDateAdded": 1507120703
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Changed the starting music"
+				},
+				{
+					"cat": "Addition",
+					"text": "Changed lighting"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added 1 level"
+				},
+				{
+					"cat": "Addition",
+					"text": "Reduced the size of the cubemap with a 32x on 16x"
+				},
+				{
+					"cat": "Addition",
+					"text": "Changed all entities from func_brush to func_detail"
+				},
+				{
+					"cat": "Addition",
+					"text": "Fixed some levels"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Version 1.2 Final",
+			"_tsDateAdded": 1506967625
+		}
+	],
+	"_idRow": 128393,
+	"_sName": "mg_north_castle_v16",
+	"_sText": "Another version of the map.<br><br>The standard version of the map -&nbsp;<a href=\"https://gamebanana.com/maps/196990\" class=\"linkified\" target=\"_blank\">https://gamebanana.com/maps/196990</a><br><br>Easy version of the map -&nbsp;<a href=\"https://gamebanana.com/maps/197042\" class=\"linkified\" target=\"_blank\">https://gamebanana.com/maps/197042</a>"
+}

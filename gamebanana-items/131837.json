@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"zm_floating_rock_v5.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 323592,
+			"_nDownloadCount": 2344,
+			"_nFilesize": 2972460,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/323592",
+			"_sFile": "zm_floating_rock_v5.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1270290367
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 131837,
+	"_sName": "zm_floating_rock_v5",
+	"_sText": "This is a rock floating in the sky with a house built on it, some trees and other stuff.\r\nIt contains mostly climbing spots but also some for barricading.\r\n\r\nThanks to hipshot for the <a href=\"http://www.fpsbanana.com/textures/2345\">nice skybox texture</a>!\r\n\r\n<font color=\"#02A4A6\"><b>[Features:]</b></font>\r\n - 64 spawn points\r\n - cubemaps\r\n - no falling damage (you get teleported back up)\r\n - climbing and barricading/camping spots\r\n - good framerate\r\n\r\n<font color=\"#02A4A6\"><b>[Update History:]</b></font>\r\n--- v2 (01.04.2010) ---\r\nv2 is still available for download <a href=\"http://www.fpsbanana.com/maps/130507\">here</a> (for smaller servers).\r\n- Fixed invalid spawn points\r\n- Fixed falling damage bug (some players DID receive damage)\r\n- Added some more hiding spots\r\n- Improved design slightly in some places\r\n- Made one hiding spot easier accessible (the 3 small floating rocks)\r\n--- v3 (03.04.2010) ---\r\n- Enlarged the map\r\n- Connected various camping spots / made them easier accessible\r\n--- v4 (04.04.2010) ---\r\n- Made the tree easier accessible\r\n- Fixed a spot where you could get stuck\r\n- Players don't get stuck anymore when being teleported\r\n--- v5 (19.04.2010) ---\r\n- Added another barricading room inside the main rock\r\n- Made the camping spot inside the smaller rock easier accessible (there are more small crates instead of big ones now)\r\n- Some more minor changes\r\n\r\n<font color=\"#02A4A6\"><b>[Known bug:]</b></font>\r\nOn a server where killed zombies respawn as humans the respawned humans get falling damage.. and thus die when they fall down. (Although I added an extra trigger in front of the teleports. There seems to be no solution for this problem)\r\n\r\n>> <a href=\"http://www.game-monitor.com/search.php?map=*zm_floating_rock*&game=cstrike2\">Click here to look for servers where this map is running!</a> <<"
+}

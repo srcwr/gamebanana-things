@@ -1,0 +1,142 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "READEME.txt",
+					"maps": [
+						"fy_poolparty-ml-minecraft.bsp"
+					],
+					"materials": {
+						"don": [
+							"ML.vmt",
+							"ML.vtf",
+							"ML2.vmt",
+							"ML2.vtf",
+							"bad.vmt",
+							"bad.vtf",
+							"baum.vmt",
+							"baum.vtf",
+							"baum2.vmt",
+							"baum2.vtf",
+							"baum3.vmt",
+							"baum3.vtf",
+							"blume.vmt",
+							"blume.vtf",
+							"blume2.vmt",
+							"blume2.vtf",
+							"busch.vmt",
+							"busch.vtf",
+							"diamant.vmt",
+							"diamant.vtf",
+							"dirt.vmt",
+							"dirt.vtf",
+							"eisen.vmt",
+							"eisen.vtf",
+							"fackel.vmt",
+							"fackel.vtf",
+							"farm.vmt",
+							"farm.vtf",
+							"getreide.vmt",
+							"getreide.vtf",
+							"getreide2.vmt",
+							"getreide2.vtf",
+							"glass.vmt",
+							"glass.vtf",
+							"gold.vmt",
+							"gold.vtf",
+							"grass.vmt",
+							"grass.vtf",
+							"grass2.vmt",
+							"grass2.vtf",
+							"kaktus.vmt",
+							"kaktus.vtf",
+							"kaktus2.vmt",
+							"kaktus2.vtf",
+							"kiste.vmt",
+							"kiste.vtf",
+							"kiste2.vmt",
+							"kiste2.vtf",
+							"kiste3.vmt",
+							"kiste3.vtf",
+							"kisteIn.vmt",
+							"kisteIn.vtf",
+							"kisteIn2.vmt",
+							"kisteIn2.vtf",
+							"kohle.vmt",
+							"kohle.vtf",
+							"leiter.vmt",
+							"leiter.vtf",
+							"sand.vmt",
+							"sand.vtf",
+							"stone.vmt",
+							"stone.vtf",
+							"tnt1.vmt",
+							"tnt1.vtf",
+							"tnt2.vmt",
+							"tnt2.vtf",
+							"tnt3.vmt",
+							"tnt3.vtf",
+							"water.vmt",
+							"water.vtf",
+							"wood.vmt",
+							"wood.vtf",
+							"wood2.vmt",
+							"wood2.vtf",
+							"zucker.vmt",
+							"zucker.vtf"
+						]
+					}
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 296883,
+			"_nDownloadCount": 2455,
+			"_nFilesize": 1615638,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/296883",
+			"_sFile": "fy_ml-minecraft_final_2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1358899914
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "fixed Bugs"
+				},
+				{
+					"cat": "-",
+					"text": "Add Torch"
+				}
+			],
+			"_sText": "Map was too dark.",
+			"_sTitle": "Update: 1.7",
+			"_tsDateAdded": 1367175360
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Add Spawn"
+				},
+				{
+					"cat": "-",
+					"text": "Changed Cactus Damage"
+				}
+			],
+			"_sText": "3 Spawn changed to 5 per team.",
+			"_sTitle": "Update: 1.6",
+			"_tsDateAdded": 1367175221
+		}
+	],
+	"_idRow": 113687,
+	"_sName": "FY_Poolparty-ML-Minecraft",
+	"_sText": "Info:\r\n\r\nThe map isn't really designed for bots anyway^^\r\n\r\nAlso worked for CS: GO. [Map for CS:GO](http://csgo.gamebanana.com/maps/173879 \"Map for CS:GO\")\r\n\r\nUpdate: 1.7:\r\n\r\n- fixed Bugs\r\n- Add Torch\r\n\r\nUpdate: 1.6:\r\n\r\n- Add Spawn\r\n- Changed Cactus Damage\r\n\r\nUpdate: 1.5:\r\n\r\n- fixed Water\r\n\r\nUpdate: 1.4:\r\n\r\n- fixed Textures\r\n- fixed TNT-Damage\r\n- water is processed.\r\n \r\nUpdate: 1.3:\r\n\r\n- fixed Bugs\r\n- fixed Sugarcane\r\n- Name changed to \"fy_poolparty-ml-minecraft\"\r\n\r\nUpdate: 1.2:\r\n\r\n- fixed Bugs\r\n- extension of the map\r\n\r\nUpdate: 1.1:\r\n\r\n- fixed Bugs\r\n\r\n---\r\nInstall:\r\n\r\n(MAP)\r\nSteam\\SteamApps\\username\\counter-strike source\\cstrike\\maps\r\n\r\n(Texture)\r\nSteam\\SteamApps\\username\\counter-strike source\\cstrike\\materials\r\n\r\n---\r\nHave Fun"
+}

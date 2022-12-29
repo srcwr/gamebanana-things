@@ -1,0 +1,78 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"aim_wintermaze_2016_V1": {
+						"steamapps": {
+							"common": {
+								"Counter-Strike Source": {
+									"cstrike": {
+										"maps": [
+											"aim_Wintermaze_2016_V1.bsp",
+											"aim_Wintermaze_2016_V1.txt"
+										]
+									}
+								}
+							}
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 848032,
+			"_nDownloadCount": 56,
+			"_nFilesize": 9067981,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "Updated version",
+			"_sDownloadUrl": "https://gamebanana.com/dl/848032",
+			"_sFile": "aim_wintermaze_2016_v1_3543b.rar",
+			"_sMd5Checksum": "acc03fdad92ef1ff1d039c072ec7ec1a",
+			"_tsDateAdded": 1660418961
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Removal",
+					"text": "removed blasters"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "aim_Wintermaze_2016_V1",
+			"_sVersion": "1.02",
+			"_tsDateAdded": 1660419014
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Radar on top left corner (will be easier to not get lost)"
+				},
+				{
+					"cat": "Optimization",
+					"text": "Changed the shape of windows and wall to improve on rendering, and reduce unneeded geometry"
+				},
+				{
+					"cat": "Removal",
+					"text": "Removed incorrect optimization tools- hints and occluders (back then I didn't know how to correctly use them)"
+				},
+				{
+					"cat": "Optimization",
+					"text": "Neatly packed everything in .bsp instead of seperate folders"
+				}
+			],
+			"_sText": "<p>See the final 2 pictures for radar and building update</p><p></p><p>So first map updated! Only 3 to go! After that I will pack them all in a neat pack and publish project-wintermaze_2016 pack!!! Yay!!!</p><p></p>",
+			"_sTitle": "aim_Wintermaze_2016_V1",
+			"_sVersion": "1.01",
+			"_tsDateAdded": 1659822038
+		}
+	],
+	"_idRow": 110995,
+	"_sName": "aim_Wintermaze_2016_V1",
+	"_sText": "I've been working on project ''Wintermaze2016'' For a while now. Here's the first of hopefully several maps!<br><br><br>players: 20vs20<br><br>Now I know what you'r thinking ''It's a goddamn maze!!'' But here me out please. The maze isn't meant to get you lost, that wasn't my goal. Heck, you can even walk straight thru it! Think of it more like a series of protective walls to prevent players from getting sniped.&nbsp;<br><br>With that being said I hope that you will enjoy the map and have fun! :)<br><br>&nbsp;P.S. This map has it's secrets. So keep your eyes open!"
+}

@@ -1,0 +1,41 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"surf_japan_classic_1": {
+						"0": "surf_japan_classic_1.bsp",
+						"1": "surf_japan_classic_1_german.cache",
+						"2": "surf_japan_readme.txt",
+						"screenshots": [
+							"surf_japan_screen_1.jpg",
+							"surf_japan_screen_2.jpg",
+							"surf_japan_screen_3.jpg",
+							"surf_japan_screen_4.jpg",
+							"surf_japan_screen_5.jpg",
+							"surf_japan_screen_6.jpg",
+							"surf_japan_screen_7.jpg"
+						]
+					}
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 301661,
+			"_nDownloadCount": 2194,
+			"_nFilesize": 7306340,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/301661",
+			"_sFile": "surf_japan_classic_1.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1341716399
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 122343,
+	"_sName": "surf_japan_classic_1",
+	"_sText": "This is a reworked version of surf_japan_v2, with\r\n-smoother surframps\r\n-light\r\n-clear design\r\n-no useless extras\r\n-no custom material\r\n\r\n\r\nMake sure to raise the \"sv_airaccelerate\" to at least \"200\"!"
+}

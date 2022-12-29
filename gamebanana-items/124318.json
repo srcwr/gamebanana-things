@@ -1,0 +1,44 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"bhop_0.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 283923,
+			"_nDownloadCount": 1444,
+			"_nFilesize": 52151395,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/283923",
+			"_sFile": "bhop_0_2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1425123427
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Reduce File Size"
+				},
+				{
+					"cat": "-",
+					"text": "Fix Cheat"
+				}
+			],
+			"_sText": "Big ups to George for fixing this map since I was too lazy to.",
+			"_sTitle": "bhop_0 [FIXED]",
+			"_tsDateAdded": 1425734071
+		}
+	],
+	"_idRow": 124318,
+	"_sName": "bhop_0",
+	"_sText": "Made this map in a day, hoped that would be it. Ended up with a heap of errors and bugs that needed fixing. Took longer than expected. Models are from [Blade Symphony](http://store.steampowered.com/app/225600/ \"http://store.steampowered.com/app/225600/\"). Buy it. Packing the map was a nightmare, the programs couldn't detect the model textures, and I couldn't figure them out manually because they don't have the same names as the models. It wasn't worth spending time packing the map correctly given how little time I spent making the map, so this is my half assed, pack everything and hope, unreasonably large file size, rage quit, effort of a map.\r\n\r\nVisit [steamcommunity.com/groups/_strafe](https://steamcommunity.com/groups/_strafe \"https://steamcommunity.com/groups/_strafe\") for real bhop.\r\n\r\n\r\nFIXED VERSION. Big ups to George for fixing the cheat and reducing the file size since I was too lazy to. Didn't change the name to _fix or _v2 since yuka asked nicely for it to be kept the same. Replace the old bsp on your servers and let everyone get missing map errors until they figure out they need to delete their broken version."
+}

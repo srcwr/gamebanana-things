@@ -1,0 +1,27 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_tchs_mixer_3b8.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 341514,
+			"_nDownloadCount": 1094,
+			"_nFilesize": 1103884,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/341514",
+			"_sFile": "de_tchs_mixer_3b8.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1212400273
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 104248,
+	"_sName": "de_tchs_mixer_3",
+	"_sText": "The bomb-site is at the bottom.\r\nThere is a long drop at the bottom so beware!\r\nThis is a modified version of de_tchs_mixer or de_mixer. This version has smaller panes of glass that are easier to damage, and a higher wall at the top to prevent so many grenades from landing on your face!\r\nDarker lighting with red lighting in the bomb area.\r\nv3.0 - initial release\r\nv3.1 - added big drop at bottom\r\nv3.2 - added bombsite decal\r\nv3.3 - scrapped\r\nv3.4 - complete redesign, back to 10 floor original, better lighting, cubemaps working, performance enhancements, bugfixes, no bombsite decal\r\nv3.5 - fixed bomb from falling down the pit of doom\r\nv3.6 - the bomb still seems to fall through when travelling at high speed - got rid of the pit of doom and added a tunnel of doom instead\r\nv3.7 - introduction of a new void underneath a reworked lower deck\r\nv3.8 - performance improvements, cubemaps (sorry this increases the filesize by 4MB) apparently working"
+}

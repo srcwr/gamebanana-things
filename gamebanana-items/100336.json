@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"No need to readme if you don't want to.txt",
+					"cs_pilko_estate.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 312430,
+			"_nDownloadCount": 2987,
+			"_nFilesize": 18173551,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/312430",
+			"_sFile": "_5161-.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1305712608
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 100336,
+	"_sName": "cs_pilko_estate",
+	"_sText": "**--cs_pilko_estate--**\r\n\r\n**---A hostage rescue map by J4CK8 and Mikeypilk---**\r\n\r\nPilkington Estate is a hostage map based around a German, or Italian (but german police came to the rescue) mansion. The terrorists have taken over the building and are holding the hostages...well...hostage. Counter terrorists must search the building to find the 5 hostages located in and around the mansion and return them to safety. The map consists of 2 floors and a basement.\r\n\r\nThe map was created by me with help and ideas from Mikeypilk. It uses various custom textures take from the \"Textures for the Real world\" pack by TopHATTwaffle (http://www.gamebanana.com/members/144386) and some textures created by myself and Mikeypilk\r\n\r\nThe map includes:\r\n-18 Spawn points per team\r\n-Buyzones for both teams\r\n-5 Hostages\r\n-Custom materials\r\n-Custom radar (Works but is limited*)\r\n-Working nav file\r\n-3d skybox\r\n\r\n*As the map features 2 floors, the radar cannot display both floors and therefore will only display the top floor.\r\n\r\nThis is a new version of previously named cs_mansion. This updated version includes some more details here and there, a new basement entrance from ct spawn and new textures on the building. Some other bugs and fixes also included.\r\n\r\n\r\nTo install, extract the .BSP files to your cstrike/maps folder."
+}

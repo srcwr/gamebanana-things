@@ -1,0 +1,131 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "leeme.txt",
+					"1": "readme.txt",
+					"maps": [
+						"fy_toyroom_b1.bsp"
+					],
+					"materials": {
+						"models": {
+							"toyroom": [
+								"alyx.vmt",
+								"alyx.vtf",
+								"box.vmt",
+								"box.vtf",
+								"box1.vmt",
+								"box1.vtf",
+								"box2.vmt",
+								"box2.vtf",
+								"box3.vmt",
+								"box3.vtf",
+								"box3_normal.vtf",
+								"box4.vmt",
+								"box4.vtf",
+								"carton.vmt",
+								"carton.vtf",
+								"col.vmt",
+								"col.vtf",
+								"lamp.vmt",
+								"lamp.vtf",
+								"tri.vmt",
+								"tri.vtf"
+							]
+						},
+						"skybox": [
+							"sky_nightbk.vmt",
+							"sky_nightbk.vtf",
+							"sky_nightdn.vmt",
+							"sky_nightdn.vtf",
+							"sky_nightft.vmt",
+							"sky_nightft.vtf",
+							"sky_nightlf.vmt",
+							"sky_nightlf.vtf",
+							"sky_nightrt.vmt",
+							"sky_nightrt.vtf",
+							"sky_nightup.vmt",
+							"sky_nightup.vtf"
+						]
+					},
+					"models": {
+						"toyroom": [
+							"box.dx80.vtx",
+							"box.dx90.vtx",
+							"box.mdl",
+							"box.phy",
+							"box.sw.vtx",
+							"box.vvd",
+							"col.dx80.vtx",
+							"col.dx90.vtx",
+							"col.mdl",
+							"col.phy",
+							"col.sw.vtx",
+							"col.vvd",
+							"esf.dx80.vtx",
+							"esf.dx90.vtx",
+							"esf.mdl",
+							"esf.phy",
+							"esf.sw.vtx",
+							"esf.vvd",
+							"lamp.dx80.vtx",
+							"lamp.dx90.vtx",
+							"lamp.mdl",
+							"lamp.phy",
+							"lamp.sw.vtx",
+							"lamp.vvd",
+							"rec.dx80.vtx",
+							"rec.dx90.vtx",
+							"rec.mdl",
+							"rec.phy",
+							"rec.sw.vtx",
+							"rec.vvd",
+							"rec1.dx80.vtx",
+							"rec1.dx90.vtx",
+							"rec1.mdl",
+							"rec1.phy",
+							"rec1.sw.vtx",
+							"rec1.vvd",
+							"tri.dx80.vtx",
+							"tri.dx90.vtx",
+							"tri.mdl",
+							"tri.phy",
+							"tri.sw.vtx",
+							"tri.vvd",
+							"viga.dx80.vtx",
+							"viga.dx90.vtx",
+							"viga.mdl",
+							"viga.phy",
+							"viga.sw.vtx",
+							"viga.vvd",
+							"viga1.dx80.vtx",
+							"viga1.dx90.vtx",
+							"viga1.mdl",
+							"viga1.phy",
+							"viga1.sw.vtx",
+							"viga1.vvd"
+						]
+					}
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 362251,
+			"_nDownloadCount": 3718,
+			"_nFilesize": 4662666,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/362251",
+			"_sFile": "fy_toyroom_b1.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1102509110
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 114681,
+	"_sName": "fy_toyroom",
+	"_sText": "This is a giant world made with cardboard and wood pieces. A fast map where snipers and rushers have same opportunities. Physics is a key factor to dominate. More than 30 objects have physic properties."
+}

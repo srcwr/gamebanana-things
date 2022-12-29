@@ -1,0 +1,40 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_logs.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 574311,
+			"_nDownloadCount": 739,
+			"_nFilesize": 84648136,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/574311",
+			"_sFile": "de_logs.rar",
+			"_sMd5Checksum": "cbc882baeec4a212cc94452a1cea8aea",
+			"_tsDateAdded": 1621444487
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "npc"
+				}
+			],
+			"_sText": "Correction with the bots' passage area has been made.&nbsp;<br><br>In particular, the texture of the npc_clip has been removed, which prevents the ct bots from passing to the right side of the map on the respawn.<br><br>An error correction was also implemented, causing a glitch in the form of white lines in the sky.<br><br>",
+			"_sTitle": "de_logs",
+			"_tsDateAdded": 1621447264
+		}
+	],
+	"_idRow": 287054,
+	"_sName": "de_logs",
+	"_sText": "de_logs is a port of the de_log from the Counter-Strike: Global Offensive game.<br><br>DESCRIPTION:<br><br>The locals are sick of the western world that cuts down the forests they live in. It's time to stand up.<br><br>"
+}

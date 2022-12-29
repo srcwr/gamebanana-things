@@ -1,0 +1,50 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "Readme.txt",
+					"addons": {
+						"cssdm": {
+							"maps": [
+								"dm_blockwar.txt"
+							]
+						}
+					},
+					"maps": [
+						"dm_blockwar.bsp",
+						"dm_blockwar.nav",
+						"dm_blockwar.res"
+					],
+					"materials": {
+						"gunnut": {
+							"blockwars": {
+								"carpet": [
+									"carpet02.vmt",
+									"carpet02.vtf"
+								]
+							}
+						}
+					}
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 352676,
+			"_nDownloadCount": 1307,
+			"_nFilesize": 3305605,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/352676",
+			"_sFile": "dm_blockwar.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1174600304
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 117197,
+	"_sName": "dm_blockwar",
+	"_sText": "First map, not my best but only one I've felt like releasing ;) is fun deathmatch and if you make it to the roofs you can get good with you're sniper. This is also only the first version ;)\r\n\r\nNOTE!!!\r\n\r\nYou don't need to extract the addon folder to you're cstrike folder unless you use the CSSDM plugin by BAILOPAN"
+}

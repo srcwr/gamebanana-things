@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"mg_hn_whaledefencev2.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 301997,
+			"_nDownloadCount": 1867,
+			"_nFilesize": 7151523,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/301997",
+			"_sFile": "mg_hn_whaledefencev2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1340598745
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 128110,
+	"_sName": "mg_hn_whaledefencev2",
+	"_sText": "NOTE: I don't condone whale hunting/fishing in any way...\r\n\r\nV2: (November 24th, 2012)\r\n\r\nThe map now changes the physics push scale to 1 each round, meaning shooting the whales or boats in some servers will no longer send them flying :)\r\n\r\n3 songs added to play to, there's a 40% chance of the ambient noise being played, and 20% for each of the songs\r\n\r\nAdded some pictures and changed some of the hud hints to make the objective of the map more obvious\r\n\r\nChanged how the button on the island is spawned, it should now be there every round, regardless of the outcome of the previous round\r\n\r\n~~~~~~~~~~~~~~~~~\r\n\r\nV1:\r\nEveryone starts in a big room with a buy zone. Shooting/exploding each other does nothing, so don't waste your bullets or grenades.\r\n\r\nGo in to the laser in the middle, the map then decides (using a counter system) whether you get teleported randomly to one of the 8 boats, or to the whale section of the start room (the number of spawns (50), means that there will always be a whale for the people teleported there to control).\r\n\r\nWhales: Use left and right to turn, forward and back to tilt, and left click for boost. You can crush the players or land on/knock the sides of the boat to make the boat players fall in the water (which hurts them). The whales have 5000 health each. There are 7 controllable whales.\r\n\r\nBoat players: Stay on your boat and shoot at the whales - though they are invincible for the first 30 seconds of the round or until someone controls them. There are 4 types of boats - a rowboat which can be controlled with the movement keys (ie WASD by default), a fishing boat with nets you can climb up to get back on, a raft which sits low enough that you can usually jump back up, and a basic yacht type of boat, which can also be controlled. There are 2 of each of the boat types. The idea is that your boat is either easy to get back on to, or can be moved out of the way of the whales. The controllable boats are meant to be sort of sluggish, too fast and players might fall off the back and the whales would not be able to keep up with the boats.\r\n\r\nThere is also an 8th whale which is controlled randomly by the map, it can turn left and right and \"jump\" out of the water to tip boats more easily.\r\n\r\nAn afk killer starts after 30 seconds. There are trigger_pushes to stop players, whales and boats from getting stuck against the outsides of the map.\r\n\r\nAfter 2 minutes the glass around the centre island breaks and the boat players have 30 seconds to make it to the island and push the button in order to win\r\n\r\n- Possible round endings -\r\n - All of the boat players die, and the whales win\r\n - The 8 whales are all destroyed, and the boat players win\r\n - The button on the middle island is pushed, and the boat players win\r\n - The boat players take longer than 2:30 and are killed, and the whales win\r\n\r\nAs the 'teams' in this map are the whales and the boat players, the winning 'team' is killed shortly after winning so the next round can start.\r\n\r\nI don't intend to add any more whales or boats to the map unless it's too unbalanced for one team.\r\n\r\nMade over about a month, meaning it's not as large as project as any of my other maps. And the focus was on making an enjoyable map, not so much realism. DO NOT DECOMPILE, any questions about how the map works just ask me the comments below...\r\n\r\nCamera method (see screenshot 4) discovered by charli, without it the map would not be nearly as easy to play for the people controlling the whales ;)"
+}

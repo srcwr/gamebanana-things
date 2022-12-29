@@ -1,0 +1,77 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"zm_shopping_mall_103": {
+						"0": "zm_shopping_mall_103.nfo",
+						"1": "zm_shopping_mall_1030001.jpg",
+						"10": "zm_shopping_mall_1030011.jpg",
+						"11": "zm_shopping_mall_1030012.jpg",
+						"12": "zm_shopping_mall_1030013.jpg",
+						"2": "zm_shopping_mall_1030003.jpg",
+						"3": "zm_shopping_mall_1030004.jpg",
+						"4": "zm_shopping_mall_1030005.jpg",
+						"5": "zm_shopping_mall_1030006.jpg",
+						"6": "zm_shopping_mall_1030007.jpg",
+						"7": "zm_shopping_mall_1030008.jpg",
+						"8": "zm_shopping_mall_1030009.jpg",
+						"9": "zm_shopping_mall_1030010.jpg",
+						"maps": [
+							"zm_shopping_mall_103.bsp"
+						],
+						"materials": {
+							"models": {
+								"mymaterials": [
+									"esc_glass.vmt",
+									"esc_glass.vtf",
+									"esc_handrail.vmt",
+									"esc_handrail_skin.vmt",
+									"esc_handrail_skin.vtf"
+								]
+							},
+							"zm_shm": [
+								"lockdown.vmt",
+								"lockdown.vtf",
+								"logo.vmt",
+								"logo.vtf",
+								"power.vmt",
+								"power.vtf",
+								"shoplogo.vmt",
+								"shoplogo.vtf"
+							]
+						},
+						"models": {
+							"mymodels": [
+								"esc_handrail.dx80.vtx",
+								"esc_handrail.dx90.vtx",
+								"esc_handrail.mdl",
+								"esc_handrail.phy",
+								"esc_handrail.sw.vtx",
+								"esc_handrail.vvd",
+								"esc_handrail.xbox.vtx"
+							]
+						}
+					}
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 347614,
+			"_nDownloadCount": 1752,
+			"_nFilesize": 14526395,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/347614",
+			"_sFile": "zm_shopping_mall_103.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1193402458
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 132767,
+	"_sName": "zm_shopping_mall_103",
+	"_sText": "STABLE RELEASE\r\n\r\nThis is a mall wich has several hiding spots, olmost all need teamplay to survive. \r\n\r\nThere are 2 buttons: \r\nLOCKDOWN \r\nThis will close/open the shops, the front door and backdoor. \r\nPOWER \r\nThis will deactivate/activate the light in the mall \r\n\r\nAll prefabs where taken from http://www.fpsbanana.com\r\n\r\nSpecial thanks to:\r\nRadiant Pigeon, crazypip666, macd\r\n\r\nv101 released\r\nv102 fixed\r\n- Created 48 spawnpoints instead of 30\r\n- Fixed some models (caused lockups)\r\n- Fixed sky (func_detail)\r\n- fixed badd fogg\r\n- Fixed light\r\n- Full vvis\r\n\r\nv103 fixed\r\n- Stable version\r\n- Optimized\r\n- More hiding spots\r\n\r\nWorking on:\r\n- Builded cubemaps"
+}

@@ -1,0 +1,50 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "Example.avi",
+					"1": "MM Practice.lnk",
+					"2": "Read Me (IMPORTANT).txt",
+					"cstrike": {
+						"cfg": [
+							"listenserver.cfg"
+						],
+						"maps": [
+							"mm_delight_64.bsp",
+							"mm_delight_8.bsp"
+						],
+						"materials": {
+							"VGUI": {
+								"logos": {
+									"0": "drexelspray.vmt",
+									"1": "drexelspray.vtf",
+									"UI": [
+										"drexelspray.vmt"
+									]
+								}
+							}
+						}
+					}
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 344937,
+			"_nDownloadCount": 10821,
+			"_nFilesize": 4831557,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/344937",
+			"_sFile": "525.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1201186513
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 116324,
+	"_sName": "mm_delight",
+	"_sText": "<div class=\"toggle\"><big><b class=\"red\">NOTE:</b> If you add \"-tickrate 66\" in the shortcut it will be smoother than the default 33 tick it starts at.\r\n\r\nAlso this comes with two maps, the second just has more dots.</big></div>\r\n\r\n<b class=\"blue\">--(MM)</b>ABOUT deLiGHT's Muscle Memory Map Pack\r\nFor a complete understanding of deLiGHT's muscle memory maps, check out <a href=\"http://chicagochimera.thecgs.com/?s=news&id=3576\">this</a>.\r\n\r\nMaps are made on the Source engine to reduce eye strain, but should benefit \r\nplayers from all versions assuming values are consistent across platforms.\r\n\r\n<b class=\"blue\">--(MM)</b>ABOUT David \"deLiGHT\" Light\r\nDavid \"deLiGHT\" Light is a freelance eSports writer and aspiring professional Counter-Strike player. \r\nHe encourages you to perform #drexel on GameSurge to support his efforts in return for this contribution.\r\n\r\n\r\n<b class=\"blue\">--(MM)</b>CONTENTS\r\nTwo muscle memory maps, example.avi, a listenserver.cfg and a quick and easy desktop practice executable. \r\n\r\n\r\n<b class=\"blue\">--(MM)</b>INSTALL\r\n1. Place the cstrike folder inside youraccount\\Counter-Strike source\\  (overwrite where necessary)\r\n2. Right click the MM Practice shortcut (after extracting to desktop), and go to properties.\r\n3b. In the line \"Target:\" ensure the path to your steam.exe is correct.\r\n3c. In the \"Start in:\" line, ensure the path to your Steam folder is correct, and apply.\r\n** If you would like to change the map the practice shortcut starts, adjust the target line accordingly.\r\n\r\n\r\n<b class=\"blue\">--(MM)</b>PLAY\r\nStart the practice by executing the MM Practice shortcut.\r\n\r\nNote: The listenserver.cfg changes your mat_dxlevel to 90.\r\n\r\nIf you normally play CS:S with a different value, do the following:\r\n\r\nAdd the launch options command -dxlevel X to your \"My Games\" CS:S launch options (ex. -dxlevel 81)\r\n\r\nThis will ensure everytime you start up CS, outside of the practice shortcut, you have dxlevel 81.\r\n\r\nAlso note that crosshair scale is adjusted to 1200 for ease of use in listenserver.cfg\r\n\r\n<b class=\"blue\">--(MM)</b>QUESTIONS\r\n<b class=\"red\">Q:</b> Is there a 1.6 version of these MM maps?\r\n<b class=\"green\">A:</b> Yes, there is, but only Source versions are distributed becuase they are less intensive on the eyes.\r\n   When CSP has a stable release, I'll look to recreate/port the maps for convenience when possible.\r\n\r\n<b class=\"red\">Q:</b> Do I shoot the targets or just aim at them?\r\n<b class=\"green\">A:</b> Just aim. Mimicking the shooting process is important however. My advice is to empty the m4a1\r\n   and turn up the in-game sound loud enough for the \"click\" of missing ammo to be heard over mp3s. \r\n   Source crosshairs react as if a gun was fired, even if no bullets are in the clip. This gives the \r\n   effect of shooting, without dealing with messy bullet holes or stuttering recoil delay. I wouldn't\r\n   click for every point, but rather only for a specific ring of colors or two.\r\n\r\n<b class=\"red\">Q:</b> How long does it take to complete each MM map?\r\n<b class=\"green\">A:</b> A 20-30 minute program would generally consistent of 250 reps per point on mm_8, \r\n   or 25 reps per point on mm_64 (give or take 15min, depending on the speed).\r\n\r\n<b class=\"red\">Q:</b> What is a \"rep\" in this situation?\r\n<b class=\"green\">A:</b> A rep is full movement from the center point to the specified point, and back again to the center.\r\n\r\n<b class=\"red\">Q:</b> May I decompile the map to change the colors of the points?\r\n<b class=\"green\">A:</b> Sure, I don't mind. Just limit it to personal use (as to avoid confusion of proper version). The colors\r\n   are currently not as varied now, because only limited default textures can be seen effectively without\r\n   individual adjustments to lighting (afaik).\r\n\r\n<b class=\"red\">Q:</b> I've designed a nice logo for the shortcut. How can I contact you about it?\r\n<b class=\"green\">A:</b> See the Support section below.\r\n\r\n<b class=\"red\">Q:</b> May I host this file?\r\n<b class=\"green\">A:</b> Anyone and everyone is free to host this file, as long as it is free of charge\r\n   and the contents are left unedited and fully intact.\r\n\r\n<b class=\"blue\">--(MM)</b>SUPPORT\r\nAny questions or concerns (technical or otherwise) please direct them to deLiGHT in #drexel on GameSurge."
+}

@@ -1,0 +1,182 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"maps": [
+						"sg_dancemat.bsp",
+						"sg_dancemat.res",
+						"sg_dancemat.txt"
+					],
+					"materials": {
+						"dancemat": {
+							"10": {
+								"decals": [
+									"cross.vmt"
+								]
+							},
+							"11": {
+								"decals": [
+									"cross.vtf"
+								]
+							},
+							"12": {
+								"decals": [
+									"square.vmt"
+								]
+							},
+							"13": {
+								"decals": [
+									"square.vtf"
+								]
+							},
+							"14": {
+								"decals": [
+									"triangle.vmt"
+								]
+							},
+							"15": {
+								"decals": [
+									"triangle.vtf"
+								]
+							},
+							"16": [
+								"green.vmt"
+							],
+							"17": [
+								"green.vtf"
+							],
+							"18": [
+								"rainbow.vmt"
+							],
+							"19": [
+								"rainbow.vtf"
+							],
+							"2": [
+								"all.vmt"
+							],
+							"20": [
+								"rainbowtransparent.vmt"
+							],
+							"21": [
+								"rainbowtransparent.vtf"
+							],
+							"22": [
+								"red.vmt"
+							],
+							"23": [
+								"red.vtf"
+							],
+							"24": [
+								"silver.vmt"
+							],
+							"25": [
+								"silver.vtf"
+							],
+							"26": [
+								"silverarrow.vmt"
+							],
+							"27": [
+								"silverarrow.vtf"
+							],
+							"28": [
+								"silvercircle.vmt"
+							],
+							"29": [
+								"silvercircle.vtf"
+							],
+							"3": [
+								"all.vtf"
+							],
+							"30": [
+								"silvercross.vmt"
+							],
+							"31": [
+								"silvercross.vtf"
+							],
+							"32": [
+								"silversquare.vmt"
+							],
+							"33": [
+								"silversquare.vtf"
+							],
+							"34": [
+								"silvertriangle.vmt"
+							],
+							"35": [
+								"silvertriangle.vtf"
+							],
+							"36": [
+								"white.vmt"
+							],
+							"37": [
+								"white.vtf"
+							],
+							"38": [
+								"yellow.vmt"
+							],
+							"39": [
+								"yellow.vtf"
+							],
+							"4": [
+								"blue.vmt"
+							],
+							"5": [
+								"blue.vtf"
+							],
+							"6": {
+								"decals": [
+									"arrow.vmt"
+								]
+							},
+							"7": {
+								"decals": [
+									"arrow.vtf"
+								]
+							},
+							"8": {
+								"decals": [
+									"circle.vmt"
+								]
+							},
+							"9": {
+								"decals": [
+									"circle.vtf"
+								]
+							}
+						},
+						"ukcs": [
+							"ukcs_decal.vmt",
+							"ukcs_decal.vtf"
+						]
+					},
+					"sound": {
+						"aliassounds": {
+							"0": "TheAliasMixOfDancemat.wav",
+							"GTA2": [
+								"Elvis.wav"
+							]
+						}
+					}
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 349062,
+			"_nDownloadCount": 3101,
+			"_nFilesize": 6074305,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/349062",
+			"_sFile": "sg_dancemat.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1188308768
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 124272,
+	"_sName": "sg_dancemat",
+	"_sText": "This map is a low gravity fun map. Everyone gets a Knife, Shotgun and HE. there are 2 teleports marked with triangles with a autoshotgun in it. (your task is to find out how to get one). I have added 2 secret rooms (both are still in the same layout) with in each one a autoshotgun and smoke grenade. if you can also find the button in there you will hear that the secret is found. (its not hard to spot but the trick is to reach it)\r\n\r\nThe music is by elvis presley (it will be changed in a later version so it has more styles)\r\n\r\nFinal Update:\r\n- The music is now changed with more styles\r\n- The easter egg is now harder to abuse by camping\r\n- Some light effects are added\r\n- A new sort of jump arrow is added (gets unlocked by getting in the easter egg).\r\n- The screens are still true with ingame (however the lights arent visible on it since the screens were from _b3)\r\n\r\nThe new music styles are 4 songs mixed to each other. the songs are by: Elvis, The Cure, Patrick Hernandez and Mc Hammer (however you most likely wont hear mc hammer much since the average round is pretty short)\r\n\r\nHint for the Easter egg: You can only get in by jumping on someone and then jumping in the easter egg area or by using the jump arrows (could need some practice)"
+}

@@ -1,0 +1,37 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "instructions.txt",
+					"hacked cs_italy": [
+						"cs_italy.bsp",
+						"dynamic shadow map.txt"
+					],
+					"vmf source": [
+						"cs_italy.prt",
+						"cs_italy.vmf",
+						"cs_italy.vmx"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 658952,
+			"_nDownloadCount": 257,
+			"_nFilesize": 40973424,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/658952",
+			"_sFile": "css_mapatcher_41633.zip",
+			"_sMd5Checksum": "6fe23a5e14209aa9d04cac8a9e9cca9f",
+			"_tsDateAdded": 1631799119
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 321954,
+	"_sName": "Enhanced cs_italy",
+	"_sText": "<span class=\"RedColor\"><b><u class=\"SelectedElement\">(Its client side map, Not for servers)<br></u></b></span><br>Its a hacked map so you must use a special tool to allow you to run such maps on any online server<br><br><span class=\"GreenColor\"><b>Map in download<br></b></span>Dynamic shadow and lighting cs_italy.bsp<br><br><span class=\"GreenColor\">Note:  After many attempts theres 3 small places which I didnt modify the lightmaps on the ground because its just not possible(CTspawn,Tspawn,Market)</span>"
+}

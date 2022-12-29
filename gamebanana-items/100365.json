@@ -1,0 +1,55 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "cs quad sector Read Me.txt",
+					"1": "install into cstrike.txt",
+					"maps": [
+						"cs_quad_sector.bsp",
+						"cs_quad_sector.nav"
+					],
+					"materials": {
+						"ao": [
+							"aoa.vmt",
+							"aoa.vtf",
+							"aob.vmt",
+							"aob.vtf",
+							"aoc.vmt",
+							"aoc.vtf",
+							"aod.vmt",
+							"aod.vtf",
+							"aoe.vmt",
+							"aoe.vtf"
+						],
+						"overviews": [
+							"cs_quad_sector.vmt",
+							"cs_quad_sector.vtf"
+						]
+					},
+					"resource": {
+						"overviews": [
+							"cs_quad_sector.txt"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 298496,
+			"_nDownloadCount": 2254,
+			"_nFilesize": 13347955,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/298496",
+			"_sFile": "cs_quad_sector_2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1353258444
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 100365,
+	"_sName": "cs_quad_sector",
+	"_sText": "tested with 10-vs-20 players; console commands are included in the ReadMe how to do this.\r\n\r\nThis is a Cs Source version of the alpha&omega map I created for C&C Generals."
+}

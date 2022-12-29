@@ -1,0 +1,77 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"aim_Wintermaze_2016_v2": {
+						"steamapps": {
+							"common": {
+								"Counter-Strike Source": {
+									"bin": {
+										"maps": [
+											"aim_Wintermaze_2016_V2.bsp"
+										]
+									}
+								}
+							}
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 844242,
+			"_nDownloadCount": 23,
+			"_nFilesize": 15740200,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/844242",
+			"_sFile": "aim_wintermaze_2016_v2.rar",
+			"_sMd5Checksum": "e01e13705941f6713ec3f86726880d47",
+			"_tsDateAdded": 1659894375
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Map now has a working minimap on top left side."
+				},
+				{
+					"cat": "Optimization",
+					"text": "Changed geometry on spawns so it's not as complex"
+				},
+				{
+					"cat": "Optimization",
+					"text": "changed optimization on map"
+				},
+				{
+					"cat": "Optimization",
+					"text": "All assets are neatly packed into a single .bsp file"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Improved the H on helipads, now it's a model."
+				},
+				{
+					"cat": "Removal",
+					"text": "REMOVED THOSE GODAWFUL CT AND T SIGNS!!!"
+				},
+				{
+					"cat": "Removal",
+					"text": "Removed blasters near signs"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "aim_Wintermaze_2016_V2",
+			"_sVersion": "1.01",
+			"_tsDateAdded": 1659894618
+		}
+	],
+	"_idRow": 110996,
+	"_sName": "aim_Wintermaze_2016_V2",
+	"_sText": "This map is the 2nd in hopefully several other maps that will come after.<br><br>It is part of project- ''Wintermaze_2016'' that im working on.&nbsp;<br><br>Player count; 20vs20<br><br>Now I know what you think...''It's a goddamn maze!!''. Think of it more like a maze like structure. A series of protective walls to prevent the player from getting sniped. My goal here is not to get the player lost in the maze!&nbsp;<br><br>I hope that you will enjoy the gameplay and have fun! :)<br><br>And remember!&nbsp;<br><br>When swimming in pipes always look up!&nbsp;<br><br>Feel free to comment and by all means let me know if you find any bugs or other issues of the map."
+}

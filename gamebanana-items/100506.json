@@ -1,0 +1,58 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"maps": [
+						"cs_tabernacle_source3.bsp",
+						"cs_tabernacle_source3.nav",
+						"cs_tabernacle_source3.txt"
+					],
+					"materials": {
+						"dev": [
+							"value40.vmt",
+							"value40.vtf",
+							"value40_normal.vtf"
+						],
+						"metal": [
+							"metalwall050a.vmt",
+							"metalwall050a.vtf",
+							"metalwall050a_normal.vtf"
+						],
+						"tile": [
+							"tileroof004a.vtf",
+							"tileroof004a_c17.vmt",
+							"tileroof004a_normal.vtf"
+						],
+						"wood": [
+							"woodwall030a.vmt",
+							"woodwall030a.vtf",
+							"woodwall030a_normal.vtf"
+						]
+					},
+					"sound": {
+						"admin_plugin": [
+							"organ2.wav"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 347645,
+			"_nDownloadCount": 1417,
+			"_nFilesize": 4251974,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/347645",
+			"_sFile": "cs_tabernacle_source3.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1193184759
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 100506,
+	"_sName": "cs_tabernacle_source3",
+	"_sText": "Original Author: [D*H] ~ Kon$olE\r\nMapper: Silent Ricochet\r\nCustom Textures: Shiroko\r\nCustom Bumpmapping: Silent Ricochet\r\n\r\n<b>Summary:</b> A moderately medium sized map. Very well optimized, should run well on almost any semi-decent platform. I get a constant 100+FPS on a 4 year old machine. The map has seen a huge change since it's last release, mostly texture aligning, got rid of some brush clutter, soundscapes, a new 3d skybox, and bumpmaps for VALVe textures. This comes with a NAV file as well including info_nodes and other entities of that sort to help the hostages and bots navigate the map better. Have fun :)\r\n\r\n<fieldset><b>Change Log:</b>\r\n\r\n<b>Version 3.0</b>\r\n\r\n<b>Additions</b>\r\n\r\n-Optimized the hell out of the map (nodraw plays a huge part)\r\n-Added numerous soundscapes (for better reverb and sound effects). \r\n-Added more Cubemaps (for more accurately shown reflections)\r\n-Added step in front of Podium \r\n-Added more money props, desk and office chair to left hostage room\r\n-Added tons of Info_nodes and info_node_climbs\r\n-Added button that plays church music\r\n-Added Powerbox and buttons in basement\r\n-Added immense 3d skybox\r\n-Added several bumpmaps to 3-4 textures to correct visual errors and add realism\r\n\r\n<b>Changes/Fixes</b>\r\n\r\n-Fixed Cubemaps that were being displayed from the floor below/above\r\n-Fixed Texture mis-alignments\r\n-Fixed Incorrect spawn points\r\n-Fixed color and brightness of basement lights\r\n-Fixed Mis-aligned brushes\r\n-Fixed some mis-shaped brushes effecting gameplay and lighting\r\n-Improved brush work of podium, grass, and walls.\r\n-Changed complicated objects to func_detail for a raise in performance\r\n-Changed the directions terrorists were facing when spawning\r\n-Deleted a few ambient generics that didn't play a significant role\r\n-Deleted insignificant brushes that created clutter and dropped performance\r\n-Other small changes and fixes that I forgot and really don't matter\r\n\r\n<hr></hr>\r\n<b>Version 2.0</b>\r\n<b>Additions</b>\r\n\r\n-Optimized greatly, saving 40+FPS since last version\r\n-Added 3d Skybox\r\n-Added Parking Lot\r\n-Added green window lighting effects\r\n-Added Small plants and other props\r\n-Added a few decals\r\n-Added More cubemaps\r\n-Added Ambient sounds\r\n-Added ramps on most entrances (realism sakes)\r\n-Added Front doors (doors?! holy crap really?1!?)\r\n\r\n<b>Changes/Fixes</b>\r\n\r\n-Fixed cubemaps\r\n-Fixed Water rendering\r\n-Fixed small cracks in ceiling, walls, and ground\r\n-Improved the Pews \r\n-Made ground, windows, walls, and other miscellaneous brushes thinner (realism sakes)\r\n-Changed ropes from brushes to move ropes with invis ladder textures\r\n-Changed texture of outside wall\r\n-Changed lighting in basement, nixed a few lights to make it darker\r\n-Changed front gate from crappy brush to props\r\n-Changed health of all breakable brushes (realism)\r\n-Re-built and edited nav file greatly improving efficiency of Bot gameplay\r\n-Re-arranged static props for better gameplay and hiding spots.\r\n-Some small other fixes and changes</fieldset>"
+}

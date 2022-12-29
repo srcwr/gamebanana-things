@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ReadME.txt",
+					"cs_cavern.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 338862,
+			"_nDownloadCount": 1241,
+			"_nFilesize": 3709363,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/338862",
+			"_sFile": "cs_cavern_alpha1.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1219896800
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 99677,
+	"_sName": "cs_cavern_alpha",
+	"_sText": "Information in the Map's text file? what? Watermark? This is my first map! Yipee! The map was compiled on fast with hdr enabled (normal compiles get stuck building lights for an entire three days before i give up and start working on it again) though I don't even know if hdr is working, i do need help with that, I haven't even built cubemaps yet (though they are in place), I just want to see where this goes first\r\n\r\nOk! So this map is very far from complete so I'm calling it alpha, I really just want to get it out there for people to see/play and get some feedback on it. I would LOVE to know absolutely anything wrong with it, textural flaws, flaws in the game play, and thing that should be added, or de-added. At that, here are some errors that i don't need told to me.\r\n\r\n**ERROR! (if you can fix these and tell me how i will put you in the credits)\r\n\r\n**There is a tiny brush by the ladder on the ceiling in the watery pipey room, it wasn't rendering right because it was off grid so i moved it on grid and now it doesn't line up, barely noticeable (tell me if you think otherwise)\r\n\r\n**On the helicopter outside all the textures are wrong. They all need to be rotated some degree or another, I'll get around to it eventually\r\n\r\n**The walls are to thin!!! same with the ceilings/floors =(( this causes the ability to be able to see guns and people through them (sometimes) just don't hide where you think you will be seen.\r\n\r\n**Props cast shadows on walls in the floor below (so do people and their corpses). I think i know how to fix this but it doesn't affect the game play so I've been ignoring it\r\n\r\n**People fall through props (like all the barrels, is there a way to make them myself where people won't?)\r\n\r\n**props- how many is too many?\r\n\r\n**A red light shines through the floor outside the compound (can't figure out a fix blocklight=fail)\r\n\r\n**Textures on the archways! IF anyone knows of a better texture that could be used, or for that matter better textures to be use ANYWHERE in the map, let me know, I will gladly change any textures in the map if i think it will look better\r\n\r\n**Hostages are ALWAYS in the way and dieing, sometimes its funny sometimes its annoying, if anyone has some ideas that will help get them out of the way? even just deleting them and making it a skill map? Once again open to anything =)\r\n\r\n**Try to get the hostages out 2 at a time (its pretty impossible to get them all out at once before everyone is dead)\r\n\r\nmax player = 18 (it's too crowded with more than that and people spawn on top of each other) I could add more if its wanted.\r\n\r\nthat being said . . . I'm quite open to ALL feedback (preferably constructive) adding entrances and exits and this and that here and there is no problem so please tell me what to do!\r\n\r\nIF theres anything i missed putting into this please tell me, if i think you can help me I will give the .VMF(T?) out on request, please help me make it better! or at least make my next one better\r\n\r\nwo woo pan"
+}

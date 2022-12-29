@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"mg_templeofsyrinx_b1.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 315605,
+			"_nDownloadCount": 1236,
+			"_nFilesize": 15564184,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/315605",
+			"_sFile": "006__353-.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1294552549
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 128777,
+	"_sName": "mg_templeofsyrinx_b1",
+	"_sText": "NEW VERSION: http://www.gamebanana.com/maps/153244\n\n\n\n\nThis map is in beta. I haven't publicly tested it (yet). I've gone through it a number of times and fixed what I believe to be most/all of the bugs *hopefully* however near the end of development my vmf corrupted and I had to fix it which bugged a lot of my I/O. I'm pretty sure I fixed them all, but if I haven't please let me know of any/all bugs you find. I haven't tested with more than 2 people, so there may be bugs that only occur on a larger playerscale.\n\nI'm currently looking for suggestions. Whether it be suggestions for an additional \"challenge\", or an additional \"level\" (end game battle scenario). With challenge suggestions please suggest a theme (fire, water etc), a mode (bhop, surf etc), and a perk for end game that I could implement to go with it. I'm also looking for feedback on the current levels and whether they should be harder/easier. I realize most of them are relatively hard, I WANT this map to be a challenge (but not so hard that everyone rages and rtv's because they couldn't beat any of the challenges).\n\nInfo:\n[Challenges]\nCreation: Competition based. Right click to spawn a block under you, and try to be the first person to reach the portal (16 random spawnpoints, look around for a blue glow and head towards it). Left click to push whoever is in your direct LOS. (You can push enemies off their block, or coordinate with a teammate and push them closer to the portal). 45 second cooldown on the \"pusher\" after 3 uses.\n\nCompleting it lets you choose which \"level\" you play, and what guns are allowed for the fight.\n\n*If nobody completes creation a random level and a random gun will be chosen*\n\nAir: Strafe to the bottom. Use water blocks to get to the ending platform.\n\nCompleting it gives you lower gravity.\n\nEarth: Climb to the top.\n\nCompleting it gives you 140 HP.\n\nElectricity: Surf to the end. There are 3 surf ramps and 1 bhop platform that are faded out. For these, use the \"action/use\" key when near to \"enable\" them for 5 seconds. They will become solid, and surfable/hoppable during those 5 seconds before reverting back to being insolid.\n\nCompleting it gives you slightly increased movement speed.\n\nFire: Bhop on the floating rocks to get to the other side.\n\nCompleting it gives you a knife with a flamethrower perk of sorts. \"Use/action\" key activates a line of fire in front of you with 10 second cooldown.\n\nWater: Slide to the end of the river, and go over the waterfall. As you're falling avoid hitting the rocks.\n\nCompleting it gives you slight health regeneration (up to a max of 100, even if originally you had 140HP from completing earth).\n\n\n[Levels]\nArena-Fast paced, close quarters combat great for knife fights/awp battles.\n\ncs deagle- Remade version of an old map: cs deagle. As the name implies, great for deagle fights, but works quite well for all gun scenarios.\n\nOutdoor-Reasonable sized, fairly open outdoor level. Well rounded for most gun scenarios.\n\nContact me:\nMy steamname is \"allsix\". However there is a good chance I will decline if I don't know who it is.\nI will probably check these comments for the first little while, but afterwards I will not.\nThe best way to contact me is to quickly create a forum account on http://www.steamgamers.com and message me: http://www.steamgamers.com/forum/private.php?do=newpm&amp;u=4458\n\nIt's the only thing I regularly check.\n\n-----------------------\nI plan on updating \"air\" slightly. Making it better looking and possibly editing it's play.\n\nI'm looking for suggestions on more \"levels\" especially, but also for more \"challenges\".\n\nBecause my vmf corrupted near the end I'm going to promote a program I used to fix it.\n\nMade my vmf operable, but screwed a number my I/O's. An operable vmf with some I/O's that need fixing is better than an inoperable vmf with perfect I/O's though ;)\n\nDownload: http://rvanhoorn.ruhosting.nl/files/vmffixer.zip"
+}

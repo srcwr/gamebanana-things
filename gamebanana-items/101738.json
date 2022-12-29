@@ -1,0 +1,372 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"maps": [
+						"de_damrush_final.bsp",
+						"de_damrush_final.nav",
+						"de_damrush_final.res",
+						"de_damrush_final.txt"
+					],
+					"materials": {
+						"breakship": [
+							"ropeladder.vmt",
+							"ropeladder.vtf"
+						],
+						"brick": [
+							"brickfloor001a.vmt",
+							"brickfloor001a.vtf",
+							"brickwall003b.vmt",
+							"brickwall003b.vtf"
+						],
+						"cncr04s": {
+							"brick": [
+								"church_exterior_low.vmt",
+								"church_exterior_low.vtf",
+								"fort_floor_cobbleflttile.vmt",
+								"fort_floor_cobbleflttile.vtf",
+								"jh_bricktrim1.vmt",
+								"jh_bricktrim1.vtf"
+							],
+							"concretetypes": [
+								"af-e-cobblestone.vmt",
+								"af-e-cobblestone.vtf",
+								"berlin_column.vmt",
+								"berlin_column.vtf",
+								"bunker_conc4.vmt",
+								"bunker_conc4.vtf",
+								"cncrtset_4.vmt",
+								"cncrtset_4.vtf",
+								"dday_bunker_wall1.vmt",
+								"dday_bunker_wall1.vtf",
+								"fort_roofwhite.vmt",
+								"fort_roofwhite.vtf",
+								"wall_verts_base2.vmt",
+								"wall_verts_base2.vtf"
+							],
+							"decal": [
+								"grand_8.vmt",
+								"grand_8.vtf",
+								"grand_pj.vmt",
+								"grand_pj.vtf"
+							],
+							"metalpanel": [
+								"bunkerdoor3.vmt",
+								"bunkerdoor3.vtf",
+								"bz_e_14shipextwallbolted_01.vmt",
+								"bz_e_14shipextwallbolted_01.vtf"
+							],
+							"rock": [
+								"it_e_towstonetrim_02_512.vmt",
+								"it_e_towstonetrim_02_512.vtf"
+							],
+							"tile": [
+								"marblegallery_floor.vmt",
+								"marblegallery_floor.vtf",
+								"marblegallery_trim1.vmt",
+								"marblegallery_trim1.vtf"
+							],
+							"wood": [
+								"gnrlcratesml_top.vmt",
+								"gnrlcratesml_top.vtf",
+								"gnrlcratesml_top1.vmt",
+								"gnrlcratesml_top1.vtf"
+							],
+							"woodcrate": [
+								"gnrlcratesml_afrika.vmt",
+								"gnrlcratesml_afrika.vtf",
+								"gnrlcratesml_afrika1.vmt",
+								"gnrlcratesml_afrika1.vtf",
+								"gnrlcratesml_afrika1flnk.vmt",
+								"gnrlcratesml_afrika1flnk.vtf",
+								"gnrlcratesml_afrikaflnk.vmt",
+								"gnrlcratesml_afrikaflnk.vtf",
+								"gnrlcratesml_frnt.vmt",
+								"gnrlcratesml_frnt.vtf",
+								"gnrlcratesml_side.vmt",
+								"gnrlcratesml_side.vtf"
+							],
+							"woodpanel": [
+								"wood.vmt",
+								"wood.vtf"
+							],
+							"woodsolid": [
+								"door01_256.vmt",
+								"door01_256.vtf"
+							]
+						},
+						"cncr04sp2": {
+							"metal": [
+								"a_delelev1_d03.vmt",
+								"a_delelev1_d03.vtf",
+								"a_sfltrim3yel_d02d.vmt",
+								"a_sfltrim3yel_d02d.vtf",
+								"conc_panel02.vmt",
+								"conc_panel02.vtf",
+								"delelev2_d.vmt",
+								"delelev2_d.vtf",
+								"smdoor1b.vmt",
+								"smdoor1b.vtf"
+							],
+							"metalpanel": [
+								"outbuildings6.vmt",
+								"outbuildings6.vtf"
+							]
+						},
+						"cncr04sp3": {
+							"carpet": [
+								"hall_floor_base.vmt",
+								"hall_floor_base.vtf"
+							],
+							"concretetypes": [
+								"d3g3pillar01.vmt",
+								"d3g3pillar01.vtf",
+								"floor05.vmt",
+								"floor05.vtf",
+								"ndwall1.vmt",
+								"ndwall1.vtf",
+								"romwall11.vmt",
+								"romwall11.vtf",
+								"romwall16.vmt",
+								"romwall16.vtf",
+								"sffloorlobby4.vmt",
+								"sffloorlobby4.vtf",
+								"ston_statue1.vmt",
+								"ston_statue1.vtf",
+								"ston_statue2.vmt",
+								"ston_statue2.vtf"
+							],
+							"grass": [
+								"sfgrass2.vmt",
+								"sfgrass2.vtf"
+							],
+							"metal": [
+								"ascrwall4.vmt",
+								"ascrwall4.vtf",
+								"aswall3old.vmt",
+								"aswall3old.vtf",
+								"base_cargo2.vmt",
+								"base_cargo2.vtf",
+								"bfloor1.vmt",
+								"bfloor1.vtf",
+								"borg_doortrack1.vmt",
+								"borg_doortrack1.vtf",
+								"d2_steelwall_02b.vmt",
+								"d2_steelwall_02b.vtf",
+								"d3_steelwall_01b.vmt",
+								"d3_steelwall_01b.vtf",
+								"k7_panel11b.vmt",
+								"k7_panel11b.vtf",
+								"k7_panel12.vmt",
+								"k7_panel12.vtf",
+								"lib_soundproof.vmt",
+								"lib_soundproof.vtf",
+								"romvent3.vmt",
+								"romvent3.vtf",
+								"sfroofmetal2.vmt",
+								"sfroofmetal2.vtf"
+							],
+							"rock": [
+								"ston_marb1.vmt",
+								"ston_marb1.vtf"
+							]
+						},
+						"concrete": [
+							"concretefloor004a.vmt",
+							"concretefloor004a.vtf",
+							"concretewall039a.vmt",
+							"concretewall039a.vtf"
+						],
+						"cs_assault": [
+							"crate10.vmt",
+							"crate10.vtf"
+						],
+						"cs_assault_mini": [
+							"am_door3.vmt",
+							"am_door3.vtf"
+						],
+						"cs_mansion": [
+							"fifties_wall14a.vmt",
+							"fifties_wall14a.vtf"
+						],
+						"cstrike": [
+							"tsbgvent.vmt",
+							"tsbgvent.vtf",
+							"woodcratesd.vmt",
+							"woodcratesd.vtf",
+							"woodcratesdsm.vmt",
+							"woodcratesdsm.vtf"
+						],
+						"de_inferno_s": [
+							"eastcratesm.vmt",
+							"eastcratesm.vtf"
+						],
+						"de_piranesi": [
+							"pi_wood3.vmt",
+							"pi_wood3.vtf"
+						],
+						"de_rennes_v1": [
+							"asphault1.vmt",
+							"asphault1.vtf"
+						],
+						"decals": [
+							"decalelevatorbutton003a.vmt",
+							"decalelevatorbutton003a.vtf"
+						],
+						"dev": [
+							"dev_water2_cheap.vmt",
+							"water_dudv.vtf",
+							"water_normal.vtf"
+						],
+						"exematerials": [
+							"brundledoor.vmt",
+							"brundledoor.vtf",
+							"brundlefly.vmt",
+							"brundlefly.vtf",
+							"exe_logo.vmt",
+							"exe_logo.vtf",
+							"exe_logo1.vmt",
+							"exe_logo1.vtf",
+							"exelogo.vmt",
+							"exelogo.vtf",
+							"exyv.vmt",
+							"exyv.vtf",
+							"final.vmt",
+							"final.vtf",
+							"ixmp8.vmt",
+							"ixmp8.vtf",
+							"ramec1.vmt",
+							"ramec1.vtf",
+							"sparktagcopy.vmt",
+							"sparktagcopy.vtf",
+							"underground.vmt",
+							"underground.vtf"
+						],
+						"glass": [
+							"glasswindowbreak070b.vmt",
+							"glasswindowbreak070b.vtf",
+							"glasswindowbreak070b_mask.vtf",
+							"offwndwb.vmt",
+							"offwndwb.vtf",
+							"offwndwb_break.vmt",
+							"offwndwb_break.vtf",
+							"offwndwb_ref.vtf"
+						],
+						"kabuki": {
+							"avatars": [
+								"guntarget.vmt",
+								"guntarget.vtf"
+							]
+						},
+						"mcdonalds": [
+							"thankyou.vmt",
+							"thankyou.vtf"
+						],
+						"nature": [
+							"grassfloor002a.vmt",
+							"grassfloor002a.vtf"
+						],
+						"nippertextures": {
+							"blahhh": [
+								"1_wall.vmt",
+								"1_wall.vtf"
+							],
+							"clue": [
+								"clue_painting11.vmt",
+								"clue_painting11.vtf",
+								"clue_painting17.vmt",
+								"clue_painting17.vtf"
+							],
+							"nmcastle": [
+								"nmc_trim1.vmt",
+								"nmc_trim1.vtf"
+							]
+						},
+						"overviews": [
+							"de_damrush_final.vmt",
+							"de_damrush_final.vtf",
+							"de_damrush_final_radar.vmt",
+							"de_damrush_final_radar.vtf"
+						],
+						"photorealistic_floor": [
+							"floor081.vmt",
+							"floor081.vtf"
+						],
+						"photorealistic_road": [
+							"road02_01.vmt",
+							"road02_01.vtf"
+						],
+						"photorealistic_wall": [
+							"graphiti03.vmt",
+							"graphiti03.vtf",
+							"graphiti04.vmt",
+							"graphiti04.vtf",
+							"graphiti06.vmt",
+							"graphiti06.vtf",
+							"graphiti07.vmt",
+							"graphiti07.vtf",
+							"graphiti12.vmt",
+							"graphiti12.vtf",
+							"graphiti13.vmt",
+							"graphiti13.vtf",
+							"graphiti15.vmt",
+							"graphiti15.vtf",
+							"graphiti17.vmt",
+							"graphiti17.vtf"
+						],
+						"photorealistic_wood": [
+							"wood093.vmt",
+							"wood093.vtf"
+						],
+						"plaster": [
+							"plasterceiling005a.vmt",
+							"plasterceiling005a.vtf",
+							"plasterceiling005a_normal.vtf"
+						],
+						"shiroko": [
+							"ot_tropicfall.vmt",
+							"ot_tropicfall.vtf",
+							"ot_tropicfall2.vmt",
+							"ot_tropicfall2.vtf"
+						],
+						"sub": [
+							"wall_sub.vmt",
+							"wall_sub.vtf",
+							"wall_sub_normal.vtf"
+						],
+						"tools": [
+							"toolsskybox.vmt",
+							"toolsskybox.vtf"
+						],
+						"wood": [
+							"woodwall032g.vmt",
+							"woodwall032g.vtf"
+						]
+					},
+					"resource": {
+						"overviews": [
+							"de_damrush_final.txt"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 354482,
+			"_nDownloadCount": 1373,
+			"_nFilesize": 14411077,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/354482",
+			"_sFile": "de_damrush_final.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1165737622
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 101738,
+	"_sName": "de_damrush",
+	"_sText": "Not my first map, but the first one i release to the public, small map with 2 bombsites, one on ground level, and the other underground.\r\n\r\nlayout is kinda small action is fast, map is a little ct side advantage, ts just have to work a little harder.\r\n\r\nRam1.\r\n\r\nedit: i made a couple modifications to the map, i had comments that the cts' were blending into the textures, so i used more neutral textures, added HDR, 32 spawnpoints, closed building with portals to raise FPS, a couple other tweeks here, and there, to gain FPS, and a working radar.\r\n\r\nthis will be the last release unless some major bug is found, have fun.\r\n\r\n\r\nRam1."
+}

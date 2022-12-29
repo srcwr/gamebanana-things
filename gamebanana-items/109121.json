@@ -1,0 +1,34 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "README-aim_tower_sniper.txt",
+					"1": "aim_tower_sniper.bsp",
+					"screenshots": [
+						"building.png",
+						"cover.png",
+						"mainview.png"
+					]
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 350322,
+			"_nDownloadCount": 1683,
+			"_nFilesize": 3929673,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/350322",
+			"_sFile": "aim_tower_sniper.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1184113350
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 109121,
+	"_sName": "aim_tower_sniper",
+	"_sText": "Aim_tower_sniper\r\nby Pwn3r1001\r\nBrought to you by Dooz Mapping Studio @ http://www.fpsbanana.com/studios/1229\r\nrelease: July 10 2007\r\npwner1001@hotmail.com\r\nLORDSOFWARCLAN.ORG\r\n\r\n\r\n\r\nDescription\r\n***********\r\nThis is one of my quick maps, mainly a sniper map hence the name aim_tower_sniper. The huge displacements are used for cover when crossing to the other side or to the tower. There's awps and scouts at each team's spawn points. There's semi-auto rifles inside the tower. Enjoy!\r\n\r\nRequired\r\n********\r\nCounter-strike:Source.\r\n\r\nInstallation\r\n************\r\nDownload the file, extract the aim_tower_sniper.bsp file to  steam/steamapps/{yourusername}/counter-strike source/cstrike/maps/\r\n\r\n\r\nUninstall\r\n*********\r\nJust delete the map.\r\n\r\nUsage\r\n*****\r\nYou can test the map by going to start a new server in CS:S then pick the map and start. \r\n\r\nAdmins\r\n******\r\nI would suggest using bzipper from here: http://www.fpsbanana.com/tools/1495 . Extract the .bsp into the folder and use the bzipper tool to compress. Then take that compressed file and put it into your map folder in your server( usually at C:\\Program Files\\Valve\\HLServer\\cstrike\\maps) or if your using a webserver for downloads it's the same idea. Also add aim_tower_sniper to maplist.txt in your server folder.\r\n\r\nMappers\r\n*******\r\nIf you would like to customize/modify aim_tower_sniper email me at pwner1001@hotmail.com and I'll be glad to give you the .vmf as long as you give proper credit to my name in the readme and installer if you make one. \r\n \r\n\r\nThanks to\r\n*********\r\nValve for all models, and hammer editor to make map.\r\n\r\n\r\nChangeLOG\r\n******************************************************\r\nVersion 1.0 (First Version)\r\n-Released\r\n\r\n******************************************************\r\n"
+}

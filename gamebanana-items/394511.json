@@ -1,0 +1,45 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"bhop_minecraft_dimensions_fix.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 844397,
+			"_nDownloadCount": 213,
+			"_nFilesize": 16342648,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/844397",
+			"_sFile": "bhop_minecraft_dimensions_fix.rar",
+			"_sMd5Checksum": "8a65338724b63cdc9c21e87aef5a182e",
+			"_tsDateAdded": 1659914650
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "",
+					"text": "Fixed some teleport triggers"
+				},
+				{
+					"cat": "",
+					"text": "Fixed travel sounds being heard everywhere on the map"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "bhop_minecraft_dimensions_fix",
+			"_sVersion": "fixed version",
+			"_tsDateAdded": 1659914766
+		}
+	],
+	"_idRow": 394511,
+	"_sName": "bhop_minecraft_dimensions_fix",
+	"_sText": "Minecraft themed Bunnyhop map with all the dimensions (Overworld, Nether, End, End Gateway) and The Aether as bonus.<br>Thanks to The Aether team for allowing me to use their mod textures for bonus (https://www.curseforge.com/minecraft/mc-mods/aether)<br>"
+}

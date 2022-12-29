@@ -1,0 +1,55 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrike": {
+						"0": "zm_forsyte.txt.txt",
+						"1": "zm_forsyte_x64.txt.txt",
+						"maps": [
+							"zm_forsyte.bsp",
+							"zm_forsyte.nav",
+							"zm_forsyte_x64.bsp",
+							"zm_forsyte_x64.nav"
+						],
+						"materials": {
+							"overviews": [
+								"zm_forsyte.vmt",
+								"zm_forsyte.vtf",
+								"zm_forsyte_radar.vmt",
+								"zm_forsyte_radar.vtf",
+								"zm_forsyte_x64.vmt",
+								"zm_forsyte_x64.vtf",
+								"zm_forsyte_x64_radar.vmt",
+								"zm_forsyte_x64_radar.vtf"
+							]
+						},
+						"resource": {
+							"overviews": [
+								"zm_forsyte.txt",
+								"zm_forsyte_x64.txt"
+							]
+						}
+					}
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 330932,
+			"_nDownloadCount": 1410,
+			"_nFilesize": 19145111,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/330932",
+			"_sFile": "zm_forsytezm_forsyte_x64.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1245939065
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 117368,
+	"_sName": "dm_forsyte(and dm_forsyte_x64)",
+	"_sText": "The same forsyte but only for DM Mode, for 32 and 64 players.\r\n\r\n\r\nde_forsyte -> http://www.fpsbanana.com/maps/99707"
+}

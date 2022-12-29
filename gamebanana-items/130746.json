@@ -1,0 +1,58 @@
+{
+	"_aAlternateFileSources": [
+		{
+			"description": "DropBox",
+			"url": "https://www.dropbox.com/s/ktiejq2oeytaj4l/ze_football_b2.7z?dl=0"
+		}
+	],
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ze_football_b2.bsp"
+				],
+				"_sMimeType": "application/x-7z-compressed"
+			},
+			"_bContainsExe": false,
+			"_idRow": 406420,
+			"_nDownloadCount": 283,
+			"_nFilesize": 42967197,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/406420",
+			"_sFile": "ze_football_b2.7z",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1546817286
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "rounds without knives"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "rare bug where the ball didn't teleport"
+				},
+				{
+					"cat": "Addition",
+					"text": "some CVARs for ZR"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "minor fixes"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "b2",
+			"_tsDateAdded": 1546817070
+		}
+	],
+	"_idRow": 130746,
+	"_sName": "ze_football_b2",
+	"_sText": "<b><span class=\"GreenColor\">The map has:</span></b><br><ul><li>64 spawns</li><li>4 unique modes</li><li>9 sounds</li><li>1 secret</li><li>Items - Gravity, Wind, Speed, ZGravity, ZWind, ZSpeed</li><li>Triggers</li></ul><hr>Group steam: <a href=\"http://steamcommunity.com/groups/dzemapper\" target=\"_blank\">http://steamcommunity.com/groups/dzemapper</a><br>"
+}

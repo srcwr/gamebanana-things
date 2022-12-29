@@ -1,0 +1,41 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "de_favela_2010.bsp",
+					"1": "de_favela_dusk.bsp",
+					"2": "de_favela_night.bsp",
+					"3": "leiame.txt",
+					"4": "readme.txt",
+					"sound": {
+						"de_favela": [
+							"music1.mp3",
+							"music2.mp3",
+							"music3.mp3",
+							"music4.mp3",
+							"music5.mp3",
+							"music6.mp3"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 325896,
+			"_nDownloadCount": 14120,
+			"_nFilesize": 64257202,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/325896",
+			"_sFile": "de_favela_2010.7z",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1262735753
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 102338,
+	"_sName": "de_favela_2010",
+	"_sText": "<iframe width=\"425\" height=\"349\" src=\"http://www.youtube.com/embed/IkmpaqTX544\" frameborder=\"0\" allowfullscreen></iframe>\r\n\r\nThis ziped file is actually a map-pack with 3 maps, better yet, a map with 3 Ã¯Â¿Â½flavoursÃ¯Â¿Â½:\r\n\r\nde_favela_2010: This map is based on the last version de_favela_day, with practically the same lay-out and day lighting. This is the best version for gameplay.\r\n\r\nde_favela_dusk: This map is a version with dusk/sun-set lighting.This version has a more interesting visual, however it makes difficult to see players in some parts because of the darkness, which harms a bit the gameplay. The use of night-vision is recommended in some parts. You can also improve visibility by adjusting the brightness level  by the counter-strike options menu.\r\n\r\nde_favela_night: This map is a version with night lighting. The same comments go regarding players visibility as de_favela_dusk.\r\n\r\nAll 3 maps have the following improvements in relation to de_favela_day :\r\n\r\n- The maps plays musics. The musics were not embedded into the bsp files, so the user can choose  his own musics to be played. The ziped file includes the folder de_favela with 6 musics. To install them, place this folder in the local folder ...counter-strike source/cstike/sound. If you wish to change the musics with your own, just save your mp3 files in this folder, and name them music1, music2, Ã¯Â¿Â½music6. All 6 musics can be played in each of the music players  in the map. To toggle musics, press <use key> (default Ã¯Â¿Â½EÃ¯Â¿Â½) facing the music player.\r\n\r\n- The maps include special effects on C4 explosion.\r\n\r\n- The maps have data-shows at CT and T spawns, which play slides. To toggle slides, press <use key> facing the keyboard."
+}

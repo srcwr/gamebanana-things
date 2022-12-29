@@ -1,0 +1,99 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"fy_poolparty_disco_v1": {
+						"0": "README!!!!.txt",
+						"Client": {
+							"cstrike": {
+								"maps": [
+									"fy_poolparty_disco_v1.bsp"
+								],
+								"materials": {
+									"decals": {
+										"custom": {
+											"god": [
+												"god-logo-poolparty.vmt",
+												"god-logo-poolparty.vtf",
+												"poolparty-logo.vmt",
+												"poolparty-logo.vtf"
+											]
+										}
+									},
+									"wasserfall": [
+										"wasserfall.vmt",
+										"wasserfall.vtf"
+									]
+								}
+							}
+						},
+						"FastDL": {
+							"cstrike": {
+								"maps": [
+									"fy_poolparty_disco_v1.bsp.bz2"
+								],
+								"materials": {
+									"decals": {
+										"custom": {
+											"god": [
+												"god-logo-poolparty.vmt.bz2",
+												"god-logo-poolparty.vtf.bz2",
+												"poolparty-logo.vmt.bz2",
+												"poolparty-logo.vtf.bz2"
+											]
+										}
+									},
+									"wasserfall": [
+										"wasserfall.vmt.bz2",
+										"wasserfall.vtf.bz2"
+									]
+								}
+							}
+						},
+						"Gameserver": {
+							"cstrike": {
+								"maps": [
+									"fy_poolparty_disco_v1.bsp"
+								],
+								"materials": {
+									"decals": {
+										"custom": {
+											"god": [
+												"god-logo-poolparty.vmt",
+												"god-logo-poolparty.vtf",
+												"poolparty-logo.vmt",
+												"poolparty-logo.vtf"
+											]
+										}
+									},
+									"wasserfall": [
+										"wasserfall.vmt",
+										"wasserfall.vtf"
+									]
+								}
+							}
+						}
+					}
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 308943,
+			"_nDownloadCount": 1808,
+			"_nFilesize": 4027884,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/308943",
+			"_sFile": "fy_poolparty_disco_v1.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1315772301
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 113729,
+	"_sName": "fy_poolparty_disco_v1",
+	"_sText": "-----------------------------------\r\n...::: fy_poolparty_disco_v1 :::...\r\n-----------------------------------\r\n\r\nThe new map consists of a pool party disco. The following features\r\nare currently been installed on the Map:\r\n\r\n---> A disco ball in the middle of the map\r\n---> The lights all over the map (see screenshots)\r\n---> Waterfall in the middle and each team in pool\r\n---> Clan members and advertising banners on the map are installed\r\n\r\n--------------------------\r\n...::: Installation :::...\r\n--------------------------\r\n\r\nClient:\r\nC:\\Program Files (x86)\\Steam\\SteamApps\\ACC.NAME\\counter-strike source\\cstrike\\\r\n\r\nFastDL:\r\nhttp://www.clanname.de/cstrike/\r\n\r\nGameserver:\r\n/root/gameserver/poolparty/orangebox/cstrike/"
+}

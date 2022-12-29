@@ -1,0 +1,44 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrike": {
+						"addons": {
+							"eventscripts": {
+								"soccerautoref": [
+									"es_soccerautoref.txt"
+								]
+							}
+						},
+						"cfg": [
+							"es_tools.cfg",
+							"lo3.cfg",
+							"soccerautoref.cfg"
+						],
+						"maps": [
+							"ka_soccer_2009_indoor_beta2.bsp"
+						]
+					}
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 337573,
+			"_nDownloadCount": 2823,
+			"_nFilesize": 2571176,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/337573",
+			"_sFile": "ka_soccer_2009_indoor_beta2_3.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1224269013
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 110459,
+	"_sName": "ka_soccer_2009_indoor_beta2",
+	"_sText": "This is an updated version version of the map <a href=\"http://www.fpsbanana.com/maps/57392\">ka_soccer_2008_indoor_beta1</a>.\r\nIt now has a scoreboard and radar, a gap where you can get on the outside of the nets (and walk back in anywhere, although i'm thinking of changing that),\r\nAnd the change rooms / toilet rooms have been made hollow and filled with toilets and seats etc.\r\nIt's also been optimized, you should get better fps than the previous version or fletch's original.\r\n\r\nFor those that haven't seen the older version of this, you can jump into the nets and spring back, like with real indoor nets.\r\n\r\n\r\nThere's still a fair bit to be done on this map, but this is a step forward."
+}

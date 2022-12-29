@@ -1,0 +1,27 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"mg_crazykart_V1_1.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 304818,
+			"_nDownloadCount": 5539,
+			"_nFilesize": 27066048,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/304818",
+			"_sFile": "mg_crazykart_v1_1.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1330211978
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 127867,
+	"_sName": "mg_crazykart_V1_1",
+	"_sText": "<p>This is a smaller project i've been working on for quite a while now, it's based out of mariokart with some of my own tweaks. I felt like it's time to release it as it is now.\r\nThis map has these features:</p>\r\n<ul>\r\n<li>Driveable karts, first person style!</li>\r\n<li>32 players max / karts avalible</li>\r\n<li>11 different items you can use (basic mariokart items)</li>\r\n<li>Random coloring for the karts</li>\r\n<li>4 different stages (will add more in the future!)</li>\r\n<li>3 playable modes (race, battle and star battle)</li>\r\n<li>Winning system! The winner gets to choose stage next round</li>\r\n<li>Particle effects</li>\r\n<li>custom materials, textures and models made by myself</li>\r\n<li>Slow motion events, during some occasions </li>\r\n<li>Players actually die, with exploding karts falling apart in flames and smoke!</li>\r\n</ul>\r\n<p><strong>EDIT V1_1</strong></p>\r\n<ul>\r\n<li>Edited the length of some soundtracks in order for the \"Fair Act Use\"</li>\r\n</ul>\r\n<p><em>KNOWN ISSUES</em></p>\r\n<ul>\r\n<li>\r\n<p>Delayed controls, nothing can really be done about that. It's the game_ui (the entity which you can control the kart with)</p>\r\n</li>\r\n<li>\r\n<p>Karts tend to steer away by their own (just slightly)\r\nAs you play you will eventually learn how to overcome it and use it at your disposal. This can't really be fixed either since it's a physic bug.</p>\r\n</li>\r\n<li>Lag spikes on some servers with many players (due to high amounts of IN, caused by all the game_ui's working at the same time) This seems to differ between servers aswell, depending on some settings. This might stop my plans for making players invincible during 1st lap and adding 8 more karts. We'll see how things turns out.</li>\r\n</ul>\r\n<p><em>FUTURE PLANS</em></p>\r\n<ul>\r\n<li>\r\n<p>I might add some extra karts, since alot of people have been asking for 40 karts in total. This might however become a risk for crashing. We'll see how it turns out.</p>\r\n</li>\r\n<li>\r\n<p>I will add more stages such as a ice/snow stage, rainbow road, bowsers castle and maybe some crazy industrial stage.</p>\r\n</li>\r\n<li>\r\n<p>As things are now, i have an ongoing project already (and quite a big one at that) so i wont fully concentrate on updating this map, i'll do things in my own speed.</p>\r\n</li>\r\n<li>I think i will make the players/karts invincible for the first lap on the race courses, i've gotten complaints about players dying too early. We'll see how it turns out.</li>\r\n</ul>\r\n<p><em>NEXT VERSION</em></p>\r\n<ul>\r\n<li>MORE STAGES! snowland, bowsers castle and rainbow road planned. Might add more on top of that.</li>\r\n<li>SWEET FIXES! no more star exploiting, flying or karts with 2 players in it</li>\r\n<li>BALANCE TWEAKS! nerfed items, less unfairness, less rage, no exploitable shortcuts</li>\r\n<li>MORE FUN! maybe some new items, player pickable models at start, different kart models, score-based progress for each stage</li>\r\n</ul>"
+}

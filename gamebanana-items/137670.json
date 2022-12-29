@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"rush_snowy_assault_beta5.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 296303,
+			"_nDownloadCount": 2423,
+			"_nFilesize": 5076602,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/296303",
+			"_sFile": "rush_snowy_assault_beta5.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1361089276
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 137670,
+	"_sName": "Rush_Snowy_Assault",
+	"_sText": "What is Rush?\r\n=============\r\nRush is a game type from the battlefield series, notably battlefield bad company 2 and battlefield 3.\r\n\r\nThe game type is simple: attackers destroy the bomb sites and the defenders disarm/protect them.\r\n\r\nThe game consists of 3 stages, with 2 bomb sites in each stage.\r\nA majority of the map is locked off to begin with, and the attackers must destroy the 2 bomb sites in stage one before the second stage is unlocked.\r\n\r\nOnce all 3 bomb sites have been cleared, the attackers are declared the winners and the game is restarted/level is changed.\r\n\r\nEvery time an attacker spawns, a ticket is deducted from their pot. If the attackers lose 120 tickets before they progress to the next stage, they lose. Tickets are reset after each stage.\r\n\r\nThe only thing I would recommend is a mod that controls respawning and weapons. A classes script would be a benefit.\r\n\r\nThe Map\r\n=======\r\nThis is the first map I have built from scratch for the purpose of Rush. It is fair large (as you will be able to see by the screen shots) and is based in a military style station. \r\nThe first stage is based at the top levels, prior to entering the facility. \r\nThe second stage is based in a laboratory that is accessed via an elevator or stairwell.\r\nThe third stage is based in an underground railway station.\r\n\r\nThe map: developer\r\n==================\r\nI have used area portals to block off the stages, with assistance from hint/skip brushes. The FPS seems to remain consistent on my PC, and have had no complaints from any of the people who BETA tested the map with me.\r\n\r\nThe mechanics of the game are from a prefab i created (available in stand alone hammer version or script assisted version). The spawn points are based in a sealed off skybox in the world, and each spawn is surrounded by teleporters.\r\nAs a player spawns, they are pointed towards the relevant destination, depending on what part of the map they are up to.\r\nTriggers are used to change the spawn points as stages are cleared.\r\nIf the terrorist enters the teleporter, a math_counter is used to measure remaining tickets.\r\n\r\nThe bomb sites are a simple mechanic. They consist of:<br>\r\n2 x Logic_timer<br>\r\n2 x Math_counter<br>\r\n3 x Logic_relay<br>\r\n1 x team filter<br>\r\n2 x buttons<br>\r\nand a series of effects.\r\n\r\nFor those of you who script in eventscripts, I have added custom events:\r\n[CLICK HERE TO SEE THE EVENTS](http://code.eventscripts.com/845233 \"CLICK HERE TO SEE THE EVENTS\")\r\n\r\nThis will allow you to create custom notifications, hud hints etc to enhance the experience of the map.\r\n\r\nTech specs\r\n==========\r\nSpawn slots: 44<br>\r\nTotal dimensions of select all: 17,548.4 x 15,947.4<br>\r\nCustom textures: Yes<br>\r\nBomb timer count down: 30 seconds<br>\r\nTime before progression: 10 seconds<br>"
+}

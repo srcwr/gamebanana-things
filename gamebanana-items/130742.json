@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ze_Flying_World_v2.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 304617,
+			"_nDownloadCount": 6248,
+			"_nFilesize": 25784074,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/304617",
+			"_sFile": "ze_flying_world_v2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1330872091
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 130742,
+	"_sName": "Ze_Flying_World_v2",
+	"_sText": "You are in a new world where you live in the sky\r\nRun or Fly to the airport and escape from the zombie infection\r\n\r\n- 64 players with a human vs zombies start\r\n- There is 4 differents ways to finish the map\r\n- no button to push only touch to activate\r\n- very few custom models : 45 Mo map file\r\n\r\nEnjoy and have fun\r\n\r\nInspired and part of the map are from gm_floatingworld_II, credits to freakrules!\r\n\r\nV2 (balance version)\r\n\r\n- the start is now longer, more time with zombies (+20s)\r\n- add more spot to hide\r\n- zombies regen and respawn\r\n- 15 000 hp for first zombies (add on the boat)\r\n- modify props on lighthouse island to remove the lag that may have\r\n- modify the arrive on lighthouse island, less zombies hunt\r\n- modify timming\r\n- modify teleport desactivation on zombies boat, now they are no more teleport when they are push on it when CT cover before to leave an island\r\n- suppress push trigger in front of fence at start\r\n- fix a bug that may let zm survive to the explosion\r\n- modify CT numbers need to open doors at the last cover, now it's +15 and +30 CT (i/o +20 and +40)\r\n- now there is a double door to cover on top of the airport\r\n- the invisible wall in stairs of the factory now break when you passe the door, take car of jumpy zombies\r\n\r\nV1_3\r\n\r\n- fix the bug that don’t let zombies go inside the mill\r\n- balance Zombies with add of crates, more space and plank to allow them to hide and not lost all their hp in 1 minute\r\n- balance CT on cover points to help them to run :\r\n    + gate at the factory\r\n    + pipe that fall on level -1 of the bunker\r\n    + maybe add also a falling rock on the lighthouse island after the explosion \r\n- the sound level can be manage by the user (in game parameters) - Kaemon Tips ^^\r\n- suppress of the CT teleport on CT boat at start (I was too kind)\r\n- add invisible wall on stair’s ramp from lighthouse to avoid to be stuck\r\n- add CT protection to push them the elevator start in the factory, that’s to avoid death\r\n- open of a second way (stairs) at the airport to avoid CT hunting zombies when they arrive\r\n- add gate at the airport that only open when there is more than 40 CT at the end (screen 12), for recall the behind door is open when there is more than 20 CT and the upstairs door is open when there is more than 40 CT, this gate self breaking when this condition is reached\r\n- timing adjustment\r\n\r\n\r\nV1_2\r\n\r\n- more fog for more fps\r\n- no more lag on boat (shadow rendering making lag)\r\n- teleport is activated more longer to avoid !ztele\r\n- correction of the mill entry problem for zombies (teleport always activated)\r\n- mill cover changed\r\n- add invisible wall to avoid CT jump on the floor instead of in water\r\n- modify table by baggage at the airport\r\n- modify airport structure to avoid zombies cut thru the floor\r\n- CT anti falling return\r\n- correction of factory door that could be blocked\r\n- enlarge factory\r\n- enlarge bunker entry and second floor cover\r\n- more cover at the end depending of the numbre of CT\r\n- fix bug map on factory island (zombies can go to the end with long jump)\r\n\r\n\r\nV1_1\r\n\r\n- lag boat fixed\r\n- crash at the end of waterfall island fixed\r\n- boat arrive changed (removed moving trailer for more fps)\r\n- balance adjustments (adding / moving some crate / time adjustment / adding some ways on bunker / factory islands)\r\n- adding music\r\n- spelling correction for chat help\r\n- some little glitchs fixed too\r\n- increase fog and added distance on little props for more FPS\r\n- anti falldown for CT removed (boat are working well), don't edge too much ^^"
+}

@@ -1,0 +1,44 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_assault_1622.bsp",
+					"de_assault_1622.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 900031,
+			"_nDownloadCount": 129,
+			"_nFilesize": 4538903,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "v1622d",
+			"_sDownloadUrl": "https://gamebanana.com/dl/900031",
+			"_sFile": "assault1622.zip",
+			"_sMd5Checksum": "a25a02e508fdb71e2aba65f17dec2427",
+			"_tsDateAdded": 1669972541
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [],
+			"_sText": "<p>Clear out some more bot stuck spots  </p><p>Improved visibility in the backalley area</p>",
+			"_sTitle": "Patch",
+			"_sVersion": "v1622d",
+			"_tsDateAdded": 1669972603
+		},
+		{
+			"_aChangeLog": [],
+			"_sText": "<p>Fixed shadow misaligning</p>",
+			"_sTitle": "Patch",
+			"_sVersion": "v1622c",
+			"_tsDateAdded": 1669793197
+		}
+	],
+	"_idRow": 414532,
+	"_sName": "DE_ASSAULT_1622",
+	"_sText": "My first Counter-Strike map, bringing my vision of merging 1.6 and CSS's Assault together.  <br>The goal were simplifying/tidy up the environment and get rid of the hostage rescue mode. I like the fast paced gameplay the original Assault has but it has lots of problems that hinder the fun. Source's remake were beautiful but the place were clutter with prop and I miss the night lighting 1.6 has, so v1622 is a little bit of both with the bomb defuse twist.  <br><br>The map support up to 32 players (16 each). Has overview/radar and nav mesh.<br>"
+}

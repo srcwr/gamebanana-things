@@ -1,0 +1,43 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"maps": [
+						"cs_texture_villa.bsp",
+						"cs_texture_villa.nav"
+					],
+					"materials": {
+						"overviews": [
+							"cs_texture_villa.vmt",
+							"cs_texture_villa.vtf",
+							"cs_texture_villa_radar.vmt",
+							"cs_texture_villa_radar.vtf"
+						]
+					},
+					"resource": {
+						"overviews": [
+							"cs_texture_villa.txt"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 350436,
+			"_nDownloadCount": 1571,
+			"_nFilesize": 4214117,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/350436",
+			"_sFile": "cs_texture_villa.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1183760212
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 100521,
+	"_sName": "cs_texture_villa",
+	"_sText": "My second release, three weeks in the making (most of that because it kept crashing or hanging during the compile), I present cs_texture_villa!\r\n\r\nI wanted to try my hand at making a decent cs map ^^; there're four hossies that need saving from the terrorist stronghold, and two extraction points to choose from. The map supports upto 42 players, has two CT and one T spawn, and the rooves are accessible from multiple points across the map. \r\n\r\nIf you fancy it, it should also be good for GG as well!\r\n\r\nThe Radar - I did try to embed it in the BSP but it doesn't seem to be working that way; if someone would like to look at the BSP and tell me what I'm doing wrong, that'd be great; for now, it's included as seperate files.\r\n\r\nThanks to SmmS for the encouragement & positive feedback from my previous map, gg_hextower - give it a look, it plays quite well!"
+}

@@ -1,0 +1,65 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrike": {
+						"maps": [
+							"cs_home.bsp",
+							"cs_home.nav"
+						],
+						"materials": {
+							"custom": [
+								"gravel07.vmt",
+								"gravel07.vtf",
+								"gravel07_nrm.vtf"
+							],
+							"skybox": [
+								"darkbk.vmt",
+								"darkbk.vtf",
+								"darkdn.vmt",
+								"darkdn.vtf",
+								"darkft.vmt",
+								"darkft.vtf",
+								"darklf.vmt",
+								"darklf.vtf",
+								"darkrt.vmt",
+								"darkrt.vtf",
+								"darkup.vmt",
+								"darkup.vtf"
+							]
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 273948,
+			"_nDownloadCount": 1465,
+			"_nFilesize": 2235506,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/273948",
+			"_sFile": "cs_home_20.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1490823731
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Textued the map"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "CS Home Deathmatch V2.0",
+			"_tsDateAdded": 1491241976
+		}
+	],
+	"_idRow": 117052,
+	"_sName": "cs_home deathmatch",
+	"_sText": "Two buildings right in front of each other<br>Shoot enemy on different floors<br>beware of deadly barrels though<br><br>- Handmade bot navigation file included<br>- Best for deathmatch or gungame, I have added a bomb zone too by the way<br>- Optimized for online multiplayer"
+}

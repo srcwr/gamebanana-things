@@ -1,0 +1,64 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"2map.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 444990,
+			"_nDownloadCount": 200,
+			"_nFilesize": 142331,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/444990",
+			"_sFile": "2map_d3d29.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1578697470
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Adjustment",
+					"text": "change textures of floor"
+				},
+				{
+					"cat": "Removal",
+					"text": "removed carpets"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Version 0.3",
+			"_tsDateAdded": 1578697437
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Improvement",
+					"text": "-some lights"
+				},
+				{
+					"cat": "Addition",
+					"text": "-added stairs"
+				},
+				{
+					"cat": "Addition",
+					"text": "-added decals"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Version 0.2",
+			"_tsDateAdded": 1577486498
+		}
+	],
+	"_idRow": 105125,
+	"_sName": "1v1 2map",
+	"_sText": "This is my first CSS map that i made cuz i was bored."
+}

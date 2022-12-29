@@ -1,0 +1,126 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "Readme.txt",
+					"DownloadLists": [
+						"cs_crackhouse_recon.lst"
+					],
+					"Map_screenshots": [
+						"Thumbs.db",
+						"cs_crackhouse_recon0000.jpg",
+						"cs_crackhouse_recon0001.jpg",
+						"cs_crackhouse_recon0002.jpg",
+						"cs_crackhouse_recon0003.jpg",
+						"cs_crackhouse_recon0005.jpg",
+						"cs_crackhouse_recon0006.jpg",
+						"cs_crackhouse_recon0007.jpg",
+						"cs_crackhouse_recon0008.jpg"
+					],
+					"maps": [
+						"cs_crackhouse_recon.bsp",
+						"cs_crackhouse_recon.nav",
+						"cs_crackhouse_recon.res"
+					],
+					"materials": {
+						"0": "Thumbs.db",
+						"1": "mod_usmc.vmt",
+						"2": "mod_usmc.vtf",
+						"models": {
+							"ill_hanger": {
+								"props": [
+									"mbox.vmt",
+									"mbox.vtf",
+									"phnbth.vmt",
+									"phnbth.vtf",
+									"phnbthl.vmt",
+									"phnbthl.vtf"
+								]
+							}
+						},
+						"props": {
+							"static": {
+								"fcv01": {
+									"fcv_civ": [
+										"fcv_civ_black.vmt",
+										"fcv_civ_black.vtf"
+									],
+									"fcv_police": [
+										"fcv_police.vmt",
+										"fcv_police.vtf",
+										"fcv_police_nypd1.vmt",
+										"fcv_police_nypd1.vtf",
+										"fcv_police_nypd2.vmt",
+										"fcv_police_nypd2.vtf"
+									]
+								}
+							}
+						}
+					},
+					"models": {
+						"ill_hanger": {
+							"props": [
+								"mailbox.dx80.vtx",
+								"mailbox.dx90.vtx",
+								"mailbox.mdl",
+								"mailbox.phy",
+								"mailbox.sw.vtx",
+								"mailbox.vvd",
+								"phonebooth.dx80.vtx",
+								"phonebooth.dx90.vtx",
+								"phonebooth.mdl",
+								"phonebooth.phy",
+								"phonebooth.sw.vtx",
+								"phonebooth.vvd"
+							]
+						},
+						"props": {
+							"static": {
+								"fcv01": {
+									"fcv_civ": [
+										"fcv_civ.dx80.vtx",
+										"fcv_civ.dx90.vtx",
+										"fcv_civ.mdl",
+										"fcv_civ.phy",
+										"fcv_civ.sw.vtx",
+										"fcv_civ.vvd"
+									],
+									"fcv_police": [
+										"fcv_police.dx80.vtx",
+										"fcv_police.dx90.vtx",
+										"fcv_police.mdl",
+										"fcv_police.phy",
+										"fcv_police.sw.vtx",
+										"fcv_police.vvd"
+									]
+								}
+							}
+						}
+					},
+					"sound": {
+						"usmc_crackhouse": [
+							"blowhorn.wav"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 349511,
+			"_nDownloadCount": 3582,
+			"_nFilesize": 5398150,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/349511",
+			"_sFile": "cs_crackhouse_recon.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1186844134
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 99780,
+	"_sName": "cs_crackhouse_recon",
+	"_sText": "This is a re-make of the map the map crackhouse_xz_5 BY USMC Recon.\r\n\r\nNew:\r\nZareh's police cars and government crown victoria for destroyed white cars and the apc\r\nMore explosive oil drums\r\nOpened both doors on the hostage rescue side of the ct spawn\r\nIncreased player clip heights around the map\r\nWidened some doorways in the crackhouse\r\nPlayer-activated c4 for both teams (use dark blue button)\r\nMore airducts added to the building outside the crackhouse front door\r\nRemoved a window that t's were often spawn killed through\r\nAdded wood \"Z\" over front window\r\nAdded TV console on crackhouse 1st floor\r\nAdded file cabinets in T spawn that can be pushed over \"blood bath\" room\r\nfloor\r\nSome texture crates have been made in moveable prop crates\r\nAdded a truck with oil drums in front of crackhouse instead of the green car\r\nMailbox and phonebooth (sorry can't go in (not my fault)) outside crackhouse front\r\nAdded a police car behind orange barricades on backside of crackhouse\r\nAdded dumpster in alley behind the building in front of the crackhouse\r\nMoved boxes outside crackhouse front so window can be accessed more     easily\r\nAdded bunk bed in front corner hostage room\r\nAdded a \"drug lab\" (not much to it - propane, jars, some white texture rocks) instead of random room in t spawn\r\nAdded another secret room (break wall, secret room is there)\r\nAdded dead ct's and a hostage in the \"blood bath\" room\r\nFixed front door breakable lock (before you could break one lock and the other would still be there, but you could open both doors)\r\nAdded a \"blowhorn callout\" coming from speakers near ct spawn\r\nit tells the T's that the police is here with a warrant\r\nand they want all of them to come out with their hands up.\r\nMany props have been slightly moved for improved gameplay"
+}

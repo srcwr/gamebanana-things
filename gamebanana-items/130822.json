@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ze_jurassicpark_v2_7_OB.bsp"
+				],
+				"_sMimeType": "application/x-7z-compressed"
+			},
+			"_bContainsExe": false,
+			"_idRow": 309577,
+			"_nDownloadCount": 3978,
+			"_nFilesize": 34706828,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/309577",
+			"_sFile": "ze_jurassicpark_v2_7_ob.7z",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1314031508
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 130822,
+	"_sName": "ze_jurassicpark_v2_7_OB",
+	"_sText": "This is an updated version of ze_jurassicpark_v2 to work on the latest version of CS:S. It had stopped working after the update so people had requested a fix.\r\n\r\nChangelog (v2_1):\r\n- Added hold point at truck area\r\n- Added ladders on fence (must disable power to use)\r\n- Added alternate truck path (must destroy the car)\r\n- Added Raptor nest\r\n- Removed Stegosaurus \r\n- Changed final hold point area and increased helicopter wait time\r\n- Optimized map so that it uses 100-200 IN instead of 1500 IN (less lag)\r\n\r\nChangelog (v2_6):\r\n- Improved Visuals\r\n- Increased difficulty for humans\r\n- Added secret for zombies\r\n- Truck changed to a bus\r\n- Changed hold times / barrier strength\r\n- Completely re-made displacements\r\n- Added spawn hold barrier (to stop zombies)\r\n\r\nChangelog (v2_7):\r\n- Fixed players getting stuck again\r\n- Added night mode\r\n- Fixed invisible players glitch\r\n- Fixed \"drifting\" bus"
+}

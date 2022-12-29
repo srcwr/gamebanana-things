@@ -1,0 +1,40 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"bhop_sinnula_fix.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 823845,
+			"_nDownloadCount": 55,
+			"_nFilesize": 18883730,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/823845",
+			"_sFile": "bhop_sinnula_fix.rar",
+			"_sMd5Checksum": "0a37ab083adeccb2421c7f0b00101999",
+			"_tsDateAdded": 1656802357
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "",
+					"text": "fixed surf skip"
+				}
+			],
+			"_sText": "<p>Shoutout to Trickster for finding this and showing it to me.</p><p>Before the patch, you were able to flick off of a surf and skip to the next booster. This was incredibly hard and anti-fun during a run, so I decided to patch it out.</p>",
+			"_sTitle": "surf patch",
+			"_tsDateAdded": 1656802454
+		}
+	],
+	"_idRow": 386853,
+	"_sName": "bhop_sinnula_fix",
+	"_sText": "made this map out of frustration from somewhat failing to make a different, higher quality map. I wanted to make something with an easy theme, so I decided to work on this. It's just an average map made for fun. <br><br>The map itself is T3 and probably around 1:15:1:30. I haven't had any testers though so I could be off from that.<br><br>There are three bonuses<br>1st bonus: 10-20 seconds & slightly technical/climby<br>2nd bonus: 15-25 seconds & strafey<br>3rd bonus: 25-35 seconds & strafey but with some small climbs, surfs and boosters<br>If your server doesn't support multiple bonuses, I'd suggest the 1st bonus.<br>The map hasn't been tested by other people so if there are some dumb skips, lmk"
+}

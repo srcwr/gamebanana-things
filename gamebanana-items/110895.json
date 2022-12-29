@@ -1,0 +1,81 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"$2000$_space_fix.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 399735,
+			"_nDownloadCount": 993,
+			"_nFilesize": 7087682,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/399735",
+			"_sFile": "2000__space_fix.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1540118413
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"materials": {
+						"overviews": [
+							"$2000$_space_fix.vmt",
+							"$2000$_space_fix.vtf",
+							"$2000$_space_fix_radar.vmt"
+						]
+					},
+					"resource": {
+						"overviews": [
+							"$2000$_space_fix.txt"
+						]
+					}
+				},
+				"_sMimeType": "application/x-7z-compressed"
+			},
+			"_bContainsExe": false,
+			"_idRow": 402041,
+			"_nDownloadCount": 296,
+			"_nFilesize": 281370,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/402041",
+			"_sFile": "radar_2000__space_fix.7z",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1542396312
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Radar"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Radar to map",
+			"_tsDateAdded": 1542396259
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "Elevator"
+				}
+			],
+			"_sText": "<span class=\"RedColor\">Fix bug of Elevator in the center. Now you can press the button as much as you want.</span>",
+			"_sTitle": "Final Release",
+			"_tsDateAdded": 1540118511
+		}
+	],
+	"_idRow": 110895,
+	"_sName": "$2000$_space_fix",
+	"_sText": "<span class=\"GreenColor\">On the map there are 5 lifts ( two on respawns and one in the center )<br><br></span>"
+}

@@ -1,0 +1,36 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "Notes.txt",
+					"1": "de_egyptian_panic.bsp",
+					"screenshots": [
+						"de_egyptian_panic1.jpg",
+						"de_egyptian_panic2.jpg",
+						"de_egyptian_panic3.jpg",
+						"de_egyptian_panic4.jpg",
+						"de_egyptian_panic5.jpg",
+						"de_egyptian_panic6.jpg"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 327273,
+			"_nDownloadCount": 1455,
+			"_nFilesize": 6689624,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/327273",
+			"_sFile": "de_egyptian_panic.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1258145896
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 102238,
+	"_sName": "de_egyptian_panic",
+	"_sText": "Story:\r\nThe Counter-Terrorists have tracked down\r\na group of Terrorists who are raiding \r\na secret area in the middle of Egypt.\r\nThe Terrorists have no choice but to\r\nevacuate but wont leave without blowing\r\nthe base to pieces first.\r\n\r\nAuthors note:\r\nI created the map due to a few of my favorite\r\nservers using zm_lila_panic as a fightyard map.\r\nI really hated the poor quality of the map so made\r\na version which had same gameplay but also looked\r\ndecent. I did add 1 new route but it was just to balance\r\nthe gameplay out. The new route gives the Terrorist\r\nteam a 60% better chance of survival, the other route\r\nis from the original layout and was always the rush point\r\nfor the Counter-Terrorists team. Also i spent a long time\r\non optimizing the map so it will output around the same fps.\r\n\r\nOther notes:\r\n64 Spawn points|32 each team.\r\n1 Main bombsite.\r\nNav inside the bsp.\r\nProtected from Decompile."
+}

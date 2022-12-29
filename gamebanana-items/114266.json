@@ -1,0 +1,35 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"fy_skyline": {
+						"0": "ReadMe.txt",
+						"1": "fy_skyline.png",
+						"2": "preview.jpg",
+						"maps": [
+							"fy_skyline.bsp"
+						]
+					}
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 312089,
+			"_nDownloadCount": 1617,
+			"_nFilesize": 2112436,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/312089",
+			"_sFile": "_5639-.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1306775789
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 114266,
+	"_sName": "fy_skyline",
+	"_sText": "<center>![fy_skyline](http://img221.imageshack.us/img221/3834/fyskylinez.png \"\")\r\n\r\n**This is actually my very first map, I started it before [aim_sealevel](http://www.gamebanana.com/maps/156539 \"aim_sealevel\"). It takes place on top of a huge skyscraper somewhere in some city. There are two elevators, one at each spawn (T and CT) which lead to the basement of the building. There are many crates and wooden bars which the player can use as cover and as shortcuts to the enemy side or just to surprise the enemy from above.**\r\n\r\n- The map is for 32 players (16T/16CT)\r\n- Soundscapes for more atmosphere\r\n- Elevators for additional fun!\r\n- Wooden bars to surprise your foe from above\r\n\r\n**The map is more or less WiP even though it's pretty much finished. The only thing that is left is proper optimization... I gave my best to use nodraw textures and func_details but it didn't help much. The FPS on my computer were around 300FPS in the basement and around 70FPS on top of the building. I was working on a more optimized version but lost the vmf due to a compiler error. So this is the full working map and everything is fine but the performance might drop a little when you're on the roof.**\r\n\r\n\r\n</center>"
+}

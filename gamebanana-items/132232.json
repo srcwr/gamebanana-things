@@ -1,0 +1,44 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrike": {
+						"maps": [
+							"zm_lila_panic_isethen_v01.bsp",
+							"zm_lila_panic_isethen_v01.nav",
+							"zm_lila_panic_isethen_v01.txt"
+						],
+						"materials": {
+							"overviews": [
+								"zm_lila_panic_isethen_v01.vmt",
+								"zm_lila_panic_isethen_v01.vtf"
+							]
+						},
+						"resource": {
+							"overviews": [
+								"zm_lila_panic_isethen_v01.txt"
+							]
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 304667,
+			"_nDownloadCount": 1981,
+			"_nFilesize": 2238324,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/304667",
+			"_sFile": "cstrike_276.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1330725900
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 132232,
+	"_sName": "zm_lila_panic_isethen_v01",
+	"_sText": "<center>\r\n<a href=\"https://nicholasnugent.weebly.com/\" target=\"_blank\"><img src=\"http://files.gamebanana.com/bitpit/untitled-3_cc274.png\"></a>\r\n</center>\r\n<center> A classic rendition of zm lila panic</center><br><br>Background:<br> This map is a built from scratch version of zm lila panic that introduces many new elements to the classic style.  For one the map has a newer theme and newer gameplay features.  The underground allows for more camping spots and areas to hide out of plain site.<br><br>Support:<br>  Cubemaps, FPS (Hints/Skips, Area Protals,Func_occluder), Spawnpoints 64, Skybox\r\n<br><br>Change Log:      <br> <li> [ADDED] - Radar </li><li>[ADDED] - Button to secret room by T-spawn </li><li>[ADDED] - Custom texture </li><li>[ADDED] - Decals outside </li><li>[ADDED] - Func_Areaportal / func_occluder </li><li>[ADDED] - Ambient Sound </li><li>[ADDED] - Skybox </li><li>[ADDED] - Nodraw to bottom of the map  (Helps Optimization) </li><li>[ADDED] - Vent opening to basement area </li><li>[ADJUSTED] - iSETHEN sign  (Now says sethen) </li><li>[ADJUSTED] - button to basement  (No longer moves when pushed) </li><li>[ADJUSTED] - CT-spawn height  (Prevent glitching) </li><li>[ADJUSTED] - Weapon room  /  Added 600 ammo to all weapons </li><li>[ADJUSTED] - Textures in secret room by T-spawn </li><li>[ADJUSTED] - Window on 3rd floor of lila tower  (Humans can now cade) </li><li>[ADJUSTED] - Both barricading rooms outside on surrounding walls </li><li>[ADJUSTED] - roof boundaries  (Allowing people to camp) </li><li>[ADJUSTED] - Secret AK-47 color sprites </li><li>[ADJUSTED] - Displacements outside </li><li>[ADJUSTED] - Cubemaps </li><li>[FIXED] - light bleeding in underground room  \r\n<br><br><center><br></center></li>"
+}

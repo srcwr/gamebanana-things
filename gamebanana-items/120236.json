@@ -1,0 +1,40 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "README.txt",
+					"SCREENS": [
+						" (1).jpg",
+						" (2).jpg",
+						" (3).jpg",
+						" (4).jpg",
+						" (5).jpg"
+					],
+					"cstrike": {
+						"maps": [
+							"aim_oggegaming_b1.bsp"
+						]
+					}
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 287994,
+			"_nDownloadCount": 866,
+			"_nFilesize": 2911919,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/287994",
+			"_sFile": "aim_oggegaming_b1.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1400439129
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 120236,
+	"_sName": "aim_oggegaming_b1",
+	"_sText": "**PLEASE NOTE!** \r\nThis is a beta release so it may or may not be stable. If you find any bugs and/or have suggestions please let me know.\r\n\r\n**Changes in b1:**\r\n- **Textures**, textured the map with some temporary textures.\r\n- **Lightning**, added lightning to the map.\r\n\r\n**Features:**\r\n- **2 areas**, the main area and a \"back-room\" area with bulletproof one-way glass. To get to the \"back-room\" area you have to push one of the buttons on the middle pillar (it's the opposite of the side you want to open).\r\n- **Quick action**\r\n\r\n**Creator:**\r\n- oskar3123\r\n\r\n**Version:**\r\n- b1\r\n\r\n**Installation:**\r\n- **1.** Go to your common SteamApps dir. (usually: \"C:\\Program Files\\Steam\\SteamApps\\common\" on 32-bit and \"C:\\Program Files (x86)\\Steam\\SteamApps\\common\")\r\n- **2.** Go to your Counter Strike Source dir. (If it's not inside there it's probably in your personal SteamApps dir \"C:\\Program Files\\Steam\\SteamApps\\<your_username>\")\r\n- **3.** Drag the \"cstrike\" folder there."
+}

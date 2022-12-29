@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"zm_hospitalv4.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 353497,
+			"_nDownloadCount": 2730,
+			"_nFilesize": 353533,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/353497",
+			"_sFile": "zm_hospitalv4.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1170870365
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 132013,
+	"_sName": "zm_hospitalv4",
+	"_sText": "V4 changes:\r\n\r\n- Elevator finally fixed I think. Changed from a func_train to a func_movelinear.\r\n- Added a staircase to provide a second way to go from floor to floor. There's also a minor wallrail-thing where humans can sit on, although this is not too high, and humans should blockade the staircase entrances first if they want to stand a chance.\r\n- Made the entrance to the area added in V3 a little wider."
+}

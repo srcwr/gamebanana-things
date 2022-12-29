@@ -1,0 +1,35 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrike": {
+						"0": "cs_beirut2_hdr_info.txt",
+						"maps": [
+							"cs_beirut2_hdr.bsp",
+							"cs_beirut2_hdr.nav",
+							"cs_beirut2_hdr.res",
+							"cs_beirut2_hdr.txt"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 351383,
+			"_nDownloadCount": 7475,
+			"_nFilesize": 14412663,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/351383",
+			"_sFile": "cs_beirut2_hdr.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1179969623
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 99616,
+	"_sName": "cs_beirut2_hdr",
+	"_sText": "Extraxt all files to the Counterstrike Source maps folder.\r\n\r\n================================================================================\r\n* LEVEL INFORMATION *\r\n--------------------------------------------------------------------------------\r\nTITLE                   : cs_beirut II\r\nFILENAME                : cs_beirut2_hdr.bsp\r\nAUTHOR                  : Bluestrike McQueen\r\nDATE                    : 25 februari 2007 \r\nGAME                    : half-Life 2 COunter-Strike Source.\r\nEMAIL ADDRESS           : Bluestrike@bluestrike.be\r\nHOMEPAGE URL            : http://www.bluestrike.be\r\n \r\n--------------------------------------------------------------------------------\r\n* LEVEL DESCRIPTION *\r\n--------------------------------------------------------------------------------\r\nMap is set in a fortiefied montain/desert town.\r\nWhile this has nothing to do with Beirut, I used that title\r\nbecause my popular cs map was also called cs_beirut, and both\r\nmaps have simular layout/gameplay.\r\n(the orriginal map had nothing to do with beirut either but I had the\r\nmap idea after watching a movie with Chuck Norris who had to free hostages\r\nin beirut :P )\r\n \r\nNEW TEXTURES            : My logo, some custom skins and modified blend vmt's.\r\nNEW MODELS\t\t: A few props\r\n\r\n--------------------------------------------------------------------------------\r\n* CONSTRUCTION *\r\n--------------------------------------------------------------------------------\r\nMAP BASE                : de_fort & cs_beirut for HL1.\r\nMAP VERSION\t\t: build 88 \r\nPREFABS USED            : none\r\nEDITOR(S) USED          : Hammer 4,0, Softimage XSI and Paint Shop Pro7\r\nOTHER UTILITIES USED    : none \r\nKNOWN BUGS              : none.\r\n \r\nCOMPILE MACHINE         : Core2duo Qx6700 2gb DDR2\r\n \r\ncompile time\t\t: Around 1,5 hours for a -final compile.\r\ntime spend on building \t: V 1.0 3 months shared with another map \r\n\t\t\t  V 1.3 update 2 years after initial release. \r\n \r\n--------------------------------------------------------------------------------\r\n* OTHER LEVELS BY THE AUTHOR *\r\n--------------------------------------------------------------------------------\r\nToo many to name but here is a pick:\r\n\r\nSingleplay:\r\n\r\n  Awakening (Half-Life 2) http://awakening.hl2files.com/\r\n  Nickrock (Farcry)\r\n\r\nMultiplay:\r\n\r\n  cs_beirut (Counter-strike)\r\n  de_kilo (Counter-strike)\r\n  \r\n  de_kilo2 (Counter-strike source)\r\n  de_battleship (Counter-strike source)\r\n  cs_logistic_assault (Counter-strike source)\r\n\r\n  ins_karkar (insurgency HL2 mod)\r\n  ins_escort (insurgency HL2 mod)\r\n\r\n  ctf_portalstorm (ctf HL2 mod)\r\n\r\n\r\n--------------------------------------------------------------------------------\r\n* SPECIAL INSTRUCTIONS / ADDITIONAL INFORMATION *\r\n--------------------------------------------------------------------------------\r\nFixes in version 65\r\n- For some reason there were no 64 spawnpoints this version fixes that.\r\n- Added a way for ct's to get on the middle wall\r\n- Removed acces to walls in corner where terrorists could shoot at ct's\r\n  comming from spawn.\r\n- Added some extra models.\r\n- Removed dustcloud effects and several models for better framerates.\r\n\r\nFixes in version 64:\r\n- Added extra spawnpoints up to 34 vs 34 for 64 player servers.\r\n- Added start view locations when the map is loaded and players are in the \r\n  team select menu.\r\n- Added a rope at the back side of a building near CT spawn so CT's can\r\n  get on higher ground too, this should even out the odds a bit.\r\n- A few little graphical changes. \r\n\r\nFixes in hdr version:\r\n- Added custom models and skins.\r\n- Added hdr support.\r\n- Added 'green' radar image.\r\n- Some tweaks.\r\n \r\n--------------------------------------------------------------------------------\r\n* CREDITS *\r\n--------------------------------------------------------------------------------\r\nValve for their awesome game and support\r\nThanks to all the tutorial makers out there.\r\nThanks to the people who gave valuable feedback.\r\nThanks to the playtesters of Zarok (www.counterstrike.be)\r\n\r\n\r\n================================================================================\r\n* COPYRIGHT / PERMISSIONS *\r\n--------------------------------------------------------------------------------\r\nRedistributing is allowed.\r\n\r\nBluestrike, Belgium."
+}

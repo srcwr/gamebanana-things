@@ -1,0 +1,57 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"bhop_monority.bsp",
+					"bhop_monority.vmf",
+					"monority.rad"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 371581,
+			"_nDownloadCount": 250,
+			"_nFilesize": 70711116,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/371581",
+			"_sFile": "bhop_monority_fix.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1517772838
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Minor mistakes fixed"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Fixed for port",
+			"_tsDateAdded": 1517772763
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Making start zone rectangular so it's easier to make a zone"
+				},
+				{
+					"cat": "-",
+					"text": "fixed displacement"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Fixes",
+			"_tsDateAdded": 1517239676
+		}
+	],
+	"_idRow": 125554,
+	"_sName": "bhop_monority",
+	"_sText": "1min on auto<br>hard difficulty on scroll<br><br><iframe src=\"https://www.youtube.com/embed/SZ-bfpiivKw\" allowfullscreen=\"\" width=\"560\" height=\"315\" frameborder=\"0\"></iframe>"
+}

@@ -1,0 +1,144 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrike": {
+						"maps": [
+							"de_gst_ghost.bsp",
+							"de_gst_ghost.nav",
+							"de_gst_ghost.res",
+							"de_gst_ghost.txt"
+						],
+						"materials": {
+							"models": {
+								"hostitron": {
+									"korin": [
+										"bikini01c.vmt",
+										"bikini01c.vtf",
+										"bikini01n.vmt",
+										"bikini01n.vtf",
+										"bikini02c.vmt",
+										"bikini02c.vtf",
+										"bikini_h01.vmt",
+										"bikini_h01.vtf",
+										"bikini_h02.vmt",
+										"bikini_h02.vtf",
+										"bikini_h03.vmt",
+										"bikini_h03.vtf",
+										"bikini_h04.vmt",
+										"bikini_h04.vtf",
+										"bikini_h3.vtf",
+										"but.vmt",
+										"but_c.vmt",
+										"but_c.vtf",
+										"but_n.vmt",
+										"but_n.vtf",
+										"fmouth.vmt",
+										"fmouth.vtf",
+										"hairc.vmt",
+										"hairc.vtf",
+										"hairc1.vmt",
+										"hairc1.vtf",
+										"hairc1at.vmt",
+										"hairc1at.vtf",
+										"hairc2.vmt",
+										"hairc2.vtf",
+										"hairc2at.vmt",
+										"hairc2at.vtf",
+										"hairc2i.vmt",
+										"hairc3.vmt",
+										"hairc3.vtf",
+										"hairc4.vmt",
+										"haircb.vmt",
+										"haircb.vtf",
+										"haircb2.vmt",
+										"haircb2.vtf",
+										"haircf.vmt",
+										"haircf.vtf",
+										"korin01c.vmt",
+										"korin01c.vtf",
+										"korinsuit01c.vmt",
+										"korinsuit01c.vtf",
+										"korintail01c.vmt",
+										"korintail01c.vtf"
+									]
+								}
+							}
+						},
+						"models": {
+							"hostitron": {
+								"korin_v1": [
+									"korinv1_01.dx80.vtx",
+									"korinv1_01.dx90.vtx",
+									"korinv1_01.mdl",
+									"korinv1_01.phy",
+									"korinv1_01.sw.vtx",
+									"korinv1_01.vvd",
+									"korinv1_02.dx80.vtx",
+									"korinv1_02.dx90.vtx",
+									"korinv1_02.mdl",
+									"korinv1_02.phy",
+									"korinv1_02.sw.vtx",
+									"korinv1_02.vvd",
+									"korinv1_03.dx80.vtx",
+									"korinv1_03.dx90.vtx",
+									"korinv1_03.mdl",
+									"korinv1_03.phy",
+									"korinv1_03.sw.vtx",
+									"korinv1_03.vvd",
+									"korinv1_04.dx80.vtx",
+									"korinv1_04.dx90.vtx",
+									"korinv1_04.mdl",
+									"korinv1_04.phy",
+									"korinv1_04.sw.vtx",
+									"korinv1_04.vvd"
+								]
+							}
+						},
+						"sound": {
+							"gst_ghost": [
+								"crie_bombe.wav",
+								"dormir_tranquille.wav",
+								"occuper.wav",
+								"ronflement.wav",
+								"tire_dessus.wav"
+							]
+						}
+					},
+					"screenshot": [
+						"Thumbs.db",
+						"de_gst_ghost0011.jpg",
+						"de_gst_ghost0012.jpg",
+						"de_gst_ghost0013.jpg",
+						"de_gst_ghost0014.jpg",
+						"de_gst_ghost0015.jpg",
+						"de_gst_ghost0016.jpg",
+						"de_gst_ghost0017.jpg",
+						"de_gst_ghost0018.jpg",
+						"de_gst_ghost0019.jpg",
+						"de_gst_ghost0020.jpg",
+						"de_gst_ghost0021.jpg",
+						"de_gst_ghost0022.jpg"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 343735,
+			"_nDownloadCount": 1258,
+			"_nFilesize": 6015862,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/343735",
+			"_sFile": "de_gst_ghost_2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1204500071
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 102553,
+	"_sName": "de_gst_ghost",
+	"_sText": "Description in English and French (Français)\r\n\r\nENGLISH\r\n\r\nIt's my first MAP :)\r\n\r\nIf you find a BUG, please signal me.\r\n\r\nThis MAP, is a Bombe Defuse MAP with FUN event.\r\n\r\nHave you FUN ?\r\n________________________________________________________\r\nFRANCAIS\r\n\r\nC'est ma première MAP :)\r\n\r\nSi vous trouvé un BUG, merci de me le signaler.\r\n\r\nCette MAP, est une MAP de Désamorçage de Bombe avec des événements FUN\r\n\r\nAvez-vous le FUN ?"
+}

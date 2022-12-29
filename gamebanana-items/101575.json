@@ -1,0 +1,46 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "de_complex.bsp",
+					"1": "de_complex.nav",
+					"2": "de_complex.txt",
+					"optional radar overlay": {
+						"cstrike": {
+							"materials": {
+								"overviews": [
+									"de_complex.vmt",
+									"de_complex.vtf",
+									"de_complex_radar.vmt",
+									"de_complex_radar.vtf"
+								]
+							},
+							"resource": {
+								"overviews": [
+									"de_complex.txt"
+								]
+							}
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 349154,
+			"_nDownloadCount": 2183,
+			"_nFilesize": 3944268,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/349154",
+			"_sFile": "elite-complex.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1187979510
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 101575,
+	"_sName": "de_complex",
+	"_sText": "This map had been sitting 1/2 complete in my sdk folder for a long time, so I desided to just go and finish it. I thought it came out pretty well, although the lighting is not great! The bomb site was thrown out with almost no thought put into it, because I thought the map would be way too small for two plant sites. NOTE ON THE RADAR OVERVIEW!!!! - Please read this and understand that I didn't merge the files into the bsp because when I finished it, the radar was all white on the transparent area, and I didn't think some people would like that, so I seperated that to make all players happy! There are actually enough spawns for 36 total players, but I don't know how crowded you like your games :p\r\n\r\nThis is my SECOND map, so say what you want and I hope to read good feedback that may help me for my next map which is currently in the begining stages as you're reading this. ENJOY!"
+}

@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"cs_gridtowers_beta.bsp",
+					"cs_gridtowers_beta.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 351508,
+			"_nDownloadCount": 1286,
+			"_nFilesize": 4887065,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/351508",
+			"_sFile": "cs_gridtowers_beta.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1179382299
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 99950,
+	"_sName": "cs_gridtowers_beta",
+	"_sText": "This map is intended to be a sniping map, but I put enough things to hide behind and around to make it a good sneaking and gunning map as well. There are lots of high places (multi-floor towers with elevators to roof, sniper towers, and access to higher areas by ladder) to snipe from. There are also underground tunnels to run through. They lead to the outside bunker and sniper tower for each base, but you can not enter the tunnel in your teams base and make it into the other's base.\r\n\r\nRunning the hostages to the hostage rescue is a long way, but there are multiple paths to take. I'd recommend staying underground as much as possible, and not trying it unless the Ts are really low in number.\r\n\r\nI did create a Nav Mesh for the bots, but I haven't configured it so the can access the moving elevators. I don't know how to or if I even can. They can get to the 4th level of the towers and anywhere else with a ladder, but that's about it. It's enough to get a decent bot game going.\r\n\r\nI hope you enjoy the map and please let me know what you think of it. I only want to improve as a mapper and this is the first map I've decided to put online. If you guys think it's worth a damn, some time on a few dedicated servers would be wonderful. You can leave feedback for me on here, but I also have a watermark hidden in the map that has my email address on it."
+}

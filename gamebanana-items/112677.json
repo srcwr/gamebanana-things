@@ -1,0 +1,113 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "fy_grosse.txt",
+					"1": "fy_grosse0003.jpg",
+					"2": "fy_grosse0004.jpg",
+					"3": "fy_grosse0005.jpg",
+					"4": "fy_grosse0006.jpg",
+					"maps": [
+						"fy_grosse.bsp",
+						"fy_grosse.nav"
+					],
+					"materials": {
+						"fy_grosse": {
+							"walls": [
+								"BLOOD3.vtf",
+								"BLOOD3_normal.vtf",
+								"CEIL4_1.vtf",
+								"CEIL4_1_normal.vtf",
+								"FLAT2.vmt",
+								"FLAT2.vtf",
+								"FLAT20.vmt",
+								"FLAT20.vtf",
+								"FLAT20_normal.vtf",
+								"FLAT23.vmt",
+								"FLAT23.vtf",
+								"FLAT23_normal.vtf",
+								"FLAT2_normal.vtf",
+								"FLOOR0_3.vtf",
+								"FLOOR0_3_normal.vtf",
+								"RW14_1.vmt",
+								"RW14_1.vtf",
+								"RW14_1_normal.vtf",
+								"RW32_1.vmt",
+								"RW32_1.vtf",
+								"RW32_1_normal.vtf",
+								"TLITE6_1.vtf",
+								"TLITE6_1_normal.vtf",
+								"TLITE6_5.vtf",
+								"TLITE6_5_normal.vtf",
+								"WOLF1.vtf",
+								"WOLF10.vtf",
+								"WOLF10_normal.vtf",
+								"WOLF12.vtf",
+								"WOLF12_normal.vtf",
+								"WOLF13.vtf",
+								"WOLF13_normal.vtf",
+								"WOLF14.vtf",
+								"WOLF14_normal.vtf",
+								"WOLF17.vtf",
+								"WOLF17_normal.vtf",
+								"WOLF18.vmt",
+								"WOLF18.vtf",
+								"WOLF18_normal.vtf",
+								"WOLF1_normal.vtf",
+								"WOLF2.vtf",
+								"WOLF2_normal.vtf",
+								"WOLF3.vtf",
+								"WOLF3_normal.vtf",
+								"WOLF4.vtf",
+								"WOLF4_normal.vtf",
+								"Wolf10.vmt",
+								"blood3.vmt",
+								"ceil4_1.vmt",
+								"floor0_3.vmt",
+								"switch1.vmt",
+								"switch1.vtf",
+								"switch1_normal.vtf",
+								"tlite6_1.vmt",
+								"tlite6_5.vmt",
+								"wolf1.vmt",
+								"wolf12.vmt",
+								"wolf13.vmt",
+								"wolf14.vmt",
+								"wolf17.vmt",
+								"wolf2.vmt",
+								"wolf3.vmt",
+								"wolf4.vmt"
+							]
+						}
+					},
+					"sound": {
+						"fy_grosse": [
+							"wolfdoorclose.WAV",
+							"wolfdoorclose.mp3",
+							"wolfdooropen.WAV",
+							"wolfdooropen.mp3"
+						]
+					}
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 358906,
+			"_nDownloadCount": 1230,
+			"_nFilesize": 5615895,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/358906",
+			"_sFile": "fy_grosse.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1139635920
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 112677,
+	"_sName": "fy_grosse",
+	"_sText": "This is map32 of DooM 2, called Grosse.  It's a good layout for an arena type fy map.\r\n\r\nAll the textures used are the exact ones from the DooM map, recreated with normal maps.  And the map itself is drawn exactly to scale as the DooM map as well, along with all the same secrets in the DooM map.  So if you know youre way around this small map already, you may just have an advantage.\r\n\r\nHope ya guys/girls like it!\r\n\r\nI'd also like to give some credit for hitmanx who gave me the idea for this map in the first place."
+}

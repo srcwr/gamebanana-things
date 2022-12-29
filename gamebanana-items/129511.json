@@ -1,0 +1,44 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"ba_jail_redemption": {
+						"0": "ReadMe.txt",
+						"fast-dl": {
+							"cstrike": {
+								"maps": [
+									"ba_jail_redemption.bsp.bz2"
+								]
+							}
+						},
+						"server": {
+							"cstrike": {
+								"maps": [
+									"ba_jail_redemption.bsp"
+								]
+							}
+						}
+					}
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 314591,
+			"_nDownloadCount": 1261,
+			"_nFilesize": 6413761,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/314591",
+			"_sFile": "_1931-.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1298150020
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 129511,
+	"_sName": "ba_jail_redemption",
+	"_sText": "### **Map Features**\n\n1. Rock Climbing\n2. Big Cage\n3. Swimming Pool\n4. Playground\n5. Parking Lot\n6. BasketBall\n7. Solitary\n8. Soccer (FootBall)\n9. Warday Room\n10. Separate Cell Opening\n11. Hidden Weapons\n12. Hidden Secrets\n13. 2 Sniper Towers (Scout in each with 1009 ammo so it should look as 10/999)\n14. Armory with Buyzone (set mp_buytime 9 so you can buy all round)\n15. Infirmary (Heals 7 hp per sec)\n\n### **Warday Room**\n\n1. Only works if all cells remain closed (1 open disables)\n2. Having sm_disarm and sm_weapon should force teams to a knife (m4's and ak's inside war)\n3. Warns users when warday is going to start\n4. Button located above first cell"
+}

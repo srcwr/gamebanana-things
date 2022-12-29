@@ -1,0 +1,41 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"711paintball": {
+						"0": "how-to.txt",
+						"cstrike": {
+							"maps": [
+								"711paintball.bsp"
+							],
+							"materials": {
+								"sdk": [
+									"711clannet.vmt",
+									"711clannet.vtf"
+								]
+							}
+						}
+					}
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 336261,
+			"_nDownloadCount": 3222,
+			"_nFilesize": 700379,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/336261",
+			"_sFile": "711paintball.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1228879383
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 124188,
+	"_sName": "711paintball",
+	"_sText": "Text file says:\r\n\r\n\"All you gotta do is copy the whole extracted cstrike folder, and paste it where your current \r\ncstrike folder is. It will say somethin like there is already a folder name \"cstrike\" if you \r\ncontinue all files and folders with the same name wil be overwritten. Just click yes to all \r\nbecause it wont delete anything you already have.\""
+}

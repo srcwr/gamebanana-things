@@ -1,0 +1,47 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_nDust_a2.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 273877,
+			"_nDownloadCount": 403,
+			"_nFilesize": 4156841,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/273877",
+			"_sFile": "de_ndust_a2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1491250960
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Fixed the walls not really all in same height"
+				},
+				{
+					"cat": "-",
+					"text": "Fixed able to see Bombsite A Roof"
+				},
+				{
+					"cat": "-",
+					"text": "Fixed CT Spawn too dark"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "A2",
+			"_tsDateAdded": 1491315000
+		}
+	],
+	"_idRow": 104962,
+	"_sName": "nDust | Version a2",
+	"_sText": "<b>nDust | night Dust<br><br>Development Stage: Alpha<br><br>Known Bugs:<br>Possible bugs at some areas<br>Bot may act weird and go to weird places.<br><br>Known issues:<br><del>CT-Spawn is dark (will get fixed next update)</del> Fixed!<br><del>Walls not in same height</del> Fixed!<br><del>Able to see Bombsite A Roof trough sky-wall (skybox)</del> Fixed!<br>There's no radar<br></b>"
+}

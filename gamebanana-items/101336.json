@@ -1,0 +1,45 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_cache_csgo.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 409345,
+			"_nDownloadCount": 8728,
+			"_nFilesize": 179372366,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/409345",
+			"_sFile": "de_cache_csgo_bdafb.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1549292906
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Edit base lights"
+				},
+				{
+					"cat": "Addition",
+					"text": "Fixed some shadows"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Update 2",
+			"_tsDateAdded": 1549294184
+		}
+	],
+	"_idRow": 101336,
+	"_sName": "De_Cache csgo",
+	"_sText": "Cache with original props, textures, sound & Radar<br><br> <br> +Used original vmf from fmpone <a href=\"http://fmpone.com/contentfiles/\" class=\"linkified\" target=\"_blank\">http://fmpone.com/contentfiles/</a><br> +Fixed Blend textures<br>"
+}

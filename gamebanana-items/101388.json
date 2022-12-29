@@ -1,0 +1,55 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_castle.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 614200,
+			"_nDownloadCount": 787,
+			"_nFilesize": 95090782,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/614200",
+			"_sFile": "de_castle_6eec9.rar",
+			"_sMd5Checksum": "ce28d2121e1df895dd980a01e2f1fbb7",
+			"_tsDateAdded": 1626273129
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "Skybox"
+				}
+			],
+			"_sText": "Repair Skybox after updates valve.",
+			"_sTitle": "de_castle",
+			"_tsDateAdded": 1626273403
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "func_buyzone"
+				},
+				{
+					"cat": "Addition",
+					"text": "env_sprite"
+				}
+			],
+			"_sText": "fixed:&nbsp;&nbsp;<br><br>added buyzone<br><br>added lost sprites<br><br>",
+			"_sTitle": "fixed lost",
+			"_tsDateAdded": 1618038081
+		}
+	],
+	"_idRow": 101388,
+	"_sName": "de_castle",
+	"_sText": "<div class=\"SelectedElement\">de_castle is a port with remake of the de_castle from the Counter-Strike: Global Offensive game.</div>National heritage is at risk as the terrorists try to destroy this historical castle built inside a cave mouth.<br><br>"
+}

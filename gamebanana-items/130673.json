@@ -1,0 +1,82 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ze_christmas_beta3f.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 278709,
+			"_nDownloadCount": 3210,
+			"_nFilesize": 44229852,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/278709",
+			"_sFile": "ze_christmas_beta3f.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1461150306
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "CT cant get behind the Boss using the boost anymore (Lvl1)"
+				},
+				{
+					"cat": "-",
+					"text": "Moved a bit and reduced the size of the zombie detection trigger in elevator (prevent infection outside of the elevator triggering it)"
+				},
+				{
+					"cat": "-",
+					"text": "Fixed the small gift offset (Lvl3)"
+				},
+				{
+					"cat": "-",
+					"text": "Reduced the height of the big gifts (Lvl3)"
+				},
+				{
+					"cat": "-",
+					"text": "Added anti-stuck teleports in the gift area (pipes and wall)"
+				},
+				{
+					"cat": "-",
+					"text": "The elevator after boss now leaves after 7 seconds instead of 5 (Lvl3)"
+				},
+				{
+					"cat": "-",
+					"text": "Final Version"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Beta3f",
+			"_tsDateAdded": 1482343302
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Fixed elevator leaving earlier than it should (15 sec instead of 20)"
+				},
+				{
+					"cat": "-",
+					"text": "Fixed a console message"
+				},
+				{
+					"cat": "-",
+					"text": "Zombies cant infect CT through the glass anymore (after lvl3 boss)"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Beta3e",
+			"_tsDateAdded": 1481387621
+		}
+	],
+	"_idRow": 130673,
+	"_sName": "ze_christmas_beta3f",
+	"_sText": "<hr>\r\n<br><br><fieldset><legend><h1 align=\"center\"><b class=\"BlueColor\">ze_christmas</b></h1></legend>\r\n<br><br>Taskuvaras created this map. There were some glitches that could make the map not stable. \r\n<br><br>Some people asked me to fix it, so I asked Taskuvaras, and we started fixing it together.&nbsp;<br><br></fieldset><br>Beta2 version:&nbsp;<a href=\"http://css.gamebanana.com/maps/177956\">http://css.gamebanana.com/maps/177956</a><br><br><hr>\r\n<br><br><fieldset><legend><h1 align=\"center\"><b class=\"BlueColor\">Feature</b></h1></legend>\r\n<br><br><ul>\r\n<li> 2 Special Items</li>\r\n<li> Musics</li>\r\n<li> Packed Entwatch config</li>\r\n<li> 6 Levels (3 Normal then 3 Extreme)</li>\r\n<li> custom_particle nomenclature</li>\r\n<li> Roundtime is 10 minutes</li>\r\n</ul></fieldset>\r\n<br><br><fieldset><legend><h1 align=\"center\"><b class=\"BlueColor\">What's new ?</b></h1></legend>\r\n<br><br><ul>\r\n<li> Train is removed. It was getting a lot of people stuck. It still play a role in blocking paths.</li> \r\n<li> New areas added</li>\r\n<li> Teleport Glitches fixed </li>\r\n<li> Zombie wont be able to infect CT in elevator (ZR crash fixed)</li>\r\n<li> Added Boss Hpbar for the Level1 &amp; Level2 Bosses </li>\r\n<li> Reduced entity usage</li>\r\n<li> Reduced bsp size by 100 mb (removed all files not used) </li>\r\n<li> No more invisible clip blocking player</li>\r\n\r\n</ul></fieldset>\r\n<br><br>Report any glitches, or problem you found.<br><br>Ask me if you want the vmf for CS:GO port.<br><br><br><br>"
+}

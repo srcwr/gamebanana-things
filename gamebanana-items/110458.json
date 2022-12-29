@@ -1,0 +1,122 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "instructions.txt",
+					"MapEditor": {
+						"0": "MapEdit.exe",
+						"VTFEdit": [
+							"DevIL.dll",
+							"HLLib.dll",
+							"VTFCmd.exe",
+							"VTFEdit.exe",
+							"VTFEdit.ini",
+							"VTFLib.dll"
+						],
+						"countryflags": [
+							"aus.vtf",
+							"bra.vtf",
+							"can.vtf",
+							"eng.vtf",
+							"esa.vtf",
+							"esp.vtf",
+							"fra.vtf",
+							"ger.vtf",
+							"irl.vtf",
+							"irq.vtf",
+							"ita.vtf",
+							"jap.vtf",
+							"kor.vtf",
+							"por.vtf",
+							"rom.vtf",
+							"rus.vtf",
+							"saf.vtf",
+							"sco.vtf",
+							"usa.vtf",
+							"wal.vtf"
+						]
+					},
+					"cstrike": {
+						"addons": {
+							"eventscripts": {
+								"soccerautoref": [
+									"es_soccerautoref.txt"
+								],
+								"soccermap": [
+									"es_soccermap.txt"
+								]
+							}
+						},
+						"cfg": {
+							"0": "es_tools.cfg",
+							"1": "lo3.cfg",
+							"2": "soccerautoref.cfg",
+							"3": "soccermap.cfg",
+							"mani_admin_plugin": {
+								"map_config": [
+									"ka_soccer_2009_beta2.cfg"
+								]
+							}
+						},
+						"maps": [
+							"ka_soccer_2009_beta2.bsp",
+							"ka_soccer_2009_beta2.res"
+						],
+						"materials": {
+							"ka_soccer_2006": [
+								"billboard1.vmt",
+								"billboard1.vtf",
+								"billboard2.vmt",
+								"billboard2.vtf",
+								"billboard3.vmt",
+								"billboard3.vtf",
+								"billboard4.vmt",
+								"billboard4.vtf",
+								"ctflags.vmt",
+								"ctflags.vtf",
+								"stadiumlogo.vmt",
+								"stadiumlogo.vtf",
+								"team1.vmt",
+								"team1.vtf",
+								"team2.vmt",
+								"team2.vtf",
+								"team3.vmt",
+								"team3.vtf",
+								"team4.vmt",
+								"team4.vtf",
+								"team5.vmt",
+								"team5.vtf",
+								"team6.vmt",
+								"team6.vtf",
+								"team7.vmt",
+								"team7.vtf",
+								"team8.vmt",
+								"team8.vtf",
+								"tflags.vmt",
+								"tflags.vtf"
+							]
+						}
+					}
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": true,
+			"_idRow": 333259,
+			"_nDownloadCount": 3224,
+			"_nFilesize": 6397521,
+			"_sAnalysisResult": "Archive contains executable",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/333259",
+			"_sFile": "ka_soccer_2009_beta2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1237843612
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 110458,
+	"_sName": "ka_soccer_2009_beta2",
+	"_sText": "An updated version of the ka_soccer_2009_beta1 map.\r\nFixed bugs, added vvis for better lighting and much much less lag,\r\nAdded sideline booths, added a TV, made it overall better looking.\r\nThere are still some smaller known problems, but since I haven't had time to work on it, I'm releasing it as-is.\r\n\r\n\r\nCommands:\r\nType these commands in chat to perform certain actions with the autoref script.\r\n<strong>!ref</strong> -- Brings up a referee menu to control manual aspects of the ref script. you must be set as an admin in the autoref config for !ref and !setteams.<br />\r\n<strong>!setteams [team1here] [team2here]</strong> -- Set teams for the ref script. Use underscores for spaces. For the newer scoreboards since 2008_v6, use full-stops to center the team.<br />\r\n<strong>!score</strong> -- For users to show scores and period info.\r\n\r\n\r\nIn addition to the map and map customizing scripts, you can optionally install my soccer (gameplay) scripts, available here: <a href=\"http://addons.eventscripts.com/addons/view/soccer\">http://addons.eventscripts.com/addons/view/soccer</a>\r\n\r\nThey work for every setting different league/clans use.\r\nExtremely customisable. they record personal player stats (viewable in-game and on a webserver), Limit knives-per-minute,\r\nDisable knifing, Control health/god-mode options (including a commbox-as-bloodbin script),\r\nAutomatically referee (for clan/league matches), Control an in-game scoreboard on a special map,\r\nSlay people jumping on goals, Set separate skins for goalies and teams,\r\nAnd automatically load the scripts upon changing to a soccer map."
+}

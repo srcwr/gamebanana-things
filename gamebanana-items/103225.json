@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_motel_b4.bsp",
+					"de_motel_b4.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 320628,
+			"_nDownloadCount": 3722,
+			"_nFilesize": 5567923,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/320628",
+			"_sFile": "de_motel_b4.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1280858050
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 103225,
+	"_sName": "de_motel_b4",
+	"_sText": "Third version of de_motel, once cs_motel.\r\n\r\nChanges:\r\n- moved all CT spawn points outside of the trucks, so player won't stuck.\r\n- some minor fixes (you will never find out all)\r\n\r\nThere are 128 spawn points. xD"
+}

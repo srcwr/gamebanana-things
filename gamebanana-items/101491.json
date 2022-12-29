@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_cittadella_v2.bsp",
+					"dfggf info.txt"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 324276,
+			"_nDownloadCount": 2341,
+			"_nFilesize": 4961466,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/324276",
+			"_sFile": "de_cittadella_v2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1267800137
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 101491,
+	"_sName": "de_cittadella_v2",
+	"_sText": "// fixed //\r\n\r\n- soundscape\r\n- low fps (good performance now, more them 200% fps)\r\n- modification of some spots in the map,\r\n  for better playing experience\r\n- removed the sewer\r\n- more indication for Terrorist\r\n- some texture fixed, not the all of them... and i am not a painter...\r\n\r\n// bugs //\r\n\r\n- 4 shadows are cut, but don't affect any game play and is barely noticeable when playing.\r\n- 2 textures are not aligned, but the same of the shadows, don't affect any thing.\r\n- i thing one of the spawns are not working... but the map have more them 64slots, if i am not in error...\r\n  so it should be a problem at all. [77.3 ; 6.0 ; 6.0]T Spawn\r\n\r\n// FEATURES //\r\n\r\n- 64 spawn (don't know if one spawn works)\r\n- radar with overview (except some buildings)\r\n- only 2 rotating door's and a few breakable windows\r\n- 2 bombsites (A and B)\r\n- 1 spots with water\r\n- .nav file\r\n- 3d skybox\r\n- soundscape\r\n\r\n// in the .rar //\r\n\r\n- info:\r\n\r\nlog of the compilation.\r\n- map:\r\n\r\n\r\nfile name: de_cittadella_v2\r\nfile size: [uncompressed] ~15 MB\r\ndate released: 05-03-2010\r\n\r\nPLZ FEEDBACK IT, and rate it =D THX\r\n\r\nthe map is medium-, its is good for a server for 40slots or less, more i don't advice...\r\n\r\n"
+}

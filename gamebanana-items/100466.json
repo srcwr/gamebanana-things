@@ -1,0 +1,149 @@
+{
+	"_aAlternateFileSources": [
+		{
+			"description": "cs_sonicschoolhouse on Mod DB",
+			"url": "https://www.moddb.com/games/counter-strike-source/addons/cs-sonicschoolhouse"
+		},
+		{
+			"description": "Original GMod Version",
+			"url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1459954291"
+		},
+		{
+			"description": "Cookie Senpai on Steam",
+			"url": "https://steamcommunity.com/id/Lunaeatsacookie"
+		},
+		{
+			"description": "Cookie Senpai on Twitter",
+			"url": "https://twitter.com/CookieCocoChips"
+		}
+	],
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"cs_sonicschoolhouse.vpk"
+				],
+				"_sMimeType": "application/x-7z-compressed"
+			},
+			"_bContainsExe": false,
+			"_idRow": 448329,
+			"_nDownloadCount": 166,
+			"_nFilesize": 2884802,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/448329",
+			"_sFile": "cs_sonicschoolhouse.7z",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1581203612
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"cs_sonicschoolhouse v2.vpk"
+				],
+				"_sMimeType": "application/x-7z-compressed"
+			},
+			"_bContainsExe": false,
+			"_idRow": 449499,
+			"_nDownloadCount": 67,
+			"_nFilesize": 3014046,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/449499",
+			"_sFile": "cs_sonicschoolhouse_v2.7z",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1582068126
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"cs_sonicschoolhouse v3.vpk"
+				],
+				"_sMimeType": "application/x-7z-compressed"
+			},
+			"_bContainsExe": false,
+			"_idRow": 450866,
+			"_nDownloadCount": 129,
+			"_nFilesize": 3033636,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/450866",
+			"_sFile": "cs_sonicschoolhouse_v3.7z",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1583036251
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"cs_sonicschoolhouse v4.vpk"
+				],
+				"_sMimeType": "application/x-7z-compressed"
+			},
+			"_bContainsExe": false,
+			"_idRow": 456451,
+			"_nDownloadCount": 148,
+			"_nFilesize": 3047377,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/456451",
+			"_sFile": "cs_sonicschoolhouse_v4.7z",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1586372498
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Adjustment",
+					"text": "Corrected more texture placements"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Corrected the rescue zone marker, finally, so ignore the screenshot"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Corrected the story to say that there are 9 hostages instead of 8"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Made the textures sound appropriate to what they are"
+				}
+			],
+			"_sText": "Nighttime version coming soon as well! Stay tuned!",
+			"_sTitle": "V4",
+			"_tsDateAdded": 1586372604
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "Fixed blocked nav areas"
+				},
+				{
+					"cat": "Optimization",
+					"text": "More optimization on areas"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Corrected a few texture placements, again"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "V3",
+			"_tsDateAdded": 1583036510
+		}
+	],
+	"_idRow": 100466,
+	"_sName": "cs_sonicschoolhouse",
+	"_sText": "A map I've wanted to publish for a while. This is actually a ported map from Garry's Mod by Steam user Cookie Senpai. I had fun playing this map by myself with bots. So since I've joined the GameBanana community, the idea of finally publishing this struck me.<br><br>Anyways, this is a hostage rescue map along with complete bot navigation. The map has 9 hostages within it. Like my previously uploaded map, this has no map overview/radar due to my resolution on my computer.<br><br>Have fun! ;)<br>"
+}

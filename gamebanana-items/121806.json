@@ -1,0 +1,34 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "surf_carefulbeta.txt",
+					"1": "surf_carefulbeta.vmf",
+					"cstrike": {
+						"maps": [
+							"surf_carefulbeta.bsp"
+						]
+					}
+				},
+				"_sMimeType": "application/x-7z-compressed"
+			},
+			"_bContainsExe": false,
+			"_idRow": 351476,
+			"_nDownloadCount": 1408,
+			"_nFilesize": 2229797,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/351476",
+			"_sFile": "surf_carefulbeta.7z",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1179522475
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 121806,
+	"_sName": "surf_carefulbeta",
+	"_sText": "Beta1:\r\nbe careful about noclipping outside of the map, it crashes near the top and maybe other places\r\nsome of the jail teleport brushes are a bit short\r\nthe glass walls at spawn like to disappear\r\n\r\nthis only took about a week to make so theres probably more bugs i missed\r\nobliviously i didnt make the scoutzknivez part of the map (anyone know the author's name?)"
+}

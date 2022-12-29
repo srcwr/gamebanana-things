@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"zm_nehellenia_n.bsp",
+					"zm_nehellenia_n.txt"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 329115,
+			"_nDownloadCount": 2475,
+			"_nFilesize": 16049945,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/329115",
+			"_sFile": "zm_nehellenia_n.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1251839438
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 132429,
+	"_sName": "zm_nehellenia_n",
+	"_sText": "<font color=\"royalblue\" face=\"helvetica\"><b>zm_nehellenia_n\r\n\r\nMap Features:</b>\r\n- 32 Spawns\r\n- Radar Map\r\n- Cubemaps\r\n- Drivable Shuttle\r\n- Autopilot Shuttle\r\n- Star Ship Nehellenia\r\n- A Smaller Star Ship\r\n- Custom Props\r\n- Custom Textures\r\n\r\nThis is my third map in my space series after salon moon and the ze_space_station maps.  Basically you're on a small cruiser, Star Ship Nehellenia.  However, the T-Virus got into the air supply, triggering the alarms.  You can try to escape to the smaller ship off the port bow, or you can see if you can hold off the zombies by barricading one of the many rooms on the main ship.  There is also a smaller shuttle in the shuttle bay.  It's a modified version of the third escape ship from ze_space_station_zz and zm_salon_moon that is slightly smaller, but set so that it can be piloted.  The view is not that great though so I gave it a display screen that shows what is in front of the ship, so between that and the radar map you can navigate easily.\r\n\r\nNote:\r\nIf you have a server which gets rid of point_servercommand entities, you must make a custom config for this map with the following command:\r\n\r\nsv_turbophysics 0\r\n\r\nThis is so that no one will glitch out of the drivable shuttle.\r\n\r\n\r\nCustom Models:\r\nThis map has many custom models in it.  I got them from rp_evocity, but I don't know where they came from before that.  Please don't disapprove me right off the bat for not crediting their original author, just PM me if you know who made them and I will get them listed on the authors section.  rp_evocity does have some props from The Ship, but I made sure not to use those ones, so it's not illegal in that way.\r\n\r\n\r\nIf you have any questions or comments, post them here or PM me.  I am on FPSB almost every day.  Thanks for playing!!</font>"
+}

@@ -1,0 +1,73 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"20210524185034_1.jpg",
+					"20210524185105_1.jpg",
+					"20210524185233_1.jpg",
+					"20210524185257_1.jpg",
+					"dm_devtextureclaustrophobia.bsp",
+					"dm_devtextureclaustrophobia.nav",
+					"dm_devtextureclaustrophobia.txt",
+					"map.PNG"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 578003,
+			"_nDownloadCount": 48,
+			"_nFilesize": 464102,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/578003",
+			"_sFile": "dm_devtextureclaustrophobia.zip",
+			"_sMd5Checksum": "5abf564eafee26eb67b68598f1d18499",
+			"_tsDateAdded": 1621902298
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"dm_devtextureclaustrophobia_v2.bsp",
+					"dm_devtextureclaustrophobia_v2.nav",
+					"dm_devtextureclaustrophobia_v2.txt",
+					"newmap.PNG"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 578353,
+			"_nDownloadCount": 50,
+			"_nFilesize": 280962,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/578353",
+			"_sFile": "dm_devtextureclaustrophobia_v2.zip",
+			"_sMd5Checksum": "a8296c804d22355fa75c03b3c63b4573",
+			"_tsDateAdded": 1621956737
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "new hallways"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "fixed leak (thank you to w6a7z99 for pointing it out!!)"
+				}
+			],
+			"_sText": "definitely will add more hallways and make the map bigger in the future",
+			"_sTitle": "Version 2",
+			"_tsDateAdded": 1621956946
+		}
+	],
+	"_idRow": 289333,
+	"_sName": "dm_devtextureclaustrophobia",
+	"_sText": "The second CS:S map I've ever created. (first one was just another generic maze map that I don't think I should upload) Generic dev texture map. Cramped as hell because I mistakenly made it that way and didn't even realize how bad it would be until I actually playtested it. Very nice if you like using the M3. Not so nice if you like being able to actually move. Will probably remake when I learn more of how Hammer works and get used to it.<br><br>version 2 actually adds new hallways so you don't have to go through the central hallway and get stuck behind your team and infront of the opposing side."
+}

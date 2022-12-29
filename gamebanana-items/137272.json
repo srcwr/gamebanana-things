@@ -1,0 +1,41 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"maps": [
+						"gg_unity_zebra_v1.bsp",
+						"gg_unity_zebra_v1.nav"
+					],
+					"materials": {
+						"decals": {
+							"custom": [
+								"custom_fnggaming_white.vmt",
+								"custom_fnggaming_white.vtf",
+								"custom_m_b_zebra_white.vmt",
+								"custom_m_b_zebra_white.vtf"
+							]
+						}
+					}
+				},
+				"_sMimeType": "application/x-7z-compressed"
+			},
+			"_bContainsExe": false,
+			"_idRow": 303076,
+			"_nDownloadCount": 1343,
+			"_nFilesize": 784878,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/303076",
+			"_sFile": "unity_zebra_v1.7z",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1336541297
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 137272,
+	"_sName": "gg_unity_zebra_v1",
+	"_sText": "After playing the original Unity map (made by bclose) many many times, I decided it had too much detail and was too big. I removed all of the round edges, and decreased the size of the map. I then remodeled the entire map, and this is what I ended up with. On the original Unity map by bclose, I get sub 20fps. On this version (my version) of Unity, I get 45-50fps.\r\n\r\nBclose, if it wasn't for you, this would have never existed, so thank you. Your map is beautiful, but I lag whenever I play on it :/\r\n\r\n--\r\nTactical Zebra\r\n\r\nNOTE: To add this map to your game directory, simply download to your desktop, then unzip to your cstrike folder. Merge the folders, and then you are ready to play it!"
+}

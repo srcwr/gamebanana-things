@@ -1,0 +1,165 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "de_discharge1.jpg",
+					"1": "de_discharge2.jpg",
+					"2": "de_discharge3.jpg",
+					"3": "de_discharge4.jpg",
+					"4": "de_discharge5.jpg",
+					"5": "readme.txt",
+					"cstrike": {
+						"maps": [
+							"de_discharge.bsp",
+							"de_discharge.nav",
+							"de_discharge.txt"
+						],
+						"materials": {
+							"de_discharge": {
+								"0": "basic_wood.vmt",
+								"1": "basic_wood.vtf",
+								"10": "dis_doorA_ref.vtf",
+								"11": "dis_doorAsd.vmt",
+								"12": "dis_doorAsd.vtf",
+								"13": "dis_doorAsd_ref.vtf",
+								"14": "dis_slide.vmt",
+								"15": "dis_slide.vtf",
+								"16": "dis_wallA.vmt",
+								"17": "dis_wallA.vtf",
+								"18": "dis_wallA_normal.vtf",
+								"19": "level_1.vmt",
+								"2": "crazyglasschunka.vmt",
+								"20": "level_1.vtf",
+								"21": "level_1_normal.vtf",
+								"22": "level_2.vmt",
+								"23": "level_2.vtf",
+								"24": "level_2_normal.vtf",
+								"25": "level_3.vmt",
+								"26": "level_3.vtf",
+								"27": "level_3_normal.vtf",
+								"28": "level_4.vmt",
+								"29": "level_4.vtf",
+								"3": "crazyglasschunka.vtf",
+								"30": "level_4_normal.vtf",
+								"31": "level_5.vmt",
+								"32": "level_5.vtf",
+								"33": "level_5_normal.vtf",
+								"34": "level_6.vmt",
+								"35": "level_6.vtf",
+								"36": "level_6_normal.vtf",
+								"37": "level_roof.vmt",
+								"38": "level_roof.vtf",
+								"39": "level_roof_normal.vtf",
+								"4": "crazyglasschunka_mask.vtf",
+								"40": "mirror_La.vmt",
+								"41": "mirror_La.vtf",
+								"42": "mirror_La_mask.vtf",
+								"43": "mirror_Lb.vmt",
+								"44": "mirror_Lb.vtf",
+								"45": "mirror_Lb_mask.vtf",
+								"46": "mirror_Ra.vmt",
+								"47": "mirror_Ra.vtf",
+								"48": "mirror_Ra_mask.vtf",
+								"49": "mirror_Rb.vmt",
+								"5": "crazyglasschunkb.vmt",
+								"50": "mirror_Rb.vtf",
+								"51": "mirror_Rb_mask.vtf",
+								"52": "outletA.vmt",
+								"53": "outletA.vtf",
+								"54": "stainless_steel.vmt",
+								"55": "stainless_steel.vtf",
+								"56": "stainless_steel_normal.vtf",
+								"6": "crazyglasschunkb.vtf",
+								"7": "crazyglasschunkb_mask.vtf",
+								"8": "dis_doorA.vmt",
+								"9": "dis_doorA.vtf",
+								"a": [
+									"a_2.vmt",
+									"a_2.vtf",
+									"a_3.vmt",
+									"a_3.vtf",
+									"a_4.vmt",
+									"a_4.vtf",
+									"a_5.vmt",
+									"a_5.vtf",
+									"a_6.vmt",
+									"a_6.vtf"
+								],
+								"arrow": [
+									"arrow.vmt",
+									"arrow.vtf",
+									"arrow2.vmt",
+									"arrow2.vtf",
+									"arrow3.vmt",
+									"arrow3.vtf",
+									"arrow4.vmt",
+									"arrow4.vtf",
+									"arrow5.vmt",
+									"arrow5.vtf",
+									"arrow6.vmt",
+									"arrow6.vtf"
+								],
+								"b": [
+									"b_1.vmt",
+									"b_1.vtf",
+									"b_3.vmt",
+									"b_3.vtf"
+								],
+								"c": [
+									"c_1.vmt",
+									"c_1.vtf",
+									"c_2.vmt",
+									"c_2.vtf",
+									"c_4.vmt",
+									"c_4.vtf",
+									"c_6.vmt",
+									"c_6.vtf"
+								],
+								"x": [
+									"x_1.vmt",
+									"x_1.vtf",
+									"x_2.vmt",
+									"x_2.vtf"
+								]
+							},
+							"overviews": [
+								"de_discharge.vmt",
+								"de_discharge.vtf",
+								"de_discharge_radar.vmt",
+								"de_discharge_radar.vtf"
+							]
+						},
+						"resource": {
+							"overviews": [
+								"de_discharge.txt"
+							]
+						},
+						"scripts": [
+							"soundscapes_de_discharge.txt"
+						],
+						"sound": [
+							"sliding_door.wav"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 321770,
+			"_nDownloadCount": 1291,
+			"_nFilesize": 15845011,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/321770",
+			"_sFile": "de_discharge.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1277890630
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 101866,
+	"_sName": "de_discharge",
+	"_sText": "de_discharge\r\n\r\ncredits:\r\n\r\nValve and myself"
+}

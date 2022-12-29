@@ -1,0 +1,39 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_metaxenor2.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 274982,
+			"_nDownloadCount": 622,
+			"_nFilesize": 5370962,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/274982",
+			"_sFile": "de_metaxenor2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1484494039
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "changed platform to address bug in SourceMod NoBlock mod"
+				}
+			],
+			"_sText": "The platform in the map was based on a func_door which trapped players due to a bug in the SourceMod NoBlock mod. &nbsp;This version uses a MoveLinear and avoids the problem. &nbsp;The original works fine if you are not using the SourceMod NoBlock mod.",
+			"_sTitle": "Version 2 (Noblock fix for platform)",
+			"_tsDateAdded": 1485537353
+		}
+	],
+	"_idRow": 103120,
+	"_sName": "de_metaxenor",
+	"_sText": "Destroy the operation of the Xenor Blaster and win the round. &nbsp;There are 3 teleport rooms in the map so watch your backs! &nbsp;This quakeish map also has some secrets, including a sub-tunnel.&nbsp;"
+}

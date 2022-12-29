@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"fy_icecave.bsp",
+					"readme.txt"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 340674,
+			"_nDownloadCount": 1612,
+			"_nFilesize": 2267638,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/340674",
+			"_sFile": "fy_icecave_2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1215205337
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 112815,
+	"_sName": "fy_icecave",
+	"_sText": "A rendition of the iceworld FY map, except a little bigger! guns and spawn points are almost the same both teams also have buy zones.\r\n\r\nThis is more of a test to try new texture effects and see what limits could be pushed and not!\r\n\r\nWhat came out of this test:\r\n\r\nThe level has great FPS considering it's wall-to-wall displacements, even for my crappy machine!\r\ngot to create and work with selflit textures\r\ngot to create and work with texture blending\r\ngot to see what options for translucency and alfa transparency can be used with blending\r\n\r\nthe complete texture pack can be found as IcePac 1 on fpsbanana.com here\r\nhttp://www.fpsbanana.com/textures/765\r\nit's not needed to run the map since they are packed in the bsp file, this is here for those who would like to use the textures in there own maps!\r\n\r\n\r\nif this would be better with out buy zones or if there are any other suggestions let me know!\r\n\r\n\r\n\r\nGrayTap\r\nSin City: Source Dev. Studio"
+}

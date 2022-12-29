@@ -1,0 +1,41 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"bhop_2bbhop_css.bsp",
+					"bhop_crossfuckers.bsp",
+					"bhop_framebhop_larger.bsp",
+					"bhop_gamebox_css.bsp",
+					"bhop_instant_disconnect_fix.bsp",
+					"bhop_madness.bsp",
+					"bhop_nz_long_again.bsp",
+					"bhop_nz_playstation2.bsp",
+					"bhop_stoneblocks.bsp",
+					"bhop_sunkenbhop.bsp",
+					"bhop_vly.bsp",
+					"bhop_volcanobhop.bsp",
+					"bhop_ytt_nonstop.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 453659,
+			"_nDownloadCount": 83,
+			"_nFilesize": 33845697,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/453659",
+			"_sFile": "newmaps_b1779.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1584832449
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 126516,
+	"_sName": "Port/Re-Make Map Pack #2",
+	"_sText": "Here's another collection of maps ported from 1.6 bhop/kz, to the source engine on CS:S. The following maps may still have some issues, but at the time this was the best we could do for some of these maps as some of these date before we fully figured out vertex alignment/lmp file corruption.<br>If some of the errors seem off-putting, just know we wouldn't release any map if it was completely bugged, or broken/unplayable.<br><br>As always by the way to the original authors, PLEASE let us know if you don't want us re-distributing your map on this website, we will take it down IMMEDIATELY.<br><br>bhop_2bbhop_css<br>ISSUES:<br>-Water has weird flashing/glowing effect to it<br>-Telehops aren't alligned straight, but this isnt necessarily a bad thing<br><br>bhop_crossfuckers<br>ISSUES:<br>-First level perhaps too dark(?)<br>-2nd level has some nodraw issues which are virtually unfixable (as of now)<br><br>bhop_gamebox_css<br>ISSUES:<br>-None.<br><br>bhop_instant_disconnect_fix<br>ISSUES:<br>-Eye warning.<br>-Not a bhop map, mostly KZ.<br><br>bhop_madness<br>ISSUES:<br>-None.<br><br>bhop_framebhop_larger<br>ISSUES:<br>-None.<br><br>bhop_nz_long_again<br>ISSUES:<br>-This map is incredibly broken and after dozens of attempts this was the best I could do, sorry.<br><br>bhop_nz_playstation2<br>ISSUES:<br>-Vertex issues and messy brushwork, can't be bothered to fix as this is an exceedingly old port and the map never truly came out correctly.<br>-End zone has a timer box that may get in the way, didn't delete it because it was in the original map.<br><br>bhop_sunkenbhop<br>ISSUES:<br>-None<br><br>bhop_stoneblocks<br>ISSUES:<br>-None of the skips are fixed/patched, so the map is very short.<br><br>bhop_vly<br>ISSUES:<br>-None.<br><br>bhop_volcanobhop<br>ISSUES:<br>-One or two of the triggers are broken, would fix but I don't have the original vmf.<br>NOTES:<br>This map is the ORIGINAL volcanobhop, not the re-make implemented for KZMod (bhop_kz_volcano) which had a massive skip near the end that let you fly to the top using displacements, this version has flat brushwork so it isn't possible, forcing you to do it the intended way.<br><br>bhop_ytt_nonstop<br>ISSUES:<br>-None.<br><br>"
+}

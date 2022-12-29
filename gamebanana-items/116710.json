@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"Installation.txt",
+					"tp_Justdust.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 340904,
+			"_nDownloadCount": 2353,
+			"_nFilesize": 1092887,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/340904",
+			"_sFile": "black_-_tp_justdust_v1.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1214489485
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 116710,
+	"_sName": "tp_justdust",
+	"_sText": "<font size=\"4\" color=\"ivory\" face=\"arial\">Map made on request:</font><font size=2 face=\"times new roman\"> \r\n<a href=\"http://www.fpsbanana.com/threads/122201\">Plz make sniper target practice map</a>\r\n\r\n<u>Target Practice map with <i>moving targets</i>, made for training.</u>\r\n\r\nDesigned for single player, but it is possible to run the map on a server, if mp_limitteams is set to 0.\r\nDesigned for sniper practice, because the targets are a 1 hit kill, but you can also train with an ak47/m4a1/deagle.\r\nMap devided in 7 sections, when you have killed all the targets of 1 section you get 15 seconds to move on before the door closes.\r\n\r\nI tried to improve the movement of the car in section 7 so it would look more realistic, but for some reason the car kept spawning to the wrong direction(0 270 0), therefor I was forced to check the flag 'Fixed orientation'. If someone knows how to fix this please comment/pm me.\r\n\r\nMap is not protected from decompiling, because I would like other people to learn from this map, I would like to see other (training) maps with moving targets/parts.\r\nPM me if you have any questions.\r\n\r\nType this in console to refill your ammo:\r\nsv_cheats 1\r\nimpulse 101\r\n\r\n\r\n<font color=\"red\" size=\"7\"><font size=\"2\"><b>Please comment and assess.</b></font></font>\r\n- Black\r\n\r\nCredits:\r\n- Valve\r\n- PrivateParts</font>"
+}

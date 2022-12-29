@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"fy_duo2.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 334630,
+			"_nDownloadCount": 2293,
+			"_nFilesize": 11424150,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/334630",
+			"_sFile": "fy_duo2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1234029960
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 112178,
+	"_sName": "fy_duo2",
+	"_sText": "\t\t..:: DUO ISLANDS 2ND EDITION\r\n\r\nCreated by Nathan \"nay0r\" | www.map-central.co.uk\r\nVisit Maximum Retaliation | http://clanmr.xippy.co.uk/\r\n\r\nTwo islands, Two Enemies Each Side\r\nThe Mission is Simple, Eliminate Your Opponents.\r\n\r\n\r\nnayisdeath@hotmail.com\r\n\r\n\r\nWelcome to the 2nd Installation of DUO Islands. This is a total remake from stratch of the first duo using similar structures as the original although 99% of the map has been enhanced from little things like better texture choices all the way\r\nto a new bridge and totally new environment and lighting setup.\r\nThroughout the build I encountered various problems some examples of these\r\nwere clouds do not work properly in 3dskybox that have fog setup on them because\r\nthere edges are shown on the horizon line even with fog setup then I had the various\r\nproblems with certain graphic cards not rendering the fog like I wanted so I got worked these problems eventually. Firstly the clouds have had there nofog properties removed and is embedded into the map file. The skybox materials have had the same fog colour blended onto its angels so it blends into the fog that is setup\r\nin the 3dskybox. Next came the problem of solving a prop that could be broken into flesh pieces so a modified propdata file had to be embed so the pigeon prop didnt break into wood/metal or whatever as flesh is not avaiable usually. Then theres the next problem of the error msg in the console which is still showing but just ignore it as its a safe message just saying that flesh is obsolete even though its working so I just came to the conclusion that valve have forgot to fix this bug same goes with the bug where you place a blend texture onto a displacement. All this took hours of test compiles to get correct but overall I am very pleased with how it turned out.\r\nFinally various default materials have been enhanced with custom bump maps. The map includes roughly 20 spawns per side and both sides have most weapons freely avaliable and all grenande types plus there is also buyzones for armour. We tested the map and thought this was better as without armour its much easier to get shot so having most things freely accessable makes the map more fun and shooting through the\r\nwindows through handrails and what not makes aiming not as simple as most other aim/fy maps so alot more skill is required.\r\n\r\nENJOY!"
+}

@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"mg_zelda_survival_v2.bsp",
+					"mg_zelda_survival_v2.bsp.bak"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 321956,
+			"_nDownloadCount": 1475,
+			"_nFilesize": 28684538,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/321956",
+			"_sFile": "mg_zelda_survival_v2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1276997866
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 128889,
+	"_sName": "mg_zelda_survival_v2",
+	"_sText": "The first T or CT that reaches the triforce at the top, will be link. Everyone else will be monsters. The player that becomes link will get teled to the center of a lava and will get a sword. Everyone else will get teled to a different area that has a bunch of red and blue block monsters (red for Ts and blue for CTs). The Ts and CTs will have 10 seconds to pick a monster. If a player in a monster suit touches the player that is link, it will hurt link 10 dmg every half a second. There is a white monster suit on each team, that does 20 dmg every half a second. The player that is link can either knife the monsters, or push them into the lava with the sword.\r\n\r\nThe song is a rock verson of the Gerudo Valley Theme song.\r\n\r\nFIXES\r\n\r\n -Fixed problem where alot of Ts and CTs died when they touched the \"monster\" suit.\r\n -Lowered the damage the \"monsters\" do to \"link\"\r\n -Lowered the speed of the push from \"link's\" sword"
+}

@@ -1,0 +1,32 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"cs_terroristownage.bsp",
+					"cs_terroristownage0000.jpg",
+					"cs_terroristownage0001.jpg",
+					"cs_terroristownage0002.jpg",
+					"cs_terroristownage0003.jpg",
+					"readme.txt"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 316029,
+			"_nDownloadCount": 1253,
+			"_nFilesize": 371937,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/316029",
+			"_sFile": "cs_terroristownage.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1293388539
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 100517,
+	"_sName": "cs_terroristownage",
+	"_sText": "This is a map made by me and idea by Mikkiiz.\r\n\r\nHow to install map: put the cs_terroristownage in Steam\\steamapps\\yourusername\\counter-strike source\\cstrike\\maps\r\n\r\n\r\nRemember to play as counter terrorist!\r\n\r\n\r\nWhen you are in counter strike source menu, press Create Server and set Include bots on and set bot limit to 6 + in the Game Section set maxplayers to 7 and disable enemy weapons in the next section!\r\n\r\nWhen you are in the server open console (if you dont have console enabled then right click steam icon select library \r\nthen right click counter strike source and select properties then click Set Launch Options... and write this in: -console)\r\n\r\nput in console these: mp_limitteams 6 and mp_autoteambalance 0\r\n\r\n\r\nenjoy the map! :D"
+}

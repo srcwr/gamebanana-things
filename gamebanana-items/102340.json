@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_favela_day.bsp",
+					"leiame.txt",
+					"readme.txt"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 327145,
+			"_nDownloadCount": 10200,
+			"_nFilesize": 16160632,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/327145",
+			"_sFile": "de_favela_day.7z",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1258499546
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 102340,
+	"_sName": "de_favela_day",
+	"_sText": "de_favela_day\r\n\r\nThis map is an improved version of de_favela. de_favela has some gameplay issues, first the map is too dark which makes difficult to see the enemy, second is too T sided. De_favela_day is supposed to fix these issues with a day-light lighting and some lay-out changes. Plus, it has some visual improvements.\r\n\r\nI released this version as a new map, because I intend to keep de_favela with its sun-set / dusk lighting, and intend to release soon a version with further improvements on that map. Maybe even a night version.\r\n\r\nAll files included in the bsp, including nav.\r\n\r\nImportant note:\r\n\r\nTo play the map, after launching counter-strike source, its import NOT to run de_favela before, because many textures on both maps have the same name but were modified. So if you run de_favela the game will load the old textures and then changing to de_favela_day it will use these old textures previously loaded from de_favela. To fix this you have to exit the game and relaunch it, and run de_favela_day again. To avoid this inconvinient for good, I suggest to delete de_favela, or to move it from the maps directory. This rule goes also for other maps I released that were released before like cs_complexo2_v1 e cs_complexo2_v2 which also use textures with same name that were later modified for de_favela_day.\r\n\r\nThanks to Chizbone for the nav.\r\n\r\nThanks to all servers that played de_favela, allowing me to realize the gameplay issues and make the improvements, hope you approve this new map and keep it on your map rotation. Let me name some that I tracked:\r\n\r\n-\t|Front War|\r\n-\tHAVAIANA\r\n-\tGHOST\r\n-\tPCS Amigos das Antigas\r\n-\tTecHhpoint Lanhouse\r\n\r\nSo, its de_favela_day, tunned for top gameplay. Have fun. And I appreciate your feed-back."
+}

@@ -1,0 +1,52 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"surf_stitched.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 477247,
+			"_nDownloadCount": 142,
+			"_nFilesize": 43244899,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/477247",
+			"_sFile": "surf_stitched_final_release.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1596042191
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Adjustment",
+					"text": "fixed typos in credits"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "final release",
+			"_tsDateAdded": 1596042301
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Tweak",
+					"text": "final release"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "final",
+			"_tsDateAdded": 1595979606
+		}
+	],
+	"_idRow": 137912,
+	"_sName": "surf_stitched",
+	"_sText": "CSGO Port by granis: <a href=\"https://steamcommunity.com/sharedfiles/filedetails/?id=2194470311\">https://steamcommunity.com/sharedfiles/filedetails/?id=2194470311</a><br><br>Two staged tier 5 map which can be played like a linear, surf made by 15 people, led&detailed by masog.<br><br><b>MAP SPECIFIC SETTINGS</b><br><br>• sv_maxvelocity <b>5000</b><br><br>• tier <b>5</b> map intended for 64/66 tickrate<br><br>• s1 start boost is intended to boost exactly to <b>1775</b> u/s (while holding W)<br><br>• s2 start boost is intended to boost exactly to <b>1000</b> u/s (while holding W)<br><br><b>MAP ZONING</b><br><br>• !r should teleport player to <b>map_desti</b><br><br>• stage teleports should teleport to <b>s1_desti_wall</b> and <b>s2_desti</b><br><br>• s1 startzone trigger is called <b>s1_startzone</b><br><br>• s2 startzone trigger is called <b>s2_startzone</b><br><br>• map endzone trigger is called <b>map_endzone</b><br><br><b>BONUS ZONING</b><br><br>• b1 startzone trigger is called <b class=\"SelectedElement\">bonus1_startzone</b><br><br>• b1 endzone trigger is called <b>bonus1_endzone</b><br><br>• b2 startzone trigger is called <b>bonus2_startzone</b><br><br>• b2 endzone trigger is called <b>bonus2_endzone</b><br><br>"
+}

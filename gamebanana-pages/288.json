@@ -1,0 +1,1525 @@
+[
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"aamu2_updatelog.txt",
+						"bhop_aamu2_u1.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 275508,
+				"_nDownloadCount": 967,
+				"_nFilesize": 30369852,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/275508",
+				"_sFile": "bhop_aamu2_u1.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1481809979
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 124357,
+		"_sName": "bhop_aamu2",
+		"_sText": "<h1>From wilderness to early morning town.</h1><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/7lBiGXT_AmM\" frameborder=\"0\" allowfullscreen=\"\"></iframe><br><br>A map that I had been working on and off for the past 2 years.<br><br>For an average first time player it should take around 20-30 minutes with auto (30-40 mins scroll) to beat the map. Once you've beaten the map once, it should take around 10 minutes.<br>The map has a longjump room, a bonus and a secret.<br><br>Start and end zones are marked. HDR+Bloom recommended.<br><br><h2>Bad framerate?</h2>Enable multicore rendering (mat_queue_mode -1). This will improve rendering times, specifically static prop rendering. I did what I could to optimize the map and had to halt adding more detail because of this reason.<br><br><h3>EDITS</h3>25 Dec 2016 - Update 1 (u1) (Slight changes to make it easier)"
+	},
+	{
+		"_aAlternateFileSources": [
+			{
+				"url": "https://dl.dropboxusercontent.com/u/142067828/download/bhop_aamu.zip"
+			}
+		],
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"README.txt",
+						"bhop_aamu.bsp"
+					],
+					"_sMimeType": "application/zip"
+				},
+				"_bContainsExe": false,
+				"_idRow": 284189,
+				"_nDownloadCount": 995,
+				"_nFilesize": 9078891,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/284189",
+				"_sFile": "bhop_aamu.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1423315237
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 124356,
+		"_sName": "bhop_aamu",
+		"_sText": "Never ending wilderness might have an escape...\r\n===============================================\r\n\r\nA chill and pretty easy autobunnyhop map. Quite short (2-5 minutes). Can be beaten legit/400vel but whether it's enjoyable is another thing.\r\n_Can you find all the hidden marks?_ ;)\r\n\r\n- **Anti-aliasing might cause weird white lines. You have been warned.**\r\n- Fps drops? Don't like how the map looks? **r_3dsky 0** is your friend!\r\n- The underground part is not there to annoy you with 64-unit jumps. In fact, you can beat it without ever doing them. Perhaps your route needs to be changed... Who knows, maybe it's faster to do them on different modes...\r\n- **Server owners**: Starting and ending zones are marked.\r\n\r\nSource:\r\n====================\r\n**Wondering how things were made? Afraid of cyber police knocking on your door for DECOMPILING the map?**\r\n\r\nDon't worry, \r\nyou can download the entire thing from [here](https://dl.dropboxusercontent.com/u/142067828/download/bhop_aamu_sauce.zip \"Source\")!"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"bhop_aadhua.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 274342,
+				"_nDownloadCount": 235,
+				"_nFilesize": 7381472,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/274342",
+				"_sFile": "bhop_aadhua_82471.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1488564819
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 124355,
+		"_sName": "bhop_AadHua",
+		"_sText": "no bonus/easy<br><br>fix now"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"bhop_98gain.bsp"
+					],
+					"_sMimeType": "application/zip"
+				},
+				"_bContainsExe": false,
+				"_idRow": 434786,
+				"_nDownloadCount": 21,
+				"_nFilesize": 2583459,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/434786",
+				"_sFile": "bhop_98gain_a5c4a.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1570779276
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 124354,
+		"_sName": "Bhop_98Gain",
+		"_sText": "Dont mind name.<br>&nbsp;25s dark map&nbsp;<br>Fixed"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"bhop_4stations.bsp"
+					],
+					"_sMimeType": "application/zip"
+				},
+				"_bContainsExe": false,
+				"_idRow": 313938,
+				"_nDownloadCount": 2060,
+				"_nFilesize": 248914,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/313938",
+				"_sFile": "_3045-.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1300734271
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 124353,
+		"_sName": "bhop_8lvls",
+		"_sText": "my first bhop map!\r\n\r\nWegen fragen usw. stellt sie einfach aber bitte nur auf Deutsch"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"bhop_64_v2.bsp"
+					],
+					"_sMimeType": "application/zip"
+				},
+				"_bContainsExe": false,
+				"_idRow": 281506,
+				"_nDownloadCount": 235,
+				"_nFilesize": 2124981,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/281506",
+				"_sFile": "bhop_64_v2.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1442136827
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 124352,
+		"_sName": "bhop_64_v2",
+		"_sText": "People have waited years for something harder and better than 64 which is already better than yonkoma. This is that something."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"bhop_64_speedrun.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 275996,
+				"_nDownloadCount": 268,
+				"_nFilesize": 950298,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/275996",
+				"_sFile": "bhop_64_speedrun.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1477977682
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 124351,
+		"_sName": "bhop_64_speedrun",
+		"_sText": "Hey, this is my 2nd map, map have only 1 checkpoint, the start.<br><br>This is a speedrun map, all style possible i think.<br><br>Good luck :)"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"bhop_64_ez.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 278766,
+				"_nDownloadCount": 361,
+				"_nFilesize": 1773450,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/278766",
+				"_sFile": "bhop_64_ez.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1460787440
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 124350,
+		"_sName": "bhop_64_ez",
+		"_sText": "An easier version of bhop_64, that has boosters for each 64 and checkpoints. If anyone can get a run on this map on a major channel I'll give em a 5 dollar csgo skin. Enjoy!"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"bhop_64_64s.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 276130,
+				"_nDownloadCount": 265,
+				"_nFilesize": 2875651,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/276130",
+				"_sFile": "bhop_64_64s.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1476982316
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 124349,
+		"_sName": "bhop_64_64s",
+		"_sText": "I have no idea what Matans is doing anymore....<br><br>"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"bhop_64unit_v2.bsp"
+					],
+					"_sMimeType": "application/zip"
+				},
+				"_bContainsExe": false,
+				"_idRow": 421025,
+				"_nDownloadCount": 78,
+				"_nFilesize": 407090,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/421025",
+				"_sFile": "bhop_64unit_v2.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1558804379
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 124348,
+		"_sName": "bhop_64unit_v2",
+		"_sText": "unreal 64 unit map"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"bhop_64.bsp"
+					],
+					"_sMimeType": "application/zip"
+				},
+				"_bContainsExe": false,
+				"_idRow": 281522,
+				"_nDownloadCount": 244,
+				"_nFilesize": 470146,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/281522",
+				"_sFile": "bhop_64.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1441998281
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 124347,
+		"_sName": "bhop_64",
+		"_sText": "For years people have asked for something harder and better than yonkhoma. This is that something."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"bhop_611ssj.bsp"
+					],
+					"_sMimeType": "application/x-rar"
+				},
+				"_bContainsExe": false,
+				"_idRow": 481497,
+				"_nDownloadCount": 45,
+				"_nFilesize": 10646487,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/481497",
+				"_sFile": "bhop_611ssj_415ff.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1597975057
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 124346,
+		"_sName": "bhop_611ssj (CSS)",
+		"_sText": "short strafe map<br><br>original map by ayero<br>port from cs:go"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"bhop_5rooms.bsp"
+					],
+					"_sMimeType": "application/x-rar"
+				},
+				"_bContainsExe": false,
+				"_idRow": 466106,
+				"_nDownloadCount": 94,
+				"_nFilesize": 8213224,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/466106",
+				"_sFile": "bhop_5rooms_c7420.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1590973017
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 124345,
+		"_sName": "bhop_5rooms (CSS)",
+		"_sText": "Port from CS:GO<br>Original map by SmokedOut"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"bhop_5minutes_v1.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 273609,
+				"_nDownloadCount": 499,
+				"_nFilesize": 605090,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/273609",
+				"_sFile": "bhop_5minutes_v1.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1492931297
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 124344,
+		"_sName": "bhop_5minutes_v1",
+		"_sText": "Simple bhop map I made in 2 hours while watching Archer... It's 'Meh' grade.<br><br>Alternative Download at <a href=\"http://shoxxy.net\" class=\"linkified\" target=\"_blank\">Shoxxy.net</a><br><a href=\"http://shoxxy.net/cstrike/maps/bhop_5minutes_v1.zip\" class=\"linkified\" target=\"_blank\">http://shoxxy.net/public/cstrike/maps/bhop_5minutes_v1.zip</a>"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"bhop_5evve.bsp"
+					],
+					"_sMimeType": "application/zip"
+				},
+				"_bContainsExe": false,
+				"_idRow": 431548,
+				"_nDownloadCount": 49,
+				"_nFilesize": 16677900,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/431548",
+				"_sFile": "bhop_5evve.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1568140064
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 124343,
+		"_sName": "bhop_5evve",
+		"_sText": "20 sec strafe map for Sevvegang pog"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"bhop_4U.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 278886,
+				"_nDownloadCount": 483,
+				"_nFilesize": 20045359,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/278886",
+				"_sFile": "bhop_4u.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1460052663
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 124342,
+		"_sName": "Bhop_4U",
+		"_sText": "<p class=\"\">a checkpoint speedrun map</p><p class=\"\">hope you like it</p><p class=\"\">run by unity :D&nbsp;</p>\r\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/WcLA4rEcsmM\" frameborder=\"0\" allowfullscreen=\"\" class=\"\"></iframe>"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"bhop_4muddz.bsp"
+					],
+					"_sMimeType": "application/x-rar"
+				},
+				"_bContainsExe": false,
+				"_idRow": 552112,
+				"_nDownloadCount": 183,
+				"_nFilesize": 89914796,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/552112",
+				"_sFile": "bhop_4muddz.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1618414206
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 124341,
+		"_sName": "bhop_4muddz",
+		"_sText": "a long hard map made for the Sourcejump.net 2021 mapping contest. <br><br>not sure what tier but I did finish the map on segment in 29:57 with ~1400 checkpoints.<br><br>Thanks to samurai and ta de hack for testing and feedback and thanks to JessicaHops Clubhouse for hosting the map for testing"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"bhop_4four.bsp"
+					],
+					"_sMimeType": "application/zip"
+				},
+				"_bContainsExe": false,
+				"_idRow": 421997,
+				"_nDownloadCount": 107,
+				"_nFilesize": 5077411,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/421997",
+				"_sFile": "bhop_4four.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1559542879
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 124340,
+		"_sName": "bhop_4four",
+		"_sText": "T2/3 bhop map with 10 stages. Features head magnets (with floor guides).<br><br>Original map by cakE, ported by me.<br><br>Final stage had invisible textures replaced with glass."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"bhop_4ez_v1.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 280101,
+				"_nDownloadCount": 207,
+				"_nFilesize": 404826,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/280101",
+				"_sFile": "bhop_4ez_v1.7z",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1451729553
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 124339,
+		"_sName": "bhop_4ez_v1",
+		"_sText": "<p>i worked hard on this map for 2 days non-stop. It is my 3rd map so im still trying to get better. there is also a huge bonus part i didnt add because i didnt know if i should or not but to get to the bonus just noclip and turn right from spawn.</p>"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"bhop_4colors.bsp",
+						"bhop_4colors.nav"
+					],
+					"_sMimeType": "application/zip"
+				},
+				"_bContainsExe": false,
+				"_idRow": 412123,
+				"_nDownloadCount": 210,
+				"_nFilesize": 16769229,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/412123",
+				"_sFile": "bhop_4colors_.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1551457547
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 124338,
+		"_sName": "bhop_4colors",
+		"_sText": "<a href=\"https://gamebanana.com/maps/197112\">csgo&nbsp;version&nbsp;</a><br><a href=\"https://www.youtube.com/watch?v=IpOPY3FyF3U&amp;t=133s\" target=\"_blank\" savefrom_lm_index=\"0\" savefrom_lm=\"1\">SHOWCASE</a><span style=\"padding: 0; margin: 0; margin-left: 5px;\"><a href=\"http://savefrom.net/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DIpOPY3FyF3U%26t%3D133s&amp;utm_source=userjs-chrome&amp;utm_medium=extensions&amp;utm_campaign=link_modifier\" target=\"_blank\" title=\"?????? ?????? ??????\" savefrom_lm=\"1\" savefrom_lm_is_link=\"1\" style=\"background-image: url(&quot;data:image/gif;base64,R0lGODlhEAAQAOZ3APf39+Xl5fT09OPj4/Hx8evr6/3+/u7u7uDh4OPi497e3t7e3/z8/P79/X3GbuXl5ubl5eHg4WzFUfb39+Pj4lzGOV7LOPz7+/n6+vn5+ZTLj9/e387Ozt7f3/7+/vv7/ISbePn5+m/JV1nRKXmVbkCnKVrSLDqsCuDh4d/e3uDn3/z7/H6TdVeaV1uSW+bn5v39/eXm5eXm5kyHP/f39pzGmVy7J3yRd9/f3mLEKkXCHJbka2TVM5vaZn6Wdfn6+YG/c/r5+ZO/jeLi41aHTIeageLn4f39/vr6+kzNG2PVM5i+lomdf2CXYKHVmtzo2YXNeDqsBebl5uHh4HDKWN3g3kKqEH6WeZHTXIPKdnSPbv79/pfmbE7PHpe1l4O8dTO5DODg4VDLIlKUUtzo2J7SmEWsLlG4NJbFjkrJHP7+/VK5Nfz8+zmnC3KKa+Hg4OHh4Y63j/3+/eDg4Ojo6P///8DAwP///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAEAAHcALAAAAAAQABAAAAfWgHd2g4SFhYJzdYqLjIpzgx5bBgYwHg1Hk2oNDXKDFwwfDF5NLmMtcStsn4MhGT8YS04aGmU1QRhIGYMTADQAQlAODlloAMYTgwICRmRfVBISIkBPKsqDBAREZmcVFhYVayUz2IMHB1dWOmImI2lgUVrmgwUFLzdtXTxKSSduMfSD6Aik48MGlx05SAykM0gKhAAPAhTB0oNFABkPHg5KMIBCxzlMQFQZMGBIggSDpsCJgGDOmzkIUCAIM2dOhEEcNijQuQDHgg4KOqRYwMGOIENIB90JBAA7&quot;); background-repeat: no-repeat; width: 16px; height: 16px; display: inline-block; border: none; text-decoration: none; padding: 0px; position: relative;\"></a></span>"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"bhop_48.bsp"
+					],
+					"_sMimeType": "application/x-rar"
+				},
+				"_bContainsExe": false,
+				"_idRow": 416570,
+				"_nDownloadCount": 107,
+				"_nFilesize": 2466482,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/416570",
+				"_sFile": "48.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1555110099
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 124337,
+		"_sName": "bhop_48",
+		"_sText": "<br><br>Size: Small <br>Difficulty: Easy<br><br>Short strafe map with a few 64's."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"bhop_408.bsp"
+					],
+					"_sMimeType": "application/x-rar"
+				},
+				"_bContainsExe": false,
+				"_idRow": 480472,
+				"_nDownloadCount": 39,
+				"_nFilesize": 1515792,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/480472",
+				"_sFile": "bhop_408_9c191.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1597456004
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 124336,
+		"_sName": "bhop_408 (CSS)",
+		"_sText": "original map by TheFounderOfCanada<br>port from CSGO<br>t1"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"bhop_3_easy.bsp",
+						"readme.txt"
+					],
+					"_sMimeType": "application/x-rar"
+				},
+				"_bContainsExe": false,
+				"_idRow": 286934,
+				"_nDownloadCount": 727,
+				"_nFilesize": 2291656,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/286934",
+				"_sFile": "bhop_3_easy.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1405736999
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 124335,
+		"_sName": "bhop_3_easy",
+		"_sText": "original map by STATiX\r\n\r\nidk"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"bhop_3d.bsp"
+					],
+					"_sMimeType": "application/x-7z-compressed"
+				},
+				"_bContainsExe": false,
+				"_idRow": 328613,
+				"_nDownloadCount": 3589,
+				"_nFilesize": 627520,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/328613",
+				"_sFile": "bhop_3d.7z",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1253363998
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 124334,
+		"_sName": "bhop_3d",
+		"_sText": "Medium size map that was made in my bhop_adventure gameplay style. Custom textures by Ryan(http://www.fpsbanana.com/textures/2126). Hope you enjoy it!"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"bhop_2nd.bsp"
+					],
+					"_sMimeType": "application/x-rar"
+				},
+				"_bContainsExe": false,
+				"_idRow": 401072,
+				"_nDownloadCount": 92,
+				"_nFilesize": 152793,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/401072",
+				"_sFile": "bhop_2nd_8caaf.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1541334155
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 124333,
+		"_sName": "bhop_2nd",
+		"_sText": "My 2nd map, you are welcome"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"bhop_2hrs.bsp"
+					],
+					"_sMimeType": "application/zip"
+				},
+				"_bContainsExe": false,
+				"_idRow": 417155,
+				"_nDownloadCount": 203,
+				"_nFilesize": 2675642,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/417155",
+				"_sFile": "bhop_2hrs.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1555553816
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 124332,
+		"_sName": "bhop_2hrs",
+		"_sText": "Map I made in 2hrs.<br><br>Inspired by PcPie's <a href=\"https://gamebanana.com/maps/186640\">bhop_overline</a><br><br>This isn't supposed to be a masterpiece, just wanted to see what I could make in 2 hours.<br><br><span class=\"GreenColor\">It should work for both <b>CS:S</b> and <b>Momentum Mod</b>!</span>"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"bhop_2flocci2furious.bsp"
+					],
+					"_sMimeType": "application/x-rar"
+				},
+				"_bContainsExe": false,
+				"_idRow": 293138,
+				"_nDownloadCount": 2441,
+				"_nFilesize": 70115529,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/293138",
+				"_sFile": "bhop_2flocci2furious.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1375528021
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 124331,
+		"_sName": "bhop_2flocci2furious",
+		"_sText": "Flocci 2, not much the be said. Alot of people complained about the surf parts, so instead of surfing you can chose to bhop/walk the longer/slower way instead.\r\nIt is bhop/climb/surf, a little of everything."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"bhop_2dingles1whale.bsp"
+					],
+					"_sMimeType": "application/zip"
+				},
+				"_bContainsExe": false,
+				"_idRow": 287252,
+				"_nDownloadCount": 335,
+				"_nFilesize": 1089772,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/287252",
+				"_sFile": "bhop_2dingles1whale_2.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1404259373
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 124330,
+		"_sName": "bhop_2dingle1whale",
+		"_sText": "--Fixed the Download--\r\n----------------------\r\n\r\nThis was made as a test generally.\r\n\r\nWanted to know what people think."
+	},
+	{
+		"_aAlternateFileSources": [
+			{
+				"description": "mega",
+				"url": "https://mega.nz/#!FshCSCoY!ojm77g6Cn-2piozeohkWkiY1fMmKqcSWnZLVHWIbOnQ"
+			}
+		],
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"bhop_25.bsp"
+					],
+					"_sMimeType": "application/zip"
+				},
+				"_bContainsExe": false,
+				"_idRow": 369622,
+				"_nDownloadCount": 213,
+				"_nFilesize": 2742992,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/369622",
+				"_sFile": "bhop_25.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1516221295
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 124329,
+		"_sName": "bhop_25",
+		"_sText": "do you like the end part of bhop_24?<br><br>no?<br><br>ok then this map is made for you!!<br><br>vmf available here:&nbsp;<a href=\"https://github.com/pietervanheijningen/bhop_maps\">https://github.com/pietervanheijningen/bhop_maps</a><br>"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"bhop_24hrs.bsp",
+						"bhop_24hrs.nav"
+					],
+					"_sMimeType": "application/x-rar"
+				},
+				"_bContainsExe": false,
+				"_idRow": 394167,
+				"_nDownloadCount": 184,
+				"_nFilesize": 27191433,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/394167",
+				"_sFile": "bhop_24hrs.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1534904169
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 124328,
+		"_sName": "bhop_24hrs",
+		"_sText": "CS:S port of bhop_24hrs."
+	},
+	{
+		"_aAlternateFileSources": [
+			{
+				"url": "http://download1652.mediafire.com/wfr7rdpswgvg/87wu6eaqtqffv86/bhop_24.zip"
+			}
+		],
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"bhop_24.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 280716,
+				"_nDownloadCount": 823,
+				"_nFilesize": 5166463,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/280716",
+				"_sFile": "bhop_24.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1447166212
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 124327,
+		"_sName": "bhop_24",
+		"_sText": "<p>port of&nbsp;<a href=\"https://ws.q3df.org/map/r7-24/\" target=\"_blank\" id=\"id9a0f53c7-93e4-fb04-1c67-a3515a9e50d2\">r7-24</a> from defrag,&nbsp;<span>made by rust7</span></p><p>5 ish mins long if nofailed</p><p>have fun</p>"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"bhop_2006isback_fix.bsp"
+					],
+					"_sMimeType": "application/zip"
+				},
+				"_bContainsExe": false,
+				"_idRow": 278468,
+				"_nDownloadCount": 816,
+				"_nFilesize": 1011679,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/278468",
+				"_sFile": "bhop_2006isback_fix.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1462638753
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 124326,
+		"_sName": "bhop_2006isback_fix",
+		"_sText": "A map set in the 2006 mapping community, when everything was new and dev texture maps were the rage. Spiritual sequel to bhop<em>welcome</em>back<em>to</em>2007. Around 1 minute long, tell me if there's any issues and enjoy.<br><br>EDIT: If you already downloaded re-download, I made map possible on scroll."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"bhop_1ucky_for_bhopper.bsp"
+					],
+					"_sMimeType": "application/zip"
+				},
+				"_bContainsExe": false,
+				"_idRow": 325880,
+				"_nDownloadCount": 1381,
+				"_nFilesize": 247811,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/325880",
+				"_sFile": "bhop_fixed.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1262813961
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 124325,
+		"_sName": "bhop_1ucky_for_bhopper",
+		"_sText": "Hi. I made this map for my friend. So nobody forces u to dl this map :P.\r\n\r\nthere are 3 levels in it.\r\n\r\nDONT BELIEVE THE SECOND SCREENSHOT PLEASE :P\r\nAND THE FIRST\r\n\r\n\r\n\r\n\r\nBy 1ucky.\r\nFor Bhopper?! [anime]"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"bhop_1n5an3_harder.bsp"
+					],
+					"_sMimeType": "application/x-rar"
+				},
+				"_bContainsExe": false,
+				"_idRow": 323195,
+				"_nDownloadCount": 1760,
+				"_nFilesize": 624683,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/323195",
+				"_sFile": "bhop_1n5an3_harder.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1271978895
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 124324,
+		"_sName": "bhop_1n5an3_harder",
+		"_sText": "go go go..."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"bhop_1n5an3_hard.bsp"
+					],
+					"_sMimeType": "application/x-rar"
+				},
+				"_bContainsExe": false,
+				"_idRow": 323204,
+				"_nDownloadCount": 1941,
+				"_nFilesize": 621692,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/323204",
+				"_sFile": "bhop_1n5an3_hard.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1271918287
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 124323,
+		"_sName": "bhop_1n5an3_hard",
+		"_sText": "Bhop go go go..."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"bhop_1n5an3.bsp"
+					],
+					"_sMimeType": "application/zip"
+				},
+				"_bContainsExe": false,
+				"_idRow": 329931,
+				"_nDownloadCount": 3629,
+				"_nFilesize": 597203,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/329931",
+				"_sFile": "bhop_1n5an3_3.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1249652770
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 124322,
+		"_sName": "bhop_1n5an3",
+		"_sText": "Just copy bhop_1n5an3 to your cs:s map folder!"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"bhop_162.bsp"
+					],
+					"_sMimeType": "application/x-rar"
+				},
+				"_bContainsExe": false,
+				"_idRow": 425481,
+				"_nDownloadCount": 112,
+				"_nFilesize": 13230113,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/425481",
+				"_sFile": "bhop_162_3d7dc.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1562729188
+			}
+		],
+		"_aLatestUpdates": [
+			{
+				"_aChangeLog": [
+					{
+						"cat": "-",
+						"text": "fixed bonus spin that wasnt working as intended"
+					}
+				],
+				"_sText": "",
+				"_sTitle": "fixed bonus",
+				"_tsDateAdded": 1562727815
+			}
+		],
+		"_idRow": 124321,
+		"_sName": "bhop_162",
+		"_sText": "BHOP_162<br><br>part of the \"number\" series of maps im kinda doing.<br><br>50s map with very difficult bonus. I know the textures arent aligned on the blocks but i ran with it partly because im lazy and partly because it stands out."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"bhop_11mb_of_hell_rtv.bsp"
+					],
+					"_sMimeType": "application/zip"
+				},
+				"_bContainsExe": false,
+				"_idRow": 284423,
+				"_nDownloadCount": 360,
+				"_nFilesize": 5698083,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/284423",
+				"_sFile": "bhop_11mb_of_hell_rtv_2.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1421770744
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 124320,
+		"_sName": "bhop_11mb_of_hell_rtv",
+		"_sText": "small map for pro players"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"bhop_101xp.bsp"
+					],
+					"_sMimeType": "application/zip"
+				},
+				"_bContainsExe": false,
+				"_idRow": 422205,
+				"_nDownloadCount": 138,
+				"_nFilesize": 131149130,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/422205",
+				"_sFile": "bhop_101xp_c540d.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1559755996
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 124319,
+		"_sName": "bhop_101xp",
+		"_sText": "csgo port bhop_101xp<br><a href=\"https://gamebanana.com/maps/199880\">csgo</a><br><a href=\"https://www.youtube.com/watch?v=Wcw00k05k94\" target=\"_blank\" savefrom_lm_index=\"0\" savefrom_lm=\"1\">showcase csgo</a><span style=\"padding: 0; margin: 0; margin-left: 5px;\"><a href=\"http://savefrom.net/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DWcw00k05k94&amp;utm_source=userjs-chrome&amp;utm_medium=extensions&amp;utm_campaign=link_modifier\" target=\"_blank\" title=\"?????? ?????? ??????\" savefrom_lm=\"1\" savefrom_lm_is_link=\"1\" style=\"background-image: url(&quot;data:image/gif;base64,R0lGODlhEAAQAOZ3APf39+Xl5fT09OPj4/Hx8evr6/3+/u7u7uDh4OPi497e3t7e3/z8/P79/X3GbuXl5ubl5eHg4WzFUfb39+Pj4lzGOV7LOPz7+/n6+vn5+ZTLj9/e387Ozt7f3/7+/vv7/ISbePn5+m/JV1nRKXmVbkCnKVrSLDqsCuDh4d/e3uDn3/z7/H6TdVeaV1uSW+bn5v39/eXm5eXm5kyHP/f39pzGmVy7J3yRd9/f3mLEKkXCHJbka2TVM5vaZn6Wdfn6+YG/c/r5+ZO/jeLi41aHTIeageLn4f39/vr6+kzNG2PVM5i+lomdf2CXYKHVmtzo2YXNeDqsBebl5uHh4HDKWN3g3kKqEH6WeZHTXIPKdnSPbv79/pfmbE7PHpe1l4O8dTO5DODg4VDLIlKUUtzo2J7SmEWsLlG4NJbFjkrJHP7+/VK5Nfz8+zmnC3KKa+Hg4OHh4Y63j/3+/eDg4Ojo6P///8DAwP///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAEAAHcALAAAAAAQABAAAAfWgHd2g4SFhYJzdYqLjIpzgx5bBgYwHg1Hk2oNDXKDFwwfDF5NLmMtcStsn4MhGT8YS04aGmU1QRhIGYMTADQAQlAODlloAMYTgwICRmRfVBISIkBPKsqDBAREZmcVFhYVayUz2IMHB1dWOmImI2lgUVrmgwUFLzdtXTxKSSduMfSD6Aik48MGlx05SAykM0gKhAAPAhTB0oNFABkPHg5KMIBCxzlMQFQZMGBIggSDpsCJgGDOmzkIUCAIM2dOhEEcNijQuQDHgg4KOqRYwMGOIENIB90JBAA7&quot;); background-repeat: no-repeat; width: 16px; height: 16px; display: inline-block; border: none; text-decoration: none; padding: 0px; position: relative;\"></a></span><br><br>"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"bhop_0.bsp"
+					],
+					"_sMimeType": "application/x-rar"
+				},
+				"_bContainsExe": false,
+				"_idRow": 283923,
+				"_nDownloadCount": 1444,
+				"_nFilesize": 52151395,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/283923",
+				"_sFile": "bhop_0_2.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1425123427
+			}
+		],
+		"_aLatestUpdates": [
+			{
+				"_aChangeLog": [
+					{
+						"cat": "-",
+						"text": "Reduce File Size"
+					},
+					{
+						"cat": "-",
+						"text": "Fix Cheat"
+					}
+				],
+				"_sText": "Big ups to George for fixing this map since I was too lazy to.",
+				"_sTitle": "bhop_0 [FIXED]",
+				"_tsDateAdded": 1425734071
+			}
+		],
+		"_idRow": 124318,
+		"_sName": "bhop_0",
+		"_sText": "Made this map in a day, hoped that would be it. Ended up with a heap of errors and bugs that needed fixing. Took longer than expected. Models are from [Blade Symphony](http://store.steampowered.com/app/225600/ \"http://store.steampowered.com/app/225600/\"). Buy it. Packing the map was a nightmare, the programs couldn't detect the model textures, and I couldn't figure them out manually because they don't have the same names as the models. It wasn't worth spending time packing the map correctly given how little time I spent making the map, so this is my half assed, pack everything and hope, unreasonably large file size, rage quit, effort of a map.\r\n\r\nVisit [steamcommunity.com/groups/_strafe](https://steamcommunity.com/groups/_strafe \"https://steamcommunity.com/groups/_strafe\") for real bhop.\r\n\r\n\r\nFIXED VERSION. Big ups to George for fixing the cheat and reducing the file size since I was too lazy to. Didn't change the name to _fix or _v2 since yuka asked nicely for it to be kept the same. Replace the old bsp on your servers and let everyone get missing map errors until they figure out they need to delete their broken version."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"Install.txt",
+						"bhop_-4-.bsp"
+					],
+					"_sMimeType": "application/x-rar"
+				},
+				"_bContainsExe": false,
+				"_idRow": 325488,
+				"_nDownloadCount": 2753,
+				"_nFilesize": 6499852,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/325488",
+				"_sFile": "bhop4.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1264070195
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 124317,
+		"_sName": "bhop_-4-",
+		"_sText": "This is a short but hard map.\r\n\r\nThere's 3 lvls to start with. Speed, Skill and Longjump lvl. Once those are completed, bonus lvl activates.\r\n\r\nThe map is tested and it is beatable. Might take some time ;)"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"Readme.txt",
+						"bhopwar_erox_v1.bsp"
+					],
+					"_sMimeType": "application/zip"
+				},
+				"_bContainsExe": false,
+				"_idRow": 289480,
+				"_nDownloadCount": 1799,
+				"_nFilesize": 463629,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/289480",
+				"_sFile": "bhopwar_erox_v1.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1393445762
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 124316,
+		"_sName": "bhopwar_erox_v1",
+		"_sText": "//////////////////////\r\n///Map made by EroX///\r\n//////////////////////\r\n//////////////////////\r\n///<a href=\"http://natzn.net///\" class=\"linkified\" target=\"_blank\">http://natzn.net///</a>\r\n//////////////////////"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"bhoppractice.bsp"
+					],
+					"_sMimeType": "application/x-rar"
+				},
+				"_bContainsExe": false,
+				"_idRow": 364310,
+				"_nDownloadCount": 262,
+				"_nFilesize": 298533,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/364310",
+				"_sFile": "bhoppractice.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1511536191
+			},
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"bhoppractice_v2.bsp"
+					],
+					"_sMimeType": "application/x-rar"
+				},
+				"_bContainsExe": false,
+				"_idRow": 364765,
+				"_nDownloadCount": 252,
+				"_nFilesize": 358264,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/364765",
+				"_sFile": "bhoppractice_v2.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1511943019
+			}
+		],
+		"_aLatestUpdates": [
+			{
+				"_aChangeLog": [
+					{
+						"cat": "Adjustment",
+						"text": "Changed the gap between the large red squares since you cant fall through them"
+					},
+					{
+						"cat": "Tweak",
+						"text": "Lowered the walls for more lighting and more space"
+					}
+				],
+				"_sText": "",
+				"_sTitle": "bhoppractice_v2",
+				"_tsDateAdded": 1511943223
+			},
+			{
+				"_aChangeLog": [
+					{
+						"cat": "Tweak",
+						"text": "Lowered the walls for more lighting and more space"
+					},
+					{
+						"cat": "Adjustment",
+						"text": "Changed the gap between the large red squares since you cant fall through them"
+					}
+				],
+				"_sText": "",
+				"_sTitle": "bhoppractice_v2",
+				"_tsDateAdded": 1511858834
+			}
+		],
+		"_idRow": 124315,
+		"_sName": "bhoppractice",
+		"_sText": "So, first map (2nd actually, first 'good' one hasn't been released yet). I created a bhop practice map, as you can see in the name, where there are different kind of courses to go through. Dont say that the design sucks, i know, i created this for 1-2 hours only.&nbsp;<br><br><h1>Spawns are in the same area, so choose whatever team you want.</h1><h1><b>Features:</b></h1>-First, the large red squares. I know that you cant fall through them because they are too close to each other, but all you have to do is act that you can fall through. Im gonna have to put this in the next version.<br><br>-Light red sqaures. Like the other one, but you can actually fall through them! More spacing and smaller.<br><br>-Circles. A straight line of circles that you can fall through in between (kindof)<br><br>- The straight, slightly broken and the broken straight lines. They are just for ADAD air strafing bhops.<br><br>-There are two sides in the map, the short one, and the long one. The long one is just doubled the length of the short one.<br><br>- There is a ramp going downwards at the side of the map for downhill bhops.<br><br>- At the end of each course, the floor, and the bottom of the ramp, there are blue platforms (nothing on floor) that teleports you back in spawn.<br><br><h2>Im free to suggestions because this is just the first version of the map. Im a new mapper so, this is just a first for me.</h2><h3>As i told up here in this post, i have an unreleased map and im planning to release it too. I dont think that i need to playtest it even more since both sides are symmetrical and its small and is a gungame map.</h3><h1><span class=\"GreenColor\">HOPE YOU LIKE IT!&nbsp;</span></h1>"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"bhop_till_you_drop.bsp"
+					],
+					"_sMimeType": "application/zip"
+				},
+				"_bContainsExe": false,
+				"_idRow": 322528,
+				"_nDownloadCount": 1927,
+				"_nFilesize": 2173716,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/322528",
+				"_sFile": "map_51.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1274737033
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 124314,
+		"_sName": "bhop till you drop",
+		"_sText": "This is my first bhop map.  It starts easy but is for pro bhoppers.  Please rate and tell me if you put it on your server.\r\n\r\n<object width=\"480\" height=\"385\"><param name=\"movie\" value=\"http://www.youtube.com/v/c9N7U8nA1HE&hl=en_US&fs=1&color1=0xe1600f&color2=0xfebd01\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://www.youtube.com/v/c9N7U8nA1HE&hl=en_US&fs=1&color1=0xe1600f&color2=0xfebd01\" type=\"application/x-shockwave-flash\" allowscriptaccess=\"always\" allowfullscreen=\"true\" width=\"480\" height=\"385\"></embed></object>"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"SoSure": {
+							"0": "bhop_sosure.bsp",
+							"screenies": [
+								"20161010171751_1.jpg",
+								"20161010171807_1.jpg",
+								"20161010171820_1.jpg",
+								"20161010171841_1.jpg",
+								"20161010171850_1.jpg",
+								"20161010171918_1.jpg",
+								"20161010171948_1.jpg",
+								"20161010172002_1.jpg",
+								"20161010172011_1.jpg",
+								"20161010172025_1.jpg",
+								"20161010172041_1.jpg",
+								"20161010172049_1.jpg",
+								"20161010172109_1.jpg",
+								"20161010172130_1.jpg",
+								"20161010172137_1.jpg",
+								"20161010172153_1.jpg",
+								"20161010172210_1.jpg"
+							]
+						}
+					}
+				},
+				"_bContainsExe": false,
+				"_idRow": 276257,
+				"_nDownloadCount": 775,
+				"_nFilesize": 17715670,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/276257",
+				"_sFile": "sosure.7z",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1476137683
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 124313,
+		"_sName": "Bhop SoSure",
+		"_sText": "bhop_sosure by Nimsy<br><br>My first complete bhop map that I took seriously.<br>Map screenshots are placed in order stage by stage.<br>8 Stages total<br><br>Play tested by Aimer, Persuant, Acer, One and many others.<br><br>Rated Tier 2.<br>I hope you like it?<br><br>(csgo port coming in the future, map is gmod ready)<br><br>Beta 4 Gameplay video run by Persuant<br><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/DVFR1PJvFhQ\" frameborder=\"0\" allowfullscreen=\"\"></iframe><br>"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"README.txt",
+						"bhop_slacker.bsp",
+						"bhop_slacker.nav"
+					],
+					"_sMimeType": "application/zip"
+				},
+				"_bContainsExe": false,
+				"_idRow": 364332,
+				"_nDownloadCount": 335,
+				"_nFilesize": 6647270,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/364332",
+				"_sFile": "bhap_7d04c.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1511545057
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 124312,
+		"_sName": "Bhop Slacker",
+		"_sText": "Hi guys! The map was made on hold admin site, when editing the map, all the text became all the words in the \"?\" .<br><br>I do not know what it's all about, but now I'm writing again.<br><br>Have a good game!"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"bhop_ragepoop.bsp"
+					],
+					"_sMimeType": "application/x-rar"
+				},
+				"_bContainsExe": false,
+				"_idRow": 326963,
+				"_nDownloadCount": 1423,
+				"_nFilesize": 102720,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/326963",
+				"_sFile": "bhop_ragepoop.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1259203913
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 124311,
+		"_sName": "Bhop ragepoop",
+		"_sText": "Theres a gun area when you finish the map like fool around and one of the level i purposely made the platforms scramble :) have fun"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"bhop_harmony.bsp"
+					],
+					"_sMimeType": "application/x-rar"
+				},
+				"_bContainsExe": false,
+				"_idRow": 288029,
+				"_nDownloadCount": 1328,
+				"_nFilesize": 81721007,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/288029",
+				"_sFile": "bhop_harmony.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1400310382
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 124310,
+		"_sName": "bhop harmony",
+		"_sText": "This map is medium difficulty, with a nice melody. Good luck"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"bhop_chorus.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 276320,
+				"_nDownloadCount": 430,
+				"_nFilesize": 3884912,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/276320",
+				"_sFile": "bhop_chorus_0c7a0.7z",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1475642547
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 124309,
+		"_sName": "bhop chorus",
+		"_sText": "bhop chorus.<br>Simple, quick and easy.<br><br>This map was section 1 of what Gz3d1 was going to be before I remade gz3d1 for what it is now...<br><br>Looks like ass cus some textures didn't want to to work and I had to supplement with other textures. enjoy?<br><br><br><br>"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"bhop_boxes_snowy.bsp"
+					],
+					"_sMimeType": "application/x-rar"
+				},
+				"_bContainsExe": false,
+				"_idRow": 302794,
+				"_nDownloadCount": 2282,
+				"_nFilesize": 4052430,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/302794",
+				"_sFile": "bhop_boxes_snowy.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1337563960
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 124308,
+		"_sName": "Bhop Boxes Snowy",
+		"_sText": "UPDATE! - 5/27/12\r\n==================\r\n- Song now compiled inside map.\r\n- Custom textures now compiled inside map.\r\n- Name reduced for easier identification, now more \"_build3\"\r\n\r\nBoxes Snowy\r\n==================\r\n\r\nThis is my first ever released Bhop map. (on here that is.) It's been a really fun experience to add to my collection and I don't regret a bit of it.\r\n\r\nAbout the map...\r\n------------------\r\nThe map itself isn't too long, and I'd say ranged for the moderately experienced Bhopper. I tried to make it look as appealing as possible, and really set a nice mood for every snow fan to enjoy. I didn't use any regular snow textures just because I thought it looked silly, so I decided to use the bland dev texture, and add special interest to the snow around all the checkpoints with lights and other goodies. Oh, and there's also a song on a moderate volume to accompany you."
+	}
+]

@@ -1,0 +1,95 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "README.txt",
+					"cstrike": {
+						"maps": [
+							"gg_deadsimple.bsp",
+							"gg_deadsimple.nav"
+						],
+						"materials": {
+							"doom": [
+								"RW5_2.vtf",
+								"ceil5_1.vmt",
+								"ceil5_1.vtf",
+								"exit1.vmt",
+								"exit1.vtf",
+								"exit2.vmt",
+								"exit2.vtf",
+								"flat5_5.vmt",
+								"flat5_5.vtf",
+								"rrock09.vmt",
+								"rrock09.vtf",
+								"rrock15.vmt",
+								"rrock15.vtf",
+								"rrock19.vmt",
+								"rrock19.vtf",
+								"rrock20.vmt",
+								"rrock20.vtf",
+								"rw10_3.vmt",
+								"rw10_3.vtf",
+								"rw33_1.vmt",
+								"rw33_1.vtf",
+								"rw5_2.vmt",
+								"slime15.vmt",
+								"slime15.vtf",
+								"step1.vmt",
+								"step1.vtf",
+								"sw1dirt.vmt",
+								"sw1dirt.vtf",
+								"sw1garg.vmt",
+								"sw1garg.vtf",
+								"sw1satyr.vmt",
+								"sw1satyr.vtf",
+								"sw1skin.vmt",
+								"sw1skin.vtf",
+								"wall59_2.vmt",
+								"wall59_2.vtf",
+								"wall59_2_normal.vtf"
+							],
+							"skybox": [
+								"rsky1BK.vmt",
+								"rsky1BK.vtf",
+								"rsky1DN.vmt",
+								"rsky1DN.vtf",
+								"rsky1FT.vmt",
+								"rsky1FT.vtf",
+								"rsky1LF.vmt",
+								"rsky1LF.vtf",
+								"rsky1RT.vmt",
+								"rsky1RT.vtf",
+								"rsky1UP.vmt",
+								"rsky1UP.vtf"
+							]
+						},
+						"sound": {
+							"deadsimple": [
+								"button10.mp3",
+								"d_shawn.mp3"
+							]
+						}
+					}
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 309332,
+			"_nDownloadCount": 1168,
+			"_nFilesize": 4382086,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/309332",
+			"_sFile": "gg_deadsimple.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1314663148
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 134380,
+	"_sName": "gg_deadsimple",
+	"_sText": "Name: gg_deadsimple\r\nAuthor: WoofDg79\r\nDescription: A port of DooM 2's \"Dead Simple\" to Counter-Strike: Source.\r\n\r\n:::Installation Instructions:::\r\n1.  Unzip file to your \"~$/Steam/steamapps/<username>/Counter-Strike Source/\" folder\r\n2.  Overwrite folders if necessary but keep an out for custom stuff you may overwrite; you know your system better than I do.\r\n3.  Enjoy!!"
+}

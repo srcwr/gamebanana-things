@@ -1,0 +1,32 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "fy_ac_mansion_v1 readme.txt",
+					"maps": [
+						"fy_ac_mansion_v1.bsp",
+						"fy_ac_mansion_v1.nav"
+					]
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 323951,
+			"_nDownloadCount": 1129,
+			"_nFilesize": 495433,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/323951",
+			"_sFile": "fy_ac_mansion_v1.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1269171143
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 111292,
+	"_sName": "fy_ac_mansion_v1",
+	"_sText": "This is a copy & paste from my readme file in the download:\r\n\r\n******************************\r\n*MAP NAME: fy_ac_mansion_v1  *\r\n*AUTHOR: Chicken McFail      *\r\n******************************\r\n\r\nINSTALLATION\r\nExtract \"maps\" folder into ~\\Steam\\steamapps\\*yournickname*\\counter-strike source\\cstrike\r\nYou don't need the readme, but extracting it won't do anything.\r\n\r\n\r\nNAV NOTES: Im a begginer mapper, so I had problems with the .nav file. I did add nodes to the map I was working with, but it just wasn't enough. The NPC's have problems with leaving the spawn - they keep jumping about. Usually, sooner or later all of them finally get out, but I added a Spawnkill button in the mansion (originally for the AFK's but it works for stuck NPC's too ;>) so you shouldn't have real problems, unless all players die...\r\n\r\nFEATURES:  Thinking about DM servers, I made people unable to return to their spawn after they get out. Usually this also makes it unable to kill AFKs on non-DM servers, so I made a spawnkill button on the desk in the mansion. You can only press it once.\r\n\r\n           There are 3 encounter spots in the map (by encounter spots, I mean the places where the two teams are supposed to meet). One is inside the mansion, one is on the mansion roof, and one is outside the mansion, in the front garden. Whichever team wins over 1 encounter spot will have a big advantage. Eg. If you take over the roof, you can shoot the inside and the garden from above. You can also break the big glass, and jump down into the mansion.\r\n\r\n           There is a health regeneration spot under the desk. It regenerates 3hp per second, but leaves you very vurnerable to enemies. The barrier is also on the height of your line of vision when crouching, so when you're regenerating, anyone could just crouch and sneak up to you without you even noticing.\r\n\r\nNOTES:     If you wish to edit this map in any way, ASK ME FIRST. Contact me through steam. My nickname is grzesiek580"
+}

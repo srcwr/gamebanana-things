@@ -1,0 +1,50 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrike": {
+						"maps": [
+							"cs_mansion.bsp",
+							"cs_mansion.nav"
+						],
+						"materials": {
+							"source_studios": [
+								"floortile01.vmt",
+								"floortile01.vtf",
+								"road02.vmt",
+								"road02.vtf",
+								"wall_stone01.vmt",
+								"wall_stone01.vtf",
+								"wallplaster01a.vmt",
+								"wallplaster01a.vtf",
+								"wallplaster01b.vmt",
+								"wallplaster01b.vtf",
+								"wallplaster01c.vmt",
+								"wallplaster01c.vtf",
+								"wallplaster01d.vmt",
+								"wallplaster01d.vtf"
+							]
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 273602,
+			"_nDownloadCount": 1850,
+			"_nFilesize": 4096508,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/273602",
+			"_sFile": "cs_mansion_4fa85.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1492973865
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 117058,
+	"_sName": "cs_mansion",
+	"_sText": "3 Floor Building (4 Including basement)<br><span class=\"GreenColor\">12+12</span> variable spawn points<br>Basement connecting with outside of mansion boundaries using a tunnel.<br>You can access outside boundaries from rooftop jumping down on a ledge and get back in using the tunnel<br>Breakable glass windows which can be shot through and also shoot-break at spots<br>Various hidden points and sniper spots<br><br><b><span class=\"GreenColor\">Bot Navigation file included</span></b><br>Custom textures included<br><b><span class=\"GreenColor\">Optimized </span></b>visportals for better framerate<br><br>I had to remove some artifacts in release version because they were creating very low frame-rate on 20+ players multiplayer.<br><br>Match suitable for deathmatch and gungame"
+}

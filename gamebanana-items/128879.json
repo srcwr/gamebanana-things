@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"mg_xmas_nipperhouse_v3_2.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 285476,
+			"_nDownloadCount": 1941,
+			"_nFilesize": 15706563,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/285476",
+			"_sFile": "mg_xmas_nipperhouse_v3_2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1414529783
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 128879,
+	"_sName": "mg_xmas_nipperhouse",
+	"_sText": "<hr />\r\n<fieldset><legend><h1 align=center><b class=\"BlueColor\">mg_xmas_nipperhouse</b></h1></legend>\r\n\r\nNipper made an awesome work at making this map.<br /><br />\r\n\r\n[SG] Paul modified it after, and added many things to make the map Hide and Seek and more fun. Like overlays, console messages, commands. He modified it on his server with a plugin, by adding new things like a mini size for ct (more hides), and a santa skin for terrorist, or give a m249 after a timelimit to the winner. But all these changes used non-official Sourcemod plugins.<br /><br />\r\n\r\nI made the same change he did for his server, and I added a few more things. It's not anymore plugin-dependant.<br />\r\n<hr />\r\n<font size=\"4\"><b class=\"RedColor\">What To Do</b></font>.<br /><br />\r\n\r\n<font color=\"blue\">CT</font> = <font color=\"blue\">Hide for 3 minutes in the house, and outside. You have a reduced size, so you can go in many spots. Your speed is a little faster than the T.</font><br /><br />\r\n\r\n<font color=\"red\">T</font> = <font color=\"red\">After 30 seconds, you can move and start to hunt the CT. You have a Santa skin, a Knife, and a normal size.</font><br /><br />\r\n\r\n<font color=\"green\">After 3 minutes, CT get a M249, and can kill the Terrorist who also get ignited 10 seconds after to slowly kill them ^^</font>\r\n\r\n</fieldset>\r\n<hr />\r\n<fieldset><legend><h1 align=center><b class=\"BlueColor\">Feature</b></h1></legend>\r\n\r\n<ul><li> Santa Skin made by S-Low</li>\r\n<li> Many Overlays with Sounds that are triggered randomly in the map (made by [SG] Paul)</li>\r\n<li> \"Jingle Bell\" music</li>\r\n<li> Mini-Sized CT</li>\r\n<li> Santa T</li>\r\n<li> An \"hidden\" mini santa. It does something if you press E on it.</li></ul></font></fieldset>\r\n<hr />\r\n<fieldset><legend><h1 align=center><b class=\"BlueColor\">What Else ?</b></h1></legend>\r\n\r\nI modified the whole map with EntSpy, so I didnt decompiled anything. If I decompiled the map, it would have been broken.<br />\r\n\r\nSome spots were unreachable by the T, so the CT where invulnerable there. I added some push to block these spots.<br />\r\n</fieldset>\r\n<hr />\r\n<fieldset><legend><h1 align=center><b class=\"BlueColor\">Santa Skin</b></h1></legend>\r\nYou can find the skin there:\r\n<a href=\"http://css.gamebanana.com/skins/129123\">http://css.gamebanana.com/skins/129123</a>\r\n<img src=\"http://files.gamebanana.com/img/ss/skins/52337aaa104de.jpg\">\r\n\r\n</fieldset>\r\n\r\n<hr />\r\n<fieldset><legend><h1 align=center><b class=\"BlueColor\">One overlay of the map</b></h1></legend>\r\nThis is one exemple of overlay, you could see in the map:\r\n\r\n<img src=\"http://i.imgur.com/mwaulyJ.jpg\">\r\n\r\n</fieldset>\r\n\r\n<h1 align=center><b class=\"GreenColor\">Enjoy</b></h1>"
+}

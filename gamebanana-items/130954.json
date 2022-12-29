@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ze_river_escape_v3.bsp",
+					"ze_river_escape_v3.bsp.bz2"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 341688,
+			"_nDownloadCount": 4203,
+			"_nFilesize": 8467198,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/341688",
+			"_sFile": "ze_river_escape_v3bsp.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1211732369
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 130954,
+	"_sName": "ze_river_escape_v3",
+	"_sText": "In a ze_river, you start in small trainstation near bridge. After you cross bridge by boat or trains, you get into the bunker, launch nuke and escape on helicopter.\r\n\r\nThis is third version of ZE_RIVER.\r\nIn that version I made many changes.\r\n-Bridge is now repaired; there're 2 trains on spawn\r\n-Spawns and railway are divided by fence\r\n-No more button to start train and boat - they launch on trigger touch\r\n-Fixed some problems with elevators when people fall out of map.\r\n-Added some new areas at the end; Now there is a helicopter which humans need to defend.\r\n-Some other fixes which will improve balance I hope.\r\n\r\n\r\nThere is two files in archive: archived bsp by bz2 and just bsp. Choose what you server can use."
+}

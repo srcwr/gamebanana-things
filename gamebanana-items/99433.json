@@ -1,0 +1,76 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"cs_agency.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 464410,
+			"_nDownloadCount": 2551,
+			"_nFilesize": 79884831,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/464410",
+			"_sFile": "cs_agency_f53b5.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1590228774
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "Created custom csgo props for fixed bug when server load similar models from another map"
+				},
+				{
+					"cat": "Tweak",
+					"text": "Fixed Some shadows near Helipad"
+				},
+				{
+					"cat": "Addition",
+					"text": "Builded cubemaps for both modes"
+				},
+				{
+					"cat": "Addition",
+					"text": "Fixed missed props"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed Dynamic_shadows"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Last Update",
+			"_tsDateAdded": 1590229086
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Added vertex shadows"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added Areaportals for best perfomance"
+				},
+				{
+					"cat": "Tweak",
+					"text": "Fixed Correctly radar"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Update 3",
+			"_tsDateAdded": 1549125412
+		}
+	],
+	"_idRow": 99433,
+	"_sName": "CS:GO Agency",
+	"_sText": "<b>AGENCY</b><br><br>High quality port of original awesome map from CS:GO.<br><br>Stakes are high when a hostage situation arises in a downtown skyscraper. The sleek and modern offices of a prestigious advertising agency will soon become a merciless battleground.<br><br>Agency is a hostage rescue map that focuses on indoor environments.<br><br>Additional links:<br>   <a href=\"https://steamcommunity.com/sharedfiles/filedetails/?id=174668691\">Original CS:GO version (Workshop)</a><br><br>"
+}

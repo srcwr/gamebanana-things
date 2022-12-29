@@ -1,0 +1,49 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"mg_mc_adventure_random_v11.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 484442,
+			"_nDownloadCount": 216,
+			"_nFilesize": 24656165,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/484442",
+			"_sFile": "mg_mc_adventure_random_v11.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1599344733
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Removal",
+					"text": "Removed spiders and associated levels"
+				},
+				{
+					"cat": "Addition",
+					"text": "Lightened some levels"
+				},
+				{
+					"cat": "Addition",
+					"text": "Spawn Kill changed to 60 seconds"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "v1.1.0",
+			"_tsDateAdded": 1599344801
+		}
+	],
+	"_idRow": 128310,
+	"_sName": "mg_mc_adventure_random_v11",
+	"_sText": "Remake of the map \"mg_minecraft_course_random_beta\"<br><br>The mechanics of choosing a random location have been preserved. But now 1 stage and many levels are added. Which have become much better. And the starting location and the final are also added.<br><br><div class=\"SelectedElement\">It will be possible to refine and add various modes, including Obstacle, where you will have to go through all the levels</div>"
+}

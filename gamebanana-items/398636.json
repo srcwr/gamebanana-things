@@ -1,0 +1,36 @@
+{
+	"_aAlternateFileSources": [
+		{
+			"description": "ORIGINAL MAP SUBMISSION BY ZOIDI",
+			"url": "https://gamebanana.com/mods/286684"
+		}
+	],
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"Vertigo": [
+						"de_vertigo_csgo.bsp",
+						"de_vertigo_csgo.nav"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 855768,
+			"_nDownloadCount": 271,
+			"_nFilesize": 593566,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "NAV FIX, FPS ISSUES FIXED.",
+			"_sDownloadUrl": "https://gamebanana.com/dl/855768",
+			"_sFile": "vertigo_7a8a4.7z",
+			"_sMd5Checksum": "975ae92642a2c819bc9aac83f1f3598d",
+			"_tsDateAdded": 1661686070
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 398636,
+	"_sName": "De_Vertigo_CSGO (Optimized and Fixed)",
+	"_sText": "I saw this map 4 months ago and I'm trying to save&nbsp;<a href=\"https://gamebanana.com/members/1753751\">ZoiDiCabra</a>'s attempt to recreate CSGO's Vertigo since it was a good idea but he left his project since the day I saw it. I fixed a lot of FPS issues throughout the entire map, decreased the height of the building causing rendering issues that leads to game crash, fixed model brushes and hint-skips combination to suddenly increase the FPS, removed unnecessary crane model at Ramp that dramatically decreases FPS and changed it to a simple block one. <a href=\"https://gamebanana.com/mods/286684\">Credits to him and to his map attempt.</a>&nbsp;Hand-tuned NAV and new skybox (militia_hdr)"
+}

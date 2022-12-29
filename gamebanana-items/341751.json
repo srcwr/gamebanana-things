@@ -1,0 +1,57 @@
+{
+	"_aAlternateFileSources": [
+		{
+			"description": "bhop_strafeons_fix",
+			"url": "https://drive.google.com/file/d/1F-kR30XtTgfHml7qHluwbmAq-fXS0uhI/view?usp=sharing"
+		}
+	],
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"bhop_strafeons_fix.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 707317,
+			"_nDownloadCount": 83,
+			"_nFilesize": 13057839,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/707317",
+			"_sFile": "bhop_strafeons_fix.zip",
+			"_sMd5Checksum": "2a1352ebe0a842a471baccf32ee1c03a",
+			"_tsDateAdded": 1638984173
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "Fixed trigger teleporting you to the wrong area."
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed trigger bugging out the character."
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Lowered booster trigger to stop crouchboosting."
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Adjusted 2 blocks to make routes doable."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "fix",
+			"_tsDateAdded": 1638984303
+		}
+	],
+	"_idRow": 341751,
+	"_sName": "bhop_strafeons_fix",
+	"_sText": "Just a short 20 - 30 second strafe map for the gamers."
+}

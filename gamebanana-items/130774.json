@@ -1,0 +1,100 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ze_hl2_episodic_escape_v09_1.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 444881,
+			"_nDownloadCount": 272,
+			"_nFilesize": 84256905,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "Special Test Version",
+			"_sDownloadUrl": "https://gamebanana.com/dl/444881",
+			"_sFile": "ze_hl2_episodic_escape_v09_1_061be.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1578594517
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ze_hl2_episodic_escape_v08_3.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 442317,
+			"_nDownloadCount": 211,
+			"_nFilesize": 62277239,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "Old Stable Version",
+			"_sDownloadUrl": "https://gamebanana.com/dl/442317",
+			"_sFile": "ze_hl2_episodic_escape_v08_3.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1576699073
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Mines added"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added Locations"
+				},
+				{
+					"cat": "Removal",
+					"text": "Removed some locations"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Increased machine gun damage"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Increased damage to laser weapons"
+				},
+				{
+					"cat": "Addition",
+					"text": "Teleport spawn changed"
+				},
+				{
+					"cat": "Addition",
+					"text": "Changed some locations"
+				}
+			],
+			"_sText": "New version of this map. In the anniversary version \"ze_hl2_episodic_escape_v10\" it is planned to add a boss, change locations, fix locations, optimize the map and fix bugs.",
+			"_sTitle": "Version 0.9.1 Special Test Version",
+			"_tsDateAdded": 1578594726
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Removal",
+					"text": "Removed entities that may cause server crash"
+				},
+				{
+					"cat": "Removal",
+					"text": "Excess garbage removed"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Version 0.8.3",
+			"_tsDateAdded": 1576699183
+		}
+	],
+	"_idRow": 130774,
+	"_sName": "ze_hl2_episodic_escape_v09_1",
+	"_sText": "You have to escape from the city by train overcoming various paths. On the map are machine guns and other laser weapons. Also preserves the previous version of the same version of <b>ze_citadel_episodic_escape_v04 <a href=\"https://gamebanana.com/maps/196476\">https://gamebanana.com/maps/196476</a></b>. Also, various content was taken from <b>Half-Life 2 Beta 2003</b> and <b>Half-Life 2 E3 2003</b> and <b>Half-Life 2 Episode One</b> and <b>Half-Life 2 Episode Two (Citadel Destruction)</b>. As well as some of the content from third-party maps and prefabs.  The map is based on a plot from <b>Half-Life 2 Episode One</b><br>"
+}

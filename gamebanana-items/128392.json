@@ -1,0 +1,62 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"mg_north_castle_obstacle_fix.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 271784,
+			"_nDownloadCount": 359,
+			"_nFilesize": 47075229,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/271784",
+			"_sFile": "mg_north_castle_obstacle_fix.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1504803370
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Added possibility to control the brightness and mute it. Commands for brightness mat_autoexposure_max , clean sound snd_restart"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "version 1.0 final",
+			"_tsDateAdded": 1506264374
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Added \"point_spotlight\""
+				},
+				{
+					"cat": "-",
+					"text": "Added +1 level"
+				},
+				{
+					"cat": "-",
+					"text": "Removed gravity gun"
+				},
+				{
+					"cat": "-",
+					"text": "Changed finish"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "version 0.3 beta",
+			"_tsDateAdded": 1504980243
+		}
+	],
+	"_idRow": 128392,
+	"_sName": "mg_north_castle_obstacle_fix",
+	"_sText": "The map is created under the style of the middle ages. Each of the levels consist of unique styles and each of them are different. Map decided to create a medium complexity. Map tested many times and was looking for flaws and bugs, and corrected them. The map does not contain holes. The map is medium in size, but because of the limitations of the engine no longer possible to create more detailed levels and the number of them. The map was built I.The map is created with the \"cubemap\" and \"HDR\""
+}

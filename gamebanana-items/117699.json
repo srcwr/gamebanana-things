@@ -1,0 +1,132 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "dm_warzone_a04l (1).png",
+					"1": "dm_warzone_a04l (2).png",
+					"2": "dm_warzone_a04l (3).png",
+					"3": "dm_warzone_a04l (4).png",
+					"4": "dm_warzone_a04l (5).png",
+					"5": "readme.txt",
+					"maps": [
+						"dm_warzone_a04l.bsp",
+						"dm_warzone_a04l.nav"
+					],
+					"materials": {
+						"overviews": [
+							"dm_warzone_a04l.vmt",
+							"dm_warzone_a04l.vtf"
+						]
+					},
+					"resource": {
+						"overviews": [
+							"dm_warzone_a04l.txt"
+						]
+					}
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 381925,
+			"_nDownloadCount": 115,
+			"_nFilesize": 5523499,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "the main download",
+			"_sDownloadUrl": "https://gamebanana.com/dl/381925",
+			"_sFile": "dm_warzone_a04l.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1525790652
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "dm_warzone_a01 (1).png",
+					"1": "dm_warzone_a01 (2).png",
+					"10": "dm_warzone_a02 (4).png",
+					"11": "dm_warzone_a02 (5).png",
+					"12": "dm_warzone_a02 (6).png",
+					"13": "dm_warzone_a02 (7).png",
+					"14": "dm_warzone_a02 (8).png",
+					"15": "dm_warzone_a02 (9).png",
+					"16": "dm_warzone_a03 (1).png",
+					"17": "dm_warzone_a03 (10).png",
+					"18": "dm_warzone_a03 (11).png",
+					"19": "dm_warzone_a03 (12).png",
+					"2": "dm_warzone_a01 (3).png",
+					"20": "dm_warzone_a03 (13).png",
+					"21": "dm_warzone_a03 (14).png",
+					"22": "dm_warzone_a03 (2).png",
+					"23": "dm_warzone_a03 (3).png",
+					"24": "dm_warzone_a03 (4).png",
+					"25": "dm_warzone_a03 (5).png",
+					"26": "dm_warzone_a03 (6).png",
+					"27": "dm_warzone_a03 (7).png",
+					"28": "dm_warzone_a03 (8).png",
+					"29": "dm_warzone_a03 (9).png",
+					"3": "dm_warzone_a01 (4).png",
+					"30": "dm_warzone_a04l (1).png",
+					"31": "dm_warzone_a04l (2).png",
+					"32": "dm_warzone_a04l (3).png",
+					"33": "dm_warzone_a04l (4).png",
+					"34": "dm_warzone_a04l (5).png",
+					"35": "readme.txt",
+					"4": "dm_warzone_a01 (5).png",
+					"5": "dm_warzone_a01 (6).png",
+					"6": "dm_warzone_a02 (1).png",
+					"7": "dm_warzone_a02 (10).png",
+					"8": "dm_warzone_a02 (2).png",
+					"9": "dm_warzone_a02 (3).png",
+					"maps": [
+						"dm_warzone_a01.bsp",
+						"dm_warzone_a01.nav",
+						"dm_warzone_a02.bsp",
+						"dm_warzone_a02.nav",
+						"dm_warzone_a03.bsp",
+						"dm_warzone_a03.nav",
+						"dm_warzone_a04l.bsp",
+						"dm_warzone_a04l.nav"
+					],
+					"materials": {
+						"overviews": [
+							"dm_warzone_a01.vmt",
+							"dm_warzone_a01.vtf",
+							"dm_warzone_a02.vmt",
+							"dm_warzone_a02.vtf",
+							"dm_warzone_a03.vmt",
+							"dm_warzone_a03.vtf",
+							"dm_warzone_a04l.vmt",
+							"dm_warzone_a04l.vtf"
+						]
+					},
+					"resource": {
+						"overviews": [
+							"dm_warzone_a01.txt",
+							"dm_warzone_a02.txt",
+							"dm_warzone_a03.txt",
+							"dm_warzone_a04l.txt"
+						]
+					}
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 381931,
+			"_nDownloadCount": 75,
+			"_nFilesize": 39808067,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "map pack for dm_warzone_a",
+			"_sDownloadUrl": "https://gamebanana.com/dl/381931",
+			"_sFile": "dm_warzone_a_pack_.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1525791452
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 117699,
+	"_sName": "dm_warzone_a04l",
+	"_sText": "Warzone zone 'A' at the last area '04'.<br><br>Include:<br>&gt; Map<br>&gt; Nav (Bots)<br>&gt; Radar (with Location)<br><br>Additional files:<br>&gt; Map pack for (dm_warzone_a)<br><br>Player capacity max 40 (20 v 20).<br><br>MPBagas<br><br>(This is the first time I uploaded two files in one submission, I don't know how it worked out so..I'm just gonna let it work out for a bit).<br><br>The map also works for those who still playing in Counter-Strike Source v34.<br>(If not, well...)"
+}

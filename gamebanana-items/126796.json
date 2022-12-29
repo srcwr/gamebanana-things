@@ -1,0 +1,57 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "README.txt",
+					"cstrike": {
+						"maps": [
+							"Deathrun_A01_RadicalCity.bsp",
+							"Deathrun_A01_RadicalCity.res"
+						],
+						"materials": {
+							"dr_a01_radicalcity": [
+								"RCLOGO1.vmt",
+								"RCLOGO1.vtf",
+								"RCLOGO2.vmt",
+								"RCLOGO2.vtf",
+								"RCLOGO3.vmt",
+								"RCLOGO3.vtf",
+								"RCLOGO4.vmt",
+								"RCLOGO4.vtf",
+								"rcmpinfo.vmt",
+								"rcmpinfo.vtf",
+								"rcrickroll.vmt",
+								"rcrickroll.vtf",
+								"rcsysinfo.vmt",
+								"rcsysinfo.vtf"
+							]
+						},
+						"sound": {
+							"dr_a01_radicalcity": [
+								"rcrickroll.wav"
+							]
+						}
+					}
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 292406,
+			"_nDownloadCount": 3974,
+			"_nFilesize": 7293010,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/292406",
+			"_sFile": "dr_a01_rc.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1378805388
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 126796,
+	"_sName": "Deathrun_A01_RadicalCity",
+	"_sText": "You are member of the survival “DeathRun” game, and you with other players send out in the specially building “Radical City”. where prepared you some deaths traps, which you should be pass for win (CT), or conversely, activate traps for an other team (T)\r\n\r\nTrap’s number – 14\r\nAll ending’s in the map – 4\r\nSpecially grenades – 4\r\nCT SPAWN – 33\r\nT SPAWN – 2\r\n\r\nDeathrun A01 Radicalcity Walkthrough:\r\n[http://youtu.be/QQDuhG_SM0U](http://youtu.be/QQDuhG_SM0U \"\")\r\n\r\nEnjoy the game.\r\n\r\nInstruction for installing a map:\r\n\r\nCstrike folder from the archive put in the root of the game Counter Strike Source, which is located on the directory steam/steamapps/common/counter strike source. Agree, if you are asked to replace the files.\r\n\r\n_\"On some operating systems to replace the entire access entirely to the new, and not just individual files that were in the new directory. It's rare, but if you have such a replacement directory, manually add the folder cstrike all files by category maps, materials and sound.\"_\r\n\r\nTips for normally map’s working:\r\n\r\n* For other players don’t get error “Missing BSP” increase the number of team net_maxfilesize. Required size does not least 22.\r\n* It is advisable to put on your server plugin NoBlock, which does not allow players to block each other's collision. Competing players can disrupt not only the gameplay on the map, as well as the players can get stuck if they were unsuccessful teleported into each other."
+}

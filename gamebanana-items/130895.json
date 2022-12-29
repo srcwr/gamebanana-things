@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"Read Me.txt",
+					"ze_NotreDame_v1.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 290544,
+			"_nDownloadCount": 1127,
+			"_nFilesize": 26257087,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/290544",
+			"_sFile": "ze_notredame_v1.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1388424740
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 130895,
+	"_sName": "ze_NotreDame_v1",
+	"_sText": "Time Splitters Notre Dame V1 - Release Date 30/12/2013\r\n\r\nInstallation Instructions:\r\nPlease place inside your Couter Strike Source Map Folder\r\n\r\nMap Version: Version 1\r\n\r\nIMPORTANT: PLEASE MAKE SURE YOU HAVE NOBLOCK MOD RUNNING\r\n\r\nCredits:\r\n- Based off the Time Splitters 2 - Notre Dame\r\n- CSS Map created by: Mononoke\r\n- Time Splitters 2 Music & Models belongs to respective owners\r\n- Catherdral Textures belong to respective owners\r\n\r\nContact Email: mononokie12@gmail.com\r\n\r\nNotes:\r\n- Please note this is the BETA version so this may contain bugs that can only be found in a live server environment. \r\n- Boss Health +750 per CT in boss room.\r\n- AI Zombies have 650HP each. Headshots only.\r\n- Pickup Items by picking up duel elites\r\n\r\nFixes\r\n- Recreated ending of map (Notre Dame Tower Climb)\r\n- Item cool down is now 1 minute to stop spamming.\r\n- Map Timer changed to 10 minutes\r\n- Added explosion effect to Undead Priest Item\r\n- Fixed func_brush which was not resetting causing the map to block after first round\r\n- Packed Maiden Model Texture\r\n\r\nPrevious Fixes\r\n- Added Extra tunnels to avoid bottle neck in final defence room\r\n- Fixed Crypt Zombie Health\r\n- Increased all AI zombie health to 650\r\n- Added interactive components to Catacomb\r\n- Reduced zombie walk speed for realistic effect\r\n- Added  Character item Viola - 5 Second Speed Boost / 30 Second Cooldown\r\n- Added  Character item Hunchback - Shotgun Push / 30 Second Cooldown\r\n- Added  Character item Undead Priest - Set zombies on fire for 10 seconds / 30 Second Cooldown\r\n- Added higher door blocking damage for Wine Cellar\r\n\r\n\r\nKnown Issues/Future Improvements\r\n- Character models start randomly moving (this is something I cannot control due to parenting the models. Tried recompiling but it did nothing).\r\n- Boss Fight/ Implementation of a new system. Implemtation of new system is more difficult than first thought.\r\n- Tweak Items if required\r\n- Tweak Item Trigger Heights if required\r\n- Balancing and Bug fixing dependant on community feedback.\r\n\r\nMy Other Time Splitters Map:\r\nZombie Escape - Time Splitters Virtual - http://css.gamebanana.com/maps/167314"
+}

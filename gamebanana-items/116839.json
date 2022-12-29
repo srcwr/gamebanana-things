@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"Worms_Explorium.bsp",
+					"Worms_Explorium.vmf"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 321286,
+			"_nDownloadCount": 1268,
+			"_nFilesize": 2260758,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/321286",
+			"_sFile": "worms_explorium.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1279654765
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 116839,
+	"_sName": "Worm's Explorium",
+	"_sText": "---- Introduction ----\r\n\r\nIn \"Worms Explorium\", multiple entities, special effects and movement modifiers are put on interactive display for the counter-strike:source players and map makers.\r\n\r\nWorms Explorium is layed out like a hands-on museum with three separate areas:  Special Effects, Movement Modifiers and Things to Shoot.  The goal of this map is provide a way for CSS map makers to interact wih various unique visual a motor\r\nfunctions on a map and then be able to dissect and relate those functions to their sources in the VMF file.  As such, both the BSP and VMF files are included within the distribution ZIP.\r\n\r\nNote that some of the effects can be disabled or changed by settings within the player's configuration file.  If certain effects, like rain and snow, are not visibile - check to make sure that they are not disabled in the configuration file.  The map uses only standard textures and effects except for the \"Worms Explorium\" decal.\r\n\r\nI tried to make the implementations as basic as possible.  As such, sound is limited to whatever capability a particular entity may offer or, for certain other effects, provided by ambient_generic entities.  I did not implement any sound environments (which is why the rain is silent).\r\n\r\nSome of the effects can be replayed by a push of a button while others, especially in the Things to Shoot area, which get destroyed are one-time shows.\r\n\r\nAlso, there are probably dozens of ways to implement the effects in the Explorium.  I have used configurations and settings which I used in various maps and which seemed to, at least, work.\r\n\r\nI hope this compilation helps mappers with implementations and possibly to strike a spark of inspiration for some new map or map effects.  \r\n\r\nBelow are lists of each individual display in Worms Explorium as well as a list of the Hammer entities used.\r\n\r\n~~~ {cDS} Worm\r\n\r\n\r\n---- Special Effects Section ----\r\nSprite Glow\r\nSkin Change\r\nLaser\r\nFire\r\nBubbles\r\nRotate\r\nRotate Door\r\nSlide Door\r\nDust Motes\r\nTesla\r\nMonitor\r\nPoint Spotlite\r\nReflect Glass\r\nShaderslab\r\nEnable Disable (Textures)\r\n\"Visable Invisable\" (Textures)\r\nHurt\r\nHeal (-Hurt)\r\nExplode\r\nGhost\r\nThe Sun (Off and On)\r\nSteam\r\nRope+Spark\r\nTrack Train\r\nEmergency Light\r\nColor Change \r\nSprite Trail\r\n\r\n---- Movement Modifiers Section ----\r\nGravity (0.3 and 1.0)\r\nConveyor  (aka Sling Ramp)\r\nDoor Platform\r\nRotate Platform\r\nTeleport\r\nPush\r\nArch with Ladder\r\nForcefield Ramp\r\n\r\n---- Things to Shoot Section ----\r\nWeapons Racks (selectable weapons)\r\nDetach Rope \r\nShoot to Open (Door - shoot the handle off)\r\nFish Poool  (Shoot them and watch em float to the top)\r\nBall Socket + Clip  (Make the Lamp spin and rockz...)\r\nBell Sound\r\nBreakable Surface (Glass)\r\nBreakable (Glass)\r\nMulti Color Case (Shoot the block to make it change colors)\r\nBreakable Brick  (Individual brick destruction)\r\nBreakable Fence  (wooden)\r\nSitting Ragdoll\r\nVarious Pots, vases, and Jugs\r\nTarget Player Body (with lightup hit indicators)\r\nFloating Targets  (2 targets to hit and explode)\r\n\r\n\r\n---- Map Entities ----\r\nambient_generic\r\nenv_bubbles\r\nenv_cubemap\r\nenv_explosion\r\nenv_fire\r\nenv_laser\r\nenv_smokestack\r\nenv_spark\r\nenv_sprite\r\nenv_spritetrail\r\nenv_steam\r\nenv_sUN\r\nfunc_breakable\r\nfunc_breakable_surf\r\nfunc_brush\r\nfunc_button\r\nfunc_clip_vphysics\r\nfunc_conveyor\r\nfunc_detail\r\nfunc_door\r\nfunc_door_rotating\r\nfunc_dustmotes\r\nfunc_fish_pool\r\nfunc_ladder\r\nfunc_physbox\r\nfunc_precipitation\r\nfunc_reflective_glass\r\nfunc_rot_button\r\nfunc_rotating\r\nfunc_tracktrain\r\ninfo_player_counterterrorist\r\ninfo_player_terrorist\r\ninfo_target\r\ninfo_teleport_destination\r\ninfo_decal\r\nkeyframe_rope\r\nlight\r\nlight_environment\r\nlogic_case\r\nmath_counter\r\nmove_rope\r\npath_track\r\nphys_ballsocket\r\npoint_spotlight\r\npoint_tesla\r\nprop_dynamic\r\nprop_dynamic_override\r\nprop_physics_override\r\nprop_ragdoll\r\nprop_static\r\ntrigger_gravity\r\ntrigger_hurt\r\ntrigger_multiple\r\ntrigger_push\r\ntrigger_teleport\r\nweapon_ak47\r\nweapon_awp\r\nweapon_deagle\r\nweapon_m3\r\nweapons_p90\r\n"
+}

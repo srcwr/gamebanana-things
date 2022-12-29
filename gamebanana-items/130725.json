@@ -1,0 +1,56 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ze_eternal_journey_css_v1_4t8.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 475757,
+			"_nDownloadCount": 95,
+			"_nFilesize": 104537544,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/475757",
+			"_sFile": "ze_eternal_journey_css_v1_4t8.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1595353002
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Removed cubes at 3rd level"
+				},
+				{
+					"cat": "-",
+					"text": "Some fixes"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "v1_3 -> v1_4t8",
+			"_tsDateAdded": 1595353062
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Small fixes."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "v1_1 -> v1_3",
+			"_tsDateAdded": 1565288864
+		}
+	],
+	"_idRow": 130725,
+	"_sName": "ze_eternal_journey_css_v1_4t8",
+	"_sText": "Hello everybody.<br>I made another ZE map.<br><pre><code>The map has:\r\n• 64 spawns\r\n• 5 levels + ZM round(6 level)\r\n• 6 items for humans\r\nItem 1: Heal staff\r\nItem 2: Tornado staff\r\nItem 3: Freeze staff\r\nItem 4: Earth staff\r\nItem 5: Fire staff\r\nItem 6: Ultimate staff(2, 3, 4, 5, 6 level)\r\n\r\n• 5 items for zombies\r\nItem 1: Cromcruach(4, 5 level)<br>Item 2: Glasgavelen(3, 4, 5 level)\r\nItem 3: Fire\r\nItem 4: Gravity<br>Item 5: Freeze\r\n\r\n• 3 bosses</code></pre><br>18/04/2019: Fixed damage from towers.<br>19/04/2019: Fixed boss health on fifth level.<br>Small fixes.<br>21/04/2019: Beta version.<br>25/04/2019: Some fixes.<br>29/04/2019: Small improvements.<br>9/05/2019: Stable version.<br>11/05/2019: Fixed trigget_hurt on the fifth level. I hope this is the last bug.<br>8/8/2019: Small fixes.<br><hr><span class=\"RedColor\"><b>10/9/2019: New version: </b></span><b><span class=\"GreenColor\">ze_eternal_journey_v1_3hdr.zip<span class=\"RedColor SelectedElement\"> - Compiled with HDR</span></span></b>"
+}

@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"aim_cruise_v2.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 350713,
+			"_nDownloadCount": 1580,
+			"_nFilesize": 1023002,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/350713",
+			"_sFile": "aim_cruise_v2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1182605501
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 106648,
+	"_sName": "aim_cruise_v2",
+	"_sText": "I doubt anyone actually cares or played the original version of this map, but I released an updated version of my original aim_cruise map, this version includes a number of fixes and changes which include:\r\n\r\n-Smoothed out all displacements (hills/bumpy terrain) to make them easier to walk on and to look more realistic\r\n-Realigned spawn points, spawn killing is not possible now\r\n-Added a light environment, this includes HDR\r\n-Added a few more crates to even the game out\r\n-Added a 3D Skybox to create a more realistic 'ocean' effect\r\n-Removed the custom skybox from the original, and replaced it with a Valve HDR-capable standard sky\r\n-Added a working vending machine (I was bored)\r\n-Removed one of the islands, it created a bias for one team\r\n\r\nThanks to Espilon for the beach hut prefab, and thanks also to Clan Fever for the vending machine prefab. All the custom materials/models are embedded in the BSP map file (I used pakrat).\r\n\r\nThis is a fun aim map, no buy zones, pick up the weapons from around the different islands (and in the beach house) on the map. Have fun and leave a comment, tell me if I need to change anything!\r\n"
+}

@@ -1,0 +1,64 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"maps": [
+						"cs_sp_city.bsp",
+						"cs_sp_city.nav",
+						"cs_sp_city.res"
+					],
+					"materials": {
+						"GeneralDureza": [
+							"GeneralDureza MAPA.vmt",
+							"GeneralDureza MAPA.vtf"
+						],
+						"VGUI": {
+							"logos": [
+								"GeneralDureza MAPA.vmt",
+								"GeneralDureza MAPA.vtf"
+							]
+						},
+						"calçada": [
+							"calçadasp.vmt",
+							"calçadasp.vtf"
+						],
+						"models": {
+							"chopper": [
+								"blackhawk.vmt",
+								"blackhawk.vtf",
+								"blackhawk_ref.vtf"
+							]
+						}
+					},
+					"models": {
+						"chopper": [
+							"blackhawk.dx80.vtx",
+							"blackhawk.dx90.vtx",
+							"blackhawk.mdl",
+							"blackhawk.phy",
+							"blackhawk.sw.vtx",
+							"blackhawk.vvd"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 332410,
+			"_nDownloadCount": 1748,
+			"_nFilesize": 2944470,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/332410",
+			"_sFile": "cs_sp_city.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1240266965
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 100477,
+	"_sName": "cs_sp_city",
+	"_sText": "Hello!!!\r\n\r\nWell, this is my Official First MAP!!! (I said official, because I had another that it was a kind of GunGame when I was fooling around with the Hammer Editor).\r\n\r\nOk, let's go talk about this particular map. I had used it in my clan server, and we found that there is no supremacy for one type of weapon to another, and is a kind of map that a camper doesn't have too much advantage.\r\n\r\nAbout the map:\r\n1- A night environment\r\n2- two spawn CT base\r\n3- two spawn T  base\r\n4- 6 hostages\r\n5- two rescue areas\r\n6- Total number of players: 24 (12x12)\r\n7- Map size: MEDIUM\r\n\r\n"
+}

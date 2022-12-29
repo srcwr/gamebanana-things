@@ -1,0 +1,71 @@
+{
+	"_aAlternateFileSources": [
+		{
+			"url": "https://www.dropbox.com/s/oku8fhqmpno6bdu/ze_ffvii_cosmo_canyon_v2_1.rar?dl=0"
+		}
+	],
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ze_ffvii_cosmo_canyon_v4fix.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 281553,
+			"_nDownloadCount": 3223,
+			"_nFilesize": 80150687,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/281553",
+			"_sFile": "ze_ffvii_cosmo_canyon_v4fix.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1441740661
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Remade RAGE MODE (Shinra base and ending)"
+				},
+				{
+					"cat": "-",
+					"text": "Remade a lot of hold spots"
+				},
+				{
+					"cat": "-",
+					"text": "Remade NORMAL MODE and HARD MODE endings"
+				},
+				{
+					"cat": "-",
+					"text": "Added random events"
+				},
+				{
+					"cat": "-",
+					"text": "Remade ZOMBIE ROUND"
+				},
+				{
+					"cat": "-",
+					"text": "Remade and added some Gi Nattak attacks"
+				},
+				{
+					"cat": "-",
+					"text": "Added 3 zombie items and 2 summon items for humans"
+				},
+				{
+					"cat": "-",
+					"text": "A lot of optimization"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "v4 +v4fix",
+			"_tsDateAdded": 1460889261
+		}
+	],
+	"_idRow": 130731,
+	"_sName": "ze_FFVII_Cosmo_Canyon_v4fix",
+	"_sText": "<h1>Finally i got it to gamebanana ;)</h1>\r\n<h1>So the map is based on the Cosmo Canyon mission in Final Fantasy VII</h1>\r\n<h1>The features</h1>\r\n<h1>4 LEVELS (+ zombie round)</h1>\r\n<h1>9 items that named \"materias\" and 2 summon items for humans</h1><h1>3 zombie items</h1><br>\r\n<h1>Gi Nattak boss battle from original game</h1>\r\nHope you will like the map. Sorry, don't have any ideas for extended description, just play the map yourself ;)<br><br><br><br>\r\n<pre><code>v1_1 Update 22/09/2015\r\nThe map contest has begun!\r\nThe features:\r\n1)Added 2 zombie materias\r\n2)Bosses fix (Gi Nattak minions)\r\n3) Added more effects, remade end airship\r\n4) Bugfixes, bugfixes, bugfixes...\r\n\r\nv2 Update 21/10/2015\r\nThe contest has ended. Congtats to all who made it on the contest board! New version has tons of features, the main are:\r\n1) Added a lot of new detail.\r\n2) Most of materias are spawing randomly, so its about 5-6 human items per round.\r\n3) Added HP bars for main boses and added more effects on bossfights.\r\n4) Added 1 more ZM item: \"Zombie Poison\".\r\n5) Changed map team balance, added new holding points, some of old holding points got harder to defend.\r\n6) Changed map ending (on \"Rage Mode\").\r\n7) Changed player admin room access way on \"ZM Round\"\r\n8) Remade \"Shinra\" location.\r\n9) Added 1 more mini-boss on \"Hard Mode\" and \"Extreme Mode\" endings.\r\n10) New ending of \"Normal Mode\"\r\n11) New music on \"Rage Mode\"\r\n\r\nv2_1 update:\r\n1) Bug fixes\r\n2) Changed Gi Nattak HP system and added new HP bar texture</code>\r\n</pre><pre><code>v4 and v4fix updates:</code></pre><pre>-Added random events(cuz it would be impossibly hard to beat the map if we keep all of them together)&nbsp;<br>-Changed some particle effects&nbsp;<br>-Nerfed ALL the bosses HP, added more items/nades damage on them.&nbsp;<br>-Added Cactuar and Bomb summons&nbsp;<br>-Added new sidequest&nbsp;<br>-Airship Rage Mode ending is back in this version.&nbsp;<br>-Fixed immortal zombies on Rage Mode&nbsp;<br>-Added more detail&nbsp;</pre><pre>-Remade some hold spots</pre><pre><code>- Fixed chocobo that can be picked up by human&nbsp;<br>- Fixed nova attack that doesn't stop when Gi Nattack dies&nbsp;<br>- Fixed points bug at \"Rage Mode\" end&nbsp;<br>- Fixed map text and chests sidequest&nbsp;<br>- Fixed \"ERROR\" model in the Gi Cave&nbsp;<br><br>- Optimizing: props and fire particles (it will give ~5-10 more fps)&nbsp;<br>- The main feature: no need to upload the config with the map, the map set all the commands that was in the config automatically.&nbsp;<br>- Changed map entwatch config: all the items but zm items are N/A now, due to glitches on Gi Nattak fight.<br></code></pre><br><br>Official STEAM group: <a href=\"http://steamcommunity.com/groups/headshooterandlonlly\" target=\"_blank\">http://steamcommunity.com/groups/headshooterandlonlly</a>\r\nAlso, recommened to install the config to your server, that is packed in the archive<br><br>"
+}

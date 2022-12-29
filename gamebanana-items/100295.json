@@ -1,0 +1,27 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"cs_oldcity.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 332202,
+			"_nDownloadCount": 4504,
+			"_nFilesize": 7298484,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/332202",
+			"_sFile": "cs_oldcity_4.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1241056555
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 100295,
+	"_sName": "cs_oldcity",
+	"_sText": "Special thanks to Chizbone for reviewing this map and doing the two nav files for it.\r\n\r\nThis map is very loosely based on a place called the Old City near where I live. I spent a lot of time ratting around down there last year, drinking beer and looking at old buildings. I also spent some time playing COD 4 and remembering what I love so much about the original COD 1. I tried to incorporate some of that game layout into this map for death match play. I highly recommend mani admin with the random spawn option for this map in cssdm play. Enjoy.\r\n\r\nThere is a known vertex format error when the map is viewed in spectate or in no clip outside the map boundaries. Basically, the map is too complicated for the engine to render the entire world at once. It seems to have no effect on the server or the player other than spamming the console with the error message."
+}

@@ -1,0 +1,55 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"bhop_spinachsucksatmapping2.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 756613,
+			"_nDownloadCount": 31,
+			"_nFilesize": 520320,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/756613",
+			"_sFile": "bhop_spinachsucksatmapping2.rar",
+			"_sMd5Checksum": "71fb6e87a21c3bd27a376ba50f83f249",
+			"_tsDateAdded": 1646008815
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Improvement",
+					"text": "ACTUALLY fixed missing textures"
+				}
+			],
+			"_sText": "Big room with missing textures should now be fixed.",
+			"_sTitle": "Version 3",
+			"_tsDateAdded": 1646008916
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Triggers"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Fixed missing textures"
+				}
+			],
+			"_sText": "Added triggers, fixed missing textures (hopefully).",
+			"_sTitle": "Version 2",
+			"_tsDateAdded": 1590852535
+		}
+	],
+	"_idRow": 126060,
+	"_sName": "bhop_spinachsucksatmapping2",
+	"_sText": "Put a little more effort into this one.&nbsp;<br><br>Shout out to muta for helping me figure out custom textures B)<br><br>Edit 2/27/2022: Finally fixed the missing texture room&nbsp;"
+}

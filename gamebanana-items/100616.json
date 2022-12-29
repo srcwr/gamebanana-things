@@ -1,0 +1,103 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "readme.txt",
+					"maps": [
+						"cs_withdrawal.bsp",
+						"cs_withdrawal.nav",
+						"cs_withdrawal.res",
+						"cs_withdrawal.txt"
+					],
+					"materials": {
+						"cs_withdrawal": [
+							"aluminum01.vmt",
+							"aluminum01.vtf",
+							"aluminum01.vtf.ztmp",
+							"concretefloor033k_shaderfix.vmt",
+							"concretefloor033o_shaderfix.vmt",
+							"concretefloor033y_shaderfix.vmt",
+							"credz.vmt",
+							"credz.vtf",
+							"credz.vtf.ztmp",
+							"metaltrain001a_nodiffuse.vmt",
+							"metaltrain001b_nodiffuse.vmt",
+							"metaltrain001c_nodiffuse.vmt",
+							"metaltrain001d_nodiffuse.vmt",
+							"metaltrain001e_nodiffuse.vmt",
+							"metaltrain002a_nodiffuse.vmt",
+							"metaltrain002b_nodiffuse.vmt",
+							"metaltrain002d_nodiffuse.vmt",
+							"metaltrain002e_nodiffuse.vmt",
+							"metaltrainglass001a_nodiffuse.vmt",
+							"metaltrainglass001b_nodiffuse.vmt",
+							"metaltrainglass002a_nodiffuse.vmt",
+							"metaltrainglass002b_nodiffuse.vmt",
+							"whiteboard.vmt",
+							"whiteboard.vtf",
+							"whiteboard.vtf.ztmp"
+						],
+						"models": {
+							"cs_withdrawal": [
+								"moneystack_20.vmt",
+								"moneystack_20.vtf",
+								"moneystack_50.vmt",
+								"moneystack_50.vtf",
+								"ropestand.vmt",
+								"ropestand.vtf",
+								"vaultdoor.vmt"
+							]
+						}
+					},
+					"models": {
+						"props": {
+							"cs_withdrawal": [
+								"moneystack_20.dx80.vtx",
+								"moneystack_20.dx90.vtx",
+								"moneystack_20.mdl",
+								"moneystack_20.phy",
+								"moneystack_20.sw.vtx",
+								"moneystack_20.vvd",
+								"moneystack_50.dx80.vtx",
+								"moneystack_50.dx90.vtx",
+								"moneystack_50.mdl",
+								"moneystack_50.phy",
+								"moneystack_50.sw.vtx",
+								"moneystack_50.vvd",
+								"ropestand.dx80.vtx",
+								"ropestand.dx90.vtx",
+								"ropestand.mdl",
+								"ropestand.phy",
+								"ropestand.sw.vtx",
+								"ropestand.vvd",
+								"vaultdoor.dx80.vtx",
+								"vaultdoor.dx90.vtx",
+								"vaultdoor.mdl",
+								"vaultdoor.phy",
+								"vaultdoor.sw.vtx",
+								"vaultdoor.vvd"
+							]
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 360138,
+			"_nDownloadCount": 4239,
+			"_nFilesize": 4818858,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/360138",
+			"_sFile": "cssmap_2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1129297080
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 100616,
+	"_sName": "cs_withdrawal",
+	"_sText": "This map is a little unorthodox for a CS map, since the hostages have been executed already. It is almost like an \"escape\" map from back in the day. The terrorists have just robbed a bank's vault, and must make their way up through either the subway or the main building to get out. This map could be considered a \"Team deathmatch\" as the only way I could find to win was to eliminate the opposing team. As for the layout, the counter-terrorists start on ground level in a park. The terrorists start in the vault of the bank. From the vault they can either escape through the bank or navigate through the sewer/railway system. Both escapes are tight and a good CT team can contain the terrorists from escaping. In the bank portion of the map, you will find the 4 hostages, except they are dead as I mention before. The bank has a cashier dest and a wall behind it that make great cover. There are cubicles on each side of the walls. Windows give any CT sniper a good view into the bank. The map came with no nav file, and my computer took 9 minutes to make one (which is a really long amount of time) so I provided it in the zip.\r\n\r\n<p style=\"color: yellow; font-size: xx-Small\">Review by Milkman.</p>"
+}

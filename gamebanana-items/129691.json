@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ba_minecraft_v2.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 305899,
+			"_nDownloadCount": 3234,
+			"_nFilesize": 2404279,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/305899",
+			"_sFile": "ba_minecraft_v2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1326496967
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 129691,
+	"_sName": "ba_minecraft_v2",
+	"_sText": "Might be 32 spawns? Might be 40? Might be like 60? No idea.\r\n\r\nMinecraft jailbreak map that I made. Few secret teleports (none that you can't find without spectating, though). Fences and ladders are to scale (1 pixel=1 unit). Textures taken from Minecraft, then scaled down in paint and turned into .vtf files by me, though I'm pretty sure others have done it before.\r\n\r\nThe game with the red-and-white squares is called Spleef. Terrorists are supposed to try and knife out the squares under other Terrorists, making them fall. The button resets 10-ish squares at a time to avoid lagging the server.\r\n\r\nPretty sure the awp is not reachable. It was when I tested the map, but I was on sv_accelerate 10, because it was right after the update changed the default to 5, and I thought it was default :P."
+}

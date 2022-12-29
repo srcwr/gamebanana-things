@@ -1,0 +1,45 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"custom": {
+						"austriaparticles": {
+							"particles": [
+								"ambient_fx.pcf",
+								"ar_monastery.pcf",
+								"de_aztec.pcf",
+								"particles_manifest.txt",
+								"rain_fx.pcf"
+							],
+							"sound": [
+								"sound.cache"
+							]
+						}
+					},
+					"maps": [
+						"de_csgoaustria.bsp",
+						"de_csgoaustria.nav"
+					]
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 403767,
+			"_nDownloadCount": 4879,
+			"_nFilesize": 188057174,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/403767",
+			"_sFile": "de_csgoaustria.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1544108745
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 100758,
+	"_sName": "Austria (CSGO)",
+	"_sText": "Port from Counter-Strike: Global Offensive to Counter-Strike: Source, of Radix's famous map, de_austria. This port was made with Radix's indirect permission, provided by <a href=\"https://gamebanana.com/members/1511652\">Nikosemen</a>, who also provided the original VMF which I used to port and improve the map.<br><br>In-game map name: <b>de_csgoaustria</b><br><br>Features:<br>- HDR and LDR compatible.<br>- Working radar<br>- Working soundscapes<br>- Working bot navigation (original CSGO file)<br>- Working custom particles (chimney smoke, etc)<br>- Working cubemaps<br>- Improved shadows<br><br>As it is, this port is <i>identical</i>&nbsp;to how it is in CSGO. No glitches or anything as far as I know, and no compromises. A perfect port.<br><br>Special thanks to Gondallez for writing a particle converter."
+}

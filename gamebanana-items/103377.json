@@ -1,0 +1,27 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_OldAlley.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 322753,
+			"_nDownloadCount": 3008,
+			"_nFilesize": 10151704,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/322753",
+			"_sFile": "de_oldalley_19_5_10.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1273656042
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 103377,
+	"_sName": "de_Oldalley_v2",
+	"_sText": "A majorly updated version of the old map\r\n*changed the layout slightly to reduce long narrow paths\r\n*revamped the lighting\r\n*added ambient sounds\r\n*lots of extra detail work\r\n*Ive added a colour correction entity but havent set it up yet\r\n\r\n<object width=\"425\" height=\"344\"><param name=\"movie\" value=\"http://www.youtube.com/v/I7f6VlzPEh0&hl=en&fs=1\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://www.youtube.com/v/I7f6VlzPEh0&hl=en&fs=1\" type=\"application/x-shockwave-flash\" allowscriptaccess=\"always\" allowfullscreen=\"true\" width=\"425\" height=\"344\"></embed></object>\r\n\r\n-64 spawns\r\n-nav mesh with place names\r\n-overview\r\n-HDR lighting\r\n-ambient sounds\r\n\r\n--UPDATE-- 19_5_10\r\nclipped the balcony so you cant jump onto it anymore\r\ntextured a couple of nodraw areas\r\nsealed off that alleyway section (cant get stuck there now)\r\nadded a couple boxes to site B\r\nplaced a light in the middle alleyways building to remove a darkspot\r\n"
+}

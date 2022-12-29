@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ze_TESV_Skyrim_v4fix.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 293356,
+			"_nDownloadCount": 12356,
+			"_nFilesize": 133686042,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/293356",
+			"_sFile": "ze_tesv_skyrim_v4fix.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1374384280
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 131046,
+	"_sName": "ze_TESV_Skyrim_v4fix",
+	"_sText": "ZE TESV SKYRIM\r\n==============\r\n\r\nMap Features:\r\n-------------\r\n- 5 Stages\r\n- 5 Human items and other various items\r\n- 4 Zombie items\r\n- 4 bosses\r\n- Level system (win a stage as a human and you will gain 1 level)\r\n- Random weather with colorcorrection\r\n- Custom particles\r\n\r\n\r\nHuman items:\r\n------------\r\n- Level 1 \"Mage\": Left click fires a ball of fire that damages zombies(8 sec cooldown). Right click heals nearby humans (small range, 40 sec cooldown)\r\n- Level 1 \"Nightingale\": Slight speed increase, Right click fires an arrow that does 1.5k damage (5 sec cooldown).\r\n- Level 2 \"Dovahkiin\": Left click is his melee attack (Damages and pushes zombies). Right click is his \"Fus Ro Dah\" shout (Pushes zombies very far, 80 sec cooldown).\r\n- Level 3 \"Archmage\": Left click shoots a ball of electricity (Pushes and damages zombies, 9 sec cooldown). Right click works like a flamethrower (Damages,puts zombies on fire and slows them down for 6 seconds, 60 sec cooldown)\r\n- Level 4 \"Daedric\": Left click is melee attack (Pushes and damages zombies). Right click for his \"Nuke\" (Deals 20k damage in a fairly big radius to zombies, 60 sec cooldown and only 2 uses)\r\n\r\nAll the Human items **SECONDARY ATTACK** deals damage to the final boss, it is up to you if you want to use them.\r\n\r\nZombie items:\r\n------------- \r\n- Level 1 \"Werewolf\": Left click for melee attack(Deals damage to humans,2 sec cooldown). Right click \"Roars\" (Frightens nearby humans aka slows them down, 25 sec cooldown).\r\n- Level 2 \"Troll\": Left click for melee attack(Deals damage to humans,2 sec cooldown). Right click \"Roars\" (Heals all nearby zombies to 10k hp and also heals himself for 1.5k hp,35 sec cooldown).\r\n- Level 3 \"Giant\":  Left click for melee attack(Deals a huge amount of damage to humans,5 sec cooldown). Right click for the \"Stomp\" (Slows down nearby humans,15 sec cooldown).\r\n- Level 4 \"Dragonpriest\": This item has no knockback and has 25k hp, so he can avoid the \"Daedric Nuke attack\". Right click freezes and kills all humans within a small radius. This item tho is slower then regular zombies.\r\n\r\n**All zombie items except dragonpriest should be shot in the head region, if you shoot lower they won't receive any knockback.**\r\n\r\nV4 Changelog:\r\n=============\r\n\r\n- New skybox and lighting\r\n- 4 random weathers with color correction\r\n- Better optimized hopefully\r\n- Fixed the famous dragon glitch\r\n- Fixed some other various glitches.\r\n- Some new particles\r\n- Stage 1 keep and dungeon were remade\r\n- Stage 1 boss is different\r\n- Freeze staff on stage 1 has 2 uses again (since stage 1 should be slightly easier and 3 uses would make it too human sided imo)\r\n- Stage 2 has a new way for zombies(not much changed on this stage)\r\n- Stage 3 was remade completely.\r\n- Stage 4 beginning is different(teleports humans randomly to one of the 2 paths)\r\n- Stage 4 boss is tweaked a little bit, along with the boss area\r\n- The elder scroll item no longer slows downs zombies when u use it, it just damages the stage 5 boss now.\r\n- Zombie items should be less glitchy now, I tried to fix the knockback issue and the \"spinning\" but I make no promises(I tried my best..)\r\n- The level 2 human item or so called \"dohvakiin\" now has 3 \"forms\".\r\n\t- If you are lvl 2 and pick the item he will have a flaming sword and his special attack is a fire shout which deals quite a bit damage and sets them on fire for 5 seconds(60 second cooldown).\r\n\t- If you are lvl 3 and pick the item he will have an icey sword and his special attack is an icey looking shout which slows down zombies(70 second cooldown).\r\n\t- If you are lvl 4 and pick the item he will have a electricity looking sword and his special attack is the old fus ro dah shout(80 second cooldown)."
+}

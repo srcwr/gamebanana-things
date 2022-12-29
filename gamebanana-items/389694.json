@@ -1,0 +1,49 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ze_sagreen_v1fix.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 833172,
+			"_nDownloadCount": 82,
+			"_nFilesize": 27495660,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/833172",
+			"_sFile": "ze_sagreen_v1fix_df7e7.zip",
+			"_sMd5Checksum": "73527f850055bf90d5cf2c1ebd837e04",
+			"_tsDateAdded": 1658178786
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "Fixed teleports"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed buggy helicopter"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Decrease mother zombie ratio (zr_infect_mzombie_ratio 3 > 5)"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "v1fix",
+			"_sVersion": "fixed",
+			"_tsDateAdded": 1658174689
+		}
+	],
+	"_idRow": 389694,
+	"_sName": "ze_sagreen",
+	"_sText": "<b class=\"SelectedElement\">Just a hard-defend map that was made in a few days (Except for the days when I didn't make a map)</b>"
+}

@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"surf_ctf_velocity_v2.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 341906,
+			"_nDownloadCount": 2073,
+			"_nFilesize": 7566179,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/341906",
+			"_sFile": "surf_ctf_velocity_v2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1210991117
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 121882,
+	"_sName": "surf_ctf_velocity",
+	"_sText": "Surf_ctf_velocity\r\n\r\nby ZaLoS\r\n\r\nskybox by KARATEKAEFER\r\ncustom textures by ZaLoS, IceCreamLock\r\nPrefabs by Uberkirsche\r\n\r\n**v2 changes**\r\ntook out mortars, if spammed they could crash a server. Replaced them with more traditional jail kills. Blue side sets everyone's health in jail to 1 hp. Red side ignites everyone in jail for a slow burn :D\r\n******************\r\n\r\n**v1changes**\r\nchanged the way scoring is done to alleviate crashes\r\nfixed a bug that made it so cts could not score after capping a flag\r\n******************\r\n\r\n\r\nCTF!!! (capture the flag, nub)\r\n\r\nAbove each teams spawn is their flag and a Drop zone. Each team can attempt to capture the opposing teams flag and bring it to their drop zone where they drop the flag to earn a point. \r\n\r\nYou can only earn a point if your flag is at your base. \r\n\r\nAmount of points needed to win every round changes, the number of points need can be seen inbetween the scoreboard. \r\n\r\nA team that wins by capturing the flags receives points for each member on the opposite team that is alive. \r\n\r\n1 point games = 10 points\r\n2 point games = 20 points\r\n3 point games = 40 points\r\n\r\n\r\nthanks:\r\nSpecial thanks to intox. Jason for hosting the beta! Additional thanks to the intox crew for coming out for the testing. Testers include intox. Tom, intox. Zman, Black Sheep, [Blarg] !nfamous, [Blarg] .waffleburger. FireTaco, WaRxHeAd. Thanks to everyone else that tested as well!\r\n\r\n\r\nNote: This map is not intended for DM server, However, I will be releasing a DM version! No block is recommended for this map. This map has no affiliation with any clans or servers that may have the word velocity in their name. \r\n\r\n\r\nWarning: spamming e-leftclick in rapid succession on the mortar has been found to cause game crashes. Im working on a fix right now but if one cannot be found I will be removing the mortar entirely. (Removed in v2)\r\n\r\nVideo preview:\r\n\r\n<object width=\"425\" height=\"355\"><param name=\"movie\" value=\"http://www.youtube.com/v/uZ8yAb0tzAI&hl=en\"></param><param name=\"wmode\" value=\"transparent\"></param><embed src=\"http://www.youtube.com/v/uZ8yAb0tzAI&hl=en\" type=\"application/x-shockwave-flash\" wmode=\"transparent\" width=\"425\" height=\"355\"></embed></object>\r\n\r\n\r\n"
+}

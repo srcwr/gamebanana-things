@@ -1,0 +1,74 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"jb_sunshine.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 679871,
+			"_nDownloadCount": 112,
+			"_nFilesize": 60243884,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/679871",
+			"_sFile": "jb_sunshine.zip",
+			"_sMd5Checksum": "de07c66ed9fec5e82ee5da1146dbe312",
+			"_tsDateAdded": 1635006943
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"jb_sunshine2.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 691108,
+			"_nDownloadCount": 88,
+			"_nFilesize": 62828910,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/691108",
+			"_sFile": "jb_sunshine2.zip",
+			"_sMd5Checksum": "72a320e1f7d19c2daeef1c2b36792c5d",
+			"_tsDateAdded": 1636664463
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "Non-HDR Fix"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Packed Sprites"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "sunshine2",
+			"_tsDateAdded": 1636665163
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Overhaul",
+					"text": "Fixed bugs, made map better overall"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "sunshine",
+			"_tsDateAdded": 1635010292
+		}
+	],
+	"_idRow": 129945,
+	"_sName": "jb_sunshine",
+	"_sText": "jb_sunshine<br><br>Jailbreak map for all Counter-Strike: Source Jailbreak servers.<br><br>jb_sunshine2 adds fixes for HDR and packs in those missing sprite textures.<br>"
+}

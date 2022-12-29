@@ -1,0 +1,60 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"achievement_orange_a2.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 610704,
+			"_nDownloadCount": 36,
+			"_nFilesize": 90027,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/610704",
+			"_sFile": "achievement_orange_a2.zip",
+			"_sMd5Checksum": "f1a6f2a38b161a07fffb28b022102922",
+			"_tsDateAdded": 1625881435
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Added Hostage Room on the side."
+				},
+				{
+					"cat": "Addition",
+					"text": "Added Weapon Rack for T-only weapons."
+				},
+				{
+					"cat": "Improvement",
+					"text": "T's no longer die when they get close to you."
+				},
+				{
+					"cat": "Addition",
+					"text": "Added Herobrine room."
+				},
+				{
+					"cat": "Addition",
+					"text": "Added stairs at the main room."
+				},
+				{
+					"cat": "Removal",
+					"text": "Removed cfg file."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Alpha 2",
+			"_tsDateAdded": 1625881769
+		}
+	],
+	"_idRow": 302842,
+	"_sName": "achievement_orange_a2",
+	"_sText": "Just a very simple map made for getting the Weapon achievements."
+}

@@ -1,0 +1,36 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"CStrike": {
+						"Maps": {
+							"0": "knife_cosecant.bsp",
+							"1": "knife_cosecant.nav",
+							"soundcache": [
+								"knife_cosecant.cache"
+							]
+						}
+					}
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 358833,
+			"_nDownloadCount": 1383,
+			"_nFilesize": 13116438,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/358833",
+			"_sFile": "knife_cosecant.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1140269484
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 110570,
+	"_sName": "knife_cosecant",
+	"_sText": "this is the knife form of my new map*(s) called knife_cosecant (pre-calculious students, be very afraid) the aim of this was a really good looking knife map, that would support allot of players and be allot of fun. this map will auto-set the gravity to 375 and sv_airaccelerate to 999 without any help from an admin. thes are the optimal values for the map as it will allow you to get around effectivly.\r\nside notes:\r\nit features HDR and LDR, with proper cubemaps for both, so all you fans of hdr are in for a treat.\r\n\r\nspecial thanks:\r\nsixtoes, for re-sparking my intrest in mapping and beta testing\r\nsloth, for beta testing\r\nankaril for helping with batch compiler, even though i couldnt use it for this.\r\nand last but not least, VALVe, for providing such a nice new hammer interface, and of corse all their content."
+}

@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"mg_HnS_Office_Assault_v2.bsp.bz2"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 382585,
+			"_nDownloadCount": 896,
+			"_nFilesize": 21573822,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/382585",
+			"_sFile": "mg_hns_office_assault_v2bspbz2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1526326790
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 128104,
+	"_sName": "mg_HnS_Office_Assault_v2",
+	"_sText": "New in this version compared to mg_Hide_n_Seek_Office;<br><ul><li>Switched from using targetnames and trigger_hurts when shooting as a seeker to a point_hurt, it's now impossible to take damage unless you actually shoot.</li><li>Fixed some props that wouldn't recieve the correct lighting.</li><li>Seekers now get glocks rather than a knife/shotguns to prevent people from auto-shooting without taking any damage (use burst fire for best effect, won't die by right clicking anymore).</li><li>The outside lighting is a bit off on the office part compared to the real cs_office, this is because you can only use one light_environment per map, so I went with the one from assault.</li></ul>This will probably be the last version of the map, unless I find better ways to do things. Enjoy!"
+}

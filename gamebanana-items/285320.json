@@ -1,0 +1,75 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ze_visualizer_css2.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 768372,
+			"_nDownloadCount": 117,
+			"_nFilesize": 65068437,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/768372",
+			"_sFile": "ze_visualizer_css2.zip",
+			"_sMd5Checksum": "3d819a07690da9ea9cf39c41f7ff8fbd",
+			"_tsDateAdded": 1647785222
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "fix crash on boss stage 6"
+				},
+				{
+					"cat": "-",
+					"text": "adjust boss hp"
+				}
+			],
+			"_sText": "&gt; <a href=\"https://pastebin.com/bn9GTadn\">Stripper</a> &lt;",
+			"_sTitle": "stripper update that fix crash",
+			"_tsDateAdded": 1648226188
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Added the same ending for stage 6 like csgo"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "adjusted lightning"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "adjusted sphere hp on stage 5"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "delay zm tp after start elevator on stage 2"
+				},
+				{
+					"cat": "Optimization",
+					"text": "smaller file size"
+				},
+				{
+					"cat": "Overhaul",
+					"text": "small changes here and there"
+				}
+			],
+			"_sText": "<a href=\"https://pastebin.com/bUaQ37Up\">Stripper</a>&nbsp;is still needed",
+			"_sTitle": "css2",
+			"_tsDateAdded": 1647785379
+		}
+	],
+	"_idRow": 285320,
+	"_sName": "ze_visualizer (CSS PORT)",
+	"_sText": "CSS port of ze_visualizer<br><br><a href=\"https://gamebanana.com/mods/256887\">Original map</a>"
+}

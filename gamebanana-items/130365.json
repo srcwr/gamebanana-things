@@ -1,0 +1,96 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"maps": [
+						"35hp_alpha.bsp",
+						"35hp_alpha.nav",
+						"35hp_alpha.res",
+						"35hp_alpha.txt"
+					],
+					"materials": {
+						"overviews": [
+							"35hp_alpha.vmt",
+							"35hp_alpha.vtf",
+							"35hp_alpha_radar.vmt"
+						]
+					},
+					"resource": {
+						"overviews": [
+							"35hp_alpha.txt"
+						]
+					}
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 283705,
+			"_nDownloadCount": 1464,
+			"_nFilesize": 672598,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/283705",
+			"_sFile": "35hp_alpha_4.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1426804830
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Remove func_bomb_target"
+				},
+				{
+					"cat": "-",
+					"text": "Optimization with Textures Water"
+				},
+				{
+					"cat": "-",
+					"text": "Add func_fish_pool in water"
+				},
+				{
+					"cat": "-",
+					"text": "AI Players have new ways and strategy"
+				},
+				{
+					"cat": "-",
+					"text": "Remove all old ScreenShots and upload five news"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Version 1.2",
+			"_tsDateAdded": 1427395668
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Optimization map."
+				},
+				{
+					"cat": "-",
+					"text": "Small Bug Fixed"
+				},
+				{
+					"cat": "-",
+					"text": "Improved and More Intelligent AI"
+				},
+				{
+					"cat": "-",
+					"text": "Add Two ScreenShots"
+				}
+			],
+			"_sText": "If you may testing map with AI Players, please let me about working AI Players (Sorry for my English)",
+			"_sTitle": "Version 1.1",
+			"_tsDateAdded": 1426985658
+		}
+	],
+	"_idRow": 130365,
+	"_sName": "35hp_alpha",
+	"_sText": "- For this map I have good NAV file and NAV Place (Radar Places)\r\n- Made Radar.\r\n- Play with AI Players."
+}

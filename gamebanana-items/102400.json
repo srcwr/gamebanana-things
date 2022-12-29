@@ -1,0 +1,42 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"forest": {
+						"0": "CSMap.png",
+						"map": [
+							"de_forest.bsp",
+							"de_forest.log",
+							"de_forest.prt",
+							"de_forest.vmf",
+							"de_forest.vmx"
+						],
+						"resources": {
+							"overviews": [
+								"de_forest.txt",
+								"de_forest_radar.dds"
+							]
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 272175,
+			"_nDownloadCount": 665,
+			"_nFilesize": 2736738,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/272175",
+			"_sFile": "de_forest_35463.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1502586994
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 102400,
+	"_sName": "de_forest",
+	"_sText": "This is a map I made as a work in progress a while back. While certainly not perfect, I couldn't get access to more assets to make forest look more like.. well, a forest. So this'll do. It's got basic lighting and the map layout is balanced.&nbsp;<br><br>- Still need to make minimap, otherwise finished. (EDIT: I think the minimap works now but I haven't tested it)"
+}

@@ -1,0 +1,84 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrike": {
+						"maps": [
+							"de_sewercanals.bsp",
+							"de_sewercanals.nav",
+							"de_sewercanals.res"
+						],
+						"materials": {
+							"concrete": [
+								"concretefloor004a.vmt",
+								"concretefloor004a.vtf"
+							],
+							"cstrike": [
+								"WoodCrateLid.vmt",
+								"WoodCrateLid.vtf"
+							],
+							"models": {
+								"props": {
+									"flag": [
+										"cold_flag.vmt",
+										"cold_flag.vtf"
+									],
+									"halfpipe": [
+										"halfpipe1.vmt",
+										"halfpipe1.vtf",
+										"halfpipe1.vtf.ztmp"
+									]
+								}
+							}
+						},
+						"models": {
+							"props": {
+								"de_sewercanals": [
+									"coldflag.dx80.vtx",
+									"coldflag.dx90.vtx",
+									"coldflag.mdl",
+									"coldflag.sw.vtx",
+									"coldflag.vvd",
+									"halfpipe01.dx80.vtx",
+									"halfpipe01.dx80.vtx.ztmp",
+									"halfpipe01.dx90.vtx",
+									"halfpipe01.dx90.vtx.ztmp",
+									"halfpipe01.mdl",
+									"halfpipe01.mdl.ztmp",
+									"halfpipe01.phy",
+									"halfpipe01.phy.ztmp",
+									"halfpipe01.sw.vtx",
+									"halfpipe01.sw.vtx.ztmp",
+									"halfpipe01.vvd",
+									"halfpipe01.vvd.ztmp"
+								]
+							}
+						},
+						"sound": {
+							"de_sewercanals": [
+								"bigfart.wav"
+							]
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 351078,
+			"_nDownloadCount": 1410,
+			"_nFilesize": 3537547,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/351078",
+			"_sFile": "de_sewercanals.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1181190700
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 103923,
+	"_sName": "de_sewercanals",
+	"_sText": "This map has moving npc's that move across the map. Also a ragdoll murder scene in a house. Bombdefusal map. Also included a .nav for bots and radar hud. But the most important thing is the details. That is super.\r\nHope you like it"
+}

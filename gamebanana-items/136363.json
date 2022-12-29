@@ -1,0 +1,30 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"gg_rotary": [
+						"gg_rotary.bsp"
+					]
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 337938,
+			"_nDownloadCount": 1142,
+			"_nFilesize": 2391993,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/337938",
+			"_sFile": "gg_rotary.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1222984307
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 136363,
+	"_sName": "gg_rotary",
+	"_sText": "<b><font color=red>GG_ROTARY</font></b>\r\n\r\n<i>This is a map I completed a few months back, but I never got around to a public release. Well, here it is! The gameplay is based off of the concept of interlocking circles which rotate in opposite directions at varying speeds. \r\n\r\nA big thanks to <a href=http://www.fpsbanana.com/members/228738>shini</a> for the awesome skybox (<a href=http://www.fpsbanana.com/textures/1023>Spaced Out</a>).</i>\r\n\r\n<u>-=Background Information=-</u>\r\n\r\nA large archaic mechanism in deep space, spinning endlessly for an unknown purpose.\r\n\r\nYet there is a purpose for you: kill the enemies in a fast pace game of GunGame while trying to retain your orientation.\r\n\r\n\r\n<u>:::Includes:::</u>\r\n - Support for up to 32 Players\r\n - Both HDR and non-HDR cubemaps/skybox\r\n - A fully-functioning radar/overview\r\n - Custom textures\r\n\r\nAll bsp-zipped for easy addition to gameservers!!!\r\n\r\n\r\n<i>NOTE: I'm sure I'll get complaints about it being \"too dark\". I'd like to make clear that first, its not the lighting but rather my volumetric fog (set at 0 0 0 for black) which is causing this. Secondly, this is to ensure the Gun-Game style play of fast-paced close-combat, not the aim-style of hiding and picking off people at a distance.</i>"
+}

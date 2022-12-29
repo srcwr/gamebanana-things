@@ -1,0 +1,55 @@
+{
+	"_aAlternateFileSources": [
+		{
+			"description": "Garry's Mod Workshop",
+			"url": "https://steamcommunity.com/sharedfiles/filedetails/?id=528435972"
+		}
+	],
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_shanty_v3.vpk",
+					"read me.txt"
+				],
+				"_sMimeType": "application/x-7z-compressed"
+			},
+			"_bContainsExe": false,
+			"_idRow": 483611,
+			"_nDownloadCount": 538,
+			"_nFilesize": 10938442,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "VPK version",
+			"_sDownloadUrl": "https://gamebanana.com/dl/483611",
+			"_sFile": "de_shanty_v3.7z",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1598927796
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_shanty_v3.bsp",
+					"read me.txt"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 304670,
+			"_nDownloadCount": 17943,
+			"_nFilesize": 13159243,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "Legacy Version",
+			"_sDownloadUrl": "https://gamebanana.com/dl/304670",
+			"_sFile": "de_shanty_v3_byfuzyhead.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1330715482
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 103938,
+	"_sName": "de_Shanty",
+	"_sText": "Unpack the archive and place the <code>.VPK</code> files into your <code class=\"SelectedElement\">cstrike/custom</code> folder."
+}

@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ze_LOTR_Minas_Tirith_v3_3.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 311283,
+			"_nDownloadCount": 20552,
+			"_nFilesize": 99909026,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/311283",
+			"_sFile": "ze_lotr_minas_tirith_v3_3_2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1309365504
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 130851,
+	"_sName": "ze_LOTR_Minas_Tirith_v3_3",
+	"_sText": "Changes of v3\\_3<br>\r\nMany changes to improve gameplay, bug fix and exploits.<br>\r\nImportant fix: bouncy physics glitch doesn't seem to be fixed but it may happens with less frequency..<br>\r\nThe map has been improved considerably.<br>\r\nFor more info, go to http://rafuron.wordpress.com.\r\n\r\nThis is the last map of the ZE LOTR map serie. \r\n\r\nChanges of v2_2 and v2\\_1<br>\r\n- Spawn gates open 5 seconds later<br>\r\n- Added zombie config commands<br>\r\n- Respawn of 2s at extreme and 25s at normal<br>\r\n- Horses at stage 1 are unblockable<br>\r\n- Stage 2 orange door opens 3 seconds later<br>\r\n- Catapult rock of stage 3 is unblockable (the one that breaks the door)<br>\r\n- Lift goes faster at stage 4<br>\r\n- Balrog can't jump a lot.<br>\r\n- Torches push trigger are only enabled at pick up.<br>\r\n- The stage and difficulty system works even if the physics crash.<br>\r\n- Warm up round is not 60 seconds instead 120.<br>\r\n- White Knight don't freeze another human<br>\r\n- Spawn portals are only for zombies now<br>\r\n- The item horse can't screw the round at stage 1 nazgul part.<br>\r\n- Modified the last defense spot of stage 4, now there is another way for CT to get in)<br>\r\n- Deleted the ladder item<br>\r\n- CT can't win stage 4 if they are dead (zombified at last second)<br>\r\n- Oil item now has a trigger\\_hurt that ignites repeatedly and hurts.<br>\r\n- Stage 3 first part doors break automatically<br>\r\n- Hidders of stage 4 bottom part (before stairs) will be killed 30 seconds earlier.<br>\r\n- Stage 4 ghost army arrival 15 seconds earlier.<br>\r\n- Up to 3 trolls at same round. If a troll dies, you can pick up another.<br>\r\n- More push for torches<br>\r\n- Stage 1 ending bugged why nazguls that passes the gates fixed.<br>\r\n- Meteor falls 0.5 later.<br>\r\n- Flying balrog at stage 4 fixed.<br>\r\n- Soldiers hp goes from 45 yo 55 hp. If you are zombie and you touch it, you will damage it 1 of HP. Hordes of zombies touching them at same time will insta kill the soldiers.<br>\r\n- Balrog is not 5% faster<br>\r\n- Troll HP from 12k to 8k (body) and 7.5k to 4k (face)<br>\r\n- White Knight damages half (there was a bug at v2 where he double damages)<br>\r\n- Closer teleport for zombies at last part of stage 4.<br>\r\n- If you are lvl 0 at extreme, you will level up to 1 automatically.<br>\r\n- Flame of oil will not light if you are out of the black room.<br>\r\n- Meteor falls from 8s to 10s. Damages from 500 to 80 of hp."
+}

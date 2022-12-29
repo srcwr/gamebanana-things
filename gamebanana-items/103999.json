@@ -1,0 +1,76 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_slopes_hdr_fix.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 467013,
+			"_nDownloadCount": 107,
+			"_nFilesize": 966964,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/467013",
+			"_sFile": "de_slopes_hdr_fix.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1591400426
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "fixed hdr lighting making the map dark"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "de_slopes_hdr_fix",
+			"_tsDateAdded": 1591400334
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Adjustment",
+					"text": "Made play area smaller"
+				},
+				{
+					"cat": "Addition",
+					"text": "added cover leading to the big ramp"
+				},
+				{
+					"cat": "Improvement",
+					"text": "improved skybox"
+				},
+				{
+					"cat": "Improvement",
+					"text": "improved ground texture"
+				},
+				{
+					"cat": "Improvement",
+					"text": "added details"
+				},
+				{
+					"cat": "Tweak",
+					"text": "changed lighting"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed 2 CTs spawining outside the buyzone"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "de_slopes_v3",
+			"_tsDateAdded": 1591380387
+		}
+	],
+	"_idRow": 103999,
+	"_sName": "de_slopes",
+	"_sText": "My first map, features breakable walls, interesting layout and of course, slopes.<br><br>looking for feedback<br>"
+}

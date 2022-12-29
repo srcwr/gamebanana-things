@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"zm_hugecity2.bsp"
+				],
+				"_sMimeType": "application/x-7z-compressed"
+			},
+			"_bContainsExe": false,
+			"_idRow": 306956,
+			"_nDownloadCount": 1345,
+			"_nFilesize": 12113934,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/306956",
+			"_sFile": "zm_hugecity2.7z",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1323010103
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 132034,
+	"_sName": "zm_hugecity2",
+	"_sText": "Maximum number of players 64+\r\nMinimum number of players 45\r\nSettings:\r\n---------\r\n\tzr_infect_spawntime_min \"0\"\r\n\tzr_infect_spawntime_max \"0\"\r\n\tzr_veffects_lightstyle \"1\"\r\n\tzr_veffects_lightstyle_value \"a\"\r\n\tzr_respawn \"1\"\r\n\tmp_roundtime\t\t\t\"9\"\r\n\tmp_timelimit\t\t\t\"70\"\r\n\tzr_infect_mzombie_ratio \"14\"\r\n\r\n\tzr_config_path_playerclasses \"configs/zr/zm_hugecity2.txt\"\r\n**zm_hugecity2.txt**\r\n\t        \r\n        \r\n        \"has_napalm\"            \"no\"\r\n        \"napalm_time\"           \"6.0\"\r\n        // Player behaviour\r\n        \"immunity_mode\"         \"0\"\r\n        \"immunity_amount\"       \"0.0\"\r\n        \"no_fall_damage\"        \"yes\"\r\n        \r\n        \"health\"                \"3000\"\r\n        \"health_regen_interval\" \"0.0\"\r\n        \"health_regen_amount\"   \"0\"\r\n        \"health_infect_gain\"    \"500\"\r\n        \"kill_bonus\"            \"2\"\r\n        \r\n        \"speed\"                 \"295.0\"\r\n        \"knockback\"             \"6\"\r\n        \"jump_height\"           \"1.2\"\r\n        \"jump_distance\"         \"0.95\"\r\n\r\nThe radar is blocked and full of darkness. In order to survive need to hold 9 minutes. Groups of 6 players, each with a knife and a pistol"
+}

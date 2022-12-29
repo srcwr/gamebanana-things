@@ -1,0 +1,70 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"Hanger.vmf",
+					"README.txt",
+					"hanger.bsp",
+					"hanger.log",
+					"hanger.prt"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 276069,
+			"_nDownloadCount": 1050,
+			"_nFilesize": 935328,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/276069",
+			"_sFile": "hanger_v3_132ad.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1477437614
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Fixed buyzone"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Hanger v3",
+			"_tsDateAdded": 1477509604
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Added vents"
+				},
+				{
+					"cat": "-",
+					"text": "Added more props"
+				},
+				{
+					"cat": "-",
+					"text": "Fixed lighting"
+				},
+				{
+					"cat": "-",
+					"text": "Changed textures"
+				},
+				{
+					"cat": "-",
+					"text": "Improved performance"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Hanger v2",
+			"_tsDateAdded": 1477503738
+		}
+	],
+	"_idRow": 117847,
+	"_sName": "Hanger",
+	"_sText": "This is a map based on a map called hanger from rush team (A trash browser fps)<br><br><br><br>"
+}

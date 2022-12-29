@@ -1,0 +1,63 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_TwinTowers.bsp",
+					"de_twintowers.nav"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 487025,
+			"_nDownloadCount": 140,
+			"_nFilesize": 1739519,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/487025",
+			"_sFile": "de_twintowers.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1600575451
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_TwinTowers.bsp",
+					"de_twintowers.nav"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 487131,
+			"_nDownloadCount": 55,
+			"_nFilesize": 1853579,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/487131",
+			"_sFile": "de_twintowers_alpha2_e5889.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1600624711
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Added lights to show teleporters, decal to show bombsites, added railing to stairs. Played around with some displacements."
+				}
+			],
+			"_sText": "Will be working on custom textures to make map feel more creepy, and will be adding/working on sounds. <br>",
+			"_sTitle": "Alpha 2",
+			"_tsDateAdded": 1600615114
+		}
+	],
+	"_idRow": 104461,
+	"_sName": "De_TwinTowers",
+	"_sText": "Two Towers over looking a cemetery inside a hedge maze. Great sniping! <br>"
+}

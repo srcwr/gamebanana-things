@@ -1,0 +1,27 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"cs_office-unlimited.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 330141,
+			"_nDownloadCount": 19357,
+			"_nFilesize": 27434016,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/330141",
+			"_sFile": "office_unlimited.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1248742645
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 100238,
+	"_sName": "cs_office-unlimited",
+	"_sText": "Of course credit given to original map designers and source version mappers.\r\n\r\nMap is basically the same layout as original office when there are 16 or less players spawned.\r\n\r\nWhen the map counts more than 16 players at spawn, the map will open its doors to all of the extended areas.\r\n\r\nFor testing purposes, you can run the map and add enough bots to trigger the extension.\r\n\r\nYou will know when the map is extended or not by a message which is displayed in the players hud at spawn.\r\n\r\nThe reason I made the map this way is because its just too big for a few players to join and get it started, players can join, have fun in the near-normal cs_office layout then once the server players grow, they can have more space to play.\r\n\r\n***Note***\r\nI have put up a newer version with a few minor fixes to some bugs that came to my attention after putting the map up. Re-download after the \"last modified\" time to get the best version. Thanks."
+}

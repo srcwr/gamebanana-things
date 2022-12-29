@@ -1,0 +1,75 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrike": {
+						"maps": [
+							"cs_arabstreets.bsp",
+							"cs_arabstreets.nav"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 282240,
+			"_nDownloadCount": 4209,
+			"_nFilesize": 24519440,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/282240",
+			"_sFile": "cs_arabstreets_3.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1437497039
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "3DSkybox"
+				},
+				{
+					"cat": "-",
+					"text": "New models"
+				}
+			],
+			"_sText": "I tried to make the radar, but I did not work, it just did not work as it should.\r\nThe texture of the radar:\r\n![]( http://6.firepic.org/6/images/2015-08/02/n9nybrgjkayz.png\"\")",
+			"_sTitle": "Release",
+			"_tsDateAdded": 1438535661
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Improved appearance"
+				},
+				{
+					"cat": "-",
+					"text": "Small optimization"
+				},
+				{
+					"cat": "-",
+					"text": "New models"
+				},
+				{
+					"cat": "-",
+					"text": "New textures"
+				},
+				{
+					"cat": "-",
+					"text": "Now you will not be able to run on the roofs of buildings"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Beta 3",
+			"_tsDateAdded": 1437858298
+		}
+	],
+	"_idRow": 99501,
+	"_sName": "Cs_arabstreets",
+	"_sText": "This is my remake of map cs_arabstreets_beta\r\n\r\nThe maximum amount of players - bots: 24\r\nThe number of hostages: 2\r\n\r\nYour criticism and advice are important to me."
+}

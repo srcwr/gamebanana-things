@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"CS_AA_SF_Interdiction_v3.bsp",
+					"cs_aa_sf_interdiction_v3.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 333527,
+			"_nDownloadCount": 2087,
+			"_nFilesize": 4959873,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/333527",
+			"_sFile": "interdiction.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1237048403
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 99468,
+	"_sName": "cs_aa_sf_interdiction",
+	"_sText": "Another of my Favorites from Americas Army.\r\n\r\nMy Second Public release, Based on Interdiction. Lots of little extras as always.\r\n\r\n I know I could have made this map look alot better, But I tried to keep several things in mind:\r\n\r\n Trying to keep it server friendly was my number one concern.\r\n Map size is under 16 MB = server D/L friendly,\r\n uses \"black fog\" to keep down \"draw distance\",(it's a big map) \r\n lot's of displacement models, \r\n \"bot\" and rendering engine friendly stairs. \r\n (every 8 stairs is one face, one object and one brush with no water indices used)\r\n \r\n Speaking of bots, the .NAV file is also custom, the bots truly use the stairs, vents and ladders effectively, and lethaly I might add! (the hostage don't like the ladders, and I don't know why)\r\n\r\nAnother first for me: - Random Hostage Spawn - They are in the locations you would find the \"Informant\" in americas army, thought it was a nice touch.\r\n\r\nOne last note: Yes I know there are bits and pieces missing or that are different from the original map, due to the limits of the source engine.  I have omitted certain areas that I thought had no \"purpose\" in this game, Not to mention the vast size of the outside/wooded portion of Americas Army map is impossible to reproduce with the Source engine. (at least for me it is...lol)\r\n\r\nOther than that...it's been play tested for about a month. No bugs remain, If you have any issues, or find any bugs. please let me know, and as always your comments are greatly appreciated."
+}

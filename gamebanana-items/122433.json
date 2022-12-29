@@ -1,0 +1,69 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "readme.txt",
+					"maps": [
+						"surf_lightfeet_b.bsp"
+					],
+					"materials": {
+						"models": {
+							"MrPropre": {
+								"BoulaySign": [
+									"BoulaySign.vmt",
+									"BoulaySign.vtf"
+								]
+							},
+							"cherokemodels": {
+								"leseni": [
+									"metal02.vmt",
+									"metal02.vtf"
+								]
+							}
+						}
+					},
+					"models": {
+						"MrPropre": {
+							"BoulaySign": [
+								"BoulaySign.dx80.vtx",
+								"BoulaySign.dx90.vtx",
+								"BoulaySign.phy",
+								"BoulaySign.sw.vtx",
+								"boulaysign.mdl",
+								"boulaysign.vvd"
+							]
+						},
+						"cherokemodels": {
+							"leseni": [
+								"socha.dx80.vtx",
+								"socha.dx90.vtx",
+								"socha.mdl",
+								"socha.phy",
+								"socha.sw.vtx",
+								"socha.vvd"
+							]
+						}
+					}
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 351986,
+			"_nDownloadCount": 1553,
+			"_nFilesize": 4321540,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/351986",
+			"_sFile": "surf_lightfeet_b.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1177260667
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 122433,
+	"_sName": "surf_lightfeet_b",
+	"_sText": "This map contains several difficulty levels and a lot of ramps. There isn't any AWP or sniper rifle. "
+}

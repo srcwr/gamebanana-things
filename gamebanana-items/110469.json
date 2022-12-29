@@ -1,0 +1,46 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrike": {
+						"addons": {
+							"eventscripts": {
+								"soccerdm": [
+									"es_soccerdm.txt"
+								]
+							}
+						},
+						"cfg": {
+							"mani_admin_plugin": {
+								"map_config": [
+									"ka_soccer_dm_beta2.cfg"
+								]
+							}
+						},
+						"maps": [
+							"ka_soccer_dm_beta2.bsp"
+						]
+					}
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 341921,
+			"_nDownloadCount": 1445,
+			"_nFilesize": 623892,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/341921",
+			"_sFile": "ka_soccer_dm_08.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1210920017
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 110469,
+	"_sName": "ka_soccer_dm",
+	"_sText": "This was really a private map for a competition our soccer league is doing,\r\nBut I thought I'd post it to get some opinions on the concept, to see whether it's worth making into a public map.\r\n\r\nYou fight to the death inside a small cage, using only a ball.\r\nYou'll probably need to have played one of the other ka_soccer maps to understand how to kill with the ball.\r\n2 random ct players are picked to vs 2 randomly picked terrorist players.\r\nThe rest wait outside the cage (and can knife the cage etc. to put pressure on)\r\n\r\nWhen 1 player inside the cage dies, a trap door opens up beneath him and he falls down into a pit of spikes.\r\nAnother player from his team who isn't dead (waiting outside the cage) is then brought in. (so it's like a tag team).\r\nThis continues until 1 whole team is out.\r\n\r\n\r\nNotes:\r\nThere is much to add to this map, and i know some of the textures are ugly.\r\nIt also hasn't been compiled for lighting so the bottom of the cage has blotches of transparency.\r\nIt looked much better with lighting (see screenshot 3), but once i added the spike pit it took > 24 hours to compile.\r\nThis map must be installed with the scripts, and you need mani + eventscripts + es_tools to install the scripts.\r\n\r\nOriginally you only died once you hit the spikes, but people complained about the death after being hit not being as real.\r\nAlthough the trapdoor idea may seem similar to <a href=\"http://www.fpsbanana.com/maps/40678\">ka_mixeur_2008_v3</a>, that is purely by coincidence since i hadn't seen that map till after making this.\r\nThe ball is from lolobubu's soccer map though."
+}

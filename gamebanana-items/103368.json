@@ -1,0 +1,60 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"de_offshore": {
+						"0": "de_offshore.bsp",
+						"1": "de_offshore.txt",
+						"actionshots": [
+							"de_offshore0010.jpg",
+							"de_offshore0017.jpg",
+							"de_offshore0022.jpg",
+							"de_offshore0026.jpg",
+							"de_offshore0028.jpg",
+							"de_offshore0030.jpg",
+							"de_offshore0031.jpg",
+							"de_offshore0033.jpg",
+							"de_offshore0039.jpg"
+						],
+						"before-after comp": [
+							"b3_01.jpg",
+							"b3_02.jpg",
+							"b3_03.jpg",
+							"final_01.jpg",
+							"final_02.jpg",
+							"final_03.jpg"
+						],
+						"screens": [
+							"de_offshore0001.jpg",
+							"de_offshore0002.jpg",
+							"de_offshore0004.jpg",
+							"de_offshore0005.jpg",
+							"de_offshore0012.jpg",
+							"de_offshore0016.jpg",
+							"de_offshore0019.jpg",
+							"de_offshore0020.jpg",
+							"de_offshore_boat.jpg"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 329136,
+			"_nDownloadCount": 3930,
+			"_nFilesize": 20130774,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/329136",
+			"_sFile": "de_offshore.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1251784774
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 103368,
+	"_sName": "de_offshore (Final Edition)",
+	"_sText": "Overall Change List:\r\nB3 => Final Changes:\r\n* Aesthetic changes made to various interiors / exteriors. See Developer's Blog Entry for details.\r\n* Ladder positioning changed to make scaffold climbing easy.\r\n* Texture changes to various props. (Specifically placeholder officeinsp pictures.)\r\n* Lighting adjustments made, making lights feel less intense by desaturating them a bit.\r\n* Small changes to cover / prop positioning.\r\n* Optimization Changes, specifically prop fade in / fade out distances and hint / skip placements.\r\n* A few areaportals added to help performance on lower end machines.\r\n* Adjustments made to physics model properties to remove unwanted player movement restrictions.\r\n(I.E. Chairs / Phones / etc have been changed to \"debris\" to keep player movement unaffected, while\r\nwanted obstacles such as file cabinets have remained unchanged.)\r\nB2 => B3 Changes\r\n* Added HDR\r\n* Added point_viewcamera entities\r\n* Made all sound files function properly.\r\n* Modified a few hint+skip brushes to help performance on low end computers.\r\n* Modified fade in/out distances of some props to help performance on lower end machines.\r\n* Removed quite a bit of crates that didn't provide any need. All crates that provided cover and vertical height still remain to help game-play feel less linear.\r\n* Added credits decal.\r\n* Removed the ladder in the tall room near bombsite B in replace with the new \"scaffold\" system, providing more cover, detail, and intense game-play.\r\n* Fog has been modified to fade in and out depending on distance to help low end machines' performance.\r\n* Re-skinned and zipped the re-skinned model textures into the BSP to added a few extra custom content in the office area. This method should prevent re-skinned models appearing in other maps.\r\n* Added TXT file with info and credits.\r\n* Rescaled water to make it loop less frequently.\r\n* Changed a few lighting options to help change the light intensity and darkness of certain areas. Few areas remain dark for game-play's sake.\r\n* Removed whiteboards in office areas for they did not receive light properly.\r\nB1 => B2 Changes\r\n* Fully functional radar display.\r\n* More Decals for extended detail\r\n* Soundscapes added\r\n* Removed ladders in favor for ramps and stairs in 2 locations.\r\n* Removed one water tanker with a sheltered area instead, giving players more move around space."
+}

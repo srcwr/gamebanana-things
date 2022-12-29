@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"surf_XIV_v2a.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 351275,
+			"_nDownloadCount": 37818,
+			"_nFilesize": 10519060,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/351275",
+			"_sFile": "surf_xiv_v2a.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1180470780
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 123284,
+	"_sName": "surf_xiv_v2a",
+	"_sText": "!New version available: http://www.fpsbanana.com/maps/140656! \r\nI kept this up if you dislike the new parts.\r\n\r\n*V2*\r\n-Numerous bugfixes, mainly crashing on te skillpart.\r\n-Measures to avoid long-lasting rounds on multiple maps\r\n-The hammer-part has been redone and is now 3 stages, and more rewarding\r\n-Added random barricades to the first teleport\r\n-Numerous tweaks on pretty much all maps\r\n<hr>\r\n*V1* 2nd of June\r\nNo more beta.\r\n\r\nChanges:\r\n-Added 3 parts, so it now actually does have 14 maps.\r\n-Changed a few parts (halfpipe,hammertime, knifearena and slide have the biggest changes)\r\n-Fixed a bunch O' bugs\r\n-Removed random button, replaced with a map\r\n\r\nAdded parts:\r\n\r\n1. Made by [UDEL]Steve. Fourcorners, with knives. Removed it in the fixed version, because it crashed, but it's fine now.\r\n2.Not much of a surfmap, but should be fun. That circle pushes you around, low grav, scouts and knives.\r\n3.Linear map, maintain your speed to get better guns. Displacement jail, nothing special.\r\n\r\n<hr>\r\n\r\nThis map is not one map. \r\n<hr>\r\nWhen you spawn, look up. You'll see 14 screens above you. Each screen represents a map, except for the random-screen, which picks one of the other screens. Each map is a standalone map and has no connection to the other maps. The idea is to play a different map each round, picked by one lucky person, the person to make it to the teleport first. \r\n\r\nUnfortunately this website wouldn't let me post screenshots of all of the parts, you'll have to play to see them.\r\nSome of the maps are remakes(from scratch) from originals, that I like. Others are .vmf's I had laying around and most of them I made specifically for this map. One map is not made by me: The fourcorners part was made by [UDEL]Steve. Credit to him.\r\n<hr>\r\n\r\nFor server owners: You will need NoBlock to play this. I recommend 66 tick, which is what I tested on and should be the default for every surf server. The filesize is 30 mb (hey, it's a whole bunch of maps, no biggie?) so you will have to change net_maxfilesize too. (Default 16 I believe)\r\n<hr>\r\n\r\n<hr>\r\nCredits:\r\n[UDEL]Steve\r\nFAJ\r\n\r\nOriginal authors of some of the maps that are remade:\r\nArchangel\r\nBellend\r\nFAJ\r\nFLAN\r\nMonkeyDie\r\nWhoever made surf_leet_xl_beta7z\r\n\r\n\r\n<hr>\r\nEnjoy,\r\n\r\nSmOoth\r\n"
+}

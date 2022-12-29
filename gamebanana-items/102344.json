@@ -1,0 +1,39 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "ReadMe.txt",
+					"1": "de_favela_rio_dawn.bsp",
+					"2": "de_favela_rio_dusk.bsp",
+					"3": "de_favela_rio_night.bsp",
+					"4": "leiame.txt",
+					"de_favela": [
+						"music1.mp3",
+						"music2.mp3",
+						"music3.mp3",
+						"music4.mp3",
+						"music5.mp3",
+						"music6.mp3"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 308596,
+			"_nDownloadCount": 10877,
+			"_nFilesize": 86423726,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/308596",
+			"_sFile": "de_favela_rio_dnnd.7z",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1316865083
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 102344,
+	"_sName": "de_favela_rio_dusk,night&dawn",
+	"_sText": "de_favela_rio_dusk,night&dawn mappack\r\n\r\nNow you can play de_favela_rio \"from dusk till dawn\".\r\n\r\nThis is a mappack with 3 new lighting versions of de_favela_rio.\r\n\r\nde_favela_rio_dusk --> dusk version\r\nde_favela_rio_night --> night version\r\nde_favela_rio_dawn --> dawn version\r\n\r\nThe lay-out is exactly the same as already released de_favela_rio with day lighting.\r\n\r\nThe map plays songs that are not included in the BSP, and must be installed manually.\r\n\r\nInstructions for installation of songs:\r\n\r\nThe mappack includes the folder de_favela, with 6 mp3 music files, to be installed in the folder ...cstrike/sound. If you wish, you can change the music files to your liking, just name them music1, music2... music6. To toggle songs, press use key (default <E>) in front of the stereo.\r\n\r\nNote on the radar bug: If the radar does not appear, check the parameter cl_radaralpha, it must be set between 0 and 255 but by default is 1, which is almost Transparent. Adjust to 100 or more.\r\n\r\nNote on the effect of vegetation fade-out: The vegetation of the map fades out at a certain distance. To eliminate this effect, change the parameter cl_detaildist 1200 (default) to 3000.\r\n\r\nThis is a video on the map:\r\n\r\n<iframe width=\"560\" height=\"315\" src=\"http://www.youtube.com/embed/Bl53hkx2GPM\" frameborder=\"0\" allowfullscreen></iframe>\r\n\r\nHave fun, and give me your feedback."
+}

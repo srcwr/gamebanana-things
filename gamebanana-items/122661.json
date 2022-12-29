@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"surf_OblivionArenab7.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 357572,
+			"_nDownloadCount": 1503,
+			"_nFilesize": 3730192,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/357572",
+			"_sFile": "surf_oblivionarenab7.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1151033480
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 122661,
+	"_sName": "surf_oblivionarenab7",
+	"_sText": "EDIT4:  Added more teleports to provide leniancy.  Lessened damage on pro.  Removed a few push triggers in the real jail.\r\n\r\nEDIT3:  Added arrows.  Added a real jail that you can go to if you so choose; you can escape from it if you're good at jumping, if not you can camp.  Due to bugs, I could not put the jail in the arena.  For this jail, you have to jump on blocks that are moved via path_track entities.  The outer rim of the area pushes you also.  As for nocliping in the area, try not to do it in the rifle level (nocliping outside of it I mean) because it is very close to the boundary of the map and it can crash you.  There are no vertex buffer errors to my knowledge though oddly enough.  The shotgun and rifle levels were made slightly easier, but I didn't feel that there was any major improvement...  Added a sign that notifies you that you're going to the arena.  A sign that says PRO over the awps and HELL over the autos...  \"Reverse\" mode is available for jail, auto, shotty, rifle, and arena sections.  These teleporters are under the main teleporters (the ones you climb up).  In \"reverse\" mode, your teleport destination is rotated upside down and you have to surf as usually... it's basically like being drugged.  I have passed the rifle level with this mode... accessing another teleport afterwards will undo this mode.  Remember, after you get your gun, you are sent to the arena.  There is nothing to surf to here, it's meant for surfing/camping combat.  Autos are most valuable here, so they are the hardest to get.  I HAVE passed the jail level the entire way through if you're wondering... Took 1 point of damage... Most of the time I have problems with it though\r\n\r\nPlease note this map is a work in progress, and since I personally haven't seen it on a server yet, I don't know how well the arena section is.  If it sucks, it will be removed for a leet style surf map that circles around for constant surfing via push platforms.\r\n\r\nBEFORE I SAY ANYTHING ELSE, THIS MAP IS DESIGNED TO BE HARD TO SURF.\r\nPistols at spawn.  5 choices from spawn on where you want to go (left to right):  shotgun level, rifle/smg/m249 level, arena, awp level, auto/jail level.  There are hidden awps in the shotgun and rifle levels.  Each team gets their own version of the shotgun, rifle, and awp level.  Dark blue glass and laser textures will damage you and the teal/blue/stripped glass will push you.  If you fall at any part of the map, you fall into the jail.  The jail is its own surf level; it is designed as a saving grace, or second chance, for the best surfers.  It is NOT designed to be easy enough to do on your first try; it's a good idea to look at the map in spec/noclip view so you know where to go.  Those who complete the jail level will be rewarded with auto snipers, a buy zone, bombs and a bomb site, and several devices to kill and bring people in the arena to you.\r\n\r\nThe arena is designed partially for camping and partially for surfing.  You have 2 sniping posts you can camp at, or you can pick any spot that isn't covered with a laser/dark blue glass texture.  It is possible, but difficult, to surf to the stealth bombers that circle the arena.  You can teleport to them from the end of the jail level.\r\n\r\nBTW, for those who are trying to beat the jail level on your first try; after the drop between the two laser textures, you need to do a right 180 turn to get back onto the ramp, then you surf far down and do a left 180 turn.  The ramp below is covered with a flat damage block, so take your time here.  Next one is a left turn (180 again), you land on the same ramp.  This is followed by a right 180 turn (your space is even more limited than before) on a new ramp, then another right 180 turn, and a left 180 turn.\r\n\r\nSO:  after you go through the long drop, it's right, left, left, right, right, left.  After that, circle around and make it to the white texture in the back.  The texture before it is a push platform that pushes you towards it, but you're on your own on height (hint, jump at the end of the push platform).  The map is possible, but hard; you've been warned.\r\n\r\nThe map has not been tested with large numbers, thus the B4 at the end of the name.\r\n\r\nEDIT:  There is a max of 60 player slots, but I don't know if it will work with that many players.  Again, it hasn't been tested on a server yet so I need some feedback and I need to see it in action myself..."
+}

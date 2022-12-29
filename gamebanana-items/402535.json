@@ -1,0 +1,145 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"gm_DesertEagleHouse_v2": {
+						"maps": [
+							"gm_DesertEagleHouse_v2.bsp",
+							"gm_deserteaglehouse_v2.nav"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 866177,
+			"_nDownloadCount": 10,
+			"_nFilesize": 582545,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "Just follow the instructions",
+			"_sDownloadUrl": "https://gamebanana.com/dl/866177",
+			"_sFile": "gm_deserteaglehouse_v2.rar",
+			"_sMd5Checksum": "f0319fdc6d49aba2bd7d6bba3e08faa5",
+			"_tsDateAdded": 1663665319
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"gm_DesertEagleHouse_v1": {
+						"maps": [
+							"gm_DesertEagleHouse_v1.bsp"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 865767,
+			"_nDownloadCount": 7,
+			"_nFilesize": 509645,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "Just follow the instructions",
+			"_sDownloadUrl": "https://gamebanana.com/dl/865767",
+			"_sFile": "gm_deserteaglehouse_v1.rar",
+			"_sMd5Checksum": "e5189844fb7bcd4a211b5108200e7db6",
+			"_tsDateAdded": 1663582406
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"gm_desertEagleHouse_v3": {
+						"maps": [
+							"gm_DesertEagleHouse_v3.bsp",
+							"gm_deserteaglehouse_v3.nav"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 866668,
+			"_nDownloadCount": 4,
+			"_nFilesize": 646162,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "Just follow the instructions",
+			"_sDownloadUrl": "https://gamebanana.com/dl/866668",
+			"_sFile": "gm_deserteaglehouse_v3.rar",
+			"_sMd5Checksum": "bedcf984c26777220dd6d1c009933d43",
+			"_tsDateAdded": 1663781395
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"gm_desertEagleHouse_v4": {
+						"maps": [
+							"gm_DesertEagleHouse_v4.bsp",
+							"gm_deserteaglehouse_v4.nav"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 867699,
+			"_nDownloadCount": 14,
+			"_nFilesize": 994751,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "Just follow the instructions",
+			"_sDownloadUrl": "https://gamebanana.com/dl/867699",
+			"_sFile": "gm_deserteaglehouse_v4.rar",
+			"_sMd5Checksum": "c3901cc45fc91ab6734896ae75c429bc",
+			"_tsDateAdded": 1664005808
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "Fixed: the light_enviroment!"
+				},
+				{
+					"cat": "Addition",
+					"text": "Resized: Alot/Some Buildings!"
+				},
+				{
+					"cat": "",
+					"text": "And more of that stuff!!"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "New Version out! With new lighting!",
+			"_sVersion": "V4",
+			"_tsDateAdded": 1664005999
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "",
+					"text": "Added Fake NPC"
+				},
+				{
+					"cat": "",
+					"text": "Replaced Vent texture"
+				},
+				{
+					"cat": "",
+					"text": "And stuff like that"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "New Version out!",
+			"_sVersion": "V3",
+			"_tsDateAdded": 1663783205
+		}
+	],
+	"_idRow": 402535,
+	"_sName": "gm_DesertEagleHouse",
+	"_sText": "This is my first map for Counter Strike Source! PS: dont worry about the gm_ its playable in css and its gonna be uploaded to steam workshop too in my profile. anyways instructions:<br>1. Install the map<br>2. Open gm_DesertEagleHouse_v1 then maps<br>3. Drag the map into C:\\Program Files (x86)\\Steam\\steamapps\\common\\Counter-Strike Source\\cstrike\\maps<br>4. Enjoy!"
+}

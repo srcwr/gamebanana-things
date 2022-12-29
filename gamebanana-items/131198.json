@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"zm_2337.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 324723,
+			"_nDownloadCount": 2039,
+			"_nFilesize": 29610560,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/324723",
+			"_sFile": "zm_2337.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1266451106
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 131198,
+	"_sName": "ZM_2337",
+	"_sText": "<font size=\"6\">\r\n<b class=\"blue\">\r\nZM_2337</font>\r\n\r\n<font size=\"2\">after more than 1 year of work i finished this map.\r\n\r\nit took me so long be cause i was interupted by the Criminal Investigation Department, after this i had no fun to make maps, but slowly i decided to make a new zombie map and here it is. It was hard to make it, i had to make a lot of new models, than to texture them and to compile for the source engine, the compile times were also very long on my old machine, until i build me a new pc.\r\n\r\nI also had trouble with the Hammer Editor, there were much compile errors because of the size of the map, it was huge i had to optimize it and to convert some brushes into models and this process took me time, at least i was able to compile it without any bugs, but than suddenly the skybox stopped working, i didn't knew how to fix it and i stopped this project for monthes. Yesterday i found out that the skybox bug is caused by the 3D SKYBOX, i don't know if anybody had this error (the skybox appears like the nodraw texture, and it looks horrible) but well i deleted it and it worked.\r\n</b><br></font>\r\n\r\n\r\n<font color=\"#FF00ff\">===========================================================================</font>\r\n<b class=\"green\">\r\nall custom models were made by me in this map\r\nonly the pine trees and the bushes were from DODS\r\ni hope you enjoy this map</b><br>\r\n<font color=\"#ff00ff\">===========================================================================</font>\r\n\r\n\r\n\r\nObject names       Objects/Maxobjs  Memory / Maxmem  Fullness \r\n------------       ---------------  ---------------  -------- \r\nmodels                  80/1024         3840/49152    ( 7.8%) \r\n<font color=\"#FF0000\">brushes               6611/8192        79332/98304    (80.7%) VERY FULL!\r\nbrushsides           53020/65536      424160/524288   (80.9%) VERY FULL!</font>\r\nplanes               20632/65536      412640/1310720  (31.5%) \r\nvertexes             44070/65536      528840/786432   (67.2%) \r\nnodes                 3351/65536      107232/2097152  ( 5.1%) \r\ntexinfos              4731/12288      340632/884736   (38.5%) \r\ntexdata                499/2048        15968/65536    (24.4%) \r\ndispinfos               97/0           17072/0        ( 0.0%) \r\ndisp_verts           12113/0          242260/0        ( 0.0%) \r\ndisp_tris            20288/0           40576/0        ( 0.0%) \r\ndisp_lmsamples      637155/0          637155/0        ( 0.0%) \r\nfaces                25754/65536     1442224/3670016  (39.3%) \r\nhdr faces            25754/65536     1442224/3670016  (39.3%) \r\norigfaces            19062/65536     1067472/3670016  (29.1%) \r\nleaves                3432/65536      109824/2097152  ( 5.2%) \r\nleaffaces            32676/65536       65352/131072   (49.9%) \r\nleafbrushes          11809/65536       23618/131072   (18.0%) \r\nareas                   12/256            96/2048     ( 4.7%) \r\nsurfedges           202441/512000     809764/2048000  (39.5%) \r\nedges               128572/256000     514288/1024000  (50.2%) \r\nLDR worldlights         74/8192         6512/720896   ( 0.9%) \r\nHDR worldlights         74/8192         6512/720896   ( 0.9%) \r\nwaterstrips           2366/32768       23660/327680   ( 7.2%) \r\nwaterverts               0/65536           0/786432   ( 0.0%) \r\n<font color=\"#FF0000\">waterindices         52536/65536      105072/131072   (80.2%) VERY FULL!</font>\r\ncubemapsamples          97/1024         1552/16384    ( 9.5%) \r\noverlays                 0/512             0/180224   ( 0.0%) \r\nLDR lightdata         [variable]    15905620/0        ( 0.0%) \r\nHDR lightdata         [variable]    15905620/0        ( 0.0%) \r\nvisdata               [variable]      353275/16777216 ( 2.1%) \r\nentdata               [variable]      146370/393216   (37.2%) \r\nLDR leaf ambient      3432/65536       82368/1572864  ( 5.2%) \r\nHDR leaf ambient      3432/65536       82368/1572864  ( 5.2%) \r\noccluders               16/0             640/0        ( 0.0%) \r\noccluder polygons       83/0             996/0        ( 0.0%) \r\noccluder vert ind      342/0            1368/0        ( 0.0%) \r\ndetail props          [variable]           1/1879160  ( 0.0%) \r\ndtl prp lght          [variable]           1/4        (25.0%) \r\nHDR dtl prp lght      [variable]           1/4        (25.0%) \r\nstatic props          [variable]           1/32720    ( 0.0%) \r\npakfile               [variable]     8677235/0        ( 0.0%)\r\n\r\n<object width=\"640\" height=\"505\"><param name=\"movie\" value=\"http://www.youtube.com/v/3LECMxRdOcM&hl=de_DE&fs=1&\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://www.youtube.com/v/3LECMxRdOcM&hl=de_DE&fs=1&\" type=\"application/x-shockwave-flash\" allowscriptaccess=\"always\" allowfullscreen=\"true\" width=\"640\" height=\"505\"></embed></object>"
+}

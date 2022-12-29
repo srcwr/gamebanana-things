@@ -1,0 +1,60 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrike": {
+						"maps": [
+							"dm_arabian_deathmatch.bsp",
+							"dm_arabian_deathmatch.nav"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 274066,
+			"_nDownloadCount": 5501,
+			"_nFilesize": 2498729,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/274066",
+			"_sFile": "arabian_deathmatch.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1490317038
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Added Environment terrain to make it look more realistic"
+				},
+				{
+					"cat": "-",
+					"text": "Made adjustments to tower connecting tunnel since one couldnt enter crouching"
+				},
+				{
+					"cat": "-",
+					"text": "Added more obstacles for balancing advantage"
+				},
+				{
+					"cat": "-",
+					"text": "Crafted Nav mesh file for bots navigation"
+				},
+				{
+					"cat": "-",
+					"text": "Made adjustments to visportals for better framerate"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Update 2",
+			"_tsDateAdded": 1492764680
+		}
+	],
+	"_idRow": 116974,
+	"_sName": "Arabian Deathmatch",
+	"_sText": "Version 2.0 of Deathmatch map<br><br>12+12 Spawn Points<br>Bunker and Towers<br>Sniper Spots<br>Hiding Spots<br><br>You are welcome to use this map in your servers"
+}

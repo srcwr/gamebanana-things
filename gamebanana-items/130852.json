@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ze_LOTR_Mines_of_Moria_v5_1.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 333035,
+			"_nDownloadCount": 5885,
+			"_nFilesize": 14726858,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/333035",
+			"_sFile": "ze_lotr_mines_of_moria_v5_1.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1238455185
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 130852,
+	"_sName": "ze_LOTR_Mines_of_Moria_v5_1",
+	"_sText": "UPDATES VERSION 5_1\r\n- NO CRASH AT MAP LOAD\r\n\r\nUPDATES VERSION 5\r\n- FIX FOR NEW ENGINE (cs source update) (the Ring works, Balin's tomb doors dont close in front of humans)\r\n- Improved illumination.\r\n- Balance: improved barricade at stairs zone\r\n- Bug fix: zombies without weapons fix\r\n- Faster AFK/camper clean\r\n\r\n\r\n\r\n---------------------------------------------\r\n\r\n\r\nSome features of this map:\r\n- Map length: 6:30 minutes\r\n- Max players: 64\r\n- Custom music\r\n- AFK clean\r\n- Camper clean\r\n- Anti-Stuck\r\n- High optimized\r\n\r\n-----------------------------------------------\r\n\r\nMap structure:\r\n- The lake: the start zone, the entrance/door of the Mines of Moria.\r\n- First passage: a short corridor.\r\n- Cave zone: a big hall full of ways that appears at the movie.\r\n- Ladders: climb and arrive to the three doors and descent to the Balin's tomb.\r\n- Balin's tomb: humans must resist 40s, while zombies try to get in, breaking the door.\r\n- Escape through the columns: leave Balin's tomb and run until reach the protection circle.\r\n- The stairs: try to jump or stay until the rock fall.\r\n- Khazad-Dum bridge: reach the bridge; one human must stay in the middle of the bridge, and their partners must protect him.\r\n- Escape from Moria: if 'Gandalf' breaks the bridge, you will be able to escape from Moria.\r\n\r\n-----------------------------------------------\r\n\r\nWARNING!!!!!!!: This map is optimized for zombie servers:\r\n- With escape config.\r\n- With no-blocking.\r\n- Without prop menu.\r\n- With reloading weapons.\r\n\r\n-----------------------------------------------\r\n\r\nNEW FIXES/FEATURES VERSION 2_1\r\n- 100% bug fixing (included stuck problems).\r\n- FPS fix: I deleted many lights (and increased the brigthness), changed prop properties (no shadows), put a portal_vis at the spiral stair, and deleted some useless props. Cave: 6 ->2 lights. Entrance to ladder zone: 8->2. Ladder zone: 4 ->2. Espiral stair: 10->1 etc..\r\n- Ladder barriers fixed\r\n- The fallen wall at Balin is now breakable (for the poor people that get stuck).\r\n- Columns zone is now darker and have less lights.\r\n- Some access bugs.\r\n- The stairs: more brightness; its easier throw the zombies; no teleport if you fall; two crates to protect the people that don't jump; the moving stair now flat (I hope that the people will not stuck)\r\n- Gandalf final scene fixed: now if he dies the song starts instantly. It's easier to protect Gandalf.\r\n- Camper cleaning: 'Balrog' will clean every zone, if someone reach the end of a zone, in 1:30 minutes this will be cleaned.\r\n- The ring carrier: a shiny deagle with a floating ring can be taken at start zone, if the ring reaches the Khazad-Dum bridge, the wooden bridge will break, and will be easier to protect Gandalf (the ring carrier must drop it to the ground, after crossing the bridge). If a ring carrier is gonna die, he should throw the ring to another human. The ring can be dropped and picked at any time.\r\n- For much more FPS, the flashlight is now disabled (in every map the flashlight drops a lot of fps).\r\n\r\n-----------------------------------------------\r\n\r\nNEW FIXES/FEATURES VERSION 2_2\r\n- Displacement surfing bug at stairs.\r\n- The falling column will break(for stucked people).\r\n- Circle pushing bug\r\n- Gandalf scene is now working\r\n\r\n-----------------------------------------------\r\n\r\nNEW FIXES/FEATURES VERSION 3\r\n- I didn't remove the black floor (area portal), I tested and add 15-20 more fps playing online.\r\n- Bad displacements fix\r\n- Bad texturing fix\r\n- Teleport bug at the lift fixed\r\n- The falling column will break at 20s\r\n- The falling wall will break at 7s\r\n- More crates to defend at last stairs.\r\n- The flying zombies at the circle will be stopped.\r\n- Bunny jump at stairs will fixed; falling zombies won't get hurt with the fall.\r\n- More advises for the zombies that don't read the console.\r\n- Stuck problem at lift. No nuke zone bug fixed.\r\n- Elevator fix.\r\n- Optimization with nodraw textures.\r\n- Ring placed at top of ladders.\r\n- Improved ring\r\n- Gandalf staff item (hability: push zombies and props).\r\n- Saruman staff item (hability: hurt near zombies).\r\n- Random probability of the staffs access (28% no staff, 28% Gandalf only, 28% Saruman only, 14% both staffs)\r\n- More custom sounds\r\n\r\n--------------------------------------------------\r\nNEW FIXES/FEATURES VERSION 3.1 (LAST VERSION: the map now calls ze_the_Mines_of_Moria)\r\n\r\n- Stuck bug of staffs fixed.\r\n- Saruman staff hurts more (300 per second , before 220 per second).\r\n- Some visual bug fixed.\r\n- Pr0 jumping bugs fixed (circle and stairs).\r\n- Random ring position.\r\n- Moving stair fixed (tele for the stucked people)"
+}

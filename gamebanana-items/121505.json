@@ -1,0 +1,76 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"surf_enzon_fix": {
+						"0": "README.txt",
+						"maps": [
+							"surf_enzon_fix.bsp"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 272603,
+			"_nDownloadCount": 496,
+			"_nFilesize": 7643434,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/272603",
+			"_sFile": "surf_enzon_fix.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1500086105
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Added more detail to jail"
+				},
+				{
+					"cat": "-",
+					"text": "Added crates to add depth to jail"
+				},
+				{
+					"cat": "-",
+					"text": "Added a button and timer to get out of jail from within it"
+				},
+				{
+					"cat": "-",
+					"text": "Added identifications to some teleporters"
+				},
+				{
+					"cat": "-",
+					"text": "Added more shapes to the beggining of spawn"
+				},
+				{
+					"cat": "-",
+					"text": "Added trigger_push to shapes at the end to prevent camping"
+				},
+				{
+					"cat": "-",
+					"text": "Fixed teleports not working"
+				},
+				{
+					"cat": "-",
+					"text": "Fixed lighting issues"
+				},
+				{
+					"cat": "-",
+					"text": "Fixed some clipping brushes"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "v1Fix",
+			"_tsDateAdded": 1500175322
+		}
+	],
+	"_idRow": 121505,
+	"_sName": "Surf Enzon",
+	"_sText": "&nbsp;This is a simple and short surf DM linear style map with a bright neon green, white, and dark blue theme.<br>&nbsp;Almost all textures on this map are custom, which might decrease performance and lead to longer downloads."
+}

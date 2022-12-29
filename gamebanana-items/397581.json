@@ -1,0 +1,52 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0.2": [
+						"World.vmf",
+						"world.bsp",
+						"world.nav"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 853617,
+			"_nDownloadCount": 14,
+			"_nFilesize": 1872829,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/853617",
+			"_sFile": "02_6645c.zip",
+			"_sMd5Checksum": "8437c81ab0f128f14de301fa0bea0a84",
+			"_tsDateAdded": 1661283728
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Adjustment",
+					"text": "Added textures"
+				}
+			],
+			"_sText": "<p>Most dev textures replaced.</p>",
+			"_sTitle": "Map World (0.2)",
+			"_sVersion": "0.2",
+			"_tsDateAdded": 1661191422
+		},
+		{
+			"_aChangeLog": [],
+			"_sText": "<p>Changed the name.</p>",
+			"_sTitle": "Map World",
+			"_sVersion": "0.1",
+			"_tsDateAdded": 1661188444
+		}
+	],
+	"_idRow": 397581,
+	"_sName": "Map World (0.3)",
+	"_sText": "A map for my mod: <b><i>COUNTER STRIKE SOURCE ZERO</i></b>"
+}

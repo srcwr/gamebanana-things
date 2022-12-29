@@ -1,0 +1,116 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"Installation instructions.txt",
+					"ze_Holmes_Escape_pf_2014c.bsp"
+				],
+				"_sMimeType": "application/x-7z-compressed"
+			},
+			"_bContainsExe": false,
+			"_idRow": 297126,
+			"_nDownloadCount": 2904,
+			"_nFilesize": 53946104,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/297126",
+			"_sFile": "ze_holmes_escape_pf_2014c.7z",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1357936024
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Boss healthbars"
+				},
+				{
+					"cat": "-",
+					"text": "Entity optimization"
+				},
+				{
+					"cat": "-",
+					"text": "STATION music remixed"
+				},
+				{
+					"cat": "-",
+					"text": "HUB music remixed"
+				},
+				{
+					"cat": "-",
+					"text": "TOMB music remixed"
+				},
+				{
+					"cat": "-",
+					"text": "Graphical enhancements"
+				},
+				{
+					"cat": "-",
+					"text": "Bug fixes"
+				},
+				{
+					"cat": "-",
+					"text": "Boss difficulty increase"
+				},
+				{
+					"cat": "-",
+					"text": "More guidance added"
+				},
+				{
+					"cat": "-",
+					"text": "Fixed crash issue from 7.0 (2014)"
+				}
+			],
+			"_sText": "The year 2014 version. Don't expect too many new gameplay features. Other than some reworked bossfights (the secret boss having changed the most) and some reworked soundtrack, this update is mostly on a visual scale. Added more guidance to maps as well as increasing the level of scenery.",
+			"_sTitle": "Version 7.2 (2014c)",
+			"_tsDateAdded": 1394391993
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Fixed spawn issue, hopefully"
+				},
+				{
+					"cat": "-",
+					"text": "Added visual detail"
+				},
+				{
+					"cat": "-",
+					"text": "Added particles"
+				},
+				{
+					"cat": "-",
+					"text": "Buffed white face"
+				},
+				{
+					"cat": "-",
+					"text": "Added \"New Game Plus\""
+				},
+				{
+					"cat": "-",
+					"text": "Buffed heal ability"
+				},
+				{
+					"cat": "-",
+					"text": "Optimized"
+				},
+				{
+					"cat": "-",
+					"text": "Fixed bugs"
+				}
+			],
+			"_sText": "Overall, a minor update, but I fixed stuff and added other stuff. In terms of new features, there's not much except the \"New Game Plus\" feature. If you manage to reach the final boss rush of Holmes Escape and find the 3 secret switches before doing so, you unleash the curse of white face.\r\n\r\nThe next time you play holmes, assuming the server hasn't restarted first, you can fight a new boss, White Face. If you lose to him, he corrupts the map and locks off alternate routes. If you beat him, you unlock expert mode and a secret nuke weapon right from the getgo.\r\n\r\nBasically, the entire map becomes harder but you have an overpowered weapon to compensate. It's new game plus.",
+			"_sTitle": "Version 6",
+			"_tsDateAdded": 1364227428
+		}
+	],
+	"_idRow": 130779,
+	"_sName": "ze_Holmes_Escape_pf_2014c",
+	"_sText": "Holmes Escape is a jab at an open world zombie escape. Its not easy, its pretty difficult. It doesn't hold your hand either. To reach the final level, you must complete the 3 main levels. You can complete the levels in any order you want. The map adjusts itself according to how well you are doing, becoming easier if you keep dying, or becoming harder if you keep winning.\r\n\r\nSTAGES:\r\n*PROLOGUE - The first level. You essentially have to defend the entrance at the start for 45 seconds before falling back while 1 person triggers the defense. This is probably the hardest defend point in this level due to how long you have to defend, the rest of this level is a cakewalk in comparison. Kill the zombie chopper and succeed the final defense.\r\n*CAVE - This is most often the first level done. Use the golden shotgun wisely, there are 3 ways to manuever the cave, either by pushing the minecart, defending the guy, or going right and defending the boxes while someone climbs and hits the button. Kill the boss (Strider) and complete the stage.\r\n*TOMB - This is most often the second level done unless a guy is competent with the hover boots. There are 2 ways to manuever the tomb but most people go the right path. The left path is harder and only done if you are trying to do the optional objective and make the boss a bit easier. Kill the boss (Fish) and complete the stage.\r\n*STATION - This is most often the third level done unless a guy is competent with the hover boots. There are 2 ways to manuever the Station but most people go right or left at the intersection and go the Garage route. The mansion route is longer and harder and the garage people get to the end first. The Mansion route is only to do the optional objective.\r\n*CITY - The final level. Combines the 3 normal stages, does a boss rush, a special zombie boss, and a final escape. Unlocks EXPERT MODE.\r\n*SECRET - The secret level. Unlocked by doing either of the 2 objectives:\r\n1.) Complete station/city/tomb on black world (hard mode)\r\n2.) Unlock all 3 secret weapons and beat the final stage (City).\r\n\r\nDIFFICULTIES:\r\n*.) White World - Easy mode activates after losing a stage 3 times in a row.\r\n*.) Black World - Activates by completing the first level or completing an optional objective in a stage. Deactivates when humans lose 1 single round\r\n*.) Expert Mode - Complete the final stage (City) to unlock.\r\n\r\nBOSSES:\r\n*Zombie Chopper - Prologue Boss. Zombies ride the chopper to reach humans and can jump the sign/billboard (except in easy mode). Fall back after killing.\r\n*Strider - The boss of the Cave. Relatively straight forward. Jump into snow after killing\r\n*Fish - The boss of the Tomb. Kill it before you drown. Watch out for it trying to eat you, watch out for deadly bubbles, and watch out for poisonous water. Water can be made depoisoned by completing the Tomb stage's optional objective.\r\n*Zombie Ringleader - The final boss is actually another player (!). Kill the zombie.\r\n*Strider (Pissed Off!) - The rematch against the strider in the final level. Its attacks are more powerful.\r\n*Fish (Pissed Off!) - The rematch against the Fish in the final level. Because humans are weakened by the strider fight and because there is no way to depoison the water this time, this fight is really a race against time. Kill it before you drown and de.\r\n*Eye of the Devil - Secret Boss - Unlocks a new set of powerful attacks in expert mode, and casts magic faster in black world.\r\n\r\nCredits/music used in the map (v1):\r\n\r\n*Escape! (Lost Odyssey OST) - PROLOGUE Stage Theme\r\n*Battle with the Demonic Beast (Lost Odyssey OST) - PROLOGUE Boss Theme\r\n*Victory (Lost Odyssey OST) - STAGE CLEAR Theme\r\n*Neverending Journey (Lost Odyssey) - Open World Theme - No levels completed\r\n*Feel of the Night (Audition) - Open World Theme - 1 level completed\r\n*The Other Side VIP Remix (Pendulum) - Open World Theme - 2 levels completed (note: Will probably be removed/replaced in a future version)\r\n*Somnus (Yoko Shimomura) - Open World Theme - Black/White World theme song\r\n*Vanquish OST - Freight Train Battle 1 - TRAIN STATION Stage Theme\r\n*Two steps from Hell - To Glory - TOMB Stage Theme\r\n*Vanquish OST - Argus Battle - TRAIN STATION Boss Theme / TOMB Boss Theme\r\n*Immediate Music - Armed by Faith - CAVE Stage Theme\r\n*Final Fantasy XIII-2 OST - Invisible Depths - CAVE Boss Theme\r\n*Eternal Sonata OST - Scrap and Rebuild Ourselves - CITY Stage Theme\r\n*Immediate Music - A thousand deaths - CITY Boss Theme / FINAL BOSS Theme\r\n*Immediate Music - Archangel - SECRET Stage Theme\r\n*Lost Odyssey OST - Howl of the Departed Souls - SECRET Boss Theme\r\n\r\nOther credits:\r\n\r\n*The rescue chopper in the Secret Level was lifted from ZE Train Escape. I claim no credit for that chopper. Everything else, brush wise, was all me.\r\n\r\nWeapons in the map:\r\n\r\n*Rocket Launcher - Clear the station level. It deals 1k damage if you shoot it just right and has 2 rockets, so that's 2k damage against a boss.\r\n*Hover Boots - Clear the cave level\r\n*Slow Gun - Clear the tomb level\r\n**THE FINAL LEVEL (CITY) WILL BE AVAILABLE AFTER UNLOCKING THE THREE ABOVE WEAPONS.\r\n\r\n**YOU DO NOT HAVE TO DO THE OBJECTIVE FOR YOUR VICTORY TO COUNT TOWARD THE SECRET BOSS REQUIREMENT, THOUGH\r\n\r\n*Soda Shield - A secret weapon in the Train Station level\r\n*Secret Documents - A secret weapon (?) in the Train Station level\r\n*Tesla Suit - Found in the Cave as an optional objective. Damages nearby zombies, heals nearby humans, and deals 1k damage to the boss if you make it there alive.\r\n*Headcrab - Weapon (?), more like an enemy. It's in the Cave level. It latches onto your face and kills you. It can easily be dodged, though, and will only kill 1 or 2 poor humans\r\n*Active Camoflauge - In the tomb level. Entering this area makes you slightly invisible until the end of the level. It may carry over even if you are a zombie, so watch out. This is useful if you're trying to hide from the zombies in the final part of the Tomb level.\r\n*Golden Shotgun - A secret weapon found in the HUB World in the Bar at the cave entrance. Push E to shoot/push zombies. Accessing this weapon becomes IMPOSSIBLE after beating the Cave level. You may desire to leave the cave level for last if you want to use this weapon in the other stages. Choices!\r\n\r\n>Secret weapons: A secret weapon is unlocked by doing one of the 3 levels, on any difficulty EXCEPT white world. You have to complete the optional objective and then clear the stage in the same round. This means that if white world triggers for your level, or if you beat the level without doing the optional objective, you will essentially be \"locked out\" of that stage's secret weapon (unless you do some voodoo magic and manage to trigger black world before beating the level). The weapons are as follows:\r\n\r\n>>Cyborg Suit - TOMB - Probably the easiest one to unlock, and since the Tomb is very likely the second level humans do this should be an easy one to get. The cyborg suit has 2 functions: Stealth camoflauge that makes you invisible and invincible to zombies for 5 seconds, and a slash wave that pushes zombies away. The functions have no recharge and can only be used once.\r\n>>Soda Healer - CAVE - Probably the hardest and most difficult of the three secret weapons to unlock. It heals the surrounding team to 125 health and gives a small speedboost for 3 seconds. It has a recharge rate of 90 seconds.\r\n>>Soda Shield - STATION - The medium tier one to unlock. Harder than the tomb, but easier than the cave. It's essentially just the Station's secret weapon unlocked in the hub, allowing you to use it outside of the station. It blocks zombies and acts as a push shield. Sustains 10 hits. \r\n>>Devil Ray of Destruction - Push E to kill all zombies directly in front of the caster. This is the hardest weapon to unlock.\r\n\r\nv4 Changenotes:\r\n\r\nFEATURES:\r\n*A new secret weapon 'Devil Eye of Destruction' is now unlockable by defeating the secret boss. This is the ultimate secret weapon which instant kills any zombie near the caster. Once per round, no recharge.\r\n*Completion of the prologue stage now triggers black world, meaning if humans dont lose a single round, you will be able to trigger the secret boss\r\n*There is now a 2nd way to trigger the secret boss, which is simply by unlocking all 3 secret weapons. Make sure to do those optional objectives! This potentially means its possible to fight the secret boss twice in a single playthrough.\r\n*The fish now shoots bubbles of death\r\n*Added more to the final level, there is now a mini 'boss rush' of sorts before the final escape. Make no mistake, if you don't have Heal or the Tesla Suit, you will probably die. Only the chosen will survive.\r\n*Simplified geometry and map optimization should be more kind to your FPS. Also fixed most of the annoying nodraw displacements and redid other displacements, although a couple nodraw displacements still exist.\r\n*Changed the soundtrack around. No more salsa music.\r\n\r\nFIXES:\r\n*There is now an anti-stack system in place in the Tomb and Prologue. If a zombie breaches far enough in your bunker, you fail the mission and everyone in the bunker dies. There is some leeway so even if a zombie gets in your bunker as the doors close, you will be ok as long as you can keep it from getting close to you\r\n*Fixed the fish god\r\n*Fixed the final level\r\n*Fixed the secret boss\r\n\r\nThis is also, conveniently, the hardest version to win probably.\r\n\r\nAlternative download: http://rapidshare.com/files/4287258215/ze_holmes_escape_pf_v4a.bsp"
+}

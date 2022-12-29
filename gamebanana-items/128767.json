@@ -1,0 +1,30 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"mg_takeshis_challenge_final.bsp",
+					"mg_takeshis_challenge_final.nav",
+					"readme.txt"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 330649,
+			"_nDownloadCount": 1544,
+			"_nFilesize": 2413299,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/330649",
+			"_sFile": "mg_takeshis_challenge_final.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1246976396
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 128767,
+	"_sName": "mg_takeshis_challenge_final",
+	"_sText": "UPDATE;\r\na bug showing up at T-Spawn got fixed, so now there are three Ts spread over the rooms.\r\n\r\n----------------------\r\n\r\nAbout the Map: \r\nThe idea of this map came from a TV-Show called Takeshi's castle. There the contestants have to pass several challenges to get to the final battle against Takeshi. I chose one of them and made it playable in CS:S, of course with a few modifications.\r\nHere is how it works:\r\nThere are 27 CTs and 4 Ts in total. The CTs have to get through the rooms (each with 4 non-solid doors) to the Teleporter. They've got no weapons, not even knifes. The three Terrorists who are spread over the 36 rooms got a p90 (or USP) to stop the CTs from getting to the teleporter. The CTs can fall into the water at the left and right sides which teleports them to jail, where they die by fire. The Terrorists can't fall into water plus they can't get to the Teleporter. This means, if a CT reaches the Teleport-Area there is no way to kill him. \r\nLet's assume that a CT reaches the Teleporter: Then the CT gets teleported to the top of the map where also  the jail is and he gets a weapon. Automatically the Terrorists get teleported to a smaller jail where they are quite incapable of defending theirselves. Now the CT can take revenge for his killed teammates. :). Btw.: You probably wonder where the fourth T is. Well, he is near the jail and can activate the fire in it, he can close 4 doors manually plus he can tell the Ts below where the CTs walk.\r\n\r\nCompendium:\r\nThe mission: CTs --> rooms --> teleporter --> kill the terrorists\r\nHow can the CTs be detained? Fall into water --> Jail |or| Get killed by the three terrorists |or| The 4th terrorist closes 3 doors so the CTs have to take a detour rather than going straight through.\r\n\r\nFeatures:\r\n- for up to 31 players\r\n- Custom Textures\r\n- goes best with 'NoBlock'\r\n\r\n\r\n\r\n----------------------\r\n\r\n<object width=\"320\" height=\"265\"><param name=\"movie\" value=\"http://www.youtube.com/v/VaO1FO3jGuQ&hl=de&fs=1&\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://www.youtube.com/v/VaO1FO3jGuQ&hl=de&fs=1&\" type=\"application/x-shockwave-flash\" allowscriptaccess=\"always\" allowfullscreen=\"true\" width=\"320\" height=\"265\"></embed></object>\r\n"
+}

@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ze_industrial_dejavu_v3_3_1.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 301918,
+			"_nDownloadCount": 5505,
+			"_nFilesize": 37404543,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/301918",
+			"_sFile": "ze_industrial_dejavu_v3_3_1.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1340912753
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 130799,
+	"_sName": "ZE_INDUSTRIAL_DEJAVU : LAST VERSION W/ BOSS",
+	"_sText": "ZE_INDUSTRIAL_DEJAVU\r\n==================\r\n\r\nI started the map as a finish-in-one-day map. I managed to get v1 done in one day -and my map file corrupted three disgraceful times on which I had to copypaste the prop statics from the .vmf as raw text- but I felt the map could be extended a bit more, and I took another day to make it more interesting.\r\n\r\nThe map is not a jewel, but I believe it looks relatively good, has a different gameplay and can be enjoyed for some time. It features:\r\n\r\n- 64 spawns\r\n- HDR Lighting\r\n- Random cyclic gameplay (First time ever on a ZE map, I believe!)\r\n- Billions of random gameplay possibilities each round\r\n- 16 different songs\r\n- Simple, teamplay based boss\r\n- 108 random boss setups\r\n- Healthbar during the bossfight\r\n- 3 color corrections\r\n- Graphical improvements\r\n- Admin room\r\n- Three different random endings\r\n- Three zombie weapons\r\n- Five human weapons\r\n- 8 random 'Hallway' (path before the proper first hold) \r\n- 10 random different 'Hallway holds' (first hold of each cycle)\r\n- 32 random different 'Hall holds' (second, long hold of each cycle)\r\n\r\n- 4 different levels\r\n1. Easy: No weapons for the zombies, 4 cycles, small-normal spawn, 0 boss chance, 20k HP (ZM)\r\n2. Normal: One weapon for the zombies, 5 cycles, normal spawn, 1/24 boss chance, 30k HP (ZM)\r\n3. Hard: One weapon for the zombies, 6 cycles, big spawn, 1/12 boss chance, 40k HP (ZM)\r\n4. Extreme: Two weapons for the zombies, only one for the humans, 6 cycles, massive spawn, 1/6 boss chance, 50k HP (ZM)\r\n\r\nGameplay\r\n------------------\r\n\r\nThe map basically consists on a 'circle' run for a determinate number of cycles. After some cycles, humans will get weapons, zombies will get weapons or the final escape door will open. The paths themselves are simple enough not to get lost by any mean, and the hold spots range from really easy to really hard, being the map based completely on holding.\r\n\r\nRounds get 9 minutes of length, being this forced by the server, and are meant to consist on fast and tight holds that progress towards the three random endings: Boat, Bunker and Helicopter. When won, the level will change, changing with it the level's spawn settings, amount of weapons to spawn, etc. \r\n\r\nTime spent\r\n------------------\r\n\r\nI finished this final version of the map in roughly 40 hours, maybe 45. It took two and a half days, and I could say I'm pleased with the overall looks and gameplay. Because of the fast mapping work, I suspect many bugs might be laying inside, awaiting for you to discover them. I'd really love if you helped me out on finding those little bastards."
+}

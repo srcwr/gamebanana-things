@@ -1,0 +1,30 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"Fy_CoN_Terrorist_House_TEST.vmf",
+					"README.txt",
+					"fy_con_terrorist_house_test.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 310156,
+			"_nDownloadCount": 1180,
+			"_nFilesize": 503432,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/310156",
+			"_sFile": "_8270-.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1312549293
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 111880,
+	"_sName": "Fy_CoN_Terrorist_House",
+	"_sText": "Hello! This is the 2nd map from Companions of the North (CoN)! \r\nThis was all made by Haavard_Fotball (Same STEAM-ID).\r\n\r\nDownload gives:\r\n- Readme\r\n- VMF. File (Map)\r\n- BSP. File (Map)\r\n\r\nTo run the map, open the VMF. in hammer and compile it (3-4 min compile) or just open CSS\r\nand create server (with the BSP. file, MUCH FASTER)\r\n\r\nYou can play this one like a normal fy-map with equal teams,\r\nor you can play with a friend or something against many bots!\r\n\r\nGo to properties of CSS and add -console as starting option for console!\r\nConsole commands for zombie gameplay:\r\nFirst join T with a friend (or solo)\r\nmp_limitteams 20 (allow unbalanced team up till 20 players)\r\nmp_autoteambalance 0 (Don't allow the game to balance teams)\r\nbot_Add_ct -> add the amount you want to fight\r\nmp_Flashlight 1 (to add flashlight)\r\nBot_Knives_Only 1 (Make them go around with knives, like in ZM)\r\n\r\nI recommend adding zombie skins to make the CTs (or Ts) look more \"zombish\"!\r\nMore fun with Shot GUN! :D\r\n\r\nHope you enjoy the game! Please leave a comment at gamebanana or contact me at steam!\r\nAlso; Join our CoN group on Steam!\r\n\r\n5th of August 2011\r\nHaavard_Fotball\r\n\r\n<iframe width=\"560\" height=\"349\" src=\"http://www.youtube.com/embed/U47KQUHCVfE\" frameborder=\"0\" allowfullscreen></iframe>"
+}

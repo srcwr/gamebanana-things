@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"bhop_ka_simple.bsp",
+					"bhop_ka_simple.vmf"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 327595,
+			"_nDownloadCount": 1301,
+			"_nFilesize": 28182,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/327595",
+			"_sFile": "bhop_ka_simple.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1257007719
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 125345,
+	"_sName": "bhop_ka_simple",
+	"_sText": "The most simple design, concept and overall map I have ever made...\r\nThis is just a test map for the idea of a combat Bhop map. Don't take it as a serious map or you will just rage. This map uses Mpbhops entwork by Millet (packaged by Aoki) to create an arena of sorts where you can bunnyhop around and knife opponents. There is a team filter if you fail to bhop that teleports you back to your spawn. There is also an AFK handler which consists of a push that pushes you off of the spawn and into a trigger_hurt which you will also hit if you fall out of the arena. The VMF for this map is included inside the Zip.\r\n(The custom textures are not included in the zip but are packed inside the bsp file. To retrieve them you need to know how to use PakRat, or just pm me.)\r\n\r\nI just made this to propose the idea of knife arena or weapon arena bhop maps, feel free to take the entity work from the vmf and use it in your own map.\r\n"
+}

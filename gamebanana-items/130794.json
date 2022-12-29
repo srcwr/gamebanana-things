@@ -1,0 +1,60 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ze_illya_b4.bsp"
+				],
+				"_sMimeType": "application/x-7z-compressed"
+			},
+			"_bContainsExe": false,
+			"_idRow": 415863,
+			"_nDownloadCount": 168,
+			"_nFilesize": 140900354,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/415863",
+			"_sFile": "ze_illya_b4.7z",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1554594105
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Improvement",
+					"text": "Over 25 various fixes."
+				}
+			],
+			"_sText": "General:<br>I cant remember. There were about 25 modifications before I lost the changelog I was tracking. Releasing b4 to reset the state of the map to something I can manage.<br><br>Stage 2:<br>* Sped up the train between stations<br><br>Stage 5:<br>* Underground teleport destination gives better zm cover<br>* Improved the first escape afk teleport location",
+			"_sTitle": "b4",
+			"_tsDateAdded": 1554594186
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Optimization",
+					"text": "General fps improvements"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Addressed stage 5 balance issues"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Made stage 4 bhop more difficult"
+				}
+			],
+			"_sText": "Remember this is a beta release. There will be visual bugs, but for now its primarily about improving balance and performance. All feedback and suggestions are welcomed.<br><br>Full changelog:<br>Stage 2:<br><ul><li>Minor performance improvements on city floor</li></ul><br>Stage 3:<br><ul><li>FPS improvements after elevator</li><li>Made pre-dam hold slightly harder for humans</li></ul><br>Stage 4:<br><ul><li>Made bhop more difficult at bottom of first tunnels</li><li>Made bhop off the bottom of curved tunnel more difficult</li></ul><br>Stage 5:<br><ul><li>Additional teleport from spawn (destination is route fork)</li><li>Additional zombie cover at first teleport destination</li><li>Shifted elevator teleport destination to outside the door</li><li>Small zm cover increase after second teleport</li><li>Detailing on Illya Office Floor 2</li><li>Small rooftop FPS improvements</li><li>Boss hold human LOS reductions</li><li>Add zombie cover across final corridors</li></ul><br>",
+			"_sTitle": "Beta 3",
+			"_tsDateAdded": 1543441891
+		}
+	],
+	"_idRow": 130794,
+	"_sName": "ze_illya",
+	"_sText": "<h1>Welcome to Illya!</h1>Illya is a beautiful city built by the Illya Mining Corporation in the year 2080. Illya is built over a rich vein of natural resources running deep into the earth. The city itself is privately run by the corporation, with profits obtained from its mining operation.<br><br>Unfortunately, corporate greed may have gone too far. There may be more than anticipated lurking beneath the city.<br><br><h2>Features</h2><ul><li>5 unique stages</li><li>Varied gameplay, covering ze with zm segments</li><li>Various custom materials, models, particles</li><li>Several interactive cinematics</li></ul><br><h2>About this project</h2>This map was originally based on an photo found on <a href=\"https://reddit.com/r/evilbuildings\" class=\"linkified\" target=\"_blank\">https://reddit.com/r/evilbuildings</a> in early 2017. It changed a lot as I heard more about Cyberpunk 2077. The design of the city section was based very vaguly on what I felt that game could look like, before screenshots were available. Although, due to engine limitations, it lacks a lot of detail. Hopefully over time this can be optimised and visually improved.<br><br><h2>Notes</h2><ul><li>This map will be ported to CS:GO. Please give it some time.</li><li>This is a beta release. Expect some bugs. Expect some balancing issues.</li><li>As much as I loved Fate/Kaleid, this map has nothing to do with it. The name is pure coincidence.</li></ul>"
+}

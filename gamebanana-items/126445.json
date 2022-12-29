@@ -1,0 +1,40 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"kz_bhop_badg3s.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 285998,
+			"_nDownloadCount": 3822,
+			"_nFilesize": 280749944,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/285998",
+			"_sFile": "kz_bhop_badg3s.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1410781209
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "Stripper CFG to correct hit box issues due to valve update"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Bug fixes",
+			"_tsDateAdded": 1521959454
+		}
+	],
+	"_idRow": 126445,
+	"_sName": "kz_bhop_badg3s",
+	"_sText": "Here it is.\r\n\r\nBadges3\r\n\r\nOne jump strafe based gameplay made for legit normal settings (that means stamina scroll for the uninitiated). It is intended to be played on 100 tick, sv_airaccelerate 100, fps_max 300, sv_gravity 800 and no scout / 250 run speed. To experience the map how it was meant to be played, visit _strafe for a list of legit normal servers.\r\n\r\n<iframe width=\"560\" height=\"315\" src=\"//www.youtube.com/embed/RIAtcLti36Y?rel=0\" frameborder=\"0\" allowfullscreen=\"\"></iframe>\r\n\r\nBadges3 contains an intricate system of over 150 filters and thousands of triggers which control the maps built in checkpoint system and determine whether or not you have met the requirements needed to pass each stage. Skipping certain parts of the map with noclip, low gravity, sever side checkpoints, or maybe even easy settings may cause parts of the map to be impossible. Badges3 was designed around the limitations of normal legit gameplay, you will likely experience bugs on any other setting. The checkpoint system will only save you from minor fails, it won't always save you if you fall back too many stages.\r\n\r\nDue to the restrictions of the source engine, the checkpoint system is not perfect, to be certain you have triggered each checkpoint correctly, try to trigger it again before continuing. I've made it so each checkpoint spams its filter output for a second, but sometimes this still doesn't work since you may also be getting spammed with filter inputs from other entities. No one experienced any problems with the system in testing, but it is still possible there may be bugs in very rare cases.\r\n\r\nBadges3 features a number of new control systems. It is the first bhop map (and maybe even first map period, I'm not too sure) to feature a perfectly working Non-Linear Multi-Stage Multiplayer Course Completion System™ that resets on respawn. I've also created a new anti prespeed and 1 jump system designed specifically for this map which now incorporates the checkpoint system and the requirement to pass each stage system thingy.\r\n\r\nThe stages that require you to reach a certain spot before opening a door for you are filtered, so they only work for the client who triggered it, but are displayed server side. This may cause confusion but It's unlikely two players will be at the same place at once. If this is the case, use your head. If one player triggers the event while the event is happening for another player, it still works, it just doesn't show it. Alternatively, wait 10 seconds for it to reset.\r\n\r\n<iframe width=\"560\" height=\"315\" src=\"//www.youtube.com/embed/spqFKcYqvn4?rel=0\" frameborder=\"0\" allowfullscreen=\"\"></iframe>\r\n\r\nBadges3 was created with the use of HDR in mind. It looks best when played with HDR turned on. Playing this map with HDR turned off will cause inconsistency in lighting. For optimal visual experience, turn on HDR by going to Options &gt; Video &gt; Advanced and selecting 'Full' under High Dynamic Range. Then reconnect to the server. Incase you aren't sure, if the first stage is yellow, HDR is on, if it's orange, HDR is off.\r\n\r\nBadges3 contains a massive amount of particle systems to help guide you through the map. If you cannot see these particles, fix the problem. It also contains a number of material proxies that people with low texture settings won't be able to see.\r\n\r\nServer admins, please put the start and end zones in the top halves of the rooms indicated. Here is a <a href=\"http://i.imgur.com/2Y6q9Ts.jpg \" picture\"\"=\"\" target=\"_blank\">picture</a> and another <a href=\"http://i.imgur.com/agsK37f.jpg \" picture\"\"=\"\" target=\"_blank\">picture</a>. Server players, if the start or end zones are in the wrong spot, please tell the admins they are morons. This should be obvious, but after seeing how many servers got it wrong in badges2, nothing surprises me.\r\n\r\n<iframe width=\"560\" height=\"315\" src=\"//www.youtube.com/embed/M-GuaBx8hmY?rel=0\" frameborder=\"0\" allowfullscreen=\"\"></iframe>\r\n\r\n\r\n\r\n<iframe width=\"560\" height=\"315\" src=\"//www.youtube.com/embed/ElQzdVgX_Jk?rel=0\" frameborder=\"0\" allowfullscreen=\"\"></iframe><br><br><h1>2019 UPDATE - Trigger fix</h1>A few years ago, an update to CSS changed the way hit boxes function which caused problems with some of the triggers in this map. While this issue has been addressed on some servers, other servers with the stripper plugin installed can now use the cfg in the link below to fix these problems.<br><br>Thanks to gibe, nyu, remi and dwsdfgxcvad who all either helped or worked on different versions of this.<br><br><a href=\"https://steamcommunity.com/groups/_strafe#announcements/detail/1631902387970626374\">https://steamcommunity.com/groups/_strafe#announcements/detail/1631902387970626374</a><br><br><img src=\"https://i.imgur.com/6yQWwSz.png\"><br>"
+}

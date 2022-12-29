@@ -1,0 +1,30 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"gg_oreo02_randomaze.bsp",
+					"gg_oreo02_randomaze.nav",
+					"gg_oreo02_randomaze.txt"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 355318,
+			"_nDownloadCount": 1735,
+			"_nFilesize": 847749,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/355318",
+			"_sFile": "gg_oreo02_randomaze.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1161752424
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 136049,
+	"_sName": "gg_oreo02_randomaze",
+	"_sText": "This is a gun game map that I put together that features a fairly simple maze.  However, this seemingly simple maze has a layout that changes each round to one of three random possible varieties.  It can also be used for deathmatch.\r\n\r\nSince the maze area of the map changes each round, and most of the walls are door entities, it was impossible to get the bots to work well at all.  They think the walls are invisible, and they will only be able to move around effectively in one of the three maze varieties.  Therefore, this map is intended for use with human players only.\r\n\r\nThis map has HDR on and off capabilities and has an easter egg signature room with a giant rotating oreo cookie.  It also has place names."
+}

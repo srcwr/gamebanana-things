@@ -1,0 +1,82 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrike": {
+						"maps": [
+							"mg_aperture-escape_b1.bsp"
+						],
+						"materials": {
+							"reacz": {
+								"detail": [
+									"detail_brick.vtf",
+									"detail_concrete_01.vtf",
+									"detail_concrete_02.vtf",
+									"detail_concrete_03.vtf",
+									"detail_concrete_smooth.vtf",
+									"detail_metal_brushed.vtf",
+									"detail_metal_random.vtf",
+									"detail_noise_random.vtf"
+								],
+								"portal": {
+									"dark": {
+										"thick_framed": [
+											"wall_black_small2.vmt",
+											"wall_black_small2.vtf"
+										],
+										"thin_framed": {
+											"clean": [
+												"small_clean.vmt",
+												"small_clean.vtf"
+											]
+										}
+									},
+									"light": {
+										"clean": {
+											"grey": [
+												"small_clean.vmt",
+												"small_clean.vtf"
+											]
+										},
+										"cthybrid": {
+											"grey": [
+												"large_textured.vmt",
+												"medium_textured.vmt"
+											]
+										},
+										"textured": {
+											"grey": [
+												"large_textured.vmt",
+												"large_textured.vtf",
+												"medium_textured.vmt",
+												"medium_textured.vtf"
+											]
+										}
+									}
+								}
+							}
+						}
+					}
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 316384,
+			"_nDownloadCount": 1480,
+			"_nFilesize": 769324,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/316384",
+			"_sFile": "mg_aperture-escape_b1.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1292432550
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 127689,
+	"_sName": "mg_aperture_escape_b1",
+	"_sText": ">>> V1 is up! - http://www.fpsbanana.com/maps/151564 <<<\r\n\r\n\r\n\r\n\r\n\r\n\r\nAperture Escape\r\n-----------------\r\n\r\nYou and 5 other test subjects awake in a single room with a closed door. Before you know it, the door opens and you are forced to complete a series of tasks. Each task has one less exit than there are test subjects, meaning that one of you will perish each task from the deadly nerve gas that GLaDOS feeds into the rooms. Will you be the one to get the cake?\r\n\r\n\r\n\r\nAbout the Map\r\n--------------\r\n\r\nI based this off an old Mario Party game, where there were 4 players and 3 doors. Each player had to find one of the three keys, leaving one without a passage to the next room.\r\n\r\nEach room that you go through, one player will not be allowed to the next room and will die from the nerve gas that is released shortly after the next room opens. It's basically survival of the fittest. Beat your friends in desperate attempts to survive the next round.\r\n\r\nRoom 1 - Jumping Blocks\r\nRoom 2 - Laser Avoidance\r\nRoom 3 - Invisible Maze (Jump and Crouch)\r\nRoom 4 - Falling Floors\r\nRoom 5 - Intense Jumping Blocks\r\n\r\n- Requires 6 players for maximum enjoyment.\r\n\r\n- I don't recommend noblock as more than one person will be able to get through an exit.\r\n\r\nThanks to Reacz for his Portal 2 Texture Package - http://www.fpsbanana.com/textures/2868\r\n\r\nAll feedback and suggestions for future versions is much appreciated. I plan to add GLaDOS voices and hidden music in future versions. I will record the voices myself with an audio program if possible, this will make it more customized. I also plan to make more player slots and rooms.\r\n\r\nThanks!\r\nBloodprime\r\n"
+}

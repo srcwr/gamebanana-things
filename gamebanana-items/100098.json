@@ -1,0 +1,45 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "How to Install this map.txt",
+					"maps": [
+						"cs_little_office.bsp",
+						"cs_little_office.nav",
+						"cs_little_office.txt"
+					],
+					"materials": {
+						"overviews": [
+							"cs_little_office.vmt",
+							"cs_little_office.vtf",
+							"cs_little_office_radar.vmt",
+							"cs_little_office_radar.vtf"
+						]
+					},
+					"resource": {
+						"overviews": [
+							"cs_little_office.txt"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 330431,
+			"_nDownloadCount": 2422,
+			"_nFilesize": 1146259,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/330431",
+			"_sFile": "cs_little_office_3.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1247692406
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 100098,
+	"_sName": "cs_little_office",
+	"_sText": "Tired of being shot in the head from 500 meters while carrying a shotgun? This map is designed in such a way that every encounter you have with an enemy will be within about 10 feet. The largest open space in the map is about 50 feet. Try playing with shotguns or pistols only. Also makes a great GunGame map.\r\n\r\nIncludes cubemaps, soundscapes, player clips, buy zones, hostages/rescue zones, nav mesh, place names, radar map, overview map (for spectating), opening text, and several puppies.\r\n\r\nThank you and happy killing.\r\n\r\n-note: this map was formerly known as \"cs_gg_mini_office.\" Although this map makes a great gungame map, it is primarily a hostage map, and so the map name was changed to avoid confusion. A few minor glitches were also fixed since that previous version."
+}

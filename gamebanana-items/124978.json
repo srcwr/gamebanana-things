@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"bhop_exodus_fix.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 286949,
+			"_nDownloadCount": 2242,
+			"_nFilesize": 73357458,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/286949",
+			"_sFile": "bhop_exodus_fix.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1405686068
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 124978,
+	"_sName": "bhop_exodus_fix",
+	"_sText": "All credit goes to Aoki, the original map creator ([original submission](http://css.gamebanana.com/maps/135408 \"\")).\r\n\r\n**Changes from the original**\r\n\r\n- Fixed all invalid/missing textures.\r\n- Fixed the crashes on stage 6, 9 and when spectating outside the map (bad displacements and sprites).\r\n- Fixed a bad teleport destination in stage 2.\r\n- Fixed the spikes on stage 9.\r\n- Optimized the music (30mb less in size, no noticeable difference).\r\n- All sprites are working.\r\n\r\nApart from that, the map remains unaltered.\r\n\r\n<iframe width=\"560\" height=\"315\" src=\"//www.youtube.com/embed/iE-x-qfsIR0\" frameborder=\"0\" allowfullscreen></iframe>"
+}

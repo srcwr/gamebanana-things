@@ -1,0 +1,47 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"surf_bugs.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 875478,
+			"_nDownloadCount": 26,
+			"_nFilesize": 19668733,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "fixed drops (NEW)",
+			"_sDownloadUrl": "https://gamebanana.com/dl/875478",
+			"_sFile": "surf_bugs_19737.zip",
+			"_sMd5Checksum": "2cd7fabd56d7fa4eaaffa86b286e8fdc",
+			"_tsDateAdded": 1665545276
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"surf_bugs.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 873223,
+			"_nDownloadCount": 28,
+			"_nFilesize": 19640879,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "bad drops(OLD)",
+			"_sDownloadUrl": "https://gamebanana.com/dl/873223",
+			"_sFile": "surf_bugs_c2ea8.zip",
+			"_sMd5Checksum": "f478baa7842dc2c4028184e978933da3",
+			"_tsDateAdded": 1665122155
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 405493,
+	"_sName": "surf_bugs",
+	"_sText": "Tier 6<br>4 Stages<br>6 Bonuses<br><br>Short, technical, and spinny map with some bhops. It is on the easy end of tier 6 and is about 40 seconds long to nofail.<br><br>The detailing is inspired by art deco elements in Fallout and Bioshock games. The name of the map was intially going to have a lot more influence on the theme, but the direction changed quite a bit, leaving only the little icons of bugs on the walls of each stage.<br><br>server/zone configuration:<br><br>The only non-standard zone is the stage 4 start zone. It should be a drop zone covering the room at the level of the walkable floor.<br><br>The stages and bonuses have trigger_multiple zones following this naming scheme:<br>s1start<br>s2start<br>s3start<br>s4start<br>s4end<br>b1start<br>b1end<br>etc...<br><br>b3 endzone is the same name of b3 startzone by mistake<br><br>Autobhop zones are trigger_multiple zones named autobhop.<br>"
+}

@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"speed_knife_wars.bsp",
+					"speed_knife_wars.nav"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 320830,
+			"_nDownloadCount": 1245,
+			"_nFilesize": 225966,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/320830",
+			"_sFile": "speed_knife_wars.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1280439460
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 110612,
+	"_sName": "speed_knife_wars",
+	"_sText": "Map is pretty straight forward, you fight in the middle. The outside edges of the map are a func_push so you get pushed around in a circle at a pretty fast speed. The ramps can be used to launch yourself into the air (gain access to the spawn area). The edges also have water so you won't take damage from the fall after you jump off a ramp. It's knives only. Cell shading is nice, gives it a cartoon look.\r\n\r\nIf you change sv_airaccelerate to something higher around 400 or 500 the map is much more enjoyable.\r\n\r\nTip on getting back up to the spawn area: Go along the push area on the outer ring of the map. When you see the ramp coming, jump just before it so you land halfway up the ramp and then instantly jump again and you will have enough speed and height to get into the spawn area.\r\n"
+}

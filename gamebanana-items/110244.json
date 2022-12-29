@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ka_footballbeta_fix.bsp",
+					"ka_footballbeta_fix.bsp.bak"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 332863,
+			"_nDownloadCount": 1378,
+			"_nFilesize": 799969,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/332863",
+			"_sFile": "ka_footballbeta_fix.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1239069033
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 110244,
+	"_sName": "ka_footballbeta_fix",
+	"_sText": "This idea started out one night while playing on my clan S.]A[.U's server. We were playing football with a deagle that some how had low gravity when we didnt. We figured out how to make the deagle have low gravity then my friend said hey, MAKE A FOOTBALL MAP! And i was like...fiiiiine. Its not perfect, its not amazing, but it can be fun.\r\n\r\nIf you would like to play football with the gun gravity, heres how you do it.\r\nsv_gravity 150\r\nchangelevel ka_footballbeta_fix\r\nsv_gravity 800\r\nType those commands in console in that order. (Obviously wait til the map loads to type gravity 800)\r\nOr you could hop on S.]A[.U's server which is on my profile and i could set it all up. If you took the time to read this, thanks! "
+}

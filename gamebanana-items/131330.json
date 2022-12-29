@@ -1,0 +1,111 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"zm_balun88_ridiculous": {
+						"0": "Readme.txt",
+						"1": "screenshot #1.jpg",
+						"10": "screenshot #8.jpg",
+						"11": "screenshot #9.jpg",
+						"2": "screenshot #10.jpg",
+						"3": "screenshot #11.jpg",
+						"4": "screenshot #2.jpg",
+						"5": "screenshot #3.jpg",
+						"6": "screenshot #4.jpg",
+						"7": "screenshot #5.jpg",
+						"8": "screenshot #6.jpg",
+						"9": "screenshot #7.jpg",
+						"cstrike": {
+							"maps": [
+								"zm_balun88_ridiculous.bsp",
+								"zm_balun88_ridiculous.nav"
+							],
+							"materials": {
+								"models": {
+									"player": {
+										"slow": {
+											"80.248.216.72": {
+												"zombie_dog": [
+													"slow_body.vmt",
+													"slow_body.vtf",
+													"slow_body_bump.vtf",
+													"slow_body_exp.vtf",
+													"slow_eyes.vmt",
+													"slow_fur.vmt",
+													"slow_fur_2.vmt",
+													"slow_mouth.vmt"
+												]
+											}
+										},
+										"zh": [
+											"charple1_sheet.vmt",
+											"corpse1.vmt",
+											"zombie_classic_sheet.vmt"
+										]
+									}
+								},
+								"skybox": [
+									"sky_balunbk.vmt",
+									"sky_balunbk.vtf",
+									"sky_balundn.vmt",
+									"sky_balundn.vtf",
+									"sky_balunft.vmt",
+									"sky_balunft.vtf",
+									"sky_balunlf.vmt",
+									"sky_balunlf.vtf",
+									"sky_balunrt.vmt",
+									"sky_balunrt.vtf",
+									"sky_balunup.vmt",
+									"sky_balunup.vtf"
+								],
+								"vgui": {
+									"logos": [
+										"Gipnomanul.vmt",
+										"Gipnomanul.vtf"
+									]
+								}
+							},
+							"models": {
+								"player": {
+									"slow": {
+										"80.248.216.72": {
+											"zombie_dog": [
+												"slow.dx80.vtx",
+												"slow.dx90.vtx",
+												"slow.mdl",
+												"slow.phy",
+												"slow.sw.vtx",
+												"slow.vvd"
+											]
+										}
+									}
+								}
+							},
+							"scripts": [
+								"soundscapes_zm_balun88_ridiculous.txt"
+							]
+						}
+					}
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 318394,
+			"_nDownloadCount": 1233,
+			"_nFilesize": 6077551,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/318394",
+			"_sFile": "zm_balun88_ridiculous_2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1286721379
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 131330,
+	"_sName": "zm_balun88_ridiculous",
+	"_sText": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://www.youtube.com/v/1xS34Qk0_R0&hl=ru_RU&feature=player_embedded&version=3\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowScriptAccess\" value=\"always\"></param><embed src=\"http://www.youtube.com/v/1xS34Qk0_R0&hl=ru_RU&feature=player_embedded&version=3\" type=\"application/x-shockwave-flash\" allowfullscreen=\"true\" allowScriptAccess=\"always\" width=\"640\" height=\"390\"></embed></object>\r\nNote: the map very well optimized by areaportals and hints, so dont discourage by 20-30 fps at screenshoots (my computer is weak +Fraps)\r\n\r\n<object width=\"640\" height=\"385\"><param name=\"movie\" value=\"http://www.youtube.com/v/rBoPzO11ifo?fs=1&amp;hl=ru_RU\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://www.youtube.com/v/rBoPzO11ifo?fs=1&amp;hl=ru_RU\" type=\"application/x-shockwave-flash\" allowscriptaccess=\"always\" allowfullscreen=\"true\" width=\"640\" height=\"385\"></embed></object>\r\n\r\n********** Important information about map: **********\r\n\r\n*** There is 60 spawns. More detailed info on screenshoot #1\r\n\r\n*** Here there is a management room in which it is necessary to press Enter on the keyboard to open doors on outdoors.\r\n\r\n*** Here is also few the Easter Eggs.\r\n\r\n*** There is 3 big place where humans may defend himself.\r\n\r\n*** Alot of camping spots, from which you may defend yourself 10-20 seconds.\r\n\r\n*** 2 ways for zombies to offend humans at each defence position.\r\n\r\n*** Dog in pipe bite players so they seat in pipe not so long as they want to seat\r\n\r\n\r\nIf you like this map and want place it on your server BUT find something annoying and/or wrong you may send me email at: EduardBezer@gmail.com or EduardBezer@rambler.ru\r\nEnjoy!\r\n*** 9.10.2010 ***"
+}

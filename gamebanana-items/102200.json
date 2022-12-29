@@ -1,0 +1,56 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"de_dust_skalash_massai": {
+						"cstrike": {
+							"maps": [
+								"de_dust_skalash_massai.bsp",
+								"de_dust_skalash_massai.nav",
+								"de_dust_skalash_massai.res"
+							],
+							"materials": {
+								"decals": {
+									"custom": {
+										"mani_admin_plugin": [
+											"deaglemassai.vmt",
+											"deaglemassai.vtf",
+											"duelctt.vmt",
+											"duelctt.vtf"
+										]
+									}
+								},
+								"overviews": [
+									"de_dust_skalash_massai.vmt",
+									"de_dust_skalash_massai.vtf"
+								]
+							},
+							"resource": {
+								"overviews": [
+									"de_dust_skalash_massai.txt"
+								]
+							}
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 330862,
+			"_nDownloadCount": 2933,
+			"_nFilesize": 4293615,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/330862",
+			"_sFile": "de_dust_skalash_massai.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1246185984
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 102200,
+	"_sName": "de_dust_skalash_massai",
+	"_sText": "Map Diffuse in the style dust rather nice in played to realize on a mixture of map.\r\n\r\n"
+}

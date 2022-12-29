@@ -1,0 +1,104 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"maps": [
+						"fy_oldkiddieland.bsp"
+					],
+					"materials": {
+						"586KiddieLand": [
+							"Playground_floor.vmt",
+							"Playground_floor.vtf",
+							"Playground_floor_nrm.vtf",
+							"Playground_wall.vmt",
+							"Playground_wall.vtf",
+							"Playground_wall_nrm.vtf"
+						],
+						"models": {
+							"props": {
+								"586KiddieLand": [
+									"Blue.vmt",
+									"Blue.vtf",
+									"Green.vmt",
+									"Green.vtf",
+									"Horsie.vmt",
+									"Horsie_Diffuse.vtf",
+									"Horsie_Normal.vtf",
+									"Horsie_Specular.vtf",
+									"Red.vmt",
+									"Red.vtf",
+									"Swings.vmt",
+									"Swings_Diffuse.vtf",
+									"Swings_normal.vtf",
+									"Toilet.vmt",
+									"Toilet_Diffuse.vtf",
+									"Toilet_normal.vtf",
+									"bench.vmt",
+									"bench.vtf"
+								]
+							}
+						}
+					},
+					"models": {
+						"props": {
+							"586KiddieLand": [
+								"Ballbox.dx80.vtx",
+								"Ballbox.dx90.vtx",
+								"Ballbox.sw.vtx",
+								"Ballbox.xbox.vtx",
+								"Bench.dx80.vtx",
+								"Bench.dx90.vtx",
+								"Bench.phy",
+								"Bench.sw.vtx",
+								"Bench.xbox.vtx",
+								"Horsie.dx80.vtx",
+								"Horsie.dx90.vtx",
+								"Horsie.phy",
+								"Horsie.sw.vtx",
+								"Horsie.xbox.vtx",
+								"Swings.dx80.vtx",
+								"Swings.dx90.vtx",
+								"Swings.phy",
+								"Swings.sw.vtx",
+								"Swings.xbox.vtx",
+								"Toilet.dx80.vtx",
+								"Toilet.dx90.vtx",
+								"Toilet.phy",
+								"Toilet.sw.vtx",
+								"Toilet.xbox.vtx",
+								"ballbox.mdl",
+								"ballbox.vvd",
+								"bench.mdl",
+								"bench.vvd",
+								"horsie.mdl",
+								"horsie.vvd",
+								"swings.mdl",
+								"swings.vvd",
+								"toilet.mdl",
+								"toilet.vvd"
+							]
+						}
+					}
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 309422,
+			"_nDownloadCount": 2158,
+			"_nFilesize": 9053738,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/309422",
+			"_sFile": "219__35-.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1314442817
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 111161,
+	"_sName": "Fight Yard of KiddieLand",
+	"_sText": "+++ 586 Studios Toy Time Contest entry +++\r\n\r\nTake action as little kids fighting on their own playground in this 1.5 scaled Map of a playground an it's surrounding.\r\n\r\nFEATURES:\r\n\r\n- Special custom model for the props\r\n- 2 custom texture for varieties of the playground\r\n- Total 3d Skybox\r\n- 32 Total Spawn point for both CT and T\r\n- And other more (if there is any)\r\n\r\n\r\nHave FUN!\r\n\r\nNote: \r\n\r\n- This was compiled with the EP1 compiler (don't know if this will still work on the new Orange Box engine)\r\n- if there's any problem, don't be afraid to post it here"
+}

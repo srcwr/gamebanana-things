@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"gg_zone32n.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 318550,
+			"_nDownloadCount": 1196,
+			"_nFilesize": 4531622,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/318550",
+			"_sFile": "gg_zone32n.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1286201409
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 137516,
+	"_sName": "gg_zone32",
+	"_sText": "** CHANGED TO ZONE32N, ONLY BSP WITHOUT RADAR AND NAV FILE **\r\n** TO TEST FOR CRASHING ISSUE **\r\n\r\nA simple map with 4 level: roof, upper, main and lower.\r\nThere are ramps and ladders for level-to-level access and teleports\r\nwhich will zap you over to the diagonal opposite corner.\r\nThe lower level is filled with water and has ladders to the roof.\r\nPlenty of boxes for cover and camping."
+}

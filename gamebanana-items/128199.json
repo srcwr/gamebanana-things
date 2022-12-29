@@ -1,0 +1,45 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "mg_ka_trains_detach_evo_v2_3.bsp",
+					"plugin": [
+						"infinite-jumping.smx",
+						"infinite-jumping.sp",
+						"readme.txt"
+					]
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 285845,
+			"_nDownloadCount": 2482,
+			"_nFilesize": 20160017,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/285845",
+			"_sFile": "mg_ka_trains_detach_evo_v2_3.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1411828605
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "new modes, new song, new things"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "v2.3",
+			"_tsDateAdded": 1414533027
+		}
+	],
+	"_idRow": 128199,
+	"_sName": "mg_ka_trains_detach_evo",
+	"_sText": "<hr>\r\n<fieldset><legend><h1 align=\"center\"><b class=\"BlueColor\">mg_ka_trains_detach_evo</b></h1></legend>\r\n\r\nHello, I remade this map, by adding something to make it more mg_ ....<br>\r\n<font size=\"4\"><b class=\"RedColor\">Modes</b></font>.<br><br>\r\n\r\nThe mapmaker of mg_ka_trains_detach tried to do something like this but forgot some output in an entity ^^</fieldset>\r\n<hr>\r\n<fieldset><legend><h1 align=\"center\"><b class=\"BlueColor\">Modes</b></h1></legend>\r\n\r\nThe map is split into 2 globals \"modes\".<br>\r\nPer default, the mode is \"Fun\", and got 10 modes possible.<br>\r\nIn the other mode you can only play Normal &amp; Autobhop (which need a plugin i included) \r\n\r\n<fieldset><font color=\"orange\">\r\n\r\n <ul><li> Normal (like the old ka_trains_detach)</li>\r\n<li> Autobhop (it needs the infinite-jumping plugin you can find at <a href=\"https://forums.alliedmods.net/showthread.php?p=1239361\">https://forums.alliedmods.net/showthread.php?p=1239361</a> or in the file)</li>\r\n<li> Drug (everyone is drugged and get some colors on the screen (it use sm_drug command)</li>\r\n<li> Low Grav (you get low gravity)</li>\r\n<li> Blind (your screen became almost black (it uses sm_blind 230 command) )</li>\r\n<li> ScoutKnivez (give you scout and low gravity)</li>\r\n<li> 1 HP mode</li>\r\n<li> 200 HP mode</li>\r\n<li> Big players (it's 2x Size)</li>\r\n<li> Little players (its mini size)</li>\r\n<li> Mushroom Drug (you get a drugged screen)</li></ul></font></fieldset></fieldset>\r\n\r\n<hr>\r\n<fieldset><legend><h1 align=\"center\"><b class=\"BlueColor\">Some Skins</b></h1></legend>\r\n\r\nCT get a random big-head skin every round and T get a random big-head skin every round.<br></fieldset>\r\n\r\n<hr>\r\n<fieldset><legend><h1 align=\"center\"><b class=\"BlueColor\">Some Musics</b></h1></legend>\r\n\r\nMusic is played automatically in \"Fun\" Mode\r\n\r\n<ul><li> El mudo - Chacarron Macarron</li>\r\n<li> Matrix Futurebound ft. Luke Bingham - All i know</li>\r\n<li> Benny Hill - Theme</li>\r\n<li> Darude - SandStorm</li>\r\n<li> Scatman</li>\r\n<li> Titanic Flute</li>\r\n<li> Le Internet Medlay</li>\r\n<li> Chineese Music</li></ul></fieldset>\r\n<hr>\r\n<fieldset><legend><h1 align=\"center\"><b class=\"BlueColor\">How to change mode</b></h1></legend>\r\n\r\nIf you are admin, just noclip to the room with dev-texture colored.\r\n\r\n<ul><li> Button at the right to enable \"Fun\" Mode</li>\r\n<li> Button at the left to enable \"Classic\" Mode</li></ul>\r\n\r\nIf no admins on, you can go there, by first going in the skybox using a teleporter there: \r\n\r\n<img src=\"http://i.imgur.com/OYAKmfA.jpg\">\r\n\r\nAnd then press a \"secret\" button on the ground (check the edge of the skybox to see it).\r\n\r\nWhen you go in the skybox, your skin become a daft punk skin.</fieldset>\r\n\r\n<h1 align=\"center\"><b class=\"GreenColor\">Enjoy</b></h1>"
+}

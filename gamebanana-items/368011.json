@@ -1,0 +1,35 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"bhop_dark_blizzard_fix.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 809580,
+			"_nDownloadCount": 83,
+			"_nFilesize": 14157786,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "Latest Version",
+			"_sDownloadUrl": "https://gamebanana.com/dl/809580",
+			"_sFile": "bhop_dark_blizzard_fix_200b6.7z",
+			"_sMd5Checksum": "3ed1ad16c48ba6069c754b06b24a2c08",
+			"_tsDateAdded": 1654420262
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [],
+			"_sText": "<p>New version<br>Read description for details</p>",
+			"_sTitle": "bhop_dark_blizzard_fix",
+			"_tsDateAdded": 1654416639
+		}
+	],
+	"_idRow": 368011,
+	"_sName": "Dark Blizzard",
+	"_sText": "bhop_dark_blizzard_fix<br>Map by Heyfumi<br><br>Scroll and Autobhop <br>3 Stages, simple, and short<br><br>Fixed prop z-fighting issue, fixed prop fading (should be less noticeable now)<br>fixed teleport trigger for scroll, fixed env_fade (should be client sided now)<br>Smaller in size (14mb), Map layout remain unaltered<br><br>————————<br><br>My first attempt to make a bhop map<br>Creation time is 2 weeks<br><br>For intended playing experience, please enable color correction, bloom and 3dsky ;)<br> \"shavit_misc_startonspawn 0 in map cfg\"<br>"
+}

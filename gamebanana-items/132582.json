@@ -1,0 +1,76 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"FastDL": [
+						"zm_pez_island_b4.bsp.bz2"
+					],
+					"Server": [
+						"zm_pez_island_b4.bsp"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 289241,
+			"_nDownloadCount": 823,
+			"_nFilesize": 129513667,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/289241",
+			"_sFile": "zm_pez_island_b4_fab1c.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1394739592
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Door sound bugfix"
+				},
+				{
+					"cat": "-",
+					"text": "Added train boat"
+				},
+				{
+					"cat": "-",
+					"text": "Added train plane + teleport"
+				},
+				{
+					"cat": "-",
+					"text": "Helicopter button bugfix"
+				},
+				{
+					"cat": "-",
+					"text": "Added fishes on spawn + spot"
+				},
+				{
+					"cat": "-",
+					"text": "Added toliette"
+				},
+				{
+					"cat": "-",
+					"text": "New paths for cloud and bigger cloud"
+				},
+				{
+					"cat": "-",
+					"text": "Spot fixing"
+				},
+				{
+					"cat": "-",
+					"text": "Cannon bugfix"
+				}
+			],
+			"_sText": "Goodd",
+			"_sTitle": "Beta 4",
+			"_tsDateAdded": 1405798795
+		}
+	],
+	"_idRow": 132582,
+	"_sName": "zm_pez_island",
+	"_sText": "Used CVars:<br>sv_turbophysics 0,<br>sv_airaccelerate 100,<br>sv_wateraccelerate 100,<br>mp_roundtime 5<br><br>Textures and sounds packed to the map file.<br><br>On the map:<br>Helicopter - in the helicopter house (activate generator),<br>Boat, Submarine - on water,<br>Car - in the house,<br>Cannon - on the tower,<br>TrainCar, TrainCloud, TrainBoat, TrainPlane<br><br>Teleports:<br>Music room with discoball, skybox, fan room, low gravity room, player speed accelerator (speeder), \"High glass\"<br><span class=\"RedColor\"><br>SM PLUGINS NEEDED FOR THE BETTER GAME: NoBlock, SM_Parachute</span><br><br>Map sounds/musics:<br>Skrillex - Kyoto, Make It Bun Dem, Right in, Summit, Breakn a sweet,<br>Flux Pavillion - Bass Cannon,<br>Gone in 60sec - Low Rider,<br><br><a href=\"https://www.mediafire.com/folder/55mpc6pb0qt8t/Maps\" target=\"_blank\">For older versions, click here.</a>"
+}

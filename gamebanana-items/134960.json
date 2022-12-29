@@ -1,0 +1,74 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "1.jpg",
+					"1": "2.jpg",
+					"2": "3.jpg",
+					"3": "4.jpg",
+					"4": "5.jpg",
+					"with buyzones": {
+						"maps": [
+							"gg_dev_4wai_buyzones.bsp"
+						],
+						"materials": {
+							"skybox": [
+								"iraqibk.vmt",
+								"iraqibk.vtf",
+								"iraqidn.vmt",
+								"iraqidn.vtf",
+								"iraqift.vmt",
+								"iraqift.vtf",
+								"iraqilf.vmt",
+								"iraqilf.vtf",
+								"iraqirt.vmt",
+								"iraqirt.vtf",
+								"iraqiup.vmt",
+								"iraqiup.vtf"
+							]
+						}
+					},
+					"without buyzones": {
+						"maps": [
+							"gg_dev_4wai_nobuyzones.bsp"
+						],
+						"materials": {
+							"skybox": [
+								"iraqibk.vmt",
+								"iraqibk.vtf",
+								"iraqidn.vmt",
+								"iraqidn.vtf",
+								"iraqift.vmt",
+								"iraqift.vtf",
+								"iraqilf.vmt",
+								"iraqilf.vtf",
+								"iraqirt.vmt",
+								"iraqirt.vtf",
+								"iraqiup.vmt",
+								"iraqiup.vtf"
+							]
+						}
+					}
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 329716,
+			"_nDownloadCount": 1029,
+			"_nFilesize": 1899614,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/329716",
+			"_sFile": "gg_dev_4wai.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1250153767
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 134960,
+	"_sName": "gg_fy_dev_4wai",
+	"_sText": "Oh hey, made a map in a night, and here it is :D\r\nIt's a dev map coz I HATE TEXTURING!\r\nIf you want, retexture it, make it look UGLY."
+}

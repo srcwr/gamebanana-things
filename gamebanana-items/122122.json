@@ -1,0 +1,52 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrike": {
+						"maps": [
+							"surf_gathering_final README.txt",
+							"surf_gathering_final.bsp",
+							"surf_gathering_final.res"
+						],
+						"materials": {
+							"skybox": {
+								"AngryBeaver": [
+									"AB_spacebk.vmt",
+									"AB_spacebk.vtf",
+									"AB_spacedn.vmt",
+									"AB_spacedn.vtf",
+									"AB_spaceft.vmt",
+									"AB_spaceft.vtf",
+									"AB_spacelf.vmt",
+									"AB_spacelf.vtf",
+									"AB_spacert.vmt",
+									"AB_spacert.vtf",
+									"AB_spaceup.vmt",
+									"AB_spaceup.vtf"
+								]
+							}
+						}
+					}
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 347282,
+			"_nDownloadCount": 1828,
+			"_nFilesize": 2358749,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/347282",
+			"_sFile": "surf_gathering_final.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1194238800
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 122122,
+	"_sName": "surf_gathering_final",
+	"_sText": "Author notes\r\nA big surf map with tons of fast surf tracks, jumps, deathmatch areas, guns all over, etc. Try it, it's really cool. All in an outer-space setting.\r\n\r\nAs this is a Surf map, remember to change SV_AIRACCCELERATE to something high. If you don't know what I'm saying, just go into console and type \"sv_airaccelerate 225\". This will allow you to surf and not fall off ramps. Trust me, all surf servers do this.\r\n\r\n40 Spawn points"
+}

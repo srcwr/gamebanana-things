@@ -1,0 +1,387 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrike": {
+						"maps": [
+							"scout_bowser_mario.bsp",
+							"scout_bowser_mario.res"
+						],
+						"materials": {
+							"VGUI": {
+								"logos": [
+									"Muttley.vmt",
+									"Muttley.vtf"
+								]
+							},
+							"mario_64": [
+								"bowser_painting.vmt",
+								"bowser_painting.vtf",
+								"brick_brown.vmt",
+								"brick_brown.vtf",
+								"brick_cloudwall.vmt",
+								"brick_cloudwall.vtf",
+								"brick_silvergray.vmt",
+								"brick_silvergray.vtf",
+								"brick_terracotta_gray_morter.vmt",
+								"brick_terracotta_gray_morter.vtf",
+								"tile_floor_3lobe_gray.vmt",
+								"tile_floor_3lobe_gray.vtf"
+							],
+							"models": {
+								"marioragdoll": {
+									"Super Mario Galaxy": {
+										"Bowser": [
+											"bowserHighLightF.vtf",
+											"bowserKoopa.vmt",
+											"bowserKoopaBody.vmt",
+											"bowserKoopaBody.vtf",
+											"bowserKoopaBodyMask_temp.vtf",
+											"bowserKoopaEyeBall.vmt",
+											"bowserKoopaEyeBall.vtf",
+											"bowserKoopaEyeLi1.vtf",
+											"bowserKoopaEyeLi2.vmt",
+											"bowserKoopaEyeLi2.vtf",
+											"bowserKoopaEyeLi3.vmt",
+											"bowserKoopaEyeLid.vmt",
+											"bowserKoopaEyeLid.vtf",
+											"bowserKoopaHair.vmt",
+											"bowserKoopaHair.vtf",
+											"bowserKoopaHairMask_Temp.vtf",
+											"bowserKoopaLip.vmt",
+											"bowserKoopaLip.vtf",
+											"bowserKoopaLipMask.vtf",
+											"bowserKoopaMouth.vmt",
+											"bowserKoopaMouth.vtf",
+											"bowserKoopaRing.vmt",
+											"bowserKoopaRing.vtf",
+											"bowserKoopaShell.vmt",
+											"bowserKoopaShell.vtf",
+											"bowserKoopaShellMask.vtf",
+											"white.vmt",
+											"white.vtf"
+										],
+										"Goomba": [
+											"gianSS00.vmt",
+											"gianSS00.vtf",
+											"gianSS01.vmt",
+											"gianSS01.vtf",
+											"gianSS02.vmt",
+											"gianSS02.vtf",
+											"gianSS03.vmt",
+											"gianSS03.vtf",
+											"goomSS00.vmt",
+											"goomSS00.vtf",
+											"goomSS01.vmt",
+											"goomSS01.vtf",
+											"goomSS02.vmt",
+											"goomSS02.vtf",
+											"goomSS03.vmt",
+											"goomSS03.vtf"
+										],
+										"bjship": [
+											"bjshSS00.vmt",
+											"bjshSS00.vtf",
+											"bjshSS01.vmt",
+											"bjshSS01.vtf",
+											"bjshSS02.vmt",
+											"bjshSS02.vtf",
+											"bjshSS03.vmt",
+											"bjshSS03.vtf",
+											"bjshSS04.vmt",
+											"bjshSS04.vtf",
+											"bjshSS05.vmt",
+											"bjshSS05.vtf",
+											"bjshSS06.vmt",
+											"bjshSS06.vtf",
+											"bjshSS07.vmt",
+											"bjshSS07.vtf"
+										],
+										"bonzai bill": [
+											"bonzSS00.vmt",
+											"bonzSS00.vtf",
+											"bonzSS01.vmt",
+											"bonzSS01.vtf",
+											"bonzSS02.vmt",
+											"bonzSS02.vtf",
+											"bonzSS03.vmt",
+											"bonzSS03.vtf"
+										],
+										"bullet bill": [
+											"bullSS00.vmt",
+											"bullSS00.vtf",
+											"bullSS01.vmt",
+											"bullSS01.vtf"
+										],
+										"chain chomp": [
+											"chaiSS01.vmt",
+											"chaiSS01.vtf",
+											"chaiSS03.vmt",
+											"chaiSS03.vtf",
+											"chaiSS05.vtf"
+										],
+										"fire flower": [
+											"fireSS00.vmt",
+											"fireSS00.vtf"
+										],
+										"luigi": [
+											"LuigiBody.vtf",
+											"Thumbs.db",
+											"fireluigi.vmt",
+											"fireluigi.vtf",
+											"fireluigicap.vmt",
+											"fireluigicap.vtf",
+											"ghosSM00.vmt",
+											"ghosSM00.vtf",
+											"luigi cap.PNG",
+											"luigiLuigi.vmt",
+											"luigiLuigiBody.vmt",
+											"luigiLuigiBody.vtf",
+											"luigiLuigiBody_normal.vtf",
+											"luigiLuigiCap.vmt",
+											"luigiLuigiCap.vtf",
+											"luigiLuigiCap_normal.vtf",
+											"luigiLuigiEyeBall.vmt",
+											"luigiLuigiEyeBall.vtf",
+											"luigiLuigiEyeBall_normal.vtf",
+											"luigiLuigiFace.vmt",
+											"luigiLuigiFace.vtf",
+											"luigiLuigiFace_normal.vtf",
+											"luigiLuigiHair.vmt",
+											"luigiLuigiHair.vtf",
+											"luigiLuigiHair_normal.vtf",
+											"luigiLuigiHand.vmt",
+											"luigiLuigiHand.vtf",
+											"luigiLuigiHand_normal.vtf",
+											"luigiLuigi_eyeLi1.vtf",
+											"luigiLuigi_eyelid.vmt",
+											"luigiLuigi_eyelid.vtf",
+											"luigiLuigi_eyelid_normal.vtf",
+											"luigiNoizu.vmt",
+											"luigiNoizu.vtf",
+											"luigiflying.vmt",
+											"luigiflying.vtf",
+											"luigiflyingca.vmt",
+											"luigiflyingcap.vtf"
+										],
+										"luma": [
+											"lumaSS00 blue.vtf",
+											"lumaSS00.vmt",
+											"lumaSS00.vtf",
+											"lumaSS01.vtf",
+											"lumaSS02 black.vtf",
+											"lumaSS02 blue.vtf",
+											"lumaSS02 green.vtf",
+											"lumaSS02 peach.vtf",
+											"lumaSS02 pink.vtf",
+											"lumaSS02 yellow.vtf",
+											"lumaSS02.vmt",
+											"lumaSS03.vmt",
+											"lumaSS03.vtf",
+											"lumaSS04.vmt",
+											"lumaSS05.vmt",
+											"lumaSS06.vmt",
+											"lumaSS07.vmt",
+											"lumaSS0b.vmt",
+											"white.vmt",
+											"white.vtf"
+										]
+									},
+									"Super_Mario_64": {
+										"Mario": [
+											"Copy (4) of eye3.vmt",
+											"blue.vmt",
+											"blue.vtf",
+											"brown.vmt",
+											"brown.vtf",
+											"button.vmt",
+											"button.vtf",
+											"eye.vmt",
+											"eye.vtf",
+											"eye2.vmt",
+											"eye2.vtf",
+											"eye3.vmt",
+											"eye3.vtf",
+											"eye7.vmt",
+											"eye8.vmt",
+											"eye8.vtf",
+											"eyes4.vmt",
+											"eyes4.vtf",
+											"eyes5.vmt",
+											"eyes5.vtf",
+											"eyes6.vmt",
+											"eyes6.vtf",
+											"eyes7.vmt",
+											"eyes7.vtf",
+											"m.vmt",
+											"m.vtf",
+											"metal.vmt",
+											"metal.vtf",
+											"mustache.vmt",
+											"mustache.vtf",
+											"red.vmt",
+											"red.vtf",
+											"sideburn.vmt",
+											"sideburn.vtf",
+											"skin.vmt",
+											"skin.vtf",
+											"white.vmt",
+											"white.vtf"
+										]
+									}
+								}
+							}
+						},
+						"models": {
+							"marioragdoll": {
+								"Super Mario Galaxy": {
+									"Bowser": [
+										"bowser.dx80.vtx",
+										"bowser.dx90.vtx",
+										"bowser.mdl",
+										"bowser.phy",
+										"bowser.sw.vtx",
+										"bowser.vvd",
+										"bowser.xbox.vtx"
+									],
+									"bj ship": [
+										"bjship.dx80.vtx",
+										"bjship.dx90.vtx",
+										"bjship.mdl",
+										"bjship.phy",
+										"bjship.sw.vtx",
+										"bjship.vvd",
+										"bjship.xbox.vtx"
+									],
+									"bonzai bill": [
+										"bonzaibill.dx80.vtx",
+										"bonzaibill.dx90.vtx",
+										"bonzaibill.mdl",
+										"bonzaibill.phy",
+										"bonzaibill.sw.vtx",
+										"bonzaibill.vvd",
+										"bonzaibill.xbox.vtx"
+									],
+									"bullet bill": [
+										"bulletbill.dx80.vtx",
+										"bulletbill.dx90.vtx",
+										"bulletbill.mdl",
+										"bulletbill.phy",
+										"bulletbill.sw.vtx",
+										"bulletbill.vvd",
+										"bulletbill.xbox.vtx"
+									],
+									"chain chomp": [
+										"chainchomp.dx80.vtx",
+										"chainchomp.dx90.vtx",
+										"chainchomp.mdl",
+										"chainchomp.phy",
+										"chainchomp.sw.vtx",
+										"chainchomp.vvd",
+										"chainchomp.xbox.vtx"
+									],
+									"fire flower": [
+										"fire.dx80.vtx",
+										"fire.dx90.vtx",
+										"fire.mdl",
+										"fire.phy",
+										"fire.sw.vtx",
+										"fire.vvd",
+										"fire.xbox.vtx"
+									],
+									"goomba": [
+										"bgoomba.dx80.vtx",
+										"bgoomba.dx90.vtx",
+										"bgoomba.mdl",
+										"bgoomba.phy",
+										"bgoomba.sw.vtx",
+										"bgoomba.vvd",
+										"bgoomba.xbox.vtx"
+									],
+									"luigi": [
+										"luigi.dx80.vtx",
+										"luigi.dx90.vtx",
+										"luigi.mdl",
+										"luigi.phy",
+										"luigi.sw.vtx",
+										"luigi.vvd",
+										"luigi.xbox.vtx"
+									],
+									"luma": [
+										"luma.dx80.vtx",
+										"luma.dx90.vtx",
+										"luma.mdl",
+										"luma.phy",
+										"luma.sw.vtx",
+										"luma.vvd",
+										"luma.xbox.vtx",
+										"luma2.dx80.vtx",
+										"luma2.dx90.vtx",
+										"luma2.mdl",
+										"luma2.phy",
+										"luma2.sw.vtx",
+										"luma2.vvd",
+										"luma2.xbox.vtx",
+										"luma3.dx80.vtx",
+										"luma3.dx90.vtx",
+										"luma3.mdl",
+										"luma3.phy",
+										"luma3.sw.vtx",
+										"luma3.vvd",
+										"luma3.xbox.vtx",
+										"luma6.dx80.vtx",
+										"luma6.dx90.vtx",
+										"luma6.mdl",
+										"luma6.phy",
+										"luma6.sw.vtx",
+										"luma6.vvd",
+										"luma6.xbox.vtx"
+									]
+								},
+								"Super_Mario_64": {
+									"mario": [
+										"mario.dx80.vtx",
+										"mario.dx90.vtx",
+										"mario.mdl",
+										"mario.phy",
+										"mario.sw.vtx",
+										"mario.vvd",
+										"mario.xbox.vtx"
+									]
+								}
+							}
+						},
+						"sound": {
+							"mario": {
+								"0": "bowser.wav",
+								"1": "falling1.wav",
+								"2": "mario_classic.wav",
+								"misc": [
+									"falling1.wav"
+								]
+							}
+						}
+					}
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 328147,
+			"_nDownloadCount": 2267,
+			"_nFilesize": 5646123,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/328147",
+			"_sFile": "cstrike_152.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1255230822
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 121384,
+	"_sName": "scout_bowser_mario",
+	"_sText": "A small fun map with a Mario Bros style. Lots of materials and sounds.\r\nFor who is a Mario fan, I hope you all can enjoy it !!!\r\nBy the way, this is my second map.\r\nThx all."
+}

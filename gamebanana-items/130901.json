@@ -1,0 +1,54 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"entwatch_ze_offliner_v2b.cfg",
+					"ze_offliner_v2b.bsp",
+					"ze_offliner_v2b.cfg"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 589760,
+			"_nDownloadCount": 98,
+			"_nFilesize": 35910247,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/589760",
+			"_sFile": "ze_offliner_v2b.rar",
+			"_sMd5Checksum": "bdb4eea2daa1dabe06b1daae38d3b314",
+			"_tsDateAdded": 1623441997
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Few holds, shortcuts"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Reworked bossfight to make it a bit easier"
+				},
+				{
+					"cat": "Addition",
+					"text": "Dynamic boss hp (calculated every segment)"
+				},
+				{
+					"cat": "Overhaul",
+					"text": "Few additions here and there"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "v2b",
+			"_tsDateAdded": 1623442531
+		}
+	],
+	"_idRow": 130901,
+	"_sName": "ze_offliner",
+	"_sText": "Map I made under 10 days for unloze mapping contest.<br><br><span class=\"RedColor\">csgo port</span> :&nbsp;https://gamebanana.com/maps/212264<br>"
+}

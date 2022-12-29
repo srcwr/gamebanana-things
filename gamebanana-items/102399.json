@@ -1,0 +1,44 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"maps": [
+						"de_forest.bsp",
+						"de_forest.nav",
+						"de_forest.txt"
+					],
+					"scripts": [
+						"soundscapes_forest.txt",
+						"soundscapes_manifest.txt"
+					],
+					"sound": {
+						"de_forest": [
+							"forest_01.wav",
+							"forest_ambience.wav",
+							"stream.wav",
+							"waterfall.wav",
+							"waterfall2.wav"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 348024,
+			"_nDownloadCount": 108384,
+			"_nFilesize": 45975623,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/348024",
+			"_sFile": "de_forest_2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1191839189
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 102399,
+	"_sName": "de_forest",
+	"_sText": "<b>****UPDATE:****\r\n I noticed that alot of people were commenting on a lack of ambient sound, I just checked and I forgot to include my custom soudscape and soundfiles!!\r\n\r\nI have just updated the ZIP file to include these files, simply redownload and re-extract to your CS folder (not your maps folder!</b>\r\n\r\nHello everyone, Im pleased to announce the release of De_Forest! \r\n\r\nThere's been alot of blood sweat and tears to get this into the state it is today, also figuring out how the hell to make a forest map work in the Source engine, but Im pretty proud of how it looks and plays now. \r\n\r\nIt should run well on most systems with a ati 9800 / nvidia 6xxx or above, not sure about below that as I havent been able to test on lower end systems. \r\n\r\nIntro: \r\n======= \r\nTerrorists have been hiding out in the woods for months and are being hunted down for \r\ninformation on spies within a number of high ranking organisations assisting \r\nin plotting terror attacks. \r\n\r\nAs the terrorist team you must destroy all evidence of \r\nsuch activities by planting bombs at either of the two sites which were being used \r\nas the hideout. \r\n\r\nAs the CTs you must secure the hideouts and prevent the terrorists from \r\ndestorying the information. \r\n\r\n\r\n\r\nTips: \r\n====== \r\nIf you get lost, find your way back to the river and look for landmarks which will point you in the right direction. There are also many signposts dotted around the forest to help you find your way to the bombsites. \r\n\r\n\r\nFootnote: \r\n========= \r\nThanks to everyone who offered feedback and advice on this map, its been a big challenge and a hard journey and I hope you have fun! \r\n"
+}

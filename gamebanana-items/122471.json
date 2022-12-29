@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"IMPORTANT_README_PLUGIN_TELEPORT_ZONE_LIST.txt",
+					"surf_lt_unicorn.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 284284,
+			"_nDownloadCount": 4420,
+			"_nFilesize": 66180245,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/284284",
+			"_sFile": "surf_lt_unicorn_3.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1422864873
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 122471,
+	"_sName": "surf_lt_unicorn",
+	"_sText": "[nyro's SDK Steam Group](http://steamcommunity.com/groups/nyrosdk \"nyro's SDK Steam Group\")\r\n\r\n<iframe width=\"480\" height=\"270\" src=\"https://www.youtube.com/embed/wX8_bRxujeE\" frameborder=\"0\" allowfullscreen></iframe>\r\n\r\nSURF\\_LT\\_UNICORN - 02-02-15\r\n=======================\r\n- Map by: Nicholas P. Low, aka nyro\r\n- Contact: nyronic@gmail.com\r\n- <form action=\"https://www.paypal.com/cgi-bin/webscr\" method=\"post\" target=\"_top\">\r\n<input type=\"hidden\" name=\"cmd\" value=\"_donations\">\r\n<input type=\"hidden\" name=\"business\" value=\"nyronic@gmail.com\">\r\n<input type=\"hidden\" name=\"lc\" value=\"US\">\r\n<input type=\"hidden\" name=\"item_name\" value=\"nyro\">\r\n<input type=\"hidden\" name=\"item_number\" value=\"nyronic\">\r\n<input type=\"hidden\" name=\"currency_code\" value=\"USD\">\r\n<input type=\"hidden\" name=\"bn\" value=\"PP-DonationsBF:btn_donate_LG.gif:NonHosted\">\r\n<input type=\"image\" src=\"https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif\" border=\"0\" name=\"submit\" alt=\"PayPal - The safer, easier way to pay online!\">\r\n<img alt=\"\" border=\"0\" src=\"https://www.paypalobjects.com/en_US/i/scr/pixel.gif\" width=\"1\" height=\"1\">\r\n</form>\r\n\r\n\r\nSurf Timer Notes:\r\n------------------\r\n- If your servers plugin does not support filter entities for zone triggers, bonus 1 will most likely NOT work!\r\n- Bonus 4 relies on a filtered zone trigger to accurately record completion times, as noted above it's important that your plugin supports filters. If not, the bonus will still function but completion times will be much faster than intended.\r\n- Pre-speed prevention should be disabled on stages 2-6, and bonus 4. Otherwise stage linking will not work, and bonus 4 will not work.\r\n\r\nOther Notes:\r\n------------------\r\n- The rubiks cube at the end was tested with a noblock plugin which sets the player's collision to debris. There were never any issues even with several players standing on it. If the cube is breaking due to players blocking it during rotation, it may be due to the server's noblock plugin.\r\n- **FIXED, SEE BELOW**: 100 tick servers will break the cube no matter what, I didn't know about this as I tested on my own PC at the default 66 tick rate.\r\n\t\r\n\r\nMinor Update - 02-07-15:\r\n------------------\r\n- Fixed the rubiks cube for 100 tick servers with an ent update, the client's bsp will **NOT** differ. For any server admins that care about something silly and pointless, just re-download the map from here!\r\n- If you wish to fix it yourself for whatever reason, just find the 3 momentary_rot_button entities, and change their speed value from 360 to 540. That's it, you're done! :)\r\n\r\n\t\tpoint_servercommand:\r\n\t\t- sv_enablebunnyhopping 1\r\n\t\t- sv_airaccelerate 150\r\n\t\t- mp_limitteams 0\r\n\t\t- sv_maxvelocity 10000\r\n\t\t- mp_freezetime 0\r\n\t\t- mp_round_restart_delay 0\r\n\r\n\t\tDescription:\r\n\t\t- 6 stages increasing in difficulty as you progress.\r\n\t\t- 4 additional bonus stages.\r\n\t\t- All surf ramps were made out of models.\r\n\t\t- Designed for 66 tick.\r\n\t\t- Support for HDR!\r\n\r\n\t\tSpecial Thanks:\r\n\t\t- cfoust - Author of Propper\r\n\t\t- False Logic - Testing Server Provider\r\n\t\t- Jen - Theme Idea\r\n\t\t- hlstriker - Helped teach me particle systems\r\n\t\t- Juxtapo - Feedback and Ideas\r\n\t\t- qr - Feedback and Ideas\r\n\r\n\t\tTesters:\r\n\t\t- Arblarg\r\n\t\t- Doink Face\r\n\t\t- False Logic\r\n\t\t- hlstriker\r\n\t\t- Jen\r\n\t\t- Juxtapo\r\n\t\t- Mark C.\r\n\t\t- niyhm\r\n\t\t- qr\r\n\t\t- Raiin\r\n\t\t- sadali\r\n\t\t- Stephanie\r\n\t\t- Syncronyze\r\n\t\t- pig\r\n\t\t- Krazy\r\n\t\t- fr3shz\r\n\r\n\t\tMusic:\r\n\t\t- Andrew Huang - Pink Fluffy Unicorns Dancing On Rainbows\r\n\t\t- Kenta Nagata - Rainbow Road\r\n\t\t- Jean-Jacques Perrey - Brazilian Flower\r\n\t\t- Amiina - Ammaelis\r\n\t\t- Autechre - Known(1)\r\n\t\t- M83 - Moonchild\r\n\t\t- Accompaniment for Portentous miRthkon Announcements\r\n\t\t- Soundsnap.com - Various sound effects and spawn music\r\n\r\n- <form action=\"https://www.paypal.com/cgi-bin/webscr\" method=\"post\" target=\"_top\">\r\n<input type=\"hidden\" name=\"cmd\" value=\"_donations\">\r\n<input type=\"hidden\" name=\"business\" value=\"nyronic@gmail.com\">\r\n<input type=\"hidden\" name=\"lc\" value=\"US\">\r\n<input type=\"hidden\" name=\"item_name\" value=\"nyro\">\r\n<input type=\"hidden\" name=\"item_number\" value=\"nyronic\">\r\n<input type=\"hidden\" name=\"currency_code\" value=\"USD\">\r\n<input type=\"hidden\" name=\"bn\" value=\"PP-DonationsBF:btn_donate_LG.gif:NonHosted\">\r\n<input type=\"image\" src=\"https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif\" border=\"0\" name=\"submit\" alt=\"PayPal - The safer, easier way to pay online!\">\r\n<img alt=\"\" border=\"0\" src=\"https://www.paypalobjects.com/en_US/i/scr/pixel.gif\" width=\"1\" height=\"1\">\r\n</form>"
+}

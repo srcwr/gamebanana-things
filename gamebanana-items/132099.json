@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"zm_isolation_x.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 336888,
+			"_nDownloadCount": 2047,
+			"_nFilesize": 2116728,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/336888",
+			"_sFile": "zm_isolation_x.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1226291768
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 132099,
+	"_sName": "zm_isolation_x",
+	"_sText": "<font color=\"#6666FF\" face=\"helvetica\"><b>zm_isolation_x</b>\r\n\r\nOriginally made by hecatomb for Headcrab Hunter as hh_isolation, with his permission I took it and re-made it to be ZM compatible.  85% of the map was done by hecatomb, so all credit goes to him.  I added some new rooms, changed the spawns, edited the Nerve Gas along with the alarm and stuff, and made a radar map.  I also added a new way out of spawn -- there's a connection to the vent system to the right of the door.  I did that to help the crowding issue.\r\n\r\nStatistics:\r\n48 Spawns\r\nCubemaps\r\nRadar Map\r\nNerve Gas\r\n\r\nThis is a hybrid escape/camping map.  Players have the option of setting off the Nerve Gas which will kill players in the lower levels of the map.  The outside, portions of the vents, and the nerve gas room itself along with the upper levels are safe from the gas, but a lot of good camping spots are in areas that would be flooded by the gas, so when the sirens go off you gotta fight your way out or be killed.\r\n\r\nThe door where the Nerve Gas button is starts off locked.  You can see in screenshot #2 the un-locker panel.  Press e on it to unlock the door.  When you press the gas button, sirens will go off in affected areas, and the red emergency lights will activate.  Gas is released after 60 seconds, for a 10 second period.  It takes 10 more seconds to dissipate, whereupon the alarms and lights will turn off and the lower levels can be accessed again.  I have a long gameplay video that shows the gas sequence among other things:\r\n\r\n\r\n<embed type=\"application/x-mplayer2\" src=\"http://www.Aura-Forums.com/cstrike/Isolation.wmv\" name=\"MediaPlayer\" width=\"360\" height=\"280\" autoplay=\"0\" autostart=\"0\" />\r\n\r\n\r\nIf you have any questions or comments please let me know!!\r\n- Natalya</font>"
+}

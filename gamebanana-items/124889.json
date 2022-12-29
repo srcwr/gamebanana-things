@@ -1,0 +1,50 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"bhop_duality_v2.bsp",
+					"bhop_duality_v2.nav",
+					"readme.txt"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 284598,
+			"_nDownloadCount": 913,
+			"_nFilesize": 4501127,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/284598",
+			"_sFile": "bhop_duality_v2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1420711399
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Fixed FPS issues in level 2 (thx to juxtapo!)"
+				},
+				{
+					"cat": "-",
+					"text": "Moved around triggers and clip brushes"
+				},
+				{
+					"cat": "-",
+					"text": "Removed HDR Lighting"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "v2",
+			"_tsDateAdded": 1420887714
+		}
+	],
+	"_idRow": 124889,
+	"_sName": "bhop_duality_v2",
+	"_sText": "This is my second map. \r\n\r\nIt's set between two levels, Ice and Fire. \r\n\r\n-Both levels are very easy and the map should only take about 30 seconds to complete on auto, or about 1 minute on scroll.\r\n\r\n-Intended to be speedrun on auto, there are a few sweet skips that I'm sure matmo will find in 10 minutes and ruin my map again :^)\r\n\r\nSpecial thanks:\r\n-HUGE thanks to Juxtapo for fixing FPS issues. \r\n\r\n------------------------\r\n\r\nV2: \r\n\r\nFixed FPS problems on the lava stage (thx Juxtapo)\r\n\r\nRemoved HDR Lighting\r\n\r\nChanged around a few triggers and clip brushes \r\n\r\n\r\nAs a bit of a retrospective, I agree with everyone saying that pologos was better. I made this map with the intention of it being easy; I succeeded in the map being easy but not in it being interesting to play. I've always wanted to make maps with unique designs, so I don't know why I made this one."
+}

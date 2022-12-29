@@ -1,0 +1,55 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "readme.txt",
+					"maps": [
+						"gg_publicstorage.bsp",
+						"gg_publicstorage.nav"
+					]
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 289248,
+			"_nDownloadCount": 802,
+			"_nFilesize": 1420736,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/289248",
+			"_sFile": "gg_publicstorage_v1_7.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1394714196
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Added nav file"
+				}
+			],
+			"_sText": "For servers that use bots.",
+			"_sTitle": "Version 1.7",
+			"_tsDateAdded": 1394735656
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Materials are zipped into bsp file for easier installation."
+				}
+			],
+			"_sText": "Update was requested by a server admin who wanted to put this map on his server.",
+			"_sTitle": "Version 1.6",
+			"_tsDateAdded": 1394730527
+		}
+	],
+	"_idRow": 136207,
+	"_sName": "gg_publicstorage",
+	"_sText": "Hi there! And thank you for downloading my map. I appreciate the support and hope you enjoy it! All \r\nmaterials included in this file were made from scratch by me, Donnie Lewis, aka PBX. The following \r\nprograms were used:\r\n\r\nBlender: www.blender.org\r\nPaint.NET: www.getpaint.net \r\n\r\n\r\nMap was made with the valve Hammer Editor.\r\nMaterials were zipped into the bsp using the BSPZIP tool.\r\n\r\n\r\n\r\n*****INSTALLATION INSTRUCTIONS:*****\r\n\r\nThis map has custom materials but they are integrated into the map's bsp file, Just drag the bsp into\r\nyour maps folder and youre good!\r\n\r\n\r\n\t\t\tDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD\r\n\t\t\tD                                          D\r\n\t\t\tD            000                           D\r\n\t\t\tD             000           ****  ****     D\r\n\t\t\tD              000            ******       D\r\n\t\t\tD    000000000  000000000  000 **** 000    D\r\n\t\t\tD     000000000  000000000  000 ** 000     D\r\n\t\t\tD      000   000  000   000  000  000      D\r\n\t\t\tD       000   000  000   000  000000       D\r\n\t\t\tD      000   000  000   000  000  000      D\r\n\t\t\tD     000000000  000000000  000 ** 000     D\r\n\t\t\tD    00000000   000000000  000 **** 000    D\r\n\t\t\tD   000                       ******       D\r\n\t\t\tD  000                      ****  ****     D\r\n\t\t\tD 000                                      D\r\n\t\t\tD                                          D\r\n\t\t\tDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD"
+}

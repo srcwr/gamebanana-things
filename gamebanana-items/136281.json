@@ -1,0 +1,33 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrike": {
+						"maps": [
+							"gg_rave_trance.bsp",
+							"gg_rave_trance.nav"
+						]
+					}
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 345151,
+			"_nDownloadCount": 1250,
+			"_nFilesize": 1746215,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/345151",
+			"_sFile": "635_cstrike_84.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1200336788
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 136281,
+	"_sName": "gg_rave_trance",
+	"_sText": "This is the finished version of the gg_e_rave_trance_beta. I have added a 3d skybox, a few props, and changed a few lighting details. Thanks to uberkirsche for the rotating disco light prefab, and thanks to Dirge for building advice. \r\n\r\nThe fps is not great on this map but I have tried to improve it as much as possible by applying the no-draw texture to every brush side that cannot be seen, and then turning most of the brushes into func_detail. I don't know what else I can do."
+}

@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"bhop_theory.bsp",
+					"bhop_theory_sr.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 856704,
+			"_nDownloadCount": 87,
+			"_nFilesize": 10142935,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/856704",
+			"_sFile": "bhop_theory.zip",
+			"_sMd5Checksum": "ab18aa8824cdb3e3a79278506565331c",
+			"_tsDateAdded": 1661827847
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 398999,
+	"_sName": "bhop_theory",
+	"_sText": "There are 14 stages, each stage has a unique unusual mechanic. Most of the mechanics were used or can be used in a wr run. Quite challenging map if you dont know how the source engine and bhop mechanics work. You might need showtriggers for the first time playing.<br>There is also the _sr version which doesn't have playerclips after teleports. For the first playthrough, I recommend playing the regular version.<br><br>If you are gonna play it in momentum mod you need to launch in mapping mode and disable some fixes with these commands: <br><br><i><span class=\"GreenColor SelectedElement\">mom_mv_fix_duck_collision 0;mom_mv_fix_nojump_slope_boosts 0;mom_mv_fix_edges 0;mom_mv_normalize_jump_height 0;mom_mv_snap_to_ground 0</span></i>"
+}

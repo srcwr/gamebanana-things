@@ -1,0 +1,45 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"bhop_bkz_aztecbhop.bsp",
+					"bhop_gsbq.bsp",
+					"bhop_kz_climbanoob_fix.bsp",
+					"bhop_placements_v3.bsp",
+					"bhop_rainbow_cs.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 494771,
+			"_nDownloadCount": 74,
+			"_nFilesize": 11265301,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/494771",
+			"_sFile": "new_maps_badc5.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1604774639
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Adjustment",
+					"text": "Fixed a major map-breaking skip for bhop_kz_imanoob and changed the title to bhop_kz_climbanoob"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Fix",
+			"_tsDateAdded": 1604780799
+		}
+	],
+	"_idRow": 126517,
+	"_sName": "Port/Re-Make Map Pack #3",
+	"_sText": "Another collection of maps ported within the past 6~ months by me and a friend.<br>All of these maps should be playable on any style except bhop_kz_imanoob which is strictly for auto. And bhop_gsbq has a \"secret\" room for people who try to skip the map entirely.<br><br>Maps:<br><div class=\"SelectedElement\">bhop_bkz_aztecbhop</div>bhop_gsbq<br>bhop_kz_imanoob<br>bhop_placements_v3<br>bhop_rainbow_cs<br><br>If you run into any issues, leave a comment and they will be addressed accordingly.<br>If any of the original authors has an issue with us releasing your map, please leave a comment or message us and we will take it down ASAP no questions asked.<br>"
+}

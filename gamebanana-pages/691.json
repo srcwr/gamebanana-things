@@ -1,0 +1,1675 @@
+[
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"de_stargate_sgc_v4": {
+							"maps": {
+								"0": "de_stargate_sgc_v4.bsp",
+								"1": "de_stargate_sgc_v4.bsp.ztmp",
+								"2": "de_stargate_sgc_v4.nav",
+								"soundcache": [
+									"de_stargate_sgc_v4.cache"
+								]
+							},
+							"materials": {
+								"overviews": [
+									"de_stargate_sgc_v4.vmt",
+									"de_stargate_sgc_v4.vtf"
+								]
+							},
+							"resource": {
+								"overviews": [
+									"de_stargate_sgc_v4.txt"
+								]
+							},
+							"sound": {
+								"sg": [
+									"Alarm.wav",
+									"IRIS.WAV",
+									"IRISSLAM.WAV",
+									"fan2.wav",
+									"sgchvrnlck.wav",
+									"sgcls.wav",
+									"sgopn.wav",
+									"sgwtrsnd.wav",
+									"tau03.wav"
+								]
+							}
+						}
+					}
+				},
+				"_bContainsExe": false,
+				"_idRow": 341914,
+				"_nDownloadCount": 5756,
+				"_nFilesize": 12225041,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/341914",
+				"_sFile": "de_stargate_sgc_v4.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1210958740
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104107,
+		"_sName": "de_stargate_sgc_v4",
+		"_sText": "This is the de_stargate_sgc map I made in counter-strike source.\r\n\r\nThis is a stargate map, but made it as a bomb defuse map.\r\nThere is 3 different worlds in the map where you can travel with the gate.\r\n\r\nI made a radar to the map too.\r\n\r\nI made the map myself and basically everything but my cousin Evil Donut was helpful and made the elevator on it and gave a few ideas :P\r\nThanks for Apollo441 for his Stargate and DHD, their awesome :P\r\n\r\nFeatures:\r\n\r\n1. Real Stargate sounds.\r\n2. RT Camera.\r\n3. Working Elevator.\r\n4. Working Iris.\r\n5. Beautiful Working Stargates.\r\n6. 3 Different Worlds.\r\n7. Armoury.\r\n8. MALP and MAT room.\r\n9. Prison.\r\n10. Stargate SGC logo\r\n\r\nVideo:\r\n\r\nhttp://www.youtube.com/watch?v=EOoJe69QdTQ\r\n\r\nPS. There is teleports in the \"Grass\" world on the statues to go either to terrorist base or to counter-terrorist base without using the stargate."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_stargate_PB5-926_v3.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 332246,
+				"_nDownloadCount": 6133,
+				"_nFilesize": 9532863,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/332246",
+				"_sFile": "sgc_4.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1240917773
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104106,
+		"_sName": "de_stargate_PB5-926_v3",
+		"_sText": "<h2>de_stargate_PB5-926_v3 is a remake of map de_stargate_sgc_v4</h2>\r\n\r\nAll changed but SGC base, new Stargate system with sounds and textures, goauld rings.\r\n\r\n- SGC ( counter-terrorists base )\r\n- GOAULD HA'TAK ship ( terrorists base )\r\n- PB5-926 planet\r\n- GOAULD pyramid and GOAULD BIG STAFF WEAPON\r\n\r\n<h3>Alternative links:</h3>\r\nhttp://www.speedyshare.com/141342411.html\r\nhttp://rapidshare.com/files/226461970/de_stargate_PB5-926_v3.bsp.rar.html\r\n\r\n"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_Stargate cheyenne.bsp",
+						"de_Stargate cheyenne.nav"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 303208,
+				"_nDownloadCount": 1939,
+				"_nFilesize": 1516209,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/303208",
+				"_sFile": "de_stargate_chenne.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1336060986
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104105,
+		"_sName": "de_stargate_cheyenne",
+		"_sText": "das ist eine originalgetreue map des raumes cheyenne von stargate ich wünsche euch viel spaß damit :)\r\n\r\nThis is a faithful map of the room by cheyenne stargate I wish you much fun with it :)"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"de_stargate_bit": {
+							"0": "de_stargate_bit.txt",
+							"cstrike": {
+								"maps": [
+									"de_stargate_bit.bsp",
+									"de_stargate_bit.nav",
+									"de_stargate_bit.txt"
+								]
+							}
+						}
+					}
+				},
+				"_bContainsExe": false,
+				"_idRow": 291597,
+				"_nDownloadCount": 2322,
+				"_nFilesize": 4152579,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/291597",
+				"_sFile": "de_stargate_bit.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1383048362
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104104,
+		"_sName": "de_stargate_bit",
+		"_sText": "Terrorists try to bomb ancient temples. \r\nBombsite A is located in a desert world, bombsite B is a nordish stone circle.\r\n\r\nEvery team starts from its own home world via a stargate.\r\nStargates connect the two worlds (bomspot a/b).\r\n\r\nTip:\r\nBots have little problems to find the gates.\r\nDo not forget to communicate with them if You want them to come with You to the gates.\r\n\r\nHave fun!\r\n\r\nBitStreamer\r\n\r\n[www.underconstructionfunclan.de](http://www.underconstructionfunclan.de \"UnderConstructionFunClan\")"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"0": "readmezor.txt",
+						"maps": [
+							"de_stargate_b1.bsp",
+							"de_stargate_b1.nav"
+						]
+					}
+				},
+				"_bContainsExe": false,
+				"_idRow": 359361,
+				"_nDownloadCount": 3016,
+				"_nFilesize": 783392,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/359361",
+				"_sFile": "de_stargate_b1.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1134890460
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104103,
+		"_sName": "de_stargate_b1",
+		"_sText": "Once downloaded extract to any folder and cut and paste the bsp and\r\nthe nav file to \r\nC:\\Program Files\\Steam\\SteamApps\\youraccount\\counter-strike source\\cstrike\r\n\r\nmade by my friend Superranma I take no credit"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_Stargate Worlds .bsp",
+						"de_Stargate Worlds.nav"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 303210,
+				"_nDownloadCount": 1328,
+				"_nFilesize": 3291797,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/303210",
+				"_sFile": "de_stargateworld.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1336060588
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104102,
+		"_sName": "de_stargateworlds",
+		"_sText": "Diese map ist in co arbeit mit einem freund gewesen ich hoffe es gefällt euch es gibt auch ein paar versteckte \r\n\r\nThis map is in co-operation with a friend, I was hoping you like it, there are a few hidden things;)"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_star.bsp",
+						"de_star.nav",
+						"izzy_de_star.txt"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 354985,
+				"_nDownloadCount": 12963,
+				"_nFilesize": 15790274,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/354985",
+				"_sFile": "de_star.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1163188524
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104101,
+		"_sName": "de_star",
+		"_sText": "This is my latest map DE_Star a futuristic themed map for CS:S. Based on a landing platform above a huge city, the map has been purposely built small to keep play fast and too the point.\r\n\r\nThe texture set is 99% custom and comes with custom soundscapes to create as unique experience as possible. The map is fully BSP zipped for easy server sharing, fully support HDR and comes with bot support. This is my first CS:S map and my first release for over a year.\r\n\r\n=======\r\nBriefing\r\n=======\r\n\r\nA dark cloud is growing over Neon City, the fanatical terrorist organization 'The blah' has been destroying key locations important to trade and tourism. The most important locations are Neon's 4 Star platforms, floating landing ports that transfer goods and civilians to larger capital ships, destined for deep space.\r\n\r\nNow the blah have contacted the Mayor of Neon City threatening to destroy Neon's last Star Platform, crippling the economy in the immediate area, unless there demands are met. All civilians have been allowed to leave, though many lives are still in danger in the city below.\r\n\r\nCT's must stop the 'blah' by defending the platforms entrance which is known to have weak supports and the platforms core without this the platform would simply fall from the sky causing untold damage.\r\n\r\nWith there demands refused T's must destroy the platform in order to strike a blow to Neons economy. Destroy the main entrance area, or destroy the core which will send the platform spiraling towards the City.\r\n\r\n=======\r\nSpecial Thanks\r\n=======\r\n\r\nThe people at http://interlopers.net/ thanks for there support and advice during the project.\r\n\r\nMy SEXY little Princess Nikki, her support is always invaluable during all of my 'little' projects!! 0MG XXX j00 XXX R0XX0R\r\n\r\nBig Dog for going to the trouble of uploading my map here!!!"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"de_standoff_download": [
+							"de_standoff.bsp",
+							"de_standoff0018.jpg",
+							"de_standoff0019.jpg",
+							"de_standoff0025.jpg",
+							"de_standoff0030.jpg"
+						]
+					}
+				},
+				"_bContainsExe": false,
+				"_idRow": 361179,
+				"_nDownloadCount": 1321,
+				"_nFilesize": 621558,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/361179",
+				"_sFile": "de_standoff_download.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1119767285
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104100,
+		"_sName": "de_standoff",
+		"_sText": "This a compact mp for fast downloads, but has good camping spots as well as fun rushing routes.  Try to find the secrect pasageway."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_stalker.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 337365,
+				"_nDownloadCount": 1210,
+				"_nFilesize": 282751,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/337365",
+				"_sFile": "de_stalker.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1224884656
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104099,
+		"_sName": "de_stalker",
+		"_sText": "A good way to gain speed in this map is to bunny jump a lot. when you gain enough speed, use the ramp to shoot yourself up and go into the hole to plant the bomb."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_stairwellfromhell.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 333694,
+				"_nDownloadCount": 1341,
+				"_nFilesize": 556657,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/333694",
+				"_sFile": "de_stairwellfromhell_2.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1236584531
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104098,
+		"_sName": "de_stairwellfromhell",
+		"_sText": "Map Made By: GenGenitalZ"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"De_Stairs_v1.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 358651,
+				"_nDownloadCount": 1656,
+				"_nFilesize": 377431,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/358651",
+				"_sFile": "de_stairs_v1.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1141985989
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104097,
+		"_sName": "de_stairs_v1",
+		"_sText": ""
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_stadium_sc.bsp",
+						"de_stadium_sc.nav"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 358973,
+				"_nDownloadCount": 2293,
+				"_nFilesize": 3133607,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/358973",
+				"_sFile": "de_stadium_sc.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1138821190
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104096,
+		"_sName": "de_stadium_sc",
+		"_sText": "I did <b><font color = yellow>NOT</font></b> make this map. Nor do I take any credit for it. \r\n\r\n\r\n<b><font color = yellow>Objective</font></b>\r\n\r\nTerrorist are planning to bomb a stadium. Counter Terrorist must try to stop the bombing.\r\n\r\nThis is a remake of a Counter Strike map. It has two bombsites. Very fun map. Hope you guys enjoy."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_stadium.bsp",
+						"de_stadium.nav",
+						"de_stadium.txt"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 332980,
+				"_nDownloadCount": 3081,
+				"_nFilesize": 8927588,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/332980",
+				"_sFile": "de_stadium_b1.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1238634365
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104095,
+		"_sName": "de_stadium",
+		"_sText": "<center><h3>General</h3></center>\r\n\r\nI needed a project, so I chose to remake one of my favorite maps from Counter-Strike: Condition Zero.\r\n\r\n\r\n This took 3-4 weeks to get into it's first Beta stage. It's far from being complete, as there are still some texture, lighting, or game play tweaks that need to be done.\r\n\r\n\r\n I went all out with this project. I used a couple custom textures, fine-tuned the .nav, and even made a custom radar.\r\n<br>\r\n<br>\r\n<center><h3>Gameplay</h3></center>\r\n\r\n I've tested the map so far with bots, and it seems to play like the original. There are still some issues, such as the bots will not use the vending machines by bombsite A to reach it, even though I've made the area myself in the .nav. They tend to use the staircase which takes longer, or go straight to bombsite B, which is where most of the firefights occur. Hopefully in later versions I can address this so the map doesn't get boring."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_stadium_final_v2.bsp",
+						"de_stadium_final_v2.nav",
+						"de_stadium_final_v2.txt"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 342934,
+				"_nDownloadCount": 10002,
+				"_nFilesize": 2402054,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/342934",
+				"_sFile": "de_stadium.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1207229692
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104094,
+		"_sName": "de_stadium",
+		"_sText": "UPDATE 26.06.2010 - New V2 version for Orange Box Engine (+ overview)\r\n\r\n\r\nHere's a remake of de_stadium (CS:CZ). It's old but it's still fun to play.\r\n\r\n"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_stad.bsp",
+						"de_stad.nav"
+					],
+					"_sMimeType": "application/x-rar"
+				},
+				"_bContainsExe": false,
+				"_idRow": 366970,
+				"_nDownloadCount": 4107,
+				"_nFilesize": 21316904,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/366970",
+				"_sFile": "de_stad.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1513935234
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104093,
+		"_sName": "de_stad",
+		"_sText": "My Port map of dm_stad from hl2 by Oskmos. Now avaliable on CS Source.&nbsp;<br><br>One bomb side on roof of the center building. Good for 2x2 or awp matches"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"cstrike": {
+							"maps": [
+								"de_stacked.bsp"
+							]
+						}
+					}
+				},
+				"_bContainsExe": false,
+				"_idRow": 356837,
+				"_nDownloadCount": 1152,
+				"_nFilesize": 402724,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/356837",
+				"_sFile": "stacked.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1155876366
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104092,
+		"_sName": "de_stacked",
+		"_sText": ""
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"de_stability": {
+							"0": "de_stability.bsp",
+							"1": "de_stability.nav",
+							"2": "de_stability.png",
+							"3": "de_stability.txt",
+							"screens": [
+								"1.jpg",
+								"2.jpg",
+								"3.jpg",
+								"4.jpg",
+								"5.jpg"
+							]
+						}
+					}
+				},
+				"_bContainsExe": false,
+				"_idRow": 297808,
+				"_nDownloadCount": 1344,
+				"_nFilesize": 7248142,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/297808",
+				"_sFile": "de_stability.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1355615346
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104091,
+		"_sName": "de_stability beta",
+		"_sText": "DE_Stability - International Crisis\r\n\r\nIranian Terrorists are attemping to blow\r\nup weapons stored in an Iranian college campus.\r\nHelp keep the region stable.\r\n \r\nCounter-Terrorists: Enter the storage facility at \r\nthe college campus and keep the terrorists from\r\ndetonating the explosives.\r\n\r\nTerrorists: Blow up the storage depots in the \r\ncampus.\r\n \r\nOther Notes: There are two bomb sites. Map is intended for small-scale, fast, tactical gameplay.\r\n\r\nCredits:\r\nDesigned by fleethefactory and guerillablood, and textured by fleethefactory."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"de_stability": {
+							"0": "de_stability.bsp",
+							"1": "de_stability.jpg",
+							"2": "de_stability.nav",
+							"3": "de_stability.png",
+							"4": "de_stability.txt",
+							"screens": [
+								"1.jpg",
+								"2.jpg",
+								"3.jpg",
+								"4.jpg",
+								"5.jpg"
+							],
+							"screenshots": [
+								"001.jpg",
+								"002.jpg",
+								"003.jpg",
+								"004.jpg",
+								"005.jpg"
+							]
+						}
+					}
+				},
+				"_bContainsExe": false,
+				"_idRow": 296798,
+				"_nDownloadCount": 1970,
+				"_nFilesize": 25537431,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/296798",
+				"_sFile": "de_stability_3.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1359238190
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104090,
+		"_sName": "de_stability",
+		"_sText": "*****************************\r\nCounter-Strike: Source\r\n*****************************\r\nTITLE: de_stability\r\n\r\nAUTHOR: fleethefactory\r\n\r\nCONTACT: mynamemightbecalvin@gmail.com\r\n\r\nVERSION: V1\r\n\r\nDATE RELEASED: Jan 26, 2013\r\n\r\nTerrorists are attempting to destroy evidence of\r\nbuilding fertilizer bombs in an Iranian factory\r\ncompound. Help keep the region stable.\r\n \r\nCounter-Terrorists: Enter the campus and prevent\r\nthe Terrorists from destroying any evidence. \r\n\r\nTerrorists: Blow up the storage depots in the \r\ncampus.\r\n \r\nOther Notes: There are two bomb sites.\r\n\r\nCredits:\r\nDesigned by fleethefactory and guerillablood, and textured by \r\n\r\nfleethefactory.\r\n\r\nCHANGELOG: \r\n\r\n- Expanded T spawn\r\n- detailed out of bounds\r\n- color correction added\r\n- added much more detail to map interior\r\n- street staircase expanded\r\n- balcony added to A bombsite\r\n- Lower Alley expanded, map interior is less open. \r\n- weird lighting issues fixed\r\n- properly optimized"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_stabian.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 349493,
+				"_nDownloadCount": 2114,
+				"_nFilesize": 3504558,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/349493",
+				"_sFile": "de_stabian.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1186910953
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104088,
+		"_sName": "de_stabian",
+		"_sText": "This is my 3rd map, I was working on it at the same time as cs_streets. It turned out a lot better took me bout 30 hours not including compile time.\r\n\r\nAlso if your wondering why it says de_quesa in the screen shots thats because i took the screen shots before i changed the name to de_stabian."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_st-barbara.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 353309,
+				"_nDownloadCount": 1198,
+				"_nFilesize": 712050,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/353309",
+				"_sFile": "de_st-barbara.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1171750980
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104087,
+		"_sName": "de_st-barbara",
+		"_sText": "It ownzz"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"README.txt",
+						"de_sss_makarska_v2.bsp",
+						"de_sss_makarska_v2.nav"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 308151,
+				"_nDownloadCount": 1550,
+				"_nFilesize": 10942258,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/308151",
+				"_sFile": "de_sss_makarska_v2.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1318507334
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104086,
+		"_sName": "de_sss_makarska_v2",
+		"_sText": "de sss makarska v2<br><br>\r\n\r\nOnce again, bringing you de_sss_makarska.<br>\r\nEdited from feedback and testers.<br>\r\nIn this version, I've added :<br>\r\n~Vent for bombsite A<br>\r\n~MAP overview<br>\r\n~Bombsite Location Helpers<br>\r\n~Vent system in main room. (Detail only)<br>\r\n~Fixed errors with some props not drawing correctly (drawing distance)<br>\r\n~Fixed triggers on spawns<br>\r\n~Edited textures<br><br>\r\n\r\nA massive thank you to the people that supported/gave feedback for the first version.<br>\r\nThis is probably going to be the final edit.<br>\r\nA special thank you to Nispire for his compiling.<br>\r\nIf it wasn't for him I'd still be in the process of completing this thing.<br><br>\r\n\r\nMore screenshots can be found at my website or my steam profile !<br>\r\nhttp://furchee.gammerz.net<br>\r\nhttp://steamcommunity.com/id/Furcheetah<br><br>\r\n\r\n~Furchee"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"README.txt",
+						"de_sss_makarska.bsp",
+						"de_sss_makarska.nav"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 312030,
+				"_nDownloadCount": 1830,
+				"_nFilesize": 10513257,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/312030",
+				"_sFile": "_5800-.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1306964075
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104085,
+		"_sName": "de_sss_makarska",
+		"_sText": "de _ sss _ makarska\r\n\r\n~40 players (2oCT-2oT)<br>\r\n~NAV included<br>\r\n~2 bomb sites<br>\r\n~3D skybox<br>\r\n~Well balanced<br>\r\n~Custom Textures<br>\r\n~Custom Models<br>\r\n~Hidden Rooms<br>\r\n\r\nThis map is based on an IRL location.<br>\r\nIt's my high school that I attended for 3 years. :)<br>\r\nI made it look nicer than it actually is (trust me).<br>\r\n\r\nBuilding time was around 2-3 months and detail about 2 extra months.<br>\r\nI believe this will be my last map for a longer period of time as of now.<br>\r\nI assure you all it is worth the download and I hope it goes viral to the point it is used on many servers.<br>\r\n\r\nThanks to everyone for their support.<br>\r\nAnd a very special thank you to ALEX for his building prefabs.<br><br><br><br>\r\n\r\n*********************************************<br>\r\n6/3/2011<br><br>\r\nFixed decal showing on tiles in building.<br>\r\nFixed secret sound playing on c4 explosion.<br>\r\nFixed additional problems.\r\n*********************************************\r\nFixed secret door to automatically shut on map spawn if secret door is opened on previous round.<br>\r\n*********************************************"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"de_spOOky": {
+							"0": "de_spOOky_readme.txt",
+							"cstrike": {
+								"0": "detail.vbsp",
+								"maps": [
+									"de_spOOky.bsp",
+									"de_spooky.nav"
+								]
+							}
+						}
+					}
+				},
+				"_bContainsExe": false,
+				"_idRow": 307795,
+				"_nDownloadCount": 3472,
+				"_nFilesize": 11727034,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/307795",
+				"_sFile": "de_spooky_2.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1320003883
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104084,
+		"_sName": "de_spOOky",
+		"_sText": "![de_spOOky](http://img848.imageshack.us/img848/891/despooky.png \"de_spOOky\")\r\n\r\n\r\nby DA!M\r\n\r\n_\r\nFirst of all, this is my first big mapping project. Until this map i was always working on aim/fy_maps.\r\nSo there are different things i didn't knew about and which this map don't contain!\r\n \r\nAnd i must say that i didn't spend to mutch time on optimization..=(! I thought that this would be possible within a week, but when i saw all the tutorials about hint-brushes and so on, it was impossible for me to do all theses optimization-things in one week, i'm sorry for that ^^)\r\n\r\nSo enough bad news (D!\r\n\r\n____________________________\r\n\r\nI first thought about remaking de_inferno Halloween-themed but later i decide to make something totally new!\r\nIt is an multiplayer-map and i read a lot about how to design a well balanced map with a interesting game play-feeling. So here it is: \r\n\r\n###  The Story\r\n\r\nThe basic style of the map is oriented on de_inferno, cs_italy and cs_militia. The _style_, not the _buildup_!\r\n\r\nIt takes place in an old, rainy village (like de_inferno). The denizens have already decorated their homes for Halloween, with pumpkins (my first models ;D), garlands and some pictures, drawn on the walls.\r\n\r\nSeems to be a happy Halloween party this year.\r\n\r\nBut today, the night of the 31st of October, something is happening in the tiny village...\r\nThe old flares in the castle ruins start burning, there paranormal noises in the forest and blood in a shed...\r\n\r\nBeasts came over the village. They killed all life they found and are no creeping around...\r\n\r\nSo the politicians decided to send a special-ops team to the hamlet and strike back. They can't know that a global terrorism group is interested in the monsters and trying to catch some of them for their dark plans.\r\n\r\nAs a necessary result a battle to death break out between both fractions and now Cts are fighting Ts in that lost village with its shy but killy creatures...\r\nand your are going to join this battle!\r\n\r\n### The Atmosphere\r\n\r\nI've tried to make a map which has a deep, affecting atmosphere but is also well playable! So i had to make some concessions to lightning and to the amount and loudness of sounds. Creating the soundscapes took me about a week, but I'm proud of the result =D! \r\n\r\nFor a realistic, \"living\" illusion of the Village, i used many sequences, some referring to the players movement and acting, some starting automatically. I highly recommend to play the map alone without bots or other players and sneak the whole time! Try to find every hidden event, the following video may be a help:\r\n\r\n<iframe width=\"560\" height=\"315\" src=\"http://www.youtube.com/embed/oOBdZV55XhQ\" frameborder=\"0\" allowfullscreen></iframe>\r\n\r\n### Additional \r\n\r\nAll instructions about installing, credits and thanks can be found in the readme-file, packed to the map.\r\n\r\nI recommend to overwrite the detail.vbsp file I've included with the existing one in your cstrike folders. The one i added contains all detail-sprites the engine currently uses, it was overwritten with the last update and doesn't work any more! \r\n\r\nI think that was all i wanted to say, now download the map and have a scary time ;D.\r\n\r\nLukas 'DA!M' B.\r\n\r\nPS: I hope i packed all files correctly to the bsp file =S...\r\n\r\nPPS: Fog fucks up the screenshots...sry for that!\r\n\r\n![Happy Halloween](http://img14.imageshack.us/img14/155/happyhallow2.png \"Happy Halloween\")"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_spongebobv2.bsp",
+						"readme cuz llamas are awesome.txt"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 315241,
+				"_nDownloadCount": 1598,
+				"_nFilesize": 73884,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/315241",
+				"_sFile": "_851-.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1295892919
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104083,
+		"_sName": "de_spongebob v2",
+		"_sText": "this is my second map added to fpsbanana. the bombsite is in the little building in the middle. there are 2 little bunkers to hide behind. v2 will have ladders and more!\r\njust take that little zip file and plop that little map into \r\nsteam\\steamapps\\yourusernamehere\\counter strike\\cstrike\\maps"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_splittum_40.bsp",
+						"de_splittum_40.nav"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 305649,
+				"_nDownloadCount": 1935,
+				"_nFilesize": 4189203,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/305649",
+				"_sFile": "de_splittum_40.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1327437334
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104082,
+		"_sName": "de_splittum_40",
+		"_sText": "This is a dust2 stile map with a long and short A and a long and short B"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_splitter_64.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 325835,
+				"_nDownloadCount": 1980,
+				"_nFilesize": 11519799,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/325835",
+				"_sFile": "de_splitter_64.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1262980250
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104081,
+		"_sName": "de_splitter_64",
+		"_sText": "de_splitter_64 by s!XpacK\r\n\r\nfixed -radar\r\n \r\nnew models/texturen\r\n\r\nnav file\r\n\r\nthx for texturen @ TopHATTwaffle\r\n\r\nthx for models\r\n\r\nhave fun \r\n\r\ngreez s!XpacK\r\n"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"de_splitter": {
+							"maps": [
+								"de_splitter.bsp",
+								"de_splitter.nav",
+								"de_splitter.txt"
+							]
+						}
+					}
+				},
+				"_bContainsExe": false,
+				"_idRow": 332580,
+				"_nDownloadCount": 3058,
+				"_nFilesize": 4920961,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/332580",
+				"_sFile": "de_splitter.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1239891285
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104080,
+		"_sName": "de_splitter",
+		"_sText": "Hi \r\n\r\nde_splitter @ 2006\r\n\r\nhave fun!!\r\n\r\ns!XpacK\r\n\r\n40 player spawns"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"0": "Installation instructions - IMPORTANT!.txt",
+						"1": "de_split.bsp",
+						"2": "de_split.nav",
+						"cartoon": [
+							"blockblue.vmt",
+							"blockblue.vtf",
+							"blockbrown.vmt",
+							"blockbrown.vtf",
+							"blockdred.vmt",
+							"blockdred.vtf",
+							"blockdyellow.vmt",
+							"blockdyellow.vtf",
+							"blockgray.vmt",
+							"blockgray.vtf",
+							"blockgreen.vmt",
+							"blockgreen.vtf",
+							"blocklblue.vmt",
+							"blocklblue.vtf",
+							"blocklgreen.vmt",
+							"blocklgreen.vtf",
+							"blocklila.vmt",
+							"blocklila.vtf",
+							"blockorange.vmt",
+							"blockorange.vtf",
+							"blockpink.vmt",
+							"blockpink.vtf",
+							"blockred.vmt",
+							"blockred.vtf",
+							"blocksand.vmt",
+							"blocksand.vtf",
+							"blockshady.vmt",
+							"blockshady.vtf",
+							"blocksnowwhite.vmt",
+							"blocksnowwhite.vtf",
+							"blockyellow.vmt",
+							"blockyellow.vtf",
+							"thread.vmt",
+							"thread.vtf",
+							"tilesc.vmt",
+							"tilesc.vtf"
+						],
+						"screenshots": [
+							"2011-03-13_00003.jpg",
+							"2011-03-13_00004.jpg",
+							"2011-03-13_00005.jpg",
+							"2011-03-13_00006.jpg",
+							"2011-03-13_00007.jpg",
+							"2011-03-13_00008.jpg",
+							"2011-03-13_00009.jpg",
+							"2011-03-13_00010.jpg",
+							"2011-03-14_00001.jpg",
+							"2011-03-14_00002.jpg",
+							"2011-03-14_00003.jpg",
+							"2011-03-14_00004.jpg",
+							"2011-03-14_00005.jpg",
+							"2011-03-14_00006.jpg",
+							"2011-03-14_00007.jpg",
+							"2011-03-14_00008.jpg",
+							"2011-03-14_00009.jpg",
+							"2011-03-14_00010.jpg",
+							"2011-03-14_00011.jpg",
+							"2011-03-14_00012.jpg",
+							"2011-03-14_00013.jpg",
+							"2011-03-14_00014.jpg",
+							"2011-03-16_00001.jpg",
+							"2011-03-16_00002.jpg",
+							"2011-03-16_00003.jpg",
+							"2011-03-16_00004.jpg",
+							"2011-03-16_00005.jpg",
+							"2011-03-16_00006.jpg",
+							"2011-03-16_00007.jpg",
+							"2011-03-16_00008.jpg",
+							"2011-03-16_00009.jpg",
+							"2011-03-16_00010.jpg",
+							"2011-03-16_00011.jpg",
+							"2011-03-16_00012.jpg",
+							"2011-03-16_00013.jpg"
+						]
+					}
+				},
+				"_bContainsExe": false,
+				"_idRow": 314051,
+				"_nDownloadCount": 1230,
+				"_nFilesize": 5009798,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/314051",
+				"_sFile": "_2843-.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1300250261
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104079,
+		"_sName": "de_split",
+		"_sText": "DE_SPLIT\r\n\r\nBomb defuse map type version of FUN_SPLIT.\r\nMade by Lobster[CZ].\r\n\r\nUnzip the \"de_split.bsp\" into the \"X:\\Program Files\\Steam\\steamapps\\yourname\\counter-strike source\\cstrike\\maps\".\r\n\r\nNote: X: stands for your Hard Drive Letter. Mostly it's C:\\ or D:\\. yourname: stands for your Steam login id.\r\n\r\nMove the \"Cartoon\" folder into the \"X:\\Program Files\\Steam\\steamapps\\yourname\\counter-strike source\\cstrike\\materials\"\r\n\r\nIf you will not follow these instructions, map will be messed up with Pink/Black checkers.\r\n\r\nEnjoy and have fun.\r\nÂ©Lobster2011"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_spirits.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 359086,
+				"_nDownloadCount": 7726,
+				"_nFilesize": 16476908,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/359086",
+				"_sFile": "de_spirits11.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1137638150
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104078,
+		"_sName": "de_spirits",
+		"_sText": "Large bomb defusal map set in and around a Cathedral.\r\n\r\nGET NAV FILE HERE - \r\nhttp://www.tequilakawa.plus.com/downloads.html\r\n"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_spezia_clipfix changelog.txt",
+						"de_spezia_clipfix.bsp",
+						"de_spezia_clipfix.nav",
+						"de_spezia_clipfix.txt",
+						"de_spezia_readme.txt"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 308656,
+				"_nDownloadCount": 6758,
+				"_nFilesize": 8829119,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/308656",
+				"_sFile": "de_spezia_clipfix.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1316710956
+			}
+		],
+		"_aLatestUpdates": [
+			{
+				"_aChangeLog": [
+					{
+						"cat": "-",
+						"text": "The clip system is rebuilt from scratch"
+					},
+					{
+						"cat": "-",
+						"text": "Many static props are turned to non-solid"
+					},
+					{
+						"cat": "-",
+						"text": "Minor graphical updates"
+					},
+					{
+						"cat": "-",
+						"text": "optimization system is further improved"
+					},
+					{
+						"cat": "-",
+						"text": "Minor lighting glitches are fixed"
+					}
+				],
+				"_sText": "<u>Update changelog (December 16, 2013)</u>\r\n-----------------------------------\r\n\r\n- The clip system is rebuilt from scratch to prevent players from having any chance to boost/buddy-jump into balconies or non-playable areas (Thanks to UKCS community for bringing this issue to my attention)\r\n- Many static props are turned to non-solid to enhance gameplay and make player movement smooth and fluid (gutter pipes, rails, lanterns). Many small physics props are updated with the \"debris\" flag to avoid annoying interaction with the player while moving on/near these props.\r\n- Minor graphical updates are carried on with regard to realigning or readjusting certain textures on curves and cylinders-shaped brushes.\r\n- The optimization system is further improved by adding a couple of additional areaportals and hint brushes.\r\n- Minor lighting glitches are fixed after they were introduced with the Steampipe update of Counter-Strike Source. \r\n\r\n\r\nIf you load the map in Counter-Strike source and can't see reflections/shiny surfaces, then open the console (~) and type mat_specular 1 to enable reflections.",
+				"_sTitle": "Clip fix update",
+				"_tsDateAdded": 1387217910
+			}
+		],
+		"_idRow": 104077,
+		"_sName": "de_spezia",
+		"_sText": "<font size=\"3\">Spezia - Bomb/Defuse</font>\r\n------------------\r\n\r\n<font size=\"3\">By Will2k</font>\r\n------------------\r\n\r\n<u>Update changelog (December 16, 2013)</u>\r\n\r\n- The clip system is rebuilt from scratch to prevent players from having any chance to boost/buddy-jump into balconies or non-playable areas (Thanks to UKCS community for bringing this issue to my attention)\r\n- Many static props are turned to non-solid to enhance gameplay and make player movement smooth and fluid (gutter pipes, rails, lanterns). Many small physics props are updated with the \"debris\" flag to avoid annoying interaction with the player while moving on/near these props.\r\n- Minor graphical updates are carried on with regard to realigning or readjusting certain textures on curves and cylinders-shaped brushes.\r\n- The optimization system is further improved by adding a couple of additional areaportals and hint brushes.\r\n- Minor lighting glitches are fixed after they were introduced with the Steampipe update of Counter-Strike Source.\r\n\r\nIf you load the map in Counter-Strike source and can't see reflections/shiny surfaces, then open the console (~) and type mat\\_specular 1 to enable reflections.\r\n\r\nFor updated visuals and layout and greatly improved gameplay, be sure to check the [CSGO](http://csgo.gamebanana.com/maps/172542 \"\") version.\r\n\r\nEnjoy the updated map.\r\n\r\nWill2k\r\n\r\nDecember 16, 2013\r\n<HR SIZE=2 WIDTH=\"100%\" ALIGN=CENTER color=\"#ffffff\">\r\n\r\nDe_spezia (pronounced \"Spetsia\") is a bomb/defuse map inspired by several ancient towns in the province of La Spezia in Liguria, northern Italy. The map is not an accurate recreation but rather an inspiration from the towns of La Spezia, Porto Venere and the five towns that constitute the marvelous Cinque Terre (Riomaggiore, Manarola, Corniglia, Vernazza, Monterosso al Mare)\r\n\r\nEach town contributed to the map with streets layouts, buildings architecture and colors, historical landmarks, decorations and vegetations and so on. I used reference photos from the internet as well as some of my photos from my last trip to Italy. The 3D skybox has actual photos from Manarola and Vernazza.\r\n\r\nThe map is large and detailed but very easy to navigate and remember. I was constantly compiling and re-tweaking it to stay within the limits of the source engine; that's why I had to discard many details from the real world locations for the sake of gameplay and framerate. The map has also been optimised to the best possible extent to ensure fluid gameplay and consistent high FPS.\r\n\r\nThe map has:\r\n\r\n- 64 spawn points (32 vs 32)\r\n- radar overview\r\n- 3D skybox\r\n- Soundscapes\r\n- custom textures and models\r\n- nav file for bots navigation with place names \r\nAll the custom resources (except the nav) are embedded in the bsp.\r\n\r\nFor installation, simply extract the files in the zip archive (bsp, nav and txt files) to your \\Counter-Strike Source\\cstrike\\maps folder.\r\n\r\nThis project was supposed to be finished in a 2 months period but it actually took 8 months on and off. It was like work on the map for 1 week then stop for 2 months then go back again :(\r\nIt was a bit exhausting since I also did my own textures (Photoshop and VTFedit) and experimented with lots of textures and models before settling on the final ones but I enjoyed every bit of it and I'm rather satisfied with the outcome.\r\n\r\nI really hope you enjoy this map as much as I did creating it.\r\nComments and constructive feedback are always welcome.\r\n\r\nWill2k\r\n\r\nSeptember 22, 2011"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"de_speed_screens": {
+							"cstrike": {
+								"0": "Thumbs.db",
+								"maps": [
+									"de_speed_beta.bsp",
+									"de_speed_beta.nav"
+								],
+								"screenshots": [
+									"Thumbs.db",
+									"de_speed_beta0013.jpg",
+									"de_speed_beta0014.jpg",
+									"de_speed_beta0015.jpg",
+									"de_speed_beta0016.jpg",
+									"de_speed_beta0017.jpg",
+									"de_speed_beta0018 copy.jpg"
+								]
+							}
+						}
+					}
+				},
+				"_bContainsExe": false,
+				"_idRow": 357506,
+				"_nDownloadCount": 1218,
+				"_nFilesize": 3665424,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/357506",
+				"_sFile": "de_speed_screens.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1151514313
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104076,
+		"_sName": "de_speed_beta",
+		"_sText": "--de_speed_beta--\r\n\r\nPlease take into account this is not how the map will look at it's completion."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_speedy.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 337359,
+				"_nDownloadCount": 1097,
+				"_nFilesize": 315651,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/337359",
+				"_sFile": "de_speedy.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1224890003
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104075,
+		"_sName": "de_speedy",
+		"_sText": "There are buy zones on top of the small towers in the middle and a bomb zone on top of the map which needs a lot of speed to reach."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_speedrace.bsp",
+						"de_speedrace.nav"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 289018,
+				"_nDownloadCount": 1222,
+				"_nFilesize": 4428312,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/289018",
+				"_sFile": "de_speedrace.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1395865619
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104074,
+		"_sName": "de_speedrace",
+		"_sText": "profi game.buy zone.1 plant bomb."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_speedcastle_v2.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 318779,
+				"_nDownloadCount": 2297,
+				"_nFilesize": 2029783,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/318779",
+				"_sFile": "de_speedcastle_v2.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1285450634
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104073,
+		"_sName": "de_speedcastle_v2",
+		"_sText": "SORRY NO PIC! BUT IT'S NEARLY SAME AS MY PREVIOSLY SPEEDCASTLE MAP!\r\n\r\nA third remake of knas_speedcastle2007\r\nThis version has a bomb target on top of the castle.\r\nThere are couple ladders to the bomb site.\r\nI removed the access edge of the map.\r\nThis map will be on FIN Action server; ip  94.75.230.213:27015\r\nRemember visit www.finaction.tk\r\n-----------------------------------------\r\nAnteeksi ei kuvaa! Mutta mappi on melkein samanlainen kuin minun edellinen speedcastle.\r\n\r\nKolmas versio knas_speedcastle2007:sta\r\nTässä versiossa on pommipaikka linnan huipulla.\r\nLinnan sivussa on muutamat tikkaat pommipaikalle.\r\nPoistin pääsyn mapin reunoille.\r\nTämä mappi tulee olemaan FIN Action serverillä; ip 94.75.230.213:27015\r\nMuista käydä osoitteessa www.finaction.tk"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_speedcastle2010.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 326430,
+				"_nDownloadCount": 1865,
+				"_nFilesize": 1717395,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/326430",
+				"_sFile": "de_speedcastle2010.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1261250476
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104072,
+		"_sName": "de_speedcastle2010",
+		"_sText": "de_speedcastle 2010, previosly version was knas_speedcastle2007.\r\nMap was ran first time on -WB- FIN Action server; ip 83.145.248.13:30137"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_speedball_beta1.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 361905,
+				"_nDownloadCount": 1492,
+				"_nFilesize": 373266,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/361905",
+				"_sFile": "de_speedball_beta1_1110503992.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1110409680
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104071,
+		"_sName": "de_speedball_beta1",
+		"_sText": "Here's my first map. I always liked the speedball map for the original CS. What I did is create an arena setting thats based on speedball and put a bombsite underneath the arena. I found this map pretty fun to play.\r\nHope you enjoy :)"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_speedball_b2.bsp",
+						"readme.txt"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 349381,
+				"_nDownloadCount": 1778,
+				"_nFilesize": 2154060,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/349381",
+				"_sFile": "de_speedball_b2.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1187199120
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104070,
+		"_sName": "de_speedball_b2",
+		"_sText": "Beta.\r\nEnjoy!"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"0": "readme.txt",
+						"cstrike": {
+							"maps": [
+								"de_spectacle.bsp",
+								"de_spectacle.txt"
+							],
+							"materials": {
+								"Spectacle": [
+									"specatcle-untex-01.vmt",
+									"specatcle-untex-01.vtf",
+									"specatcle-untex-02.vmt",
+									"specatcle-untex-02.vtf"
+								]
+							}
+						}
+					}
+				},
+				"_bContainsExe": false,
+				"_idRow": 357353,
+				"_nDownloadCount": 1553,
+				"_nFilesize": 1452239,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/357353",
+				"_sFile": "de_spectacle.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1152464216
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104069,
+		"_sName": "de_spectacle",
+		"_sText": "The author of this map is uNsaiN \r\n\r\n\r\n\r\nCounter-Terrorists: Prevent the Terrorists\r\nfrom bombing the Pump Rooms. Counter-\r\nTerrorists must defuse any bombs that \r\nthreaten targeted areas.\r\n\r\nTerrorists: Destroy the Pump Rooms.\r\n\r\nOther Notes: There are 2 targets \r\nin this mission.\r\n"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_spatial_platform.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 319522,
+				"_nDownloadCount": 1483,
+				"_nFilesize": 25066746,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/319522",
+				"_sFile": "de_spatial_platform.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1283277792
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104068,
+		"_sName": "de_spatial_platform",
+		"_sText": "Call me if you xant a map ;)"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_sparky.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 311502,
+				"_nDownloadCount": 1889,
+				"_nFilesize": 3685938,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/311502",
+				"_sFile": "_6453-.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1308665874
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104067,
+		"_sName": "de_sparky",
+		"_sText": "SPANISH: \r\nMapa de CSS, tÃƒï¿½Ã‚Â­pico de defuse the bomb.\r\nPensado para jugar partidos \r\n\r\nDisfrutarlo!!!\r\n\r\nENGLISH:\r\nMap of CSS, defuse the bomb typical.\r\nDesigned to play wars\r\n\r\nEnjoy it!"
+	},
+	{
+		"_aAlternateFileSources": [
+			{
+				"description": "Mediafire:",
+				"url": "http://www.mediafire.com/file/s1hba1uf6jd922b/Sparity.rar/file"
+			}
+		],
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"Sparity": [
+							"de_sparity.bsp",
+							"de_sparity.nav",
+							"de_sparity0005.jpg",
+							"de_sparity0006.jpg",
+							"de_sparity0007.jpg",
+							"de_sparity0008.jpg",
+							"de_sparity0009.jpg"
+						]
+					},
+					"_sMimeType": "application/x-rar"
+				},
+				"_bContainsExe": false,
+				"_idRow": 467168,
+				"_nDownloadCount": 564,
+				"_nFilesize": 47883709,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "3kliksphilipisthebest",
+				"_sDownloadUrl": "https://gamebanana.com/dl/467168",
+				"_sFile": "sparity.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1591483101
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104066,
+		"_sName": "de_sparity",
+		"_sText": "Map made by&nbsp;<a class=\"MemberLink SelectedElement\" href=\"https://gamebanana.com/members/561609\">3kliksphilip</a>. I like this map so I converted it to CS Source with some optimization tweaks. RIP pretty ice :(."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"Thanks by downloading this map.txt",
+						"cs_spanishhouse.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 327625,
+				"_nDownloadCount": 1261,
+				"_nFilesize": 119465,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/327625",
+				"_sFile": "cs_spanishhouse.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1256925770
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104065,
+		"_sName": "de_spanishhouse",
+		"_sText": "Well i made this map for training"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_spanishacropolis.bsp",
+						"de_spanishacropolis.bsp.bak"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 302943,
+				"_nDownloadCount": 2051,
+				"_nFilesize": 4833838,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/302943",
+				"_sFile": "de_spanishacropolis.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1337061044
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104064,
+		"_sName": "de_spanishacropolis_beta",
+		"_sText": "The terrorists job is to plant the bomb on the glass path directly above the giant metal fan.  This will shut down the power to a nearby nuclear power plant of the enemy.  The counter-terrorists job is to stop the terrorists at any cost."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"credits.txt",
+						"de_spain.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 354520,
+				"_nDownloadCount": 2423,
+				"_nFilesize": 1178734,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/354520",
+				"_sFile": "de_spain.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1165520148
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104063,
+		"_sName": "de_spain",
+		"_sText": "<fieldset>de_spain \r\n\r\nby Felix Schmid\r\n"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_space_secret_v2.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 305881,
+				"_nDownloadCount": 1270,
+				"_nFilesize": 3651527,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/305881",
+				"_sFile": "de_space_secret_v2.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1326578975
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104062,
+		"_sName": "de_space_secret_v2",
+		"_sText": "Download and play on the map Make by SecRet."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"0": "Readme.txt",
+						"1": "de_spaceship_v2.bsp",
+						"For you server": [
+							"autorespawn.smx",
+							"autorespawn.sp"
+						]
+					}
+				},
+				"_bContainsExe": false,
+				"_idRow": 319533,
+				"_nDownloadCount": 1342,
+				"_nFilesize": 1439071,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/319533",
+				"_sFile": "de_spaceship_v2_2.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1283264331
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104061,
+		"_sName": "de_spaceship_v2",
+		"_sText": "Hello all !\r\n\r\nMy frist upload .\r\nThis map need the autorespawn . I give it to you in the pack with a readme for instal it in your server (easy to add , easy to remove) .\r\n\r\nPlay this map into a 5 vs 5 or more ;)\r\n\r\nHave fun !"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"cstrike": {
+							"DownloadLists": [
+								"de_spaceship_fy.lst"
+							],
+							"maps": {
+								"0": "de_spaceship_fy.bsp",
+								"1": "de_spaceship_fy.nav",
+								"2": "de_spaceship_fy.res",
+								"soundcache": [
+									"de_spaceship_fy.cache"
+								]
+							}
+						}
+					}
+				},
+				"_bContainsExe": false,
+				"_idRow": 351759,
+				"_nDownloadCount": 2574,
+				"_nFilesize": 9609333,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/351759",
+				"_sFile": "de_spaceship_fy.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1178034025
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104060,
+		"_sName": "de_spaceship_fy",
+		"_sText": "DE_SPACESHIP - Demolition (16x16 spawnpoints)              1.00\r\n————————————————————————————————————\r\nBRIEFING:\r\n\r\nFew years later, somewhere in deep space where human species are exploring the universe, terrorism still exist. Terrorists are waiting now for adequate time to attack.\r\n\r\nIt's time... The expedition's space ship's trajectory is near to the terrorists hiding-place. It's rightly occasion to steal the ship. First of all they have to destroy main core to make escape impossible. But first time something goes wrong and first stormers has died. So the second drop goes ...\r\n\r\n————————————————————————————————————\r\nSPECIAL THANKS TO:\r\n\r\nBETA TESTERS:\r\n\r\n- Hejduk\r\n- Ponczek\r\n- Osek\r\n- Lezak\r\n- Jarhead\r\n- DemQs\r\n- Swiezak\r\n- Santana\r\n\r\n————————————————————————————————————\r\n\r\nDesigned and made by:\r\nArtur Schmidt • (-[PREDATOR]-) PL •\r\ne-mail: predator_koszalin2003@wp.pl\r\nCompiled: 30.04.2007\r\n(© 2007)\r\n\r\n————————————————————————————————————\r\n\t\t\t\t                                    Have a nice fun."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"de_spaceship": {
+							"0": "Readme.txt",
+							"cstrike": {
+								"maps": [
+									"de_spaceship.bsp"
+								],
+								"materials": {
+									"skybox": [
+										"Sky_spacebk.vmt",
+										"Sky_spacedn.vmt",
+										"Sky_spaceft.vmt",
+										"Sky_spacelf.vmt",
+										"Sky_spacert.vmt",
+										"Sky_spaceup.vmt",
+										"sky_spacebk.vtf",
+										"sky_spacedn.vtf",
+										"sky_spaceft.vtf",
+										"sky_spacelf.vtf",
+										"sky_spacert.vtf",
+										"sky_spaceup.vtf"
+									]
+								}
+							}
+						}
+					}
+				},
+				"_bContainsExe": false,
+				"_idRow": 347338,
+				"_nDownloadCount": 1466,
+				"_nFilesize": 2610094,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/347338",
+				"_sFile": "de_spaceship.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1194152267
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104059,
+		"_sName": "de_spaceship",
+		"_sText": "Author notes\r\nde_SpaceShip\r\nThis map is A smiple Space ship with losts of triggers\r\nThe T spawn in the cargo hold with Large Bay doors that can open with a\r\nwith a control panle up top.(warning this ship is in space :) )\r\nTHe two Bomb sites are the Bridge and the Generators Both need to activate\r\ncontrol panles to reveal the bomb sites\r\nwhen the generator shield is down the emergency lights come on\r\nwhen the computer systems are off line the gravity is set to low\r\n(this is not cause by a server command enity it is a gravity control relation)\r\nThere is also a secruity room that i put just well i like the cameras"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"de_southhigh": [
+							"de_southhigh.bsp",
+							"de_southhigh.nav"
+						]
+					}
+				},
+				"_bContainsExe": false,
+				"_idRow": 350946,
+				"_nDownloadCount": 1786,
+				"_nFilesize": 8016632,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/350946",
+				"_sFile": "de_southhigh.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1181686357
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104058,
+		"_sName": "de_southhigh",
+		"_sText": "I did the original idea of making a map of my high school I graduated from.  Was mainly for my friends and myself, but I figured i'd see if anyone else would enjoy it.  It's lacking details in some areas just because i'm lazy to finish it due to the fact that I doubt it will get much play anyways."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"Soul_Society_xmas.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 335962,
+				"_nDownloadCount": 1815,
+				"_nFilesize": 6421720,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/335962",
+				"_sFile": "de_soulsociety_xmas_2.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1229923301
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 104057,
+		"_sName": "de_soulsociety_xmas",
+		"_sText": "This is a map based of the show Bleach. This is the gun version of the map so u can buy every weapon no longer there is model sword at spawn but still fun u have 200 gravity default and i hope u all enjoy it people on my server love it.AND NOW ITS XMAS i made just it look a lil more Christmas like just for the season thought it would be fun hope u like it\r\n\r\n-------Added--------\r\n+Christmas Lights and snow and lots of thing\\'s to make it feel more like the season just to have fun with it and stuff hope u like it\r\n\r\n+More realistic buildings from the show that are actually there\r\n\r\n+ 3D skybox\r\n\r\n+ADDED BOMB ZONES there are 2 bomb zones now one on top of the tower and one on top of the place ct\\'s spawn at\r\n\r\n+Also added 2 more battle zones from the show the front park added blood and stuff were ichigo fought renji and also added in the back were Yoruichi and Cpt. Soi Fong fought at Forest like area with tree\\'s\r\n\r\n-------FIXED---------\r\nFIXED the leaks no more leaks at all\r\n\r\nFIXED The shadowing is not a lot better it doesn\\'t have random black blotches at all\r\n\r\nFixed The crash problem when u look straight up no longer crashes at all so don\\'t have to worrie about that\r\n\r\nFixed Also fixed the problem with the one sword that if u were to walk into it, it would also crash the server\r\n-------CREDITS--------\r\nDevi8 for the bridge prefab he made link is http://www.fpsbanana.com/prefabcats/53?prefabs_page=2"
+	}
+]

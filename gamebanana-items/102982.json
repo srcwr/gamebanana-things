@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_lombardi_b1.bsp",
+					"de_lombardi_b1.nav",
+					"de_lombardi_b1.txt"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 347202,
+			"_nDownloadCount": 1613,
+			"_nFilesize": 4858418,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/347202",
+			"_sFile": "de_lombardi_b1.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1194499025
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 102982,
+	"_sName": "de_lombardi",
+	"_sText": "\"Number of Spawn Points: 20 & 20\r\n\r\nInfo :\r\n\r\nCounterterrorists must stop the terrorist from bombing the market or church in this quiet little mountain village.\r\n\r\nThis was a map made for another mod which seems to have stopped development so I thought why not make it into a cs map.\r\n\r\nYou will note by the screenshots its similarly textured to cs_italy but it didnt matter for the other mod, at least you get a bomb defusal flavour in an italian map.\r\n\r\nThere is a nav file for the bots and they play it ok except for one ladder you have to step off to the side, they just try to get off halfway up the ladder. Ive tried to manually fix that to no avail :-(\r\n\r\nThere a few bugs i know about, at the bottom of the sewer ladders there is a vis error i need to fix, and some of the floor cubemaps are split up. I'm gonna try and optimise the market area as that is the most open.\""
+}

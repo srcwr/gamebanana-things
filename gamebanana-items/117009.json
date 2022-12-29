@@ -1,0 +1,34 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"CHUPONG2sky22fin.lin",
+					"CHUPONG2sky22fin.vmf",
+					"CHUPONG2sky22fin.vmx",
+					"INFO.txt",
+					"chupong2sky22fin.bsp",
+					"chupong2sky22fin.log",
+					"chupong2sky22fin.nav"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 284287,
+			"_nDownloadCount": 2802,
+			"_nFilesize": 10442983,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/284287",
+			"_sFile": "chupong_final_large.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1422827047
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 117009,
+	"_sName": "Chupong Mountain Large Final",
+	"_sText": "Just a larger version of the map.\r\nMade because it was too small and I was hoping \r\nthe server I play on would pick up map.  The nades\r\nare hyped and do mad damage, so a small map would be campfest\r\nnade fest.  \r\n\r\nIt takes a long time to compile the first run in a botmatch.\r\nI have included the .nav file in hopes that it helps run on\r\nserver, or you don't have to do wait for compile.\r\n\r\nI have found putting it to 640x480 and low res on textures \r\nspeeds compiling.  Took me 3 tries before it worked so be\r\npatient.  It crashes right at end,  so CTL ALT DEL and look\r\nto see if it has stopped responding,  it will crash out anyways.\r\nSee the splash page image and you're good.\r\n\r\nI set the bots to zero, and then walk to middle of map and then use the\r\nsv_cheats_1    and then\r\nnav_generate   to run it instead of letting it run from bot match start.\r\n\r\nThis is the best version I came up with.  It plays fun.\r\nI love the sprays of dust kicking up all over the place,\r\nit also helps see your aim.\r\n\r\nI will try a new map now,  I am done with this.\r\n\r\nI have included the editor maps as well so people can\r\nmod this.  I tried to use the shaded lighting,  but I swear\r\nthere is not one good lighting primer I could find,  and\r\nthe trees were all white when I put one in there,  so do it\r\nyourself if you want fancy lighting. Sorry I am not pro.\r\n\r\nOh put .bsp and .nav into the maps file.  include the other files if you want to edit it."
+}

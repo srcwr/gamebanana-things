@@ -1,0 +1,254 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"maps": [
+						"de_tango_final.bsp"
+					],
+					"materials": {
+						"Concrete": [
+							"concretewall023a.vmt"
+						],
+						"Plaster": [
+							"plasterwall043da.vmt",
+							"plasterwall043da.vtf"
+						],
+						"de_cbble": [
+							"grassfloor01.vmt"
+						],
+						"glass": [
+							"glasswindow007a.vmt",
+							"glasswindowbreak070a.vmt"
+						],
+						"models": {
+							"0": "pp.vmt",
+							"1": "pp.vtf",
+							"tango": [
+								"black.vmt",
+								"black.vtf",
+								"body.vmt",
+								"body.vtf",
+								"box.vmt",
+								"box.vtf",
+								"chrome.vmt",
+								"chrome.vtf",
+								"color2.vmt",
+								"color2.vtf",
+								"color_.vmt",
+								"color_.vtf",
+								"cover.vmt",
+								"cover.vtf",
+								"cover2.vmt",
+								"cover2.vtf",
+								"cover_normal.vtf",
+								"glass.vmt",
+								"glass.vtf",
+								"glasstype.vmt",
+								"glasstype.vtf",
+								"gray.vmt",
+								"gray.vtf",
+								"hood.vmt",
+								"hood.vtf",
+								"lights.vmt",
+								"lights.vtf",
+								"rubber.vmt",
+								"rubber.vtf",
+								"rubber2.vmt",
+								"rubber2.vtf",
+								"sign.vmt",
+								"sign.vtf",
+								"sign2.vmt",
+								"sign2.vtf",
+								"trubber.vmt",
+								"trubber.vtf",
+								"trubber2.vmt",
+								"trubber2.vtf",
+								"white.vmt",
+								"white.vtf"
+							]
+						},
+						"props": {
+							"static": {
+								"fcv01": {
+									"fcv_civ": [
+										"fcv_civ.vmt",
+										"fcv_civ.vtf",
+										"fcv_civ_darkred.vmt",
+										"fcv_civ_darkred.vtf"
+									],
+									"fcv_taxi": [
+										"fcv_taxi_peoplestaxi_2745.vmt",
+										"fcv_taxi_peoplestaxi_2745.vtf",
+										"fcv_taxi_peoplestaxi_5098.vmt",
+										"fcv_taxi_peoplestaxi_5098.vtf"
+									]
+								}
+							}
+						},
+						"skybox": [
+							"tangobk.vmt",
+							"tangobk.vtf",
+							"tangodn.vmt",
+							"tangodn.vtf",
+							"tangoft.vmt",
+							"tangoft.vtf",
+							"tangolf.vmt",
+							"tangolf.vtf",
+							"tangort.vmt",
+							"tangort.vtf",
+							"tangoup.vmt",
+							"tangoup.vtf"
+						],
+						"tango": [
+							"glass.vmt",
+							"glass.vtf",
+							"light.vmt",
+							"light.vtf",
+							"light100.vmt",
+							"light100.vtf",
+							"light20.vmt",
+							"light20.vtf",
+							"light200.vmt",
+							"light200.vtf",
+							"light50.vmt",
+							"light50.vtf",
+							"metal.vmt",
+							"metal.vtf",
+							"rubber.vmt",
+							"rubber.vtf",
+							"tango_awning.vmt",
+							"tango_awning.vtf",
+							"tango_b1.vmt",
+							"tango_b1.vtf",
+							"tango_b2.vmt",
+							"tango_b2.vtf",
+							"tango_button.vmt",
+							"tango_button.vtf",
+							"tango_leds1.vmt",
+							"tango_leds1.vtf",
+							"tango_panel1.vmt",
+							"tango_panel1.vtf",
+							"tango_road1a.vmt",
+							"tango_road1a.vtf",
+							"toolsinvisible.vmt"
+						]
+					},
+					"models": {
+						"0": "caprice.dx80.vtx",
+						"1": "caprice.dx90.vtx",
+						"10": "kolumna_betonowa.sw.vtx",
+						"11": "kolumna_betonowa.vvd",
+						"12": "truck.dx80.vtx",
+						"13": "truck.dx90.vtx",
+						"14": "truck.mdl",
+						"15": "truck.phy",
+						"16": "truck.sw.vtx",
+						"17": "truck.vvd",
+						"18": "truck.xbox.vtx",
+						"2": "caprice.mdl",
+						"3": "caprice.phy",
+						"4": "caprice.sw.vtx",
+						"5": "caprice.vvd",
+						"6": "kolumna_betonowa.dx80.vtx",
+						"7": "kolumna_betonowa.dx90.vtx",
+						"8": "kolumna_betonowa.mdl",
+						"9": "kolumna_betonowa.phy",
+						"models": {
+							"tango": [
+								"interior_fence002c_8x.dx80.vtx",
+								"interior_fence002c_8x.dx90.vtx",
+								"interior_fence002c_8x.mdl",
+								"interior_fence002c_8x.phy",
+								"interior_fence002c_8x.sw.vtx",
+								"interior_fence002c_8x.vvd",
+								"interior_fence002c_8x.xbox.vtx",
+								"interior_fence002c_8x_l.dx80.vtx",
+								"interior_fence002c_8x_l.dx90.vtx",
+								"interior_fence002c_8x_l.mdl",
+								"interior_fence002c_8x_l.phy",
+								"interior_fence002c_8x_l.sw.vtx",
+								"interior_fence002c_8x_l.vvd",
+								"interior_fence002c_8x_l.xbox.vtx",
+								"interior_fence002c_8x_r.dx80.vtx",
+								"interior_fence002c_8x_r.dx90.vtx",
+								"interior_fence002c_8x_r.mdl",
+								"interior_fence002c_8x_r.phy",
+								"interior_fence002c_8x_r.sw.vtx",
+								"interior_fence002c_8x_r.vvd",
+								"interior_fence002c_8x_r.xbox.vtx",
+								"pylon_2x.dx80.vtx",
+								"pylon_2x.dx90.vtx",
+								"pylon_2x.mdl",
+								"pylon_2x.phy",
+								"pylon_2x.sw.vtx",
+								"pylon_2x.vvd",
+								"pylon_2x.xbox.vtx",
+								"pylon_6x.dx80.vtx",
+								"pylon_6x.dx90.vtx",
+								"pylon_6x.mdl",
+								"pylon_6x.phy",
+								"pylon_6x.sw.vtx",
+								"pylon_6x.vvd",
+								"pylon_6x.xbox.vtx",
+								"railing_tango.dx80.vtx",
+								"railing_tango.dx90.vtx",
+								"railing_tango.mdl",
+								"railing_tango.phy",
+								"railing_tango.sw.vtx",
+								"railing_tango.vvd",
+								"railing_tango.xbox.vtx"
+							]
+						},
+						"props": {
+							"static": {
+								"fcv01": {
+									"fcv_civ": [
+										"fcv_civ.dx80.vtx",
+										"fcv_civ.dx90.vtx",
+										"fcv_civ.mdl",
+										"fcv_civ.phy",
+										"fcv_civ.sw.vtx",
+										"fcv_civ.vvd"
+									],
+									"fcv_police": [
+										"fcv_police.dx80.vtx",
+										"fcv_police.dx90.vtx",
+										"fcv_police.mdl",
+										"fcv_police.phy",
+										"fcv_police.sw.vtx",
+										"fcv_police.vvd"
+									],
+									"fcv_taxi": [
+										"fcv_taxi.dx80.vtx",
+										"fcv_taxi.dx90.vtx",
+										"fcv_taxi.mdl",
+										"fcv_taxi.phy",
+										"fcv_taxi.sw.vtx",
+										"fcv_taxi.vvd"
+									]
+								}
+							}
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 337311,
+			"_nDownloadCount": 2255,
+			"_nFilesize": 19445893,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/337311",
+			"_sFile": "de_tango_final_2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1224966621
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 104243,
+	"_sName": "de_tango_final",
+	"_sText": "This time next scene corrected. \r\nIt will not be .res file not be overview\r\nand bots nav. Map is dedicated for players ( not bots, sorry )\r\n"
+}

@@ -1,0 +1,41 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"maps": [
+						"gg_deagle_7_zebra.bsp",
+						"gg_deagle_7_zebra.nav"
+					],
+					"materials": {
+						"decals": {
+							"custom": [
+								"custom_fnggamingdotnet.vmt",
+								"custom_fnggamingdotnet.vtf",
+								"custom_made_by_zebra.vmt",
+								"custom_made_by_zebra.vtf"
+							]
+						}
+					}
+				},
+				"_sMimeType": "application/x-7z-compressed"
+			},
+			"_bContainsExe": false,
+			"_idRow": 303403,
+			"_nDownloadCount": 1692,
+			"_nFilesize": 375316,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/303403",
+			"_sFile": "gg_deagle_7_zebra_4.7z",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1335406984
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 134406,
+	"_sName": "gg_deagle_7_zebra",
+	"_sText": "I used the P_Warehouse prefab, and then added each crate and re-textured each face by myself. I tried to replicate aim_deagle_7k as close as I could, simply because it was my favorite version of the deagle maps. I got tired of noobs going on the bridge and camping. I also made it impossible to get on top of the boxes with normal gravity settings.\r\n\r\nI added nodraw to all the hidden faces to improve performance.\r\n\r\nThis is my 3rd map, but 1st submission to gamebanana. Please let me know what you like and dislike about it.\r\n\r\nThanks!\r\n\r\n-Tactical Zebra\r\n\r\n\r\nNOTE: To add this map to your game directory, simply download to your desktop, then unzip to your cstrike folder. Merge the folders, and then you are ready to play it!"
+}

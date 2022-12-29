@@ -1,0 +1,33 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrike": {
+						"maps": [
+							"de_electrical.bsp",
+							"de_electrical.nav",
+							"de_electrical.txt"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 326048,
+			"_nDownloadCount": 1965,
+			"_nFilesize": 5373860,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/326048",
+			"_sFile": "de_electrical_v1_10.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1262282454
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 102243,
+	"_sName": "de_electrical",
+	"_sText": "de_electrical\r\nmade by Lg.designer\r\n\r\n_____________________________\r\npass word of archive : sodalis\r\n_____________________________\r\n\r\nIncluded\r\n\r\nThe Navigation Mesh + radar\r\n___________________________________________\r\ncstrike /\r\n Maps : de_electrical.nav\r\n        de_electrical.txt\r\n\r\n materials/overviews:de_electrical.vtf\r\n                     de_electrical.vmt\r\n                     de_electrical_radar.vtf\r\n                     de_electrical_radar.vmt\r\n\r\n resource/overciews:de_electrical.txt\r\n___________________________________________\r\n\r\nElectric - Bomb/Defuse\r\n\r\n\r\nCounter-Terrorists: Must prevent the\r\nterrorists put the bomb in the central and\r\nmust defuse it if the damage is done .\r\n\r\nTerrorists: The Terrorist carrying the\r\nC4 must destroy the central . \r\n\r\nOther Notes: There are 2 payloads on the\r\ncentral in the mission.\r\n\r\n___________________________________________\r\nv 1.2\r\nadd : de_electrical.nav in cstrike/maps folder .\r\n      : de_electrical.txt in cstrike/maps folder\r\n___________________________________________\r\nv 1.3\r\nCubemaps modified \" HDR \"\r\n\r\n___________________________________________\r\nv 1.4\r\n- trigger_push (water) Disable\r\n-animation func_breakable Disable\r\n-button from Vavle Disable\r\n:Door terrorist spawn open in 1s after spawn\r\n+sodalis/OVH texture add ( terro spawn and CT spawn )\r\n+sodalis/OVH texture inclued BSP file\r\n\r\n<object width=\"300\" height=\"178\"><param name=\"movie\" value=\"http://www.youtube.com/v/CH0S0MT_OSI&hl=fr_FR&fs=1&hd=1\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://www.youtube.com/v/CH0S0MT_OSI&hl=fr_FR&fs=1&hd=1\" type=\"application/x-shockwave-flash\" allowscriptaccess=\"always\" allowfullscreen=\"true\" width=\"300\" height=\"178\"></embed></object>\r\n___________________________________________"
+}

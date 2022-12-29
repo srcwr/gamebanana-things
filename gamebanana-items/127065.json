@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"deathrun_magma_v1.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 330134,
+			"_nDownloadCount": 1659,
+			"_nFilesize": 8996208,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/330134",
+			"_sFile": "deathrun_magma_v1.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1248811646
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 127065,
+	"_sName": "deathrun_magma",
+	"_sText": "- 64 CT and 3 T spawnpoints\r\n- nice breakable floors with physboxes\r\n- 14 traps with 2 automatic pop-up turrets\r\n- cool soundtrack\r\n- some custom textures and skybox\r\n\r\nThis is my first deathrun map. I think it is not a very hard, may be good for medium skill players.\r\nAll who will fall in a lava will be teleport into noob box.\r\nThe map will start to break in 120 seconds after round start.\r\nYou also must type net_maxfilesize 30 (or greater) in your server.cfg file (or server console) for play on this map."
+}

@@ -1,0 +1,36 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"de_spOOky": {
+						"0": "de_spOOky_readme.txt",
+						"cstrike": {
+							"0": "detail.vbsp",
+							"maps": [
+								"de_spOOky.bsp",
+								"de_spooky.nav"
+							]
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 307795,
+			"_nDownloadCount": 3472,
+			"_nFilesize": 11727034,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/307795",
+			"_sFile": "de_spooky_2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1320003883
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 104084,
+	"_sName": "de_spOOky",
+	"_sText": "![de_spOOky](http://img848.imageshack.us/img848/891/despooky.png \"de_spOOky\")\r\n\r\n\r\nby DA!M\r\n\r\n_\r\nFirst of all, this is my first big mapping project. Until this map i was always working on aim/fy_maps.\r\nSo there are different things i didn't knew about and which this map don't contain!\r\n \r\nAnd i must say that i didn't spend to mutch time on optimization..=(! I thought that this would be possible within a week, but when i saw all the tutorials about hint-brushes and so on, it was impossible for me to do all theses optimization-things in one week, i'm sorry for that ^^)\r\n\r\nSo enough bad news (D!\r\n\r\n____________________________\r\n\r\nI first thought about remaking de_inferno Halloween-themed but later i decide to make something totally new!\r\nIt is an multiplayer-map and i read a lot about how to design a well balanced map with a interesting game play-feeling. So here it is: \r\n\r\n###  The Story\r\n\r\nThe basic style of the map is oriented on de_inferno, cs_italy and cs_militia. The _style_, not the _buildup_!\r\n\r\nIt takes place in an old, rainy village (like de_inferno). The denizens have already decorated their homes for Halloween, with pumpkins (my first models ;D), garlands and some pictures, drawn on the walls.\r\n\r\nSeems to be a happy Halloween party this year.\r\n\r\nBut today, the night of the 31st of October, something is happening in the tiny village...\r\nThe old flares in the castle ruins start burning, there paranormal noises in the forest and blood in a shed...\r\n\r\nBeasts came over the village. They killed all life they found and are no creeping around...\r\n\r\nSo the politicians decided to send a special-ops team to the hamlet and strike back. They can't know that a global terrorism group is interested in the monsters and trying to catch some of them for their dark plans.\r\n\r\nAs a necessary result a battle to death break out between both fractions and now Cts are fighting Ts in that lost village with its shy but killy creatures...\r\nand your are going to join this battle!\r\n\r\n### The Atmosphere\r\n\r\nI've tried to make a map which has a deep, affecting atmosphere but is also well playable! So i had to make some concessions to lightning and to the amount and loudness of sounds. Creating the soundscapes took me about a week, but I'm proud of the result =D! \r\n\r\nFor a realistic, \"living\" illusion of the Village, i used many sequences, some referring to the players movement and acting, some starting automatically. I highly recommend to play the map alone without bots or other players and sneak the whole time! Try to find every hidden event, the following video may be a help:\r\n\r\n<iframe width=\"560\" height=\"315\" src=\"http://www.youtube.com/embed/oOBdZV55XhQ\" frameborder=\"0\" allowfullscreen></iframe>\r\n\r\n### Additional \r\n\r\nAll instructions about installing, credits and thanks can be found in the readme-file, packed to the map.\r\n\r\nI recommend to overwrite the detail.vbsp file I've included with the existing one in your cstrike folders. The one i added contains all detail-sprites the engine currently uses, it was overwritten with the last update and doesn't work any more! \r\n\r\nI think that was all i wanted to say, now download the map and have a scary time ;D.\r\n\r\nLukas 'DA!M' B.\r\n\r\nPS: I hope i packed all files correctly to the bsp file =S...\r\n\r\nPPS: Fog fucks up the screenshots...sry for that!\r\n\r\n![Happy Halloween](http://img14.imageshack.us/img14/155/happyhallow2.png \"Happy Halloween\")"
+}

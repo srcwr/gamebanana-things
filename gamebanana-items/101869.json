@@ -1,0 +1,27 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_district23.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 321960,
+			"_nDownloadCount": 9029,
+			"_nFilesize": 10623891,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/321960",
+			"_sFile": "de_district23.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1276983659
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 101869,
+	"_sName": "de_district23",
+	"_sText": "de_district23\r\n\r\nMy second map after de_site23 http://www.fpsbanana.com/maps/109619.\r\n\r\nI set this at night in a sort of dystopian city district, with strong lighting and a cyber punk feel I guess. The rain in the map adds to the atmosphere. The layout is similar to dust2 in scale and structure. All files are zipped into the bsp. Supports up to 32 players. Some people may not like the darker maps but turn your brightness up if you're having problems, it's fine on my machine but if you have brightness low it may look dark. Its part of the atmosphere in my opinion but im sure some people will still trash because enemies arent as clear to see.\r\n\r\nThis is the first version I have released, having done some testing with friends. One issue that has arose is that the rain is not rendering properly on some peoples PC. The rain looks fine on my PC with the default settings (see screenshots). However, having tested it on some other PCs, the rain seems to be rendering very bright white which spoils the look completely. It is easy to fix with the 'r_rainalpha' console command but this requires cheats to be enabled. If anyone is having this problem and knows how to fix this I would love the feedback as its very frustrating when people don't see the map at its best. No idea why it renders different on some peoples machines and not others.\r\n\r\nAnyway, enjoy and feel free to distribute. Many thanks if I have used your art on one of the billboards, i'm not an artist and I wanted to add some flair to the map and had to use pics are found for free. I'm sorry if I've accidentely used something I shouldn't have, I did try to check."
+}

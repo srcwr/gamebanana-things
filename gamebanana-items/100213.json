@@ -1,0 +1,103 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrike": {
+						"maps": [
+							"cs_night_3.bsp",
+							"cs_night_3.nav"
+						],
+						"materials": {
+							"models": {
+								"props_foliage": [
+									"tree_pine_01_branches.vmt",
+									"tree_pine_01_branches.vtf",
+									"tree_pine_cards_01.vmt",
+									"tree_pine_cards_01.vtf"
+								]
+							}
+						},
+						"models": {
+							"props_foliage": [
+								"tree_pine_01.dx80.vtx",
+								"tree_pine_01.dx90.vtx",
+								"tree_pine_01.mdl",
+								"tree_pine_01.phy",
+								"tree_pine_01.sw.vtx",
+								"tree_pine_01.vvd",
+								"tree_pine_02.dx80.vtx",
+								"tree_pine_02.dx90.vtx",
+								"tree_pine_02.mdl",
+								"tree_pine_02.phy",
+								"tree_pine_02.sw.vtx",
+								"tree_pine_02.vvd",
+								"tree_pine_03.dx80.vtx",
+								"tree_pine_03.dx90.vtx",
+								"tree_pine_03.mdl",
+								"tree_pine_03.phy",
+								"tree_pine_03.sw.vtx",
+								"tree_pine_03.vvd",
+								"tree_pine_card_cluster_01.dx80.vtx",
+								"tree_pine_card_cluster_01.dx90.vtx",
+								"tree_pine_card_cluster_01.mdl",
+								"tree_pine_card_cluster_01.sw.vtx",
+								"tree_pine_card_cluster_01.vvd",
+								"tree_pine_card_cluster_02.dx80.vtx",
+								"tree_pine_card_cluster_02.dx90.vtx",
+								"tree_pine_card_cluster_02.mdl",
+								"tree_pine_card_cluster_02.sw.vtx",
+								"tree_pine_card_cluster_02.vvd",
+								"tree_pine_card_cluster_02_skybox.dx80.vtx",
+								"tree_pine_card_cluster_02_skybox.dx90.vtx",
+								"tree_pine_card_cluster_02_skybox.mdl",
+								"tree_pine_card_cluster_02_skybox.sw.vtx",
+								"tree_pine_card_cluster_02_skybox.vvd",
+								"tree_pine_cluster_01.dx80.vtx",
+								"tree_pine_cluster_01.dx90.vtx",
+								"tree_pine_cluster_01.mdl",
+								"tree_pine_cluster_01.phy",
+								"tree_pine_cluster_01.sw.vtx",
+								"tree_pine_cluster_01.vvd",
+								"tree_pine_tall_01.dx80.vtx",
+								"tree_pine_tall_01.dx90.vtx",
+								"tree_pine_tall_01.mdl",
+								"tree_pine_tall_01.sw.vtx",
+								"tree_pine_tall_01.vvd",
+								"tree_pine_tall_02.dx80.vtx",
+								"tree_pine_tall_02.dx90.vtx",
+								"tree_pine_tall_02.mdl",
+								"tree_pine_tall_02.sw.vtx",
+								"tree_pine_tall_02.vvd",
+								"tree_pine_tall_cluster_01.dx80.vtx",
+								"tree_pine_tall_cluster_01.dx90.vtx",
+								"tree_pine_tall_cluster_01.mdl",
+								"tree_pine_tall_cluster_01.sw.vtx",
+								"tree_pine_tall_cluster_01.vvd"
+							]
+						},
+						"scripts": [
+							"soundscapes_cs_night_3.txt"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 303378,
+			"_nDownloadCount": 2441,
+			"_nFilesize": 12687155,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/303378",
+			"_sFile": "cstrike_36.7z",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1335546217
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 100213,
+	"_sName": "cs_night_3",
+	"_sText": "cs version zm_night_3"
+}

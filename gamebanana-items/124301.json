@@ -1,0 +1,56 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "bhop_average_bhop_gbc.bsp",
+					"1": "bhop_cd.bsp",
+					"2": "bhop_dustbhop_notkz.bsp",
+					"3": "bhop_essy_jumps.bsp",
+					"4": "bhop_hop.bsp",
+					"5": "bhop_leetbhop.bsp",
+					"6": "bhop_viva_peron.bsp",
+					"7": "kz_bhop_brickbhop.bsp",
+					"screenshots": [
+						"bhop_average_bhop_gbc (1).jpg",
+						"bhop_average_bhop_gbc (2).jpg",
+						"bhop_cd (1).jpg",
+						"bhop_cd (2).jpg",
+						"bhop_dustbhop_notkz (1).jpg",
+						"bhop_dustbhop_notkz (2).jpg",
+						"bhop_essy_jumps (1).jpg",
+						"bhop_essy_jumps (2).jpg",
+						"bhop_hop (1).jpg",
+						"bhop_hop (2).jpg",
+						"bhop_hop (3).jpg",
+						"bhop_leetbhop (1).jpg",
+						"bhop_leetbhop (2).jpg",
+						"bhop_viva_peron (1).jpg",
+						"bhop_viva_peron (2).jpg",
+						"bhop_viva_peron.jpg",
+						"kz_bhop_brickbhop (1).jpg",
+						"kz_bhop_brickbhop (2).jpg",
+						"kz_bhop_brickbhop (3).jpg"
+					]
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 396526,
+			"_nDownloadCount": 244,
+			"_nFilesize": 21191726,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/396526",
+			"_sFile": "maps_67e38.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1537029942
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 124301,
+	"_sName": "1.6 Kz/Bhop Map Port Pack #1",
+	"_sText": "Hello! Here's a pack of eight maps in total I've ported over the span of some time. Some ports are incomplete, meaning anything between 90-95% complete, and this WILL be updated overtime.<br>This pack contains (1-2) kz/bhop maps, and the rest are native bunnyhop maps. These maps were ported directly from Counter-Strike 1.6, and have not been modified, aside from some aspects of gameplay rendered useless, or not possible to complete.<br><br>Hope you enjoy.<br><br><b>MAPS-</b><br><br><b>bhop_cd - Map by CD, <a href=\"https://cosy-climbing.net/maps.php/4189/cd_bhop/\" class=\"linkified\" target=\"_blank\">https://cosy-climbing.net/maps.php/4189/cd_bhop/</a></b><br><br><b>bhop_essy_jumps - Map by Whitey, <a href=\"https://cosy-climbing.net/user.php?id.95\" class=\"linkified\" target=\"_blank\">https://cosy-climbing.net/user.php?id.95</a></b><br><br><b>bhop_viva_peron - Map by Paty, <a href=\"https://cosy-climbing.net/user.php?id.1459\" class=\"linkified\" target=\"_blank\">https://cosy-climbing.net/user.php?id.1459</a></b><br><br><b>bhop_dustbhop_notkz - Map by ???, <a href=\"https://cosy-climbing.net/maps.php/2076/notkz_dustbhop/\" class=\"linkified\" target=\"_blank\">https://cosy-climbing.net/maps.php/2076/notkz_dust...</a></b><br><br><b>bhop_leetbhop - Map by NAPZ, <a href=\"https://cosy-climbing.net/user.php?id.1396\" class=\"linkified\" target=\"_blank\">https://cosy-climbing.net/user.php?id.1396</a></b><br><br><b>bhop_average_bhop_gbc - Map by Gorbachev, <a href=\"https://cosy-climbing.net/user.php?id.4076\" class=\"linkified\" target=\"_blank\">https://cosy-climbing.net/user.php?id.4076</a></b><br><br><b>bhop_hop - Map by z1820,</b>&nbsp;<a href=\"https://cosy-climbing.net/user.php?id.318\" class=\"linkified\" target=\"_blank\"><b>https://cosy-climbing.net/user.php?id.318</b></a><br><br><b>kz_bhop_brickbhop - Map by mH, <a href=\"https://cosy-climbing.net/user.php?id.172\" class=\"linkified\" target=\"_blank\">https://cosy-climbing.net/user.php?id.172</a></b><br><br><b>KNOWN ISSUES/BUGS:</b><br><u><br>bhop_cd</u><br><br>-FPS drops/issues around later stages of map, unknown cause<br><br>-Buggy decompiling issues with MBSPC not translating skybox nodraw correctly<br><br><u>bhop_essy_jumps</u><br><br>-Random light at end, due to the way the original KZ timer for 1.6 worked the prefab for the end timer always contained a light, CBA to remove as it adds some semblence of ambience.<br><br><u>bhop_viva_peron</u><br><br>-Buggy/Shitty texture work, decided not to re-do it, maybe will update archive if I get around to it no guarantees.<br><br>-No music, I thought it was obnoxious and unnecessary.<br><br><u>bhop_leetbhop</u><br><br>-Some minor leaks on the brushwork, not entirely fixable due to the way the brushes decompile with MBSPC if I try it breaks the entire map completely, but the entire map should work absolutely fine. 100% playable with no bugs.<br><br><u>bhop_hop</u><br><br>-Possibly some leaks outside of the map, and buggy texture work at the end. No idea what causes either as the pointfile indicates something of nil value. Will possibly look into it.<br><br><b>NOTE:</b><br><br>I didn't bother updating the textures with new ones, as this is a preservation account, nor did I make these maps myself so I don't consider myself at any right to modify other mappers work.<br><br><b>TEXTURES WILL BE BLURRY AND BAD LOOKING IF YOU USE A LOW TEXTURE SETTING. USE HIGH TEXTURE SETTINGS FOR BEST APPEARANCE!</b><br><br>All maps ported by me.<br><br>"
+}

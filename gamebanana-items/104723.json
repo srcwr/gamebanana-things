@@ -1,0 +1,224 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"wolfenstrike": {
+						"0": "Wolfenstrike README.txt",
+						"cstrike": {
+							"hostage": {
+								"hpain": [
+									"hpain1.wav",
+									"hpain2.wav",
+									"hpain3.wav",
+									"hpain4.wav",
+									"hpain5.wav",
+									"hpain6.wav"
+								],
+								"hunuse": [
+									"comeback.wav",
+									"dontleaveme.wav",
+									"illstayhere.wav",
+									"notleaveme.wav",
+									"yeahillstay.wav"
+								],
+								"huse": [
+									"getouttahere.wav",
+									"illfollow.wav",
+									"letsdoit.wav",
+									"letsmove.wav",
+									"okletsgo.wav",
+									"youlead.wav"
+								]
+							},
+							"maps": [
+								"de_wolfenstrike.bsp",
+								"de_wolfenstrike.nav"
+							],
+							"materials": {
+								"VGUI": {
+									"logos": {
+										"0": "081006-nazi-poster.vmt",
+										"1": "081006-nazi-poster.vtf",
+										"10": "270pgg.vmt",
+										"11": "270pgg.vtf",
+										"12": "Adolph-Hitler-Banner-Standard-Nazi-Third-Reich-Flag-01LG.vmt",
+										"13": "Adolph-Hitler-Banner-Standard-Nazi-Third-Reich-Flag-01LG.vtf",
+										"14": "Adolph-Hitler-Banner-gg.vmt",
+										"15": "Adolph-Hitler-Banner-gg.vtf",
+										"16": "Balkenkr.vmt",
+										"17": "Balkenkr.vtf",
+										"18": "Poster009.vmt",
+										"19": "Poster009.vtf",
+										"2": "1637.vmt",
+										"20": "Reichsparteitagg.vmt",
+										"21": "Reichsparteitagg.vtf",
+										"22": "THUG2.vmt",
+										"23": "THUG2.vtf",
+										"24": "WWII_poster_02.vmt",
+										"25": "WWII_poster_02.vtf",
+										"26": "fuhrer2gg.vmt",
+										"27": "fuhrer2gg.vtf",
+										"28": "gg-grande.vmt",
+										"29": "gg-grande.vtf",
+										"3": "1637.vtf",
+										"30": "gg.vmt",
+										"31": "gg.vtf",
+										"32": "gg_std.vmt",
+										"33": "gg_std.vtf",
+										"34": "ggc_m.vmt",
+										"35": "ggc_m.vtf",
+										"36": "ggpaint.vmt",
+										"37": "ggpaint.vtf",
+										"38": "gwwii015.vmt",
+										"39": "gwwii015.vtf",
+										"4": "218p.vmt",
+										"40": "jew_poster6.vmt",
+										"41": "jew_poster6.vtf",
+										"42": "kill_jew_poster.vmt",
+										"43": "kill_jew_poster.vtf",
+										"44": "kill_jew_poster2.vmt",
+										"45": "kill_jew_poster2.vtf",
+										"46": "martin-bormanngg.vmt",
+										"47": "martin-bormanngg.vtf",
+										"48": "nazi_army_commander.vmt",
+										"49": "nazi_army_commander.vtf",
+										"5": "218p.vtf",
+										"50": "nazi_battleflag.vmt",
+										"51": "nazi_battleflag.vtf",
+										"52": "nazi_soldiergg.vmt",
+										"53": "nazi_soldiergg.vtf",
+										"54": "poster-nazi-girlgg.vmt",
+										"55": "poster-nazi-girlgg.vtf",
+										"56": "siegakgg.vmt",
+										"57": "siegakgg.vtf",
+										"58": "smalleagleblack.vmt",
+										"59": "smalleagleblack.vtf",
+										"6": "222p.vmt",
+										"60": "soldier_people_propgg.vmt",
+										"61": "soldier_people_propgg.vtf",
+										"62": "ss-house-flag01.vmt",
+										"63": "ss-house-flag01.vtf",
+										"64": "start-world-war-2-18.vmt",
+										"65": "start-world-war-2-18.vtf",
+										"66": "station-ident-nazigg.vmt",
+										"67": "station-ident-nazigg.vtf",
+										"68": "swastika.vmt",
+										"69": "swastika.vtf",
+										"7": "222p.vtf",
+										"70": "swastika_armband.vmt",
+										"71": "swastika_armband.vtf",
+										"72": "triumph_will_postergg.vmt",
+										"73": "triumph_will_postergg.vtf",
+										"74": "waffen_ss.vmt",
+										"75": "waffen_ss.vtf",
+										"8": "245p.vmt",
+										"9": "245p.vtf",
+										"UI": [
+											"081006-nazi-poster.vmt",
+											"1637.vmt",
+											"218p.vmt",
+											"222p.vmt",
+											"245p.vmt",
+											"270pgg.vmt",
+											"adolph-hitler-banner-gg.vmt",
+											"adolph-hitler-banner-standard-nazi-third-reich-flag-01lg.vmt",
+											"ass_owned_by_easy_edited-2.vmt",
+											"balkenkr.vmt",
+											"fuhrer2gg.vmt",
+											"gg-grande.vmt",
+											"gg.vmt",
+											"gg_std.vmt",
+											"ggc_m.vmt",
+											"ggpaint.vmt",
+											"gwwii015.vmt",
+											"jew_poster6.vmt",
+											"kill_jew_poster.vmt",
+											"kill_jew_poster2.vmt",
+											"martin-bormanngg.vmt",
+											"nazi_army_commander.vmt",
+											"nazi_battleflag.vmt",
+											"nazi_soldiergg.vmt",
+											"poster-nazi-girlgg.vmt",
+											"poster009.vmt",
+											"reichsparteitagg.vmt",
+											"siegakgg.vmt",
+											"smalleagleblack.vmt",
+											"soldier_people_propgg.vmt",
+											"spray_bullseye.vmt",
+											"spray_kamikazi.vmt",
+											"ss-house-flag01.vmt",
+											"start-world-war-2-18.vmt",
+											"station-ident-nazigg.vmt",
+											"swastika.vmt",
+											"swastika_armband.vmt",
+											"thug.vmt",
+											"thug2.vmt",
+											"thugred.vmt",
+											"thugshady.vmt",
+											"triumph_will_postergg.vmt",
+											"waffen_ss.vmt",
+											"wwii_poster_02.vmt"
+										]
+									},
+									"maps": [
+										"menu_thumb_de_wolfenstrike.vtf",
+										"menu_thumb_de_wolfenstrike25nb.vmt",
+										"menu_thumb_de_wolfenstrike25nb.vtf"
+									]
+								},
+								"models": {
+									"Hostages": [
+										"art_facemap.vtf",
+										"cohrt.vtf",
+										"glass2.vtf",
+										"hostage_sheet.vtf",
+										"sandro_facemap.vtf",
+										"vance_facemap.vtf"
+									]
+								},
+								"overviews": [
+									"de_wolfenstrike.vmt",
+									"de_wolfenstrike.vtf",
+									"de_wolfenstrike_radar.vmt",
+									"de_wolfenstrike_radar.vtf"
+								]
+							},
+							"resource": {
+								"overviews": [
+									"de_wolfenstrike.txt"
+								]
+							},
+							"sound": {
+								"Wolfenstrike": [
+									"Hitler-Intolerance1.wav",
+									"Uber-Alles.wav",
+									"dasistberlin3.wav",
+									"moveout.wav",
+									"nazi_radiochatter.wav",
+									"sturm.wav"
+								]
+							}
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 289485,
+			"_nDownloadCount": 4561,
+			"_nFilesize": 18944007,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/289485",
+			"_sFile": "wolfenstrike.7z",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1393384486
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 104723,
+	"_sName": "de_wolfenstrike",
+	"_sText": "email digitalcleaner@gmail.com\r\n\r\nSorry this readme is so large. I like to be thorough. There should be no questions if you read this.\r\n\r\n-------------------------\r\nInstallation Instructions|\r\n-------------------------\r\nInside this zip is a \"cstrike\" folder. Just drop that in your \"counter-strike source\" folder i.e., >> c:/program files/steam/steamapps/your-steam-name/counter-strike Source/. Then say \"yes\" to merge the folders.\r\n\r\nNoob recap, right click wolfenstrike.rar, select \"extract here\". Now find and right click the cstrike folder >> right click on YOUR \"counter-strike source\" folder and select \"paste\". When it asks if you want to merge choose \"yes\". If you don't get a pop up asking to merge my folders contents in with yours you pasted it in the wrong place!\r\n\r\nfire up counterstrike and choose the wolfenstrike map, you are good to go!\r\n\r\n----------------------\r\nRemoving wolfenstrike |\r\n---------------------- \r\ngo to cstrike/materials/models/ delete \"hostage\" and/or \"player\" folders.\r\n\r\nTo delete custom hostage sounds: go to \"cstrike/sound/ delete the \"hostage\" folder.\r\n\r\nYou can safely delete these because source pulls the original skin and sound files from the .gcf which is like a huge zipped directory.\r\n\r\n\r\nAnyway, the game is designed so you can add custom shit, so the game checks for custom shit before loading vanilla from the .gcf, if there is nothing there, ie, you deleted the folders hostage and player, you'll get the old cs skins back. Got it? If not, no big, just trust me and delete the folders I just listed to get your old cs skins and sounds in play.\r\n\r\ngmod install:\r\nWolfenstrike should populate in cs map catagory when you run gmod, but I created a thumb nail for this map. Put it in \\your steam name\\garrysmod\\garrysmod\\materials\\VGUI\\maps \r\nThe thumbnail file names are: \"menu_thumb_de_wolfenstrike.vmt\" and \"menu_thumb_de_wolfenstrike.vtf\". CS doesnt use thumbnails. I am releasing a gmod version of this map with HL2 info_nodes populated in it. It is wolfengarry.bsp. CS:S bots use a mesh navigation system different than how combine and other HL2 bot's find their way around, so I made a different version of this map for gmod HL2 bots. Download at digitalcleaner.net.\r\n\r\nPS\r\nIf you don't have HL2 episode1 you might get some errors in the map as I used some HL2 Episode 1 content in this map.\r\n\r\n------------------------------------\r\nWhy I was inspired to make this map.|\r\n------------------------------------\r\nThis map is based after the movie valkyrie where two factions of nazi's fight it out for control.\r\nWolfenStrike was inspired by the memory of the 1st first person shooter I ever played back in the early 1990's called Wolfenstein 3D. To my knowledge it was the first FPS ever made and was created by ID Software who later created DooM. It was based after a pretty kick ass game called Castle Wolfenstein by Muse Software in 1984. More details here: http://en.wikipedia.org/wiki/Wolfenstein_3D.\r\n\r\nBack in the CS beta (late 1990's) and leading up to CS 1.5 there were tons of really creative maps. My favorites came from map makers like 3D  \r\nmike and so forth because they made secret areas and more realistic maps with lots of custom sounds and wads along with camping/ambush spots\r\n\r\nIt's just another WWII counter strike source map that attempts to fix de_chateau to it's former glory with some extra's.\r\n\r\n-------\r\nCREDITS|\r\n-------\r\nALL credit goes to Valve and the respective creators of CS:S maps.\r\n\r\nAny gain of commerce from this map or its components would be answerable to valve, so just keep that in mind. This is just for fun, an attempt at making maps the way they use to be and hopefully you'll enjoy it as I have editing and testing it.\r\n\r\nFeel free to use the vtf files I made for the hostage and player models in whatever capacity you want. Just be sure to send me a link so I can enjoy seeing what you did with it!\r\n\r\n\r\n-----------------------------\r\nContent included in this file|\r\n-----------------------------\r\nBTW\r\nI put all my custom images in: (.vtf files) cstrike/materials/vgui/logo's >> this way you can use any of the wolfenstrike custom images as sprays in game. Kinda nifty eh? I take no responsibility if you get banned for being a neo nazi and spraying nazi contriband all over gods source creation.\r\n\r\nList of files and directories:\r\n\r\n\"cstrike/materials/models/hostage\" (I'm not listing all these files, look in the folder)\r\n\"cstrike/materials/models/player\" (I'm not listing all these files, look in the folder)\r\n\"cstrike/sound/hostage/\" (I'm not listing all these files, look in the folder)\r\n\"maps\\de_wolfenstrike.bsp\"\r\n\"maps\\de_wolfenstrike.nav\r\n\"materials/VGUI/maps/menu_thumb_de_wolfenstrike.vmt\" \r\n\"materials/VGUI/maps/menu_thumb_de_wolfenstrike.vtf\" \r\n\"materials/VGUI/218p.vmt\" \r\n\"materials/VGUI/218p.vtf\" \r\n\"materials/VGUI/222p.vmt\" \r\n\"materials/VGUI/222p.vtf\" \r\n\"materials/VGUI/245p.vmt\" \r\n\"materials/VGUI/245p.vtf\" \r\n\"materials/VGUI/270pgg.vmt\" \r\n\"materials/VGUI/270pgg.vtf\" \r\n\"materials/VGUI/081006-nazi-poster.vmt\" \r\n\"materials/VGUI/081006-nazi-poster.vtf\" \r\n\"materials/VGUI/fuhrer2gg.vmt\" \r\n\"materials/VGUI/fuhrer2gg.vtf\" \r\n\"materials/VGUI/gg.vmt\" \r\n\"materials/VGUI/gg.vtf\" \r\n\"materials/VGUI/gg_std.vmt\" \r\n\"materials/VGUI/gg_std.vtf\" \r\n\"materials/VGUI/ggc_m.vmt\" \r\n\"materials/VGUI/ggc_m.vtf\" \r\n\"materials/VGUI/gg-grande.vmt\" \r\n\"materials/VGUI/gg-grande.vtf\" \r\n\"materials/VGUI/ggpaint.vmt\" \r\n\"materials/VGUI/ggpaint.vtf\" \r\n\"materials/VGUI/gwwii015.vmt\" \r\n\"materials/VGUI/gwwii015.vtf\" \r\n\"materials/VGUI/jew_poster6.vmt\" \r\n\"materials/VGUI/jew_poster6.vtf\" \r\n\"materials/VGUI/kill_jew_poster.vmt\" \r\n\"materials/VGUI/kill_jew_poster.vtf\" \r\n\"materials/VGUI/kill_jew_poster2.vmt\" \r\n\"materials/VGUI/kill_jew_poster2.vtf\" \r\n\"materials/VGUI/nazi_army_commander.vmt\" \r\n\"materials/VGUI/nazi_army_commander.vtf\" \r\n\"materials/VGUI/nazi_battleflag.vmt\" \r\n\"materials/VGUI/nazi_battleflag.vtf\" \r\n\"materials/VGUI/nazi_soldiergg.vmt\" \r\n\"materials/VGUI/nazi_soldiergg.vtf\" \r\n\"materials/VGUI/poster-nazi-girlgg.vmt\" \r\n\"materials/VGUI/poster-nazi-girlgg.vtf\" \r\n\"materials/VGUI/Reichsparteitagg.vmt\" \r\n\"materials/VGUI/Reichsparteitagg.vtf\" \r\n\"materials/VGUI/siegakgg.vmt\" \r\n\"materials/VGUI/siegakgg.vtf\" \r\n\"materials/VGUI/smalleagleblack.vmt\" \r\n\"materials/VGUI/smalleagleblack.vtf\" \r\n\"materials/VGUI/soldier_people_propgg.vmt\" \r\n\"materials/VGUI/soldier_people_propgg.vtf\" \r\n\"materials/VGUI/ss-house-flag01.vmt\" \r\n\"materials/VGUI/ss-house-flag01.vtf\" \r\n\"materials/VGUI/station-ident-nazigg.vmt\" \r\n\"materials/VGUI/station-ident-nazigg.vtf\" \r\n\"materials/VGUI/THUG2.vmt\" \r\n\"materials/VGUI/THUG2.vtf\" \r\n\"materials/VGUI/triumph_will_postergg.vmt\" \r\n\"materials/VGUI/triumph_will_postergg.vmf\" \r\n\"materials/VGUI/waffen_ss.vmt\" \r\n\"materials/VGUI/waffen_ss.vtf\" \r\n\"sound\\wolfenstrike\\moveout.wav\"\r\n\"sound\\wolfenstrike\\nazi_radiochatter.wav\"\r\n\"sound\\wolfenstrike\\sturm.wav\"\r\n\"sound\\wolfenstrike\\Uber-Alles.wav\"\r\n\"sound\\wolfenstrike\\Hitler-Intolerance1.wav\""
+}

@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"cs_bulletheory.bsp",
+					"cs_bulletheory.nav",
+					"cs_bulletheory_readme.txt"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 357011,
+			"_nDownloadCount": 2086,
+			"_nFilesize": 1519545,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/357011",
+			"_sFile": "cs_bulletheory.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1154748032
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 99650,
+	"_sName": "cs_bullettheory",
+	"_sText": "\r\nCopyed from original\r\n\r\n\"This is as polished up as I am likely to take it now, just gonna put this beta out and see if anyone has any final suggestions. Some of the key changes besides obvious polishing and detailing include:\r\n\r\n-The doors are wider and thats pretty much fixed any problems the bots were having.\r\n-Added the 2nd route for the cts to take when they spawn.\r\n-The gap between the stairway is wider so you can now jump down it.\r\n-Changed shape of corridor on the top floor so its less of a sniper trap\r\n-Added more sounds.\r\n\r\nUpdate: Main changes:\r\nReplaced some dynamic props that could have blocked doorways\r\nFixed the low fps in places\r\nAdded more respawns (there are now 42)\r\nUsual tweaks here and there\""
+}

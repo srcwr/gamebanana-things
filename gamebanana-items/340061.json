@@ -1,0 +1,41 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"bhop_hb_cd_final.bsp",
+					"to install.txt"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 703259,
+			"_nDownloadCount": 42,
+			"_nFilesize": 11841429,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/703259",
+			"_sFile": "bhop_hb_cd_9433e.zip",
+			"_sMd5Checksum": "bc3301a66f0a6c09c30ecb6555886c4b",
+			"_tsDateAdded": 1638391559
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Tweak",
+					"text": "Model optimization, fog"
+				}
+			],
+			"_sText": "Animated the player model and made the fog just a little less harsh for the player to navigate.",
+			"_sTitle": "Optimization",
+			"_tsDateAdded": 1638391685
+		}
+	],
+	"_idRow": 340061,
+	"_sName": "bhop_hb_cd",
+	"_sText": "Hello, this map's a port of a 1.6 bhop map, I tried to stay as faithful as I could to the original map. That's about all there is to say :)"
+}

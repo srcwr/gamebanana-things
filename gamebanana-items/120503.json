@@ -1,0 +1,30 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"README.txt",
+					"credits.txt",
+					"fk_stalker_concrete_v2.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 340837,
+			"_nDownloadCount": 1803,
+			"_nFilesize": 11833434,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/340837",
+			"_sFile": "fk_stalker_concrete_v2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1214689556
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 120503,
+	"_sName": "fk_stalker_concrete_v2",
+	"_sText": "Fk_Stalker_Concrete_V2: By Nubblecakes & Makkon\r\n\r\n\r\n\r\nThis map is dark, I know. Don't complain that it's too dark because the idea of the Stalker gameplay is that all players have knives at the beginning of each round and must use the shadows to sneak around and ghost other players. The dark lighting in this map is exactly what you need to do this.\r\n\r\nThe map has a few glocks hidden about that you must find. Some are blatantly obvious if you have a sharp enough eye. You will have your weapons stripped at the beginning of each round in order to balance the gameplay. It would be pretty lame if you found a glock and got extra ammo the next round while everyone \r\nwho didn't only has their knives.\r\n\r\nThe map has a point_servercommand entity that functions in turning off flashlights (mp_flashlight 0). To turn it back on, simply put a 1 instead of a 0 in the parenthesized command. I disabled flashlights because it makes it boring and near-pointless to hide in the shadows if people have flashlights. If Source had the feature that actually showed the light that players casted on the map (not just the light BEAM, the actual spot of light that hits the surfaces) then I would have kept it in, but since the lighting in Source is savvy and boring, I had to remove it. I will not be removing this module, so if you want flashlights, either have an admin in the server whenever you play the map so they can set the flashlights to on, or just use Entspy to delete the point_clientcommand entity then save over the BSP. JUST DON'T UPLOAD IT HERE OR I'LL REPORT IT! You may want to give it a different name in case someone tries to join your server when they already have this map in their files. If you don't give it a different name, people with the original map will simply get \"Map differs from server.\" when they try to join. So rename it if you do this!\r\n\r\n\r\n\r\nCREDITS:\r\n\r\nOriginal Map: Makkon\r\n\r\nBackground music and additional work: Nubblecakes (ME!)"
+}

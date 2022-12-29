@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"readme.txt",
+					"ze_UT2004_Convoy_v2_2_1.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 293202,
+			"_nDownloadCount": 3488,
+			"_nFilesize": 43504250,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/293202",
+			"_sFile": "ze_ut2004_convoy_v2_2_1.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1375209776
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 131091,
+	"_sName": "ze_UT2004_Convoy_v2_2_1",
+	"_sText": "I do NOT own the original idea or concept of this map. The original map was created by Epic Games.\r\n\r\nYou're NOT allowed to change any parts of this map or use any parts of this map on other maps.\r\n\r\n--------------------------------------------\r\n\r\nMy 3rd Zombie Escape map for CS:S. Based on the UT2004 \"Convoy\" map for Assault mode. It has 72 spawn points, 4 difficulties and 4 special items.\r\nNote: Map too hard :P\r\nHave fun!\r\n\r\n--------------------------------------------\r\n\r\nFeedback\r\n\r\nAny useful feedback is welcome. Yes, I said \"useful\". That means that fat fat trolls can go and do some dirty thing with themselves.\r\n\r\n--------------------------------------------\r\n\r\nMap by SubDelt@\r\n\r\n--------------------------------------------\r\n\r\nV1_1 CHANGE LOG\r\n\r\n- Redone spawn system;\r\n- Added some clip brushes to some places to prevent zombies from reaching humans easily;\r\n- Made the missiles boards (the last hold) non-solid so they don't block players.\r\n\r\n--------------------------------------------\r\n\r\nV1_2 CHANGE LOG\r\n\r\n- Fixed texture bug on the spawn;\r\n- Optimized the map a bit;\r\n- Made the hold point inside the Repair Vessel (the central one) easier on higher difficulties;\r\n- Extended gas tank burning time to give humans more abilities to hold;\r\n- Made gas tank HP higher so it gets lower chances to get griefed.\r\n\r\n--------------------------------------------\r\n\r\nV2_1 CHANGE LOG\r\n\r\n- Added an additional human item, the REDEEMER. It appears on every difficulty, inside the forward weapon cache, but has only 50% chance to spawn;\r\n- Made some holding spots easier for humans;\r\n- Lowered mother zombie spawn ratio to make the map easier in the beginning;\r\n- Filtered some unfiltered buttons for CTs only to avoid non-legit wins;\r\n- Fixed the bug when items just stop working for no reason. Now they work fine;\r\n- Made the gas tank's HP even more higher since people were still griefing it;\r\n- Set the max ammo amount to 1200;\r\n- Extended the Berserker combo working time by few seconds;\r\n- Improved the visual look of the map.\r\n\r\n--------------------------------------------\r\n\r\nV2_2 CHANGE LOG\r\n\r\n- Fixed existing Redeemer bugs. Now, if it bounces off the wall without an explosion, it detonates shortly afterwards;\r\n- Removed the Redeemer's AFK filter. Now it kills every zombie in the area except 1-2 zombies that are \"Redeemer immune\" (RI). Instead of being killed by the Redeemer explosion, RI zombies are being teleported to the nearest respawn point. The RI zombies are being picked randomly by the map after a human picks up the Redeemer for the first time. After that, if for any reason there are no any RI zombies on the map, the map will pick another RI zombie in 4-6 seconds. This should resolve the problems such as wins caused by the Redeemer killing the whole Zombies team and fails caused by the Redeemer not killing newly infected zombies;\r\n- Enabled zombie respawn for all servers. Set the zombie respawn delay to 4 seconds for all servers;\r\n- Changed the holds inside the Repair Vessel and the N.E.X.U.S. trailer on difficulties NOVICE and EXPERIENCED;\r\n- Added anti-delay. Now, if a zombie gets to the current objective (for instance, a button that has to be pressed) before humans complete this objective, the map shows the message \"Enemies have got to the objective.\" and the whole Humans team gets killed;\r\n- Increased the max ammo amount to 2000 for all weapon types;\r\n- Added the gas tank's griefing protection. Now, the gas tank can only be damaged after the air strike;\r\n- Added more invisible walls, because I know you love them;\r\n- Lowered the Dreadnought's HP by 33%. Increased the the damage dealt to the Dreadnought by grenades by 25%;\r\n- Added score rewards for completing the map on each difficulty (100 for NOVICE, 200 for EXPERIENCED, 400 for MASTERFUL and 1000 for GODLIKE);\r\n- Other small fixes and changes.\r\n\r\n--------------------------------------------\r\n\r\nV2_2_1 CHANGE LOG\r\n\r\n- Fixed the HDR/lighting issue."
+}

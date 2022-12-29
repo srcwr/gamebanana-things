@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"fk_trapnaseum.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 348562,
+			"_nDownloadCount": 1574,
+			"_nFilesize": 1512742,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/348562",
+			"_sFile": "fk_trapnaseum.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1190061278
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 120504,
+	"_sName": "fk_trapnaseum",
+	"_sText": "Well I made this map for a friend of mine. It's a new kind of map I developed called a trap map. Except it's not dealing with zombie mod escape maps or anything like that. It's plain fight-yard stylish gameplay, except you buy weapons, and each team has a car cannon they get to use. :D\r\n\r\nThe basic idea is attack and defend. Rounds can be quick or slow depending on how people play with the traps. I'm not sure if the traps will become boring for you since a they all are duplicates of others. I think all in all there is about 6 or 7 different kinds of traps that have duplicates of themselves placed strategically around the map (if you consider senseless explosions and cars flying as a strategic thing).\r\n\r\nAnyway, you may think that the car cannon is prone to a lot of spamming, but I have a logic_timer which will remove any of the cars shot by the cannon at a 40 second interval. So every 40 seconds the cars will be randomly removed from the map. Remember, ONLY the green cars shot from either cannon. They shoot pretty fast so watch out. :D\r\n\r\nThe center pillar's base is breakable, and will make the weird shield thing at the ceiling collapse and sorta kill you all I guess (it just falls then the map explodes). There is also a little sawblade cannon that rotates slowly and lets you shoot flaming sawblades around. It won't really kill anyone though since props shot from an env_shooter entity NEVER collide with players. Too bad I can't fix that. It's just there for playing with I guess."
+}

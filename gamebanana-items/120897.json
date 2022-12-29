@@ -1,0 +1,67 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"maps": [
+						"musicalrooms_b2.bsp",
+						"musicalrooms_b2.res",
+						"musicalrooms_b2.txt",
+						"musicalrooms_b2_noknifes.bsp",
+						"musicalrooms_b2_noknifes.res",
+						"musicalrooms_b2_noknifes.txt"
+					],
+					"materials": {
+						"ukcs": [
+							"ukcs_decal.vmt",
+							"ukcs_decal.vtf"
+						]
+					},
+					"sound": {
+						"aliassounds": {
+							"musicalrooms": [
+								"Audiobullys-Wedontcare.wav",
+								"FatBoySlim-SlashDotDash.wav",
+								"GigiDagostino-BlaBlaBla.wav",
+								"Rammstein-Links234.wav",
+								"SSX-ShakeWhatYourMamaGaveYa.wav",
+								"StarWars-ImperialMarch.wav",
+								"TheHives-AKA_IDIOT.wav",
+								"TheProdigy-Breath.wav",
+								"TheProdigy-Firestarter.wav",
+								"YMCA.wav",
+								"cheekygirls-touchmybum.wav",
+								"chemicalromance-blood.wav",
+								"lionkingcircleoflife.wav",
+								"looping_radio_mix.wav",
+								"mod2.wav",
+								"ozone-dragosteadintei.wav",
+								"rightsaidfred-imtoosexy.wav",
+								"sailorshornpipe.wav",
+								"tetris.wav",
+								"the_neverhood_theme.wav"
+							]
+						}
+					}
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 340535,
+			"_nDownloadCount": 1979,
+			"_nFilesize": 8519048,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/340535",
+			"_sFile": "musicalrooms_b2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1215596743
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 120897,
+	"_sName": "musicalrooms_b2",
+	"_sText": "This map is based on the game musical chairs. instead, i made it work with rooms. Everyone starts with a knife in a pretty small area. while you are knifing you will hear some music and when it stops some doors will open (the first round all will open as there are only 20 and when there are more in the map many will die anyway). only 1 player should be able to get in a room (and with luck 2 people can - but if they do that in the last round both will still die).\r\n\r\n<B><U>There are 2 versions of this map!</U></B>\r\n- A version with knifes\r\n- A version without knifes\r\nBoth versions are in this package and are only diffirent in having the knife or not.\r\n\r\nEach round is seperated in 5 shorter rounds. The doors that open in each round are random\r\nround 1 opens 20 doors\r\nround 2 opens 14 doors\r\nround 3 opens 8 doors\r\nround 4 opens 4 doors\r\nround 5 opens 1 door\r\nOn average this should take: 2 minutes and 15 seconds\r\n\r\nThe knife version is recommended for large server so not too many die in the first round.\r\n\r\n<i>Note: if people have downloading sounds disabled then they wont hear the music but they hear the doors open.</i>"
+}

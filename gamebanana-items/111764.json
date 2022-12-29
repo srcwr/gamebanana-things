@@ -1,0 +1,43 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "ReadMe.txt",
+					"maps": [
+						"fy_circle_fix.bsp",
+						"fy_circle_fix.nav"
+					],
+					"materials": {
+						"overviews": [
+							"fy_circle_fix.vmt",
+							"fy_circle_fix.vtf"
+						]
+					},
+					"resource": {
+						"overviews": [
+							"fy_circle_fix.txt"
+						]
+					}
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 359347,
+			"_nDownloadCount": 1456,
+			"_nFilesize": 1837376,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/359347",
+			"_sFile": "fy_circle_fix.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1135013220
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 111764,
+	"_sName": "fy_circle_fix",
+	"_sText": "<div style=\"height:256px;overflow:auto;margin:-3px;\"><strong class=\"green\">UPDATED - August, 27<sup>th</sup>, 2006</strong>\r\n\r\n<fieldset style=\"background-color: rgb(24, 41, 51);border:1px solid gray;border-bottom:2px solid gray;border-right:2px solid gray;\"><legend><strong class=\"blue\">Changes/Additions</strong></legend><ul style=\"margin:0 0 0 10px;padding:0;line-height:14px;\"><li>Updated Map Overview</li><li>Added more Tags on walls</li><li>Added a “Secret Tunnel”</li></ul></fieldset>\r\n<hr />\r\n<strong class=\"green\">UPDATED - April 14<sup>th</sup>, 2006</strong>\r\n\r\n<fieldset style=\"background-color: rgb(24, 41, 51);border:1px solid gray;border-bottom:2px solid gray;border-right:2px solid gray;\"><legend><strong class=\"blue\">Bug Fixes</strong></legend><ul style=\"margin:0 0 0 10px;padding:0;line-height:14px;\"><li>Fixed Players and physics shadows.</li><li>Fixed Spawpoints too near causing two players spawning in the same place.</li></ul></fieldset>\r\n\r\n<fieldset style=\"background-color: rgb(24, 41, 51);border:1px solid gray;border-bottom:2px solid gray;border-right:2px solid gray;\"><legend><strong class=\"blue\">Changes/Additions</strong></legend><ul style=\"margin:0 0 0 10px;padding:0;line-height:14px;\"><li>Lightmap scale set to 4 in some faces</li><li>Added Map Overview</li></ul></fieldset>\r\n \r\n<hr />\r\n<strong class=\"green\">UPDATED</strong>\r\n\r\n<fieldset style=\"background-color: rgb(24, 41, 51);border:1px solid gray;border-bottom:2px solid gray;border-right:2px solid gray;\"><legend><strong class=\"blue\">Bug Fixes</strong></legend><ul style=\"margin:0 0 0 10px;padding:0;line-height:14px;\"><li>Fixed two or more players spawning in the same spawn point</li><li>Fixed the car being a prop_phsy instead of prop_static</li></ul></fieldset>\r\n\r\n<fieldset style=\"background-color: rgb(24, 41, 51);border:1px solid gray;border-bottom:2px solid gray;border-right:2px solid gray;\"><legend><strong class=\"blue\">Changes/Additions</strong></legend><ul style=\"margin:0 0 0 10px;padding:0;line-height:14px;\"><li>Added HDR Lighting</li></ul></fieldset></div>"
+}

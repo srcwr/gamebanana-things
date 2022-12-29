@@ -1,0 +1,47 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "readme_cs_sanctum.txt",
+					"maps": [
+						"cs_sanctum.bsp",
+						"cs_sanctum.nav",
+						"cs_sanctum.txt"
+					],
+					"materials": {
+						"cs_sanctum": [
+							"cs_sanctum_tag.vmt",
+							"cs_sanctum_tag.vtf"
+						],
+						"overviews": [
+							"cs_sanctum.vmt",
+							"cs_sanctum.vtf"
+						]
+					},
+					"resource": {
+						"overviews": [
+							"cs_sanctum.txt"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 360911,
+			"_nDownloadCount": 1497,
+			"_nFilesize": 1418296,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/360911",
+			"_sFile": "cs_sanctum.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1122460446
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 100407,
+	"_sName": "cs_sanctum",
+	"_sText": "This is quite a small hostage rescue map, with some very dark areas.  Therefore I recommend that you disable player identification by name to increase tension.  \r\n\r\nThe bots' .nav file has been created and tweaked, but you will have a lot more fun playing against humans.  More so than usual anyway."
+}

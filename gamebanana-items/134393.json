@@ -1,0 +1,31 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"gg_deagle5_flooded_night_v2": [
+						"gg_deagle5_flooded_night_v2.bsp",
+						"gg_deagle5_flooded_night_v2.nav"
+					]
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 345012,
+			"_nDownloadCount": 1381,
+			"_nFilesize": 1022366,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/345012",
+			"_sFile": "gg_deagle5_flooded_night_v2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1200869496
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 134393,
+	"_sName": "gg_deagle5_flooded_night_v2",
+	"_sText": "After about 50+ times of compiling and testing, deciding what I should fix/what was wrong, and repeating the process, I have finally made the version of the map which I finally like. So... without further adieu... here is gg_deagle5_flooded_night_v2\r\n\r\nENJOY!\r\n\r\nA little bit about the map:\r\nOkay, this is my first attempt at ALOT of things, including explosions, buttons, a mix of the 2, killboxes, env_cubemaps, keypads (essentially buttons that lock and unlock eachother) and sounds. I will include the names of the persons who made tutorials which helped me along the long grueling process of making this map at the end.\r\n\r\nThe files that are downloaded will be about 3000kb unzipped, just for your information\r\n\r\nEssentially, this is a deagle5 map, so even though it has gg in front of it... you do spawn in with a deagle, a knife, and a grenade. (no body armor, I don't know what the frikkin code for it is!). Most deagle5 maps ive seen, that arn't the original, are just reskins. I wanted to add a little more to mine so, I added disposition with water making many puddles, which can give away positions and all that stuff water normally does. As a few of my screenshots show, there is a \"redzone\" mode which the map takes to after you enter the correct code in the keypad (shown in the screenshots). The code WILL be kept a secret that only I know... so you can be very motivated to try to find out the code. If you do actually find it out, feel free to post it here... I don't care. BE CAREFUL, the wrong button will cause an explosion to occur underneath your feet, causing a gruesome (and unbelievably funny) death. Once you enter the redzone... well... the map turns red. Not much happens. HOWEVER, redzone does unlock a button, which is completely invisible, somewhere on the map. Once you press this button, an alarm will sound for ten seconds. During these ten seconds, you will have to fight your way to get to the \"bridge\" in the middle of the map. This is the only safe zone before the explosion inevitably blows up. This, again, will cause a gruesome (and unbelievably funny) death. If, for some odd reason, you and an enemy don't see eachother on the railing and you both live... don't jump down. The killbox is still there :) \r\n\r\nTHANKS TO EVERY TUTORIAL WHO HELPED ME MAKE THE MAP, THE NAMES OF THE PEOPLE WHO MADE THE TUTORIALS WILL BE PLACED HERE, ALONG WITH AN APPROVE ON THEIR TUTORIAL\r\n\r\nThanks again to:\r\nTehSilence   -----------   Not only did your tutorial introduce me to making a 9-digit keypad... It also introduced me to SO many more things, like flags and outputs, and all the output features.\r\n\r\nNintendo2012   ----------   Your guide was so helpful to remind me how to make it a true deagle5 map. I kind of already knew how to do it...  I definitely needed a reminder.\r\n\r\nSGT_Kick_Your_ASS   ----------   I've read MANY of your tutorials, and the one about adding sound to the map, along with TehSilence's guide to buttons helped me make an alarm which was activated and looped for the bomb to explode. \r\n\r\niMap   -----------    You introduced me to explosions, and even though I knew about buttons, the env_explosion explination allowed me to test out many different explosion types, damage etc. \r\n\r\nRokusho39   -----------   The env_cubemap's MADE THE MAP!!! I would have thrown it out because the lighting was so f***ed up... but then I read yourtutorial about cubemaps and it really made the map. Thanks for opening my eyes to what env_cubemaps are and what they do.\r\n\r\nThanks to you all, your the only reason this map was even possible. \r\n\r\nOH and by the way... if your wondering where v1 is... I never put it on fpsb because, to be honest, it sucked. Making 8 fires, each with its own lighting appearance was a completely idiotic thing to try, and it didnt work well at all.\r\n\r\nANY recreation of this map is UNACCEPTABLE without my permission. Don't to do it... it is a crime and I will take action."
+}

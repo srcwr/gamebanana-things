@@ -1,0 +1,142 @@
+{
+	"_aAlternateFileSources": [
+		{
+			"description": "Itch.io",
+			"url": "https://rgb-valve.itch.io/aim-destiny"
+		}
+	],
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"Destiny Aim Map (CSS)": [
+						"Readme.txt",
+						"aim_destiny.bsp",
+						"aim_destiny.nav"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 635510,
+			"_nDownloadCount": 179,
+			"_nFilesize": 296505,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "V3 (Latest)",
+			"_sDownloadUrl": "https://gamebanana.com/dl/635510",
+			"_sFile": "aim_destiny_a48f2.zip",
+			"_sMd5Checksum": "e573528c00173205734d5e7d8ade6878",
+			"_tsDateAdded": 1628752902
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"Destiny Aim Map (CSS)": [
+						"Readme.txt",
+						"aim_destiny.bsp",
+						"aim_destiny.nav"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 626860,
+			"_nDownloadCount": 76,
+			"_nFilesize": 368184,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "V2",
+			"_sDownloadUrl": "https://gamebanana.com/dl/626860",
+			"_sFile": "aim_destiny_d7e6f.zip",
+			"_sMd5Checksum": "f7a3d742ae386292782b3d3085354f91",
+			"_tsDateAdded": 1627725967
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"Destiny Aim Map (CSS)": [
+						"Readme.txt",
+						"aim_destiny.bsp",
+						"aim_destiny.nav"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 622892,
+			"_nDownloadCount": 67,
+			"_nFilesize": 382026,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "V1",
+			"_sDownloadUrl": "https://gamebanana.com/dl/622892",
+			"_sFile": "aim_destiny.zip",
+			"_sMd5Checksum": "85eeaf5ef90da8004be9b18670cc2d42",
+			"_tsDateAdded": 1627297258
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Added Crate Next To T Sand Bricks"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added Crate Next To Big Door"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added Stairs Like In Mirage's Warmup Area."
+				},
+				{
+					"cat": "Optimization",
+					"text": "Optimized The Map."
+				},
+				{
+					"cat": "Optimization",
+					"text": "Lowered File Size From 1MB to 800KB"
+				}
+			],
+			"_sText": "This may be the final version of aim_destiny<br>please check out my other projects, thank you!<br>-From Miguelsgamingch",
+			"_sTitle": "V3",
+			"_tsDateAdded": 1628752923
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Overhaul",
+					"text": "Re-did Mountain Displacements"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Bigger Skybox"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed Dust Domes Floating"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed Clipping Through Door"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Sort Of Fixed The Lighting"
+				},
+				{
+					"cat": "Addition",
+					"text": "Replaced Block Crate With A Model Crate from Dust"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "V2",
+			"_tsDateAdded": 1627725991
+		}
+	],
+	"_idRow": 308383,
+	"_sName": "aim_destiny",
+	"_sText": "<img src=\"https://i.ibb.co/QcmmT4N/aim-destiny-emblem.png\"><br><br>Welcome To Aim_destiny<br>An Aim Map that uses Dust Assets<br><br>Here is a little fun fact, the reason why this map was named destiny is because of the original texture file name of dust1, destiny.wad"
+}

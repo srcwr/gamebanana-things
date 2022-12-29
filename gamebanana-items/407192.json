@@ -1,0 +1,49 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"surf_prismatic_ksf.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 892498,
+			"_nDownloadCount": 25,
+			"_nFilesize": 56451630,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/892498",
+			"_sFile": "surf_prismatic_ksf_f7022.zip",
+			"_sMd5Checksum": "3256245e9e918bd49d0349b8e049a26a",
+			"_tsDateAdded": 1668685021
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Adjustment",
+					"text": "Triggers on edges moved a bit"
+				},
+				{
+					"cat": "Optimization",
+					"text": "Minor optimization improvements"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Changed missing effect texture"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Update",
+			"_sVersion": "2.0",
+			"_tsDateAdded": 1668685083
+		}
+	],
+	"_idRow": 407192,
+	"_sName": "surf_prismatic_ksf",
+	"_sText": "<div class=\"Content\">\r\n\t\t\t\t\t\t<article class=\"RichText\"><div class=\"Content\">\r\n\t\t\t\t\t\t<article class=\"RichText SelectedElement\"><b>surf_prismatic</b><b>_ksf<br></b><br>A T3 symmetrical map, mildly inspired by tronic.<br>It has 1 bonus made by me.<br>It has trigger_multiple added for server owners, for start zones on main map and bonus.<br><br><b><span class=\"GreenColor\">Settings i used:</span></b><br>sv_airaccelerate 400<br>Tick 64<br>10000 maxvelocity<br><br><b>Hope you enjoy!<br><br>Unpack the .zip file here:<br></b><span class=\"GreenColor\">C:\\Program Files (x86)\\Steam\\steamapps\\common\\counter-strike source\\cstrike\\maps</span><b><br></b><span class=\"GreenColor\"></span></article>\r\n\t\t\t\t\t</div></article>\r\n\t\t\t\t\t</div>"
+}

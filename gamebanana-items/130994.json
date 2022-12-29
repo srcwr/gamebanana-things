@@ -1,0 +1,39 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ze_shroomforest_v4_5.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 282336,
+			"_nDownloadCount": 3619,
+			"_nFilesize": 45476670,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/282336",
+			"_sFile": "ze_shroomforest_v4_5.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1436899652
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "See description for all infos"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "v4.5",
+			"_tsDateAdded": 1457919891
+		}
+	],
+	"_idRow": 130994,
+	"_sName": "ze_shroomforest_v4_5",
+	"_sText": "<hr>\r\n<fieldset><legend><h1 align=\"center\"><b class=\"BlueColor\">ze_shroomforest1</b></h1></legend>\r\n\r\nTaskuvaras created this map. <br>He allowed me to fix every glitches, and do some modifications<br>\r\n\r\n</fieldset>\r\n<hr>\r\n<fieldset><legend><h1 align=\"center\"><b class=\"BlueColor\">What is Fixed and New</b></h1></legend>\r\n<ul>\r\n<li> All glitches from Ext3</li>\r\n<li> And on some others levels</li>\r\n<li> Particle with the fix nomenclature (custom_particle_...)</li>\r\n<li> Optimised entity count</li>\r\n<li> Added a Warmup</li>\r\n<li> Added a new level unlocked after you win Ext3. You can choose it in Admin Room during the Select Level.</li>\r\n</ul></fieldset><hr>\r\n<fieldset><legend><h1 align=\"center\"><b class=\"BlueColor\">Feature</b></h1></legend>\r\n<ul>\r\n<li> 9 Special Items (+2 used to advance in the map)</li>\r\n<li> Musics</li>\r\n<li> Packed Entwatch config</li>\r\n<li> 7 Levels (8 if you count the Level Selection round)</li>\r\n</ul></fieldset><hr>\r\n<fieldset><legend><h1 align=\"center\"><b class=\"BlueColor\">Changelog 4.2 --&gt; 4.3</b></h1></legend>\r\n<ul>\r\n<li> Player getting stuck in elevator part of lvl2 will get teleported once you reach the boss</li>\r\n<li> Ext2 laser, are now 1/3 Crouch and 2/3 Jump (source randomization is so bad, and that should make the end of the level a little easier)</li>\r\n<li> Fixed one cooldown in Entwatch config (Mines was 2 sec instead of 3)</li>\r\n<li>Last Level, if zombie pass the line while the grid is closing, it wont trigger the Win</li>\r\n</ul></fieldset>\r\n<fieldset><legend><h1 align=\"center\"><b class=\"BlueColor\">Changelog 4.3 --&gt; 4.4</b></h1></legend>\r\n<ul>\r\n<li> CT who fall from the elevator for no real reason (maybe doorhug), get teleported back in the elevator</li>\r\n<li> Fixed a glitch during boss1</li>\r\n<li> Added trees from Shroomforest2 during the level7 (i couldnt remove the Level2 tree from the skybox like I wanted, so dont take attention to that detail during the last level)</li>\r\n<li>Renamed the level7 (???) to \"A new beginning\"</li>\r\n<li>The congratulation level (after the level7) is a quick zm mod in Shroomforest2 spawn</li>\r\n<li> Fixed mine cooldown in Entwatch config again (4 seconds to be sure it dont waste one mine)</li>\r\n</ul></fieldset>\r\n<fieldset><legend><h1 align=\"center\"><b class=\"BlueColor\">Changelog 4.4 --&gt; 4.4fix</b></h1></legend>\r\n<ul>\r\n<li> Forgot to pack the boxes (red error in the Shroom2 spawn, after you beat the map)</li>\r\n<li> I Didn't pack the correct entwatch cfg (wrong Ammo id and Ultima cooldown)</li>\r\n<li> The tree is now killed when you reach Shroomforest2 spawn (thanks .george)</li>\r\n<li> \"EXTREME MODE\" instead of \"EXTREME MOD\"</li>\r\n\r\n</ul></fieldset>\r\n<fieldset><legend><h1 align=\"center\" class=\"\"><b class=\"BlueColor\">Changelog 4.4fix --&gt; 4.5</b></h1><div><b class=\"BlueColor\"><br></b></div></legend><fieldset><br></fieldset><fieldset><fieldset><ul><li><span>Removed the packed cfg. All commands are executed by the map.</span><br></li><li><span>Admin Room: Replaced a old texture of music with the correct one</span><br></li><li><span><span>Item: The freeze sound of the mines is not anymore dependant of the Ice (it wouldnt play if Ice wasnt spawned)</span><br></span></li><li><span>Lvl2: Fixed missing texture under the elevator</span><br></li><li><span>Ext2: Fixed ghastly attack stopped completly with gravity trick</span><br></li><li><span>Ext2: Fixed the message \"DITTO IS USING TRANSFORM\" when boss is dead</span><br></li><li><span>Ext2: Water now go down faster after boss death</span><br></li><li><span>Ext3: Made doors, elevator kill if you try to block them</span><br></li><li><span>Ext3: Added an animation for Satan's laser</span><br></li><li><span>Level7: Elevator grid open faster to make the cover a little harder</span><br></li><li><span>Level8: Fixed \"Quick ZM Mod\" with \"Quick ZM Mode\"</span><br></li><li><span>Level8: Added a new music during that mode (Donkey Kong Barrel Blast - Jungle Level 1)</span><br></li></ul></fieldset></fieldset><br><ul><li>__________________________________________________________________</li>\r\n<li> This is the final version. There wont be more Update</li>\r\n<li> Ask me on Steam or PM me here if you need the vmf for a csgo port</li><li>__________________________________________________________________</li>\r\n<p></p></ul></fieldset><p></p>\r\n<hr>\r\n<p>!! YOU ARE NOT ALLOWED TO DECOMPILE THIS MAP OR USE ITS CUSTOM MATERIALS WITHOUT TASKUVARAS'S PERMISION!!!</p>\r\n<p><span>__________________________________________________________________</span><br></p>\r\n<p>ze_shroomforest2: <a href=\"http://css.gamebanana.com/maps/186967\">http://css.gamebanana.com/maps/186967</a></p><p><span>__________________________________________________________________</span><br></p>"
+}

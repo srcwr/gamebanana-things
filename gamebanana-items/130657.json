@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ze_Breakable_v1_8.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 302889,
+			"_nDownloadCount": 2354,
+			"_nFilesize": 18204110,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/302889",
+			"_sFile": "ze_breakable_v1_8.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1337277405
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 130657,
+	"_sName": "ze_Breakable_v1_8",
+	"_sText": "Well i know you love breaking everything or shoot everywhere, so try this map and you will be happy ;)\r\n\r\nThere is refill ammo point cause you will need bullet at the end !\r\n\r\nI've put music but you can turn it off in sound menu\r\n\r\nThere is a special objet (not usable) but you will love shooting it\r\n\r\nFYI : there is safe way, just find the different texture to now where to go\r\n\r\n[my blog](http://legrem.blogspot.fr/ \"my blog\")\r\n\r\nV1_8\r\n\r\n- bug fix for the second way on right (where you need to break crates and jump), 2 entites were called at the same time and spawn wrong crates\r\n- adjust window pass, CT no longer can go back on the unbreakable\r\n- change and increase plank size in cave way to avoid edgers\r\n- add a push in water way on first left + message to help CT to know where to go\r\n- adjust pillar and bridge life (harder)\r\n- add different exit ways for zombies at start to avoid rush\r\n- add life to zm for the ending (only for guys who were zombies at the exit of the cave)\r\n- increase difficulty at 2 ways :\r\n    the breakable walls before the cave are now random\r\n    at the end, you may have 3 ways to cover\r\n- and some little changes\r\n\r\nV1_5\r\n\r\n- add some seconds when CT had to run after doors opening\r\n- adjust glass health and texture\r\n- optimize entity\r\n- add zm hp at start\r\n- modify pillar cover point and health\r\n- modify bridge health too\r\n- add clip on chopper to avoid noob running for nothing\r\n- fix a little glitch that show messages on left way when you break too much crate and make trouble when you cover the water point\r\n\r\nV1_1\r\n\r\n- Correction of bug map on left first way\r\n- Changing how first door are open, it was depending on the crate broken but was always the same, now it's random\r\n- Increase speed of the opening doors X2\r\n- New spawn with crate in the middle (for less rush)\r\n- Modify the health of breakable, add/remove health depending of the number of CT/ZM\r\n- Some CT help (adding crate to stop zm)\r\n- Different texture between breakable/unbreakable\r\n- Adding time to the map (+1minute)\r\n- Adding music to the ending\r\n- Help CT on first right way with teleport instead of falling in the forest, and removed the clip on trees\r\n- Add more console message and visual indications"
+}

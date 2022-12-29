@@ -1,0 +1,78 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "awp_simpsons_css.txt",
+					"1": "awp_simpsons_css.vmf",
+					"maps": [
+						"awp_simpsons_css.bsp",
+						"awp_simpsons_css.res"
+					],
+					"materials": {
+						"simpsons": [
+							"66store.vtf",
+							"bus.vtf",
+							"car.vtf",
+							"car_front.vtf",
+							"cement.vtf",
+							"garage.vtf",
+							"kwikimart.vtf",
+							"kwikimartside.vtf",
+							"moesside.vtf",
+							"nukeoutside.vtf",
+							"springfieldbill.vtf",
+							"street.vtf",
+							"stucco.vtf",
+							"{99store.vtf",
+							"{donutcross.vtf",
+							"{krusty.vtf"
+						],
+						"skybox": [
+							"simpsons_hdrbk.vtf",
+							"simpsons_hdrdn.vtf",
+							"simpsons_hdrft.vtf",
+							"simpsons_hdrlf.vtf",
+							"simpsons_hdrrt.vtf",
+							"simpsons_hdrup.vtf",
+							"simpsonsbk.vmt",
+							"simpsonsbk.vtf",
+							"simpsonsdn.vmt",
+							"simpsonsdn.vtf",
+							"simpsonsft.vmt",
+							"simpsonsft.vtf",
+							"simpsonslf.vmt",
+							"simpsonslf.vtf",
+							"simpsonsrt.vmt",
+							"simpsonsrt.vtf",
+							"simpsonsup.vmt",
+							"simpsonsup.vtf"
+						]
+					},
+					"sound": {
+						"misc": [
+							"simp.wav"
+						]
+					}
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 359302,
+			"_nDownloadCount": 6165,
+			"_nFilesize": 4466735,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/359302",
+			"_sFile": "awp_simpsons_css.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1135385438
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 119136,
+	"_sName": "awp_simpsons_css",
+	"_sText": "Update2: Fixed ldr skybox (bsp is still the same)\r\nUpdate: added res file\r\n\r\nremake of awp_simpsons (also called gy_cartoonpk)\r\nthe area around the back of the buildings has been widened\r\nyou can go in the smaller stores\r\nthe inside is darker\r\nyou get an awp/knife buyzones in the middle\r\nak/m4s are in small stores"
+}

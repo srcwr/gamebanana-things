@@ -1,0 +1,59 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"DE_BLOODCHURCH_FINAL": {
+						"0": "de_bloodchurch.txt",
+						"cstrike": {
+							"maps": [
+								"de_bloodchurch_final.bsp",
+								"de_bloodchurch_final.nav",
+								"de_bloodchurch_final.txt"
+							],
+							"materials": {
+								"customs": [
+									"bitstreamer.tga",
+									"bitstreamer.vmt",
+									"bitstreamer.vtf"
+								],
+								"maps": {
+									"de_bloodchurch_final": [
+										"bitstreamer.tga",
+										"bitstreamer.vmt",
+										"bitstreamer.vtf"
+									]
+								},
+								"overviews": [
+									"de_bloodchurch_final.vmt",
+									"de_bloodchurch_final.vtf"
+								]
+							},
+							"resource": {
+								"overviews": [
+									"de_bloodchurch_final.txt"
+								]
+							}
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 292261,
+			"_nDownloadCount": 4199,
+			"_nFilesize": 7930707,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/292261",
+			"_sFile": "de_bloodchurch_final.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1379601462
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 101223,
+	"_sName": "DE_BLOODCHURCH_FINAL",
+	"_sText": "Terrrorists:\r\n\r\nFind Your way to the hidden blood-church to bomb it."
+}

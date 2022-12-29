@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_bugsoft.bsp",
+					"de_bugsoft.txt"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 337610,
+			"_nDownloadCount": 1667,
+			"_nFilesize": 5508956,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/337610",
+			"_sFile": "de_bugsoft_2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1224120991
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 101303,
+	"_sName": "de_bugsoft",
+	"_sText": "Counter Strike : Source\r\n====================================\r\nde_bugsoft\r\n====================================\r\nVersion:   de_bugsoft 1.2\r\nMapped by: Specialist\r\nEmail:     specialist@bug-soft.net\r\nWebsite:   http://www.bug-soft.net\r\n====================================\r\nThe bot navigation mesh is included.\r\nJust copy the file \"de_bugsoft.bsp\" to your map folder.\r\nIf you encounter problems please email me. Thanks.\r\nHave fun!\r\n\r\n\r\nChanges (1.1 to 1.2):\r\n- some trees removed\r\n- area portals added\r\n- heavily optimized bsp structure\r\n- prop_physics objects have fade out value now\r\n- some texture coordinates changed"
+}

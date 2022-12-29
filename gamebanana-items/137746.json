@@ -1,0 +1,81 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"surf_concretejungle_fix.bsp",
+					"tricksurf_contrickjungle.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 475167,
+			"_nDownloadCount": 98,
+			"_nFilesize": 39909760,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/475167",
+			"_sFile": "surf_concretejungle_fix_css_2849f.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1595106131
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "Nudged endzones"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Stretched B3 trigger wall"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed s2 skip to the back of end"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed b1 bump bhop/edgehop"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed b1 start boost so it 100% cannot be jumpboosted"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Lowered roof over b3 skip by 16 units to make it alittle harder"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Changed b2 and b3 startzone shapes to fit platforms"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Triggered the top of grid walls"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "V 1.3",
+			"_tsDateAdded": 1593889920
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "More bugfixes, among them s3 2nd ramp boarding from other side, b3 bhop and direct end."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "V 1.2",
+			"_tsDateAdded": 1591035859
+		}
+	],
+	"_idRow": 137746,
+	"_sName": "surf_concretejungle_fix",
+	"_sText": "<span class=\"GreenColor\">surf_concretejungle</span><br><br><div class=\"SelectedElement\"><i>We didn't listen to Greta Thunberg so now the world is dead and this is all that's left</i></div><br><b>Tier 4 staged map with 6 stages and 5 bonuses.</b><br><br>Supplied with the download is a tricksurf version of this map. Some tricks are already made, but not set up. <a href=\"https://docs.google.com/spreadsheets/d/1otTlAeC_WNNIhFqrl9KDcfaDwJg0bct7NQyO__oVTzM/edit?usp=sharing\">You can find a list of these tricks with videos here</a>. If tricksurf server owners would like to zone this map and need the vmf to do so, feel free to add me on Discord pretzL#0001.<br><br><b><u>Special Thanks to:</u></b><br>Sam for dealing with my 0 IQ<br>Bonjorno7 for the custom pipe models, which I didn’t use in the end<br>Shadow Sheep for optimizing the map<br>Granis for the CS:GO port<br><br><b><u>IMPORTANT FOR SERVEROWNERS:</u></b><br>If you have a timer which hooks to trigger_multiples, do not use this for any of the startzones. It seems hooking to zones somehow removes the trigger’s outputs, which breaks the entire map’s filtersystem. Instead, zone these manually or atleast doublecheck it doesn’t completely fuck everything. Alternatively use Stripper to duplicate the startzones and then hook to them.<br><br>Inspired by bhop_epiphany2"
+}

@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"musicalrooms_b3.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 334892,
+			"_nDownloadCount": 2749,
+			"_nFilesize": 7918385,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/334892",
+			"_sFile": "musicalrooms_b3.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1233057424
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 120898,
+	"_sName": "musicalrooms_b3",
+	"_sText": "After 7 months finaly a new version of the map.\r\n\r\nThis map is based on the game musical chairs. instead, i made it work with rooms. Everyone starts with a knife in a pretty small area. while you are knifing you will hear some music and when it stops some doors will open. only 1 player is able to get in a room (and with luck 2 people can - but if they do that in the last round both will still die).\r\n\r\nUnlike with the previous versions there is now only a version with knifes.\r\n\r\nEach round is seperated in 5 shorter rounds. The doors that open in each round are random\r\nround 1 opens 20 doors\r\nround 2 opens 14 doors\r\nround 3 opens 8 doors\r\nround 4 opens 4 doors\r\nround 5 opens 1 door\r\nOn average this should take: 2 minutes\r\n\r\nChanges since b2:\r\n- Sub rounds are now made shorter (10-20 seconds)\r\n- More weird music and boring ones removed\r\n- People now get autohealed back to 100hp so only a backstab will kill now\r\n- Changed the look of the map\r\n- Added details like the background\r\n- Doors are now transparent so you can see the people die in front of you (coused a problem in seeing which doors are open - will be changed in the next version!)"
+}

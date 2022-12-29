@@ -1,0 +1,42 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "Credits.txt",
+					"1": "License.txt",
+					"2": "zm_mountain_a1.vmf",
+					"3": "zm_mountain_a2.vmf",
+					"4": "zm_mountain_b1.vmf",
+					"5": "zm_mountain_b2.vmf",
+					"maps": [
+						"zm_mountain_a1.bsp",
+						"zm_mountain_a2.bsp",
+						"zm_mountain_b1.bsp",
+						"zm_mountain_b2.bsp"
+					],
+					"scripts": [
+						"soundscapes_zm_mountain_b2.txt"
+					]
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 348861,
+			"_nDownloadCount": 2068,
+			"_nFilesize": 22176217,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/348861",
+			"_sFile": "zm_mountain_2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1189025152
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 132410,
+	"_sName": "zm_mountain_b2",
+	"_sText": "*** Map is now open source (under a Creative Commons license) - 2010.02.05 ***\r\nI don't have time to work on this map so I release it again under a open source license.\r\n\r\nThe package now contains source and compiled versions of all earlier versions of this map.\r\n\r\n*** Suspended - 2007.12.12 ***\r\nThis map wasn't any success because of it's huge size and layout (players got lost!). I've learned from my faults and I'm now making a new zombie map from ground up. This time I will focus on gameplay and performance, and as much as possible will be documented and carefully planned.\r\n***\r\n\r\nA large area with glass ways along the high mountain wall. Under the map there are two floors; the basement and the dark sub-basement. A control room in the basement has buttons to control various doors, including a monitor (connected to 16 cameras) to show the activity around the map. This map also have a large blue room with low gravity.\r\n\r\nFeatures of this map:\r\n* A cannon that shoots you high up in the air across the entire map.\r\n* Trampolines. These must be used to get to certain locations, like some glass platforms.\r\n* A control room with a 3D mini-map of the basement, buttons to control the doors around the map and a monitor connected to 16 cameras.\r\n* A blue room with low gravity and large as the rest of the map.\r\n* A lot of teleports (with symbols that shows where it takes you.\r\n* Anti-camping stuff to avoid unfair camping (hurt and push triggers).\r\n\r\nThis map is very big and may not be that funny if there are only 10 players on it. Recommended amount of players is at least 30. If there are too few players it may be a bit difficult to find eachother.\r\n\r\nNote: The screenshots are simple, and some of them are taken from a earlier version.\r\n\r\nMade by: Richard Helgeby (with some ideas from Nikmann).\r\nTesting by: Nikmann [NOR] and the players of the SwissQuake zombie server."
+}

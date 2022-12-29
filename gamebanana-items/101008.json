@@ -1,0 +1,58 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrike": {
+						"maps": [
+							"de_anarchy_contraband.bsp",
+							"de_anarchy_contraband.nav",
+							"de_anarchy_contraband.res"
+						],
+						"materials": {
+							"supra": [
+								"supra1.vmt",
+								"supra1.vtf",
+								"supra2.vmt",
+								"supra2.vtf",
+								"supra3.vmt",
+								"supra3.vtf",
+								"supra4.vmt",
+								"supra4.vtf",
+								"windows.vmt",
+								"windows.vtf"
+							]
+						},
+						"models": [
+							"supra.dx80.vtx",
+							"supra.dx90.vtx",
+							"supra.mdl",
+							"supra.phy",
+							"supra.sw.vtx",
+							"supra.vvd"
+						],
+						"sound": [
+							"badboys.wav"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 328047,
+			"_nDownloadCount": 1873,
+			"_nFilesize": 30722051,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/328047",
+			"_sFile": "325_cstrike_153.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1255527662
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 101008,
+	"_sName": "de_anarchy_contraband",
+	"_sText": " This is my first map. I tried a bomb/defuse map based on a warehouse with stolen cars, using regular textures and nice cars. Both teams starts on the outside and they will meet inside the warehouse for the confront among the bomb sites (one in the hoof and one inside)."
+}

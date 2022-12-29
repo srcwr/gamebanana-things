@@ -1,0 +1,52 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"ID": [
+						"READ ME.txt",
+						"surf_INSTANTDEATH.cfg",
+						"surf_instantdeath.bsp"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 836155,
+			"_nDownloadCount": 93,
+			"_nFilesize": 68843335,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/836155",
+			"_sFile": "id_e197a.rar",
+			"_sMd5Checksum": "3ea17dcddbcf5d1a8575d721572108a1",
+			"_tsDateAdded": 1658624178
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [],
+			"_sText": "<p>Added additional trigger_multiple autobhop zones.</p>",
+			"_sTitle": "Added bhop zones",
+			"_sVersion": "1.2",
+			"_tsDateAdded": 1658624223
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "",
+					"text": "Renamed to surf_instantdeath from surf_INSTANTDEATH due to server issues accepting names in all caps."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Rename",
+			"_sVersion": "1.1",
+			"_tsDateAdded": 1658596834
+		}
+	],
+	"_idRow": 390884,
+	"_sName": "surf_INSTANTDEATH",
+	"_sText": "Collectible objective based map set in a giant indoor skatepark for Counter-Strike: Source.\r\n\r\n<iframe width=\"560\" height=\"290\" src=\"https://www.youtube.com/embed/k9E2uXqq_Qg\" title=\"surf_instantdeath Showcase | New Map by Hardex\" frameborder=\"0\" allow=\"accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\"></iframe><br>"
+}

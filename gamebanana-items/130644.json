@@ -1,0 +1,88 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ze_bioshock_v7_1.bsp"
+				],
+				"_sMimeType": "application/x-7z-compressed"
+			},
+			"_bContainsExe": false,
+			"_idRow": 417062,
+			"_nDownloadCount": 334,
+			"_nFilesize": 161748758,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/417062",
+			"_sFile": "ze_bioshock_v7_1.7z",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1555444936
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "Fix entwatch"
+				},
+				{
+					"cat": "-",
+					"text": "Fix missing ladders"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Skybox and lighting adjustments"
+				},
+				{
+					"cat": "Addition",
+					"text": "Hephaestus alternate path for zm"
+				},
+				{
+					"cat": "Addition",
+					"text": "1999 route to gallery at first AFK teleport"
+				},
+				{
+					"cat": "Feature",
+					"text": "Read notes for full list"
+				}
+			],
+			"_sText": "General:<br><ul><li>Fix music playing on round start</li><li>Skybox adjustments</li><li>Remove teleport to admin room</li><li>Updated entwatch for Little Sister, Big Daddy &amp; Gene Tonics</li></ul><br>Stage 1:<br><ul><li>Elevator ladder textures missing</li><li>Metro ending is slightly faster</li></ul><br>Stage 2:<br><ul><li>Rare case where cohen could spawn once after dying</li></ul><br>Stage 3:<br><ul><li>Enabled fog when in exit tunnels</li></ul><br>Stage 4:<br><ul><li>First Teleport not activating for zms after bomb detonation</li><li>Fix nuke avoidance in water</li><li>Added a secondary path into Hepahestus - Normal+ difficulty</li></ul><br>1999:<br><ul><li>Added alternate path from first AFK teleport to upper-gallery</li></ul>",
+			"_sTitle": "v7_1",
+			"_tsDateAdded": 1555445201
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Overhaul",
+					"text": "Lighting overhaul - ao & hdr included"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Adjusted music choices"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fix nuke avoidance in Hephaestus"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fix multiple timer issues"
+				},
+				{
+					"cat": "Tweak",
+					"text": "Rebalanced plasmids"
+				}
+			],
+			"_sText": "General:<br>* Issue where Little Sister could permanently lose her own buff<br>* Updated spawn imagery<br>* Crossfade doesn't start from silent on first song of each round<br>* Possible to not pick up gene tonic<br>* Tonics may not kill ct<br>* Fix gravity well slingshot<br>* major lighting improvements including AO and HDR<br>* Plasmids<br>&nbsp;&nbsp; &nbsp;* Electro Bolt 3<br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;* Stun duration 5s-&gt;4.25s<br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;* Lifetime 62-&gt;5.5s<br>* Backported v6_2 logic optimisations from csgo version<br>* Changed volume of Big Sister 10-&gt;8<br>* Update secret skin options<br><br>Stage 2:<br>* Fixed 1999 rock wall visibility in Fort Frolic Entrance<br><br>Stage 4:<br>* Hard new music<br>* Fix missing music post-boss<br>* Easy: fix no music<br>* Wrong timer on easy elevator doors<br>* (easy, maybe hard too): first tp not activating for zms (maybe humans too)<br>* Fix first AFK teleport not activating<br><br>1999:<br>* Adjusted first AFK teleport destination for better cover<br>* Columbia minor visual improvements",
+			"_sTitle": "v7",
+			"_tsDateAdded": 1554555113
+		}
+	],
+	"_idRow": 130644,
+	"_sName": "ze_bioshock",
+	"_sText": "<h1>Welcome to Rapture! </h1>It's been a long time incoming, but v6 is finally here. It includes a whole swathe of over 100 fixes and improvements, not including the visual overhaul and 2 new stages!<br><br><h2>What is ze_bioshock?</h2>As the name suggests, ze_bioshock is a zombie escape map themed around the underwater city of Rapture from the games series Bioshock. It features some true-to-the-original locations and layouts, as well as some custom ones, lots of custom items, and is in total around 40 minutes of content.<br><br><h2>What features does it have?</h2>Well, the feature list is too long to list in its entirety, so here are a few highlights:<br><ul><li>5 unique stages, spanning 4 memorable locations from Bioshock (Welcome, Fort Frolic, Arcadia, Hephaestus)</li><li>Difficulty scaler - the map makes itself easier if the humans are having a hard time</li><li>6 player items (Plamsids) - Electro Bolt, Incinerate, Cyclone Trap, Insect Swarm, Winter Blast and Gravity Well</li><li>2 player pickups (Gene Tonics) - Static Shell and Flash Flare</li><li>2 zombie items (Big Daddy/Bouncer and Little Sister)</li><li>Multiple boss fights</li><li>Permanent player-independent item upgrades</li><li>Multiple endings</li></ul><br>There is so much more than the above. Now would you kindly give it a playthrough!<br><br><h2>What's new in v6?</h2>Well, I've packed a full changelog in the map, so unpack it if you want to know it all, as there is far too much to list here. I've also included some technical documentation about how some of the cooler features of the map work, as well as some tips on how to play it better, as playthrough of v5_6 made the same mistakes over and over again. I also included a worklog spanning my day-to-day progress from start to finish of v6. While I don't expect 99% of players to look at these, the more vocal 1% may be able to make a difference.<br><br>But anyway, here are the biggest new changes in this release:<ul><li>Complete visual overhaul, load more detail, new textures, models, sounds and particles</li><li>Introduced a warmup round to allow players to download/connect, combined with a redesigned spawn</li><li>Stage 2 has been completely reworked into a new location - Fort Frolic</li><li>Stage 4 only has the bomb building on Hard difficulty. It becomes a linear stage on Easy mode</li><li>Added a final extra-stage named 1999 (a Bioshock Infinite reference)</li><li>Introduced upgradeable Plasmids. Upgrades are permanent, and independant of the player using it.</li><li>2 new plasmids, and 2 new item types (Gene Tonics), 2 playable zombie characters</li><li>Addressed a massive number of balancing issues</li></ul><br>I want to be done with this map for good soon, so thanks for looking, and please report any bugs found.<br><br>Special Thanks:<br><ul><li>2K Games</li><li>Servers: i3D, GFL, UNLOZE</li><li>Everyone else who helped out in any way</li></ul><br>Thank you for playing."
+}

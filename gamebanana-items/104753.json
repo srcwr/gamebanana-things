@@ -1,0 +1,42 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"Place_bsp_here.png",
+					"Readme.txt",
+					"de_yard.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 686678,
+			"_nDownloadCount": 98,
+			"_nFilesize": 3076277,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/686678",
+			"_sFile": "de_yard_0bf09.zip",
+			"_sMd5Checksum": "1c4af44fea07833d49bb6385dde9770d",
+			"_tsDateAdded": 1635973537
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Improvement",
+					"text": "Moved two bombsites to the towers as requested by user, tested them out and they work good."
+				}
+			],
+			"_sText": "Also adjusted lightning in parking house.",
+			"_sTitle": "Version 1.5",
+			"_tsDateAdded": 1635970041
+		}
+	],
+	"_idRow": 104753,
+	"_sName": "de_yard",
+	"_sText": "Hello folks,<br><br>This here is a new map I have worked on, which took hours upon hours to make.<br>It is a traditional DE-map (bomb/defuse-map).<br>Although it has a twist with three sites (A-red, A-white and a B-site).<br><br>I do not have a minimap/radar for this though but I hope you will enjoy it anyways.<br><br>"
+}

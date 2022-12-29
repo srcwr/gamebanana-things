@@ -1,0 +1,30 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"gg_sl_cross2-i.bsp",
+					"gg_sl_cross2-i.nav",
+					"how_to_add_map.txt"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 351795,
+			"_nDownloadCount": 1238,
+			"_nFilesize": 734954,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/351795",
+			"_sFile": "gg_sl_cross2-i.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1177913499
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 136644,
+	"_sName": "gg_sl_cross2-i",
+	"_sText": "This is my second map; the first being this map with only the cross center piece.\r\n\r\nAs I recall, I added 12 spawns on each side. The map does not play well as a deathmatch map due to the spawn locations, unless they are modified.\r\n\r\nEdit: I believe the map is using skyboxes. However, after compiling another build today, I realized there was an issue with skyboxes and hdr (which I removed).\r\n\r\nEdit 2: Here's the latest build of gg_sl_cross3: (redacted).\r\nIn this map, I changed the skybox, slightly altered lighting (brightness), and added a part to the map to give players more variety. (And added more spawn points--16 on each side.) I would like to add moving clouds, and maybe some other spice."
+}

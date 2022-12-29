@@ -1,0 +1,52 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "readme.txt",
+					"maps": {
+						"0": "ba_stadium.bsp",
+						"1": "ba_stadium.nav",
+						"2": "ba_stadium.res",
+						"ba_stadium-DOC": {
+							"0": "readme.txt",
+							"screens": [
+								"1.jpg",
+								"2.jpg",
+								"3.jpg",
+								"4.jpg",
+								"5.jpg",
+								"6.jpg"
+							]
+						}
+					},
+					"materials": {
+						"ba_stadium": [
+							"jettlan01.vmt",
+							"jettlan01.vtf",
+							"thanks.vmt",
+							"thanks.vtf"
+						]
+					}
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 362042,
+			"_nDownloadCount": 3744,
+			"_nFilesize": 1392426,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/362042",
+			"_sFile": "ba_stadium_1107214381.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1107214382
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 119922,
+	"_sName": "ba_stadium 1.1",
+	"_sText": "=====General Information=====\r\nName: ba_stadium\r\nGame: Counter-Strike: Source\r\nVersion: 1.1\r\nAuthor: [Jett]-Willow\r\nAuthor Email: iammatt@gmail.com\r\nWebsite: http://www.nothinginc.net\r\nPlayers: 10+ Recommended, 40 Max\r\n\r\n===Release Changes for 1.1==\r\n- Added more cover on right side to make less prone to snipers.\r\n- Changed vehicle models in middle for more cover\r\n- Added barrels in middle to provide cover, and physics fun\r\n- Added advertising for JettLan 3 (http://www.jettlan.net)\r\n\r\n=====Map Information========\r\nProgram: ValveHammerEditor 4.0\r\nTextures Used:  Standard HL2/CSS Textures\r\nBuild Time:  2 Hours (1 Hour For 1.1 Revision)\r\nCompiler:  Standard Valve Hammer Editor , Map Compiling Tools\r\nCompile Time:  4 Minutes 57 Seconds (Original Build), 2 Minutes 3 Seconds for 1.1 Revision\r\n\r\n             Compile Computer Specs\r\nCPU:     AMD Barton 2500+ (OCed to 2.2ghz)\r\nRAM:     1024 MB Crucial PC2700 DDR\r\nHDD:     120GB Seagate SATA\r\nGFX:      Nvidia FX5900XT\r\n\r\n======Other Information=====\r\nba_stadium is a BattleArena map for CounterStrikeSource.  This specific BattleArena map takes place in a large stadium.\r\nThere are various walls and dividers around the map for cover, along with numerous cars.  BattleArena maps focus on\r\nfast gameplay, frantic firefights, and close knit teamwork to kill the other team as quick as possible.  Be sure to check\r\nout other upcoming BattleArena maps from us!\r\n\r\n==Installation Instructions=\r\nExtract the files in this archive to your CSTRIKE FOLDER map directory, or simply extract anywhere you'd like and place them in the example directory below..  The following is an exampleof where it may go: \"C:\\Program Files\\Steam\\Steam Apps\\xxxx@xxx.xxx\\counter-strike source\\cstrike\"."
+}

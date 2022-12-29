@@ -1,0 +1,67 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"ba_jail_aeon_v1": {
+						"0": "ReadMe.txt",
+						"Map": {
+							"cstrike": {
+								"maps": [
+									"ba_jail_aeon_v1.bsp"
+								]
+							}
+						},
+						"Plugin": {
+							"English": {
+								"cstrike": {
+									"addons": {
+										"sourcemod": {
+											"plugins": [
+												"AeonGameChooser.smx"
+											],
+											"scripting": [
+												"AeonGameChooser.sp"
+											]
+										}
+									}
+								}
+							},
+							"German": {
+								"cstrike": {
+									"addons": {
+										"sourcemod": {
+											"plugins": [
+												"AeonGameChooser.smx"
+											],
+											"scripting": [
+												"AeonGameChooser.sp"
+											]
+										}
+									}
+								}
+							}
+						}
+					}
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 304611,
+			"_nDownloadCount": 4848,
+			"_nFilesize": 37429871,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/304611",
+			"_sFile": "ba_jail_aeon_v1_2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1330883542
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 129011,
+	"_sName": "ba_jail_aeon_v1",
+	"_sText": "Hello ^^\r\n--------\r\n\r\n##### At first: Sry for my bad english ;)\r\nI've made a new Jail map in a new futuristic style.\r\n\r\nThe Map contains over 17 minigames. \r\nAll are well designed and tested.\r\n\r\nMany of them are pretty new like \"Drive Down\" or \"Break the Blocks\".\r\nThere are 48 spawnpoints. 12 for CT's and 36 for T's.\r\nOnly 2 secret ways over the whole map make it very save. \r\n\r\nIf your Server has Sourcemod installed, you are also able to use the Map Random Game Plugin. The Plugin contains 2 commands (\"!aeongame\" and \"!aeongame?\"). The first command choose randomly any Minigame and write it to the chat. The 2nd command explain the game in short words (avaiable in German and English). The Map works of course, even without the plugin.\r\n\r\nIf you want to have a special version of the map with special suggestions and/or wishes, write me a pm/E-mail and I will do it for you ^^ (I react faster to E-Mails)\r\n\r\nIf you are a mapper and you want to have the .vmf-File. Write me also a personal message or E-Mail.\r\n\r\nThe map is under pizza-license. If you ever meet me in the real life and you like my work...you spend me a pizza :)\r\n\r\nreegards raptor ;)"
+}

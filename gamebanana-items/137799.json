@@ -1,0 +1,55 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"surf_grid": [
+						"README.txt",
+						"surf_grid_changes.txt",
+						"surf_grid_ksf_rc2.bsp"
+					]
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 565220,
+			"_nDownloadCount": 44,
+			"_nFilesize": 5187049,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "ksf fix",
+			"_sDownloadUrl": "https://gamebanana.com/dl/565220",
+			"_sFile": "surf_grid_fe309.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1620243960
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"README.txt",
+					"surf_grid.bsp",
+					"surf_grid_changes.txt"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 514546,
+			"_nDownloadCount": 99,
+			"_nFilesize": 4710892,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "first version",
+			"_sDownloadUrl": "https://gamebanana.com/dl/514546",
+			"_sFile": "surf_grid_abfba.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1612197944
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 137799,
+	"_sName": "Surf_Grid",
+	"_sText": "A unique map where you surf inside a 5x5x5 grid, around tier 4-5.<br>Thank you Granis for porting the map :)<br><br>s1_startzone, ... , s9_startzone, s9_endzone<br><br>b1_startzone, b1_endzone<br><br><div class=\"SelectedElement\">...</div>b4_startzone, b4_endzone<br><br>"
+}

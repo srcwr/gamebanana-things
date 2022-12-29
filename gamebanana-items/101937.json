@@ -1,0 +1,76 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "ReadMe.txt",
+					"1": "de_dust2002-source1.jpg",
+					"2": "de_dust2002-source2.jpg",
+					"3": "de_dust2002-source3.jpg",
+					"4": "de_dust2002-source4.jpg",
+					"5": "de_dust2002-source5.jpg",
+					"cstrike": {
+						"maps": {
+							"0": "de_dust2002-source.bsp",
+							"1": "de_dust2002-source.nav",
+							"2": "de_dust2002-source.res",
+							"3": "de_dust2002-source.txt",
+							"soundcache": [
+								"de_dust2002-source.cache"
+							]
+						},
+						"materials": {
+							"de_dust2002-source": [
+								"Arab_glass.vmt",
+								"Arab_glass.vtf",
+								"Arab_glass_normal.vtf",
+								"keyhole.vmt",
+								"keyhole.vtf",
+								"label.vmt",
+								"label.vtf",
+								"label2.vmt",
+								"label2.vtf"
+							],
+							"overviews": [
+								"de_dust2002-source.vmt",
+								"de_dust2002-source.vtf",
+								"de_dust2002-source_radar.vmt",
+								"de_dust2002-source_radar.vtf"
+							]
+						},
+						"resource": {
+							"0": "ClientScheme.res",
+							"overviews": [
+								"de_dust2002-source.txt"
+							]
+						},
+						"scripts": [
+							"soundscapes_de_dust2002-source.txt"
+						],
+						"sound": {
+							"de_dust2002-source": [
+								"key_sound.wav"
+							]
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 330290,
+			"_nDownloadCount": 8939,
+			"_nFilesize": 8065711,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/330290",
+			"_sFile": "de_dust2002-source_v1_1.7z",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1248342700
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 101937,
+	"_sName": "de_dust2002-source",
+	"_sText": "<center><img src=\"http://s018.radikal.ru/i510/1206/8a/e34679182f28.png\"/></center><br>\r\nRemake of the favourite map, which’s made by request of one person. \r\nLater it published in public release. I’ve spent month to create this map. \r\nMain feature in this remake, is exact copy to the original geometry in \r\nratio 1:1 + features of the new engine. \r\nWarning: if your card has less memory than 128MB, avoid downloading.\r\n\r\n<center><font size=\"2\" color=\"red\" face=\"Arial black\"><blink>Warning!</blink></font></center>\r\n<center>Archive updating.\r\n.RES file added from dedicated servers.\r\nfixed nickname autor oroginal cs 1.6 map.\r\n____________________________</center>\r\n------------------------------------------\r\nBonus: Map includes file, that was changed by me, (ClientScheme.res) \r\nwhich will display names of players on radar, which is not default.<br>\r\n<center><img src=\"http://imageshack.us/a/img216/438/dedust2002sourceoverviep.png\"/></center>"
+}

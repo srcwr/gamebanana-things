@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"Readme.txt",
+					"surf_jusched_njv.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 315060,
+			"_nDownloadCount": 2055,
+			"_nFilesize": 21168311,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/315060",
+			"_sFile": "_1158-.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1296470039
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 122373,
+	"_sName": "surf_jusched_njv-Final Releas",
+	"_sText": "*UPDATE* - 1/2/2011 7:39pm\n\nI'm satisfied that this is ready for release. If you want to put it up on your server, please lemme know, I'd love it :D\n\nBTW, To show how full this map is, here's the end of the compile log. &lt;3\n\nObject names       Objects/Maxobjs  Memory / Maxmem  Fullness \n------------       ---------------  ---------------  -------- \nmodels                 140/1024         6720/49152    (13.7%) \nbrushes               5588/8192        67056/98304    (68.2%) \nbrushsides           64700/65536      517600/524288   (98.7%) VERY FULL!\nplanes               61842/65536     1236840/1310720  (94.4%) VERY FULL!\nvertexes             34443/65536      413316/786432   (52.6%) \nnodes                 6253/65536      200096/2097152  ( 9.5%) \ntexinfos               895/12288       64440/884736   ( 7.3%) \ntexdata                328/2048        10496/65536    (16.0%) \ndispinfos               72/0           12672/0        ( 0.0%) \ndisp_verts            6808/0          136160/0        ( 0.0%) \ndisp_tris            11328/0           22656/0        ( 0.0%) \ndisp_lmsamples      193813/0          193813/0        ( 0.0%) \nfaces                19766/65536     1106896/3670016  (30.2%) \nhdr faces            19766/65536     1106896/3670016  (30.2%) \norigfaces            15112/65536      846272/3670016  (23.1%) \nleaves                6394/65536      204608/2097152  ( 9.8%) \nleaffaces            26473/65536       52946/131072   (40.4%) \nleafbrushes          12311/65536       24622/131072   (18.8%) \nareas                    6/256            48/2048     ( 2.3%) \nsurfedges           161710/512000     646840/2048000  (31.6%) \nedges                93924/256000     375696/1024000  (36.7%) \nLDR worldlights         89/8192         7832/720896   ( 1.1%) \nHDR worldlights         89/8192         7832/720896   ( 1.1%) \nleafwaterdata            6/32768          72/393216   ( 0.0%) \nwaterstrips           3115/32768       31150/327680   ( 9.5%) \nwaterverts               0/65536           0/786432   ( 0.0%) \nwaterindices         51918/65536      103836/131072   (79.2%) \ncubemapsamples          95/1024         1520/16384    ( 9.3%) \noverlays                 0/512             0/180224   ( 0.0%) \nLDR lightdata         [variable]    16807012/0        ( 0.0%) \nHDR lightdata         [variable]    16807012/0        ( 0.0%) \nvisdata               [variable]       77080/16777216 ( 0.5%) \nentdata               [variable]       82075/393216   (20.9%) \nLDR ambient table     6394/65536       25576/262144   ( 9.8%) \nHDR ambient table     6394/65536       25576/262144   ( 9.8%) \nLDR leaf ambient     44237/65536     1238636/1835008  (67.5%) \nHDR leaf ambient     44237/65536     1238636/1835008  (67.5%) \noccluders                0/0               0/0        ( 0.0%) \noccluder polygons        0/0               0/0        ( 0.0%) \noccluder vert ind        0/0               0/0        ( 0.0%) \ndetail props          [variable]           1/12       ( 8.3%) \nstatic props          [variable]           1/12       ( 8.3%) \npakfile               [variable]     8459750/0        ( 0.0%) \nphysics               [variable]     2212671/4194304  (52.8%) \nphysics terrain       [variable]       24170/1048576  ( 2.3%) \n\n\n\nThis map is made for the KSF server, or any server with a similar surf-timer mod. I intend to create a jail version of the map for regular surf servers soon.\n\n*Original Post*\n\nI'm being honest with you, this is my first map released. I am VERY proud of this map, because it has taken me over a month, and over 7 keyboard and 2 monitors.\n\nThis map is BIG. I didn't save the log, but I have used over 98% of the brushsides allowed and over 90% of brushes.\n\nThere is roughly 1:30-2minutesof surfing here, and THIS IS NOT MEANT TO BE A HARD MAP. Yes, the end is difficult, but that is meant to be the ONLY hard area.\n\nI am not completely satisfied that this is worthy of a full release, so I'm just gonna call this beta1 :P\n\nI would like to point out that this map is FULLY optimised! EVERYTHING apart from the skyboxes has been func_detail'd! This map is as optimized as it ever will be. If anyone wants to have a crack at optimizeign the map further, PM me for the .vmf\n\nAny bugs you find please tell me, and any feedback whatsoever is great.\n\nHave fun and tell me what you think :D"
+}

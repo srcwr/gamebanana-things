@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"mg_items_fight_v2fix.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 304763,
+			"_nDownloadCount": 2973,
+			"_nFilesize": 8033216,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/304763",
+			"_sFile": "mg_items_fight_v2fix.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1330371779
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 128152,
+	"_sName": "mg_items_fight_v2FIX",
+	"_sText": "@edit: V2FIX is done! Fixed things:\r\n\r\n- Fixed one of CT's spawn points.\r\n\r\n- Fixed Test-Zone arena platform error. I had to remove moving platforms and now they aren't moving.\r\n\r\n--------------------------------\r\n\r\nThis is a second version of my map mg_items_fight, and it's propably the last version. \r\n\r\nEverything should work and it shouldn't crash servers, but it isn't tested on a real server so I don't know anything about this.\r\n\r\nThere are 11 items per team. Every item can be picked up two times, and there is only one Water-Fly item (boss). So there are 21 spawn points per team. \r\n\r\nMax players : 42\r\n\r\nTo use items now just press Left Mouse Button.\r\n\r\nMedic is the only item without usage. (It mean nothing'll happen if you'll press Left Mouse Button). It's just healing / attacking every time.\r\n\r\nThe best item: Water-Fly\r\n\r\nWorst item: Bomb\r\n\r\nNo music because of map size.\r\n\r\nThere are 3 different fight arenas and they are choosen randomly every round. Items are randomly choosen too.\r\n\r\nPeople with bad computer can have small amount of FPS when there are about 20+ people.\r\n\r\nHope it isn't crashing your server! Haha ^^\r\n\r\nHave fun!"
+}

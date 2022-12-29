@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"gg_pdark_G5BuildingV6.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 357022,
+			"_nDownloadCount": 1298,
+			"_nFilesize": 1557511,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/357022",
+			"_sFile": "gg_pdark_g5buildingv6.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1154708899
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 136106,
+	"_sName": "gg_pdark_g5buildingv6",
+	"_sText": "GG_pdark_g5buildingv6\r\nOriginally designed for gun game; doubles as a hostage rescue map.\r\n\r\nThe map isn't perfect, I'll say that much.  You can use some of the shadows to your advantage on this map, even with full gamma.  \r\n\r\nIf you don't already know, g5 building is another perfect dark map.  I might stop with the perfect dark maps now, although I'll probably go on to make surf maps out of these...  \r\n\r\nAnyway, all textures should be in the map.  The map isn't designed to be looked at from outside the map, and the sky didn't come out that great.  Also, I did what I did with complex by taking pictures of my TV and converting it to a vtf format for game usage.  Some of the textures are great, some are horrible.  \r\n\r\nThe map has hostages, but to move them you need to add a bot to create the .nav file.  bot_add_t  or something.  The rescue points are the ct spawns and under the bridges (push off the hosties to win).  Also, be careful on your jumps on this map, because you will take damage jumping down to just about anywhere.  Especially on the bridges... or beneath them...  I didn't use a map protector on this map, so if you want to know how to do trains with sky textures you can decompile it.  Also, if you want to make a death match version, feel free (or better yet, tell me how).  Just be sure to leave my name texture on it :)."
+}

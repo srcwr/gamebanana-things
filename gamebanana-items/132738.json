@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"zm_salon_moon.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 340797,
+			"_nDownloadCount": 2737,
+			"_nFilesize": 10292713,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/340797",
+			"_sFile": "zm_salon_moon.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1214794003
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 132738,
+	"_sName": "zm_salon_moon",
+	"_sText": "<font color=\"#6666FF\" face=\"helvetica\"><b>zm_salon_moon\r\n\r\nMap Features:</b>\r\n- 64 Player Spawns\r\n- Cubemaps\r\n- Radar Map\r\n- Flying Space Ship\r\n- Temporary Anti-Grav\r\n- Elevator\r\n- 3 Easy Secrets\r\n- 1 Medium Secret\r\n\r\n<b>Description</b>\r\nI like to think of this map as a sort of sequel to ze_space_stationzz because they share a similar theme and some textures, along with one of the shuttles.  You've escaped the space station, and are headed to Salon Moon which is a salon built on an asteroid in Earth orbit.  You're ready for a haircut and a shave after those long hours fighting back the zombies and your harrowing escape from the station, but you aren't going to get much relaxation here...  One of your crew has been infected with the zombie virus, and it's just starting to take effect as you set down on the asteroid.  A bloodbath will ensue.\r\n\r\nThe map has 3 portions...  Salon Moon where most of the fighting takes place, the underground with storage rooms and the generator room, and the little shuttle which can fly in a circle around the map.\r\n\r\nSalon Moon has a ton of prop for barricading, but if you want to cade one of the sections, you will need a good team.  Since this can be hard to come by on most zombie servers, I've put in some secrets like the bathroom secret seen in action in screen 6.  The stairs are good camping though if propmenu is enabled...  Just put a dryer or 2 in there and you can hold zombies from coming up.  There are 3 climb camping spots on top of the roof.\r\n\r\nThe underground portion has climb camping in both storage rooms, and then you can barricade when inside the generator.  Shoot the glass portion of the generator to temporarily disable gravity on the whole platform.\r\n\r\nThe ship that flies around the map can be started or stopped by pressing the blue and red displays inside of it.  The windshield is a door and can be opened by pressing E on it.  Humans will try to park it in space and then camp on it while zombies jump from the asteroid in an attempt to land on it.  It also passes over another one of the landing pads for players to get off without waiting for the ship to complete a circle around the map.\r\n\r\n\r\n\r\n<b>Note to Server Owners:</b>\r\nThe map has a point_servercommand in it which is used to control the zero-gravity when you blow up the generator.  It also sets zombie_respawn_as_zombie to 1 because on servers where players respawn as human, a map like this with easy suicide from jumping off the edge is suicide central.  Deactivating the point_servercommand will delete these features.\r\n\r\nAny feedback is appreciated, but please play it before you rate it!!</font>"
+}

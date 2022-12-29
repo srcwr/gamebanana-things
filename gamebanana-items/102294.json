@@ -1,0 +1,32 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "README.txt",
+					"Map files": [
+						"de_fabric.bsp",
+						"de_fabric.nav",
+						"de_fabric.txt"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 301534,
+			"_nDownloadCount": 3966,
+			"_nFilesize": 12048009,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/301534",
+			"_sFile": "de_fabric_only_map_files.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1342213165
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 102294,
+	"_sName": "de_fabric",
+	"_sText": "# Fabric - Bomb/Defuse\r\n# V. 1.5 Final\r\n\r\n\r\n\r\n## >>>> EN:\r\n\r\n### >> About map:\r\nThe game takes place in an abandoned storage of washers and dryers in Africa, which is threatened by the earthquake.\r\nTerrorists goal: Kill counter-terrorists, bomb transformer (Bombsite A) or storage of washing machines (Bombsite B).\r\nCounter-Terrorists goal: Kill terrorists, or keep them from bombing.\r\nMap by: nkpkiller / 2012 , POLAND\r\n\r\n### >> Installation:\r\nUnpack files: de_fabric.bsp, de_fabric.nav, de_fabric.txt to \"cstrike/maps/\" directory. Then just select map when starting new game server and play!\r\n\r\n\r\n\r\n## >>>> PL:\r\n\r\n### >> O mapie:\r\nGra toczy sie w opuszczonym skladowisku pralek i suszarek w Afryce, ktore jest zagrozone trzesieniem ziemi. Terrorysci postanawiaja to wykorzystac i zniszczyc magazyny.\r\nCel Terrorystow: Zabic antyterrorystow, zbombardowac transformator (Bombsite A) lub magazyn pralek (Bombsite B).\r\nCel Antyterrorystow: Zabic terrorystow lub powstrzymac ich przed bombardowaniem.\r\nAutor: nkpkiller / 2012 , POLSKA\r\n\r\n### >> Sposob instalacji mapy:\r\nRozpakuj pliki z archiwum: de_fabric.bsp, de_fabric.nav, de_fabric.txt do katalogu \"cstrike/maps/\". Potem wybierz w grze w czasie uruchamiania serwera mape i graj!\r\n\r\n\r\n\r\n## >>>> Other notes (EN): \r\nThis is my first map uploaded on gamebanana. I hope it will be everything OK.\r\n> Compiled with HDR, Cubemaps, Static prop lighting, Prop detail model shadows (NOT prop collision model shadows).\r\n> There are also graphic HUD radar support."
+}

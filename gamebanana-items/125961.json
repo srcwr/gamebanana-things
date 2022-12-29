@@ -1,0 +1,30 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"bhop_shock_v2_rework.bsp",
+					"to install.txt"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 446183,
+			"_nDownloadCount": 71,
+			"_nFilesize": 7840617,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/446183",
+			"_sFile": "bhop_shock_v2_rework.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1579656999
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 125961,
+	"_sName": "bhop_shock_v2_rework",
+	"_sText": "bhop_shock_V2 is an existing CS:S map that was released over 11 years ago. There was an issue on the 2nd stage of the map that would cause it to crash every time. I've fixed this issue, I've also made some revisions to the gameplay to make it smoother. I've also restored a couple of missing textures to what they were originally intended to be.<br><br>***<b>USE A MAT_DXLEVEL VALUE BELOW 90 OR ELSE THE FLOOR TEXTURES WILL NOT LOOK NORMAL!***  </b><br>They use a special shadertest that doesn't like directx 90. yes there are 2 suns and I'm going to keep it that way. Have fun!<br><br>"
+}

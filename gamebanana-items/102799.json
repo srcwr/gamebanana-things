@@ -1,0 +1,27 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_joint.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 325893,
+			"_nDownloadCount": 3698,
+			"_nFilesize": 7839162,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/325893",
+			"_sFile": "de_joint.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1262747328
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 102799,
+	"_sName": "de_joint",
+	"_sText": "<fieldset><legend><ins><b><font color=\"#6CB1E1\">Overview</font></ins></b></legend>\r\nThis map is a whole year project which began last year and was estimated to end on the first day of 2010. During its development I've faced lots of trouble and issues, mainly with hammer. As I worked on the map, I learned more and more about mapping, until I finally achieved this. Sure, it's no big deal, but I'm a perfectionist, and thus, I do not release something until I really think it's worthy to do so, or to look at. While I'm only a beginner, I surely did put some effort into this, and hopefully it'll be paid back by people testing out this map.\r\n\r\nAs for the map itself, it is a huge map consisting of two main contact areas, the urban district area (appealing to de_train, de_nuke and cs_assault) for the CT base and the dust area (appealing to both dust maps and several other maps) for the T side. This map does not have any material from any other map (except some prefab buildings from valve). It only shares the style, while attempting to become unique within its style. It also has an appearance of cs_italy at some areas, Tuscan, mill, and all other maps which an ordinary CS:S player tends to deal with.\r\n\r\nThere is a short distance between A and B, the two bombsites, but the paths separating these differ by length and cover provided by these. I have added lots of detail to most places and wherever I though was necessary. Ironically enough I had to stop working on the detail because the total brush amount was reaching the limit given out by hammer. Thanks to the testers I've also added a sewer system and a gate walk for B.\r\n\r\nThis map does not have a .nav file, so please, do not try it with bots (unless someone can help me making a custom fully working .nav).\r\n\r\n<font color=\"#6CB1E1\">Don't forget to add net_maxfilesize to 24 or more for people to be able to download this map off your server.</font>\r\n\r\n<ins>Screenshots were 1920x1080 initially but these exceeded the 800kb limit, so I uploaded them to tinypic and they got resized a bit.</ins></fieldset>\r\n\r\n<fieldset><legend><b><ins><font color=\"#6CB1E1\">Current build information:</font></ins></b></legend>\r\n\r\nMax players: 32\r\n\r\n<fieldset><legend><ins>Custom materials (included in .bsp):</ins></legend>\r\ndecalmetalgrate018a.vmt (don't remember using this)\r\nprysmax.vmt (a simple decal)\r\nde_joint.txt, .vtf, .vmt (radar overview)</fieldset>\r\n\r\n<fieldset><legend><ins>Compile time:</ins></legend>\r\nMap Size (no map overview): 16.7 MB\r\nTotal size (with map overview): 22.1 MB\r\nTotal ZIP size: 7.47 MB\r\nTotal compile time: 4 hours, 18 minutes, 2 seconds</fieldset>\r\n\r\n<fieldset><legend><ins>Compile settings:</ins></legend>\r\nvbsp.exe - normal (100%)\r\nvvis.exe - normal (100%)\r\nvrad.exe - normal (100%)</fieldset>\r\n\r\n<fieldset><legend><ins>Compiled under the following settings:</ins></legend>\r\nIntel Q9550 - 3.4GHz (400FSB)\r\n4GB Ram DDR2 - 1066MHz (400DDR)\r\nWindows 7 (x64)</fieldset></fieldset>\r\n\r\n<fieldset><legend><ins>Lastest changes:</ins></legend>\r\n1/1/2010 (Beta 0.99b)\r\n\r\n- Fixed and adjusted current skybox (no more 'box')\r\n- Improved frame rate drastically\r\n- Smoothed displacements\r\n- Extended sewer area coverage\r\n- Added gate-walk to B\r\n- Added wall marks to indicate bombsites\r\n- Added radar overview map\r\n- Removed 3dskybox\r\n- Increased draw distance on some dynamic objects\r\n- Many other major and minor changes\r\n- Fixed all console spam (related to vphysics objects)</fieldset>\r\n\r\n<fieldset><legend><ins>Known bugs:</ins></legend>\r\nMajor -\r\n \r\nMinor - Snow might get a little buggy on one side.</fieldset>\r\n\r\n<fieldset><legend><ins><b><font color=\"#6CB1E1\">Contact:</font></ins></b></legend>\r\nMsn/E-mail - <ins><b>gattsu@digitalpowered.info</ins></b>\r\n\r\n<a href=\"http://steamcommunity.com/id/Gattsu\"><input class=\"button\" \"type=\"submit\" value=\"Steam\" style=\"font-size: 11px\"></a>\r\n\r\n<a href=\"http://www.fpsbanana.com/members/572131\"><input class=\"button\" \"type=\"submit\" value=\"FPSBanana profile\" style=\"font-size: 11px\"></a></fieldset>\r\n\r\n<fieldset><legend><ins><font color=\"#6CB1E1\">Special thanks goes to:</font></ins></legend>\r\n3kliksphillip & Lost - Technical assistance\r\nMerolaC & durazno - Radar overview assistance and screenshot post-processing.\r\n[CoDeR] & <a href=\"http://www.prysmax.com\" target=\"_blank\">PrysmaX</a> - For hosting this map under private testing.</fieldset>"
+}

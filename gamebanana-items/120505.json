@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"fk_trapnaseum_v2.bsp",
+					"fk_trapnaseum_v2.nav"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 343135,
+			"_nDownloadCount": 3205,
+			"_nFilesize": 21128993,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/343135",
+			"_sFile": "fk_trapnaseum_v2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1206640800
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 120505,
+	"_sName": "fk_trapnaseum_v2",
+	"_sText": "<b><u>Version Two of Fk_Trapnaseum.</b></u>\r\n\r\nThis is pretty much just an improvement of the original Trapnaseum map. I added HDR lighting and gave it a more natural look, like Nature is taking over. There is volumetric lighting as you can see from the screenshots. That may or may not get removed in the final, which will be version three. I think it's feeding on performance in the map, and the map is already laggy enough.\r\n\r\nThe idea of this map is to just have laggy fun, really. Yes, it can get pretty laggy sometimes. I will most likely be expanding the space between each trap in the final, and reducing the amount of traps in the map overall to try and eliminate as much lag as possible, but still have the explosive, hazardous fun that is the Source Engine. The map also features an interactive mortar that players can operate and shoot grenades out of that explode on impact. And yes, it does kill people. There is a box next to it that, if broken, will disable the mortar for the remainder of the round. You will have to figure out how to get up to the mortar to use it first though, but it's pretty easy. The map also features a funny mechanic that is a crane magnet which will move from end-to-end in the middle and pick anything up, including players. This adds to the insane fun of the physics in the Source Engine. During play-testing I got crushed countless times by objects that fell from the magnet, and other players get picked up by it, making them an easy target. \r\n\r\nThere are a few custom models in the map, so this will increase the file size obviously. I believe it's around twenty megabytes compressed and forty megabytes uncompressed, so be wary server owners; if you don't have a fast download server, this isn't a good map for it.\r\n\r\n\r\n\r\n<b>Credits:</b>\r\n\r\nMap- Me (Nubblecakes)\r\n\r\nFern Models & Monkey Flower model- From Background_Mill map\r\n\r\nPlum Tree- Stromy\r\n\r\nBrambus Model- Cheroke Team\r\n\r\n"
+}

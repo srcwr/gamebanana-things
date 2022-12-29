@@ -1,0 +1,198 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"maps": [
+						"sg_platforms.bsp",
+						"sg_platforms.res",
+						"sg_platforms.txt"
+					],
+					"materials": {
+						"dancemat": {
+							"10": {
+								"decals": [
+									"cross.vmt"
+								]
+							},
+							"11": {
+								"decals": [
+									"cross.vtf"
+								]
+							},
+							"12": {
+								"decals": [
+									"square.vmt"
+								]
+							},
+							"13": {
+								"decals": [
+									"square.vtf"
+								]
+							},
+							"14": {
+								"decals": [
+									"triangle.vmt"
+								]
+							},
+							"15": {
+								"decals": [
+									"triangle.vtf"
+								]
+							},
+							"16": [
+								"green.vmt"
+							],
+							"17": [
+								"green.vtf"
+							],
+							"18": [
+								"rainbow.vmt"
+							],
+							"19": [
+								"rainbow.vtf"
+							],
+							"2": [
+								"all.vmt"
+							],
+							"20": [
+								"rainbowtransparent.vmt"
+							],
+							"21": [
+								"rainbowtransparent.vtf"
+							],
+							"22": [
+								"red.vmt"
+							],
+							"23": [
+								"red.vtf"
+							],
+							"24": [
+								"silver.vmt"
+							],
+							"25": [
+								"silver.vtf"
+							],
+							"26": [
+								"silverarrow.vmt"
+							],
+							"27": [
+								"silverarrow.vtf"
+							],
+							"28": [
+								"silvercircle.vmt"
+							],
+							"29": [
+								"silvercircle.vtf"
+							],
+							"3": [
+								"all.vtf"
+							],
+							"30": [
+								"silvercross.vmt"
+							],
+							"31": [
+								"silvercross.vtf"
+							],
+							"32": [
+								"silversquare.vmt"
+							],
+							"33": [
+								"silversquare.vtf"
+							],
+							"34": [
+								"silvertriangle.vmt"
+							],
+							"35": [
+								"silvertriangle.vtf"
+							],
+							"36": [
+								"white.vmt"
+							],
+							"37": [
+								"white.vtf"
+							],
+							"38": [
+								"yellow.vmt"
+							],
+							"39": [
+								"yellow.vtf"
+							],
+							"4": [
+								"blue.vmt"
+							],
+							"5": [
+								"blue.vtf"
+							],
+							"6": {
+								"decals": [
+									"arrow.vmt"
+								]
+							},
+							"7": {
+								"decals": [
+									"arrow.vtf"
+								]
+							},
+							"8": {
+								"decals": [
+									"circle.vmt"
+								]
+							},
+							"9": {
+								"decals": [
+									"circle.vtf"
+								]
+							}
+						},
+						"ukcs": [
+							"ukcs_decal.vmt",
+							"ukcs_decal.vtf"
+						]
+					},
+					"sound": {
+						"aliassounds": {
+							"Intros": [
+								"Electric6-Gaybar_Into4sec.wav"
+							],
+							"LoopedSongs": [
+								"Aphrodite-Wobble.wav",
+								"Blur-Song2.wav",
+								"Caesars-JerkItOut.wav",
+								"Electric6-DangerHighVoltage.wav",
+								"FSOL-PapuaNewGuinea_HybridMix.wav",
+								"FatBoySlim-RockafellerSkank.wav",
+								"GuanoApes-DodelUp.wav",
+								"Kosheen-Suicide_DJDaraRmx.wav",
+								"LynardSkynard-SweetHomeAlabama.wav",
+								"RageAgainstTheMachine-KillingInTheNameOf.wav",
+								"RedHotChiliPeppers-HigherGround.wav",
+								"RedHotChiliPeppers-SavethePopulation.wav"
+							],
+							"Mario64Sounds": [
+								"sm64_bowser_message.wav"
+							]
+						}
+					}
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 347404,
+			"_nDownloadCount": 4043,
+			"_nFilesize": 5113016,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/347404",
+			"_sFile": "sg_platforms.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1194005585
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 124282,
+	"_sName": "sg_platforms",
+	"_sText": "This map has 2 spawn places in seperate areas (both reachable for the other team - they are like bombsite B - screen 4). The center has 9 platform where you can easily jump to the next one by using the arrows. All platforms are marked with a color or logo. The center one is also a bombsite and has autoshotguns, it also has a wall to the CT side to prevent the bomber getting killed to easy (now they have to go to the other side or jump in). The floating arrows push you up and the logo above it is a teleport. All blocks with a logo on the side of a platform lead you to the spawnplace. Square and Cross are CT, Triangle and Circle are T.\r\n\r\nRead the .txt for more information"
+}

@@ -1,0 +1,30 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"README.txt",
+					"UPDATES.txt",
+					"mg_seabattle_v2.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 332376,
+			"_nDownloadCount": 3846,
+			"_nFilesize": 1567327,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/332376",
+			"_sFile": "mg_seabatle_v2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1240388050
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 128605,
+	"_sName": "mg_seabattle_v2",
+	"_sText": "//////////////////////////////////////////\r\n///\t\t\t\t       ///\r\n///\t\tEddie Maps\t       ///\r\n///\t\t\t\t       ///\r\n//////////////////////////////////////////\r\n\r\nmg_seabattle\r\nMap made by Eddie\r\nZip includes .bsp\r\nTo install extract the files in you server's maps folder.\r\n-----------------------------------------------------------\r\nFun map with boats.\r\nEach team has 8 boats, each boat must be controled by 2 players. One player drives the boat, the other controls the canon.\r\n16 CT vs 16 T\r\nKill enemies destroying their boats, or using knifes.\r\nTo destroy a boat you need to hit it 3 times, when boat is destroyed all on it will die.\r\n\r\n-----------------------------------------------------------\r\n\r\n--Updates--\r\n\r\n--V1--\r\n-First Version\r\n\r\n--V2--\r\n-Increased maxplayers to 32\r\n-Increased boats to 16\r\n-New canon structure, easier to enter.\r\n-Increased boat resistance.\r\n-Added explosions on boats.\r\n-Removed timelimit.\r\n-Removed hurt on sea.\r\n-Added 3D Skybox\r\n\r\nV3 Done and Uploaded to FPSBanana\r\nwatch here http://www.fpsbanana.com/maps/115057\r\n"
+}

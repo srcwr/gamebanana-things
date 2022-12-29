@@ -1,0 +1,100 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"4 fy_rouge_b2 r1": {
+						"0": "readme_fy_rouge_b2.txt",
+						"maps": [
+							"fy_rouge_b2.bsp"
+						]
+					}
+				},
+				"_sMimeType": "application/x-7z-compressed"
+			},
+			"_bContainsExe": false,
+			"_idRow": 374773,
+			"_nDownloadCount": 231,
+			"_nFilesize": 2071234,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "Main Release",
+			"_sDownloadUrl": "https://gamebanana.com/dl/374773",
+			"_sFile": "4_fy_rouge_b2_r1.7z",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1519899753
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Adjustment",
+					"text": "Enlarged skybox background slightly"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Adjusted fog: inverted the colors"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Adjusted fog: decreased the density slightly"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Adjusted color of the sunlight slightly"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Changed material of liquid"
+				},
+				{
+					"cat": "Removal",
+					"text": "Deleted killing trigger for falling off"
+				},
+				{
+					"cat": "Tweak",
+					"text": "Minor tweaks"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Beta 2",
+			"_tsDateAdded": 1462452678
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Amendment",
+					"text": "Made compatible with Garry's Mod"
+				},
+				{
+					"cat": "Amendment",
+					"text": "Redefined cubemaps for some glasses"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed visual problems at edges of glasses"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Increased brightness of some lights slightly"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Downsized glow"
+				},
+				{
+					"cat": "Tweak",
+					"text": "Minor tweaks"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Beta 1",
+			"_tsDateAdded": 1440755135
+		}
+	],
+	"_idRow": 114068,
+	"_sName": "fy_rouge",
+	"_sText": "Title: Rouge<br>General name: fy_rouge<br><br>[BRIEF INTRO]<br>Small fight yard map that features an industrial building erected in badlands at dusk.<br><br>[CORE FILE INFO]<br>Core file name: fy_rouge_b2.bsp<br>Core file size: 8,201,688 bytes<br>Core file last modified time: 2016-05-03,16:33 (Beijing)<br><br>[MAP INFO]<br>Intended game: Counter-Strike: Source<br>Intended mode: Fight yard<br>Max supported players: 18T + 18CT<br><br>[VERSION]<br>Source #6 Beta 2<br>Related submission: <a href=\"http://gamebanana.com/maps/185676\">#36 fy_redrocks2 for CS1.6/CZ</a><br><br>[CREDITS]<br>Level designer:<br>– Flora Canou aka Sivealu (<a href=\"mailto:floracanou@qq.com\" class=\"linkified\" target=\"_blank\">floracanou@qq.com</a>)<br>Resources provider:<br>– Valve Corporation"
+}

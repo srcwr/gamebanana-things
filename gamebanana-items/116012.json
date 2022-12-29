@@ -1,0 +1,154 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"Ghervas_examples-maps": {
+						"0": "Gh_2Strike-DM_example-1.zip",
+						"1": "Gh_2Strike-DM_example-2.zip",
+						"2": "Gh_StorageBlow-DE_example3.zip",
+						"3": "Gh_StorageScape-CS_example4.zip",
+						"4": "Readme.rtf",
+						"VMF-editor_files": [
+							"gh_2strike-dm_example1.vmf",
+							"gh_2strike-dm_example2.vmf",
+							"gh_storageblow-de_example3.vmf",
+							"gh_storagescape-cs_example4.vmf"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 272832,
+			"_nDownloadCount": 520,
+			"_nFilesize": 22277269,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/272832",
+			"_sFile": "ghervas_examples-maps_97e43.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1498894202
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "New Map “gh_storageblow-de_example3” (bomb/defuse)"
+				},
+				{
+					"cat": "-",
+					"text": "New Map “gh_storagescape-cs_example4” (hostage rescue)"
+				},
+				{
+					"cat": "-",
+					"text": "On this new maps were added new handmade destructible objects as columns"
+				},
+				{
+					"cat": "-",
+					"text": "On new maps were added three different locations (which are united with the main locations)"
+				},
+				{
+					"cat": "-",
+					"text": "Added action on bomb triggers to run physics on almost static objects"
+				},
+				{
+					"cat": "-",
+					"text": "Added a pool with the effect of water, steam and hardened air"
+				},
+				{
+					"cat": "-",
+					"text": "Added balcony for tactical use"
+				},
+				{
+					"cat": "-",
+					"text": "Added a springboard (with spring fx-action) for jumping into the water"
+				},
+				{
+					"cat": "-",
+					"text": "For new maps added roads for the city with sky camera"
+				},
+				{
+					"cat": "-",
+					"text": "Fixed bugs of monitors on maps like “example-2, 3,4”"
+				},
+				{
+					"cat": "-",
+					"text": "Added their own nav_pats for AI on each map"
+				},
+				{
+					"cat": "-",
+					"text": "Added other destructible objects from the set of 3D models"
+				},
+				{
+					"cat": "-",
+					"text": "Added additional opening doors created from scratch"
+				},
+				{
+					"cat": "-",
+					"text": "Also added trees and barriers"
+				},
+				{
+					"cat": "-",
+					"text": "Radar image for each map"
+				},
+				{
+					"cat": "-",
+					"text": "Optimization with occluders, added nodraw in the right places"
+				},
+				{
+					"cat": "-",
+					"text": "Fixed some bugs on all maps"
+				}
+			],
+			"_sText": "Now the standard dm maps was extended – three different locations were added, which are integrated with the main locations with their inputs and outputs.<br>Now the maps from examples 3 and 4 have become much larger. Especially for them, added roads for the city with sky_camera.<br>Example-3 is turned into a type map “DE” – Bomb/Defuse mission.<br>Example-4 is turned into a type map “CS” – Hostage Rescue mission – on it have been changed the ways, for a more logical approach to this mission.&nbsp; Only for this map the direct corridor was closed. Also the ventilation was closed on one side (<i>–so that there was no disgarmony, that the bots did not get too fast from one side to the other</i>).<br><br>Added a pool with the effect of water, steam and hardened air.<br>Added balcony for tactical use. Plus a special springy board (<i>springboard, yeah, with effects of spring</i>) for jumping into the water.<br>Added additional objects such as lamps external and internal, one dynamic lamp on the rope. Also the barriers on the walls for the entire warehouse. Also trees in the perimeter of the warehouse.<br>Also added other destructible objects from the set of 3D models of “Counter-Strike: Source” and “Half-Life 2”.<br>Added action on bomb triggers to run physics on almost static objects - for greater realism.<br>Added additional opening doors created from scratch. There are doors with an opening up, but there is also a door with side opening (<i>also made from brushes</i>). And yeah, I added the radar images for each map.<br>– Ok, the beginners can find in archive the original map in \"vmf\" format (<i>with other stuff on it</i>) for editing, learning and free using.<br>Enjoy! :)",
+			"_sTitle": "Update-2 (now 4 examples-maps, BSP+VMF included)",
+			"_tsDateAdded": 1501883660
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "3D skybox"
+				},
+				{
+					"cat": "-",
+					"text": "Buildings for background"
+				},
+				{
+					"cat": "-",
+					"text": "Citadel from Half-Life 2"
+				},
+				{
+					"cat": "-",
+					"text": "Flying objects around the citadel"
+				},
+				{
+					"cat": "-",
+					"text": "Cables in corridor"
+				},
+				{
+					"cat": "-",
+					"text": "Electric discharge effects"
+				},
+				{
+					"cat": "-",
+					"text": "Monitors on which you can see the citadel"
+				},
+				{
+					"cat": "-",
+					"text": "Other decals and overlays"
+				}
+			],
+			"_sText": "- Added 2 maps-examples.<br>- In the second example also there is a “3D skybox”&nbsp; with citadel from “Half-Life 2” (+sky_camera).<br>- Buildings for the background.<br>- Monitors on which you can see the citadel with electric discharge effects.<br>- Flying objects around the citadel.<br>- Cables in corridor.<br>- Other decals and overlays.<br>The beginners can find in archive the original map in \"vmf\" format (with other stuff on it) for editing, learning and free using.<br>Enjoy! :)",
+			"_sTitle": "Update-1 (two examples-maps)",
+			"_tsDateAdded": 1499028520
+		}
+	],
+	"_idRow": 116012,
+	"_sName": "Ghervas examples maps (bsp + vmf included)",
+	"_sText": "- Hi! My name is Dmitry Ghervas. I am game developer, but sometimes I do level design for some existing games, to gather experience or to keep fit.<br>Welcome to my maps-examples, each one made by me in a few hours or days (<i>depending on complexity</i>) as examples for learning for beginners. Yes, in this archive are four maps, each having something special:<br>- There is handmade destructible objects (<i>2 types</i>), plus a few rooms with a ventilation system &amp; corridors between them + exploding barrels + sun+sun spot.<br>- In the second example also there is a “3D skybox” with citadel from “Half-Life 2” (<i>+sky_camera</i>). Plus buildings for the background, plus monitors on which you can see the citadel with electric discharge effects, plus flying objects around the citadel.<br>And also many other objects and effects that you can save as prefabs, modify and use on your own maps.<br>Ok, also the beginners can find in archive the original map in \"vmf\" format (<i>with other stuff on it</i>) for editing, learning and free using.<br>Include your imagination and create for your pleasure the maps of any size and of any shape, inspired from real life or just invented by you from scratch.<br>Enjoy, amigos! :)<br><br>Other Notes:<br>Maximal number of players on this maps: 32 (<i>real players, or 31 bots &amp; 1 real player</i>).<br>But is desirable no more than 16 players (<i>real players, or 15 bots &amp; 1 real player</i>).<br>Recommended 10 players (<i>real players, or 9 bots &amp; 1 real player</i>).<br><br>Dev notes: Hey, after compilation of map, inside the game, in console write \"buildcubemaps\" and Submit (<i>pause</i>), after, write \"mat_hdr_enabled 0\" and again write \"buildcubemaps\" and Submit.&nbsp; After rebuilding, close the game and enter again inside of CS:S.<br>If you create a \"nav\" file from scratch or delete the old \"nav\" file and just enter on map with bots – so the \"nav\" file will be done automatically. If you test the map and want to edit it again in Hammer Editor, so don`t forget to&nbsp; build again the cubemaps (<i>see above, ok</i>) and after, for remade good \"nav\" file, just write in console the following commands: \"sv_cheat 1\" ..... after write \"nav_edit 1\"...... after write \"nav_analyze\" – the \"nav\" file will reanalyze the old nav path-mesh and make new nav path-mesh, for this stupid bots. -))<br>Ok, if you want to learn how to make-programming in real time a good navigation mesh for bots, read on this link:<br><a href=\"https://developer.valvesoftware.com/wiki/Navigation_Meshes\" class=\"linkified\" target=\"_blank\">https://developer.valvesoftware.com/wiki/Navigatio...</a><br>Is little hard to learn how to make nice nav mesh, but anyway is possible, believe me. -)<br>.<br>Good commands that I use, for make nav mesh in real time:<br>sv_cheats 1&nbsp; /&nbsp; nav_edit 1&nbsp;&nbsp; /&nbsp;&nbsp; nav_save&nbsp;&nbsp;&nbsp; ///&nbsp;&nbsp; nav_begin_area / nav_end_area&nbsp; ///&nbsp;&nbsp; nav_split&nbsp; ///&nbsp; nav_mark / nav_connect<br>nav_disconnect&nbsp; (<i>if need</i>) /// nav_build_ladder&nbsp; (<i>for make visible the ladders for bots-idiots</i>) /// nav_make_sniper_spots ///<br>nav_precise /// nav_jump&nbsp; /// nav_crouch /// nav_avoid /// nav_save / nav_save/nav_save/nav_save&nbsp; --- yeah-yeah, save!!!<br>--in final....&nbsp; nav_analyze&nbsp;&nbsp; ........ and this is it, amigos. :)<br><br>Video of action review here:<br>\"gh_2strike-dm_example1\" video: <iframe src=\"https://www.youtube.com/embed/OY_l2h75dgA\" allowfullscreen=\"\" width=\"560\" height=\"315\" frameborder=\"0\"></iframe><br>\"gh_2strike-dm_example2\" video: <iframe src=\"https://www.youtube.com/embed/dlGvUUglt58\" allowfullscreen=\"\" width=\"560\" height=\"315\" frameborder=\"0\"></iframe><br>\"gh_storageblow-de_example3\" video: <iframe src=\"https://www.youtube.com/embed/4I3ib2bNWLM\" allowfullscreen=\"\" width=\"560\" height=\"315\" frameborder=\"0\"></iframe><br>\"gh_storagescape-cs_example4\" video: <iframe src=\"https://www.youtube.com/embed/azDyqzDYpRE\" allowfullscreen=\"\" width=\"560\" height=\"315\" frameborder=\"0\"></iframe>"
+}

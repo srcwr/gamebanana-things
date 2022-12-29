@@ -1,0 +1,35 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrike": {
+						"maps": [
+							"Plan.txt",
+							"fy_citycourtyard.bsp",
+							"fy_citycourtyard.nav",
+							"fy_citycourtyard_readme.txt"
+						]
+					}
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 348204,
+			"_nDownloadCount": 1252,
+			"_nFilesize": 1443155,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/348204",
+			"_sFile": "fy_citycourtyard.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1191189923
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 111769,
+	"_sName": "fy_citycourtyard",
+	"_sText": "Author notes\r\nMap Created by : Jordan \"Fuuian\" Cormier\r\nhttp://www.myspace.com/fuuian\r\n\r\nThis is my first map. I chose an fy map because they're generally symmetrical, so you don't have to worry about layout too much. Obviously there's framerate issues when\r\nthere's large amounts of players on the screen. I don't think there's a way I can fix this since I added everything inside of a large box. It's my first map though, so it was more of a learning experience than anything. The map took about 15 or so hours to complete. I've also bundled a \"lite\" version of this map. It doesn't include some of the geometry the normal version has, so it has better framerates (but it still suffers with large amounts of players).\r\n\r\nFor my future projects, I plan to get better with optimization and brushwork. On this map I used carve a lot, which I know now is not exactly a good idea.\r\n\r\nHope you like it.\r\n\r\nPS - There's invisible barriers around the maps, but if you turn low grav on you can jump outside on the buildings if you want and play around."
+}

@@ -1,0 +1,75 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrike": {
+						"maps": [
+							"de_frosticles_alaska_beta.bsp",
+							"de_frosticles_alaska_beta.bsp.bak",
+							"de_frosticles_alaska_beta.res"
+						],
+						"materials": {
+							"models": {
+								"moroes": [
+									"Pine_Tree_Snow.vmt",
+									"Pine_Tree_Snow.vtf"
+								]
+							},
+							"mytextures": [
+								"blend_snow_concrete.vmt",
+								"blend_snow_concrete.vtf",
+								"icerock.vmt",
+								"icerock.vtf",
+								"snow.vmt",
+								"snow.vtf",
+								"snowrubble.vmt",
+								"snowrubble.vtf"
+							],
+							"skybox": [
+								"grimmnightbk.vmt",
+								"grimmnightbk.vtf",
+								"grimmnightdn.vmt",
+								"grimmnightdn.vtf",
+								"grimmnightft.vmt",
+								"grimmnightft.vtf",
+								"grimmnightlf.vmt",
+								"grimmnightlf.vtf",
+								"grimmnightrt.vmt",
+								"grimmnightrt.vtf",
+								"grimmnightup.vmt",
+								"grimmnightup.vtf"
+							]
+						},
+						"models": {
+							"moroes": [
+								"pine_tree.dx80.vtx",
+								"pine_tree.dx90.vtx",
+								"pine_tree.mdl",
+								"pine_tree.phy",
+								"pine_tree.sw.vtx",
+								"pine_tree.vvd"
+							]
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 323158,
+			"_nDownloadCount": 1861,
+			"_nFilesize": 11672531,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/323158",
+			"_sFile": "de_frosticles_alaska_beta_2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1272096895
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 102448,
+	"_sName": "de_frosticles_alaska_beta",
+	"_sText": "thanks to moroes from cs_frozen for the pine tree models this is only a beta thest map it will have a final when im done with it it has 32 spawn points and gets about 90fps in the worst spots 200+ in good zones it has two bomb sites and alot of hiding spots enjoy! .,.,.Frosticles.,.,."
+}

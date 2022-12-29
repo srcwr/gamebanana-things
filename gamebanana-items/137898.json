@@ -1,0 +1,53 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"surf_selenka.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 408584,
+			"_nDownloadCount": 84,
+			"_nFilesize": 3384304,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/408584",
+			"_sFile": "surf_selenka_6403e.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1548603512
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Adjustment",
+					"text": "made every light non-solid"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "raised end triggers"
+				},
+				{
+					"cat": "Optimization",
+					"text": "redid s2 end to make it less aids"
+				},
+				{
+					"cat": "Improvement",
+					"text": "added glass to s2 spin with an edge for better visibility"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "qualityoflife update",
+			"_tsDateAdded": 1548603471
+		}
+	],
+	"_idRow": 137898,
+	"_sName": "surf_selenka",
+	"_sText": "My first map ever! Hope you enjoy it. :)<br><br>Huge thanks to Sam (Retarded) for helping me out a bunch. I wouldn't have been able to finish it without him.<br><br>Also thanks to Wayne for providing Bonus 1, testing the map and making a showcase video!"
+}

@@ -1,0 +1,60 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"gg_Elite_Crossover_Final": {
+						"0": "2012-07-17_00001.jpg",
+						"1": "2012-07-17_00002.jpg",
+						"2": "2012-07-17_00003.jpg",
+						"3": "2012-07-17_00004.jpg",
+						"4": "2012-07-17_00005.jpg",
+						"5": "Thumbs.db",
+						"6": "readme.txt",
+						"cstrike": {
+							"0": "Thumbs.db",
+							"maps": [
+								"gg_Elite_Crossover_Final.bsp",
+								"gg_Elite_Crossover_Final.bsp.bak",
+								"gg_elite_crossover_final.nav"
+							],
+							"materials": {
+								"skybox": [
+									"mpa100bk.vmt",
+									"mpa100bk.vtf",
+									"mpa100dn.vmt",
+									"mpa100dn.vtf",
+									"mpa100ft.vmt",
+									"mpa100ft.vtf",
+									"mpa100lf.vmt",
+									"mpa100lf.vtf",
+									"mpa100rt.vmt",
+									"mpa100rt.vtf",
+									"mpa100up.vmt",
+									"mpa100up.vtf"
+								]
+							}
+						}
+					}
+				},
+				"_sMimeType": "application/x-7z-compressed"
+			},
+			"_bContainsExe": false,
+			"_idRow": 295375,
+			"_nDownloadCount": 1272,
+			"_nFilesize": 8047254,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/295375",
+			"_sFile": "gg_elite_crossover_final.7z",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1364954306
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 134715,
+	"_sName": "gg_Elite_Crossover_Final",
+	"_sText": "Hi!\r\n\r\nFollow the path to install the map correctly, like this   \r\n\r\n:cstrike/materials/skybox/     <----- here is your texture for the sky if you don't put the .vmt .vtf files in to your server the map will not work\r\n\r\n:cstrike/map/   <----- here is your map (gg_Elite_Crossover_Final)\r\n\r\n\r\nmake shure in your server.cfg this is 1   \r\n\r\nsv_consistency 1\r\nsv_allowupload 1\r\nsv_allowdownload 1\r\nsv_downloadurl \"http://www.mydomain.cz/cstrike/\"  <---- point at your fast download"
+}

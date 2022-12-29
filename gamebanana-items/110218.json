@@ -1,0 +1,60 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrike": {
+						"Materials": {
+							"Models": {
+								"props_foilage": [
+									"tree_deciduous_01a_trunk.vmt",
+									"tree_pine_01_branches.vmt",
+									"tree_pine_01_branches.vtf",
+									"tree_pine_cards_01.vmt",
+									"tree_pine_cards_01.vtf"
+								]
+							}
+						},
+						"Models": {
+							"props_foilage": [
+								"tree_pine_card_cluster_01_skybox.dx80.vtx",
+								"tree_pine_card_cluster_01_skybox.dx90.vtx",
+								"tree_pine_card_cluster_01_skybox.mdl",
+								"tree_pine_card_cluster_01_skybox.sw.vtx",
+								"tree_pine_card_cluster_01_skybox.vvd",
+								"tree_pine_card_cluster_02_skybox.dx80.vtx",
+								"tree_pine_card_cluster_02_skybox.dx90.vtx",
+								"tree_pine_card_cluster_02_skybox.mdl",
+								"tree_pine_card_cluster_02_skybox.sw.vtx",
+								"tree_pine_card_cluster_02_skybox.vvd"
+							]
+						},
+						"maps": {
+							"0": "ka_dont_fall_v2.bsp",
+							"soundcache": [
+								"ka_dont_fall_v2.cache"
+							]
+						}
+					}
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 351274,
+			"_nDownloadCount": 2007,
+			"_nFilesize": 2000248,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/351274",
+			"_sFile": "ka_dont_fall_v2_fixed.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1180471463
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 110218,
+	"_sName": "ka_dont_fall_v2 *fixed*",
+	"_sText": "Yep... This is v2 of ka_dont_fall. Total remake actually.. \r\n\r\n<b><u>New things added/changes:</b></u>\r\n1) New layout\r\n2) Real textures\r\n3) A 3D skybox\r\n4) HDR\r\n5) Sounds\r\n6) A single glock with 0 spare clips.\r\n7) Less subdivides.\r\n\r\nHope you enjoy, comments are welcome, as well as suggestions to how I can improve in v3.\r\n<hr>Fixed a major problem, with some missing textures/models for the trees in the 3D skybox. THEY ARE NOW INCLUDED!!!\r\n\r\nCredits for the new stuff added: Unknown.\r\nIf you know who made them, please PM me, and I will correct it.\r\n\r\n<h3>PLEASE RE-DOWNLOAD!!!"
+}

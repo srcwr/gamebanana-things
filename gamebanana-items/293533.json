@@ -1,0 +1,64 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "readme.txt",
+					"cstrike": {
+						"maps": [
+							"de_nusu.bsp"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 587903,
+			"_nDownloadCount": 114,
+			"_nFilesize": 606235,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/587903",
+			"_sFile": "de_nusu_569c6.rar",
+			"_sMd5Checksum": "fc3174de191d6f705d59865ab490b8cf",
+			"_tsDateAdded": 1623179000
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Decorations"
+				},
+				{
+					"cat": "Addition",
+					"text": "18 Player Slot"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Textures and Water fixed"
+				}
+			],
+			"_sText": "Thanks to YellowJello and w6a7z99 for map ideas!",
+			"_sTitle": "Update Released",
+			"_tsDateAdded": 1623179104
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Adding some props, decals and places"
+				}
+			],
+			"_sText": "I working on a new update.",
+			"_sTitle": "Map Decoration Update",
+			"_tsDateAdded": 1623162854
+		}
+	],
+	"_idRow": 293533,
+	"_sName": "de_nusu",
+	"_sText": "Counter-Strike: Source de_nusu<br><br>This map is made with: Source SDK"
+}

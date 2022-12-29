@@ -1,0 +1,39 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrike": {
+						"maps": [
+							"de_haywire.bsp",
+							"de_haywire.nav",
+							"de_haywire.txt"
+						],
+						"screenshots": [
+							"de_haywire01.jpg",
+							"de_haywire02.jpg",
+							"de_haywire03.jpg",
+							"de_haywire04.jpg"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 357168,
+			"_nDownloadCount": 1685,
+			"_nFilesize": 1365965,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/357168",
+			"_sFile": "de_haywire_2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1153740744
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 102591,
+	"_sName": "de_haywire",
+	"_sText": "de_haywire_beta - May 16 2005 - Visit www.DreamServers.ro\r\n================================================================\r\nTitle                   : de_haywire\r\nFilenames               : de_haywire.txt (this readme file)\r\n                          de_haywire.nav (bot file)\r\n                          de_haywire.bsp (the level itself)\r\n                          plus 4 screenshots (in \\screenshots)\r\n\r\nAuthor                  : The LoveMeister\r\nEmail Address           : lovemeister@panzer.dk\r\nWeb Page\t\t: :(\r\nDescription             : DE map for 8-20 players ideally,\r\n                          3 routes, 2 sites\r\n================================================================\r\n\r\n* Play Information *\r\n\r\nNew Sounds              : no\r\nNew Graphics            : no\r\nNew Music               : no\r\n\r\n* Construction *\r\n\r\nBase                    : new level from scratch\r\nEditor(s) used          : 3ds MAX 7, the GLB exporter and Hammer\r\nKnown Bugs              : it's possible to buddy jump out of the\r\n\t\t\t  map pretty much everywhere, so please \r\n\t\t\t  don't try : ). The bots are a bit funky \r\n\t\t\t  sometimes\r\nBuild Time              : two weeks on and off\r\nCompile machine         : p4, 2.4GHz, 512mb ram\r\nCompile Time            : 2:47 seconds\r\n\r\nSummary of the level\r\n====================\r\n\r\nThe map layout is fairly simple and compact with one main area \r\nand 2 alternative routes. There are no really dark spots for\r\ncamping nor are there any sniper killing zones. All the good sniper\r\nspots have at least one dead angle making them difficult to hold.\r\nYet it is still possible to use scoped weapons to great effect.\r\nI've also made some fairly confined areas for those of you who \r\nprefer the shotty : ).\r\n\r\nTo do for next version\r\n======================\r\nCurrently there are no ambient sounds in the map. That has a main \r\npriority for the next release. I would also like to add some more\r\n'clutter' to the map in general. \r\nThe most important ofcourse is all the tweaks to the map itself\r\nbased on player feedback : ).\r\n\r\n\r\nShoutout's\r\n==========\r\nSlick_oh and Flum for playtest, suggestions and interest \r\nRich McNinch for Hammer/Source help - really appreciated\r\nWhoever came up with the idea to make the source WIKI : )\r\n*** http://www.hl2world.com/wiki/index.php/Main_Page ***\r\nSupport the wiki initiative!\r\n================================================================\r\n\r\nThe LoveMeister"
+}

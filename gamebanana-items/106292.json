@@ -1,0 +1,59 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"Maps": [
+						"aim_blue_floor.bsp",
+						"aim_blue_floor.nav"
+					],
+					"materials": {
+						"My Textures": [
+							"lt_Blue.vmt",
+							"lt_Blue.vtf"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 279211,
+			"_nDownloadCount": 1120,
+			"_nFilesize": 181980,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/279211",
+			"_sFile": "aim_blue_floor_2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1457763602
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Fix Bug That Bot Stuck Behind the Box"
+				}
+			],
+			"_sText": "<p>-Fix Bug That Bot Stuck Behind the Box</p><p>-Fix Shadow&nbsp;</p>",
+			"_sTitle": "2.0 Updates",
+			"_tsDateAdded": 1457767344
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Fix Bug That Bot Stuck Behind the Box"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "VERSION 2.0",
+			"_tsDateAdded": 1457767209
+		}
+	],
+	"_idRow": 106292,
+	"_sName": "Aim_blue_floor",
+	"_sText": "<p>My New Map</p><p>Ladder by Decod</p><p>Stairs By Iconic&nbsp;</p>"
+}

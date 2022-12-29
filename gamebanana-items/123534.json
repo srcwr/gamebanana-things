@@ -1,0 +1,54 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrike": {
+						"maps": [
+							"glass_nightmaze_hom.bsp"
+						],
+						"materials": {
+							"decals": {
+								"custom": [
+									"Thanksdecal2.vmt",
+									"Thanksdecal2.vtf"
+								]
+							},
+							"skybox": [
+								"poisonskybk.vmt",
+								"poisonskybk.vtf",
+								"poisonskydn.vmt",
+								"poisonskydn.vtf",
+								"poisonskyft.vmt",
+								"poisonskyft.vtf",
+								"poisonskylf.vmt",
+								"poisonskylf.vtf",
+								"poisonskyrt.vmt",
+								"poisonskyrt.vtf",
+								"poisonskyup.vmt",
+								"poisonskyup.vtf"
+							]
+						}
+					}
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 329628,
+			"_nDownloadCount": 1263,
+			"_nFilesize": 3212600,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/329628",
+			"_sFile": "glass_nightmaze_hom.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1250421493
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 123534,
+	"_sName": "glass_nightmaze_hom",
+	"_sText": "FINALLY ARRIVED, built again from the ground up, comes v3 of my map, glass_labyrinth_hom !! No, it is not called labyrinth, but this was because, there was SO many changes, that it deserved a new name! \r\n\r\nWith custom skybox texture, provided by:  BD|RAjAN - Poison skybox texture  \r\n\r\n\r\nLittle 'bout this map:\r\nThis time round, you have alot more choices. You can go through the maze, to reach the teleporter in the center, which takes you to the third level; where the bombsite is. OR you can go up the ladder from spawn leading to the second level, which is basically more for snipers. Then, on the first level, above the water, are 2 moving platforms, which circulate the water, which pass both spawns, and the 2 isolated sniping platforms in 2 corners of the map. The water, is electrified, as showed and warned by env_spark objects and huge signs telling you, that its NOT SAFE TO SWIM IN. You can pass through these signs, and are only viewable from a single direction.\r\n\r\nIn the second level rooms, I added another sniper-hole, that's elevated and that you cannot pass through... \r\n\r\nThe breakable glass tiles, break with a single pistol shot. The reason this is, because I had to copy an existing glass tile and multiply it by like a billion! I have a problem with my sourceSDK, where I cannot make breakable objects...\r\n\r\nAround the water, is/and/are slanted brushes. You cannot walk on these, because, it would be cheating! You can't SKIP the electrified water! So if anyone is wondering, that's why, I made it that way.\r\n\r\n\r\nI have made 2.5 \"secrets\" on the map. Two secret rooms, and the other is, well, more of a glitch, but its fun! So try and find em. OH! If you do, please keep it to yourself! No sense in giving the enemy the upper hand by tellin' 'em it!!!\r\n\r\n\r\nYea, soz, i think that's all..."
+}

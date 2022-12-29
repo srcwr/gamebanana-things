@@ -1,0 +1,53 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_wingman.bsp",
+					"de_wingman.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 714514,
+			"_nDownloadCount": 165,
+			"_nFilesize": 1332572,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/714514",
+			"_sFile": "de_wingman_f1b0a.zip",
+			"_sMd5Checksum": "8f84dd557d1e675a5c1e3bb3e4d46bac",
+			"_tsDateAdded": 1640092094
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Added missing props"
+				},
+				{
+					"cat": "-",
+					"text": "Added Radar"
+				},
+				{
+					"cat": "-",
+					"text": "Extended CT Spawn a bit"
+				},
+				{
+					"cat": "-",
+					"text": "Remade Tunnels/vents"
+				}
+			],
+			"_sText": "I don't know what should be added next.",
+			"_sTitle": "Version 1.1",
+			"_tsDateAdded": 1640091995
+		}
+	],
+	"_idRow": 338542,
+	"_sName": "de_wingman",
+	"_sText": "Made this map over a couple of days, decided to upload it today.<br><br>IMPORTANT!<br>This map is supposed to be played 2v2, and supports nothing more!<br><br>de_wingman is a map desgined for 2v2 fights (like the wingman gamemode, get it?) featuring a single bombsite, a dust theme, and the layout of nuke's b site. It plays pretty similarly to how it would in CS:GO. Breakable windows, doors, and all. This map has a working navmesh with bot support.<br><br>In short, this map is a blend of Shortnuke from CS:GO and Dust. Also has some elements from CS:S Nuke.<br>"
+}

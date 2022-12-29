@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"gg_boardwalk_X.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 332979,
+			"_nDownloadCount": 1331,
+			"_nFilesize": 1411123,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/332979",
+			"_sFile": "gg_boardwalk_x.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1238637253
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 133941,
+	"_sName": "gg_boardwalk_X",
+	"_sText": "Fixes:\r\n\r\nMoved T-Spawn for balancing issues\r\nAdded Ladders to get out of water\r\nImproved Performance\r\nImproved Clipping\r\nImproved Lighting\r\nImproved Skybox (Though unable to fix completely, due to optimization issues)\r\n\r\nI have left the damage on entering the water, some people complained about this but it is there as a deterrent, and to make sure people stick to the boardwalks.  I still recommend playing this in a round-based gun-game/fight-yard mode as it is asymmetrical, and probably isn't completely balanced, however more so than the original.\r\n\r\nPlease inform me of any bugs, problems or improvements, I'm sure there are a few.\r\n\r\nThanks"
+}

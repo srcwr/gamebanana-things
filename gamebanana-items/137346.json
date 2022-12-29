@@ -1,0 +1,45 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"gg_wallrun_v2b.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 521248,
+			"_nDownloadCount": 189,
+			"_nFilesize": 244553,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/521248",
+			"_sFile": "gg_wallrun_v2b.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1613483271
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Adjustment",
+					"text": "Moved some crates in hallway slightly"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Added decals"
+				}
+			],
+			"_sText": "Added some decals to make the map look a bit better, and moved a couple of the crates that were in the bottom hallways, to allow for easier access through them.<br>",
+			"_sTitle": "Version 2.1",
+			"_tsDateAdded": 1613483842
+		}
+	],
+	"_idRow": 137346,
+	"_sName": "gg_wallrun_v2",
+	"_sText": "This is the same layout as the gg_wallrun_v1, but it has had textures added to it. Im not that great at texturizing just an fyi!<br><br>This is the first gun game map that I have made with hammer so it may \r\nhave some issues, please let me know if it does and I will try and fix \r\nthem. Also let me know if you like it (or hate it, lol). Any and all \r\nfeedback or constructive criticism is greatly appreciated. Thanks! <br><br>"
+}

@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"aim_p90.bsp",
+					"aim_p90.txt"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 359560,
+			"_nDownloadCount": 1307,
+			"_nFilesize": 215870,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/359560",
+			"_sFile": "aim_p90.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1132939408
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 108278,
+	"_sName": "aim_p90",
+	"_sText": "I'm usually one of those people who looks down their nose at aim_fy maps, but with the release of the beta SDK, it messed up my original cs_infiltrate map, so I played around with the new SDK for awhile, and came up with this.\r\n\r\nI wouldn't have uploaded it, but I've seen servers play far worse maps.\r\n\r\nP.S. A warning to the beta SDK users: Sometimes the info_player_counterterrorist causes Hammer to crash unexpectadly.  To remove the SDK, take away the -beta sdk from the steam file path and refresh your SDK content."
+}

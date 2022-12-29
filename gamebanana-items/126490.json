@@ -1,0 +1,52 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"kz_bhop_strafe_comjump2_v2.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 285506,
+			"_nDownloadCount": 1535,
+			"_nFilesize": 154603745,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/285506",
+			"_sFile": "kz_bhop_strafe_comjump2_v2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1414335173
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Balanced stage 7 (white blocks in the climbing sections are checkpoints, some parts are easier)"
+				},
+				{
+					"cat": "-",
+					"text": "Reduced the first 256 unit longjump in stage 2 to 242"
+				},
+				{
+					"cat": "-",
+					"text": "Minor optimization on stages 1 and 8"
+				},
+				{
+					"cat": "-",
+					"text": "Fixed a teleport glitch on stage 3"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Version 2",
+			"_tsDateAdded": 1415307567
+		}
+	],
+	"_idRow": 126490,
+	"_sName": "kz_bhop_strafe_comjump2_v2",
+	"_sText": "**UPDATE**\r\n\r\n- Balanced stage 7 (white blocks in the climbing sections are checkpoints, some parts are a bit easier)\r\n- Reduced the first 256 unit longjump in stage 2 to 242\r\n- Minor optimization on stages 1 and 8\r\n- Fixed a teleport glitch on stage 3\r\n\r\nThis map was designed with the limitations of sv_enablebunnyhopping 0 and legit gameplay in mind, meaning you are not be able to maintain a speed above 300 while bunnyhopping, forcing you to strafe in order to complete the map. It may not play properly on servers with settings other than what it was made for, such as autobunnyhopping or forcing sv_enablebunnyopping back to 1.\r\n\r\nFor servers, visit http://steamcommunity.com/groups/_strafe\r\n\r\n\r\n<iframe width=\"560\" height=\"315\" src=\"//www.youtube.com/embed/W-0F0yij8b0\" frameborder=\"0\" allowfullscreen></iframe>"
+}

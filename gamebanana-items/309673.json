@@ -1,0 +1,86 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_train_ep2.bsp",
+					"de_train_ep2.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 626327,
+			"_nDownloadCount": 79,
+			"_nFilesize": 3121615,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/626327",
+			"_sFile": "de_train_ep2.zip",
+			"_sMd5Checksum": "1b53f4eec6c312c091ad86d6adb3cd1b",
+			"_tsDateAdded": 1627665977
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_train_ep2_v2.bsp",
+					"de_train_ep2_v2.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 626608,
+			"_nDownloadCount": 33,
+			"_nFilesize": 3122849,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/626608",
+			"_sFile": "de_train_ep2_v2.zip",
+			"_sMd5Checksum": "eeaa5696fc8298c3aa7bbf009668f9a7",
+			"_tsDateAdded": 1627691798
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_train_ep2_final.bsp",
+					"de_train_ep2_final.nav",
+					"de_train_ep2_final.vmf"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 628238,
+			"_nDownloadCount": 132,
+			"_nFilesize": 3462883,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/628238",
+			"_sFile": "de_train_ep2_final.zip",
+			"_sMd5Checksum": "132361ba180a09742ed55e44379c0c1a",
+			"_tsDateAdded": 1627875446
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Adjustment",
+					"text": "Removed train adding more view of site from connector"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Made it to where there is only one tunnel that is not bombsite A"
+				}
+			],
+			"_sText": "Added VMF to the zip file.",
+			"_sTitle": "Version 3 (Final.)",
+			"_tsDateAdded": 1627875924
+		}
+	],
+	"_idRow": 309673,
+	"_sName": "de_train_ep2 (FINAL VERSION)",
+	"_sText": "A more competitive version of de_train with changes that make the map look cleaner and run better."
+}

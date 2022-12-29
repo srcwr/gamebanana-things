@@ -1,0 +1,238 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"de_csp_mansion_beta_1": {
+						"-=ScreenShots=-": [
+							"de_csp_mansion0000.jpg",
+							"de_csp_mansion0001.jpg",
+							"de_csp_mansion0002.jpg",
+							"de_csp_mansion0003.jpg",
+							"de_csp_mansion0004.jpg",
+							"de_csp_mansion0005.jpg",
+							"de_csp_mansion0006.jpg"
+						],
+						"cstrike": {
+							"maps": [
+								"de_csp_mansion.bsp"
+							],
+							"materials": {
+								"aTam": {
+									"Brick": [
+										"Train_Brick_Hall01.vmt",
+										"Train_Brick_Hall01.vtf",
+										"Train_Brick_Hall01_normal.vtf",
+										"Train_Brick_Main01.vmt",
+										"Train_Brick_Main01.vtf",
+										"Train_Brick_Main01_normal.vtf",
+										"Train_Brick_Main02.vmt",
+										"Train_Brick_Main02.vtf",
+										"Train_Brick_Main02_normal.vtf",
+										"Train_Trim01.vmt",
+										"Train_Trim01.vtf",
+										"Train_Trim01_normal.vtf",
+										"walla.vmt",
+										"walla.vtf"
+									],
+									"Concrete": [
+										"Nuke_conrete01.vmt",
+										"Nuke_conrete01.vtf",
+										"Nuke_conrete01_normal.vtf",
+										"Train_concrete_02.vmt",
+										"Train_concrete_02.vtf",
+										"Train_concrete_02_normal.vtf",
+										"Train_conrete01.vmt",
+										"Train_conrete01.vtf",
+										"Train_conrete01_Normal.vtf"
+									],
+									"Credits": [
+										"MD.vmt",
+										"MD.vtf",
+										"credits_inf.vmt",
+										"credits_inf.vtf",
+										"credits_train.vmt",
+										"credits_train.vtf",
+										"cspromod.vmt",
+										"cspromod.vtf",
+										"d2credits.vmt",
+										"d2credits.vtf",
+										"nukecredits.vmt",
+										"nukecredits.vtf"
+									],
+									"Decals": [
+										"begrip.vmt",
+										"begrip.vtf"
+									],
+									"Light": [
+										"Text_light01.vmt",
+										"Text_light01.vtf",
+										"Text_light02Blue.vmt",
+										"Text_light02Blue.vtf"
+									],
+									"Metal": [
+										"BombCase.vmt",
+										"BombCase.vtf",
+										"NukeVent.vmt",
+										"NukeVent.vtf",
+										"Nuke_Roof_Orange.vmt",
+										"Nuke_Roof_Orange.vtf",
+										"Nuke_pipe01.vmt",
+										"Nuke_pipe01.vtf",
+										"metaltrain001red.vmt",
+										"metaltrain001red.vtf",
+										"metaltrain001red_normal.vtf"
+									],
+									"Overlay": [
+										"aTam.vmt",
+										"aTam.vtf",
+										"catwalk.vmt",
+										"catwalk.vtf",
+										"dustwindow.vmt",
+										"dustwindow.vtf",
+										"ov_Vine_climb.vmt",
+										"ov_Vine_climb.vtf",
+										"ov_Vine_climb_angle.vmt",
+										"ov_Vine_climb_angle.vtf",
+										"ov_Vine_climb_up.vmt",
+										"ov_Vine_climb_up.vtf",
+										"popdog.vmt",
+										"popdog.vtf"
+									],
+									"Plaster": [
+										"HallPlaster01.vmt",
+										"HallPlaster01.vtf",
+										"Plaster_cil01.vmt",
+										"Plaster_cil01.vtf",
+										"Plaster_cil01_Normal.vtf",
+										"Plaster_cil02.vmt",
+										"Plaster_cil02.vtf",
+										"Plaster_cil02_Normal.vtf",
+										"plasterwall01.vmt",
+										"plasterwall01.vtf"
+									],
+									"Rock": [
+										"DustCliff.vmt",
+										"DustCliff.vtf"
+									],
+									"Sand": [
+										"BlendDustwall01.vmt",
+										"BlendDustwall01.vtf",
+										"BlendSandCrack.vmt",
+										"DustCrack.vtf",
+										"DustCrackb.vtf",
+										"Dustwall01.vmt",
+										"Dustwall01.vtf",
+										"Dustwall01_normal.vtf",
+										"Sand_creep.vtf",
+										"dustsand.vmt",
+										"dustsand.vtf",
+										"dustsanda.vmt",
+										"dustsanda.vtf",
+										"dustsanda_bump.vtf",
+										"dustsandb.vtf",
+										"dustytrim.vmt",
+										"dustytrim.vtf",
+										"dustytrimb.vtf",
+										"ripsand.vmt",
+										"ripsand.vtf",
+										"ripsand_normal.vtf"
+									],
+									"Spam": [
+										"powerbox_spam.vmt",
+										"powerbox_spam.vtf"
+									],
+									"Stone": [
+										"Stone_floor_01.vmt",
+										"Stone_floor_01.vtf",
+										"Stone_floor_01_normal.vtf",
+										"hallscrete.vmt",
+										"hallscrete.vtf",
+										"hallscreteb.vtf"
+									],
+									"Suburb": [
+										"sub_PoolLiner.vmt",
+										"sub_PoolLiner.vtf",
+										"sub_PoolTrim.vmt",
+										"sub_PoolTrim.vtf",
+										"sub_Vine.vmt",
+										"sub_Vine.vtf",
+										"sub_Vine_overlay.vmt",
+										"sub_Vine_overlay.vtf",
+										"sub_WoodFence.vmt",
+										"sub_WoodFence.vtf",
+										"sub_brick01_normal.vmt",
+										"sub_brick01_normal.vtf",
+										"sub_brick01b.vmt",
+										"sub_brick01b.vtf",
+										"sub_brick02_normal.vmt",
+										"sub_brick02_normal.vtf",
+										"sub_brick02a.vmt",
+										"sub_brick02a.vtf",
+										"sub_house_base01.vmt",
+										"sub_house_base01.vtf",
+										"sub_house_base01_normal.vmt",
+										"sub_house_base01_normal.vtf",
+										"sub_house_base01b.vmt",
+										"sub_house_base01b.vtf",
+										"sub_roof.vmt",
+										"sub_roof.vtf",
+										"sub_roof_normal.vmt",
+										"sub_roof_normal.vtf",
+										"sub_wetcement.vmt",
+										"sub_wetcement.vtf",
+										"sub_wetcement_bump.vtf",
+										"sub_window.vmt",
+										"sub_window.vtf",
+										"sub_window2.vmt",
+										"sub_window2.vtf"
+									],
+									"Windows": [
+										"Nuke_window01.vmt",
+										"Nuke_window01.vtf",
+										"Nuke_window01_normal.vtf"
+									],
+									"Wood": [
+										"MagicalCrate01.vmt",
+										"MagicalCrate01.vtf",
+										"MagicalCrate01TP.vmt",
+										"MagicalCrate01TP.vtf",
+										"WoodFrameDark.vmt",
+										"WoodFrameDark.vtf"
+									]
+								},
+								"overviews": [
+									"de_csp_mansion.vmt",
+									"de_csp_mansion.vtf",
+									"de_csp_mansion_radar.vmt",
+									"de_csp_mansion_radar.vtf"
+								]
+							},
+							"resource": {
+								"overviews": [
+									"de_csp_mansion.txt"
+								]
+							}
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 345797,
+			"_nDownloadCount": 2121,
+			"_nFilesize": 23035755,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/345797",
+			"_sFile": "de_csp_mansion_beta_1.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1198701085
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 101704,
+	"_sName": "de_csp_mansion_beta_1",
+	"_sText": "De_csp_mansion\r\n\r\nThis is a \"DE\" remake of cs_mansion_hslan.\r\n\r\nif U have some idea what i can make on this map, or some problems pls PM me.\r\n\r\nThis is not a last version, but it's works & playable.\r\n\r\nHello fron cold Russia ;)\r\n\r\nhttp://cs.megaportal.su"
+}

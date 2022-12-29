@@ -1,0 +1,46 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "Readme.txt",
+					"maps": [
+						"cs_assault_lith.bsp",
+						"cs_assault_lith.nav"
+					],
+					"materials": {
+						"metal": [
+							"metaldoor050a.vmt",
+							"metaldoor050a.vtf",
+							"metaldoor061a.vmt",
+							"metaldoor061a.vtf"
+						]
+					},
+					"sound": {
+						"doors": {
+							"func_door_rotating": [
+								"default_locked.wav"
+							]
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 362316,
+			"_nDownloadCount": 14945,
+			"_nFilesize": 1380592,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/362316",
+			"_sFile": "cs_assault_lith.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1100152521
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 99540,
+	"_sName": "cs_assault_lith",
+	"_sText": "CS_Assault_Lith:\r\n\t\r\nCS_Assault Remake for CS:Source!!!!!\r\n\r\n\r\n\r\n\r\nINSTALLATION:\r\n------------------------------------------\r\nExtract this .zip into your your \r\n\r\n\"C:\\Program Files\\Valve\\Steam\\SteamApps\\\"Source E-mail\"\\counter-strike source\\cstrike\\\"\r\n\r\nIt will ask you to overwrite some files, just say yes, it only says this because of the \r\nfolders that are being extracted.\r\n\r\n\r\n\r\n\r\n\r\nMAP INFO:\r\n------------------------------------------\r\n\r\nBuild Time:\r\n'bout 5 days from start to finish\r\n\r\n\r\n\r\nCompile time:\r\n11 minutes or so\r\n\r\n\r\n\r\nTextures:\r\nAll HL2 Textures\r\n\r\n\r\n\r\nModels:\r\nAll HL2 Models\r\n\r\n\r\n\r\nBugs:\r\nCannot take the hostages out of the back door.\r\ni'm not sure exactly how to make this work.\r\n\r\n\r\n\r\n\r\n\r\nCredits:\r\n------------------------------------------\r\nMapping - Monolith\r\nTesting - Monolith\r\n\t- DarkMauler\r\n\r\n\r\ncontact:\r\n------------------------------------------\r\nMonolith - darylbrigner@hotmail.com\r\n\r\n\r\n------------------------------------------\r\nThis map can be be redistributed, but only if this file is attached. Thank You"
+}

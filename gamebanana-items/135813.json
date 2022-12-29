@@ -1,0 +1,52 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"gg_mirac.bsp",
+					"gg_mirac.nav"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 400735,
+			"_nDownloadCount": 134,
+			"_nFilesize": 101920,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/400735",
+			"_sFile": "gg_miracv1_21864.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1541008843
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "added in-game screenshots"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "version 0.2",
+			"_tsDateAdded": 1541008949
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "moved ct,t spawnpoints. fixed bug where you could get stuck on teammates"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "gg_miracv1",
+			"_tsDateAdded": 1541008031
+		}
+	],
+	"_idRow": 135813,
+	"_sName": "gg_mirac",
+	"_sText": "well, its first map i made on cs:s<br><br>"
+}

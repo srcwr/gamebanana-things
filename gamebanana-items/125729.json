@@ -1,0 +1,63 @@
+{
+	"_aAlternateFileSources": [
+		{
+			"url": "https://mega.co.nz/#!ZoAESShK!CgeCk_aYZwHy2G6phkNqVJBBZeFqZqVQCHbHLucT9SY"
+		}
+	],
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"bhop_pharos_fix.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 281579,
+			"_nDownloadCount": 835,
+			"_nFilesize": 33569195,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/281579",
+			"_sFile": "bhop_pharos_fix.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1441552090
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "collision of last lvl (you randomly got stuck on them before)"
+				},
+				{
+					"cat": "-",
+					"text": "made boosters at end not rng"
+				},
+				{
+					"cat": "-",
+					"text": "made the end and start snap to 64 so you can easily setup a timer"
+				},
+				{
+					"cat": "-",
+					"text": "fixed some gay tree skip at start"
+				},
+				{
+					"cat": "-",
+					"text": "fixed soundscape on the bonus"
+				},
+				{
+					"cat": "-",
+					"text": "fixed playerclip i messed up at end"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "_fix 6months later, yes i know",
+			"_tsDateAdded": 1457128077
+		}
+	],
+	"_idRow": 125729,
+	"_sName": "bhop_pharos_fix",
+	"_sText": "bhop_pharos<br><br>Map I've been working on of and on for the last 8 months, its about 4 mins long if no failed. The map has 3 stages with different styles. also a fly/surf bonus<br><br>\r\nPossible on scroll and 400vel cap. Fun to speedrun on auto too.<br><br>\r\nI ran into a shit ton of problems while trying to make the map optimized/work. hence some stages are kinda unoptimized, sorry for that.<br><br>\r\nThanks to everyone who helped me make this.<br><br>\r\nEnjoy!<br><br>vmf available here:&nbsp;<a href=\"https://github.com/pietervanheijningen/bhop_maps\">https://github.com/pietervanheijningen/bhop_maps</a><br><br>\r\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/DbNHRkZ-iuo\" frameborder=\"0\" allow=\"encrypted-media\" allowfullscreen=\"\"></iframe>"
+}

@@ -1,0 +1,45 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrike": {
+						"0": "README.txt",
+						"maps": [
+							"knas_speedcastle_css_expanded.bsp",
+							"knas_speedcastle_css_expanded.nav"
+						],
+						"materials": {
+							"overviews": [
+								"knas_speedcastle_css_expanded.vmt",
+								"knas_speedcastle_css_expanded_overview.vtf",
+								"knas_speedcastle_css_expanded_radar.vmt",
+								"knas_speedcastle_css_expanded_radar.vtf"
+							]
+						},
+						"resource": [
+							"knas_speedcastle_css_expanded.txt"
+						]
+					}
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 349895,
+			"_nDownloadCount": 1491,
+			"_nFilesize": 7289372,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/349895",
+			"_sFile": "knas_speedcastle_css_extended_rofi.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1185588880
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 116218,
+	"_sName": "knas_speedcastle_css_expanded",
+	"_sText": "Seeing as i dont know how to contact the original author of this map i hope that he is ok with this upload. I have expanded the usable area in the map to include the tower, the area over the top of the stairs, and the outer edge of the map. I did this expansion of the map at the request of a friend of mine but we most of the clan liked it so i am going to upload it to fpsbanana seeing as i cannot find any other of these maps that has the area expanded. The .nav file was edited so that the bots could get to the top of the map and to the edge, but they never seem to go there so i dont know if i messed something up, or if the .nav just doesnt work the way i would have liked it to.\r\n\r\n**UPDATE**\r\nThanks to Chizbone there is now a .nav for bots, and a radar/overview.\r\nMap is still the same."
+}

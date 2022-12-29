@@ -1,0 +1,46 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"break_anticamp_v2": {
+						"cfg": [
+							"anticamp_cmds.cfg"
+						],
+						"maps": [
+							"break_anticamp_v2.bsp",
+							"break_anticamp_v2.res"
+						],
+						"materials": {
+							"4lt": {
+								"0": "combineglass_nocull.vmt",
+								"decals": [
+									"move.vtf",
+									"move_blue.vmt",
+									"move_red.vmt"
+								]
+							}
+						}
+					}
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 351472,
+			"_nDownloadCount": 1233,
+			"_nFilesize": 1230930,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/351472",
+			"_sFile": "break_anticamp_v2_2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1179531131
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 115599,
+	"_sName": "break_anticamp_v2",
+	"_sText": "<table><tr><td style=\"font-size:125%;background-color:#400000\">\r\n<span style=\"font-size:75%\">(that's the max # of players)</span>\r\n<center><b><font color=\"#ff8000\">NEW! VERSION 2!</font></b></center>\r\n\r\nSimilar to breakfloor, but has:\r\n<ul>\r\n<li>Method of killing players who stay on the top level for longer than 20 seconds*</li>\r\n<li>Boxes have damage filters that prevent them from being damaged by explosives (HE grenade does physics damage, and that's it.)</li>\r\n<li>Various other changes (it's a surprise :D)</li>\r\n</ul>\r\n<font size=\"1\">*ceiling begins to come down, crushing anything in its path.</font>\r\n\r\n\r\nNote: crusher does not work on first round (shouldn't matter, anyway, since it starts a new round when a second person joins the game.)\r\n\r\n<font color=\"#ff0000\">WARNING: This map uses point_servercommand to execute a script file (cfg/anticamp_cmds.cfg).</font></td></tr></table>"
+}

@@ -1,0 +1,132 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrike": {
+						"maps": [
+							"ar_villa_2.bsp",
+							"ar_villa_2.nav"
+						],
+						"sound": [
+							"Titanium.wav",
+							"pchina.wav"
+						]
+					}
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 475511,
+			"_nDownloadCount": 250,
+			"_nFilesize": 19371456,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "version 2 , The main version , Afternoon Time",
+			"_sDownloadUrl": "https://gamebanana.com/dl/475511",
+			"_sFile": "ar_villa_2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1595264583
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrike": {
+						"Maps": [
+							"ar_villa_3.bsp",
+							"ar_villa_3.nav"
+						],
+						"sound": [
+							"ndiv.wav"
+						]
+					}
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 475513,
+			"_nDownloadCount": 171,
+			"_nFilesize": 12395643,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "version 3 , Alternate Version of version 2 , Sunset Time",
+			"_sDownloadUrl": "https://gamebanana.com/dl/475513",
+			"_sFile": "ar_villa_3.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1595265423
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"Cstrike": {
+						"maps": [
+							"ar_villa_1.bsp",
+							"ar_villa_1.nav"
+						],
+						"sound": [
+							"ndiv.wav",
+							"numb.wav",
+							"party.wav"
+						]
+					}
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 475509,
+			"_nDownloadCount": 96,
+			"_nFilesize": 25669921,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "Version 1 , original one Version with improper Sunlight",
+			"_sDownloadUrl": "https://gamebanana.com/dl/475509",
+			"_sFile": "ar_villa_1.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1595264025
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "water"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Swimming Pool"
+				},
+				{
+					"cat": "Removal",
+					"text": "Furniture"
+				},
+				{
+					"cat": "Addition",
+					"text": "Towers"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Sunlight"
+				},
+				{
+					"cat": "Removal",
+					"text": "Switches"
+				},
+				{
+					"cat": "Addition",
+					"text": "Secret Room"
+				}
+			],
+			"_sText": "Edited to make it look a lot better",
+			"_sTitle": "version 2",
+			"_tsDateAdded": 1595264865
+		}
+	],
+	"_idRow": 137959,
+	"_sName": "ar_villa",
+	"_sText": "<b><span class=\"GreenColor SelectedElement\">Version 1</span></b> : - <br>The previous version, Has improper sunlight and water bug, <br>also contains a Leak and might probably lag.<br>.<br><b><span class=\"GreenColor SelectedElement\">Version 2 </span></b> : - <br>The Main Version.<br>Improved the map and lighting , especially the sun, removed the furniture . . <br>and made ot of changes, walls are optimised for better rendering. <br>.<br><span class=\"GreenColor\"><span class=\"GreenColor\">Version 3</span></span> :- <br>This is an Alternate Version of version 2 <br>made the daytime to sunset, but the afternoon version is still available to play<br>========================================================================<br>This is my first map of CS:Source . . .<br>It is the design of a small house, <br>based on the architecture of an old home <br>in my hometown.<br>.<br>the goal of the map is to eliminate <br>the other faction member, <br>as well as to find a secret chamber <br>where a machine gun is hidden.<br>.<br><span class=\"GreenColor\">the map is more interior focused <br>and was initially intended only <br>to be played with 0 bots <br>and only explore the house <br>.<br>but you can play 1v1 on it <br>or you can explore the house.<br>.</span><br>have fun !<br>.<br><br>"
+}

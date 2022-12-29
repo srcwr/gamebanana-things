@@ -1,0 +1,110 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"zm_blockfort_v5_b2.bsp"
+				],
+				"_sMimeType": "application/x-7z-compressed"
+			},
+			"_bContainsExe": false,
+			"_idRow": 422871,
+			"_nDownloadCount": 230,
+			"_nFilesize": 16080671,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/422871",
+			"_sFile": "zm_blockfort_v5_b2.7z",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1560408055
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"zm_blockfort_v5_b1.bsp"
+				],
+				"_sMimeType": "application/x-7z-compressed"
+			},
+			"_bContainsExe": false,
+			"_idRow": 422217,
+			"_nDownloadCount": 109,
+			"_nFilesize": 16766560,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/422217",
+			"_sFile": "zm_blockfort_v5_b1.7z",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1559770624
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"zm_blockfort_v3_1.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 275992,
+			"_nDownloadCount": 1949,
+			"_nFilesize": 3140245,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/275992",
+			"_sFile": "zm_blockfort_v3_1_86bf7.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1478026937
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "Fixed the map crashing due to missing packed files."
+				},
+				{
+					"cat": "Optimization",
+					"text": "Reduced the frequency of the anti-fall-damage trigger to dcrease server load (6 times per minute from 60 times per minute)."
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Made pipe on Red able to be simply walked inside of."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Version 5.2",
+			"_tsDateAdded": 1560408202
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Overhaul",
+					"text": "Changed lighting to match skybox"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Various texture changes"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Modifier balancing"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Hiding spot balancing"
+				}
+			],
+			"_sText": "<h2>Hey look at that, nearly 2 years have passed since I last updated this thing.</h2>&nbsp;<br>The main changes are to the map's appearance. I figured I might as well update it to make it look smoother and a bit cleaner overall.<br>&nbsp;<br><h1>Changelog<br></h1><hr><h3>Appearance</h3>&nbsp;- Lighting changed to match the skybox<br>&nbsp;- Booster arrows now light up<br>&nbsp;- Ramp curves have been smoothed out (thanks GiGaBiTe)<br>&nbsp;- All breakable objects are now given the same texture (pixelated brown bricks)<br>&nbsp;- Skybox hills have been redone and smoothed out<br>&nbsp;- Clouds now displacements instead of blocks<br>&nbsp;- Default dev textures now replaced with either color-respective textures or bricks<br>&nbsp;- Updated the \"Thanks to\" message<br>&nbsp;- Pipes are now higher-poly<br>&nbsp;- Changed mushroom-platform textures<br>&nbsp;- Changed textures to hut above Yellow<br><hr><h3>Balancing</h3>&nbsp;- Pipes in skybox now have ways of reaching the top of them<br>&nbsp;- Large crate on top of Blue has been given additional fencing<br>&nbsp;- Removed breakable slots under the windows of the double-room under Red, windows made more narrow<br>&nbsp;- Added crouch-hole to small fenced area under Red<br>&nbsp;- Removed walkway from small fenced area to double-room under Red, moved and added stairs to shelf above double-room<br>&nbsp;- Changed Rainbow-Road modifier: Player gravity increased and prop pushscale/phys_timescale reduced to make everything less floaty<br>&nbsp;- Changed Lava-Floor modifier: Lava floor now only does at most 6 damage per second; lava floor has been adjusted to be more shallow and not be inside totally-walled areas (e.g. players standing in double-room or red crate under Red will not be hurt by lava); Several platforms have been added between all forts to allow humans to reach ladders and get around the map without taking damage<br>&nbsp;- Using the secret button on Green will now break open the middle automatically; shooting the middle will still break it open<br><hr><br>Hopefully I've made some underpowered spots more favorable now and kept some old favorites still intact.<br><br><br>",
+			"_sTitle": "Version 5.0 Beta 1",
+			"_tsDateAdded": 1559770292
+		}
+	],
+	"_idRow": 131382,
+	"_sName": "zm_blockfort",
+	"_sText": "So, originally, I was making Peach's Castle from Mario 64 when I got a better idea to make Block Fort from Mario <i>Kart</i> 64 into a Zombie Mod map.<br><br>Originally, Block Fort was just the four forts that were exactly the same except for color. I've changed it up to where each fort has something different about it.<br><br>Blue fort consists mainly of upper-level indoor spots.<br>Red fort has more props than the other forts, mostly downstairs.<br>Yellow fort has a greater focus on being indoors or inside of a room.<br>Green fort has a large section of breakable crates in the lower floor and makes players jump a lot.<br><br>There are several arrow-signs on the ground. These arrows are Boost Pads, allowing even the less-experienced players to bhop around the outside of the map, allowing quick access to different locations. Short surfing curves are placed in the corners, allowing for quick access to the top of the outer wall and more!<br>However, be careful when getting lots of height, as fall damage is enabled on this map!<br><br>There is only one secret that I'll tell you about on this map, which reveals the hidden Note Block under the center of the map. Jumping on this Note Block and pressing the Use key will shoot players up into the air and let them access the blocky clouds above the map. <br><br>The clue for that secret: \"Jump <i>over</i> the pipe, not into it.\"<br><br>There are still 3 more secrets to find, so have fun looking for those!<br><br>Custom colored dev textures were made by <a href=\"http://gamebanana.com/members/274308\">Chris528</a>.<br><br>If you add this map to your server's map rotation, let me know and I'll put the server's details here in the description!<br><br>"
+}

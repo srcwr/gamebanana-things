@@ -1,0 +1,55 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"maps": [
+						"bhop_cyber.bsp"
+					]
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 406225,
+			"_nDownloadCount": 214,
+			"_nFilesize": 1119677,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/406225",
+			"_sFile": "bhop_cyber_5c036.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1546648932
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Overhaul",
+					"text": "Remade entire map. Changed a lot of the layout."
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Map no longer in beta."
+				},
+				{
+					"cat": "Optimization",
+					"text": "Optimized everything. No longer takes forever to compile. Fixed issue with textures not being packed into map file."
+				},
+				{
+					"cat": "Adjustment",
+					"text": "No longer uses doors as bhop platforms."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Full Release",
+			"_tsDateAdded": 1546648038
+		}
+	],
+	"_idRow": 124783,
+	"_sName": "bhop_cyber",
+	"_sText": "Map made for speedrunning. Quick and simple. Now uses proper bhop platforms instead of doors. Subscribe to the map on the workshop:<br><br><a href=\"https://steamcommunity.com/sharedfiles/filedetails/?id=1614904681\">https://steamcommunity.com/sharedfiles/filedetails/?id=1614904681</a><br>"
+}

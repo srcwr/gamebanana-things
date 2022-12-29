@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"Install instructions.txt",
+					"ad_egon_world.bsp",
+					"ad_egon_world.txt"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 360788,
+			"_nDownloadCount": 25800,
+			"_nFilesize": 6269139,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/360788",
+			"_sFile": "ad_egon_world.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1123865153
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 100723,
+	"_sName": "ad_egon_world",
+	"_sText": "Egon World - Bomb/Defuse\r\n \r\nCounter-Terrorists: You must prevent\r\nthe terrorists from bombing any of \r\nthe recently discovered egonic \r\nbuildings.\r\n\r\nTerrorists: Destroy one of the two targets\r\nto stop investigators from finding out\r\nwhat this egon world is.\r\n\r\nNOTE TO ADMINS: In order to allow clients\r\nto download the map from your server, you\r\nmust change net_maxfilesize to a higher\r\nvalue than the default of 15\r\n(e.g. net_maxfilesize 22)\r\n\r\nMade by Adam aka Egon.\r\nYou can contact me through my gmail:\r\nevil.egon@gmail.com"
+}

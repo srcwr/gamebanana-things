@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"fun_allinone_css.bsp",
+					"fun_allinone_css.txt"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 357447,
+			"_nDownloadCount": 7050,
+			"_nFilesize": 6462101,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/357447",
+			"_sFile": "fun_allinone_css.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1151918523
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 120534,
+	"_sName": "fun_allinone_css",
+	"_sText": "Original version by: DedeHai \r\n\r\nOriginal Shotgunmap by: GothicFire\r\n(modified by DedeHai)\r\n\r\nThis map is a remake of Counter-Strike-map: fun_allinone.\r\nI wanted to keep this map looking like the original one, so I decompiled the original map-file and I haven't added any new stuff. But sadly I had to keep only 3 lights in the shotgunmap... it's Source's fault ;) . But I have also modified this map a bit.\r\nIn this map 1 player can choose one fy-map that everybody will play. In pistol-map you can also choose the pistol you want to use. CTs and Ts have slightly different pistols.\r\nThere are 6 fy maps:\r\n Knife\r\n Pistols\r\n Shotgun\r\n AWP\r\n M249 (PARA)\r\n HE-Grenade\r\n\r\nNotes:\r\nOnly 1 player randomly from CTs or Ts can choose the map. If there were 1 player from both teams and they pressed door buttons at the same time, there would be 2 doors to different maps opened.\r\nIf you are choosing the map, you have 10 seconds time after the spawn doors open.\r\nIf somebody purposely doesn't choose the map or blocks your way to the map-choosing-area, the spawn doors will open automatically in 10 seconds.\r\nThe doors will also open 20 seconds from the beginning of the round if anybody doesn't do anything.\r\nAfter the map has been chosen, you have 20 seconds time to go to the teleport before dying."
+}

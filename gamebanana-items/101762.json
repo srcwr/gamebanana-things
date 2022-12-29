@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_datacenter_v2.bsp",
+					"de_datacenter_v2.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 292242,
+			"_nDownloadCount": 2216,
+			"_nFilesize": 11469990,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/292242",
+			"_sFile": "de_datacenter_v2.7z",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1379691710
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 101762,
+	"_sName": "de_datacenter_v2",
+	"_sText": "Map support:\r\n\r\n-HDR\r\n\r\n-Bots\r\n\r\n**Fixed:**\r\n\r\n-Error (Engine error: ED_Alloc: no free edicts) when more than 30 players\r\n\r\n-Quality some shadows\r\n\r\n-Very dark places of map\r\n\r\n-Very bright lights"
+}

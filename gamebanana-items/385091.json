@@ -1,0 +1,81 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"workingtitle v4": [
+						"de_workingtitle.bsp",
+						"de_workingtitle.nav",
+						"de_workingtitle.vmf"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 819230,
+			"_nDownloadCount": 31,
+			"_nFilesize": 754810,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "de_workingtitle v4",
+			"_sDownloadUrl": "https://gamebanana.com/dl/819230",
+			"_sFile": "de_workingtitle_v4.zip",
+			"_sMd5Checksum": "271a4c126e8f8897f7f945b56fc6cf65",
+			"_tsDateAdded": 1656092651
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Overhaul",
+					"text": "Overhauled Middle"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Improved general \"theme\" of the map"
+				},
+				{
+					"cat": "Removal",
+					"text": "Removed older downloads"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed multiple clipping errors"
+				},
+				{
+					"cat": "Tweak",
+					"text": "Moved CT Spawn to allow them to get to B easier"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "de_workingtitle v4",
+			"_sVersion": "4.0",
+			"_tsDateAdded": 1656092835
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "Fixed an issue where planting B-Site wouldnt work"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed an issue regarding CT Spawns"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed an issue with a single light_spot entity not working properly"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "de_workingtitle v3.1",
+			"_sVersion": "3.1",
+			"_tsDateAdded": 1656028819
+		}
+	],
+	"_idRow": 385091,
+	"_sName": "de_workingtitle",
+	"_sText": "A dev-textured map I made to just mess around with CSS. Going to be updated soon, probably."
+}

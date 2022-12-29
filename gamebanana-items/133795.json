@@ -1,0 +1,50 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"maps": [
+						"gg_Barroomblitz.bsp",
+						"gg_Barroomblitz.res",
+						"gg_Barroomblitz.txt",
+						"gg_barroomblitz.nav"
+					],
+					"materials": {
+						"sasshield": [
+							"swatshield.vmt",
+							"swatshield.vtf",
+							"swatshield_normal.vtf"
+						]
+					},
+					"models": {
+						"sasshield": [
+							"sasshield.dx80.vtx",
+							"sasshield.dx90.vtx",
+							"sasshield.mdl",
+							"sasshield.sw.vtx",
+							"sasshield.vvd",
+							"sasshield.xbox.vtx"
+						]
+					}
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 330452,
+			"_nDownloadCount": 1083,
+			"_nFilesize": 1239788,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/330452",
+			"_sFile": "gg_barroomblitz.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1247632039
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 133795,
+	"_sName": "GG_Barroomblitz",
+	"_sText": "Just a map I did for my clan server, but decided to share it with everybody!\r\nFairly small map with lots of cover on the main floor."
+}

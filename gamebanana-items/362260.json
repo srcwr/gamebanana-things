@@ -1,0 +1,73 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "ze_neochrome_css3.bsp",
+					"bosshud": [
+						"ze_neochrome_css3.txt"
+					],
+					"entwatch": [
+						"ze_neochrome_css3.cfg"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 764596,
+			"_nDownloadCount": 119,
+			"_nFilesize": 55714898,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "map + cfg",
+			"_sDownloadUrl": "https://gamebanana.com/dl/764596",
+			"_sFile": "ze_neochrome_css3.zip",
+			"_sMd5Checksum": "d817acd6de26dc42f13789fd90f5a528",
+			"_tsDateAdded": 1647197597
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Removal",
+					"text": "Removed a boss attack because there were too many issues with it"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added a Zombie TP attack in boss fight (to replace the removed attack)"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Nerfed a few defenses"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Increased elevators blocking damage to avoid exploit"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "CSS 3",
+			"_tsDateAdded": 1647197663
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "Fixed a client crash issue during the boss fight"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Remade one of the boss attack's"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "CSS 2",
+			"_tsDateAdded": 1646842951
+		}
+	],
+	"_idRow": 362260,
+	"_sName": "Neochrome (CSS Port)",
+	"_sText": "CSS Port of ze_neochrome<br><br><a href=\"https://gamebanana.com/mods/358685\"><u><b>CSGO Version</b></u></a>"
+}

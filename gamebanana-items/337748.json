@@ -1,0 +1,71 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"gg_accountancy_v1_4.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 760055,
+			"_nDownloadCount": 155,
+			"_nFilesize": 20579310,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/760055",
+			"_sFile": "gg_accountancy_v1_4.zip",
+			"_sMd5Checksum": "10ba84682ad66494c1fb7cb57b2f1bc8",
+			"_tsDateAdded": 1646533462
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "More furniture"
+				},
+				{
+					"cat": "Addition",
+					"text": "Radar/Overview"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Minor layout changes"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "version 1.2",
+			"_tsDateAdded": 1646533641
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Added a 3d skybox"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added/modified props"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added point_viewcontrol"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed dumb env_cubemap problem"
+				}
+			],
+			"_sText": "Improved the whole map. It looks nicer now.",
+			"_sTitle": "Version 1.1",
+			"_tsDateAdded": 1638755760
+		}
+	],
+	"_idRow": 337748,
+	"_sName": "gg_accountancy",
+	"_sText": "Gungame map I made. There are custom models/textures and 64 spawn points (32 for each faction)."
+}

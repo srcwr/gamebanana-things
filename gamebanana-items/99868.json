@@ -1,0 +1,30 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"cs_east_borough.bsp",
+					"cs_east_borough.nav",
+					"cs_east_borough.txt",
+					"cs_east_borough_readme.txt"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 304412,
+			"_nDownloadCount": 20728,
+			"_nFilesize": 21111962,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/304412",
+			"_sFile": "cs_east_borough.7z",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1331679093
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 99868,
+	"_sName": "cs_east_borough",
+	"_sText": "####  East Borough - Hostage Rescue\r\n#####  by Will2k\r\n\r\ncs\\_east\\_borough is a hostage rescue map based on neighborhoods from The Bronx borough and Harlem neighborhood in New York City. This is not an accurate recreation as I took the creative freedom to merge several elements from real life counterparts into one neighborhood in the map. I was also greatly influenced by the beautiful rendition of New York City in both GTA4 and Crysis2.\r\n\r\nThe map is realistic and I tried to incorporate all the elements and details that make New York so unique: the buildings and facades, the storefronts and old shops, the street and road signs, the projects, the fire escapes, the graffiti and the list goes on.\r\nThe details are authentic from New York: storefronts, road signs, sidewalks, manholes, buildings textures... all were carefully crafted and modified in Photoshop and VTFEdit (Took me around 10 days to prepare the textures and my wrist still aches from all the tiny maneuvers I had to perform in Photoshop :)\r\n\r\nI also scattered some funny elements throughout the map mainly in the form of billboard ads or bus stop ads. Some ads are brands that I modified and parodied while others are original work that I created from scratch.\r\n\r\nThe map is about street scenes so expect the gameplay to be in wide open areas with some back alley and indoor action. The map offers access to some buildings for elevated heights and sniping opportunities.\r\nAnd for those of you wondering: yes, the basketball court is built to scale :)\r\n\r\nThe layout is very simple and easy to remember and provides instant action for both sides as well as ambush opportunities and surprise attacks.\r\n\r\nThe optimization process took me around 1 week to finalize and to find the optimum locations for hints and areaportals and the optimum fade distances for models (Non-critical models will slowly fade as you walk away from them and disappear once the player is at the other end of the street). The high FPS is consistent around the map and provides smooth gameplay for players.\r\n\r\nThe map has:\r\n\r\n- 64 spawn points (32 vs 32)\r\n- radar overview\r\n- 3D skybox\r\n- Soundscapes\r\n- custom textures and models\r\n- Manually-tuned Nav file with place names\r\n\r\nAll the custom resources (except the nav) are embedded in the bsp.\r\n\r\nFor installation, simply extract the 4 files in the zip archive (bsp, nav and 2 txt files) to your \\Counter-Strike Source\\cstrike\\maps folder.\r\n\r\nI had a blast in the 2 months lifespan of this project and I really hope you enjoy this map as much as I did creating and testing it.\r\nComments and constructive feedback are always welcome.\r\n\r\nWill2k\r\n\r\nMarch 14, 2012"
+}

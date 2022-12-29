@@ -1,0 +1,61 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"bhop_shutdown.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 421351,
+			"_nDownloadCount": 218,
+			"_nFilesize": 48811469,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/421351",
+			"_sFile": "bhop_shutdown_updated.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1559035962
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Removal",
+					"text": "Teleport clips at the final stage"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Falling into the start room"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Start booster is now gone"
+				},
+				{
+					"cat": "Improvement",
+					"text": "New blocks and ramps for variety in the gameplay"
+				},
+				{
+					"cat": "Addition",
+					"text": "Longer bonus"
+				},
+				{
+					"cat": "Removal",
+					"text": "Teleport to the endzone is now gone. Sorry zoners!"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Important fixes and adjustments",
+			"_tsDateAdded": 1559036386
+		}
+	],
+	"_idRow": 125963,
+	"_sName": "bhop_shutdown",
+	"_sText": "By Soda (not the aus one) and Nallieheai.<br><br>Map is now updated. Thanks to everyone who played it. I did not change the name so server owners will have to replace the original map and also wipe the bonus times<br><br>This is my biggest creation so far. I started working on this map last fall. It was supposed to be a big collaboration but things did not really work out. I stopped working on it after January and it just lied around purposelessly on my PC. Recently i finished it - and here it is. Aesthetics inspired (stolen) by badg3s and epiphany.<br><br>This map combines in itself an autobhop and a scroll gameplay routes - every of the 3 kz parts is skippable on auto for interesting gameplay.<br><br>The map also has a small lore where everything blacks out as you progress through it, like a world that is destroyed as you move on through it - nothing deep, but whatever. Don't forget about stupid 7 seconds strafe bonus tho! Best part, honestly.<br><br>Known issues:&nbsp;<br>Due to the way i made soundscapes, on big servers, although it is very unlikely, player that chooses not to play music still can start hearing it if another player flagged as music_on enters a trigger at the same time.<br>There is also some weird issues about momentum mod not letting you on the map if you place the start zone. Literally have nfi why that happens as everything works fine in css.<br><br>All music by me -&nbsp;<a href=\"https://soundcloud.com/sodxwxter\" class=\"linkified\" target=\"_blank\">https://soundcloud.com/sodxwxter</a><br><br>Special thanks are listed - sorry to everyone who i forgot about. People who wanted to collaborate and who helped - you are awesome."
+}

@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"jb_orange.bsp",
+					"jb_orange_readme.txt"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 336298,
+			"_nDownloadCount": 2223,
+			"_nFilesize": 1912373,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/336298",
+			"_sFile": "jb_orange_v1.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1228700494
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 129908,
+	"_sName": "jb_orange",
+	"_sText": "I have changed the name to \"jb_orange\" since it now meets all the requirements to be a Riotmod Jailbreak map.\r\n\r\n\r\nChangelog\r\nBeta 1 - 1.9:\r\n* fixed a few bugs in the map, added a few lights and doorknobs\r\n* Added a gun rack to prevent prisoners from grabbing guns through the wall\r\n* tinkered with lighting, the current rooms are probably in their final beta stage\r\n* added 16 more spawns to bring the number up to 32\r\n* added one additional area\r\n* froze weapons in place to prevent server lag\r\n\r\nBeta 2:\r\n* reduced the invisible \"clip\" in front of the vent to increase entry difficulty\r\n* fixed the underground tunnel glitch using a new wall tecnique I learned mapping for tremulous\r\n* made the underground tunnel look way cooler\r\n* fixed a few texture errors\r\n* scooted one of the vents over to make it look better\r\n* added a cityscape in the background\r\n\r\nBeta 2.5:\r\n* added soccer field\r\n* added weapon and nade dispensers\r\n* performance fixes\r\n\r\nBeta 2.7:\r\n* added 3rd story\r\n*added balance fixes (changed autosniper for scout, added some climbable areas for a quick escape)\r\n* better looking broken walls\r\n* better prison gates\r\n\r\nBeta 2.9:\r\n* added (fully functional) dodgeball arena!\r\n* more balance fixes\r\n* added 5 second wait on deagle and nade spawnner\r\n* added 10 second wait on deagle cable\r\n* performance fixes\r\n\r\nBeta 3:\r\n* Radar images!\r\n* optimization, optimization, optimization\r\n\r\nRC1:\r\n* full-sized 1st story\r\n* better lighting\r\n* more stylized for the orange theme\r\n* improved areas (basement, upstairs, ect.)\r\n* \"wise\" doors (the ones with animating doorknobs)\r\n* eliminated most console & render errors\r\n* optimization, optimization, optimization \r\n\r\nRC2:\r\n* Completely Rebuilt Skybox\r\n* new unreachable \"visually enhancing\" areas\r\n* new hidden areas\r\n* fixed the clogged teleporter problem\r\n* fixed T's being abandoned in the dodgeball cage\r\n* added a timer to the dodgeball cage to balance the aforementioned fix\r\n* added portal hints to improve map performance\r\n* Added Area Sounds\r\n* Added Welcome cameras\r\nRemoved:\r\n* suppressant gas (non working version in RC1) [feature removed]\r\n\r\nV1:\r\n* Finished new stairwell\r\n* all stairs are now 8 rise 12 run\r\n* removed the pipes from the basement\r\n* basement is area portal'd\r\n* hint locations improved\r\n* improved scenic areas\r\n\r\nPossible Features & changes\r\n* a *.nav file for bots\r\n* realistic textures [would be packaged in a different map]\r\n"
+}

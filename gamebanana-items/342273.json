@@ -1,0 +1,121 @@
+{
+	"_aAlternateFileSources": [
+		{
+			"description": "Beta 4",
+			"url": "https://www.mediafire.com/file/vwh232vgunbryxj/jb_417_b4.zip/file"
+		}
+	],
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"jb_417_b3a.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 708285,
+			"_nDownloadCount": 84,
+			"_nFilesize": 58851752,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/708285",
+			"_sFile": "jb_417_b3a.zip",
+			"_sMd5Checksum": "ef3e6729638070a6c9727825d53ded09",
+			"_tsDateAdded": 1639157974
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Overhaul",
+					"text": "Changed lighting to daytime"
+				},
+				{
+					"cat": "Tweak",
+					"text": "-Adjusted lighting in outside parts of the map"
+				},
+				{
+					"cat": "Tweak",
+					"text": "Special days - several tweaks"
+				},
+				{
+					"cat": "Overhaul",
+					"text": "-SD will always be unlocked for the first 15 seconds until it is activated, then all of them are locked for the rest of the map"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "-Special day n.3 - adjusted the fog colour"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "-Special day n.2 - changed the round-start value of sv_friction to 4"
+				},
+				{
+					"cat": "Tweak",
+					"text": "-Secret special day - some tweaks"
+				},
+				{
+					"cat": "Removal",
+					"text": "Removed falling snow due to working only half the time"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Adjusted snow on the ground"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Football - adjusted the goals and (hopefully) fixed the big ball texture"
+				},
+				{
+					"cat": "Tweak",
+					"text": "Disco corridor - raised the height of the wall next to the crate stack, added a railing on the nearby roof"
+				},
+				{
+					"cat": "Tweak",
+					"text": "Pool - several tweaks"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "-Cleaned the snow off the glass roof"
+				},
+				{
+					"cat": "Improvement",
+					"text": "-Made the roof ramp steeper"
+				},
+				{
+					"cat": "Improvement",
+					"text": "-Increased the height of the jump platform"
+				},
+				{
+					"cat": "Addition",
+					"text": "-Added more detail"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "-Bomb diving - bombs are now located closer to the corner"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "-Spleef - Increased platform size from 64 to 72, adjusted arena size, implemented an experimental spawning system"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Adjusted some of the cell physics props to be server-side"
+				},
+				{
+					"cat": "Tweak",
+					"text": "Juggernaut - shield power-up side/up cover decreased by half"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Beta 4",
+			"_tsDateAdded": 1642271959
+		}
+	],
+	"_idRow": 342273,
+	"_sName": "jb_417",
+	"_sText": "A little JailBreak map I had worked on and off for 1.5 years.<br>Has snow around the map, so I guess it is winter themed. There are some secrets around the map, including <span class=\"RedColor\">special songs</span>.<br><br><span class=\"GreenColor\">Games:</span><br>-Football<br>-Pool ( Jumping, Air course, Bomb diving )<br>-Colours<br>-Killhouse ( COD4 style )<br>-Race ( Long jump is quite hard without sv_accelerate 100 or above )<br>-Hot Potato<br>-Underground ( Forklift, Shooting range, Deathball, Wipeout, FFA, Spleef )<br><br><span class=\"GreenColor\"><span class=\"GreenColor\">Disco song list</span>:</span><br>Yakuza 0 - Friday Night<br>Usher - More<br>Sonic Palms - On The Beach<br>Avicii - Levels<br><span class=\"RedColor\">Egor Nats - Ya zhenyus' na devochke iz anime<br>Camellia - Body F10ating in the Zero Gravity Space <br>Camellia - ?:For The Delta<br><span class=\"GreenColor\"><br></span></span><span class=\"GreenColor\"><span class=\"GreenColor\">Special days</span>:</span><br>-Warday<br>-Low friction<br>-???<br>-Secret<br><br>Special thanks to : nyronic ( dev textures ), JasperCarmak( skybox ), Doctor waffles AKA Daan ( huge inspiration, creator of jb_carceris )<br>"
+}

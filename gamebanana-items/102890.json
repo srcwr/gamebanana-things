@@ -1,0 +1,75 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"maps": [
+						"de_kulisse.bsp",
+						"de_kulisse.nav"
+					],
+					"materials": {
+						"models": {
+							"0": "palmtreeUV.vmt",
+							"1": "palmtreeUV.vtf",
+							"cherokemodels": {
+								"palmy": [
+									"BananaTree_02.vmt",
+									"BananaTree_02.vtf",
+									"BananaTree_02DOT3.vtf",
+									"PalmTree_01.vmt",
+									"PalmTree_01.vtf",
+									"Tree_2MeterPalmTrunk.vmt",
+									"Tree_2MeterPalmTrunk.vtf",
+									"tree_banana_filler.vmt",
+									"tree_banana_filler.vtf",
+									"tree_fillerbackwall.vmt",
+									"tree_fillerbackwall.vtf",
+									"tree_fillerbackwall_02.vmt",
+									"tree_fillerbackwall_02.vtf",
+									"tree_tall03_stems.vmt",
+									"tree_tall03_stems.vtf",
+									"trunk.vmt",
+									"trunk.vtf"
+								]
+							}
+						}
+					},
+					"models": {
+						"0": "palmtree.dx80.vtx",
+						"1": "palmtree.dx90.vtx",
+						"2": "palmtree.mdl",
+						"3": "palmtree.phy",
+						"4": "palmtree.sw.vtx",
+						"5": "palmtree.vvd",
+						"cherokemodels": {
+							"palmy": [
+								"palmabanan.dx80.vtx",
+								"palmabanan.dx90.vtx",
+								"palmabanan.mdl",
+								"palmabanan.phy",
+								"palmabanan.sw.vtx",
+								"palmabanan.vvd"
+							]
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 349926,
+			"_nDownloadCount": 1509,
+			"_nFilesize": 12474151,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/349926",
+			"_sFile": "de_kulisse.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1185509299
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 102890,
+	"_sName": "de_kulisse",
+	"_sText": "Story:\r\n\r\nDe_kulisse- Pronounced \"kyu-lissy,\" is based on a small town I made up that is in the middle-east. The terrorists have found out that the temple in the town holds a fortune of gold and other treasures. So they have decided to plan an infiltration on the town's alley ways to a weak point in the temple's walls that they can blow open to gain access to. This is bombsite B.\r\n\r\nBombsite A is a nearby telephone pole with transformers on it which are crucial because if they are knocked out, the entire town's communications and security will be cut. If the terrorists bomb this site, they can easily slip into the temple without being seen, thus stirring up more security measures.\r\n\r\nThe reason why the Counter-Terrorists group has been sent in is because Kulisse is an outlying source for information for the US. They are a crucial resource as well. So the safety of this source is of best.\r\n\r\n\r\nOverview:\r\n\r\nAnyway; just a variation of dust by me.\r\n\r\n\r\nIt's pretty small, but I managed to squeeze in 2 bombsites without ruining the gameplay. Has a great nav file. Bots walk around the place very well, never see them get stuck. They camp in key areas a lot, which is good because that means the navigation is smart. Very tough map when I had them on hard. :D\r\n\r\nAnyway, the one thing I feel may be a problem is that the lack of time before you run into the other team. It's like an FY map almost. But I at least gave each team a mission.\r\n\r\n\r\n\r\nCredits:\r\n\r\nPalm tree model: Vulcan- VERC forums\r\n\r\nBanana palm tree: Cheroketeam\r\n\r\nMap: Me- Nubblecakes\r\n\r\n\r\nA final of this map is in the works. Te final's main features will be more interesting bombsites with destruction instead of that ugly c4 explosion sprite Valve decided to never improve. :) And pretty much more detail over-all. MAYBE an addition route to Site A which is an L shaped back-alley that starts from T spawn. \r\n\r\n\r\nEnjoy"
+}

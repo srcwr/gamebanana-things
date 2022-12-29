@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ze_winter_warehouse_v2r_o.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 465385,
+			"_nDownloadCount": 275,
+			"_nFilesize": 1123702,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/465385",
+			"_sFile": "ze_winter_warehouse_v2r_o.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1590649775
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 131104,
+	"_sName": "ze_winter_warehouse",
+	"_sText": "Original thread of first version of this map:<br><a href=\"https://plaguefest.com/threads/zm_winter_escape_qr_v1.20907/\">http://plaguefest.com/threads/zm_winter_escape_qr_v1.20907/</a><br><br><h1>Map Description</h1><ul><li><b>ze_winter_helicopter</b>&nbsp;is a warehouse-themed map.</li><li>Old version was not that good, so this is a remake.</li><li>This map is inspired by ATIX panic.</li><li>This map combines both ZM aspects (barricading), and ZE aspects (escaping).<br></li><li>It has 64 player spawns, some spots to barricade, or to hold.<br></li></ul><hr><h1><b>Building Structure</b></h1><ul><li>There are <b>8 </b>rooms (barricading or defending spot) that humans can choose.</li><li>Each room has an escape door that opens after a certain amount of time, like ATIX Panic, and it serves as a path to the roof.</li><li>There are <b>2 </b>levels of roof, the <u>taller&nbsp;roof</u> and <u>lower&nbsp;roof</u>. The <u>taller roof</u>&nbsp;is the part of the roof that has the staircase to the helicopter. The <u>lower roof</u>&nbsp;is the part of the roof has a ladder that can be accessed by humans in the beginning of the round. So, it can act as a defending spot too.</li></ul><hr><h1><b>Gameplay Flow</b></h1><b>Humans</b><br><ul><li>Humans start by picking rooms to defend/barricade for a certain amount of time.</li><li>After that certain amount of time, the escape door opens. Humans have 30 seconds to escape to the <u>taller roof</u>.</li><li>Humans must defend the <u>taller roof</u>&nbsp;from two different entry points: the staircase they used, and the <u>lower roof</u>, for a specified amount of time.</li><li>Humans must be careful to not get too close with zombies' special teleport spot. (It is slightly visible in the screenshot, but everyone can clearly see it in-game)</li><li class=\"SelectedElement\">After that specified amount of time, the humans can enter the helicopter and prepare last 20 seconds defense before the helicopter departs.</li><li>Helicopter departs, human wins.</li></ul><br><b>Zombies</b><br><ul><li>Attack humans in the barricading/defending spot.</li><li>After the escape door opens, zombies can try to enter the building through another entrance (behind the helicopter pillar).</li><li>Zombies now must attack humans in the <u>taller roof</u>. They can rush to the entry point, or just use the secret teleport hidden somewhere in the map.</li></ul><hr><h1><b>Changelog (v1 to v2)</b></h1><ul><li>The entire map layout is completely different. Rather than lila panic-like buildings, I made a whole new building structure.</li><li>Barricading &amp; defending spots are completely different.</li><li>There are no more teleports in the helicopter, but there are secret teleporters to the roof for zombies.</li><li>Helicopter has been changed, I decided to use the prefab made by AuroraF:&nbsp;<a href=\"https://gamebanana.com/prefabs/2742\">https://gamebanana.com/prefabs/2742</a></li></ul><br>If there are bugs in the map, please notify me and i'll try to fix it.<br>"
+}

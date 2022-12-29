@@ -1,0 +1,40 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"maps": [
+						"gg_aztec_arena_final.bsp",
+						"gg_aztec_arena_final.nav"
+					],
+					"materials": [
+						"ivy01.vmt",
+						"ivy01.vtf",
+						"ivy01_NORM.vtf"
+					],
+					"scripts": [
+						"soundscapes_gg_aztec_arena_final.txt",
+						"soundscapes_manifest.txt"
+					]
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 328678,
+			"_nDownloadCount": 2116,
+			"_nFilesize": 12450093,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/328678",
+			"_sFile": "gg_aztec_arena_4.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1253169384
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 133754,
+	"_sName": "gg_aztec_arena_final",
+	"_sText": "The final version/release of this map I'm going to do. Every single visual flaw and error I could find has been fixed. I've added soundscapes, a 3D skybox, and a few other details.\r\n\r\nJust copy the map .bsp and its .nav into the 'cstrike/maps' folder and you should be up and running. If you have a missing texture, copy the included texture files into the 'cstrike/materials' folder. If there is no ambient sound, your going to need to put the scripts in the 'cstrike/scripts' folder. Create this if you don't already have one in the 'cstrike' folder."
+}

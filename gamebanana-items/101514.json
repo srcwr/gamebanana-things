@@ -1,0 +1,27 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_city_round_V3.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 351570,
+			"_nDownloadCount": 1213,
+			"_nFilesize": 1526517,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/351570",
+			"_sFile": "de_city_round_v3.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1178997300
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 101514,
+	"_sName": "de_city_round",
+	"_sText": "If hdr looks weird bright and green then type these in to console in this order:\r\n\r\nSv_cheats 1\r\nmat_hdr_enabled 1(or enable cant remember)\r\nbuildcubemaps\r\nmat_hdr_enabled 0(or enable cant remember)\r\nbuildcubemaps\r\n\r\nThen reload map and everything should be fine.\r\n\r\nTexturing is bit poor I know it This is not my newst map.\r\n\r\nI am not really updating this map anymore. But if there comes many requests then I may but I dont think so.\r\n\r\n(Version 3)"
+}

@@ -1,0 +1,31 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"maps": [
+						"de_cave.bsp",
+						"de_cave.lst",
+						"de_cave.nav"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 326651,
+			"_nDownloadCount": 1940,
+			"_nFilesize": 19839858,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/326651",
+			"_sFile": "cave.7z",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1260506279
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 101407,
+	"_sName": "de_cave",
+	"_sText": "I had to re-pak the files for some reason it wouldnt download from a server so it works now... sigh SORRY\r\n\r\n\r\nHighly modified version of a golden eye cave map.. I converted the middle of the foundation from GE to a source map and built around it creating a balanced playable bomb map. I took my time and tried to be creative with the lighting and placement of the models.. At the same time having the clash points some what work out between the teams... Also kept optimization in mind for good frame rates... Inspired by de_volare and de_laguna."
+}

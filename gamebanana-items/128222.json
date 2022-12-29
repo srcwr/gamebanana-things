@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"mg_knife_jon.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 319695,
+			"_nDownloadCount": 1144,
+			"_nFilesize": 169127,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/319695",
+			"_sFile": "mg_knife_jon.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1282855464
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 128222,
+	"_sName": "mg_knife_jon",
+	"_sText": "Just a little map idea i had :) Its a small indoor knife arena, both CT's and T's have 2 doors, the first door opens within 10 seconds and the second (to let u into the arena) opens within 13 seconds.\r\n\r\nOn the outside of both of the second doors there is a trigger_push, they are team filtered so that the other team cant come and spawnkill and camp in the little waiting bit.\r\n\r\nI tried to get the doors to open and close so only 1 person could go in at a time, i think i got pretty close to that, if the doors open to slow or to late please let me know.\r\n\r\nWhen there is 2 people inside the arena, the longer they stay in, the more players will be able to come in and help there team mates :) \r\n\r\nThere is 48 spawn points, 24 on each side :)\r\n\r\nIf you have any problems please let me know."
+}

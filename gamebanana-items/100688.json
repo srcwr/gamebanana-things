@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"s_cs_velvet_elvis.bsp",
+					"s_cs_velvet_elvis_read_me.txt"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 360661,
+			"_nDownloadCount": 9126,
+			"_nFilesize": 7777298,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/360661",
+			"_sFile": "s_cs_velvet_elvis_2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1124985698
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 100688,
+	"_sName": "s_cs_velvet_elvis",
+	"_sText": "\"An after hours robbery at the Velvet Elvis has gone wrong. Now the staff have been taken hostage.\"\r\n\r\nFeatures:\r\n\r\n- night-time urban\r\n- highrise office tower sniper room\r\n- custom models of a police hummer H2 and a SAS bedford lorry\r\n- shoot up a starbucks!!!\r\n- tactical helicopter available to provide search light\r\n- animated neon signs\r\n- tons of glass\r\n- train tracks\r\n- sewers\r\n- enter almost all the buildings\r\n\r\nThis is a re-do of the only level I made for Counter Strike - cs_velvet_elvis. This is the only level I've made for Source and plan on never doing it again. It takes way to much time.\r\n\r\nFirst of all I would like to thank the creators of the Hammer editor - that's a really well made bit of software - well done. Secondly I would like to publicly curse the creators of Softimage XSI and ask the people who decided to make that the HL2 model editor WHY??? In the same tone one would ask George Lucas what he was thinking when he \"sexed up\" Star Wars. I also can't say I was very impressed with the amount of difficulty involved in creating and including custom textures.\r\n\r\nTo create this level I used Hammer, XSI free edition and GIMP - the coolest picture editor out there. For sound editing I used CoolEdit Pro 2 and Magix Movie Edit Pro 2004 (very easy to combine and synchronize a whole world of sounds into one wav). To package the whole thing in one bmp I used PakRat - which was easily the best tool of its kind\r\n\r\nThere are 16 start positions per side, for a total of 32 - but I've never tried running that many people. It works great with 5 per side running on a 1.92GHz AMD machine with 1GB of RAM with 9 of the 10 being Bots. Bots work (which they have to as it is a hostage map), and I suggest anyone making a hostage level create their own nav map from scratch. I tried the auto-generate, but had far more success with making my own - both for hostage movement and bot performance. CT bots will have trouble rescuing the basement and first floor hostages, but I've seen them rescue all three. Must have been a good day.\r\n\r\nNote that Hostage performance was improved by making the area they start in nav_no_hostage - otherwise they would get stuck where they started.\r\n\r\nThe following web sites were essential to creating this level:\r\nGeneral level, texture, modeling and NAV edit info\r\nhttp://www.hl2world.com/wiki/index.php/Main_Page#Source_Tutorials\r\n\r\nModel tutorial\r\nhttp://www.gamedesign.net/node/1002\r\n\r\nNav editing tutorial\r\nhttp://halflife2.filefront.com/info/CSCZ_navtutorial\r\n\r\nPakRat\r\nhttp://www.geocities.com/cofrdrbob/pakrat.html\r\n\r\nThis is the Ceili's web site\r\nhttp://www.ceilis.com/about/calgary_tour.html\r\n\r\nHere's a view of the real bar (in the level it would be from sidewalk corner out front of the starbucks)\r\nhttp://www.viewcalgary.com/downtown/4way.jspId=1,-8,-5\r\n\r\nThis is where I got the pictures of the police hummer\r\nhttp://members.fortunecity.com/pcarsite/calgary.html\r\n\r\nI forget where I got the Bedford lorry picture - but it is one of a lorry used by the SAS.\r\n\r\nAnd last but not least, the legal history of the (former) Velvet Elvis Bar\r\nhttp://www.swlearning.com/blaw/cases/stepping_on.html\r\n\r\nHave fun with the level and if you like it - please don't shoot me if you see me online - I suck at CS and need all the help I can get. I use the name Fat Dog or Pet Monkey when playing.\r\n\r\nCiao.\r\n\r\np.s. Feel free to use anything from the level if you can get it out of the bsp\r\np.p.s. There realy is a pig sculpture out there in the Calgary downtown walkway system - its big and black and white and happy as can be.\r\n\r\nemail: badmonkey@telus.net"
+}

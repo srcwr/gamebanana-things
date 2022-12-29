@@ -1,0 +1,95 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"DE_Quadroshock": [
+						"Readme.rtf",
+						"de_quadroshock_HDR_v2017.zip",
+						"de_quadroshock_old-v34_HDR.zip"
+					]
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 364508,
+			"_nDownloadCount": 749,
+			"_nFilesize": 68033297,
+			"_sAnalysisResult": "Archive contains nested archive",
+			"_sAnalysisState": "done",
+			"_sDescription": "CSS map",
+			"_sDownloadUrl": "https://gamebanana.com/dl/364508",
+			"_sFile": "de_quadroshock_972fe.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1511664879
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "New special sound of electrical discharge"
+				},
+				{
+					"cat": "Addition",
+					"text": "A pedestal to electric generators"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added some 3D models & created some brush objects in special places"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Re-adjusting all sounds of electrical discharges"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Corrected the positions of a lot of objects"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Transforming the ladder (near the pool) into a physical object"
+				}
+			],
+			"_sText": "- Made a new special sound of electrical discharge.<br>- Add a pedestal to electric generators.<br>- Re-adjusting all sounds of electrical discharges.<br>- Now the ladder near the pool will fall down during the explosion, as in the block with electric generators.<br>- Added some 3D models &amp; created some brush objects in special places.<br>- Added “nodraw” &amp; \"block light\" textures, where it was necessary.<br>- Corrected the positions of a lot of objects.<br>- Other bugs fixed.",
+			"_sTitle": "Update-2.5",
+			"_tsDateAdded": 1511665372
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Road system for virtual city of the holographic panorama"
+				},
+				{
+					"cat": "Addition",
+					"text": "New row of flickering lighs in block with supercomputer"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Correcting the image on monitors on the walls"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added some missing decals"
+				},
+				{
+					"cat": "Optimization",
+					"text": "Added “nodraw” textures & “clip” brushes where it was necessary"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Corrected the positions of some objects"
+				}
+			],
+			"_sText": "- Added a system of roads for the virtual city of the holographic panorama.<br>- New row of flickering colored lighs in the block with the broken supercomputer.<br>- Monitor`s bug fixed – correcting the image on monitors on the walls, as seen by the virtual camera.<br>- Added some missing decals.<br>- Added “nodraw” textures, where it was necessary and also “clip” brushes.<br>- Corrected the positions of some objects.<br>- Other little bugs fixed.",
+			"_sTitle": "Update-2.0",
+			"_tsDateAdded": 1511136817
+		}
+	],
+	"_idRow": 103616,
+	"_sName": "De_Quadroshock",
+	"_sText": "Hi! I present to you my new map \"De_Quadroshock\" for \"Counter-Strike: Source\" (-bomb/defuse mission).<br>I worked much on this map and hope for you will be exciting to play. -)<br>I am game developer, but in such way I accumulate experience in level-design and keep fit.<br>The map is made from scratch and have original concept and design.<br>Also here are totally destroyable columns. And walls with physicalized destroyable bricks, which can be thrown down.<br>Plus only for this map I made something like a holographic panorama of an invented secret city (-Hi for City-17, from HL2 ! :) ).<br><br><i><b>Background story</b></i>:<br>An attempt to attack was committed on the underground bunker of a secret military-scientific complex. The government is deeply shocked by this unexpected attack on such a secret complex. Nobody knows how the terrorists came in there. But the first attack was stopped!<br>Now the second wave of attack is expected, much hotter.<br>It is supposed that the purpose of the terrorists is to destroy with bombs two points in the bunker :<br>1. The structural column at point A – above it is located the biological weapons lab.<br>2. The power generators at point B. Also above is the floor with the chemical weapons lab.<br>The bunker itself is made up of 4 main parts with an additional central block where a supercomputer is located.<br>Attention! The supercomputer in the central block was already damaged in the first attack. Avoid electrical discharges from supercomputer.<br>You can also use the ventilation system for suddenly attack.<br>And use hot traps – explosive barrels with dangerous objects around them – fry the ass of your virtual opponents!<br>Powerful weapons and crafty tactics will make you cool and dangerous.<br>Have a good hunting! :)<br><br>Press on \"Manual Download\" and just download the archive. :)<br><br>Here is a video of action review:<br><iframe src=\"https://www.youtube.com/embed/INczbF_7-p8\" allowfullscreen=\"\" width=\"560\" height=\"315\" frameborder=\"0\"></iframe>"
+}

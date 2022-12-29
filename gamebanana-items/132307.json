@@ -1,0 +1,117 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"readme.txt",
+					"zm_london_v1_0.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 293869,
+			"_nDownloadCount": 5100,
+			"_nFilesize": 12206332,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/293869",
+			"_sFile": "zm_london_v1_0.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1372187142
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Added soundscapes"
+				},
+				{
+					"cat": "-",
+					"text": "Added colour correction"
+				},
+				{
+					"cat": "-",
+					"text": "Adjusted fog colour"
+				},
+				{
+					"cat": "-",
+					"text": "Changed some lighting"
+				},
+				{
+					"cat": "-",
+					"text": "Added new store interior"
+				},
+				{
+					"cat": "-",
+					"text": "Added path to secret sewer area"
+				},
+				{
+					"cat": "-",
+					"text": "Coffee shop windows are now breakable"
+				},
+				{
+					"cat": "-",
+					"text": "Changed/added/removed props throughout the map"
+				},
+				{
+					"cat": "-",
+					"text": "Added underground garage/loading bay"
+				},
+				{
+					"cat": "-",
+					"text": "Moved kryptonite to a more obvious location"
+				},
+				{
+					"cat": "-",
+					"text": "Added security booth next to coded gate for easier entry"
+				},
+				{
+					"cat": "-",
+					"text": "Added ladder from sewer to underground complex"
+				},
+				{
+					"cat": "-",
+					"text": "Moved balcony teleporters"
+				},
+				{
+					"cat": "-",
+					"text": "Made most doors toggle instead of slam shut"
+				},
+				{
+					"cat": "-",
+					"text": "Added another underground teleporter to the streets"
+				},
+				{
+					"cat": "-",
+					"text": "Added small side room to lab"
+				},
+				{
+					"cat": "-",
+					"text": "Kryptonite zombie now gets 10000 health"
+				},
+				{
+					"cat": "-",
+					"text": "Lab doors now open/close faster"
+				},
+				{
+					"cat": "-",
+					"text": "Sewer manhole is now easier to enter"
+				},
+				{
+					"cat": "-",
+					"text": "Fixed spot on roof where it was possible to get stuck as Superman"
+				}
+			],
+			"_sText": "This is the full release of zm_london",
+			"_sTitle": "v1_0",
+			"_tsDateAdded": 1373587663
+		}
+	],
+	"_idRow": 132307,
+	"_sName": "zm_london_v1_0",
+	"_sText": "zm\\_london by Soft Serve (a.k.a. Satin Storm)\r\n\r\nFeatures:\r\n\r\n- Above ground: city streets, market, pub, night club, and several small interiors.\r\n- Below ground: laboratory, sewers, train depot, and many tunnels leading to various places.\r\n- Three special items: kryptonite (T), gas mask (CT), and Superman (CT)!\r\n- Many hiding spots suitable for both limited and unlimited ammo servers.\r\n- Several secret teleporters, buttons, coded rooms, and other hidden areas.\r\n\r\n---\r\n\r\nSpecial item info:\r\n\r\n- Gas mask (Human, Deagle): Allows user to survive the airlock cycle in the ventilation shafts. Passive.\r\n- Superman (Human, P90): Enables user to fly and run quickly. Passive.\r\n- Kryptonite (Zombie, Knife): Slows down and removes Superman's ability to fly for 30 seconds. Infinite uses. 60 second cooldown.\r\n\r\n---\r\n\r\nVersion history:\r\n\r\nv1_0 (FULL RELEASE)\r\n\r\n- Added soundscapes\r\n- Added colour correction\r\n- Adjusted fog colour\r\n- Changed some lighting\r\n- Added new store interior\r\n- Added path to secret sewer area\r\n- Coffee shop windows are now breakable\r\n- Changed/added/removed props throughout the map\r\n- Added underground garage/loading bay\r\n- Moved kryptonite to a more obvious location\r\n- Added security booth next to coded gate for easier entry\r\n- Added ladder from sewer to underground complex\r\n- Moved balcony teleporters\r\n- Made most doors toggle instead of slam shut\r\n- Added another underground teleporter to the streets\r\n- Added small side room to lab\r\n- Kryptonite zombie now gets 10000 health\r\n- Lab doors now open/close faster\r\n- Sewer manhole is now easier to enter\r\n- Fixed spot on roof where it was possible to get stuck as Superman\r\n\r\nv0_3 (not released on GB)\r\n\r\n- Buffed kryptonite\r\n- Various small fixes and balance tweaks\r\n\r\nv0_2\r\n\r\n- First public release.\r\n\r\nv0_1\r\n\r\n- Private beta."
+}

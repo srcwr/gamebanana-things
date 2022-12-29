@@ -1,0 +1,49 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"gg_64bottles_v2.bsp"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 487211,
+			"_nDownloadCount": 194,
+			"_nFilesize": 3445886,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/487211",
+			"_sFile": "gg_64bottles_v2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1600665041
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Feature",
+					"text": "Radar"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Improved visuals & sound effects"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Minor layout adjustments"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Version 2.0",
+			"_tsDateAdded": 1600662954
+		}
+	],
+	"_idRow": 133201,
+	"_sName": "64 Bottles V2 (gg_64bottles_v2)",
+	"_sText": "Extremely compact symmetrical layout coupled with a rather large, asymmetrical visual setting of a building site rooftop. Despite its looks, the map is best suited for small servers. Even though there're 24 spawn points in total, I wouldn't recommend playing this map with more than 16 players on the server.<br><br>There're also bottles everywhere, precisely 64 of them, because I had trouble coming up with a name.<br><br>Features:<ul class=\"SelectedElement\"><li>3-story map with endless possibilities to get behind your enemy. In fact, you're guaranteed to accidentally get behind each other regularly. A field day for knife maniacs.</li><li>Packed playable area and the ability to quickly get to any spot on the map provide for very fast-paced rounds. You don't need DM for this map.</li><li>Technical pros: The map is very light on resources and is optimized. 3D skybox, radar, soundscapes, cubemaps (both HDR and SDR) and a customized *.nav-file with manually assigned area names - all in one, single 7,5MiB (unpacked size) BSP. Drop it into the /maps and play.</li><li>Bonus point: Extra effort was taken to ensure that successive spawn points are not near each other. You won't have a whole team spawning in one corner of the map with the rest of the base being completely empty. The map will try to distribute players across the whole base every round. Also it's 2020 so you're expected to keep your distance anyways.<br></li></ul><br>gg_64bottles"
+}

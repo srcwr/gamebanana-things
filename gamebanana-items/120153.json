@@ -1,0 +1,58 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"AimBotz.dxf",
+					"AimBotz.prt",
+					"AimBotz.vmf",
+					"AimBotz.vmx",
+					"aimbotz.bsp",
+					"aimbotz.log",
+					"aimbotz.nav"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 397848,
+			"_nDownloadCount": 452,
+			"_nFilesize": 305637,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/397848",
+			"_sFile": "aimbotzcss_1d039.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1538246672
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Better Light"
+				},
+				{
+					"cat": "Removal",
+					"text": "Celling light"
+				},
+				{
+					"cat": "Removal",
+					"text": "Block on center of map"
+				},
+				{
+					"cat": "Addition",
+					"text": "Hole"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Version 0.2, New Map",
+			"_tsDateAdded": 1538240810
+		}
+	],
+	"_idRow": 120153,
+	"_sName": "Type of AimBotz",
+	"_sText": "&nbsp;This map is a adapitation of Csgo AimBotz, press E to pick weapons on bottons.&nbsp;<br>Useful commands:&nbsp;<br>- sv_cheats 1<br>- sv_showimpacts 1 ( show the impact of bullets )<br>- mp_limitteam 99<br>- mp_autoteambalance 0<br>- bot_dont_move 1 or bot_stop 1<br>- noclip&nbsp;"
+}

@@ -1,0 +1,101 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "cs_halflife_facility.png",
+					"1": "cs_halflife_facility2.png",
+					"2": "readme.txt",
+					"3": "testy_machine.png",
+					"cs_halflife_facility": {
+						"maps": [
+							"cs_halflife_facility.bsp",
+							"cs_halflife_facility.nav",
+							"cs_halflife_facility2.bsp",
+							"cs_halflife_facility2.nav"
+						],
+						"materials": {
+							"cs_halflife_facility": {
+								"sign": [
+									"blank.vmt",
+									"blank.vtf",
+									"cafeteria.vmt",
+									"cafeteria.vtf",
+									"electrical_room.vmt",
+									"electrical_room.vtf",
+									"help_desk.vmt",
+									"help_desk.vtf",
+									"labroom_1.vmt",
+									"labroom_1.vtf",
+									"labroom_2.vmt",
+									"labroom_2.vtf",
+									"labroom_3.vmt",
+									"labroom_3.vtf",
+									"labroom_4.vmt",
+									"labroom_4.vtf",
+									"labroom_5.vmt",
+									"labroom_5.vtf",
+									"labroom_6.vmt",
+									"labroom_6.vtf",
+									"labroom_7.vmt",
+									"labroom_7.vtf",
+									"labroom_8.vmt",
+									"labroom_8.vtf",
+									"locker_room.vmt",
+									"locker_room.vtf",
+									"mainten_stairs.vmt",
+									"mainten_stairs.vtf",
+									"maintenance.vmt",
+									"maintenance.vtf",
+									"maintenance_room.vmt",
+									"maintenance_room.vtf",
+									"pool_area.vmt",
+									"pool_area.vtf",
+									"sector_44.vmt",
+									"sector_44.vtf",
+									"sector_45.vmt",
+									"sector_45.vtf",
+									"storage.vmt",
+									"storage.vtf",
+									"terrorist_spray_1.vmt",
+									"terrorist_spray_1.vtf",
+									"terrorist_spray_2.vmt",
+									"terrorist_spray_2.vtf",
+									"terrorist_spray_3.vmt",
+									"terrorist_spray_3.vtf"
+								]
+							}
+						},
+						"sound": {
+							"cs_halflife_facility": [
+								"access_denied.wav",
+								"containment_door.wav",
+								"dispatch_beginning_alert.wav",
+								"facility_danger_warning.wav",
+								"massive_explosions_close.wav",
+								"massive_explostions.wav"
+							]
+						}
+					}
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 404551,
+			"_nDownloadCount": 667,
+			"_nFilesize": 8927243,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/404551",
+			"_sFile": "cs_hl_fc.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1545018635
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 99953,
+	"_sName": "cs_halflife_facility",
+	"_sText": "<b>Maps Included:</b> cs_halflife_facility, cs_halflife_facility2.<br><br>These maps are <u><i>Half-Life: 1 styled solely indoor worlds</i></u> built being able to <u><i>support both human, and CPU players</i></u> alike. Each map takes place in an unnamed government science facility somewhere in the desert. Affiliation with Black Mesa is neither confirmed nor denied but is easily assumed to be either working with or part of the facility. The only evidence against this theory would be the difference in sector names, equipment, and building patterns examples being Black Mesa using wall stripes to point to a part of the facility while this facility uses wall signs to tell people their exact location in the compound.<br><br><b>Map Type:</b> Hostage Rescue. Including 6 hostages to rescue.<br><br><b>Bugs:</b> On rare occasions, <u><i>bots will finds themselves stuck behind simple things</i></u> like a purposely made floor traps, <i><u>carved brush props</u></i>, or unclear navigation that confuse bots. Due to extensive play testing and observations of the bots navigating through all pathways, I think it's safe to say that these <i><u>events are hard to come by</u></i>.<br><br><b>Miscellaneous Information:</b> Both maps are only able to support <i><u>40 players total</u></i>. If you play the either map with the amount of bots over 39 (Playing Alone), players will begin to spawn inside of other players. Custom sounds and textures are included.<br><br><b>Special Features:</b> On the cs_halflife_facility map, there will be a warning that will sound at the beginning of every match; <i>\"<b>Static</b> This is dispatch, be careful with that central power module in the maintenance room. If anything happens to it the whole facility could go BOOM!&nbsp;<b>Static</b>\"</i> A testy machine somewhere in the maintenance room that once destroyed will activate a self destruct style sequence. First the lights will go out, all ambient noise will stop, and an emergency notice will blair on the overhead. Shortly after, the entire map will begin rumbling before the sounds of explosions roar. Lastly, everyone on the map will die."
+}

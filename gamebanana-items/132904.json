@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"zm_temple_v2.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 349083,
+			"_nDownloadCount": 2804,
+			"_nFilesize": 1909498,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/349083",
+			"_sFile": "zm_temple_v2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1188226924
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 132904,
+	"_sName": "zm_temple_v2",
+	"_sText": "You know zm_temple_v1\r\nNice map good ambience but was made horrible\r\nit's totally leaked and fucked up with stuff\r\ni took a heart and optimized the map so far i could without touching the original geometry\r\nthe only thing i made out of it is transforming it into func_detail or it would kill VVIS xD\r\n\r\nChangelog:\r\nTheres more than 30 spawnpoints for each team, so map is ok for 64slot players\r\nFog got added to create even more ambience\r\nsome details in geometry got changed and added\r\nSome new spots got added around the map\r\nThe hole where you can fall off now has trigger_hurt which kills instantly!\r\nplayerclip got added to prevent ppl from getting outside the map\r\nA new room has been created with a waterpool which has raising/lowering water to reach the upper area\r\nThe whole water stuff got changed in the map, looks better now!\r\nAll the stupid weapons that were scattered around the map are removed. Nobody needs them because they only have 1 clip!\r\nThose big bricks in the hall with that roof are now much more lighter to move them easier around!\r\nIn the room with that blue laser stuff there's a secret button which spawns new stuff for building your barricade (up to 7 new pieces)\r\nSkybox got changed because the old mapauthor was too lazy to embed the skybox texture into the BSP (zombie_sky -> hav)\r\n\r\n\r\nand other stuff i cant remember now\r\nenjoy and have fun! "
+}

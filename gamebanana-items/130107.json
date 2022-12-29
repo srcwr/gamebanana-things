@@ -1,0 +1,30 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"BotPwnage.smx",
+					"rapebot_awpmania.bsp",
+					"zr_ammo.smx"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 315447,
+			"_nDownloadCount": 3087,
+			"_nFilesize": 15668,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/315447",
+			"_sFile": "803__587-.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1295181096
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 130107,
+	"_sName": "rapebot_awpmania (+ Scripts)",
+	"_sText": "This is an old achievement map I made long ago. It is very simple and I can say its the fastest map to get kills on. You join CT team and kill the bots who all spawn on the same spawn origin.\n\nhttp://www.youtube.com/watch?v=WhnhkY8Fc3g\n\nAs you can see in the video I have a script which automatically respawns all the bots when they die, and sets their HP to 1 immediately, so you can kill them very fast, and also de-equips them everytime they respawn. The script also sets the bot_quota to 15 and sets mp_limitteams to 32, so you do not have to bother with the settings.\n\nYou need to host the server from Source Multiplayer Dedicated Server (install it from your Community Home -&gt; Library -&gt; Tools). Run it for the first time, then shut it down. Now go to your SteamApps\\YOURACCOUNTNAME\\source 2007 dedicated server\\cstrike. This is your server files. Put the map in your maps folder.\n\nNow install Sourcemod by following instructions here http://wiki.alliedmods.net/Installing_SourceMod\nPut the plugins after you installed Sourcemod into SteamApps\\YOURACCOUNTNAME\\source 2007 dedicated server\\cstrike\\addons\\sourcemod\\plugins\nStart your dedicated server and change the map to this map and have fun!\nNOTE: There is limitation with this plugin. When you reach about 700 kills or about that, the server will crash. Just restart and rejoin it.\n\nIf you want a Weapon plugin so you can get Terrorist weapons, install this http://forums.alliedmods.net/showthread.php?p=1372828\n\nNote: The unlimited ammo was not by me. Its made by rhelgeby and fixed by Kyle12 and Darkthrone.\n\nIf you like this map and plugin, thank me by joining FireWaLL Zombie: Reloaded at 206.212.243.130:27015 (populated 24/7) :)"
+}

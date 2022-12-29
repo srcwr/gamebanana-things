@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"surf_blackheart.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 481265,
+			"_nDownloadCount": 129,
+			"_nFilesize": 20232855,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/481265",
+			"_sFile": "surf_blackheart.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1597865334
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 137727,
+	"_sName": "surf_blackheart",
+	"_sText": "Tier 7<br>Linear<br>3 Bonuses<br><br>Thanks to Spree, I began to experiment with making spinny styled stuff. When they made surf_strike b1, I got very interested in experimenting with super fast-paced type spins. This, along with me running surf_tronic, Spy Complex also making interesting spins, is how surf_blackheart was made.<br><br>The theme is almost entirely based off of the title, which is just a song by Carly Rae Jepsen. some other detailing aspects come from stuff like the flood from Halo and some other apocalyptic games/media.<br><br>note: the tier was decided by the testers, about 60-75% of the testers said it was tier 7 or tier 8, the rest said tier 6.<br>note2: displacement surf is allowed<br><br>server/zone configuration:<br><br>The map, b1 and b3 should have a dropzone start (meaning the zone hovers above the area you fall through, so you drop through it). b2 should be a regular zone being only above the start platform.<br><br>The trigger_multiple zones of the map are named:<br>mapstartzone<br>mapendzone<br>b1startzone<br>b1endzone<br>etc..."
+}

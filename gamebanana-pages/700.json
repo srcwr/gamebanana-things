@@ -1,0 +1,2176 @@
+[
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"0": "Map installation.txt",
+						"Downloadlists": [
+							"de_rats_rkh_v5.lst"
+						],
+						"maps": [
+							"de_rats_rkh_v5.bsp"
+						],
+						"materials": {
+							"VGUI": {
+								"logos": {
+									"0": "Brugt (1).vmt",
+									"1": "Brugt (1).vtf",
+									"10": "Gallery - de_rats_rkh_v1 (13).vmt",
+									"100": "Gallery - de_rats_rkh_v1 (56).vmt",
+									"101": "Gallery - de_rats_rkh_v1 (56).vtf",
+									"102": "Gallery - de_rats_rkh_v1 (57).vmt",
+									"103": "Gallery - de_rats_rkh_v1 (57).vtf",
+									"104": "Gallery - de_rats_rkh_v1 (58).vmt",
+									"105": "Gallery - de_rats_rkh_v1 (58).vtf",
+									"106": "Gallery - de_rats_rkh_v1 (59).vmt",
+									"107": "Gallery - de_rats_rkh_v1 (59).vtf",
+									"108": "Gallery - de_rats_rkh_v1 (6).vmt",
+									"109": "Gallery - de_rats_rkh_v1 (6).vtf",
+									"11": "Gallery - de_rats_rkh_v1 (13).vtf",
+									"110": "Gallery - de_rats_rkh_v1 (60).vmt",
+									"111": "Gallery - de_rats_rkh_v1 (60).vtf",
+									"112": "Gallery - de_rats_rkh_v1 (61).vmt",
+									"113": "Gallery - de_rats_rkh_v1 (61).vtf",
+									"114": "Gallery - de_rats_rkh_v1 (62).vmt",
+									"115": "Gallery - de_rats_rkh_v1 (62).vtf",
+									"116": "Gallery - de_rats_rkh_v1 (63).vmt",
+									"117": "Gallery - de_rats_rkh_v1 (63).vtf",
+									"118": "Gallery - de_rats_rkh_v1 (64).vmt",
+									"119": "Gallery - de_rats_rkh_v1 (64).vtf",
+									"12": "Gallery - de_rats_rkh_v1 (14).vmt",
+									"120": "Gallery - de_rats_rkh_v1 (7).vmt",
+									"121": "Gallery - de_rats_rkh_v1 (7).vtf",
+									"122": "Gallery - de_rats_rkh_v1 (8).vmt",
+									"123": "Gallery - de_rats_rkh_v1 (8).vtf",
+									"124": "Gallery - de_rats_rkh_v1 (9).vmt",
+									"125": "Gallery - de_rats_rkh_v1 (9).vtf",
+									"126": "Gallery - de_rats_rkh_v1.vmt",
+									"127": "Gallery - de_rats_rkh_v1.vtf",
+									"128": "mugulugu.vmt",
+									"129": "mugulugu.vtf",
+									"13": "Gallery - de_rats_rkh_v1 (14).vtf",
+									"14": "Gallery - de_rats_rkh_v1 (15).vmt",
+									"15": "Gallery - de_rats_rkh_v1 (15).vtf",
+									"16": "Gallery - de_rats_rkh_v1 (16).vmt",
+									"17": "Gallery - de_rats_rkh_v1 (16).vtf",
+									"18": "Gallery - de_rats_rkh_v1 (17).vmt",
+									"19": "Gallery - de_rats_rkh_v1 (17).vtf",
+									"2": "De_myroom (20).vmt",
+									"20": "Gallery - de_rats_rkh_v1 (2).vmt",
+									"21": "Gallery - de_rats_rkh_v1 (2).vtf",
+									"22": "Gallery - de_rats_rkh_v1 (20).vmt",
+									"23": "Gallery - de_rats_rkh_v1 (20).vtf",
+									"24": "Gallery - de_rats_rkh_v1 (21).vmt",
+									"25": "Gallery - de_rats_rkh_v1 (21).vtf",
+									"26": "Gallery - de_rats_rkh_v1 (22).vmt",
+									"27": "Gallery - de_rats_rkh_v1 (22).vtf",
+									"28": "Gallery - de_rats_rkh_v1 (23).vmt",
+									"29": "Gallery - de_rats_rkh_v1 (23).vtf",
+									"3": "De_myroom (20).vtf",
+									"30": "Gallery - de_rats_rkh_v1 (24).vmt",
+									"31": "Gallery - de_rats_rkh_v1 (24).vtf",
+									"32": "Gallery - de_rats_rkh_v1 (25).vmt",
+									"33": "Gallery - de_rats_rkh_v1 (25).vtf",
+									"34": "Gallery - de_rats_rkh_v1 (26).vmt",
+									"35": "Gallery - de_rats_rkh_v1 (26).vtf",
+									"36": "Gallery - de_rats_rkh_v1 (27).vmt",
+									"37": "Gallery - de_rats_rkh_v1 (27).vtf",
+									"38": "Gallery - de_rats_rkh_v1 (28).vmt",
+									"39": "Gallery - de_rats_rkh_v1 (28).vtf",
+									"4": "De_myroom (22).vmt",
+									"40": "Gallery - de_rats_rkh_v1 (29).vmt",
+									"41": "Gallery - de_rats_rkh_v1 (29).vtf",
+									"42": "Gallery - de_rats_rkh_v1 (3).vmt",
+									"43": "Gallery - de_rats_rkh_v1 (3).vtf",
+									"44": "Gallery - de_rats_rkh_v1 (30).vmt",
+									"45": "Gallery - de_rats_rkh_v1 (30).vtf",
+									"46": "Gallery - de_rats_rkh_v1 (31).vmt",
+									"47": "Gallery - de_rats_rkh_v1 (31).vtf",
+									"48": "Gallery - de_rats_rkh_v1 (32).vmt",
+									"49": "Gallery - de_rats_rkh_v1 (32).vtf",
+									"5": "De_myroom (22).vtf",
+									"50": "Gallery - de_rats_rkh_v1 (33).vmt",
+									"51": "Gallery - de_rats_rkh_v1 (33).vtf",
+									"52": "Gallery - de_rats_rkh_v1 (34).vmt",
+									"53": "Gallery - de_rats_rkh_v1 (34).vtf",
+									"54": "Gallery - de_rats_rkh_v1 (35).vmt",
+									"55": "Gallery - de_rats_rkh_v1 (35).vtf",
+									"56": "Gallery - de_rats_rkh_v1 (36).vmt",
+									"57": "Gallery - de_rats_rkh_v1 (36).vtf",
+									"58": "Gallery - de_rats_rkh_v1 (37).vmt",
+									"59": "Gallery - de_rats_rkh_v1 (37).vtf",
+									"6": "Gallery - de_rats_rkh_v1 (1).vmt",
+									"60": "Gallery - de_rats_rkh_v1 (38).vmt",
+									"61": "Gallery - de_rats_rkh_v1 (38).vtf",
+									"62": "Gallery - de_rats_rkh_v1 (39).vmt",
+									"63": "Gallery - de_rats_rkh_v1 (39).vtf",
+									"64": "Gallery - de_rats_rkh_v1 (4).vmt",
+									"65": "Gallery - de_rats_rkh_v1 (4).vtf",
+									"66": "Gallery - de_rats_rkh_v1 (40).vmt",
+									"67": "Gallery - de_rats_rkh_v1 (40).vtf",
+									"68": "Gallery - de_rats_rkh_v1 (41).vmt",
+									"69": "Gallery - de_rats_rkh_v1 (41).vtf",
+									"7": "Gallery - de_rats_rkh_v1 (1).vtf",
+									"70": "Gallery - de_rats_rkh_v1 (42).vmt",
+									"71": "Gallery - de_rats_rkh_v1 (42).vtf",
+									"72": "Gallery - de_rats_rkh_v1 (43).vmt",
+									"73": "Gallery - de_rats_rkh_v1 (43).vtf",
+									"74": "Gallery - de_rats_rkh_v1 (44).vmt",
+									"75": "Gallery - de_rats_rkh_v1 (44).vtf",
+									"76": "Gallery - de_rats_rkh_v1 (45).vmt",
+									"77": "Gallery - de_rats_rkh_v1 (45).vtf",
+									"78": "Gallery - de_rats_rkh_v1 (46).vmt",
+									"79": "Gallery - de_rats_rkh_v1 (46).vtf",
+									"8": "Gallery - de_rats_rkh_v1 (12).vmt",
+									"80": "Gallery - de_rats_rkh_v1 (47).vmt",
+									"81": "Gallery - de_rats_rkh_v1 (47).vtf",
+									"82": "Gallery - de_rats_rkh_v1 (48).vmt",
+									"83": "Gallery - de_rats_rkh_v1 (48).vtf",
+									"84": "Gallery - de_rats_rkh_v1 (49).vmt",
+									"85": "Gallery - de_rats_rkh_v1 (49).vtf",
+									"86": "Gallery - de_rats_rkh_v1 (5).vmt",
+									"87": "Gallery - de_rats_rkh_v1 (5).vtf",
+									"88": "Gallery - de_rats_rkh_v1 (50).vmt",
+									"89": "Gallery - de_rats_rkh_v1 (50).vtf",
+									"9": "Gallery - de_rats_rkh_v1 (12).vtf",
+									"90": "Gallery - de_rats_rkh_v1 (51).vmt",
+									"91": "Gallery - de_rats_rkh_v1 (51).vtf",
+									"92": "Gallery - de_rats_rkh_v1 (52).vmt",
+									"93": "Gallery - de_rats_rkh_v1 (52).vtf",
+									"94": "Gallery - de_rats_rkh_v1 (53).vmt",
+									"95": "Gallery - de_rats_rkh_v1 (53).vtf",
+									"96": "Gallery - de_rats_rkh_v1 (54).vmt",
+									"97": "Gallery - de_rats_rkh_v1 (54).vtf",
+									"98": "Gallery - de_rats_rkh_v1 (55).vmt",
+									"99": "Gallery - de_rats_rkh_v1 (55).vtf",
+									"UI": [
+										"10.vmt",
+										"11.vmt",
+										"1122545677.vmt",
+										"16.vmt",
+										"17.vmt",
+										"3d_space_8[1].vmt",
+										"abstract_44[1].vmt",
+										"angelina_jolie_171.vmt",
+										"artistic gallery.vmt",
+										"ashley_olsen_1.vmt",
+										"atom...vmt",
+										"beach_and_sea_112.vmt",
+										"beach_and_sea_14.vmt",
+										"boat_20.vmt",
+										"boat_21.vmt",
+										"brugt (1).vmt",
+										"bugatti veyron.vmt",
+										"buzz-bee-funny-wallpapers.vmt",
+										"cafe.vmt",
+										"cartoons-looney-tunes022.vmt",
+										"css.vmt",
+										"de_myroom (1).vmt",
+										"de_myroom (10).vmt",
+										"de_myroom (11).vmt",
+										"de_myroom (12).vmt",
+										"de_myroom (13).vmt",
+										"de_myroom (14).vmt",
+										"de_myroom (15).vmt",
+										"de_myroom (16).vmt",
+										"de_myroom (17).vmt",
+										"de_myroom (18).vmt",
+										"de_myroom (19).vmt",
+										"de_myroom (2).vmt",
+										"de_myroom (20).vmt",
+										"de_myroom (22).vmt",
+										"de_myroom (23).vmt",
+										"de_myroom (24).vmt",
+										"de_myroom (25).vmt",
+										"de_myroom (26).vmt",
+										"de_myroom (27).vmt",
+										"de_myroom (28).vmt",
+										"de_myroom (3).vmt",
+										"de_myroom (4).vmt",
+										"de_myroom (5).vmt",
+										"de_myroom (6).vmt",
+										"de_myroom (7).vmt",
+										"de_myroom (8).vmt",
+										"de_myroom (9).vmt",
+										"de_myroom.vmt",
+										"de_myroom0005.vmt",
+										"de_myroom_text. (1).vmt",
+										"de_myroom_text. (10).vmt",
+										"de_myroom_text. (11).vmt",
+										"de_myroom_text. (12).vmt",
+										"de_myroom_text. (13).vmt",
+										"de_myroom_text. (14).vmt",
+										"de_myroom_text. (15).vmt",
+										"de_myroom_text. (16).vmt",
+										"de_myroom_text. (17).vmt",
+										"de_myroom_text. (2).vmt",
+										"de_myroom_text. (3).vmt",
+										"de_myroom_text. (4).vmt",
+										"de_myroom_text. (5).vmt",
+										"de_myroom_text. (6).vmt",
+										"de_myroom_text. (7).vmt",
+										"de_myroom_text. (8).vmt",
+										"de_myroom_text. (9).vmt",
+										"de_myroom_text..vmt",
+										"decoy_source_ct.vmt",
+										"decoy_source_t.tga",
+										"decoy_source_t.vmt",
+										"drunk (1).vmt",
+										"drunk (10).vmt",
+										"drunk (11).vmt",
+										"drunk (12).vmt",
+										"drunk (13).vmt",
+										"drunk (14).vmt",
+										"drunk (15).vmt",
+										"drunk (16).vmt",
+										"drunk (2).vmt",
+										"drunk (3).vmt",
+										"drunk (4).vmt",
+										"drunk (5).vmt",
+										"drunk (6).vmt",
+										"drunk (7).vmt",
+										"drunk (8).vmt",
+										"drunk (9).vmt",
+										"drunk.vmt",
+										"earth_9[1].vmt",
+										"elisha cuthbert2.vmt",
+										"elisha_cuthbert_19.vmt",
+										"evo8.vmt",
+										"f_15_eagle_10[1].vmt",
+										"fast.vmt",
+										"fiveseven4.vmt",
+										"fjolletobak.vmt",
+										"funny[1].vmt",
+										"gallery - de_rats_rkh_v1 (1).vmt",
+										"gallery - de_rats_rkh_v1 (12).vmt",
+										"gallery - de_rats_rkh_v1 (13).vmt",
+										"gallery - de_rats_rkh_v1 (14).vmt",
+										"gallery - de_rats_rkh_v1 (15).vmt",
+										"gallery - de_rats_rkh_v1 (16).vmt",
+										"gallery - de_rats_rkh_v1 (17).vmt",
+										"gallery - de_rats_rkh_v1 (2).vmt",
+										"gallery - de_rats_rkh_v1 (20).vmt",
+										"gallery - de_rats_rkh_v1 (21).vmt",
+										"gallery - de_rats_rkh_v1 (22).vmt",
+										"gallery - de_rats_rkh_v1 (23).vmt",
+										"gallery - de_rats_rkh_v1 (24).vmt",
+										"gallery - de_rats_rkh_v1 (25).vmt",
+										"gallery - de_rats_rkh_v1 (26).vmt",
+										"gallery - de_rats_rkh_v1 (27).vmt",
+										"gallery - de_rats_rkh_v1 (28).vmt",
+										"gallery - de_rats_rkh_v1 (29).vmt",
+										"gallery - de_rats_rkh_v1 (3).vmt",
+										"gallery - de_rats_rkh_v1 (30).vmt",
+										"gallery - de_rats_rkh_v1 (31).vmt",
+										"gallery - de_rats_rkh_v1 (32).vmt",
+										"gallery - de_rats_rkh_v1 (33).vmt",
+										"gallery - de_rats_rkh_v1 (34).vmt",
+										"gallery - de_rats_rkh_v1 (35).vmt",
+										"gallery - de_rats_rkh_v1 (36).vmt",
+										"gallery - de_rats_rkh_v1 (37).vmt",
+										"gallery - de_rats_rkh_v1 (38).vmt",
+										"gallery - de_rats_rkh_v1 (39).vmt",
+										"gallery - de_rats_rkh_v1 (4).vmt",
+										"gallery - de_rats_rkh_v1 (40).vmt",
+										"gallery - de_rats_rkh_v1 (41).vmt",
+										"gallery - de_rats_rkh_v1 (42).vmt",
+										"gallery - de_rats_rkh_v1 (43).vmt",
+										"gallery - de_rats_rkh_v1 (44).vmt",
+										"gallery - de_rats_rkh_v1 (45).vmt",
+										"gallery - de_rats_rkh_v1 (46).vmt",
+										"gallery - de_rats_rkh_v1 (47).vmt",
+										"gallery - de_rats_rkh_v1 (48).vmt",
+										"gallery - de_rats_rkh_v1 (49).vmt",
+										"gallery - de_rats_rkh_v1 (5).vmt",
+										"gallery - de_rats_rkh_v1 (50).vmt",
+										"gallery - de_rats_rkh_v1 (51).vmt",
+										"gallery - de_rats_rkh_v1 (52).vmt",
+										"gallery - de_rats_rkh_v1 (53).vmt",
+										"gallery - de_rats_rkh_v1 (54).vmt",
+										"gallery - de_rats_rkh_v1 (55).vmt",
+										"gallery - de_rats_rkh_v1 (56).vmt",
+										"gallery - de_rats_rkh_v1 (57).vmt",
+										"gallery - de_rats_rkh_v1 (58).vmt",
+										"gallery - de_rats_rkh_v1 (59).vmt",
+										"gallery - de_rats_rkh_v1 (6).vmt",
+										"gallery - de_rats_rkh_v1 (60).vmt",
+										"gallery - de_rats_rkh_v1 (61).vmt",
+										"gallery - de_rats_rkh_v1 (62).vmt",
+										"gallery - de_rats_rkh_v1 (63).vmt",
+										"gallery - de_rats_rkh_v1 (64).vmt",
+										"gallery - de_rats_rkh_v1 (7).vmt",
+										"gallery - de_rats_rkh_v1 (8).vmt",
+										"gallery - de_rats_rkh_v1 (9).vmt",
+										"gallery - de_rats_rkh_v1.vmt",
+										"gallery.vmt",
+										"ghost_rider_1.vmt",
+										"godzilla_4[1].vmt",
+										"hilar_duff_32.vmt",
+										"hilary duff.vmt",
+										"kirsten dunst2.vmt",
+										"kirsten_dunst_3.vmt",
+										"lamborghini_3[1].vmt",
+										"lp640.vmt",
+										"magazine.vmt",
+										"map created by.vmt",
+										"map_de_myroom.vmt",
+										"mary_kate_olsen_1.vmt",
+										"mitsubishi_2.vmt",
+										"muguchago.vmt",
+										"mugulugu.vmt",
+										"my chemical romance.vmt",
+										"my_chemical_romance_7.vmt",
+										"olsen_80.vmt",
+										"potc wallpaper.vmt",
+										"ralle dk.vmt",
+										"ralle.vmt",
+										"s4300013.vmt",
+										"sigpro_rel.vmt",
+										"slow_play_turtle.vmt",
+										"spray_bullseye.vmt",
+										"spray_crybaby.vmt",
+										"spray_elited.vmt",
+										"spray_flashbanged.vmt",
+										"spray_insights.vmt",
+										"spray_knifed.vmt",
+										"spray_nowar.vmt",
+										"spray_touchdown.vmt",
+										"subaru_5.vmt",
+										"v for vendetta.vmt",
+										"v_for_vendetta_3.vmt",
+										"very_funny.vmt",
+										"very_funny_(1).vmt",
+										"very_funny_(2).vmt",
+										"very_funny_(3).vmt",
+										"very_funny_(4).vmt",
+										"very_funny_3.vmt",
+										"viper-036[1].vmt",
+										"viper.vmt",
+										"wallpaper.vmt"
+									]
+								}
+							},
+							"de_rats_rkh_v5": [
+								"Brugt (1).vmt",
+								"Brugt (1).vtf",
+								"De_myroom (20).vmt",
+								"De_myroom (20).vtf",
+								"De_myroom (22).vmt",
+								"De_myroom (22).vtf",
+								"Gallery - de_rats_rkh_v1 (1).vmt",
+								"Gallery - de_rats_rkh_v1 (1).vtf",
+								"Gallery - de_rats_rkh_v1 (12).vmt",
+								"Gallery - de_rats_rkh_v1 (12).vtf",
+								"Gallery - de_rats_rkh_v1 (13).vmt",
+								"Gallery - de_rats_rkh_v1 (13).vtf",
+								"Gallery - de_rats_rkh_v1 (14).vmt",
+								"Gallery - de_rats_rkh_v1 (14).vtf",
+								"Gallery - de_rats_rkh_v1 (15).vmt",
+								"Gallery - de_rats_rkh_v1 (15).vtf",
+								"Gallery - de_rats_rkh_v1 (16).vmt",
+								"Gallery - de_rats_rkh_v1 (16).vtf",
+								"Gallery - de_rats_rkh_v1 (17).vmt",
+								"Gallery - de_rats_rkh_v1 (17).vtf",
+								"Gallery - de_rats_rkh_v1 (2).vmt",
+								"Gallery - de_rats_rkh_v1 (2).vtf",
+								"Gallery - de_rats_rkh_v1 (20).vmt",
+								"Gallery - de_rats_rkh_v1 (20).vtf",
+								"Gallery - de_rats_rkh_v1 (21).vmt",
+								"Gallery - de_rats_rkh_v1 (21).vtf",
+								"Gallery - de_rats_rkh_v1 (22).vmt",
+								"Gallery - de_rats_rkh_v1 (22).vtf",
+								"Gallery - de_rats_rkh_v1 (23).vmt",
+								"Gallery - de_rats_rkh_v1 (23).vtf",
+								"Gallery - de_rats_rkh_v1 (24).vmt",
+								"Gallery - de_rats_rkh_v1 (24).vtf",
+								"Gallery - de_rats_rkh_v1 (25).vmt",
+								"Gallery - de_rats_rkh_v1 (25).vtf",
+								"Gallery - de_rats_rkh_v1 (26).vmt",
+								"Gallery - de_rats_rkh_v1 (26).vtf",
+								"Gallery - de_rats_rkh_v1 (27).vmt",
+								"Gallery - de_rats_rkh_v1 (27).vtf",
+								"Gallery - de_rats_rkh_v1 (28).vmt",
+								"Gallery - de_rats_rkh_v1 (28).vtf",
+								"Gallery - de_rats_rkh_v1 (29).vmt",
+								"Gallery - de_rats_rkh_v1 (29).vtf",
+								"Gallery - de_rats_rkh_v1 (3).vmt",
+								"Gallery - de_rats_rkh_v1 (3).vtf",
+								"Gallery - de_rats_rkh_v1 (30).vmt",
+								"Gallery - de_rats_rkh_v1 (30).vtf",
+								"Gallery - de_rats_rkh_v1 (31).vmt",
+								"Gallery - de_rats_rkh_v1 (31).vtf",
+								"Gallery - de_rats_rkh_v1 (32).vmt",
+								"Gallery - de_rats_rkh_v1 (32).vtf",
+								"Gallery - de_rats_rkh_v1 (33).vmt",
+								"Gallery - de_rats_rkh_v1 (33).vtf",
+								"Gallery - de_rats_rkh_v1 (34).vmt",
+								"Gallery - de_rats_rkh_v1 (34).vtf",
+								"Gallery - de_rats_rkh_v1 (35).vmt",
+								"Gallery - de_rats_rkh_v1 (35).vtf",
+								"Gallery - de_rats_rkh_v1 (36).vmt",
+								"Gallery - de_rats_rkh_v1 (36).vtf",
+								"Gallery - de_rats_rkh_v1 (37).vmt",
+								"Gallery - de_rats_rkh_v1 (37).vtf",
+								"Gallery - de_rats_rkh_v1 (38).vmt",
+								"Gallery - de_rats_rkh_v1 (38).vtf",
+								"Gallery - de_rats_rkh_v1 (39).vmt",
+								"Gallery - de_rats_rkh_v1 (39).vtf",
+								"Gallery - de_rats_rkh_v1 (4).vmt",
+								"Gallery - de_rats_rkh_v1 (4).vtf",
+								"Gallery - de_rats_rkh_v1 (40).vmt",
+								"Gallery - de_rats_rkh_v1 (40).vtf",
+								"Gallery - de_rats_rkh_v1 (41).vmt",
+								"Gallery - de_rats_rkh_v1 (41).vtf",
+								"Gallery - de_rats_rkh_v1 (42).vmt",
+								"Gallery - de_rats_rkh_v1 (42).vtf",
+								"Gallery - de_rats_rkh_v1 (43).vmt",
+								"Gallery - de_rats_rkh_v1 (43).vtf",
+								"Gallery - de_rats_rkh_v1 (44).vmt",
+								"Gallery - de_rats_rkh_v1 (44).vtf",
+								"Gallery - de_rats_rkh_v1 (45).vmt",
+								"Gallery - de_rats_rkh_v1 (45).vtf",
+								"Gallery - de_rats_rkh_v1 (46).vmt",
+								"Gallery - de_rats_rkh_v1 (46).vtf",
+								"Gallery - de_rats_rkh_v1 (47).vmt",
+								"Gallery - de_rats_rkh_v1 (47).vtf",
+								"Gallery - de_rats_rkh_v1 (48).vmt",
+								"Gallery - de_rats_rkh_v1 (48).vtf",
+								"Gallery - de_rats_rkh_v1 (49).vmt",
+								"Gallery - de_rats_rkh_v1 (49).vtf",
+								"Gallery - de_rats_rkh_v1 (5).vmt",
+								"Gallery - de_rats_rkh_v1 (5).vtf",
+								"Gallery - de_rats_rkh_v1 (50).vmt",
+								"Gallery - de_rats_rkh_v1 (50).vtf",
+								"Gallery - de_rats_rkh_v1 (51).vmt",
+								"Gallery - de_rats_rkh_v1 (51).vtf",
+								"Gallery - de_rats_rkh_v1 (52).vmt",
+								"Gallery - de_rats_rkh_v1 (52).vtf",
+								"Gallery - de_rats_rkh_v1 (53).vmt",
+								"Gallery - de_rats_rkh_v1 (53).vtf",
+								"Gallery - de_rats_rkh_v1 (54).vmt",
+								"Gallery - de_rats_rkh_v1 (54).vtf",
+								"Gallery - de_rats_rkh_v1 (55).vmt",
+								"Gallery - de_rats_rkh_v1 (55).vtf",
+								"Gallery - de_rats_rkh_v1 (56).vmt",
+								"Gallery - de_rats_rkh_v1 (56).vtf",
+								"Gallery - de_rats_rkh_v1 (57).vmt",
+								"Gallery - de_rats_rkh_v1 (57).vtf",
+								"Gallery - de_rats_rkh_v1 (58).vmt",
+								"Gallery - de_rats_rkh_v1 (58).vtf",
+								"Gallery - de_rats_rkh_v1 (59).vmt",
+								"Gallery - de_rats_rkh_v1 (59).vtf",
+								"Gallery - de_rats_rkh_v1 (6).vmt",
+								"Gallery - de_rats_rkh_v1 (6).vtf",
+								"Gallery - de_rats_rkh_v1 (60).vmt",
+								"Gallery - de_rats_rkh_v1 (60).vtf",
+								"Gallery - de_rats_rkh_v1 (61).vmt",
+								"Gallery - de_rats_rkh_v1 (61).vtf",
+								"Gallery - de_rats_rkh_v1 (62).vmt",
+								"Gallery - de_rats_rkh_v1 (62).vtf",
+								"Gallery - de_rats_rkh_v1 (63).vmt",
+								"Gallery - de_rats_rkh_v1 (63).vtf",
+								"Gallery - de_rats_rkh_v1 (64).vmt",
+								"Gallery - de_rats_rkh_v1 (64).vtf",
+								"Gallery - de_rats_rkh_v1 (7).vmt",
+								"Gallery - de_rats_rkh_v1 (7).vtf",
+								"Gallery - de_rats_rkh_v1 (8).vmt",
+								"Gallery - de_rats_rkh_v1 (8).vtf",
+								"Gallery - de_rats_rkh_v1 (9).vmt",
+								"Gallery - de_rats_rkh_v1 (9).vtf",
+								"Gallery - de_rats_rkh_v1.vmt",
+								"Gallery - de_rats_rkh_v1.vtf"
+							]
+						}
+					}
+				},
+				"_bContainsExe": false,
+				"_idRow": 351101,
+				"_nDownloadCount": 1776,
+				"_nFilesize": 5337077,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/351101",
+				"_sFile": "de_rats_rkh_v5.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1181123702
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 103655,
+		"_sName": "de_rats_rkh_v5",
+		"_sText": "Thank you very much for downloading my map, i hope you like it. It is my first map, so maybe it won't be the best map you have ever tried :p\r\n\r\nRasmus\r\n For any questions or sugestions, write to raller_14@hotmail.com\r\n"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_rats_ol_toms_shackb7.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 351080,
+				"_nDownloadCount": 2231,
+				"_nFilesize": 2051058,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/351080",
+				"_sFile": "de_rats_ol_toms_shackb7.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1181177405
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 103654,
+		"_sName": "de_rats_ol_toms_shackb7",
+		"_sText": "I didn't make this map."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_rats_classic.bsp",
+						"de_rats_classic.txt",
+						"de_rats_classic0000.jpg",
+						"de_rats_classic0001.jpg",
+						"de_rats_classic0002.jpg"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 327617,
+				"_nDownloadCount": 2907,
+				"_nFilesize": 1726993,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/327617",
+				"_sFile": "de_rats_classic.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1256935513
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 103653,
+		"_sName": "de_rats_classic",
+		"_sText": "Here you go all,\r\n\r\nJust wanted to make the classic version of this map. It needed to be done."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_rats_basement.bsp",
+						"de_rats_basement.nav"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 343377,
+				"_nDownloadCount": 3194,
+				"_nFilesize": 69142132,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/343377",
+				"_sFile": "de_rats_basement.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1205789530
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 103652,
+		"_sName": "de_rats_basement",
+		"_sText": "----- Story --------------------------------------------\r\n\r\nSome new rats (T) arrived in the basement, they want to\r\ntake over the place and to do that, they want to blow a\r\nbuilding where the other rats live in.\r\n\r\nTerro : Blow some stuff up !\r\n\r\nCT : Protect your village !\r\n\r\n--------------------------------------------------------\r\n\r\n\r\nThis map is a remake of de_westwood, so be a Cowboy man\r\nbuy a deagle !"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_rassia_v3.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 355995,
+				"_nDownloadCount": 1150,
+				"_nFilesize": 285995,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/355995",
+				"_sFile": "de_rassia_v3.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1159588800
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 103651,
+		"_sName": "de_rassia_v3",
+		"_sText": "This is a map to get lost in^^.\r\n\r\nThis is the oppgraded versjon whit NO BUGS! And some cool stuf:-D\r\n\r\nGL HF:D"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_rassia_v2.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 356010,
+				"_nDownloadCount": 1105,
+				"_nFilesize": 229405,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/356010",
+				"_sFile": "de_rassia_v2.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1159588800
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 103650,
+		"_sName": "de_rassia_v2",
+		"_sText": "None"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"cstrike": {
+							"Sound": {
+								"ambient": [
+									"Mammoht_song.mp3",
+									"slavank118.wav"
+								]
+							},
+							"maps": [
+								"de_rash_css2.bsp",
+								"de_rash_css2.nav",
+								"de_rash_css2.txt"
+							],
+							"materials": {
+								"models": {
+									"props_foliage": [
+										"tree_pine_01_branches.vmt",
+										"tree_pine_01_branches.vtf",
+										"tree_pine_cards_01.vmt",
+										"tree_pine_cards_01.vtf"
+									],
+									"props_italian": [
+										"gramophone.vmt",
+										"gramophone.vtf",
+										"gramophonespecularmask.vtf"
+									]
+								},
+								"sprays": [
+									"MAMMOHT.vmt",
+									"MAMMOHT.vtf"
+								]
+							},
+							"models": {
+								"fishy": {
+									"ripped": [
+										"car3.dx80.vtx",
+										"car3.dx90.vtx",
+										"car3.mdl",
+										"car3.phy",
+										"car3.sw.vtx",
+										"car3.vvd",
+										"towtruck.dx80.vtx",
+										"towtruck.dx90.vtx",
+										"towtruck.mdl",
+										"towtruck.phy",
+										"towtruck.sw.vtx",
+										"towtruck.vvd",
+										"truck1.dx80.vtx",
+										"truck1.dx90.vtx",
+										"truck1.mdl",
+										"truck1.phy",
+										"truck1.sw.vtx",
+										"truck1.vvd",
+										"truck2.dx80.vtx",
+										"truck2.dx90.vtx",
+										"truck2.mdl",
+										"truck2.phy",
+										"truck2.sw.vtx",
+										"truck2.vvd"
+									]
+								},
+								"props_foliage": [
+									"tree_pine_01.dx80.vtx",
+									"tree_pine_01.dx90.vtx",
+									"tree_pine_01.mdl",
+									"tree_pine_01.phy",
+									"tree_pine_01.sw.vtx",
+									"tree_pine_01.vvd",
+									"tree_pine_02.dx80.vtx",
+									"tree_pine_02.dx90.vtx",
+									"tree_pine_02.mdl",
+									"tree_pine_02.phy",
+									"tree_pine_02.sw.vtx",
+									"tree_pine_02.vvd",
+									"tree_pine_03.dx80.vtx",
+									"tree_pine_03.dx90.vtx",
+									"tree_pine_03.mdl",
+									"tree_pine_03.phy",
+									"tree_pine_03.sw.vtx",
+									"tree_pine_03.vvd",
+									"tree_pine_card_cluster_01.dx80.vtx",
+									"tree_pine_card_cluster_01.dx90.vtx",
+									"tree_pine_card_cluster_01.mdl",
+									"tree_pine_card_cluster_01.sw.vtx",
+									"tree_pine_card_cluster_01.vvd",
+									"tree_pine_card_cluster_01_skybox.dx80.vtx",
+									"tree_pine_card_cluster_01_skybox.dx90.vtx",
+									"tree_pine_card_cluster_01_skybox.mdl",
+									"tree_pine_card_cluster_01_skybox.sw.vtx",
+									"tree_pine_card_cluster_01_skybox.vvd",
+									"tree_pine_card_cluster_02.dx80.vtx",
+									"tree_pine_card_cluster_02.dx90.vtx",
+									"tree_pine_card_cluster_02.mdl",
+									"tree_pine_card_cluster_02.sw.vtx",
+									"tree_pine_card_cluster_02.vvd",
+									"tree_pine_card_cluster_02_skybox.dx80.vtx",
+									"tree_pine_card_cluster_02_skybox.dx90.vtx",
+									"tree_pine_card_cluster_02_skybox.mdl",
+									"tree_pine_card_cluster_02_skybox.sw.vtx",
+									"tree_pine_card_cluster_02_skybox.vvd",
+									"tree_pine_cluster_01.dx80.vtx",
+									"tree_pine_cluster_01.dx90.vtx",
+									"tree_pine_cluster_01.mdl",
+									"tree_pine_cluster_01.phy",
+									"tree_pine_cluster_01.sw.vtx",
+									"tree_pine_cluster_01.vvd"
+								],
+								"props_italian": [
+									"gramophone.dx80.vtx",
+									"gramophone.dx90.vtx",
+									"gramophone.mdl",
+									"gramophone.phy",
+									"gramophone.sw.vtx",
+									"gramophone.vvd"
+								]
+							},
+							"scripts": [
+								"soundscapes_office.txt"
+							]
+						}
+					}
+				},
+				"_bContainsExe": false,
+				"_idRow": 357439,
+				"_nDownloadCount": 1384,
+				"_nFilesize": 5505947,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/357439",
+				"_sFile": "rash_css2.7z",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1151954578
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 103649,
+		"_sName": "de_rash_css2",
+		"_sText": "Remaked from original map \"by aSsMoNkEy (aSsMoNkEy@Test-Chamber-Clan.de)\""
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"0": "adw.jpg",
+						"1": "de.jpg",
+						"2": "de_rapture.bsp.ztmp",
+						"3": "de_rapture.nav",
+						"4": "de_rapture.nav.ztmp",
+						"De_Rapture": [
+							"Bioshock 2 - Sounds From the Lighthouse - 02 - Waking Up In 1959 (Multiplayer Main Menu).mp3",
+							"de_rapture.bsp.lnk",
+							"read me.txt"
+						]
+					}
+				},
+				"_bContainsExe": false,
+				"_idRow": 313897,
+				"_nDownloadCount": 1331,
+				"_nFilesize": 5289517,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/313897",
+				"_sFile": "_3113-.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1300885959
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 103648,
+		"_sName": "de_Rapture",
+		"_sText": "if it dont work take this"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"0": "adw.jpg",
+						"1": "de.jpg",
+						"2": "de_rapture.bsp.ztmp",
+						"De_Rapture": [
+							"Bioshock 2 - Sounds From the Lighthouse - 02 - Waking Up In 1959 (Multiplayer Main Menu).mp3",
+							"de_rapture.bsp.lnk",
+							"read me.txt"
+						]
+					}
+				},
+				"_bContainsExe": false,
+				"_idRow": 313919,
+				"_nDownloadCount": 1399,
+				"_nFilesize": 5288328,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/313919",
+				"_sFile": "_3080-.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1300809285
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 103647,
+		"_sName": "de_Rapture",
+		"_sText": "text put the bsp file in steam/steamapps/you steam name/counter-strike source/cstrike/maps."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_rapidtransit_beta3.bsp",
+						"de_rapidtransit_beta3.nav"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 340345,
+				"_nDownloadCount": 1462,
+				"_nFilesize": 18592782,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/340345",
+				"_sFile": "de_rapidtransit_beta3.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1216066230
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 103646,
+		"_sName": "de_rapidtransit_beta3",
+		"_sText": "Hi there,\r\n\r\ni'm working on a remake of an 1.6 map de_rapidtransit by nemesis.  http://www.fpsbanana.com/maps/335\r\nthis beta3 release is about 3 months old, so expect a greatly improved version soon.\r\nIf you want to play the beta3 and the upcoming beta4 visit us at css.fusion-clan.de:27015 or 85.131.198.66:27015 \r\n\r\nHave fun."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_rantasauna_v7_fix.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 325008,
+				"_nDownloadCount": 1903,
+				"_nFilesize": 5484888,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/325008",
+				"_sFile": "de_rantasauna_v7_fix.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1265565704
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 103645,
+		"_sName": "de_rantasauna_v7",
+		"_sText": "new version v7 fix. valve have removed some old materials on OB update so some walls didnt have texture"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_rantasauna_v6_remake.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 317086,
+				"_nDownloadCount": 1247,
+				"_nFilesize": 1846342,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/317086",
+				"_sFile": "de_rantasauna_v6_remake.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1290335580
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 103644,
+		"_sName": "de_rantasauna_v6_remake",
+		"_sText": "Hope you like it. Includes new secret place and new stuff :D"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_rantasauna_v6_light.exe.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 324217,
+				"_nDownloadCount": 1124,
+				"_nFilesize": 2065821,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/324217",
+				"_sFile": "de_rantasauna_v6_lightexe.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1267964490
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 103643,
+		"_sName": "de_rantasauna_v6_light",
+		"_sText": "Best Map Ever"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_rantasauna_v6.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 326493,
+				"_nDownloadCount": 2010,
+				"_nFilesize": 524261,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/326493",
+				"_sFile": "de_rantasauna_v6_2.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1261029475
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 103642,
+		"_sName": "de_rantasauna_v6",
+		"_sText": "copy to cstrike/mcopy to cstrike/maps"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_rantasauna_v5_fix.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 325963,
+				"_nDownloadCount": 1460,
+				"_nFilesize": 4235870,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/325963",
+				"_sFile": "de_rantasauna_v5_fix.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1262539718
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 103641,
+		"_sName": "de_rantasauna_v5_fix",
+		"_sText": "sauna\r\n2 bombsites\r\nworking boat\r\nelevator"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_rantasauna_v2_realistic_v02_dr.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 307761,
+				"_nDownloadCount": 1387,
+				"_nFilesize": 2691416,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/307761",
+				"_sFile": "de_rantasauna_v2_realistic_v02_dr.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1320109330
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 103640,
+		"_sName": "de_rantasauna_v2_realistic_v02",
+		"_sText": "This map has modified with HRD and light_enviroments, lights are in everywhere and windows break like real glass, map looks great. Something else i have added for map some more. Map name: de-rantasauna-v2-realistic-v02-dr."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_rantasauna_v2_realistic_dr.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 307811,
+				"_nDownloadCount": 1379,
+				"_nFilesize": 1487375,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/307811",
+				"_sFile": "de_rantasauna_v2_realistic_dr.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1319977501
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 103639,
+		"_sName": "de_rantasauna_v2_realistic_dr",
+		"_sText": "This is a new era in map, not every day will not see similiar maps and as realistic as possible. Map looks good and even ct have chance in this map..."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_rantasauna_v2.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 350336,
+				"_nDownloadCount": 2493,
+				"_nFilesize": 175843,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/350336",
+				"_sFile": "de_rantasauna_v2.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1184063608
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 103638,
+		"_sName": "de_rantasauna_v2",
+		"_sText": "Enjoy!"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_rantasauna_special_v2.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 325534,
+				"_nDownloadCount": 1435,
+				"_nFilesize": 1534890,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/325534",
+				"_sFile": "de_rantasauna_special_v2_2.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1263898849
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 103637,
+		"_sName": "de_rantasauna_special_v2",
+		"_sText": "HELLO\r\n\r\nI decided to make V2 out of my previous map, because it had alot of bugs and things that bothered me, so I fixed alot of stuff to made it work better.\r\nAdded more into it, so this wouldn't be just fix of the map, but other version.\r\n\r\nNEW\r\nHidden bar room. Lots of secret areas. Easier to go through chimney (No more crouching needed).\r\nSmoother car drop. Fixed textures on walls and retextured boxes. Added more realism look for the house. And so on... See for yourself, hope you like it. :D\r\n\r\nSPAWN POINTS\r\nTerrorists - Spawn at the mountains. \r\nCounter terrorists - Spawn from the main building.\r\n\r\nOBJECTIVE\r\nThe basic idea is for the terrorists to plant the bomb on \"sauna\" area (A) on the map and completely ruin the nice vacation OR just kill everybody and take over.\r\nCounter terrorists have to protect the sauna from demolition by all cost!\r\n\r\nINFO\r\nThis map has lots of new secret places all over the map, by mastering em, you have an advantage, such as invisible bridge, invisible walls, breakable walls etc...\r\nBased on 8-8 matches, but holds 40 players limit, if you don't have any friends to play with, (or it's just me) don't you worry this map is bot friendly.\r\n\r\nHappy Gaming!\r\n"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"Readme.txt",
+						"de_rantasauna_special.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 326127,
+				"_nDownloadCount": 1219,
+				"_nFilesize": 1303235,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/326127",
+				"_sFile": "de_rantasauna_special_2.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1262117266
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 103636,
+		"_sName": "de_rantasauna_special",
+		"_sText": "\r\nVERSION 2! http://www.fpsbanana.com/maps/123508\r\n\r\nHello.\r\n\r\nAt first I wanna say that this is a remake of a map called \"de_rantasauna\", I'm terribly sorry, but I don't know the original creator, but credit's for him/her.\r\n\r\nSPAWN POINTS\r\nTerrorists spawn at the mountains and counter terrorists spawn from the main \r\nbuilding.\r\n\r\nOBJECTIVE\r\nThe basic idea is for the terrorists to plant the bomb on \"sauna\" area (A) on the map and completely ruin the nice vacation OR just kill everybody and take over.\r\nCounter terrorists have to protect the sauna from demolition by all cost!\r\n\r\nINFO\r\nThis map has alot of secret places all over the map, by mastering em, you have a advantage, such as invisible bridge, invisible walls, breakable walls etc...\r\nBased on 8-8 matches, but holds 40 players limit, if you don't have any friends to play with, (or it's just me) don't you worry this map is bot friendly.\r\n\r\nEnjoy!"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"Readme.txt",
+						"de_rantasauna_ri33e.bsp",
+						"de_rantasauna_ri33e.bsp.ztmp",
+						"de_rantasauna_ri33e.lin",
+						"de_rantasauna_ri33e.log",
+						"de_rantasauna_ri33e.vmf",
+						"de_rantasauna_ri33e.vmx"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 308671,
+				"_nDownloadCount": 1192,
+				"_nFilesize": 436969,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/308671",
+				"_sFile": "de_rantasauna_ri33e_2.7z",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1316635612
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 103635,
+		"_sName": "de_rantasauna_ri33e",
+		"_sText": "6 new secret place/shortcut compareing to de rantasauna v2. Map is made by me and it's running on server: 192.168.100.18:27015"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"cstrike": {
+							"maps": [
+								"de_rantasauna_mystic.bsp",
+								"de_rantasauna_mystic.res"
+							],
+							"sound": {
+								"music": [
+									"mystic_OEM.mp3"
+								]
+							}
+						}
+					}
+				},
+				"_bContainsExe": false,
+				"_idRow": 325286,
+				"_nDownloadCount": 2827,
+				"_nFilesize": 8264533,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/325286",
+				"_sFile": "de_rantasauna_mystic.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1264700185
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 103634,
+		"_sName": "de_rantasauna_mystic",
+		"_sText": "Map by Mikko \"OEM\" Uusitalo\r\nSkytexture by komaokc\r\n\r\n\r\n"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"De_ransom": {
+							"Screenshots": [
+								"Thumbs.db",
+								"de_ransom0003.jpg",
+								"de_ransom0005.jpg",
+								"de_ransom0006.jpg",
+								"de_ransom0010.jpg",
+								"de_ransomcover.png"
+							],
+							"cstrike": {
+								"maps": [
+									"de_ransom.bsp"
+								],
+								"materials": {
+									"jail": [
+										"netspacea.vmt",
+										"netspacea.vtf",
+										"netspaceb.vmt",
+										"netspaceb.vtf"
+									],
+									"overviews": [
+										"de_ransom.vmt",
+										"de_ransom.vtf",
+										"de_ransom_radar.vmt",
+										"de_ransom_radar.vtf"
+									]
+								}
+							}
+						}
+					}
+				},
+				"_bContainsExe": false,
+				"_idRow": 334010,
+				"_nDownloadCount": 3129,
+				"_nFilesize": 7787274,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/334010",
+				"_sFile": "de_ransom_2.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1235807906
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 103633,
+		"_sName": "De_Ransom",
+		"_sText": "This is an entry into the gamespace map competition and has been in the making for around 6-12 months. In case you didn't notice its a jail ;D"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"Readme.txt",
+						"de_ranch_b1.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 350632,
+				"_nDownloadCount": 2590,
+				"_nFilesize": 3128640,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/350632",
+				"_sFile": "de_ranch_b1.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1183036498
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 103632,
+		"_sName": "de_ranch",
+		"_sText": "None"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"De_Ramp.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 308287,
+				"_nDownloadCount": 1448,
+				"_nFilesize": 206504,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/308287",
+				"_sFile": "de_ramp.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1317919019
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 103631,
+		"_sName": "De_Ramp",
+		"_sText": "Put in: C:Program Files/Steam/Steamapps/USERNAME/CounterStrike:Source/CStrike/Maps"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_rakovanie.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 287875,
+				"_nDownloadCount": 2660,
+				"_nFilesize": 18279046,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/287875",
+				"_sFile": "de_rakovanie.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1401040463
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 103630,
+		"_sName": "de_rakovanie",
+		"_sText": "I made this map for the new year 2014. This map is similar to de_dust2\r\nOnly on this map, I added a lot of new things.\r\nHave fun! :)"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_river.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 316505,
+				"_nDownloadCount": 1625,
+				"_nFilesize": 2075706,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/316505",
+				"_sFile": "de_rainy_night.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1292078429
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 103629,
+		"_sName": "de_rainy_night",
+		"_sText": "bomb/defuse map whit 20 ct and t spawn lightnes is dark and 1 bomb area"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_raining_sp.bsp",
+						"de_raining_sp.nav"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 322989,
+				"_nDownloadCount": 1190,
+				"_nFilesize": 3131995,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/322989",
+				"_sFile": "de_raining_sp.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1272742070
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 103628,
+		"_sName": "de_raining_sp",
+		"_sText": "_-||DE_RAINING_SP||-_\r\n\r\n·Map created by Spyro (CupoOci)\r\n·Textures by psycow\r\n\r\n-------------------------------------------------------------------\r\n\r\n·THE .RAR CONTAINS:\r\n\r\nBSP: 7'06 MB\r\nNAV (Edited): 41'9 KB\r\n\r\nUsually the bots work well, but sometimes becomes stuck.\r\n\r\n-------------------------------------------------------------------\r\n\r\nAny suggestion is welcome\r\n\r\nPlease RATE!"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"cstrike": {
+							"maps": [
+								"de_railedgie.bsp",
+								"de_railedgie.log",
+								"de_railedgie.nav"
+							],
+							"materials": {
+								"add": [
+									"maxflo.vmt",
+									"maxflo.vtf"
+								]
+							}
+						}
+					}
+				},
+				"_bContainsExe": false,
+				"_idRow": 323299,
+				"_nDownloadCount": 1247,
+				"_nFilesize": 947731,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/323299",
+				"_sFile": "de_railedgie.7z",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1271503995
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 103627,
+		"_sName": "de_railedgie",
+		"_sText": "I realy don't know what to write there"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_rahtirantasauna_fix.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 293187,
+				"_nDownloadCount": 1219,
+				"_nFilesize": 2134205,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/293187",
+				"_sFile": "de_rahtirantasauna_fix.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1375269959
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 103626,
+		"_sName": "de_rahtirantasauna_fix",
+		"_sText": "Just another sauna map. its not meant to be super detailed and realistic."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_rage.bsp",
+						"de_rage.nav"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 331590,
+				"_nDownloadCount": 1134,
+				"_nFilesize": 228947,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/331590",
+				"_sFile": "de_rage.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1243110210
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 103625,
+		"_sName": "de_rage",
+		"_sText": "The first map I made, hope you guys can edit it for yourselves!"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_ragdon.bsp",
+						"de_ragdon.nav",
+						"readme.doc"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 357755,
+				"_nDownloadCount": 1215,
+				"_nFilesize": 1615459,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/357755",
+				"_sFile": "de_ragdon.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1149651977
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 103624,
+		"_sName": "de_ragdon",
+		"_sText": "my first map, been a while since i made it! give it a try!\r\n\r\nthanks,\r\n          \r\n            team|tr*Jimmy Dean\r\n\r\n(guys, help me out! email me at csjimmydean@gmail.com with any complaints,  tips, or comments (or just leave me a message on my profile page) thanks!"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_radiolocation.bsp",
+						"de_radiolocation.nav"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 288187,
+				"_nDownloadCount": 2809,
+				"_nFilesize": 8197390,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/288187",
+				"_sFile": "de_radiolocation.7z",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1399584944
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 103623,
+		"_sName": "de_radiolocation",
+		"_sText": "**Map support:**\r\n-HDR\r\n-Bots"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_radiance.bsp",
+						"de_radiance.nav"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 340458,
+				"_nDownloadCount": 2356,
+				"_nFilesize": 13213082,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/340458",
+				"_sFile": "de_radiance.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1215813852
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 103622,
+		"_sName": "de_radiance",
+		"_sText": "Small simple map made for the abstract mappack."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_quincy.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 343952,
+				"_nDownloadCount": 1513,
+				"_nFilesize": 5687418,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/343952",
+				"_sFile": "de_quincy.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1203982519
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 103621,
+		"_sName": "de_quincy",
+		"_sText": "-This is a map of my school. Before you say anything, no I am not a psycho who plans on doing... you know. I've always wanted to recreate familiar places in 3D environments.\r\n-This is my first release of a map. \r\n-Two bombsites: cafeteria and the stage/auditorium\r\n-The server that runs the map:   69.140.208.84:27015"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_quick.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 654183,
+				"_nDownloadCount": 352,
+				"_nFilesize": 358041,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/654183",
+				"_sFile": "de_quick.rar",
+				"_sMd5Checksum": "08a9a115805e07e90a4b6ae6e031ce00",
+				"_tsDateAdded": 1631125493
+			}
+		],
+		"_aLatestUpdates": [
+			{
+				"_aChangeLog": [
+					{
+						"cat": "Bugfix",
+						"text": "fixed the missing textures"
+					}
+				],
+				"_sText": "",
+				"_sTitle": "de_quick (updated)",
+				"_tsDateAdded": 1631125451
+			}
+		],
+		"_idRow": 103620,
+		"_sName": "de_quick",
+		"_sText": "This is my first map using the Hammer Editor, that is why it has many re-used assets and simple geometry.<br>The matches end very quickly, depending of how the match goes.<br><br>Credits to <a class=\"MemberLink\" href=\"https://gamebanana.com/members/274308\">Chris528</a> by making the textures and they can be downloaded from here: https://gamebanana.com/textures/707"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"0": "Install.txt",
+						"Screenshots": [
+							"de_quebec0000.jpg",
+							"de_quebec0002.jpg",
+							"de_quebec0003.jpg",
+							"de_quebec12.jpg",
+							"de_quebec13.jpg",
+							"de_quebec14.jpg",
+							"de_quebecb10004.jpg"
+						],
+						"maps": [
+							"de_quebec.bsp",
+							"de_quebec.nav",
+							"de_quebec.res",
+							"de_quebec.txt"
+						],
+						"materials": {
+							"de_quebec": [
+								"drivemenu.vmt",
+								"drivemenu.vtf",
+								"drivemenu_ref.vtf",
+								"la_Belle_Province_logo.vmt",
+								"la_Belle_Province_logo.vtf",
+								"maudite_englicheversion.vmt",
+								"maudite_englicheversion.vtf",
+								"maurice.vmt",
+								"maurice.vtf",
+								"menu1.vmt",
+								"menu1.vtf",
+								"menu1_ref.vtf",
+								"nmg_real5.vmt",
+								"nmg_real5.vtf",
+								"quebec.vmt",
+								"quebec.vtf",
+								"wheellegs.vmt",
+								"wheellegs.vtf"
+							],
+							"nippertextures": {
+								"de_vangogh_s": [
+									"nmg_real5.vmt",
+									"nmg_real5.vtf"
+								]
+							}
+						}
+					}
+				},
+				"_bContainsExe": false,
+				"_idRow": 361950,
+				"_nDownloadCount": 4716,
+				"_nFilesize": 4763454,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/361950",
+				"_sFile": "de_quebec.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1109403611
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 103619,
+		"_sName": "de_quebec",
+		"_sText": "DE_QUEBEC\r\n\r\nCreated by: Wheel-Knee\r\nContact: johnlawrance@gmail.com\r\nRelease Date: January 23/2005\r\nCapacity: 20 vs. 20\r\nWorks with Bots: 80% - They can't go out windows.\r\n\r\nThis map is based on Quebec City, and the Chateau Frontenac Hotel. Counter-Terrorists (RCMP) must stop the Terrorists (FLQ), from bombing the hotel. That is if they don't stop for poutine on the way.\r\n\r\n"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_quarter.bsp",
+						"de_quarter.nav"
+					],
+					"_sMimeType": "application/zip"
+				},
+				"_bContainsExe": false,
+				"_idRow": 505173,
+				"_nDownloadCount": 246,
+				"_nFilesize": 4324336,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/505173",
+				"_sFile": "de_quarter_zip.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1609569006
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 103618,
+		"_sName": "de_quarter",
+		"_sText": "A fast pace and close combat type of map with narrow corridors, I made this in 3 days and might update the lighting in the future if it proves to be too dark"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_quake_dm3.bsp",
+						"de_quake_dm3.nav",
+						"de_quake_dm3.txt"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 360278,
+				"_nDownloadCount": 1757,
+				"_nFilesize": 1434365,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/360278",
+				"_sFile": "de_quake_dm3.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1128268167
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 103617,
+		"_sName": "de_quake_dm3",
+		"_sText": "A non-cluttered (I get 150fps on max res/settings DX9) port of the classic DM3 map from Quake 1. Not changed much, only added some slight detail here and there, and broke through a wall for balancing purposes (three ways to bombsites instead of just two).\r\n\r\nI made this map a loooong time ago, for personal use, but since nobody ported any q1 maps, I thought I'd at least release this one. Also, I already know about all the mapping errors (it was made a long time ago) and illogical lighting (I tried to \"explain\" the lighting with skylights, but I might've missed some).\r\n\r\nAnyway, I hope there's a Q1 fan like me out there who'll appreciate this."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"DE_Quadroshock": [
+							"Readme.rtf",
+							"de_quadroshock_HDR_v2017.zip",
+							"de_quadroshock_old-v34_HDR.zip"
+						]
+					},
+					"_sMimeType": "application/zip"
+				},
+				"_bContainsExe": false,
+				"_idRow": 364508,
+				"_nDownloadCount": 749,
+				"_nFilesize": 68033297,
+				"_sAnalysisResult": "Archive contains nested archive",
+				"_sAnalysisState": "done",
+				"_sDescription": "CSS map",
+				"_sDownloadUrl": "https://gamebanana.com/dl/364508",
+				"_sFile": "de_quadroshock_972fe.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1511664879
+			}
+		],
+		"_aLatestUpdates": [
+			{
+				"_aChangeLog": [
+					{
+						"cat": "Addition",
+						"text": "New special sound of electrical discharge"
+					},
+					{
+						"cat": "Addition",
+						"text": "A pedestal to electric generators"
+					},
+					{
+						"cat": "Addition",
+						"text": "Added some 3D models & created some brush objects in special places"
+					},
+					{
+						"cat": "Improvement",
+						"text": "Re-adjusting all sounds of electrical discharges"
+					},
+					{
+						"cat": "Improvement",
+						"text": "Corrected the positions of a lot of objects"
+					},
+					{
+						"cat": "Improvement",
+						"text": "Transforming the ladder (near the pool) into a physical object"
+					}
+				],
+				"_sText": "- Made a new special sound of electrical discharge.<br>- Add a pedestal to electric generators.<br>- Re-adjusting all sounds of electrical discharges.<br>- Now the ladder near the pool will fall down during the explosion, as in the block with electric generators.<br>- Added some 3D models &amp; created some brush objects in special places.<br>- Added “nodraw” &amp; \"block light\" textures, where it was necessary.<br>- Corrected the positions of a lot of objects.<br>- Other bugs fixed.",
+				"_sTitle": "Update-2.5",
+				"_tsDateAdded": 1511665372
+			},
+			{
+				"_aChangeLog": [
+					{
+						"cat": "Addition",
+						"text": "Road system for virtual city of the holographic panorama"
+					},
+					{
+						"cat": "Addition",
+						"text": "New row of flickering lighs in block with supercomputer"
+					},
+					{
+						"cat": "Improvement",
+						"text": "Correcting the image on monitors on the walls"
+					},
+					{
+						"cat": "Addition",
+						"text": "Added some missing decals"
+					},
+					{
+						"cat": "Optimization",
+						"text": "Added “nodraw” textures & “clip” brushes where it was necessary"
+					},
+					{
+						"cat": "Improvement",
+						"text": "Corrected the positions of some objects"
+					}
+				],
+				"_sText": "- Added a system of roads for the virtual city of the holographic panorama.<br>- New row of flickering colored lighs in the block with the broken supercomputer.<br>- Monitor`s bug fixed – correcting the image on monitors on the walls, as seen by the virtual camera.<br>- Added some missing decals.<br>- Added “nodraw” textures, where it was necessary and also “clip” brushes.<br>- Corrected the positions of some objects.<br>- Other little bugs fixed.",
+				"_sTitle": "Update-2.0",
+				"_tsDateAdded": 1511136817
+			}
+		],
+		"_idRow": 103616,
+		"_sName": "De_Quadroshock",
+		"_sText": "Hi! I present to you my new map \"De_Quadroshock\" for \"Counter-Strike: Source\" (-bomb/defuse mission).<br>I worked much on this map and hope for you will be exciting to play. -)<br>I am game developer, but in such way I accumulate experience in level-design and keep fit.<br>The map is made from scratch and have original concept and design.<br>Also here are totally destroyable columns. And walls with physicalized destroyable bricks, which can be thrown down.<br>Plus only for this map I made something like a holographic panorama of an invented secret city (-Hi for City-17, from HL2 ! :) ).<br><br><i><b>Background story</b></i>:<br>An attempt to attack was committed on the underground bunker of a secret military-scientific complex. The government is deeply shocked by this unexpected attack on such a secret complex. Nobody knows how the terrorists came in there. But the first attack was stopped!<br>Now the second wave of attack is expected, much hotter.<br>It is supposed that the purpose of the terrorists is to destroy with bombs two points in the bunker :<br>1. The structural column at point A – above it is located the biological weapons lab.<br>2. The power generators at point B. Also above is the floor with the chemical weapons lab.<br>The bunker itself is made up of 4 main parts with an additional central block where a supercomputer is located.<br>Attention! The supercomputer in the central block was already damaged in the first attack. Avoid electrical discharges from supercomputer.<br>You can also use the ventilation system for suddenly attack.<br>And use hot traps – explosive barrels with dangerous objects around them – fry the ass of your virtual opponents!<br>Powerful weapons and crafty tactics will make you cool and dangerous.<br>Have a good hunting! :)<br><br>Press on \"Manual Download\" and just download the archive. :)<br><br>Here is a video of action review:<br><iframe src=\"https://www.youtube.com/embed/INczbF_7-p8\" allowfullscreen=\"\" width=\"560\" height=\"315\" frameborder=\"0\"></iframe>"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"ReadMe.txt",
+						"de_qatar.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 354998,
+				"_nDownloadCount": 3990,
+				"_nFilesize": 4665208,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/354998",
+				"_sFile": "de_qatar.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1163136272
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 103615,
+		"_sName": "de_qatar",
+		"_sText": "de_qatar by mr-thermaltake (aka dust3d_v2)\r\n\r\n=================================\r\nDid a overhaul of my first released map.\r\nHighly detailed balanced dust map\r\n=================================\r\nFeatures:\r\n* 40 spawnpoints\r\n* Water features giving dust maps a new feel\r\n* 2 story structures\r\n* Well balanced for a even fight\r\n* Great for wars\r\n* 3D skybox\r\n\r\n** NAV file not included. NAV mesh just did not want to work even manually.\r\n\r\nI give permission for anybody to create its NAV and release it.\r\n=================================\r\nCredits:\r\n\r\nDaveJ as this map was based off de_dust\r\npolymorph who helped with optimizing this map to its nipples.\r\nBloodscorch community for c&c'ing throught its process.\r\n\r\n=================================\r\nhttp://mr-c.vze.com\r\nhttp://www.bloodscorch.com\r\n=================================\r\nThe package may be redistrubuted on the basis that\r\na) Is not sold individually or part of another package\r\nb) Is distrubuted along with the readme\r\nc) Appropiate credits are given.\r\n"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"0": "read me.txt",
+						"maps": [
+							"de_qaria.bsp",
+							"read me.txt"
+						]
+					}
+				},
+				"_bContainsExe": false,
+				"_idRow": 304714,
+				"_nDownloadCount": 1742,
+				"_nFilesize": 9366324,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/304714",
+				"_sFile": "de_qaria.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1330472157
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 103614,
+		"_sName": "De_Qaria",
+		"_sText": "De_Qaria\r\n\r\nMy second map leaning more toward Competitive play although it still supports\r\n32 player server for those want to use it on a public server. also has a radar and place names done.\r\n\r\nInstall\r\n\r\nJust simply unrar to your cstrike directory example\r\nc:\\program files\\Steam\\steamapps\\your user name here\\counter-strike source\\cstrike\r\n\r\nyour directory could be slightly different depending on your setup.\r\n\r\n\r\nMany thanks to my clan members for all the help they gave testing this out.\r\nTo name a few that gave alot of help\r\n=>U.K<= Rob\r\n=>U.K<= Ferret\r\n=>U.K<= Mikehuzzah\r\n=>U.K<= Wade\r\n=>U.K<= Ash\r\n=>U.K<= Mrashman\r\n=>U.K<= kittie\r\n=>U.K<= Aughhh\r\n\r\n^^^ Glitch Whores the lot of ya :P ^^^\r\n\r\n=>U.K<= members in general\r\n\r\nOnce again many thanks to topphatwaffle for your tut's a great help in places\r\ndoing this."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_pyramid_v2.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 336364,
+				"_nDownloadCount": 3680,
+				"_nFilesize": 11967785,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/336364",
+				"_sFile": "de_pyramid_v2_2.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1228506130
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 103613,
+		"_sName": "de_pyramid_v2",
+		"_sText": "ATTENTION:\r\nThe tactics where the only thing I looked a little bit up. The old map with very same tactics is called \"de_pyramid_css\".\r\n\r\nThis is my first officially made map. Unofficially I'd made over 5. The map \"de_nightfever\" inspirated me to make that one very professional, like High Dynamic Range and detailed mapping.\r\nSo, enjoy my map and have fun :D\r\n\r\nTHIS MAP ISN'T FINISHED\r\n\r\nMap mission Information:\r\n\r\nde_pyramid_v2\r\n-------------\r\nDestruction Complex\r\n\r\nThis old city is the best preserved of the aztec culture.\r\n\r\nCounter-Terrorists:\r\n\r\nPrevent the explosion of important monuments or destroy the Terrorists forces.\r\n\r\nTerrorists:\r\n\r\nDestroy the pieces of aztec monuments or eradicate the Counter-Terrorists.\r\n\r\n-------------\r\nCredits:\r\nmade by Saschko\r\ntesting by PsyKin\r\n[BoK] Productions (r)"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_pyramid_v1.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 336358,
+				"_nDownloadCount": 1203,
+				"_nFilesize": 110457,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/336358",
+				"_sFile": "de_pyramid_v1.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1228522170
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 103612,
+		"_sName": "de_pyramid_v1",
+		"_sText": "\r\n\r\n\r\n\r\nby\r\n\r\n\r\nCAmeRon"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_pyramid_css.bsp",
+						"de_pyramid_css.nav",
+						"de_pyramid_css.txt"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 358048,
+				"_nDownloadCount": 18238,
+				"_nFilesize": 2725166,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/358048",
+				"_sFile": "de_pyramid_css.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1147094520
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 103611,
+		"_sName": "de_pyramid_css",
+		"_sText": "De_pyramid_css\r\n\t\r\nby\r\n\t\r\nGB-UK*switch (birdflipper@hotmail.com)\r\n\r\n\r\nThis map is currently on the GB-UK 40 man public server, swing by there and get it voted on if you want to play it online! The map is set around some pyramids in ruin/desert type scenario. It includes bridges, water, underground passages, sniper positions and of course, double doors!\r\n\r\n\r\nCTs: Prevent the terrorist scum bags from bombing the ancient Cross of Destiny (site A), and the boxes containing valuable Egyptian artifacts (site B).\r\n\r\n\r\nTs: You have two targets here, and bombing either of the two will result in success! Expect heavy resistance from those law abiding CT scum.\r\n\r\nGL & HF!\r\n\r\n\r\n\r\n\r\nAdditonal thanks to flatmates Catalyst and Grogs for ideas throughout the project.\r\n"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"Archive created by free jZip.url",
+						"de_pyramid_ukcs_b7.bsp",
+						"de_pyramid_ukcs_b7.nav"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 291448,
+				"_nDownloadCount": 4568,
+				"_nFilesize": 3426427,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/291448",
+				"_sFile": "de_pyramid_ukcs_b7.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1383830393
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 103610,
+		"_sName": "de_pyramid_b7",
+		"_sText": "This is a complete rebuild of de_pyramid_css <a href=\"http://css.gamebanana.com/maps/12593\"><img src=\"http://css.gamebanana.com/maps/embeddables/12593?type=small\"/></a> everything was built from the ground up to be optimised to work on large servers. updates to the map are:\r\n\r\ndisplacements - no longer is the sand flat and boring. the whole map has been given bumpy ground to look more realistic and add depth.\r\n\r\nmore detail - the tall boring walls that block off the outside world are gone and replaced with detailed buildings to add more variety to the map.\r\n\r\noptimised - I rebuilt every building to take advantage of all the techniques the source engine has to lower the frame rate for large amounts of players."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"Archive created by free jZip.url",
+						"de_pyramid_ukcs_b3.bsp",
+						"de_pyramid_ukcs_b3.nav"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 311240,
+				"_nDownloadCount": 2356,
+				"_nFilesize": 2936212,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/311240",
+				"_sFile": "de_pyramid_ukcs_b3.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1309499089
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 103609,
+		"_sName": "de_pyramid_b3",
+		"_sText": "This is a complete rebuild of de_pyramid_css. everything was built from the ground up to be optimised to work on large servers. updates to the map are:\r\n\r\ndisplacements - no longer is the sand flat and boring. the whole map has been given bumpy ground to look more realistic and add depth.\r\n\r\nmore detail - the tall boring walls that block off the outside world are gone and replaced with detailed buildings to add more variety to the map. \r\n\r\noptimised - I rebuilt every building to take advantage of all the techniques the source sdk has to lower the framerate. \r\n\r\nOriginal map http://gamebanana.com/css/maps/12593"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_pyramid_7up.bsp",
+						"de_pyramid_7up.nav"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 276801,
+				"_nDownloadCount": 1772,
+				"_nFilesize": 2366145,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/276801",
+				"_sFile": "de_pyramid_7up.rar",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1472328041
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 103608,
+		"_sName": "de_pyramid_7up",
+		"_sText": "He underwent used in cutting, rep Terry smesch?n.dobavlenny stairs, improved balance, and now reaches the terra used as well as kt.Uveren players like change."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_pyramidisauna_v3.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 303194,
+				"_nDownloadCount": 2152,
+				"_nFilesize": 1101394,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/303194",
+				"_sFile": "de_pyramidisauna_v3.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1336146871
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 103607,
+		"_sName": "de_pyramidisauna_v3",
+		"_sText": "Version 3 of my pyramid sauna map."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"maps": [
+							"de_pyramidisauna.bsp"
+						]
+					}
+				},
+				"_bContainsExe": false,
+				"_idRow": 304802,
+				"_nDownloadCount": 1816,
+				"_nFilesize": 947205,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/304802",
+				"_sFile": "de_pyramidisauna.zip",
+				"_sMd5Checksum": "",
+				"_tsDateAdded": 1330269869
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 103606,
+		"_sName": "de_pyramidisauna",
+		"_sText": "A sauna bomb/defuse map. The sauna is inside a pyramid."
+	}
+]

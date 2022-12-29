@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"gg_intersect.bsp",
+					"gg_intersect_non_hdr.bsp"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 350176,
+			"_nDownloadCount": 1665,
+			"_nFilesize": 13191674,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/350176",
+			"_sFile": "gg_intersect_2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1184737810
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 135404,
+	"_sName": "gg_intersect",
+	"_sText": "I have been working on this map on and off for a couple of months now, and I finished it up several days ago.  I was going to wait for GunGame version 4 to be released and create custom DM spawn points for it to be included, but I decided to go ahead an release it now and I will add the custom spawn points at a later time.  This map has all custom content embedded in the bsp, and includes a radar overview as well as HDR and a 3D skybox.  The bsp is rather large at 32.4 MBs uncompressed, so I recommend that you have fast download setup on your server for this map.  The map size itself is also rather large, so it plays better with more players.  I have been asked by someone who play tested it to make a smaller version using similar layout but cutting off some of the outer areas and I may do that for smaller servers.  \r\n\r\nEdit:  August 26, 2007.  I have added gg_intersect_non_hdr which is identical except that it was compiled without hdr so the file size is less than half that of the original.  This will hopefully help those with a more limited amount of bandwidth.  "
+}

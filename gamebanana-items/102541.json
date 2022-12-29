@@ -1,0 +1,106 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "de_gridfest.bsp",
+					"1": "de_gridfest.nav",
+					"2": "de_gridfest.txt",
+					"materials": {
+						"de_gridfest": [
+							"babadonker.vmt",
+							"babadonker.vtf",
+							"dev_measuregeneric02.vmt",
+							"dev_measuregeneric02.vtf",
+							"dev_measuregeneric02_normal.vtf",
+							"dev_measuregeneric03.vmt",
+							"dev_measuregeneric03.vtf",
+							"dev_measuregeneric03_normal.vtf",
+							"dev_measuregeneric04.vmt",
+							"dev_measuregeneric04.vtf",
+							"dev_measuregeneric04_normal.vtf",
+							"teafart2.vmt",
+							"teafart2.vtf"
+						]
+					},
+					"sound": {
+						"0": "sound.cache",
+						"de_gridfest": [
+							"radio_gridfest1.wav",
+							"radio_rusgres1.wav"
+						]
+					}
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 495810,
+			"_nDownloadCount": 122,
+			"_nFilesize": 51838194,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "Newest version",
+			"_sDownloadUrl": "https://gamebanana.com/dl/495810",
+			"_sFile": "de_gridfest_v131.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1605332700
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Added a tunnel at the T-side of A."
+				},
+				{
+					"cat": "Improvement",
+					"text": "Improved T spawn to look better."
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Once again, bug fixes."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Version 1.3.1",
+			"_tsDateAdded": 1605332640
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Added a hallway at Bombsite B to"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Adjusted a normalmap to make it look acceptable."
+				},
+				{
+					"cat": "Improvement",
+					"text": "Improved lightmaps."
+				},
+				{
+					"cat": "Addition",
+					"text": "Added a rather buggy, but still; useable ladder at Connector between A and T spawn ledge."
+				},
+				{
+					"cat": "Addition",
+					"text": "Navigation Mesh added."
+				},
+				{
+					"cat": "Addition",
+					"text": "Added a location at the pit at A, but i don't know what to call it."
+				}
+			],
+			"_sText": "And the file size of the map is.....&nbsp;<i>drumroll&nbsp; </i>32.1 MB! The main reason for this is the, well, low lightmaps.<br><br>And the navigation mesh is still buggy, but regardless; It's still playable. And i have no skill in editing .nav files.",
+			"_sTitle": "Version 1.3",
+			"_tsDateAdded": 1604626413
+		}
+	],
+	"_idRow": 102541,
+	"_sName": "de_gridfest",
+	"_sText": "My first map, because why not.<br><br>Also, i named this map after the \"grid\"-like design of the main part of the map, and where is Bombsite A located.<br><br>Patches coming soon.... Maybe, maybe soon.<br><br>Also, the .txt \"briefing\" file:<br>\"Operation Devtown - Bomb Defusal<br><br>Terrorists have been allegedly sending bomb threats to a facillity in Devtown, New Hammersville. The company owning the facillity, \"Facillities Inc.\"<br><br>And when the day that the bomb will get planted, a group of Counter-Terrorists have arrived to the facillity as a result of the bomb threat reports.\"<br>"
+}

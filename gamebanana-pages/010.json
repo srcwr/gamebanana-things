@@ -1,0 +1,1853 @@
+[
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_bugger.bsp",
+						"de_bugger.nav",
+						"de_bugger.txt"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 744703,
+				"_nDownloadCount": 458,
+				"_nFilesize": 26931806,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "bsp, nav & txt file",
+				"_sDownloadUrl": "https://gamebanana.com/dl/744703",
+				"_sFile": "de_bugger_fixed.7z",
+				"_sMd5Checksum": "121bec580b2708a6f8f372b97abe4566",
+				"_tsDateAdded": 1644355280
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 355996,
+		"_sName": "de_bugger",
+		"_sText": "Decided to make a standard office type map. Thanks and respects go to \r\nBlack Mesa Source team (borrowed some of the office props: to make it \r\nclear - assets have been taken from the MOD version, downloaded legally \r\nat the time it was free), CS:GO creators for the magnificent vertigo 3D \r\nskybox. One bomb plant point, 16 spawn points per team. Greets and \r\nthanks go to QFactor for the canteen soundtrack (well, I did the bass on\r\n it, yeah :)<br><br>Peace!<br><br>PS. This is basically a bugfix release based on <a href=\"https://gamebanana.com/mods/101302\">this</a> deprecated map.<br><br>Update: fixed 3D skybox alignment (reported by <a class=\"MemberLink\" href=\"https://gamebanana.com/members/1770670\">JAM_HK416</a>: see comment below).<br>"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"awp_apartments.bsp",
+						"readme.txt"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 786405,
+				"_nDownloadCount": 149,
+				"_nFilesize": 964435,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "Updated Map README INSIDE",
+				"_sDownloadUrl": "https://gamebanana.com/dl/786405",
+				"_sFile": "awp_apartments.zip",
+				"_sMd5Checksum": "4faddaa00d8aa11f1c5e8236b25e3336",
+				"_tsDateAdded": 1650479822
+			}
+		],
+		"_aLatestUpdates": [
+			{
+				"_aChangeLog": [
+					{
+						"cat": "Addition",
+						"text": "ADDED CUBEMAPS!!!!!!!!!"
+					},
+					{
+						"cat": "Addition",
+						"text": "Added credits (Custom Texture)"
+					},
+					{
+						"cat": "Adjustment",
+						"text": "Adjusted the door flags. Now you can open and close however you want"
+					},
+					{
+						"cat": "Removal",
+						"text": "Removed auto close on door"
+					}
+				],
+				"_sText": "",
+				"_sTitle": "ENHANCEMENT",
+				"_sVersion": "1.3",
+				"_tsDateAdded": 1650479759
+			},
+			{
+				"_aChangeLog": [
+					{
+						"cat": "Addition",
+						"text": "Added ligthing inside buildings"
+					},
+					{
+						"cat": "Addition",
+						"text": "Added The Sun"
+					},
+					{
+						"cat": "Addition",
+						"text": "Added some debris outside"
+					},
+					{
+						"cat": "Addition",
+						"text": "Added better stairs to enter the buildings"
+					},
+					{
+						"cat": "Removal",
+						"text": "Removed Inside Props"
+					},
+					{
+						"cat": "Bugfix",
+						"text": "Fixed textures twitcing"
+					}
+				],
+				"_sText": "",
+				"_sTitle": "REMASTER",
+				"_sVersion": "1.2",
+				"_tsDateAdded": 1647718322
+			}
+		],
+		"_idRow": 355721,
+		"_sName": "awp_apartments v1.3",
+		"_sText": "A small awp sniper war map. CT and T spawn on one of the apartments 5 floors. Shoot through breakable glass, hide in debris outside, but most importanly... <i>die to fall damage</i>.<br><br><b>!!THIS MAP HAS FALL DAMAGE!!</b><br><br>"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_pitstop.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 741255,
+				"_nDownloadCount": 556,
+				"_nFilesize": 221563927,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/741255",
+				"_sFile": "de_pitstop.rar",
+				"_sMd5Checksum": "1d7d8c9635441707bcdcc95311034088",
+				"_tsDateAdded": 1643892780
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 355205,
+		"_sName": "de_pitstop",
+		"_sText": "de_pitstop is a port of the de_pitstop from the Counter-Strike: Global Offensive game.<br><br>In this rapid paced scenario, play as the terrorists to execute a bomb plot on the pitlane of a European street race track. Fast cars with even faster round times; fight to reach pole position in this wingman map.<br><br>"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"surf_bonk.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 741395,
+				"_nDownloadCount": 47,
+				"_nFilesize": 14765890,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/741395",
+				"_sFile": "surf_bonk_d11d6.7z",
+				"_sMd5Checksum": "73eedd34e0bc28079010db1c35e71a2a",
+				"_tsDateAdded": 1643913448
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 355181,
+		"_sName": "surf_bonk",
+		"_sText": "Map by TheJazzAgenT?<br><br>Tier 4<br><br>Bonus 1 - Tier 4 - by TheJazzAgenT?<br><br>Bonus 2 - Tier 2 - by TheJazzAgenT?<br><br>Designed for 66t, aa150, 3500 maxvel<br><br>Thanks to everyone who tested, and the ksf mapping discord."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"jb_mlcastle_refurbished.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 740650,
+				"_nDownloadCount": 102,
+				"_nFilesize": 86557087,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/740650",
+				"_sFile": "jb_mlcastle_refurbished.rar",
+				"_sMd5Checksum": "61a99c40f7c671b30778afeb429165d9",
+				"_tsDateAdded": 1643816026
+			},
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"jb_mlcastle_refurbished_v1.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 741954,
+				"_nDownloadCount": 42,
+				"_nFilesize": 88661840,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/741954",
+				"_sFile": "jb_mlcastle_refurbished_v1.rar",
+				"_sMd5Checksum": "5a6f7ab45b29333a938d7c3841e6bfee",
+				"_tsDateAdded": 1643988793
+			},
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"jb_mlcastle_refurbished_v2.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 774563,
+				"_nDownloadCount": 57,
+				"_nFilesize": 88700003,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/774563",
+				"_sFile": "jb_mlcastle_refurbished_v2.rar",
+				"_sMd5Checksum": "f6b7d8b15a0b0ecc8a5e9c227467f2e2",
+				"_tsDateAdded": 1648744413
+			},
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"jb_mlcastle_refurbished_v3.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 783665,
+				"_nDownloadCount": 66,
+				"_nFilesize": 88695765,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/783665",
+				"_sFile": "jb_mlcastle_refurbished_v3.rar",
+				"_sMd5Checksum": "38e09590a45335ac4c8a6f7128f85aeb",
+				"_tsDateAdded": 1650048896
+			}
+		],
+		"_aLatestUpdates": [
+			{
+				"_aChangeLog": [
+					{
+						"cat": "Bugfix",
+						"text": "Fixed not being able to start Star Pit."
+					},
+					{
+						"cat": "Bugfix",
+						"text": "Fixed issue with sounds not playing occasionally leading to a game crash."
+					},
+					{
+						"cat": "Adjustment",
+						"text": "Placed walls to prevent players from pressing other podiums buttons in trivia."
+					}
+				],
+				"_sText": "",
+				"_sTitle": "v3",
+				"_tsDateAdded": 1650046386
+			},
+			{
+				"_aChangeLog": [
+					{
+						"cat": "Adjustment",
+						"text": "Changed weapons spot in armory to prevent being able to pick them through armory window wall."
+					},
+					{
+						"cat": "Bugfix",
+						"text": "Fixed losers Teleport in Mario Kart"
+					},
+					{
+						"cat": "Bugfix",
+						"text": "CTs can't shoot inside star pit anymore to prevent the game from bugging out."
+					}
+				],
+				"_sText": "",
+				"_sTitle": "v2",
+				"_tsDateAdded": 1648744609
+			}
+		],
+		"_idRow": 355009,
+		"_sName": "jb_mlcastle_refurbished",
+		"_sText": "This is a complete port of the newly refurbished version of the <a href=\"https://gamebanana.com/mods/74653\">original</a> legendary mlcastle jailbreak map made by <a href=\"https://gamebanana.com/members/1377627\">zakariasan2</a> that can be found here:<br><a href=\"https://gamebanana.com/mods/348986\">https://gamebanana.com/mods/348986</a><br><br>There are 25 minigames on the map! Here is the list of minigames:<br>- Star Pit--> (Reworked for CSS)<br>- Minefield<br>- Bumble Beam --> (Replaced with Crazy Crate for CSS)<br>- Arena<br>- Big Bob-Omb Blast<br>- Fall Game<br>- Sweeper<br>- Deathrun<br>- Dodgeball<br>- Theatre<br>- Temple Tumble<br>- Nine Square<br>- Hexagon Heat<br>- Obstacle Course<br>- Pool<br>- Stairway to Heaven<br>- Stage Chaos<br>- Steady Pace<br>- Soccer<br>- Box Game<br>- Club Mushroom<br>- Trivia<br>- Diner<br>- Donkey Kong<br>- Mario Kart<br><br>Enjoy!"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"surf_slobs.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 740124,
+				"_nDownloadCount": 69,
+				"_nFilesize": 8280664,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/740124",
+				"_sFile": "surf_slobs.zip",
+				"_sMd5Checksum": "0557c9326fff1f38393e8fd5fc1d8971",
+				"_tsDateAdded": 1643745727
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 354850,
+		"_sName": "surf_slobs",
+		"_sText": "Fruits-esque map with like 5 unused stages from other projects.<br><br><hr>Tier: 3<br>Stages: 16<br><br>Bonus 1 by Marco<br>Bonus 2 by kaj"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"surf_pandora.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 739410,
+				"_nDownloadCount": 245,
+				"_nFilesize": 47885544,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/739410",
+				"_sFile": "surf_pandora_9f804.rar",
+				"_sMd5Checksum": "4478be4ab6dc2f6d01962da3c1f16077",
+				"_tsDateAdded": 1643653643
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 354615,
+		"_sName": "surf_pandora",
+		"_sText": "<span class=\"VIiyi\" lang=\"en\"><span class=\"JLqJ4b ChMk0b\" data-language-for-alternatives=\"en\" data-language-to-translate-into=\"ru\" data-phrase-index=\"2\" data-number-of-phrases=\"3\"><span class=\"VIiyi\" lang=\"en\"><span class=\"JLqJ4b ChMk0b\" data-language-for-alternatives=\"en\" data-language-to-translate-into=\"ru\" data-phrase-index=\"0\" data-number-of-phrases=\"3\">the map was created in 8 days for the Mapping Contest 2021, this is the fastest mapping =) .</span> <span class=\"JLqJ4b ChMk0b\" data-language-for-alternatives=\"en\" data-language-to-translate-into=\"ru\" data-phrase-index=\"1\" data-number-of-phrases=\"3\">Unfortunately, I didn't have much time to create the map.</span> <span class=\"JLqJ4b ChMk0b\" data-language-for-alternatives=\"en\" data-language-to-translate-into=\"ru\" data-phrase-index=\"2\" data-number-of-phrases=\"3\">there are some visual bugs, but they are not very noticeable and do not affect the gameplay =)<br><br></span></span> </span></span><br>&nbsp;<span class=\"VIiyi\" lang=\"en\"><span class=\"JLqJ4b ChMk0b\" data-language-for-alternatives=\"en\" data-language-to-translate-into=\"ru\" data-phrase-index=\"0\" data-number-of-phrases=\"1\">linear tier2 , maxvel 3500</span></span> <br>"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"surf_fantasy.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 739193,
+				"_nDownloadCount": 179,
+				"_nFilesize": 350651322,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/739193",
+				"_sFile": "surf_fantasy.zip",
+				"_sMd5Checksum": "e521d94278be268abd5cd1ff7053e1fd",
+				"_tsDateAdded": 1643614142
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 354505,
+		"_sName": "surf_fantasy",
+		"_sText": "Welcome to surf_fantasy, the winner of the KSF Mapping Contest | Winter 2021 and my seventh skill surf map. The theme of the map is that of a fantasy land, loosely inspired by imagery and architecture found in LOTR, as well as Art Nouveau and other general fantasy themes and concepts. The map is of a casual difficulty level with a surf style that can be enjoyed by a range of surfers. I hope you have fun on the map!<br><br>Tier 3<br>4 Stages&nbsp;<br>3500 maxvelocity<br><br>Special thanks to KSF and the judges for hosting and running the event, as well as everyone who contributed to the prize pool and the mappers for making this contest the best one yet!<br>"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"surf_kepler.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 738873,
+				"_nDownloadCount": 89,
+				"_nFilesize": 59698171,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/738873",
+				"_sFile": "surf_kepler.zip",
+				"_sMd5Checksum": "dca4f499ef51db2982ba16265307edcc",
+				"_tsDateAdded": 1643579783
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 354409,
+		"_sName": "surf_kepler",
+		"_sText": "Created for the 2021 KSF winter mapping competition in about 2 weeks.<br>Theme is the alien world of <a href=\"https://en.wikipedia.org/wiki/Kepler-452b\" target=\"_blank\">Kepler 452b</a>, an earthlike exoplanet located about 1,400 light years from Earth.<br><br>Staged linear with 9 stages taking about 1:00 - 1:10 to complete if run linear. Native momentum zones are included in the map file.<br>Bonuses by Apexe and Sneakyy<br>3500 maxvel<br><br>All assets were created from scratch&nbsp;in 3dsmax&nbsp;for this map exclusively. Most textures are modified from textures.com. Naturally the skybox is Mr.Who's.<br><br>Big thanks to Shawn Olson for creating Wall Worm Model Tools!<br><br>Zones for server owners:<br>zone_stage1<br>...<br>zone_stage9<br>zone_end<br>zone_bonus1_start&nbsp; (Apexe)<br>zone_bonus1_end<br>zone_bonus2_start (Sneakyy)<br>zone_bonus2_end<br>"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"stuff.txt",
+						"surf_sirius.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 738862,
+				"_nDownloadCount": 67,
+				"_nFilesize": 25417798,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/738862",
+				"_sFile": "surf_sirius_css.zip",
+				"_sMd5Checksum": "c389b1ca72693ca8491b837e3009aad6",
+				"_tsDateAdded": 1643579089
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 354405,
+		"_sName": "surf_sirius",
+		"_sText": "Otherworldly surf map inspired by \"Flying Whales\"  <br>  <br>Tier 3 Linear <br>3 bonuses <br>10k maxvel <br>  <br>Extra info about the map is in the included txt file :)"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"surf_fractal.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 737636,
+				"_nDownloadCount": 94,
+				"_nFilesize": 24224123,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/737636",
+				"_sFile": "surf_fractal.zip",
+				"_sMd5Checksum": "a6fc1d1d48f7ac7665a966b51cbaee5e",
+				"_tsDateAdded": 1643456564
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 353938,
+		"_sName": "Surf_Fractal",
+		"_sText": "My contribution to the KSF winter mapping contest, took me about 3 weeks<br>You want 5k maxvel.<br><br>All assets I either created or are default CSS assets.<br>____________________________________________________________<br>I named the spawns wildly so if you're a zoner my b;<br>Ken is S1 <br>Vanessa is S2<br>Adam is S3<br>Barry is S4<br><div class=\"SelectedElement\">Chuck is S5</div>____________________________________________________________"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"bhop_moomymilkers.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 770247,
+				"_nDownloadCount": 8,
+				"_nFilesize": 9888209,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/770247",
+				"_sFile": "bhop_moomymilkers.zip",
+				"_sMd5Checksum": "604769e2a64d0943a8b803b0728ac479",
+				"_tsDateAdded": 1648084166
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 353618,
+		"_sName": "bhop_moomymilkers",
+		"_sText": "RETEXTURED AND MODELED<br><img src=\"https://cdn.discordapp.com/attachments/913526352785854515/942988822042513428/Counter-strike_Global_Offensive_Screenshot_2022.02.14_-_19.39.53.19.png\"><br>port from roblox<br>mapper: zephu <br>map name: bloppybricks<br>ported and retextured by me<br>models, skybox and textures were all custom and not apart of the roblox map <br>i was inspired to make this when i accidentally turned fuckdream water milky white lul<br>this map was sooo fun and i will be porting to csgo soon and i will be releasing a model pack and the textures that i used, later on :) <br>have fun <br><br>"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"surf_angst.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 736605,
+				"_nDownloadCount": 227,
+				"_nFilesize": 56364564,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/736605",
+				"_sFile": "surf_angst.7z",
+				"_sMd5Checksum": "8a6f2d776b5730c595071ac632197eec",
+				"_tsDateAdded": 1643325072
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 353574,
+		"_sName": "surf_angst",
+		"_sText": "A linear, tier 4 surf map.<br>"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"bhop_streif_andromeda.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 736417,
+				"_nDownloadCount": 52,
+				"_nFilesize": 7687241,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/736417",
+				"_sFile": "bhop_streif_andromeda_1a209.rar",
+				"_sMd5Checksum": "d9a6278065aaf4c06dca926c86e02a49",
+				"_tsDateAdded": 1643310569
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 353501,
+		"_sName": "bhop_streif_andromeda",
+		"_sText": ":P bhop&nbsp;<br>CmJump top"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"0": "Map Info.txt",
+						"1": "surf_zenith.bsp",
+						"bspizpped": [
+							"surf_zenith.bsp"
+						]
+					}
+				},
+				"_bContainsExe": false,
+				"_idRow": 736125,
+				"_nDownloadCount": 56,
+				"_nFilesize": 72182748,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/736125",
+				"_sFile": "surf_zenith.rar",
+				"_sMd5Checksum": "cf0ba180dd79eaa55f88fb8bd447d3d2",
+				"_tsDateAdded": 1643261879
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 353387,
+		"_sName": "surf_zenith",
+		"_sText": "Tier 2 Linear<br><br>3500 Maxvel<br><br>Made for \"KSF Mapping Contest Winter 2021\""
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"bhop_stoneblox.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 736078,
+				"_nDownloadCount": 35,
+				"_nFilesize": 8251676,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/736078",
+				"_sFile": "bhop_stoneblox.7z",
+				"_sMd5Checksum": "d5760557ba8a4251f78472b38b341eef",
+				"_tsDateAdded": 1643251858
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 353359,
+		"_sName": "bhop_stoneblox",
+		"_sText": "ported from roblox<br>original mapper: dankhops<br>map name: stoneworks<br>ported for m1ners"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"bhop_bistro_2.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 735707,
+				"_nDownloadCount": 36,
+				"_nFilesize": 8459939,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/735707",
+				"_sFile": "bhop_bistro_2_9ea5e.rar",
+				"_sMd5Checksum": "ce45b8e164ee5e98fa83ab63a7cd8eb9",
+				"_tsDateAdded": 1643206313
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 353188,
+		"_sName": "bhop_bistro_2",
+		"_sText": "bhop bistro ! <br><br>"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"bhop_xeimon.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 735645,
+				"_nDownloadCount": 27,
+				"_nFilesize": 1575573,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/735645",
+				"_sFile": "bhop_xeimon_120d6.zip",
+				"_sMd5Checksum": "5c7749f3229cef5e96eee1ebfdbb57bb",
+				"_tsDateAdded": 1643195125
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 353166,
+		"_sName": "bhop_xeimon (CSS)",
+		"_sText": "Original map:&nbsp;<a href=\"https://gamebanana.com/mods/78656\">https://gamebanana.com/mods/78656</a><br><br>Tier: 1-2"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"bhop_unicolor.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 735639,
+				"_nDownloadCount": 55,
+				"_nFilesize": 2295948,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/735639",
+				"_sFile": "bhop_unicolor_1d2cb.zip",
+				"_sMd5Checksum": "59369671e5050bc432649c5f63a26856",
+				"_tsDateAdded": 1643193598
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 353162,
+		"_sName": "bhop_unicolor (CSS)",
+		"_sText": "Original map:&nbsp;<a href=\"https://gamebanana.com/mods/78604\">https://gamebanana.com/mods/78604</a><br><br>Tier: 2-3"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"surf_polytron.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 735562,
+				"_nDownloadCount": 40,
+				"_nFilesize": 20649549,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/735562",
+				"_sFile": "surf_polytron.zip",
+				"_sMd5Checksum": "56bac177d1eaae31f22293e079b95fa4",
+				"_tsDateAdded": 1643168543
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 353127,
+		"_sName": "surf_polytron",
+		"_sText": "T5 Linear by Develo<br>1 Bonus<br><br>Made for the KSF Winter 2021 Mapping Contest<br><br>Special Thanks to TaiiKii for testing/showcase<br><br>Counter Strike: Global Offensive Download (GameBanana): <a href=\"https://gamebanana.com/mods/355623\">https://gamebanana.com/mods/355623</a><br>Counter Strike: Global Offensive Download (Workshop): <a href=\"https://steamcommunity.com/sharedfiles/filedetails/?id=2743410279\">https://steamcommunity.com/sharedfiles/filedetails/?id=2743410279</a><br>"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"bhop_pj_prologue.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 735383,
+				"_nDownloadCount": 62,
+				"_nFilesize": 10009980,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/735383",
+				"_sFile": "bhop_pj_prologue.zip",
+				"_sMd5Checksum": "c3bbbea1336f8f11067d2e687cc947d6",
+				"_tsDateAdded": 1643145194
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 353053,
+		"_sName": "bhop_pj_prologue (CSS)",
+		"_sText": "port from csgo<br>map by <a href=\"https://steamcommunity.com/id/Cirno1929\">cirno9</a>"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"bhop_plars_hell.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 735104,
+				"_nDownloadCount": 78,
+				"_nFilesize": 9133288,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/735104",
+				"_sFile": "bhop_plars_hell.rar",
+				"_sMd5Checksum": "e58d0f6b36d0b27d66c1413d307dacdf",
+				"_tsDateAdded": 1643101434
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 352931,
+		"_sName": "bhop_plars_hell",
+		"_sText": "Very hard and challenging short map"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"bhop_fuckdream_css.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 770248,
+				"_nDownloadCount": 13,
+				"_nFilesize": 20046685,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/770248",
+				"_sFile": "bhop_fuckdream_css.zip",
+				"_sMd5Checksum": "f1f1832ba68260f7de5e4219a867af72",
+				"_tsDateAdded": 1648084183
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 352923,
+		"_sName": "bhop_fuckdream",
+		"_sText": "ported from csgo<br>fun map, pretty textures and lighting, one headsurf<br>20s"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"bhop_magnoir_css.bsp",
+						"from_author.txt"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 734257,
+				"_nDownloadCount": 39,
+				"_nFilesize": 1795161,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/734257",
+				"_sFile": "bhop_magnoir_6b0b1.7z",
+				"_sMd5Checksum": "66c52e79a025c0aab319094eaf05270d",
+				"_tsDateAdded": 1642996806
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 352689,
+		"_sName": "bhop_magnoir",
+		"_sText": "ported from csgo:<br>(https://gamebanana.com/mods/78195)<br>bhop_magnoir<br><br><div class=\"SelectedElement\">created by emKay</div>release date: 2020-12-17<br><br>steam: https://steamcommunity.com/id/sasiadofc/<br><br><div class=\"SelectedElement\">discord: emKay#9189</div><br>\"Casual map designed to play on TR 128 & autobhop.<br>Tier: ? (surely <1 min)<br>My first take on creating a bhop map, hope you like it :)<br>Special thanks to <a href=\"https://www.youtube.com/channel/UCECPQOBGJ52HgNabDbVcMwQ\" target=\"_blank\">vegazzz</a> for playtesting the map.<br><a href=\"https://steamcommunity.com/id/sasiadofc/myworkshopfiles/\" target=\"_blank\">Check my other workshop creations!</a><a href=\"https://null/\"><br></a>Enjoy the map :D\"<br><br>this was ported for Dawn :)"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"surf_verge": [
+							"surf_verge.bsp"
+						]
+					}
+				},
+				"_bContainsExe": false,
+				"_idRow": 734088,
+				"_nDownloadCount": 122,
+				"_nFilesize": 20250960,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/734088",
+				"_sFile": "surf_verge.zip",
+				"_sMd5Checksum": "98a26652a4de9c0ef7b6d6e744e07b02",
+				"_tsDateAdded": 1642975140
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 352613,
+		"_sName": "surf_verge",
+		"_sText": "surf_verge<br>Tier 2<br>Linear<br>no bonuses<br><br>this map was created in approximately 10 days for the KSF mapping contest winter 2021. <br><br>I hope some of you will enjoy :)<br>"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"bhop_birogl_fly.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 734078,
+				"_nDownloadCount": 57,
+				"_nFilesize": 31491139,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/734078",
+				"_sFile": "bhop_birogl_fly.zip",
+				"_sMd5Checksum": "893a52023c4c6db280a2a02f6bb3d450",
+				"_tsDateAdded": 1642974158
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 352604,
+		"_sName": "bhop_birogl_fly (CSS)",
+		"_sText": "port from csgo<br>"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"bhop_bigshorts2.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 733830,
+				"_nDownloadCount": 28,
+				"_nFilesize": 6933617,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/733830",
+				"_sFile": "bhop_bigshorts2.rar",
+				"_sMd5Checksum": "49ff59558b14f18dbbbee1f7193d06c6",
+				"_tsDateAdded": 1642947106
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 352377,
+		"_sName": "bhop_bigshorts2",
+		"_sText": "bhop by benjamin<br><br>thanks to cammy for skybox and texturing<br>"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"bhop_zzzz.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 733511,
+				"_nDownloadCount": 73,
+				"_nFilesize": 18621801,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/733511",
+				"_sFile": "bhop_zzzz.zip",
+				"_sMd5Checksum": "c30505fa9e16971bd4444d2979537583",
+				"_tsDateAdded": 1642901655
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 352371,
+		"_sName": "bhop_zzzz",
+		"_sText": "A bhop strafe map.<br><br>its around 30 seconds long, and it has a short bonus.<br><br>Thanks to Aventus and Mølgaard for testing the map and making the showcase video."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"bhop_museum_fix2.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 737945,
+				"_nDownloadCount": 59,
+				"_nFilesize": 38136195,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/737945",
+				"_sFile": "bhop_museum_fix2.rar",
+				"_sMd5Checksum": "c79001ff83e1529eb6b35b65f476ccc2",
+				"_tsDateAdded": 1643485782
+			}
+		],
+		"_aLatestUpdates": [
+			{
+				"_aChangeLog": [
+					{
+						"cat": "-",
+						"text": "should be good now"
+					}
+				],
+				"_sText": "The first _fix did fix a certain situation, however the map could still be abused fairly easily. The problem was that the checkpoint reset was RNG when a person would reset their timer inside of it. The fix to this was suggested by Nira and it seems to have fixed it. The fix was to put 4 separate reset_triggers around the  starting zone so that there was no conflict between the timer and the trigger. Snippsku did some testing and everything appears to be good this time around. <br><br>If it's still broken then idk.<br><br>Also startzone has been moved back to accommodate this change.",
+				"_sTitle": "_fix2",
+				"_tsDateAdded": 1643486678
+			},
+			{
+				"_aChangeLog": [
+					{
+						"cat": "Bugfix",
+						"text": "\"Fixing\" the bug that nope discovered, where you could get a 6s run in normal."
+					}
+				],
+				"_sText": "The thing is about this bug, is that it should of never happened on a normal run. What had happened was that Nope completed a segmented run on the map and then went to normal mode and wanted to see what would happen if he went to the final teleport straight out of spawn. Luckily for him, it worked and broke the map. This shouldn't have happened because the checkpoint reset is in the start zone. What I did to \"fix\" this was adding a second reset zone directly in the end room. I am not 100% confidently positive that this fixes the problem on normal. Theoretically it shouldn't of been possible. However, hopefully with this 2nd zone it is 2x as hard for it to happen. Nope, Judge (blvd) and I tested it for awhile and I tested it for around an hour on my own and could not repeat the problem.<br><br>Unfortunately, the map is always going to be broken on segmented. Due to the fact that you can just fly around the map and collect checkpoints and then teleport back to a save and boost up. I have no idea how other maps have avoided this problem (if they have). But I fear it's probably something I can't fix.<br><br>Apologies for making a flawed map. It'll be up to server managers to remove glitched segmented times if they want to. Hopefully they won't have to on normal runs.",
+				"_sTitle": "_fix",
+				"_tsDateAdded": 1643165200
+			}
+		],
+		"_idRow": 352114,
+		"_sName": "bhop_museum_fix2",
+		"_sText": "<br>Bhop_museum is a map that features Tony Montana's non-linear checkpoint system. The map spawns you in at the start point in the middle of the map. From here, you have the freedom to choose which path you want to go first, and which paths you want to go from there.<br><br>The map features four wings:<br><br><ul><li>Military Wing</li><li>Classical Wing</li><li>Modern Wing</li><li>Cultural Wing<br><br></li></ul>Each of these hallways leads to a room that must be completed. Upon completion, you may use the booster and elevate yourself up to the red platform above spawn. Which will then teleport you to the end room. Nonetheless, I am proud of this map and I believe it to my best. I have a very unhealthy tendency to get obsessed with a map, and grind all of my free-time with it. Funny enough, I made the map in about 8 days. However, each of those days I literally spent 8-14 hours grinding it out (I really, really wish I was exaggerating). I hope that everybody can appreciate it, as it is my first map with a truly unique theme.<br><br>All of the paintings and text were originally uploaded by me.<br><br>The gameplay overall is tier 3, with segmented times running from 1:30 to 1:40. A few of the wings have multiple route and skip options depending on how much speed you are. Also, due to the non-linear nature, there should be a lot of replayability. Hopefully if I designed the map decently, there should be a few decent viable level orders. There is also a 20-30 second bonus. The bonus teleporter is stuck behind the first wing (military wing). Thank you guys for playing this, and as always, if there is a problem, please let me know ASAP so I can fix it for everyone! <3<br><br>Map should be possible on scroll."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"bhop_spearmint_css.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 770249,
+				"_nDownloadCount": 10,
+				"_nFilesize": 1212281,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/770249",
+				"_sFile": "bhop_spearmint_css.zip",
+				"_sMd5Checksum": "52dd3b5f9d27af82aa25cc1f8ce81c06",
+				"_tsDateAdded": 1648084212
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 352108,
+		"_sName": "bhop_spearmint",
+		"_sText": "ported from roblox<br>author is roblox user: Cobalt1164<br><br>**sorry for another neon green map xd**<br>ported for my pal boyza<br>curly and m1ners, thank u soooo much for playtesting!"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"bhop_cherryblossom_css.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 770251,
+				"_nDownloadCount": 36,
+				"_nFilesize": 9095028,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/770251",
+				"_sFile": "bhop_cherryblossom_css.zip",
+				"_sMd5Checksum": "8ddc3ef111c2dbf2dbdc1076979a376c",
+				"_tsDateAdded": 1648084295
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 351876,
+		"_sName": "bhop_cherryblossom",
+		"_sText": "ported to css from csgo<br>orig: https://gamebanana.com/mods/77785<br>enjoy ^w^<br><br>THANK U serz  for testing + troubleshooting"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"bhop_kz_sewer_ladderfix.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 731538,
+				"_nDownloadCount": 28,
+				"_nFilesize": 16036526,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/731538",
+				"_sFile": "bhop_kz_sewer_ladderfix.rar",
+				"_sMd5Checksum": "b29f68f55582a8e3239a7942480677bc",
+				"_tsDateAdded": 1642597050
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 351556,
+		"_sName": "bhop_kz_sewer_ladderfix",
+		"_sText": "I really like this map so here is a redistribute after fixing the ladders that broke on some servers, nothing else touched."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"surf_aura.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 731274,
+				"_nDownloadCount": 94,
+				"_nFilesize": 40541589,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/731274",
+				"_sFile": "surf_aura_source.zip",
+				"_sMd5Checksum": "24c77de9190d3cd6d49a0424407909f8",
+				"_tsDateAdded": 1642549902
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 351446,
+		"_sName": "surf_aura",
+		"_sText": "Tier: 1 <br>Stages: 6 <br>Bonuses: 8 <br><br>Designed and recorded on 66t, 150aa, 5a.<br><br><span class=\"SelectedElement\">All zones are hooked</span><br><br>"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"kz_bhop_northx.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 730804,
+				"_nDownloadCount": 57,
+				"_nFilesize": 134535913,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/730804",
+				"_sFile": "kz_bhop_northx.rar",
+				"_sMd5Checksum": "442fe079dd7468a2c34315ffc477b7e0",
+				"_tsDateAdded": 1642458179
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 351023,
+		"_sName": "kz_bhop_north FINAL!....updated",
+		"_sText": "A fairly difficult Kz Bhop MAP!<br><br>HAve fun, if you want to port it to csgo i'll make your life easier with the original VMF add me on discord from the sourcejump discord<br><br>A fixed version, changes:<br><br>Boosters are now multi hop instead of 1hop to make it less rng on scroll.<br><br>Adjusted several parts.<br><br>Added several check points on the more unforgiving parts.<br><br>Moved last level ladder 6 units closer to make it more forgiving on scroll.<br><br><div class=\"SelectedElement\">Cart is still on the map without textures. It's intended. Really.</div><br><br>PS! If you are having troubles with people downloading the wrong map from the server eventho you have deleted and cleared the old map from the server then it is most likely stored in the fast dl cache which you have to clear, if you don't have access to clear it then contact the people that run the fast dl and have them purge the file as it can take a while for it to disappear automatically."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"awp_foldingscreens.bsp",
+						"awp_foldingscreens.nav"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 729941,
+				"_nDownloadCount": 126,
+				"_nFilesize": 6233676,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/729941",
+				"_sFile": "awp_foldingscreens.zip",
+				"_sMd5Checksum": "9f00f183895af030bfa4f0caaabcf4c2",
+				"_tsDateAdded": 1642352039
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 350952,
+		"_sName": "awp_foldingscreens",
+		"_sText": "<span class=\"VIiyi\" lang=\"en\"><span class=\"JLqJ4b ChMk0b\" data-language-for-alternatives=\"en\" data-language-to-translate-into=\"ru\" data-phrase-index=\"0\" data-number-of-phrases=\"1\">The concept of the map is simple, lots of walls that you can shoot through and hit the enemy. </span></span><span class=\"VIiyi\" lang=\"en\"><span class=\"JLqJ4b ChMk0b\" data-language-for-alternatives=\"en\" data-language-to-translate-into=\"ru\" data-phrase-index=\"0\" data-number-of-phrases=\"1\">And it's all. Enjoy. <br><br></span></span>CS:GO version: <a href=\"https://gamebanana.com/mods/350955\">https://gamebanana.com/mods/350955</a><span class=\"VIiyi\" lang=\"en\"><span class=\"JLqJ4b ChMk0b\" data-language-for-alternatives=\"en\" data-language-to-translate-into=\"ru\" data-phrase-index=\"0\" data-number-of-phrases=\"1\"></span></span>"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"de_ism": [
+							"README.txt",
+							"de_ism.bsp"
+						]
+					}
+				},
+				"_bContainsExe": false,
+				"_idRow": 833610,
+				"_nDownloadCount": 170,
+				"_nFilesize": 34570907,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "Versión 1.2",
+				"_sDownloadUrl": "https://gamebanana.com/dl/833610",
+				"_sFile": "de_ism.7z",
+				"_sMd5Checksum": "7fbde82a2a21fadcd151264a0e117517",
+				"_tsDateAdded": 1658251862
+			},
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"de_ism": [
+							"README.txt",
+							"de_ism.bsp",
+							"de_ism.nav"
+						]
+					}
+				},
+				"_bContainsExe": false,
+				"_idRow": 729658,
+				"_nDownloadCount": 358,
+				"_nFilesize": 37965235,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "Versión 1.0",
+				"_sDownloadUrl": "https://gamebanana.com/dl/729658",
+				"_sFile": "de_ism.zip",
+				"_sMd5Checksum": "d63daf24daf3bda13d5bd8fdd8b6b36b",
+				"_tsDateAdded": 1642311584
+			}
+		],
+		"_aLatestUpdates": [
+			{
+				"_aChangeLog": [
+					{
+						"cat": "Overhaul",
+						"text": "Se reemplazaron las baldosas de los patios por baldosas más cercanas a las reales"
+					},
+					{
+						"cat": "Overhaul",
+						"text": "Se mejoró la reja del gimnasio por una más fiel a la real"
+					},
+					{
+						"cat": "Overhaul",
+						"text": "Se reemplazó la textura del suelo de madera de Secretaría, y del techo del Lobby de Carmen"
+					},
+					{
+						"cat": "Overhaul",
+						"text": "Se añadieron normals al metal rojo usado para los pilares"
+					},
+					{
+						"cat": "Overhaul",
+						"text": "Las baldosas de la calle ahora tienen normals"
+					},
+					{
+						"cat": "Overhaul",
+						"text": "El suelo de las escaleras de San Martín ahora tiene la \"goma\" que tiene en la realidad, junto a las viejas baldosas azules"
+					},
+					{
+						"cat": "Addition",
+						"text": "Se añadió un piano en el Salón Champagnat para cubrir a quienes entren por el patio de media superior de francotiradores que estén en el pasillo del segundo piso de media inicial, ya que podían ver hacia dentro desde el otro extremo"
+					},
+					{
+						"cat": "Addition",
+						"text": "Se añadieron las luces redondas del Lobby de Carmen"
+					},
+					{
+						"cat": "Addition",
+						"text": "Se añadieron urinales a los baños de hombres"
+					},
+					{
+						"cat": "Addition",
+						"text": "Mejoras a la skybox"
+					},
+					{
+						"cat": "Optimization",
+						"text": "Se reemplazaron muchos bordes de ladrillo rojos por texturas"
+					},
+					{
+						"cat": "Optimization",
+						"text": "Se reemplazaron marcos de ventanas que eran func_detail por texturas"
+					},
+					{
+						"cat": "Optimization",
+						"text": "Se ajustaron partes del mapa que no estaban en la malla"
+					},
+					{
+						"cat": "Optimization",
+						"text": "La calle se hizo parte de la skybox para mejorar el rendimiento"
+					},
+					{
+						"cat": "Tweak",
+						"text": "Mejoras leves de clipping"
+					},
+					{
+						"cat": "Bugfix",
+						"text": "Corrección de errores menores que afectaban el rendimiento"
+					}
+				],
+				"_sText": "",
+				"_sTitle": "",
+				"_sVersion": "1.2",
+				"_tsDateAdded": 1658252445
+			}
+		],
+		"_idRow": 350842,
+		"_sName": "de_ism",
+		"_sText": "Actualizado el 19/07/2022<br>-------------------------------------<br><br>Mapa basado en el Instituto San Martín de \r\nCuricó, tratando de ser lo más fiel al real.\r\nDisponible con todos sus patios y pasillos, acceso a \r\nla biblioteca, ex-biblioteca, secretaría, entradas de San Martín y \r\nCarmen, salón y gimnasio.<br><br>Usando memoria y fotos disponibles en la página web, se buscó \r\nrepresentar al colegio en el periodo en el que fui alumno. Se buscó priorizar la precisión sobre el gameplay, por lo que cada puerta, ventana y pilar, está donde debería estar en la vida real. Con el paso de los años algunas cosas han cambiado, pero el edificio es el mismo. <br><br>Debido a la gran cantidad de áreas abiertas y pasillos largos, rápidamente se darán cuenta de que los sniper son bastante OP. Si quieren divertirse, les recomiendo jugar sin ellos. <br><br>Para la ciudad, se retrata Curicó en el periodo de mediados de 2000s a 2010s, con varios edificios característicos que los ex alumnos podrán reconocer.<br><br>Este mapa se comenzó a desarrollar en febrero de 2019 y casi se terminó alrededor de julio de 2020. Por la universidad el lanzamiento se pospuso, pero finalmente podrán tener esta joyita en sus manos. <br><br>Con esto se cumple el sueño de todo alumno, poder jugar CS en su colegio xD<br><br>Agradecimientos especiales a todos quienes ayudaron a probar el mapa, y aportaron con su feedback para tratar de balancearlo. <br><br>"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"bhop_jellyfish.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 770252,
+				"_nDownloadCount": 10,
+				"_nFilesize": 10820567,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/770252",
+				"_sFile": "bhop_jellyfish.zip",
+				"_sMd5Checksum": "429aa140f770321a924577809f5e95f1",
+				"_tsDateAdded": 1648084311
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 350838,
+		"_sName": "bhop_jellyfish",
+		"_sText": "quick and fun<br>strafey abstract map by me :)<br><br>ill be uploading the jelly fish models soon if anyone wants to use them :)<img src=\"https://cdn.discordapp.com/attachments/931230469863907339/932140611354624040/Untitled.png\" class=\"SelectedElement\"><br>thx dewb, stew, twisty, lilac, boyza, vortex for testing and demo<br><br>thank u aurum for showcase vid !!!!"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"bhop_intertwined.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 728875,
+				"_nDownloadCount": 62,
+				"_nFilesize": 3389266,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/728875",
+				"_sFile": "bhop_intertwined.zip",
+				"_sMd5Checksum": "33fd6d4a5e057236e924f41c78ee3264",
+				"_tsDateAdded": 1642208033
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 350516,
+		"_sName": "bhop_intertwined",
+		"_sText": "Port of the csgo map which itself is a port of the roblox map.<br>"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"snow_provinces.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 737578,
+				"_nDownloadCount": 361,
+				"_nFilesize": 24926443,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/737578",
+				"_sFile": "snow_provinces.rar",
+				"_sMd5Checksum": "d11a3abf4dc20e17cb62726722e56470",
+				"_tsDateAdded": 1643447672
+			}
+		],
+		"_aLatestUpdates": [
+			{
+				"_aChangeLog": [
+					{
+						"cat": "Bugfix",
+						"text": "- added buyzone"
+					}
+				],
+				"_sText": "",
+				"_sTitle": "update",
+				"_tsDateAdded": 1643445879
+			}
+		],
+		"_idRow": 350400,
+		"_sName": "Winter Provinces",
+		"_sText": "location - a winter province in the mountains, terrorists came to this province to destroy the New Year mood of the locals, but counter-terrorists showed up who would not let you be a terrorist, you can’t even imagine how stoned I was when I joked about this map. If you liked the map - write, it will also be nice if you leave a review and tell us what you liked and what you would like to add / remove on the map, I will be very grateful to you (please don't be toxic)<br><br>gey banana - h u i t a<font></font>"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"ze_abandoned_factory_v2.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 728132,
+				"_nDownloadCount": 229,
+				"_nFilesize": 94805720,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/728132",
+				"_sFile": "ze_abandoned_factory_v2.zip",
+				"_sMd5Checksum": "6fe9207f186ce302d31270d5cde0d07a",
+				"_tsDateAdded": 1642097158
+			}
+		],
+		"_aLatestUpdates": [
+			{
+				"_aChangeLog": [
+					{
+						"cat": "Amendment",
+						"text": "Some decorative brush changes"
+					},
+					{
+						"cat": "Addition",
+						"text": "Added decorative props and brushes"
+					},
+					{
+						"cat": "Improvement",
+						"text": "Updating textures to aged ones"
+					},
+					{
+						"cat": "Optimization",
+						"text": "Air portals are installed in the doors of the rooms"
+					},
+					{
+						"cat": "Amendment",
+						"text": "Updated screenshots on the website"
+					},
+					{
+						"cat": "Removal",
+						"text": "Removed mini anomalies with bonus artifacts"
+					}
+				],
+				"_sText": "Slightly modified the basement corridor after falling into the elevator shaft. Added more pipe models and different shelves.",
+				"_sTitle": "Refinement of locations 3/12",
+				"_tsDateAdded": 1644073304
+			},
+			{
+				"_aChangeLog": [
+					{
+						"cat": "Amendment",
+						"text": "A slight change in the opening of the elevator shaft"
+					},
+					{
+						"cat": "Amendment",
+						"text": "Remodeling a room with electrical panels"
+					},
+					{
+						"cat": "Amendment",
+						"text": "Replacement of some models from hl2 with models from s.t.a.l.k.e.r"
+					},
+					{
+						"cat": "Improvement",
+						"text": "Changing textures to older ones"
+					},
+					{
+						"cat": "Addition",
+						"text": "Adding new furniture"
+					}
+				],
+				"_sText": "Continued updating the visual and adding details to the corridors and rooms of the map.",
+				"_sTitle": "Refinement of locations 2/12",
+				"_tsDateAdded": 1644072689
+			}
+		],
+		"_idRow": 350226,
+		"_sName": "ze_abandoned_factory_v2",
+		"_sText": "This is my first map, made specifically for the Zombie Escape mode. This is my first experience, so there are errors in the design of passages and rooms. <br>When testing, the gameplay takes around 15 minutes. <br>In a single game, the map did not cause problems, but when porting to the friends' server, the map stopped working in different places, then the teleport did not teleport everyone, then the boss did not activate, I will hope that these were problems only with that server. <br><br>What was implemented:<br><ul><li>Warm-up round at the first start.</li><li>Smooth transitions between locations.<br></li><li>Musical accompaniment.<br></li><li>Text support of the passage.<br></li><li>Puzzles for opening passages.<br></li><li>Matter for people in the form of a first aid kit.<br></li><li>Laser testing.<br></li><li class=\"SelectedElement\">Arena and boss battle.</li></ul><br>I am waiting for your feedback.<br>"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"bhop_helvete2_redux.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 727954,
+				"_nDownloadCount": 57,
+				"_nFilesize": 26387791,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/727954",
+				"_sFile": "bhop_helvete2_redux.rar",
+				"_sMd5Checksum": "4cc1e279c6a03d0ce429dd898d9229ac",
+				"_tsDateAdded": 1642055389
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 350140,
+		"_sName": "bhop_helvete2_redux",
+		"_sText": "Sorry for the slight map spam. I decided to edit a good part of the map bhop_helvete2 that I made around 2 months ago back in November. I felt like the map was poorly made and that I should of never released the original map. My main gripe was how the last stage looked. It was cringeworthy seeing people play it simply because of that one stage. So I ended up putting a decent bit of work into this and fixing it up. I also added a new stage so that the map felt slightly different to play if you've already played it. Also, most skips are still possible. I decided to re-release this as another map and not update the original bhop_helvete2 upload, due to the fact that the changes I made were important. Changelog below<br><br><ul class=\"SelectedElement\"><li>Massively improved the end stage.</li><li>Added a short, new stage.</li><li>Added a 15-20s bonus.</li><li>Implemented various quality of life changes.</li><li>Fixed the transparency issue with some of the textures.</li><li>Patched out <b><u>SOME</u></b> skips.</li><li>Added a few indicators and other small visibility changes.</li><li>Optimized the map more.<br></li></ul><br>I hope that the changes I made improve the map. hf hf<br><br>"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"bhop_ambiguity.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 727487,
+				"_nDownloadCount": 88,
+				"_nFilesize": 7805122,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/727487",
+				"_sFile": "bhop_ambiguity.7z",
+				"_sMd5Checksum": "a5f41a60e602a4dc56ef3cf0676b10c8",
+				"_tsDateAdded": 1641972322
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 349929,
+		"_sName": "bhop_ambiguity",
+		"_sText": "my first release.&nbsp;<br>models, textures, visuals &amp; bonus by me. enjoy.<br>thx cxve and boyza for showcase runs &lt;3<br>&amp; thx g*ad for help with graphics.&nbsp;<br>main map gameplay by aurum.&nbsp;<br><br>note:<br>Originally the map was going to be used as a surf room. However, Cammy and I rebranded it into a bhop map. My thought process with the map was to make the map vertical to utilize the space, without making it super climby. hopefully the map isnt too wacky tier 3 <br>-aurum"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"bhop_drift.bsp",
+						"bhop_ego.bsp",
+						"bhop_egoist.bsp",
+						"bhop_gatten_v2.bsp",
+						"bhop_glaze.bsp",
+						"bhop_honey.bsp",
+						"bhop_nuages.bsp",
+						"bhop_saunter.bsp",
+						"bhop_sinensis.bsp",
+						"bhop_zalupa_2.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 727278,
+				"_nDownloadCount": 92,
+				"_nFilesize": 43183303,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/727278",
+				"_sFile": "lockdown_map_pack_2.zip",
+				"_sMd5Checksum": "15f3fa1e4e3f93c516f610e6d96cfede",
+				"_tsDateAdded": 1641936056
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 349835,
+		"_sName": "New Year Strafe Map Pack",
+		"_sText": "bhop_drift<br>bhop_saunter<br>bhop_sinensis<br>bhop_honey<br>bhop_nuages<br>bhop_zalupa_2<br>bhop_gatten_v2<br>bhop_glaze<br>bhop_ego<br>bhop_egoist<br><br>"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"deathrun_sexwbhop_cage_v3.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 724897,
+				"_nDownloadCount": 11,
+				"_nFilesize": 2150591,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/724897",
+				"_sFile": "deathrun_sexwbhop_cage_v3.7z",
+				"_sMd5Checksum": "27bdb7fbfb65ec4548f5028fbde2cbe1",
+				"_tsDateAdded": 1641588957
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 348886,
+		"_sName": "deathrun_SEXwBHOP_Cage",
+		"_sText": "<span class=\"VIiyi\" lang=\"en\"><span class=\"JLqJ4b ChMk0b\" data-language-for-alternatives=\"en\" data-language-to-translate-into=\"ru\" data-phrase-index=\"0\" data-number-of-phrases=\"1\">Map made by Lemmo L2 for SEXwBHOP Project.<br></span></span>"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"css_assembling.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 724811,
+				"_nDownloadCount": 167,
+				"_nFilesize": 9123494,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/724811",
+				"_sFile": "css_assembling.7z",
+				"_sMd5Checksum": "bdb118036da7ddab8ef1bd37d059a599",
+				"_tsDateAdded": 1641577988
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 348851,
+		"_sName": "css_assembling",
+		"_sText": "<b><span class=\"GreenColor\">A map for an overview of models</span></b><br><br><span class=\"RedColor SelectedElement\"><span class=\"GreenColor\">- </span><i>All weapons</i>&nbsp;<br><br><span class=\"GreenColor\">- </span><i>Bomb Review</i>&nbsp;<br><br><span class=\"GreenColor\">-</span><i> Bookmark C4</i>&nbsp;<br><br><span class=\"GreenColor\">-</span> <i>Inspection of weapons in the Skybox room (Teleport marked)</i>&nbsp;<br><br></span><span class=\"GreenColor\">-</span> <span class=\"RedColor\"><i>Inspection of player skins and hostages</i><br><br></span><span class=\"GreenColor\">-</span> <i><span class=\"RedColor\">Inspection of effects</span></i><br>"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"ze_the_last_winter_v2.cfg"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 770086,
+				"_nDownloadCount": 56,
+				"_nFilesize": 500,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/770086",
+				"_sFile": "unloze_entwatch.zip",
+				"_sMd5Checksum": "12aabec3dd9189bf7d40f064fa906426",
+				"_tsDateAdded": 1648057934
+			},
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"ze_the_last_winter_v2_1.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 781422,
+				"_nDownloadCount": 92,
+				"_nFilesize": 74355690,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/781422",
+				"_sFile": "ze_tlw_v2_1.zip",
+				"_sMd5Checksum": "3f59e0ca1281f45c04625cc63c1a1682",
+				"_tsDateAdded": 1649709568
+			}
+		],
+		"_aLatestUpdates": [
+			{
+				"_aChangeLog": [
+					{
+						"cat": "Optimization",
+						"text": "More optimization"
+					},
+					{
+						"cat": "Addition",
+						"text": "Now you can kill zombie on the bridge in 1 stage"
+					},
+					{
+						"cat": "Adjustment",
+						"text": "Particle rework"
+					},
+					{
+						"cat": "Addition",
+						"text": "Now you can quickly activate the radio on stage 2"
+					},
+					{
+						"cat": "Addition",
+						"text": "On 2 stage added second zm teleport"
+					},
+					{
+						"cat": "Adjustment",
+						"text": "Ammo radius increased"
+					}
+				],
+				"_sText": "",
+				"_sTitle": "V2_1",
+				"_tsDateAdded": 1649709967
+			},
+			{
+				"_aChangeLog": [
+					{
+						"cat": "Addition",
+						"text": "2 STAGE (WITH EX)"
+					},
+					{
+						"cat": "Optimization",
+						"text": "OPTIMIZATION ON 1 AND 2 STAGES"
+					},
+					{
+						"cat": "Addition",
+						"text": "ADDED VENTILATION AT STAGE 1"
+					},
+					{
+						"cat": "Addition",
+						"text": "AMMO AND HEAL HAVE BEEN ADDED"
+					},
+					{
+						"cat": "Addition",
+						"text": "ADDED ZM LVL"
+					},
+					{
+						"cat": "Addition",
+						"text": "AND MORE"
+					}
+				],
+				"_sText": "",
+				"_sTitle": "v2",
+				"_tsDateAdded": 1648058365
+			}
+		],
+		"_idRow": 348830,
+		"_sName": "ze_the_last_winter",
+		"_sText": "<span class=\"GreenColor SelectedElement\"><span class=\"GreenColor\"><span class=\"RedColor\"><b>---------------------------------------------</b></span></span><br><b><span class=\"GreenColor\"></span><span class=\"GreenColor\"><span class=\"RedColor\">NEW STAGE COMING SOON</span></span><br></b><span class=\"RedColor\"><b>---------------------------------------------</b></span></span><b><br></b><br><h1><span class=\"GreenColor\">2 STAGE (AND 2 STAGE EX)</span></h1><span class=\"GreenColor\"><b>UNUSUAL ATMOSPHERE</b></span><br><b><span class=\"GreenColor\">ITEMS</span></b><br><span class=\"GreenColor\"><b>TEAM WORK</b></span><br><b><span class=\"GreenColor\">AND MUCH MORE...</span></b><br>"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"xc_nacho": [
+							"xc_nacho.bsp"
+						]
+					}
+				},
+				"_bContainsExe": false,
+				"_idRow": 724480,
+				"_nDownloadCount": 96,
+				"_nFilesize": 1822500,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/724480",
+				"_sFile": "xc_nacho.7z",
+				"_sMd5Checksum": "f7b2af134ccd4b04334b5d757b2595ee",
+				"_tsDateAdded": 1641526781
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 348726,
+		"_sName": "xc_nacho",
+		"_sText": "collaborative classic xc map made by me & malala.<br><br>difficulty scaling might be bad, but all the jumps should be ~medium level.<br><br>illustrations used are by Amashiro Natsuki (https://www.pixiv.net/users/3036679), check her arts out ~"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"bhop_dfd-t2_goldbhop.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 723879,
+				"_nDownloadCount": 44,
+				"_nFilesize": 11615943,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/723879",
+				"_sFile": "bhop_dfd-t2_goldbhop_e029b.zip",
+				"_sMd5Checksum": "5492fe9b704379cb7af62e07b0cd404f",
+				"_tsDateAdded": 1641438742
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 348484,
+		"_sName": "bhop_dfd-t2_goldbhop (CSS)",
+		"_sText": "original map by sprite<br>remake by some asian guy<br>port from csgo"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"bhop_ametisti2.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 723298,
+				"_nDownloadCount": 66,
+				"_nFilesize": 19292683,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/723298",
+				"_sFile": "bhop_ametisti2.rar",
+				"_sMd5Checksum": "b5e52bdf5e1fb721a43c3f0d887bed64",
+				"_tsDateAdded": 1641359241
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 348280,
+		"_sName": "bhop_ametisti2",
+		"_sText": "\"sequel\" to bhop_ametisti, a map I made around 5 years ago. I added onto it quite a bit more, it's not just a dev room with purple lighting. shoutout to cami who made the models. i also reused the tp's i used in crackrocks, just with a different color. lastly, when the map is booted up the console with spew out an unimportant error message. it's because the models don't have any collision or vphysics. <br><br>map is around 50 seconds with a 20-30 second bonus.<br><br>let me know if anything is wrong with it"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"surf_kultur.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 722651,
+				"_nDownloadCount": 132,
+				"_nFilesize": 95659452,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/722651",
+				"_sFile": "surf_kultur.rar",
+				"_sMd5Checksum": "657d936c1846c2117f483a83d03ccc12",
+				"_tsDateAdded": 1641258542
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 348038,
+		"_sName": "surf_kultur",
+		"_sText": "This is a collab, the guys created the gameplay, and I design  map.<br>A lot of time has passed, more than 4 months of active work, I hope you liked the result =)<br><br>There are 6 stages on the map, with a new stage one color is added to the current one. 1st stage - black and white, then yellow, blue, green, red and last - full color.<br><br>Tier6 stages <br> maxvel 5000<br>6 bonuses<br><br>ps: thank you all for your help and advice, I personally learned a lot working on the map and got a lot of interesting experience =) <br><br>"
+	}
+]

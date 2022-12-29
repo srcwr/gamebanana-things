@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"cs_central.bsp",
+					"cs_central.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 353385,
+			"_nDownloadCount": 16951,
+			"_nFilesize": 30387733,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/353385",
+			"_sFile": "cs_central.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1171324296
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 99686,
+	"_sName": "cs_central",
+	"_sText": "..:: CENTRAL STATION\r\n\r\nCreated by Nathan \"nay0r\" | www.map-central.co.uk\r\n\r\nNav by Peter \"Barndoor\" Calvert \r\nhttp://www.tequilakawa.plus.com/ \r\n\r\nApart of the Dimension Studios Network\r\nhttp://www.dimensionstudios.org\r\n\r\nIn the year 1934 Central Station Bridge was\r\nReconstructed and widened after many years\r\nIn service between Liverpool and Manchester \r\nIn 2005 the station was closed due to a new line \r\nOpening at Bank quay station, although after the closure\r\nTerrorists ransacked one of the few remaining \r\nTrains and took control of the station and\r\nMembers of the public who were in the local area\r\nWhat they don’t know is a specialized squad has \r\nBeen sent in. Also in a near by house they have\r\nHacked central stations CCTV cameras and have rigged\r\nUp a monitor overlooking the station, although \r\nConnection is not 100% clear, it should aid in\r\nLocating any suspects\r\n\r\nRescue points are located at central stations\r\nSubway exit and outside near the northern petrol\r\nPumps, safely navigate hostages to the parked vans\r\n\r\nEmail: nayisdeath@hotmail.com\r\n\r\n..:: Overview\r\n\r\nCs_central started out in March 2006, And ive\r\nbeen on and off with the project, initally it was\r\nmeant to be a rebuild of an old 1.6 map known as\r\ncs_intercept but after some thought I changed it \r\ninto what is now known as cs_central.\r\nIt was meant to be a piece of art at first, it was a test\r\nto see what i could do with the source engine, but after\r\nconstructing a major part of the bridge and station \r\n( which is based on a true place where i live )\r\nI then decided to try and make it into something playable \r\nwith reasonable frame rates.\r\n\r\nThe train bridge and passing road and the station itself are \r\nall based around the real place but the petrol station in real\r\nlife is just an old long distant car park looking over the town.\r\n\r\nThe beach area is a large outdoor area with a bus station,\r\nWhen i started the project it was acutally the back of the shopping centre\r\nwhich has recently recieved millions of pounds of rebuilding work \r\nto make it into a 21st century bus station\r\n\r\nand the edge of the road in cs_central which points in the direction of the\r\nold cottage near the petrol station runs to the rubgy stadium.\r\n\r\n\t\t\t..:: DETAILED MAP INFORMATION\r\n\r\n: \tThe map comes with LDR and HDR cubemaps compiled.\r\n: \tRadar Overview.\r\n: \tHighly Tuned Bot Navigation File.\r\n: \tAll Custom content is embedded into the BSP. ( 68.4mb )\r\n: \tThe map has a point_servercommand to allow servers to automatically\r\n  \tlet users download the map.\r\n:\tThe dynamic camera does seem to make users loose a fair bit of performance\r\n\twhen running around, once it is destroyed it returns to normal\r\n:\tThe Stations toilets can be entered, \r\n:\tOverhead powerlines are Electrical So dont touch them when jumping \r\n\ton top of the parked train.\r\n:\tLightmaps are only Lower on the station, rest of the map are \r\n\tgenerally higher than default.\r\n\r\n\t\t\t..:: Credits\r\n\r\nThanks to Valve, I used there Coke machine from de_nuke.\r\nPlus The custom soundscape i used in cs_central is built around \r\nserveral of the official maps, including assault/port/office and train\r\n\r\n\t\t\t..:: Performance\r\n\r\nI know the map is not amazing in terms of performance, This is \r\nbecause i didnt plan the map very well from the begining as explained above\r\nbut i believe it gets as good as it can for whats being rendered.\r\nI spent various amounts of weeks hinting and using areaportals and window portals\r\nto optimize the map, and using nodraw and func_detail."
+}

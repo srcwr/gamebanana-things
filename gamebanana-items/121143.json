@@ -1,0 +1,58 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrike": {
+						"0": "sa_gmw_treetops_readme.txt",
+						"maps": [
+							"sa_gmw_treetops.bsp",
+							"sa_gmw_treetops.nav",
+							"sa_gmw_treetops.res",
+							"sa_gmw_treetops.txt"
+						],
+						"materials": {
+							"skybox": [
+								"sky_forestbk.vmt",
+								"sky_forestbk.vtf",
+								"sky_forestdn.vmt",
+								"sky_forestdn.vtf",
+								"sky_forestft.vmt",
+								"sky_forestft.vtf",
+								"sky_forestlf.vmt",
+								"sky_forestlf.vtf",
+								"sky_forestrt.vmt",
+								"sky_forestrt.vtf",
+								"sky_forestup.vmt",
+								"sky_forestup.vtf"
+							]
+						},
+						"screenshots": [
+							"sa_gmw_treetops1.jpg",
+							"sa_gmw_treetops2.jpg",
+							"sa_gmw_treetops3.jpg",
+							"sa_gmw_treetops4.jpg"
+						]
+					}
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 358946,
+			"_nDownloadCount": 5260,
+			"_nFilesize": 4828573,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/358946",
+			"_sFile": "sa_gmw_treetops.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1139165485
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 121143,
+	"_sName": "sa_gmw_treetops",
+	"_sText": "This map is a simple remake of the classic CS map SA_TREETOPS for the Counter Strike Source Engine. The map has has 10 Counter-Terrorist spawn points and 10 Terrorist spawn points. Like the original there's also a couple of AWP's in the map somewhere. Although i've included a nav file along with the other map files i'm afraid to say that the poor old bots are not nearly as sure footed as human players."
+}
