@@ -4,11 +4,20 @@ from pathlib import Path
 from sanitize_filename import sanitize
 import subprocess
 import sys
+import os.path
+import time
 
 filesizesum = 0
 
 links = []
 
+
+"""
+interesting:
+cd gamebanana-items
+rg --sort-files -l "(xc|kz|bh|bhop|surf|climb|trikz|jump|bunny|kreedz|xtreme|hop)" > ../interesting.txt
+cd ..
+"""
 
 dddd = Path("gamebanana-items")
 for filename in dddd.glob("*.json"):
@@ -19,12 +28,17 @@ for filename in dddd.glob("*.json"):
             j = json.load(f)
             for file in j["_aFiles"]:
                 filesizesum += file["_nFilesize"]
-                links.append([file["_sDownloadUrl"], sanitize(str(file["_idRow"]) + "_" + file["_sFile"])])
+                links.append([file["_sDownloadUrl"], sanitize(str(file["_idRow"]) + "_" + file["_sFile"]), j["_sName"]])
 
 print(f"filesizesum = {filesizesum}")
 
 
 for x in links:
-    subprocess.check_call(("curl.exe", "-o", x[1], x[0]), shell=True, stdout=sys.stdout, stderr=subprocess.STDOUT)
-    break
+    filename = "../gamebanana-scrape/" + x[1]
+    if os.path.isfile(filename):
+        continue
+    print(f"downloading {x[2]} to {filename}")
+    subprocess.check_call(("curl.exe", "--location", "-o", filename, x[0]), shell=True, stdout=sys.stdout, stderr=subprocess.STDOUT)
+    time.sleep(0.333)
+    #break
 
