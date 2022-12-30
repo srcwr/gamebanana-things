@@ -1,6 +1,7 @@
 from pathlib import Path
 import time
 import requests
+import prettyjson
 
 # Counter-Strike: Source -> Mods -> Maps
 # https://gamebanana.com/mods/cats/5535
@@ -16,9 +17,11 @@ apiurl = "https://gamebanana.com/apiv8/Mod/ByCategory?_aCategoryRowIds[]=5535&_n
 for i in range(1, 2):
     resp = requests.get(apiurl + str(i))
     #with open(f"gamebanana-pages/{i:03}.json", "wb") as f:
-    with open(f"gamebanana-pages/_{i:03}.json", "wb") as f:
+    xd = f"gamebanana-pages/_{i:03}.json"
+    with open(xd, "wb") as f:
         f.write(resp.content)
-        print(f"write to {i:03}.json")
+        print(f"write to _{i:03}.json")
+    prettyjson.prettyfile(xd)
     time.sleep(1.5)
 
 """

@@ -1,5 +1,6 @@
 import json
 from pathlib import Path
+import prettyjson
 
 dddd = Path("gamebanana-pages")
 
@@ -11,3 +12,4 @@ for filename in dddd.glob("_*.json"):
         xd = "gamebanana-items/" + str(item["_idRow"]) + ".json"
         with open(xd, "w", encoding="utf-8") as f:
             json.dump(item, f)
+        prettyjson.prettyfile(xd)
