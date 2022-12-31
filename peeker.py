@@ -32,13 +32,16 @@ for filename in dddd.glob("*.json"):
 
 print(f"filesizesum = {filesizesum}")
 
+alreadydone = os.listdir("../gamebanana-scrape")
 
 for x in links:
     filename = "../gamebanana-scrape/" + x[1]
-    if os.path.isfile(filename):
+    #if os.path.isfile(filename):
+    if x[1] in alreadydone:
         continue
-    print(f"downloading {x[2]} to {filename}")
+    print(f"\ndownloading {x[2]} to {filename}")
     subprocess.check_call(("curl.exe", "--location", "-o", filename, x[0]), shell=True, stdout=sys.stdout, stderr=subprocess.STDOUT)
+    alreadydone.append(x[1])
     time.sleep(0.333)
     #break
 

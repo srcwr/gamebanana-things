@@ -4,13 +4,80 @@
 		"_aFiles": [
 			{
 				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"0": "cs_gabrielwuigibadcoast.bsp",
+						"1": "readme.txt",
+						"Map Screenshots": [
+							"20221230213410_1.jpg",
+							"20221230213419_1.jpg",
+							"20221230213428_1.jpg",
+							"20221230213435_1.jpg",
+							"20221230213443_1.jpg",
+							"20221230213448_1.jpg",
+							"20221230213459_1.jpg",
+							"20221230213521_1.jpg"
+						]
+					}
+				},
+				"_bContainsExe": false,
+				"_idRow": 913517,
+				"_nDownloadCount": 6,
+				"_nFilesize": 9399015,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/913517",
+				"_sFile": "cs_badcoast.zip",
+				"_sMd5Checksum": "a843d2655a1780f0a434ce4e2f75d462",
+				"_tsDateAdded": 1672436865
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 419738,
+		"_sName": "CSS BadCoast",
+		"_sText": "Hey, this is a map I made for CSS. It consists in 2 teams of 4 players each, and you can either play it as an hostage rescue map, or you can simply play it as a Team Deathmatch.<br><br>I would like to give a thanks to my friend João for giving me ideas for this map.<br><br>"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"zm_oddbuildings_v1.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 913428,
+				"_nDownloadCount": 1,
+				"_nFilesize": 800771,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/913428",
+				"_sFile": "zm_oddbuildings_v1.rar",
+				"_sMd5Checksum": "c0bc54d74adfa10e20e0873f98e2127c",
+				"_tsDateAdded": 1672424374
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 419708,
+		"_sName": "zm_oddbuildings_v1",
+		"_sText": "zm_oddbuildings is a small zombie survival map for online servers, it features lots of spots to hide and build barricades with props, to crawl into or to climb away from the reach of the zombie claws of death. It have lights, 64 player spawns, and breakable vents, barriers, and windows.<br><br>"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
 					"_aArchiveFileTree": [
 						"ze_corrupted_simulation_v1.bsp"
 					]
 				},
 				"_bContainsExe": false,
 				"_idRow": 912844,
-				"_nDownloadCount": 4,
+				"_nDownloadCount": 6,
 				"_nFilesize": 64027583,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -39,7 +106,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 912537,
-				"_nDownloadCount": 12,
+				"_nDownloadCount": 16,
 				"_nFilesize": 284671,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -68,7 +135,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 912268,
-				"_nDownloadCount": 9,
+				"_nDownloadCount": 11,
 				"_nFilesize": 161242,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -118,7 +185,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 911652,
-				"_nDownloadCount": 19,
+				"_nDownloadCount": 21,
 				"_nFilesize": 57008179,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -203,7 +270,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 910868,
-				"_nDownloadCount": 23,
+				"_nDownloadCount": 26,
 				"_nFilesize": 81183974,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -231,7 +298,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 910860,
-				"_nDownloadCount": 16,
+				"_nDownloadCount": 19,
 				"_nFilesize": 33199385,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -259,7 +326,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 909905,
-				"_nDownloadCount": 35,
+				"_nDownloadCount": 37,
 				"_nFilesize": 17649531,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -321,7 +388,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 909215,
-				"_nDownloadCount": 58,
+				"_nDownloadCount": 63,
 				"_nFilesize": 10455973,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -349,7 +416,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 910135,
-				"_nDownloadCount": 9,
+				"_nDownloadCount": 12,
 				"_nFilesize": 91367456,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -462,7 +529,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 906721,
-				"_nDownloadCount": 23,
+				"_nDownloadCount": 25,
 				"_nFilesize": 33420729,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -491,7 +558,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 906501,
-				"_nDownloadCount": 18,
+				"_nDownloadCount": 20,
 				"_nFilesize": 104086360,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -554,7 +621,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 903828,
-				"_nDownloadCount": 47,
+				"_nDownloadCount": 49,
 				"_nFilesize": 4527264,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -611,7 +678,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 902591,
-				"_nDownloadCount": 30,
+				"_nDownloadCount": 32,
 				"_nFilesize": 10233043,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -651,7 +718,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 902544,
-				"_nDownloadCount": 49,
+				"_nDownloadCount": 51,
 				"_nFilesize": 27226375,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -739,7 +806,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 902266,
-				"_nDownloadCount": 58,
+				"_nDownloadCount": 59,
 				"_nFilesize": 2786032,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -857,7 +924,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 901110,
-				"_nDownloadCount": 46,
+				"_nDownloadCount": 47,
 				"_nFilesize": 257485,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -885,7 +952,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 900633,
-				"_nDownloadCount": 51,
+				"_nDownloadCount": 52,
 				"_nFilesize": 836547,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -930,7 +997,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 900494,
-				"_nDownloadCount": 51,
+				"_nDownloadCount": 52,
 				"_nFilesize": 698738,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -963,7 +1030,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 900043,
-				"_nDownloadCount": 46,
+				"_nDownloadCount": 48,
 				"_nFilesize": 2494683,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -997,7 +1064,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 900037,
-				"_nDownloadCount": 74,
+				"_nDownloadCount": 77,
 				"_nFilesize": 2904243,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -1026,7 +1093,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 900031,
-				"_nDownloadCount": 132,
+				"_nDownloadCount": 134,
 				"_nFilesize": 4538903,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -1069,7 +1136,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 899698,
-				"_nDownloadCount": 60,
+				"_nDownloadCount": 63,
 				"_nFilesize": 28753069,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -1097,7 +1164,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 899672,
-				"_nDownloadCount": 93,
+				"_nDownloadCount": 95,
 				"_nFilesize": 12524846,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -1250,7 +1317,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 895464,
-				"_nDownloadCount": 57,
+				"_nDownloadCount": 60,
 				"_nFilesize": 32592,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -1278,7 +1345,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 895458,
-				"_nDownloadCount": 117,
+				"_nDownloadCount": 122,
 				"_nFilesize": 64504,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -1336,7 +1403,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 894877,
-				"_nDownloadCount": 128,
+				"_nDownloadCount": 130,
 				"_nFilesize": 40262285,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -1370,7 +1437,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 894498,
-				"_nDownloadCount": 141,
+				"_nDownloadCount": 144,
 				"_nFilesize": 37073169,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -1455,7 +1522,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 893539,
-				"_nDownloadCount": 29,
+				"_nDownloadCount": 31,
 				"_nFilesize": 181332,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -1518,70 +1585,5 @@
 		"_idRow": 397200,
 		"_sName": "de_alien",
 		"_sText": "A really, really (technically) bad map. Hell, I'm still trying CT spawn working! But this is my first map"
-	},
-	{
-		"_aAlternateFileSources": null,
-		"_aFiles": [
-			{
-				"_aMetadata": {
-					"_aArchiveFileTree": [
-						"Bhop_strafe_heHe.bsp"
-					]
-				},
-				"_bContainsExe": false,
-				"_idRow": 278783,
-				"_nDownloadCount": 156,
-				"_nFilesize": 159153,
-				"_sAnalysisResult": "File passed analysis",
-				"_sAnalysisState": "done",
-				"_sDescription": "",
-				"_sDownloadUrl": "https://gamebanana.com/dl/278783",
-				"_sFile": "bhop_strafe_hehe.zip",
-				"_sMd5Checksum": "",
-				"_tsDateAdded": 1460672150
-			}
-		],
-		"_aLatestUpdates": [
-			{
-				"_aChangeLog": [],
-				"_sText": "<p>Thanks for the support over the years. Just wanted to update all my fans here and say that Pez is a cheater.</p>",
-				"_sTitle": "Little update",
-				"_sVersion": "v2.0",
-				"_tsDateAdded": 1668775534
-			}
-		],
-		"_idRow": 126104,
-		"_sName": "Bhop_strafe_heH",
-		"_sText": "My first map :D<br><br>"
-	},
-	{
-		"_aAlternateFileSources": null,
-		"_aFiles": [
-			{
-				"_aMetadata": {
-					"_aArchiveFileTree": {
-						"zm_outpost_v2": [
-							"zm_outpost_v2.bsp"
-						]
-					}
-				},
-				"_bContainsExe": false,
-				"_idRow": 892529,
-				"_nDownloadCount": 86,
-				"_nFilesize": 27355851,
-				"_sAnalysisResult": "File passed analysis",
-				"_sAnalysisState": "done",
-				"_sClamAvResult": "clean",
-				"_sDescription": "",
-				"_sDownloadUrl": "https://gamebanana.com/dl/892529",
-				"_sFile": "zm_outpost_v2.rar",
-				"_sMd5Checksum": "d2ce4956d69e1a652cf1a996f3d72237",
-				"_tsDateAdded": 1668692641
-			}
-		],
-		"_aLatestUpdates": [],
-		"_idRow": 412495,
-		"_sName": "zm_outpost_v2",
-		"_sText": "cs 1.6 revork map"
 	}
 ]
