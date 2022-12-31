@@ -28,7 +28,7 @@ for filename in dddd.glob("*.json"):
             j = json.load(f)
             for file in j["_aFiles"]:
                 filesizesum += file["_nFilesize"]
-                links.append([file["_sDownloadUrl"], sanitize(str(file["_idRow"]) + "_" + file["_sFile"]), j["_sName"]])
+                links.append([file["_sDownloadUrl"], sanitize(str(file["_idRow"]) + "_" + file["_sFile"]), j["_sName"], file["_nFilesize"]])
 
 print(f"filesizesum = {filesizesum}")
 
@@ -39,6 +39,13 @@ for x in links:
     #if os.path.isfile(filename):
     if x[1] in alreadydone:
         continue
+    """
+    try:
+        if os.path.getsize(filename) == x[3]:
+            continue
+    except:
+        continue
+    """
     print(f"\ndownloading {x[2]} to {filename}")
     subprocess.check_call(("curl.exe", "--location", "-o", filename, x[0]), shell=True, stdout=sys.stdout, stderr=subprocess.STDOUT)
     alreadydone.append(x[1])
