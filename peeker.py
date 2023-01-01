@@ -6,6 +6,7 @@ import subprocess
 import sys
 import os.path
 import time
+import csv
 
 filesizesum = 0
 
@@ -28,16 +29,65 @@ for filename in dddd.glob("*.json"):
             j = json.load(f)
             for file in j["_aFiles"]:
                 filesizesum += file["_nFilesize"]
-                links.append([file["_sDownloadUrl"], sanitize(str(file["_idRow"]) + "_" + file["_sFile"]), j["_sName"], file["_nFilesize"]])
+                links.append([file["_sDownloadUrl"], sanitize(str(file["_idRow"]) + "_" + file["_sFile"]), j["_sName"], file["_nFilesize"], j["_idRow"]])
 
 print(f"filesizesum = {filesizesum}")
 
 alreadydone = os.listdir("../gamebanana-scrape")
 
+def rchop(s, suffix):
+    if suffix and s.endswith(suffix):
+        return s[:-len(suffix)]
+    return s
+
+"""
+mapper = {}
+mapper["note"] = "note"
+
 for x in links:
-    filename = "../gamebanana-scrape/" + x[1]
-    #if os.path.isfile(filename):
-    if x[1] in alreadydone:
+    fucker = rchop(rchop(rchop(x[1], ".zip"), ".rar"), ".7z")
+    mapper[fucker] = str(x[4]) + "_" + fucker
+
+with open("../maps-cstrike/unprocessed/gamebanana-everything-rofl-2.csv", "w", newline="", encoding="utf-8") as outfile:
+    cw = csv.writer(outfile)
+    cw.writerow(["mapname","filesize","filesize_bz2","sha1","note"])
+    with open("../maps-cstrike/unprocessed/gamebanana-everything-rofl.csv", newline='', encoding='utf-8') as infile:
+        cr = csv.reader(infile)
+        for line in cr:
+            xxx = line[4].split('/')
+            if xxx[0] in mapper:
+                xxx[0] = mapper[xxx[0]]
+            else:
+                print(xxx[0])
+            line[4] = '/'.join(xxx)
+            #line[4] = mapper[line[4]]
+            cw.writerow(line)
+"""
+
+"""
+for x in links:
+    #break
+    x1 = rchop(rchop(rchop(x[1], ".zip"), ".rar"), ".7z")
+    filename = "../gamebanana-scrape/fuck2/done/" + x1
+    #filename = "../gamebanana-scrape/" + str(x[4]) + "_" + x[1]
+    #if (str(x[4]) + "_" + x[1]) in alreadydone:
+    if (str(x[4]) + "_" + x[1]) in alreadydone:
+        f2 = "../gamebanana-scrape/fuck2/done/" + str(x[4]) + "_" + x1
+        print(f"rename {filename} to {f2}")
+        try:
+            os.rename(filename, f2)
+        except:
+            print(f"bad {filename}")
+        continue
+"""
+for x in links:
+    #break
+    #filename = "../gamebanana-scrape/" + x[1]
+    filename = "../gamebanana-scrape/" + str(x[4]) + "_" + x[1]
+    if (str(x[4]) + "_" + x[1]) in alreadydone:
+        #f2 = "../gamebanana-scrape/" + str(x[4]) + "_" + x[1]
+        #print(f"rename {filename} to {f2}")
+        #os.rename(filename, f2)
         continue
     """
     try:
