@@ -2,33 +2,45 @@
 	"_aAlternateFileSources": [
 		{
 			"description": "GOOGLE DRIVE",
-			"url": "https://drive.google.com/file/d/1OGnFlp34mcQCy8CH0JgqH7ChT45zrJmJ/view?usp=sharing"
+			"url": "https://drive.google.com/file/d/1NW__T__D7Eee390aOGoA3-QNJHYPy0O0/view?usp=sharing"
 		}
 	],
 	"_aFiles": [
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
-					"zm_vendetta_v1.bsp"
-				],
-				"_sMimeType": "application/zip"
+					"zm_vendetta_v2.bsp"
+				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 557880,
-			"_nDownloadCount": 97,
-			"_nFilesize": 3954053,
+			"_idRow": 914177,
+			"_nDownloadCount": 1,
+			"_nFilesize": 2209642,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
-			"_sDescription": "v1",
-			"_sDownloadUrl": "https://gamebanana.com/dl/557880",
-			"_sFile": "zm_vendetta_v1.zip",
-			"_sMd5Checksum": "",
-			"_tsDateAdded": 1619283304
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/914177",
+			"_sFile": "zm_vendetta_v2.rar",
+			"_sMd5Checksum": "8b201b627d8902186ce24fbf6b18143b",
+			"_tsDateAdded": 1672531417
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Overhaul",
+					"text": "Fully recreated map"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Ver2",
+			"_sVersion": "v2",
+			"_tsDateAdded": 1672531693
+		}
+	],
 	"_idRow": 133026,
 	"_sName": "zm_vendetta",
-	"_sText": "<b>This map was inspired by the original one from CS 1.6</b><br>"
+	"_sText": "<b>A fully recreated popular zm map from CS 1.6</b><br>"
 }
