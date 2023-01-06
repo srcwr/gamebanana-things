@@ -1,0 +1,86 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"zombie_city.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 916659,
+			"_nDownloadCount": 60,
+			"_nFilesize": 3902515,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "The map",
+			"_sDownloadUrl": "https://gamebanana.com/dl/916659",
+			"_sFile": "zombie_city.7z",
+			"_sMd5Checksum": "e80c27717c8fc0fb0ffb30727d676768",
+			"_tsDateAdded": 1672971795
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"zombie_city": {
+						"maps": [
+							"zombie_city.nav",
+							"zombie_city.txt"
+						],
+						"materials": {
+							"0": "{target2.vmt",
+							"overviews": [
+								"zombie_city.vmt",
+								"zombie_city.vtf"
+							]
+						},
+						"resource": {
+							"overviews": [
+								"zombie_city.txt"
+							]
+						},
+						"sound": [
+							"sound.cache"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 916660,
+			"_nDownloadCount": 43,
+			"_nFilesize": 497650,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "The map assets (in case they don't load)",
+			"_sDownloadUrl": "https://gamebanana.com/dl/916660",
+			"_sFile": "zombie_city_map_assets.7z",
+			"_sMd5Checksum": "bd8ee0213b00493c2b3c58bba6255f5a",
+			"_tsDateAdded": 1672971817
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"zombie_city.vmf"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 916661,
+			"_nDownloadCount": 34,
+			"_nFilesize": 97331,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "the original vmf file",
+			"_sDownloadUrl": "https://gamebanana.com/dl/916661",
+			"_sFile": "zombie_city_vmf.7z",
+			"_sMd5Checksum": "24a8ecfabb0a7ff927c9efdb1e694076",
+			"_tsDateAdded": 1672971875
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 420879,
+	"_sName": "Zombie City",
+	"_sText": "Zombie_City is a map created by Valve (or possibly Turtle Rock Studios) that was a part of the map sources folder that released today. It is likely the starting point of Left 4 Dead, and for those of you who have heard the name \"Terror-Strike\" before, you will love to get the chance to play this prototype level.<br><br>My upload fixes a texture by adding a new material for it. I have also created an overview texture, generated a nav mesh, and added a level description, all of which are conveniently packed into the bsp itself for maximum convenience. Try it out and let me know how you think!<br>"
+}

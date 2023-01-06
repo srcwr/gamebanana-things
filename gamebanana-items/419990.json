@@ -2,31 +2,52 @@
 	"_aAlternateFileSources": [
 		{
 			"description": "Google Drive",
-			"url": "https://drive.google.com/file/d/1C8LJOYk6aAjeny__HtXJUgxhhG9XpFUC/view?usp=sharing"
+			"url": "https://drive.google.com/file/d/1D4OXOJXyp4VB8-Oerlnq1pWxetbBJ5Yh/view?usp=sharing"
 		}
 	],
 	"_aFiles": [
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
-					"zm_vendetta_xmas.bsp"
+					"zm_vendetta_xmas2.bsp"
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 914195,
-			"_nDownloadCount": 12,
-			"_nFilesize": 14751961,
+			"_idRow": 916831,
+			"_nDownloadCount": 1,
+			"_nFilesize": 17879477,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/914195",
-			"_sFile": "zm_vendetta_xmas_7d28b.rar",
-			"_sMd5Checksum": "b4d7df6621ce3b827241248f06239a3f",
-			"_tsDateAdded": 1672532574
+			"_sDownloadUrl": "https://gamebanana.com/dl/916831",
+			"_sFile": "zm_vendetta_xmas2.zip",
+			"_sMd5Checksum": "15aba26227a1b53bb173ab32032835f1",
+			"_tsDateAdded": 1673011554
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Two more songs were added"
+				},
+				{
+					"cat": "Addition",
+					"text": "A DJ room was made for changing music"
+				},
+				{
+					"cat": "Addition",
+					"text": "and litle additions"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "MusicUpdate",
+			"_sVersion": "v2",
+			"_tsDateAdded": 1673011685
+		}
+	],
 	"_idRow": 419990,
 	"_sName": "zm_vendetta_xmas",
 	"_sText": "<b>Xmas Version<br>Original: https://gamebanana.com/mods/133026</b>"
