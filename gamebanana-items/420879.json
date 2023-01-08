@@ -4,17 +4,36 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
+					"zombie_city_v2.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 917720,
+			"_nDownloadCount": 36,
+			"_nFilesize": 3440826,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "Version 2",
+			"_sDownloadUrl": "https://gamebanana.com/dl/917720",
+			"_sFile": "zombie_city_v2.7z",
+			"_sMd5Checksum": "621e164f3efcc40f98c5c9fd78f25789",
+			"_tsDateAdded": 1673163553
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
 					"zombie_city.bsp"
 				]
 			},
 			"_bContainsExe": false,
 			"_idRow": 916659,
-			"_nDownloadCount": 60,
+			"_nDownloadCount": 234,
 			"_nFilesize": 3902515,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
-			"_sDescription": "The map",
+			"_sDescription": "The map (OBSOLETE)",
 			"_sDownloadUrl": "https://gamebanana.com/dl/916659",
 			"_sFile": "zombie_city.7z",
 			"_sMd5Checksum": "e80c27717c8fc0fb0ffb30727d676768",
@@ -48,12 +67,12 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 916660,
-			"_nDownloadCount": 43,
+			"_nDownloadCount": 135,
 			"_nFilesize": 497650,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
-			"_sDescription": "The map assets (in case they don't load)",
+			"_sDescription": "V1 assets (OBSOLETE)",
 			"_sDownloadUrl": "https://gamebanana.com/dl/916660",
 			"_sFile": "zombie_city_map_assets.7z",
 			"_sMd5Checksum": "bd8ee0213b00493c2b3c58bba6255f5a",
@@ -67,7 +86,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 916661,
-			"_nDownloadCount": 34,
+			"_nDownloadCount": 101,
 			"_nFilesize": 97331,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -79,7 +98,36 @@
 			"_tsDateAdded": 1672971875
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Overhaul",
+					"text": "New nav mesh created by Ceno"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "fixed goldsrc issues (func_walls instead of func_details, objects being fully black)"
+				},
+				{
+					"cat": "Optimization",
+					"text": "Optimized viz for faster compiling"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "fixed some CT spawns being inside objects"
+				},
+				{
+					"cat": "Addition",
+					"text": "double doors will now open together"
+				}
+			],
+			"_sText": "<p>This update makes a handful of adjustments for quality of life, but still retains the map's basic setup, essentially making it how it was supposed to look if not for engine porting issues.</p>",
+			"_sTitle": "Version 2",
+			"_sVersion": "2",
+			"_tsDateAdded": 1673163732
+		}
+	],
 	"_idRow": 420879,
 	"_sName": "Zombie City",
 	"_sText": "Zombie_City is a map created by Valve (or possibly Turtle Rock Studios) that was a part of the map sources folder that released today. It is likely the starting point of Left 4 Dead, and for those of you who have heard the name \"Terror-Strike\" before, you will love to get the chance to play this prototype level.<br><br>My upload fixes a texture by adding a new material for it. I have also created an overview texture, generated a nav mesh, and added a level description, all of which are conveniently packed into the bsp itself for maximum convenience. Try it out and let me know how you think!<br>"

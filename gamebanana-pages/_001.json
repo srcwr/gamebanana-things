@@ -5,12 +5,202 @@
 			{
 				"_aMetadata": {
 					"_aArchiveFileTree": [
+						"trikz_arcadia.bsp.bz2"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 917760,
+				"_nDownloadCount": 7,
+				"_nFilesize": 14982820,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/917760",
+				"_sFile": "trikz_arcadia.7z",
+				"_sMd5Checksum": "3d59d3c026fea582323c899711ff43b6",
+				"_tsDateAdded": 1673172188
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 421308,
+		"_sName": "trikz_arcadia",
+		"_sText": "Thanks for playing"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"zombie_city_v2.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 917720,
+				"_nDownloadCount": 36,
+				"_nFilesize": 3440826,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "Version 2",
+				"_sDownloadUrl": "https://gamebanana.com/dl/917720",
+				"_sFile": "zombie_city_v2.7z",
+				"_sMd5Checksum": "621e164f3efcc40f98c5c9fd78f25789",
+				"_tsDateAdded": 1673163553
+			},
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"zombie_city.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 916659,
+				"_nDownloadCount": 234,
+				"_nFilesize": 3902515,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "The map (OBSOLETE)",
+				"_sDownloadUrl": "https://gamebanana.com/dl/916659",
+				"_sFile": "zombie_city.7z",
+				"_sMd5Checksum": "e80c27717c8fc0fb0ffb30727d676768",
+				"_tsDateAdded": 1672971795
+			},
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"zombie_city": {
+							"maps": [
+								"zombie_city.nav",
+								"zombie_city.txt"
+							],
+							"materials": {
+								"0": "{target2.vmt",
+								"overviews": [
+									"zombie_city.vmt",
+									"zombie_city.vtf"
+								]
+							},
+							"resource": {
+								"overviews": [
+									"zombie_city.txt"
+								]
+							},
+							"sound": [
+								"sound.cache"
+							]
+						}
+					}
+				},
+				"_bContainsExe": false,
+				"_idRow": 916660,
+				"_nDownloadCount": 135,
+				"_nFilesize": 497650,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "V1 assets (OBSOLETE)",
+				"_sDownloadUrl": "https://gamebanana.com/dl/916660",
+				"_sFile": "zombie_city_map_assets.7z",
+				"_sMd5Checksum": "bd8ee0213b00493c2b3c58bba6255f5a",
+				"_tsDateAdded": 1672971817
+			},
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"zombie_city.vmf"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 916661,
+				"_nDownloadCount": 101,
+				"_nFilesize": 97331,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "the original vmf file",
+				"_sDownloadUrl": "https://gamebanana.com/dl/916661",
+				"_sFile": "zombie_city_vmf.7z",
+				"_sMd5Checksum": "24a8ecfabb0a7ff927c9efdb1e694076",
+				"_tsDateAdded": 1672971875
+			}
+		],
+		"_aLatestUpdates": [
+			{
+				"_aChangeLog": [
+					{
+						"cat": "Overhaul",
+						"text": "New nav mesh created by Ceno"
+					},
+					{
+						"cat": "Adjustment",
+						"text": "fixed goldsrc issues (func_walls instead of func_details, objects being fully black)"
+					},
+					{
+						"cat": "Optimization",
+						"text": "Optimized viz for faster compiling"
+					},
+					{
+						"cat": "Bugfix",
+						"text": "fixed some CT spawns being inside objects"
+					},
+					{
+						"cat": "Addition",
+						"text": "double doors will now open together"
+					}
+				],
+				"_sText": "<p>This update makes a handful of adjustments for quality of life, but still retains the map's basic setup, essentially making it how it was supposed to look if not for engine porting issues.</p>",
+				"_sTitle": "Version 2",
+				"_sVersion": "2",
+				"_tsDateAdded": 1673163732
+			}
+		],
+		"_idRow": 420879,
+		"_sName": "Zombie City",
+		"_sText": "Zombie_City is a map created by Valve (or possibly Turtle Rock Studios) that was a part of the map sources folder that released today. It is likely the starting point of Left 4 Dead, and for those of you who have heard the name \"Terror-Strike\" before, you will love to get the chance to play this prototype level.<br><br>My upload fixes a texture by adding a new material for it. I have also created an overview texture, generated a nav mesh, and added a level description, all of which are conveniently packed into the bsp itself for maximum convenience. Try it out and let me know how you think!<br>"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_topshesh_advance.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 917056,
+				"_nDownloadCount": 7,
+				"_nFilesize": 322877,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/917056",
+				"_sFile": "de_topshesh_advance.7z",
+				"_sMd5Checksum": "884272264f0da01ef390cf3473c5f9ae",
+				"_tsDateAdded": 1673051096
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 421030,
+		"_sName": "de_topshesh_advance",
+		"_sText": "A remake of my friends map.<br>"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
 						"zm_muumitalo_v4.bsp"
 					]
 				},
 				"_bContainsExe": false,
 				"_idRow": 916944,
-				"_nDownloadCount": 1,
+				"_nDownloadCount": 14,
 				"_nFilesize": 24757977,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -38,7 +228,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 916938,
-				"_nDownloadCount": 2,
+				"_nDownloadCount": 6,
 				"_nFilesize": 765537,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -66,7 +256,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 916941,
-				"_nDownloadCount": 2,
+				"_nDownloadCount": 10,
 				"_nFilesize": 78160944,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -156,7 +346,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 916840,
-				"_nDownloadCount": 2,
+				"_nDownloadCount": 4,
 				"_nFilesize": 60069553,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -189,7 +379,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 916831,
-				"_nDownloadCount": 1,
+				"_nDownloadCount": 7,
 				"_nFilesize": 17879477,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -232,92 +422,6 @@
 		"_aFiles": [
 			{
 				"_aMetadata": {
-					"_aArchiveFileTree": [
-						"zombie_city.bsp"
-					]
-				},
-				"_bContainsExe": false,
-				"_idRow": 916659,
-				"_nDownloadCount": 60,
-				"_nFilesize": 3902515,
-				"_sAnalysisResult": "File passed analysis",
-				"_sAnalysisState": "done",
-				"_sClamAvResult": "clean",
-				"_sDescription": "The map",
-				"_sDownloadUrl": "https://gamebanana.com/dl/916659",
-				"_sFile": "zombie_city.7z",
-				"_sMd5Checksum": "e80c27717c8fc0fb0ffb30727d676768",
-				"_tsDateAdded": 1672971795
-			},
-			{
-				"_aMetadata": {
-					"_aArchiveFileTree": {
-						"zombie_city": {
-							"maps": [
-								"zombie_city.nav",
-								"zombie_city.txt"
-							],
-							"materials": {
-								"0": "{target2.vmt",
-								"overviews": [
-									"zombie_city.vmt",
-									"zombie_city.vtf"
-								]
-							},
-							"resource": {
-								"overviews": [
-									"zombie_city.txt"
-								]
-							},
-							"sound": [
-								"sound.cache"
-							]
-						}
-					}
-				},
-				"_bContainsExe": false,
-				"_idRow": 916660,
-				"_nDownloadCount": 43,
-				"_nFilesize": 497650,
-				"_sAnalysisResult": "File passed analysis",
-				"_sAnalysisState": "done",
-				"_sClamAvResult": "clean",
-				"_sDescription": "The map assets (in case they don't load)",
-				"_sDownloadUrl": "https://gamebanana.com/dl/916660",
-				"_sFile": "zombie_city_map_assets.7z",
-				"_sMd5Checksum": "bd8ee0213b00493c2b3c58bba6255f5a",
-				"_tsDateAdded": 1672971817
-			},
-			{
-				"_aMetadata": {
-					"_aArchiveFileTree": [
-						"zombie_city.vmf"
-					]
-				},
-				"_bContainsExe": false,
-				"_idRow": 916661,
-				"_nDownloadCount": 34,
-				"_nFilesize": 97331,
-				"_sAnalysisResult": "File passed analysis",
-				"_sAnalysisState": "done",
-				"_sClamAvResult": "clean",
-				"_sDescription": "the original vmf file",
-				"_sDownloadUrl": "https://gamebanana.com/dl/916661",
-				"_sFile": "zombie_city_vmf.7z",
-				"_sMd5Checksum": "24a8ecfabb0a7ff927c9efdb1e694076",
-				"_tsDateAdded": 1672971875
-			}
-		],
-		"_aLatestUpdates": [],
-		"_idRow": 420879,
-		"_sName": "Zombie City",
-		"_sText": "Zombie_City is a map created by Valve (or possibly Turtle Rock Studios) that was a part of the map sources folder that released today. It is likely the starting point of Left 4 Dead, and for those of you who have heard the name \"Terror-Strike\" before, you will love to get the chance to play this prototype level.<br><br>My upload fixes a texture by adding a new material for it. I have also created an overview texture, generated a nav mesh, and added a level description, all of which are conveniently packed into the bsp itself for maximum convenience. Try it out and let me know how you think!<br>"
-	},
-	{
-		"_aAlternateFileSources": null,
-		"_aFiles": [
-			{
-				"_aMetadata": {
 					"_aArchiveFileTree": {
 						"de_woodwayelementarynightV1": {
 							"0": "addon.json",
@@ -330,7 +434,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 915279,
-				"_nDownloadCount": 25,
+				"_nDownloadCount": 31,
 				"_nFilesize": 2029385,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -398,7 +502,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 915272,
-				"_nDownloadCount": 6,
+				"_nDownloadCount": 7,
 				"_nFilesize": 1577915,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -432,7 +536,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 915270,
-				"_nDownloadCount": 20,
+				"_nDownloadCount": 24,
 				"_nFilesize": 1114884,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -466,7 +570,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 915265,
-				"_nDownloadCount": 14,
+				"_nDownloadCount": 18,
 				"_nFilesize": 933898,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -500,7 +604,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 915259,
-				"_nDownloadCount": 21,
+				"_nDownloadCount": 23,
 				"_nFilesize": 4137870,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -534,7 +638,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 915257,
-				"_nDownloadCount": 6,
+				"_nDownloadCount": 8,
 				"_nFilesize": 1804824,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -563,7 +667,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 914945,
-				"_nDownloadCount": 28,
+				"_nDownloadCount": 31,
 				"_nFilesize": 692148,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -591,7 +695,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 914916,
-				"_nDownloadCount": 8,
+				"_nDownloadCount": 9,
 				"_nFilesize": 39457069,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -619,7 +723,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 914894,
-				"_nDownloadCount": 17,
+				"_nDownloadCount": 19,
 				"_nFilesize": 69690456,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -652,7 +756,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 914177,
-				"_nDownloadCount": 10,
+				"_nDownloadCount": 11,
 				"_nFilesize": 2209642,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -693,7 +797,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 914005,
-				"_nDownloadCount": 15,
+				"_nDownloadCount": 16,
 				"_nFilesize": 31887271,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -727,7 +831,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 913811,
-				"_nDownloadCount": 26,
+				"_nDownloadCount": 29,
 				"_nFilesize": 43356314,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -766,7 +870,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 913517,
-				"_nDownloadCount": 24,
+				"_nDownloadCount": 27,
 				"_nFilesize": 9399015,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -822,7 +926,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 912844,
-				"_nDownloadCount": 10,
+				"_nDownloadCount": 11,
 				"_nFilesize": 64027583,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -958,7 +1062,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 911164,
-				"_nDownloadCount": 12,
+				"_nDownloadCount": 15,
 				"_nFilesize": 639114,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -1071,7 +1175,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 909905,
-				"_nDownloadCount": 57,
+				"_nDownloadCount": 64,
 				"_nFilesize": 17649531,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -1099,7 +1203,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 909622,
-				"_nDownloadCount": 38,
+				"_nDownloadCount": 43,
 				"_nFilesize": 13259906,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -1133,7 +1237,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 909215,
-				"_nDownloadCount": 81,
+				"_nDownloadCount": 88,
 				"_nFilesize": 10455973,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -1161,7 +1265,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 910135,
-				"_nDownloadCount": 27,
+				"_nDownloadCount": 30,
 				"_nFilesize": 91367456,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -1189,7 +1293,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 908003,
-				"_nDownloadCount": 24,
+				"_nDownloadCount": 25,
 				"_nFilesize": 11683255,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -1217,7 +1321,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 907971,
-				"_nDownloadCount": 28,
+				"_nDownloadCount": 29,
 				"_nFilesize": 48264207,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -1274,7 +1378,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 906721,
-				"_nDownloadCount": 36,
+				"_nDownloadCount": 38,
 				"_nFilesize": 33420729,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -1303,7 +1407,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 906501,
-				"_nDownloadCount": 28,
+				"_nDownloadCount": 29,
 				"_nFilesize": 104086360,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -1366,7 +1470,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 903828,
-				"_nDownloadCount": 65,
+				"_nDownloadCount": 70,
 				"_nFilesize": 4527264,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -1394,7 +1498,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 909221,
-				"_nDownloadCount": 4,
+				"_nDownloadCount": 5,
 				"_nFilesize": 89484323,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -1463,7 +1567,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 902544,
-				"_nDownloadCount": 67,
+				"_nDownloadCount": 72,
 				"_nFilesize": 27226375,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -1551,7 +1655,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 902266,
-				"_nDownloadCount": 73,
+				"_nDownloadCount": 74,
 				"_nFilesize": 2786032,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -1580,7 +1684,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 902265,
-				"_nDownloadCount": 33,
+				"_nDownloadCount": 36,
 				"_nFilesize": 2703695,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -1609,7 +1713,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 902196,
-				"_nDownloadCount": 28,
+				"_nDownloadCount": 29,
 				"_nFilesize": 2794038,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -1637,7 +1741,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 901613,
-				"_nDownloadCount": 72,
+				"_nDownloadCount": 75,
 				"_nFilesize": 15221941,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -1653,82 +1757,5 @@
 		"_idRow": 415452,
 		"_sName": "bhop_luvinox",
 		"_sText": "map was mostly created during the bhop gathering which happened 3 december 2022. The challenge was to create as much as you could in three hours. I had created something way better than I thought I could, so i gave it some extra love and finished it. <br><br>it's around a minute long and has a really short bonus.<br><br>there wasn't a lot of playtesting so lmk if there are dumb skips."
-	},
-	{
-		"_aAlternateFileSources": null,
-		"_aFiles": [
-			{
-				"_aMetadata": {
-					"_aArchiveFileTree": {
-						"35HP": {
-							"maps": [
-								"35hp_dev.bsp"
-							]
-						}
-					}
-				},
-				"_bContainsExe": false,
-				"_idRow": 901110,
-				"_nDownloadCount": 54,
-				"_nFilesize": 257485,
-				"_sAnalysisResult": "File passed analysis",
-				"_sAnalysisState": "done",
-				"_sClamAvResult": "clean",
-				"_sDescription": "",
-				"_sDownloadUrl": "https://gamebanana.com/dl/901110",
-				"_sFile": "35hp_15f2a.7z",
-				"_sMd5Checksum": "22147300cf8875cadc93915dcb4ce8f5",
-				"_tsDateAdded": 1670126303
-			}
-		],
-		"_aLatestUpdates": [],
-		"_idRow": 415249,
-		"_sName": "Map 35HP Dev",
-		"_sText": "<span class=\"SelectedElement\">This is a converted map directly from the game Counter Strike 1.6 from Counter Strike Source. I redid all the textures, I think that for the arena it is quite good. If you want to use my map in yours, please ask permission. Since the map had some lighting problems, I added special brushes that block the light, because even through the closed brushes you can still see the light at the edges. Instead of the standard textures, I made the developer's textures, so that the map weighs very little, but is good to play and does not lag. Immediately upon spawning, each player will have 35 hep.</span><br><br>I decided to remake this map a little bit, as I was very much reminded of the time when I played this map back in Counter-Strike 1.6, when the two teams ran to each other with the words \"It's time to die!\" and started mass-cutting with each other"
-	},
-	{
-		"_aAlternateFileSources": null,
-		"_aFiles": [
-			{
-				"_aMetadata": {
-					"_aArchiveFileTree": [
-						"aim_desert_1v1.bsp"
-					]
-				},
-				"_bContainsExe": false,
-				"_idRow": 900633,
-				"_nDownloadCount": 66,
-				"_nFilesize": 836547,
-				"_sAnalysisResult": "File passed analysis",
-				"_sAnalysisState": "done",
-				"_sClamAvResult": "clean",
-				"_sDescription": "",
-				"_sDownloadUrl": "https://gamebanana.com/dl/900633",
-				"_sFile": "aim_desert_1v1_publish_version.zip",
-				"_sMd5Checksum": "28ac9adfc0c1193a286bde83c00e2d46",
-				"_tsDateAdded": 1670060350
-			}
-		],
-		"_aLatestUpdates": [
-			{
-				"_aChangeLog": [
-					{
-						"cat": "Adjustment",
-						"text": "Lowered some prop's heights (Now it does not make such of a CLING-CLANG sound when starting the map)"
-					},
-					{
-						"cat": "Adjustment",
-						"text": "Made all info_player_terrorists & info_player_counterterrorists heights higher to prevent stuck on spawn (Thanks HL2BetaFAN! :3 )"
-					}
-				],
-				"_sText": "",
-				"_sTitle": "CRITCAL UPDATE #1",
-				"_sVersion": "1.0.1",
-				"_tsDateAdded": 1670060123
-			}
-		],
-		"_idRow": 414831,
-		"_sName": "aim_desert_1v1",
-		"_sText": "This is a desert-based sunset map for counter strike: source<br>This is my first map made using Hammer ++! :3<br><br>Any questions/suggestions email : leodeng_hack@163.com<br><br>"
 	}
 ]
