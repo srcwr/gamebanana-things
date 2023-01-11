@@ -5,12 +5,139 @@
 			{
 				"_aMetadata": {
 					"_aArchiveFileTree": [
+						"README.txt",
+						"cs_stationarena_beta.bsp",
+						"cs_stationarena_beta.bsp.bak",
+						"cs_stationarena_beta.nav"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 919227,
+				"_nDownloadCount": 3,
+				"_nFilesize": 17448164,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "map",
+				"_sDownloadUrl": "https://gamebanana.com/dl/919227",
+				"_sFile": "cs_stationarena_beta.zip",
+				"_sMd5Checksum": "1ba7f022100be4ebdb527e37a48d2c51",
+				"_tsDateAdded": 1673447166
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 421775,
+		"_sName": "cs_stationarena_beta",
+		"_sText": "<h1>just for <b><i><span class=\"GreenColor\">fun</span></i></b></h1>"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"deathrun_reboot_2023.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 918035,
+				"_nDownloadCount": 7,
+				"_nFilesize": 124753854,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/918035",
+				"_sFile": "deathrun_reboot_2023.zip",
+				"_sMd5Checksum": "bd6f2da12c5425e720a4c597df3b376d",
+				"_tsDateAdded": 1673205994
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 421396,
+		"_sName": "Deathrun Reboot 2023",
+		"_sText": "This is a huge remake from my old map <i>'deathrun_texture_extreme_v2'</i>.<br>Only tested in CSS.<br><br>There's a lot of work in this map, you have to ❤️ it. If not, idc<br><br><b><u>Details</u></b><br><ol><li>20 traps&nbsp;☢️</li><li>four t spawns</li><li>60 ct spawns</li><li>five different endings to choose from</li><li>eight digit hidden code</li><li>four fancy nades&nbsp;✨</li><li class=\"SelectedElement\">lots of great sounds</li><li>minimap&nbsp;✅</li></ol><br><b><u>Bugs</u></b><br>There should be no bugs... but if there are (and there always are), please let me know!<br><br><b><u>Installation</u></b><br>You know how it works...<br>"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"cs_theatre.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 917901,
+				"_nDownloadCount": 16,
+				"_nFilesize": 7174847,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/917901",
+				"_sFile": "cs_theatre.rar",
+				"_sMd5Checksum": "20bb241fe464100100eac49e9a067796",
+				"_tsDateAdded": 1673196467
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 421363,
+		"_sName": "cs_theatre",
+		"_sText": "A map for css"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"Zm_Wintermaze_2016_V5_beta": {
+							"steamapps": {
+								"common": {
+									"Counter-Strike Source": {
+										"cstrike": {
+											"maps": [
+												"zm_wintermaze_2016_v5_beta.bsp"
+											]
+										}
+									}
+								}
+							}
+						}
+					}
+				},
+				"_bContainsExe": false,
+				"_idRow": 917866,
+				"_nDownloadCount": 8,
+				"_nFilesize": 20300437,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "map file",
+				"_sDownloadUrl": "https://gamebanana.com/dl/917866",
+				"_sFile": "zm_wintermaze_2016_v5_beta.rar",
+				"_sMd5Checksum": "9058ba1b430290d4639e345137251690",
+				"_tsDateAdded": 1673191598
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 421348,
+		"_sName": "zm_Wintermaze_2016_beta",
+		"_sText": "My first ever zombie mod map.  It's like a bonus map for my wintermaze_2016 series.<br>When I made Wintermaze_2016_V5 I thought to myself \"It would make a decent zm map. <br>So I made a few modifications and here you go! <br><br>And yes the helicopter and trains are functional. No, it wont be impossible to escape zombies, for you can walk on the cables and helicopter cannot be stopped mid air, and you need time to get it in the air. <br><br>Now what are some of the differences between this and the aim version of this map? <br><ul><li class=\"SelectedElement\">Helicopter cannot be stopped mid air (I removed the \"STOP\" button).</li><li>You can walk on ALL the cables, including the train ones. </li><li>Some containers have boxes in em. </li><li>The \"security room\" has a tunnel near ceiling which leads into the prototype room, allowing players to gain high ground. But it's not as easy as it looks to get there. </li></ul>This is my first ever ZM map. I hope it works well... IF not, if you have any ideas/suggestions, please let me know! <br><br>The inspiration for this map came from cs_alpin. A good old map that is dear to my hart and was a favorite during the good ol' 1.6 days. <br>That map could be played as both a cs and zm map, which is why I thought that with a little bit modification this map could also work in a similar fasion..."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
 						"trikz_arcadia.bsp.bz2"
 					]
 				},
 				"_bContainsExe": false,
 				"_idRow": 917760,
-				"_nDownloadCount": 7,
+				"_nDownloadCount": 11,
 				"_nFilesize": 14982820,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -38,7 +165,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 917720,
-				"_nDownloadCount": 36,
+				"_nDownloadCount": 277,
 				"_nFilesize": 3440826,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -57,7 +184,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 916659,
-				"_nDownloadCount": 234,
+				"_nDownloadCount": 294,
 				"_nFilesize": 3902515,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -96,7 +223,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 916660,
-				"_nDownloadCount": 135,
+				"_nDownloadCount": 204,
 				"_nFilesize": 497650,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -115,7 +242,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 916661,
-				"_nDownloadCount": 101,
+				"_nDownloadCount": 179,
 				"_nFilesize": 97331,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -172,7 +299,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 917056,
-				"_nDownloadCount": 7,
+				"_nDownloadCount": 13,
 				"_nFilesize": 322877,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -200,7 +327,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 916944,
-				"_nDownloadCount": 14,
+				"_nDownloadCount": 24,
 				"_nFilesize": 24757977,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -228,7 +355,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 916938,
-				"_nDownloadCount": 6,
+				"_nDownloadCount": 8,
 				"_nFilesize": 765537,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -256,7 +383,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 916941,
-				"_nDownloadCount": 10,
+				"_nDownloadCount": 15,
 				"_nFilesize": 78160944,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -379,7 +506,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 916831,
-				"_nDownloadCount": 7,
+				"_nDownloadCount": 8,
 				"_nFilesize": 17879477,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -434,7 +561,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 915279,
-				"_nDownloadCount": 31,
+				"_nDownloadCount": 36,
 				"_nFilesize": 2029385,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -468,7 +595,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 915277,
-				"_nDownloadCount": 2,
+				"_nDownloadCount": 4,
 				"_nFilesize": 54352,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -502,7 +629,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 915272,
-				"_nDownloadCount": 7,
+				"_nDownloadCount": 13,
 				"_nFilesize": 1577915,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -536,7 +663,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 915270,
-				"_nDownloadCount": 24,
+				"_nDownloadCount": 35,
 				"_nFilesize": 1114884,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -570,7 +697,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 915265,
-				"_nDownloadCount": 18,
+				"_nDownloadCount": 21,
 				"_nFilesize": 933898,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -604,7 +731,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 915259,
-				"_nDownloadCount": 23,
+				"_nDownloadCount": 29,
 				"_nFilesize": 4137870,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -638,7 +765,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 915257,
-				"_nDownloadCount": 8,
+				"_nDownloadCount": 11,
 				"_nFilesize": 1804824,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -667,7 +794,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 914945,
-				"_nDownloadCount": 31,
+				"_nDownloadCount": 34,
 				"_nFilesize": 692148,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -695,7 +822,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 914916,
-				"_nDownloadCount": 9,
+				"_nDownloadCount": 10,
 				"_nFilesize": 39457069,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -723,7 +850,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 914894,
-				"_nDownloadCount": 19,
+				"_nDownloadCount": 22,
 				"_nFilesize": 69690456,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -756,7 +883,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 914177,
-				"_nDownloadCount": 11,
+				"_nDownloadCount": 13,
 				"_nFilesize": 2209642,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -797,7 +924,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 914005,
-				"_nDownloadCount": 16,
+				"_nDownloadCount": 17,
 				"_nFilesize": 31887271,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -831,7 +958,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 913811,
-				"_nDownloadCount": 29,
+				"_nDownloadCount": 32,
 				"_nFilesize": 43356314,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -870,7 +997,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 913517,
-				"_nDownloadCount": 27,
+				"_nDownloadCount": 29,
 				"_nFilesize": 9399015,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -893,40 +1020,12 @@
 			{
 				"_aMetadata": {
 					"_aArchiveFileTree": [
-						"zm_oddbuildings_v1.bsp"
-					]
-				},
-				"_bContainsExe": false,
-				"_idRow": 913428,
-				"_nDownloadCount": 10,
-				"_nFilesize": 800771,
-				"_sAnalysisResult": "File passed analysis",
-				"_sAnalysisState": "done",
-				"_sClamAvResult": "clean",
-				"_sDescription": "",
-				"_sDownloadUrl": "https://gamebanana.com/dl/913428",
-				"_sFile": "zm_oddbuildings_v1.rar",
-				"_sMd5Checksum": "c0bc54d74adfa10e20e0873f98e2127c",
-				"_tsDateAdded": 1672424374
-			}
-		],
-		"_aLatestUpdates": [],
-		"_idRow": 419708,
-		"_sName": "zm_oddbuildings_v1",
-		"_sText": "zm_oddbuildings is a small zombie survival map for online servers, it features lots of spots to hide and build barricades with props, to crawl into or to climb away from the reach of the zombie claws of death. It have lights, 64 player spawns, and breakable vents, barriers, and windows.<br><br>"
-	},
-	{
-		"_aAlternateFileSources": null,
-		"_aFiles": [
-			{
-				"_aMetadata": {
-					"_aArchiveFileTree": [
 						"ze_corrupted_simulation_v1.bsp"
 					]
 				},
 				"_bContainsExe": false,
 				"_idRow": 912844,
-				"_nDownloadCount": 11,
+				"_nDownloadCount": 14,
 				"_nFilesize": 64027583,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -955,7 +1054,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 912537,
-				"_nDownloadCount": 21,
+				"_nDownloadCount": 22,
 				"_nFilesize": 284671,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -984,7 +1083,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 912268,
-				"_nDownloadCount": 16,
+				"_nDownloadCount": 18,
 				"_nFilesize": 161242,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -1034,7 +1133,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 911652,
-				"_nDownloadCount": 40,
+				"_nDownloadCount": 41,
 				"_nFilesize": 57008179,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -1062,7 +1161,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 911164,
-				"_nDownloadCount": 15,
+				"_nDownloadCount": 16,
 				"_nFilesize": 639114,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -1119,7 +1218,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 910868,
-				"_nDownloadCount": 43,
+				"_nDownloadCount": 46,
 				"_nFilesize": 81183974,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -1147,7 +1246,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 910860,
-				"_nDownloadCount": 27,
+				"_nDownloadCount": 28,
 				"_nFilesize": 33199385,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -1175,7 +1274,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 909905,
-				"_nDownloadCount": 64,
+				"_nDownloadCount": 66,
 				"_nFilesize": 17649531,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -1203,7 +1302,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 909622,
-				"_nDownloadCount": 43,
+				"_nDownloadCount": 45,
 				"_nFilesize": 13259906,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -1237,7 +1336,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 909215,
-				"_nDownloadCount": 88,
+				"_nDownloadCount": 94,
 				"_nFilesize": 10455973,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -1265,7 +1364,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 910135,
-				"_nDownloadCount": 30,
+				"_nDownloadCount": 31,
 				"_nFilesize": 91367456,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -1293,7 +1392,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 908003,
-				"_nDownloadCount": 25,
+				"_nDownloadCount": 28,
 				"_nFilesize": 11683255,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -1321,7 +1420,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 907971,
-				"_nDownloadCount": 29,
+				"_nDownloadCount": 30,
 				"_nFilesize": 48264207,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -1378,7 +1477,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 906721,
-				"_nDownloadCount": 38,
+				"_nDownloadCount": 45,
 				"_nFilesize": 33420729,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -1407,7 +1506,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 906501,
-				"_nDownloadCount": 29,
+				"_nDownloadCount": 36,
 				"_nFilesize": 104086360,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -1435,7 +1534,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 903935,
-				"_nDownloadCount": 31,
+				"_nDownloadCount": 32,
 				"_nFilesize": 47458510,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -1470,7 +1569,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 903828,
-				"_nDownloadCount": 70,
+				"_nDownloadCount": 74,
 				"_nFilesize": 4527264,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -1567,7 +1666,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 902544,
-				"_nDownloadCount": 72,
+				"_nDownloadCount": 76,
 				"_nFilesize": 27226375,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -1626,7 +1725,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 902355,
-				"_nDownloadCount": 14,
+				"_nDownloadCount": 15,
 				"_nFilesize": 188110,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -1655,7 +1754,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 902266,
-				"_nDownloadCount": 74,
+				"_nDownloadCount": 80,
 				"_nFilesize": 2786032,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -1671,91 +1770,5 @@
 		"_idRow": 415681,
 		"_sName": "de_kulagin_house",
 		"_sText": "<span class=\"SelectedElement\">This is a version for just defuse****<br><br>WARNING</span><br>This map includes:<br>-medkits<br>-no radar<br>-and spawned weapons<br>If you are a competitive sweat, then you probably won't like this map.&nbsp;<br><br>This was a neat project I made for an adaptive bot server over a couple of months. It resembles cs_crackhouse but I can ensure you it was made from scratch based off of crackhouse. That is why it has different sized rooms. You'll probably notice some familiar areas and there are new areas for different experiences!!! At the end of the day, I had fun making this and that's all that matters. I hope anyone who finds this has fun with it as well. That is all I have to say. -Brent0nic<br><br>Credit: TasteoBlood for the sick Lost Souls decal!<br>"
-	},
-	{
-		"_aAlternateFileSources": null,
-		"_aFiles": [
-			{
-				"_aMetadata": {
-					"_aArchiveFileTree": [
-						"cs_kulagin_house.bsp",
-						"cs_kulagin_house.nav"
-					]
-				},
-				"_bContainsExe": false,
-				"_idRow": 902265,
-				"_nDownloadCount": 36,
-				"_nFilesize": 2703695,
-				"_sAnalysisResult": "File passed analysis",
-				"_sAnalysisState": "done",
-				"_sClamAvResult": "clean",
-				"_sDescription": "",
-				"_sDownloadUrl": "https://gamebanana.com/dl/902265",
-				"_sFile": "cs_kulagin_house_8f888.rar",
-				"_sMd5Checksum": "28c21afa81822bf84552d977ec5123d6",
-				"_tsDateAdded": 1670384649
-			}
-		],
-		"_aLatestUpdates": [],
-		"_idRow": 415680,
-		"_sName": "cs_kulagin_house",
-		"_sText": "<span class=\"SelectedElement\">This is a version for just hostage****<br><br>WARNING</span><br>This map includes:<br>-medkits<br>-no radar<br>-and spawned weapons<br>If you are a competitive sweat, then you probably won't like this map.&nbsp;<br><br>This was a neat project I made for an adaptive bot server over a couple of months. It resembles cs_crackhouse but I can ensure you it was made from scratch based off of crackhouse. That is why it has different sized rooms. You'll probably notice some familiar areas and there are new areas for different experiences!!! At the end of the day, I had fun making this and that's all that matters. I hope anyone who finds this has fun with it as well. That is all I have to say. -Brent0nic<br><br>Credit: TasteoBlood for the sick Lost Souls decal!<br>"
-	},
-	{
-		"_aAlternateFileSources": null,
-		"_aFiles": [
-			{
-				"_aMetadata": {
-					"_aArchiveFileTree": [
-						"cs_de_kulagin_house.bsp",
-						"cs_de_kulagin_house.nav"
-					]
-				},
-				"_bContainsExe": false,
-				"_idRow": 902196,
-				"_nDownloadCount": 29,
-				"_nFilesize": 2794038,
-				"_sAnalysisResult": "File passed analysis",
-				"_sAnalysisState": "done",
-				"_sClamAvResult": "clean",
-				"_sDescription": "",
-				"_sDownloadUrl": "https://gamebanana.com/dl/902196",
-				"_sFile": "cs_de_kulagin_house.rar",
-				"_sMd5Checksum": "3453f350e8a14a969ec894b36a0d9cfc",
-				"_tsDateAdded": 1670372635
-			}
-		],
-		"_aLatestUpdates": [],
-		"_idRow": 415660,
-		"_sName": "cs_de_kulagin_house",
-		"_sText": "WARNING<br>This map includes:<br>-medkits<br>-no radar<br>-both objectives<br>-and spawned weapons<br>If you are a competitive sweat, then you probably won't like this map.&nbsp;<br><br>This was a neat project I made for an adaptive bot server over a couple of months. It resembles cs_crackhouse but I can ensure you it was made from scratch based off of crackhouse. That is why it has different sized rooms. You'll probably notice some familiar areas and there are new areas for different experiences!!! At the end of the day, I had fun making this and that's all that matters. I hope anyone who finds this has fun with it as well. That is all I have to say. -Brent0nic<br><br>Credit: TasteoBlood for the sick Lost Souls decal!<br>"
-	},
-	{
-		"_aAlternateFileSources": null,
-		"_aFiles": [
-			{
-				"_aMetadata": {
-					"_aArchiveFileTree": [
-						"bhop_luvinox.bsp"
-					]
-				},
-				"_bContainsExe": false,
-				"_idRow": 901613,
-				"_nDownloadCount": 75,
-				"_nFilesize": 15221941,
-				"_sAnalysisResult": "File passed analysis",
-				"_sAnalysisState": "done",
-				"_sClamAvResult": "clean",
-				"_sDescription": "",
-				"_sDownloadUrl": "https://gamebanana.com/dl/901613",
-				"_sFile": "bhop_luvinox.rar",
-				"_sMd5Checksum": "ffd50a7251b7087b816fbb492d97e3a7",
-				"_tsDateAdded": 1670231701
-			}
-		],
-		"_aLatestUpdates": [],
-		"_idRow": 415452,
-		"_sName": "bhop_luvinox",
-		"_sText": "map was mostly created during the bhop gathering which happened 3 december 2022. The challenge was to create as much as you could in three hours. I had created something way better than I thought I could, so i gave it some extra love and finished it. <br><br>it's around a minute long and has a really short bonus.<br><br>there wasn't a lot of playtesting so lmk if there are dumb skips."
 	}
 ]
