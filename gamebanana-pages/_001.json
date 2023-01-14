@@ -5,12 +5,69 @@
 			{
 				"_aMetadata": {
 					"_aArchiveFileTree": [
+						"surf_endeavor.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 920642,
+				"_nDownloadCount": 2,
+				"_nFilesize": 86749176,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/920642",
+				"_sFile": "surf_endeavor.zip",
+				"_sMd5Checksum": "36a4923ee0708c88e2ade2922b978205",
+				"_tsDateAdded": 1673716618
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 422246,
+		"_sName": "surf_endeavor",
+		"_sText": "T4 staged map<br><br>3500 max vel<br><br>3 stages<br><br>2 bonuses<br>"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"de_nuke_khanh.bsp",
+						"nuke_khanh.txt"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 920605,
+				"_nDownloadCount": 1,
+				"_nFilesize": 7523678,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/920605",
+				"_sFile": "de_nuke_khanh.7z",
+				"_sMd5Checksum": "74c7f5281eba17a30afa0a6d90e3ebfc",
+				"_tsDateAdded": 1673713301
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 422237,
+		"_sName": "de_nuke_khanh",
+		"_sText": "An early version of de_nuke that was leaked over the New Year holidays 2022-2023 along with the Valve repository. The map uses the original geometry and textures and is fully playable."
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
 						"bhop_cd_karthop.bsp"
 					]
 				},
 				"_bContainsExe": false,
 				"_idRow": 920456,
-				"_nDownloadCount": 3,
+				"_nDownloadCount": 6,
 				"_nFilesize": 3134568,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -58,7 +115,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 920430,
-				"_nDownloadCount": 0,
+				"_nDownloadCount": 4,
 				"_nFilesize": 3079293,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -86,7 +143,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 920001,
-				"_nDownloadCount": 5,
+				"_nDownloadCount": 6,
 				"_nFilesize": 6972432,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -110,7 +167,7 @@
 				"_aMetadata": [],
 				"_bContainsExe": false,
 				"_idRow": 919739,
-				"_nDownloadCount": 8,
+				"_nDownloadCount": 10,
 				"_nFilesize": 20847812,
 				"_sAnalysisResult": "Archive extraction failed (corrupt or password-protected)",
 				"_sAnalysisState": "done",
@@ -140,7 +197,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 919425,
-				"_nDownloadCount": 10,
+				"_nDownloadCount": 11,
 				"_nFilesize": 2452412,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -171,7 +228,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 919227,
-				"_nDownloadCount": 23,
+				"_nDownloadCount": 25,
 				"_nFilesize": 17448164,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -199,7 +256,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 918035,
-				"_nDownloadCount": 16,
+				"_nDownloadCount": 17,
 				"_nFilesize": 124753854,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -227,7 +284,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 917901,
-				"_nDownloadCount": 21,
+				"_nDownloadCount": 22,
 				"_nFilesize": 7174847,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -267,7 +324,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 917866,
-				"_nDownloadCount": 12,
+				"_nDownloadCount": 13,
 				"_nFilesize": 20300437,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -323,7 +380,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 917720,
-				"_nDownloadCount": 387,
+				"_nDownloadCount": 392,
 				"_nFilesize": 3440826,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -342,7 +399,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 916659,
-				"_nDownloadCount": 314,
+				"_nDownloadCount": 316,
 				"_nFilesize": 3902515,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -381,7 +438,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 916660,
-				"_nDownloadCount": 225,
+				"_nDownloadCount": 226,
 				"_nFilesize": 497650,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -400,7 +457,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 916661,
-				"_nDownloadCount": 202,
+				"_nDownloadCount": 204,
 				"_nFilesize": 97331,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -485,7 +542,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 916944,
-				"_nDownloadCount": 30,
+				"_nDownloadCount": 31,
 				"_nFilesize": 24757977,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -821,7 +878,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 915270,
-				"_nDownloadCount": 43,
+				"_nDownloadCount": 44,
 				"_nFilesize": 1114884,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -1291,7 +1348,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 911652,
-				"_nDownloadCount": 43,
+				"_nDownloadCount": 44,
 				"_nFilesize": 57008179,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -1319,7 +1376,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 911164,
-				"_nDownloadCount": 18,
+				"_nDownloadCount": 20,
 				"_nFilesize": 639114,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -1460,7 +1517,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 909622,
-				"_nDownloadCount": 47,
+				"_nDownloadCount": 48,
 				"_nFilesize": 13259906,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -1494,7 +1551,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 909215,
-				"_nDownloadCount": 101,
+				"_nDownloadCount": 104,
 				"_nFilesize": 10455973,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -1664,7 +1721,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 906501,
-				"_nDownloadCount": 37,
+				"_nDownloadCount": 38,
 				"_nFilesize": 104086360,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -1680,68 +1737,5 @@
 		"_idRow": 416895,
 		"_sName": "surf_rewind",
 		"_sText": "surf_rewind by Edy & Exxe<br><br>This is a future-city themed map, that took us quite a time to create. We enjoyed the process and are happy to share our result with the rest of the surf_community.<br><br>Maxvel: 3500<br>Maptier: 5<br>Stages: 6<br><br>Boni: bonus 1-3 by watti, bonus 4 by taiikii<br><br>Info about hookzones -> readme file packed in the zip<br>happy surfing!<br><br>for troubleshotting pls contact Exxe -> discord: Exxe#7425<br>"
-	},
-	{
-		"_aAlternateFileSources": null,
-		"_aFiles": [
-			{
-				"_aMetadata": {
-					"_aArchiveFileTree": [
-						"bhop_fly_syzygy.bsp"
-					]
-				},
-				"_bContainsExe": false,
-				"_idRow": 903935,
-				"_nDownloadCount": 32,
-				"_nFilesize": 47458510,
-				"_sAnalysisResult": "File passed analysis",
-				"_sAnalysisState": "done",
-				"_sClamAvResult": "clean",
-				"_sDescription": "",
-				"_sDownloadUrl": "https://gamebanana.com/dl/903935",
-				"_sFile": "bhop_fly_syzygy.zip",
-				"_sMd5Checksum": "77867a787e26fff41c4f2c0b47f360f3",
-				"_tsDateAdded": 1670728071
-			}
-		],
-		"_aLatestUpdates": [],
-		"_idRow": 416303,
-		"_sName": "bhop_fly_syzygy (CSS)",
-		"_sText": "map by roger<br>port from csgo"
-	},
-	{
-		"_aAlternateFileSources": null,
-		"_aFiles": [
-			{
-				"_aMetadata": {
-					"_aArchiveFileTree": {
-						"maps": [
-							"zm_an_omi_facility.bsp",
-							"zm_an_omi_facility.nav",
-							"zm_an_omi_facility.txt",
-							"zm_an_zombiebeach_hallow.bsp",
-							"zm_an_zombiebeach_hallow.nav",
-							"zm_an_zombiebeach_hallow.txt"
-						]
-					}
-				},
-				"_bContainsExe": false,
-				"_idRow": 903828,
-				"_nDownloadCount": 79,
-				"_nFilesize": 4527264,
-				"_sAnalysisResult": "File passed analysis",
-				"_sAnalysisState": "done",
-				"_sClamAvResult": "clean",
-				"_sDescription": "",
-				"_sDownloadUrl": "https://gamebanana.com/dl/903828",
-				"_sFile": "maps_f89f0.rar",
-				"_sMd5Checksum": "b4ec809f61fca306afbe3305d587dd4b",
-				"_tsDateAdded": 1670714559
-			}
-		],
-		"_aLatestUpdates": [],
-		"_idRow": 416263,
-		"_sName": "Sethens Zombie Mod MP #6",
-		"_sText": "<b>Sethen's Zombie Mod MP #6</b><br><br>THIS MAP PACK CONTAINS 2 ZOMBIE MOD MAPS<br><br><b>Change Log:</b><br>Zm_an_omi_facility<br>*  [ADJUSTED] - OPTIMIZATION<br>*  [ADJUSTED] - LIGHTING (HDR)<br>*  [ADDED] - TEXTURES AND MODELS<br>     - ALL MODELS NOW FUNCTION W/ PROP_PHYSICS_OVERRIDE<br>*  [ADDED] - FOG<br><br>Zm_an_zombiebeach_hallow<br><span class=\"SelectedElement\">*  [ADJUSTED] - LIGHTING</span><br>*  [ADJUSTED] - FOG<br>*  [ADJUSTED] - OPTIMIZATION<br>"
 	}
 ]
