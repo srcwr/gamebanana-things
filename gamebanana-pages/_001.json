@@ -5,12 +5,88 @@
 			{
 				"_aMetadata": {
 					"_aArchiveFileTree": [
+						"bhop_cd_karthop.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 920456,
+				"_nDownloadCount": 3,
+				"_nFilesize": 3134568,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/920456",
+				"_sFile": "bhop_cd_karthop.7z",
+				"_sMd5Checksum": "3c88d7a960207e9ab7d195c3c928c727",
+				"_tsDateAdded": 1673683108
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 422187,
+		"_sName": "bhop_cd_karthop",
+		"_sText": "Port of cd_kartbhop by CD.<br><br><a href=\"https://kz-rush.ru/en/maps/cs16/cd_kartbhop\">https://kz-rush.ru/en/maps/cs16/cd_kartbhop</a><br>"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"fy_funtimes_redux": {
+							"cstrike": {
+								"maps": [
+									"fy_funtimes_redux.bsp",
+									"fy_funtimes_redux.bsp.bak",
+									"fy_funtimes_redux.nav"
+								],
+								"materials": {
+									"overviews": [
+										"fy_funtimes_redux.vmt",
+										"fy_funtimes_redux.vtf",
+										"fy_funtimes_redux_radar.vmt"
+									]
+								},
+								"resource": {
+									"overviews": [
+										"fy_funtimes_redux.txt"
+									]
+								}
+							}
+						}
+					}
+				},
+				"_bContainsExe": false,
+				"_idRow": 920430,
+				"_nDownloadCount": 0,
+				"_nFilesize": 3079293,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/920430",
+				"_sFile": "fy_funtimes_redux.rar",
+				"_sMd5Checksum": "9bef93442c00ca326fb33581076de0c9",
+				"_tsDateAdded": 1673679409
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 422184,
+		"_sName": "fy_funtimes_redux",
+		"_sText": "Hi there. It's been a minute so I hope this works.&nbsp;Here's just a simple redo of the classic fy_funtimes originally done by the impeccable Stryker. Earliest known upload on gamebanana is Sept 25, 2005 by exaN. A couple of notes:<br><br>HDR lighting and textures.<br>Some texture and asset imports from CSGO.<br>Some custom (original) textures.<br>Bumped max players up to 40 (being mindful of spawn kill placement).<br>Added a few cubemaps.<br>Added generic ambience.<br>Added a radar material.<br><br>Packed with VIDE. Please let me know if you can't see something!<br>I encourage critique and questions.<br><br>Credits/links:<br><div class=\"SelectedElement\">gamebanana.com/members/48469</div>Nothing fancy; just a good, fun time.<br><br>"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
 						"bhop_furame.bsp"
 					]
 				},
 				"_bContainsExe": false,
 				"_idRow": 920001,
-				"_nDownloadCount": 1,
+				"_nDownloadCount": 5,
 				"_nFilesize": 6972432,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -34,7 +110,7 @@
 				"_aMetadata": [],
 				"_bContainsExe": false,
 				"_idRow": 919739,
-				"_nDownloadCount": 6,
+				"_nDownloadCount": 8,
 				"_nFilesize": 20847812,
 				"_sAnalysisResult": "Archive extraction failed (corrupt or password-protected)",
 				"_sAnalysisState": "done",
@@ -64,7 +140,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 919425,
-				"_nDownloadCount": 7,
+				"_nDownloadCount": 10,
 				"_nFilesize": 2452412,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -95,7 +171,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 919227,
-				"_nDownloadCount": 16,
+				"_nDownloadCount": 23,
 				"_nFilesize": 17448164,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -123,7 +199,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 918035,
-				"_nDownloadCount": 13,
+				"_nDownloadCount": 16,
 				"_nFilesize": 124753854,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -151,7 +227,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 917901,
-				"_nDownloadCount": 18,
+				"_nDownloadCount": 21,
 				"_nFilesize": 7174847,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -191,7 +267,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 917866,
-				"_nDownloadCount": 9,
+				"_nDownloadCount": 12,
 				"_nFilesize": 20300437,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -247,7 +323,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 917720,
-				"_nDownloadCount": 356,
+				"_nDownloadCount": 387,
 				"_nFilesize": 3440826,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -266,7 +342,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 916659,
-				"_nDownloadCount": 306,
+				"_nDownloadCount": 314,
 				"_nFilesize": 3902515,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -305,7 +381,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 916660,
-				"_nDownloadCount": 214,
+				"_nDownloadCount": 225,
 				"_nFilesize": 497650,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -324,7 +400,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 916661,
-				"_nDownloadCount": 193,
+				"_nDownloadCount": 202,
 				"_nFilesize": 97331,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -409,7 +485,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 916944,
-				"_nDownloadCount": 27,
+				"_nDownloadCount": 30,
 				"_nFilesize": 24757977,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -437,7 +513,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 916938,
-				"_nDownloadCount": 8,
+				"_nDownloadCount": 9,
 				"_nFilesize": 765537,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -465,7 +541,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 916941,
-				"_nDownloadCount": 16,
+				"_nDownloadCount": 18,
 				"_nFilesize": 78160944,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -555,7 +631,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 916840,
-				"_nDownloadCount": 4,
+				"_nDownloadCount": 5,
 				"_nFilesize": 60069553,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -643,7 +719,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 915279,
-				"_nDownloadCount": 39,
+				"_nDownloadCount": 43,
 				"_nFilesize": 2029385,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -745,7 +821,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 915270,
-				"_nDownloadCount": 39,
+				"_nDownloadCount": 43,
 				"_nFilesize": 1114884,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -779,7 +855,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 915265,
-				"_nDownloadCount": 24,
+				"_nDownloadCount": 25,
 				"_nFilesize": 933898,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -813,7 +889,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 915259,
-				"_nDownloadCount": 35,
+				"_nDownloadCount": 40,
 				"_nFilesize": 4137870,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -847,7 +923,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 915257,
-				"_nDownloadCount": 14,
+				"_nDownloadCount": 15,
 				"_nFilesize": 1804824,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -1040,7 +1116,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 913811,
-				"_nDownloadCount": 34,
+				"_nDownloadCount": 36,
 				"_nFilesize": 43356314,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -1107,7 +1183,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 912844,
-				"_nDownloadCount": 15,
+				"_nDownloadCount": 16,
 				"_nFilesize": 64027583,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -1243,7 +1319,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 911164,
-				"_nDownloadCount": 17,
+				"_nDownloadCount": 18,
 				"_nFilesize": 639114,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -1300,7 +1376,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 910868,
-				"_nDownloadCount": 50,
+				"_nDownloadCount": 51,
 				"_nFilesize": 81183974,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -1356,7 +1432,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 909905,
-				"_nDownloadCount": 68,
+				"_nDownloadCount": 70,
 				"_nFilesize": 17649531,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -1418,7 +1494,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 909215,
-				"_nDownloadCount": 99,
+				"_nDownloadCount": 101,
 				"_nFilesize": 10455973,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -1446,7 +1522,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 910135,
-				"_nDownloadCount": 32,
+				"_nDownloadCount": 34,
 				"_nFilesize": 91367456,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -1588,7 +1664,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 906501,
-				"_nDownloadCount": 36,
+				"_nDownloadCount": 37,
 				"_nFilesize": 104086360,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -1651,7 +1727,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 903828,
-				"_nDownloadCount": 76,
+				"_nDownloadCount": 79,
 				"_nFilesize": 4527264,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -1667,74 +1743,5 @@
 		"_idRow": 416263,
 		"_sName": "Sethens Zombie Mod MP #6",
 		"_sText": "<b>Sethen's Zombie Mod MP #6</b><br><br>THIS MAP PACK CONTAINS 2 ZOMBIE MOD MAPS<br><br><b>Change Log:</b><br>Zm_an_omi_facility<br>*  [ADJUSTED] - OPTIMIZATION<br>*  [ADJUSTED] - LIGHTING (HDR)<br>*  [ADDED] - TEXTURES AND MODELS<br>     - ALL MODELS NOW FUNCTION W/ PROP_PHYSICS_OVERRIDE<br>*  [ADDED] - FOG<br><br>Zm_an_zombiebeach_hallow<br><span class=\"SelectedElement\">*  [ADJUSTED] - LIGHTING</span><br>*  [ADJUSTED] - FOG<br>*  [ADJUSTED] - OPTIMIZATION<br>"
-	},
-	{
-		"_aAlternateFileSources": null,
-		"_aFiles": [
-			{
-				"_aMetadata": {
-					"_aArchiveFileTree": [
-						"trikz_laele.bsp"
-					]
-				},
-				"_bContainsExe": false,
-				"_idRow": 909221,
-				"_nDownloadCount": 5,
-				"_nFilesize": 89484323,
-				"_sAnalysisResult": "File passed analysis",
-				"_sAnalysisState": "done",
-				"_sClamAvResult": "clean",
-				"_sDescription": "",
-				"_sDownloadUrl": "https://gamebanana.com/dl/909221",
-				"_sFile": "trikz_laele_1af9f.rar",
-				"_sMd5Checksum": "ef97ceb84e8d82cdbfea8b86660c2dc6",
-				"_tsDateAdded": 1671728536
-			}
-		],
-		"_aLatestUpdates": [],
-		"_idRow": 416112,
-		"_sName": "trikz_laele",
-		"_sText": "trikz_laele by GgS and gomes<br><br>(First map)<br><br>tier 7<br>10 levels<br>ljroom 240-269<br>short solo bonus<br><br>have fun!"
-	},
-	{
-		"_aAlternateFileSources": null,
-		"_aFiles": [
-			{
-				"_aMetadata": {
-					"_aArchiveFileTree": [
-						"readme.txt",
-						"surf_outside.bsp"
-					]
-				},
-				"_bContainsExe": false,
-				"_idRow": 902591,
-				"_nDownloadCount": 37,
-				"_nFilesize": 10233043,
-				"_sAnalysisResult": "File passed analysis",
-				"_sAnalysisState": "done",
-				"_sClamAvResult": "clean",
-				"_sDescription": "",
-				"_sDownloadUrl": "https://gamebanana.com/dl/902591",
-				"_sFile": "surf_outside_1df5d.rar",
-				"_sMd5Checksum": "cb1777b2588f2416edbc253c7ce2cc4c",
-				"_tsDateAdded": 1670460604
-			}
-		],
-		"_aLatestUpdates": [
-			{
-				"_aChangeLog": [
-					{
-						"cat": "Improvement",
-						"text": "fixed spelling error in readme.txt"
-					}
-				],
-				"_sText": "",
-				"_sTitle": "Updated",
-				"_tsDateAdded": 1670460698
-			}
-		],
-		"_idRow": 415782,
-		"_sName": "surf_outside",
-		"_sText": "my first solo map<br>hope you enjoy"
 	}
 ]
