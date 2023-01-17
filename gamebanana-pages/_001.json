@@ -5,21 +5,117 @@
 			{
 				"_aMetadata": {
 					"_aArchiveFileTree": [
-						"trikz_nukor.bsp"
+						"ze_ffxii_feywood_training_v1_1.bsp"
 					]
 				},
 				"_bContainsExe": false,
-				"_idRow": 921294,
+				"_idRow": 922262,
 				"_nDownloadCount": 0,
-				"_nFilesize": 35569423,
+				"_nFilesize": 9122229,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
 				"_sClamAvResult": "clean",
 				"_sDescription": "",
-				"_sDownloadUrl": "https://gamebanana.com/dl/921294",
-				"_sFile": "trikz_nukor.rar",
-				"_sMd5Checksum": "0713a2cc9742d7e81291ff556668bea2",
-				"_tsDateAdded": 1673808121
+				"_sDownloadUrl": "https://gamebanana.com/dl/922262",
+				"_sFile": "ze_ffxii_feywood_training_v1_1.rar",
+				"_sMd5Checksum": "f5f04133fa04497edeab9826059f52c1",
+				"_tsDateAdded": 1673973460
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 422806,
+		"_sName": "ze_ffxii_feywood_training_v1_1",
+		"_sText": "ze_ffxii_feywood_training_v1_1 - A map for training the final of the map ze_ffxii_feywood_b3_1 with lasers and items<br>Map by XXDarkRoad<br>From the creators of the original ze_ffxii_feywood_b3_1 [HEADSHOOTER.SC AND HARYDE]<br>"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"bhop_a03_slidekami.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 922231,
+				"_nDownloadCount": 1,
+				"_nFilesize": 2825377,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/922231",
+				"_sFile": "bhop_a03_slidekami_bfb9a.zip",
+				"_sMd5Checksum": "64b79386ce4334746541a7689eebbe11",
+				"_tsDateAdded": 1673967320
+			}
+		],
+		"_aLatestUpdates": [
+			{
+				"_aChangeLog": [
+					{
+						"cat": "",
+						"text": "fix missed textures"
+					}
+				],
+				"_sText": "",
+				"_sTitle": "texture fix",
+				"_tsDateAdded": 1673967395
+			}
+		],
+		"_idRow": 422782,
+		"_sName": "bhop_a03_slidekami",
+		"_sText": "<span class=\"SelectedElement\">CS:S port of <a href=\"https://gamebanana.com/mods/382198\">bhop_a03_slidekami</a> </span>"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"ze_ffvii_cosmo_training_v3.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 922150,
+				"_nDownloadCount": 2,
+				"_nFilesize": 17709614,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/922150",
+				"_sFile": "ze_ffvii_cosmo_training_v3.rar",
+				"_sMd5Checksum": "76983f8cfe53d8fb7c339711eb61de0c",
+				"_tsDateAdded": 1673941153
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 422652,
+		"_sName": "ze_ffvii_cosmo_training_v3",
+		"_sText": "ze_ffvii_cosmo_training_v3 - A map for training the final of the map ze_FFVII_Cosmo_Conyon_v5fix with lasers and items<br>Map by XXDarkRoad and Microsoft Edge<br>From the creators of the original ze_FFVII_Cosmo_Canyon_v5fix [HEADSHOOTER.SC AND HARYDE]<br>"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": [
+						"trikz_nukor.bsp"
+					]
+				},
+				"_bContainsExe": false,
+				"_idRow": 922006,
+				"_nDownloadCount": 4,
+				"_nFilesize": 36015742,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/922006",
+				"_sFile": "trikz_nukor_0b483.rar",
+				"_sMd5Checksum": "9a7518b1257fd6df1eca5d95c35ed92e",
+				"_tsDateAdded": 1673916266
 			}
 		],
 		"_aLatestUpdates": [],
@@ -38,7 +134,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 921130,
-				"_nDownloadCount": 5,
+				"_nDownloadCount": 9,
 				"_nFilesize": 7175163,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -87,7 +183,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 920725,
-				"_nDownloadCount": 9,
+				"_nDownloadCount": 13,
 				"_nFilesize": 85720667,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -116,7 +212,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 920605,
-				"_nDownloadCount": 17,
+				"_nDownloadCount": 22,
 				"_nFilesize": 7523678,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -144,7 +240,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 920456,
-				"_nDownloadCount": 12,
+				"_nDownloadCount": 26,
 				"_nFilesize": 3134568,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -192,7 +288,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 920430,
-				"_nDownloadCount": 12,
+				"_nDownloadCount": 13,
 				"_nFilesize": 3079293,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -220,7 +316,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 920001,
-				"_nDownloadCount": 8,
+				"_nDownloadCount": 18,
 				"_nFilesize": 6972432,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -274,7 +370,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 919425,
-				"_nDownloadCount": 17,
+				"_nDownloadCount": 20,
 				"_nFilesize": 2452412,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -305,7 +401,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 919227,
-				"_nDownloadCount": 31,
+				"_nDownloadCount": 36,
 				"_nFilesize": 17448164,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -429,7 +525,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 917720,
-				"_nDownloadCount": 407,
+				"_nDownloadCount": 427,
 				"_nFilesize": 3440826,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -448,7 +544,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 916659,
-				"_nDownloadCount": 319,
+				"_nDownloadCount": 324,
 				"_nFilesize": 3902515,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -487,7 +583,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 916660,
-				"_nDownloadCount": 230,
+				"_nDownloadCount": 234,
 				"_nFilesize": 497650,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -506,7 +602,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 916661,
-				"_nDownloadCount": 207,
+				"_nDownloadCount": 216,
 				"_nFilesize": 97331,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -563,7 +659,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 917056,
-				"_nDownloadCount": 20,
+				"_nDownloadCount": 21,
 				"_nFilesize": 322877,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -591,7 +687,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 916944,
-				"_nDownloadCount": 40,
+				"_nDownloadCount": 41,
 				"_nFilesize": 24757977,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -770,7 +866,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 916831,
-				"_nDownloadCount": 13,
+				"_nDownloadCount": 15,
 				"_nFilesize": 17879477,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -893,7 +989,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 915272,
-				"_nDownloadCount": 17,
+				"_nDownloadCount": 18,
 				"_nFilesize": 1577915,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -927,7 +1023,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 915270,
-				"_nDownloadCount": 45,
+				"_nDownloadCount": 50,
 				"_nFilesize": 1114884,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -961,7 +1057,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 915265,
-				"_nDownloadCount": 27,
+				"_nDownloadCount": 28,
 				"_nFilesize": 933898,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -995,7 +1091,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 915259,
-				"_nDownloadCount": 42,
+				"_nDownloadCount": 43,
 				"_nFilesize": 4137870,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -1058,7 +1154,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 914945,
-				"_nDownloadCount": 42,
+				"_nDownloadCount": 44,
 				"_nFilesize": 692148,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -1114,7 +1210,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 914894,
-				"_nDownloadCount": 25,
+				"_nDownloadCount": 26,
 				"_nFilesize": 69690456,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -1222,7 +1318,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 913811,
-				"_nDownloadCount": 40,
+				"_nDownloadCount": 41,
 				"_nFilesize": 43356314,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -1261,7 +1357,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 913517,
-				"_nDownloadCount": 37,
+				"_nDownloadCount": 38,
 				"_nFilesize": 9399015,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -1347,7 +1443,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 912268,
-				"_nDownloadCount": 22,
+				"_nDownloadCount": 24,
 				"_nFilesize": 161242,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -1397,7 +1493,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 911652,
-				"_nDownloadCount": 48,
+				"_nDownloadCount": 49,
 				"_nFilesize": 57008179,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -1425,7 +1521,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 911164,
-				"_nDownloadCount": 20,
+				"_nDownloadCount": 22,
 				"_nFilesize": 639114,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -1538,7 +1634,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 909905,
-				"_nDownloadCount": 70,
+				"_nDownloadCount": 72,
 				"_nFilesize": 17649531,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -1566,7 +1662,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 909622,
-				"_nDownloadCount": 48,
+				"_nDownloadCount": 52,
 				"_nFilesize": 13259906,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -1600,7 +1696,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 909215,
-				"_nDownloadCount": 104,
+				"_nDownloadCount": 109,
 				"_nFilesize": 10455973,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -1628,7 +1724,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 910135,
-				"_nDownloadCount": 34,
+				"_nDownloadCount": 35,
 				"_nFilesize": 91367456,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -1672,90 +1768,5 @@
 		"_idRow": 417691,
 		"_sName": "bhop_braixen (CSS)",
 		"_sText": "port from csgo<br>map by kemonoka"
-	},
-	{
-		"_aAlternateFileSources": null,
-		"_aFiles": [
-			{
-				"_aMetadata": {
-					"_aArchiveFileTree": [
-						"bhop_impermanence.bsp"
-					]
-				},
-				"_bContainsExe": false,
-				"_idRow": 907971,
-				"_nDownloadCount": 30,
-				"_nFilesize": 48264207,
-				"_sAnalysisResult": "File passed analysis",
-				"_sAnalysisState": "done",
-				"_sClamAvResult": "clean",
-				"_sDescription": "",
-				"_sDownloadUrl": "https://gamebanana.com/dl/907971",
-				"_sFile": "bhop_impermanence.zip",
-				"_sMd5Checksum": "c6790652c424b3ebfc5576c412bc0dbf",
-				"_tsDateAdded": 1671513451
-			}
-		],
-		"_aLatestUpdates": [],
-		"_idRow": 417676,
-		"_sName": "bhop_impermanence",
-		"_sText": "Map is around 1:30 ~2 minutes. Wanted to make a map with some random themes, since I've been pretty bored. I personally think it's pretty fun but from a running standpoint it might be a little choppy, not too sure though. <br><br>Let me know if there are any issues."
-	},
-	{
-		"_aAlternateFileSources": null,
-		"_aFiles": [
-			{
-				"_aMetadata": {
-					"_aArchiveFileTree": [
-						"tr_box.bsp",
-						"tr_box.nav"
-					]
-				},
-				"_bContainsExe": false,
-				"_idRow": 907860,
-				"_nDownloadCount": 11,
-				"_nFilesize": 163761,
-				"_sAnalysisResult": "File passed analysis",
-				"_sAnalysisState": "done",
-				"_sClamAvResult": "clean",
-				"_sDescription": "",
-				"_sDownloadUrl": "https://gamebanana.com/dl/907860",
-				"_sFile": "map.7z",
-				"_sMd5Checksum": "f72c1eed6d9b171774800e8ac51c5642",
-				"_tsDateAdded": 1671495316
-			}
-		],
-		"_aLatestUpdates": [],
-		"_idRow": 417634,
-		"_sName": "tr_box",
-		"_sText": "A map to train your aim with bots<br>Best used with <a href=\"https://www.bailopan.net/cssdm/index.php?page=install\">cssdm</a> so they can respawn<br><br>Inspired by <a href=\"https://gamebanana.com/mods/74812\">tr_walkway</a><br>:D"
-	},
-	{
-		"_aAlternateFileSources": null,
-		"_aFiles": [
-			{
-				"_aMetadata": {
-					"_aArchiveFileTree": [
-						"surf_tensor2.bsp"
-					]
-				},
-				"_bContainsExe": false,
-				"_idRow": 906721,
-				"_nDownloadCount": 45,
-				"_nFilesize": 33420729,
-				"_sAnalysisResult": "File passed analysis",
-				"_sAnalysisState": "done",
-				"_sClamAvResult": "clean",
-				"_sDescription": "",
-				"_sDownloadUrl": "https://gamebanana.com/dl/906721",
-				"_sFile": "surf_tensor2.zip",
-				"_sMd5Checksum": "a68df4377c17241012baa70bb5e2dbea",
-				"_tsDateAdded": 1671307282
-			}
-		],
-		"_aLatestUpdates": [],
-		"_idRow": 417236,
-		"_sName": "surf_tensor2",
-		"_sText": "t6 staged map, 8 stages, 6 bonuses<br>sequel nobody wanted, diet hades2 :skull:<br><br>default maxvelocity<br><br>"
 	}
 ]
