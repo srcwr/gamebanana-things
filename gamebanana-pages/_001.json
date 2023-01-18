@@ -4,13 +4,156 @@
 		"_aFiles": [
 			{
 				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"0": "README.txt",
+						"1": "fy_monke.bsp",
+						"src": {
+							"mapsrc": [
+								"fy_monke.vmf"
+							],
+							"materials": {
+								"fy_monke": [
+									"concretewall056c.vmt",
+									"concretewall056c.vtf",
+									"rockwall011f.vmt",
+									"rockwall011f.vtf"
+								]
+							},
+							"modelsrc": {
+								"decompiled from game models (using crowbar)": {
+									"0": "bananna.dx80.vtx",
+									"1": "bananna.dx90.vtx",
+									"10": "bananna_bunch.sw.vtx",
+									"11": "bananna_bunch.vvd",
+									"2": "bananna.mdl",
+									"3": "bananna.phy",
+									"4": "bananna.sw.vtx",
+									"5": "bananna.vvd",
+									"6": "bananna_bunch.dx80.vtx",
+									"7": "bananna_bunch.dx90.vtx",
+									"8": "bananna_bunch.mdl",
+									"9": "bananna_bunch.phy",
+									"modelsrc": {
+										"0": "bananna.qc",
+										"1": "bananna_bunch.qc",
+										"2": "bananna_bunch_physics.smd",
+										"3": "bananna_bunch_reference.smd",
+										"4": "bananna_bunch_reference_lod1.smd",
+										"5": "bananna_physics.smd",
+										"6": "bananna_reference.smd",
+										"bananna_anims": [
+											"idle.smd"
+										],
+										"bananna_bunch_anims": [
+											"idle.smd"
+										]
+									}
+								},
+								"monke": {
+									"0": "collision.SMD",
+									"1": "monke.SMD",
+									"2": "monke.log",
+									"3": "monke.qc",
+									"anims": [
+										"idle.SMD"
+									]
+								}
+							}
+						}
+					}
+				},
+				"_bContainsExe": false,
+				"_idRow": 922622,
+				"_nDownloadCount": 0,
+				"_nFilesize": 2348733,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": ".bsp + .vmf and other sauce",
+				"_sDownloadUrl": "https://gamebanana.com/dl/922622",
+				"_sFile": "fy_monke.zip",
+				"_sMd5Checksum": "34f2eba084ac679fe8e891962f3b6322",
+				"_tsDateAdded": 1674032265
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 422921,
+		"_sName": "fy_monke",
+		"_sText": "My first map ever. One of the monkeys is brush based, but i couldn't fit 2 monkeys without hitting the max_brushsides compiler error, so i had to resort to turning one of them into a model. It was a bit tricky to get the collisions working, but hey.<br><br>Btw this is cursed as hell... have fun! xD<br>"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
+					"_aArchiveFileTree": {
+						"de_mentlegen": {
+							"0": "HISTORY OF MENTLEGEN!!!!!!!!!!.txt",
+							"de_mentlegen": [
+								"de_mentlegen.bsp"
+							],
+							"de_mentlegen_alpha": {
+								"de_mentlegen_alpha1": [
+									"de_mentlegen_alpha1.bsp",
+									"de_mentlegen_alpha1.nav"
+								],
+								"de_mentlegen_alpha2": [
+									"de_mentlegen_alpha2.bsp",
+									"de_mentlegen_alpha2.nav"
+								],
+								"de_mentlegen_alpha3": [
+									"de_mentlegen_alpha3.bsp",
+									"de_mentlegen_alpha3.nav"
+								]
+							},
+							"de_mentlegen_beta": {
+								"de_mentlegen_beta": [
+									"de_mentlegen_beta.bsp",
+									"de_mentlegen_beta.nav"
+								],
+								"de_mentlegen_illegal": [
+									"de_mentlegen_beta_illegal.bsp",
+									"why is it called illegal.txt"
+								]
+							},
+							"de_mentlegen_long": [
+								"de_mentlegen_long.bsp",
+								"de_mentlegen_long.nav"
+							]
+						}
+					}
+				},
+				"_bContainsExe": false,
+				"_idRow": 922510,
+				"_nDownloadCount": 1,
+				"_nFilesize": 826282,
+				"_sAnalysisResult": "File passed analysis",
+				"_sAnalysisState": "done",
+				"_sClamAvResult": "clean",
+				"_sDescription": "",
+				"_sDownloadUrl": "https://gamebanana.com/dl/922510",
+				"_sFile": "de_mentlegen_d3c0f.7z",
+				"_sMd5Checksum": "d844fea3c02ab6adae8d26d65816a296",
+				"_tsDateAdded": 1674009845
+			}
+		],
+		"_aLatestUpdates": [],
+		"_idRow": 422887,
+		"_sName": "de_mentlegen (finished)",
+		"_sText": "After 5 months mentlegen is finished :}<br>A compilation of every mentletgen map&nbsp;<br>The finished version is de_mentlegen<br><br><h1><hr>The links to the maps</h1><br><a href=\"https://gamebanana.com/mods/397302\">De_mentlegen_alpha1</a><br><a href=\"https://gamebanana.com/mods/403182\">De_mentlegen_alpha2</a><br><a href=\"https://gamebanana.com/mods/406146\">De_mentlegen_alpha3</a><br><a href=\"https://gamebanana.com/mods/412869\">De_mentlegen_beta</a><br><a href=\"https://gamebanana.com/mods/412923\">De_mentlegen_illegal</a><br><br><a href=\"https://gamebanana.com/mods/412923\">De_mentlegen_long</a>"
+	},
+	{
+		"_aAlternateFileSources": null,
+		"_aFiles": [
+			{
+				"_aMetadata": {
 					"_aArchiveFileTree": [
 						"bhop_smoked_dev.bsp"
 					]
 				},
 				"_bContainsExe": false,
 				"_idRow": 922401,
-				"_nDownloadCount": 0,
+				"_nDownloadCount": 6,
 				"_nFilesize": 9906269,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -38,7 +181,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 922355,
-				"_nDownloadCount": 1,
+				"_nDownloadCount": 4,
 				"_nFilesize": 37309757,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -190,7 +333,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 921130,
-				"_nDownloadCount": 9,
+				"_nDownloadCount": 11,
 				"_nFilesize": 7175163,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -239,7 +382,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 920725,
-				"_nDownloadCount": 15,
+				"_nDownloadCount": 16,
 				"_nFilesize": 85720667,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -268,7 +411,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 920605,
-				"_nDownloadCount": 27,
+				"_nDownloadCount": 33,
 				"_nFilesize": 7523678,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -296,7 +439,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 920456,
-				"_nDownloadCount": 27,
+				"_nDownloadCount": 31,
 				"_nFilesize": 3134568,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -344,7 +487,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 920430,
-				"_nDownloadCount": 13,
+				"_nDownloadCount": 14,
 				"_nFilesize": 3079293,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -581,7 +724,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 917720,
-				"_nDownloadCount": 428,
+				"_nDownloadCount": 431,
 				"_nFilesize": 3440826,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -658,7 +801,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 916661,
-				"_nDownloadCount": 217,
+				"_nDownloadCount": 218,
 				"_nFilesize": 97331,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -771,7 +914,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 916938,
-				"_nDownloadCount": 12,
+				"_nDownloadCount": 13,
 				"_nFilesize": 765537,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -1079,7 +1222,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 915270,
-				"_nDownloadCount": 50,
+				"_nDownloadCount": 51,
 				"_nFilesize": 1114884,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -1147,7 +1290,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 915259,
-				"_nDownloadCount": 43,
+				"_nDownloadCount": 44,
 				"_nFilesize": 4137870,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -1181,7 +1324,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 915257,
-				"_nDownloadCount": 18,
+				"_nDownloadCount": 19,
 				"_nFilesize": 1804824,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -1634,7 +1777,7 @@
 				},
 				"_bContainsExe": false,
 				"_idRow": 910868,
-				"_nDownloadCount": 53,
+				"_nDownloadCount": 54,
 				"_nFilesize": 81183974,
 				"_sAnalysisResult": "File passed analysis",
 				"_sAnalysisState": "done",
@@ -1706,67 +1849,5 @@
 		"_idRow": 418351,
 		"_sName": "bhop_dilaudid [CS:S]",
 		"_sText": "csgo port<br><br>original map by smoked<br>"
-	},
-	{
-		"_aAlternateFileSources": null,
-		"_aFiles": [
-			{
-				"_aMetadata": {
-					"_aArchiveFileTree": [
-						"bhop_weedcat.bsp"
-					]
-				},
-				"_bContainsExe": false,
-				"_idRow": 909622,
-				"_nDownloadCount": 52,
-				"_nFilesize": 13259906,
-				"_sAnalysisResult": "File passed analysis",
-				"_sAnalysisState": "done",
-				"_sClamAvResult": "clean",
-				"_sDescription": "",
-				"_sDownloadUrl": "https://gamebanana.com/dl/909622",
-				"_sFile": "bhop_weedcat.zip",
-				"_sMd5Checksum": "ea01f45d29fa75692496978ae4ff0d21",
-				"_tsDateAdded": 1671783228
-			}
-		],
-		"_aLatestUpdates": [],
-		"_idRow": 418233,
-		"_sName": "bhop_weedcat [CS:S]",
-		"_sText": "ported by miswift<br><br>if there is a problem or something about that contact Miswift#4545 on discord<br><br>"
-	},
-	{
-		"_aAlternateFileSources": [
-			{
-				"description": "The file via MEGAsync",
-				"url": "https://mega.nz/file/Lfhn3TIY#crliauGp-FmvDtvDfW1dYoZjlc54Em_z87JeAmKf5lE"
-			}
-		],
-		"_aFiles": [
-			{
-				"_aMetadata": {
-					"_aArchiveFileTree": [
-						"de_saunatupa_talvi2.bsp",
-						"de_saunatupa_talvi2.nav"
-					]
-				},
-				"_bContainsExe": false,
-				"_idRow": 909215,
-				"_nDownloadCount": 109,
-				"_nFilesize": 10455973,
-				"_sAnalysisResult": "File passed analysis",
-				"_sAnalysisState": "done",
-				"_sClamAvResult": "clean",
-				"_sDescription": "",
-				"_sDownloadUrl": "https://gamebanana.com/dl/909215",
-				"_sFile": "de_sauantupa_talvi2.zip",
-				"_sMd5Checksum": "cf249a49cfcd6090d4d053d0da4ea510",
-				"_tsDateAdded": 1671727145
-			}
-		],
-		"_aLatestUpdates": [],
-		"_idRow": 418096,
-		"_sName": "de_saunatupa_talvi2",
-		"_sText": "de_saunatupa_talvi2 is a updated version of the <a href=\"https://gamebanana.com/mods/103838\">map</a>, including new passages to balance the map based on playtesting and feedback.<br><br>Counter-Terrorists: The sauna is being<br>heated up. An old radio plays in the<br>upstairs living room while the fireplace<br>crackles. A great day is ahead.<br><br>Terrorists: Plant the explosive device<br>in the sauna. The target needs to be<br>destroyed at all costs.<br>"
 	}
 ]

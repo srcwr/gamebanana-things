@@ -1,0 +1,82 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "README.txt",
+					"1": "fy_monke.bsp",
+					"src": {
+						"mapsrc": [
+							"fy_monke.vmf"
+						],
+						"materials": {
+							"fy_monke": [
+								"concretewall056c.vmt",
+								"concretewall056c.vtf",
+								"rockwall011f.vmt",
+								"rockwall011f.vtf"
+							]
+						},
+						"modelsrc": {
+							"decompiled from game models (using crowbar)": {
+								"0": "bananna.dx80.vtx",
+								"1": "bananna.dx90.vtx",
+								"10": "bananna_bunch.sw.vtx",
+								"11": "bananna_bunch.vvd",
+								"2": "bananna.mdl",
+								"3": "bananna.phy",
+								"4": "bananna.sw.vtx",
+								"5": "bananna.vvd",
+								"6": "bananna_bunch.dx80.vtx",
+								"7": "bananna_bunch.dx90.vtx",
+								"8": "bananna_bunch.mdl",
+								"9": "bananna_bunch.phy",
+								"modelsrc": {
+									"0": "bananna.qc",
+									"1": "bananna_bunch.qc",
+									"2": "bananna_bunch_physics.smd",
+									"3": "bananna_bunch_reference.smd",
+									"4": "bananna_bunch_reference_lod1.smd",
+									"5": "bananna_physics.smd",
+									"6": "bananna_reference.smd",
+									"bananna_anims": [
+										"idle.smd"
+									],
+									"bananna_bunch_anims": [
+										"idle.smd"
+									]
+								}
+							},
+							"monke": {
+								"0": "collision.SMD",
+								"1": "monke.SMD",
+								"2": "monke.log",
+								"3": "monke.qc",
+								"anims": [
+									"idle.SMD"
+								]
+							}
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 922622,
+			"_nDownloadCount": 0,
+			"_nFilesize": 2348733,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": ".bsp + .vmf and other sauce",
+			"_sDownloadUrl": "https://gamebanana.com/dl/922622",
+			"_sFile": "fy_monke.zip",
+			"_sMd5Checksum": "34f2eba084ac679fe8e891962f3b6322",
+			"_tsDateAdded": 1674032265
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 422921,
+	"_sName": "fy_monke",
+	"_sText": "My first map ever. One of the monkeys is brush based, but i couldn't fit 2 monkeys without hitting the max_brushsides compiler error, so i had to resort to turning one of them into a model. It was a bit tricky to get the collisions working, but hey.<br><br>Btw this is cursed as hell... have fun! xD<br>"
+}
