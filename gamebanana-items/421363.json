@@ -8,13 +8,32 @@
 				]
 			},
 			"_bContainsExe": false,
+			"_idRow": 924143,
+			"_nDownloadCount": 1,
+			"_nFilesize": 8119765,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "New ver",
+			"_sDownloadUrl": "https://gamebanana.com/dl/924143",
+			"_sFile": "de_theatre_a_3.rar",
+			"_sMd5Checksum": "9af4fc25fbc8b7fa34eae2ac29d820a3",
+			"_tsDateAdded": 1674313939
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_theatre.bsp"
+				]
+			},
+			"_bContainsExe": false,
 			"_idRow": 921130,
 			"_nDownloadCount": 20,
 			"_nFilesize": 7175163,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
-			"_sDescription": "",
+			"_sDescription": "Old ver",
 			"_sDownloadUrl": "https://gamebanana.com/dl/921130",
 			"_sFile": "de_theatre.rar",
 			"_sMd5Checksum": "eb7ffcae54237eee548aa5742667e23a",
@@ -22,6 +41,18 @@
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Minor changes have been made to the map."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "de_theatre",
+			"_sVersion": "a_3",
+			"_tsDateAdded": 1674314040
+		},
 		{
 			"_aChangeLog": [
 				{
