@@ -4,17 +4,36 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
+					"de_theatre_a_5.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 924673,
+			"_nDownloadCount": 2,
+			"_nFilesize": 8064871,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "New ver",
+			"_sDownloadUrl": "https://gamebanana.com/dl/924673",
+			"_sFile": "de_theatre_a_5.rar",
+			"_sMd5Checksum": "c80be838c2000f093a9e0ffe484b121a",
+			"_tsDateAdded": 1674396403
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
 					"de_theatre_a_4.bsp"
 				]
 			},
 			"_bContainsExe": false,
 			"_idRow": 924312,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 4,
 			"_nFilesize": 7922751,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
-			"_sDescription": "New ver",
+			"_sDescription": "Old ver",
 			"_sDownloadUrl": "https://gamebanana.com/dl/924312",
 			"_sFile": "de_theatre_a_4.rar",
 			"_sMd5Checksum": "4de584f014ebbd7fd8a1d226a967456e",
@@ -63,6 +82,18 @@
 		{
 			"_aChangeLog": [
 				{
+					"cat": "Addition",
+					"text": "Added ambient sounds to the map"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "de_theatre",
+			"_sVersion": "a_5",
+			"_tsDateAdded": 1674396472
+		},
+		{
+			"_aChangeLog": [
+				{
 					"cat": "Bugfix",
 					"text": "Camera location fixed"
 				}
@@ -71,18 +102,6 @@
 			"_sTitle": "de_theatre",
 			"_sVersion": "a_4",
 			"_tsDateAdded": 1674335455
-		},
-		{
-			"_aChangeLog": [
-				{
-					"cat": "Addition",
-					"text": "Minor changes have been made to the map."
-				}
-			],
-			"_sText": "",
-			"_sTitle": "de_theatre",
-			"_sVersion": "a_3",
-			"_tsDateAdded": 1674314040
 		}
 	],
 	"_idRow": 421363,
