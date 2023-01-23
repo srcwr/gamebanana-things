@@ -3,13 +3,39 @@
 	"_aFiles": [
 		{
 			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"ze_winter_bash_v3_b2_stripper_entwatch": {
+						"entwatch": [
+							"ze_winter_bash_v3_b2.cfg"
+						],
+						"stripper": [
+							"ze_winter_bash_v3_b2.cfg"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 925040,
+			"_nDownloadCount": 1,
+			"_nFilesize": 1712,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/925040",
+			"_sFile": "ze_winter_bash_v3_b2_stripper_entwatch.rar",
+			"_sMd5Checksum": "7b26010b78babe805dd3764c775a7193",
+			"_tsDateAdded": 1674462356
+		},
+		{
+			"_aMetadata": {
 				"_aArchiveFileTree": [
 					"ze_winter_bash_v3_b2.bsp"
 				]
 			},
 			"_bContainsExe": false,
 			"_idRow": 916941,
-			"_nDownloadCount": 20,
+			"_nDownloadCount": 21,
 			"_nFilesize": 78160944,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -22,6 +48,26 @@
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Removal",
+					"text": "Removed unnecessary things."
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Fixed boss hp's"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added entwatch config."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Stripper and entwatch",
+			"_sVersion": "v3_b2 Stripper",
+			"_tsDateAdded": 1674462332
+		},
 		{
 			"_aChangeLog": [
 				{
@@ -49,25 +95,6 @@
 			"_sTitle": "v3_b2",
 			"_sVersion": "v3_b2",
 			"_tsDateAdded": 1673031771
-		},
-		{
-			"_aChangeLog": [
-				{
-					"cat": "Optimization",
-					"text": "Little bit better optimization."
-				},
-				{
-					"cat": "Bugfix",
-					"text": "Fixed known bugs (lvl1 boats etc.)"
-				},
-				{
-					"cat": "Improvement",
-					"text": "Added 3 zm items, added/changed plenty of stuff."
-				}
-			],
-			"_sText": "",
-			"_sTitle": "v2",
-			"_tsDateAdded": 1620497109
 		}
 	],
 	"_idRow": 131103,
