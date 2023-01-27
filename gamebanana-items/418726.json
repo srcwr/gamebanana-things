@@ -4,26 +4,42 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
-					"ze_sanctuary_v1_2_p.bsp",
-					"ze_sanctuary_v1_2_p.cfg"
+					"ze_sanctuary_v1_2_port2.bsp"
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 910868,
-			"_nDownloadCount": 55,
-			"_nFilesize": 81183974,
+			"_idRow": 927019,
+			"_nDownloadCount": 0,
+			"_nFilesize": 71693118,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
-			"_sDescription": "stripper included (just adds block damage to some things i forgot)",
-			"_sDownloadUrl": "https://gamebanana.com/dl/910868",
-			"_sFile": "ze_sanctuary_v1_2_p.7z",
-			"_sMd5Checksum": "f6e073cda8514b472c35e0f4372ccd87",
-			"_tsDateAdded": 1671970751
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/927019",
+			"_sFile": "ze_sanctuary_v1_2_port2.7z",
+			"_sMd5Checksum": "9dd26b96e6b39f20b3a942e402087ec2",
+			"_tsDateAdded": 1674844398
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "Fixed broken water reflection"
+				},
+				{
+					"cat": "Tweak",
+					"text": "Added stripper changes"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Update #1",
+			"_sVersion": "port2",
+			"_tsDateAdded": 1674844483
+		}
+	],
 	"_idRow": 418726,
 	"_sName": "ze_Sanctuary_v1_2 [PORT]",
-	"_sText": "<a href=\"https://gamebanana.com/mods/405937\" class=\"SelectedElement\">\tCS:GO VERSION</a><br>THIS IS A PORT OF A CSGO MAP I DID NOT CREATE THIS!<br><br><br><br>A map for the&nbsp;<span class=\"RedColor\">MAPEADORES ZOMBIE APOCALYPSE</span>&nbsp;Mapping Contest!<br><br>Uptop\r\n an ancient mountain lies a Sanctuary of hope. Due to unforseen \r\nconsequences, the holy land has been infected by a sinister plague.<br>Triggering the altar within the Sanctuary should be sufficient to wipe out the plague.<br><br>The map features:<br>-A beautiful marble castle to shoot zombies (or chop humans into bits!)<br>-Varied difficulty defense points<br>-Engaging zombie teleports to keep them in the action<br>-Souls-genre ambient music, matching the vibe of the map<br>-No bullshit, items, lasers or bosses. Just classic ZE gameplay!"
+	"_sText": "<a href=\"https://gamebanana.com/mods/405937\" class=\"SelectedElement\">\tCS:GO VERSION</a><br>THIS IS A PORT OF A CSGO MAP I DID NOT CREATE THIS!<br><br>A map for the <span class=\"RedColor\">MAPEADORES ZOMBIE APOCALYPSE</span> Mapping Contest!<br><br>Uptop\r\n an ancient mountain lies a Sanctuary of hope. Due to unforseen \r\nconsequences, the holy land has been infected by a sinister plague.<br>Triggering the altar within the Sanctuary should be sufficient to wipe out the plague.<br><br>The map features:<br>-A beautiful marble castle to shoot zombies (or chop humans into bits!)<br>-Varied difficulty defense points<br>-Engaging zombie teleports to keep them in the action<br>-Souls-genre ambient music, matching the vibe of the map<br>-No bullshit, items, lasers or bosses. Just classic ZE gameplay!"
 }
