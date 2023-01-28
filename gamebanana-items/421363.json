@@ -4,17 +4,36 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
+					"de_theatre_r.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 927474,
+			"_nDownloadCount": 0,
+			"_nFilesize": 7384767,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "New ver",
+			"_sDownloadUrl": "https://gamebanana.com/dl/927474",
+			"_sFile": "de_theatre_a_10.rar",
+			"_sMd5Checksum": "2601e95de1f5ca58596fc873d8401d92",
+			"_tsDateAdded": 1674919804
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
 					"de_theatre_a_9.bsp"
 				]
 			},
 			"_bContainsExe": false,
 			"_idRow": 925600,
-			"_nDownloadCount": 16,
+			"_nDownloadCount": 18,
 			"_nFilesize": 8294499,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
-			"_sDescription": "New ver",
+			"_sDescription": "Old ver",
 			"_sDownloadUrl": "https://gamebanana.com/dl/925600",
 			"_sFile": "de_theatre_a_9.rar",
 			"_sMd5Checksum": "ff75db52c8d90c3982013e985a4d775e",
@@ -159,6 +178,22 @@
 			"_aChangeLog": [
 				{
 					"cat": "Addition",
+					"text": "The map has been changed"
+				},
+				{
+					"cat": "Addition",
+					"text": "Some textures have been changed"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "de_theatre",
+			"_sVersion": "a_10",
+			"_tsDateAdded": 1674919957
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
 					"text": "Changes have been made to the background of the map"
 				}
 			],
@@ -166,18 +201,6 @@
 			"_sTitle": "de_theatre",
 			"_sVersion": "a_9",
 			"_tsDateAdded": 1674578450
-		},
-		{
-			"_aChangeLog": [
-				{
-					"cat": "Addition",
-					"text": "Empty rooms of the map decorated"
-				}
-			],
-			"_sText": "",
-			"_sTitle": "de_theatre",
-			"_sVersion": "a_8",
-			"_tsDateAdded": 1674498971
 		}
 	],
 	"_idRow": 421363,
