@@ -8,13 +8,32 @@
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 928208,
+			"_idRow": 928628,
 			"_nDownloadCount": 1,
-			"_nFilesize": 7511542,
+			"_nFilesize": 6668133,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
 			"_sDescription": "New ver",
+			"_sDownloadUrl": "https://gamebanana.com/dl/928628",
+			"_sFile": "de_theatre_a_12.rar",
+			"_sMd5Checksum": "c6e6302ee44e793a3be426800db72344",
+			"_tsDateAdded": 1675103251
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_theatre_r.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 928208,
+			"_nDownloadCount": 2,
+			"_nFilesize": 7511542,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "Old ver",
 			"_sDownloadUrl": "https://gamebanana.com/dl/928208",
 			"_sFile": "de_theatre_a_11.rar",
 			"_sMd5Checksum": "cd3d52f5a368a46f2537754038a59c9f",
@@ -202,24 +221,20 @@
 			],
 			"_sText": "",
 			"_sTitle": "de_theatre",
-			"_sVersion": "a_11",
-			"_tsDateAdded": 1675024196
+			"_sVersion": "a_12",
+			"_tsDateAdded": 1675103351
 		},
 		{
 			"_aChangeLog": [
 				{
 					"cat": "Addition",
-					"text": "The map has been changed"
-				},
-				{
-					"cat": "Addition",
-					"text": "Some textures have been changed"
+					"text": "Changes have been made to the background of the map"
 				}
 			],
 			"_sText": "",
 			"_sTitle": "de_theatre",
-			"_sVersion": "a_10",
-			"_tsDateAdded": 1674919957
+			"_sVersion": "a_11",
+			"_tsDateAdded": 1675024196
 		}
 	],
 	"_idRow": 421363,
