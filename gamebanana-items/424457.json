@@ -9,16 +9,50 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 927363,
-			"_nDownloadCount": 3,
+			"_nDownloadCount": 4,
 			"_nFilesize": 41226,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
-			"_sDescription": "NEW VERSION",
+			"_sDescription": "NEW VERSION!",
 			"_sDownloadUrl": "https://gamebanana.com/dl/927363",
 			"_sFile": "dev_awp_alpha_2706d.rar",
 			"_sMd5Checksum": "92bf5083bc4abbe9070dcaa025c1f78c",
 			"_tsDateAdded": 1674893294
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"material": [
+						"asd.vmt",
+						"asd.vtf",
+						"asd2.vmt",
+						"asd2.vtf",
+						"awp.vmt",
+						"awp.vtf",
+						"awp2.vmt",
+						"awp2.vtf",
+						"logo2.vmt",
+						"logo2.vtf",
+						"logo3.vmt",
+						"logo3.vtf",
+						"sky1245.vmt",
+						"sky1245.vtf"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 928979,
+			"_nDownloadCount": 0,
+			"_nFilesize": 898759,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "MUST DOWNLOAD!",
+			"_sDownloadUrl": "https://gamebanana.com/dl/928979",
+			"_sFile": "material_0d591.zip",
+			"_sMd5Checksum": "6b2d8ea8a17e1376c4755e3e78bf5565",
+			"_tsDateAdded": 1675176371
 		}
 	],
 	"_aLatestUpdates": [
@@ -65,5 +99,5 @@
 	],
 	"_idRow": 424457,
 	"_sName": "dev_awp_alpha_v2",
-	"_sText": "dev_awp_alpha is a very simple awp only map for 2-4 people!"
+	"_sText": "<br>Warning! Download the Materials and paste them in your CSS: Steam\\steamapps\\common\\Counter-Strike Source\\cstrike\\materials<br>dev_awp_alpha is a very simple awp only map for 2-4 people!"
 }
