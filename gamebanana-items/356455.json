@@ -4,25 +4,46 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
-					"ze_little_trip_v1_2.bsp"
+					"ze_little_trip_v2.bsp"
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 744697,
-			"_nDownloadCount": 101,
-			"_nFilesize": 27407755,
+			"_idRow": 930752,
+			"_nDownloadCount": 3,
+			"_nFilesize": 30153110,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/744697",
-			"_sFile": "ze_little_trip_v1_2.7z",
-			"_sMd5Checksum": "2a84417207e69c927ee65511153370be",
-			"_tsDateAdded": 1644354793
+			"_sDownloadUrl": "https://gamebanana.com/dl/930752",
+			"_sFile": "ze_little_trip_v2.7z",
+			"_sMd5Checksum": "9ba085d949beabeafbd768d259b5140a",
+			"_tsDateAdded": 1675513185
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Added vegetation and reworked locations"
+				},
+				{
+					"cat": "Removal",
+					"text": "Lasers removed"
+				},
+				{
+					"cat": "Optimization",
+					"text": "Now there are more fps on the map"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "",
+			"_sVersion": "v2",
+			"_tsDateAdded": 1675513395
+		}
+	],
 	"_idRow": 356455,
-	"_sName": "ze_little_trip_v1_2",
-	"_sText": "<span class=\"GreenColor\">Description:</span><br><hr>There is only one level on the map. It includes ~13 minutes of playthrough, boss fight with different attacks and lasers at the end of the map =)<br><br><hr><span class=\"GreenColor\">If there are errors or suggestions, write in the comments!</span><br><hr>"
+	"_sName": "ze_little_trip_v2",
+	"_sText": "<span class=\"GreenColor\">Description:</span><br><hr>The map has one level and has a boss on it.<br><br><hr><span class=\"GreenColor\">If there are errors or suggestions, write in the comments!</span><br><hr>"
 }
