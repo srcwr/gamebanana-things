@@ -3,23 +3,25 @@
 	"_aFiles": [
 		{
 			"_aMetadata": {
-				"_aArchiveFileTree": [
-					"de_nuke_khanh.bsp",
-					"nuke_khanh.txt"
-				]
+				"_aArchiveFileTree": {
+					"maps": [
+						"de_nuke_khanh.bsp",
+						"nuke_khanh.txt"
+					]
+				}
 			},
 			"_bContainsExe": false,
-			"_idRow": 920605,
-			"_nDownloadCount": 92,
-			"_nFilesize": 7523678,
+			"_idRow": 931454,
+			"_nDownloadCount": 0,
+			"_nFilesize": 7959433,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/920605",
-			"_sFile": "de_nuke_khanh.7z",
-			"_sMd5Checksum": "74c7f5281eba17a30afa0a6d90e3ebfc",
-			"_tsDateAdded": 1673713301
+			"_sDownloadUrl": "https://gamebanana.com/dl/931454",
+			"_sFile": "de_nuke_khanh_86065.7z",
+			"_sMd5Checksum": "1c401d6c2341160fe0743b226c7d72dc",
+			"_tsDateAdded": 1675614300
 		}
 	],
 	"_aLatestUpdates": [],
