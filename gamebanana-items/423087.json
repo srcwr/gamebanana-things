@@ -14,7 +14,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 926520,
-			"_nDownloadCount": 67,
+			"_nDownloadCount": 74,
 			"_nFilesize": 8440237,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -50,5 +50,5 @@
 	],
 	"_idRow": 423087,
 	"_sName": "cs_site Unreleased CSS Map",
-	"_sText": "<b><span class=\"RedColor\">// NOT AN EXACT REPRESENTATION //</span></b><br><br><b>Found in the Valve repo leak from 2022 was cstrike's map sources, in it was the final versions of the maps we have today, but also some never before seen maps, such as zombiecity, silo, payload map, attack and defend. This map however was supposed to be a remake of cs_estate or known as cs_mansion. The original vmf was filled with missing assets and dev blocks, so I did a quick and hacky job of restoring this, I might update this later on to be more refined.<br><br></b><div class=\"bb_h1 SelectedElement\"><span class=\"RedColor\">KNOWN ISSUES:</span></div><br>- Few Missing Decals<br><br><div class=\"bb_h1\"><span class=\"GreenColor\">WHAT I ADDED:</span></div><br>- Textures<br>- Soundscapes<br>- Few Ladders<br>- AI Nodes<br>- Playerclip<br>- Cubemaps<br>- Lighting<br>"
+	"_sText": "<b><span class=\"RedColor\">// NOT AN EXACT REPRESENTATION //</span></b><br><br><b>Found in the Valve repo leak from 2022 was cstrike's map sources, in it was the final versions of the maps we have today, but also some never before seen maps, such as zombiecity, silo, payload map, attack and defend. This map however was supposed to be a remake of cs_estate or known as cs_mansion. The original vmf was filled with missing assets and dev blocks, so I did a quick and hacky job of restoring this, I might update this later on to be more refined.<br><br></b><div class=\"bb_h1 SelectedElement\"><span class=\"RedColor\">KNOWN ISSUES:</span></div><br>- Sewer Water Reflections break at a certain angle<br><br><div class=\"bb_h1\"><span class=\"GreenColor\">WHAT I ADDED:</span></div><br>- Textures<br>- Soundscapes<br>- Few Ladders<br>- AI Nodes<br>- Playerclip<br>- Cubemaps<br>- Lighting<br>"
 }
