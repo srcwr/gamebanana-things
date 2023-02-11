@@ -8,13 +8,32 @@
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 930410,
-			"_nDownloadCount": 32,
-			"_nFilesize": 7492756,
+			"_idRow": 934001,
+			"_nDownloadCount": 1,
+			"_nFilesize": 8034978,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
 			"_sDescription": "New ver",
+			"_sDownloadUrl": "https://gamebanana.com/dl/934001",
+			"_sFile": "de_theatre_a_14.rar",
+			"_sMd5Checksum": "b2fa33f0453cc19042f437f33d8103ef",
+			"_tsDateAdded": 1676071784
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_theatre_r.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 930410,
+			"_nDownloadCount": 34,
+			"_nFilesize": 7492756,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "Old ver",
 			"_sDownloadUrl": "https://gamebanana.com/dl/930410",
 			"_sFile": "de_theatre_a_13.rar",
 			"_sMd5Checksum": "86bb05418a5989fecded0d747ce37fa3",
@@ -234,6 +253,18 @@
 		{
 			"_aChangeLog": [
 				{
+					"cat": "Addition",
+					"text": "Added new roads on the map"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "de_theatre",
+			"_sVersion": "a_14",
+			"_tsDateAdded": 1676072065
+		},
+		{
+			"_aChangeLog": [
+				{
 					"cat": "Bugfix",
 					"text": "Visual issues fixed"
 				}
@@ -242,18 +273,6 @@
 			"_sTitle": "de_theatre",
 			"_sVersion": "a_13",
 			"_tsDateAdded": 1675456754
-		},
-		{
-			"_aChangeLog": [
-				{
-					"cat": "Addition",
-					"text": "Changes have been made to the background of the map"
-				}
-			],
-			"_sText": "",
-			"_sTitle": "de_theatre",
-			"_sVersion": "a_12",
-			"_tsDateAdded": 1675103351
 		}
 	],
 	"_idRow": 421363,
