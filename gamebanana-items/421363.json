@@ -8,13 +8,32 @@
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 935137,
+			"_idRow": 935324,
 			"_nDownloadCount": 0,
-			"_nFilesize": 8442906,
+			"_nFilesize": 8785643,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
 			"_sDescription": "New ver",
+			"_sDownloadUrl": "https://gamebanana.com/dl/935324",
+			"_sFile": "de_theatre_a_19.rar",
+			"_sMd5Checksum": "6fbf7c4a923a443205ef92e5d8aedd61",
+			"_tsDateAdded": 1676242674
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_theatre_r.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 935137,
+			"_nDownloadCount": 1,
+			"_nFilesize": 8442906,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "Old ver",
 			"_sDownloadUrl": "https://gamebanana.com/dl/935137",
 			"_sFile": "de_theatre_a_18.rar",
 			"_sMd5Checksum": "177aa8cf674849457f7f1c088bdcc118",
@@ -28,7 +47,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 935032,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 1,
 			"_nFilesize": 8617893,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -335,8 +354,8 @@
 			],
 			"_sText": "",
 			"_sTitle": "de_theatre",
-			"_sVersion": "a_18",
-			"_tsDateAdded": 1676223163
+			"_sVersion": "a_19",
+			"_tsDateAdded": 1676242737
 		},
 		{
 			"_aChangeLog": [
@@ -347,8 +366,8 @@
 			],
 			"_sText": "",
 			"_sTitle": "de_theatre",
-			"_sVersion": "a_17",
-			"_tsDateAdded": 1676210321
+			"_sVersion": "a_18",
+			"_tsDateAdded": 1676223163
 		}
 	],
 	"_idRow": 421363,
