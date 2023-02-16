@@ -4,17 +4,37 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
+					"de_theatre_r.bsp",
+					"de_theatre_r.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 936869,
+			"_nDownloadCount": 0,
+			"_nFilesize": 8711825,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "New ver",
+			"_sDownloadUrl": "https://gamebanana.com/dl/936869",
+			"_sFile": "de_theatre_a_21.rar",
+			"_sMd5Checksum": "7f01157203e273f1e194c1464d7141c3",
+			"_tsDateAdded": 1676555255
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
 					"de_theatre_r.bsp"
 				]
 			},
 			"_bContainsExe": false,
 			"_idRow": 936189,
-			"_nDownloadCount": 1,
+			"_nDownloadCount": 9,
 			"_nFilesize": 8681261,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
-			"_sDescription": "New ver",
+			"_sDescription": "Old ver",
 			"_sDownloadUrl": "https://gamebanana.com/dl/936189",
 			"_sFile": "de_theatre_a_20.rar",
 			"_sMd5Checksum": "95f643ccafc34e04fe4637cea5f66fc5",
@@ -367,14 +387,14 @@
 		{
 			"_aChangeLog": [
 				{
-					"cat": "Improvement",
-					"text": "Improved the background of the map"
+					"cat": "Bugfix",
+					"text": "Nav file added"
 				}
 			],
 			"_sText": "",
 			"_sTitle": "de_theatre",
-			"_sVersion": "a_20",
-			"_tsDateAdded": 1676407917
+			"_sVersion": "a_21",
+			"_tsDateAdded": 1676555319
 		},
 		{
 			"_aChangeLog": [
@@ -385,8 +405,8 @@
 			],
 			"_sText": "",
 			"_sTitle": "de_theatre",
-			"_sVersion": "a_19",
-			"_tsDateAdded": 1676242737
+			"_sVersion": "a_20",
+			"_tsDateAdded": 1676407917
 		}
 	],
 	"_idRow": 421363,
