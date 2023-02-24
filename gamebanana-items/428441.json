@@ -10,7 +10,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 938828,
-			"_nDownloadCount": 41,
+			"_nDownloadCount": 52,
 			"_nFilesize": 33818627,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -23,6 +23,12 @@
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [],
+			"_sText": "<p>This fix features nodraw broken edits, more edits will be done to fix the map such as ladder fixes + further window fixes.</p>",
+			"_sTitle": "Glass window fix",
+			"_tsDateAdded": 1677264419
+		},
 		{
 			"_aChangeLog": [
 				{
