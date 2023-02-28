@@ -19,9 +19,40 @@
 			"_sFile": "ze_little_trip_v2.7z",
 			"_sMd5Checksum": "9ba085d949beabeafbd768d259b5140a",
 			"_tsDateAdded": 1675513185
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ze_little_trip_v2.cfg"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 942686,
+			"_nDownloadCount": 1,
+			"_nFilesize": 277,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/942686",
+			"_sFile": "ze_little_trip_v2_stripper.7z",
+			"_sMd5Checksum": "c4850da0c30c24161fe15c35f7006af2",
+			"_tsDateAdded": 1677593664
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "Troubleshooting the door opening"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "ze_little_trip_v2",
+			"_sVersion": "v2",
+			"_tsDateAdded": 1677593710
+		},
 		{
 			"_aChangeLog": [
 				{
