@@ -4,27 +4,45 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": {
-					"ze_JurassicPark": [
-						"ze_JurassicPark_v1D.bsp"
+					"JurassicPark": [
+						"ze_JurassicPark_v2D.bsp",
+						"ze_JurassicPark_v2N.bsp",
+						"ze_JurassicPark_v2W.bsp"
 					]
 				}
 			},
 			"_bContainsExe": false,
-			"_idRow": 894877,
-			"_nDownloadCount": 134,
-			"_nFilesize": 40262285,
+			"_idRow": 942263,
+			"_nDownloadCount": 4,
+			"_nFilesize": 128155692,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
 			"_sDescription": "ze_JurassicPark",
-			"_sDownloadUrl": "https://gamebanana.com/dl/894877",
-			"_sFile": "ze_jurassicpark.7z",
-			"_sMd5Checksum": "c2b45df98a4cdba9fb15115cef9e162e",
-			"_tsDateAdded": 1669110620
+			"_sDownloadUrl": "https://gamebanana.com/dl/942263",
+			"_sFile": "ze_jurassicpark_479a2.7z",
+			"_sMd5Checksum": "542724d994ba5f6b3f0af3ab58a337ff",
+			"_tsDateAdded": 1677504479
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Rainy and night versions"
+				},
+				{
+					"cat": "Addition",
+					"text": "New transport and buildings"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "v2.0",
+			"_tsDateAdded": 1677506402
+		}
+	],
 	"_idRow": 413295,
 	"_sName": "ze_JurassicPark",
-	"_sText": "Full remake of map&nbsp;ze_jurassicpark_v2.<br>Link:&nbsp;<a href=\"https://gamebanana.com/mods/130821\" class=\"SelectedElement\">https://gamebanana.com/mods/130821</a>"
+	"_sText": "Full remake of map&nbsp;ze_jurassicpark_v2.&nbsp;Map has three versions: daytime, night and rainy.<br>Link:&nbsp;<a href=\"https://gamebanana.com/mods/130821\">https://gamebanana.com/mods/130821</a>"
 }
