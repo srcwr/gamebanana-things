@@ -35,7 +35,7 @@ for filename in dddd.glob("*.json"):
 """
 
 repo = Repo(".")
-for item in repo.index.diff(None):
+for item in repo.index.diff("HEAD"):
     if item.a_path.startswith("gamebanana-items"):
         with open(item.a_path, "r", encoding="utf-8") as f:
             j = json.load(f)
