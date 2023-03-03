@@ -7,6 +7,7 @@ import sys
 import os.path
 import time
 import csv
+from git import Repo
 
 filesizesum = 0
 
@@ -20,12 +21,23 @@ rg --sort-files -l "(xc|kz|bh|bhop|surf|climb|trikz|jump|bunny|kreedz|xtreme|hop
 cd ..
 """
 
+"""
 dddd = Path("gamebanana-items")
 for filename in dddd.glob("*.json"):
     with open(filename, "r", encoding="utf-8") as f:
 #with open("interesting.txt") as interestingtxt:
 #    for interesting in interestingtxt:
 #        with open("gamebanana-items/" + interesting.strip(), encoding="utf-8") as f:
+            j = json.load(f)
+            for file in j["_aFiles"]:
+                filesizesum += file["_nFilesize"]
+                links.append([file["_sDownloadUrl"], sanitize(str(file["_idRow"]) + "_" + file["_sFile"]), j["_sName"], file["_nFilesize"], j["_idRow"]])
+"""
+
+repo = Repo(".")
+for item in repo.index.diff(None):
+    if item.a_path.startswith("gamebanana-items"):
+        with open(item.a_path, "r", encoding="utf-8") as f:
             j = json.load(f)
             for file in j["_aFiles"]:
                 filesizesum += file["_nFilesize"]
