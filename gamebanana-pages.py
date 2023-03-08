@@ -2,6 +2,7 @@ from pathlib import Path
 import time
 import requests
 import prettyjson
+import random
 
 # Counter-Strike: Source -> Mods -> Maps
 # https://gamebanana.com/mods/cats/5535
@@ -10,12 +11,12 @@ import prettyjson
 # https://gamebanana.com/apiv8/Mod/ByCategory?_aCategoryRowIds[]=5535&_nPerpage=50&_csvProperties=_aFiles,_idRow,_sName,_aAlternateFileSources,_aLatestUpdates,_sText&_csvFlags=FILE_METADATA&_nPage=1
 
 #apiurl = "https://gamebanana.com/apiv8/Mod/ByCategory?_aCategoryRowIds[]=5535&_nPerpage=50&_csvProperties=_aFiles,_idRow,_sName,_aAlternateFileSources,_aLatestUpdates,_sText&_csvFlags=FILE_METADATA&_nPage="
-apiurl = "https://gamebanana.com/apiv8/Mod/ByCategory?_aCategoryRowIds[]=5535&_nPerpage=50&_csvProperties=_aFiles,_idRow,_sName,_aAlternateFileSources,_aLatestUpdates,_sText&_csvFlags=FILE_METADATA&_sOrderBy=_tsDateUpdated,DESC&_nPage="
+apiurl = "https://gamebanana.com/apiv8/Mod/ByCategory?_aCategoryRowIds[]=5535&_nPerpage=50&_csvProperties=_aFiles,_idRow,_sName,_aAlternateFileSources,_aLatestUpdates,_sText&_csvFlags=FILE_METADATA&_sOrderBy=_tsDateUpdated,DESC"
 
 
 #for i in range(1, 785):
 for i in range(1, 2):
-    resp = requests.get(apiurl + str(i))
+    resp = requests.get(apiurl + "&cachebuster=" + str(random.randint(1,666)) + "&_nPage=" + str(i))
     #with open(f"gamebanana-pages/{i:03}.json", "wb") as f:
     xd = f"gamebanana-pages/_{i:03}.json"
     with open(xd, "wb") as f:
