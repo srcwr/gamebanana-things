@@ -4,25 +4,38 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
-					"trikz_lithos.bsp"
+					"trikz_lithos_final.bsp"
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 945486,
+			"_idRow": 946167,
 			"_nDownloadCount": 6,
-			"_nFilesize": 52747947,
+			"_nFilesize": 52750311,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/945486",
-			"_sFile": "trikz_lithos.zip",
-			"_sMd5Checksum": "2ca835beed7d18608cabff85e9712b55",
-			"_tsDateAdded": 1678134447
+			"_sDownloadUrl": "https://gamebanana.com/dl/946167",
+			"_sFile": "trikz_lithos_final.zip",
+			"_sMd5Checksum": "5cd0095547cd00e92d88912958541965",
+			"_tsDateAdded": 1678279112
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "",
+					"text": "fixed 2 missing triggers"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "",
+			"_sVersion": "1.1",
+			"_tsDateAdded": 1678279389
+		}
+	],
 	"_idRow": 430907,
 	"_sName": "trikz_lithos",
-	"_sText": "Easy-ish trikz map with 23 stages and 1 solo bonus.<br><br>Have fun :)<br><br><br>"
+	"_sText": "Easy-ish trikz map with 23 stages and 1 solo bonus.<br><br>Have fun :)<br><br>"
 }
