@@ -9,13 +9,53 @@
 				]
 			},
 			"_bContainsExe": false,
+			"_idRow": 947638,
+			"_nDownloadCount": 2,
+			"_nFilesize": 9717946,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "New ver (beta)",
+			"_sDownloadUrl": "https://gamebanana.com/dl/947638",
+			"_sFile": "de_theatre_b_5_1_52c2c.rar",
+			"_sMd5Checksum": "9fc074e5433dd7e994d09936b20a717c",
+			"_tsDateAdded": 1678542346
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_theatre_r.bsp",
+					"de_theatre_r.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 947277,
+			"_nDownloadCount": 4,
+			"_nFilesize": 9569727,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "Old ver (beta)",
+			"_sDownloadUrl": "https://gamebanana.com/dl/947277",
+			"_sFile": "de_theatre_b_5.rar",
+			"_sMd5Checksum": "dc53b423d6957334b399717b6646c232",
+			"_tsDateAdded": 1678489821
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_theatre_r.bsp",
+					"de_theatre_r.nav"
+				]
+			},
+			"_bContainsExe": false,
 			"_idRow": 942324,
 			"_nDownloadCount": 28,
 			"_nFilesize": 9357707,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
-			"_sDescription": "New ver (beta)",
+			"_sDescription": "Old ver (beta)",
 			"_sDownloadUrl": "https://gamebanana.com/dl/942324",
 			"_sFile": "de_theatre_b_4_2.rar",
 			"_sMd5Checksum": "61beadcef5835656f3115114260e3dce",
@@ -187,38 +227,42 @@
 		{
 			"_aChangeLog": [
 				{
-					"cat": "Optimization",
-					"text": "Optimized the map using arena portals"
+					"cat": "Addition",
+					"text": "Minor changes have been made to the map"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed ventilation textures"
 				},
 				{
 					"cat": "Addition",
-					"text": "Made minor changes to the map"
+					"text": "New photos added"
 				}
 			],
 			"_sText": "",
 			"_sTitle": "de_theatre",
-			"_sVersion": "b_4_2",
-			"_tsDateAdded": 1677519100
+			"_sVersion": "b_5_1",
+			"_tsDateAdded": 1678540203
 		},
 		{
 			"_aChangeLog": [
 				{
-					"cat": "Optimization",
-					"text": "Optimized the map using arena portals"
-				},
-				{
 					"cat": "Addition",
-					"text": "Made minor changes to the map"
+					"text": "Made some minor changes to the map"
 				},
 				{
-					"cat": "Improvement",
-					"text": "Updated minimap"
+					"cat": "Optimization",
+					"text": "Map optimized"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Photos updated"
 				}
 			],
 			"_sText": "",
 			"_sTitle": "de_theatre",
-			"_sVersion": "b_4_1",
-			"_tsDateAdded": 1677264982
+			"_sVersion": "b_5",
+			"_tsDateAdded": 1678490142
 		}
 	],
 	"_idRow": 421363,
