@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"bhop_lt_galaxy.bsp",
+					"bhop_lt_map_a11_fix.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 948658,
+			"_nDownloadCount": 0,
+			"_nFilesize": 9397992,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/948658",
+			"_sFile": "lt.7z",
+			"_sMd5Checksum": "413f2dad9856d9bb6287462be706539d",
+			"_tsDateAdded": 1678688368
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 432026,
+	"_sName": "bhop_lt_a11_map_fix & bhop_lt_galaxy",
+	"_sText": "Fixed versions of both bhop_lt_a11_map and bhop_lt_galaxy.<br><br>You may need to disable rngfix (or possibly one of the rngfix cvars but I didn't test as to which) to make the boosters consistent.<br><br><br>"
+}
