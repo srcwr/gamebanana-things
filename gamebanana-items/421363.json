@@ -9,13 +9,33 @@
 				]
 			},
 			"_bContainsExe": false,
+			"_idRow": 948867,
+			"_nDownloadCount": 1,
+			"_nFilesize": 10019790,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "New ver (beta)",
+			"_sDownloadUrl": "https://gamebanana.com/dl/948867",
+			"_sFile": "de_theatre_b_6_3.rar",
+			"_sMd5Checksum": "de58a1b08c717ae7ded02d1cab0087a6",
+			"_tsDateAdded": 1678733096
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_theatre_r.bsp",
+					"de_theatre_r.nav"
+				]
+			},
+			"_bContainsExe": false,
 			"_idRow": 948393,
 			"_nDownloadCount": 1,
 			"_nFilesize": 10017210,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
-			"_sDescription": "New ver (beta)",
+			"_sDescription": "Old ver (beta)",
 			"_sDownloadUrl": "https://gamebanana.com/dl/948393",
 			"_sFile": "de_theatre_b_6_2.rar",
 			"_sMd5Checksum": "571695bab036af1477b16368d17bc8ec",
@@ -288,6 +308,18 @@
 			"_aChangeLog": [
 				{
 					"cat": "Improvement",
+					"text": "Updates and fixes on the nav map"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "de_theatre",
+			"_sVersion": "b_6_3",
+			"_tsDateAdded": 1678733140
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Improvement",
 					"text": "Updated radar now places have zones"
 				}
 			],
@@ -295,18 +327,6 @@
 			"_sTitle": "de_theatre",
 			"_sVersion": "b_6_2",
 			"_tsDateAdded": 1678651494
-		},
-		{
-			"_aChangeLog": [
-				{
-					"cat": "Bugfix",
-					"text": "Fixed some broken textures on the map"
-				}
-			],
-			"_sText": "",
-			"_sTitle": "de_theatre",
-			"_sVersion": "b_6_1",
-			"_tsDateAdded": 1678620108
 		}
 	],
 	"_idRow": 421363,
