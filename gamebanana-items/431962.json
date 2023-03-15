@@ -4,25 +4,32 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
-					"bhop_agentti_oranssi_v17_fixed.bsp"
+					"bhop_agentti_oranssi_v17_final.bsp"
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 948713,
-			"_nDownloadCount": 2,
-			"_nFilesize": 1640388,
+			"_idRow": 949252,
+			"_nDownloadCount": 3,
+			"_nFilesize": 1640634,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/948713",
-			"_sFile": "bhop_agentti_oranssi_v17_fixed.zip",
-			"_sMd5Checksum": "e1836a036bb7ecd3c9441284eaaffb73",
-			"_tsDateAdded": 1678703076
+			"_sDownloadUrl": "https://gamebanana.com/dl/949252",
+			"_sFile": "bhop_agentti_oranssi_v17_final.zip",
+			"_sMd5Checksum": "4cc4b77d85b8d5fee6148b4bf9537732",
+			"_tsDateAdded": 1678809155
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [],
+			"_sText": "<p>Final fixes are made and final release is out</p>",
+			"_sTitle": "Final fixes",
+			"_tsDateAdded": 1678809094
+		}
+	],
 	"_idRow": 431962,
-	"_sName": "bhop_agentti_oranssi_v17_fixed",
+	"_sName": "bhop_agentti_oranssi_v17_final",
 	"_sText": "Just a simple Bhopping map<br><br>Fixed crashing issue and added playerclips on sides"
 }
