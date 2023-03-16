@@ -10,13 +10,34 @@
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 949338,
-			"_nDownloadCount": 0,
-			"_nFilesize": 10165231,
+			"_idRow": 949766,
+			"_nDownloadCount": 1,
+			"_nFilesize": 9969172,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
 			"_sDescription": "New ver (beta)",
+			"_sDownloadUrl": "https://gamebanana.com/dl/949766",
+			"_sFile": "de_theatre_b_6_6.rar",
+			"_sMd5Checksum": "2882492c9c33f0805a928a179e29bf6a",
+			"_tsDateAdded": 1678902321
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_theatre_r.bsp",
+					"de_theatre_r.nav",
+					"de_theatre_r.txt"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 949338,
+			"_nDownloadCount": 6,
+			"_nFilesize": 10165231,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "Old ver (beta)",
 			"_sDownloadUrl": "https://gamebanana.com/dl/949338",
 			"_sFile": "de_theatre_b_6_5.rar",
 			"_sMd5Checksum": "7cb335b12b95b29f44930a1bced7175d",
@@ -32,7 +53,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 949303,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 1,
 			"_nFilesize": 10119524,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -350,19 +371,11 @@
 			"_aChangeLog": [
 				{
 					"cat": "Bugfix",
-					"text": "Some Things Fixed"
-				}
-			],
-			"_sText": "",
-			"_sTitle": "de_theatre",
-			"_sVersion": "b_6_5",
-			"_tsDateAdded": 1678825375
-		},
-		{
-			"_aChangeLog": [
+					"text": "Fixed broken textures on the map"
+				},
 				{
 					"cat": "Improvement",
-					"text": "Made some minor changes to the map"
+					"text": "Minor changes made to the map"
 				},
 				{
 					"cat": "Adjustment",
@@ -371,8 +384,20 @@
 			],
 			"_sText": "",
 			"_sTitle": "de_theatre",
-			"_sVersion": "b_6_4",
-			"_tsDateAdded": 1678819580
+			"_sVersion": "b_6_6",
+			"_tsDateAdded": 1678902414
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "Some Things Fixed"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "de_theatre",
+			"_sVersion": "b_6_5",
+			"_tsDateAdded": 1678825375
 		}
 	],
 	"_idRow": 421363,
