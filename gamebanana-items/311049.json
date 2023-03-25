@@ -3,27 +3,49 @@
 	"_aFiles": [
 		{
 			"_aMetadata": {
-				"_aArchiveFileTree": [
-					"zm_Highway_v4D.bsp",
-					"zm_Highway_v4N.bsp",
-					"zm_Highway_v4W.bsp"
-				]
+				"_aArchiveFileTree": {
+					"zm_Highway": [
+						"zm_Highway_v5D.bsp",
+						"zm_Highway_v5E.bsp",
+						"zm_Highway_v5N.bsp",
+						"zm_Highway_v5W.bsp"
+					]
+				}
 			},
 			"_bContainsExe": false,
-			"_idRow": 934894,
-			"_nDownloadCount": 148,
-			"_nFilesize": 100830425,
+			"_idRow": 954870,
+			"_nDownloadCount": 13,
+			"_nFilesize": 138115878,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
 			"_sDescription": "zm_Highway",
-			"_sDownloadUrl": "https://gamebanana.com/dl/934894",
-			"_sFile": "zm_highway_3410f.7z",
-			"_sMd5Checksum": "8c2bbf53ff1bdcb6bddd21fdbc86d30f",
-			"_tsDateAdded": 1676179427
+			"_sDownloadUrl": "https://gamebanana.com/dl/954870",
+			"_sFile": "zm_highway_a5d69.7z",
+			"_sMd5Checksum": "f99583b1c51e3aa80b17a5ceb7c4315b",
+			"_tsDateAdded": 1679760381
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Add evening version"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Improve particles for rainy version"
+				},
+				{
+					"cat": "Addition",
+					"text": "New hide spots"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "v2.1",
+			"_tsDateAdded": 1679760719
+		},
 		{
 			"_aChangeLog": [
 				{
@@ -38,5 +60,5 @@
 	],
 	"_idRow": 311049,
 	"_sName": "zm_Highway",
-	"_sText": "The location from half life 2. Map has three versions: daytime, night and rainy. There are some teleports, dynamic boat, force field and code door.<br><br>P.S: It is remake of map zm_roy_highway.<br>Link: <a href=\"https://gamebanana.com/mods/132705\">https://gamebanana.com/mods/132705</a>"
+	"_sText": "The location from half life 2. Map has four versions: daytime, evening, night and rainy.&nbsp;There are some teleports, dynamic&nbsp;boat and force fields.<br><br>P.S: It is remake of map&nbsp;zm_roy_highway.<br>Link:&nbsp;<a href=\"https://gamebanana.com/mods/132705\">https://gamebanana.com/mods/132705</a>"
 }
