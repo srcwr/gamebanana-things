@@ -6,11 +6,11 @@
 				"_aArchiveFileTree": {
 					"0": "leia-me.txt",
 					"1": "read-me.txt",
-					"cfg": {
-						"cssdm": [
-							"cssdm.cfg"
-						]
-					},
+					"cfg": [
+						"abz_cssdm.cfg",
+						"aimbotz.cfg",
+						"aimbotz_csso.cfg"
+					],
 					"maps": [
 						"aimbotz.bsp",
 						"aimbotz.nav"
@@ -18,20 +18,80 @@
 				}
 			},
 			"_bContainsExe": false,
-			"_idRow": 691666,
-			"_nDownloadCount": 6672,
-			"_nFilesize": 2805599,
+			"_idRow": 954474,
+			"_nDownloadCount": 9,
+			"_nFilesize": 3013070,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
-			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/691666",
-			"_sFile": "aimbotz_fix.zip",
-			"_sMd5Checksum": "27f9ffbcc506eac5dfbf4a15106119f4",
-			"_tsDateAdded": 1636752716
+			"_sDescription": "4.5",
+			"_sDownloadUrl": "https://gamebanana.com/dl/954474",
+			"_sFile": "css_aimbotz_eb0bd.zip",
+			"_sMd5Checksum": "30c98d5914b75ee55a6ec60169ed4824",
+			"_tsDateAdded": 1679699389
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "Crates and Boxes in wrong physics"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Replacing or multiplying bots in map"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Spawn sidewall"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Cubemap rework"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Themes rework"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Button weapons"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Infinite ammo"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "New map lighting"
+				},
+				{
+					"cat": "Improvement",
+					"text": "New 3D Skybox"
+				},
+				{
+					"cat": "Addition",
+					"text": "Impact reduction removed from teammates ( Singleplayer )"
+				},
+				{
+					"cat": "Addition",
+					"text": "More CS:SO and CS:S Config"
+				},
+				{
+					"cat": "Addition",
+					"text": "Replacing old logo with a new logo"
+				},
+				{
+					"cat": "Addition",
+					"text": "Weapons names"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Version",
+			"_sVersion": "4.5",
+			"_tsDateAdded": 1679699281
+		},
 		{
 			"_aChangeLog": [
 				{
@@ -66,76 +126,9 @@
 			"_sText": "Added a cfg file from the dm plugin for dedicated serve<br>use mp_friendlyfire 0 on dedicated server if dm plugin enabled<br>",
 			"_sTitle": "Version 4.1",
 			"_tsDateAdded": 1636753437
-		},
-		{
-			"_aChangeLog": [
-				{
-					"cat": "Bugfix",
-					"text": "Theme bugs"
-				},
-				{
-					"cat": "Addition",
-					"text": "Upper panel button to solid walls +1"
-				},
-				{
-					"cat": "Addition",
-					"text": "Lock main button"
-				},
-				{
-					"cat": "Addition",
-					"text": "Lock weapons button"
-				},
-				{
-					"cat": "Addition",
-					"text": "Floor button"
-				},
-				{
-					"cat": "Addition",
-					"text": "Long range"
-				},
-				{
-					"cat": "Addition",
-					"text": "Simple fps button"
-				},
-				{
-					"cat": "Adjustment",
-					"text": "Front panel"
-				},
-				{
-					"cat": "Adjustment",
-					"text": "Upper panel buttons"
-				},
-				{
-					"cat": "Adjustment",
-					"text": "TR/CT Bots"
-				},
-				{
-					"cat": "Adjustment",
-					"text": "Skybox"
-				},
-				{
-					"cat": "Adjustment",
-					"text": "Bot buttons"
-				},
-				{
-					"cat": "Adjustment",
-					"text": "Force move buttons"
-				},
-				{
-					"cat": "Adjustment",
-					"text": "Theme"
-				},
-				{
-					"cat": "Adjustment",
-					"text": "Peek/Spray Walls"
-				}
-			],
-			"_sText": "I tried my best to make a good autospawn for the map without plugins... to no avail",
-			"_sTitle": "Version 4",
-			"_tsDateAdded": 1634415988
 		}
 	],
 	"_idRow": 109555,
-	"_sName": "css_aimbotz",
-	"_sText": "<b>CSS AIM BOTZ TRAINING</b><br><br><u>English:</u><br><br>Map to train your aim containing crates, bottles, walls, weapons, utilities,<br>peek-spray, bullet holes, show impacts and bots.<br>For a better experience with bots, use this map on a dedicated server with 'dm' plugin ( Only CS:S )<br><br><u>Português:</u><br><br>Mapa para treinar sua mira contendo, caixas, garrafas, paredes, armas, utilitarias, alvos, bullet holes, mostrar impacto das balas e bots.<br>Para uma melhor experiencia com os bots, use esse mapa em um servidor dedicado com um plugin de 'dm'. ( Apenas no CS:S )<br><br><i>Now works in CS:SO.</i><br>"
+	"_sName": "[ CSS ] AimBotz",
+	"_sText": "<b>CSS AIM BOTZ TRAINING</b><br><br><u>English:</u><br><br>Decided to create a similar CS:GO Aim-Botz map for Counter-Strike: Source, it's not easy, but i gave a chance. Theres no official way to respawning bots withou bug the map, so i've planning a simple plugin just to do this.<br>Best in single player, train your aim, sprays, and some more.<br>For a better experience with bots, use this map on a dedicated server with 'dm' plugin ( Only CS:S )<br><br><u>Português:</u><br><br>Decidi criar um mapa similar ao mapa Aim-Botz do CS:GO para o Counter-Strike: Source, não é fácil, mas eu dei uma chance. Não há uma maneira oficial para fazer com que os bots renascem sem bugar o mapa. Então tenho planejado um plugin simples para isso. <br>Melhor em modo solo, treine sua mira, spray, e um pouco mais.<br>Para uma melhor experiencia com os bots, use esse mapa em um servidor dedicado com um plugin de 'dm'. ( Apenas no CS:S )<br><br><i>Now works in CS:SO.</i><br>"
 }
