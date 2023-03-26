@@ -4,6 +4,25 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
+					"de_theatre_r.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 955356,
+			"_nDownloadCount": 2,
+			"_nFilesize": 23915891,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "New ver (beta)",
+			"_sDownloadUrl": "https://gamebanana.com/dl/955356",
+			"_sFile": "de_theatre_b_10.rar",
+			"_sMd5Checksum": "ba55ef3eca395bbb5a1ca0223911ab1c",
+			"_tsDateAdded": 1679826802
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
 					"de_theatre_r.bsp",
 					"de_theatre_r.nav",
 					"de_theatre_r.txt"
@@ -11,12 +30,12 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 951769,
-			"_nDownloadCount": 19,
+			"_nDownloadCount": 24,
 			"_nFilesize": 8791073,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
-			"_sDescription": "",
+			"_sDescription": "Old ver (beta)",
 			"_sDownloadUrl": "https://gamebanana.com/dl/951769",
 			"_sFile": "de_theatre_b_9.rar",
 			"_sMd5Checksum": "ed51b284e7e0b85a534f87a4867328fa",
@@ -206,26 +225,6 @@
 			"_sFile": "de_theatre_b_6.rar",
 			"_sMd5Checksum": "ebfb370ecea4f94f1d9cccf912758be6",
 			"_tsDateAdded": 1678578371
-		},
-		{
-			"_aMetadata": {
-				"_aArchiveFileTree": [
-					"de_theatre_r.bsp",
-					"de_theatre_r.nav"
-				]
-			},
-			"_bContainsExe": false,
-			"_idRow": 947638,
-			"_nDownloadCount": 3,
-			"_nFilesize": 9717946,
-			"_sAnalysisResult": "File passed analysis",
-			"_sAnalysisState": "done",
-			"_sClamAvResult": "clean",
-			"_sDescription": "Old ver (beta)",
-			"_sDownloadUrl": "https://gamebanana.com/dl/947638",
-			"_sFile": "de_theatre_b_5_1_52c2c.rar",
-			"_sMd5Checksum": "9fc074e5433dd7e994d09936b20a717c",
-			"_tsDateAdded": 1678542346
 		},
 		{
 			"_aMetadata": {
@@ -433,6 +432,18 @@
 		{
 			"_aChangeLog": [
 				{
+					"cat": "Bugfix",
+					"text": "Fixed all missing textures and models"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "de_theatre",
+			"_sVersion": "b_10",
+			"_tsDateAdded": 1679826887
+		},
+		{
+			"_aChangeLog": [
+				{
 					"cat": "Improvement",
 					"text": "The skybox of the map has been updated"
 				},
@@ -457,26 +468,6 @@
 			"_sTitle": "de_theatre",
 			"_sVersion": "b_9",
 			"_tsDateAdded": 1679242516
-		},
-		{
-			"_aChangeLog": [
-				{
-					"cat": "Improvement",
-					"text": "Minor changes have been made to the map"
-				},
-				{
-					"cat": "Optimization",
-					"text": "Map optimized"
-				},
-				{
-					"cat": "Adjustment",
-					"text": "Some photos have been updated"
-				}
-			],
-			"_sText": "",
-			"_sTitle": "de_theatre",
-			"_sVersion": "b_8",
-			"_tsDateAdded": 1679136232
 		}
 	],
 	"_idRow": 421363,
