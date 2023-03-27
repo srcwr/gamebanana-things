@@ -9,7 +9,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 916941,
-			"_nDownloadCount": 80,
+			"_nDownloadCount": 86,
 			"_nFilesize": 78160944,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -23,57 +23,60 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": {
-					"ze_winter_bash_v3_b2_stripper_entwatch_v2": {
-						"entwatch": [
+					"ze_winter_bash_v3_b2_configs": {
+						"BossHP": [
 							"ze_winter_bash_v3_b2.cfg"
 						],
-						"stripper": [
+						"EntWatch": [
+							"ze_winter_bash_v3_b2.cfg"
+						],
+						"Stripper": [
 							"ze_winter_bash_v3_b2.cfg"
 						]
 					}
 				}
 			},
 			"_bContainsExe": false,
-			"_idRow": 951737,
-			"_nDownloadCount": 9,
-			"_nFilesize": 2094,
+			"_idRow": 955987,
+			"_nDownloadCount": 1,
+			"_nFilesize": 2815,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/951737",
-			"_sFile": "ze_winter_bash_v3_b2_stripper_entwatch_v2.zip",
-			"_sMd5Checksum": "779e91e971a4fc18796aad95057f221d",
-			"_tsDateAdded": 1679237796
+			"_sDownloadUrl": "https://gamebanana.com/dl/955987",
+			"_sFile": "ze_winter_bash_v3_b2_configs.zip",
+			"_sMd5Checksum": "9d5687f036d5366d9a99b2105a696b5b",
+			"_tsDateAdded": 1679920249
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "BossHP cfg."
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Added more push force to lvl3 boss, so players can't bhop through it."
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed other stripper stuff."
+				}
+			],
+			"_sText": "<p>Thanks to <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://gamebanana.com/members/1298824\">Moltard</a> for helping with stripper and made the bosshp cfg.</p>",
+			"_sTitle": "Stripper v3 & bosshp cfg",
+			"_sVersion": "v3",
+			"_tsDateAdded": 1679920563
+		},
 		{
 			"_aChangeLog": [],
 			"_sText": "<p>Fixed lvl2 push on the spider boss where players were able to bhop through it.</p>",
 			"_sTitle": "Stripper v2",
 			"_sVersion": "v2",
 			"_tsDateAdded": 1679237932
-		},
-		{
-			"_aChangeLog": [
-				{
-					"cat": "Removal",
-					"text": "Removed unnecessary things."
-				},
-				{
-					"cat": "Adjustment",
-					"text": "Fixed boss hp's"
-				},
-				{
-					"cat": "Addition",
-					"text": "Added entwatch config."
-				}
-			],
-			"_sText": "",
-			"_sTitle": "Stripper and entwatch",
-			"_sVersion": "v3_b2 Stripper",
-			"_tsDateAdded": 1674462332
 		}
 	],
 	"_idRow": 131103,
