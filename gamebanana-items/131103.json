@@ -1,5 +1,10 @@
 {
-	"_aAlternateFileSources": null,
+	"_aAlternateFileSources": [
+		{
+			"description": "Stripper, EntWatch, BossHP",
+			"url": "https://github.com/AlbemortCS/Maps/tree/main/ze_winter_bash_v3_b2"
+		}
+	],
 	"_aFiles": [
 		{
 			"_aMetadata": {
@@ -37,20 +42,36 @@
 				}
 			},
 			"_bContainsExe": false,
-			"_idRow": 955987,
-			"_nDownloadCount": 5,
-			"_nFilesize": 2815,
+			"_idRow": 957396,
+			"_nDownloadCount": 0,
+			"_nFilesize": 3177,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
-			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/955987",
-			"_sFile": "ze_winter_bash_v3_b2_configs.zip",
-			"_sMd5Checksum": "9d5687f036d5366d9a99b2105a696b5b",
-			"_tsDateAdded": 1679920249
+			"_sDescription": "Stripper, EntWatch, BossHP",
+			"_sDownloadUrl": "https://gamebanana.com/dl/957396",
+			"_sFile": "ze_winter_bash_v3_b2_configs_8aa6d.zip",
+			"_sMd5Checksum": "77e7243c48f9e01f1f591092b936b815",
+			"_tsDateAdded": 1680175142
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "Animation fixes"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Lvl 1 boat message."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Stripper v4",
+			"_sVersion": "v4",
+			"_tsDateAdded": 1680175309
+		},
 		{
 			"_aChangeLog": [
 				{
@@ -70,13 +91,6 @@
 			"_sTitle": "Stripper v3 & bosshp cfg",
 			"_sVersion": "v3",
 			"_tsDateAdded": 1679920563
-		},
-		{
-			"_aChangeLog": [],
-			"_sText": "<p>Fixed lvl2 push on the spider boss where players were able to bhop through it.</p>",
-			"_sTitle": "Stripper v2",
-			"_sVersion": "v2",
-			"_tsDateAdded": 1679237932
 		}
 	],
 	"_idRow": 131103,
