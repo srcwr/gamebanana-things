@@ -8,21 +8,34 @@
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 895825,
-			"_nDownloadCount": 11,
-			"_nFilesize": 3716401,
+			"_idRow": 957963,
+			"_nDownloadCount": 1,
+			"_nFilesize": 3644345,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/895825",
-			"_sFile": "mg_masogs_course_beta_2.rar",
-			"_sMd5Checksum": "e8aa2004a28a52471afc9267101458f9",
-			"_tsDateAdded": 1669294757
+			"_sDownloadUrl": "https://gamebanana.com/dl/957963",
+			"_sFile": "mg_masogs_course_beta_2_fix.rar",
+			"_sMd5Checksum": "c19156b29f72d4a8299adbee7ef83ba6",
+			"_tsDateAdded": 1680282689
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Removal",
+					"text": "Removed invisible wall to enter level 7"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "mg_masogs_beta_2_fix",
+			"_sVersion": "Beta fix",
+			"_tsDateAdded": 1680282815
+		}
+	],
 	"_idRow": 413632,
 	"_sName": "mg_masogs_course_beta_2",
-	"_sText": "This is the fixed version from&nbsp;<a href=\"https://gamebanana.com/mods/128302\" class=\"SelectedElement\">mg_masogs_course_beta2</a><br><br>Changelog:<br>1. Removed the green lights from the Hints (Its better to read)<br>2. Improved FPS in Level 5. (changed from 240 env_spritetrail to 20)<br>3.&nbsp;Recreated the missing: yellow_masog material<br>4.&nbsp;Fixed errors from the console<br><br><span class=\"RedColor\">env_cubemap used on world geometry without rebuilding map. . ignoring: tile/tilefloor012a<br><br>env_cubemap used on world geometry without rebuilding map. . ignoring: metal/citadel_tilefloor016a<br><br>env_cubemap used on world geometry without rebuilding map. . ignoring: metal/metalceiling005a<br><br>KeyValues Error: LoadFromBuffer: missing { in file materials/eigene/pentagram.vmt<br><br>(*UnlitGeneric*),&nbsp;<br><br>KeyValues Error: RecursiveLoadFromBuffer:&nbsp; got EOF instead of keyname in file materials/eigene/refract/rubin/rubin.vmt<br><br></span><span class=\"RedColor\">Refract, (*proxies*), (*TextureScroll*),&nbsp;</span><br><br>You can test the map on this server: <span class=\"GreenColor\">185.234.72.61:27040</span>"
+	"_sText": "This is the fixed version from <a href=\"https://gamebanana.com/mods/128302\" class=\"SelectedElement\">mg_masogs_course_beta2</a><br><br>Changelog:<br>1. Removed the green lights from the Hints (Its better to read)<br>2. Improved FPS in Level 5. (changed from 240 env_spritetrail to 20)<br>3. Recreated the missing: yellow_masog material<br>4. Fixed errors from the console<br><br><span class=\"RedColor\">env_cubemap used on world geometry without rebuilding map. . ignoring: tile/tilefloor012a<br><br>env_cubemap used on world geometry without rebuilding map. . ignoring: metal/citadel_tilefloor016a<br><br>env_cubemap used on world geometry without rebuilding map. . ignoring: metal/metalceiling005a<br><br>KeyValues Error: LoadFromBuffer: missing { in file materials/eigene/pentagram.vmt<br><br>(*UnlitGeneric*), <br><br>KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file materials/eigene/refract/rubin/rubin.vmt<br><br></span><span class=\"RedColor\">Refract, (*proxies*), (*TextureScroll*), </span><br><br>You can test the map on this server: <span class=\"GreenColor\">185.234.72.61:27040</span>"
 }
