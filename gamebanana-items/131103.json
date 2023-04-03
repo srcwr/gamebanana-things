@@ -42,20 +42,32 @@
 				}
 			},
 			"_bContainsExe": false,
-			"_idRow": 957396,
-			"_nDownloadCount": 3,
-			"_nFilesize": 3177,
+			"_idRow": 959475,
+			"_nDownloadCount": 1,
+			"_nFilesize": 2768,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
 			"_sDescription": "Stripper, EntWatch, BossHP",
-			"_sDownloadUrl": "https://gamebanana.com/dl/957396",
-			"_sFile": "ze_winter_bash_v3_b2_configs_8aa6d.zip",
-			"_sMd5Checksum": "77e7243c48f9e01f1f591092b936b815",
-			"_tsDateAdded": 1680175142
+			"_sDownloadUrl": "https://gamebanana.com/dl/959475",
+			"_sFile": "ze_winter_bash_v3_b2_configs.rar",
+			"_sMd5Checksum": "e7f8fa55c4918536caf8be95afaa49d5",
+			"_tsDateAdded": 1680441569
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "All boss func_physbox health's fixed."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Stripper v5",
+			"_sVersion": "v5",
+			"_tsDateAdded": 1680441691
+		},
 		{
 			"_aChangeLog": [
 				{
@@ -71,26 +83,6 @@
 			"_sTitle": "Stripper v4",
 			"_sVersion": "v4",
 			"_tsDateAdded": 1680175309
-		},
-		{
-			"_aChangeLog": [
-				{
-					"cat": "Addition",
-					"text": "BossHP cfg."
-				},
-				{
-					"cat": "Bugfix",
-					"text": "Added more push force to lvl3 boss, so players can't bhop through it."
-				},
-				{
-					"cat": "Bugfix",
-					"text": "Fixed other stripper stuff."
-				}
-			],
-			"_sText": "<p>Thanks to <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://gamebanana.com/members/1298824\">Moltard</a> for helping with stripper and made the bosshp cfg.</p>",
-			"_sTitle": "Stripper v3 & bosshp cfg",
-			"_sVersion": "v3",
-			"_tsDateAdded": 1679920563
 		}
 	],
 	"_idRow": 131103,
