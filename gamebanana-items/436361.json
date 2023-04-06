@@ -1,0 +1,48 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_fire_v3.bsp",
+					"de_fire_v3.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 961344,
+			"_nDownloadCount": 2,
+			"_nFilesize": 658501,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/961344",
+			"_sFile": "de_fire_v3.zip",
+			"_sMd5Checksum": "8baf3dd46dc77296fa9601c6a9425bb7",
+			"_tsDateAdded": 1680723378
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_fire_v3.vmf"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 961347,
+			"_nDownloadCount": 0,
+			"_nFilesize": 12704,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/961347",
+			"_sFile": "de_fire_v3_src.zip",
+			"_sMd5Checksum": "59597b0e83d31f1d823bf3bdbeada914",
+			"_tsDateAdded": 1680723490
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 436361,
+	"_sName": "de_fire_v3",
+	"_sText": "A CS:S port of my CS:GO map, it is in very early developpement and doesn't have a theme yet. You will find the main map and the .vmf (source) file in the downloads section<br>This version oddly has better visibility compared to the CS:GO version even though I haven't changed the lighting."
+}
