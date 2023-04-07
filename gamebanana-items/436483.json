@@ -1,0 +1,59 @@
+{
+	"_aAlternateFileSources": [
+		{
+			"description": "Download version 1.0 (OLD)",
+			"url": "https://drive.google.com/file/d/1Fed2t0dr8WtLVtf6B9toXpIoGLRwMnaE/view?usp=share_link"
+		},
+		{
+			"description": "Download version 1.1 (CURRENT); [MIRROR]",
+			"url": "https://drive.google.com/file/d/1AFY1BQvWFCw3Xk_Q_sTRvsdN5Zy6z0nm/view?usp=share_link"
+		}
+	],
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "Credits.txt",
+					"Countryhouse": [
+						"countryhouse.bsp",
+						"countryhouse.bsp.ztmp",
+						"countryhouse.nav"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 962020,
+			"_nDownloadCount": 1,
+			"_nFilesize": 1900258,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/962020",
+			"_sFile": "countryhouse_css_v11_d61b6.rar",
+			"_sMd5Checksum": "d58b11a5a318ed0915f3fbcddf9718dd",
+			"_tsDateAdded": 1680815546
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Optimization",
+					"text": "Fixed optimization somehow (+20-30 fps)"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Minor bugs were fixed"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Countryhouse v1.1",
+			"_sVersion": "1.1",
+			"_tsDateAdded": 1680810767
+		}
+	],
+	"_idRow": 436483,
+	"_sName": "Countryhouse",
+	"_sText": "Countryhouse is a small map created for fast 2v2 games (will lag if too much players). Just a house and some space to walk on. Non-steam versions are causing tons of bugs, play on steam version. Made by DevinSidd."
+}
