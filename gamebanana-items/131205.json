@@ -4,16 +4,37 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
+					"zm_3dubka_v3d.bsp",
+					"zm_3dubka_v3d.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 962306,
+			"_nDownloadCount": 9,
+			"_nFilesize": 40381283,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/962306",
+			"_sFile": "zm_3dubka_v3d_113e8.zip",
+			"_sMd5Checksum": "a461e1587fc9b65cabfe8f052fd15e3e",
+			"_tsDateAdded": 1680856209
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
 					"zm_3dubka_v3a.bsp"
 				],
 				"_sMimeType": "application/zip"
 			},
 			"_bContainsExe": false,
 			"_idRow": 288979,
-			"_nDownloadCount": 1272,
+			"_nDownloadCount": 1275,
 			"_nFilesize": 30579715,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/288979",
 			"_sFile": "zm_3dubka_v3a.zip",
@@ -21,8 +42,21 @@
 			"_tsDateAdded": 1396123407
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "",
+					"text": "Created custom bot navigation mesh for entire map"
+				}
+			],
+			"_sText": "<p>Numerous small changes were made all over the map, too many to list. Many to do with making it easier for bots to navigate the map, but also small changes to the overall map layout.</p>",
+			"_sTitle": "zm_3dubka_v3d",
+			"_sVersion": "3d",
+			"_tsDateAdded": 1680856340
+		}
+	],
 	"_idRow": 131205,
-	"_sName": "zm_3dubka_v3a",
+	"_sName": "zm_3dubka_v3d",
 	"_sText": "This is a from scratch remake of one of my favorite maps, zm_3dubka_v3. The original map had a lot of aesthetic problems (bad brushwork, texturing, lighting) which I wanted to fix.\r\n\r\nThis is one of the largest and most complex maps I ever remade. It took about 3 years from start to finish, which included the creation of custom textures, sounds and models to use in the map.\r\n\r\nIt should be a lot easier to navigate compared to the old map. The carpet for every floor is color coded (blue is 1st floor, green is 2nd floor and red is third floor.) All main hallways use tile floors, and all stairwells use brick and concrete. There's also a radar map to aid in navigation."
 }
