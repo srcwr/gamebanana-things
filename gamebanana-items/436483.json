@@ -13,37 +13,62 @@
 			"url": "https://drive.google.com/file/d/1FL2aQQxxRO0oavgNI5AHMq_W1lDkqKCR/view?usp=share_link"
 		},
 		{
-			"description": "Download version 1.3 (CURRENT); [MIRROR]",
+			"description": "Download version 1.3 (OLD)",
 			"url": "https://drive.google.com/file/d/1WCOrI0n5ZG6JlysyegVCFt0p503RGrxQ/view?usp=share_link"
+		},
+		{
+			"description": "Download version 1.4 (CURRENT); [MIRROR]",
+			"url": "https://drive.google.com/file/d/1gNLJQi5Iyp9laSNH0LuJDeK18v7mbfKt/view?usp=share_link"
 		}
 	],
 	"_aFiles": [
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": {
-					"0": "Credits.txt",
+					"0": "Readme.txt",
 					"Countryhouse": [
 						"countryhouse.bsp",
 						"countryhouse.bsp.ztmp",
-						"countryhouse.nav"
+						"countryhouse.nav",
+						"countryhouse.nav.ztmp"
 					]
 				}
 			},
 			"_bContainsExe": false,
-			"_idRow": 962413,
-			"_nDownloadCount": 8,
-			"_nFilesize": 1926711,
+			"_idRow": 963203,
+			"_nDownloadCount": 5,
+			"_nFilesize": 1915236,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/962413",
-			"_sFile": "countryhouse_css_v13.rar",
-			"_sMd5Checksum": "e0d8ea6377b16aa10e3567a0ec98e132",
-			"_tsDateAdded": 1680875804
+			"_sDownloadUrl": "https://gamebanana.com/dl/963203",
+			"_sFile": "countryhouse_css_v14_2479a.rar",
+			"_sMd5Checksum": "3596605e89737a30a2fbfe73102d4562",
+			"_tsDateAdded": 1680975367
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "Outer windows bugs were fixed & bug with T spawn wall also got fixed"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Minor visual improvements"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Lighting bug were fixed"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Countryhouse v1.4",
+			"_sVersion": "1.4",
+			"_tsDateAdded": 1680975269
+		},
 		{
 			"_aChangeLog": [
 				{
@@ -67,26 +92,6 @@
 			"_sTitle": "Countryhouse v1.3",
 			"_sVersion": "1.3",
 			"_tsDateAdded": 1680876329
-		},
-		{
-			"_aChangeLog": [
-				{
-					"cat": "Bugfix",
-					"text": "Fixed disappearing props"
-				},
-				{
-					"cat": "Improvement",
-					"text": "Improved navmesh for bots (they can still get stuck tho, i can't fix that)"
-				},
-				{
-					"cat": "Bugfix",
-					"text": "Fixed lighting after v1.1 optimization"
-				}
-			],
-			"_sText": "",
-			"_sTitle": "Countryhouse v1.2",
-			"_sVersion": "1.2",
-			"_tsDateAdded": 1680864572
 		}
 	],
 	"_idRow": 436483,
