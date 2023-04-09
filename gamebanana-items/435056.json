@@ -19,9 +19,35 @@
 			"_sFile": "kz_sonora.7z",
 			"_sMd5Checksum": "910a70008425cb9ab249f7002fd9f622",
 			"_tsDateAdded": 1680222525
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"kz_sonora_ez.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 963688,
+			"_nDownloadCount": 0,
+			"_nFilesize": 6910800,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/963688",
+			"_sFile": "kz_sonora_ez.7z",
+			"_sMd5Checksum": "21b90f31fee7604030e0ddc1a6cfb6bc",
+			"_tsDateAdded": 1681036219
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [],
+			"_sText": "<p>Added 'easy' version for offline and 66 tick servers (the only difference is the func_doors are converted to func_detail).</p>",
+			"_sTitle": "kz_sonora_ez",
+			"_tsDateAdded": 1681036267
+		}
+	],
 	"_idRow": 435056,
 	"_sName": "kz_sonora",
 	"_sText": "Short KZ map based on Sonoran desert.<br><br>Contains a short bonus + LJ room and is doable on 10AA.<br><br>"
