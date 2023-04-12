@@ -11,20 +11,41 @@
 				}
 			},
 			"_bContainsExe": false,
-			"_idRow": 963024,
-			"_nDownloadCount": 43,
-			"_nFilesize": 5128010,
+			"_idRow": 965547,
+			"_nDownloadCount": 3,
+			"_nFilesize": 5371845,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/963024",
-			"_sFile": "de_nuke_plus_29849.7z",
-			"_sMd5Checksum": "271a3a6c86b468c36a811b4dbacb9b3c",
-			"_tsDateAdded": 1680949942
+			"_sDownloadUrl": "https://gamebanana.com/dl/965547",
+			"_sFile": "de_nuke_plus_2b5a7.7z",
+			"_sMd5Checksum": "509e3868da10d750a9382e0419955da8",
+			"_tsDateAdded": 1681319894
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "Fixed navigation mesh for bots in ventilation"
+				},
+				{
+					"cat": "Amendment",
+					"text": "Footsteps on vents now make metallic sounds"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Reduced duration of wind and air conditioner sounds"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Small update",
+			"_sVersion": "1.0.1",
+			"_tsDateAdded": 1681320356
+		}
+	],
 	"_idRow": 436760,
 	"_sName": "de_nuke_plus",
 	"_sText": "Modification of de_nuke, which is based on CS:GO 2015 version of this map with some additions added by myself. <br><br>The map is aimed at improving the gameplay of the map, but maintaining the CS:S atmosphere and aesthetics. Materials were used only from CS:S and HL2 assets. In addition to changes in geometry, the map has become lighter, HDR lighting has been smoothed out, ambient sounds have become quieter, bots now speak more accurate information about the position of the enemy."

@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_vertigo_cso2.bsp",
+					"de_vertigo_cso2.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 965667,
+			"_nDownloadCount": 2,
+			"_nFilesize": 73805459,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/965667",
+			"_sFile": "de_vertigo_cso2.zip",
+			"_sMd5Checksum": "9ff967055e9e4f3c2bd3832fc4890ac6",
+			"_tsDateAdded": 1681332657
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 437740,
+	"_sName": "de_vertigo_cso2",
+	"_sText": "A port of de_vertigo from Nexon's Counter Strike Online 2. Layout-wise, it is very similar to de_vertigo from the original Counter Strike. Design-wise, it is very pretty!<br><br>Known Issues:&nbsp;<br><ul class=\"SelectedElement\"><li>Cubemaps were not built. This was intentional, when built they looked really weird (I assume because specularity maybe worked differently in CSO2), so I chose not to build them. Only really noticeable in scoped weapons.</li><li>At certain spots in the map, when looking in very particular directions, the console will be spammed with <span class=\"RedColor\">Too many vertex format changes in frame, whole world not rendered.</span>&nbsp;This is normal, given how Nexon built the map (lots and lots of func_detail), but it shouldn't affect gameplay, as it is rare and not in places where it would be noticeable. When flying out of the playable area (noclip, spectating) you will see it, as some details may not be rendered. Otherwise, this error should not interrupt gameplay or cause significant slow down (unless you keep looking in that direction). If console spam is something you <i>really</i>&nbsp;care about, you can use console comands \"con_filter_enable 1\" and \"con_filter_text_out \"vertex\" \". This won't fix the issue, but at least your console won't become cluttered.<br></li></ul><br>Anyways, if you happen to find any other error in the map, do leave a comment! I can't promise I will fix it but I can try!<br><br><br><br><br>"
+}

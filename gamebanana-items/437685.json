@@ -1,0 +1,61 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"epic_bucket_update.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 965511,
+			"_nDownloadCount": 6,
+			"_nFilesize": 103947,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/965511",
+			"_sFile": "final_update.rar",
+			"_sMd5Checksum": "7fbc642c67ec0f5630b7d5be80a6a534",
+			"_tsDateAdded": 1681314059
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Made it kill you whenever you would activate the trigger in the room"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Made the lighting better"
+				},
+				{
+					"cat": "Tweak",
+					"text": "Made the trigger go away immediately after it spawns so that if you are playing with a friend or more it doesn't kill them if they go in there"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "final update",
+			"_sVersion": "2",
+			"_tsDateAdded": 1681314325
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Improvement",
+					"text": "improved some sounds"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "bucket",
+			"_sVersion": "1.6",
+			"_tsDateAdded": 1681311505
+		}
+	],
+	"_idRow": 437685,
+	"_sName": "epic_bucket",
+	"_sText": "test ur fps"
+}
