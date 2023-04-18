@@ -1,0 +1,100 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"README.txt",
+					"de_vertigo_csgo.bsp",
+					"de_vertigo_csgo.vmf"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 590755,
+			"_nDownloadCount": 474,
+			"_nFilesize": 1960369,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "0.9.3",
+			"_sDownloadUrl": "https://gamebanana.com/dl/590755",
+			"_sFile": "de_vertigo_csgo_fc017.zip",
+			"_sMd5Checksum": "62f2c9b0c281314ef28cda431f56cb61",
+			"_tsDateAdded": 1623572688
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"README.txt",
+					"de_vertigo_csgo.bsp",
+					"de_vertigo_csgo.vmf"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 584009,
+			"_nDownloadCount": 53,
+			"_nFilesize": 2799072,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "v0.9.2",
+			"_sDownloadUrl": "https://gamebanana.com/dl/584009",
+			"_sFile": "de_vertigo_csgo_8aa5c.zip",
+			"_sMd5Checksum": "b9ed7a898d309f674a33233b1590828f",
+			"_tsDateAdded": 1622683752
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"README.txt",
+					"de_vertigo_csgo.bsp",
+					"de_vertigo_csgo.vmf"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 582732,
+			"_nDownloadCount": 58,
+			"_nFilesize": 4441862,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "V0.9.1",
+			"_sDownloadUrl": "https://gamebanana.com/dl/582732",
+			"_sFile": "de_vertigo_csgo_9792b.zip",
+			"_sMd5Checksum": "48bd3d4793bb9857a004f0585e7d809d",
+			"_tsDateAdded": 1622547047
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"README.txt",
+					"de_vertigo_csgo.bsp",
+					"de_vertigo_csgo.vmf"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 572091,
+			"_nDownloadCount": 125,
+			"_nFilesize": 3211253,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "V0.9.0",
+			"_sDownloadUrl": "https://gamebanana.com/dl/572091",
+			"_sFile": "de_vertigo_csgo.zip",
+			"_sMd5Checksum": "603c1b684f7c9a30cff568f11fd2334f",
+			"_tsDateAdded": 1621137911
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [],
+			"_sText": "<p>I moved on since I couldn't figure out what to do with C4 and my friends stopped playing CS:S.</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://S.So\">So</a>... I shouldn't be back to CS:S modding anytime soon.<br>However, this project can go without me: I provided the VMF file so anyone can pick up and change it as it pleases.<br><br>The latest version is `<code>de_vertigo_csgo_fc017.zip</code>`&nbsp; (0.9.3)</p>",
+			"_sTitle": "after almost a year...",
+			"_tsDateAdded": 1651181778
+		}
+	],
+	"_idRow": 286684,
+	"_sName": "de_vertigo_csgo",
+	"_sText": "The map is based on de_vertigo_pro, I've tweaked the original map to play more or less like the CS:GO's de_vertigo, which is way more balanced. It's my first experience with hammer editor and map making so expect issues, weird texture placements and etc. Please, let me know if you have found any.<br><br>Known Issues:<br>- If a player carrying the C4 fall off the building terrorists can't retrieve it<br>- There's no radar yet (Because I want to finish the map first)<br>- No hand-tunned NAV mesh (same as above)<br>- Probably some lighting and clipping issues<br>- Not optimized yet (a lot of hint/skip brushes placed tho)"
+}
