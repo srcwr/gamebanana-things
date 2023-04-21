@@ -6,27 +6,76 @@
 				"_aArchiveFileTree": {
 					"0": "read-me.txt",
 					"maps": [
-						"de_unb_concrete.bsp"
-					]
-				},
-				"_sMimeType": "application/zip"
+						"de_unb_concrete.bsp",
+						"de_unb_concrete.nav"
+					],
+					"materials": {
+						"vgui": {
+							"maps": [
+								"menu_thumb_de_unb_concrete.vmt",
+								"menu_thumb_de_unb_concrete.vtf"
+							]
+						}
+					}
+				}
 			},
 			"_bContainsExe": false,
-			"_idRow": 526028,
-			"_nDownloadCount": 147,
-			"_nFilesize": 1467812,
+			"_idRow": 970122,
+			"_nDownloadCount": 1,
+			"_nFilesize": 9289013,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/526028",
-			"_sFile": "de_unb_concrete.zip",
-			"_sMd5Checksum": "",
-			"_tsDateAdded": 1614458983
+			"_sDownloadUrl": "https://gamebanana.com/dl/970122",
+			"_sFile": "de_unb_concrete_68f98.zip",
+			"_sMd5Checksum": "0c408dd972dc915bce0be9f1757d4629",
+			"_tsDateAdded": 1682028365
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "HDR Lightning"
+				},
+				{
+					"cat": "Addition",
+					"text": "Overview / Radar"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Map Lightning"
+				},
+				{
+					"cat": "Removal",
+					"text": "Double C4 ( Removed unnecessary C4 )"
+				},
+				{
+					"cat": "Removal",
+					"text": "Rope climbing to Normal ladders"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Map Layout in 2nd Floor and T / CT Spawns"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Player blocked areas"
+				},
+				{
+					"cat": "Optimization",
+					"text": "Missing optimization from some spots"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Quality",
+			"_sVersion": "1.5",
+			"_tsDateAdded": 1682028309
+		}
+	],
 	"_idRow": 100844,
 	"_sName": "DE Concrete UNB",
-	"_sText": "Map based on construction site, small, 1 bomb site, 32 spawns 16 each team and a rope.<br><br>"
+	"_sText": "Made this map for another mod that don't have much players and servers to gameplay, so create this to play 1x1 with a friend, not exactly, but fine. I play a lot with him, and the map have's a lot of change. From a fy map with random maps to defuse bomb with a single bomb spot... So that is it. <br><br>Recommended for a 4FUN server and for less players.<br><br>Map based on construction site<br><ul><li>Small defuse map</li><li>1 bomb</li><li>32 Spawns points ( 16 each team )</li><li class=\"SelectedElement\">2 Floors<br></li></ul><br>"
 }
