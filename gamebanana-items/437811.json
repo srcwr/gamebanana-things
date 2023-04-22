@@ -8,20 +8,28 @@
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 966487,
-			"_nDownloadCount": 12,
-			"_nFilesize": 46820216,
+			"_idRow": 970853,
+			"_nDownloadCount": 1,
+			"_nFilesize": 47812256,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/966487",
-			"_sFile": "surf_kvas_45122.rar",
-			"_sMd5Checksum": "0eb29484da7dbeab35a28cb2ccf3750b",
-			"_tsDateAdded": 1681479211
+			"_sDownloadUrl": "https://gamebanana.com/dl/970853",
+			"_sFile": "surf_kvas_891f4.rar",
+			"_sMd5Checksum": "544cb0ee29cacb2294a4a66ccdedf71b",
+			"_tsDateAdded": 1682167402
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [],
+			"_sText": "<p>Fixed LDR lighting</p>",
+			"_sTitle": "Lighting",
+			"_sVersion": "v3",
+			"_tsDateAdded": 1682168364
+		}
+	],
 	"_idRow": 437811,
 	"_sName": "surf_kvas",
 	"_sText": "Map, B1, B2 by Heisen<br>B3 by royssi<br>B4 by rstar<br><br>Tier: 2<br>Linear<br>4 Bonuses<br><br>Designed for 66t, 150aa, 3500maxvel"
