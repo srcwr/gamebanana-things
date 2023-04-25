@@ -4,31 +4,12 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
-					"ze_safe_house_v3.bsp"
-				]
-			},
-			"_bContainsExe": false,
-			"_idRow": 971487,
-			"_nDownloadCount": 8,
-			"_nFilesize": 82516817,
-			"_sAnalysisResult": "File passed analysis",
-			"_sAnalysisState": "done",
-			"_sClamAvResult": "clean",
-			"_sDescription": "R_3",
-			"_sDownloadUrl": "https://gamebanana.com/dl/971487",
-			"_sFile": "ze_safe_house_v3.rar",
-			"_sMd5Checksum": "fe44db40546d48b17317d3ad993017a2",
-			"_tsDateAdded": 1682259985
-		},
-		{
-			"_aMetadata": {
-				"_aArchiveFileTree": [
 					"ze_safe_house_v2.bsp"
 				]
 			},
 			"_bContainsExe": false,
 			"_idRow": 971016,
-			"_nDownloadCount": 11,
+			"_nDownloadCount": 19,
 			"_nFilesize": 82299667,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -42,74 +23,24 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
-					"ze_safe_house.bsp"
+					"ze_safe_house_v2.cfg"
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 970073,
-			"_nDownloadCount": 30,
-			"_nFilesize": 81741505,
-			"_sAnalysisResult": "File passed analysis",
-			"_sAnalysisState": "done",
-			"_sClamAvResult": "clean",
-			"_sDescription": "R_1",
-			"_sDownloadUrl": "https://gamebanana.com/dl/970073",
-			"_sFile": "ze_safe_house.rar",
-			"_sMd5Checksum": "f86a5dc79ccac65e175c4625f5563e7a",
-			"_tsDateAdded": 1682021647
-		},
-		{
-			"_aMetadata": {
-				"_aArchiveFileTree": [
-					"ze_safe_house_v3.vmf"
-				]
-			},
-			"_bContainsExe": false,
-			"_idRow": 971568,
+			"_idRow": 972010,
 			"_nDownloadCount": 1,
-			"_nFilesize": 757278,
+			"_nFilesize": 1079,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
-			"_sDescription": "Vmf",
-			"_sDownloadUrl": "https://gamebanana.com/dl/971568",
-			"_sFile": "ze_safe_house_v3_vmf.rar",
-			"_sMd5Checksum": "8a650e3e1f0cc0600862c42c4d321831",
-			"_tsDateAdded": 1682269542
-		},
-		{
-			"_aMetadata": {
-				"_aArchiveFileTree": [
-					"ze_safe_house.cfg"
-				]
-			},
-			"_bContainsExe": false,
-			"_idRow": 970563,
-			"_nDownloadCount": 9,
-			"_nFilesize": 572,
-			"_sAnalysisResult": "File passed analysis",
-			"_sAnalysisState": "done",
-			"_sClamAvResult": "clean",
-			"_sDescription": "Fix",
-			"_sDownloadUrl": "https://gamebanana.com/dl/970563",
-			"_sFile": "ze_safe_house_stripper.rar",
-			"_sMd5Checksum": "1e2221e71d651b90ea7647a0b165625b",
-			"_tsDateAdded": 1682111510
+			"_sDescription": "Stripper Fix",
+			"_sDownloadUrl": "https://gamebanana.com/dl/972010",
+			"_sFile": "ze_safe_house_v2_stripper.rar",
+			"_sMd5Checksum": "8b78d69ffa93599c1e94dfbf0f610c9a",
+			"_tsDateAdded": 1682343679
 		}
 	],
 	"_aLatestUpdates": [
-		{
-			"_aChangeLog": [
-				{
-					"cat": "",
-					"text": "Fixed some bugs in the map, bombs will explode in 10 seconds in the last chapter, get on board part reduced from 10 seconds to 5 seconds"
-				}
-			],
-			"_sText": "",
-			"_sTitle": "Update",
-			"_sVersion": "R_3",
-			"_tsDateAdded": 1682260041
-		},
 		{
 			"_aChangeLog": [
 				{
