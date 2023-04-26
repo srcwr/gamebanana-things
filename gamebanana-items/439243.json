@@ -4,40 +4,40 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
-					"ze_safe_house_v2.bsp"
+					"ze_safe_house_v3.bsp"
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 971016,
-			"_nDownloadCount": 19,
-			"_nFilesize": 82299667,
+			"_idRow": 972498,
+			"_nDownloadCount": 4,
+			"_nFilesize": 108055999,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
-			"_sDescription": "R_2",
-			"_sDownloadUrl": "https://gamebanana.com/dl/971016",
-			"_sFile": "ze_safe_house_v2.rar",
-			"_sMd5Checksum": "e7a8a0d3ae3d6de732843d43af7b800a",
-			"_tsDateAdded": 1682187224
+			"_sDescription": "R_3",
+			"_sDownloadUrl": "https://gamebanana.com/dl/972498",
+			"_sFile": "ze_safe_house_v3_3f6b6.rar",
+			"_sMd5Checksum": "7e20e6f36f568928feca24e172a3c7f5",
+			"_tsDateAdded": 1682439510
 		},
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
-					"ze_safe_house_v2.cfg"
+					"ze_safe_house_v3.cfg"
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 972010,
+			"_idRow": 972539,
 			"_nDownloadCount": 1,
-			"_nFilesize": 1079,
+			"_nFilesize": 769,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
 			"_sDescription": "Stripper Fix",
-			"_sDownloadUrl": "https://gamebanana.com/dl/972010",
-			"_sFile": "ze_safe_house_v2_stripper.rar",
-			"_sMd5Checksum": "8b78d69ffa93599c1e94dfbf0f610c9a",
-			"_tsDateAdded": 1682343679
+			"_sDownloadUrl": "https://gamebanana.com/dl/972539",
+			"_sFile": "ze_safe_house_v3_stripper.rar",
+			"_sMd5Checksum": "89edd2b3a6843364824f64ca5497ac68",
+			"_tsDateAdded": 1682446711
 		}
 	],
 	"_aLatestUpdates": [
@@ -45,13 +45,13 @@
 			"_aChangeLog": [
 				{
 					"cat": "",
-					"text": "I updated the map, synced the map, gave people more defensive places, prevented zombies from holding doors and fixed some bugs"
+					"text": "The map has been updated for the last time in this update, new things have been added and changed in the last part of the map and some minor changes have been made and the sky has been fixed"
 				}
 			],
 			"_sText": "",
 			"_sTitle": "Update",
-			"_sVersion": "R_2",
-			"_tsDateAdded": 1682187325
+			"_sVersion": "R_3",
+			"_tsDateAdded": 1682439875
 		}
 	],
 	"_idRow": 439243,
