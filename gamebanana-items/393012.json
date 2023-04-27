@@ -5,7 +5,7 @@
 			"_aMetadata": [],
 			"_bContainsExe": false,
 			"_idRow": 840354,
-			"_nDownloadCount": 50,
+			"_nDownloadCount": 54,
 			"_nFilesize": 51820142,
 			"_sAnalysisResult": "Archive extraction failed (corrupt or password-protected)",
 			"_sAnalysisState": "done",
@@ -20,7 +20,7 @@
 			"_aMetadata": [],
 			"_bContainsExe": false,
 			"_idRow": 853427,
-			"_nDownloadCount": 37,
+			"_nDownloadCount": 38,
 			"_nFilesize": 50268783,
 			"_sAnalysisResult": "Archive extraction failed (corrupt or password-protected)",
 			"_sAnalysisState": "done",
@@ -39,7 +39,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 945758,
-			"_nDownloadCount": 22,
+			"_nDownloadCount": 34,
 			"_nFilesize": 32384615,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -49,22 +49,40 @@
 			"_sFile": "ze_surf_cherry_blossom_v4.rar",
 			"_sMd5Checksum": "3a6a50d011d93981c295f4fc26d3d4b3",
 			"_tsDateAdded": 1678190968
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ze_surf_cherry_blossom_v4_1.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 973339,
+			"_nDownloadCount": 0,
+			"_nFilesize": 32185220,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/973339",
+			"_sFile": "ze_surf_cherry_blossom_v4_1.rar",
+			"_sMd5Checksum": "9cc6dff52128138114b479f23b4500d2",
+			"_tsDateAdded": 1682577806
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [],
+			"_sText": "<p>- Added third emergency TP for the third surf (only enabled via secret)</p><p>- Added a flatform for the third surf after big area</p>",
+			"_sTitle": "V4_1 UPDATES",
+			"_tsDateAdded": 1682577978
+		},
 		{
 			"_aChangeLog": [],
 			"_sText": "<p>- TOTALLY NEW MAP FOR <strong>V4</strong></p><p>- 2 new items has been added. <strong>Firework</strong> and <strong>Push</strong></p><p>- Different ending sequence</p><p>- Added new songs to the map</p><p></p><p>note: for the entwatch you can contact me via discord</p>",
 			"_sTitle": "V4 UPDATES",
 			"_sVersion": "v4",
 			"_tsDateAdded": 1678192603
-		},
-		{
-			"_aChangeLog": [],
-			"_sText": "<p><strong>UPDATES in v3 :</strong><br><br>- FPS improvement ( map is no longer using func_viscluster )<br>- Remaking the last surf and ending<br>- The map is now have second stage ( foggy )<br><br>The map is now required stripper to play</p>",
-			"_sTitle": "ze_surf_cherry_blossom",
-			"_sVersion": "3",
-			"_tsDateAdded": 1661246366
 		}
 	],
 	"_idRow": 393012,
