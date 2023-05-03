@@ -9,20 +9,49 @@
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 975759,
-			"_nDownloadCount": 21,
-			"_nFilesize": 7713496,
+			"_idRow": 976734,
+			"_nDownloadCount": 1,
+			"_nFilesize": 7675990,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
 			"_sDescription": "Map file and Navigation mesh",
-			"_sDownloadUrl": "https://gamebanana.com/dl/975759",
-			"_sFile": "de_town_56c6e.rar",
-			"_sMd5Checksum": "61c39ca7226bb1782e5acf53bc2959a3",
-			"_tsDateAdded": 1682958743
+			"_sDownloadUrl": "https://gamebanana.com/dl/976734",
+			"_sFile": "de_town_7f5a3.rar",
+			"_sMd5Checksum": "37eb3449cc8596d5e7fb8d649f3fbdc4",
+			"_tsDateAdded": 1683133160
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Improvement",
+					"text": "improved the interior lighting and added more props"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Added stair clipping"
+				},
+				{
+					"cat": "Optimization",
+					"text": "Improved FPS around Bombsite A"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added more atmospheric sounds"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Improved the path to Bombsite B"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Update #1",
+			"_sVersion": "53",
+			"_tsDateAdded": 1683134093
+		}
+	],
 	"_idRow": 441290,
 	"_sName": "de_town",
 	"_sText": "<i><b>de_town  - Bomb/Defuse</b></i><br><br>Middle-sized Italy/Piranesi-themed bomb/defuse map for Counter-Strike: Source. Inspired by the European feel of cs_italy.<br><br><b><u>Features:</u></b> <br><ul><li>Soundscapes</li><li>3D skybox <br></li><li>Ambients</li><li>Bombsite A - Market</li><li>Bombsite B - Statue from de_piranesi</li><li class=\"SelectedElement\">Bot support</li><li class=\"SelectedElement\">Dustmotes</li></ul>"
