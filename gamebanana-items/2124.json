@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"testphysbox.vmf"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 45118,
+			"_nDownloadCount": 180,
+			"_nFilesize": 2917,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/45118",
+			"_sFile": "testphysbox.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1393356060
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2124,
+	"_sName": "Non-solid Bulletproof Walls!",
+	"_sText": "I used this to fix a Zombie Mod map where launching zombies with an AWP was very common.\r\n\r\nSo basically this is what it will do:\r\n\r\n- Depending on the thickness you make this wall, will affect the bullet damage to the target on the other side of it, and will block certain weapons from penetrating at all\r\n- Can walk through it\r\n- Reduces Knockback\r\n\r\n\r\nSo make yourself a block the size of the area you want to block with Nodraw. Approx. 20 units will block bullets from all weapons on Zombie Mod.\r\n\r\nOnce you have created your wall, preferably in nodraw, press CTRL+T to create it into an entity, and make it a func_physbox and disable the shadows. Then switch on over to the Flags tab, and check the following boxes:\r\n\r\n- Start Asleep\r\n- Debris\r\n- Don't collide with the player or other debris\r\n- Motion Disabled\r\n- Generate Output on +USE ---------- Probably don't need this, but use it anyway.\r\n- Prevent motion enable on player bump\r\n- Only Break on Trigger\r\n- Don't take physics damage\r\n- Don't allow bullet penetration\r\n\r\nSave make sure you hit Apply, then test out your wall against a bot to make sure it works!\r\n\r\nMy example uses a thickness of 8, which will reduce the damage done and knockback significantly. I did this because i didn't want to completely stop players from being able to shoot zombies in a certain place, i just wanted to reduce the knock-back.\r\n\r\nTo my knowledge, there isn't a tool texture that can do this (at least in CS:S)"
+}

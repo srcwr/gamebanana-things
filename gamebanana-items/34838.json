@@ -1,0 +1,52 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"cs_market_2 nav readme.txt",
+					"cs_market_2.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 2405,
+			"_nDownloadCount": 957,
+			"_nFilesize": 117804,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/2405",
+			"_sFile": "nav_cs_market_2_fa6ce.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1401733677
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Inproved bot's movement through the ladder and ventilation duct"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Update 2",
+			"_tsDateAdded": 1500052823
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Total improvement of comlete Navigation Mesh"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Update 1",
+			"_tsDateAdded": 1471377017
+		}
+	],
+	"_idRow": 34838,
+	"_sName": "Hand-tuned NAV for map CS_MARKET_2",
+	"_sText": "Counter-Strike: Source : Bot's Navigation Mesh for the map CS_MARKET_2<br><br>Nav Creator: Meurglis3, Release Date: June 02 2014<br><br>Here is the Navigation Mesh for fine small office/assault themed map <a href=\"http://css.gamebanana.com/maps/16520\">cs_market_2</a> by Supermike (released September 2009). It's a created from scratch and manually optimized .nav-file (because original .nav-file created by Man Nay and embedded in mapauthor's .bsp-file was not good playable).<br><br>Most areas were created manually (also some paths were created from scratch) because some of them were constructed incorrectly or incomplete. Some pathways were adjusted properly (a path behind a fence, a path through the ventilation system, a path through a ladder on a roof and some other insignificant ways).<br><br>Well... bots have opportunity to use all walkable ways and surely move on all extent of the map now. Though they still don't like wooden boxes and stale fruits in the market :D<br><br>Also this Navigation Mesh was fully Place Painted.<br><br>NOTE: For possibility of comparison and in-game testing the original navigation file by Man Nay embedded in .bsp-file available to downloading with the <a href=\"http://css.gamebanana.com/maps/16520\">same map</a>.<br><br>Play and Enjoy! Yeah... your responses and remarks for me are still important ;-)<br><br>Credits and Gratitudes:\r\nSupermike (for high detailed, very realistic and fast-paced map).<br><br>Additional Gratitudes:\r\nBarnDoor (for perfect playable navigation meshes for many fine CS:S maps),\r\nChizbone (for informative and clever article BOT_BRAINED and a set of excellent navigation meshes),\r\nCoCoNUT (for fine hand-tuned navigation meshes for many fine CS:S maps),\r\nValve Developer Community (for learning articles by Navigation Meshes and Navigation Mesh Commands).<br><br>Happy Shopping in this Weekend!"
+}

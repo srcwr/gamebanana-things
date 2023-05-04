@@ -1,0 +1,54 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "stair prefab.vmf",
+					"1": "stairs map.vmf",
+					"materials": {
+						"RealWorldTextures": {
+							"Walls": [
+								"CapeCodGray.vmt",
+								"CapeCodGray.vtf",
+								"DeepCharcoal.vmt",
+								"DeepCharcoal.vtf",
+								"WesternWhite.vmt",
+								"WesternWhite.vtf"
+							],
+							"new": [
+								"wood_a01.vmt",
+								"wood_a01.vtf",
+								"wood_a01_nrm.vtf"
+							],
+							"newer": {
+								"1": [
+									"Carpet_1_02.vmt"
+								],
+								"2": [
+									"Carpet_1_02.vtf"
+								]
+							}
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 46154,
+			"_nDownloadCount": 566,
+			"_nFilesize": 708100,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/46154",
+			"_sFile": "_0-.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1293989564
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2836,
+	"_sName": "stair",
+	"_sText": ""
+}

@@ -1,0 +1,31 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"twistCorridor.vmf",
+					"twistCorridor2.bsp",
+					"twistCorridor2.vmf",
+					"twistcorridor.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 45280,
+			"_nDownloadCount": 1379,
+			"_nFilesize": 664912,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/45280",
+			"_sFile": "twistcorridor.7z",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1380227128
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2115,
+	"_sName": "Twisting Corridor",
+	"_sText": "Something I made while bored a while ago. I figure someone might use it.\r\n\r\nIf you have trouble moving them onto the grid, select everything, select the vertex edit tool, select everything and drag a corner vertex to where you want it.\r\n\r\nTexturing these is a bit of a pain, but what I do is select one side (of one section), rotate the UVs until they align with the edges, click 'Fit', then change the Y scale to 0.25 (or whatever matches the X scale). To avoid doing this for every section, only do one section, delete the others, then use paste special to paste the rest back into place (5 Y rot, 16 Y move for twistCorridor2). Unfortunately scaling 'breaks' the texture alignment.\r\n\r\n<b class='RedColor'>Important!</b> - These walls won't seal the map as there may be tiny gaps (due to floating point inaccuracy), so seal the area around them with solid brushes. I also strongly advise leaving it as a func\\_detail."
+}

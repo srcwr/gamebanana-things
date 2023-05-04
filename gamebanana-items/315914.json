@@ -1,0 +1,63 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"cstrikee.vpk",
+					"readme.txt"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 642124,
+			"_nDownloadCount": 57,
+			"_nFilesize": 272756,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "version1",
+			"_sDownloadUrl": "https://gamebanana.com/dl/642124",
+			"_sFile": "cstrikee_5bb06.rar",
+			"_sMd5Checksum": "30a606424674ff33df3d524111dda9bf",
+			"_tsDateAdded": 1629605792
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrikee2": [
+						"cstrikee2.vpk",
+						"readme.txt"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 646951,
+			"_nDownloadCount": 70,
+			"_nFilesize": 252761,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "version2",
+			"_sDownloadUrl": "https://gamebanana.com/dl/646951",
+			"_sFile": "cstrikee2.rar",
+			"_sMd5Checksum": "69945a31a00577e41d997ff08493e897",
+			"_tsDateAdded": 1630193448
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Adjustment",
+					"text": "Boarder contour deletd in spectator view"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Update Boarder",
+			"_tsDateAdded": 1630193239
+		}
+	],
+	"_idRow": 315914,
+	"_sName": "Working minimap for de_dust2_unlimited",
+	"_sText": "Minimap for de_dust2_unlimited.<br>Unrar and move file to \\Steam\\steamapps\\common\\Counter-Strike Source\\cstrike\\custom<br>Have Fun<br><br><a href=\"https://steamcommunity.com/id/4p-aBe/\">Steamprofile</a>"
+}

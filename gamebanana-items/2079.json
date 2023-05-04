@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"Readme.txt",
+					"breach.vmf"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 45745,
+			"_nDownloadCount": 1055,
+			"_nFilesize": 6809,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/45745",
+			"_sFile": "breach.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1337698012
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2079,
+	"_sName": "Breach",
+	"_sText": "Description\r\n==================\r\nThis is my first prefab I created for Counter-Strike: Source. It was actually part of a map I am currently working on but since I had no use for it anymore I decided to submit it as a prefab. It is a huge breach in a massive concrete wall with much debris lying around it. However, you can change the textures of the displacements if you wish. Note that you have to pick the brush faces of the overlays to be drawn on when placing the prefab on the ground.\r\n\r\nInstallation\r\n==================\r\nExtract the vmf-file from the zip folder into the directory\r\n\r\n**c:\\programs\\Steam\\steamapps\\[username]\\sourcesdk\\bin\\orangebox\\bin\\prefabs**\r\n\r\n(default Steam directory)\r\n\r\nFeedback\r\n==================\r\n**Any feedback will be appreciated!** Tell me what changes I should do the next time I make another prefab. What should I have done better in your opinion? I would love to know!"
+}

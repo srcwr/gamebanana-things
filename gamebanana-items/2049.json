@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"RandomMusic.vmf",
+					"randommusic.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 45865,
+			"_nDownloadCount": 479,
+			"_nFilesize": 11503,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/45865",
+			"_sFile": "randommusic.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1324679060
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2049,
+	"_sName": "How to make random music!",
+	"_sText": "If you press the button a random sound will be played. The same thing with the trigger.\r\n\r\nIf you want to change the sounds go to the ambient_generic and change the sounds name.\r\n\r\nIf you want more music, edit a ambient\\_generic and don't forget to change the logic_case."
+}

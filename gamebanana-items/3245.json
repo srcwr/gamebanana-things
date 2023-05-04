@@ -1,0 +1,31 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"Advanced security system": [
+						"triggerlock.bsp",
+						"triggerlock.vmf"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 45331,
+			"_nDownloadCount": 283,
+			"_nFilesize": 81124,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/45331",
+			"_sFile": "advanced_security_system.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1375229791
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 3245,
+	"_sName": "Advanced Lock system",
+	"_sText": "This is Advanced Security system (concept/prefab) that mappers can use in for example zm maps.\r\n\r\nHow does it work? : \r\n1) Pick weapon \"elites\" marked on screenshot with 1 and drop them in the area shown. \r\n2) press that button to move the trigger that will unlock button marked with number 3 for 10 seconds \r\n3) press button number 3 (2 things will happen -> 1 the wall will break showing you that u succeded / 2 the banana signed with 4 will start flying) 4) the banana signed with number 4 will allow typing the code on keypad only when moving in direction shown on screenshot. after making 1 full circle the keypad will reset. \r\n5) you must watch live camera screen to see if banana is in right place that will allow you to type code (you can add trigger hurt to keypad after typing wrong code) \r\n6)type code 4125 to open door (door will close after 5 seconds) i used math counters however !! I DIDNT USE MULTIPLY BY 10 !! (like 99% of mappers do making it extremely easy to check how to open secret) i used multiply by 2 and ofc i changed buttons values so when you press for example button 2 it adds value for example 6 instead of 2.\r\n\r\nYou are free to use this prefab/concept as long as you credit me :)\r\nPrefab by MastaPrzemo"
+}

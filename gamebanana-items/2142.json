@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"newbooster.vmf"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 45038,
+			"_nDownloadCount": 757,
+			"_nFilesize": 984,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/45038",
+			"_sFile": "newbooster.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1400357807
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2142,
+	"_sName": "Unbreakable Boosts 2",
+	"_sText": "Booster vmf.\r\n\r\nI copied a booster out my WIP and posted it here.\r\nTo change the strength see the outputs, requires no filters.\r\n\r\nThe gravity keyvalue with the - is the stength, the 1 is the reset.\r\n\r\nSimple enough? just modify time and strength.\r\n\r\nCombine with mpbhops on the block if you want to force bhopping, and if your clever enough integrate it into onehop. Do what you want!"
+}

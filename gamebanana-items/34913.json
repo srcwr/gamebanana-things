@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"cs_hockey nav readme.txt",
+					"cs_hockey.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 616,
+			"_nDownloadCount": 268,
+			"_nFilesize": 165524,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/616",
+			"_sFile": "nav_cs_hockey_7fa53.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1489559767
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 34913,
+	"_sName": "Hand-tuned NAV for map CS_HOCKEY",
+	"_sText": "Counter-Strike: Source : Bot's Navigation Mesh for the map CS_HOCKEY<br><br>Nav Creator: Meurglis3, Release Date: March 15 2017<br><br>Here is the Navigation Mesh for fine office/assault themed map <a href=\"http://gamebanana.com/maps/81769\">cs_hockey</a> by Propaganda (released February 2009). It's a created from scratch and manually optimized .nav-file (because original .nav-file embedded in .bsp-file was not fully playable).<br><br>Most areas were created manually (also some paths were created from scratch) because some of them were constructed incorrectly or incomplete. Some pathways were precisely adjusted (a path through the overpass, through a dumpster to the roof and some other difficult paths).<br><br>Well... bots use all walkable ways now and surely move through all extent of the map. However they are very much irritated by the zero account on an arena scoreboard &nbsp;:D<br><br>Also this Navigation Mesh was fully Place Painted.<br><br>NOTE: For possibility of comparison and in-game testing the original navigation file by map author available to downloading with the <a href=\"http://gamebanana.com/maps/81769\">same map</a> (embedded in .bsp-file).<br><br>Play and Enjoy! Yeah... your responses and remarks for me are still important ;-)<br><br>Credits and Gratitudes: Propaganda (for high detailed, very realistic and nice twisted map).<br><br>Additional Gratitudes: BarnDoor (for perfect playable navigation meshes for many fine CS:S maps), Chizbone (for informative and clever article BOT_BRAINED and a set of excellent navigation meshes), CoCoNUT (for fine hand-tuned navigation meshes for many fine CS:S maps), Valve Developer Community (for learning articles by Navigation Meshes and Navigation Mesh Commands).<br><br>The draw is not guaranteed absolutely... goalless especially! :-)<br><br>P.S. Also I strongly recommend to try hand-tuned NAV for bomb/defuse version of this map - <a href=\"http://gamebanana.com/gamefiles/5499\">de_alberta</a>."
+}

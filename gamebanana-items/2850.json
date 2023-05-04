@@ -1,0 +1,43 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"Detailed_Stairway_By_Alberto309": {
+						"0": "README PLEASE.txt",
+						"1": "Thumbs.db",
+						"2": "detailed_stairway.vmf",
+						"Screenshots": [
+							"DetailedStairwayScreen_1.png",
+							"DetailedStairwayScreen_2.png",
+							"DetailedStairwayScreen_3.png",
+							"DetailedStairwayScreen_4.png",
+							"DetailedStairwayScreen_5.png",
+							"Thumbs.db"
+						],
+						"maps": [
+							"detailed_stairway.bsp"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 45552,
+			"_nDownloadCount": 612,
+			"_nFilesize": 5360911,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/45552",
+			"_sFile": "detailed_stairway_by_alberto309.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1354012755
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2850,
+	"_sName": "Detailed Stairway",
+	"_sText": "**DETAILED STAIRWAY PREFAB**\r\n\r\n**Author:** Alberto309 (credit me if you use it)\r\n**Work time:** half hour\r\n\r\n\r\nThere are two files, the VMF (used in Hammer) and the BSP (used in game in case you want to see the prefab by yourself before compiling).\r\n\r\n\r\n**INSTALL BSP FILE:**\r\n\r\n**BSP directory:** C:\\Program Files\\Steam\\steamapps\\USERNAME\\counter-strike source\\cstrike\\maps\r\n\r\n\r\n**USE VMF FILE:**\r\n\r\nJust put the \"detailed_stairway.vmf\" file in a desired place of you computer, and then open the file with Valve Hammer Editor by clicking on \"File -> Open\" and search for the file.\r\nTo use the prefab on your map just select the stairs with the \"Selection Tool\" (red arrow),copy\r\nand paste in your map, and then place the prefab wherever you want.\r\n\r\n\r\nThank you for downloading the file.\r\n_Don't forget to rate the prefab and credit me if you release any of your map with my prefab!_\r\n\r\n\r\n\r\n**Alberto309**"
+}

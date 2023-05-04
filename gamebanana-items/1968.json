@@ -1,0 +1,35 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "koth_test.bsp",
+					"1": "koth_test.vmf",
+					"materials": {
+						"fibbs": [
+							"numbers.vmt",
+							"numbers.vtf"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 46289,
+			"_nDownloadCount": 503,
+			"_nFilesize": 163049,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/46289",
+			"_sFile": "koth.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1286072578
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 1968,
+	"_sName": "King of the Hill/Control Point",
+	"_sText": "<big>King of the Hill/Control Point gamemode base</big>\r\n\r\nI think this has been done before but I haven't seen a prefab for it. The basic King of the Hill idea is easy to implement so I guess this is more about the visual aspect of it. Intended to be an addition to a map as it strips your current weapons and gives you a knife and a P228. Will work fine as it is, though.\r\n\r\n<big>How (and what) to use:</big><br>\r\n<b><font color=\"#FF4444\">Important! Read this!</font></b>\r\n\r\n- In the middle you have <u>two</u> triggers, the filters for the triggers and the hill. The triggers and filters are essential, you can make your own hill though. If you already have team filters in the map, you can use those just fine, but remember to update the names in the triggers.\r\n\r\n- The trigger covering the spawns gives you your weapons and <b>sets your health to 500</b>. To change the amount of health, go into the outputs and change <b>health 500</b> in the line <b>OnTrigger, !activator, AddOutput, health 500</b> to the amount of health you want. I increased the health as it is too easy to kill people with default health, so people would drop like flies off the hill/control point. To change the weapons given, change the values in the game\\_player\\_equip.\r\nYou will need the trigger, player\\_weaponstrip, game\\_player\\_equip and filter\\_activator\\_name from here. Have the trigger covering the spawn, or the whole map. It will only trigger once as it filters them by name and their names get changed when they enter the filter. It essentially does what the game\\_player\\_equip would do without the \"Use Only\" flag.\r\n\r\n- You will need the logic_auto to reset player names and the timer brushes on new rounds. If you have a logic\\_auto in your map already, copy and paste the outputs in this logic\\_auto into yours and delete this one.\r\n\r\n- There are trigger\\_hurts filtered for each team on each side of the hill. Cover your map with these if you only want one hill, or if you want the round to end by killing the other team. You can always delete these trigger_hurts and have it end another way or even enable another control point/hill. The entities that control the ending are <b>digit\\_relay</b> and <b>t\\_digit\\_relay</b> <u>OR</u> <b>timer\\_path2</b> and <b>t\\_timer\\_path2</b> if you use the bar timer. If you want to enable another hill or whatever you want, <u>you will need to use these entities</u>. Simply add the output to what you want to do from these.\r\n\r\n- Lastly, <b>choose a visual timer</b>.\r\n\r\nFor the bar you can just copy and paste it. It should be fine whatever you do with it, but remember that func\\_tracktrains should be built facing the east (to the right in your top view).\r\n\r\nFor the number timers and the clock, <b>you <u>need</u> the logic\\_timer, both math\\_counters and both logic\\_relays</b>. For the lower, digital-looking timer you need <b>both logic\\_compare entities</b> that are in front of it. For the higher, texture-based timer you need <b>both env\\_texturetoggle entities</b> that are also in front of it. You will also need to install the texture provided to see the texture-based timer.\r\n\r\nIf you used the texture-based number counter you can delete the outputs <b>OutValue, digit(2)\\_case, InValue</b> on the math\\_counters. If you used the digital numbers you can delete the outputs <b>OutValue, digit(1/2)\\_tt, SetTextureIndex</b> on the counters.\r\n\r\n<b><font color=\"#FF4444\">You only need the materials folder if you use the texture-based number counter.</font></b>\r\n\r\n<big>Changing the Time:</big>\r\n\r\n- For the bar timer (at the top), you need to set the <b>Max Speed</b> of both func\\_tracktrains to <b>the distance in units (eg 128) divided by the number of seconds (eg 60)</b> (128/60 = 2.13333). So if you want the time to be 35 seconds and you want the bar to move 512 units you would set the Max Speed to 14.629 (rounded up) (512/35=14.6285...)\r\n\r\n- For the clock timer, you need to set the <b>Max Rotation Speed</b> to <b>360 divided by the number of seconds</b>. For example, if you wanted the timer to go for 99 seconds you would set it to 3.636 (360/99=3.636363...)\r\n\r\n- For the number timers, you simply set the initial value of the math_counters. For example, to set the time to 15 seconds change <b>digit1\\_counter</b> to <b>5</b> and <b>digit2\\_counter</b> to <b>1</b>. Do the same with the \"t\\_\" ones (the terrorist team's counters).\r\n\r\n\r\n\r\n<center><b>Preview Video:</b>\r\n\r\n<object width=\"500\" height=\"290\"><embed src=\"http://media.xfire.com/swf/embedplayer.swf\" type=\"application/x-shockwave-flash\" allowscriptaccess=\"always\" allowfullscreen=\"true\" width=\"500\" height=\"290\" flashvars=\"videoid=37a479\"></embed></object>\r\n\r\n<a href=\"http://Fibbs.net/mapping/koth.zip\"><big>Download Mirror</big></a></center>\r\n<hr>\r\n<font color=\"#00aaff\"><b>Notes:</b></font><br>\r\nFor some reason the texture-based timer gets set to 05 after the time's up. I don't know what's causing this at the moment.\r\n\r\nI'm aware that the number timers seem to lag behind when going in and out of the trigger, but I believe this is because the logic\\_timer needs to get from 0 to 1 to add to the counters again as it gets reset when disabled, instead of carrying on where it left off (at least I think that's the problem). Anyway, this isn't a problem if you aren't using them with the clock or bar at the same time.)\r\n\r\nIf I get a few requests to add a third number to the number counters I will do so and update the prefab.\r\n\r\nIf used please credit me in some way, although it is not necessary.\r\n\r\nIgnore the middle counter in the video. I was trying to use env\\_globals to keep track of team wins but they don't seem to work after the update (or at least the counter functions available in other orangebox games hasn't been added).\r\n\r\n<b>An explanation of how the digital number timer works can be found <a href=\"http://www.fpsbanana.com/prefabs/3981\">here</a>. Although, this does not cover the logic\\_relays used a clamp and to detect when it has reached 00.</b>"
+}

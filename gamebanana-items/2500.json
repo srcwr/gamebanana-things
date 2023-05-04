@@ -1,0 +1,50 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "A_Hut.vmf",
+					"materials": {
+						"CHINESETEXTURES": [
+							"CHINESEROOF01.vmt"
+						],
+						"ChineseTextures": [
+							"chineseroof01.vtf"
+						],
+						"REALWORLDTEXTURES": {
+							"NEWER": {
+								"1": [
+									"WOOD_1_03.vmt"
+								]
+							}
+						},
+						"RealWorldTextures": {
+							"Newer": {
+								"1": [
+									"Wood_1_03.vtf"
+								]
+							}
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 45910,
+			"_nDownloadCount": 1080,
+			"_nFilesize": 411227,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/45910",
+			"_sFile": "a_hut.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1321212532
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2500,
+	"_sName": "2 Wooden Huts",
+	"_sText": "These are 2 wooden huts with a straw roof\r\nYou can use these as decoration for your map, or as supply hut for something or anything you can come up with\r\n\r\n\r\ntextures included"
+}

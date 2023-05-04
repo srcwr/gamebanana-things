@@ -1,0 +1,56 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_battlebridge nav readme.txt",
+					"de_battlebridge.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 1440,
+			"_nDownloadCount": 450,
+			"_nFilesize": 154355,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1440",
+			"_sFile": "nav_de_battlebridge_b38f5.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1467570735
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Total improvement of comlete Navigation Mesh"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Update 2",
+			"_tsDateAdded": 1493644037
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Improved bot's movement through all stairways"
+				},
+				{
+					"cat": "-",
+					"text": "Some other minor changes"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Update 1",
+			"_tsDateAdded": 1469122651
+		}
+	],
+	"_idRow": 34897,
+	"_sName": "Hand-tuned NAV for map DE_BATTLEBRIDGE",
+	"_sText": "Counter-Strike: Source : Bot's Navigation file for the map DE_BATTLEBRIDGE<br><br>Nav Creator: Meurglis3,&nbsp;Release Date: July 3 2016<br><br>Here is the Navigation Mesh for amazing medieval architecture themed map <a href=\"http://gamebanana.com/maps/147319\">de_battlebridge</a> by Labmonkey / Bo Laugesen (relesed October 2010).&nbsp;It's fully created from scratch and carefully hand-tuned (manually optimized) .nav-file because original mapauthor's nav-file was not perfect.<br><br>More than a half of all auto-generated areas were remade manually. The special attention was paid to all numerous stairways.<br><br>Well... bots use all possible ways now and perfectly navigate with all map. Now they are fast, as swift as any arrow! :-)<br><br>Also this Navigation Mesh is fully Place Painted (more detailed and more suitable to environment than in original).<br><br>NOTE: For possibility of comparison and in-game testing the original navigation file by map creator available to downloading with the <a href=\"http://gamebanana.com/maps/147319\">same map</a>.<br><br>Play and Enjoy! Also your responses for me are still important ;-)<br><br>Credits and Gratitudes:&nbsp; &nbsp;Labmonkey / Bo Laugesen (for castle-themed map)Additional Gratitudes:&nbsp; &nbsp;BarnDoor (for perfect playable navigation meshes for many fine CS:S maps),&nbsp; &nbsp;Chizbone (for informative and clever article BOT_BRAINED and a set of excellent navigation meshes),&nbsp; &nbsp;CoCoNUT (for fine hand-tuned navigation meshes for many fine CS:S maps),&nbsp; &nbsp;Valve Developer Community (for learning articles by Navigation Meshes and Navigation Mesh Commands).<br><br>One touch to the chapel door, how swiftly comes the arrow... ;-)"
+}

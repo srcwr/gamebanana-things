@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"Barcode.vmf",
+					"Installation.txt"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 45968,
+			"_nDownloadCount": 267,
+			"_nFilesize": 6181,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/45968",
+			"_sFile": "_241-.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1314112302
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2024,
+	"_sName": "Bar code",
+	"_sText": "It is also a codebar to access to the armoury from the noob part. A code bar is a number in binary, that you must change to decimal (There are many websites where you can do the change like http://www.disfrutalasmatematicas.com/numeros/binario-decimal-hexadecimal-conversor.html), BUT YOU SHOULD HAVE IN MIND THAT LOGIC COMPARES MAKE YOU SWAP NUMBERS IN THE OTHER WAY(this is because of logic compare). Ex: 1369 is the code bar, and the password is 9631. With this system there are 8191 different passwords, so anyone can enter if they don't know this ;)\r\n\r\n\r\nYou can check it on my surf map: http://www.gamebanana.com/maps/159210"
+}

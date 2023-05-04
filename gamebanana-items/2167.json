@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"spawn_room.vmf"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 44396,
+			"_nDownloadCount": 73,
+			"_nFilesize": 2415,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/44396",
+			"_sFile": "spawn_room.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1500381686
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2167,
+	"_sName": "multiplayer roundless spawn room",
+	"_sText": "a spawn room for multiplayer roundless gamemodes, such as bhop, kz, xc, mg courses etc.<br><br>intended for gamemodes with no player collisions.<br><br>it contains 50 ct spawns in a black room, and instantly teleports the player to the <i>tele1</i> teleport destination. which is supposed to be the first stage of your map.<br><br>the prefab exists so you don't have to stack so many spawn points in your map's first stage, mapping is cleaner this way."
+}

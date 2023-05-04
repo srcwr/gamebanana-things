@@ -1,0 +1,33 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"2012-12-01_00002.jpg",
+					"2012-12-01_00003.jpg",
+					"func_physics.bmp",
+					"prefab_camera_view_vehicle.bsp",
+					"prefab_camera_view_vehicle.jpg",
+					"prefab_camera_view_vehicle.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 45546,
+			"_nDownloadCount": 548,
+			"_nFilesize": 1039544,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/45546",
+			"_sFile": "prefab_camera_view_vehicle.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1354355862
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2759,
+	"_sName": "prefab_camera_view_vehicle",
+	"_sText": "This setup works for 15 vehicle, because I use logic_timer and trigger_teleport it will be more fps / in. This setting is for the camera view, I have not updated my maps with this setting yet. This is the simple version of how to make the camera view vehicles without crashes server. I have not added sound or smoke, to make it simple for you.\r\n\r\nIf you do not understand something let me know and I'll help you.\r\n\r\nhave fun"
+}

@@ -1,0 +1,84 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "biglaser_bms.bsp",
+					"1": "biglaser_bms.vmf",
+					"materials": {
+						"detail": [
+							"bm_metal_detail_01.vtf"
+						],
+						"models": {
+							"props_am": [
+								"am_ams_lightwarp.vtf",
+								"am_ams_phongwarp.vtf"
+							],
+							"props_lambda": [
+								"lambda_door.vmt",
+								"lambda_door.vtf",
+								"lambda_door_destroyed.vmt",
+								"lambda_door_destroyed.vtf",
+								"lambda_door_normal.vtf"
+							],
+							"props_questionableethics": [
+								"qe_primarylaser.vmt",
+								"qe_primarylaser.vtf",
+								"qe_primarylaser_normal.vtf",
+								"qe_primarylasersupport.vmt",
+								"qe_primarylasersupport.vtf"
+							]
+						}
+					},
+					"models": {
+						"props_lambda": [
+							"lambda_door.dx80.vtx",
+							"lambda_door.dx90.vtx",
+							"lambda_door.mdl",
+							"lambda_door.phy",
+							"lambda_door.sw.vtx",
+							"lambda_door.vvd",
+							"lambda_door_destroyed.dx80.vtx",
+							"lambda_door_destroyed.dx90.vtx",
+							"lambda_door_destroyed.mdl",
+							"lambda_door_destroyed.phy",
+							"lambda_door_destroyed.sw.vtx",
+							"lambda_door_destroyed.vvd"
+						],
+						"props_questionableethics": [
+							"qe_primarylaser.dx80.vtx",
+							"qe_primarylaser.dx90.vtx",
+							"qe_primarylaser.mdl",
+							"qe_primarylaser.phy",
+							"qe_primarylaser.sw.vtx",
+							"qe_primarylaser.vvd",
+							"qe_primarylasersupport.dx80.vtx",
+							"qe_primarylasersupport.dx90.vtx",
+							"qe_primarylasersupport.mdl",
+							"qe_primarylasersupport.phy",
+							"qe_primarylasersupport.sw.vtx",
+							"qe_primarylasersupport.vvd"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 45094,
+			"_nDownloadCount": 315,
+			"_nFilesize": 8504826,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/45094",
+			"_sFile": "biglaser_bms.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1395947385
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2128,
+	"_sName": "Biglaser and door from BMS",
+	"_sText": "------------------\r\n4 models from BMS:<br>\r\n<br>\r\nqe primarylaser.mdl<br>\r\nqe primarylasersupport.mdl<br>\r\nlambda door.mdl<br>\r\nlambda door destroyed.mdl<br>\r\n<br>\r\n\r\n------------------\r\nLogic of switching of door models:<br>\r\n<br>\r\n\"logic auto\" -> \"prop dynamic\" (destroyed door) -> \"OnMapSpawn\" \"TurnOff\"<br>\r\n<br>\r\n\"func button\" -> \"OnPressed\" destroyed door \"TurnOn\" and normal door \"kill\"<br>"
+}

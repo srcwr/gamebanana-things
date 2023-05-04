@@ -1,0 +1,53 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"Map file": [
+						"king_of_the_hill_prefab.bsp"
+					],
+					"materials": {
+						"customdev": [
+							"dev_measuregeneric01blu.vmt",
+							"dev_measuregeneric01blu.vtf",
+							"dev_measuregeneric01red.vmt",
+							"dev_measuregeneric01red.vtf",
+							"dev_measurewall01blu.vmt",
+							"dev_measurewall01blu.vtf",
+							"dev_measurewall01red.vmt",
+							"dev_measurewall01red.vtf"
+						]
+					},
+					"prefab vmf": [
+						"king_of_the_hill_prefab.vmf"
+					],
+					"sound": {
+						"king_of_the_hill": [
+							"ct_enable_new.wav",
+							"ct_win.wav",
+							"t_enable_new.wav",
+							"t_win.wav"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 45290,
+			"_nDownloadCount": 407,
+			"_nFilesize": 1018110,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/45290",
+			"_sFile": "king_of_the_hill_prefab.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1378818729
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 3326,
+	"_sName": "King Of The Hill",
+	"_sText": "King of the Hill prefab.\r\n\r\nKing of the hill is a game type where the teams must hold a certain point on the map for a set time (default on this prefab is 3:00 minutes). If the defending team is pushed off the \"hill\" their timer stops and the attackers timer starts. First team whose timer hits the goal wins the round.\r\n\r\nI have added custom sounds for each team and have grouped each scoreboard separatly. If you want more than 1 scoreboard for each team around, simply duplicate the board and brushes (NOT THE ENTITIES ATTACHED TO THEM)."
+}

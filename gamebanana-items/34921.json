@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"cs_launch_v1 nav readme.txt",
+					"cs_launch_v1.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 311,
+			"_nDownloadCount": 346,
+			"_nFilesize": 1331201,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/311",
+			"_sFile": "nav_cs_launch_v1.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1500996348
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 34921,
+	"_sName": "Hand-tuned NAV for map CS_LAUNCH_V1",
+	"_sText": "Counter-Strike: Source : Bot's Navigation Mesh for the map CS_LAUNCH_V1<br><br>Nav Creator: Meurglis3, Release Date: December 20 2013<br><br>Here is the Navigation Mesh for awesome assault-themed map <a href=\"http://gamebanana.com/maps/15869\">cs_launch_v1</a> by {MOUF}MarshaLL / Keith M. Stephens (released September 2006). It's an almost fully created from scratch and totally hand-tuned .nav-file ('cause in original map author's .bsp-file was embedded a simple auto-gen).<br><br>Most areas were tuned manually (also some paths were created from scratch) because during an auto-generation processing the majority of them were constructed incorrectly or incomplete. Some missed pathways were adjusted properly (in particular a ladders to the roof).<br><br>Now, after manually reworking of nearly 60% of an auto-generated Navigation Mesh, bots have opportunity to use almost all walkable ways and surely move on all extent of the map. And they are really ready to approach of winter... nuclear winter :D<br><br>Also this Navigation Mesh is fully Place Painted.<br><br>NOTE: For possibility of comparison and in-game testing the original navigation file by map creator available to downloading with the <a href=\"http://gamebanana.com/maps/15869\">same map</a>.<br><br>Well... play and enjoy! Also don't forget to write responses and remarks in essence ;-)<br><br>Credits and Gratitudes: {MOUF}MarshaLL (for high detailed, very realistic and combat-friendly map).<br><br>Additional Gratitudes: BarnDoor (for perfect playable navigation meshes for many fine CS:S maps), Chizbone (for informative and clever article BOT_BRAINED and a set of excellent navigation meshes), CoCoNUT (for fine hand-tuned navigation meshes for many fine CS:S maps), Valve Developer Community (for its learning articles by Navigation Meshes and Navigation Mesh Commands).<br><br>Last training day before the apocalypse :-)"
+}

@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"linearcheckpointprefab.vmf"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 44704,
+			"_nDownloadCount": 271,
+			"_nFilesize": 16671,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/44704",
+			"_sFile": "linearcheckpointprefab.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1445483990
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2160,
+	"_sName": "LINEAR checkpoint system",
+	"_sText": "a linear checkpoint system that forces the player to visit all the checkpoints in order to progress.\r\n\r\nive put out 5 of the checkpoints in the prefab but to add more just copy paste the trigger and the filter and edit the values on the filter and the trigger.\r\n\r\nLets make a 6th checkpoint. \r\nCopy paste the trigger_multiple and the filter_activator_class onto a new platform. Open the **Trigger_multiple**, click and edit \"Filter Name\" write  **Filter_5** (this is to make sure that the player has allready been into checkpoint 5 before coming to this one, if he hasnt he cant activate this checkpoint. \r\n\r\nNow go to outputs, and edit the \"Classname 5\" into Classname 6. Now lets open the **Filter_Activator_class** here you have to just edit the number 5 to 6. so filter_5 into filter_6 and 5 into 6.\r\nAnd voila you have a new checkpoint.\r\n\r\nYou can make as many checkpoints as you want but ultimately you want these checkpoints to lead to something wich can be a trigger, a teleport, a push literally anything. \r\nIf you haven't caught on just yet, to do this you simply have to make the teleport/push/any kind of trigger and write the filter_6 (in this case) or whatever the filter_name of the last checkpoint you made is into the filter name.\r\n\r\nIt's important that you copy the filter_activator when using any kind of system with player interaction.\r\nEdit: **It's also very important that the FIRST checkpoint does NOT have any Filter Name on the trigger_multiple. Otherwise you can't get the first checkpoint.**\r\n\r\nNow lastly the reset button, this trigger sets the classname to default and resets all the checkpoints so make sure you put this in the start of your map a place where every player has to pass it. \r\n\r\nYou can also make sounds and other stuff that will ONLY play if the player is on the RIGHT checkpoint to do this simply put a \"On Start Touch - cmd - Command - play folder/sound.mp3\"\r\n\r\nthe \"cmd\" is a point_clientcommand entity that I have in this case called cmd, it's included in the VMF aswell, the folder/sound.mp3 has to be a folder inside the sounds folder in cstrike and the sound.mp3 would be the name of the sound.\r\n\r\nNow then, there is a lot of options when using this system, you can make the player go from A to B to C to D and then to the end or you can make the player go from A to B to \"END\" wich then will spawn player at C where he has to go to D and then to the \"END\" and then he will spawn at E and so forth. That is the kind of system I used in bhop_mindfk, the former where you go from A to B to C to E etc I used in bhop_stupid.\r\n\r\n\r\nAnd you can also use this sytem in normal bhop maps without these types of checkpoints, if you put a \"checkpoint\" at every level in your map and just remove the filter name from all the triggers you can make a pretty decent anti fallback and easy to trigger setup in your map. Ive used this kind of triggering in most of my maps."
+}

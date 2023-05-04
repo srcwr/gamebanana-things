@@ -1,0 +1,71 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "readme.txt",
+					"cstrike": {
+						"custom": {
+							"custom": [
+								"BotProfile.db"
+							]
+						}
+					}
+				},
+				"_sMimeType": "application/x-7z-compressed"
+			},
+			"_bContainsExe": false,
+			"_idRow": 458970,
+			"_nDownloadCount": 578,
+			"_nFilesize": 3751,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "Version 4 - Latest",
+			"_sDownloadUrl": "https://gamebanana.com/dl/458970",
+			"_sFile": "newbots4.7z",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1587636744
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Feature",
+					"text": "Added many new bots, including Cole, Russell, Simon, Larry, Raymond, Oscar and much more."
+				},
+				{
+					"cat": "Improvement",
+					"text": "Fixed high-difficulty bots have too much shooting delay."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Update 4 - Tons of new guys",
+			"_tsDateAdded": 1587636851
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Feature",
+					"text": "Added bot 'Max'"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed \"Abraham\", \"Richard\" and \"Sean\" not appearing in-game."
+				},
+				{
+					"cat": "Improvement",
+					"text": "Improved bots reaction"
+				}
+			],
+			"_sText": "Planned changes:<br><b>There'll be last names for bots too!</b><br>",
+			"_sTitle": "Update 3 - MARS Update",
+			"_tsDateAdded": 1586948356
+		}
+	],
+	"_idRow": 34608,
+	"_sName": "New Bot Names",
+	"_sText": "This will Replace the Old Ugly bot profile with a New and Better One!<br>Features:<br><b><br>* Many New Bots, Templates and Names.<br>* Updated Bot Difficulty<br>* New Bot Templates (Bots Use More Weapons.)</b><br><br>INSTALLATION:<br><br>Unpack the cstrike Folder in your CS:S Directory. (Where hl2.exe is Located.)<br><br>Enjoy and Don't Forget to <span class=\"PurpleColor\">Like</span>! <3"
+}

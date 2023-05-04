@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"cs_onslaught nav readme.txt",
+					"cs_onslaught.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 1174,
+			"_nDownloadCount": 326,
+			"_nFilesize": 66543,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1174",
+			"_sFile": "nav_cs_onslaught_.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1473356055
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 34905,
+	"_sName": "Hand-tuned NAV for map CS_ONSLAUGHT",
+	"_sText": "Counter-Strike: Source : Bot's Navigation Mesh for the map CS_ONSLAUGHTDAY<br><br>Nav Creator: Meurglis3,&nbsp;Release Date: September 08 2016<br><br>Here is the Navigation Mesh for fast paced urban-themed map <a href=\"http://gamebanana.com/maps/164402\">cs_onslaught</a>&nbsp;by neozyem (released March 2012).&nbsp;It's a fully reworked and manually optimized .nav-file (because in original author's BSP was embedded slightly edited auto-gen NAV).<br><br>Most areas and paths were remade manually and some additional paths were created from scratch. Some broken-off important pathways were restored. Also the set of other inaccuracies were corrected.<br><br>Also this Navigation Mesh was fully Place Painted (more detailed and pertinently than in the original nav-file).<br><br>Well... the bots have opportunity to use all walkable ways now. But unfortunately the hostages aren't capable to move through a ladder (Rear-Apartement) what limits a gameplay a little :-(<br><br>NOTE: For possibility of comparison and in-game testing the original navigation file by map creator embedded in .bsp and available to downloading with the <a href=\"http://gamebanana.com/maps/164402\">same map</a>.<br><br>Fight and Fun! Your responses and remarks are always welcomed :-)<br><br>Credits and Gratitudes:&nbsp; neozyem (for nice urban-themed map).<br><br>Additional Gratitudes:&nbsp; &nbsp;BarnDoor (for perfect playable navigation meshes for many fine CS:S maps),&nbsp; &nbsp;Chizbone (for informative and clever article BOT_BRAINED and a set of excellent navigation meshes),&nbsp; &nbsp;CoCoNUT (for fine hand-tuned navigation meshes for many fine CS:S maps),&nbsp; &nbsp;Valve Developer Community (for learning articles by Navigation Meshes and Navigation Mesh Commands).<br><br>Never Say Die!"
+}

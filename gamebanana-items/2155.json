@@ -1,0 +1,52 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"antipre.vmf"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 375425,
+			"_nDownloadCount": 92,
+			"_nFilesize": 1378,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/375425",
+			"_sFile": "antipre_73203.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1520420144
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "0.99 speed doesn't matter as you cant jump during antipre, updated sizes and settings for maximum reliability after like 3 years xd"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "NEW NEW settings",
+			"_tsDateAdded": 1520420232
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "new settings for good antipre"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "changed settings",
+			"_tsDateAdded": 1429540826
+		}
+	],
+	"_idRow": 2155,
+	"_sName": "Alternative Simple Anti Prespeed",
+	"_sText": "Similar idea to tony's antipre but without the use of gravity and different delays, jump is disabled for a short amount of time when hitting the trigger due to player_speedmod (there is no real noticable speed change)<br><br>Caveats:\r\nActs like a really delayed auto - holding space in the trigger will jump repeatedly but delayed so ultimately pointless.<br><br>Usage:<br><br>- copy the speedmod and trigger, and place triggers like shown<br><br>NEW VERSION WHICH IS MORE RELIABLE THANKS TO TONY FOR FINDING SETTINGS<br><br>UPDATE: I PUT IN RELIABLE SETTINGS AFTER LIKE 3 YEARS, THIS TIME ITS ACTUALLY USABLE.<br><br>NB: doesn't work on 66tick singleplayer, only tested on 100tick (probably works on higher tickrates too)."
+}

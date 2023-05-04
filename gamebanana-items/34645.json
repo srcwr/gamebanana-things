@@ -1,0 +1,64 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"weapon_ak47.txt",
+					"weapon_aug.txt",
+					"weapon_awp.txt",
+					"weapon_deagle.txt",
+					"weapon_elite.txt",
+					"weapon_famas.txt",
+					"weapon_fiveseven.txt",
+					"weapon_g3sg1.txt",
+					"weapon_galil.txt",
+					"weapon_glock.txt",
+					"weapon_knife.txt",
+					"weapon_m249.txt",
+					"weapon_m3.txt",
+					"weapon_m4a1.txt",
+					"weapon_mac10.txt",
+					"weapon_mp5navy.txt",
+					"weapon_p228.txt",
+					"weapon_p90.txt",
+					"weapon_scout.txt",
+					"weapon_sg550.txt",
+					"weapon_sg552.txt",
+					"weapon_tmp.txt",
+					"weapon_ump45.txt",
+					"weapon_usp.txt",
+					"weapon_xm1014.txt"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 3809,
+			"_nDownloadCount": 15973,
+			"_nFilesize": 27613,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/3809",
+			"_sFile": "weapon_ctx_files_f5388.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1316380136
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Added missing weapon_knife.txt script to the archive."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Updated archive.",
+			"_tsDateAdded": 1479770345
+		}
+	],
+	"_idRow": 34645,
+	"_sName": "9/15/2011 CS:S Weapon Scripts",
+	"_sText": "So on 9/15/2011, as you all know, Valve decided to release another update for CS:S. However, little did they know (or care for that matter) that their update messed up quite a few skins created by the community. The included files in this archive are all of the .CTX files as of 9/15/2011 converted into .TXT format. If you find yourself in need of a weapon script for a now-broken weapon skin or a newly created one, this archive has every weapon script you would actually need (rifles, SMG's, sniper rifles, pistols, machine gun). Just place them in: C:/.../Steam/Steamapps/your username/Counter-Strike Source/Cstrike/scripts/ if you find yourself in need of using them, or save them in another location so you have a reference file.\r\n<br>\r\n<br>I hope this helps everyone else as it has helped me. I spent a good 30 minutes raging at my computer trying to get everything working before taking a look through the game cache. &gt;.&gt;\r\n<br><br>**UPDATE:** It has come to my attention through various other people that have used this pack that there are skins that seem to be coming up left-handed after installing any of these scripts. Therefore, I will provide a bit more information about these script files and how to fix the left-handed issues.\r\n<br>\r\n<br>These script files are directly from the game cache itself, and because of this they are the DEFAULT settings for the weapons on CS:S. Because of these default settings, these skins that are affected now mirror themselves on the opposite side of the screen instead of being where they are supposed to be set.\r\n<br>\r\n<br>Because of the weapons being mirrored, and people that seem to be having troubles with this, there is an easy fix that you can do for yourself. Here is an example, directly from the weapon_awp script:\r\n<br>_______________________________________________________\r\n<br>WeaponData\r\n<br>{\r\n<br>\r\n<br>\"MaxPlayerSpeed\"\t\t\t\"210\"\r\n<br>\r\n<br>\"WeaponType\" \t\t\t\"SniperRifle\"\r\n<br>\r\n<br>\"FullAuto\"\t\t\t\t0\r\n<br>\r\n<br>\"WeaponPrice\"\t\t\t\"4750\"\r\n<br>\r\n<br>\"WeaponArmorRatio\"\t\t\"1.95\"\r\n<br>\r\n<br>\"CrosshairMinDistance\"\t\t\"8\"\r\n<br>\r\n<br>\"CrosshairDeltaDistance\"\t\"3\"\r\n<br>\r\n<br>\"Team\"\t\t\t\t\"ANY\"\r\n<br>\r\n<br>**\"BuiltRightHanded\"\t\t\"<b>0</b>\"**\r\n<br>\r\n<br>\"PlayerAnimationExtension\" \t\"awp\"\r\n<br>\r\n<br>\"MuzzleFlashScale\"\t\t\"1.35\"\r\n<br>_______________________________________________________\r\n<br>Take notice of the bold text within the above example. That is the default setting for any weapon_* script. Just change the \"0\" to a \"1\" for the skin in question that is on the wrong side of the screen, and you should be good to go.<br><br>"
+}

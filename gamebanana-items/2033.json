@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"mphops_prespeed_prevent_prefab.bsp",
+					"mphops_prespeed_prevent_prefab.vmf"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 45940,
+			"_nDownloadCount": 863,
+			"_nFilesize": 553199,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/45940",
+			"_sFile": "prefab_no_prespeed.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1317585804
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2033,
+	"_sName": "Anti-prespeed mp bhops",
+	"_sText": "Entity system to prevent prespeed grinding in bhop maps.  It is very heavy on entities.  Prefab contains sections from kz bhop yonkoma as example on how it can be used (bhop, climb, ladders, wj, lj)."
+}

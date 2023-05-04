@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"BeachVolleyBallPrefab.vmf",
+					"Installation.txt"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 45938,
+			"_nDownloadCount": 638,
+			"_nFilesize": 17481,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/45938",
+			"_sFile": "beachvolleyballprefab.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1318274321
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 3315,
+	"_sName": "Volleyball Mode Prefab",
+	"_sText": "Prefab made by ]ES[ Church Xx ]GaD[\r\n\r\nTo install extract the map to your mapsrc folder in source sdk content\r\n\r\n\r\nTo put it your map...\r\n\r\n****All of these are Important. Read before opening****\r\n\r\nMake the player clip in the middle divide the whole level by Ct's and T's (Resize it if your level is smaller or larger).\r\n\r\nThe Trigger blocks that cover the court are made to block the ball and not players from leaving the playing area. \r\n\r\nRemoving is simple. Just remove the both trigger walls and their filters on top of the scoreboard\r\n\r\nMake sure that the two triggers named hurtt and hurtct are placed and resized to their designated sides on the \r\n\r\nmap. \r\n\r\nMake any changes you would like to the design of the map, but do not change any features of the scoreboard or any \r\n\r\nof the triggers unless you are absolutely sure of what you are doing. Do not rename triggers or they WILL NOT WORK \r\n\r\nCORRECTLY\r\n\r\n\r\nI hope you guys can make some pretty cool maps with this design... My test design for this gameplay was named \r\n\r\nmg_BeachVolleyBall however this is a much more simple formulation for the game mode. Check it out and write on my \r\n\r\nprofile if you have any questions on Gamebanana.com; My name is IChurchXxI.\r\n\r\nENJOY EVERYONE\r\n\r\nMake some maps guys!"
+}

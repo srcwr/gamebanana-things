@@ -1,0 +1,45 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_damaged_beta nav readme.txt",
+					"de_damaged_beta.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 1827,
+			"_nDownloadCount": 476,
+			"_nFilesize": 146561,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1827",
+			"_sFile": "nav_de_damaged_beta_9773e.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1447331820
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Improved bot's movement through all stairways"
+				},
+				{
+					"cat": "-",
+					"text": "Some other minor changes"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Update 1",
+			"_tsDateAdded": 1491847017
+		}
+	],
+	"_idRow": 34892,
+	"_sName": "Hand-tuned NAV for map DE_DAMAGED_BETA",
+	"_sText": "Counter-Strike: Source : Bot's Navigation file for the map DE_DAMAGED_BETA<br><br>Nav Creator: Meurglis3,&nbsp;Release Date: November 12 2015<br><br>Here is the Navigation Mesh for nice old school map <a href=\"http://css.gamebanana.com/maps/26949\">de_damaged_beta</a> by Unslord / Gary Hwang (relesed June 2007).<br><br>It's fully created from scratch and carefully hand-tuned (manually optimized) .nav-file because included in original map archive .nav-file was simple auto-gen (absolutely not playable, imho).<br><br>Approximately 90% of the all auto-generated areas were remade manually. The special attention was paid to difficult complex of vertical pathways at Bombsite B (which in the original file was missed completely).<br><br>Well... bots use all possible ways now and perfectly moves through all map. So you won't find a silent corner where they wouldn't stick the curious noses! :-)<br><br>Also this Navigation Mesh is fully Place Painted.<br><br>NOTE: For possibility of comparison and in-game testing the original .nav-file by map creator available to downloading with the <a href=\"http://css.gamebanana.com/maps/26949\">same map</a>.<br><br>Play and Enjoy! Also your responses are still important for me ;-)<br><br>Credits and Gratitudes: Unslord (for fine and fun underground-styled map)<br><br>Additional Gratitudes: BarnDoor (for perfect playable navigation meshes for many fine CS:S maps), Chizbone (for informative and clever article BOT_BRAINED and a set of excellent navigation meshes), CoCoNUT (for fine hand-tuned navigation meshes for many fine CS:S maps), Valve Developer Community (for learning articles by Navigation Meshes and Navigation Mesh Commands).<br><br>When the levee breaks I'll have no place to stay :-)"
+}

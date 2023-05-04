@@ -1,0 +1,40 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"grenade_spawner": {
+						"sourcesdk": {
+							"bin": {
+								"orangebox": {
+									"bin": {
+										"prefabs": [
+											"grenade_spawner_by_ak.vmf"
+										]
+									}
+								}
+							}
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 45834,
+			"_nDownloadCount": 657,
+			"_nFilesize": 4232,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/45834",
+			"_sFile": "grenade_spawner_3.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1327511308
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 3061,
+	"_sName": "grenade spawner",
+	"_sText": "this grenade spawner give to the player HE, smoke and flashbang. When the player press the button, a red glow appear and if he press a second time when the button is locked, a sound is played. \r\n\r\n    Sorry for my bad english :("
+}

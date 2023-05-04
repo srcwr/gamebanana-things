@@ -1,0 +1,42 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_severance nav readme.txt",
+					"de_severance.nav"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 362625,
+			"_nDownloadCount": 156,
+			"_nFilesize": 49568,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/362625",
+			"_sFile": "nav_de_severance_52cb5.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1510168610
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Improvement",
+					"text": "Improved bot's movements around the pool."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Update 1",
+			"_tsDateAdded": 1510168672
+		}
+	],
+	"_idRow": 34795,
+	"_sName": "Hand-tuned NAV for map DE_SEVERANCE",
+	"_sText": "Counter-Strike: Source : Bot's Navigation Mesh for the map DE_SEVERANCE<br><br>Nav Creator: Meurglis3, Release Date: January 1 2014<br><br>Here is the Navigation Mesh for variously designed and fine balanced map <a href=\"http://css.gamebanana.com/maps/149142\">de_severance</a> by wostok / WeserGold (released November 2010). It's a completely hand-made and carefully optimized .nav-file (because in original author's release the .nav-file probably was simple auto-gen).<br><br>This Navigation Mesh was created from scratch approximately for 80% and the most part of areas was recustomized manually because in auto-generated Navigation Mesh some pathways and areas were constructed incorrectly (paths throug tht most doorways) or were missed (for example the path through a ventilating course to the pool). The special attention should be paid to both bombsites in a type of complexity of movements: on the broken planes (Bombsite A) and about/in the pool (BombsiteB).<br><br>Well... bots freely move through all walkable areas of the map now. I hope that fresh style of an fighting with bots on this beautiful map will give you pleasure ;-)<br><br>Also this Navigation Mesh is fully Place Painted.<br><br>NOTE: For possibility of comparison and in-game testing the original navigation file by map creator included in original archive and available to downloading with the <a href=\"http://css.gamebanana.com/maps/149142\">same map</a>.<br><br>Play and Enjoy!<br><br>Credits and Gratitudes: wostok (for this fascinating and balanced map, also for his other nice maps).\r\n<br>\r\n<br>Additional Gratitudes: BarnDoor (for perfect playable navigation meshes for many fine CS:S maps), Chizbone (for informative and clever article BOT_BRAINED and a set of excellent navigation meshes), CoCoNUT (for fine hand-tuned navigation meshes for many fine CS:S maps), Valve Developer Community (for learning articles by Navigation Meshes and Navigation Mesh Commands).<br><br>Enjoy with this Real Adventure... Malice in Wonderland  :D"
+}

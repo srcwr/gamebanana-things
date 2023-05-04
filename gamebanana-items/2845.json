@@ -1,0 +1,69 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "mirrorsedge_elevator.vmf",
+					"required textures (put in regular cstrike folder)": {
+						"materials": {
+							"mirrorsedge": [
+								"BLUE.vmt",
+								"GRAY.vmt",
+								"LIGHTGREEN.vmt",
+								"LiftButton.vmt",
+								"LiftButton.vtf",
+								"blue.vtf",
+								"blue_brick.vmt",
+								"blue_carpet.vmt",
+								"blue_carpet.vtf",
+								"brick_bump2.vtf",
+								"brushedmetal_bump.vtf",
+								"brushedmetal_white.vmt",
+								"gray.vtf",
+								"gray_brick.vmt",
+								"lightgreen.vtf",
+								"lightgreen_brick.vmt",
+								"lightgreen_carpet.vmt",
+								"lightgreen_carpet.vtf"
+							],
+							"mirrorsedge2": [
+								"dailycity.vmt",
+								"dailycity.vtf",
+								"dailycity_scroll.vmt",
+								"dailycity_scroll.vtf"
+							],
+							"mrs": [
+								"LIFTGREENLEFT.vmt",
+								"LIFTGREENLEFT.vtf",
+								"LIFTGREENLEFT_NORMAL.vtf",
+								"LIFTGREENMIDDLE.vmt",
+								"LIFTGREENMIDDLE.vtf",
+								"LIFTGREENMIDDLE_NORMAL.vtf",
+								"LIFTGREENRIGHT.vmt",
+								"LIFTGREENRIGHT.vtf",
+								"LIFTGREENRIGHT_NORMAL.vtf"
+							]
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 45752,
+			"_nDownloadCount": 1638,
+			"_nFilesize": 834025,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/45752",
+			"_sFile": "mirrorsedge_elevator.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1336169983
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2845,
+	"_sName": "Mirror's Edge Elevator",
+	"_sText": "A look alike of the elevator in Mirror's Edge for CS:S!\r\nI made the Daily City scrolling Information board myself.\r\n(It only goes from the bottom floor to the top.)\r\n\r\n\r\n**If you need to adjust how far it goes up, all you need to do is change the \"Move Distance\" property of the elevator to the number of units from floor to floor.** \r\n\r\nFeel free to use but please **CREDIT ME** if you publish a map using this."
+}

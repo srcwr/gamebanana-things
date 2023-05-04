@@ -1,0 +1,32 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"explosion": [
+						"ReadMe.txt",
+						"explosion.bsp",
+						"explosion.vmf"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 45793,
+			"_nDownloadCount": 461,
+			"_nFilesize": 47551,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/45793",
+			"_sFile": "explosion.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1333381735
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2068,
+	"_sName": "Demolition of a wall + respawn",
+	"_sText": "I just built a small room with 4 explosive barrels, which can only be blown up with the detonator button. These barrels will blow a hole in the wall to the second room.\r\nI added some sparks to the wire for a better look.\r\n\r\nThe clue is that the wall and the barrels are respawning after about 15 seconds. After that time it can be activated again.\r\n\r\nI just made this for a friend because he wanted to know how to handle respawning func_breakables and stuff... and i decided to share it with everyone :)\r\n\r\nYou can take a look here how respawning things work.\r\n\r\nI hope this will help some mappers :)\r\n\r\nPlease subscribe :)\r\n\r\nDotty"
+}

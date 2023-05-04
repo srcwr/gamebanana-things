@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"Radio_Mast_prefab.vmf"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 45826,
+			"_nDownloadCount": 1029,
+			"_nFilesize": 23910,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/45826",
+			"_sFile": "radio_mast_prefab.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1329080531
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2509,
+	"_sName": "Destructible Radio Mast",
+	"_sText": "<center><h1>Destructible Radio Mast</h1><h2>Made by The Giblets of Jesus<h2></center><dt>Info</dt>A simple radio mast that once triggered, will seperate into different parts and fly away from each-other, probably best suited to a bomb-site for De_ maps.\r\n\r\nEach part of the prefab is func_detailed and fully optimized. The sequence for destruction can be triggered by shooting the concrete base of the mast, so if you want to have it triggered some other way, just take all the outputs out from the base and put them into the entity of your choice.\r\n\r\nIf you have any trouble getting this to work, just leave a comment and I'll do my best to get back to you  about it as soon as possible.<dt>Video</dt><br><iframe width=\"420\" height=\"315\" src=\"http://www.youtube.com/embed/p8EIX27UPlA\" frameborder=\"0\" allowfullscreen></iframe>\r\n\r\n<h2>NOTE</h2>Currently the wires that get detached when the sequence is triggered don't re-attach themselves when a new round is started, if someone could tell me anything that would help resolve this, I'd love to know.\r\n\r\nIf you do decide to use this prefab in one of your maps, I'd like to be credited as appropriate and while not required, it'd be nice to be told so I could see how people have used it."
+}

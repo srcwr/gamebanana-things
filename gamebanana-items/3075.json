@@ -1,0 +1,37 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"MkZk AGL v1": [
+						"MkZk_agl_v1.vmf",
+						"README.txt",
+						"mkzk_agl_v1_testmap.bsp",
+						"screenshot0001.jpg",
+						"screenshot0002.jpg",
+						"screenshot0003.jpg",
+						"screenshot0004.jpg"
+					]
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 441147,
+			"_nDownloadCount": 132,
+			"_nFilesize": 801127,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/441147",
+			"_sFile": "mkzk_agl_v1.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1575729525
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 3075,
+	"_sName": "Automatic Grenade Launcher",
+	"_sText": "Automatic Grenade Launcher<br><br>Rate of fire around 250rpm on fullauto, up to 1000rpm on semi.<br>Limited range, can be used as mortar for indirect fire.<br>Rotates full 360°.<br><br>The RAR includes a playable testmap and the vmf-file for Hammer.<br><br>-Open the VMF in Hammer.<br>-Copy the AGL and paste it into your map.<br><br>You can put it in a static place in your map or ungroup and parent its base to a moving object.<br><br>Works just fine mounted on trucks, trains, cars etc.<br><br>(Unfortunately it gets messed up when rotated in Hammer)<br><br>Ingame:<br>Press E on the grips.<br>Press A,W,S,D to control.<br>Left mouse to fire.<br>Right mouse to detonate grenades midair.<br>Press E again to leave it.<br><br>Based on machine gun turrent_2 made by IKKillMe&nbsp;<br><br>"
+}

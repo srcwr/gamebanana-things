@@ -1,0 +1,47 @@
+{
+	"_aAlternateFileSources": [
+		{
+			"description": "From MediaFire",
+			"url": "http://www.mediafire.com/file/isg8h039uw9eswj/C4_Explosion_Fix.7z"
+		}
+	],
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "Capt.jpg",
+					"1": "Drag 'Materials' Folder to Cstrike-Custom-CYKAFOLDER-HERE.txt",
+					"Comparison": [
+						"Correct1.jpg",
+						"Correct2.jpg",
+						"Wrong1.jpg",
+						"Wrong2.jpg"
+					],
+					"Materials": {
+						"Particle": [
+							"particle_glow_05_add_15ob_noz.vmt",
+							"warp3_warp_noz.vmt",
+							"warp4_warp_noz.vmt"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 883,
+			"_nDownloadCount": 274,
+			"_nFilesize": 1450077,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/883",
+			"_sFile": "c4_explosion_fix.7z",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1481005954
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 34715,
+	"_sName": "C4 Explosion Fix!",
+	"_sText": "Just a Little Fix on C4 Explosion that Blur and Boom Light appears through brushes (Walls and Object)<br><br>All i did is change the<br><br>&nbsp;<code>\"$ignorez\" \"1\"</code><br><br>to<br><br>&nbsp;<code>\"$ignorez\" \"0\"</code><br><br>That's that..<br><hr>Here's the video :<br>(Forgive me for my FPS though...)<br><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/AhHIO_oFh30\" frameborder=\"0\" allowfullscreen=\"\"></iframe><br><br><br><br>"
+}

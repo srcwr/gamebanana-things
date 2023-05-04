@@ -1,0 +1,32 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"better_fire_prefab": [
+						"ReadME.txt",
+						"better_fire_prefab.bsp",
+						"better_fire_prefab.vmf"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 45135,
+			"_nDownloadCount": 871,
+			"_nFilesize": 53486,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/45135",
+			"_sFile": "better_fire_prefab.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1392373289
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 3298,
+	"_sName": "Better Fire (env_fire)",
+	"_sText": "Hello everybody,\r\n\r\nA lot of people use torches or fires in their maps. These fires are often very basic and don't look very good. I wanted to show how a good flame can look like in Source.\r\n\r\nWith some simple entities you can create a much better effect.\r\n\r\nIn this prefab you can see two different fires. One is on a torch and the other on the ground.\r\nYou can toggle the light of the room to see the pure fire effect and you can also turn on and off the big fire.\r\n\r\nI hope this helps people to add more detail to their maps!\r\n\r\nIf this prefab helped you, I would be happy if you rate and comment it! :)\r\n\r\n\r\nDotty\r\n\r\nUsed entities:\r\n\r\n- [env_fire](https://developer.valvesoftware.com/wiki/Env_fire \"https://developer.valvesoftware.com/wiki/Env_fire\")\r\n\r\n- [env_smokestack](https://developer.valvesoftware.com/wiki/Env_smokestack \"https://developer.valvesoftware.com/wiki/Env_smokestack\")\r\n\r\n- [light](https://developer.valvesoftware.com/wiki/Light \"https://developer.valvesoftware.com/wiki/Light\")\r\n\r\n- [func_dustmotes](https://developer.valvesoftware.com/wiki/Func_dustmotes \"https://developer.valvesoftware.com/wiki/Func_dustmotes\")\r\n\r\n- [ambient_generic](https://developer.valvesoftware.com/wiki/Ambient_generic \"https://developer.valvesoftware.com/wiki/Ambient_generic\")"
+}

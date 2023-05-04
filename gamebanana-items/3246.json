@@ -1,0 +1,34 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"t_various_door_triggers": [
+						"Description of door triggers in map.txt",
+						"Installation tutorial.txt",
+						"t_various_door_triggers.bsp",
+						"t_various_door_triggers.txt",
+						"t_various_door_triggers.vmf"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 44940,
+			"_nDownloadCount": 528,
+			"_nFilesize": 206486,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/44940",
+			"_sFile": "t_various_door_triggers.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1416237047
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 3246,
+	"_sName": "Twelve Ways to Create Doors with Triggers vmf&bsp",
+	"_sText": "<b>Twelve ways in which a door can be constructed for maps using triggers</b><br>\r\n<br><b>1A Direct 'touch' activation</b><br>\r\nOne must make direct physical contact with the door to open/close it.\r\n<b><br><br>1B Direct 'use' activation</b><br>\r\nOne must press the designated 'use' key (E) to open/close the door.\r\n<b><br><br>2A External button activation</b><br>\r\nOne must press a button that is physically separate from the door.\r\n<b><br><br>2B Three-stage external button activation</b><br>\r\nOne must 'use' a multitude of physically separate buttons of differing functionalities.\r\n<b><br><br>3A Floor panel activation</b><br>\r\nOne must stand on a floor panel.  This could be disguised or obvious, right next to the door or somewhere far away. <b><br><br>3B Multiple outcome floor panel activation</b><br>\r\nOne must work out a correct sequence of floor panel activations in order to successfully open the door.  In this case there are three possibile sequences.\r\n<b><br><br>4A Environmental destruction activation</b><br>\r\nOne must destroy part of the environment.  In this case I have fashioned some sort of electric cable that 'shorts' out the door once destroyed/damaged.\r\n<b><br><br>4B Environmental destruction into external button activation</b><br>\r\nOne must destroy part of the enviornment to reveal a button/control panel to be pressed for the door to open/close at will.\r\n<b><br><br>5A Remote \"sensor\" activation</b><br>\r\nOne must be stood within a specific area of the map/floor.  This could well be invisible but I made it obvious where to stand to illustrate what is happening.\r\n<br><br><b>5B Confined \"sensor\" activation</b><br>\r\nOne must walk through a specific area or environmental construct to operate the door.  I've made something akin to a metal detector in this example.\r\n<b><br><br>6A Temporary weapon relinquish activation</b><br>\r\nOne must disarm themselves (usually the 'g' key) temporarily in order to open the door.  The weapon can be picked up again once the door opens.\r\n<b><br><br>6B Permanent weapon relinquish activation</b><br>\r\nOne must permanently disarm themselves.  The weapon can not be picked up again.<br>\r\n<br>I suggest you play the map through CS:S first to see how the doors will work ingame.  Then open the file in Hammer to reverse engineer whatever one(s) you want for your own map(s) by double-clicking on the entities involved.\r\nt_various_door_triggers.bsp and t_various_door_triggers.txt to be extracted to your cstrike/maps folder to playtest the map and experience the triggers first-hand.\r\nt_various_door_triggers.vmf to be opened through Valve Hammer Editor to see how I've rigged each door up to work.\r\nNo need to give me public credit if you end up using any of my methods.  It's not exactly rocket science, but I do hope this succinct method of illustrating a variety of door mechanisms through triggers can help expand your mapping capabilities and spice things up a bit.<br><br>"
+}

@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"Prevent_Bunnyhop_prefab.vmf"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 439895,
+			"_nDownloadCount": 35,
+			"_nFilesize": 16446,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/439895",
+			"_sFile": "prevent_bunnyhop_prefab.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1574718792
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2172,
+	"_sName": "Prevents Players from Bunnyhopping",
+	"_sText": "This prefab prevents players from bunnyhop.\r\neven works on a trikz map, deathrun map, kz map, bhop map, surf map, what ever you like. insert this if you don't want other players to jump through your map. i use this for my latest map as well.<br><br>Important Notes.<br>each section of the image is recommended for different maps you make. You can extend the triggers too but not the height. it must be at that height. only triggers you can change on and playerclip. you are not allowed to change filters and landmarks and point_teleports do not change the height of the ones it must be in that order. then just copy 2 point_teleport, filter_activator_name and then use any trigger section you think would fit into your map.&nbsp;<br><br>1. 2 each Point_teleporters<br><br>2. 1 each Filter_activator_name<br><br>3. 1 each landmarks<br><br>4. 1 each trigger sections.<br>"
+}

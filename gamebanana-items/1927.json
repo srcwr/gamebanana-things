@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"oneplayersoundtest.vmf"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 46460,
+			"_nDownloadCount": 423,
+			"_nFilesize": 2552,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/46460",
+			"_sFile": "oneplayersoundtest.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1271263045
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 1927,
+	"_sName": "Play Sound for only one Player",
+	"_sText": "Heya, so this is my first prefab\r\nI'm using this for like ages but now I wanted to share it because I got annoyed by players who abuse songs in your map.\r\nThis is VERY awesome for discos, because if someone wants to listen to a song he can press the button and ONLY he will hear it\r\nThere are CT Spawns aswell as T Spawns, the CT spawns are for bots, because they touch a trigger which will play the sound on spawn, the T has to press a button to start his sound."
+}

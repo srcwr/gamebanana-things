@@ -1,0 +1,91 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "Readme.txt",
+					"1": "yougio_phis.vmf",
+					"materials": {
+						"anim": [
+							"shini.vmt",
+							"shini.vtf",
+							"shini2.vmt",
+							"shini2.vtf"
+						],
+						"models": {
+							"yugo_model": [
+								"lack.vmt",
+								"lack.vtf",
+								"window.vmt",
+								"window.vtf",
+								"yugo_ref.vmt",
+								"yugo_ref.vtf"
+							]
+						}
+					},
+					"models": {
+						"yugo_model": [
+							"yugo_chair.dx80.vtx",
+							"yugo_chair.dx90.vtx",
+							"yugo_chair.mdl",
+							"yugo_chair.phy",
+							"yugo_chair.sw.vtx",
+							"yugo_chair.vvd",
+							"yugo_door.dx80.vtx",
+							"yugo_door.dx90.vtx",
+							"yugo_door.mdl",
+							"yugo_door.phy",
+							"yugo_door.sw.vtx",
+							"yugo_door.vvd",
+							"yugo_model1.dx80.vtx",
+							"yugo_model1.dx90.vtx",
+							"yugo_model1.mdl",
+							"yugo_model1.phy",
+							"yugo_model1.sw.vtx",
+							"yugo_model1.vvd",
+							"yugo_model2.dx80.vtx",
+							"yugo_model2.dx90.vtx",
+							"yugo_model2.mdl",
+							"yugo_model2.phy",
+							"yugo_model2.sw.vtx",
+							"yugo_model2.vvd",
+							"yugo_model3.dx80.vtx",
+							"yugo_model3.dx90.vtx",
+							"yugo_model3.mdl",
+							"yugo_model3.phy",
+							"yugo_model3.sw.vtx",
+							"yugo_model3.vvd",
+							"yugo_wheel.dx80.vtx",
+							"yugo_wheel.dx90.vtx",
+							"yugo_wheel.mdl",
+							"yugo_wheel.phy",
+							"yugo_wheel.sw.vtx",
+							"yugo_wheel.vvd"
+						]
+					},
+					"screens": [
+						"Screenshot 28.1.2011 4-58-42-875.jpg",
+						"Screenshot 28.1.2011 4-58-53-109.jpg"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 46165,
+			"_nDownloadCount": 666,
+			"_nFilesize": 1914945,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/46165",
+			"_sFile": "car_model.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1293242829
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2730,
+	"_sName": "car_model",
+	"_sText": "Have nice time!\r\n+car phys body"
+}

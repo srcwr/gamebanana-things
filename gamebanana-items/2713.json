@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"speeder1_vehicles.bsp",
+					"speeder1_vehicles.vmf"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 46326,
+			"_nDownloadCount": 573,
+			"_nFilesize": 52165,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/46326",
+			"_sFile": "speeder1_vehicles.7z",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1281885249
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2713,
+	"_sName": "speeder1_vehicles",
+	"_sText": "Hii!\r\nI change Speeder1 Laser weapon to mashingun.\r\n\r\n*If you want shoot for exampel 3 bullet at time change the setting - Logic_case for the bullet - Output - Add... - OnCase01 - speeder1_bullet_timer - Disable - 0.3\r\n\r\nYou can play with the setting parent some sprite, but you will get high fps in. see 2 last photo =)\r\n\r\nSpeeder1 are from my map StarWars_v2\r\nhttp://www.fpsbanana.com/maps/134353\r\n\r\n<object style=\"height: 344px; width: 425px\"><param name=\"movie\" value=\"http://www.youtube.com/v/p8RHSscDeOI\"><param name=\"allowFullScreen\" value=\"true\"><param name=\"allowScriptAccess\" value=\"always\"><embed src=\"http://www.youtube.com/v/p8RHSscDeOI\" type=\"application/x-shockwave-flash\" allowfullscreen=\"true\" allowScriptAccess=\"always\" width=\"425\" height=\"344\"></object>"
+}

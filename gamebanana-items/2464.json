@@ -1,0 +1,78 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"Urban_Pool": {
+						"counter-strike source": {
+							"cstrike": {
+								"materials": {
+									"natalya": [
+										"N_METAL_BLUE.vmt",
+										"n_metal_blue.vtf"
+									],
+									"urbandowntown": [
+										"cadeirapraia.vmt",
+										"cadeirapraia.vtf",
+										"deck.vmt",
+										"deck.vtf",
+										"poolout.vmt",
+										"poolout.vtf",
+										"pooltile.vmt",
+										"pooltile.vtf"
+									]
+								},
+								"models": {
+									"props": {
+										"urban": [
+											"cadeirapraia.dx80.vtx",
+											"cadeirapraia.dx90.vtx",
+											"cadeirapraia.mdl",
+											"cadeirapraia.phy",
+											"cadeirapraia.sw.vtx",
+											"cadeirapraia.vvd",
+											"pool.dx80.vtx",
+											"pool.dx90.vtx",
+											"pool.mdl",
+											"pool.phy",
+											"pool.sw.vtx",
+											"pool.vvd"
+										]
+									}
+								}
+							}
+						},
+						"sourcesdk": {
+							"bin": {
+								"orangebox": {
+									"bin": {
+										"prefabs": [
+											"urban_pool.vmf"
+										]
+									}
+								}
+							}
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 46294,
+			"_nDownloadCount": 1028,
+			"_nFilesize": 680883,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/46294",
+			"_sFile": "urban_pool.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1285049990
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2464,
+	"_sName": "Urban Pool",
+	"_sText": "Urban Pool\r\n\r\nUltra detailed pool used in my last release Urban Downtown.\r\nI'm releasing it as a prefab. \r\nAll the props and textures included.\r\nEnjoy.\r\n\r\nLet's swim"
+}

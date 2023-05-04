@@ -1,0 +1,46 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "bhop_aoki_final.vmf",
+					"1": "bhop_aoki_mp.vmf",
+					"10": "kz_bhop_yonkoma.vmf",
+					"11": "kz_bhop_yonkoma_ez.vmf",
+					"12": "kz_tones.vmf",
+					"13": "trikz_advanced.vmf",
+					"14": "xc_tones.vmf",
+					"2": "bhop_exodus.vmf",
+					"3": "bhop_exodus_v2.vmf",
+					"4": "bhop_inside_the_sun.vmf",
+					"5": "bhop_miku_v2.vmf",
+					"6": "bhop_miku_v3.vmf",
+					"7": "bhop_monster_jam.vmf",
+					"8": "bhop_trikz_caverns_v2.vmf",
+					"9": "durrr_dsickoteck.vmf",
+					"particles": [
+						"lines.pcf",
+						"miku.pcf"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 43764,
+			"_nDownloadCount": 1712,
+			"_nFilesize": 12502566,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/43764",
+			"_sFile": "vmf_release.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1376680003
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 472,
+	"_sName": "Aoki's vmf pack",
+	"_sText": "VMF files for all of my public map releases.  A lot of people have been asking for fixed maps ever since game updates began breaking everything.  Do whatever you want with the files including map fixes, bad derivatives and blatant copy/paste.\r\n\r\nI ask that you do not create anything named \\_v2/\\_v3 of the original map unless it is a straight map fix with shortcut and crash fixes.  Also please do not credit me in any case other than a straight map fix.\r\n\r\n<a href=\"http://gamebanana.com/members/submissions/maps/468063\">Most of the maps in question can be found here.</a>  There are mini-games, disco rooms, scripted events and so on.  You will need to extract content from the original map yourself if you want all of the materials/resources in Hammer.\r\n\r\nFiles:\r\n<pre><font face=\"courier\">7.6M Mar  1  2009 bhop\\_aoki\\_final.vmf \r\n7.5M Sep  6  2009 bhop\\_aoki\\_mp.vmf \r\n 19M May 29  2010 bhop\\_exodus.vmf \r\n 19M Feb 27  2011 bhop\\_exodus\\_v2.vmf \r\n600K Jun 12  2011 bhop\\_inside\\_the\\_sun.vmf \r\n 26M Aug 29  2009 bhop\\_miku\\_v2.vmf\r\n 26M Jun 23  2012 bhop\\_miku\\_v3.vmf \r\n8.7M May 12  2009 bhop\\_monster\\_jam.vmf \r\n 11M Jan  8  2009 bhop\\_trikz\\_caverns\\_v2.vmf \r\n240K May  7  2010 durrr\\_dsickoteck.vmf \r\n 14M Sep 30  2011 kz\\_bhop\\_yonkoma.vmf \r\n 15M Jul  1  2012 kz\\_bhop\\_yonkoma\\_ez.vmf \r\n9.9M Nov 11  2012 kz\\_tones.vmf \r\n173K Jul 23  2008 trikz\\_advanced.vmf \r\n 11M Jul  4  2012 xc\\_tones.vmf </font></pre>"
+}

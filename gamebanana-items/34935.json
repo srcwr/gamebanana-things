@@ -1,0 +1,56 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrike": {
+						"maps": [
+							"de_sweat_b6.nav"
+						],
+						"materials": {
+							"overviews": [
+								"de_sweat_b6.vmt",
+								"de_sweat_b6.vtf"
+							]
+						},
+						"resource": {
+							"overviews": [
+								"de_sweat_b6.txt"
+							]
+						}
+					}
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 417994,
+			"_nDownloadCount": 133,
+			"_nFilesize": 762581,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/417994",
+			"_sFile": "de_sveat_b6_nav_radar_.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1556268395
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Improvement",
+					"text": "Improved minimap for radar"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Update 1",
+			"_tsDateAdded": 1556268585
+		}
+	],
+	"_idRow": 34935,
+	"_sName": "Hand-tuned NAV for map DE_SWEAT_B6",
+	"_sText": "<b>Counter-Strike: Source : Bot's Navigation Mesh for the map DE_SWEAT_B6</b><br><br>Nav Creator: Meurglis3<br>Release Date: March 5 2019<br><br>Here is the Navigation Mesh for fine Dust themed map <a href=\"https://gamebanana.com/maps/203188\">de_sweat_b6</a> by Squeezit (released January 2019). It's a created from scratch and manually optimized .nav-file (because original .nav-file was not fully playable).<br><br>Most areas were created manually (also some paths were created from scratch) because some of them were constructed incorrectly or incomplete. Some pathways were precisely adjusted.<br><br>Well... bots use all walkable ways now and surely move through all extent of the map. And they absolutely do not suffocate from the musty smell of ancient Dust :D<br><br>Also this Navigation Mesh was fully Place Painted.<br><br>NOTE: For possibility of comparison and in-game testing the original navigation file by map author available to downloading with the <a href=\"https://gamebanana.com/maps/203188\">same map</a>.<br><br>Play and Enjoy! Yeah... your responses and remarks for me are still important ;-)<br><br>Credits and Gratitudes: Squeezit (for nice twisted fast-paced map).<br><br>Additional Gratitudes: BarnDoor (for perfect playable navigation meshes for many fine CS:S maps), Chizbone (for informative and clever article BOT_BRAINED and a set of excellent navigation meshes), CoCoNUT (for fine hand-tuned navigation meshes for many fine CS:S maps), Valve Developer Community (for learning articles by Navigation Meshes and Navigation Mesh Commands).<br><br>Don't think about Dust :-)<br><br><i><span class=\"RedColor\">P.S. In addition to the NAV-file the archive also contains a minimap for the radar (which was not presented in the original release of the map).</span></i><br><br>"
+}

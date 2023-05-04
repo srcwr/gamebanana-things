@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"firestairs.vmf"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 363553,
+			"_nDownloadCount": 65,
+			"_nFilesize": 1515,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/363553",
+			"_sFile": "firestairs.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1510935385
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2854,
+	"_sName": "Firestairs (repeatable)",
+	"_sText": "A simple, player clipped, and func_detailed firestairs.<br><br>NOTICE: Do not turn on the VPhysics collision for this model since it is a detail prop with bounding box collision."
+}

@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"Test_grab_v1.vmf",
+					"test_grab_v1.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 46062,
+			"_nDownloadCount": 461,
+			"_nFilesize": 30183,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/46062",
+			"_sFile": "_127-.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1304098004
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 3240,
+	"_sName": "pick up system for CSS",
+	"_sText": "hey\r\nThis is my setting how to pick up stuff on pres enter like hl2. I dont use gun to parent player.\r\n\r\nPlayer attachaments points \r\n\r\n1. grenade0\r\n1. grenade1\r\n1. grenade2\r\n1. grenade3\r\n1. pistol\r\n1. primary\r\n1. eholster\r\n1. c4 (T)\r\n1. lfoot\r\n1. rfoot\r\n1. muzzle_flash\r\n1. defusekit (ct)\r\n\r\nThis prefab is for multi key to open doors. you grab the ligt pres enter and take it to light target and the door will open. I made this very simple so people anderstand my setting, you can make fun maps with this setting. It will be fun to make puzzle map with egyt texture http://www.gamebanana.com/textures/3025\r\n\r\n*You can change the func_movelinear to some func_physbox ore prop_dinamic and use the model you like. Use your fantasy =)\r\n\r\nIf you want change the settingt i can help you and tel me if you finde some bug =)\r\n\r\nAnd this website is very good to make maps    http://www.hirstarts.com/molds/molds.html\r\n\r\nhave fun"
+}

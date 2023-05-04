@@ -1,0 +1,51 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "BrowningMachineGun.vmf",
+					"1": "Readme.txt",
+					"REQUIRED": {
+						"materials": {
+							"models": {
+								"w_models": {
+									"50cal": [
+										"50cal.vmt",
+										"50cal.vtf",
+										"50cal_detail.vtf"
+									]
+								}
+							}
+						},
+						"models": [
+							"L4D2_50cal_hack.dx80.vtx",
+							"L4D2_50cal_hack.dx90.vtx",
+							"L4D2_50cal_hack.phy",
+							"L4D2_50cal_hack.sw.vtx",
+							"L4D2_50cal_hack.xbox.vtx",
+							"l4d2_50cal_hack.mdl",
+							"l4d2_50cal_hack.vvd"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 45878,
+			"_nDownloadCount": 474,
+			"_nFilesize": 4358600,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/45878",
+			"_sFile": "browning_machine_gun_cal_50_2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1323642768
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 3060,
+	"_sName": "Browning Machine Gun, Cal. .50",
+	"_sText": "Well, in my previous project I used a wide variety of entities ... But, in my newest project, I hear the counsel of Lexluckyluke and i have used entity maker  ...\r\n\r\nWere added:\r\n\r\n- Zoom (Right click - zoom).\r\n\r\n- Env_steam with the muzzleflash.\r\n\r\n- Empty bullet shells are created on the side of the gun.\r\n- Was exchanged the triggers push and hurt by real bullets.\r\n\r\n\r\nsry my bad english xD...\r\n\r\nanyway ... hope you enjoy this new project ... xD"
+}

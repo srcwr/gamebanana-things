@@ -1,0 +1,42 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_kabul_csgo nav readme.txt",
+					"de_kabul_csgo.nav"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 385184,
+			"_nDownloadCount": 310,
+			"_nFilesize": 190944,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/385184",
+			"_sFile": "nav_de_kabul_csgo_d340b.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1528481254
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Improvement",
+					"text": "Some minor improvements (because the map are updated)."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Update 1",
+			"_tsDateAdded": 1528473824
+		}
+	],
+	"_idRow": 34927,
+	"_sName": "Hand-tuned NAV for map DE_KABUL_CSGO",
+	"_sText": "Counter-Strike: Source : Bot's Navigation Mesh for the map DE_KABUL_CSGO<br><br>Nav Creator: Meurglis3, Release Date: May 27 2018<br><br>Here is the Navigation Mesh for CS:S port of CS:GO version of legendary map <a href=\"https://gamebanana.com/maps/199871\">de_kabul_csgo</a> by Mr.Lighterman (released March 2016). It's a totally created from scratch and carefully optimized .nav-file (because included in original mapauthor's release the .nav-file was not perfect playable auto-gen).<br><br>This Navigation Mesh is hand-made approximately for 80% 'cause auto-gen constructed many areas inexact (the special attention was paid to many narrow windows and also to transitions at the high levels of the map - Tower, Balcony and others).<br><br>Bots use almost all possible ways now and move through all areas of this multilevel map absolutely consciously. They obviously expect to receive an award - one thousand virgins and centner of divine hashish... well, or a magnificent Arlington funeral and an honourable medal of congress :-)<br><br>Also this Navigation Mesh is fully Place Painted.<br><br>NOTE: For possibility of comparison and in-game testing the navigation file by chizbone included in original maparchive and available to downloading with the <a href=\"https://gamebanana.com/maps/199871\">same map</a>.<br><br>Play and Enjoy! Always will be grateful for your remarks and feedbacks.<br><br>Credits and Gratitudes: Mr.Lighterman (for CS:S port of fine CS:GO version of legendary map).<br><br>Additional Gratitudes: BarnDoor (for perfect playable navigation meshes for many fine CS:S maps), Chizbone (for informative and clever article BOT_BRAINED and a set of excellent navigation meshes), CoCoNUT (for fine hand-tuned navigation meshes for many fine CS:S maps), Valve Developer Community (for learning articles by Navigation Meshes and Navigation Mesh Commands).<br><br>We live in a windswept hell where dust and death are neighbours ;-)<br><br>"
+}

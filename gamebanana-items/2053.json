@@ -1,0 +1,54 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"files": {
+						"0": "readme.txt",
+						"cstrike": {
+							"materials": {
+								"armor": [
+									"debug.vtf",
+									"fxcore.vmt",
+									"fxcore.vtf",
+									"main_armor.vmt",
+									"main_armor.vtf",
+									"main_armor_lightwarp.vtf",
+									"main_armor_normal.vtf",
+									"main_armor_phongwarp.vtf",
+									"mannequin.vmt"
+								]
+							},
+							"models": {
+								"armor": [
+									"main_armor.dx80.vtx",
+									"main_armor.dx90.vtx",
+									"main_armor.mdl",
+									"main_armor.sw.vtx",
+									"main_armor.vvd"
+								]
+							}
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 45855,
+			"_nDownloadCount": 841,
+			"_nFilesize": 11902815,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/45855",
+			"_sFile": "s2powerarmor.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1325542912
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2053,
+	"_sName": "S² - SuperSolenoid Power Armor",
+	"_sText": "# History\r\n\r\nThe SuperSolenoid Reactor is an old project developped by DTTCORP research center. Unfortunately due to dissolution the project couldn't have been finished. 42 years later scientist give it a new go by combining this powerful concept with the new technology. The result is stunning. A reactor capable of supplying a whole power armor without instability AND provide a powerful short-range magnetic type weapon by overloading the palladium arc and releasing all it's power at once. \r\n\r\n\r\nWARNING : Being in front of the reactor during an energy spike is LETHAL.\r\n\r\nThe SuperSolenoid first aimed to grant independancy energy-wise. It now fullfil it's first goal and more, is now a weapon.\r\n\r\n# For real\r\n\r\nI wasn't really sure if I could submit this but Tom seemed ok when I asked one week ago : http://www.gamebanana.com/wips/39243\r\nSo it's now an armor for your maps on a mannequin. It can be cool in a technological complex as a showcase of their work etc...\r\n\r\nYeah... I know it may be too different from what you expect but the rules are wide enough to let this pass imo. \r\n\r\nAnyway, I hope you'll like it. I spent more times than usual on this :3\r\n\r\nPS : If you find a bug, as always report it to me so I can fix it. Thanks !\r\n\r\nPPS : If peoples want I can provide a version mannequin-less."
+}

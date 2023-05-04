@@ -1,0 +1,53 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"E3  M3Super90 Css": {
+						"materials": {
+							"models": {
+								"weapons": {
+									"v_models": {
+										"shot_m3super90": [
+											"shot_m3super90.vmt",
+											"shot_m3super90.vtf",
+											"shot_m3super90_normal.vtf",
+											"shot_m3super90_ref.vtf"
+										]
+									}
+								}
+							}
+						},
+						"models": {
+							"weapons": [
+								"v_shot_m3super90.dx80.vtx",
+								"v_shot_m3super90.dx90.vtx",
+								"v_shot_m3super90.mdl",
+								"v_shot_m3super90.sw.vtx",
+								"v_shot_m3super90.vvd",
+								"v_shot_m3super90.xbox.vtx"
+							]
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 811219,
+			"_nDownloadCount": 31,
+			"_nFilesize": 582434,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/811219",
+			"_sFile": "e3_2004_m3super90_css.rar",
+			"_sMd5Checksum": "d023b0a3388ba9f2d197cd9f64477718",
+			"_tsDateAdded": 1654719564
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 382459,
+	"_sName": "E3 2004 M3 Cs Source",
+	"_sText": "Original M3 Shotgun From E3 2004"
+}

@@ -1,0 +1,105 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"Mcdonald": {
+						"bin": {
+							"prefabs": [
+								"Mcdonald.vmf"
+							]
+						},
+						"cstrike": {
+							"materials": {
+								"CUSTOMTEXT": {
+									"GC TEXTURES": {
+										"TILE": [
+											"TILE_MEDIUM04.vmt",
+											"Tile_Medium04.vtf",
+											"Tile_Medium04_normal.vtf"
+										]
+									}
+								},
+								"WAREHOUSE": [
+									"SE1_CONCRETE_SIDEWALK_02.vmt",
+									"SE1_concrete_sidewalk_02.vtf",
+									"SE1_concrete_sidewalk_02_normal.vtf"
+								],
+								"ajacks": [
+									"ajacks_grass01.vmt",
+									"ajacks_grass01.vtf"
+								],
+								"env": {
+									"brush": {
+										"walls": [
+											"wall_ensuite_choc.vmt",
+											"wall_ensuite_choc.vtf",
+											"wall_ensuite_choc_normal.vtf"
+										]
+									}
+								},
+								"hall_concrete": [
+									"hall_concrete11_wet.vmt",
+									"hall_concrete11_wet.vtf"
+								],
+								"models": {
+									"toronto": {
+										"burger": [
+											"burgerking.vmt",
+											"burgerking.vtf"
+										]
+									}
+								},
+								"sgtsicktextures": [
+									"BK_WALLEXT_01.vmt",
+									"BK_WALLEXT_02.vmt",
+									"BK_YELLOWMETAL.vmt",
+									"bk_bluemetal.vmt",
+									"bk_bluemetal.vtf",
+									"bk_redmetal.vmt",
+									"bk_redmetal.vtf",
+									"bk_wallext_01.vtf",
+									"bk_wallext_02.vtf",
+									"bk_yellowmetal.vtf"
+								],
+								"tile": [
+									"CEILINGTILEA.vmt",
+									"ceilingtilea.vtf"
+								]
+							},
+							"models": {
+								"toronto": {
+									"burger": [
+										"burgerking.dx80.vtx",
+										"burgerking.dx90.vtx",
+										"burgerking.mdl",
+										"burgerking.phy",
+										"burgerking.sw.vtx",
+										"burgerking.vvd"
+									]
+								}
+							}
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 45143,
+			"_nDownloadCount": 1033,
+			"_nFilesize": 3006903,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/45143",
+			"_sFile": "mcdonald.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1391450876
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2574,
+	"_sName": "Mcdonal's",
+	"_sText": "Hello !\r\nThere is my Mcdonalds prefab with custom textures and model !\r\nI hope you will enjoy it ;)\r\n\r\n#My Website: [Zoukie.org](http://zoukie.org \"Zoukie.org\")"
+}

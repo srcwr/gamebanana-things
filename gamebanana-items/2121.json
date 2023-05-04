@@ -1,0 +1,31 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"nocp_prefab": [
+						"nocp_prefab.bsp",
+						"readme.txt"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 45162,
+			"_nDownloadCount": 283,
+			"_nFilesize": 9840,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/45162",
+			"_sFile": "nocp_prefab.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1390925565
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2121,
+	"_sName": "No Checkpoints Prefab",
+	"_sText": "This prefab shows how it is possible to make it impossible for the player to save in the levels of a map.\r\n\r\n## **What does this prefab?**\r\nWith this method players can no longer save inside a level and teleport back to that position if they fail. They will have to start the level again.\r\n\r\n## **Why did you invented this?**\r\nI wanted to make climb a little bit more skillbased.\r\n\r\n## **Can I use this for some parts of my map only?**\r\nOf course! You deside where the player can teleport to and where not. You can enable this feature at just one level at your map or everywhere.\r\n\r\n## **How does this work?**\r\nDownload the file and take a look in the readme.\r\n\r\n## **Is there a map with that prefab, so I can test it?**\r\nYes there is. I created the map kz\\_chase\\_nocp to demonstrate that prefab. Feel free to check it out here: [http://css.gamebanana.com/maps/178798](http://css.gamebanana.com/maps/178798 \"http://css.gamebanana.com/maps/178798\")\r\n\r\nIf you want to create a map using this prefab, credit me and I suggest you to add \"\\_nocp\" at the end of the mapname to make it visible to the player.\r\n\r\n\r\nDotty"
+}

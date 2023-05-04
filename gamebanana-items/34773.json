@@ -1,0 +1,56 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_joint nav readme.txt",
+					"de_joint.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 2850,
+			"_nDownloadCount": 754,
+			"_nFilesize": 92976,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/2850",
+			"_sFile": "nav_de_joint_28af1.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1385561506
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Improved bots movement in and out from underground area (Rear-Sewers, BackDoor-Sewers)"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Update 2",
+			"_tsDateAdded": 1490194650
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Total improvement of comlete Navigation Mesh"
+				},
+				{
+					"cat": "-",
+					"text": "Added Place Names"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Update 1",
+			"_tsDateAdded": 1474395773
+		}
+	],
+	"_idRow": 34773,
+	"_sName": "Hand-tuned NAV for map DE_JOINT",
+	"_sText": "Counter-Strike: Source : Bot's Navigation Mesh for the map DE_JOINT\r\n<br><br>Nav Creator: Meurglis3, Release Date: November 27 2013\r\n<br><br>Here is the Navigation Mesh for excellent map with Middle East theme <a href=\"http://css.gamebanana.com/maps/122147\">de_ joint</a> by Gattsu (released January 2010).&nbsp;It's a created from scratch and fully hand-tuned .nav-file (in original author's release the .nav-file was not submitted).\r\n<br><br>This Navigation Mesh was hand-maded at 80% 'cause auto-gen doesn't pereceive many areas as walkable (the second level on the Bombsite B and the undergound tunnel system for example). Some paths and ladders were builded from scratch completely. Also some auto-generated areas was remakes and reconnects manually.\r\n<br><br>Bots use all possible ways now, though some it is quite rare (however as well as people).<br><br>Also this Navigation Mesh was fully Place Painted.<br><br>All your responses and remarks are always welcomed ;-)<br><br>Credits and Gratitudes:&nbsp;Gattsu (for realistic and detailed arabic-themed map).\r\n<br><br>Additional Gratitudes:&nbsp;BarnDoor (for perfect playable navigation meshes for many fine CS:S maps),&nbsp;Chizbone (for informative and clever article BOT_BRAINED and a set of excellent navigation meshes),&nbsp;CoCoNUT (for fine hand-tuned navigation meshes for many fine CS:S maps), Valve Developer Community (for learning articles by Navigation Meshes and Navigation Mesh Commands).\r\n<br><br>Some other place, some other time... :-)"
+}

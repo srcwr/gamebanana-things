@@ -1,0 +1,32 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "How This Prefab Works.txt",
+					"1": "ze_hold_point_prefab.bsp",
+					"prefab": [
+						"ze_hold_point_prefab.vmf"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 45329,
+			"_nDownloadCount": 388,
+			"_nFilesize": 11220,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/45329",
+			"_sFile": "ze_hold_point_prefab_2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1375443436
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2111,
+	"_sName": "Zombie Escape Hold Points",
+	"_sText": "Zombie Escape Hold Point Prefab By DEVIOUS\r\n\r\nHow It Works: \r\n\r\n1. First The Wall Is Made, and the class is set to func_breakable\r\nand given a name (I just named it wall)\r\n\r\n2. Next a trigger is made and spread to the area you want it to \r\nactivate in. Ex. If the player touches the trigger the wall will\r\nbreak in the set amount of time. The Trigger's Class is set to\r\ntrigger_multiple (this does not need a name).\r\n\r\n3. A new entity is made and the class is set to point_servercommand\r\nand given a name (I just named it timeleft).\r\n\r\n4. Go Back To Your Trigger and go to the \"Outputs\" tab.\r\n\r\n5. First, we want to make the wall break so click the \"Add\" button \r\nat the bottom. Set My Output named to \"OnTrigger\" (this means that\r\nsomething will happen when the trigger is activated)\r\n\r\n6. Set Targets Entities Named To whatever you named your wall, (in \r\nour case its just wall). Set Via this input to \"Break\" (meaning when\r\nthe trigger is touched the wall will break. Finally, set After a \r\ndelay in seconds of... to whatever you want (it will be the amount \r\nof time until the wall breaks after the trigger is activated, I made \r\nit 15 seconds).\r\n\r\n7. Press the \"Add\" Button again. For this one we set my output named \r\nto \"OnTrigger\" again, Targets entities named to \"Timeleft\" (which is \r\nthe name of our point_servercommand). Set Via this input to \r\n\"Command\" (because we want it to say something). For \"With a \r\nparameter override of\" first type \"say\" and then after it what you \r\nwant the console message to be (I made it HOLD HERE FOR 15 \r\nSECONDS!). After a delay in seconds of will tell the console to say \r\nwhat you just typed after a certain amount of time. For example if \r\nyou put 5  seconds in this box, after the player reaches the trigger \r\nthe message will display after 5 seconds.\r\n\r\n8. You can repeat step 7 as many times as you want all the way up \r\nuntil the wall breaks. If you want it to say \"5 SECONDS LEFT TO \r\nDEFEND\" when the wall breaks in 5 seconds, just set a delay of 10 \r\nseconds.\r\n\r\n******MAKE SURE YOU CHECK THE BOX THAT SAYS \"FIRE ONCE ONLY\" ON \r\nEVERY SINGLE OUTPUT THAT YOU MADE OR THE CONSOLE WILL REPEAT THEM!!\r\n******\r\n\r\nI hope this wasn't too confusing to follow :P I tried to make it as \r\nclear and straight forward as possible.\r\n\r\nENJOY!!"
+}

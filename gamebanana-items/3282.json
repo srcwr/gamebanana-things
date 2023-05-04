@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"Breakable Light Prefab.vmf",
+					"Breakable Light.vmf"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 46346,
+			"_nDownloadCount": 754,
+			"_nFilesize": 12211,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/46346",
+			"_sFile": "breakable_light_2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1281175598
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 3282,
+	"_sName": "Advanced Breakable Light",
+	"_sText": "A more advanced breakable. If you give the glass less than 20 damange, the light will just spark on time, but if you break it, the light will flicker, controlled by a logic_timer. There is also a sprite added to the light. It will flicker together with the light_spot. I added a light entity too, wich will never flicker or getting turned off. I did this because if you broke all the lights the room sometimes would be totally dark. Adding a little bit light all the time, was looking better, but if you don't want that, simply delete the light entitys.\r\n\r\nCubemaps is added to the prefab too.\r\nIts really hard to take some good Screenshots of the lights. Please do not rate this prefab if you havn't tried it yourself.\r\n\r\nUse it as much as you want.\r\nCredits is required if you are gonna use this prefab, but you think that this is a problem, please contact me, and we may find another solution.\r\n\r\nThank you.\r\n\r\n10-08-2010 | UPDATED:\r\nUpdated the Zip file."
+}

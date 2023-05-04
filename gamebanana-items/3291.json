@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"Sky Texture Names.txt",
+					"sun_light.vmf"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 45941,
+			"_nDownloadCount": 573,
+			"_nFilesize": 2932,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/45941",
+			"_sFile": "prefab_-_sun_light.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1317342938
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 3291,
+	"_sName": "CS:S - Quick Sun Light",
+	"_sText": "Credit Valve for their original entities.\r\n\r\nI got tired of seeing so many maps with full bright, that I made this quick and easy prefab for suns. \r\n\r\nI collected four major sun themes for easy use.  Simply copy and paste all the entities on each platform to get your map started right!\r\n\r\nYou can Cordon off each platform, then compile and run to see what the light looks like, or just go into one of the original four maps.\r\n\r\nThe entities may include: \"light\\_env\", \"env\\_sun\", \"env\\_fog\\_controller\", \"shadow\\_control\".\r\n\r\nOpen your map in Hammer Editor.  On the top menu, go to \"Map\" > \"Map Properties\". Then select the field called \"SkyBox Texture Name\". This is where you can change the skybox texture depending what light environment you choose.\r\n\r\nDust Skybox Texture Name: sky_dust\r\n\r\nItaly Skybox Texture Name: italy\r\n\r\nOffice Skybox Texture Name: office\r\n\r\nAztec Skybox Texture Name: jungle"
+}

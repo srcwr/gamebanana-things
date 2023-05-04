@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"mouse_controlled_security_camera.bsp",
+					"mouse_controlled_security_camera.vmf"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 44814,
+			"_nDownloadCount": 506,
+			"_nFilesize": 28727,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/44814",
+			"_sFile": "mouse_controlled_security_camera_6.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1434623383
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2157,
+	"_sName": "Mouse Controlled Security Camera",
+	"_sText": "<b>Mouse Controlled</b><br>====================\r\n\r\n<br><br><img src=\"https://i.imgur.com/ppZzaV3.gif\"><br><br><b>Security Camera is following your mouse</b><br>-----------------------------------------------\r\n\r\n<br><br><img src=\"https://i.imgur.com/LJG3Wzi.gif\"><br><br><b><i>- Player(using the camera) cannot be killed by other Players&nbsp;</i></b><br><br><b>Multiplayer point_viewcontrol bug:&nbsp;</b><br>--------------------\r\n\r\n<br><br>If a player uses a point_viewcontrol and dies before un-using it (to leave it) they will be stuck viewing it until they un-use it manually. This <a href=\"https://forums.alliedmods.net/showthread.php?p=1871343 \" plugin=\"\" (made=\"\" by=\"\" masterofthexp\"=\"\" target=\"_blank\">Server Plugin (Made by MasterOfTheXP)</a>\") makes them leave the viewcontrol automatically when they die or respawn.\r\n\r\n<br><br><h1>Video:&nbsp;</h1><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/eVVfMAWux3o\" frameborder=\"0\" allowfullscreen=\"\"></iframe><br><u>Please give some Feedback  =)</u>"
+}

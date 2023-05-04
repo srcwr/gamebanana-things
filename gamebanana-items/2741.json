@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"charli_F22_2plane.vmf",
+					"charli_f22_2plane.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 46035,
+			"_nDownloadCount": 1847,
+			"_nFilesize": 514631,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/46035",
+			"_sFile": "_174-.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1306339774
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2741,
+	"_sName": "charli_F22_20plane",
+	"_sText": "[Video 1...](http://www.youtube.com/watch?v=7hfehYJ3Yx8 \"Video 1\")\r\n\r\nHii\r\n\r\nDo you want fly F-22 plane in css? then here is your chance =) New camera view setting i use.\r\n\r\n* 20 plane F-22\r\n\r\n* To drive press: UP/Down/left/Right\r\n\r\n* Boost left mouse\r\n\r\n* Shoot press Reloaad button\r\n\r\n* Dont kill yourself wen driving, you will get stuck in the camera, then you must wait to next round to reset camera view for player. If you have idea how to fix this problem pleas tel me.\r\n\r\nthis brush work i made from a picture off C&C F22 plane. I workd and test meny time, thanks to Ares help me test this on his new map =)\r\n\r\nI use my friends PureIce old Camera setting from his X-wing and change them a bit.\r\n\r\n* The trigger func_viscluster in the sky is only for large open area where visibility calculations would otherwise take a very, very long time to complete.\r\n\r\n* Wen i fly and shoot i have fps in 130 and not driving 70 so 130-70= 60fps/in is used for every plane. If you want have 20 plane then 20*60+70= 1270 fps/in Total in map if all vehicle used the same time. But i think it will be more when play online the fps/in will be 2000. and this will lagg. So to fix the lag ad 14 plane and ad env_fog_controller and change (fog enabel) and  Far Z Clip Plane (5000 ore 6000). Dont ad to much prop_physics model and func_tracktrain.\r\n\r\n________________________________________________________________________________________________________________\r\n*** Very important ***\r\n\r\nI have found a problem. When enter my plane player teleport to a box outside the map then the explosion smoke not working when shoot. But when i teleport player in box in the same map then the explosion smoke works. idk if this is a bug, but its crazy i dont anderstand this. So if want see the smoke when shoot telport player in box the same map as plane. \r\n________________________________________________________________________________________________________________\r\n\r\n[3d models 1...](http://www.3dcadbrowser.com/browse.aspx?category=76 \"3d model\")\r\n\r\n[3d models 2...](http://www.the3dstudio.com/product_details.aspx?id_product=435124 \"3d models 2\")\r\n\r\n[3d models 3...](http://www.digitalanimators.com/HTM/Resources/3dModels/3dModelsMain.htm \"3d model 3\")\r\n\r\n* If you use my plane in your map please tel me, i want play to =)\r\n* This is my map [mg_aircraftcarrier_v1...](http://www.gamebanana.com/maps/157029 \"map\")\r\nhave fun =)"
+}

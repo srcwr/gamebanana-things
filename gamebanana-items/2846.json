@@ -1,0 +1,40 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "README.txt",
+					"sourcesdk": {
+						"bin": {
+							"orangebox": {
+								"bin": {
+									"prefabs": [
+										"README.txt",
+										"Service_Elevator.vmf"
+									]
+								}
+							}
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 45744,
+			"_nDownloadCount": 2179,
+			"_nFilesize": 7175,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/45744",
+			"_sFile": "elevator_2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1337894214
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2846,
+	"_sName": "Service Elevator",
+	"_sText": "This Prefab was created and tested by Lanix.\r\n\r\nSimply place the sourceSDK folder in your USERNAME folder.\r\nex. \"steam\\steamapps\\PLACE HERE\\\"\r\n\r\nIf you can figure that out simply goto the actuall VMF and paste it in\r\nsteam\\steamapps\\USERNAME\\sourcesdk\\bin\\orangebox\\bin\\prefabs\"\r\n\r\nEnjoy!"
+}

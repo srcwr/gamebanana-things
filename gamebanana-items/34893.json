@@ -1,0 +1,45 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_nighthawk_pro nav readme.txt",
+					"de_nighthawk_pro.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 1825,
+			"_nDownloadCount": 735,
+			"_nFilesize": 161812,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1825",
+			"_sFile": "nav_de_nighthawk_pro_ec031.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1447777535
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Improved the bot's movement through all stairways"
+				},
+				{
+					"cat": "-",
+					"text": "Some other minor improvements"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Update 1",
+			"_tsDateAdded": 1472993046
+		}
+	],
+	"_idRow": 34893,
+	"_sName": "Hand-tuned NAV for map DE_NIGHTHAWK_PRO",
+	"_sText": "Counter-Strike: Source : Bot's Navigation Mesh for the map DE_NIGHTHAWK_PRO<br><br>Nav Creator: Meurglis3,&nbsp;Release Date: November 17 2015<br><br>Here is the Navigation Mesh for nice military-styled map <a href=\"http://css.gamebanana.com/maps/142135\">de_nighthawk_pro</a> by Sk3tch (released August 2010).&nbsp;It's a totally created from scratch and carefully optimized .nav-file (because in original author's release the .nav-file probably was simple auto-gen embedded in .bsp, also the announced nav-file by Chizbone wasn't released).<br><br>This Navigation Mesh was hand-made approximately for 90% 'cause auto-gen constructed many areas inexact. The special attention was paid to important areas with difficult geometry of subjects: under and over the jet (BombsiteA), under and over the missile rack (BombsiteB), pathway through the hole in a floor (Dumpster).<br><br>The bots use all possible ways now. Especially they are interested in such toys as jet and missiles... that's quite normally for a humanoids of any faith and a nationality :-)<br><br>Also this Navigation Mesh is fully Place Painted.<br><br>NOTE: For possibility of comparison and in-game testing an original auto-gen .nav-file (embedded in .bsp-file) and available to downloading with the <a href=\"http://css.gamebanana.com/maps/142135\">same map</a>.<br><br>Play &amp; Enjoy! Always will be grateful for your remarks and feedbacks.<br><br>Credits and Gratitudes:&nbsp;Sk3tch (for old good military-styled map)<br><br>Additional Gratitudes:&nbsp;BarnDoor (for perfect playable navigation meshes for many fine CS:S maps),&nbsp;Chizbone (for informative and clever article BOT_BRAINED and a set of excellent navigation meshes),&nbsp;CoCoNUT (for fine hand-tuned navigation meshes for many fine CS:S maps),&nbsp;Valve Developer Community (for learning articles by Navigation Meshes and Navigation Mesh Commands).<br><br>I want things to be fast, down to the power-drive,<br>I want the zero-gravity heroes to play dead, but stay alive :-)<br><br>"
+}

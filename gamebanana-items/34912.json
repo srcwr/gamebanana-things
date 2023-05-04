@@ -1,0 +1,56 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_highrise nav readme.txt",
+					"de_highrise.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 651,
+			"_nDownloadCount": 359,
+			"_nFilesize": 150971,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/651",
+			"_sFile": "nav_de_highrise_736f0.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1488965788
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Bot's movement through the pipelines are improved"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Update 2",
+			"_tsDateAdded": 1489689112
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Bot's movement on the roof edge are improved (SideAlley, SideDoor)"
+				},
+				{
+					"cat": "-",
+					"text": "Some other minor improvements"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Update 1",
+			"_tsDateAdded": 1489135607
+		}
+	],
+	"_idRow": 34912,
+	"_sName": "Hand-tuned NAV for map DE_HIGHRISE",
+	"_sText": "Counter-Strike: Source : Bot's Navigation Mesh for the map DE_HIGHRISE<br><br>Nav Creator: Meurglis3, Release Date: March 8 2017<br><br>Here is the Navigation Mesh for nice big multilevel map <a href=\"http://gamebanana.com/maps/88016\">de_highrise</a> by X-tr3m3r / Diamante Pasotti (released April 2009).<br><br>It's a totally created from scratch and manually optimized .nav-file (because an original map author's .nav-file was not fully playable).<br><br>Most areas and paths were created manually and some additional paths were created from scratch. Special attention has been paid to critical areas (in particular to pathways through all ladders, narrow stairways and wing doors).<br><br>Also this Navigation Mesh was fully Place Painted (more detailed and pertinently than in the original .nav-file by map author).<br><br>Well... the bots have opportunity to use all walkable ways now. These vertigo-trained bastards perfectly feel everywhere - under the open smoggy sky and in a twilight of stuffy corridors ;-)<br><br>NOTE: For possibility of comparison and in-game testing the original .nav-file by map creator available to downloading with the <a href=\"http://gamebanana.com/maps/88016\">same map</a>.<br><br>Play and Enjoy! Also remember: your ratings and messages are always welcomed :-)<br><br>Credits and Gratitudes: X-tr3m3r (for spacious and fascinating urban-themed map).<br><br>Additional Gratitudes: BarnDoor (for perfect playable navigation meshes for many fine CS:S maps), Chizbone (for informative and clever article BOT_BRAINED and a set of excellent navigation meshes), CoCoNUT (for fine hand-tuned navigation meshes for many fine CS:S maps), Valve Developer Community (for learning articles by Navigation Meshes and Navigation Mesh Commands).<br><br>Over and over, always tried to get away... :-)"
+}

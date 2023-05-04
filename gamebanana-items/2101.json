@@ -1,0 +1,74 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"Portal Clock Prefab": {
+						"Map": [
+							"clock_prefab_portal.bsp"
+						],
+						"Prefab Here": {
+							"0": "clock_prefab_portal.vmf",
+							"cstrike": {
+								"materials": {
+									"models": {
+										"props": [
+											"Clock.vmt",
+											"clock.vtf",
+											"clock_exponent.vtf",
+											"clock_lightwarp.vtf",
+											"clock_normal.vtf"
+										]
+									},
+									"signage": {
+										"clock": [
+											"Countdown.vtf",
+											"Countdown_blurred.vtf",
+											"clock_centiseconds.vmt",
+											"clock_dots.vmt",
+											"clock_dots.vtf",
+											"clock_milliseconds.vmt",
+											"clock_minutes.vmt",
+											"clock_minutes.vtf",
+											"clock_seconds.vmt",
+											"clock_seconds.vtf"
+										]
+									}
+								},
+								"models": {
+									"props": {
+										"clock": [
+											"Clock.dx80.vtx",
+											"Clock.dx90.vtx",
+											"Clock.phy",
+											"Clock.sw.vtx",
+											"clock.mdl",
+											"clock.vvd"
+										]
+									}
+								}
+							}
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 45459,
+			"_nDownloadCount": 281,
+			"_nFilesize": 341155,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/45459",
+			"_sFile": "portal_clock_prefab.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1361897782
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2101,
+	"_sName": "Portal Timer For CSS",
+	"_sText": "Sorry for my english ;D Assembled from scratch using instructions from here >>>  http://www.interlopers.net/tutorials/25686\r\n\r\n\r\nIncludes all textures and models, also a compiled map"
+}

@@ -1,0 +1,34 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"Cartraxs_elevator_prefab_v1": [
+						"Cartraxselevatorprefab.jpg",
+						"cartraxs_elevator_prefab_v1.vmf",
+						"cartraxs_elevator_prefab_v10000.jpg",
+						"cartraxs_elevator_prefab_v10001.jpg",
+						"readme.txt"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 46238,
+			"_nDownloadCount": 434,
+			"_nFilesize": 284274,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/46238",
+			"_sFile": "cartraxs_elevator_prefab_v1.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1289071616
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2833,
+	"_sName": "Cartraxs_elevator_prefab",
+	"_sText": "Cartrax´s elevator prefab:\r\n\r\nIntro:\r\n\r\nEver thought of a cool elevator with mutiple levels and couldn´t find one?\r\nNow you got one!\r\nThis prefab contents a complex elevator based on logic_relays, math_counters and logic_compares including nine levels with doors!\r\nThe prefab was produced and developed by CartraxWolf.\r\nSpecial thanks to thekillerjumper for asking me for such an elevator for one of his maps.\r\n\r\nInfo:\r\n\r\nThis prefab contains an elevator with shaft and doors for each level (U1,L1,L2,L3,L4,L5,L6,L7,L8,).\r\nThe U1 level was though for a basement the rest for a whole office building (but you can use it for any other building anyways).\r\nThe whole elevator works with a logic_relay a logic_compare and 9 math_counters,\r\nthe logic_relay is for the general control of the elevator and decides which level will be the next target and which doors have to prepare to open (the logic_relay gives an output to add the value \"1\" to the math_counters to check if the doors of the levels have to open or not).\r\nThe logic_compare controls the movement of the elevator if it has to move down or up (StartForward ; StartBackward).\r\nThe math_counters are controlling the doors for each level and close or open them at the right moment. Theyre working by adding values and counting them to get the right ammount that causes the door to open.\r\nThe elevator is a func_tracktrain with 9 elevator_paths at all. Each elevator_path is the checkpoint for one level.\r\n\r\nThis prefab can be used for any other game based on the source engine too!\r\n\r\nIt took me 3 whole days to develop this prefab.\r\n\r\nUsing this prefab in any map:\r\n\r\nYoure allowed to use this prefab in any map if you are adding me to the credtis.\r\nYoure allowed to edit this prefab in any way to optimize it for your map, but\r\nYoure NOT allowed to edit this prefab and upload it again under your or someone others name.\r\nIf you want to use this prefab dont forget to credit me.\r\n\r\nThanks for your patience and fairness!!!\r\n\r\nDevelopment:\r\n\r\nThis prefab was created to be used in one of thekillerjumper´s maps,\r\nI just uploaded it to prevent questions about the elevator of his map and to prevent decompiling-piracy.\r\nIt is though to be used for the mayor building for one of thekillerjumper´s maps.\r\n"
+}

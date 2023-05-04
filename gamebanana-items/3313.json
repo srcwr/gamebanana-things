@@ -1,0 +1,93 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "Installation Notes.txt",
+					"1": "airhockey.vmf",
+					"maps": [
+						"airhockey.bsp"
+					],
+					"materials": {
+						"eNnerGy": {
+							"Airhockey": [
+								"Marcador.vmt",
+								"Marcador.vtf",
+								"MesaAirHockeyEsquinaAzul.vmt",
+								"MesaAirHockeyEsquinaAzul.vtf",
+								"MesaAirHockeyEsquinaRoja.vmt",
+								"MesaAirHockeyEsquinaRoja.vtf",
+								"MesaAirHockeyFront1.vmt",
+								"MesaAirHockeyFront1.vtf",
+								"MesaAirHockeyFront2.vmt",
+								"MesaAirHockeyFront2.vtf",
+								"MesaAirHockeySide1.vmt",
+								"MesaAirHockeySide1.vtf",
+								"MesaAirHockeySide2.vmt",
+								"MesaAirHockeySide2.vtf",
+								"MesaAirHockeyTop.vmt",
+								"MesaAirHockeyTop.vtf",
+								"logo.vmt",
+								"logo.vtf"
+							]
+						},
+						"models": {
+							"ennergy": {
+								"airdisk": [
+									"dev_hazzardstripe01a.vmt"
+								],
+								"airhockey": [
+									"black.vmt",
+									"lightb.vmt",
+									"logo.vmt",
+									"marcador.vmt",
+									"mesaairhockeyesquinaazul.vmt",
+									"mesaairhockeyesquinaroja.vmt",
+									"mesaairhockeyfront1.vmt",
+									"mesaairhockeyfront2.vmt",
+									"mesaairhockeyside1.vmt",
+									"mesaairhockeyside2.vmt",
+									"mesaairhockeytop.vmt",
+									"metalstainless01.vmt"
+								]
+							}
+						}
+					},
+					"models": {
+						"ennergy": [
+							"airdisk.dx80.vtx",
+							"airdisk.dx90.vtx",
+							"airdisk.mdl",
+							"airdisk.phy",
+							"airdisk.sw.vtx",
+							"airdisk.vvd",
+							"airhockey.dx80.vtx",
+							"airhockey.dx90.vtx",
+							"airhockey.mdl",
+							"airhockey.phy",
+							"airhockey.sw.vtx",
+							"airhockey.vvd"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 46140,
+			"_nDownloadCount": 1866,
+			"_nFilesize": 1745232,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/46140",
+			"_sFile": "399__16-.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1297017991
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 3313,
+	"_sName": "Airhockey Table (Usable)",
+	"_sText": "****English****\nWell, this is just a playable airhockey table. \nW/A/S/D for moving the thing(i don't know the real name of this) that has to hit the disk\nIt has support for 2 players, 7 points max, auto-reset. It's kinda funny ^^.\nI'm searching for someone who can make a video with me, if you want or if you can, please pm me as fast as you can. If you are going to use it, please credit me.\n\n****Spanish****\nBueno, es simplemente una mesa de airhockey sobre la que se puede jugar.\nW/A/S/D para mover la cosa (no se como se llama xd) que debe de golpear al disco.\nSoporta 2 jugadores, 7 puntos, y tiene auto-reset al llegar a 7.\nEstoy buscando a alguien con quien hacer un video de ello, si podÃ©is, mandadme un privado tan rÃ¡pido como podÃ¡is.\n\nSi lo usais ponedme en los crÃ©ditos."
+}

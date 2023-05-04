@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"anti_prespeed_trigger.bsp",
+					"anti_prespeed_trigger.vmf"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 44955,
+			"_nDownloadCount": 729,
+			"_nFilesize": 11725,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/44955",
+			"_sFile": "anti_prespeed_trigger.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1412522244
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2149,
+	"_sName": "Simple Anti Pre-Speed",
+	"_sText": "Uncheatable anti-prespeed trigger that won't ever glitch. Intended for bunnyhop maps with no fall damage.\r\n\r\nCopy & paste the trigger located in the .vmf file ontop of any block/area where you don't want players to be able to jump more than once. Merge multiple triggers into one for less entity usage."
+}

@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"geometry_prefabs.vmf"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 45750,
+			"_nDownloadCount": 332,
+			"_nFilesize": 19253,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/45750",
+			"_sFile": "geometry_prefabs.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1337033747
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2078,
+	"_sName": "Cylinders and arches",
+	"_sText": "-This can be useful for arches and cylinders. You just   \r\nneed  to copy paste from this VMF file to your own map.\r\n\r\n-Tip: You can use ctrl+w to ignore groups, if you want 180 arch example, just select the brushes you want and copy them to your map.\r\n\r\n-Use cutting tool to cut cylinders to shape you want.\r\n\r\n\r\n-No need to credit me if you use these in your maps.\r\n\r\n-Arches are made with 8 wall size which provides good fitting with common 8 and 16 unit thick walls.\r\n\r\n-You should not use these as a world brushes, use func_detail instead."
+}

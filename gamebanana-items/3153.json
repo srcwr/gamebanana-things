@@ -1,0 +1,47 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "readme.txt",
+					"materials": {
+						"models": [
+							"metal.vmt",
+							"metal.vtf",
+							"puntas.vmt",
+							"puntas.vtf",
+							"silla.vmt",
+							"silla.vtf"
+						]
+					},
+					"models": [
+						"banqueta.dx80.vtx",
+						"banqueta.dx90.vtx",
+						"banqueta.mdl",
+						"banqueta.phy",
+						"banqueta.sw.vtx",
+						"banqueta.vvd",
+						"banqueta.xbox.vtx"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 46122,
+			"_nDownloadCount": 314,
+			"_nFilesize": 138471,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/46122",
+			"_sFile": "409__50-.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1299779370
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 3153,
+	"_sName": "Red Hassock",
+	"_sText": "- Physic Prop\r\n- Materials: 3\r\n- Polycount: 636\r\n- Collision Model\r\n- Metal Surface Reflection"
+}

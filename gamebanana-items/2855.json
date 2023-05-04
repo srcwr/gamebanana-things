@@ -1,0 +1,31 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"stairs": [
+						"assaultstyle_stairsalley.vmf"
+					]
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 425839,
+			"_nDownloadCount": 52,
+			"_nFilesize": 12430,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/425839",
+			"_sFile": "stairs.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1563038066
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2855,
+	"_sName": "CS_Assault Stairs Rebrushed",
+	"_sText": "I originally went to use the cs_assault alley stairs for my scrapyard map and i found all three prop entities werent completely physical. (railings and floors wierd or not solid) so i traced the shit in hammer and almost identically. the stairs are fully textured and not brushed too sloppy. most of the stairset and can be nodraw textured. this set STILL needs no draw textures.<br>"
+}

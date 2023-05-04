@@ -1,0 +1,41 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"multi_system.bsp",
+					"multi_system.vmf"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 44870,
+			"_nDownloadCount": 495,
+			"_nFilesize": 31552,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/44870",
+			"_sFile": "multi_system_2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1427381786
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Remade the system to be more reliable"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Update",
+			"_tsDateAdded": 1427471127
+		}
+	],
+	"_idRow": 2153,
+	"_sName": "Efficent Non-Linear Multi-Stage Map Completion",
+	"_sText": "An efficent system that allows players to complete a multi-stage map in any order. After seeing how over-complicated this tends to be, I made my own.<br><br>- You can have as many checkpoints as you desire.\r\n<br>- The amount of players is irrelevant.\r\n<br>- Will not glitch.<br><strong><br>USAGE</strong>\r\n<br><br>The left side in the .vmf contains the prefab, while the right is an example of how it can be used. <strong><br><br>1.</strong> Select the triggers called \"reset<em>trigger\", \"checking</em>trigger\" and the amount of 'checkpoints' you intend to use (all along with the filters next to them). Make sure you include the math_counter (called counter) and copy these into your map.<br><br>&nbsp;<strong>2.</strong> Place the \"reset_triggers\" where the timer starts or where players spawn.<br><strong><br>3.</strong> Place the \"checking_trigger\" where you want to check for how many checkpoints the player has reached.\r\n<br><br><strong>4.</strong> Place the smaller (checkpoints) triggers you want the player to reach before advancing.\r\n<br><br><strong>5.</strong> Specify the amount of checkpoints you require the player to reach under \"Maximum Legal Value\" in the math_counter.<br><strong><br>6.</strong> Make an \"OnHitMax\" output for what you want to happen when the player reaches this amount of visited checkpoints. If you want them to pass a teleport, push or any other trigger, set their targetname to \"ng0<em>pass\" and put \"anti</em>glitch<em>filter</em>0_passed\" as that triggers filter.<br><br>\r\nI pre-made 20 checkpoints. If you need any more, copy, paste and rename accordingly.<br><br>\r\nHere is a video demonstrating how this is used:<br><br>\r\n<br><br><iframe src=\"https://www.youtube.com/embed/oqq94jif5r8\" allowfullscreen=\"\" frameborder=\"0\" height=\"315\" width=\"560\"></iframe><br><br>"
+}

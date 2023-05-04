@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"read-me.txt",
+					"weapon_cubemap.vpk"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 970191,
+			"_nDownloadCount": 11,
+			"_nFilesize": 957702,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/970191",
+			"_sFile": "weapon_cubemap.zip",
+			"_sMd5Checksum": "59b62e434c354124b9f2815a1984416f",
+			"_tsDateAdded": 1682042314
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 439283,
+	"_sName": "Cubemap Spheres",
+	"_sText": "Made this to do something like that: https://developer.valvesoftware.com/wiki/Weapon_cubemap, to test cubemap better in the map like the resolution and visually, no just checking the awp scope.<br><br>When installed, open the game enter the mapa that you want to use and use these commands:<br>Make sure you're in a surface and with noclip off<br><br><ol><li> exec create_weapon_cubemap   - To create the spheres </li></ol><ul><li> set_pos_1   - Change the position of the sphere to default</li><li> set_pos_2   - Change the position of the sphere to lower</li><li> set_pos_3   - Change the position of the sphere more to lower</li><li> set_pos_4   -  Change the position of the sphere up your head</li><li> set_type_1   -  Change the sphere style to 1   </li><li> set_type_2   -  Change the sphere style to 2   ( set_pos... don't work )</li><li> delete_weapon_cubemap   -  Delete spheres </li><li class=\"SelectedElement\"> give_weapon_cubemap   -  Give the spheres again  ( don't use twice )</li></ul>"
+}

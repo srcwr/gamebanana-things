@@ -1,0 +1,57 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"materials": {
+						"turzo": {
+							"plot": [
+								"donner_wall.vmt",
+								"donner_wall.vtf",
+								"woodfence01.vmt",
+								"woodfence01.vtf"
+							]
+						}
+					},
+					"models": {
+						"turzo": {
+							"plot": [
+								"donner_wall_post_small.dx90.vtx",
+								"donner_wall_post_small.mdl",
+								"donner_wall_post_small.phy",
+								"donner_wall_post_small.vvd",
+								"donner_wall_small.dx90.vtx",
+								"donner_wall_small.mdl",
+								"donner_wall_small.phy",
+								"donner_wall_small.vvd",
+								"railing_plot.dx90.vtx",
+								"railing_plot.mdl",
+								"railing_plot.phy",
+								"railing_plot.smd",
+								"railing_plot.vvd",
+								"railing_plot_phy.smd"
+							]
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 44697,
+			"_nDownloadCount": 488,
+			"_nFilesize": 658858,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/44697",
+			"_sFile": "fence01.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1446190611
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2918,
+	"_sName": "Fence",
+	"_sText": "Original texture is from DODS not from me."
+}

@@ -1,0 +1,65 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"Click": {
+						"0": "Read First Before Extracting!!.txt",
+						"Screenshots": [
+							"screenshot A.JPG",
+							"screenshot B.jpg",
+							"screenshot C.jpg",
+							"screenshot D.jpg",
+							"screenshot E.jpg",
+							"screenshot F.jpg"
+						],
+						"Source SDK 2007": {
+							"ep1": {
+								"bin": {
+									"prefabs": [
+										"Gun machine.vmf"
+									]
+								}
+							}
+						},
+						"source SDK 2009": {
+							"bin": {
+								"orangebox": {
+									"bin": {
+										"prefabs": [
+											"Gun machine.vmf"
+										]
+									}
+								},
+								"source2007": {
+									"bin": {
+										"prefabs": [
+											"Gun machine.vmf"
+										]
+									}
+								}
+							}
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 46376,
+			"_nDownloadCount": 206,
+			"_nFilesize": 857426,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/46376",
+			"_sFile": "click.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1277826870
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 3035,
+	"_sName": "Basic Gun Machine (Deagle)",
+	"_sText": "Hello, i have made my first prefab, its a deagle machine, press the button and a gun comes, it takes about 2-4 sec to you can spawn another one. and thanks for downloading the prefab, i hopes you all enjoy this prefab.\r\n\r\n----\r\n\r\nthere is one problem.. you can take the gun who is the model .. i would love to have some help with that =)\r\n\r\n----\r\n\r\nmade by my self =)\r\nif you want the link read the read me file\r\n\r\n\r\n----\r\nEnjoy!"
+}

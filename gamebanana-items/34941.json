@@ -1,0 +1,116 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_corruption.nav"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 480392,
+			"_nDownloadCount": 23,
+			"_nFilesize": 162387,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "version 2.1 (old)",
+			"_sDownloadUrl": "https://gamebanana.com/dl/480392",
+			"_sFile": "de_corruption_nav_b7b39.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1597420548
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_corruption.nav"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 482053,
+			"_nDownloadCount": 95,
+			"_nFilesize": 167931,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "version 2.2",
+			"_sDownloadUrl": "https://gamebanana.com/dl/482053",
+			"_sFile": "de_corruption_nav_ea8d1.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1598219951
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Improvement",
+					"text": "Fixed some areas and removed some bald spots on \"Ramp\" (mid stairs), made its ledge walkable, also the nearby \"Bridge\" ledge"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Improved jumpability to \"Outside\" and \"Wall\" (see below comment though)"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added some more missing crate tops accessibility (mostly near \"Bridge\")"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added missing dropdowns to \"Middle\" from \"Bridge\"/\"Ramp\""
+				},
+				{
+					"cat": "Tweak",
+					"text": "Disincentivize hiding inside all 3 double doors"
+				},
+				{
+					"cat": "Overhaul",
+					"text": "Reshaped a bunch of areas (consolidating unnecessarily small ones near walls in unimportant areas)"
+				},
+				{
+					"cat": "Tweak",
+					"text": "Fixed some missing \"nojump\" tags here and there"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added walkability to the ledges in the \"Porch\"/\"Courtyard\"/\"Middle\" area"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Patched up some more bald spots on \"Upstairs\""
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Fixed a spot with broken place names around \"Inside\" (chunk of it was incorrectly part of \"Bombsite A\")"
+				}
+			],
+			"_sText": "Having learned about bot_zombie / bot_goto_mark in the meantime helps a lot to find and clean some more oddities or missing accessibilities. Probably still not quite clean of them.<br><br>What I'm not happy with at this point is how when trying to access an elevated area like \"Outside\", \"Wall\" and the grassy ledge on \"Ramp\", bots that would have to turn around and jump will just continue to face the wall in a spot where it's too high unless they are facing the right direction. Even if I mark the bordering, unreachable higher area as \"avoid\". Not sure how to fix that beyond just marking the entire optional area as \"avoid\" altogether.<br><br>Another issue is shapes that are diagonal towards the blocky grid - like said \"Ramp\" ledge. Seems like you can only add a bunch densely packed of ugly areas, or have half of it hover in the air (so I went for the former)<br><br>And the third thing that's still weird to me is the \"Stairs\" attribute - it seems arbitrary where it gets placed, and it always disappears on nav_analyze when trying to do so manually (example, lowest, straight and nondiagonal section of \"Ramp\")<br>",
+			"_sTitle": "2.2",
+			"_tsDateAdded": 1598218748
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "Fixed unmapped spot on stairs on CT-Spawn/Bombsite_A border"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added missing no-damage dropdowns (around A)"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added accessability for some crate tops"
+				}
+			],
+			"_sText": "[this was the update 1-2 days after initial upload]<br><br>\"Update: I believe to have figured it out and patched up the bald spot, also added accessiblity for some inaccessible crates and missing no-damage dropdowns, mostly near A.\"<br>",
+			"_sTitle": "2.1",
+			"_tsDateAdded": 1598218682
+		}
+	],
+	"_idRow": 34941,
+	"_sName": "de_corruption.nav",
+	"_sText": "Hello, this NAV mesh for <a href=\"https://gamebanana.com/maps/153680\">de_corruption</a> is based on [Gaian]Orlanthii's submission <a href=\"https://gamebanana.com/gamefiles/9206\">here</a>.<br><br>Changes to it [edit: initial v2.0]:<br><br>1 Added place names, loosely approximating the original ones from CZ.<br><br>Now, because the CZ original placenames are awfully huge and unprecise, A-Site in particular is gigantic, I've split them up a bit, maybe excessively, here's all the place changes in particular...<br><br>T-Spawn: Patio (upper area leading to Far Side), T-Spawn (core), Front Yard (towards Stairwell and Middle), Outside (dumb name for the higher-elevation grass spot)<br><br>Middle: Courtyard (main lower area closer to B), Porch (upper area leading to Tunnels), Front (opposed to Porch, T-side), Front Door (to Front Yard/Tspawn), Side Door (to Side Yard), Middle (part near ramp closer to A), Ramp (central staircase to Bridge/FarSide, includes upper green area)<br><br>Side and Stairwell (direct T-Path to B): Stairwell, Wall (upper green part of Stairwell), Side Yard (open area between Stairwell and Door), Side Alley (going further Downstairs), Back Door (to B), Side (upper offroads area of Side Alley)<br><br>B: Back Alley (lower area from Side), Bombsite B (plantable tiles), Deck (upper camping area in corner), Backyard (Higher main B area, open half near BackWay), Crates (other half near BackHall)<br><br>Tunnel (CT rotator, also connects to former Mid): Front Hall (near Porch), Back Hall (left way to Crates), Back Way (right way to Back Yard), Tunnel (camping spot and upstairs section of original area)<br><br>Far Side (T-Path to A): Far Side (hall between Patio and Bridge), Bridge (upper middle near Ramp)<br><br>Stairs* (A connectors to Mid and Far Side): Main Hall (split part near Mid), Upstairs (from Bridge), Storage Room (part connecting to Loft and Balcony), Downstairs, Gate (end area to CT Spawn / A)<br><br>A: Bombsite A (plantable part), CT Spawn, Inside (near Main Hall), Stairs* (big one near CT Spawn), Rear (camping area under Attic), Attic (upper A near Staircase), Loft (upper A near Storage Room), Windows (opposite to Tunnel entrance<br><br>Balcony: Hey, this one stayed the same.<br><br>* I know, Stairs is now used somewhere entirely else, but both CZ areas were just too big, so it seemed like the best option, initially, \"Stairs\" was still upper part of original Stairs, and the one near CT Spawn was \"Upstairs\", but that felt even dumber.<br><br><hr><br><br>2. Hopefully fixed some broken routes with 0 connections near \"Patio [near stairs on protuding part next to Far Side, seen right from T-Spawn]\", \"[new/CT-Spawn] Stairs\"[the entire big thing had 0 connections), \"Deck\" [stair tiles from B had 0] and Side Alley [stairs down from Side Yard had 0]), Ramp [lowest tile of staircase near mid had 0].<br><br>(Moved the later edited rest of this description to versioning feature)<br>"
+}

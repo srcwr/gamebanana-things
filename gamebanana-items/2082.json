@@ -1,0 +1,135 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "kistroll_disco.jpg",
+					"1": "kistroll_disco2.jpg",
+					"2": "kistroll_disco3.jpg",
+					"3": "kistroll_disco4.jpg",
+					"4": "kistroll_disco_hammer.png",
+					"5": "prefab_kistrolldisco.vmf",
+					"cstrike": {
+						"maps": [
+							"prefab_kistrolldisco.bsp"
+						],
+						"materials": {
+							"ba_jail_kistroll": [
+								"disco_sign.vmt",
+								"disco_sign.vtf",
+								"dontstopjump_sign.vmt",
+								"dontstopjump_sign.vtf",
+								"lightdisco.vmt",
+								"lightdisco.vtf",
+								"offflrb.vmt",
+								"offflrb.vtf",
+								"placa_disco.vmt",
+								"placa_disco.vtf"
+							],
+							"models": {
+								"dualism": [
+									"frame01.vmt",
+									"frame01.vtf",
+									"spotlight01.vmt",
+									"spotlight01.vtf",
+									"spotlight01_off.vmt",
+									"spotlight01_off.vtf",
+									"stairframe.vmt",
+									"stairframe.vtf"
+								],
+								"fishy": [
+									"BLUE.vtf",
+									"GREEN.vtf",
+									"ORANGE.vtf",
+									"PURPLE.vtf",
+									"RED.vtf",
+									"YELLOW.vtf",
+									"blackpaint.vmt",
+									"blackpaint.vtf",
+									"blue.vmt",
+									"blue_off.vmt",
+									"green.vmt",
+									"green_off.vmt",
+									"greenpaint.vmt",
+									"greenpaint.vtf",
+									"orange.vmt",
+									"orange_off.vmt",
+									"purple.vmt",
+									"purple_off.vmt",
+									"red.vmt",
+									"red_off.vmt",
+									"rustpaint.vmt",
+									"rustpaint.vtf",
+									"spotlight1.vmt",
+									"spotlight1.vtf",
+									"spotlight1_off.vmt",
+									"yellow.vmt",
+									"yellow_off.vmt"
+								]
+							}
+						},
+						"models": {
+							"dualism": [
+								"spotlight01.dx80.vtx",
+								"spotlight01.dx90.vtx",
+								"spotlight01.mdl",
+								"spotlight01.phy",
+								"spotlight01.sw.vtx",
+								"spotlight01.vvd",
+								"spotlight01_frame.dx80.vtx",
+								"spotlight01_frame.dx90.vtx",
+								"spotlight01_frame.mdl",
+								"spotlight01_frame.phy",
+								"spotlight01_frame.sw.vtx",
+								"spotlight01_frame.vvd"
+							],
+							"fishy": {
+								"lights": [
+									"spot1.dx80.vtx",
+									"spot1.dx90.vtx",
+									"spot1.jpg",
+									"spot1.mdl",
+									"spot1.sw.vtx",
+									"spot1.vvd",
+									"spot2.dx80.vtx",
+									"spot2.dx90.vtx",
+									"spot2.jpg",
+									"spot2.mdl",
+									"spot2.sw.vtx",
+									"spot2.vvd"
+								]
+							}
+						},
+						"sound": {
+							"ba_jail_kistroll": [
+								"som1.wav",
+								"som2.wav",
+								"som3.wav",
+								"som4.wav",
+								"som5.wav",
+								"som6.wav"
+							]
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 45724,
+			"_nDownloadCount": 1377,
+			"_nFilesize": 39219694,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/45724",
+			"_sFile": "kistroll_disco_prefab.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1339570235
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2082,
+	"_sName": "Kistroll Disco",
+	"_sText": "Disco I've made for the ba_jail\\_kistroll map.\r\n\r\nFeatures:\r\n=========\r\nMath\\_counter with logic\\_timer effects<br>\r\nNice Design\r\n\r\nVideo:\r\n=====\r\n<iframe width=\"420\" height=\"315\" src=\"http://www.youtube.com/embed/d3B6W_41kJ4\" frameborder=\"0\" allowfullscreen></iframe>\r\n\r\nHope you like it."
+}

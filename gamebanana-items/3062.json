@@ -1,0 +1,33 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"Super_Knife": [
+						"README.txt",
+						"Super_Knife.bsp",
+						"Super_Knife.vmf",
+						"super_knife.jpg"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 45786,
+			"_nDownloadCount": 1756,
+			"_nFilesize": 249679,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/45786",
+			"_sFile": "super_knife_3.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1334019544
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 3062,
+	"_sName": "Superpowers Knife! (Gravity,speed, and health)",
+	"_sText": "WARNING: If you use the gravity on the prefab, make sure to set the player's gravity back to 1 at spawn. Don't get it? Well, the knife changes the person's gravity to 0.6. That's not the normal gravity. When the player dies and re-spawns, they still have 0.6 gravity. So at the spawn you must have a on-touch one time only trigger_gravity that targets the !activator and sets their gravity to 1. In the .vmf i have an example trigger at the spawn.\r\n\r\n\r\nWhat does this prefab do?\r\n\r\nBefore you enter the building your weapons are stripped. This makes it seem when you pick up the knife it gives you the powers. But in actuality, its a small trigger box. It gives you\r\n\r\n-More health \r\n-More speed\r\n-Less or more gravity.\r\n\r\nAll of these properties can be edited, so the play can have more health, more speed, and so on. \r\n\r\nHow to edit?\r\n\r\nGo to the trigger box that's in the knife. Edit the parameters under add output.\r\n\r\nREAD THIS: How to use in your map!\r\n\r\nMake sure you copy the entities close to the super knife, there are two of them. The weapon_strip trigger is also  required unless you have an alternative. Don't forget the trigger inside the knife, its what makes it work. :3\r\nAlso, if you were to use the gravity mod you would have to set the gravity back to 1 at the spawn areas."
+}

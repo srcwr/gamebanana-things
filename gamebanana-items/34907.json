@@ -1,0 +1,41 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"README!!.txt",
+					"de_survivor_css.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 726,
+			"_nDownloadCount": 362,
+			"_nFilesize": 1189383,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/726",
+			"_sFile": "de_survivor_css_newnav_1af43.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1486131713
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "improved instructions"
+				}
+			],
+			"_sText": "Edited the information in the readme.txt in the archive, making it clearer for readers.",
+			"_sTitle": "Minor things",
+			"_tsDateAdded": 1487421263
+		}
+	],
+	"_idRow": 34907,
+	"_sName": "Reworked NAV File for Map DE_SURVIVOR_CSS",
+	"_sText": "This is a navigation file for the bots/hostages for the map <b>de_survivor_css</b>. An awesome remake of a classic made by <i>SM Sith Lord</i>&nbsp; that you can find here: <a href=\"http://gamebanana.com/maps/158280\">MAP</a><br><br>His download already comes with a nav file, but I suspect he just left the bots to learn the map and packaged it along, as it's not perfect. There were a few places where bots would get stuck, and a few places where they should be able to go, but didn't (the inside of the truck). THIS nav file fixes that!<br><br>One more tasty treat :) - The nav file is completely <u>place named</u> with locations matching perfectly those of the original de_survivor map for CS 1.6. So now when you play you'll get the current location displayed on the radar and if you play with bots they will use the names of the map areas.<br><br>Have fun!"
+}

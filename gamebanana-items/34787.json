@@ -1,0 +1,45 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_nipperhouse nav redme.txt",
+					"de_nipperhouse.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 2813,
+			"_nDownloadCount": 637,
+			"_nFilesize": 85109,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/2813",
+			"_sFile": "nav_de_nipperhouse_832e2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1387385439
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Total improvement of comlete Navigation Mesh"
+				},
+				{
+					"cat": "-",
+					"text": "Added Place Names"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Update 1",
+			"_tsDateAdded": 1472907363
+		}
+	],
+	"_idRow": 34787,
+	"_sName": "Hand-tuned NAV for map DE_NIPPERHOUSE",
+	"_sText": "Counter-Strike: Source : Bot's Navigation Mesh for the map DE_NIPPERHOUSE<br><br>Nav Creator: Meurglis3, Release Date: December 18 2013<br><br>Here is the Navigation Mesh for nice small and fun map <a href=\"http://css.gamebanana.com/maps/12876\">de_nipperhouse</a> by NIPPER (released May 2006).\r\nIt's a completely hand-made and carefully optimized .nav-file (in original author's release the .nav-file probably was simple auto-gen).<br><br>This Navigation Mesh was created from scratch approximately for 80% 'cause auto-generated Navigation Mesh was absolutely unclear for perception of bots (especially it concerns indoor parts of the map). Special the attention should be paid to doorways as the part of doors opens in a face to the player (for logic of bots it is very critical thing).<br><br>Well... the bots freely move through almost all areas of the map (except absolutely insignificant and complicating the gameplay, like a close attic or a chimney). Most of all they are attracted by the moonshine and home-made pickles stored in a cellar! :-)<br><br>Also this Navigation Mesh is fully Place Painted.<br><br>NOTE: For possibility of comparison and in-game testing the original navigation file by map creator included in original archive and available to downloading with the <a href=\"http://css.gamebanana.com/maps/12876\">same map</a>.<br><br>Play and Enjoy! Also don't forget to leave the responses ;-)<br><br>Credits and Gratitudes:\r\nNIPPER (for nice fast-paced map about close combat and sniper's hunting).<br><br>Additional Gratitudes:\r\nBarnDoor (for perfect playable navigation meshes for many fine CS:S maps),\r\nChizbone (for informative and clever article BOT_BRAINED and a set of excellent navigation meshes),\r\nCoCoNUT (for fine hand-tuned navigation meshes for many fine CS:S maps),\r\nValve Developer Community (for learning articles by Navigation Meshes and Navigation Mesh Commands).<br><br>Mama, I'm coming home! :D<br>\r\n<br>"
+}

@@ -1,0 +1,47 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "totem_pole_mg_prefab_release.bsp",
+					"1": "totem_pole_mg_prefab_release.vmf",
+					"ryan_dev": [
+						"dev_black.vmt",
+						"dev_black.vtf",
+						"dev_cmyk_magenta.vmt",
+						"dev_cmyk_magenta.vtf",
+						"dev_cmyk_yellow.vmt",
+						"dev_cmyk_yellow.vtf",
+						"dev_dark_green3.vmt",
+						"dev_dark_green3.vtf",
+						"dev_dark_violet2.vmt",
+						"dev_dark_violet2.vtf",
+						"dev_light_blue1.vmt",
+						"dev_light_blue1.vtf",
+						"dev_rbg_green.vmt",
+						"dev_rbg_green.vtf",
+						"dev_white.vmt",
+						"dev_white.vtf"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 45358,
+			"_nDownloadCount": 467,
+			"_nFilesize": 341554,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/45358",
+			"_sFile": "totem_pole_mini_game.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1373544425
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 3324,
+	"_sName": "Totem Pole",
+	"_sText": "Totem Pole Pound\r\n================\r\nThe map introduces my newest mini game creation: Totem Pole pound. The idea was taken from the Game - Super Mario Party - and modified to suit CS:S (IE using a knife to progress rather than your ass).<br>\r\nPrisoners are loaded into the tubes and the round is started. First one to make it to the bottom is teleported into a control room, and the losers are teleported into a chamber. <br>\r\nFrom there the winner is given 4 buttons:<br>\r\nS - Save<br>\r\nW - Water (drown)<br>\r\nG - Gas<br>\r\nE - Explode<br>\r\nOnce the player makes his choice, he is teleported back to the group and the along with the survivors (if applicable).\r\n\r\nI have included a failsafe for it, incase a prisoner decides to abuse it which resets the game completely. The reset button unlocks 15 seconds after the start button finishes, but is only needed if the game bugs out (for whatever reason). The game will reset itself once the punishment is selected."
+}

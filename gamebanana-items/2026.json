@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"trikz_spawn_v2.vmf",
+					"trikz_spawn_v2.vmx"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 45965,
+			"_nDownloadCount": 515,
+			"_nFilesize": 13314,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/45965",
+			"_sFile": "_245-_2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1314349556
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2026,
+	"_sName": "Trikz Settings v2",
+	"_sText": "##### Trikz Settings v2\r\n\r\n- env_sun\r\n- Filter_damage\r\n- Info_player_start\r\n- x2 info_player_terrorist\r\n- light_enviroment\r\n- point_servercommand\r\n- x2 Flash spawn\r\n- Shadow_control\r\n- game_player_equip [Knife + Usp]\r\n- Anti fail damage\r\n\r\n- Settings:\r\n- sv_enablebunnyhopping 1 \r\n- sv_airaccelerate 10\r\n- sv_enableboost 1\r\n\r\nGood luck"
+}

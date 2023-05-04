@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"simpletruck.vmf"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 46315,
+			"_nDownloadCount": 647,
+			"_nFilesize": 8256,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/46315",
+			"_sFile": "simpletruck.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1283150315
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2715,
+	"_sName": "Simple Truck",
+	"_sText": "This is a simple truck made for my zombie escape map. Its designed to be a func_tanktrain which can hold many people at once, at the truck's interior, the truck's driver seat and even on top of it.\r\n\r\nInstructions:\r\nPut the downloaded file into C:\\Program Files\\Steam\\SteamApps\\YOURACCOUNTNAME\\sourcesdk\\bin\\orangebox\\bin\\prefabs\r\nOpen your map.\r\nSelect the Entity Tool and look to the right. Click the dropdown box that says Entities and select Prefabs. Find the one you downloaded (simpletruck).\r\nClick Insert Original Prefab and customize it to your own needs. (Ungroup it so that you can edit it easier)"
+}

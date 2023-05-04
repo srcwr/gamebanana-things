@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"prefab.pcf"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 45943,
+			"_nDownloadCount": 808,
+			"_nFilesize": 43113,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/45943",
+			"_sFile": "prefab_6.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1316981055
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2032,
+	"_sName": "Particle effect reference file",
+	"_sText": "This prefab is a selection of basic particle effects that I made for bhop_yonkoma.  The pcf file is intended to be used as a reference for learning and template for starting.  Please do not use these particles directly in your map--use them to learn and make something new and interesting.\r\n\r\nSome of them are based off of Valve particles and the naming scheme is useless at best.  Add the pcf file to your /particles directory and add an entry in your particles_manifest.txt.  For CS:S, you must launch with the -tools option.\r\n\r\nExample of some of the particles within this prefab:\r\n<iframe width=\"560\" height=\"315\" src=\"http://www.youtube.com/embed/C9pKo4I80e0\" frameborder=\"0\" allowfullscreen></iframe>"
+}

@@ -1,0 +1,44 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"Cheese": {
+						"Custom": {
+							"Scripts": [
+								"weapon_ak47.txt",
+								"weapon_aug.txt",
+								"weapon_famas.txt",
+								"weapon_g3sg1.txt",
+								"weapon_galil.txt",
+								"weapon_m249.txt",
+								"weapon_m4a1.txt",
+								"weapon_p90.txt",
+								"weapon_sg550.txt",
+								"weapon_sg552.txt"
+							]
+						}
+					}
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 406750,
+			"_nDownloadCount": 184,
+			"_nFilesize": 11722,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/406750",
+			"_sFile": "hl3_4419a.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1547141719
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 34732,
+	"_sName": "Remove Muzzleflash X",
+	"_sText": "<span class=\"RedColor\">[ESP]</span><br>Algunas armas de CS:S poseen un muzzleflash con forma de \"X\" (especialmente rifles), esto lo regula un script, modifiqué el script para que esto ya no sea así.<br><span class=\"RedColor\"><br>IMPORTANTE!&nbsp;</span><br>Esto no es una textura, solo cambia un una linea del script que regula los Muzzleflashes.<br>En el Script de M4A1 no se encuentra el comando antes mencionado, probé algunas cosas, pero el muzzleflash X sigue ahí, si alguien sabe como arreglarlo, lo agradecería.<br><br><span class=\"RedColor\">[ENG]</span><br>Some CS: S weapons have a \"X\" muzzleflash (especially rifles), this is a script, I modified the script so that this is no longer the case.<br><br><span class=\"RedColor\">IMPORTANT!</span><br>This is not a texture, just change a line of the script that regulates the Muzzleflashes.<br>In the M4A1 Script the command mentioned above is not found, I tried some things, but the Muzzleflash X is still there, if anyone knows how to fix it, I would appreciate it.<br><br>"
+}

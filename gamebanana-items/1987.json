@@ -1,0 +1,63 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"TopHATTwaffle CTF": {
+						"0": "CTF_Map.vmf",
+						"materials": {
+							"models": {
+								"flag": [
+									"tfcflag_blu.vmt",
+									"tfcflag_blu.vtf",
+									"tfcflag_neutral.vmt",
+									"tfcflag_neutral.vtf",
+									"tfcflag_red.vmt",
+									"tfcflag_red.vtf",
+									"tfsymbol.vmt",
+									"tfsymbol.vtf"
+								]
+							}
+						},
+						"models": {
+							"flag": [
+								"flag.dx80.vtx",
+								"flag.dx90.vtx",
+								"flag.mdl",
+								"flag.sw.vtx",
+								"flag.vvd"
+							]
+						},
+						"sound": [
+							"Blue_Flag_Returned.wav",
+							"Blue_Flag_Taken.wav",
+							"Blue_Team_Scores.wav",
+							"Red_Flag_Returned.wav",
+							"Red_Flag_Taken.wav",
+							"Red_Team_Scores.wav",
+							"blue_team_is_the_winner.wav",
+							"red_team_is_the_winner.wav"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 46182,
+			"_nDownloadCount": 539,
+			"_nFilesize": 723147,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/46182",
+			"_sFile": "tophattwaffle_ctf_v11.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1292019019
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 1987,
+	"_sName": "Capture The Flag v1.1",
+	"_sText": "version 2 coming soon!!!\r\n\r\nThis is my custom CTF prefab for Counter-Strike Source.\r\n\r\n<object width=\"320\" height=\"205\"><param name=\"movie\" value=\"http://www.youtube.com/v/zqHyRSnggpI?fs=1&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://www.youtube.com/v/zqHyRSnggpI?fs=1&amp;hl=en_US\" type=\"application/x-shockwave-flash\" allowscriptaccess=\"always\" allowfullscreen=\"true\" width=\"320\" height=\"205\"></embed></object>\r\n\r\nWorks best with DeathMatch mod.\r\n\r\nFeatures:\r\n-5 points to win, then map changed\r\n-Sound played when flag taken, flag captured, flag returned, and on win\r\n-Displays scores throughout the entire match\r\n-Returns flag when a ally runs over it\r\n-Rewards when you capture a flag\r\n\r\nTERMS OF USE:\r\nYou MUST credit me if you use this in your map.\r\n\r\nHow to Implement this into your own level.\r\n\r\n1. Copy the Materials, Models, and Sound folder into your game directory.\r\n2. Open CTF_Map.vmf\r\n3. Look under your VisGroups, notice the 7 groups\r\n4. Select \"Blue Flag\" and press \"Mark\"\r\n5. Place this in your map where you want the flag to be. DO NOT resize ANY brushes.\r\n6. Do the same with \"Red Flag\"\r\n7. Select \"Blue Teleport\" and press \"Mark\"\r\n8. Place this with your spawn points\r\n9. Do the same with \"Red Teleport\"\r\n10. Select \"Blue Capture Point\" and press \"Mark\" Copy this into your level. You many resize this, DO NOT have the capture point, and the Flag point be the same.\r\n11. Do the same with \"Red Capture Point\"\r\n12. Select \"Logic\" and press \"Mark\" place this ANYWHERE in your level.\r\n13. Enjoy CTF\r\n\r\n--ChangeLog--\r\n\r\nv1.0\r\n-First Release\r\n\r\nv1.1\r\n-Kinda, Fixed a bug where if you die holding the flag, you can capture with out the flag next round.\r\n-Fixed scoring system\r\n-You now must drop your current gun to return the flag to your base\r\n\r\n\r\nIf you are having trouble making this work, add me on steam.\r\nDoogiehoogie is my account."
+}

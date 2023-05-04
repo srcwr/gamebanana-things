@@ -1,0 +1,70 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "lightbar info.txt",
+					"maps": [
+						"police_lightbar_siren.bsp"
+					],
+					"mapsrc": [
+						"police_lightbar_siren.vmf"
+					],
+					"materials": {
+						"lightbar": [
+							"lightbar_blue.vmt",
+							"lightbar_blue.vtf",
+							"lightbar_green.vmt",
+							"lightbar_green.vtf",
+							"lightbar_orange.vmt",
+							"lightbar_orange.vtf",
+							"lightbar_red.vmt",
+							"lightbar_red.vtf",
+							"lightbar_white.vmt",
+							"lightbar_white.vtf",
+							"lightbar_yellow.vmt",
+							"lightbar_yellow.vtf"
+						]
+					},
+					"sound": {
+						"siren": [
+							"Wail_loop1.wav",
+							"Wail_loop2.wav",
+							"Wail_loop3.wav",
+							"airhorn_loop1.wav",
+							"airhorn_loop2.wav",
+							"dutch_hilo_loop1.wav",
+							"germany_hilo_loop1.wav",
+							"germany_hilo_loop2.wav",
+							"hilo_loop1.wav",
+							"hilo_loop2.wav",
+							"hilo_loop3.wav",
+							"hilo_loop4.wav",
+							"powercall_loop1.wav",
+							"yelp_loop1.wav",
+							"yelp_loop2.wav",
+							"yelp_loop3.wav"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 46180,
+			"_nDownloadCount": 628,
+			"_nFilesize": 4489421,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/46180",
+			"_sFile": "police_lightbar_siren_2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1292216617
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 3288,
+	"_sName": "police_lightbar_siren",
+	"_sText": "I making good lightbar with rotating & flash & strobe lights & custom siren sounds\r\n\r\nLots of different lightbars & added custom sound wail yelp hilo powercall airhorn in 'siren' folder install 'sound' folder if don't have, just create new folder 'sound'.\r\n\r\n1 driveable with lightbar & siren sound, this driveable from youtube tutorial step by step & some added things.\r\n\r\nFew problem all dynamic lights no options flags 'start on' & 'initially dark' when start can't turn off lights, just create 'trigger_multiple' when respawn player touch start turn off all dynamic lights.\r\n\r\nDynamic light & light & point spotlight used logic_timer loop flash lights.\r\n\r\nBSP & VMF & Textures & sounds includes zip folder.\r\n\r\nIf you use this prefabs, must credit me. You can change any textures.\r\n\r\nVideo lightbar & siren\r\n<object width=\"853\" height=\"505\"><param name=\"movie\" value=\"http://www.youtube.com/v/6LL4zn1pEp4?fs=1&amp;hl=en_GB&amp;color1=0xe1600f&amp;color2=0xfebd01\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://www.youtube.com/v/6LL4zn1pEp4?fs=1&amp;hl=en_GB&amp;color1=0xe1600f&amp;color2=0xfebd01\" type=\"application/x-shockwave-flash\" allowscriptaccess=\"always\" allowfullscreen=\"true\" width=\"853\" height=\"505\"></embed></object>"
+}

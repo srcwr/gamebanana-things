@@ -1,0 +1,50 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "MachineGun.vmf",
+					"REQUIRED": {
+						"materials": {
+							"models": {
+								"PKM": [
+									"wpn_pkm.vmt",
+									"wpn_pkm.vtf",
+									"wpn_pkm_lenta.vmt",
+									"wpn_pkm_lenta.vtf"
+								]
+							}
+						},
+						"models": {
+							"PKM": [
+								"PKM.dx80.vtx",
+								"PKM.dx90.vtx",
+								"PKM.phy",
+								"PKM.sw.vtx",
+								"pkm.mdl",
+								"pkm.vvd"
+							]
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 45900,
+			"_nDownloadCount": 1842,
+			"_nFilesize": 554369,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/45900",
+			"_sFile": "pkm.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1321897341
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 3059,
+	"_sName": "PKM Heavy Machine Gun",
+	"_sText": "Well, I always wanted to try to make a realistic Machine Gun CS-S, and after months I managed to get close to it xD I hope you enjoy and a great big hug to AuroraF because I based it on the project's Field Gun and to S.T.A.L.K.E.R, GSC Game World for the PKM Gun ... ."
+}

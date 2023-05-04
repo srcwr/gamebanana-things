@@ -1,0 +1,31 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"slide_prefab.vmf",
+					"source_slide.vmf",
+					"wallrun_prefab.vmf"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 473735,
+			"_nDownloadCount": 59,
+			"_nFilesize": 12200,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/473735",
+			"_sFile": "source_slide_9f359.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1594478998
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2177,
+	"_sName": "slide and wallrun",
+	"_sText": "slide_prefab.vmf:<br><br><span class=\"RedColor\">you need to copy a triggers in order, it's very important to follow the order, otherwise it will be possible to jump on the slide if you press +duck and +jump.</span><br><br>1. Copy filter_activator_name, player_speedmod, trigger_multiple(start_reset) and put them all at start.<br><br>2. Copy trigger_teleport(main_slide) and put it at slide place. (if you'll have not just straight slide, then you need to combine every trigger_teleport(main_slide) that related to one slide).<br><br>3. Copy trigger_multiple(main_slide2) and put it at slide place. (if you'll have not just straight slide, then you need to combine every trigger_multiple(main_slide2) that related to one slide).<br><br>if you need a booster:<br><br>4. Copy trigger_multiple(boostslide) and put it at the end of slide.<br><br>Repeat from step 2. for every new slide.<br><br>An example of how all this should work you can check if you'll open source_slide.vmf or&nbsp;<a href=\"https://gamebanana.com/maps/210871\">bhop_retrowave(CS:S)</a><br><hr>wallrun_prefab.vmf:<br><br><span class=\"RedColor\">WARNING: wallrun can stop the player if two players will jump into one trigger at the same time!</span><br><br>1. Copy everything in wallrun_prefab.vmf to your map.<br><br>2. trigger_multiple(wallrun) move/copy at your wall.<br><br>If you need a booster:<br><br>3. Copy from slide_prefab.vmf<br><br>If you need more wallrun slides, just repeat step 2.<br><br><span class=\"RedColor\">Don't use toolsplayerclip texture for func_movelinear(stop_slide) otherwise you will be stopped, I don’t know why is this happening, you can just create a transparent texture.</span><br><br>"
+}

@@ -1,0 +1,35 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "spiralGardens.bsp",
+					"1": "spiralGardens.vmf",
+					"materials": {
+						"fibbs": [
+							"water_flat.vmt",
+							"water_flat.vtf"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 44004,
+			"_nDownloadCount": 1746,
+			"_nFilesize": 2065041,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/44004",
+			"_sFile": "spiralgardens.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1339112062
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 355,
+	"_sName": "Spiral Garden",
+	"_sText": "Something I made when I was bored. I figure someone could do something with it, maybe a knife arena or something. Be aware that it uses quite a lot of brushes.\r\n\r\nThe version in the download has a 3D skybox too, which isn't shown in the screenshots. You may want to delete that.\r\n\r\nThe skybox should be remade to fit if you are going to use this. I simply made it a box as I was only quickly testing it.\r\n\r\nWater texture is included. Simply drop the materials folder into your cstrike folder. The material is named \"water_flat\"."
+}

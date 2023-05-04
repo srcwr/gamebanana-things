@@ -1,0 +1,75 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"Posable blackhawk train": {
+						"steam": {
+							"Steamapps": {
+								"common": {
+									"Counter-Strike Source": {
+										"bin": {
+											"prefabs": [
+												"Posable blackhawk train.vmf"
+											]
+										},
+										"cstrike": {
+											"materials": {
+												"copter prefab textures": [
+													"1.vmt",
+													"1.vtf",
+													"2.vmt",
+													"2.vtf",
+													"3.vmt",
+													"3.vtf",
+													"4.vmt",
+													"4.vtf",
+													"Camera (bottom).vmt",
+													"Camera (bottom).vtf",
+													"Camera (front).vmt",
+													"Camera (front).vtf",
+													"LIGHT.vmt",
+													"LIGHT.vtf",
+													"Liftoff.vmt",
+													"Liftoff.vtf",
+													"ROTOR (SECONDARY).vmt",
+													"ROTOR (SECONDARY).vtf",
+													"ROTOR (main).vmt",
+													"ROTOR (main).vtf",
+													"STOP.vmt",
+													"STOP.vtf",
+													"activate.vmt",
+													"activate.vtf",
+													"start.vmt",
+													"start.vtf"
+												]
+											}
+										}
+									}
+								}
+							}
+						}
+					}
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 448978,
+			"_nDownloadCount": 171,
+			"_nFilesize": 119673,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/448978",
+			"_sFile": "posable_blackhawk_train.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1581730906
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2768,
+	"_sName": "Drivable, posable, player controlled helicopter",
+	"_sText": "It's DONE!!! FINALLY !!!! <br>I DID IT!!! <br><br>YES! The helicopter is flyable (it's a train)<br>YES! It is possable (can break glass, move chairs, pull levers, switch cameras, on/off lights, on/off copter, mouse control light, doors open/close, etc.)<br>YES! The copter is adjustable (some stuff, if you don't need em, can be removed or added)<br><br>At long last, after fixing several unbearable, tedious details i got the thing working!  <br><br>I present to you.... THE BLACKHAWK ! <br><br>A while back i was looking for a decent helicopter train that I could include in my Wintermaze_2016_V4 map (still in development). Then i found a 10 year old CSS prefab created by panach and thought to myself....'' looks nice, but its a func_detail''. So I took his original prefab and transformed it into  a player controlled, interactive train!<br><br>(for more details see the video, I know it's long asf, but it has some important stuff, incase you decide to use the prefab)<br><br>(Original blackhawk: <a href=\"https://gamebanana.com/prefabs/5099\">https://gamebanana.com/prefabs/5099</a> ).<br><br>Some of the stuff, if you don't need em you can remove such as cameras, lights, chairs to name a few. If you will remove the cameras then you will also need to remove the black and blue box. <br><br>You can manipulate the thing however you like, if you got the skill, however keep in mind that the prefab is quite sophisticated, and small changes in the system can cause huge changes in the world (this does not apply to accessories as their systems are seperate from the train itself). <br><br>Now a bit of instructions:<br>Be careful when you manipulate path_tracks, as they have their own rolls, pay attention to the first two at the beginning and at the end (where helicopter takes off and lands). You CAN add extra tracks and manipulate the existing ones just watch it with the ones that are near landing zones.  <br><br>Cameras- Cameras use also the black and blue boxes. you need to hide them somewhere in your map if you want the copter to have cameras, if not just remove the monitor, both buttons, cameras and the info_cameralink entities (four cubes on top of each other next to the copter).<br><br>Chairs- Chairs are also interactive, they can be moved back using the lever. IF you don't need them, just take em out. <br><br>Mouse controlled searchlight- Next to the chopper there is a mouse controlled searchlight attached to it. Players can interact and use it to ''shed some light'' on places they can't see. It uses 3 entities, which are stacked togeather somewhere (logic_measure_movement, logic_auto, game_ui).  <br><br>The rest of the stuff is pretty straight forward... <br><br>For questions... feel free to ask... <br>If you find any bugs.... please try to fix em at first on you'r own as i am almost ready to hang myself if I have to fix another bug.... or you can just leave em at the comments and I'll see what the deal is...if i can.... <br>If im still alive I'll fix it, perhaps even reply to you... XD"
+}

@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"rotate_prefab_degrees.vmf"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 46470,
+			"_nDownloadCount": 216,
+			"_nFilesize": 7471,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/46470",
+			"_sFile": "prefab_degrees.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1270342508
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 1923,
+	"_sName": "Degrees Timer Prefab.",
+	"_sText": "<font size=3 color=lightblue><b> Prefab Timer ( Degrees ) </font></b>\r\n\r\n---\r\n\r\nWell, i made this simple prefab some time ago but i forgot to send it to fpsb ( Weird, i know... ).\r\nOk, this \"clock\" timer is made of:\r\n<font size=1 color=lightgreen><b>1</b> func_tracktrain\r\n<b>1</b> func_rotating\r\n<b>1</b> logic_timer</font>\r\n\r\n---\r\n\r\n<b>What it does?</b>\r\nEach 18 seconds, 1 laser ( env_laser ) and 1 spotlight ( point_spotlight ), will turn on, after some seconds, it will turn off. But you can use it for other things ( like teleports ), just changing the timer output to your teleport ( don't forget that your teleport needs to be disabled )\r\n\r\n---\r\n\r\nI just made this prefab because there is people who might don't know that, but there's much people who <b> knows </b> that. So, if you use it in your map, you don't need to credit me.\r\n\r\n--- \r\n\r\nAfter i will make a tutorial of how to make it.\r\n\r\n---\r\n\r\nVideo: ( extremely nice music :D )\r\n<object width=\"300\" height=\"300\"><param name=\"movie\" value=\"http://www.youtube.com/v/Z4ZzvPf-eJk&hl=pt_BR&fs=1&color1=0x006699&color2=0x54abd6\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://www.youtube.com/v/Z4ZzvPf-eJk&hl=pt_BR&fs=1&color1=0x006699&color2=0x54abd6\" type=\"application/x-shockwave-flash\" allowscriptaccess=\"always\" allowfullscreen=\"true\" width=\"300\" height=\"244\"></embed></object>\r\n\r\n---\r\n\r\n<font size=1 color=red> Prefab made by <b> Arroba </b>\r\nIf you like it. Please comment and rate! "
+}

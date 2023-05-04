@@ -1,0 +1,30 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"README .txt",
+					"prefab_color.vmf",
+					"prefab_color.vmx"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 45487,
+			"_nDownloadCount": 406,
+			"_nFilesize": 6419,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/45487",
+			"_sFile": "prefab_color.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1358604836
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2909,
+	"_sName": "--Make colorful player--",
+	"_sText": "This Prefab will make you Green , but you can change that by changing the 2nd output. \r\n\r\nFor Red you need to change it to :\r\n\r\nWith a parameter override of : 100 0 0\r\n\r\nFor BLUE you need to change it to :\r\n\r\nWith a parameter override of : 0 0 100\r\n\r\nFor BLACK you need to change it to :\r\n\r\nWIth a parameter override of : 255 255 255\r\n\r\n-------------------------------------------------------------------------------------------\r\n\r\nIf you die you will still be in that color you set , but if you dont want that you just \r\nneed to C&P the trigger to the Spawn and change again the 2nd output to:\r\n\r\nWith a parameter override of : 0 0 0\r\n\r\nBut when you are colored and than go to the spawn and touch this trigger you will again be \r\nNormal.\r\n\r\nMake sure that this will be impossible\r\n-------------------------------------------------------------------------------------------\r\n-------------------------------------------------------------------------------------------\r\n\r\nI hope you understood what I wanted to explain^^\r\n\r\nAnd if you need help ask me."
+}

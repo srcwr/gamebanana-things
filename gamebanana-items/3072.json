@@ -1,0 +1,65 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"DubstepGun": {
+						"0": "Dubstepgun.bsp",
+						"1": "Dubstepgun2.vmf",
+						"materials": {
+							"dubstep": [
+								"Beat.vmt",
+								"Beat.vtf"
+							],
+							"models": {
+								"props": {
+									"dubstepgun": [
+										"[dubstep.vmt",
+										"[dubstep]gun_bump.vtf",
+										"[dubstep]gun_diffuse.vtf"
+									]
+								}
+							}
+						},
+						"models": [
+							"dubstepgun.dx80.vtx",
+							"dubstepgun.dx90.vtx",
+							"dubstepgun.mdl",
+							"dubstepgun.phy",
+							"dubstepgun.sw.vtx",
+							"dubstepgun.vvd",
+							"thunder_gun.dx80.vtx",
+							"thunder_gun.dx90.vtx",
+							"thunder_gun.mdl",
+							"thunder_gun.phy",
+							"thunder_gun.sw.vtx",
+							"thunder_gun.vvd"
+						],
+						"sound": {
+							"dubstep": [
+								"dubstepgun.mp3"
+							]
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 45088,
+			"_nDownloadCount": 836,
+			"_nFilesize": 18116512,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/45088",
+			"_sFile": "dubstepgun.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1396101275
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 3072,
+	"_sName": "Dubstep Gun",
+	"_sText": "Hi!\r\n\r\nToday i show you my \"DubstepGun\" like in Saint Row ! You have to take the glock and to press the button. You have to wait the \"drop\" of the music, and the weapon start shooting :)\r\nI've created this gun for the map jb\\_vortex\\_dimension, but i didn't use it because it create bug with models (they pass through the floor). I think it isn't 100% done, it still some bug to fix, but i hope, you'll enjoy this gun ^^\r\n\r\nThe file is made with : .bsp .vmf, and the extracted file you need for .vmf (models, texture, and song).\r\n\r\nRaphi"
+}

@@ -1,0 +1,59 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"transformer": {
+						"materials": {
+							"custom": [
+								"large_gerrn_box_side.vmt",
+								"large_gerrn_box_side.vtf",
+								"large_green_Box_02.vmt",
+								"large_green_Box_02.vtf",
+								"side2.vmt",
+								"side2.vtf"
+							],
+							"models": {
+								"props": [
+									"large_gerrn_box_side.vmt",
+									"large_gerrn_box_side.vtf",
+									"large_green_Box_02.vtf",
+									"large_green_box_02.vmt",
+									"side2.vmt"
+								]
+							}
+						},
+						"models": {
+							"props": [
+								"large_green_transformer_b2.dx80.vtx",
+								"large_green_transformer_b2.dx90.vtx",
+								"large_green_transformer_b2.mdl",
+								"large_green_transformer_b2.phy",
+								"large_green_transformer_b2.sw.vtx",
+								"large_green_transformer_b2.vvd"
+							]
+						}
+					}
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 428136,
+			"_nDownloadCount": 23,
+			"_nFilesize": 4183588,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/428136",
+			"_sFile": "transformer.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1565148790
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2171,
+	"_sName": "Green Electrical box",
+	"_sText": "This is just a simple prop/model made from a power box near me&nbsp;"
+}

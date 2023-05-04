@@ -1,0 +1,32 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"spawn_sequence_by_raymon.bsp",
+					"spawn_sequence_by_raymon.lin",
+					"spawn_sequence_by_raymon.nav",
+					"spawn_sequence_by_raymon.vmf",
+					"spawn_sequence_by_raymon.vmx"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 46361,
+			"_nDownloadCount": 197,
+			"_nFilesize": 27957,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/46361",
+			"_sFile": "spawn_sequence_by_raymon.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1279360405
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 1953,
+	"_sName": "spawn sequence by RaYmOn",
+	"_sText": "spawn sequence by RaYmOn\r\n\r\nuse it if you need the right spawn sequence\r\n\r\nInclude:\r\n\r\n- .bsp\r\n- .nav\r\n\r\n- .vmt\r\n- .vmx\r\n- .lin\r\n\r\nAdded:\r\n\r\n- Test Area\r\n- 8 T Spawnpoints\r\n- 8 CT Spawnpoints\r\n- Weapons\r\n- Console Commands\r\n  - mp_freezetime 5\r\n  - say toggle\r\n\r\nNote:\r\n\r\n- Works with Players - 100%\r\n- Works with Bots - 100%\r\n- All who joins 4 seconds after map start would be killed\r\n\r\nis there any way to make it easier?"
+}

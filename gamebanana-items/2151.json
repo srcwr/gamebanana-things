@@ -1,0 +1,32 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"es_test.bsp",
+					"es_test.log",
+					"es_test.prt",
+					"es_test.vmf",
+					"es_test.vmx"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 44916,
+			"_nDownloadCount": 255,
+			"_nFilesize": 29116,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/44916",
+			"_sFile": "es_testi_2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1418227620
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2151,
+	"_sName": "Escape game mode es_",
+	"_sText": "This is my version of Escape mode. So when terrorist reach escape zone they will win and all counter terrorist will be slayed. This is almost like original escape mode but terrorist won't get extra money when they reach escape zone and counter terrorist shouldn't be slayed when terrorist reach escape zone but this was the only way I knew how to make terrorist win when they reach escape zone.\r\n\r\nThis is very easy to do: make a escape zone (button or trigger if you use button then select flags: don't move and touch activates) and then make two filter_activator_team (1st filter select Filter Team Number: Terrorist. 2nd filter select Filter Team Number: Counter-Terrorist) and then make trigger_hurt (start disabled). Connect them like this: escape zone(Target Input: TestActivator)->1st filter(Target Input: Enable)->trigger_hurt(this one go to Class Info -tab and then select 2nd filter for Filter Name)->2nd filter\r\n\r\nThis is model for cs 1.6 game mode called Escape. There wasn't any Escape maps in cs 1.6 but there was still Escape game mode. There has been 3 Escape maps: Jail, Frantic and Trinity but didn't make it to cs 1.6. Jail was in BETA 6.0 and BETA 6.1. Frantic was also in BETA 6.0 and BETA 6.1. Trinity was in BETA 6.5->BETA 6.8. More info about Escape mode here: http://counterstrike.wikia.com/wiki/Escape\r\n\r\nI hope this helped you and sorry for my bad english.\r\n\r\nUpdate: I added couple things to this map:\r\n1. game_text \"A terrorist has escaped!\" which is shown when terrorist reaches to safe zone. filter1->game_text (Output: OnPass, My Input: Display, Once: Yes)\r\n2. game_score gives 3 points to the first terrorist who reaches the safe zone. filter1->game_score (Output: OnPass, My Input: ApplyScore, Once: Yes)\r\n3. Bomb area that terrorist can't reach so if time runs out terrorist lose and it won't end up as tie.\r\n4. Buy zone for ct and weapons for t. (this is as it's in cs 1.6)"
+}

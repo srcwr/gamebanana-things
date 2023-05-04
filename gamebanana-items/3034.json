@@ -1,0 +1,30 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"HRS - Spawn Roulette(wheel)": [
+						"spawnroulette_beta.vmf"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 46397,
+			"_nDownloadCount": 357,
+			"_nFilesize": 14199,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/46397",
+			"_sFile": "hrs_-_spawn_roulettewheel.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1276106497
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 3034,
+	"_sName": "Weapon Roulette Spawner(Wheel)",
+	"_sText": "///////////////////////////////////////////////////\r\n//HRS----HRS--HRSHRSHRS--HRSHRSHRS////\r\n//HRS----HRS--HRS-----HRS--HRS---------////\r\n//HRSHRSHRS--HRSHRS-------HRSHRSHRS///\r\n//HRS----HRS--HRS-----HRS-----------HRS////\r\n//HRS----HRS--HRS------HRS--HRSHRSHRS///\r\n///////////////////////////////////////////////////\r\n/////////--------HRS.Quality.Mark.--------//////\r\n///////////////////////////////////////////////////\r\n\r\n---------------------------------------------------\r\nThis prefrab is made by: \r\n\r\nHellRaisedSurfer\r\n---------------------------------------------------\r\n\r\nVideo:\r\n<object width=\"560\" height=\"340\"><param name=\"movie\" value=\"http://www.youtube.com/v/FKOBfnfV3Ss&hl=da_DK&fs=1&color1=0x402061&color2=0x9461ca\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://www.youtube.com/v/FKOBfnfV3Ss&hl=da_DK&fs=1&color1=0x402061&color2=0x9461ca\" type=\"application/x-shockwave-flash\" allowscriptaccess=\"always\" allowfullscreen=\"true\" width=\"560\" height=\"340\"></embed></object>\r\n\r\n---------------------------------------------------\r\nThe System:\r\n\r\nThe system is pretty simple and \r\ncontains:\r\n- 12 triggers\r\n- 4 Logic Compares\r\n- 4 Weapons\r\n- 1 logic_timer\r\n- 1 func_rotating\r\n- 1 func_physbox\r\n- 1 Func_button\r\n- 1 func_template\r\n\r\nExplained:\r\nA physbox is placed in the middle\r\nof the arrows, the physbox will\r\nnow change the value of the logics\r\n(compares) everytime it enter \r\nthe compares zone (comp1: p228,\r\ncomp2: ak, comp3: m4, comp4: awp)\r\n\r\nthe func_button will start the \r\nrotator and enable the timer, \r\nwhen the timer stops it will do the\r\nfollowing things:\r\n- stop wheel\r\n- Compare values\r\n\r\nif the value is = (equal to compare \r\nvalue) it will release the \r\nfunc_template's forcespawn input\r\n\r\n(OnEqualTo, Name of Func_Template,\r\n ForceSpawn)\r\n\r\n---------------------------------------------------\r\nIssues:\r\n\r\nMissing spawns: some lags and fails\r\nin calculating the zones will\r\nhappen, this issue will be fixed in\r\na later version when i found a more\r\nreliable camparisation methode\r\n---------------------------------------------------\r\n\r\nMore Info:\r\n\r\nRoulette time: 5-10sec (can be\r\nchanged by editing min/max in\r\nthe logic_timer)\r\n\r\n%'s: Not above 2.5 (got a few %\r\n'cuz of no improvements)\r\n\r\nIdea to it: I got the idea after\r\na discussion on SolidSurf with some\r\ndifferent ideas of the system\r\nso i created mine and figured out a\r\ncounter system.)\r\n---------------------------------------------------\r\nVersion: BETA 1.0\r\n---------------------------------------------------\r\n\r\n\r\nPS: Looking for 4 textures\r\n\r\ncontaining a concrete texture\r\nfor each face\r\n(with 1 weapon on each)\r\n\r\nP228\r\nAWP\r\nAk47\r\nM4A1\r\n\r\n\r\n\r\nFree to use just remember to Credit"
+}

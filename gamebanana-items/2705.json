@@ -1,0 +1,47 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "A.jpg",
+					"1": "B.jpg",
+					"2": "Chieftain.vmf",
+					"3": "ReadMe.txt",
+					"4": "chieftain.bsp",
+					"materials": {
+						"ChieftainTank": [
+							"TankCamo.vmt",
+							"TankCamo.vtf"
+						],
+						"decals": [
+							"BritishFlag.vmt",
+							"BritishFlag.vtf"
+						]
+					},
+					"sound": {
+						"ChieftainTank": [
+							"TankStatic.wav"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 46387,
+			"_nDownloadCount": 588,
+			"_nFilesize": 3319972,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/46387",
+			"_sFile": "chieftainprefab_2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1277073155
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2705,
+	"_sName": "British Chieftain Mk. V Tank",
+	"_sText": " There is a lack of good tank prefabs, so I figured I'd give it a shot.\r\n\r\n\r\n This is my first of (hopefully) many armor prefabs.\r\n\r\n\r\n Included in the .vmf are 2 separate tanks: One static, and one with the chassis and turret separated for posing purposes.\r\n\r\n\r\nAlso included is my horrid attempt at a custom texture, feel free to use it or replace it.\r\n\r\n\r\n If you use this prefab, PLEASE give credit. "
+}

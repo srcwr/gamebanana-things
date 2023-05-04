@@ -1,0 +1,50 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "Proxy_Map_d.rar",
+					"1": "readme.txt",
+					"Proxies": [
+						"alpha_distance_inverse.vmt",
+						"alpha_distance_inverse_rnd.vmt",
+						"alpha_distance_scale.vmt",
+						"alpha_distance_scale_rnd.vmt",
+						"alpha_speed_inverse.vmt",
+						"alpha_speed_inverse_rnd.vmt",
+						"alpha_speed_scale.vmt",
+						"alpha_speed_scale_rnd.vmt",
+						"blinking.vmt",
+						"blinking_slower.vmt",
+						"bounce.vmt",
+						"bounce_onbpm.vmt",
+						"hue_change_speed.vmt",
+						"hue_semi_working.vmt",
+						"shake.vmt",
+						"shake_fast.vmt"
+					],
+					"maps": [
+						"proxy_map.bsp"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 45034,
+			"_nDownloadCount": 820,
+			"_nFilesize": 8949541,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/45034",
+			"_sFile": "proxy_map.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1400541782
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2145,
+	"_sName": "Material Proxies",
+	"_sText": "This prefab contains a map with dynamic material proxies that show various things that material proxies can do to a texture when added to a .vmt file. An example map is included with rough explanations on what they do as well as a readme file that explains how to add them to an existing texture, or use them in a new .vmt file. The variable naming isn't as descriptive as it could be and the commenting is minimal but it should include comments on what variable you can change for different distance and speed effects.\r\n\r\nIt's best use is when applied to all faces of a brush tied to a func_brush entity.\r\n\r\nSome examples of what the material proxies can do are textures that respond to local player speed, respond to local player distance, respond to local player view, and many more.\r\n\r\nThese material can have many uses for minigame maps, surf maps, bhop maps and more. I encourage anyone to learn about material proxies, make their own and experiment with them as there are many more possibilities than the ones I have made.\r\n\r\nSome useful sites I used when learning and making the material proxies and included in the readme are:\r\n- http://www.nodraw.net/2010/01/dynamic-materials-with-proxies/\r\n- https://developer.valvesoftware.com/wiki/List_Of_Material_Proxies\r\n- https://developer.valvesoftware.com/wiki/Material_proxies\r\n\r\nA .rar is included with the decompile .vmf of the map as well as the textures so you can get a sense of whats going on in the map to use the proxies.\r\n\r\nFeel free to experiment with the existing proxies as well and please credit me if you use any of the ones I've made without changing them.\r\n\r\nAny additional questions feel free to add me and I may be able help"
+}

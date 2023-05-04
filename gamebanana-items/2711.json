@@ -1,0 +1,196 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"pack vehicules anarkia": {
+						"camion01_conduisable_simp2": [
+							"camion01_conduisable_simp2.vmf"
+						],
+						"helico_prefab_simP3": [
+							"helico_prefab_simP3.vmf"
+						],
+						"test_nazgul2": {
+							"0": "test_nazgul2.vmf",
+							"materials": {
+								"models": {
+									"player": {
+										"slow": {
+											"hannibal": {
+												"fell_beast2": [
+													"slow_body.vmt",
+													"slow_body.vtf",
+													"slow_body_bump.vtf",
+													"slow_eyes.vmt",
+													"slow_nazgul.vmt",
+													"slow_nazgul.vtf",
+													"slow_nazgul_metal.vmt",
+													"slow_nazgul_translucent.vmt",
+													"slow_seat.vmt",
+													"slow_seat.vtf",
+													"slow_seat_belt.vmt",
+													"slow_teeth.vmt",
+													"slow_wings.vmt"
+												]
+											}
+										}
+									}
+								}
+							},
+							"models": {
+								"player": {
+									"slow": {
+										"hannibal": {
+											"fell_beast": [
+												"slow.dx80.vtx",
+												"slow.dx90.vtx",
+												"slow.mdl",
+												"slow.phy",
+												"slow.sw.vtx",
+												"slow.vvd"
+											]
+										}
+									}
+								}
+							}
+						},
+						"test_vehicule_Enterprise": {
+							"0": "test_vehicule_Enterprise.vmf",
+							"materials": {
+								"models": {
+									"Enterprise": [
+										"EnterpriseEngine.vmt",
+										"EnterpriseEngine.vtf",
+										"Enterprisebody.vmt",
+										"Enterprisebody.vtf",
+										"Enterprisehull.vmt",
+										"Enterprisehull.vtf",
+										"Glass.vmt",
+										"Glass.vtf",
+										"Glass_glow.vtf",
+										"Glass_glow_gris.vtf"
+									]
+								}
+							},
+							"models": {
+								"Enterprise": [
+									"EnterpriseEngine.vmt",
+									"EnterpriseEngine.vtf",
+									"Enterprisebody.vmt",
+									"Enterprisebody.vtf",
+									"Enterprisehull.vmt",
+									"Enterprisehull.vtf",
+									"Glass.vmt",
+									"Glass.vtf",
+									"Glass_glow.vtf",
+									"Glass_glow_gris.vtf"
+								]
+							}
+						},
+						"test_vehicule_covenant": {
+							"0": "test_vehicule_covenant.vmf",
+							"materials": {
+								"models": {
+									"covenant": [
+										"capital_ship_a.vmt",
+										"capital_ship_a.vtf",
+										"capital_ship_a_bump.vtf",
+										"capital_ship_b.vmt",
+										"capital_ship_b.vtf",
+										"capital_ship_b_bump.vtf"
+									]
+								}
+							},
+							"models": {
+								"covenant": [
+									"covcapship.dx80.vtx",
+									"covcapship.dx90.vtx",
+									"covcapship.mdl",
+									"covcapship.phy",
+									"covcapship.sw.vtx",
+									"covcapship.vvd",
+									"covcapship.xbox.vtx",
+									"covenant.dx80.vtx",
+									"covenant.dx90.vtx",
+									"covenant.mdl",
+									"covenant.sw.vtx",
+									"covenant.vvd",
+									"covenant.xbox.vtx"
+								]
+							}
+						},
+						"test_vehicule_croiseurFS": {
+							"0": "test_vehicule_croiseurFS.vmf",
+							"croiseur": [
+								"croiseur.dx80.vtx",
+								"croiseur.dx90.vtx",
+								"croiseur.mdl",
+								"croiseur.sw.vtx",
+								"croiseur.vvd",
+								"croiseur.xbox.vtx"
+							],
+							"models": {
+								"croiseur": [
+									"cruiser03-01.vmt",
+									"cruiser03-01.vtf",
+									"cruiser03-01_bump.vtf",
+									"cruiser03-02.vmt",
+									"cruiser03-02.vtf",
+									"cruiser03-02_bump.vtf",
+									"cruiser03-03.vmt",
+									"cruiser03-03.vtf",
+									"cruiser03-03_bump.vtf",
+									"cruiser03-05.vmt",
+									"cruiser03-05.vtf",
+									"cruiser03-05_bump.vtf"
+								]
+							}
+						},
+						"test_vehicule_seraph3": {
+							"0": "test_vehicule_seraph3.vmf",
+							"materials": {
+								"models": {
+									"seraph": [
+										"hoteliteactionxxx_clickhere.vtf",
+										"seraph.vmt",
+										"seraph.vtf",
+										"seraph_bump.vtf",
+										"seraph_phaser_ring.vmt",
+										"seraph_phaser_ring.vtf"
+									]
+								}
+							},
+							"models": {
+								"seraph": [
+									"seraph.dx80.vtx",
+									"seraph.dx90.vtx",
+									"seraph.mdl",
+									"seraph.sw.vtx",
+									"seraph.vvd",
+									"seraph.xbox.vtx"
+								]
+							}
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 46338,
+			"_nDownloadCount": 604,
+			"_nFilesize": 8484392,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/46338",
+			"_sFile": "pack_vehicules_anarkia.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1281474009
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2711,
+	"_sName": "pack anarkia",
+	"_sText": "Super pack ANARKIA 1.0\r\n\r\nHi,\r\n\r\nI maked a pack with vehicules. I maked differents sort, all are controlable, they can move, fire, go inside,....\r\n\r\nI take a models or a brush based of differents user here, and modify the control. For the models I recompile, remake texture,... FOr work good with CSS.\r\n\r\nTake it for your mod or maps for very fun!!!\r\n\r\nWorks OK for CS:S.\r\n\r\nPilot vehicul at distance works good, as a drone, use model is better for look and performance, go to website garry mod and Hadlight production for to have nice models, just modify texture and re-copmpile for works ok on Source engine.\r\n\r\n\r\n\r\nCrédit :\r\nif you see a wrong information pls contact me.\r\n\r\nFreespace 2 shivan ship model :\r\nBy Hard light Productions\r\nhttp://www.hard-light.net/\r\n\r\nSeraph and Covenant Capital Ship (Halo 2) by \"halo4life\" :\r\nhttp://www.garrysmod.org/downloads/?a=view&id=24690\r\nhttp://www.garrysmod.org/downloads/?a=view&id=23487\r\n\r\nEnterprise (Star-Trek) by \"TheSniperNine\" :\r\nhttp://www.garrysmod.org/downloads/?a=view&id=69422\r\n\r\nDriveable helicopter ans bus by \"SimP-PgM\" :\r\nhttp://www.fpsbanana.com/prefabs/3268\r\nhttp://www.fpsbanana.com/prefabs/3095\r\nI am make a box in func_button, see how players not aspen inside and not take domage, very itneresting.\r\n\r\nTank \"winter Abrams\" by *T3cH* :\r\nhttp://www.fpsbanana.com/prefabs/2647\r\n\r\nNazgul :\r\nhttp://www.fpsbanana.com/maps/95255\r\nMap by \"Hannibal[SPA](Rafuron)\"."
+}

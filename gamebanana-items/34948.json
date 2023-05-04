@@ -1,0 +1,81 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"cs_cantelever_css.nav"
+				],
+				"_sMimeType": "application/x-7z-compressed"
+			},
+			"_bContainsExe": false,
+			"_idRow": 495708,
+			"_nDownloadCount": 22,
+			"_nFilesize": 33038,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "(version 2.0)",
+			"_sDownloadUrl": "https://gamebanana.com/dl/495708",
+			"_sFile": "cs_cantelever_css_nav.7z",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1605287713
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"cs_cantelever_css.nav"
+				],
+				"_sMimeType": "application/x-7z-compressed"
+			},
+			"_bContainsExe": false,
+			"_idRow": 496050,
+			"_nDownloadCount": 36,
+			"_nFilesize": 33738,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "(version 2.1)",
+			"_sDownloadUrl": "https://gamebanana.com/dl/496050",
+			"_sFile": "cs_cantelever_css_nav_v2_1.7z",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1605434936
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Improvement",
+					"text": "Forbade bringing hostages to unfavourable areas"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Narrowed both Storage Room doorways, as bots would seemingly get stuck a bit sometimes"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Changed attributes in some areas with weird jumping (particularly on the trains and windows), reshaped some areas near narrow jumps and near the ladder"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Changed at least one out-of-place area name"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added some missing connections"
+				},
+				{
+					"cat": "Suggestion",
+					"text": "I want to change the stairs around Attic and Long Hall, but that seems to be only partially working so far..."
+				}
+			],
+			"_sText": "Issue: Want to block bots from jumping on stairs mostly in terrorist area (particularly bad in Long Hall, also around Balcony and Attic), but no_jump attribute keeps getting replaced automatically with stairs attribute which does not block jumping seemingly no matter what I do. So they still do that, which is rather annoying.<br><br>Terrorist Bots still seem to act a bit strange around the Attic/StorageRoom area early on when spawning upstairs, not sure what's up with that because direct pathing tests work ok there. :/<br>",
+			"_sTitle": "2.1",
+			"_tsDateAdded": 1605435466
+		}
+	],
+	"_idRow": 34948,
+	"_sName": "cs_cantelever_css.nav",
+	"_sText": "Changes to <a href=\"https://gamebanana.com/maps/198123\">original</a> (packaged with map by nikosemen): removed some jumps/dropdowns on the lower level and near mid-level railings where bots would suicide or get stuck, banned jumping on non-mid level and in doorways, made some weird stairs into full areas, removed some entirely inaccessible areas (mostly behind \"BackYard\"), some more minor changes and, of course, added place names. There should be approximately 30-35 of them, some are once again a bit contrived (\"Stairwell\" just being a ramp and \"Crawlspace\" and \"Tunnel\" for two of the four separated walkways on the lower bridge are probably the worst 3, but I thought it's better to let them have different names even if they don't 100% fit than the same everywhere).<br>"
+}

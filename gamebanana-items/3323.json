@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"Interrogation_room_prefab_v2.vmf",
+					"interrogation_room_prefab_v2.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 45360,
+			"_nDownloadCount": 653,
+			"_nFilesize": 108910,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/45360",
+			"_sFile": "interrogation_room_vmf_bsp.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1373537228
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 3323,
+	"_sName": "Interrogation Room",
+	"_sText": "This is a prefab was originally a play around with reflective glass, before turning into an interrogation room/mini game. There are 2 rooms in total: 1 is where the controls are (guards) and the other is where the player are interrogated (prisoners).<br>\r\nAlthough the room can be used to your complete imagination, it was originally designed so that players can use mic/chat to ask a true of false question, selecting the correct answer from their room. The prisoner would then attempt to answer correctly using the 2 buttons provided. <br>If the answer is correct, he proceeds to the next question. If it is incorrect, he is damaged (amount can be adjusted).\r\n\r\nThere is enough room in the interrogation room to fit a team of terrorists and the danger zone is clearly marked on the floor.\r\n\r\nI figured this is a nice change of pace, hasn't been done before (from what I have heard/seen) and allows the guards to use their imagination.\r\n\r\n<p>\r\n**Important:**\r\n--------------\r\nThere is some configuration requirements for the T/F buttons. It is recommended that you place the interrogation into your map before you change things.\r\nYou will need to change the co-ordinates on the output window for the True and False button in the CT room to where the table is, and another place that is not reachable by players. Let me know if you have trouble with this."
+}

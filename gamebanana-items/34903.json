@@ -1,0 +1,45 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"cs_abscond_pro nav readme.txt",
+					"cs_abscond_pro.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 1258,
+			"_nDownloadCount": 353,
+			"_nFilesize": 141916,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1258",
+			"_sFile": "nav_cs_abscond_pro_c1585.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1471257034
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Improved bot movement through some windows"
+				},
+				{
+					"cat": "-",
+					"text": "Some other minor changes"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Update 1",
+			"_tsDateAdded": 1490455779
+		}
+	],
+	"_idRow": 34903,
+	"_sName": "Hand-tuned NAV for map CS_ABSCOND_PRO",
+	"_sText": "Counter-Strike: Source : Bot's Navigation Mesh for the map CS_ABSCOND_PRO<br><br>Nav Creator: Meurglis3,&nbsp;Release Date: August 15 2016<br><br>Here is the Navigation Mesh for nice fast-paced office-themed map <a href=\"http://gamebanana.com/maps/22957\">cs_bscond_pro</a> by Uragan_Lex (released April 2007).&nbsp;It's a completely created from scratch and fully hand-tuned nav-file (because an original mapauthor's nav-file was almost unplayable auto-gen).<br><br>This Navigation Mesh is create manually at 90% because in auto-generated Navigation Mesh some areas were made incorrectly and many paths were not preciese (almost all passes through a windows and doorways).<br><br>Also this Navigation Mesh was fully Place Painted.<br><br>Well... bots use all possible ways now. &nbsp;Has to notice that the Bots perfectly see through these icy bushes therefore better to avoid firefights with them on the wideopen areas (FrontYard, SideYard). Though on the other hand inside possible to die even quicker :-)<br><br>NOTE: For possibility of comparison and in-game testing the nav-file by original map author available to downloading with the <a href=\"http://gamebanana.com/maps/22957\">same map</a>.<br><br>Play and Enjoy! Also share your game impressions with mates and friends ;-)<br><br>Credits and Gratitudes:&nbsp; Uragan_Lex (for this excellent remake of original cs_abscond by Kan3).<br><br>Additional Gratitudes:&nbsp; BarnDoor (for perfect playable navigation meshes for many fine CS:S maps),&nbsp; Chizbone (for informative and clever article BOT_BRAINED and a set of excellent navigation meshes),&nbsp; CoCoNUT (for fine hand-tuned navigation meshes for many fine CS:S maps),&nbsp; Valve Developer Community (for learning articles by Navigation Meshes and Navigation Mesh Commands).<br><br>Little white shadows - blink and miss them! :D"
+}

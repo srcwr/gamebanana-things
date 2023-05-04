@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"Installation Instructions.txt",
+					"best_shed.vmf"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 45852,
+			"_nDownloadCount": 1164,
+			"_nFilesize": 6923,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/45852",
+			"_sFile": "best_shed.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1325933742
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2507,
+	"_sName": "Best CSS Shed",
+	"_sText": "Best Shed Prefab\r\n=====================================\r\n\r\nNote: This is a shed from cs_militia\r\n\r\n=====================================\r\n\r\nHOW TO INSTALL AND USE:\r\n\r\nFirst, you will need to extract the .vmf file included into the correct SDK folder: C:\\Steam\\steamapps\\<Steam Account Name>\\sourcesdk\\bin\\orangebox\\bin\\prefabs\r\nAfter that, Restart your SDK.\r\n\r\nYou want to select to tool on the left hand side 4th from the top. Then you want to go to the bottom right and change the categories to prefabs\r\nthere should be two the valve ones that have examples, and the other has the prefabs you installed. Then just click like you are adding a player\r\nstart or something and it should show up, from there you can move it and resize. You can even ungroup the prefab and edit it yourself.\r\n\r\n=====================================\r\n\r\nEnjoy!"
+}

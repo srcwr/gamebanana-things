@@ -1,0 +1,58 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrike": {
+						"maps": [
+							"kolonka.bsp"
+						],
+						"materials": {
+							"models": {
+								"dlt": {
+									"kolonka": [
+										"black2.vmt",
+										"black2.vtf",
+										"stall.vmt",
+										"stall.vtf"
+									]
+								}
+							}
+						},
+						"models": {
+							"dlt": {
+								"kolonka": [
+									"model.dx80.vtx",
+									"model.dx90.vtx",
+									"model.mdl",
+									"model.phy",
+									"model.sw.vtx",
+									"model.vvd",
+									"model.xbox.vtx"
+								]
+							}
+						}
+					}
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 46323,
+			"_nDownloadCount": 860,
+			"_nFilesize": 886979,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/46323",
+			"_sFile": "kolonka_dlt.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1282295504
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 3144,
+	"_sName": "Stereo speaker",
+	"_sText": "Really cool, I did this a stereo speaker with a photos of my speakers(changed). This model should be on maps with a club."
+}

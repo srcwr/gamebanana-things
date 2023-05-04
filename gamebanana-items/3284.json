@@ -1,0 +1,83 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"materials": {
+						"models": {
+							"fibbs": [
+								"Torch.vmt",
+								"Torch.vtf",
+								"TorchMount.vmt",
+								"TorchMount.vtf",
+								"TorchMount_n.vtf",
+								"Torch_n.vtf"
+							]
+						}
+					},
+					"models": {
+						"Fibbs": {
+							"Torch": {
+								"0": "Torch.dx80.vtx",
+								"1": "Torch.dx90.vtx",
+								"10": "TorchwithMount.phy",
+								"11": "TorchwithMount.sw.vtx",
+								"12": "torch.mdl",
+								"13": "torch.vvd",
+								"14": "torchmount.mdl",
+								"15": "torchmount.vvd",
+								"16": "torchwithmount.mdl",
+								"17": "torchwithmount.vvd",
+								"2": "Torch.phy",
+								"3": "Torch.sw.vtx",
+								"4": "TorchMount.dx80.vtx",
+								"5": "TorchMount.dx90.vtx",
+								"6": "TorchMount.phy",
+								"7": "TorchMount.sw.vtx",
+								"8": "TorchwithMount.dx80.vtx",
+								"9": "TorchwithMount.dx90.vtx",
+								"LODs": [
+									"Torch.dx80.vtx",
+									"Torch.dx90.vtx",
+									"Torch.phy",
+									"Torch.sw.vtx",
+									"TorchMount.dx80.vtx",
+									"TorchMount.dx90.vtx",
+									"TorchMount.phy",
+									"TorchMount.sw.vtx",
+									"TorchwithMount.dx80.vtx",
+									"TorchwithMount.dx90.vtx",
+									"TorchwithMount.phy",
+									"TorchwithMount.sw.vtx",
+									"torch.mdl",
+									"torch.vvd",
+									"torchmount.mdl",
+									"torchmount.vvd",
+									"torchwithmount.mdl",
+									"torchwithmount.vvd"
+								]
+							}
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 46318,
+			"_nDownloadCount": 1711,
+			"_nFilesize": 579610,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/46318",
+			"_sFile": "torch_4.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1282616359
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 3284,
+	"_sName": "Torch",
+	"_sText": "<font color=\"#FF5050\">*Fixed the materials. Dropped them into the wrong folder. Sorry about that!</font>\r\n\r\n<big>Info:</big><br>\r\nTorch with a ...mount? Can't remember what the thing holding it is called.\r\n\r\nThere are 6 models:<br>\r\nTorchbr<br>\r\nTorchMountbr<br>\r\nTorchwithMountbr<br>\r\nand the same again but with LODs (../models/fibbs/torch/lods)\r\n\r\n\"Torch\" is the torch by itself, \"TorchMount\" is just the mount and \"TorchwithMount\" is both of them in one. They all have proper pivot points and align to the grid well so it isn't a pain fitting them to walls.\r\n\r\nI suppose these don't really need LODs but I've been wanted to try them out for a while, so I thought why not? There are 4 <b>L</b>evels <b>O</b>f <b>D</b>etail including the reference. Besides that I \"cheated\" somewhat in creating them using the MultiRes modifier in 3DS Max I think they still look pretty good, and you don't notice how bad they look from the distances they appear in anyway.\r\n\r\nTextures are 512x512 for the torch and 256x256 for the mount which are a little big for what it is. They also both have a normal map and specular map which look quite nice, although the wood is overdone I think (and a little too shiny perhaps).\r\n\r\nAnyway <b>tri count</b>:<br>\r\n(<b>ref</b>, <font color=\"#FF5050\">lod1</font>, <font color=\"lightblue\">lod2</font>, <font color=\"yellow\">lod3</font>)\r\n\r\nTorch:<br>\r\n<b>302</b>, <font color=\"#FF5050\">165</font>, <font color=\"lightblue\">73</font>, <font color=\"yellow\">4</font>\r\n\r\nTorchMount:<br>\r\n<b>286</b>, <font color=\"#FF5050\">214</font>, <font color=\"lightblue\">70</font>, <font color=\"yellow\">26</font>\r\n\r\nTorchwithMount:<br>\r\n<b>588</b>, <font color=\"#FF5050\">402</font>, <font color=\"lightblue\">251</font>, <font color=\"yellow\">54</font>\r\n\r\nThey also have accurate collision models (screenshot 4).\r\n\r\n<big>Installation:</big><br>\r\nExtract to your cstrike folder. If you don't want the versions with LODs then delete the <b>LODs</b> folder in <b>../cstrike/models/fibbs/torch</b>. If you only want the LOD versions then delete everything in <b>../cstrike/models/fibbs/torch</b> <u>EXCEPT</u> the LODs folder.\r\n\r\n<big>Usage:</big><br>\r\nTo be used as a <b><font color=\"#FF5050\">prop\\_static</font></b> only.</big>\r\nYou could use prop\\_physics\\_override if you want it to move.\r\n\r\n<center><big>Mirror:</big>\r\n<a href=\"http://fibbs.net/upload/Torch.zip\">Click to Download</a></center>"
+}

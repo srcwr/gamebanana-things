@@ -1,0 +1,421 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "Spongebob_models.vmf",
+					"1": "spongebob_models1.jpg",
+					"2": "spongebob_models_3d.jpg",
+					"materials": {
+						"SPONGEBOB": {
+							"KRUSTY_KRAB": [
+								"CLAM1.vmt",
+								"CLAM2.vmt",
+								"CLAM3.vmt"
+							]
+						},
+						"TOOLS": [
+							"TOOLSNODRAW.vmt",
+							"TOOLSSKYBOX.vmt"
+						],
+						"Tools": [
+							"toolsnodraw.vtf",
+							"toolsskybox.vtf"
+						],
+						"astfa": [
+							"metalcrate001a_green.vtf",
+							"metalcrate001b_green.vtf",
+							"metalcrate001c_green.vtf",
+							"metalcrate001d_green.vtf",
+							"metalcrate001e_green.vtf",
+							"metalcrate001f_green.vtf"
+						],
+						"de_aztec": [
+							"wood_plank_7.vtf"
+						],
+						"dev": [
+							"dev_measuregeneric01.vtf",
+							"dev_measurewall01d.vtf"
+						],
+						"glass": [
+							"combineglass001a.vtf",
+							"combineglass001a_mask.vtf"
+						],
+						"maps": {
+							"spongebob_models": {
+								"0": "cubemapdefault.hdr.vtf",
+								"1": "cubemapdefault.vtf",
+								"nature": [
+									"blendsandgrass008a_wvt_patch.vmt"
+								]
+							}
+						},
+						"metal": [
+							"metalfloor010a.vtf",
+							"metalwall013d.vtf",
+							"metalwall101a.vtf",
+							"metalwall101a_normal.vtf"
+						],
+						"models": {
+							"FireWavezZModels": {
+								"Anker2": [
+									"metal02.vmt"
+								],
+								"AnkerBig": [
+									"metal02.vmt"
+								],
+								"CargoContainer_green": [
+									"metalcrate001a_green.vmt",
+									"metalcrate001b_green.vmt",
+									"metalcrate001c_green.vmt",
+									"metalcrate001d_green.vmt",
+									"metalcrate001e_green.vmt",
+									"metalcrate001f_green.vmt"
+								],
+								"Chair": [
+									"cxbarrela.vmt",
+									"metalfloor010a.vmt",
+									"pwood1.vmt"
+								],
+								"Clock2": [
+									"woodceiling01.vmt"
+								],
+								"MetalDoor1": [
+									"dev_measurewall01d.vmt",
+									"metalwall101a.vmt",
+									"nukmetwallm.vmt"
+								],
+								"MetalTable": [
+									"metalwall101a.vmt",
+									"navajored.vmt",
+									"yellow.vmt"
+								],
+								"MetalWindow1": [
+									"metalwall101a.vmt",
+									"nukmetwallm.vmt"
+								],
+								"Metalwindow2": [
+									"combineglass001a.vmt",
+									"metalwall101a.vmt",
+									"nukmetwallm.vmt"
+								],
+								"PattiesCrate48": [
+									"box.vmt",
+									"box_patties.vmt",
+									"wood_plank_7.vmt"
+								],
+								"PattiesCrate64": [
+									"box.vmt",
+									"box_patties.vmt",
+									"wood_plank_7.vmt"
+								],
+								"PattiesCrate64_2": [
+									"box.vmt",
+									"box_patties.vmt",
+									"wood_plank_7.vmt"
+								],
+								"PattiesCrate96": [
+									"box.vmt",
+									"box_patties.vmt",
+									"wood_plank_7.vmt"
+								],
+								"SpongeStaticToilet": [
+									"building_trainstation_truss_template001h.vmt",
+									"dev_measuregeneric01.vmt",
+									"infintwllc.vmt",
+									"metalwall101a.vmt",
+									"pwood1.vmt",
+									"wood_1_03.vmt"
+								],
+								"SpongeToiletDoort": [
+									"dev_measuregeneric01.vmt",
+									"pwood1.vmt",
+									"wood_1_03.vmt"
+								],
+								"SpongeToiletWall": [
+									"building_trainstation_truss_template001h.vmt",
+									"dev_measuregeneric01.vmt",
+									"infintwllc.vmt",
+									"metalwall101a.vmt",
+									"pwood1.vmt"
+								],
+								"ananas3": [
+									"combineglass001a.vmt",
+									"dev_measurewall01d.vmt",
+									"floor4.vmt",
+									"metalwall02.vmt",
+									"nukmetwallm.vmt",
+									"spongebob10.vmt",
+									"spongebob11.vmt",
+									"spongebob18.vmt"
+								],
+								"jellyfish2": [
+									"qualle.vmt",
+									"quallenhaut.vmt"
+								],
+								"krabboat": [
+									"metalwall013d.vmt",
+									"woodwall029a.vmt"
+								],
+								"metal_table_test": [
+									"dkblue_drawer.vmt",
+									"dkblue_metal.vmt"
+								]
+							},
+							"spongebob": [
+								"bun.vmt",
+								"bun2.vmt",
+								"cheese.vmt",
+								"green.vmt",
+								"lettuce.vmt",
+								"meat_side.vmt",
+								"red.vmt",
+								"sign_post.vmt",
+								"white.vmt",
+								"yellow.vmt"
+							]
+						},
+						"plaster": [
+							"infintwllc.vtf"
+						],
+						"realworldtextures": {
+							"floor": {
+								"mixtile": {
+									"bump": [
+										"512.vtf"
+									],
+									"solid": [
+										"yellow.vtf"
+									]
+								}
+							},
+							"newer": {
+								"1": [
+									"wood_1_03.vtf"
+								]
+							},
+							"walls": [
+								"navajored.vtf"
+							]
+						},
+						"skybox": [
+							"spongebobbk.vmt",
+							"spongebobbk.vtf",
+							"spongebobdn.vmt",
+							"spongebobdn.vtf",
+							"spongebobft.vmt",
+							"spongebobft.vtf",
+							"spongeboblf.vmt",
+							"spongeboblf.vtf",
+							"spongebobrt.vmt",
+							"spongebobrt.vtf",
+							"spongebobup.vmt",
+							"spongebobup.vtf"
+						],
+						"spongebob": {
+							"0": "qualle.vtf",
+							"1": "quallenhaut.vtf",
+							"2": "spongebob10.vtf",
+							"3": "spongebob11.vtf",
+							"4": "spongebob18.vtf",
+							"krusty_krab": [
+								"box.vtf",
+								"box_patties.vtf",
+								"clam1.vtf",
+								"clam2.vtf",
+								"clam3.vtf",
+								"dkblue_drawer.vtf",
+								"dkblue_metal.vtf",
+								"floor4.vtf",
+								"metalwall02.vtf",
+								"sign_post.vtf"
+							],
+							"other": [
+								"bun.vtf",
+								"bun2.vtf",
+								"cheese.vtf",
+								"green.vtf",
+								"lettuce.vtf",
+								"meat_side.vtf",
+								"red.vtf",
+								"white.vtf",
+								"yellow.vtf"
+							]
+						},
+						"wood": [
+							"woodwall029a.vtf"
+						]
+					},
+					"models": {
+						"firewavezzmodels": [
+							"ananas3.dx80.vtx",
+							"ananas3.dx90.vtx",
+							"ananas3.mdl",
+							"ananas3.phy",
+							"ananas3.sw.vtx",
+							"ananas3.vvd",
+							"anker2.dx80.vtx",
+							"anker2.dx90.vtx",
+							"anker2.mdl",
+							"anker2.sw.vtx",
+							"anker2.vvd",
+							"ankerbig.dx80.vtx",
+							"ankerbig.dx90.vtx",
+							"ankerbig.mdl",
+							"ankerbig.phy",
+							"ankerbig.sw.vtx",
+							"ankerbig.vvd",
+							"cargocontainer_green.dx80.vtx",
+							"cargocontainer_green.dx90.vtx",
+							"cargocontainer_green.mdl",
+							"cargocontainer_green.phy",
+							"cargocontainer_green.sw.vtx",
+							"cargocontainer_green.vvd",
+							"chair.dx80.vtx",
+							"chair.dx90.vtx",
+							"chair.mdl",
+							"chair.phy",
+							"chair.sw.vtx",
+							"chair.vvd",
+							"clock2.dx80.vtx",
+							"clock2.dx90.vtx",
+							"clock2.mdl",
+							"clock2.phy",
+							"clock2.sw.vtx",
+							"clock2.vvd",
+							"jellyfish2.dx80.vtx",
+							"jellyfish2.dx90.vtx",
+							"jellyfish2.mdl",
+							"jellyfish2.sw.vtx",
+							"jellyfish2.vvd",
+							"krabboat.dx80.vtx",
+							"krabboat.dx90.vtx",
+							"krabboat.mdl",
+							"krabboat.phy",
+							"krabboat.sw.vtx",
+							"krabboat.vvd",
+							"metal_table_test.dx80.vtx",
+							"metal_table_test.dx90.vtx",
+							"metal_table_test.mdl",
+							"metal_table_test.phy",
+							"metal_table_test.sw.vtx",
+							"metal_table_test.vvd",
+							"metaldoor1.dx80.vtx",
+							"metaldoor1.dx90.vtx",
+							"metaldoor1.mdl",
+							"metaldoor1.sw.vtx",
+							"metaldoor1.vvd",
+							"metaltable.dx80.vtx",
+							"metaltable.dx90.vtx",
+							"metaltable.mdl",
+							"metaltable.phy",
+							"metaltable.sw.vtx",
+							"metaltable.vvd",
+							"metalwindow1.dx80.vtx",
+							"metalwindow1.dx90.vtx",
+							"metalwindow1.mdl",
+							"metalwindow1.sw.vtx",
+							"metalwindow1.vvd",
+							"metalwindow2.dx80.vtx",
+							"metalwindow2.dx90.vtx",
+							"metalwindow2.mdl",
+							"metalwindow2.sw.vtx",
+							"metalwindow2.vvd",
+							"pattiescrate48.dx80.vtx",
+							"pattiescrate48.dx90.vtx",
+							"pattiescrate48.mdl",
+							"pattiescrate48.phy",
+							"pattiescrate48.sw.vtx",
+							"pattiescrate48.vvd",
+							"pattiescrate64.dx80.vtx",
+							"pattiescrate64.dx90.vtx",
+							"pattiescrate64.mdl",
+							"pattiescrate64.phy",
+							"pattiescrate64.sw.vtx",
+							"pattiescrate64.vvd",
+							"pattiescrate64_2.dx80.vtx",
+							"pattiescrate64_2.dx90.vtx",
+							"pattiescrate64_2.mdl",
+							"pattiescrate64_2.phy",
+							"pattiescrate64_2.sw.vtx",
+							"pattiescrate64_2.vvd",
+							"pattiescrate96.dx80.vtx",
+							"pattiescrate96.dx90.vtx",
+							"pattiescrate96.mdl",
+							"pattiescrate96.phy",
+							"pattiescrate96.sw.vtx",
+							"pattiescrate96.vvd",
+							"spongestatictoilet.dx80.vtx",
+							"spongestatictoilet.dx90.vtx",
+							"spongestatictoilet.mdl",
+							"spongestatictoilet.phy",
+							"spongestatictoilet.sw.vtx",
+							"spongestatictoilet.vvd",
+							"spongetoiletdoor.dx80.vtx",
+							"spongetoiletdoor.dx90.vtx",
+							"spongetoiletdoor.mdl",
+							"spongetoiletdoor.phy",
+							"spongetoiletdoor.sw.vtx",
+							"spongetoiletdoor.vvd",
+							"spongetoiletwall.dx80.vtx",
+							"spongetoiletwall.dx90.vtx",
+							"spongetoiletwall.mdl",
+							"spongetoiletwall.phy",
+							"spongetoiletwall.sw.vtx",
+							"spongetoiletwall.vvd"
+						],
+						"spongebob": [
+							"ketchup.dx80.vtx",
+							"ketchup.dx90.vtx",
+							"ketchup.mdl",
+							"ketchup.phy",
+							"ketchup.sw.vtx",
+							"ketchup.vvd",
+							"mustard.dx80.vtx",
+							"mustard.dx90.vtx",
+							"mustard.mdl",
+							"mustard.phy",
+							"mustard.sw.vtx",
+							"mustard.vvd",
+							"patty.dx80.vtx",
+							"patty.dx90.vtx",
+							"patty.mdl",
+							"patty.phy",
+							"patty.sw.vtx",
+							"patty.vvd",
+							"post.dx80.vtx",
+							"post.dx90.vtx",
+							"post.mdl",
+							"post.phy",
+							"post.sw.vtx",
+							"post.vvd",
+							"relish.dx80.vtx",
+							"relish.dx90.vtx",
+							"relish.mdl",
+							"relish.phy",
+							"relish.sw.vtx",
+							"relish.vvd"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 45896,
+			"_nDownloadCount": 3247,
+			"_nFilesize": 20996013,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/45896",
+			"_sFile": "spongebob_models_v1.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1322307712
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 3158,
+	"_sName": "Spongebob - KrustyKrab Models",
+	"_sText": "I made these models for my map zm krustyy krab\r\nlink: [http://www.gamebanana.com/maps/161560](http://www.gamebanana.com/maps/161560 \"KrustyKrab\")\r\n\r\nThe patty, the mustard and ketchup model made somebody else but i dont know who, tho i'll put it in the pack.\r\n\r\nI hope its helpfull if you want to make a Spongebob map aswell.\r\n\r\n\r\nThis Pack includes:\r\n===================\r\n- Anchor (small)\r\n- Anchor (big)\r\n- Pineapple\r\n- Stool\r\n- Clock\r\n- Metal Table\r\n- Metal Cabinet\r\n- Metal Windowframe\r\n- Metal Round window\r\n- Green cargo container\r\n- Jellifish (small)\r\n- Metal doorframe\r\n- Reception boat\r\n- Patty crate 48x48\r\n- Patty crate 48x48 (opened)\r\n- Patty crate 64x64\r\n- Patty crate 64x64 (opened)\r\n- Patty crate 96x96\r\n- Toilet wall + door\r\n- Toilet wall\r\n- Toilet door\r\n- Patty\r\n- Bamboo\r\n- Ketchup bottle\r\n- Mustard bottle\r\n- Pickle bottle"
+}

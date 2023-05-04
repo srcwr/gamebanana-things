@@ -1,0 +1,56 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"Luxury Pool Prefab": {
+						"Prefab": [
+							"luxury_pool.vmf"
+						],
+						"Screenshots": [
+							"1.jpg",
+							"2.jpg",
+							"3.jpg",
+							"4.jpg"
+						],
+						"Textures [Required for prefab]": {
+							"cstrike": {
+								"materials": {
+									"pooltiles_bymatrix": [
+										"tile1.vmt",
+										"tile1.vtf",
+										"tile2.vmt",
+										"tile2.vtf",
+										"tile3.vmt",
+										"tile3.vtf",
+										"tile4.vmt",
+										"tile4.vtf",
+										"tile5.vmt",
+										"tile5.vtf"
+									]
+								}
+							}
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 45754,
+			"_nDownloadCount": 641,
+			"_nFilesize": 3172091,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/45754",
+			"_sFile": "luxury_pool_prefab.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1335972505
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2076,
+	"_sName": "Luxury Pool",
+	"_sText": "To show the use of my [Pool Tile Textures](http://www.gamebanana.com/css/textures/3360 \"\"), I made this prefab....\r\n==============================================================================================================\r\nIts a nice luxury pool.\r\n-----------------------------------------\r\nIt has neon lighting which was quite a tough task for me.\r\n-----------------------------------------------------\r\n### _NOTE: You must have the pool tile textures so that the prefab works fine, or else you will face texture errors..._\r\n\r\n**Since this prefab has custom textures, don't forget to use PakRat in you map, so that other players don't get texture errors.**\r\n\r\n### The Textures are included in the download.\r\n**-Thank You, Matr!X**\r\n--------------"
+}

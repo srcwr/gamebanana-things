@@ -1,0 +1,77 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"ExampleMaps": [
+						"_DynamicSkybox.vmf",
+						"_DynamicSkybox_Door.vmf"
+					],
+					"materials": {
+						"models": {
+							"props_logan": [
+								"bk.vmt",
+								"bk2.vmt",
+								"bk3.vmt",
+								"bk4.vmt",
+								"bk5.vmt",
+								"dn.vmt",
+								"dn2.vmt",
+								"dn3.vmt",
+								"dn4.vmt",
+								"dn5.vmt",
+								"ft.vmt",
+								"ft2.vmt",
+								"ft3.vmt",
+								"ft4.vmt",
+								"ft5.vmt",
+								"lf.vmt",
+								"lf2.vmt",
+								"lf3.vmt",
+								"lf4.vmt",
+								"lf5.vmt",
+								"rt.vmt",
+								"rt2.vmt",
+								"rt3.vmt",
+								"rt4.vmt",
+								"rt5.vmt",
+								"up.vmt",
+								"up2.vmt",
+								"up3.vmt",
+								"up4.vmt",
+								"up5.vmt"
+							]
+						}
+					},
+					"models": {
+						"props_logan": [
+							"sky_sphere_large.dx80.vtx",
+							"sky_sphere_large.dx90.vtx",
+							"sky_sphere_large.mdl",
+							"sky_sphere_large.phy",
+							"sky_sphere_large.sw.vtx",
+							"sky_sphere_large.vvd"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 46054,
+			"_nDownloadCount": 2807,
+			"_nFilesize": 54540,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/46054",
+			"_sFile": "_136-.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1304893380
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2009,
+	"_sName": "Dynamic Skybox Change",
+	"_sText": "This little prefab will be useful for mini-game maps or others where players change battle arena's from one location to another (normally swapping theme too). Before they would be stuck with the single skybox for all locations but now with this model in the 3D skybox they can toggle between 6 skyboxes (5 in the model and one for the normal map). Example map file provided.<br><br>\r\nYou'll have to edit the .vmt's provided to the names of the skyboxes you'll be using. I recommend opening all 6 of a set into Notepad++ and doing a mass text replace and save them.<br><br>\r\n<h2>Example VMT:</h2><article><pre>\"unlitGeneric\"\r\n{<br><br>\r\n<pre><code>\"$baseTexture\" \"skybox/sky\\_terminalbk\"\r\n\"$nofog\" 1\r\n\"$ignorez\" 1\r\n\"$model\" 1</code>\r\n</pre>\r\n}</pre></article>Run a Replace All in Notepad++ for \"sky_terminal\" and replace with whatever you want, ie <a href=\"http://www.gamebanana.com/textures/3029\">\"sky47\"</a>.<br><br>\r\n<h2><a href=\"http://www.youtube.com/watch?v=g5YtVXbBQmU\" target=\"_blank\">Video Example (output switching model skin)</a></h2>\r\n<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/g5YtVXbBQmU?hd=1\" frameborder=\"0\" allowfullscreen=\"\"></iframe>\r\n<br><br><br><br>\r\n<h2><a href=\"http://www.youtube.com/watch?v=RDbNStp0Ez4\" target=\"_blank\">Video Example (Door/Lighting)</a></h2>\r\nLight spots or Point Lights to provide the \"environment\" lighting for each area and simple outputs on the doors to swap the texture on the skybox model. Works best on 1 player maps or where players will be moved en mass between areas with different skybox's. <br><br>\r\n<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/RDbNStp0Ez4?hd=1\" frameborder=\"0\" allowfullscreen=\"\"></iframe>\r\n<h2>Permanent Areas</h2>\r\nIf you REALLY want the different skys to always be viable to players in two separate arenas then you'll need to do something funky with the 3D skybox. The 3D skybox is a scaled down version of the map, so this allows us to place more than one model if we want.<br><br>\r\n<img src=\"http://ranger.gamebanana.com/img/ss/prefabs/_274-.jpg\" width=\"500\">\r\n\r\nPlacement of the skycamera entity is up to you, just remember that it's working from the absolute origin of the grid in how things are displayed. For this example it's going right in the middle with each sky side by side. The distance between them is about 900 units within the 3D skybox, so to get the 'real world' distances we need to multiply by the skybox camera scale (16 in this case) so the distances between arenas needs to be 14,400 units so we can't fit four arenas side by side on the grid as there isn't enough space; therefore I just put them into a 2x2 square.\r\n\r\n<img src=\"http://ranger.gamebanana.com/img/ss/prefabs/_275-.jpg\" width=\"350\">\r\n\r\nHigher skybox scales means higher distances between arenas; however, you can move them in any which way within the 3D skybox, just remember to have the arenas in the appropriate world space as a result :D\r\n\r\n\r\nIf you use this prefab in a submission be sure to credit me for my work, Thanks!"
+}

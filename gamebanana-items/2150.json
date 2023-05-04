@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"1_bhop_entities.bsp",
+					"1_bhop_entities.vmf"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 44930,
+			"_nDownloadCount": 810,
+			"_nFilesize": 84199,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/44930",
+			"_sFile": "1_bhop.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1417774215
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2150,
+	"_sName": "Simple 1-Bhop System",
+	"_sText": "An efficent, easy-to-use, one-hop trigger system, preventing players from jumping more than once on each block.\r\n\r\nTaking a different approach to the traditional 1-hop triggers where you had to manually predefine where players jump, this system spawns everything dynamically, which is beneficial in many ways.\r\n<br><br>- Same trigger for every block. This means that you can merge all triggers that are placed on the blocks into one, theoretically allowing for any-sized map using one trigger, compared to the traditional way where each block needed 2 triggers, limiting you in how long the map could be due to engine restrictions.\r\n\r\n<br><br>- Convenient &amp; less of a hassle to apply.\r\n<br><br>- Allows for multiple paths and shortcuts since each player is tracked individually.<br><br><strong>USAGE</strong>\r\n<br><br>Requirements\r\n<br><br>- Minimum distance of 80 units between each block (assuming they maintain the same height).\r\n<br><br>- Maximum block size of 80x80 units (increase each triggers x and y dimensions and place the corresponding point_template in the middle if you're planning on making larger ones).<br><br><ol>\r\n\t<li>Copy the 'skybox box' inside the .vmf along with all of its contents (the filters and the triggers, everything gets selected automatically since it's all grouped together) and paste it anywhere in your map.</li>\r\n</ol>\r\n\r\n<ol>\r\n\t<li>Copy and paste the small trigger above the 'skybox box' named 'bhop_trigger' on top of your blocks.</li>\r\n</ol>\r\n\r\n<ol>\r\n\t<li>Surround each section of blocks with the teleport trigger right next to the bhop<em>trigger called 'bhop</em>teleport' and select your teleport destination.</li>\r\n</ol>\r\n\r\n<ol>\r\n\t<li>Place the trigger called 'reset_trigger', located right next to the teleport trigger, inside each teleport destination in your map. This is vital, especially if you have things in your map that gives players a new targetname, if you don't, the triggers won't work.</li>\r\n</ol>\r\n\r\nRefer to the examples I made to see how this can be used."
+}

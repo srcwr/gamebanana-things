@@ -1,0 +1,111 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "Disco_d.vmf",
+					"Disco": {
+						"materials": {
+							"BEAUTIFUL_GLASS": [
+								"RED.vmt",
+								"normal.vtf",
+								"red.vtf"
+							],
+							"REALWORLDTEXTURES": {
+								"DE_ARTCENTER": [
+									"CONCRETE01.vmt",
+									"concrete01.vtf"
+								],
+								"FLOOR": [
+									"FLOOR_1_07.vmt",
+									"FLOOR_1_18.vmt",
+									"FLOOR_2_05.vmt",
+									"Floor_1_07.vtf",
+									"Floor_1_07_nrm.vtf",
+									"Floor_1_18.vtf",
+									"Floor_2_04_nrm.vtf",
+									"Floor_2_05.vtf"
+								],
+								"WALLS": [
+									"MYSTICBLACK.vmt",
+									"MysticBlack.vtf"
+								]
+							},
+							"REALWORLDTEXTURES2": {
+								"CONCRETE": [
+									"CONCRETE_59.vmt",
+									"concrete_59.vtf"
+								],
+								"detail": [
+									"detailconcrete001a.vtf"
+								]
+							},
+							"TOOLS": [
+								"TOOLSNODRAW.vmt",
+								"TOOLSSKYBOX.vmt",
+								"toolsnodraw.vtf",
+								"toolsskybox.vtf"
+							],
+							"maps": {
+								"disco": {
+									"0": "c445_-389_7.hdr.vtf",
+									"1": "c445_-389_7.vtf",
+									"2": "cubemapdefault.hdr.vtf",
+									"3": "cubemapdefault.vtf",
+									"dev": [
+										"dev_water2_445_-389_7.vmt"
+									],
+									"glass": [
+										"combineglass001a_445_-389_7.vmt",
+										"glasswindow070c_445_-389_7.vmt"
+									],
+									"maps": {
+										"disco": {
+											"dev": [
+												"dev_water2_445_-389_7_depth_124.vmt"
+											]
+										}
+									},
+									"realworldtextures": {
+										"floor": [
+											"floor_1_07_445_-389_7.vmt",
+											"floor_1_18_445_-389_7.vmt",
+											"floor_2_05_445_-389_7.vmt"
+										]
+									},
+									"realworldtextures2": {
+										"concrete": [
+											"concrete_59_445_-389_7.vmt"
+										]
+									}
+								}
+							}
+						},
+						"sound": [
+							"cry me a river remix.mp3",
+							"inspector gadget extended dubstep remix.mp3",
+							"lunatic - la lettre.mp3"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 45211,
+			"_nDownloadCount": 550,
+			"_nFilesize": 15109088,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/45211",
+			"_sFile": "prefab_disco_fox.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1387043966
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2119,
+	"_sName": "Disco",
+	"_sText": "A DISCO for your Jail map !"
+}

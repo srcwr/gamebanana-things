@@ -1,0 +1,3161 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"Halo1HumanShared": {
+						"0": "icon.tga",
+						"1": "info.txt",
+						"materials": {
+							"models": {
+								"H1": {
+									"levels": {
+										"a10": {
+											"devices": {
+												"techthing": {
+													"techthing": [
+														"steel.vmt",
+														"steel.vtf",
+														"tech rack mount.vmt",
+														"tech rack mount.vtf",
+														"tech rack plate bump.vtf",
+														"tech rack plate.vmt",
+														"tech rack plate.vtf"
+													]
+												},
+												"techthing_burnt": {
+													"techthing_burnt": [
+														"burn panel scuff.vmt",
+														"burn panels scuff.vmt",
+														"burn panels scuff.vtf",
+														"burn steel.vmt",
+														"burn steel.vtf",
+														"burn tech mount.vmt",
+														"burn tech rack mount.vmt",
+														"burn tech rack mount.vtf"
+													]
+												}
+											}
+										}
+									},
+									"scenery": {
+										"baton": {
+											"bitmaps": [
+												"baton.vmt",
+												"baton.vtf"
+											]
+										},
+										"gunrack": {
+											"bitmaps": [
+												"steel bump.vtf",
+												"steel.vmt",
+												"steel.vtf",
+												"tech rack plate bump.vtf",
+												"tech rack plate.vmt",
+												"tech rack plate.vtf"
+											]
+										},
+										"h_baracade": {
+											"bitmaps": [
+												"panel scuff.vmt",
+												"panel scuff.vtf",
+												"steel bump.vtf",
+												"steel.vmt",
+												"steel.vtf",
+												"tech rack plate bump.vtf",
+												"tech rack plate.vmt",
+												"tech rack plate.vtf"
+											]
+										},
+										"oxygentank": {
+											"0": "steel.vmt",
+											"1": "steel.vtf",
+											"bitmaps": [
+												"obj oxy tank.vmt",
+												"obj oxy tank.vtf",
+												"oxytank_large.vtf",
+												"steel.vmt",
+												"tech rack plate.vmt",
+												"tech rack plate.vtf"
+											]
+										},
+										"pipe": {
+											"bitmaps": [
+												"pipe.vmt",
+												"tech rack plate.vmt",
+												"tech rack plate.vtf"
+											]
+										}
+									}
+								}
+							}
+						},
+						"models": {
+							"H1": {
+								"levels": {
+									"a10": {
+										"devices": {
+											"techthing": [
+												"techthing.dx80.vtx",
+												"techthing.dx90.vtx",
+												"techthing.mdl",
+												"techthing.phy",
+												"techthing.sw.vtx",
+												"techthing.vvd"
+											],
+											"techthing_burnt": [
+												"techthing_burnt.dx80.vtx",
+												"techthing_burnt.dx90.vtx",
+												"techthing_burnt.mdl",
+												"techthing_burnt.phy",
+												"techthing_burnt.sw.vtx",
+												"techthing_burnt.vvd"
+											]
+										}
+									}
+								},
+								"scenery": {
+									"baton": [
+										"baton.dx80.vtx",
+										"baton.dx90.vtx",
+										"baton.mdl",
+										"baton.phy",
+										"baton.sw.vtx",
+										"baton.vvd"
+									],
+									"gunrack": [
+										"gunrack.dx80.vtx",
+										"gunrack.dx90.vtx",
+										"gunrack.mdl",
+										"gunrack.phy",
+										"gunrack.sw.vtx",
+										"gunrack.vvd"
+									],
+									"h_baracade_large": [
+										"h_baracade_large.dx80.vtx",
+										"h_baracade_large.dx90.vtx",
+										"h_baracade_large.mdl",
+										"h_baracade_large.phy",
+										"h_baracade_large.sw.vtx",
+										"h_baracade_large.vvd"
+									],
+									"h_baracade_large_gap": [
+										"h_baracade_large_gap.dx80.vtx",
+										"h_baracade_large_gap.dx90.vtx",
+										"h_baracade_large_gap.mdl",
+										"h_baracade_large_gap.phy",
+										"h_baracade_large_gap.sw.vtx",
+										"h_baracade_large_gap.vvd"
+									],
+									"h_baracade_small": [
+										"h_baracade_small.dx80.vtx",
+										"h_baracade_small.dx90.vtx",
+										"h_baracade_small.mdl",
+										"h_baracade_small.phy",
+										"h_baracade_small.sw.vtx",
+										"h_baracade_small.vvd"
+									],
+									"h_baracade_small_visor": [
+										"h_baracade_small_visor.dx80.vtx",
+										"h_baracade_small_visor.dx90.vtx",
+										"h_baracade_small_visor.mdl",
+										"h_baracade_small_visor.phy",
+										"h_baracade_small_visor.sw.vtx",
+										"h_baracade_small_visor.vvd"
+									],
+									"oxygentank": [
+										"oxygentank.dx80.vtx",
+										"oxygentank.dx90.vtx",
+										"oxygentank.mdl",
+										"oxygentank.phy",
+										"oxygentank.sw.vtx",
+										"oxygentank.vvd"
+									],
+									"pipe": [
+										"pipe.dx80.vtx",
+										"pipe.dx90.vtx",
+										"pipe.mdl",
+										"pipe.phy",
+										"pipe.sw.vtx",
+										"pipe.vvd"
+									]
+								}
+							}
+						}
+					},
+					"Halo2HumanShared": {
+						"0": "icon.tga",
+						"1": "info.txt",
+						"materials": {
+							"effects": [
+								"shrapnel_sparks.mks",
+								"shrapnel_sparks.vmt",
+								"shrapnel_sparks.vtf",
+								"shrapnel_sparksa.tga",
+								"shrapnel_sparksc.tga",
+								"shrapnel_sparksnb.tga",
+								"smoke_volumetric.vmt",
+								"smoke_volumetric.vtf"
+							],
+							"models": {
+								"characters": {
+									"flood_infection": {
+										"0": "flood_infection.vtf",
+										"bitmaps": [
+											"flood tentacles.vtf",
+											"flood_infection.vmt",
+											"flood_tentacles.vmt",
+											"flood_tentacles.vtf",
+											"infection_tentacles.vmt",
+											"infection_tentacles_multi.vtf",
+											"infection_tentacles_multi_x.vtf"
+										]
+									},
+									"floodcombat_elite": {
+										"0": "flood tentacles.vmt",
+										"bitmaps": [
+											"flood tentacles.vmt",
+											"flood tentacles.vtf",
+											"flood tentacleslod.vmt",
+											"flood tentacleslod.vtf"
+										]
+									},
+									"floodcombat_human": {
+										"bitmaps": [
+											"floodcombat_human.vmt",
+											"floodcombat_human.vtf",
+											"floodhuman.vmt",
+											"floodhuman.vtf",
+											"floodhuman_damaged.vmt",
+											"floodhuman_damaged.vtf",
+											"floodhuman_damagedlod.vmt",
+											"floodhuman_damagedlod.vtf",
+											"floodhuman_illum.vtf",
+											"floodhuman_multipurpose.vmt",
+											"floodhumanlod.vmt",
+											"floodhumanlod.vtf"
+										]
+									}
+								},
+								"objects": {
+									"bitmaps": {
+										"detail_maps": [
+											"metal_dirty.vtf"
+										]
+									},
+									"gear": {
+										"human": {
+											"military": {
+												"0": "cratebigdecal1.tif",
+												"1": "cratebigdecal1.vtf",
+												"10": "cratedecal3.tif",
+												"11": "cratedecal3.vtf",
+												"12": "cratedecal4.tif",
+												"13": "cratedecal4.vtf",
+												"2": "cratebigdecal2.tif",
+												"3": "cratebigdecal3.tif",
+												"4": "cratebigdecal4.tif",
+												"5": "cratedecal1.tif",
+												"6": "cratedecal1.vmt",
+												"7": "cratedecal1.vtf",
+												"8": "cratedecal2.tif",
+												"9": "cratedecal2.vtf",
+												"bitmaps": [
+													"cigar.vmt",
+													"cigar.vtf",
+													"cigar_bump.vtf",
+													"cratedecal1.vmt",
+													"cratedecal2.vmt",
+													"cratedecal3.vmt",
+													"cratedecal4.vmt",
+													"cratedecalbig1.vmt",
+													"cratedecalbig1.vtf",
+													"cratedecalbig2.vmt",
+													"cratedecalbig2.vtf",
+													"cratedecalbig3.vmt",
+													"cratedecalbig3.vtf",
+													"cratedecalbig4.vmt",
+													"cratedecalbig4.vtf",
+													"decal1.vmt",
+													"fusion_coil_bloom.vmt",
+													"fusion_coil_bloom.vtf",
+													"fusion_coil_core.vmt",
+													"fusion_coil_core.vtf",
+													"fusion_coil_core_illum.vtf",
+													"fusion_coil_core_illum_inv.vtf",
+													"fusion_coil_core_illum_whitened.vtf",
+													"human_military_equipment.vmt",
+													"human_military_equipment.vtf",
+													"human_military_equipment_bump.vtf",
+													"human_military_equipment_dudv.vtf",
+													"military_decal_12_gal1.vmt",
+													"military_decal_12_gal1.vtf",
+													"military_decal_12_gal2.vmt",
+													"military_decal_12_gal2.vtf",
+													"military_decal_12_gal3.vmt",
+													"military_decal_12_gal3.vtf",
+													"military_decal_12_gal4.vmt",
+													"military_decal_12_gal4.vtf",
+													"military_decal_55_gal1.vmt",
+													"military_decal_55_gal2.vmt",
+													"military_decal_55_gal2.vtf",
+													"military_decal_ap_case.vmt",
+													"military_decal_ap_case.vtf",
+													"military_decals_small.vmt",
+													"military_decals_small.vtf",
+													"military_decals_small2.vmt",
+													"military_decals_small2.vtf",
+													"military_decals_small3.vmt",
+													"military_decals_small3.vtf",
+													"military_decals_small4.vmt",
+													"military_decals_small4.vtf",
+													"military_drumb_55_gal1.vmt",
+													"military_drumb_55_gal1.vtf",
+													"testphong.vtf"
+												]
+											}
+										}
+									},
+									"multi": {
+										"turf": {
+											"civilian": {
+												"bitmaps": [
+													"signs_storefront.vmt",
+													"signs_storefront.vtf",
+													"signs_storefront_01.vmt",
+													"signs_storefront_illum.vtf",
+													"turf_metal.vmt"
+												],
+												"signs": {
+													"bitmaps": [
+														"signs_storefront.vmt"
+													]
+												}
+											}
+										}
+									},
+									"vehicles": {
+										"civilian": {
+											"bitmaps": [
+												"bus.vmt",
+												"bus.vtf",
+												"bus_bump.vtf",
+												"panel_truck_bump.vtf",
+												"panel_truck_color.vmt",
+												"panel_truck_color.vtf",
+												"truck_bump.vtf",
+												"truck_color.vmt",
+												"truck_color.vtf"
+											]
+										},
+										"warthog": {
+											"0": "tires.vmt",
+											"1": "tires.vtf",
+											"bitmaps": [
+												"tires.vmt",
+												"tires.vtf"
+											]
+										}
+									}
+								},
+								"scenarios": {
+									"bitmaps": {
+										"detail_maps": {
+											"metal": [
+												"scraches.vtf"
+											]
+										},
+										"multi": {
+											"bitmaps": [
+												"metal_grey_dark_fence_diffuse.vmt"
+											]
+										},
+										"nature": {
+											"trees": [
+												"palm_frond_a_dif.vmt",
+												"palm_frond_a_dif.vtf"
+											]
+										},
+										"solo": {
+											"spacestation": [
+												"crate_multi_single.vmt",
+												"ss_panel_crate.vmt",
+												"ss_panel_crate.vtf",
+												"ss_panel_crate_bump.vtf",
+												"ss_panel_crate_colormap.vtf",
+												"ss_panel_crate_dudv.vtf",
+												"ss_panel_crate_green.vmt",
+												"ss_panel_crate_misc.vmt"
+											]
+										}
+									},
+									"objects": {
+										"human": {
+											"military": {
+												"tent_medical_solidpanel": {
+													"bitmaps": [
+														"tent_medical.vtf",
+														"tent_medical_bump.vtf",
+														"tent_medical_floor.vmt",
+														"tent_medical_floor.vtf",
+														"tent_medical_floor_bump.vtf",
+														"tent_medical_floor_illum.vtf",
+														"tent_metal.vmt",
+														"tent_metal.vtf",
+														"tent_metal_bump.vtf",
+														"tent_metal_floor.vmt",
+														"tent_metal_glass.vmt",
+														"tent_metal_specular.vtf",
+														"tent_metal_window.vmt",
+														"tent_metal_window.vtf"
+													]
+												}
+											},
+											"residential": {
+												"palette": {
+													"bitmaps": [
+														"palette_wood.vmt",
+														"palette_wood.vtf",
+														"palette_wood_bump.vtf",
+														"palette_wood_dudv.vtf"
+													]
+												},
+												"res_container": {
+													"bitmaps": [
+														"container_labels1.vmt",
+														"container_labels1.vtf",
+														"container_labels2.vmt",
+														"container_labels2.vtf",
+														"container_labels3.vmt",
+														"container_labels3.vtf",
+														"container_labels4.vmt",
+														"container_labels_2.vmt",
+														"container_labels_3.vmt",
+														"container_labels_4.vmt",
+														"container_labels_4.vtf",
+														"res_container.vmt",
+														"res_container.vtf",
+														"res_container_bump.vtf",
+														"res_container_cmask.vtf",
+														"res_container_dudv.vtf"
+													]
+												},
+												"vending_machine": {
+													"bitmaps": [
+														"vending_machine.vmt",
+														"vending_machine.vtf",
+														"vending_machine_illum.vmt",
+														"vending_machine_illum_new.vtf"
+													]
+												},
+												"vending_machine_blue_soda": {
+													"bitmaps": [
+														"vending_machine_blue.vmt",
+														"vending_machine_blue.vtf",
+														"vending_machine_blue_illum.vmt"
+													]
+												},
+												"vending_machine_red_pop": {
+													"bitmaps": [
+														"metal_grey_dark_fence_diffuse.vmt",
+														"vending_machine_bump.vtf",
+														"vending_machine_illum.vtf",
+														"vending_machine_illum_inverse.vtf",
+														"vending_machine_red.vmt",
+														"vending_machine_red.vtf",
+														"vending_machine_red_illum.vmt"
+													]
+												}
+											},
+											"urban": {
+												"crazydoor": {
+													"0": "base_stucco3_trim.vtf",
+													"1": "base_stucco4_garage.vtf",
+													"2": "base_stucco4_garage_bump.vtf",
+													"3": "base_stucco5_brick.vtf",
+													"4": "base_stucco5_brick_bump.vtf",
+													"bitmaps": [
+														"base_stucco3_trim.vmt",
+														"base_stucco4_garage.vmt",
+														"base_stucco5_brick.vmt",
+														"base_tech.vmt",
+														"base_tech.vtf",
+														"base_tech_bump.vtf",
+														"turf_brick1.vmt",
+														"turf_brick1.vtf"
+													]
+												},
+												"dsb": {
+													"bitmaps": [
+														"deployable_shield.vmt",
+														"deployable_shield.vtf",
+														"deployable_shield_bump.vtf"
+													]
+												},
+												"dumpster": {
+													"0": "dumpster.vtf",
+													"1": "dumpster2.vmt",
+													"2": "dumpster2.vtf",
+													"bitmaps": [
+														"dumpster.vmt",
+														"dumpster.vtf",
+														"dumpster2.vmt"
+													]
+												},
+												"medcratemed": {
+													"bitmaps": [
+														"medical_crate_med.vmt",
+														"medical_crate_med.vtf",
+														"medical_crate_med_bump.vtf"
+													]
+												},
+												"trashcan": {
+													"0": "trash_can.vmt",
+													"bitmaps": [
+														"trash_can.vmt",
+														"trash_can.vtf",
+														"trash_can_bump.vtf"
+													]
+												}
+											}
+										},
+										"solo": {
+											"earthcity": {
+												"crush_barrel": [
+													"crush_barrel.vmt",
+													"crush_barrel.vtf",
+													"crush_barrel_bump.vtf"
+												],
+												"road_cone": [
+													"road_cone.vmt",
+													"road_cone.vtf",
+													"road_cone_bump.vtf",
+													"road_cone_illum.vtf"
+												]
+											}
+										}
+									},
+									"skies": {
+										"multi": {
+											"turf": {
+												"bitmaps": [
+													"moon.vtf",
+													"nm_bridge.vmt",
+													"nm_bridge.vtf",
+													"tether.vmt",
+													"tether.vtf",
+													"turf.vmt",
+													"turf.vtf"
+												]
+											},
+											"zanzibar": {
+												"bitmaps": [
+													"clouds_low_mask.vmt",
+													"clouds_low_mask.vtf",
+													"moon.vmt",
+													"moon.vtf"
+												]
+											}
+										}
+									}
+								}
+							}
+						},
+						"models": {
+							"objects": {
+								"bitmaps": {
+									"detail_maps": [
+										"metal_dirty.vtf"
+									]
+								},
+								"gear": {
+									"human": {
+										"military": {
+											"0": "cratebigdecal1.tif",
+											"1": "cratebigdecal1.vtf",
+											"10": "cratedecal3.tif",
+											"11": "cratedecal3.vtf",
+											"12": "cratedecal4.tif",
+											"13": "cratedecal4.vtf",
+											"2": "cratebigdecal2.tif",
+											"3": "cratebigdecal3.tif",
+											"4": "cratebigdecal4.tif",
+											"5": "cratedecal1.tif",
+											"6": "cratedecal1.vmt",
+											"7": "cratedecal1.vtf",
+											"8": "cratedecal2.tif",
+											"9": "cratedecal2.vtf",
+											"antenna_mast": [
+												"antenna_mast.dx80.vtx",
+												"antenna_mast.dx90.vtx",
+												"antenna_mast.mdl",
+												"antenna_mast.phy",
+												"antenna_mast.sw.vtx",
+												"antenna_mast.vvd"
+											],
+											"bitmaps": [
+												"cratedecal1.vmt",
+												"cratedecal2.vmt",
+												"cratedecal3.vmt",
+												"cratedecal4.vmt",
+												"cratedecalbig1.vmt",
+												"cratedecalbig1.vtf",
+												"cratedecalbig2.vmt",
+												"cratedecalbig2.vtf",
+												"cratedecalbig3.vmt",
+												"cratedecalbig3.vtf",
+												"cratedecalbig4.vmt",
+												"cratedecalbig4.vtf",
+												"decal1.vmt",
+												"fusion_coil_bloom.vmt",
+												"fusion_coil_bloom.vtf",
+												"fusion_coil_core.vmt",
+												"fusion_coil_core.vtf",
+												"fusion_coil_core_illum.vtf",
+												"fusion_coil_core_illum_inv.vtf",
+												"fusion_coil_core_illum_whitened.vtf",
+												"human_military_equipment.vmt",
+												"human_military_equipment.vtf",
+												"human_military_equipment_bump.vtf",
+												"human_military_equipment_dudv.vtf",
+												"military_decal_12_gal1.vmt",
+												"military_decal_12_gal1.vtf",
+												"military_decal_12_gal2.vmt",
+												"military_decal_12_gal2.vtf",
+												"military_decal_12_gal3.vmt",
+												"military_decal_12_gal3.vtf",
+												"military_decal_12_gal4.vmt",
+												"military_decal_12_gal4.vtf",
+												"military_decal_55_gal1.vmt",
+												"military_decal_55_gal2.vmt",
+												"military_decal_55_gal2.vtf",
+												"military_decal_ap_case.vmt",
+												"military_decal_ap_case.vtf",
+												"military_decals_small.vmt",
+												"military_decals_small.vtf",
+												"military_decals_small2.vmt",
+												"military_decals_small2.vtf",
+												"military_decals_small3.vmt",
+												"military_decals_small3.vtf",
+												"military_decals_small4.vmt",
+												"military_decals_small4.vtf",
+												"military_drumb_55_gal1.vmt",
+												"military_drumb_55_gal1.vtf",
+												"testphong.vtf"
+											],
+											"blitzcan": [
+												"blitzcan.dx80.vtx",
+												"blitzcan.dx90.vtx",
+												"blitzcan.mdl",
+												"blitzcan.phy",
+												"blitzcan.sw.vtx",
+												"blitzcan.vvd"
+											],
+											"case": [
+												"case.dx80.vtx",
+												"case.dx90.vtx",
+												"case.mdl",
+												"case.phy",
+												"case.sw.vtx",
+												"case.vvd"
+											],
+											"case_ap_turret": [
+												"case_ap_turret.dx80.vtx",
+												"case_ap_turret.dx90.vtx",
+												"case_ap_turret.mdl",
+												"case_ap_turret.phy",
+												"case_ap_turret.sw.vtx",
+												"case_ap_turret.vvd"
+											],
+											"cigar": [
+												"cigar.dx80.vtx",
+												"cigar.dx90.vtx",
+												"cigar.mdl",
+												"cigar.phy",
+												"cigar.sw.vtx",
+												"cigar.vvd"
+											],
+											"drumb_12gal": [
+												"drumb_12gal.dx80.vtx",
+												"drumb_12gal.dx90.vtx",
+												"drumb_12gal.mdl",
+												"drumb_12gal.phy",
+												"drumb_12gal.sw.vtx",
+												"drumb_12gal.vvd"
+											],
+											"drumb_55gal": [
+												"drumb_55gal.dx80.vtx",
+												"drumb_55gal.dx90.vtx",
+												"drumb_55gal.mdl",
+												"drumb_55gal.phy",
+												"drumb_55gal.sw.vtx",
+												"drumb_55gal.vvd"
+											],
+											"fusion_coil": [
+												"fusion_coil.dx80.vtx",
+												"fusion_coil.dx90.vtx",
+												"fusion_coil.mdl",
+												"fusion_coil.phy",
+												"fusion_coil.sw.vtx",
+												"fusion_coil.vvd"
+											],
+											"generator": [
+												"generator.dx80.vtx",
+												"generator.dx90.vtx",
+												"generator.mdl",
+												"generator.phy",
+												"generator.sw.vtx",
+												"generator.vvd"
+											],
+											"pallet": [
+												"pallet.dx80.vtx",
+												"pallet.dx90.vtx",
+												"pallet.mdl",
+												"pallet.phy",
+												"pallet.sw.vtx",
+												"pallet.vvd"
+											],
+											"rucksack": [
+												"rucksack.dx80.vtx",
+												"rucksack.dx90.vtx",
+												"rucksack.mdl",
+												"rucksack.phy",
+												"rucksack.sw.vtx",
+												"rucksack.vvd"
+											],
+											"tire": [
+												"tire.dx80.vtx",
+												"tire.dx90.vtx",
+												"tire.mdl",
+												"tire.phy",
+												"tire.sw.vtx",
+												"tire.vvd"
+											]
+										}
+									}
+								},
+								"multi": {
+									"turf": {
+										"civilian": {
+											"bitmaps": [
+												"signs_storefront.vmt",
+												"signs_storefront.vtf",
+												"signs_storefront_01.vmt",
+												"signs_storefront_illum.vtf",
+												"turf_metal.vmt"
+											],
+											"signs": {
+												"bitmaps": [
+													"signs_storefront.vmt"
+												]
+											}
+										}
+									}
+								},
+								"vehicles": {
+									"civilian": {
+										"bitmaps": [
+											"bus.vmt",
+											"bus.vtf",
+											"bus_bump.vtf",
+											"panel_truck_bump.vtf",
+											"panel_truck_color.vmt",
+											"panel_truck_color.vtf",
+											"truck_bump.vtf",
+											"truck_color.vmt",
+											"truck_color.vtf"
+										]
+									},
+									"warthog": {
+										"0": "tires.vmt",
+										"1": "tires.vtf",
+										"bitmaps": [
+											"tires.vmt",
+											"tires.vtf"
+										]
+									}
+								}
+							},
+							"scenarios": {
+								"objects": {
+									"human": {
+										"crates": [
+											"bigcrate.dx80.vtx",
+											"bigcrate.dx90.vtx",
+											"bigcrate.mdl",
+											"bigcrate.phy",
+											"bigcrate.sw.vtx",
+											"bigcrate.vvd",
+											"crate_tech_giant.dx80.vtx",
+											"crate_tech_giant.dx90.vtx",
+											"crate_tech_giant.mdl",
+											"crate_tech_giant.phy",
+											"crate_tech_giant.sw.vtx",
+											"crate_tech_giant.vvd",
+											"smallcrate.dx80.vtx",
+											"smallcrate.dx90.vtx",
+											"smallcrate.mdl",
+											"smallcrate.phy",
+											"smallcrate.sw.vtx",
+											"smallcrate.vvd",
+											"ss_crate.dx80.vtx",
+											"ss_crate.dx90.vtx",
+											"ss_crate.mdl",
+											"ss_crate.phy",
+											"ss_crate.sw.vtx",
+											"ss_crate.vvd"
+										],
+										"military": {
+											"0": "tent_medical_solidpanel.dx80.vtx",
+											"1": "tent_medical_solidpanel.dx90.vtx",
+											"2": "tent_medical_solidpanel.mdl",
+											"3": "tent_medical_solidpanel.phy",
+											"4": "tent_medical_solidpanel.sw.vtx",
+											"5": "tent_medical_solidpanel.vvd",
+											"tent_medical_solidpanel": {
+												"bitmaps": [
+													"tent_medical.vtf",
+													"tent_medical_bump.vtf",
+													"tent_medical_floor.vmt",
+													"tent_medical_floor.vtf",
+													"tent_medical_floor_bump.vtf",
+													"tent_medical_floor_illum.vtf",
+													"tent_metal.vmt",
+													"tent_metal.vtf",
+													"tent_metal_bump.vtf",
+													"tent_metal_floor.vmt",
+													"tent_metal_glass.vmt",
+													"tent_metal_specular.vtf",
+													"tent_metal_window.vmt",
+													"tent_metal_window.vtf"
+												]
+											}
+										},
+										"residential": {
+											"0": "res_container.dx80.vtx",
+											"1": "res_container.dx90.vtx",
+											"10": "vending_machine_red_pop.sw.vtx",
+											"11": "vending_machine_red_pop.vvd",
+											"2": "res_container.mdl",
+											"3": "res_container.phy",
+											"4": "res_container.sw.vtx",
+											"5": "res_container.vvd",
+											"6": "vending_machine_red_pop.dx80.vtx",
+											"7": "vending_machine_red_pop.dx90.vtx",
+											"8": "vending_machine_red_pop.mdl",
+											"9": "vending_machine_red_pop.phy",
+											"palette": {
+												"0": "palette.dx80.vtx",
+												"1": "palette.dx90.vtx",
+												"2": "palette.mdl",
+												"3": "palette.phy",
+												"4": "palette.sw.vtx",
+												"5": "palette.vvd",
+												"bitmaps": [
+													"palette_wood.vmt",
+													"palette_wood.vtf",
+													"palette_wood_bump.vtf",
+													"palette_wood_dudv.vtf"
+												]
+											},
+											"res_container": {
+												"bitmaps": [
+													"container_labels1.vmt",
+													"container_labels1.vtf",
+													"container_labels2.vmt",
+													"container_labels2.vtf",
+													"container_labels3.vmt",
+													"container_labels3.vtf",
+													"container_labels4.vmt",
+													"container_labels_2.vmt",
+													"container_labels_3.vmt",
+													"container_labels_4.vmt",
+													"container_labels_4.vtf",
+													"res_container.vmt",
+													"res_container.vtf",
+													"res_container_bump.vtf",
+													"res_container_cmask.vtf",
+													"res_container_dudv.vtf"
+												]
+											},
+											"vending_machine": {
+												"bitmaps": [
+													"vending_machine.vmt",
+													"vending_machine.vtf",
+													"vending_machine_illum.vmt",
+													"vending_machine_illum_new.vtf"
+												]
+											},
+											"vending_machine_blue_soda": {
+												"bitmaps": [
+													"vending_machine_blue.vmt",
+													"vending_machine_blue.vtf",
+													"vending_machine_blue_illum.vmt"
+												]
+											},
+											"vending_machine_red_pop": {
+												"bitmaps": [
+													"metal_grey_dark_fence_diffuse.vmt",
+													"vending_machine_bump.vtf",
+													"vending_machine_illum.vtf",
+													"vending_machine_illum_inverse.vtf",
+													"vending_machine_red.vmt",
+													"vending_machine_red.vtf",
+													"vending_machine_red_illum.vmt"
+												]
+											}
+										},
+										"urban": {
+											"0": "deployable_shield_bunker.dx80.vtx",
+											"1": "deployable_shield_bunker.dx90.vtx",
+											"10": "deployable_shield_bunkerb.sw.vtx",
+											"11": "deployable_shield_bunkerb.vvd",
+											"2": "deployable_shield_bunker.mdl",
+											"3": "deployable_shield_bunker.phy",
+											"4": "deployable_shield_bunker.sw.vtx",
+											"5": "deployable_shield_bunker.vvd",
+											"6": "deployable_shield_bunkerb.dx80.vtx",
+											"7": "deployable_shield_bunkerb.dx90.vtx",
+											"8": "deployable_shield_bunkerb.mdl",
+											"9": "deployable_shield_bunkerb.phy",
+											"crazydoor": {
+												"0": "base_stucco3_trim.vtf",
+												"1": "base_stucco4_garage.vtf",
+												"2": "base_stucco4_garage_bump.vtf",
+												"3": "base_stucco5_brick.vtf",
+												"4": "base_stucco5_brick_bump.vtf",
+												"5": "crazydoor.dx80.vtx",
+												"6": "crazydoor.dx90.vtx",
+												"7": "crazydoor.mdl",
+												"8": "crazydoor.sw.vtx",
+												"9": "crazydoor.vvd",
+												"bitmaps": [
+													"base_stucco3_trim.vmt",
+													"base_stucco4_garage.vmt",
+													"base_stucco5_brick.vmt",
+													"base_tech.vmt",
+													"base_tech.vtf",
+													"base_tech_bump.vtf",
+													"turf_brick1.vmt",
+													"turf_brick1.vtf"
+												]
+											},
+											"dsb": {
+												"bitmaps": [
+													"deployable_shield.vmt",
+													"deployable_shield.vtf",
+													"deployable_shield_bump.vtf"
+												]
+											},
+											"dumpster": {
+												"0": "dumpster.dx80.vtx",
+												"1": "dumpster.dx90.vtx",
+												"2": "dumpster.mdl",
+												"3": "dumpster.phy",
+												"4": "dumpster.sw.vtx",
+												"5": "dumpster.vtf",
+												"6": "dumpster.vvd",
+												"7": "dumpster2.vmt",
+												"8": "dumpster2.vtf",
+												"bitmaps": [
+													"dumpster.vmt",
+													"dumpster.vtf",
+													"dumpster2.vmt"
+												]
+											},
+											"medcratemed": {
+												"0": "medcratemed.dx80.vtx",
+												"1": "medcratemed.dx90.vtx",
+												"2": "medcratemed.mdl",
+												"3": "medcratemed.phy",
+												"4": "medcratemed.sw.vtx",
+												"5": "medcratemed.vvd",
+												"bitmaps": [
+													"medical_crate_med.vmt",
+													"medical_crate_med.vtf",
+													"medical_crate_med_bump.vtf"
+												]
+											},
+											"trashcan": {
+												"0": "trash_can.vmt",
+												"1": "trashcan.dx80.vtx",
+												"2": "trashcan.dx90.vtx",
+												"3": "trashcan.mdl",
+												"4": "trashcan.phy",
+												"5": "trashcan.sw.vtx",
+												"6": "trashcan.vvd",
+												"bitmaps": [
+													"trash_can.vmt",
+													"trash_can.vtf",
+													"trash_can_bump.vtf"
+												]
+											}
+										}
+									},
+									"multi": {
+										"turf": {
+											"civilian": {
+												"signs": [
+													"signa.dx80.vtx",
+													"signa.dx90.vtx",
+													"signa.mdl",
+													"signa.phy",
+													"signa.sw.vtx",
+													"signa.vvd",
+													"signb.dx80.vtx",
+													"signb.dx90.vtx",
+													"signb.mdl",
+													"signb.phy",
+													"signb.sw.vtx",
+													"signb.vvd"
+												]
+											}
+										}
+									},
+									"nature": {
+										"trees": [
+											"palm_tree.dx80.vtx",
+											"palm_tree.dx90.vtx",
+											"palm_tree.mdl",
+											"palm_tree.phy",
+											"palm_tree.sw.vtx",
+											"palm_tree.vvd"
+										]
+									},
+									"solo": {
+										"earthcity": {
+											"crush_barrel": [
+												"crush_barrel.dx80.vtx",
+												"crush_barrel.dx90.vtx",
+												"crush_barrel.mdl",
+												"crush_barrel.phy",
+												"crush_barrel.sw.vtx",
+												"crush_barrel.vmt",
+												"crush_barrel.vtf",
+												"crush_barrel.vvd",
+												"crush_barrel_bump.vtf",
+												"g_crush__base.dx80.vtx",
+												"g_crush__base.dx90.vtx",
+												"g_crush__base.mdl",
+												"g_crush__base.phy",
+												"g_crush__base.sw.vtx",
+												"g_crush__base.vvd",
+												"g_crush_barre.dx80.vtx",
+												"g_crush_barre.dx90.vtx",
+												"g_crush_barre.mdl",
+												"g_crush_barre.phy",
+												"g_crush_barre.sw.vtx",
+												"g_crush_barre.vvd"
+											],
+											"road_cone": [
+												"road_cone.dx80.vtx",
+												"road_cone.dx90.vtx",
+												"road_cone.mdl",
+												"road_cone.phy",
+												"road_cone.sw.vtx",
+												"road_cone.vmt",
+												"road_cone.vtf",
+												"road_cone.vvd",
+												"road_cone_bump.vtf",
+												"road_cone_illum.vtf"
+											]
+										}
+									},
+									"vehicles": {
+										"civilian": [
+											"bus.dx80.vtx",
+											"bus.dx90.vtx",
+											"bus.mdl",
+											"bus.phy",
+											"bus.sw.vtx",
+											"bus.vvd",
+											"bus_destroyed.dx80.vtx",
+											"bus_destroyed.dx90.vtx",
+											"bus_destroyed.mdl",
+											"bus_destroyed.phy",
+											"bus_destroyed.sw.vtx",
+											"bus_destroyed.vvd",
+											"truck.dx80.vtx",
+											"truck.dx90.vtx",
+											"truck.mdl",
+											"truck.phy",
+											"truck.sw.vtx",
+											"truck.vvd"
+										]
+									}
+								},
+								"skies": {
+									"multi": {
+										"turf": [
+											"sky.dx80.vtx",
+											"sky.dx90.vtx",
+											"sky.mdl",
+											"sky.sw.vtx",
+											"sky.vvd"
+										]
+									}
+								}
+							}
+						},
+						"scripts": [
+							"soundscapes_turf.txt"
+						],
+						"settings": {
+							"spawnlist": [
+								"halo 2 human props.txt"
+							]
+						},
+						"sound": {
+							"ambient": {
+								"turf": {
+									"0": "distant_flyby-0-0C.wav",
+									"1": "distant_flyby-0-1C.wav",
+									"10": "distant_machine_gun-0-5C.wav",
+									"11": "distant_machine_gun-0-6C.wav",
+									"12": "distant_machine_gun-0-7C.wav",
+									"13": "distant_machine_gun-0-8C.wav",
+									"14": "extra_hits-0-0C.wav",
+									"15": "extra_hits-0-1C.wav",
+									"16": "extra_hits-0-2C.wav",
+									"17": "extra_hits-0-3C.wav",
+									"18": "extra_hits-0-4C.wav",
+									"19": "extra_hits-0-5C.wav",
+									"2": "distant_flyby-0-2C.wav",
+									"20": "extra_hits-0-6C.wav",
+									"21": "extra_hits-0-7C.wav",
+									"22": "extra_hits-0-8C.wav",
+									"23": "extra_hits-0-9C.wav",
+									"24": "whacked_vocals-0-0C.wav",
+									"25": "whacked_vocals-0-1C.wav",
+									"26": "whacked_vocals-0-2C.wav",
+									"27": "whacked_vocals-0-3C.wav",
+									"28": "whacked_vocals-0-4C.wav",
+									"29": "whacked_vocals-0-5C.wav",
+									"3": "distant_flyby-0-3C.wav",
+									"30": "whacked_vocals-0-6C.wav",
+									"31": "whacked_vocals-0-7C.wav",
+									"32": "wind-0-0C.wav",
+									"33": "wind-0-1C.wav",
+									"34": "wind-0-2C.wav",
+									"35": "wind-0-3C.wav",
+									"36": "wind-0-4C.wav",
+									"37": "zanzibar_distant_battle-0-0C.wav",
+									"38": "zanzibar_distant_battle-0-1C.wav",
+									"39": "zanzibar_distant_battle-0-2C.wav",
+									"4": "distant_flyby-0-4C.wav",
+									"40": "zanzibar_distant_battle-0-3C.wav",
+									"41": "zanzibar_distant_battle-0-4C.wav",
+									"42": "zanzibar_distant_battle-0-5C.wav",
+									"43": "zanzibar_distant_battle-0-6C.wav",
+									"44": "zanzibar_distant_battle-0-7C.wav",
+									"45": "zanzibar_distant_battle-0-8C.wav",
+									"46": "zanzibar_distant_battle-0-9C.wav",
+									"5": "distant_machine_gun-0-0C.wav",
+									"6": "distant_machine_gun-0-1C.wav",
+									"7": "distant_machine_gun-0-2C.wav",
+									"8": "distant_machine_gun-0-3C.wav",
+									"9": "distant_machine_gun-0-4C.wav",
+									"hinge_door": [
+										"loop-0-12c.wav",
+										"loop-0-13C.wav",
+										"loop-0-2C.wav",
+										"loop-0-3C.wav",
+										"loop-0-5C.wav"
+									],
+									"loop": [
+										"gwv3C10.tmp",
+										"loop-0-0C.wav",
+										"loop-0-0Cloop.wav",
+										"loop-0-1C.wav",
+										"loop-0-2C.wav",
+										"loop-0-3C.wav",
+										"loop-0-4C.wav",
+										"loop-0-5C.wav",
+										"sample_src.wav"
+									]
+								}
+							}
+						}
+					},
+					"Halo2Shared": {
+						"0": "info.txt",
+						"materials": {
+							"effects": [
+								"shrapnel_sparks.mks",
+								"shrapnel_sparks.vmt",
+								"shrapnel_sparks.vtf",
+								"shrapnel_sparksa.tga",
+								"shrapnel_sparksc.tga",
+								"shrapnel_sparksnb.tga",
+								"smoke_volumetric.vmt",
+								"smoke_volumetric.vtf"
+							],
+							"models": {
+								"characters": {
+									"flood_infection": {
+										"0": "flood_infection.vtf",
+										"bitmaps": [
+											"flood tentacles.vtf",
+											"flood_infection.vmt",
+											"flood_tentacles.vmt",
+											"flood_tentacles.vtf",
+											"infection_tentacles.vmt",
+											"infection_tentacles_multi.vtf",
+											"infection_tentacles_multi_x.vtf"
+										]
+									},
+									"floodcombat_elite": {
+										"0": "flood tentacles.vmt",
+										"bitmaps": [
+											"flood tentacles.vmt",
+											"flood tentacles.vtf",
+											"flood tentacleslod.vmt",
+											"flood tentacleslod.vtf"
+										]
+									},
+									"floodcombat_human": {
+										"bitmaps": [
+											"floodcombat_human.vmt",
+											"floodcombat_human.vtf",
+											"floodhuman.vmt",
+											"floodhuman.vtf",
+											"floodhuman_damaged.vmt",
+											"floodhuman_damaged.vtf",
+											"floodhuman_damagedlod.vmt",
+											"floodhuman_damagedlod.vtf",
+											"floodhuman_illum.vtf",
+											"floodhuman_multipurpose.vmt",
+											"floodhumanlod.vmt",
+											"floodhumanlod.vtf"
+										]
+									}
+								},
+								"objects": {
+									"bitmaps": {
+										"detail_maps": [
+											"metal_dirty.vtf"
+										]
+									},
+									"gear": {
+										"human": {
+											"military": {
+												"0": "cratebigdecal1.vtf",
+												"1": "cratedecal1.vmt",
+												"2": "cratedecal1.vtf",
+												"3": "cratedecal2.vtf",
+												"4": "cratedecal3.vtf",
+												"5": "cratedecal4.vtf",
+												"bitmaps": [
+													"cratedecal1.vmt",
+													"cratedecal2.vmt",
+													"cratedecal3.vmt",
+													"cratedecal4.vmt",
+													"cratedecalbig1.vmt",
+													"cratedecalbig1.vtf",
+													"cratedecalbig2.vmt",
+													"cratedecalbig2.vtf",
+													"cratedecalbig3.vmt",
+													"cratedecalbig3.vtf",
+													"cratedecalbig4.vmt",
+													"cratedecalbig4.vtf",
+													"decal1.vmt",
+													"fusion_coil_bloom.vmt",
+													"fusion_coil_bloom.vtf",
+													"fusion_coil_core.vmt",
+													"fusion_coil_core.vtf",
+													"fusion_coil_core_illum.vtf",
+													"fusion_coil_core_illum_inv.vtf",
+													"fusion_coil_core_illum_whitened.vtf",
+													"human_military_equipment.vmt",
+													"human_military_equipment.vtf",
+													"human_military_equipment_bump.vtf",
+													"human_military_equipment_dudv.vtf",
+													"military_decal_12_gal1.vmt",
+													"military_decal_12_gal1.vtf",
+													"military_decal_12_gal2.vmt",
+													"military_decal_12_gal2.vtf",
+													"military_decal_12_gal3.vmt",
+													"military_decal_12_gal3.vtf",
+													"military_decal_12_gal4.vmt",
+													"military_decal_12_gal4.vtf",
+													"military_decal_55_gal1.vmt",
+													"military_decal_55_gal2.vmt",
+													"military_decal_55_gal2.vtf",
+													"military_decal_ap_case.vmt",
+													"military_decal_ap_case.vtf",
+													"military_decals_small.vmt",
+													"military_decals_small.vtf",
+													"military_decals_small2.vmt",
+													"military_decals_small2.vtf",
+													"military_decals_small3.vmt",
+													"military_decals_small3.vtf",
+													"military_decals_small4.vmt",
+													"military_decals_small4.vtf",
+													"military_drumb_55_gal1.vmt",
+													"military_drumb_55_gal1.vtf",
+													"testphong.vtf"
+												]
+											}
+										}
+									},
+									"vehicles": {
+										"civilian": {
+											"bitmaps": [
+												"bus.vmt",
+												"bus.vtf",
+												"bus_bump.vtf",
+												"panel_truck_bump.vtf",
+												"panel_truck_color.vmt",
+												"panel_truck_color.vtf",
+												"truck_bump.vtf",
+												"truck_color.vmt",
+												"truck_color.vtf"
+											]
+										}
+									}
+								},
+								"scenarios": {
+									"bitmaps": {
+										"detail_maps": {
+											"metal": [
+												"scraches.vtf"
+											]
+										},
+										"multi": {
+											"bitmaps": [
+												"metal_grey_dark_fence_diffuse.vmt"
+											]
+										},
+										"nature": {
+											"trees": [
+												"palm_frond_a_dif.vmt",
+												"palm_frond_a_dif.vtf"
+											]
+										},
+										"solo": {
+											"spacestation": [
+												"crate_multi_single.vmt",
+												"ss_panel_crate.vmt",
+												"ss_panel_crate.vtf",
+												"ss_panel_crate_bump.vtf",
+												"ss_panel_crate_colormap.vtf",
+												"ss_panel_crate_dudv.vtf",
+												"ss_panel_crate_green.vmt",
+												"ss_panel_crate_misc.vmt"
+											]
+										}
+									},
+									"objects": {
+										"human": {
+											"military": {
+												"tent_medical_solidpanel": {
+													"bitmaps": [
+														"tent_medical.vtf",
+														"tent_medical_bump.vtf",
+														"tent_medical_floor.vmt",
+														"tent_medical_floor.vtf",
+														"tent_medical_floor_bump.vtf",
+														"tent_medical_floor_illum.vtf",
+														"tent_metal.vmt",
+														"tent_metal.vtf",
+														"tent_metal_bump.vtf",
+														"tent_metal_floor.vmt",
+														"tent_metal_glass.vmt",
+														"tent_metal_specular.vtf",
+														"tent_metal_window.vmt",
+														"tent_metal_window.vtf"
+													]
+												}
+											},
+											"residential": {
+												"palette": {
+													"bitmaps": [
+														"palette_wood.vmt",
+														"palette_wood.vtf",
+														"palette_wood_bump.vtf",
+														"palette_wood_dudv.vtf"
+													]
+												},
+												"res_container": {
+													"bitmaps": [
+														"container_labels1.vmt",
+														"container_labels1.vtf",
+														"container_labels2.vmt",
+														"container_labels2.vtf",
+														"container_labels3.vmt",
+														"container_labels3.vtf",
+														"container_labels4.vmt",
+														"container_labels_2.vmt",
+														"container_labels_3.vmt",
+														"container_labels_4.vmt",
+														"container_labels_4.vtf",
+														"res_container.vmt",
+														"res_container.vtf",
+														"res_container_bump.vtf",
+														"res_container_cmask.vtf",
+														"res_container_dudv.vtf"
+													]
+												},
+												"vending_machine": {
+													"bitmaps": [
+														"vending_machine.vmt",
+														"vending_machine.vtf",
+														"vending_machine_illum.vmt",
+														"vending_machine_illum_new.vtf"
+													]
+												},
+												"vending_machine_blue_soda": {
+													"bitmaps": [
+														"vending_machine_blue.vmt",
+														"vending_machine_blue.vtf",
+														"vending_machine_blue_illum.vmt"
+													]
+												},
+												"vending_machine_red_pop": {
+													"bitmaps": [
+														"metal_grey_dark_fence_diffuse.vmt",
+														"vending_machine_bump.vtf",
+														"vending_machine_illum.vtf",
+														"vending_machine_illum_inverse.vtf",
+														"vending_machine_red.vmt",
+														"vending_machine_red.vtf",
+														"vending_machine_red_illum.vmt"
+													]
+												}
+											},
+											"urban": {
+												"crazydoor": {
+													"0": "base_stucco3_trim.vtf",
+													"1": "base_stucco4_garage.vtf",
+													"2": "base_stucco4_garage_bump.vtf",
+													"3": "base_stucco5_brick.vtf",
+													"4": "base_stucco5_brick_bump.vtf",
+													"bitmaps": [
+														"base_stucco3_trim.vmt",
+														"base_stucco4_garage.vmt",
+														"base_stucco5_brick.vmt",
+														"base_tech.vmt",
+														"base_tech.vtf",
+														"base_tech_bump.vtf",
+														"turf_brick1.vmt",
+														"turf_brick1.vtf"
+													]
+												},
+												"dsb": {
+													"bitmaps": [
+														"deployable_shield.vmt",
+														"deployable_shield.vtf",
+														"deployable_shield_bump.vtf"
+													]
+												},
+												"dumpster": {
+													"0": "dumpster.vtf",
+													"1": "dumpster2.vmt",
+													"2": "dumpster2.vtf",
+													"bitmaps": [
+														"dumpster.vmt",
+														"dumpster.vtf",
+														"dumpster2.vmt"
+													]
+												},
+												"medcratemed": {
+													"bitmaps": [
+														"medical_crate_med.vmt",
+														"medical_crate_med.vtf",
+														"medical_crate_med_bump.vtf"
+													]
+												},
+												"trashcan": {
+													"0": "trash_can.vmt",
+													"bitmaps": [
+														"trash_can.vmt",
+														"trash_can.vtf",
+														"trash_can_bump.vtf"
+													]
+												}
+											}
+										}
+									},
+									"skies": {
+										"multi": {
+											"turf": {
+												"bitmaps": [
+													"moon.vtf",
+													"nm_bridge.vmt",
+													"nm_bridge.vtf",
+													"tether.vmt",
+													"tether.vtf",
+													"turf.vmt",
+													"turf.vtf"
+												]
+											},
+											"zanzibar": {
+												"bitmaps": [
+													"clouds_low_mask.vmt",
+													"clouds_low_mask.vtf",
+													"moon.vmt",
+													"moon.vtf"
+												]
+											}
+										}
+									}
+								}
+							}
+						},
+						"models": {
+							"objects": {
+								"gear": {
+									"human": {
+										"military": {
+											"blitzcan": [
+												"blitzcan.dx80.vtx",
+												"blitzcan.dx90.vtx",
+												"blitzcan.mdl",
+												"blitzcan.phy",
+												"blitzcan.sw.vtx",
+												"blitzcan.vvd"
+											],
+											"case": [
+												"case.dx80.vtx",
+												"case.dx90.vtx",
+												"case.mdl",
+												"case.phy",
+												"case.sw.vtx",
+												"case.vvd"
+											],
+											"case_ap_turret": [
+												"case_ap_turret.dx80.vtx",
+												"case_ap_turret.dx90.vtx",
+												"case_ap_turret.mdl",
+												"case_ap_turret.phy",
+												"case_ap_turret.sw.vtx",
+												"case_ap_turret.vvd"
+											],
+											"drumb_12gal": [
+												"drumb_12gal.dx80.vtx",
+												"drumb_12gal.dx90.vtx",
+												"drumb_12gal.mdl",
+												"drumb_12gal.phy",
+												"drumb_12gal.sw.vtx",
+												"drumb_12gal.vvd"
+											],
+											"drumb_55gal": [
+												"drumb_55gal.dx80.vtx",
+												"drumb_55gal.dx90.vtx",
+												"drumb_55gal.mdl",
+												"drumb_55gal.phy",
+												"drumb_55gal.sw.vtx",
+												"drumb_55gal.vvd"
+											],
+											"fusion_coil": [
+												"fusion_coil.dx80.vtx",
+												"fusion_coil.dx90.vtx",
+												"fusion_coil.mdl",
+												"fusion_coil.phy",
+												"fusion_coil.sw.vtx",
+												"fusion_coil.vvd"
+											],
+											"generator": [
+												"generator.dx80.vtx",
+												"generator.dx90.vtx",
+												"generator.mdl",
+												"generator.phy",
+												"generator.sw.vtx",
+												"generator.vvd"
+											],
+											"pallet": [
+												"pallet.dx80.vtx",
+												"pallet.dx90.vtx",
+												"pallet.mdl",
+												"pallet.phy",
+												"pallet.sw.vtx",
+												"pallet.vvd"
+											],
+											"rucksack": [
+												"rucksack.dx80.vtx",
+												"rucksack.dx90.vtx",
+												"rucksack.mdl",
+												"rucksack.phy",
+												"rucksack.sw.vtx",
+												"rucksack.vvd"
+											]
+										}
+									}
+								}
+							},
+							"scenarios": {
+								"objects": {
+									"human": {
+										"crates": [
+											"bigcrate.dx80.vtx",
+											"bigcrate.dx90.vtx",
+											"bigcrate.mdl",
+											"bigcrate.phy",
+											"bigcrate.sw.vtx",
+											"bigcrate.vvd",
+											"crate_tech_giant.dx80.vtx",
+											"crate_tech_giant.dx90.vtx",
+											"crate_tech_giant.mdl",
+											"crate_tech_giant.phy",
+											"crate_tech_giant.sw.vtx",
+											"crate_tech_giant.vvd",
+											"smallcrate.dx80.vtx",
+											"smallcrate.dx90.vtx",
+											"smallcrate.mdl",
+											"smallcrate.phy",
+											"smallcrate.sw.vtx",
+											"smallcrate.vvd",
+											"ss_crate.dx80.vtx",
+											"ss_crate.dx90.vtx",
+											"ss_crate.mdl",
+											"ss_crate.phy",
+											"ss_crate.sw.vtx",
+											"ss_crate.vvd"
+										],
+										"military": [
+											"tent_medical_solidpanel.dx80.vtx",
+											"tent_medical_solidpanel.dx90.vtx",
+											"tent_medical_solidpanel.mdl",
+											"tent_medical_solidpanel.phy",
+											"tent_medical_solidpanel.sw.vtx",
+											"tent_medical_solidpanel.vvd"
+										],
+										"residential": {
+											"0": "res_container.dx80.vtx",
+											"1": "res_container.dx90.vtx",
+											"10": "vending_machine_red_pop.sw.vtx",
+											"11": "vending_machine_red_pop.vvd",
+											"2": "res_container.mdl",
+											"3": "res_container.phy",
+											"4": "res_container.sw.vtx",
+											"5": "res_container.vvd",
+											"6": "vending_machine_red_pop.dx80.vtx",
+											"7": "vending_machine_red_pop.dx90.vtx",
+											"8": "vending_machine_red_pop.mdl",
+											"9": "vending_machine_red_pop.phy",
+											"palette": [
+												"palette.dx80.vtx",
+												"palette.dx90.vtx",
+												"palette.mdl",
+												"palette.phy",
+												"palette.sw.vtx",
+												"palette.vvd"
+											]
+										},
+										"urban": {
+											"0": "deployable_shield_bunker.dx80.vtx",
+											"1": "deployable_shield_bunker.dx90.vtx",
+											"10": "deployable_shield_bunkerb.sw.vtx",
+											"11": "deployable_shield_bunkerb.vvd",
+											"2": "deployable_shield_bunker.mdl",
+											"3": "deployable_shield_bunker.phy",
+											"4": "deployable_shield_bunker.sw.vtx",
+											"5": "deployable_shield_bunker.vvd",
+											"6": "deployable_shield_bunkerb.dx80.vtx",
+											"7": "deployable_shield_bunkerb.dx90.vtx",
+											"8": "deployable_shield_bunkerb.mdl",
+											"9": "deployable_shield_bunkerb.phy",
+											"crazydoor": [
+												"crazydoor.dx80.vtx",
+												"crazydoor.dx90.vtx",
+												"crazydoor.mdl",
+												"crazydoor.sw.vtx",
+												"crazydoor.vvd"
+											],
+											"dumpster": [
+												"dumpster.dx80.vtx",
+												"dumpster.dx90.vtx",
+												"dumpster.mdl",
+												"dumpster.phy",
+												"dumpster.sw.vtx",
+												"dumpster.vvd"
+											],
+											"medcratemed": [
+												"medcratemed.dx80.vtx",
+												"medcratemed.dx90.vtx",
+												"medcratemed.mdl",
+												"medcratemed.phy",
+												"medcratemed.sw.vtx",
+												"medcratemed.vvd"
+											],
+											"trashcan": [
+												"trashcan.dx80.vtx",
+												"trashcan.dx90.vtx",
+												"trashcan.mdl",
+												"trashcan.phy",
+												"trashcan.sw.vtx",
+												"trashcan.vvd"
+											]
+										}
+									},
+									"nature": {
+										"trees": [
+											"palm_tree.dx80.vtx",
+											"palm_tree.dx90.vtx",
+											"palm_tree.mdl",
+											"palm_tree.phy",
+											"palm_tree.sw.vtx",
+											"palm_tree.vvd"
+										]
+									},
+									"vehicles": {
+										"civilian": [
+											"bus.dx80.vtx",
+											"bus.dx90.vtx",
+											"bus.mdl",
+											"bus.phy",
+											"bus.sw.vtx",
+											"bus.vvd",
+											"bus_destroyed.dx80.vtx",
+											"bus_destroyed.dx90.vtx",
+											"bus_destroyed.mdl",
+											"bus_destroyed.phy",
+											"bus_destroyed.sw.vtx",
+											"bus_destroyed.vvd",
+											"truck.dx80.vtx",
+											"truck.dx90.vtx",
+											"truck.mdl",
+											"truck.phy",
+											"truck.sw.vtx",
+											"truck.vvd"
+										]
+									}
+								}
+							}
+						},
+						"scripts": [
+							"soundscapes_turf.txt"
+						],
+						"settings": {
+							"spawnlist": [
+								"halo 2 props.txt"
+							]
+						}
+					},
+					"Halo2Turf": {
+						"0": "info.txt",
+						"Materials": {
+							"scenarios": {
+								"bitmaps": {
+									"0": "signs_storefront.vmt",
+									"1": "signs_storefront.vtf",
+									"2": "signs_storefront_illum.vtf",
+									"detail_maps": {
+										"concrete": [
+											"stucco_rough_a.vtf",
+											"stucco_rough_a_bump.vtf"
+										],
+										"metal": [
+											"scraches.vtf"
+										],
+										"nature": {
+											"ground": [
+												"gravel.vtf"
+											]
+										}
+									},
+									"human": {
+										"metals": [
+											"grate_sewer_a_bump.vtf",
+											"grate_sewer_a_dif.vmt",
+											"grate_sewer_a_dif.vtf"
+										],
+										"urban": {
+											"concrete": [
+												"concrete_block_bump.vtf",
+												"concrete_block_dif.vmt",
+												"concrete_block_dif.vtf"
+											],
+											"military": {
+												"glass": [
+													"glass_smudged.vmt",
+													"glass_smudged.vtf",
+													"lol1.tga",
+													"lol2.tga",
+													"lolbreak.tga"
+												]
+											}
+										}
+									},
+									"multi": {
+										"bitmaps": {
+											"0": "base_ac1.vmt",
+											"1": "base_ac1.vtf",
+											"10": "base_stucco_3_trim.vmt",
+											"11": "base_stucco_3_trim.vtf",
+											"12": "base_stucco_5_window_detail.vmt",
+											"13": "base_stucco_5_window_detail.vtf",
+											"14": "base_stucco_5_window_detail_bump.vtf",
+											"15": "brick_oldworld_01.vmt",
+											"16": "brick_oldworld_01.vtf",
+											"17": "factory_base_unwrap_a_bump.vtf",
+											"18": "factory_base_unwrap_a_diffuse.vmt",
+											"19": "factory_base_unwrap_a_diffuse.vtf",
+											"2": "base_ac1_bump.vtf",
+											"20": "hunter_door.vmt",
+											"21": "hunter_door.vtf",
+											"22": "hunter_door_bump.vtf",
+											"23": "metal_grey_dark_fence.vmt",
+											"24": "metal_grey_dark_fence_bump.vtf",
+											"25": "metal_grey_dark_fence_diffuse.vtf",
+											"26": "truf_ac2_bump.vtf",
+											"27": "turf_ac2.vmt",
+											"28": "turf_ac2.vtf",
+											"29": "turf_ground_sidewalk_detail_01.vtf",
+											"3": "base_ac2.vmt",
+											"30": "turf_ground_unwrap_color.vtf",
+											"31": "turf_ground_unwrap_color_sidewalk.vmt",
+											"32": "turf_ground_unwrap_color_street.vmt",
+											"33": "windows_alphabatized.vtf",
+											"34": "windows_storefront.vmt",
+											"35": "windows_storefront.vtf",
+											"36": "windows_storefront_alphabatized.vtf",
+											"37": "windows_storefront_cubemap.vtf",
+											"38": "windwos_storefront_cubemap.vtf",
+											"4": "base_ac2.vtf",
+											"5": "base_ac2_bump.vtf",
+											"6": "base_brick1.vmt",
+											"7": "base_brick1.vtf",
+											"8": "base_stucco_2_roof.vmt",
+											"9": "base_stucco_2_roof.vtf",
+											"windows_storefront_cubemap": [
+												"d_00_00_00.tif",
+												"d_00_00_00.vtf",
+												"d_00_01_00.tif",
+												"d_00_01_00.vtf",
+												"d_00_02_00.tif",
+												"d_00_02_00.vtf",
+												"d_00_03_00.tif",
+												"d_00_03_00.vtf",
+												"d_00_04_00.tif",
+												"d_00_04_00.vtf",
+												"d_00_05_00.tif",
+												"d_00_05_00.vtf"
+											]
+										}
+									},
+									"reflection_maps": [
+										"reflection_ss_hallway_stainless.vtf",
+										"reflection_ss_hallway_stainlessb.vtf"
+									],
+									"solo": {
+										"earthcity": [
+											"base_sidewalk_bump.vtf",
+											"base_stucco_1_door.vmt",
+											"base_stucco_1_door.vtf",
+											"base_stucco_2_door.vmt",
+											"base_stucco_2_door.vtf",
+											"base_stucco_3.vmt",
+											"base_stucco_3.vtf",
+											"base_stucco_3_door.vmt",
+											"base_stucco_3_door.vtf",
+											"base_stucco_3_garage.vmt",
+											"base_stucco_3_garage.vtf",
+											"base_stucco_3_garage_bump.vtf",
+											"base_stucco_3_shutter.vmt",
+											"base_stucco_3_shutter.vtf",
+											"base_stucco_4_garage.vmt",
+											"base_stucco_4_garage.vtf",
+											"base_stucco_4_garage_bump.vtf",
+											"base_tech.vmt",
+											"base_tech.vtf",
+											"base_tech_bump.vtf",
+											"light_long.vmt",
+											"light_long.vtf",
+											"light_long_bump.vtf",
+											"turf_metal.vmt",
+											"turf_metal.vtf",
+											"turf_metal_cable.vmt",
+											"turf_stucco1.vmt",
+											"turf_stucco1.vtf",
+											"windows.vmt",
+											"windows.vtf",
+											"windows_alphabatized.vmt",
+											"windows_storefront_alphabatized.vmt"
+										]
+									}
+								},
+								"decals": {
+									"human": {
+										"bitmaps": [
+											"warnings.png",
+											"warnings.vmt",
+											"warnings.vtf"
+										]
+									}
+								},
+								"objects": {
+									"multi": {
+										"turf": {
+											"civilian": {
+												"signs": [
+													"signs_storefront.vmt"
+												]
+											}
+										}
+									}
+								}
+							}
+						},
+						"map": {
+							"graphs": [
+								"turf.ain"
+							],
+							"soundcache": [
+								"turf.cache"
+							]
+						},
+						"models": {
+							"scenarios": {
+								"objects": {
+									"multi": {
+										"turf": {
+											"civilian": {
+												"signs": [
+													"signa.dx80.vtx",
+													"signa.dx90.vtx",
+													"signa.mdl",
+													"signa.phy",
+													"signa.sw.vtx",
+													"signa.vvd",
+													"signb.dx80.vtx",
+													"signb.dx90.vtx",
+													"signb.mdl",
+													"signb.phy",
+													"signb.sw.vtx",
+													"signb.vvd"
+												]
+											}
+										}
+									}
+								},
+								"skies": {
+									"multi": {
+										"turf": [
+											"sky.dx80.vtx",
+											"sky.dx90.vtx",
+											"sky.mdl",
+											"sky.sw.vtx",
+											"sky.vvd"
+										]
+									}
+								}
+							}
+						},
+						"sound": {
+							"ambient": {
+								"turf": {
+									"0": "distant_flyby-0-0C.wav",
+									"1": "distant_flyby-0-1C.wav",
+									"10": "distant_machine_gun-0-5C.wav",
+									"11": "distant_machine_gun-0-6C.wav",
+									"12": "distant_machine_gun-0-7C.wav",
+									"13": "distant_machine_gun-0-8C.wav",
+									"14": "extra_hits-0-0C.wav",
+									"15": "extra_hits-0-1C.wav",
+									"16": "extra_hits-0-2C.wav",
+									"17": "extra_hits-0-3C.wav",
+									"18": "extra_hits-0-4C.wav",
+									"19": "extra_hits-0-5C.wav",
+									"2": "distant_flyby-0-2C.wav",
+									"20": "extra_hits-0-6C.wav",
+									"21": "extra_hits-0-7C.wav",
+									"22": "extra_hits-0-8C.wav",
+									"23": "extra_hits-0-9C.wav",
+									"24": "whacked_vocals-0-0C.wav",
+									"25": "whacked_vocals-0-1C.wav",
+									"26": "whacked_vocals-0-2C.wav",
+									"27": "whacked_vocals-0-3C.wav",
+									"28": "whacked_vocals-0-4C.wav",
+									"29": "whacked_vocals-0-5C.wav",
+									"3": "distant_flyby-0-3C.wav",
+									"30": "whacked_vocals-0-6C.wav",
+									"31": "whacked_vocals-0-7C.wav",
+									"32": "wind-0-0C.wav",
+									"33": "wind-0-1C.wav",
+									"34": "wind-0-2C.wav",
+									"35": "wind-0-3C.wav",
+									"36": "wind-0-4C.wav",
+									"37": "zanzibar_distant_battle-0-0C.wav",
+									"38": "zanzibar_distant_battle-0-1C.wav",
+									"39": "zanzibar_distant_battle-0-2C.wav",
+									"4": "distant_flyby-0-4C.wav",
+									"40": "zanzibar_distant_battle-0-3C.wav",
+									"41": "zanzibar_distant_battle-0-4C.wav",
+									"42": "zanzibar_distant_battle-0-5C.wav",
+									"43": "zanzibar_distant_battle-0-6C.wav",
+									"44": "zanzibar_distant_battle-0-7C.wav",
+									"45": "zanzibar_distant_battle-0-8C.wav",
+									"46": "zanzibar_distant_battle-0-9C.wav",
+									"5": "distant_machine_gun-0-0C.wav",
+									"6": "distant_machine_gun-0-1C.wav",
+									"7": "distant_machine_gun-0-2C.wav",
+									"8": "distant_machine_gun-0-3C.wav",
+									"9": "distant_machine_gun-0-4C.wav",
+									"hinge_door": [
+										"loop-0-12c.wav",
+										"loop-0-13C.wav",
+										"loop-0-2C.wav",
+										"loop-0-3C.wav",
+										"loop-0-5C.wav"
+									],
+									"loop": [
+										"gwv3C10.tmp",
+										"loop-0-0C.wav",
+										"loop-0-0Cloop.wav",
+										"loop-0-1C.wav",
+										"loop-0-2C.wav",
+										"loop-0-3C.wav",
+										"loop-0-4C.wav",
+										"loop-0-5C.wav"
+									]
+								}
+							}
+						}
+					},
+					"Halo3HumanShared": {
+						"0": "icon.tga",
+						"1": "info.txt",
+						"materials": {
+							"models": {
+								"H3": {
+									"objects": {
+										"characters": {
+											"masterchief": {
+												"bitmaps": [
+													"masterchief_detail.vtf"
+												]
+											}
+										},
+										"gear": {
+											"human": {
+												"industrial": {
+													"bitmaps": [
+														"h_barrel_rusty.vmt",
+														"h_barrel_rusty.vtf",
+														"h_barrel_rusty_bump.vtf",
+														"jersey_barrier.vmt",
+														"jersey_barrier.vtf",
+														"jersey_barrier_bump.vtf",
+														"missle_rack.tif",
+														"missle_rack.vtf",
+														"outskirts_generator.vmt",
+														"outskirts_generator.vtf",
+														"pallet.vmt",
+														"pallet.vtf",
+														"pallet_bump.vtf",
+														"rucksack.vmt",
+														"rucksack.vtf",
+														"sawhorse.tif",
+														"sawhorse.vmt",
+														"sawhorse.vtf",
+														"sawhorse_bump.vtf",
+														"tarp_generator.vmt",
+														"tarp_generator.vtf",
+														"wooden_mop_bucket_bump.vtf",
+														"wooden_mop_bucket_dif.vmt",
+														"wooden_mop_bucket_dif.vtf",
+														"wooden_mop_bump.vtf",
+														"wooden_mop_dif.vmt",
+														"wooden_mop_dif.vtf"
+													]
+												},
+												"medical": {
+													"bitmaps": [
+														"alpha_grey50.vmt",
+														"alpha_grey50.vtf",
+														"iv_drip.vmt",
+														"iv_drip.vtf",
+														"iv_drip_bump.vtf",
+														"medical_cabinet.vmt",
+														"medical_cabinet.vtf",
+														"medical_cabinet_bump.vtf",
+														"medical_crate_bump.vtf",
+														"medical_crate_dif.vmt",
+														"medical_crate_dif.vtf",
+														"medical_strecher.vmt",
+														"medical_strecher.vtf",
+														"medical_strecher_bump.vtf",
+														"medical_strecher_dif.vmt",
+														"medical_stretcher_dif.vmt",
+														"medical_tray.vmt",
+														"medical_tray.vtf",
+														"medical_tray_bump.vtf",
+														"pallet.vtf"
+													]
+												},
+												"military": {
+													"bitmaps": [
+														"baracade_large_decals02.vmt",
+														"baracade_large_decals02.vtf",
+														"barricade_large.vmt",
+														"barricade_large.vtf",
+														"barricade_large_bump.vtf",
+														"barricade_large_decals02.vmt",
+														"beacon.vmt",
+														"beacon.vtf",
+														"camping_stool_256.vmt",
+														"camping_stool_256.vtf",
+														"camping_stool_bump_256.vtf",
+														"cloth_detail.vtf",
+														"cloth_detail_bump.vtf",
+														"computer_briefcase.vmt",
+														"computer_briefcase.vtf",
+														"computer_screen.vmt",
+														"computer_screen.vtf",
+														"computer_screen2.vmt",
+														"computer_screen3.vmt",
+														"computer_screen4.vmt",
+														"computer_screen5.vmt",
+														"computer_screen_small.vmt",
+														"computer_screen_small.vtf",
+														"computer_screen_small2.vmt",
+														"computer_screen_small4.vmt",
+														"computer_screen_small5.vmt",
+														"computer_screen_small_illum.vmt",
+														"computer_screen_small_illum.vtf",
+														"computer_screen_small_illum4.vmt",
+														"computer_screen_small_illum5.vmt",
+														"decals02.vmt",
+														"decals02.vtf",
+														"decals_weathered.vmt",
+														"decals_weathered.vtf",
+														"decals_weathered_crate2.vmt",
+														"decals_weathered_crate212.vmt",
+														"decals_weathered_crate255.vmt",
+														"decals_weathered_crate2x.vmt",
+														"decals_weathered_crate3.vmt",
+														"decals_weathered_crate312.vmt",
+														"decals_weathered_crate4.vmt",
+														"decals_weathered_crate412.vmt",
+														"gauge_glass.vmt",
+														"grenade_crate.tif",
+														"grenade_crate.vmt",
+														"grenade_crate.vtf",
+														"grenade_crate_bump.vtf",
+														"guage_glass.vmt",
+														"guage_glass.vtf",
+														"h_collapsable_bunk.vmt",
+														"h_collapsable_bunk.vtf",
+														"h_collapsable_bunk_bump.vtf",
+														"h_collapsable_bunk_decals.vmt",
+														"human_military_equipment_2.vmt",
+														"human_military_equipment_2.vtf",
+														"human_military_equipment_2_bump.vtf",
+														"human_military_equipment_up.vmt",
+														"human_military_equipment_up.vtf",
+														"human_military_equipment_up_bump.vtf",
+														"human_military_equipment_up_dudv.vtf",
+														"lamp.vmt",
+														"lamp.vtf",
+														"medical_decal.vtf",
+														"medical_decals.vmt",
+														"medical_decals.vtf",
+														"mil_radio.vmt",
+														"mil_radio.vtf",
+														"mil_radio_bump.vtf",
+														"missile_rack.vmt",
+														"missle_rack.vmt",
+														"missle_rack.vtf",
+														"netting.vmt",
+														"netting.vtf",
+														"netting_bump.vtf",
+														"nylon_strap.vmt",
+														"nylon_strap.vtf",
+														"nylon_strap_bump.vtf",
+														"propane_burner.vmt",
+														"propane_burner.vtf",
+														"propane_burner_bump.vtf",
+														"propane_burner_destroyed.tif",
+														"propane_burner_destroyed.vmt",
+														"propane_burner_destroyed.vtf",
+														"rucksack.vmt",
+														"rucksack.vtf",
+														"tarp_generator.vmt",
+														"turbine.vmt",
+														"turbine.vtf",
+														"turbine_bump.vtf"
+													]
+												},
+												"residential": {
+													"bitmaps": [
+														"bathroom_items.vmt",
+														"bathroom_items.vtf",
+														"bathroom_items_bump.vtf",
+														"bedroll.vmt",
+														"bedroll.vtf"
+													]
+												}
+											}
+										},
+										"levels": {
+											"dlc": {
+												"warehouse": {
+													"bitmaps": [
+														"mil_radio.vtf",
+														"warehouse_crate_bump.vtf",
+														"warehouse_crate_diffuse.vmt",
+														"warehouse_crate_diffuse.vtf",
+														"warehouse_crate_diffuse_tile.vmt",
+														"warehouse_crate_diffuse_tile.vtf",
+														"warehouse_crate_normal_tile.vtf",
+														"warehouse_crate_tile.vmt",
+														"warehouse_crate_tile.vtf",
+														"warehouse_crate_tile_diffuse.vmt"
+													]
+												}
+											}
+										},
+										"vehicles": {
+											"dingy": [
+												"06_decal.vmt",
+												"06_decal.vtf",
+												"dingy_caution_decal.vmt",
+												"dingy_caution_decal.vtf",
+												"inflatedecal.vmt",
+												"inflatedecal.vtf",
+												"lifeboat_parts_bump.vtf",
+												"lifeboat_parts_dif.vmt",
+												"lifeboat_parts_dif.vtf",
+												"lifeboat_parts_phong.vtf",
+												"lifeboat_tube_bump.vtf",
+												"lifeboat_tube_detail.tif",
+												"lifeboat_tube_detail.vtf",
+												"lifeboat_tube_dif.vmt",
+												"lifeboat_tube_dif.vtf",
+												"lifeboat_tube_diff.vmt",
+												"lifeboat_tube_phong.vtf",
+												"lifeboat_tube_spec.vtf"
+											]
+										}
+									}
+								}
+							}
+						},
+						"models": {
+							"H3": {
+								"objects": {
+									"gear": {
+										"human": {
+											"industrial": {
+												"0": "gib1.dx80.vtx",
+												"1": "gib1.dx90.vtx",
+												"10": "gib2.sw.vtx",
+												"11": "gib2.vvd",
+												"12": "gib3.dx80.vtx",
+												"13": "gib3.dx90.vtx",
+												"14": "gib3.mdl",
+												"15": "gib3.phy",
+												"16": "gib3.sw.vtx",
+												"17": "gib3.vvd",
+												"18": "gib4.dx80.vtx",
+												"19": "gib4.dx90.vtx",
+												"2": "gib1.mdl",
+												"20": "gib4.mdl",
+												"21": "gib4.phy",
+												"22": "gib4.sw.vtx",
+												"23": "gib4.vvd",
+												"24": "gib5.dx80.vtx",
+												"25": "gib5.dx90.vtx",
+												"26": "gib5.mdl",
+												"27": "gib5.phy",
+												"28": "gib5.sw.vtx",
+												"29": "gib5.vvd",
+												"3": "gib1.phy",
+												"30": "gib6.dx80.vtx",
+												"31": "gib6.dx90.vtx",
+												"32": "gib6.mdl",
+												"33": "gib6.phy",
+												"34": "gib6.sw.vtx",
+												"35": "gib6.vvd",
+												"36": "pallet.dx80.vtx",
+												"37": "pallet.dx90.vtx",
+												"38": "pallet.mdl",
+												"39": "pallet.phy",
+												"4": "gib1.sw.vtx",
+												"40": "pallet.sw.vtx",
+												"41": "pallet.vvd",
+												"42": "pallet_large.dx80.vtx",
+												"43": "pallet_large.dx90.vtx",
+												"44": "pallet_large.mdl",
+												"45": "pallet_large.phy",
+												"46": "pallet_large.sw.vtx",
+												"47": "pallet_large.vvd",
+												"5": "gib1.vvd",
+												"6": "gib2.dx80.vtx",
+												"7": "gib2.dx90.vtx",
+												"8": "gib2.mdl",
+												"9": "gib2.phy",
+												"barrel": [
+													"barrel.dx80.vtx",
+													"barrel.dx90.vtx",
+													"barrel.mdl",
+													"barrel.phy",
+													"barrel.sw.vtx",
+													"barrel.vvd"
+												],
+												"bucket": [
+													"medical_cab.dx80.vtx",
+													"medical_cab.dx90.vtx",
+													"medical_cab.mdl",
+													"medical_cab.phy",
+													"medical_cab.sw.vtx",
+													"medical_cab.vvd"
+												],
+												"generator": [
+													"tarp.dx80.vtx",
+													"tarp.dx90.vtx",
+													"tarp.mdl",
+													"tarp.phy",
+													"tarp.sw.vtx",
+													"tarp.vvd"
+												],
+												"jerseybarrier": [
+													"jerseybarier.dx80.vtx",
+													"jerseybarier.dx90.vtx",
+													"jerseybarier.mdl",
+													"jerseybarier.phy",
+													"jerseybarier.sw.vtx",
+													"jerseybarier.vvd"
+												],
+												"mop": [
+													"medical_cab.dx80.vtx",
+													"medical_cab.dx90.vtx",
+													"medical_cab.mdl",
+													"medical_cab.phy",
+													"medical_cab.sw.vtx",
+													"medical_cab.vvd"
+												],
+												"sawhorse": [
+													"sawhorse.dx80.vtx",
+													"sawhorse.dx90.vtx",
+													"sawhorse.mdl",
+													"sawhorse.phy",
+													"sawhorse.sw.vtx",
+													"sawhorse.vvd"
+												]
+											},
+											"medical": {
+												"iv_drip": [
+													"medical_cab.dx80.vtx",
+													"medical_cab.dx90.vtx",
+													"medical_cab.mdl",
+													"medical_cab.phy",
+													"medical_cab.sw.vtx",
+													"medical_cab.vvd"
+												],
+												"medical_cabinet": [
+													"medical_cab.dx80.vtx",
+													"medical_cab.dx90.vtx",
+													"medical_cab.mdl",
+													"medical_cab.phy",
+													"medical_cab.sw.vtx",
+													"medical_cab.vvd"
+												],
+												"medical_cart": [
+													"medical_cart.dx80.vtx",
+													"medical_cart.dx90.vtx",
+													"medical_cart.mdl",
+													"medical_cart.phy",
+													"medical_cart.sw.vtx",
+													"medical_cart.vvd"
+												],
+												"medical_crate": [
+													"medical_crate.dx80.vtx",
+													"medical_crate.dx90.vtx",
+													"medical_crate.mdl",
+													"medical_crate.phy",
+													"medical_crate.sw.vtx",
+													"medical_crate.vvd"
+												],
+												"medical_tray": [
+													"medical_tray.dx80.vtx",
+													"medical_tray.dx90.vtx",
+													"medical_tray.mdl",
+													"medical_tray.phy",
+													"medical_tray.sw.vtx",
+													"medical_tray.vvd"
+												],
+												"medicalstrecher": [
+													"medicalstrec.dx80.vtx",
+													"medicalstrec.dx90.vtx",
+													"medicalstrec.mdl",
+													"medicalstrec.phy",
+													"medicalstrec.sw.vtx",
+													"medicalstrec.vvd"
+												]
+											},
+											"military": {
+												"0": "crate_packing_bottom.dx80.vtx",
+												"1": "crate_packing_bottom.dx90.vtx",
+												"2": "crate_packing_bottom.mdl",
+												"3": "crate_packing_bottom.phy",
+												"4": "crate_packing_bottom.sw.vtx",
+												"5": "crate_packing_bottom.vvd",
+												"antenna_mast": [
+													"antenna_mast.dx80.vtx",
+													"antenna_mast.dx90.vtx",
+													"antenna_mast.mdl",
+													"antenna_mast.phy",
+													"antenna_mast.sw.vtx",
+													"antenna_mast.vvd",
+													"medical_cab.dx80.vtx",
+													"medical_cab.dx90.vtx",
+													"medical_cab.mdl",
+													"medical_cab.phy",
+													"medical_cab.sw.vtx",
+													"medical_cab.vvd"
+												],
+												"baracade": [
+													"baracade.dx80.vtx",
+													"baracade.dx90.vtx",
+													"baracade.mdl",
+													"baracade.phy",
+													"baracade.sw.vtx",
+													"baracade.vvd",
+													"baracade_small.dx80.vtx",
+													"baracade_small.dx90.vtx",
+													"baracade_small.mdl",
+													"baracade_small.phy",
+													"baracade_small.sw.vtx",
+													"baracade_small.vvd"
+												],
+												"blitzcanhy": [
+													"blitzcanhy.dx80.vtx",
+													"blitzcanhy.dx90.vtx",
+													"blitzcanhy.mdl",
+													"blitzcanhy.phy",
+													"blitzcanhy.sw.vtx",
+													"blitzcanhy.vvd"
+												],
+												"blitzcanwa": [
+													"blitzcanwa.dx80.vtx",
+													"blitzcanwa.dx90.vtx",
+													"blitzcanwa.mdl",
+													"blitzcanwa.phy",
+													"blitzcanwa.sw.vtx",
+													"blitzcanwa.vvd"
+												],
+												"bunkbed": [
+													"bunkbed.dx80.vtx",
+													"bunkbed.dx90.vtx",
+													"bunkbed.mdl",
+													"bunkbed.phy",
+													"bunkbed.sw.vtx",
+													"bunkbed.vvd"
+												],
+												"campingstool": [
+													"campingstool.dx80.vtx",
+													"campingstool.dx90.vtx",
+													"campingstool.mdl",
+													"campingstool.phy",
+													"campingstool.sw.vtx",
+													"campingstool.vvd"
+												],
+												"case": [
+													"case.dx80.vtx",
+													"case.dx90.vtx",
+													"case.mdl",
+													"case.phy",
+													"case.sw.vtx",
+													"case.vvd",
+													"case_bottom.dx80.vtx",
+													"case_bottom.dx90.vtx",
+													"case_bottom.mdl",
+													"case_bottom.phy",
+													"case_bottom.sw.vtx",
+													"case_bottom.vvd",
+													"case_top.dx80.vtx",
+													"case_top.dx90.vtx",
+													"case_top.mdl",
+													"case_top.phy",
+													"case_top.sw.vtx",
+													"case_top.vvd"
+												],
+												"computer_briefcase": [
+													"computer_.dx80.vtx",
+													"computer_.dx90.vtx",
+													"computer_.mdl",
+													"computer_.phy",
+													"computer_.sw.vtx",
+													"computer_.vvd"
+												],
+												"computer_briefcase_small": [
+													"c.dx80.vtx",
+													"c.dx90.vtx",
+													"c.mdl",
+													"c.phy",
+													"c.sw.vtx",
+													"c.vvd"
+												],
+												"crate": [
+													"tarp.dx80.vtx",
+													"tarp.dx90.vtx",
+													"tarp.mdl",
+													"tarp.phy",
+													"tarp.sw.vtx",
+													"tarp.vvd"
+												],
+												"crate_ammo_lg": [
+													"crate_ammo_lgl.dx80.vtx",
+													"crate_ammo_lgl.dx90.vtx",
+													"crate_ammo_lgl.mdl",
+													"crate_ammo_lgl.phy",
+													"crate_ammo_lgl.sw.vtx",
+													"crate_ammo_lgl.vvd"
+												],
+												"crate_ammo_sm": [
+													"crate_ammo_sml.dx80.vtx",
+													"crate_ammo_sml.dx90.vtx",
+													"crate_ammo_sml.mdl",
+													"crate_ammo_sml.phy",
+													"crate_ammo_sml.sw.vtx",
+													"crate_ammo_sml.vvd"
+												],
+												"crate_armory1": [
+													"crate_armory1l.dx80.vtx",
+													"crate_armory1l.dx90.vtx",
+													"crate_armory1l.mdl",
+													"crate_armory1l.phy",
+													"crate_armory1l.sw.vtx",
+													"crate_armory1l.vvd"
+												],
+												"crate_armory2": [
+													"crate_armory2l.dx80.vtx",
+													"crate_armory2l.dx90.vtx",
+													"crate_armory2l.mdl",
+													"crate_armory2l.phy",
+													"crate_armory2l.sw.vtx",
+													"crate_armory2l.vvd"
+												],
+												"crate_packing": [
+													"crate_packing.dx80.vtx",
+													"crate_packing.dx90.vtx",
+													"crate_packing.mdl",
+													"crate_packing.phy",
+													"crate_packing.sw.vtx",
+													"crate_packing.vvd",
+													"crate_packing_bottom.dx80.vtx",
+													"crate_packing_bottom.dx90.vtx",
+													"crate_packing_bottom.mdl",
+													"crate_packing_bottom.phy",
+													"crate_packing_bottom.sw.vtx",
+													"crate_packing_bottom.vvd",
+													"crate_packingl.dx80.vtx",
+													"crate_packingl.dx90.vtx",
+													"crate_packingl.mdl",
+													"crate_packingl.phy",
+													"crate_packingl.sw.vtx",
+													"crate_packingl.vvd"
+												],
+												"crate_packing_lid": [
+													"crate_lid.dx80.vtx",
+													"crate_lid.dx90.vtx",
+													"crate_lid.mdl",
+													"crate_lid.phy",
+													"crate_lid.sw.vtx",
+													"crate_lid.vvd"
+												],
+												"drumb_12_gal": [
+													"drumb_12_gall.dx80.vtx",
+													"drumb_12_gall.dx90.vtx",
+													"drumb_12_gall.mdl",
+													"drumb_12_gall.phy",
+													"drumb_12_gall.sw.vtx",
+													"drumb_12_gall.vvd"
+												],
+												"drumb_55_gal": [
+													"drumb_55_gall.dx80.vtx",
+													"drumb_55_gall.dx90.vtx",
+													"drumb_55_gall.mdl",
+													"drumb_55_gall.phy",
+													"drumb_55_gall.sw.vtx",
+													"drumb_55_gall.vvd"
+												],
+												"fusion_coil": [
+													"fusion_coill.dx80.vtx",
+													"fusion_coill.dx90.vtx",
+													"fusion_coill.mdl",
+													"fusion_coill.phy",
+													"fusion_coill.sw.vtx",
+													"fusion_coill.vvd"
+												],
+												"generator": [
+													"generator.dx80.vtx",
+													"generator.dx90.vtx",
+													"generator.mdl",
+													"generator.phy",
+													"generator.sw.vtx",
+													"generator.vvd"
+												],
+												"generator_light": [
+													"generato.dx80.vtx",
+													"generato.dx90.vtx",
+													"generato.mdl",
+													"generato.phy",
+													"generato.sw.vtx",
+													"generato.vvd"
+												],
+												"grenade_crate": [
+													"grenade_crate.dx80.vtx",
+													"grenade_crate.dx90.vtx",
+													"grenade_crate.mdl",
+													"grenade_crate.phy",
+													"grenade_crate.sw.vtx",
+													"grenade_crate.vvd"
+												],
+												"missilerack": [
+													"missilerack.dx80.vtx",
+													"missilerack.dx90.vtx",
+													"missilerack.mdl",
+													"missilerack.phy",
+													"missilerack.sw.vtx",
+													"missilerack.vvd"
+												],
+												"propane_burner": [
+													"propane_bur_d.dx80.vtx",
+													"propane_bur_d.dx90.vtx",
+													"propane_bur_d.mdl",
+													"propane_bur_d.phy",
+													"propane_bur_d.sw.vtx",
+													"propane_bur_d.vvd",
+													"propane_burne.dx80.vtx",
+													"propane_burne.dx90.vtx",
+													"propane_burne.mdl",
+													"propane_burne.phy",
+													"propane_burne.sw.vtx",
+													"propane_burne.vvd"
+												],
+												"radio": [
+													"radio_d.dx80.vtx",
+													"radio_d.dx90.vtx",
+													"radio_d.mdl",
+													"radio_d.phy",
+													"radio_d.sw.vtx",
+													"radio_d.vvd",
+													"radiol.dx80.vtx",
+													"radiol.dx90.vtx",
+													"radiol.mdl",
+													"radiol.phy",
+													"radiol.sw.vtx",
+													"radiol.vvd"
+												],
+												"rucksack": [
+													"rucksack.dx80.vtx",
+													"rucksack.dx90.vtx",
+													"rucksack.mdl",
+													"rucksack.phy",
+													"rucksack.sw.vtx",
+													"rucksack.vvd"
+												],
+												"turretcase": [
+													"turretcase.dx80.vtx",
+													"turretcase.dx90.vtx",
+													"turretcase.mdl",
+													"turretcase.phy",
+													"turretcase.sw.vtx",
+													"turretcase.vvd",
+													"turretcase_bottom.dx80.vtx",
+													"turretcase_bottom.dx90.vtx",
+													"turretcase_bottom.mdl",
+													"turretcase_bottom.phy",
+													"turretcase_bottom.sw.vtx",
+													"turretcase_bottom.vvd",
+													"turretcase_top.dx80.vtx",
+													"turretcase_top.dx90.vtx",
+													"turretcase_top.mdl",
+													"turretcase_top.phy",
+													"turretcase_top.sw.vtx",
+													"turretcase_top.vvd"
+												]
+											},
+											"residential": {
+												"bedroll": [
+													"bedroll.dx80.vtx",
+													"bedroll.dx90.vtx",
+													"bedroll.mdl",
+													"bedroll.phy",
+													"bedroll.sw.vtx",
+													"bedroll.vvd"
+												],
+												"shower": [
+													"shower.dx80.vtx",
+													"shower.dx90.vtx",
+													"shower.mdl",
+													"shower.phy",
+													"shower.sw.vtx",
+													"shower.vvd"
+												],
+												"sink": [
+													"sink.dx80.vtx",
+													"sink.dx90.vtx",
+													"sink.mdl",
+													"sink.phy",
+													"sink.sw.vtx",
+													"sink.vvd"
+												],
+												"toilet": [
+													"toilet.dx80.vtx",
+													"toilet.dx90.vtx",
+													"toilet.mdl",
+													"toilet.phy",
+													"toilet.sw.vtx",
+													"toilet.vvd"
+												]
+											}
+										}
+									},
+									"levels": {
+										"dlc": {
+											"warehouse": {
+												"dlc_wh_crate": [
+													"large_open.dx80.vtx",
+													"large_open.dx90.vtx",
+													"large_open.mdl",
+													"large_open.phy",
+													"large_open.sw.vtx",
+													"large_open.vvd"
+												]
+											}
+										}
+									},
+									"vehicles": {
+										"0": "dingy.dx80.vtx",
+										"1": "dingy.dx90.vtx",
+										"2": "dingy.mdl",
+										"3": "dingy.phy",
+										"4": "dingy.sw.vtx",
+										"5": "dingy.vvd",
+										"dingy": [
+											"dingy.dx80.vtx",
+											"dingy.dx90.vtx",
+											"dingy.mdl",
+											"dingy.phy",
+											"dingy.sw.vtx",
+											"dingy.vvd"
+										]
+									}
+								}
+							}
+						},
+						"settings": {
+							"spawnlist": [
+								"halo 3 human props.txt"
+							]
+						}
+					},
+					"Halo3Shared": {
+						"0": "info.txt",
+						"materials": {
+							"models": {
+								"H3": {
+									"objects": {
+										"characters": {
+											"masterchief": {
+												"bitmaps": [
+													"masterchief_detail.vtf"
+												]
+											}
+										},
+										"gear": {
+											"human": {
+												"industrial": {
+													"bitmaps": [
+														"pallet.vmt",
+														"pallet.vtf",
+														"pallet_bump.vtf"
+													]
+												},
+												"medical": {
+													"bitmaps": [
+														"alpha_grey50.vmt",
+														"alpha_grey50.vtf",
+														"iv_drip.vmt",
+														"iv_drip.vtf",
+														"iv_drip_bump.vtf",
+														"medical_cabinet.vmt",
+														"medical_cabinet.vtf",
+														"medical_cabinet_bump.vtf",
+														"medical_crate_bump.vtf",
+														"medical_crate_dif.vmt",
+														"medical_crate_dif.vtf",
+														"medical_strecher.vmt",
+														"medical_strecher.vtf",
+														"medical_strecher_bump.vtf",
+														"medical_strecher_dif.vmt",
+														"medical_stretcher_dif.vmt",
+														"medical_tray.vmt",
+														"medical_tray.vtf",
+														"medical_tray_bump.vtf",
+														"pallet.vtf"
+													]
+												},
+												"military": {
+													"bitmaps": [
+														"beacon.vmt",
+														"beacon.vtf",
+														"cloth_detail.vtf",
+														"cloth_detail_bump.vtf",
+														"decals02.vmt",
+														"decals02.vtf",
+														"decals_weathered.vmt",
+														"decals_weathered.vtf",
+														"decals_weathered_crate2.vmt",
+														"decals_weathered_crate212.vmt",
+														"decals_weathered_crate255.vmt",
+														"decals_weathered_crate3.vmt",
+														"decals_weathered_crate312.vmt",
+														"decals_weathered_crate4.vmt",
+														"decals_weathered_crate412.vmt",
+														"gauge_glass.vmt",
+														"guage_glass.vmt",
+														"guage_glass.vtf",
+														"h_collapsable_bunk.vmt",
+														"h_collapsable_bunk.vtf",
+														"h_collapsable_bunk_bump.vtf",
+														"h_collapsable_bunk_decals.vmt",
+														"human_military_equipment_2.vmt",
+														"human_military_equipment_2.vtf",
+														"human_military_equipment_2_bump.vtf",
+														"human_military_equipment_up.vmt",
+														"human_military_equipment_up.vtf",
+														"human_military_equipment_up_bump.vtf",
+														"human_military_equipment_up_dudv.vtf",
+														"lamp.vmt",
+														"lamp.vtf",
+														"medical_decal.vtf",
+														"medical_decals.vmt",
+														"medical_decals.vtf",
+														"mil_radio.vmt",
+														"mil_radio.vtf",
+														"mil_radio_bump.vtf",
+														"netting.vmt",
+														"netting.vtf",
+														"netting_bump.vtf",
+														"nylon_strap.vmt",
+														"nylon_strap.vtf",
+														"nylon_strap_bump.vtf",
+														"turbine.vmt",
+														"turbine.vtf",
+														"turbine_bump.vtf"
+													]
+												}
+											}
+										},
+										"levels": {
+											"dlc": {
+												"warehouse": {
+													"bitmaps": [
+														"mil_radio.vtf",
+														"warehouse_crate_bump.vtf",
+														"warehouse_crate_diffuse.vmt",
+														"warehouse_crate_diffuse.vtf",
+														"warehouse_crate_diffuse_tile.vmt",
+														"warehouse_crate_diffuse_tile.vtf",
+														"warehouse_crate_normal_tile.vtf",
+														"warehouse_crate_tile.vmt",
+														"warehouse_crate_tile.vtf",
+														"warehouse_crate_tile_diffuse.vmt"
+													]
+												}
+											}
+										}
+									}
+								}
+							}
+						},
+						"models": {
+							"H3": {
+								"objects": {
+									"gear": {
+										"human": {
+											"industrial": [
+												"pallet.dx80.vtx",
+												"pallet.dx90.vtx",
+												"pallet.mdl",
+												"pallet.phy",
+												"pallet.sw.vtx",
+												"pallet.vvd",
+												"pallet_large.dx80.vtx",
+												"pallet_large.dx90.vtx",
+												"pallet_large.mdl",
+												"pallet_large.phy",
+												"pallet_large.sw.vtx",
+												"pallet_large.vvd"
+											],
+											"medical": {
+												"iv_drip": [
+													"medical_cab.dx80.vtx",
+													"medical_cab.dx90.vtx",
+													"medical_cab.mdl",
+													"medical_cab.phy",
+													"medical_cab.sw.vtx",
+													"medical_cab.vvd"
+												],
+												"medical_cabinet": [
+													"medical_cab.dx80.vtx",
+													"medical_cab.dx90.vtx",
+													"medical_cab.mdl",
+													"medical_cab.phy",
+													"medical_cab.sw.vtx",
+													"medical_cab.vvd"
+												],
+												"medical_cart": [
+													"medical_cart.dx80.vtx",
+													"medical_cart.dx90.vtx",
+													"medical_cart.mdl",
+													"medical_cart.phy",
+													"medical_cart.sw.vtx",
+													"medical_cart.vvd"
+												],
+												"medical_crate": [
+													"medical_crate.dx80.vtx",
+													"medical_crate.dx90.vtx",
+													"medical_crate.mdl",
+													"medical_crate.phy",
+													"medical_crate.sw.vtx",
+													"medical_crate.vvd"
+												],
+												"medical_tray": [
+													"medical_tray.dx80.vtx",
+													"medical_tray.dx90.vtx",
+													"medical_tray.mdl",
+													"medical_tray.phy",
+													"medical_tray.sw.vtx",
+													"medical_tray.vvd"
+												],
+												"medicalstrecher": [
+													"medicalstrec.dx80.vtx",
+													"medicalstrec.dx90.vtx",
+													"medicalstrec.mdl",
+													"medicalstrec.phy",
+													"medicalstrec.sw.vtx",
+													"medicalstrec.vvd"
+												]
+											},
+											"military": {
+												"0": "crate_packing_bottom.dx80.vtx",
+												"1": "crate_packing_bottom.dx90.vtx",
+												"2": "crate_packing_bottom.mdl",
+												"3": "crate_packing_bottom.phy",
+												"4": "crate_packing_bottom.sw.vtx",
+												"5": "crate_packing_bottom.vvd",
+												"bunkbed": [
+													"bunkbed.dx80.vtx",
+													"bunkbed.dx90.vtx",
+													"bunkbed.mdl",
+													"bunkbed.phy",
+													"bunkbed.sw.vtx",
+													"bunkbed.vvd"
+												],
+												"crate_ammo_lg": [
+													"crate_ammo_lgl.dx80.vtx",
+													"crate_ammo_lgl.dx90.vtx",
+													"crate_ammo_lgl.mdl",
+													"crate_ammo_lgl.phy",
+													"crate_ammo_lgl.sw.vtx",
+													"crate_ammo_lgl.vvd"
+												],
+												"crate_ammo_sm": [
+													"crate_ammo_sml.dx80.vtx",
+													"crate_ammo_sml.dx90.vtx",
+													"crate_ammo_sml.mdl",
+													"crate_ammo_sml.phy",
+													"crate_ammo_sml.sw.vtx",
+													"crate_ammo_sml.vvd"
+												],
+												"crate_armory1": [
+													"crate_armory1l.dx80.vtx",
+													"crate_armory1l.dx90.vtx",
+													"crate_armory1l.mdl",
+													"crate_armory1l.phy",
+													"crate_armory1l.sw.vtx",
+													"crate_armory1l.vvd"
+												],
+												"crate_armory2": [
+													"crate_armory2l.dx80.vtx",
+													"crate_armory2l.dx90.vtx",
+													"crate_armory2l.mdl",
+													"crate_armory2l.phy",
+													"crate_armory2l.sw.vtx",
+													"crate_armory2l.vvd"
+												],
+												"crate_packing": [
+													"crate_packing.dx80.vtx",
+													"crate_packing.dx90.vtx",
+													"crate_packing.mdl",
+													"crate_packing.phy",
+													"crate_packing.sw.vtx",
+													"crate_packing.vvd",
+													"crate_packing_bottom.dx80.vtx",
+													"crate_packing_bottom.dx90.vtx",
+													"crate_packing_bottom.mdl",
+													"crate_packing_bottom.phy",
+													"crate_packing_bottom.sw.vtx",
+													"crate_packing_bottom.vvd",
+													"crate_packingl.dx80.vtx",
+													"crate_packingl.dx90.vtx",
+													"crate_packingl.mdl",
+													"crate_packingl.phy",
+													"crate_packingl.sw.vtx",
+													"crate_packingl.vvd"
+												],
+												"crate_packing_lid": [
+													"crate_lid.dx80.vtx",
+													"crate_lid.dx90.vtx",
+													"crate_lid.mdl",
+													"crate_lid.phy",
+													"crate_lid.sw.vtx",
+													"crate_lid.vvd"
+												],
+												"drumb_12_gal": [
+													"drumb_12_gall.dx80.vtx",
+													"drumb_12_gall.dx90.vtx",
+													"drumb_12_gall.mdl",
+													"drumb_12_gall.phy",
+													"drumb_12_gall.sw.vtx",
+													"drumb_12_gall.vvd"
+												],
+												"drumb_55_gal": [
+													"drumb_55_gall.dx80.vtx",
+													"drumb_55_gall.dx90.vtx",
+													"drumb_55_gall.mdl",
+													"drumb_55_gall.phy",
+													"drumb_55_gall.sw.vtx",
+													"drumb_55_gall.vvd"
+												],
+												"fusion_coil": [
+													"fusion_coill.dx80.vtx",
+													"fusion_coill.dx90.vtx",
+													"fusion_coill.mdl",
+													"fusion_coill.phy",
+													"fusion_coill.sw.vtx",
+													"fusion_coill.vvd"
+												],
+												"generator": [
+													"generator.dx80.vtx",
+													"generator.dx90.vtx",
+													"generator.mdl",
+													"generator.phy",
+													"generator.sw.vtx",
+													"generator.vvd"
+												],
+												"generator_light": [
+													"generato.dx80.vtx",
+													"generato.dx90.vtx",
+													"generato.mdl",
+													"generato.phy",
+													"generato.sw.vtx",
+													"generato.vvd"
+												],
+												"radio": [
+													"radiol.dx80.vtx",
+													"radiol.dx90.vtx",
+													"radiol.mdl",
+													"radiol.phy",
+													"radiol.sw.vtx",
+													"radiol.vvd"
+												]
+											}
+										}
+									},
+									"levels": {
+										"dlc": {
+											"warehouse": {
+												"dlc_wh_crate": [
+													"large_open.dx80.vtx",
+													"large_open.dx90.vtx",
+													"large_open.mdl",
+													"large_open.phy",
+													"large_open.sw.vtx",
+													"large_open.vvd"
+												]
+											}
+										}
+									}
+								}
+							}
+						},
+						"settings": {
+							"spawnlist": [
+								"halo 3 props.txt"
+							]
+						}
+					},
+					"Halo3Vehicles": {
+						"0": "info.txt",
+						"materials": {
+							"models": {
+								"h3": {
+									"objects": {
+										"vehicles": {
+											"dingy": [
+												"06_decal.vmt",
+												"06_decal.vtf",
+												"dingy_caution_decal.vmt",
+												"dingy_caution_decal.vtf",
+												"inflatedecal.vmt",
+												"inflatedecal.vtf",
+												"lifeboat_parts_bump.vtf",
+												"lifeboat_parts_dif.vmt",
+												"lifeboat_parts_dif.vtf",
+												"lifeboat_parts_phong.vtf",
+												"lifeboat_tube_bump.vtf",
+												"lifeboat_tube_detail.tif",
+												"lifeboat_tube_detail.vtf",
+												"lifeboat_tube_dif.vmt",
+												"lifeboat_tube_dif.vtf",
+												"lifeboat_tube_diff.vmt",
+												"lifeboat_tube_phong.vtf",
+												"lifeboat_tube_spec.vtf"
+											]
+										}
+									}
+								}
+							}
+						},
+						"models": {
+							"h3": {
+								"objects": {
+									"vehicles": {
+										"0": "dingy.dx80.vtx",
+										"1": "dingy.dx90.vtx",
+										"2": "dingy.mdl",
+										"3": "dingy.phy",
+										"4": "dingy.sw.vtx",
+										"5": "dingy.vvd",
+										"dingy": [
+											"dingy.dx80.vtx",
+											"dingy.dx90.vtx",
+											"dingy.mdl",
+											"dingy.phy",
+											"dingy.sw.vtx",
+											"dingy.vvd"
+										]
+									}
+								}
+							}
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 45337,
+			"_nDownloadCount": 665,
+			"_nFilesize": 37289097,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/45337",
+			"_sFile": "halohumanprops.7z",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1374890559
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2110,
+	"_sName": "Halo Human Props",
+	"_sText": "Should work in all source games, enjoy!"
+}

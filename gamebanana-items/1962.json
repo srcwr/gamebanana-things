@@ -1,0 +1,30 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"Credits.txt",
+					"Particle_teleport.vmf",
+					"Particle_teleporter.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 46339,
+			"_nDownloadCount": 705,
+			"_nFilesize": 58692,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/46339",
+			"_sFile": "particle_teleport_3.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1281452487
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 1962,
+	"_sName": "Glowing (particle) Teleport",
+	"_sText": "<a name=\"20\"></a><b><p  style=\"font-size: 12px;color:cyan\">Glowing (particle) Teleporter</b></p>\r\nThis is an Prefab of an Teleporter made of particle effects and glows.\r\n\r\nWhy you created this?\r\nI've been working on an Deathrun map some time ago,and i needed a teleporter for it.At the beginning I only used env_spritetrails (connected to an func_rot brush) and an single env_lightglow, after an while i added  dustmotes when you enter the teleport, an flash effect , more glow , fog within the teleporters volume and so on... now I think that it looks very pretty and futuristic ... like an anomaly ... pulling everything within its core ...\r\n\r\n\r\n<a name=\"20\"></a><b><p  style=\"font-size: 12px;color:grey\">Features</b></p>~Random spritetrails that rotates around the core.\r\n\r\n~Glowing Core\r\n\r\n~Particles coming out of the core and spreading through the room when someone walks trough the teleporter\r\n\r\n~Flashes your screen when walking trough the teleport (use only in sp read important note why you should only use this in singleplayer)\r\n\r\n~Emitting particles from within the core flowing up and down\r\n\r\n~Particles spreading out of the teleport destination if someone walks trough\r\n\r\n~Short light flash (light_spotlight) when someone walks trough the teleport\r\n\r\n\r\n\r\n<a name=\"20\"></a><b><p  style=\"font-size: 12px;color:grey\">Content</b></p>I included the prefab ready to be placed in your map and i also included an playable map to see the prefab ingame.\r\n\r\n\r\n<big><a name=\"20\"></a><p  style=\"font-size: 16px;color:red\">IMPORTANT NOTE</p></big> it uses an ENV_FADE that flashes every player screen when someone walks trough the teleport  i suggest that you remove the env_fade in mp games and kill the bad I/O connections via strg + p \r\n<a name=\"20\"></a><p  style=\"font-size: 10px;color:grey\">(Note²: Maybe it can kill many fps on slow machines, because of the mass of particles. On my pc it worked fine, and my pc is really crappy</p>\r\n\r\n\r\n<a name=\"20\"></a><b><p  style=\"font-size: 14px;color:red\">TRY IT INGAME FIRST BEFORE RATING IT LOOKS WAY MORE BETTER INGAME THAN ON THE SCREENSHOTS!!!</p>\r\n\r\n<a name=\"20\"></a><b><p  style=\"font-size: 12px;color:grey\">Update</b></p>~ _&i tokens added \r\n\r\n<a name=\"20\"></a><p  style=\"font-size: 12px;color:grey\">Copyright</p>You may not release it as your own work or make changes and reupload without my permission.\r\n\r\n\r\n\r\nAny questions? use the feedback button :P\r\n\r\n\r\nHave fun and add me to the credits if you use this in your map :D"
+}

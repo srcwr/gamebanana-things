@@ -1,0 +1,41 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"cs_siege_pcs.nav",
+					"readme.txt"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 690,
+			"_nDownloadCount": 156,
+			"_nFilesize": 1092229,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/690",
+			"_sFile": "cs_siege_pcs_newnav_188bb.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1487108791
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Improved instructions"
+				}
+			],
+			"_sText": "Updated instructions in the readme.txt of the archive.",
+			"_sTitle": "Minor things",
+			"_tsDateAdded": 1487421570
+		}
+	],
+	"_idRow": 34910,
+	"_sName": "Reworked NAV File for Map CS_SIEGE_PCS",
+	"_sText": "This is a navigation file for the bots and hostages to use in the map <b>cs_siege_pcs</b>. Another great remake that deserved gameplay where the bots will use radio chatter properly ;)<br><br>You can get the map here: <a href=\"http://gamebanana.com/maps/53211\">MAP</a><br><br>The nav that came with the map is pretty good already, however there were a few places&nbsp;\"disconnected\" from the map. Vents were unaccessible by the bots and a whole portion of the map that starts in the underground tunnels and leads up to one of the hostage rooms was disconnected, too. I fixed those issues and place painted the map according to its CS 1.6 counterpart. The new locations in the source version that didn't exsist in the original I named as best as I could. I hope my imagination served me well.<br><br>Enjoy!"
+}

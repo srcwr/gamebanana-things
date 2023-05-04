@@ -1,0 +1,36 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"CSS_healtkits": {
+						"0": "CSS_HP.jpg",
+						"1": "Credits 'n' instructions.txt",
+						"Prefabs": [
+							"Hp_25.vmf",
+							"hp_10.vmf",
+							"hp_2_heal.vmf"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 44740,
+			"_nDownloadCount": 683,
+			"_nFilesize": 219390,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/44740",
+			"_sFile": "css_healtkits_3.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1443620488
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2158,
+	"_sName": "CSS Health Kits from HL2",
+	"_sText": "<strong>Hello.</strong>\r\n==========\r\n\r\nThese prefabs are made by DomiTibingen-_-\r\n\r\nFeel free to use them in any map or video, but please credit me. :) ;)\r\n\r\n<strong>Usage:</strong>\r\n\r\nSmall health vial adds 10HP\r\n\r\nHealt kit adds 25HP\r\n\r\nHealth charger adds 2HP cont.\r\n\r\n<strong>Instructions:</strong>\r\n\r\nPlace the prefab files in your ....CounterStrike:Source/bin/prefabs folder. :)\r\n\r\n<strong>EDIT</strong>\r\n========\r\n\r\nChanged collision and added button on charger."
+}

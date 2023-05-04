@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"test_global.bsp",
+					"test_global.vmf"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 45728,
+			"_nDownloadCount": 372,
+			"_nFilesize": 19395,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/45728",
+			"_sFile": "global.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1338867182
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2080,
+	"_sName": "Persistent Round State System",
+	"_sText": "<fieldset><legend>Important!</legend><big><b>env_global is not in the cstrike FGD. You will either need to add the half-life 2 FGD to your CS:S config or work with smartedit off to work with the env_global entities. I suggest adding halflife2.fgd and ignoring the counter parts of the entity.</b></big></fieldset>\r\n\r\n<fieldset><legend>Description</legend>This is a system useful for minigame mappers (and possibly others) which allows for persistent round states. Basically what this means is that once something is triggered in the level it will stay that way until it is reset.\r\n<br/><br/>\r\nThe example shown is not the best example as it simply takes advantage of func_brush entities not resetting on new rounds, but you could control them using the env_global and logic_auto entities provided anyway. When an area is entered it is blocked off for the remaining rounds until all of the areas have been entered. This can be extended and modified for use in minigame maps for map selection, so that each minigame must be chosen and played before one of them can be chosen again.\r\n<br/><br/>\r\nThis would have been simpler if the counter function of env_globals worked in CS:S, but it doesn't appear to.</fieldset>\r\n\r\n<fieldset><legend>How It Works</legend>The system works using a fairly well known method of using env_global and logic_auto entities to change what happens on new rounds. The env_global, when enabled, sets the game state \"game01\" (for the first trigger). The logic_auto is tied to the game state set in its properties (\"game01\"), and so, only fires when that game state is enabled (when the env_global is enabled). The logic_auto then outputs whatever you want to change on the new round. At the moment all it does is add 1 to a math_counter.\r\n<br/><br/>\r\nThe math_counter is there to reset everything after all of the triggers have been triggered. The max value of the counter is set to one less than the total number of triggers. When the counter hits the max, it enables an env_global which enables a reset state, which then enables a logic\\_auto which will reset everything on the next round (after the last). It also disables all env_globals (the \"global*\" wildcard selects all entities with a targetname starting with \"global\"), except for the one that resets everything, so that they don't do anything after the last round. Lastly, it disables all the logic_relay entities (using the \"relay*\" wildcard).\r\n<br/><br/>\r\nThe logic_relay entities are there to stop the triggers from enabling the env_global entities on the last round. The triggers, instead of directly enabling the env_global entities, trigger the logic_relay entities, which then trigger the env_global entities. When the math_counter hits max, it disables the logic_relay entities which stops them from enabling the env_global entities they're linked to. This is done so that the last env_global entity isn't enabled on the last round. If it is enabled, it will still be enabled after the reset.</fieldset>\r\n\r\n<fieldset><legend>Usage and Editing</legend>Firstly, a logic_relay, env_global and logic_auto are needed for each trigger. Link up the entities in that same way as the others. It should be obvious. Trigger to relay, relay to global. In the env_global set the \"Global State to Set\" (\"globalstate\" key with smartedit off) to a new state (eg \"game05\") and in the logic_auto set the \"Global State to Read\" to the state in the env_global.\r\n<br/><br/>\r\nSet the math_counter entity's maximum value to one less than the total number of triggers/env_global entities. If you named the new entities in the same manner as the ones already there then you shouldn't need to change the math_counter's outputs as it uses wildcards. Be sure to check that none of your other entities start with \"global\" or \"relay\" though, as it will also select those.\r\n<br/><br/>\r\nTo reset everything on the \"first\" round (after all triggers have triggered) use the reset logic_auto which is above the math_counter (it reads the \"reset\" global stste). You should/can also use this entity to have certain things happen on the \"first\" round, such as a message declaring that everything has been reset.\r\n<br/><br/>\r\nYou may want to remove the point_servercommand and the output on the math_counter pointing to it as all this does is say \"Last round.\" on the last round for testing purposes. If you want you could change this or leave it in for special things to happen for the last round.</fieldset>\r\n\r\n<fieldset><legend>Preview Video</legend>\r\n<iframe width=\"560\" height=\"315\" src=\"http://www.youtube.com/embed/L0OeKQ4DcEc\" frameborder=\"0\" allowfullscreen></iframe>\r\n\r\nThanks to IppE.</fieldset>"
+}

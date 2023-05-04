@@ -1,0 +1,57 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"road_prefab": {
+						"counter-strike source": {
+							"cstrike": {
+								"materials": {
+									"Road_textures": [
+										"Floor_1_02.vmt",
+										"Floor_1_02.vtf",
+										"Road_1_01.vmt",
+										"Road_1_01.vtf"
+									]
+								}
+							}
+						},
+						"sourcesdk": {
+							"bin": {
+								"orangebox": {
+									"bin": {
+										"prefabs": {
+											"road": [
+												"road_fastcurve.vmf",
+												"road_longcurve.vmf",
+												"road_mediumcurve.vmf",
+												"road_straight.vmf"
+											]
+										}
+									}
+								}
+							}
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 45804,
+			"_nDownloadCount": 968,
+			"_nFilesize": 242429,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/45804",
+			"_sFile": "road_prefab_2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1331383783
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2753,
+	"_sName": "Roads_prefab",
+	"_sText": "Road prefabs for an easy road creation. Textures included in download."
+}

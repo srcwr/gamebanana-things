@@ -1,0 +1,30 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"Prefab_Floodlight.vmf",
+					"Prefab_Floodlight.vmx",
+					"README.txt"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 45506,
+			"_nDownloadCount": 802,
+			"_nFilesize": 3986,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/45506",
+			"_sFile": "prefab_floodlight.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1357675362
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 3294,
+	"_sName": "Floodlight",
+	"_sText": "The Floodlight includes :\r\n\r\n-Prop_dynamic\r\n\r\n-Light\r\n\r\n-Light_spot\r\n\r\n-Point_spotlight\r\n\r\n-env_sprite\r\n\r\nenv_ sprite Texture is glow_02.vmf"
+}

@@ -1,0 +1,76 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "elevator info.txt",
+					"maps": [
+						"multiple_floors_elevator_basic.bsp",
+						"multiple_floors_elevator_map.bsp"
+					],
+					"mapsrc": [
+						"multiple_floors_elevator_basic.vmf",
+						"multiple_floors_elevator_map.vmf"
+					],
+					"materials": {
+						"elev_number": [
+							"elevground.vmt",
+							"elevground.vtf",
+							"elevroof.vmt",
+							"elevroof.vtf",
+							"elevunder1.vmt",
+							"elevunder1.vtf",
+							"elevunder2.vmt",
+							"elevunder2.vtf",
+							"floor1.vmt",
+							"floor1.vtf",
+							"floor10.vmt",
+							"floor10.vtf",
+							"floor11.vmt",
+							"floor11.vtf",
+							"floor12.vmt",
+							"floor12.vtf",
+							"floor2.vmt",
+							"floor2.vtf",
+							"floor3.vmt",
+							"floor3.vtf",
+							"floor4.vmt",
+							"floor4.vtf",
+							"floor5.vmt",
+							"floor5.vtf",
+							"floor6.vmt",
+							"floor6.vtf",
+							"floor7.vmt",
+							"floor7.vtf",
+							"floor8.vmt",
+							"floor8.vtf",
+							"floor9.vmt",
+							"floor9.vtf",
+							"liftopen.vmt",
+							"liftopen.vtf",
+							"liftrequest.vmt",
+							"liftrequest.vtf"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 46219,
+			"_nDownloadCount": 1644,
+			"_nFilesize": 3199551,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/46219",
+			"_sFile": "multiple_floors_elevator_2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1290231164
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2834,
+	"_sName": "Multiple_floor_elevators",
+	"_sText": "I making elevator prefabs good 15 floors & 100% accurate graph & measure units right number floors & number bar meter & light. \r\n\r\nLift start - doors lock & all buttons lock\r\nLift stop - automatic unlock & open door\r\n\r\nPhysbox object parent elevator when touch trigger will automatic open/unlock\r\n<b>Example go to floor 3</b>\r\n. floor 4 -\tdisable -\t<b class=red>closed</b><br>\r\n><b>floor 3</b> -\tenable  -\t<b class=\"green\">unlocked/opened</b><br>\r\n. floor 2 -\tdisable -\t<b class=red>closed</b><br>\r\n. floor 1 -\tdisable -\t<b class=red>closed</b><br>\r\n\r\nIn elevator room keypad door & fun sneak attack jump in elevator roof door kill enemy lol.\r\n\r\nCustom texture includes zip folder\r\nBSP & VMF & Textures\r\n\r\nIf you use this prefabs, must credit me. You can change any textures.\r\n\r\nElevator video\r\n<object width=\"853\" height=\"505\"><param name=\"movie\" value=\"http://www.youtube.com/v/FPU0f8OFhuw?fs=1&amp;hl=en_GB&amp;color1=0xe1600f&amp;color2=0xfebd01\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://www.youtube.com/v/FPU0f8OFhuw?fs=1&amp;hl=en_GB&amp;color1=0xe1600f&amp;color2=0xfebd01\" type=\"application/x-shockwave-flash\" allowscriptaccess=\"always\" allowfullscreen=\"true\" width=\"853\" height=\"505\"></embed></object>"
+}

@@ -1,0 +1,54 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"Armored": {
+						"0": "20161218155507_1.jpg",
+						"1": "20161218155515_1.jpg",
+						"2": "20161218155540_1.jpg",
+						"3": "20161218155551_1.jpg",
+						"4": "20161218155605_1.jpg",
+						"5": "20161218155614_1.jpg",
+						"C": {
+							"Program Files (x86)": {
+								"Steam": {
+									"Steamapps": {
+										"Common": {
+											"Counter Strike source": {
+												"bin": {
+													"Prefabs": [
+														"Armored Drivable.vmf",
+														"Armored_static.vmf",
+														"Armored_template.vmf"
+													]
+												}
+											}
+										}
+									}
+								}
+							}
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 44472,
+			"_nDownloadCount": 424,
+			"_nFilesize": 904151,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/44472",
+			"_sFile": "armored.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1482071016
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2766,
+	"_sName": "Post Apocalyptic Armored Vehicle(+drivable versio)",
+	"_sText": "The file contains 3 prefabs in total:<br>- drivable version(not train)<br>- static version<br>-Blank template<br><br>Drivable and static versions are understandable. Blank template basically is a simple version of the vehicle without textures and buttons. It is for mappers to manipulate and change however they wish. <br><br>These prefabs, look cool, but have some cons.<br>-Drivable version has certain ''issues'', and static version has a problem with the button that is supposed to open back door. <br><br>Either way I suggest testing the prefabs before you add them to map, and if necessary, manipulate them to your needs. <br>Finally I would like you to add my name somewhere if you decide to use it. <br>Hope this makes you guys happy. And I also hope that they are useful to any way, shape or form. Originally met for ZE maps, but use em how you like, if you can. There might be bugs to these prefabs, and for that i am sorry. If you take these out for a ''test drive'', then please give this one a rating so i know how good or bad I did it. <br><br>P.S. Feel free to modify the ''blank template'' and re-upload if you wish. <br><br>"
+}

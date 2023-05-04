@@ -1,0 +1,45 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"cs_wsbus nav readme.txt",
+					"cs_wsbus.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 2650,
+			"_nDownloadCount": 964,
+			"_nFilesize": 182818,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/2650",
+			"_sFile": "nav_cs_wsbus_14f4c.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1394299725
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Total improvement of comlete Navigation Mesh"
+				},
+				{
+					"cat": "-",
+					"text": "Changed Place Names (replaced on more corresponding to environment)"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Update 1",
+			"_tsDateAdded": 1492675303
+		}
+	],
+	"_idRow": 34816,
+	"_sName": "Hand-tuned NAV for map CS_WSBUS",
+	"_sText": "Counter-Strike: Source : Bot's Navigation Mesh for the map CS_WSBUS\r\n<br><br>Nav Creator: Meurglis3, Release Date: March 8 2014\r\n<br>\r\n<br>Here is the Navigation Mesh for one of the most fascinating warehouse-themed map <a href=\"http://css.gamebanana.com/maps/169543\">cs_wsbus</a> by Max Flynt (released December 2012). It's an almost fully created from scratch and totally hand-tuned .nav-file (because in original map author's archive was included a simply auto-gen).\r\n<br>\r\n<br>Most areas and paths were tuned manually (also some additional areas were created from scratch) because during an auto-generation processing the majority of them were constructed incorrectly or incomplete. Some broken of important pathways were restored and adjusted properly (in particular ladders between hangars and underground tunnels).\r\n<br>\r\n<br>Now, after manually reworking of nearly 90% of an auto-generated Navigation Mesh, bots have opportunity to use all walkable ways and surely move on all extent of the map. They will welcome you salute and fireworks! :D\r\n<br>\r\n<br>Also this Navigation Mesh is fully Place Painted.\r\n<br>\r\n<br>NOTE: For possibility of comparison and in-game testing the original navigation file by map creator available to downloading with the <a href=\"http://css.gamebanana.com/maps/169543\">same map</a>.\r\n<br>\r\n<br>Play and Enjoy! All your responses and remarks are always welcomed ;-)\r\n<br>\r\n<br>Credits and Gratitudes: Max Flynt (for high detailed, very realistic and urban styled warehouse-themed map).\r\n<br>\r\n<br>Additional Gratitudes: BarnDoor (for perfect playable navigation meshes for many fine CS:S maps), Chizbone (for informative and clever article BOT_BRAINED and a set of excellent navigation meshes), CoCoNUT (for fine hand-tuned navigation meshes for many fine CS:S maps), Valve Developer Community (for its learning articles by Navigation Meshes and Navigation Mesh Commands).\r\n<br>\r\n<br>Back to USSR! :-)"
+}

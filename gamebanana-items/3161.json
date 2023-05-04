@@ -1,0 +1,30 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"README.txt",
+					"prefab_vending_machine.vmf",
+					"prefab_vending_machine.vmx"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 45501,
+			"_nDownloadCount": 756,
+			"_nFilesize": 3748,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/45501",
+			"_sFile": "prefab_vending_machine.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1358034086
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 3161,
+	"_sName": "Working vening machine",
+	"_sText": "This is my workin vending machine.\r\n\r\nThis will spawn 1soda when you push e on the right side\r\n\r\nIf you rotate the vending machine you need to rotate the pitch Yaw roll on the shooter in the same direction as the vending machine"
+}

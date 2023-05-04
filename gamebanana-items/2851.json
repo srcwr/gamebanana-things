@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"Readme.txt",
+					"stairs.vmf"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 45436,
+			"_nDownloadCount": 2635,
+			"_nFilesize": 5260,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/45436",
+			"_sFile": "stairs_5.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1364572363
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2851,
+	"_sName": "Stairs",
+	"_sText": "Description\r\n==================\r\nThis is my second prefab I created for Counter-Strike: Source. I have extracted it from my first map de_suburb since I thought people might want\r\nto have a proper staircase as a prefab. What you see is an industrial metal staircase that seems to be a bit older. I recommend not to change the\r\ntextures of the frame unless you are willing to readjust them. Also you should activate \"Texture Lock\" while moving the prefab in Hammer Editor,\r\notherwise the textures won't align either. It is designed to be stacked in order to get your favorite length. Note that this prefab does not\r\nprovide end parts, you have to build them yourself! Enjoy creating decent maps with it!\r\n\r\nInstallation\r\n==================\r\nExtract the vmf-file from the zip folder into the directory\r\n\r\n**c:\\programs\\Steam\\steamapps\\[username]\\sourcesdk\\bin\\orangebox\\bin\\prefabs**\r\n\r\n(default Steam directory)\r\n\r\nFeedback\r\n==================\r\n**Any feedback will be appreciated!** Tell me what changes I should do the next time I make another prefab. What should I have done better in your opinion? I would love to know!"
+}

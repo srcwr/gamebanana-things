@@ -1,0 +1,62 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "README.txt",
+					"1": "fusebox_screenshot.jpg",
+					"2": "prefab.rar",
+					"counter-strike source": {
+						"cstrike": {
+							"materials": {
+								"models": {
+									"fusebox": [
+										"fusebox_redux_skin_1.vmt",
+										"fusebox_redux_skin_1.vtf",
+										"fusebox_redux_skin_1_ref.vtf",
+										"fusebox_redux_skin_2.vmt",
+										"fusebox_redux_skin_2.vtf",
+										"fusebox_redux_skin_2_ref.vtf",
+										"fusebox_redux_skin_3.vmt",
+										"fusebox_redux_skin_3.vtf",
+										"fusebox_redux_skin_3_ref.vtf",
+										"fusebox_redux_skin_4.vmt",
+										"fusebox_redux_skin_4.vtf",
+										"fusebox_redux_skin_4_ref.vtf"
+									]
+								}
+							},
+							"models": {
+								"fusebox": [
+									"fusebox_redux.dx80.vtx",
+									"fusebox_redux.dx90.vtx",
+									"fusebox_redux.mdl",
+									"fusebox_redux.phy",
+									"fusebox_redux.sw.vtx",
+									"fusebox_redux.vvd"
+								]
+							}
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 45805,
+			"_nDownloadCount": 810,
+			"_nFilesize": 5476994,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/45805",
+			"_sFile": "fusebox_mdl.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1331306247
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2066,
+	"_sName": "fusebox_prefab",
+	"_sText": "Comes with 7 sequence and 4 skins....There is also a prefab i created with a full working logic....\r\n\r\nUsefull if you like having switches to trigger stuff you can use this prefab to make it look good =p.\r\n\r\nThe outer skin is the same as the de_nuke electrical boxes so using those props in conjunction look good.\r\n\r\nenjoy."
+}

@@ -1,0 +1,31 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"prefab_barnacle": [
+						"Readme.txt",
+						"prefab_barnacle.vmf"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 581506,
+			"_nDownloadCount": 28,
+			"_nFilesize": 4071,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "Version 1.0 (First Release)",
+			"_sDownloadUrl": "https://gamebanana.com/dl/581506",
+			"_sFile": "prefab_barnacle.zip",
+			"_sMd5Checksum": "f61a57e5bf24dfa5150ea5d2758bd413",
+			"_tsDateAdded": 1622373684
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 290876,
+	"_sName": "Working Barnacle Prefab",
+	"_sText": "Hi, this is a simple Barnacle prefab I made for CS:S in my free time, took me 3 days. (Experimenting with the buggy trigger_push and AddOutput + BaseVelocity until I figured the teleport way)<br>Tested with: CS:S (Probably works in the Multiplayer too)<br><br>--------------------<br>How does it work?<br><br><span class=\"GreenColor\">1. A player walks to the Barnacle's tongue (trigger_once)<br></span><br><span class=\"GreenColor\">2. The trigger_once activates the trigger_teleport Brush (since trigger_push didn't <br>work and AddOutput + BaseVelocity was buggy) and plays some sounds, performs animations, activates a game_ui, and also assigns a targetname (p_barnacle_player) to the Barnacle'd player.<br></span><br><span class=\"GreenColor\">3. A player now has 1 or 2 seconds to react before they're eaten (delayed trigger_hurt, 75 damage).<br></span><br><span class=\"GreenColor\">4. Once the player has been killed, the Barnacle plays \"Digesting\" Sounds and Animations, and is \"full\" (doesn't eat other players) until the next round.</span><br><span class=\"GreenColor\">5. or the Barnacle can be killed anytime even when it's consuming a Player.</span><br><br>--------------------<br>Installation: Extract the .vmf file to your Prefabs folder and only use it with the \"Insert Prefab\" key in Hammer.<br>(You can use multiple Barnacles in 1 map without renaming any entities/outputs, that's why it should be only inserted with \"Insert Prefab\".)<br><b class=\"SelectedElement\"><br>-- NOTICE --</b><br>Your room's height must be at least <b>168</b> units tall or more, or the Prefab might bug out.<br>By default, the Barnacle is scripted to only eat Clients (Players) and not the bots, you can change it in the trigger_once, trigger_teleport and trigger_hurt Flags.<br><br><u>Happy mapping! :)</u>"
+}

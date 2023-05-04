@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"motion_sensor_v1.bsp",
+					"motion_sensor_v1.vmf"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 45359,
+			"_nDownloadCount": 331,
+			"_nFilesize": 18752,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/45359",
+			"_sFile": "motion_detection.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1373538291
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2108,
+	"_sName": "Motion Sensor Map",
+	"_sText": "Motion Sensor\r\n=============\r\nThe first prefab is a 'motion sensor' typed system. It uses triggers that are spread out throughout the map, as well as a picture of the map (must be made yourself) with sprites representing each trigger.\r\n\r\nIf a player (terrorist) walks into a room and touches, or is touching, the trigger, the light (sprite) on the map will turn red. For example:\r\nA terrorist manages to escape the jail cells and starts to head for the gun room. As the player walks through the gun room door, the picture of the map will shine red on the room he is in, indicating that there is a prisoner on the loose.\r\n\r\nI haven't prettied up and make it look like a fancy control room but the triggers and math counters all work fine. Copy/paste and rename the appropriate entities and triggers (experienced users only) but the package comes default with 3.\r\n\r\nSimply readjust the size of the triggers to cater for the room and while the player is inside the trigger, it will continue to show red. Once the player leaves, it will go back to green. Accounts for multiple players at once."
+}

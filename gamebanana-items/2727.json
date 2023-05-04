@@ -1,0 +1,63 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "Readme.txt",
+					"Cars": {
+						"AudiTT": [
+							"black.vmt",
+							"black.vtf",
+							"body.vmt",
+							"body.vtf",
+							"body_ref.vtf",
+							"braklght.vmt",
+							"braklght.vtf",
+							"chrome.vmt",
+							"chrome.vtf",
+							"glass.vmt",
+							"glass.vtf",
+							"headlght.vmt",
+							"headlght.vtf",
+							"mirror.vmt",
+							"mirror.vtf",
+							"mirror_ref.vtf",
+							"plastic.vmt",
+							"plastic.vtf",
+							"turnlght.vmt",
+							"turnlght.vtf"
+						]
+					},
+					"custom": {
+						"Cars": [
+							"AudiTT.dx80.vtx",
+							"AudiTT.dx90.vtx",
+							"AudiTT.phy",
+							"AudiTT.sw.vtx",
+							"AudiTT.xbox.vtx",
+							"auditt.mdl",
+							"auditt.vvd"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 46195,
+			"_nDownloadCount": 1546,
+			"_nFilesize": 834370,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/46195",
+			"_sFile": "auditt_final.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1291644658
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2727,
+	"_sName": "AudiTT",
+	"_sText": "====================================================\r\n= Audi TT by T-R-O-N =\r\n====================================================\r\n\r\n\r\nInstall :\r\n\r\ncopy the Folder custom to: ...\\cstrike\\models\\props\r\ncopy the Folder Cars   to: ...\\cstrike\\materials\\models\\props\r\n\r\n\r\nDone.\r\n\r\n\r\nThats it...\r\n\r\n\r\nps. that is not a replacement, this is the Car itself."
+}

@@ -1,0 +1,31 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"README.txt",
+					"prefab_landmine.bsp",
+					"prefab_landmine.vmf",
+					"prefab_landmine.vmx"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 45503,
+			"_nDownloadCount": 333,
+			"_nFilesize": 37725,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/45503",
+			"_sFile": "prefab_landmine_3.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1357920913
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2095,
+	"_sName": "Landmine",
+	"_sText": "This is my 2nd Prefab in this here i created a landmine this will explode when you walk on it.\r\nyou will still have 9-18HP after it explodes but you can change it.\r\n\r\nThe landmine includes these entitys:\r\n-ambient_generic\r\n-env_explosion\r\n-env_physexplosion\r\n-trigger_once"
+}

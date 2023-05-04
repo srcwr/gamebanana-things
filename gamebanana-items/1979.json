@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"choose_your_stage.bsp",
+					"choose_your_stage.vmf"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 46220,
+			"_nDownloadCount": 326,
+			"_nFilesize": 500532,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/46220",
+			"_sFile": "choose_your_stage.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1290013849
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 1979,
+	"_sName": "Map system: Staged Surf Map",
+	"_sText": "Originally intended for a surf skill map with many stages. I made this a little over a year ago and its just been sitting in my maps folder.\r\n\r\nThis system will allow the player to choose whatever order they like to complete the stages in instead of having the mapper force the order. (Mappers usually make stage 1 the easiest then stage 2 gets harder etc.)\r\n\r\nThis system was intended for two maps that just didn't happen and now its completely useless. So I will release it and maybe someone can get some ideas from it for other projects.\r\n\r\nThe system supports 20 stages and 50 players per round (this allows people to die + respawn but after 50 players have spawned, no more players will be supported and any new players will be slayed. The round will need to be restarted so map is refreshed since each player's progress needs to be tracked)\r\n\r\nUpon completion of a stage you will get a message telling you how many stages you have remaining: <img src=\"http://img593.imageshack.us/img593/2078/remaining.png\">\r\n\r\nSince there are so many stages, you may forget which one you finished and which one you haven't. So to fix this problem, the teleporter will NOT teleport you if you completed the stage and instead show you this message:\r\n<img src=\"http://img833.imageshack.us/img833/2184/completed.png\">\r\n\r\nUpon completion of the last stage you will get teleported above the room in this test environment and you will be given this message:\r\n<img src=\"http://img837.imageshack.us/img837/6858/alldone.png\">\r\n\r\nThis is how the test environment looks like. Potentially a spawn for a real map should have a similar easily accessible layout with images showing which stage is which: Screenshot #1\r\n\r\nThe system eats a lot of ent data but as you all should know, you can go above 100% safely: Screenshot #2\r\n\r\nDownload (vmf + bsp): I used komaokc's wood textures to make it aesthetically pleasing while I was working on it so you may be missing them.\r\nhttp://www.solidfiles.com/d/6e89/\r\n\r\nNote: If you use this in any shape or form, please credit me :)"
+}

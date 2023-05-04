@@ -1,0 +1,108 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"CS_custom_bots": [
+						"BC5.cfg",
+						"BC5t.cfg",
+						"IJ5.cfg",
+						"IJ5t.cfg",
+						"LT5.cfg",
+						"LT5t.cfg",
+						"ReadMe.txt",
+						"SP5.cfg",
+						"SP5t.cfg",
+						"UK5.cfg",
+						"UK5t.cfg",
+						"acconly.cfg",
+						"alttime.cfg",
+						"autoexec.cfg",
+						"bccbot.cfg",
+						"bccbott.cfg",
+						"botkick.cfg",
+						"botprofile.db",
+						"bots.vpk",
+						"buyaug.cfg",
+						"buyawp.cfg",
+						"buyfamas.cfg",
+						"buyfav.cfg",
+						"buym249.cfg",
+						"buym3.cfg",
+						"buym4a1.cfg",
+						"buymp5.cfg",
+						"buyp90.cfg",
+						"buyscout.cfg",
+						"buysg550.cfg",
+						"buysmg.cfg",
+						"buyump45.cfg",
+						"buyxm1014.cfg",
+						"classbot.cfg",
+						"csscstm.cfg",
+						"csspubbot.cfg",
+						"desktop.ini",
+						"ezbot.cfg",
+						"ezbott.cfg",
+						"mapcycle.txt",
+						"perfcfg.cfg",
+						"r5bot.cfg",
+						"r8bot.cfg",
+						"rxbot.cfg",
+						"ubersniperc.cfg",
+						"ubersnipert.cfg",
+						"vbot.cfg",
+						"vbott.cfg",
+						"wbot.cfg",
+						"wbott.cfg",
+						"xbot.cfg",
+						"xbott.cfg",
+						"ybot.cfg",
+						"ybott.cfg",
+						"zbot.cfg",
+						"zbott.cfg"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 1671,
+			"_nDownloadCount": 1990,
+			"_nFilesize": 12011,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1671",
+			"_sFile": "cs_custom_bots_ac8ab.7z",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1458602650
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Amendment",
+					"text": "Addressing issue of custom bots not working in CS:Source"
+				}
+			],
+			"_sText": "As of 2018, CS:Source has some how broken or was altered by Devs.<br><br>The game no longer reads .vpk files for custom bots.<br><br>So, read your copy of the original botprofile.db (in Notepad) and alter your scripts to use default bot names :)<br>",
+			"_sTitle": "*UPDATE* 04/16/2018",
+			"_tsDateAdded": 1523861133
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": ".7z download file has 4 updated files and 1 new file."
+				}
+			],
+			"_sText": "View ReadMe.txt",
+			"_sTitle": "*UPDATE* 03/20/2017",
+			"_tsDateAdded": 1490022533
+		}
+	],
+	"_idRow": 34950,
+	"_sName": "CS Custom Bots",
+	"_sText": "03/25/2016<br>R*A*S Turkey*Raptor<br><a href=\"//mailto:turkey.raptor@gmx.com\" class=\"linkified\" target=\"_blank\">turkey.raptor@gmx.com</a><br><br>Working Custom Bots for (Steam):<br><br>Counter-Strike: Source<br><br>&nbsp;\\cstrike\\custom\\bots.vpk<br><br>&nbsp;\\cstrike\\cfg\\bccbot.cfg&nbsp;&nbsp;<a href=\"//sample\" class=\"linkified\" target=\"_blank\">//sample</a> bot config.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \\bccbott.cfg&nbsp;<a href=\"//sample\" class=\"linkified\" target=\"_blank\">//sample</a> bot config.<br><br>&nbsp;Path for all included files, except bots.vpk, is \\cstrike\\cfg\\<br><br>Counter-Strike: Condition Zero<br><br>&nbsp;\\Half-Life\\czero\\botprofile.db<br>&nbsp;&nbsp;&nbsp;\\bots.vpk<br>&nbsp;&nbsp;&nbsp;\\bccbot.cfg<br>&nbsp;&nbsp;&nbsp;\\bccbott.cfg<br><br>&nbsp;\\Half_Life\\platform\\botprofile.db<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \\bots.vpk<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \\bccbot.cfg<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \\bccbott.cfg<br><br>To add custom bots to your game:<br><br>&nbsp;Press ` key for console.<br>&nbsp;Console command:&nbsp; exec bccbot.cfg<br>&nbsp;or add command to your config file(s).<br>&nbsp;exec bccbot.cfg when playing as CT.<br>&nbsp;exec bccbott.cfg when playing as T.<br><br>&nbsp;***NOTE***&nbsp;I have updated the .7z file with loads<br>&nbsp;&nbsp;&nbsp;more files/scripts:<br><br>&nbsp;You will be able to press F11 in-game to configure settings<br>&nbsp;and kick bots (bot_kick). Press \"p\" to pause the server/game<br>&nbsp;and then run scripts and configure settings at your leisure.<br>&nbsp;Read the contents of csscstm.cfg to see your key bindings.<br><br>&nbsp;BE SURE to try class-bots:<br>&nbsp;Player(s) plus 6 bots per team, 1 for each weapon class.<br>&nbsp;Console exec classbot.cfg or press DOWNARROW on your keyboard.<br><br>ALSO: This botprofile.db can be used for CS:GO.<br>To work as expected, just correct some of the<br>weapon entity names to the newer GO versions.<br>For example: WeaponPreference ssg08 (instead of scout).<br>You can find the weapon names in your CSGO autobuy.txt file.<br><br>&nbsp;\\csgo\\cfg\\botprofile.db<br><br>NOTE: Skill Template Difficulty can be changed.<br>This determines the mix of bots you get simply<br>by choosing your preferred bot difficulty<br>setting. I recommend most players run as-is with<br>bot_difficulty 2 (0/1/2/3) for best experience.<br>Bots will be selected from VeryHard, Hard and<br>Tough skill templates. You can include harder<br>bots that use my custom skill templates if you<br>change the Template Difficulty to EXPERT+HARD."
+}

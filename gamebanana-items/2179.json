@@ -1,0 +1,60 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"maps": [
+						"portalhack.bsp",
+						"portalhack.vmf"
+					],
+					"materials": {
+						"portalhack": [
+							"portalhack.vmt"
+						]
+					}
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 506688,
+			"_nDownloadCount": 66,
+			"_nFilesize": 10026820,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/506688",
+			"_sFile": "portalhack_25072.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1610205591
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Added demo video"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Update 2",
+			"_tsDateAdded": 1610260627
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Added information about changing tp destination"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Update 1",
+			"_tsDateAdded": 1610258826
+		}
+	],
+	"_idRow": 2179,
+	"_sName": "Portal-esque teleports",
+	"_sText": "IMPORTANT!!!! : Copy the contents of the zip file given into your 'cstrike' directory. That is, portalhack.bsp and portalhack.vmf go in Counter-Strike: Source/cstrike/maps/, and portalhack.vmt goes in Counter-Strike: Source/cstrike/materials/portalhack/<br>IF YOU DO NOT HAVE THE MATERIAL THE PORTALS WILL NOT RENDER AT ALL.<br>You can try out the portals by opening the map ingame, as the cubemaps have already been built for you.<br><br>This prefab allows you to use visually functioning portals in CS:S or any other source game that has the WindowImposter shader. It essentially abuses the cubemap system to fake this, teleporting you exactly to the cubemap position so it looks like you teleported seamlessly.<br><br>To create a portal, copy the grouped entities you want and rename all the filters/teleport destinations and replace all instances in the triggers/filters.<br>For a two-way teleport, copy the portals in the positive y direction, and for a one-way teleport, copy the portals in the negative y direction. The two-way teleports change targetname, so keep that in mind.<br><br>If you want to move the teleports up, make sure the cubemap origin is exactly 64 units above the teleport origin (or whatever the view height is for different games). It is currently 63 units above as the teleport is 1 unit above the ground, so fix this if you shift the teleport up.<br><br>For a better effect, you can change the 'Cubemap Size' parameter of the cubemaps to 11 (or higher if you're crazy), however be careful as this map has 3 portals and is 10mb already, after packing the map. The vmf file included in the prefab requires a game resolution of 2048x2048 or higher to build cubemaps due to how cubemaps are created, (requiring 4x cubemap resolution in height and width). If you want a higher resolution, you will likely have to resort to NVIDIA's 'dynamic super resolution' or AMD's 'virtual super resolution' to reach these resolutions. <br>"
+}

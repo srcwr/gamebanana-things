@@ -1,0 +1,100 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "ctf_prefab.bsp",
+					"1": "ctf_prefab.vmf",
+					"maps": [
+						"ctf_prefab.bsp"
+					],
+					"materials": {
+						"ctf": [
+							"0.vmt",
+							"0.vtf",
+							"1.vmt",
+							"1.vtf",
+							"10.vmt",
+							"10.vtf",
+							"11.vmt",
+							"11.vtf",
+							"2.vmt",
+							"2.vtf",
+							"3.vmt",
+							"3.vtf",
+							"4.vmt",
+							"4.vtf",
+							"5.vmt",
+							"5.vtf",
+							"6.vmt",
+							"6.vtf",
+							"7.vmt",
+							"7.vtf",
+							"8.vmt",
+							"8.vtf",
+							"9.vmt",
+							"9.vtf",
+							"dark_blue.vmt",
+							"dark_blue.vtf",
+							"dark_red.vmt",
+							"dark_red.vtf",
+							"dev_dark_blue.vmt",
+							"dev_dark_blue.vtf",
+							"dev_dark_red.vmt",
+							"dev_dark_red.vtf",
+							"glow.vmt",
+							"glow.vtf",
+							"metal.vmt",
+							"metal.vtf"
+						],
+						"models": {
+							"mapmodels": {
+								"flags": [
+									"neutralflag.vmt",
+									"neutralflag.vtf"
+								]
+							}
+						}
+					},
+					"models": {
+						"mapmodels": [
+							"flags2.dx80.vtx",
+							"flags2.dx90.vtx",
+							"flags2.mdl",
+							"flags2.sw.vtx",
+							"flags2.vvd",
+							"flags2.xbox.vtx"
+						]
+					},
+					"sound": {
+						"ctf": [
+							"blue_team_is_the_winner.wav",
+							"blue_team_scores.wav",
+							"flag_returned.wav",
+							"flag_taken.wav",
+							"red_team_is_the_winner.wav",
+							"red_team_scores.wav"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 46181,
+			"_nDownloadCount": 573,
+			"_nFilesize": 734196,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/46181",
+			"_sFile": "ctf_essentials.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1292169176
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 1988,
+	"_sName": "CTF - Essentials v1",
+	"_sText": "Capture The Flag prefab for css!\r\n\r\n- 64 player spawns!\r\n\r\n- scoreboard!\r\n\r\n- flag animations!\r\n\r\n- one flag for both teams for extra fun!\r\n\r\n- NO MORE dropping guns!\r\n\r\nTeams score 3 points for themselves and one point for their team for every successful flag capture. Teams must bring the flag back to their spawn to score points. If they are killed on the way the flag is returned back to the flag stand. First team to 10 points wins and the map is changed.\r\n\r\nNote: For best gameplay use a deathmatch mod. \r\n\r\nI realise this is very similiar to tophattwaffles prefab released days ago but i would like to make it clear all I/O's and brushwork was made from scratch by me and none were copied. Sounds are from unreal tournament which i modded for a single flag. \r\n\r\nAny brushwork i can make into a model if enough users ask for it for optimisation's sake.\r\n\r\nI will be making a series of CTF maps using this prefab and possibly tophattwaffles prefab so look out for for releases :)\r\n\r\nTerms: must credit me if used in any map whether u change models or brushwork or not.\r\n\r\nFeel Free to add me on steam as L3m0n, bfg1302, or STEAM_0:0:14762906"
+}

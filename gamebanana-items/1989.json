@@ -1,0 +1,91 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"TopHATTwaffle CTF V2.1": {
+						"0": "CTF_Map_v2_1Flag.vmf",
+						"1": "CTF_Map_v2_2Flags.vmf",
+						"2": "CTF_Map_v2_5Flag_Struggle.vmf",
+						"3": "Flag_Template.png",
+						"4": "Read me.txt",
+						"materials": {
+							"customdev": [
+								"dev_measuregeneric01blu.vmt",
+								"dev_measuregeneric01blu.vtf",
+								"dev_measuregeneric01red.vmt",
+								"dev_measuregeneric01red.vtf",
+								"dev_measurewall01blu.vmt",
+								"dev_measurewall01blu.vtf",
+								"dev_measurewall01red.vmt",
+								"dev_measurewall01red.vtf"
+							],
+							"models": {
+								"flag": [
+									"chrome_black.vmt",
+									"chrome_black.vtf",
+									"chrome_gold.vmt",
+									"chrome_gold.vtf",
+									"tfcflag_blu.vmt",
+									"tfcflag_blu.vtf",
+									"tfcflag_neutral.vmt",
+									"tfcflag_neutral.vtf",
+									"tfcflag_red.vmt",
+									"tfcflag_red.vtf"
+								]
+							},
+							"signs": [
+								"capture_blue.vmt",
+								"capture_blue.vtf",
+								"capture_red.vmt",
+								"capture_red.vtf",
+								"capture_zone.vmt",
+								"capture_zone.vtf"
+							]
+						},
+						"models": {
+							"flag": [
+								"flag.dx80.vtx",
+								"flag.dx90.vtx",
+								"flag.mdl",
+								"flag.sw.vtx",
+								"flag.vvd"
+							]
+						},
+						"sound": [
+							"Blue_Flag_Dropped.wav",
+							"Blue_Flag_Returned.wav",
+							"Blue_Flag_Taken.wav",
+							"Blue_Team_Scores.wav",
+							"Flag_Dropped.wav",
+							"Flag_Taken.wav",
+							"Red_Flag_Dropped.wav",
+							"Red_Flag_Returned.wav",
+							"Red_Flag_Taken.wav",
+							"Red_Team_Scores.wav",
+							"blue_team_is_the_winner.wav",
+							"red_team_is_the_winner.wav"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 46179,
+			"_nDownloadCount": 1312,
+			"_nFilesize": 1158822,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/46179",
+			"_sFile": "tophattwaffle_ctf_v21.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1292394752
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 1989,
+	"_sName": "Capture The Flag Version 2",
+	"_sText": "This is Version 2 of my CTF prefab for Counter-Strike Source\r\n<object width=\"320\" height=\"205\"><param name=\"movie\" value=\"http://www.youtube.com/v/eKNB_OIxZ2w?fs=1&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://www.youtube.com/v/eKNB_OIxZ2w?fs=1&amp;hl=en_US\" type=\"application/x-shockwave-flash\" allowscriptaccess=\"always\" allowfullscreen=\"true\" width=\"320\" height=\"205\"></embed></object>\r\nDeathmath mod is almost a MUST for this!!!\r\n\r\nFeatures:\r\n-No dropping the gun for the flag\r\n-3 Fun game modes\r\n  -1 Flag Classic Struggle\r\n  -2 Flags Base Assault\r\n  -5 Flags Power Struggle (Idea by Nicadeamas)\r\n-Custom Flag model\r\n-Reskinable Flag model\r\n-Sound Warings\r\n-Score Board\r\n\r\n-Change Log-\r\nv2 - Release\r\n\r\nv2.1 - Fixed missing VMTs\r\n\r\nv2.1.1 - Fixed a console command (Does not harm anything)\r\n\r\nHow to install:\r\n<object width=\"320\" height=\"205\"><param name=\"movie\" value=\"http://www.youtube.com/v/BGcWgQJ-KMg?fs=1&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://www.youtube.com/v/BGcWgQJ-KMg?fs=1&amp;hl=en_US\" type=\"application/x-shockwave-flash\" allowscriptaccess=\"always\" allowfullscreen=\"true\" width=\"320\" height=\"205\"></embed></object>\r\n\r\n5 Flag Power Struggle has not been 100% perfected. To ensure that it functions better, do not have any of the flags touching. Same goes for the flag displays.\r\nPlease report any errors right away, and I will attempt to fix them ASAP.\r\n\r\n***DO NOT USE BOTS WITH THIS***\r\n\r\nTerms of Use:\r\nYou must credit me fo using this.\r\nAnd Nicadeamas if you use 5 Flag Power Struggle\r\n\r\nIf you need help setting this up, add me on steam!\r\n<a href=\"http://steamcommunity.com/id/TopHATTwaffle\">TopHATTwaffle's Steam Page</a>"
+}

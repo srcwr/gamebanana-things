@@ -1,0 +1,45 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_cloak nav readme.txt",
+					"de_cloak.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 2834,
+			"_nDownloadCount": 593,
+			"_nFilesize": 73392,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/2834",
+			"_sFile": "nav_de_cloak_000d6.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1386067518
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Total improvement of comlete Navigation Mesh"
+				},
+				{
+					"cat": "-",
+					"text": "Changed Place Names (replaced on more corresponding to environment)"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Update 1",
+			"_tsDateAdded": 1492083666
+		}
+	],
+	"_idRow": 34779,
+	"_sName": "Hand-tuned NAV for map DE_CLOAK",
+	"_sText": "Counter-Strike: Source : Bot's Navigation Mesh for the map DE_CLOAK\r\n<br><br>Nav Creator: Meurglis3, Release Date: December 3 2013\r\n<br>\r\n<br>Here is the Navigation Mesh for charged atmospheric sewers-themed map <a href=\"http://css.gamebanana.com/maps/56618\">de_cloak</a> by Aldez (released May 2008).\r\n<br>It's a fully created from scratch and totally hand-tuned .nav-file (because an original mapauthor's .nav-file was not perfect playable).\r\n<br>\r\n<br>Almost all of paths were created from scratch or underwent essential changes because in some walkable areas inaccuracies were allowed (approaches to ladders and a paths through some doorways in particular). Though, has to recognize, it not the most popular routes both at bots, and at people :-)\r\n<br>\r\n<br>Specific feature of the map: because of placement of one of the hatches on a Bombsite B someone from bots sometimes gets stuck driven into the corner a folding lattice. Beware the steel jaws! :D\r\n<br>\r\n<br>Also this Navigation Mesh is fully Place Painted (more detailed and pertinently than in the original mapauthor's .nav-file).<br>\r\n<br>NOTE: For possibility of comparison and in-game testing the original navigation file by map creator included in original .bsp and available to loading with the <a href=\"http://css.gamebanana.com/maps/56618\">same map</a>.<br><br>\r\nPlay and Enjoy! All your responses and remarks are always welcomed ;-)<br><br>Credits and Gratitudes:\r\nAldez (for this thrilled industrial-themed map... also for his other nice maps <a href=\"http://css.gamebanana.com/maps/10900\">cs_apartments</a> and <a href=\"http://css.gamebanana.com/maps/16621\">de_oldtown_beta</a>).\r\n<br>\r\n<br>Additional Gratitudes:\r\nBarnDoor (for perfect playable navigation meshes for many fine CS:S maps),\r\nChizbone (for informative and clever article BOT_BRAINED and a set of excellent navigation meshes),\r\nCoCoNUT (for fine hand-tuned navigation meshes for many fine CS:S maps),\r\nValve Developer Community (for learning articles by Navigation Meshes and Navigation Mesh Commands).\r\n<br>\r\n<br>Happy Frags &amp; Good Luck!"
+}

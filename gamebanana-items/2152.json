@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"prefab_weaponstrip.vmf",
+					"readme.txt"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 44904,
+			"_nDownloadCount": 440,
+			"_nFilesize": 1345,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/44904",
+			"_sFile": "prefab_weaponstrip.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1420576006
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2152,
+	"_sName": "Weapon strip trigger",
+	"_sText": "Simple prefab i made for people that don't know how to make this,\r\n\r\nPoint entity can be moved anywhere in the map\r\n\r\n**NOTE: A player with no weapons will move at 260 units per sec instead of the normal 250, so this is not recommended to be used in bhop/kz/lj/xc maps as it gives the player an unfair advantage**"
+}

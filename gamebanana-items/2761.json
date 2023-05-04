@@ -1,0 +1,50 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrike": {
+						"materials": {
+							"models": {
+								"Tie-Fighter": [
+									"detail.vmt",
+									"detail.vtf",
+									"tie-wing.vmt",
+									"tie-wing.vtf",
+									"tiefighter.vmt",
+									"tiefighter.vtf"
+								]
+							}
+						},
+						"models": [
+							"Tie_Fighter.dx80.vtx",
+							"Tie_Fighter.dx90.vtx",
+							"Tie_Fighter.phy",
+							"Tie_Fighter.sw.vtx",
+							"Tie_Fighter.xbox.vtx",
+							"tie_fighter.mdl",
+							"tie_fighter.vvd"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 45505,
+			"_nDownloadCount": 642,
+			"_nFilesize": 137309,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/45505",
+			"_sFile": "cstrike_5.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1357821907
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2761,
+	"_sName": "Tie-Fighter",
+	"_sText": "A Star Wars Tie-Fighter that I made for the use in Counter-Strike: Source. I tried to make it as simple as possible, without sacrificing too much of the quality. I believe it works perfectly well in large numbers, since I made it quite cheap on the engine. I know it's not perfect, but i'm pretty much a beginner in 3D modelling. Despite all of this, I think it turned out OK.\r\n\r\nNote: when you add the model inside hammer, it faces down by default. To change this, simply edit the angles on \"Pitch Yaw Roll\" to \"down\".\r\n\r\nAlso, this model has no real collision model. But if you are in desperate need of one, you can just simply create one using either Clip or Invisible tool.\r\n\r\nPlease use it however you want, just remember to credit some to me."
+}

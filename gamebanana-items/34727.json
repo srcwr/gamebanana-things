@@ -1,0 +1,78 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"scripts": {
+						"0": "game_sounds_manifest.txt",
+						"1": "weapon_ak47.txt",
+						"10": "weapon_g3sg1.txt",
+						"11": "weapon_galil.txt",
+						"12": "weapon_glock.txt",
+						"13": "weapon_hegrenade.txt",
+						"14": "weapon_knife.txt",
+						"15": "weapon_m249.txt",
+						"16": "weapon_m3.txt",
+						"17": "weapon_m4a1.txt",
+						"18": "weapon_mac10.txt",
+						"19": "weapon_mp5navy.txt",
+						"2": "weapon_aug.txt",
+						"20": "weapon_p228.txt",
+						"21": "weapon_p90.txt",
+						"22": "weapon_scout.txt",
+						"23": "weapon_sg550.txt",
+						"24": "weapon_sg552.txt",
+						"25": "weapon_smokegrenade.txt",
+						"26": "weapon_tmp.txt",
+						"27": "weapon_ump45.txt",
+						"28": "weapon_usp.txt",
+						"29": "weapon_xm1014.txt",
+						"3": "weapon_awp.txt",
+						"4": "weapon_c4.txt",
+						"5": "weapon_deagle.txt",
+						"6": "weapon_elite.txt",
+						"7": "weapon_famas.txt",
+						"8": "weapon_fiveseven.txt",
+						"9": "weapon_flashbang.txt",
+						"weapons": [
+							"M4a1.txt",
+							"awp.txt",
+							"famas.txt",
+							"g3sg1.txt",
+							"galil.txt",
+							"m249.txt",
+							"m3.txt",
+							"mac10.txt",
+							"p90.txt",
+							"scout.txt",
+							"sg550.txt",
+							"sg552.txt",
+							"tmp.txt",
+							"ump45.txt",
+							"usp.txt",
+							"xm1014.txt"
+						]
+					}
+				},
+				"_sMimeType": "application/x-7z-compressed"
+			},
+			"_bContainsExe": false,
+			"_idRow": 374537,
+			"_nDownloadCount": 332,
+			"_nFilesize": 6781,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/374537",
+			"_sFile": "bell_script.7z",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1519712785
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 34727,
+	"_sName": "MW3 Weapons Pack - Bell's Custom Scripts",
+	"_sText": "A script that I edited from <a href=\"https://gamebanana.com/skins/155180\">MW3 Weapons Pack</a>.<br><br>List of changes base on the skin<br><br><u><b>Awp</b></u><br>Clip Size: 5<br><br><u><b>Dual Elite<br></b></u>Bullet Type: 50AE<br>Damage: 70 <br>Clip Size: 12<br><br><u><b>Hand Grenade</b></u><br>Damage: 75<br>Price: 450<br><br><u><b>Knife</b></u><br>Damage: 115<br><br><u><b>G3SG1</b></u><br>Damage: 80<br>Clip Size: 10<br><br><u><b>Mac10</b></u><br>Damage: 28<br><br><u><b>M3</b></u><br>Clip Size: 7<br><br><b><u>P228</u></b><br>Clip Size: 12<br><br><u><b>Scout<br></b></u>Bullet Type: 357SIG <br>Damage: 80<br><br><i>Note: It still take up to 2 hit to kill a player.</i><br><br><u><b>UMP45</b></u><br>Damage: 30<br>Clip Size: 30<br><br><i>Note: Clip size back to 25 after reloading. I have no idea how to fix it.</i><br><br><u><b>XM1014</b></u><br>Clip Size: 12<br><br><i>Note: Same problem with UMP45. Might reduce damage due to large clip size.</i><br><br><u><b>TMP</b></u><br>Damage: 28<br><br><u><b>SG550</b></u><br>Clip Size: 10"
+}

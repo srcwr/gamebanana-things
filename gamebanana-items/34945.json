@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_cache_csgo_source.nav"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 484197,
+			"_nDownloadCount": 93,
+			"_nFilesize": 39892,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/484197",
+			"_sFile": "de_cache_csgo_source_nav.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1599248920
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 34945,
+	"_sName": "de_cache_csgo_source.nav",
+	"_sText": "This one is a very minor edit, as <a href=\"https://gamebanana.com/maps/206397\">the map</a> comes with a functioning nav embedded already, except that it lacks place names and that, I guess, bothered me.<br><br><br>Things changed in this version:<br><br>- added place names of course ... vaguely oriented off I think this <a href=\"https://gamebanana.com/maps/203500\">1.6 version</a> of cache by Reydifox and Tatu Eugen, but with several changes, making a few oversized ones more granular and switching out or moving around some names entirely:<br>- Middle, LoadingDock, BackHall, BackDoor, LongHall, Ramp, StorageRoom, Vents -&nbsp; pretty much same as there<br>-&nbsp; CT Spawn walkways (Front Hall, Entryway, Side Hall, Stairs) - flipped position of \"Entryway\" to what originally was \"Side\" (walkway to A), split the Mid/B connectors into the other 3). Non-spawn outdoors part of CT-Spawn is FrontYard now while CT-Spawn is just that garage in which you actually spawn.<br>- T Spawn area - SideYard was called Backway in reference material which is now closer to LoadingDock where \"Back\" was very big and has been split into BackYard (closest to spawn), Backway (towards A) and Truck.<br>- Dumpster - that weird far-off yard near B which does have a big trash container, called \"Courtyard\" in original, Courtyard is now the relatively central yard between Garage and LongHall (which in the reference was part of \"Garage\".<br>- split off Balcony near A (not sure if splitting more off the non-plantable parts around the general A area makes sense, as \"Crates\" or whatever, gets too ugly) and Downstairs (unplantable floor-level B part) and Upstairs (high B balcony connected via Stairs) near B.<br><br><br>So, \"Side\" generally indicates something around the B section of the map, \"Back\" is between T-Spawn and A, \"Front\" is near CT Spawn.<br><br><br>- made it possible for bots to drop from vents to \"Storage Room\" near B (since otherwise a bot in Vents would go all the way around to reach B)<br><br>- There was one unreachable oddball tile on top of the central crate cluster near A -&gt; made the entire top of those 3 crates accessible by adding like 3 more tiles and according jumps and dropdowns there.<br>"
+}

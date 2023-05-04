@@ -1,0 +1,87 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "qr_system.bsp",
+					"1": "qr_system.vmf",
+					"materials": {
+						"models": {
+							"props": {
+								"qr_table": [
+									"1239.vmt",
+									"1239.vtf",
+									"1298.vmt",
+									"1298.vtf",
+									"1379.vmt",
+									"1379.vtf",
+									"1579.vmt",
+									"1579.vtf",
+									"1993.vmt",
+									"1993.vtf",
+									"2316.vmt",
+									"2316.vtf",
+									"4193.vmt",
+									"4193.vtf",
+									"4397.vmt",
+									"4397.vtf",
+									"5197.vmt",
+									"5197.vtf",
+									"5578.vmt",
+									"5578.vtf",
+									"6197.vmt",
+									"6197.vtf",
+									"6317.vmt",
+									"6317.vtf",
+									"7264.vmt",
+									"7264.vtf",
+									"7312.vmt",
+									"7312.vtf",
+									"7316.vmt",
+									"7316.vtf",
+									"8291.vmt",
+									"8291.vtf",
+									"denied.vmt",
+									"denied.vtf",
+									"frame.vmt",
+									"frame.vtf",
+									"granted.vmt",
+									"granted.vtf",
+									"idle.vmt",
+									"idle.vtf"
+								]
+							}
+						}
+					},
+					"models": {
+						"petros": [
+							"qr_table.dx80.vtx",
+							"qr_table.dx90.vtx",
+							"qr_table.mdl",
+							"qr_table.phy",
+							"qr_table.sw.vtx",
+							"qr_table.vvd"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 46358,
+			"_nDownloadCount": 403,
+			"_nFilesize": 134820,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/46358",
+			"_sFile": "qr_system.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1279471284
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 1954,
+	"_sName": "QR secure keypad",
+	"_sText": "QR CODE SYSTEM: http://en.wikipedia.org/wiki/QR_Code\r\nFeatures:\r\n16 Random codes\r\nAutomatic reset keyboard (4fail codes)\r\nDisable&Enable system\r\nCustom model with 19skins\r\nYou can delete generator (delete model and cables, make logic_auto output on map spawn logic_case pick random.\r\nYou can change access granted/denied sequence: Logic_compare add on equal to teleport teleport (example) and denied: logic_relay (wrong) on trigger hurt enable (example) If you enter the wrong code you killed. \r\nQR code readers: Kaywa reader (Java mobile), Quickmark (iPhone) "
+}

@@ -1,0 +1,980 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"Halo-Strike3": {
+						"0": "Credits.txt",
+						"maps": [
+							"Ascension.bsp",
+							"Ascension.nav",
+							"Battle Creek.bsp",
+							"Battle Creek.nav",
+							"Blood Gulch.bsp",
+							"Blood Gulch.bsp.bak",
+							"Blood Gulch.nav",
+							"Chill Out.bsp",
+							"Chill Out.nav",
+							"Chrion TL-34.bsp",
+							"Credits.txt",
+							"Damnation.bsp",
+							"Damnation.nav",
+							"Damnation_Bomb.bsp",
+							"Damnation_Bomb.nav",
+							"Death Island.bsp",
+							"Derelict.bsp",
+							"Derelict.nav",
+							"Elongation.bsp",
+							"Faceoff.bsp",
+							"Faceoff.nav",
+							"Foundation.bsp",
+							"Foundation.nav",
+							"Hang Em' High.bsp",
+							"Hang Em' High.nav",
+							"Lockout.bsp",
+							"Lockout.nav",
+							"Longest.bsp",
+							"Longest.nav",
+							"The Crypt.bsp",
+							"The Crypt.nav",
+							"Thumbs.db",
+							"Turf.bak",
+							"Turf.bsp",
+							"Turf.nav",
+							"Wizard.bsp",
+							"Zanzibar.bsp",
+							"Zanzibar.nav",
+							"chrion tl-34.nav",
+							"death island.nav",
+							"elongation.nav",
+							"gg_halo_gold.bsp",
+							"gg_halopit.bsp",
+							"gg_halopit.nav",
+							"halo_sanctuary_beta2.bsp",
+							"halo_sanctuary_beta2.nav",
+							"wizard.nav"
+						],
+						"materials": {
+							"brick": [
+								"BRICKFLOOR001A.vmt",
+								"BRICKFLOOR001A.vtf"
+							],
+							"console": [
+								"background01.vtf",
+								"background01_widescreen.vtf"
+							],
+							"dev": [
+								"dev_bumptest.vmt",
+								"dev_bumptest.vtf"
+							],
+							"models": {
+								"assaulth1": [
+									"assault_rifle.vmt",
+									"assault_rifle.vtf",
+									"back.vmt",
+									"back.vtf"
+								],
+								"assaulth3": [
+									"ar bullets.vmt",
+									"ar bullets.vtf",
+									"assault_rifle.vmt",
+									"assault_rifle.vtf",
+									"assault_rifle_ammo_counter_bitmap_3.vmt",
+									"assault_rifle_ammo_counter_bitmap_3.vtf",
+									"assault_rifle_ammo_counter_bitmap_4.vmt",
+									"assault_rifle_ammo_counter_bitmap_4.vtf",
+									"assault_rifle_compass_bitmap_1.vmt",
+									"assault_rifle_compass_bitmap_1.vtf",
+									"assault_rifle_display.vmt",
+									"assault_rifle_display.vtf",
+									"assault_rifle_display_scanlines_a.vmt",
+									"assault_rifle_display_scanlines_a.vtf"
+								],
+								"assaulth4": [
+									"assault rifle diff.vmt",
+									"assault rifle diff.vtf",
+									"compass_bitmap_1.vmt",
+									"compass_bitmap_1.vtf",
+									"display_plate.vmt",
+									"display_plate.vtf",
+									"numbers_assault_rifle_bitmap_3.vmt",
+									"numbers_assault_rifle_bitmap_3.vtf",
+									"numbers_assault_rifle_bitmap_4.vmt",
+									"numbers_assault_rifle_bitmap_4.vtf",
+									"scan_lines.vmt",
+									"scan_lines.vtf"
+								],
+								"assaulth5": [
+									"halo-5-unsc-ma5d-icws-assault-rifle-diff-texture.vmt",
+									"halo-5-unsc-ma5d-icws-assault-rifle-diff-texture.vtf"
+								],
+								"battleh2": [
+									"battle_rifle_knob.vmt",
+									"battle_rifle_knob.vtf",
+									"battlerifle.vmt",
+									"battlerifle.vtf",
+									"numbers_plate4.vmt",
+									"numbers_plate4.vtf",
+									"numbers_plate7.vmt",
+									"numbers_plate7.vtf",
+									"scope.vmt",
+									"scope.vtf"
+								],
+								"bubbleshieldh3": [
+									"bubble_shield_dif.vmt",
+									"bubble_shield_dif.vtf"
+								],
+								"c4h2": [
+									"assault_bomb.vmt",
+									"assault_bomb.vtf",
+									"hoteliteactionxxx_clickhere.vtf"
+								],
+								"carbineh3": [
+									"covenant_carbine green.vmt",
+									"covenant_carbine green.vtf",
+									"covenant_carbine.vmt",
+									"covenant_carbine.vtf"
+								],
+								"dmr": [
+									"1.vmt",
+									"1.vtf",
+									"5.vmt",
+									"5.vtf",
+									"dmr.vmt",
+									"dmr.vtf",
+									"dmr_bod_scope.vmt",
+									"dmr_bod_scope.vtf",
+									"scope.vmt",
+									"scope.vtf"
+								],
+								"energyswordh3": [
+									"energy_sword_blade_mask.vmt",
+									"energy_sword_blade_mask.vtf",
+									"energy_sword_handle.vmt",
+									"energy_sword_handle.vtf"
+								],
+								"flareh3": [
+									"flare diff.vmt",
+									"flare diff.vtf"
+								],
+								"forerunnershotgun": [
+									"glow_grad.vmt",
+									"glow_grad.vtf",
+									"hot.vmt",
+									"hot.vtf",
+									"scattershot_d.vtf",
+									"storm_spread_gun_energy_bar_default.vmt",
+									"storm_spread_gun_mainbody_default.vmt",
+									"storm_spread_gun_metal_default.vmt"
+								],
+								"fraghalo": [
+									"diff.vmt",
+									"diff.vtf"
+								],
+								"magnumh1": [
+									"magnum.vmt",
+									"magnum.vtf",
+									"magnum_bullet.vmt",
+									"magnum_bullet.vtf",
+									"magnum_luminous.vmt",
+									"magnum_luminous.vtf"
+								],
+								"magnumh2": [
+									"magnum.vmt",
+									"magnum.vtf"
+								],
+								"magnumh3": [
+									"magnum.vmt",
+									"magnum.vtf"
+								],
+								"magnumh4": [
+									"storm_magnum_diff.vmt",
+									"storm_magnum_diff.vtf"
+								],
+								"magnumhr": [
+									"magnum_diffuse.vmt",
+									"magnum_diffuse.vtf",
+									"magnum_illum.vmt",
+									"magnum_illum.vtf"
+								],
+								"magnumodst": [
+									"magnum.vmt",
+									"magnum.vtf",
+									"magnum_attachments.vmt",
+									"magnum_attachments.vtf"
+								],
+								"plasmareach": [
+									"gray_50_percent.vmt",
+									"gray_50_percent.vtf",
+									"plasma_bolt_a.vmt",
+									"plasma_bolt_a.vtf",
+									"plasma_launcher_holo.vmt",
+									"plasma_launcher_holo.vtf",
+									"plasma_repeater_diffuse.vmt",
+									"plasma_repeater_diffuse.vtf",
+									"plasma_repeater_gauge.vmt",
+									"plasma_repeater_gauge.vtf",
+									"plasma_repeater_normal.vtf",
+									"plasma_rifle_pilot_palette.vmt",
+									"plasma_rifle_pilot_palette.vtf"
+								],
+								"plasrifleh2": [
+									"prifle.vmt",
+									"prifle.vtf",
+									"prifle_vent.vmt",
+									"prifle_vent.vtf"
+								],
+								"plasrifleh3odst": [
+									"brute_plasma_rifle_diff.vmt",
+									"brute_plasma_rifle_diff.vtf"
+								],
+								"player": {
+									"ct_gaylo": [
+										"envmap.vmt",
+										"envmap.vtf",
+										"sag1.vmt",
+										"sag1.vtf",
+										"sag2.vmt",
+										"sag2.vtf",
+										"sag3.vmt",
+										"sag3.vtf",
+										"sage.vmt",
+										"sage.vtf",
+										"sage_normal.vtf",
+										"soria-env.vtf"
+									],
+									"ct_gaylo3": [
+										"SpartanNormalST.vtf",
+										"cobalt.vtf",
+										"commander.vtf",
+										"masterchief_bas3.vmt",
+										"masterchief_bas4.vmt",
+										"masterchief_bas5.vmt",
+										"masterchief_base.vmt",
+										"masterchief_base.vtf",
+										"tan.vtf",
+										"visor.vmt"
+									]
+								},
+								"saw": [
+									"back.vmt",
+									"back.vtf",
+									"decals.vmt",
+									"decals.vtf",
+									"meter_saw.vmt",
+									"meter_saw.vtf",
+									"saw diff.vmt",
+									"saw diff.vtf"
+								],
+								"shotgunh3": [
+									"light.vmt",
+									"light.vtf",
+									"shotgun.vmt",
+									"shotgun.vtf",
+									"shotgun_ejection_port.vmt",
+									"shotgun_ejection_port.vtf"
+								],
+								"smgh5": [
+									"halo-5-unsc-m20-pdw-submachine-gun-diff-texture.vmt",
+									"halo-5-unsc-m20-pdw-submachine-gun-diff-texture.vtf"
+								],
+								"smghalo3": [
+									"smg.vmt",
+									"smg.vtf"
+								],
+								"sniperh2": [
+									"sniper diff.vmt",
+									"sniper diff.vtf",
+									"sniper_rifle_screen.vmt",
+									"sniper_rifle_screen.vtf"
+								],
+								"sniperh5": [
+									"halo-5-unsc-srs99-s5-am-sniper-rifle-arrow-of-time-texture.vmt",
+									"halo-5-unsc-srs99-s5-am-sniper-rifle-arrow-of-time-texture.vtf",
+									"sniper display.vmt",
+									"sniper display.vtf",
+									"storm_sniper_rifle_lens_diff.vmt",
+									"storm_sniper_rifle_lens_diff.vtf"
+								],
+								"spartanarms": [
+									"spartan armor edit.vmt",
+									"spartan armor edit.vtf",
+									"spartan arms edit.vmt",
+									"spartan arms edit.vtf",
+									"spartan rubber suit edit.vmt",
+									"spartan rubber suit edit.vtf",
+									"spartan_forearm_shotgun_holder_emile_diffuse.vmt",
+									"spartan_forearm_shotgun_holder_emile_diffuse.vtf",
+									"spartan_rubber_detail.vmt",
+									"spartan_rubber_detail.vtf"
+								],
+								"spikerhrh3": [
+									"spike_rifle.vmt",
+									"spike_rifle.vtf"
+								]
+							},
+							"nature": [
+								"ROCKWALL006A.vmt",
+								"ROCKWALL006A.vtf",
+								"ROCKWALL009B.vmt",
+								"ROCKWALL009B.vtf",
+								"STONEWALL029A.vmt",
+								"STONEWALL029A.vtf",
+								"grassfloor003.vmt",
+								"grassfloor003.vtf"
+							],
+							"overlays": [
+								"scope_lens.vtf"
+							],
+							"sprites": [
+								"scope_arc.vmt",
+								"scope_arc.vtf"
+							],
+							"vgui": {
+								"gfx": {
+									"vgui": [
+										"ak47.vmt",
+										"ak47.vtf",
+										"aug.vmt",
+										"aug.vtf",
+										"awp.vmt",
+										"awp.vtf",
+										"defuser.vmt",
+										"defuser.vtf",
+										"deserteagle.vmt",
+										"deserteagle.vtf",
+										"elites.vmt",
+										"elites.vtf",
+										"famas.vmt",
+										"famas.vtf",
+										"fiveseven.vmt",
+										"fiveseven.vtf",
+										"flashbang.vmt",
+										"flashbang.vtf",
+										"g3sg1.vmt",
+										"g3sg1.vtf",
+										"galil.vmt",
+										"galil.vtf",
+										"glock18.vmt",
+										"glock18.vtf",
+										"hegrenade.vmt",
+										"hegrenade.vtf",
+										"kevlar.vmt",
+										"kevlar.vtf",
+										"kevlar_helmet.vmt",
+										"kevlar_helmet.vtf",
+										"m249.vmt",
+										"m249.vtf",
+										"m3.vmt",
+										"m3.vtf",
+										"m4a1.vmt",
+										"m4a1.vtf",
+										"mac10.vmt",
+										"mac10.vtf",
+										"mp5.vmt",
+										"mp5.vtf",
+										"nightvision.vmt",
+										"p228.vmt",
+										"p228.vtf",
+										"p90.vmt",
+										"p90.vtf",
+										"scout.vmt",
+										"scout.vtf",
+										"sg550.vmt",
+										"sg550.vtf",
+										"sg552.vmt",
+										"sg552.vtf",
+										"smokegrenade.vmt",
+										"smokegrenade.vtf",
+										"tmp.vmt",
+										"tmp.vtf",
+										"ump45.vmt",
+										"ump45.vtf",
+										"usp45.vmt",
+										"usp45.vtf",
+										"xm1014.vmt",
+										"xm1014.vtf"
+									]
+								},
+								"logos": [
+									"METAL.vmt",
+									"METAL.vtf",
+									"TILED FLOOR.vmt",
+									"TILED FLOOR.vtf",
+									"VINES.vmt",
+									"VINES.vtf",
+									"WALLS.vmt",
+									"WALLS.vtf"
+								]
+							}
+						},
+						"media": [
+							"valve.bik"
+						],
+						"models": {
+							"player": [
+								"ct_gign.dx80.vtx",
+								"ct_gign.dx90.vtx",
+								"ct_gign.mdl",
+								"ct_gign.phy",
+								"ct_gign.sw.vtx",
+								"ct_gign.vvd",
+								"ct_gign.xbox.vtx",
+								"ct_gsg9.dx80.vtx",
+								"ct_gsg9.dx90.vtx",
+								"ct_gsg9.mdl",
+								"ct_gsg9.phy",
+								"ct_gsg9.sw.vtx",
+								"ct_gsg9.vvd",
+								"ct_gsg9.xbox.vtx",
+								"ct_sas.dx80.vtx",
+								"ct_sas.dx90.vtx",
+								"ct_sas.mdl",
+								"ct_sas.phy",
+								"ct_sas.sw.vtx",
+								"ct_sas.vvd",
+								"ct_sas.xbox.vtx",
+								"ct_urban.dx80.vtx",
+								"ct_urban.dx90.vtx",
+								"ct_urban.mdl",
+								"ct_urban.phy",
+								"ct_urban.sw.vtx",
+								"ct_urban.vvd",
+								"ct_urban.xbox.vtx",
+								"t_arctic.dx80.vtx",
+								"t_arctic.dx90.vtx",
+								"t_arctic.mdl",
+								"t_arctic.phy",
+								"t_arctic.sw.vtx",
+								"t_arctic.vvd",
+								"t_arctic.xbox.vtx",
+								"t_guerilla.dx80.vtx",
+								"t_guerilla.dx90.vtx",
+								"t_guerilla.mdl",
+								"t_guerilla.phy",
+								"t_guerilla.sw.vtx",
+								"t_guerilla.vvd",
+								"t_guerilla.xbox.vtx",
+								"t_leet.dx80.vtx",
+								"t_leet.dx90.vtx",
+								"t_leet.mdl",
+								"t_leet.phy",
+								"t_leet.sw.vtx",
+								"t_leet.vvd",
+								"t_leet.xbox.vtx",
+								"t_phoenix.dx80.vtx",
+								"t_phoenix.dx90.vtx",
+								"t_phoenix.mdl",
+								"t_phoenix.phy",
+								"t_phoenix.sw.vtx",
+								"t_phoenix.vvd",
+								"t_phoenix.xbox.vtx"
+							],
+							"weapons": [
+								"v_c4.dx80.vtx",
+								"v_c4.dx90.vtx",
+								"v_c4.mdl",
+								"v_c4.sw.vtx",
+								"v_c4.vvd",
+								"v_eq_flashbang.dx80.vtx",
+								"v_eq_flashbang.dx90.vtx",
+								"v_eq_flashbang.mdl",
+								"v_eq_flashbang.sw.vtx",
+								"v_eq_flashbang.vvd",
+								"v_eq_fraggrenade.dx80.vtx",
+								"v_eq_fraggrenade.dx90.vtx",
+								"v_eq_fraggrenade.mdl",
+								"v_eq_fraggrenade.sw.vtx",
+								"v_eq_fraggrenade.vvd",
+								"v_eq_smokegrenade.dx80.vtx",
+								"v_eq_smokegrenade.dx90.vtx",
+								"v_eq_smokegrenade.mdl",
+								"v_eq_smokegrenade.sw.vtx",
+								"v_eq_smokegrenade.vvd",
+								"v_knife_t.dx80.vtx",
+								"v_knife_t.dx90.vtx",
+								"v_knife_t.mdl",
+								"v_knife_t.sw.vtx",
+								"v_knife_t.vvd",
+								"v_mach_m249para.dx80.vtx",
+								"v_mach_m249para.dx90.vtx",
+								"v_mach_m249para.mdl",
+								"v_mach_m249para.sw.vtx",
+								"v_mach_m249para.vvd",
+								"v_pist_deagle.dx80.vtx",
+								"v_pist_deagle.dx90.vtx",
+								"v_pist_deagle.mdl",
+								"v_pist_deagle.sw.vtx",
+								"v_pist_deagle.vvd",
+								"v_pist_elite.dx80.vtx",
+								"v_pist_elite.dx90.vtx",
+								"v_pist_elite.mdl",
+								"v_pist_elite.sw.vtx",
+								"v_pist_elite.vvd",
+								"v_pist_fiveseven.dx80.vtx",
+								"v_pist_fiveseven.dx90.vtx",
+								"v_pist_fiveseven.mdl",
+								"v_pist_fiveseven.sw.vtx",
+								"v_pist_fiveseven.vvd",
+								"v_pist_glock18.dx80.vtx",
+								"v_pist_glock18.dx90.vtx",
+								"v_pist_glock18.mdl",
+								"v_pist_glock18.sw.vtx",
+								"v_pist_glock18.vvd",
+								"v_pist_p228.dx80.vtx",
+								"v_pist_p228.dx90.vtx",
+								"v_pist_p228.mdl",
+								"v_pist_p228.sw.vtx",
+								"v_pist_p228.vvd",
+								"v_pist_usp.dx80.vtx",
+								"v_pist_usp.dx90.vtx",
+								"v_pist_usp.mdl",
+								"v_pist_usp.sw.vtx",
+								"v_pist_usp.vvd",
+								"v_rif_ak47.dx80.vtx",
+								"v_rif_ak47.dx90.vtx",
+								"v_rif_ak47.mdl",
+								"v_rif_ak47.sw.vtx",
+								"v_rif_ak47.vvd",
+								"v_rif_aug.dx80.vtx",
+								"v_rif_aug.dx90.vtx",
+								"v_rif_aug.mdl",
+								"v_rif_aug.sw.vtx",
+								"v_rif_aug.vvd",
+								"v_rif_famas.dx80.vtx",
+								"v_rif_famas.dx90.vtx",
+								"v_rif_famas.mdl",
+								"v_rif_famas.sw.vtx",
+								"v_rif_famas.vvd",
+								"v_rif_galil.dx80.vtx",
+								"v_rif_galil.dx90.vtx",
+								"v_rif_galil.mdl",
+								"v_rif_galil.sw.vtx",
+								"v_rif_galil.vvd",
+								"v_rif_m4a1.dx80.vtx",
+								"v_rif_m4a1.dx90.vtx",
+								"v_rif_m4a1.mdl",
+								"v_rif_m4a1.sw.vtx",
+								"v_rif_m4a1.vvd",
+								"v_rif_sg552.dx80.vtx",
+								"v_rif_sg552.dx90.vtx",
+								"v_rif_sg552.mdl",
+								"v_rif_sg552.sw.vtx",
+								"v_rif_sg552.vvd",
+								"v_shot_m3super90.dx80.vtx",
+								"v_shot_m3super90.dx90.vtx",
+								"v_shot_m3super90.mdl",
+								"v_shot_m3super90.sw.vtx",
+								"v_shot_m3super90.vvd",
+								"v_shot_xm1014.dx80.vtx",
+								"v_shot_xm1014.dx90.vtx",
+								"v_shot_xm1014.mdl",
+								"v_shot_xm1014.sw.vtx",
+								"v_shot_xm1014.vvd",
+								"v_smg_mac10.dx80.vtx",
+								"v_smg_mac10.dx90.vtx",
+								"v_smg_mac10.mdl",
+								"v_smg_mac10.sw.vtx",
+								"v_smg_mac10.vvd",
+								"v_smg_mp5.dx80.vtx",
+								"v_smg_mp5.dx90.vtx",
+								"v_smg_mp5.mdl",
+								"v_smg_mp5.sw.vtx",
+								"v_smg_mp5.vvd",
+								"v_smg_p90.dx80.vtx",
+								"v_smg_p90.dx90.vtx",
+								"v_smg_p90.mdl",
+								"v_smg_p90.sw.vtx",
+								"v_smg_p90.vvd",
+								"v_smg_tmp.dx80.vtx",
+								"v_smg_tmp.dx90.vtx",
+								"v_smg_tmp.mdl",
+								"v_smg_tmp.sw.vtx",
+								"v_smg_tmp.vvd",
+								"v_smg_ump45.dx80.vtx",
+								"v_smg_ump45.dx90.vtx",
+								"v_smg_ump45.mdl",
+								"v_smg_ump45.sw.vtx",
+								"v_smg_ump45.vvd",
+								"v_snip_awp.dx80.vtx",
+								"v_snip_awp.dx90.vtx",
+								"v_snip_awp.mdl",
+								"v_snip_awp.sw.vtx",
+								"v_snip_awp.vvd",
+								"v_snip_g3sg1.dx80.vtx",
+								"v_snip_g3sg1.dx90.vtx",
+								"v_snip_g3sg1.mdl",
+								"v_snip_g3sg1.sw.vtx",
+								"v_snip_g3sg1.vvd",
+								"v_snip_scout.dx80.vtx",
+								"v_snip_scout.dx90.vtx",
+								"v_snip_scout.mdl",
+								"v_snip_scout.sw.vtx",
+								"v_snip_scout.vvd",
+								"v_snip_sg550.dx80.vtx",
+								"v_snip_sg550.dx90.vtx",
+								"v_snip_sg550.mdl",
+								"v_snip_sg550.sw.vtx",
+								"v_snip_sg550.vvd"
+							]
+						},
+						"resource": [
+							"cstrike_english.txt"
+						],
+						"scripts": [
+							"game_sounds_manifest.txt",
+							"halo_sounds.txt",
+							"weapon_famas.txt",
+							"weapon_galil.txt",
+							"weapon_knife.txt",
+							"weapon_m249.txt"
+						],
+						"sound": {
+							"0": "sound.cache",
+							"bomb": [
+								"plant.wav",
+								"planting.wav"
+							],
+							"bot": [
+								"bombs_on_the_ground.wav",
+								"bombs_on_the_ground_here.wav"
+							],
+							"br55": [
+								"1.wav",
+								"2.wav",
+								"3.wav",
+								"draw.wav",
+								"reload.wav"
+							],
+							"carbine": [
+								"1.wav",
+								"2.wav",
+								"draw.wav",
+								"reload.wav"
+							],
+							"dmr": [
+								"draw1.wav",
+								"draw2.wav",
+								"reload1.wav",
+								"reload2.wav",
+								"reloadempty1.wav",
+								"reloadempty2.wav",
+								"shoot1.wav",
+								"shoot2.wav"
+							],
+							"m20": [
+								"1.wav",
+								"2.wav",
+								"draw1.wav",
+								"draw2.wav",
+								"reload.wav"
+							],
+							"m6a": [
+								"1.wav",
+								"2.wav",
+								"3.wav",
+								"draw.wav",
+								"reload.wav",
+								"reload2.wav"
+							],
+							"m6d": [
+								"draw.wav",
+								"posing.wav",
+								"reload.wav"
+							],
+							"m6g": [
+								"1.wav",
+								"2.wav",
+								"3.wav",
+								"4.wav",
+								"draw.wav",
+								"reload.wav"
+							],
+							"m6h": [
+								"draw.wav",
+								"reload.wav"
+							],
+							"m6h2": [
+								"1.wav",
+								"2.wav",
+								"3.wav"
+							],
+							"ma5b": [
+								"draw.wav",
+								"reload.wav"
+							],
+							"ma5c": [
+								"1.wav",
+								"2.wav",
+								"3.wav",
+								"draw1.wav",
+								"draw2.wav",
+								"reload1.wav",
+								"reload2.wav"
+							],
+							"ma5d": [
+								"14.wav",
+								"24.wav",
+								"34.wav",
+								"drawh41.wav",
+								"drawh42.wav",
+								"drawh51.wav",
+								"drawh52.wav",
+								"melee1.wav",
+								"melee2.wav",
+								"reloadempty1.wav",
+								"reloadempty2.wav",
+								"reloademptyh5.wav",
+								"reloadh41.wav",
+								"reloadh42.wav",
+								"reloadh51.wav",
+								"reloadh52.wav"
+							],
+							"nade": [
+								"pin.wav",
+								"throw.wav"
+							],
+							"odst": [
+								"draw.wav",
+								"melee.wav",
+								"reload.wav"
+							],
+							"plasmareach": [
+								"1.wav",
+								"2.wav",
+								"draw1.wav",
+								"draw2.wav",
+								"overheat.wav",
+								"pose1.wav",
+								"pose2.wav"
+							],
+							"player": [
+								"bhit_helmet1.wav",
+								"damage1.wav",
+								"damage2.wav",
+								"damage3.wav",
+								"death1.wav",
+								"death2.wav",
+								"death3.wav",
+								"death4.wav",
+								"death5.wav",
+								"death6.wav",
+								"headshot1.wav",
+								"headshot2.wav",
+								"kevlar1.wav",
+								"kevlar2.wav",
+								"kevlar3.wav",
+								"kevlar4.wav",
+								"kevlar5.wav"
+							],
+							"prifleh2": [
+								"draw.wav",
+								"overheat.wav"
+							],
+							"prifleodst": [
+								"draw.wav",
+								"overheat.wav"
+							],
+							"radio": [
+								"bombdef.wav",
+								"bombpl.wav",
+								"com_go.wav",
+								"ct_fireinhole.wav",
+								"ctwin.wav",
+								"go.wav",
+								"letsgo.wav",
+								"locknload.wav",
+								"moveout.wav",
+								"rounddraw.wav",
+								"terwin.wav"
+							],
+							"saw": [
+								"1.wav",
+								"2.wav",
+								"3.wav",
+								"draw.wav",
+								"reload1.wav",
+								"reload2.wav"
+							],
+							"scattershot": [
+								"draw.wav",
+								"finish.wav",
+								"insert.wav",
+								"start.wav"
+							],
+							"shotgun": [
+								"1.wav",
+								"2.wav",
+								"3.wav",
+								"draw.wav",
+								"insert.wav"
+							],
+							"smg": [
+								"1.wav",
+								"2.wav",
+								"draw1.wav",
+								"draw2.wav",
+								"draw3.wav",
+								"reload1.wav",
+								"reload2.wav",
+								"reload3.wav"
+							],
+							"spiker": [
+								"draw.wav",
+								"posing.wav",
+								"reload.wav"
+							],
+							"srsc99h2": [
+								"draw.wav",
+								"reload.wav"
+							],
+							"srsc99h5": [
+								"draw1.wav",
+								"draw2.wav",
+								"reload.wav",
+								"sling.wav"
+							],
+							"ui": [
+								"gamestartup.mp3"
+							],
+							"weapons": {
+								"0": "zoom.wav",
+								"ak47": [
+									"ak47-1.wav"
+								],
+								"aug": [
+									"aug-1.wav"
+								],
+								"awp": [
+									"awp1.wav"
+								],
+								"deagle": [
+									"deagle-1.wav"
+								],
+								"elite": [
+									"elite-1.wav"
+								],
+								"famas": [
+									"famas-1.wav"
+								],
+								"fiveseven": [
+									"fiveseven-1.wav"
+								],
+								"flashbang": [
+									"flashbang_explode1.wav",
+									"flashbang_explode2.wav"
+								],
+								"g3sg1": [
+									"g3sg1-1.wav"
+								],
+								"galil": [
+									"galil-1.wav"
+								],
+								"glock": [
+									"glock18-1.wav"
+								],
+								"hegrenade": [
+									"explode3.wav",
+									"explode4.wav",
+									"explode5.wav",
+									"he_bounce-1.wav"
+								],
+								"knife": [
+									"knife_deploy1.wav",
+									"knife_hit1.wav",
+									"knife_hit2.wav",
+									"knife_hit3.wav",
+									"knife_hit4.wav",
+									"knife_hitwall1.wav",
+									"knife_slash1.wav",
+									"knife_slash2.wav",
+									"knife_stab.wav"
+								],
+								"m249": [
+									"m249-1.wav"
+								],
+								"m3": [
+									"m3-1.wav"
+								],
+								"m4a1": [
+									"m4a1-1.wav",
+									"m4a1_unsil-1.wav"
+								],
+								"mac10": [
+									"mac10-1.wav"
+								],
+								"mp5navy": [
+									"mp5-1.wav"
+								],
+								"p228": [
+									"p228-1.wav",
+									"p228-2.wav",
+									"p228-3.wav"
+								],
+								"p90": [
+									"p90-1.wav"
+								],
+								"scout": [
+									"scout_fire-1.wav"
+								],
+								"sg550": [
+									"sg550-1.wav"
+								],
+								"sg552": [
+									"sg552-1.wav"
+								],
+								"smokegrenade": [
+									"sg_explode.wav"
+								],
+								"tmp": [
+									"tmp-1.wav"
+								],
+								"ump45": [
+									"ump45-1.wav"
+								],
+								"usp": [
+									"usp1.wav",
+									"usp_unsil-1.wav"
+								],
+								"xm1014": [
+									"xm1014-1.wav",
+									"xm1014_insertshell.wav"
+								]
+							}
+						}
+					}
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 364163,
+			"_nDownloadCount": 945,
+			"_nFilesize": 277167075,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "Mod",
+			"_sDownloadUrl": "https://gamebanana.com/dl/364163",
+			"_sFile": "halo-strike3.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1511366689
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "Almost forgot lol, to install the mod Extract the zip file then drag and drop the folder \"halo-strike3\" into your \"cstrike/custom\" directory and boom installed"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "INSTALLATION INSTRUCTIONS",
+			"_tsDateAdded": 1511367111
+		}
+	],
+	"_idRow": 34723,
+	"_sName": "Halo-Strike V3 [FINAL]",
+	"_sText": "Hello everyone this is a Mod I created for Counter-Strike Source, using Bungie game files and other uploads, which I DID CREDIT I was able to put this together Please leave a comment and tell me how I did, it would be highly appreciated. I really don't want this getting trashed so again I will credit everyone who was involved.<br><br>Anyway that's really about it, hope you enjoy!!<br><b><br>ALSO MY VPK.EXE WOULD NOT WORK, SO THIS IS IN SUBFOLDER FORMAT!!!! PLEASE DONT COMPLAIN!!!!</b><br><br>Here is a demo of the mod<br><br><a href=\"https://www.youtube.com/watch?v=0Z-T9MLuC84\" class=\"linkified\" target=\"_blank\">https://www.youtube.com/watch?v=0Z-T9MLuC84</a>"
+}

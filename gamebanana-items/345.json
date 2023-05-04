@@ -1,0 +1,48 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "test_video_white_heart_baegku.bsp",
+					"files": {
+						"cstrike": {
+							"materials": {
+								"white_heart_baekgu_introgame_test": [
+									"about.vmt",
+									"about.vtf",
+									"test_video.vtf",
+									"test_video_autoanimate_mmc.vmt"
+								]
+							},
+							"sound": {
+								"white_heart_baekgu_introgame_test": [
+									"white_heart_baekgu_intro_ADPCM.wav"
+								]
+							}
+						},
+						"mapfile": [
+							"video_test.vmf"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 43788,
+			"_nDownloadCount": 424,
+			"_nFilesize": 31124460,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/43788",
+			"_sFile": "test_video_white_heart_baegku_every.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1374165170
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 345,
+	"_sName": "Video Demo in Source Engine",
+	"_sText": "Link to the video: [Click here...](http://youtu.be/kEiENuyb1v8 \"\")\r\n\r\nVideo Demo in Source Engine\r\n==================\r\ntest_ video_ white_ heart_ baegku\r\n-----------------------------\r\n### nkp123/nkpkiller\r\n\r\n### General\r\nThis is my own experiment - playing movies in map in Source Engine.\r\nAudio quality is good - just ADPCM-compressed, 44KHz, Mono audio.\r\nVideo quality is acceptable for ingame purposes - 128x128 30FPS.\r\nIt is possible to increase resolution - tested up to 512x512, but note: 100 seconds of 128x128 (30FPS) movie takes 24MB - 256x256 will take 4 times more space! (and Source Engine has limitation of max texture filesize [100 second of 256x256 texture (also 30FPS) fails to load ingame].\r\nIt is also possible to compress compiled mapfile with video - according to type of compressed video (more dynamic, more static) you can achieve up to 50% ZIP compression (in my video it is 44%, compressed with 7zip it is about 60%).\r\n\r\n### Where can you use idea of movie in map?\r\nGenerally as a short, looped video played in some nice screen.\r\n\r\n### Technical summary:\r\n- Audio: WAV ADPCM, 44KHz, Mono (176kbit/s)\r\n- Video: VTF/DXT1, 128x128 (~2000kbit/s)\r\n- Potentially additional audio compression according to format - WAV PCM: moderate; WAV ADPCM: low; MP3: very low.\r\n- Potentially video compression according to type - the video is more static, the compression is better (but generally from 20% to 60%).\r\n\t\r\n### How video player is done?\r\n- First, you must create animate VTF file - you can convert existing video file to bitmap format (for example using FFmpeg) and then load it to VTFEdit. Then save it as DXT1 without mipmaps (they will increase texture size by about 40% !)\r\n- Then you must create material file. Example file using 30FPS:\r\n\r\n\t\t\"MonitorScreen\"\r\n\t\t{\r\n \t\t\t\"$basetexture\" \"white_heart_baekgu_introgame_test\\test_video\"\r\n \t\t\"$surfaceprop\" \"Glass\"\r\n \t\r\n \t\t\"Proxies\"\r\n \t\t{\r\n             \t  \"AnimatedTexture\"\r\n               \t{\r\n \t\t\"animatedTextureVar\" \"$basetexture\"\r\n \t\t\"animatedTextureFrameNumVar\" \"$frame\"\r\n \t\t\"animatedTextureFrameRate\" \"30\"\r\n               }\r\n \t\t\r\n               \"MaterialModifyAnimated\"\r\n               {\r\n                 \"animatedtexturevar\" \"$basetexture\"\r\n                 \"animatedtextureframenumvar\" \"$frame\"\r\n                 \"animatedtextureframerate\" 30\r\n               }\r\n      \t}\r\n \t\t}\r\n\r\n\"animatedtextureframerate\" 30 - here you should define valid FPS value, but it can be also modified with output in Hammer.\r\nNOTE: As far as I remember, in this case \"AnimatedTexture\" proxy is not needed, but I have forgotten to remove it.\r\n\r\n- Then make in Hammer func_ brush (and name them) and one side of them change to our material file.\r\n- Next, place material_ modify_ control, name it and make parented them to our brush.\r\n- Change \"material to modify\" variable to our material location (with filename).\r\n- Then place logic_ auto and add output: \"OnMapSpawn\" -> \"StartAnimSequence\" for our material_ modify_ control target with parameter: \"0 -1 30 0\". 0 means start frame; -1 means last frame (it can be any valid frame less than start value); 30 means FPS; 0 means don't loop.\r\n- You can also place ambient_ generic and make them play music when round starts.\r\n\r\n### Summary:\r\nI hope I have explained everything... Have fun with experimenting!"
+}

@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"prefab_jail_weapons.bsp",
+					"prefab_jail_weapons.vmf"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 45231,
+			"_nDownloadCount": 847,
+			"_nFilesize": 13355,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/45231",
+			"_sFile": "prefab_9.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1385313190
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 3070,
+	"_sName": "Non-Lag Weapon Spawner",
+	"_sText": "- Hai guys, I have seen many JailBreak maps with weapon spawning armory, but many of those you can abuse by \"infinite\" weapon spawning which lags server, some mappers have it solved by adding logic_counter to limit the spawn.\r\n- The weapon spawner needs 3 Entities to work: \r\n  1. weapon_gun (the actuall gun)\r\n  2. game_weapon-manager (limits the amount of weapons in level)\r\n  3. point_template (spawns the gun)\r\n- How it works? It's simple, after you pick up the gun, next one spawns, when you try to drop many of them after some limit they will disappear.\r\n\r\n- Game_weapon\\_manager should NOT delete hand placed weapons.\r\n\r\n- Hope this have helped you and don't be mad at me if you already knew this."
+}

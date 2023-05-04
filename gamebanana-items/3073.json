@@ -1,0 +1,44 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrike": {
+						"maps": [
+							"mouse_aimed_plasmagun.bsp",
+							"mouse_aimed_plasmagun.vmf",
+							"mouse_aimed_plasmagun_particles.txt"
+						],
+						"materials": {
+							"syntox": [
+								"projectile_sprite.vmt",
+								"projectile_sprite.vtf"
+							]
+						},
+						"particles": [
+							"aimed_projectile.pcf"
+						]
+					}
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 44784,
+			"_nDownloadCount": 995,
+			"_nFilesize": 44449,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/44784",
+			"_sFile": "mouse_aimed_plasma_gun_2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1436990722
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 3073,
+	"_sName": "Mouse Aimed Plasma Gun",
+	"_sText": "<ul><li>The projectile will kill the player. (Can be disabled) </li><li>Weapon Pick Up and Drop Sound </li><li>Shoot Sound </li><li>Hit Sound </li><li>Explosion Sound </li><li>Explosion Effect</li><li>Explosion pushes you away </li><li>Ingame GUI Information (how to use the gun, [when you pick up the gun] )</li></ul>\r\n\r\n<br><h1>Video:</h1><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/g8Mo5SREEIA\" frameborder=\"0\" allowfullscreen=\"\"></iframe><br><br>Please give some Feedback  =)"
+}

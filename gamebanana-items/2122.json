@@ -1,0 +1,30 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"env_fade_prefab": [
+						"env_fade_prefab.vmf"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 45136,
+			"_nDownloadCount": 264,
+			"_nFilesize": 2697,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/45136",
+			"_sFile": "env_fade_prefab.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1392312403
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2122,
+	"_sName": "env_fade Prefab",
+	"_sText": "This prefab shows the usage of the entity env_fade.\r\n\r\nWhat does this entity?\r\n----------------------\r\n\r\n\r\nThis entity blocks the players view and fades to a colour you wish.\r\n\r\n\r\nIn this prefab I show how to use this entity and timed it perfectly for that geometry.\r\nIf you want to build something like this in your map, be carefull and adjust the time settings.\r\n\r\nI think it's pretty selfexplaining, but if you got some questions, feel free to ask.\r\n\r\n\r\nDotty\r\n\r\n\r\nValve Developer Wiki: [CLICK ME](https://developer.valvesoftware.com/wiki/Env_fade \"https://developer.valvesoftware.com/wiki/Env_fade\")"
+}

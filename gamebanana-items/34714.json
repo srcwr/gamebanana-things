@@ -1,0 +1,69 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "Original Link.txt",
+					"1": "Update.txt",
+					"Cstrike": {
+						"Addons": {
+							"SourceMod": {
+								"Plugins": {
+									"Customs": [
+										"First_Person_Death.smx"
+									]
+								},
+								"Scripting": [
+									"First_Person_Death.sp"
+								]
+							}
+						},
+						"CFG": {
+							"SourceMod": [
+								"FPD.cfg"
+							]
+						}
+					}
+				},
+				"_sMimeType": "application/x-7z-compressed"
+			},
+			"_bContainsExe": false,
+			"_idRow": 370443,
+			"_nDownloadCount": 1293,
+			"_nFilesize": 11847,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "Updated!",
+			"_sDownloadUrl": "https://gamebanana.com/dl/370443",
+			"_sFile": "fpd_611ee.7z",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1516907664
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Added a .cfg (seperate) for Configured CVars."
+				},
+				{
+					"cat": "Improvement",
+					"text": "Disabled \"Freeze_Cam\" via the .cfg"
+				},
+				{
+					"cat": "Addition",
+					"text": "Included source (.sp)"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Help for n00bs",
+			"_tsDateAdded": 1516907785
+		}
+	],
+	"_idRow": 34714,
+	"_sName": "FPD! First Person Death!",
+	"_sText": "A Simple yet Amazing Plugin By eun (At <a href=\"http://alliedmoders.net\" class=\"linkified\" target=\"_blank\">AlliedModers.net</a>)<br><br>Which makes your Death look trough First Person!<br><br>It just puts the Cam on the Eyes position of the Player Model with yet Physics in them..Just like in BM:S..<br><br>Redistributed Up Request..<br><br><br><span class=\"GreenColor\">Update :</span><br><br>Added source, Configurable CVars as a seperate .cfg, disabled Freeze_cam (Via .cfg)<br><br>Just put <code>exec SourceMod\\FPD.cfg</code><br>to either AutoExec.cfg or Sourcemod.cfg<br><br>Check out the Video : (You'll understand Better)<br><br><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/RRXaVK6EdyM\" frameborder=\"0\" allowfullscreen=\"\"></iframe>"
+}

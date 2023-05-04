@@ -1,0 +1,41 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "PREFAB_4DIGIT_SYSTEM.png",
+					"1": "PREFAB_4DIGIT_SYSTEM.txt",
+					"2": "PREFAB_4DIGIT_SYSTEM.vmf",
+					"cstrike": {
+						"maps": [
+							"PREFAB_4DIGIT_SYSTEM.bsp"
+						],
+						"materials": {
+							"mapas_teste": [
+								"SISTEMA_DE_CODIGO.vmt",
+								"SISTEMA_DE_CODIGO.vtf"
+							]
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 46216,
+			"_nDownloadCount": 743,
+			"_nFilesize": 1002084,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/46216",
+			"_sFile": "prefab_4digit_system.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1290731915
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 1980,
+	"_sName": "4 Digit Code System",
+	"_sText": "REASON:\r\nI created a similar code system long time ago but never published it because its operational system was really rude a resource consuming.\r\nI improved that version into this one that operates solo on mathematical operations and logic entities, not using doors as transistors as the old one did.\r\n\r\nDESCRIPTION:\r\nPrefab room with a code system that allows random code generation or user input and display's it on a display screen.\r\nHas a 9 digit keypad to set the code or input one for verification that displays the result of it.\r\nAlso the display has counter functionality with adding and subtraction capability.\r\nCan be used to implement some dynamic functionality over rounds on CSS maps.\r\n\r\nVideo:\r\n<object width=\"640\" height=\"385\"><param name=\"movie\" value=\"http://www.youtube.com/v/d4vYpuCB9Gc?fs=1&amp;hl=pt_PT\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://www.youtube.com/v/d4vYpuCB9Gc?fs=1&amp;hl=pt_PT\" type=\"application/x-shockwave-flash\" allowscriptaccess=\"always\" allowfullscreen=\"true\" width=\"640\" height=\"385\"></embed></object>"
+}

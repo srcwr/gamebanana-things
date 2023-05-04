@@ -1,0 +1,61 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_mirage_rc1.nav"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 480710,
+			"_nDownloadCount": 651,
+			"_nFilesize": 81441,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "(version 1.1)",
+			"_sDownloadUrl": "https://gamebanana.com/dl/480710",
+			"_sFile": "de_mirage_rc1_nav_59ae2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1597597561
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Adjustment",
+					"text": "Split off a particulary remote part of \"Front Yard\" near A as \"Back\""
+				},
+				{
+					"cat": "Improvement",
+					"text": "Improved the T-Apps house entrance crate... bots can still get stuck there if they clutter, unfortunately, but they don't seem to get stuck alone anymore"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added jump connection for the \"truck\" into \"Upstairs\" Apartment balcony near B (getting them to access top crate through the back particularly was a problem)"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed an issue where a connection went through the fence on T-Spawn and bots would get stuck"
+				},
+				{
+					"cat": "Addition",
+					"text": "Made a bunch of crate tops accessible, mostly on/near bombsites"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Removed jumpability around several stairs"
+				}
+			],
+			"_sText": "What definitely doesn't work yet: Accessing the roof near T-Spawn at all. From the crates near the T-Spawn fence, I can't connect just the edge that you would actually want to jump towards (so tehy always fall down into a gap), from the other crates in \"Alley\" towards A, I can't connect it at all even though the jump is easier. As a workaround, I marked all the roof tiles as \"avoid\". :/<br>",
+			"_sTitle": "1.1",
+			"_tsDateAdded": 1597597491
+		}
+	],
+	"_idRow": 34943,
+	"_sName": "de_mirage_rc1.nav",
+	"_sText": "A nav for the pre-desertification, non-de_cpl_strike-style-B-site source version of Mirage, <a href=\"https://gamebanana.com/maps/167699\">de_mirage_rc1</a> (not sure why \"rc1\"), since oddly, there is none for it.<br><br>[state of v1.0]: This is auto generated with some fixes (inaccessible areas, ladders, stairs, oversized areas, that boarded window at B) and place names added, mostly oriented off a 1.6/CZ CSGO-design backport version; some less commonly used things's functionality might still be bad. One particularly dumb crate near T-Apps (\"SideHall\") has been a real pain, and they still jump oddly there sometimes but it usually seems to work now. I've also seen some inexplicable bot deaths (skull icon) mostly on T-side while testing, but that may have been due to crowding (as I tested 15vs15 just in hopes somebody of them would go certain places)?<br><br>\"Truck\" and \"Dumpster\" might be a bit contrived since they refer to things that are just crates in this version, and I've put \"Kitchen\" into the actual kitchen, not \"Market\" which is neither really a market (nor a kitchen) either but had that name before.<br>"
+}

@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"afb_fixed.vmf"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 46015,
+			"_nDownloadCount": 562,
+			"_nFilesize": 851,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/46015",
+			"_sFile": "_184-.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1308734922
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2010,
+	"_sName": "antiflashboost_fixed",
+	"_sText": "i noticed that even with previous small player speed change (required to activate this entity) had impact on bhop and sky. thats why i made this quick fix that will activate attack supressing without changing speed of player. problem wasnt that bad but it was rather annoying anyways^__^"
+}

@@ -1,0 +1,30 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"README.txt",
+					"prefab_invisible_granades.vmf",
+					"prefab_invisible_granades.vmx"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 45500,
+			"_nDownloadCount": 418,
+			"_nFilesize": 2906,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/45500",
+			"_sFile": "prefab_invisiblenades.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1358091717
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 3067,
+	"_sName": "Invisible making nades",
+	"_sText": "This Nades will make you half invisible , but you can change it to complete invisible or 1/4 invisible by changing the output:\r\n\r\n(...)With a parameter override of: 0-255\r\n\r\n0 means complete invisible 255 means normal visible\r\n\r\n-------------------------------------------------------------------------------------------\r\nAfter you throw/use the nades you will still be invisible but you can change this too by adding this Output:\r\n\r\nMy Output named:              OnPlayerUse\r\n\r\nTarget Entities named:        !activator\r\n\r\nVia this input:               alpha\r\n\r\nwith a parameter override of: 255"
+}

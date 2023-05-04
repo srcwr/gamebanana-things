@@ -1,0 +1,51 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "wheelrender.jpg",
+					"materials": {
+						"models": {
+							"dlt": {
+								"wheel": [
+									"wheel_face.vmt",
+									"wheel_face.vtf"
+								]
+							}
+						}
+					},
+					"models": {
+						"dlt": {
+							"wheel": [
+								"model.dx80.vtx",
+								"model.dx90.vtx",
+								"model.mdl",
+								"model.phy",
+								"model.sw.vtx",
+								"model.vvd",
+								"model.xbox.vtx"
+							]
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 46345,
+			"_nDownloadCount": 361,
+			"_nFilesize": 252294,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/46345",
+			"_sFile": "wheel_for_source.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1281256929
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2710,
+	"_sName": "Wheel",
+	"_sText": "This wheel may be used for creating a vehicle, i'm made this in 3ds max."
+}

@@ -1,0 +1,40 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "How to install.txt",
+					"cstrike": {
+						"maps": [
+							"prefab_escalators_by_unreal_001.bsp",
+							"prefab_escalators_by_unreal_001.vmf"
+						],
+						"materials": {
+							"scrollingtexture": [
+								"rubberfloor.vmt",
+								"rubberfloor.vtf"
+							]
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 45905,
+			"_nDownloadCount": 1929,
+			"_nFilesize": 241308,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/45905",
+			"_sFile": "escalators_prefab_created_by_unreal.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1321471391
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2841,
+	"_sName": "Working Escalators Prefab",
+	"_sText": "**Fully Working Escalators** created by UNREAL\r\n\r\nI'm kinda bored and lacking inspiration to map lately, so I made these as a self-challenge and to pass my free-time.\r\n\r\nAnyway, I hope you enjoy these. The pack includes two diferent styles, flat ones and ones with steps. Of course the steps are more complex but I decided to include both in the same. I think they are kinda needed, as I don't see many on any maps, maybe because of its complexity? I don't know.\r\n\r\nBoth styles include bottom to top and top to bottom so you don't have to change anything besides the trigger push direction.\r\n\r\n**IMPORTANT ADVICE:**\r\n\r\n- If you plan on using many of the same ones, you should first \"Special-paste\" on Hammer and add a prefix to the copied one, so entities don't mess up with each other.\r\n- Also, remember to keep the \"tool/invisible\" covering the steps or else SOMETHING TERRIBLE WILL HAPPEN.\r\n- I edited a default texture to make it scroll, If you want to change the texture its up to you to edit the VMF, currently the material file looks like this:\r\n\r\n\r\n\"TextureScroll\"\r\n\r\n\r\n\t{\r\n\r\n\t\"Texturescrollvar\" \"$Basetexturetransform\"\r\n\r\n\t\"Texturescrollrate\" \"1\" // Sets the speed\r\n\r\n\t\"Texturescrollangle\" \"90\" // Sets the angle\r\n\r\n\t}\r\n\r\n\r\n- If you rotate them, don't forget to set the push direction.\r\n\r\nIf you use them a simple thank will do.\r\n\r\n<div align=\"center\"><img src=\"http://img844.imageshack.us/img844/68/subcolorfull3.png\"></div>"
+}

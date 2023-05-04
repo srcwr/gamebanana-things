@@ -1,0 +1,35 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"advanced timer": [
+						"advanced_and_improved_timer.bsp",
+						"advanced_and_improved_timer.vmf",
+						"advanced_and_improved_timer0000.jpg",
+						"advanced_and_improved_timer0002.jpg",
+						"advanced_and_improved_timer0003.jpg",
+						"advanced_and_improved_timer0008.jpg"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 46479,
+			"_nDownloadCount": 358,
+			"_nFilesize": 483566,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/46479",
+			"_sFile": "advanced_timer.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1269050620
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 1921,
+	"_sName": "Advanced and improved timer",
+	"_sText": "The first version of this prefab was created by Fibbs, the second by vince. and the third by me.\r\n\r\n\r\nStory:\r\n\r\nI was really inspirated by the visual timer by Fibbs and the improved timer by vince., so I decided to make an advanced version of Fibbs´s and vince.´s timer.\r\nThe timer works like vince.´s improved timer, but I added some features:\r\n\r\n(Features:)\r\n\r\n-Another control panel to set the time limit of the timer (with an output (test_output1))\r\n-Another screen with the information about its state (active or inactive)\r\n-An alert light with alarm (for more effects :D)\r\n-A test output (a door, which is closing when the timer finishes)\r\n\r\nYou can choose the time limit of the timer!\r\n\r\nIntroductions to use the timer correctly:\r\n\r\n-Press both reset buttons (first the big one near the start and stop button, then the little one near the set button)\r\n-Choose your time limit with the \"+\" and the \"-\" buttons (with \"+\" you can add 60 seconds, with \"-\" you can remove 60 seconds)\r\n-Press set to set the time limit (this will unlock the big start button)\r\n-Press \"Start\" to start the timer or \"Stop\" to stop the timer\r\n(-Press both reset buttons again to get a new time limit)\r\n\r\nEnjoy :D!\r\n\r\nIf you want to use this prefab:\r\n\r\nPlease credit Fibbs, vince. and me if you use this timer in your map or edit this!\r\n\r\nSpecial thanks to:\r\n\r\n-Fibbs -for his great first version and the original idea! :D-\r\n-vince. -for his good improved timer!-\r\n\r\n(Some more information...\r\n\r\nI had to use six math_counter to get the limit chooser working, I tried this with three but that didn´t work anyhow.)\r\n\r\n!Important!\r\n\r\nIf you got trouble with the alertlight object I created I can upload another version with a CSS prop light instead of a point_spotlight!\r\n\r\nPlease give some feedback!"
+}

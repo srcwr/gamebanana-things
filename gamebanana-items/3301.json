@@ -1,0 +1,43 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"Searchlight prefab": {
+						"Steam": {
+							"Steamapps": {
+								"common": {
+									"Counter-Strike Source": {
+										"bin": {
+											"Prefabs": [
+												"Mouse controlled, usable, searchlight.vmf"
+											]
+										}
+									}
+								}
+							}
+						}
+					}
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 448418,
+			"_nDownloadCount": 31,
+			"_nFilesize": 2695,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/448418",
+			"_sFile": "searchlight_prefab.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1581280116
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 3301,
+	"_sName": "Mouse controlled searchlight for your ZE/JB needs",
+	"_sText": "After some messing around I managed to create a mouse controlled searchlight that you can turn on/off with a button and control with your mouse. It was tedious but i did it...&nbsp;<br><br>You can attach the base of the light to any object... even a train, because it uses a parent system....<br>Just imagine.... in a ze map you have a dark map with a train that has a searchlight :D<br><br>Hope it's useful. If it has any bugs.... please let me know.&nbsp;<br><br><br><br>"
+}

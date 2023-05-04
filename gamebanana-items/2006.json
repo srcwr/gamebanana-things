@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"README.txt",
+					"music_scouts.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 46066,
+			"_nDownloadCount": 369,
+			"_nFilesize": 5357460,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/46066",
+			"_sFile": "_121-.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1304027046
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2006,
+	"_sName": "Music Playing Scouts",
+	"_sText": "This is an idea I had for players to have music that was always with them but able to turn on / off at any time. The music plays when the scout is picked up and only plays for the client rather than anyone in range.  \r\n\r\nThere are a few bugs that i know of\r\n1. There are certain situations where the music does not shut off when the scout is dropped...doesn't happen often. Music can always be turned off manually by typing \"play <insert anything here>\" in console.\r\n2. If you touch another music scout while holding one...the other song will play.\r\n\r\nWhatever music you choose to have in your map...must be added to the .bsp or come with the rar and added manually to the cstrike folder by the player.\r\n\r\nThis is a work in progress and if anyone thinks they can improve on it...feel free, just credit me for the original idea.\r\n\r\nEnjoy! -NumB"
+}

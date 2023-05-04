@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"cs_backalley2.nav",
+					"readme.txt"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 678,
+			"_nDownloadCount": 219,
+			"_nFilesize": 122793,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/678",
+			"_sFile": "cs_backalley2_newnav.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1487422785
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 34911,
+	"_sName": "Reworked NAV File for Map CS_BACKALLEY2",
+	"_sText": "This is a reworked NAV file for <b>cs_backalley2 </b>brought to you by <i>BigDog</i>. You can find the map here: <a href=\"http://gamebanana.com/maps/5626\">MAP</a><br><br>The autogenerted NAV file that came with the map was horrible and I felt I had to do this awesome remake justice by adding what was missing from it to make for a decent experience with NPC players.<br><br>The navigation mesh is fully place painted as usual according to the names of locations taken right from the classic <b>cs_backalley</b> for CS 1.6/CZ.<br><br>Note: at first bots may seem silent, but that tends to happen on maps with no radar. Don't worry- they're using names of locations just fine. Also sometimes bots might get stuck in vents, because they're dumb :D . I did all I could to minimize that, while keeping those vents usable by them, as it was in the original map."
+}

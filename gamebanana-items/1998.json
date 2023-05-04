@@ -1,0 +1,38 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "magicanswerer.vmf",
+					"materials": {
+						"waffles": [
+							"maybe.vmt",
+							"maybe.vtf",
+							"no.vmt",
+							"no.vtf",
+							"yes.vmt",
+							"yes.vtf"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 46125,
+			"_nDownloadCount": 424,
+			"_nFilesize": 28641,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/46125",
+			"_sFile": "_45-.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1299596323
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 1998,
+	"_sName": "Magic Answerer",
+	"_sText": "**A magic Answerer.**\nAsk a question, click the button and this magic device will answer your questions!\n\n\nRead this:\nThe materials are in the .zip, these are the func-brushes, Make sure to add these to your cstrike folder.\nIf you'd liked to add more posibilites, make a func-brush with your texture and add it to the logic-case named randomshit by doing this on the output list:\n- OnCase# \nYour func-Brush name\nEnable\n+\nOnCase#\nYour func-Brush name\nEnable\nDelay 4.00"
+}

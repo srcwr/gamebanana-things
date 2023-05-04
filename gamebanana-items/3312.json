@@ -1,0 +1,69 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "Readme.txt",
+					"1": "futbolin.vmf",
+					"materials": {
+						"RealWorldTextures": {
+							"newer": {
+								"2": [
+									"wood_2_03.vmt"
+								],
+								"3": [
+									"wood_2_03.vtf"
+								],
+								"4": [
+									"wood_2_03_spec.vtf"
+								]
+							}
+						},
+						"eNnerGy": [
+							"campofutbol.vmt",
+							"campofutbol.vtf"
+						],
+						"models": {
+							"www.gaming-models.de": {
+								"Balls": [
+									"Football.vmt",
+									"Football.vtf"
+								]
+							}
+						}
+					},
+					"models": {
+						"www.gaming-models.de": {
+							"Balls": [
+								"Football.dx80.vtx",
+								"Football.dx90.vtx",
+								"Football.phy",
+								"Football.sw.vtx",
+								"Football.xbox.vtx",
+								"football.mdl",
+								"football.vvd"
+							]
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 46143,
+			"_nDownloadCount": 1999,
+			"_nFilesize": 399855,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/46143",
+			"_sFile": "196__13-.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1296325429
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 3312,
+	"_sName": "Football Table Minigame",
+	"_sText": "###### Description\nThis week i was bored with hammer, so I decided to made a typical spanish game, The \"Futbolin\" or table football as google translator says.\nIt's fully made in hammer by me (EnnerGy..), but i used some textures from TopHattWaffle, and a model from Danderssen.\n\n###### How to play\nLeft click mouse; Shot\nA/D; Turn forward/Turn Backwards\nW/S; Move Forward/Move Backwards\n\n###### Features:\n-8 players\n-Infinite balls\n-1 goal = 1 point in the score.\n\n[In-Action Video](http://www.youtube.com/watch?v=SqlZbiK3aXU \"Video\")"
+}

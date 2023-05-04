@@ -1,0 +1,30 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_overpass_csgo nav readme.txt",
+					"de_overpass_csgo.nav"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 417289,
+			"_nDownloadCount": 799,
+			"_nFilesize": 185075,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/417289",
+			"_sFile": "nav_de_overpass_csgo.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1555695536
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 34936,
+	"_sName": "Hand-tuned NAV for map DE_OVERPASS_CSGO",
+	"_sText": "<b>Counter-Strike: Source : Bot's Navigation Mesh for the map DE_OVERPASS_CSGO</b><br><br>Nav Creator: Meurglis3<br>Release Date: April 19 2019<br><br>Here is the Navigation Mesh for CS:S port of official CS:GO map <a href=\"https://gamebanana.com/maps/187375\">de_overpass_csgo</a> by Slove1 (released May 2015). It's a totally created from scratch and carefully optimized .nav-file (because included in original mapauthor's release the .nav-file was not perfect playable auto-gen).<br><br>This Navigation Mesh is hand-made approximately for 80% 'cause auto-gen constructed many areas inexact.<br><br>Bots use almost all possible ways now and move through all areas of this map absolutely consciously. They even sometimes misbehave on the Playground... as the most ordinary adults :-)<br><br>Also this Navigation Mesh is fully Place Painted.<br><br>NOTE: For possibility of comparison and in-game testing the navigation file by chizbone included in original maparchive and available to downloading with the <a href=\"https://gamebanana.com/maps/187375\">same map</a>.<br><br>Play and Enjoy! Always will be grateful for your remarks and feedbacks.<br><br>Credits and Gratitudes: Slove1 (for nice CS:S port of the good CS:GO official map).<br><br>Additional Gratitudes: BarnDoor (for perfect playable navigation meshes for many fine CS:S maps), Chizbone (for informative and clever article BOT_BRAINED and a set of excellent navigation meshes), CoCoNUT (for fine hand-tuned navigation meshes for many fine CS:S maps), Valve Developer Community (for learning articles by Navigation Meshes and Navigation Mesh Commands).<br><br>First we take Manhattan, then we take Berlin ;-)<br><br>"
+}

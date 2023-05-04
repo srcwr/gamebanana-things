@@ -1,0 +1,32 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "Credits and Readme.txt",
+					"1": "DJTablev1.vmf",
+					"disco": [
+						"Athena.mp3"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 46316,
+			"_nDownloadCount": 461,
+			"_nFilesize": 5809143,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/46316",
+			"_sFile": "djtablev1.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1282998054
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 3148,
+	"_sName": "DJTablev1",
+	"_sText": "Credits:\r\nMicro\r\nDi[M]an for his speaker prop model.\r\n\r\nNote:\r\nOpen ambient_generic properties and go to sound file,change it to the sound file you want to use instead.\r\n\r\nYou might need to download Di[M]an speaker model and extract it to your css cstrike folder in order to view the speaker model.\r\nHere's the link http://www.fpsbanana.com/prefabs/5211\r\n\r\nHow to install:\r\nDJTablev1.vmf\r\nCopy and paste it to\r\nC:\\Program Files\\Steam\\steamapps\\{STEAM ACCOUNT}\\sourcesdk\\bin\\orangebox\\bin\\prefabs\r\n\r\nDi[M]an kolonka_dlt\r\nExtract it to your CSS cstrike folder.\r\n\r\nAthena.mp3(Optional just in case you're lazy to convert or change the sound file in ambient_generic later).\r\nCopy and paste the disco folder to CSS cstrike\\sound folder."
+}

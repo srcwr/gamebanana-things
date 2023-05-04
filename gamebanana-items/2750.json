@@ -1,0 +1,37 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"Santa Mobile 3000 Prefab by UNREAL": {
+						"Not Shootable - VMF & BSP": [
+							"Prefab_Santa_Sledge.vmf",
+							"prefab_santa_sledge.bsp"
+						],
+						"Shootable - VMF & BSP": [
+							"Prefab_Santa_Sledge_Shooting.vmf",
+							"prefab_santa_sledge_shooting.bsp"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 45863,
+			"_nDownloadCount": 763,
+			"_nFilesize": 305983,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/45863",
+			"_sFile": "santa_mobile_3000_prefab_by_unreal.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1324752852
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2750,
+	"_sName": "Santa Mobile 3000",
+	"_sText": "<fieldset> <legend> **T'was the night before Christmas** And Santa is late. </legend>\r\n\r\nFortunately now he can count with **Santa Mobile 3000**! \r\n\r\n\r\nDesigned to overcome the most difficult and demanding situations, whether they are traveling halfway around the world or defeat the damn snowmen who dare to cross his path!\r\n\r\n\r\nAided by a mega engine capable of levitating itself powered by magic and a fearsome gun that fires snowballs nothing can stop Santa from bringing a happy expression to all those children who are anticipating this special season!\r\n\r\n\r\nAnd best of all! It doesn't require reindeers, which makes it very sustainable over time!</fieldset> \r\n\r\n\r\nThis is my Prefab entry for [The Christmas Triple-Design Contest](http://www.gamebanana.com/news/20113 \"The Christmas Triple-Design Contest\")\r\n\r\nAnd now seriously. I had some interesting ideas for this contest, many actually. Including a portable firing snowball machine and a \"fantastic\" drivable Santa Sleight. What I did was taking both ideas and craft them into this sleight of the future. I tried to make it viable. Not just flying brushwork, and so I added some fancy effects to it, including particles, and even a trail that follows the Sledge leaving a golden effect where is passes. But that's just some extras I wanted to include.\r\n\r\n\r\nIn case you missed it, its a drivable. And I've worked a lot on it to make it functional. Unfortunatly since the engine isn't made for this kind of stuff it leads to some problems, which I tried to overcome but some are just either impossible or not worth the time to fix because it can lead to more problems.\r\n\r\nAnyhow, the Sleight works perfectly 100% in single player, and I've exaustly tested it with some people (thanks to them) and received lots of feedback.\r\n\r\n\r\n**SOME FEATURES:**\r\n\r\n- Drivable\r\n\r\n- Particle systems\r\n\r\n- Spritetrails\r\n\r\n- Shootable\r\n\r\n- Sound efects\r\n\r\n\r\n**CONTROLS:**\r\n\r\n- To drive this boy, you press E on the front part of it, it will instantly parent you to it and you won't be dropped off until you press \"E\" again or jump to get out.\r\n\r\n- If you are drunk, you might wanna get on the back part of the Sledge and let your friends drive for you. Theres space for 2 passangers in the back.\r\n\r\n- [W] Move forward\r\n\r\n- [A] Turn left\r\n\r\n- [S] Move backwards\r\n\r\n- [D] Move right\r\n\r\n- [Mouse 1] Shoots snowballs\r\n\r\n- [Mouse 2] Lifts up\r\n\r\n\r\nI know what sometimes causes the crash, thanks to Kaemon. Its when the round ends while someone is parented to the Sledge. Which unfornatly for me has no solution but I decided to upload it anyway hoping for someone to come up with a possible fix. This can still be some sort of a \"base\" to work with in case you don't know much about thrusters, which I had to \"re-learn\" to create this.\r\n\r\n<fieldset> <legend> DOWNLOAD INFO </legend> \r\nIn the download file you'll find 2 diferent versios of this prefab, one allows shooting, the other one doesn't. For both versions I included the VMF & BSP, in case you'd like to test it yourself or just chill shooting at walls.</fieldset>\r\nI hope you enjoy this little something, I wish you a Merry Christmas and happy new year."
+}

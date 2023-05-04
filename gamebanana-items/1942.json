@@ -1,0 +1,73 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "screen 1.bmp",
+					"1": "screen 2.bmp",
+					"2": "screen 3.bmp",
+					"counter-strike source": {
+						"cstrike": {
+							"materials": {
+								"water": [
+									"water fog colours.txt",
+									"water_caribbean01.vmt",
+									"water_caribbean01_beneath.vmt",
+									"water_caribbean01_dx70.vmt",
+									"water_caribbean01_old.vmt",
+									"water_caribbean01_scrolling.vmt",
+									"water_lava01.vmt",
+									"water_lava01_beneath.vmt",
+									"water_lava01_dx70.vmt",
+									"water_lava01_old.vmt",
+									"water_lava01_scrolling.vmt",
+									"water_slime01.vmt",
+									"water_slime01_beneath.vmt",
+									"water_slime01_dx70.vmt",
+									"water_slime01_old.vmt",
+									"water_slime01_scrolling.vmt",
+									"water_yellow01.vmt",
+									"water_yellow01_beneath.vmt",
+									"water_yellow01_dx70.vmt",
+									"water_yellow01_old.vmt",
+									"water_yellow01_scrolling.vmt"
+								]
+							}
+						}
+					},
+					"sourcesdk": {
+						"bin": {
+							"ep1": {
+								"bin": {
+									"prefabs": {
+										"terrian": [
+											"02terrian.vmf",
+											"02terrian.vmx"
+										]
+									}
+								}
+							}
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 46410,
+			"_nDownloadCount": 309,
+			"_nFilesize": 3001897,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/46410",
+			"_sFile": "terrain02.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1275124004
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 1942,
+	"_sName": "Cool Terrain",
+	"_sText": "I have made a terrain for you people :D"
+}

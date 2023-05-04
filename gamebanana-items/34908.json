@@ -1,0 +1,41 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_vertigo.nav",
+					"readme.txt"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 719,
+			"_nDownloadCount": 378,
+			"_nFilesize": 194323,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/719",
+			"_sFile": "de_vertigo_newnav_111be.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1486320315
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "improved instructions"
+				}
+			],
+			"_sText": "Updated the information in the archive's readme.txt file to make it more accessible to new-comers.",
+			"_sTitle": "Minor things",
+			"_tsDateAdded": 1487421385
+		}
+	],
+	"_idRow": 34908,
+	"_sName": "Reworked NAV File for Map DE_VERTIGO",
+	"_sText": "Thought I'd continue to rework and edit navigation files for few favourite maps from CS 1.6 that didn't get an official remake by Valve, but were fortunatelly revived by the CS Source community.<br><br>NOTE: this nav file was made for map <b>de_vertigo</b> by <i>Kosire</i> which you can find here: <a href=\"http://gamebanana.com/maps/68534\">MAP</a><br><br>As usual to make it legit and identical to the cs 1.6 version I place named every area of the nav file to match those that were used in <b>de_vertigo</b> for CS 1.6 So now you should see the names displayed under the radar and the bots should use them in their radio chatter as well."
+}
