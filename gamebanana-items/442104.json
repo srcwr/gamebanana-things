@@ -9,20 +9,36 @@
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 978865,
-			"_nDownloadCount": 58,
-			"_nFilesize": 43235574,
+			"_idRow": 981647,
+			"_nDownloadCount": 10,
+			"_nFilesize": 42847934,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/978865",
-			"_sFile": "cs_training_2fafd.rar",
-			"_sMd5Checksum": "3463ab8bccee8d40f6921f6907e79e1e",
-			"_tsDateAdded": 1683490961
+			"_sDownloadUrl": "https://gamebanana.com/dl/981647",
+			"_sFile": "cs_training_579ac.rar",
+			"_sMd5Checksum": "811e152a22ba49f0068b8760b4473896",
+			"_tsDateAdded": 1683986307
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Tweak",
+					"text": "Extended CT & T Buyzones across the entire map."
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed clipping issues on some doors (Thanks PMR!)."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Patch #2",
+			"_sVersion": "1.2",
+			"_tsDateAdded": 1683987049
+		},
 		{
 			"_aChangeLog": [
 				{
@@ -39,12 +55,12 @@
 				}
 			],
 			"_sText": "",
-			"_sTitle": "Finalization Patch",
-			"_sVersion": "1.5",
+			"_sTitle": "Patch #1",
+			"_sVersion": "1.1",
 			"_tsDateAdded": 1683491353
 		}
 	],
 	"_idRow": 442104,
 	"_sName": "cs_training",
-	"_sText": "A cut-down port of Insurgency's Training Warehouse map for Counter-Strike: Source!<br><br><h1>Features:</h1><ul><li>HDR w/builded cubemaps</li><li>Buyzone for each team (CT &amp; T)</li><li class=\"SelectedElement\">2 Firing Range sections and CQB Training Area</li></ul>"
+	"_sText": "A cut-down port of Insurgency's Training Warehouse map for Counter-Strike: Source!<br><br><h1>Features:</h1><ul><li>HDR w/builded cubemaps</li><li>Buyzone across the map for both teams (CT & T)</li><li>2 Firing Range sections and CQB Training Area</li></ul><br><h1 class=\"SelectedElement\">NOTE:</h1>Command for unlimited buy time: <span class=\"GreenColor\">mp_buytime 60000</span>"
 }

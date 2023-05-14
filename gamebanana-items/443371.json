@@ -1,0 +1,130 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "Read Me.txt",
+					"1": "cam_test.bsp",
+					"2": "cam_test.vmf",
+					"materials": {
+						"detail": [
+							"detailsprites.vmt",
+							"detailsprites.vtf"
+						],
+						"dev": [
+							"dev_hazzardstripe01a.vmt",
+							"dev_hazzardstripe01a.vtf",
+							"dev_measuregeneric01.vmt",
+							"dev_measuregeneric01.vtf",
+							"dev_measuregeneric01b.vtf"
+						],
+						"effects": [
+							"flat_normal.vtf"
+						],
+						"maps": {
+							"cam_test": {
+								"0": "cubemapdefault.hdr.vtf",
+								"1": "cubemapdefault.vtf",
+								"dev": [
+									"dev_blendmeasure_wvt_patch.vmt"
+								]
+							}
+						},
+						"models": {
+							"props_vehicles": [
+								"4carz1024.vmt",
+								"4carz1024.vtf",
+								"4carz1024_envmask.vtf",
+								"4carz1024_glass.vmt",
+								"4carz1024_glass.vtf",
+								"airport_catering_truck1.vmt",
+								"airport_catering_truck1.vtf",
+								"airport_catering_truck1_ref.vtf",
+								"airport_fuel_truck.vmt",
+								"airport_fuel_truck.vtf",
+								"airport_fuel_truck_ref.vtf",
+								"ambulance.vmt",
+								"ambulance.vtf",
+								"ambulance_ref.vtf",
+								"c130_1.vmt",
+								"c130_1.vtf",
+								"c130_2.vmt",
+								"c130_2.vtf",
+								"c130_propeller.vmt",
+								"c130_propeller.vtf",
+								"c130_propeller_static.vmt",
+								"c130_propeller_static.vtf"
+							]
+						},
+						"tools": [
+							"toolsclip-dx10.vtf",
+							"toolsclip.vmt",
+							"toolsclip.vtf",
+							"toolsskybox.vmt",
+							"toolsskybox.vtf",
+							"toolstrigger-dx10.vtf",
+							"toolstrigger.vmt",
+							"toolstrigger.vtf"
+						]
+					},
+					"models": {
+						"props_vehicles": [
+							"airport_catering_truck.dx90.vtx",
+							"airport_catering_truck.mdl",
+							"airport_catering_truck.phy",
+							"airport_catering_truck.vtx",
+							"airport_catering_truck.vvd",
+							"airport_fuel_truck.dx90.vtx",
+							"airport_fuel_truck.mdl",
+							"airport_fuel_truck.phy",
+							"airport_fuel_truck.vtx",
+							"airport_fuel_truck.vvd",
+							"ambulance.dx90.vtx",
+							"ambulance.mdl",
+							"ambulance.phy",
+							"ambulance.vtx",
+							"ambulance.vvd",
+							"c130.dx90.vtx",
+							"c130.mdl",
+							"c130.phy",
+							"c130.vtx",
+							"c130.vvd",
+							"cara_95sedan.dx90.vtx",
+							"cara_95sedan.mdl",
+							"cara_95sedan.phy",
+							"cara_95sedan.vtx",
+							"cara_95sedan.vvd",
+							"cara_95sedan_glass.dx90.vtx",
+							"cara_95sedan_glass.mdl",
+							"cara_95sedan_glass.phy",
+							"cara_95sedan_glass.vtx",
+							"cara_95sedan_glass.vvd"
+						]
+					},
+					"sound": {
+						"Test_1": [
+							"Airplane -Sound Effect (HD).mp3"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 981711,
+			"_nDownloadCount": 5,
+			"_nFilesize": 12719033,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "R_1",
+			"_sDownloadUrl": "https://gamebanana.com/dl/981711",
+			"_sFile": "cam_test.rar",
+			"_sMd5Checksum": "4097ab116d61d70d24b17338d3350053",
+			"_tsDateAdded": 1683994957
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 443371,
+	"_sName": "Css Cutscene Map Template",
+	"_sText": "Put the model materials and sounds files in the cstrike file so you don't get errors while editing<br>==============================================================================<br>Click <a href=\"https://www.reddit.com/r/hammer/comments/13gn3zv/cutscene_2_with_download_link/\">here</a> to watch the final version of the cutscene<br>"
+}
