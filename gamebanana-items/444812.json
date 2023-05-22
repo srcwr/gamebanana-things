@@ -1,0 +1,74 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"OUP": [
+						"20230520192341_1.jpg",
+						"20230520192350_1.jpg",
+						"20230520192405_1.jpg",
+						"20230520192408_1.jpg",
+						"20230520192421_1.jpg",
+						"20230520192442_1.jpg",
+						"20230520192458_1.jpg",
+						"20230520192508_1.jpg",
+						"20230520192515_1.jpg",
+						"20230520192523_1.jpg",
+						"20230520192523_2.jpg",
+						"uop.bsp",
+						"uop.log",
+						"uop.prt",
+						"uop.vmf",
+						"uop.vmx"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 986007,
+			"_nDownloadCount": 4,
+			"_nFilesize": 8774181,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/986007",
+			"_sFile": "oup_5ca5b.zip",
+			"_sMd5Checksum": "4f7ec30183819e1d4cb448ef4f29501e",
+			"_tsDateAdded": 1684675097
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Improvement",
+					"text": "extended t buy zone"
+				},
+				{
+					"cat": "Addition",
+					"text": "added fountain onto A"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "1.3",
+			"_sVersion": "1.3",
+			"_tsDateAdded": 1684668379
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "",
+					"text": "made more spots for cover"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "PMR update",
+			"_sVersion": "1.2",
+			"_tsDateAdded": 1684658507
+		}
+	],
+	"_idRow": 444812,
+	"_sName": "de_oup",
+	"_sText": "I wanted to make a deathmatch map, but I didn't know how to, <br>so instead I made this map.<br> it is very important you report issues in this map"
+}
