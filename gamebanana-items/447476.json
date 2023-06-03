@@ -8,20 +8,49 @@
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 993390,
-			"_nDownloadCount": 4,
-			"_nFilesize": 37165706,
+			"_idRow": 994388,
+			"_nDownloadCount": 2,
+			"_nFilesize": 37149353,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/993390",
-			"_sFile": "trikz_rager.zip",
-			"_sMd5Checksum": "d81e010e5d73e43d6f65f926de28e343",
-			"_tsDateAdded": 1685676583
+			"_sDownloadUrl": "https://gamebanana.com/dl/994388",
+			"_sFile": "trikz_rager_57562.zip",
+			"_sMd5Checksum": "0a597d22459a6e6eb5bb921377a86633",
+			"_tsDateAdded": 1685806156
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "trigger extended to reach ceiling"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "missed one (at least)",
+			"_sVersion": "2",
+			"_tsDateAdded": 1685806090
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Improvement",
+					"text": "moved tp further back to prevent flyer mishaps"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "block was a trigger instead of a block, fixed it"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "bugfixes",
+			"_sVersion": "1",
+			"_tsDateAdded": 1685752862
+		}
+	],
 	"_idRow": 447476,
 	"_sName": "trikz_rager",
 	"_sText": "My first map I've made, hope you enjoy it!<br><br>Contact me if you find any bugs"
