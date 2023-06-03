@@ -8,20 +8,40 @@
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 994388,
-			"_nDownloadCount": 2,
-			"_nFilesize": 37149353,
+			"_idRow": 994589,
+			"_nDownloadCount": 0,
+			"_nFilesize": 37117443,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/994388",
-			"_sFile": "trikz_rager_57562.zip",
-			"_sMd5Checksum": "0a597d22459a6e6eb5bb921377a86633",
-			"_tsDateAdded": 1685806156
+			"_sDownloadUrl": "https://gamebanana.com/dl/994589",
+			"_sFile": "trikz_rager_c1094.zip",
+			"_sMd5Checksum": "ab72f5958249228a7f5b6f96f7722379",
+			"_tsDateAdded": 1685823653
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "",
+					"text": "Door trigger was always enabled, fixed it"
+				},
+				{
+					"cat": "",
+					"text": "light was hanging from nothing"
+				},
+				{
+					"cat": "",
+					"text": "block was not aligned to the wall"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Door fix",
+			"_sVersion": "3",
+			"_tsDateAdded": 1685823577
+		},
 		{
 			"_aChangeLog": [
 				{
@@ -33,22 +53,6 @@
 			"_sTitle": "missed one (at least)",
 			"_sVersion": "2",
 			"_tsDateAdded": 1685806090
-		},
-		{
-			"_aChangeLog": [
-				{
-					"cat": "Improvement",
-					"text": "moved tp further back to prevent flyer mishaps"
-				},
-				{
-					"cat": "Bugfix",
-					"text": "block was a trigger instead of a block, fixed it"
-				}
-			],
-			"_sText": "",
-			"_sTitle": "bugfixes",
-			"_sVersion": "1",
-			"_tsDateAdded": 1685752862
 		}
 	],
 	"_idRow": 447476,
