@@ -8,20 +8,32 @@
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 994589,
-			"_nDownloadCount": 4,
-			"_nFilesize": 37117443,
+			"_idRow": 995957,
+			"_nDownloadCount": 1,
+			"_nFilesize": 37141179,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/994589",
-			"_sFile": "trikz_rager_c1094.zip",
-			"_sMd5Checksum": "ab72f5958249228a7f5b6f96f7722379",
-			"_tsDateAdded": 1685823653
+			"_sDownloadUrl": "https://gamebanana.com/dl/995957",
+			"_sFile": "trikz_rager_92966.zip",
+			"_sMd5Checksum": "20a506d5c0c82bea4a2cccdb5c3dace2",
+			"_tsDateAdded": 1685969304
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Overhaul",
+					"text": "moved tp further from wall as sometimes you'd lose speed through the teleport"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "v5!",
+			"_sVersion": "5",
+			"_tsDateAdded": 1685969240
+		},
 		{
 			"_aChangeLog": [
 				{
@@ -41,18 +53,6 @@
 			"_sTitle": "Door fix",
 			"_sVersion": "3",
 			"_tsDateAdded": 1685823577
-		},
-		{
-			"_aChangeLog": [
-				{
-					"cat": "Bugfix",
-					"text": "trigger extended to reach ceiling"
-				}
-			],
-			"_sText": "",
-			"_sTitle": "missed one (at least)",
-			"_sVersion": "2",
-			"_tsDateAdded": 1685806090
 		}
 	],
 	"_idRow": 447476,

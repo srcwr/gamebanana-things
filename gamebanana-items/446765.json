@@ -4,13 +4,33 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
+					"de_vertigo_css_b3.bsp",
+					"de_vertigo_css_b3.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 995693,
+			"_nDownloadCount": 12,
+			"_nFilesize": 10996954,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "rb3",
+			"_sDownloadUrl": "https://gamebanana.com/dl/995693",
+			"_sFile": "de_vertigo_css_b3.zip",
+			"_sMd5Checksum": "829fc9d51ef4897177560d1f4c743188",
+			"_tsDateAdded": 1685928621
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
 					"de_vertigo_css_b2.bsp",
 					"de_vertigo_css_b2.nav"
 				]
 			},
 			"_bContainsExe": false,
 			"_idRow": 993479,
-			"_nDownloadCount": 23,
+			"_nDownloadCount": 40,
 			"_nFilesize": 10803632,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -30,7 +50,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 991384,
-			"_nDownloadCount": 40,
+			"_nDownloadCount": 44,
 			"_nFilesize": 9877729,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -43,6 +63,46 @@
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Adjustment",
+					"text": "Some props positioning"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Floating lightnings without cable"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Gate in Bomb A"
+				},
+				{
+					"cat": "Addition",
+					"text": "NAV name place for just CT-spawn, Bomb site A and B"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Radar layer"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Scaffolding cloth retextured and normalmap"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Some props without collision"
+				},
+				{
+					"cat": "Removal",
+					"text": "Removed unused displacements"
+				}
+			],
+			"_sText": "<p>Most playable version before end of the beta</p>",
+			"_sTitle": "Beta 3",
+			"_sVersion": "0_b3",
+			"_tsDateAdded": 1685929022
+		},
 		{
 			"_aChangeLog": [
 				{
@@ -72,7 +132,7 @@
 			],
 			"_sText": "",
 			"_sTitle": "Beta 2",
-			"_sVersion": "1_b2",
+			"_sVersion": "0_b2",
 			"_tsDateAdded": 1685685469
 		}
 	],
