@@ -4,24 +4,49 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
-					"ze_reservoir_1a.bsp"
+					"ze_reservoir_1a_fix.bsp"
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 878427,
-			"_nDownloadCount": 34,
-			"_nFilesize": 53512182,
+			"_idRow": 999502,
+			"_nDownloadCount": 3,
+			"_nFilesize": 50545970,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
-			"_sDescription": "stable version",
-			"_sDownloadUrl": "https://gamebanana.com/dl/878427",
-			"_sFile": "ze_reservoir_1a.zip",
-			"_sMd5Checksum": "5051b0faa04f984a4ddfbc8502073f6d",
-			"_tsDateAdded": 1666084517
+			"_sDescription": "stable-r version",
+			"_sDownloadUrl": "https://gamebanana.com/dl/999502",
+			"_sFile": "ze_reservoir_1a_fix.zip",
+			"_sMd5Checksum": "f221807f0698625c9b0be1098d76335d",
+			"_tsDateAdded": 1686459293
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Adjustment",
+					"text": "made first wire fire slower"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "made the 2nd wire fire faster"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "made a hallway on temple entrance because people dont like defending"
+				},
+				{
+					"cat": "Removal",
+					"text": "removed the boss timer nuke"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "the update i was supposed to do",
+			"_sVersion": "1a fix",
+			"_tsDateAdded": 1686459467
+		}
+	],
 	"_idRow": 407311,
 	"_sName": "ze_reservoir",
 	"_sText": "made for unloze 2022 mapping contest"

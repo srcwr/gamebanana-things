@@ -4,12 +4,31 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
+					"ba_jail_sovietwave_beta4.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 999473,
+			"_nDownloadCount": 8,
+			"_nFilesize": 72447483,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "beta4",
+			"_sDownloadUrl": "https://gamebanana.com/dl/999473",
+			"_sFile": "ba_jail_sovietwave_beta4.zip",
+			"_sMd5Checksum": "a1ecd895f8187145d89d85f0f8960d90",
+			"_tsDateAdded": 1686456424
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
 					"ba_jail_sovietwave_beta3.bsp"
 				]
 			},
 			"_bContainsExe": false,
 			"_idRow": 999193,
-			"_nDownloadCount": 2,
+			"_nDownloadCount": 5,
 			"_nFilesize": 72330859,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -21,8 +40,29 @@
 			"_tsDateAdded": 1686425868
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Improvement",
+					"text": "Added white lines to football"
+				},
+				{
+					"cat": "Tweak",
+					"text": "Tweaked fog"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Added missing texture to wheel of fortune (for some reason it didn't pack)"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "beta4",
+			"_sVersion": "beta4",
+			"_tsDateAdded": 1686457073
+		}
+	],
 	"_idRow": 449273,
 	"_sName": "ba_jail_sovietwave",
-	"_sText": "ba_jail_sovietwave_beta3<br><br>MAP BY notfoundname<br>STEAM: STEAM_0:0:235566452<br>DISCORD: notfoundname#3292 (or just @notfoundname since they change it)<br><br>Any feedback and criticism is appreciated!<br>If you want to port this map, contact me!<br>For server owners: no need to compress it with bzip2 since it already is compressed.<br><br>СПАСИБО ДРУЗЬЯМ:<br>- Sovok<br>- pezdohryakich<br><br>СПАСИБО СООБЩЕСТВУ ЦЕНТРАЛЬНОЙ ТЮРЬМЫ:<br>- CEVAPCICI<br>- Цветик :D<br>- ВСЕМ АДМИНАМ<br>- И ОБЫЧНЫМ ИГРОКАМ!<br><br>Games/locations:<br>- 37 T and 10 CT spawns<br>- Disco with russian music and 9 colors game<br>- Swimming pool with underwater race<br>- Underground<br>- T got talent with piano to play on and guess the word<br>- Football<br>- Volleyball<br>- Jump rope<br>- Kitchen<br>- Boat game with 6 boats<br><br>Used assets:<br>- CS:S and HL2 stock and modified assets<br>- Modified water texture from gm_excess_construct<br>- Lenin statue: https://steamcommunity.com/sharedfiles/filedetails/?id=2425675174<br>- Assets from https://modding-assets.net<br>- Swaying effect https://gamebanana.com/tuts/12924<br>- Old soviet propaganda<br><br>Songs:<br>- Bi-2 - Polkovniku Nikto Ne Pishet<br>- Kino - Peremen<br>- Alyans - Na zare<br>- Agata Kristi - Na Voyne<br>- Kino - Konchitsya Leto<br>- Lumina Solis - Pech Goryachya, A Za Oknom Metel Metyot<br>- Mayak - Reka"
+	"_sText": "ba_jail_sovietwave_beta4<br><br>MAP BY notfoundname<br>STEAM: STEAM_0:0:235566452<br>DISCORD: notfoundname#3292 (or just @notfoundname since they change it)<br><br>Any feedback and criticism is appreciated!<br>If you want to port this map, contact me!<br>For server owners: no need to compress it with bzip2 since it already is compressed.<br><br>Thanks to LibreGaming for playtesting the map!<br><br>СПАСИБО ДРУЗЬЯМ:<br>- Sovok<br>- pezdohryakich<br><br>СПАСИБО СООБЩЕСТВУ ЦЕНТРАЛЬНОЙ ТЮРЬМЫ:<br>- CEVAPCICI<br>- Цветик :D<br>- ВСЕМ АДМИНАМ<br>- И ОБЫЧНЫМ ИГРОКАМ!<br><br>Games/locations:<br>- 37 T and 10 CT spawns<br>- Disco with russian music and 9 colors game<br>- Swimming pool with underwater race<br>- Underground<br>- T got talent with piano to play on and guess the word<br>- Football<br>- Volleyball<br>- Jump rope<br>- Kitchen<br>- Boat game with 6 boats<br><br>Used assets:<br>- CS:S and HL2 stock and modified assets<br>- Modified water texture from gm_excess_construct<br>- Lenin statue: https://steamcommunity.com/sharedfiles/filedetails/?id=2425675174<br>- Assets from https://modding-assets.net<br>- Swaying effect https://gamebanana.com/tuts/12924<br>- Old soviet propaganda<br><br>Songs:<br>- Bi-2 - Polkovniku Nikto Ne Pishet<br>- Kino - Peremen<br>- Alyans - Na zare<br>- Agata Kristi - Na Voyne<br>- Kino - Konchitsya Leto<br>- Lumina Solis - Pech Goryachya, A Za Oknom Metel Metyot<br>- Mayak - Reka"
 }
