@@ -4,12 +4,31 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
+					"ba_jail_sovietwave_beta5.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 1000465,
+			"_nDownloadCount": 1,
+			"_nFilesize": 72057398,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "beta5",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1000465",
+			"_sFile": "ba_jail_sovietwave_beta5.zip",
+			"_sMd5Checksum": "2a72ee6799dd3bf1391e26b394a1acc9",
+			"_tsDateAdded": 1686598073
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
 					"ba_jail_sovietwave_beta4.bsp"
 				]
 			},
 			"_bContainsExe": false,
 			"_idRow": 999473,
-			"_nDownloadCount": 11,
+			"_nDownloadCount": 12,
 			"_nFilesize": 72447483,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -44,6 +63,62 @@
 		{
 			"_aChangeLog": [
 				{
+					"cat": "Addition",
+					"text": "Added vent to the pool"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added place for Gun Toss"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added 2 more boats to boats game (making total of 8)"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added monitor for spectating boats and made area around it more open"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Changed pool enterance"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Made armory door openable for CTs by just coming close to the enterance"
+				},
+				{
+					"cat": "Tweak",
+					"text": "Changed T spawns a bit"
+				},
+				{
+					"cat": "Tweak",
+					"text": "Made Simon Says easier to play"
+				},
+				{
+					"cat": "Tweak",
+					"text": "Made Letter opener from the back of Guess the word game now activates by damage only (knifing"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Deleted missplaced T spawn near Guess the word game"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed sound bug with boats game"
+				},
+				{
+					"cat": "Removal",
+					"text": "Temporary removed Tic-Tac-Toe"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "beta5",
+			"_sVersion": "beta5",
+			"_tsDateAdded": 1686601434
+		},
+		{
+			"_aChangeLog": [
+				{
 					"cat": "Improvement",
 					"text": "Added white lines to football"
 				},
@@ -64,5 +139,5 @@
 	],
 	"_idRow": 449273,
 	"_sName": "ba_jail_sovietwave",
-	"_sText": "ba_jail_sovietwave_beta4<br><br>MAP BY notfoundname<br>STEAM: STEAM_0:0:235566452<br>DISCORD: notfoundname#3292 (or just @notfoundname since they change it)<br><br>Any feedback and criticism is appreciated!<br>If you want to port this map, contact me!<br>For server owners: no need to compress it with bzip2 since it already is compressed.<br><br>Thanks to LibreGaming for playtesting the map!<br><br>СПАСИБО ДРУЗЬЯМ:<br>- Sovok<br>- pezdohryakich<br><br>СПАСИБО СООБЩЕСТВУ ЦЕНТРАЛЬНОЙ ТЮРЬМЫ:<br>- CEVAPCICI<br>- Цветик :D<br>- ВСЕМ АДМИНАМ<br>- И ОБЫЧНЫМ ИГРОКАМ!<br><br>Games/locations:<br>- 37 T and 10 CT spawns<br>- Disco with russian music and 9 colors game<br>- Swimming pool with underwater race<br>- Underground<br>- T got talent with piano to play on and guess the word<br>- Football<br>- Volleyball<br>- Jump rope<br>- Kitchen<br>- Boat game with 6 boats<br><br>Used assets:<br>- CS:S and HL2 stock and modified assets<br>- Modified water texture from gm_excess_construct<br>- Lenin statue: https://steamcommunity.com/sharedfiles/filedetails/?id=2425675174<br>- Assets from https://modding-assets.net<br>- Swaying effect https://gamebanana.com/tuts/12924<br>- Old soviet propaganda<br><br>Songs:<br>- Bi-2 - Polkovniku Nikto Ne Pishet<br>- Kino - Peremen<br>- Alyans - Na zare<br>- Agata Kristi - Na Voyne<br>- Kino - Konchitsya Leto<br>- Lumina Solis - Pech Goryachya, A Za Oknom Metel Metyot<br>- Mayak - Reka"
+	"_sText": "ba_jail_sovietwave_beta5<br><br>MAP BY notfoundname<br>STEAM: STEAM_0:0:235566452<br>DISCORD: notfoundname (worst update)<br>GAMEBANANA: https://gamebanana.com/mods/449273<br><br>THANKS LIBREGAMING FOR PLAYTESTING!<br><br>СПАСИБО ДРУЗЬЯМ:<br>- Sovok<br>- pezdohryakich<br><br>СПАСИБО СООБЩЕСТВУ ЦЕНТРАЛЬНОЙ ТЮРЬМЫ:<br>- CEVAPCICI<br>- Цветик :D<br>- ВСЕМ АДМИНАМ<br>- И ОБЫЧНЫМ ИГРОКАМ!<br><br>Games/locations:<br>- 37 T and 10 CT spawns<br>- Disco with russian music and 9 colors game<br>- Swimming pool with underwater race<br>- Underground<br>- T got talent with piano to play on and Wheel Of Fortune (without the wheel)<br>- Football<br>- Volleyball<br>- Jump rope<br>- Kitchen<br>- Boat game with 8 boats<br><br>Used assets:<br>- CS:S and HL2 stock and modified assets<br>- Modified water texture from gm_excess_construct<br>- Lenin statue: https://steamcommunity.com/sharedfiles/filedetails/?id=2425675174<br>- Assets from https://modding-assets.net<br>- Swaying effect https://gamebanana.com/tuts/12924<br>- Old soviet propaganda<br><br>Songs:<br>- Bi-2 - Polkovniku Nikto Ne Pishet<br>- Kino - Peremen<br>- Alyans - Na zare<br>- Agata Kristi - Na Voyne<br>- Kino - Konchitsya Leto<br>- Lumina Solis - Pech Goryachya, A Za Oknom Metel Metyot<br>- Mayak - Reka"
 }

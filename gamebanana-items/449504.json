@@ -12,7 +12,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 999947,
-			"_nDownloadCount": 4,
+			"_nDownloadCount": 6,
 			"_nFilesize": 963838,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -22,9 +22,56 @@
 			"_sFile": "cs_underside.zip",
 			"_sMd5Checksum": "e030381e6471f5417e116d913cbd3ff7",
 			"_tsDateAdded": 1686516099
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cs_undersidev1.1": [
+						"cs_underside.bsp",
+						"cs_underside.nav"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 1000496,
+			"_nDownloadCount": 0,
+			"_nFilesize": 716788,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "cs_underside v1.1 (ZIP Archive)",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1000496",
+			"_sFile": "cs_undersidev11.zip",
+			"_sMd5Checksum": "5d3aff92e303e8ef43d232163ace53f1",
+			"_tsDateAdded": 1686602481
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Added physics objects"
+				},
+				{
+					"cat": "Overhaul",
+					"text": "Retextured all textures on the map"
+				},
+				{
+					"cat": "Removal",
+					"text": "Removed the most boxes"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added CT's secret path to 2 hostage points"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "cs_underside Update",
+			"_sVersion": "v1.1",
+			"_tsDateAdded": 1686602795
+		}
+	],
 	"_idRow": 449504,
 	"_sName": "cs_underside",
 	"_sText": "A 6v8 hostage rescue map. The terrorists told the hostages not to move from their position because otherwise they will be killed. But is it really true using the Counter-Terrorists force?<br><br><b>Counter-Terrorists Objective (CT's)</b>: Rescue 5 hostages or <b>kill all terrorists (T's).<br></b><br><b>Terrorists Objective (T's)</b>: Prevent the hostages from being rescued or <b>kill all Counter-Terrorists (CT's).</b>"
