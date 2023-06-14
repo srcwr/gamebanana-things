@@ -12,7 +12,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 999947,
-			"_nDownloadCount": 6,
+			"_nDownloadCount": 10,
 			"_nFilesize": 963838,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -34,7 +34,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1000496,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 7,
 			"_nFilesize": 716788,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -60,6 +60,10 @@
 				{
 					"cat": "Removal",
 					"text": "Removed the most boxes"
+				},
+				{
+					"cat": "Removal",
+					"text": "Removed one of the regular path's from CT side to 2 hostage points"
 				},
 				{
 					"cat": "Addition",
