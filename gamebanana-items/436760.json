@@ -11,20 +11,64 @@
 				}
 			},
 			"_bContainsExe": false,
-			"_idRow": 965547,
-			"_nDownloadCount": 45,
-			"_nFilesize": 5371845,
+			"_idRow": 1001508,
+			"_nDownloadCount": 15,
+			"_nFilesize": 5434014,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/965547",
-			"_sFile": "de_nuke_plus_2b5a7.7z",
-			"_sMd5Checksum": "509e3868da10d750a9382e0419955da8",
-			"_tsDateAdded": 1681319894
+			"_sDownloadUrl": "https://gamebanana.com/dl/1001508",
+			"_sFile": "de_nuke_plus_b7be8.7z",
+			"_sMd5Checksum": "5cd8605ccefb9742b91ed74659ac7247",
+			"_tsDateAdded": 1686762303
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "Fixed visual bugs"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Improved navigation mesh"
+				},
+				{
+					"cat": "Tweak",
+					"text": "The truck is now impossible to enter in T spawn"
+				},
+				{
+					"cat": "Tweak",
+					"text": "Added crate to make it easier to get on the roof in T spawn"
+				},
+				{
+					"cat": "Tweak",
+					"text": "Added a bunch of bricks to make it easier to get on the roof in Outside"
+				},
+				{
+					"cat": "Tweak",
+					"text": "Closed old Secret entrance"
+				},
+				{
+					"cat": "Tweak",
+					"text": "Added bags of cement in the corner of the second floor of Lobby"
+				},
+				{
+					"cat": "Tweak",
+					"text": "Moved boxes in A site closer to door"
+				},
+				{
+					"cat": "Tweak",
+					"text": "Added a bunch of boxes in the Ramp"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Balace update",
+			"_sVersion": "1.1",
+			"_tsDateAdded": 1686762428
+		},
 		{
 			"_aChangeLog": [
 				{

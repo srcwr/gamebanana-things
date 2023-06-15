@@ -3,6 +3,29 @@
 	"_aFiles": [
 		{
 			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "read-me.txt",
+					"maps": [
+						"de_vertigo_css.bsp",
+						"de_vertigo_css.nav"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 1001751,
+			"_nDownloadCount": 31,
+			"_nFilesize": 28792504,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1001751",
+			"_sFile": "de_vertigo_css.zip",
+			"_sMd5Checksum": "08a3e918d8f426ca082513df6a57b3ec",
+			"_tsDateAdded": 1686786285
+		},
+		{
+			"_aMetadata": {
 				"_aArchiveFileTree": [
 					"de_vertigo_css_b3.bsp",
 					"de_vertigo_css_b3.nav"
@@ -10,7 +33,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 995693,
-			"_nDownloadCount": 28,
+			"_nDownloadCount": 138,
 			"_nFilesize": 10996954,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -30,7 +53,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 993479,
-			"_nDownloadCount": 40,
+			"_nDownloadCount": 45,
 			"_nFilesize": 10803632,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -50,7 +73,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 991384,
-			"_nDownloadCount": 45,
+			"_nDownloadCount": 57,
 			"_nFilesize": 9877729,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -63,6 +86,50 @@
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Improvement",
+					"text": "C4 Trigger more sensive"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Bunch of props / models missing, size, collision and clipping through"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Skybox texture fixed"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Reflection in some floors"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added HDR lightning and full compiled map"
+				},
+				{
+					"cat": "Addition",
+					"text": "More decals details"
+				},
+				{
+					"cat": "Addition",
+					"text": "Map NAV name of places"
+				},
+				{
+					"cat": "Addition",
+					"text": "3D Skybox from CS:GO"
+				},
+				{
+					"cat": "Optimization",
+					"text": "Some places don't render when you not see"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Stable",
+			"_sVersion": "1.0",
+			"_tsDateAdded": 1686786901
+		},
 		{
 			"_aChangeLog": [
 				{
@@ -102,41 +169,9 @@
 			"_sTitle": "Beta 3",
 			"_sVersion": "0_b3",
 			"_tsDateAdded": 1685929022
-		},
-		{
-			"_aChangeLog": [
-				{
-					"cat": "Bugfix",
-					"text": "Some props collision bugs"
-				},
-				{
-					"cat": "Bugfix",
-					"text": "Crane arm animation removed"
-				},
-				{
-					"cat": "Adjustment",
-					"text": "Scaffolding color in texture ( DX8 )"
-				},
-				{
-					"cat": "Optimization",
-					"text": "Some props render"
-				},
-				{
-					"cat": "Addition",
-					"text": "Simple preventing from complete lost of the C4"
-				},
-				{
-					"cat": "Addition",
-					"text": "Radar with layers"
-				}
-			],
-			"_sText": "",
-			"_sTitle": "Beta 2",
-			"_sVersion": "0_b2",
-			"_tsDateAdded": 1685685469
 		}
 	],
 	"_idRow": 446765,
 	"_sName": "DE Vertigo CS:GO Layout",
-	"_sText": "CS:GO Vertigo layout with CS:S texture, models and custom resource to fit a bit the original map.<br>Isn't finished and more updates will come.<br><br>The beta release is just the basic, map was compiled in fast so, some visual lightning issues will be expected as for bugs too. <br><br>Please if you download the maps, report some big bugs, glitchs that affect gameplay. Some bugs and issues i've know:<br><br>- Helicopter without animations<br><br>- Some light issues<br><br>"
+	"_sText": "CS:GO Vertigo layout with CS:S texture, models and custom resource to fit a bit the original map.<br>Isn't finished and more updates will come.<br><br>I love vertigo from entire CS game, cause i've played a lot in 1.6 and i have a nostalgia. Saddly theres no official version for CS:S, just community, and also love this version. But i wanted some new layout, so started this map.&nbsp;<br><br>About 3D Skybox and some CS:GO resources:<br><br>I started to do the 3D Skybox, but will take a more time to end.<br><br>This version will take some part of original skybox models from CS:GO ( Converted to CS:S ).<br><br>Sorry for not fixing render issue that cause a error popup message, for now i'll take a time from this map<br><br>Hope you enjoy the map!<br><br><br>"
 }
