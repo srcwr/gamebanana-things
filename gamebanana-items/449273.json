@@ -4,12 +4,31 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
+					"ba_jail_sovietwave_beta6.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 1002970,
+			"_nDownloadCount": 6,
+			"_nFilesize": 58065417,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "beta6",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1002970",
+			"_sFile": "ba_jail_sovietwave_beta6.zip",
+			"_sMd5Checksum": "7f5722b2be552d8e23d78431e294432a",
+			"_tsDateAdded": 1686971365
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
 					"ba_jail_sovietwave_beta5.bsp"
 				]
 			},
 			"_bContainsExe": false,
 			"_idRow": 1000465,
-			"_nDownloadCount": 9,
+			"_nDownloadCount": 10,
 			"_nFilesize": 72057398,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -47,7 +66,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 999193,
-			"_nDownloadCount": 6,
+			"_nDownloadCount": 7,
 			"_nFilesize": 72330859,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -60,6 +79,70 @@
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Added new track to the disco"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added a sound to Guess the word when tile is opened"
+				},
+				{
+					"cat": "Optimization",
+					"text": "Simplified geometry"
+				},
+				{
+					"cat": "Optimization",
+					"text": "Added hints and removed some unnecessary areportals"
+				},
+				{
+					"cat": "Optimization",
+					"text": "Reduced file size by ~15%"
+				},
+				{
+					"cat": "Optimization",
+					"text": "Changed fog again for optimization purpose"
+				},
+				{
+					"cat": "Optimization",
+					"text": "Reduced amount of crates in boats game"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed boat game deactivating"
+				},
+				{
+					"cat": "Tweak",
+					"text": "Now there are two random vents per round"
+				},
+				{
+					"cat": "Tweak",
+					"text": "Modified boat spectating"
+				},
+				{
+					"cat": "Tweak",
+					"text": "Doubled the damage dealt by boats"
+				},
+				{
+					"cat": "Tweak",
+					"text": "Expanded cafeteria for future plans"
+				},
+				{
+					"cat": "Tweak",
+					"text": "Minor overhaul of pool"
+				},
+				{
+					"cat": "Removal",
+					"text": "Removed physical doors because they didn't work well with sv_turbophysics 1"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "beta6",
+			"_sVersion": "beta6",
+			"_tsDateAdded": 1686971507
+		},
 		{
 			"_aChangeLog": [
 				{
@@ -115,26 +198,6 @@
 			"_sTitle": "beta5",
 			"_sVersion": "beta5",
 			"_tsDateAdded": 1686601434
-		},
-		{
-			"_aChangeLog": [
-				{
-					"cat": "Improvement",
-					"text": "Added white lines to football"
-				},
-				{
-					"cat": "Tweak",
-					"text": "Tweaked fog"
-				},
-				{
-					"cat": "Bugfix",
-					"text": "Added missing texture to wheel of fortune (for some reason it didn't pack)"
-				}
-			],
-			"_sText": "",
-			"_sTitle": "beta4",
-			"_sVersion": "beta4",
-			"_tsDateAdded": 1686457073
 		}
 	],
 	"_idRow": 449273,

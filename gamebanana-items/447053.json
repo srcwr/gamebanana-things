@@ -4,25 +4,70 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
-					"ze_eerie_escape_v1.bsp"
+					"ze_eerie_escape_v2.bsp"
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 992794,
-			"_nDownloadCount": 1,
-			"_nFilesize": 47342378,
+			"_idRow": 1003564,
+			"_nDownloadCount": 2,
+			"_nFilesize": 33129600,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/992794",
-			"_sFile": "ze_eerie_escape_v1_7a089.rar",
-			"_sMd5Checksum": "9a64dd4f4719b44da5f3426e9366a369",
-			"_tsDateAdded": 1685606191
+			"_sDownloadUrl": "https://gamebanana.com/dl/1003564",
+			"_sFile": "ze_eerie_escape_v2.rar",
+			"_sMd5Checksum": "b87038d3e58ea5935e67c52f20601654",
+			"_tsDateAdded": 1687062095
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Improvement",
+					"text": "Fixed Teleporter Item so it teleports the user only."
+				},
+				{
+					"cat": "Improvement",
+					"text": "Increased Warp CD"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed Safe Spots on stage 2 & 4 ."
+				},
+				{
+					"cat": "Addition",
+					"text": "Introduced new Stage ULTIMATE. Now Map has 7 stages in total."
+				},
+				{
+					"cat": "Addition",
+					"text": "Gravity Mode on ZM Round."
+				},
+				{
+					"cat": "Addition",
+					"text": "Added New Hiding Spots and holds for humans."
+				},
+				{
+					"cat": "Improvement",
+					"text": "Shield Item can now push zombies back."
+				},
+				{
+					"cat": "Removal",
+					"text": "Removed secret stage."
+				},
+				{
+					"cat": "Addition",
+					"text": "Added some details."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "ze_eerie_escape_v2",
+			"_sVersion": "v2",
+			"_tsDateAdded": 1687062429
+		}
+	],
 	"_idRow": 447053,
-	"_sName": "ze_eerie_escape_v1",
+	"_sName": "ze_eerie_escape_v2",
 	"_sText": "**This is an improved version of the beta version of this Map ze_eerie_escape_b1**<br><b><br></b><h2><b><span class=\"GreenColor\">Map Contains:</span></b></h2>5 Stages + Zombie Mode. (6 Total)<br>Stage-1: STATIC<br>Stage-2: SONIC<br>Stage-3: HYPER<br>Stage-4: DIMENSIONAL<br>Stage-5: BACKROOMS<br><br><span class=\"GreenColor\"><b>Map Also Contains Items (3 for Humans, 3 for Zombies)</b></span><br><br><b>Human Items</b><br><br><ul><li>Tecquila Shotgun</li><li>EERIE Shield</li><li>Teleporter</li></ul><span class=\"GreenColor\"><br></span><b>Zombie Items</b><br><ul><li>Zombie Killer</li><li>Zombie Lure</li><li class=\"SelectedElement\">Zombie Laser</li></ul><br><span class=\"GreenColor\"><b>Map Info: </b></span><br>On First 4 Stages, Humans have to survive 100 seconds, then they will be teleported to final destination and dodge the Lasers. (3 Stages contains Lasers and 4th has Cube RNG). 5th Stage is based on the game Backrooms. A small but fun stage. And really difficult if Teamwork isn't utilized.<br>6th is simply Zombie Stage. Just to chill! Overall Map is made for fun and doesn't contain any real tryhard.<br><br><span class=\"GreenColor\"><b>NOTE</b></span><br>**If Map contains bugs, just inform me. You are not allowed to edit and re-upload this map.**"
 }

@@ -10,21 +10,54 @@
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 998830,
-			"_nDownloadCount": 20,
-			"_nFilesize": 29638520,
+			"_idRow": 1003433,
+			"_nDownloadCount": 21,
+			"_nFilesize": 34271275,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
-			"_sDescription": "Beta 1",
-			"_sDownloadUrl": "https://gamebanana.com/dl/998830",
-			"_sFile": "cs_ministry.rar",
-			"_sMd5Checksum": "16624ae9e95a2b5b2f639e065a2d35de",
-			"_tsDateAdded": 1686378078
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1003433",
+			"_sFile": "cs_ministry_5fd57.rar",
+			"_sMd5Checksum": "2018d0b0c4d3d971043b33bfcf1a3cb7",
+			"_tsDateAdded": 1687043889
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Overhaul",
+					"text": "Extended the corridors with more visual variety."
+				},
+				{
+					"cat": "Addition",
+					"text": "Added Built Cubemaps and Color Correction."
+				},
+				{
+					"cat": "Addition",
+					"text": "Added map Overview and Radar (slightly broken)."
+				},
+				{
+					"cat": "Feature",
+					"text": "32 Players Support."
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Adjusted lighting and HDR."
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed getting stuck inside players."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Full Release",
+			"_sVersion": "1.0",
+			"_tsDateAdded": 1687045867
+		}
+	],
 	"_idRow": 449153,
-	"_sName": "cs_ministry - Beta",
-	"_sText": "<b><span class=\"GreenColor\">June 16, 2014 // </span><span class=\"GreenColor\">Baghdad, Iraq</span></b><br><br>In-response to the Iraqi Government's support of the American-led intervention in the Middle-East, the LEET CREW Initiates an attack on the newly rebuilt Ministry of Defense building in Baghdad, Holding 3 US Officials Hostage.<br><br>A team of SEAL TEAM 6 Operatos arrive at the scene just 20 Minutes after the incident was reported all over the local media.<br><br><hr><br>cs_ministry is a Hostage Rescue map based off of PowerThrust's Layout from <a href=\"https://gamebanana.com/mods/100252\">cs_officerescue</a>.<br>The map has been in development for a good month and just reached its first Beta stage.<br><br>As of now, expect fast gunfights and rotations from BOTs. Offline team balance will be based on how good you play and coordinate CPU Players. This version was NOT tested In PVP.<br><br><b>Current Features:</b><br><ul><li>HDR</li><li>Basic Bot Support</li><li>16 Players Support<br></li></ul><br><b>To Be Added:</b><br><ul><li>Built Cubemaps</li><li>Custom Soundscapes</li><li>Radar/Overview</li><li>Extended Pathways</li><li class=\"SelectedElement\">More detail</li></ul><br><b><span class=\"RedColor\">Note:</span></b><br>The map has not been finalized. Feedback and Suggestions are welcome!"
+	"_sName": "cs_ministry",
+	"_sText": "<b><span class=\"GreenColor\">Baghdad, Iraq</span></b><br><br>In-response to the Iraqi Government's support&nbsp;of the American-led intervention in the Middle-East,&nbsp;the LEET CREW Initiates an attack on the newly&nbsp;rebuilt Ministry of Foreign Affairs building in Baghdad,&nbsp;Holding 3 US Officials Hostage.<br><br>A team of SEAL TEAM 6 Operatos arrive at the scene just 20 Minutes after the incident was reported all over the local media.<br><br><hr><br>cs_ministry is a Hostage Rescue map based off of PowerThrust's&nbsp;<a href=\"https://gamebanana.com/mods/100252\">cs_officerescue</a>.<br><br><b>Features:</b><br><ul><li>HDR w/Built Cubemaps and Color Correction</li><li>32 Players support</li><li>Overview and Radar (slightly broken)<br></li><li class=\"SelectedElement\">Auto-generated BOT Navigation</li></ul><br><b><span class=\"RedColor\">Notes:</span></b><br>- Disable Sniper Rifles when playing with CPU Players to avoid headaches.<br>- The current navigation file is not Hand-tuned.<br><br>Feedback &amp; Suggestions are always welcome. Enjoy!"
 }

@@ -4,28 +4,47 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": {
-					"JurassicPark": [
-						"ze_JurassicPark_v2D.bsp",
-						"ze_JurassicPark_v2N.bsp",
-						"ze_JurassicPark_v2W.bsp"
+					"ze_JurassicPark": [
+						"ze_JurassicPark_v3D1.bsp",
+						"ze_JurassicPark_v3N1.bsp",
+						"ze_JurassicPark_v3W1.bsp"
 					]
 				}
 			},
 			"_bContainsExe": false,
-			"_idRow": 942263,
-			"_nDownloadCount": 81,
-			"_nFilesize": 128155692,
+			"_idRow": 1003780,
+			"_nDownloadCount": 0,
+			"_nFilesize": 89521465,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
 			"_sDescription": "ze_JurassicPark",
-			"_sDownloadUrl": "https://gamebanana.com/dl/942263",
-			"_sFile": "ze_jurassicpark_479a2.7z",
-			"_sMd5Checksum": "542724d994ba5f6b3f0af3ab58a337ff",
-			"_tsDateAdded": 1677504479
+			"_sDownloadUrl": "https://gamebanana.com/dl/1003780",
+			"_sFile": "ze_jurassicpark_5eb27.7z",
+			"_sMd5Checksum": "3cc126b4dc90f178bf69cd88f3930496",
+			"_tsDateAdded": 1687097643
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "New texture for grass"
+				},
+				{
+					"cat": "Addition",
+					"text": "New models for trees and bushes"
+				},
+				{
+					"cat": "Addition",
+					"text": "New particles for rainy version"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "v2.1",
+			"_tsDateAdded": 1687097832
+		},
 		{
 			"_aChangeLog": [
 				{
@@ -44,5 +63,5 @@
 	],
 	"_idRow": 413295,
 	"_sName": "ze_JurassicPark",
-	"_sText": "Full remake of map&nbsp;ze_jurassicpark_v2.&nbsp;Map has three versions: daytime, night and rainy.<br>Link:&nbsp;<a href=\"https://gamebanana.com/mods/130821\">https://gamebanana.com/mods/130821</a>"
+	"_sText": "Full remake of map ze_jurassicpark_v2. Map has three versions: daytime, night and rainy.<br>Link: <a href=\"https://gamebanana.com/mods/130821\">https://gamebanana.com/mods/130821</a>"
 }
