@@ -5,7 +5,7 @@
 			"_aMetadata": [],
 			"_bContainsExe": false,
 			"_idRow": 919739,
-			"_nDownloadCount": 28,
+			"_nDownloadCount": 52,
 			"_nFilesize": 20847812,
 			"_sAnalysisResult": "Archive extraction failed (corrupt or password-protected)",
 			"_sAnalysisState": "done",
@@ -15,10 +15,36 @@
 			"_sFile": "ze_immortal_flame_v1.rar",
 			"_sMd5Checksum": "af1821b8b4103537908e492591ec951d",
 			"_tsDateAdded": 1673541125
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ze_immortal_flame_v1_1.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 1005552,
+			"_nDownloadCount": 4,
+			"_nFilesize": 21068906,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1005552",
+			"_sFile": "ze_immortal_flame_v1_1.rar",
+			"_sMd5Checksum": "6dac4961fd279d2f5fcaa25a36c427a9",
+			"_tsDateAdded": 1687367102
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [],
+			"_sText": "<ul><li><p>Last section lasers are now insta-kill.</p></li><li><p>Chancing all the lasers damage type so it can pierce through kevlar/armor.</p></li><li><p>Chancing the lasers textures to gradient to add more beauty</p></li><li><p>Added more lights to the map</p></li><li><p>Map is now compiled with HDR</p></li></ul>",
+			"_sTitle": "V1_1 updates",
+			"_tsDateAdded": 1687367292
+		}
+	],
 	"_idRow": 421953,
 	"_sName": "ze_immortal_flame",
-	"_sText": "Dedicated to song, <b>Immortal Flame</b> by Anna Yvette, Panda Eyes, and Teminite<br><br>My very first <b>normal</b>&nbsp;ze map to make<br><br>More lasers? yes<br>is it laser spam? ofc<br>the lasers sync with music? big <b>YES</b><br><br>I usually hate to make laser map... but this one is different. I wanna sync the lasers with the music.<br>such a new thing for me to do after 2 surf maps before + first ever <b>normal</b>&nbsp;ze map.<br><br>I probably gonna make something similar to this for future mapping.&nbsp;<br><br><b>CUZ SYNC LASERS WITH MUSIC IS SO MUCH FUN</b><br><br><br>please do not repost, edit, port the map without my permission.&nbsp;<br>I took some effort when making this ;)<br><br>rar pass : if"
+	"_sText": "Dedicated to song, <b>Immortal Flame</b> by Anna Yvette, Panda Eyes, and Teminite<br><br>My very first <b>normal</b> ze map to make<br><br>More lasers? yes<br>is it laser spam? ofc<br>the lasers sync with music? big <b>YES</b><br><br>I usually hate to make laser map... but this one is different. I wanna sync the lasers with the music.<br>such a new thing for me to do after 2 surf maps before + first ever <b>normal</b> ze map.<br><br>I probably gonna make something similar to this for future mapping. <br><br><b>CUZ SYNC LASERS WITH MUSIC IS SO MUCH FUN</b><br><br>please do not repost, edit, port the map without my permission. <br>I took some effort when making this ;)<br><br>rar pass : if"
 }
