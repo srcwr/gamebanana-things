@@ -19,28 +19,28 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
-					"ze_immortal_flame_v1_1.bsp"
+					"ze_immortal_flame_v1_2.bsp"
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1005552,
-			"_nDownloadCount": 5,
-			"_nFilesize": 21068906,
+			"_idRow": 1006596,
+			"_nDownloadCount": 2,
+			"_nFilesize": 21084055,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1005552",
-			"_sFile": "ze_immortal_flame_v1_1.rar",
-			"_sMd5Checksum": "6dac4961fd279d2f5fcaa25a36c427a9",
-			"_tsDateAdded": 1687367102
+			"_sDownloadUrl": "https://gamebanana.com/dl/1006596",
+			"_sFile": "ze_immortal_flame_v1_2.rar",
+			"_sMd5Checksum": "08a7ae7897d80fd047b586df74c0f9e7",
+			"_tsDateAdded": 1687531377
 		}
 	],
 	"_aLatestUpdates": [
 		{
 			"_aChangeLog": [],
-			"_sText": "<ul><li><p>Last section lasers are now insta-kill.</p></li><li><p>Chancing all the lasers damage type so it can pierce through kevlar/armor.</p></li><li><p>Chancing the lasers textures to gradient to add more beauty</p></li><li><p>Added more lights to the map</p></li><li><p>Map is now compiled with HDR</p></li></ul>",
-			"_sTitle": "V1_1 updates",
+			"_sText": "<ul><li><p>Last section lasers are now insta-kill.</p></li><li><p>Chancing all the lasers damage type to DROWN so it can pierce through kevlar/armor.</p></li><li><p>Chancing the lasers textures to gradient to add more beauty</p></li><li><p>Added more lights to the map</p></li><li><p>Map is now compiled with HDR</p></li></ul>",
+			"_sTitle": "V1_2 updates",
 			"_tsDateAdded": 1687367292
 		}
 	],
