@@ -4,24 +4,36 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
-					"ze_eerie_escape_v2.bsp"
+					"ze_eerie_escape_v2_1.bsp"
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1003564,
-			"_nDownloadCount": 5,
-			"_nFilesize": 33129600,
+			"_idRow": 1007154,
+			"_nDownloadCount": 4,
+			"_nFilesize": 27144072,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1003564",
-			"_sFile": "ze_eerie_escape_v2.rar",
-			"_sMd5Checksum": "b87038d3e58ea5935e67c52f20601654",
-			"_tsDateAdded": 1687062095
+			"_sDownloadUrl": "https://gamebanana.com/dl/1007154",
+			"_sFile": "ze_eerie_escape_v2_1_c019a.rar",
+			"_sMd5Checksum": "c26d1b92bbcf9999192dc01015e8f94f",
+			"_tsDateAdded": 1687602502
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "Compiling Problem fixed."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "ze_eerie_escape_v2_1",
+			"_sVersion": "v2_1",
+			"_tsDateAdded": 1687565343
+		},
 		{
 			"_aChangeLog": [
 				{
@@ -38,7 +50,7 @@
 				},
 				{
 					"cat": "Addition",
-					"text": "Introduced new Stage ULTIMATE. Now Map has 7 stages in total."
+					"text": "Introduced new Stage ULTIMATE. Now Map has 6 stages in total."
 				},
 				{
 					"cat": "Addition",
@@ -59,6 +71,22 @@
 				{
 					"cat": "Addition",
 					"text": "Added some details."
+				},
+				{
+					"cat": "Improvement",
+					"text": "Less Lasers on Sonic"
+				},
+				{
+					"cat": "Addition",
+					"text": "New Easter Egg added."
+				},
+				{
+					"cat": "Removal",
+					"text": "Backrooms stage removed. Will make new map about it in future."
+				},
+				{
+					"cat": "Optimization",
+					"text": "Entities Optimization."
 				}
 			],
 			"_sText": "",
@@ -68,6 +96,6 @@
 		}
 	],
 	"_idRow": 447053,
-	"_sName": "ze_eerie_escape_v2",
-	"_sText": "**This is an improved version of the beta version of this Map ze_eerie_escape_b1**<br><b><br></b><h2><b><span class=\"GreenColor\">Map Contains:</span></b></h2>5 Stages + Zombie Mode. (7 Total)<br>Stage-1: STATIC<br>Stage-2: SONIC<br>Stage-3: HYPER<br>Stage-4: ULTIMATE<br><span class=\"SelectedElement\">Stage-5: DIMENSIONAL</span><br>Stage-6: BACKROOMS<br><br><span class=\"GreenColor\"><b>Map Also Contains Items (3 for Humans, 3 for Zombies)</b></span><br><br><b>Human Items</b><br><br><ul><li>Tecquila Shotgun</li><li>EERIE Shield</li><li>Teleporter</li></ul><span class=\"GreenColor\"><br></span><b>Zombie Items</b><br><ul><li>Zombie Killer</li><li>Zombie Lure</li><li>Zombie Laser</li></ul><br><span class=\"GreenColor\"><b>Map Info: </b></span><br>On First 5 Stages, Humans have to survive 100 seconds, then they will be teleported to final destination and dodge the Lasers. (4 Stages contains Lasers and 5th has Cube RNG). 5th Stage is based on the game Backrooms. A small but fun stage. And really difficult if Teamwork isn't utilized.<br>7th is simply Zombie Stage. Just to chill! Overall Map is made for fun and doesn't contain any real tryhard.<br><br><span class=\"GreenColor\"><b>NOTE</b></span><br>**If Map contains bugs, just inform me. You are not allowed to edit and re-upload this map.**<br><br>** Map Ideas from NemesisNiDE Laser,Mako Reactor, Luccidreams. **<br>** Special Thanks to Hobbitten for motivating/bug fixes/cfgs. **"
+	"_sName": "ze_eerie_escape_v2_1",
+	"_sText": "**This is an improved version of the beta version of this Map ze_eerie_escape_b1**<br><b><br></b><h2><b><span class=\"GreenColor\">Map Contains:</span></b></h2>5 Stages + Zombie Mode. (6 Total)<br>Stage-1: STATIC<br>Stage-2: SONIC<br>Stage-3: HYPER<br>Stage-4: ULTIMATE<br><span class=\"SelectedElement\">Stage-5: DIMENSIONAL</span><br><br><span class=\"GreenColor\"><b>Map Also Contains Items (3 for Humans, 3 for Zombies)</b></span><br><br><b>Human Items</b><br><br><ul><li>Tecquila Shotgun</li><li>EERIE Shield</li><li>Teleporter</li></ul><span class=\"GreenColor\"><br></span><b>Zombie Items</b><br><ul><li>Zombie Killer</li><li>Zombie Lure</li><li>Zombie Laser</li></ul><br><span class=\"GreenColor\"><b>Map Info: </b></span><br>On First 5 Stages, Humans have to survive 100 seconds, then they will be teleported to final destination and dodge the Lasers. (4 Stages contains Lasers and 5th has Cube RNG). Overall Map is made for fun and doesn't contain any real tryhard.<br><br><span class=\"GreenColor\"><b>NOTE</b></span><br>**If Map contains bugs, just inform me. You are not allowed to edit and re-upload this map.**<br><br>** Map Ideas from NemesisNiDE Laser,Mako Reactor, Luccidreams. **<br>** Special Thanks to Hobbitten for motivating/bug fixes/cfgs. **"
 }
