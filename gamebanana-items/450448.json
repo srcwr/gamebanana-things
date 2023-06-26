@@ -8,20 +8,36 @@
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1002806,
-			"_nDownloadCount": 9,
-			"_nFilesize": 40667119,
+			"_idRow": 1008591,
+			"_nDownloadCount": 0,
+			"_nFilesize": 40855942,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1002806",
-			"_sFile": "surf_hellenic.zip",
-			"_sMd5Checksum": "7bcf1afab910ee6ea173679b7da832a9",
-			"_tsDateAdded": 1686949687
+			"_sDownloadUrl": "https://gamebanana.com/dl/1008591",
+			"_sFile": "surf_hellenic_ccde2.zip",
+			"_sMd5Checksum": "d1f9ab318646d97f1295419af46f2b99",
+			"_tsDateAdded": 1687803905
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "",
+					"text": "Changed ramps from model collision to playerclip"
+				},
+				{
+					"cat": "",
+					"text": "Small texture allignment fixes"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Ramp collision fix",
+			"_tsDateAdded": 1687804122
+		}
+	],
 	"_idRow": 450448,
 	"_sName": "surf_hellenic",
 	"_sText": "A smooth linear map designed for 66t with a 5000 maxvel<br><br>Difficulty somewhere between t3 and t4<br><br>[[Assets]]<br>Ancient Greek Theme Pack<br>by Freyja, Diva Dan, Yrrzy and DJB2401<br>\r\nhttps://tf2maps.net/downloads/ancient-greek-theme-pack.11824/<br><br>Aspen Trees<br>by Stiffy360<br>https://tf2maps.net/downloads/aspen-trees.15280/<br><br>Cloudsky Skybox<br>by Flo<br>https://tf2maps.net/downloads/cloudsky-skybox.14680/<br><br>"
