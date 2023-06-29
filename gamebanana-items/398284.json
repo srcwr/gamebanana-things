@@ -9,7 +9,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 854819,
-			"_nDownloadCount": 27,
+			"_nDownloadCount": 45,
 			"_nFilesize": 61611837,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -19,10 +19,37 @@
 			"_sFile": "mg_devspaceforever_course.zip",
 			"_sMd5Checksum": "455fcff971e5765911579b7c0f1382b2",
 			"_tsDateAdded": 1661521315
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"mg_devspaceforever_v2_course.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 1009394,
+			"_nDownloadCount": 1,
+			"_nFilesize": 64804198,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "new version(no ads)",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1009394",
+			"_sFile": "mg_devspaceforever_v2_course.zip",
+			"_sMd5Checksum": "031c18adb434c3982facb26c7aae3ad6",
+			"_tsDateAdded": 1687905337
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [],
+			"_sText": "<p>New lvl<br>remove ads<br>funny sound<br>and 18+ eastereggs</p>",
+			"_sTitle": "NEW VERSION - NO ADS",
+			"_sVersion": "v2",
+			"_tsDateAdded": 1687905540
+		}
+	],
 	"_idRow": 398284,
-	"_sName": "mg_devspaceforever_course",
-	"_sText": "The map consists of 10 levels, with 5 levels per room.<br><br>At the end there are 777 Frags<br><br>Spavnkill 30 seconds<br><br>2 music.&nbsp;<br><br>Medium difficulty is suitable<br><br>"
+	"_sName": "mg_devspaceforever_v2_course",
+	"_sText": "The map consists of 10 levels, with 5 levels per room. (+5 lvl)<br><br>At the end there are 777 Frags<br><br>Spavnkill 30 seconds<br><br>remove ads v2<br><br>2 music. <br><br>Medium difficulty is suitable<br><br>"
 }
