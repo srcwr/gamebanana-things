@@ -14,7 +14,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1008077,
-			"_nDownloadCount": 3,
+			"_nDownloadCount": 22,
 			"_nFilesize": 38164025,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -24,9 +24,40 @@
 			"_sFile": "ze_crystal_of_will_v1f.rar",
 			"_sMd5Checksum": "a884cbc72c10e18dcfb4e22981f1941e",
 			"_tsDateAdded": 1687730934
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ze_crystal_of_will_v1f.cfg"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 1012122,
+			"_nDownloadCount": 2,
+			"_nFilesize": 212,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "STRIPPER FIX",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1012122",
+			"_sFile": "stripper_crystal_of_will_397d6.rar",
+			"_sMd5Checksum": "1b78c71f36d65c21983c6ed9704d639d",
+			"_tsDateAdded": 1688298981
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "",
+					"text": "fixed some teleports"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "stripper fix",
+			"_tsDateAdded": 1688299387
+		}
+	],
 	"_idRow": 452263,
 	"_sName": "Crystal Of Will",
 	"_sText": "Atmospheric long map with skyrim music lol.<br><br>ofc it's like ze_frostdrake_tower<br>"
