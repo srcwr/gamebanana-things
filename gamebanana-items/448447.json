@@ -4,24 +4,47 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
-					"ze_rooftop_rogue_v1_2.bsp"
+					"ze_rooftop_rogue_v1_3.bsp"
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 997718,
-			"_nDownloadCount": 1,
-			"_nFilesize": 163302657,
+			"_idRow": 1013202,
+			"_nDownloadCount": 3,
+			"_nFilesize": 163379382,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/997718",
-			"_sFile": "ze_rooftop_rogue_v1_2.zip",
-			"_sMd5Checksum": "1200f656481589ebcee45ded43d350c8",
-			"_tsDateAdded": 1686226069
+			"_sDownloadUrl": "https://gamebanana.com/dl/1013202",
+			"_sFile": "ze_rooftop_rogue_v1_3.zip",
+			"_sMd5Checksum": "f26714457466f6db6fb359739d0023e8",
+			"_tsDateAdded": 1688467684
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "added a zombie teleport to stage4 (after the helicopter left first building)"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "fence door on the pool area blocks zombies for few seconds"
+				},
+				{
+					"cat": "Improvement",
+					"text": "improved shadowing a bit"
+				},
+				{
+					"cat": "Improvement",
+					"text": "fixed the ladder stucks players"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "v1_3",
+			"_tsDateAdded": 1688476574
+		},
 		{
 			"_aChangeLog": [
 				{
@@ -39,6 +62,6 @@
 		}
 	],
 	"_idRow": 448447,
-	"_sName": "ze_rooftop_rogue_v1_2",
+	"_sName": "ze_rooftop_rogue_v1_3",
 	"_sText": "casual zombie escape map<br>4stages / no item / no boss fight<br><br>recommend turning on fall damage<br>"
 }
