@@ -4,24 +4,76 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
-					"ze_eerie_escape_v2_1.bsp"
+					"ze_eerie_escape_v3.bsp"
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1007154,
-			"_nDownloadCount": 6,
-			"_nFilesize": 27144072,
+			"_idRow": 1013997,
+			"_nDownloadCount": 1,
+			"_nFilesize": 35058414,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1007154",
-			"_sFile": "ze_eerie_escape_v2_1_c019a.rar",
-			"_sMd5Checksum": "c26d1b92bbcf9999192dc01015e8f94f",
-			"_tsDateAdded": 1687602502
+			"_sDownloadUrl": "https://gamebanana.com/dl/1013997",
+			"_sFile": "ze_eerie_escape_v3.rar",
+			"_sMd5Checksum": "9a50da1879871d65590da90fce87924e",
+			"_tsDateAdded": 1688599726
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "New Human Item added - Jetpack."
+				},
+				{
+					"cat": "Removal",
+					"text": "Removed ZM Lure."
+				},
+				{
+					"cat": "Addition",
+					"text": "Added ZM Item - Invisibility."
+				},
+				{
+					"cat": "Addition",
+					"text": "New Stage CORRUPTED is added. Map now has 7 stages in total."
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed Safe spot on dimensional permanently. RNG made easier."
+				},
+				{
+					"cat": "Addition",
+					"text": "New Holding spots for Humans are added."
+				},
+				{
+					"cat": "Improvement",
+					"text": "Human Items will spawn randomly throughout the map."
+				},
+				{
+					"cat": "Removal",
+					"text": "Unnecessary things are removed. Instead replaced by better."
+				},
+				{
+					"cat": "Addition",
+					"text": "New Banner for contest Winners are added."
+				},
+				{
+					"cat": "Addition",
+					"text": "3 Secrets for Humans are added."
+				},
+				{
+					"cat": "Feature",
+					"text": "It's better if you play the map with NEMESIS MODE in the ratio 1:4."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "ze_eerie_escape_v3",
+			"_sVersion": "v3",
+			"_tsDateAdded": 1688600101
+		},
 		{
 			"_aChangeLog": [
 				{
@@ -33,69 +85,9 @@
 			"_sTitle": "ze_eerie_escape_v2_1",
 			"_sVersion": "v2_1",
 			"_tsDateAdded": 1687565343
-		},
-		{
-			"_aChangeLog": [
-				{
-					"cat": "Improvement",
-					"text": "Fixed Teleporter Item so it teleports the user only."
-				},
-				{
-					"cat": "Improvement",
-					"text": "Decreased Warp CD"
-				},
-				{
-					"cat": "Bugfix",
-					"text": "Fixed Safe Spots on stage 2 & 4 ."
-				},
-				{
-					"cat": "Addition",
-					"text": "Introduced new Stage ULTIMATE. Now Map has 6 stages in total."
-				},
-				{
-					"cat": "Addition",
-					"text": "Gravity Mode on ZM Round."
-				},
-				{
-					"cat": "Addition",
-					"text": "Added New Hiding Spots and holds for humans."
-				},
-				{
-					"cat": "Improvement",
-					"text": "Shield Item can now push zombies back."
-				},
-				{
-					"cat": "Removal",
-					"text": "Removed secret stage."
-				},
-				{
-					"cat": "Addition",
-					"text": "Added some details."
-				},
-				{
-					"cat": "Improvement",
-					"text": "Less Lasers on Sonic"
-				},
-				{
-					"cat": "Addition",
-					"text": "New Easter Egg added."
-				},
-				{
-					"cat": "Removal",
-					"text": "Backrooms stage removed. Will make new map about it in future."
-				},
-				{
-					"cat": "Optimization",
-					"text": "Entities Optimization."
-				}
-			],
-			"_sText": "",
-			"_sTitle": "ze_eerie_escape_v2",
-			"_sVersion": "v2",
-			"_tsDateAdded": 1687062429
 		}
 	],
 	"_idRow": 447053,
-	"_sName": "ze_eerie_escape_v2_1",
-	"_sText": "**This is an improved version of the beta version of this Map ze_eerie_escape_b1**<br><b><br></b><h2><b><span class=\"GreenColor\">Map Contains:</span></b></h2>5 Stages + Zombie Mode. (6 Total)<br>Stage-1: STATIC<br>Stage-2: SONIC<br>Stage-3: HYPER<br>Stage-4: ULTIMATE<br><span class=\"SelectedElement\">Stage-5: DIMENSIONAL</span><br><br><span class=\"GreenColor\"><b>Map Also Contains Items (3 for Humans, 3 for Zombies)</b></span><br><br><b>Human Items</b><br><br><ul><li>Tecquila Shotgun</li><li>EERIE Shield</li><li>Teleporter</li></ul><span class=\"GreenColor\"><br></span><b>Zombie Items</b><br><ul><li>Zombie Killer</li><li>Zombie Lure</li><li>Zombie Laser</li></ul><br><span class=\"GreenColor\"><b>Map Info: </b></span><br>On First 5 Stages, Humans have to survive 100 seconds, then they will be teleported to final destination and dodge the Lasers. (4 Stages contains Lasers and 5th has Cube RNG). Overall Map is made for fun and doesn't contain any real tryhard.<br><br><span class=\"GreenColor\"><b>NOTE</b></span><br>**If Map contains bugs, just inform me. You are not allowed to edit and re-upload this map.**<br><br>** Map Ideas from NemesisNiDE Laser,Mako Reactor, Luccidreams. **<br>** Special Thanks to Hobbitten for motivating/bug fixes/cfgs. **"
+	"_sName": "ze_eerie_escape_v3",
+	"_sText": "**This is an improved version of the beta version of this Map ze_eerie_escape_b1**<br><b><br></b><h2><b><span class=\"GreenColor\">Map Contains:</span></b></h2>6 Stages + Zombie Mode. (6 Total)<br>Stage-1: STATIC<br>Stage-2: SONIC<br>Stage-3: HYPER<br>Stage-4: ULTIMATE<br>Stage-5: CORRUPTED<br>Stage-6: DIMENSIONAL<br><span class=\"GreenColor\"><b>Map Also Contains Items (3 for Humans, 3 for Zombies)</b></span><br><br><b>Human Items</b><br><br><ul><li>Tecquila Shotgun</li><li>EERIE Shield</li><li>Teleporter</li></ul><span class=\"GreenColor\"><br></span><b>Zombie Items</b><br><ul><li>Zombie Killer</li><li class=\"SelectedElement\">Zombie Invisibility</li><li>Zombie Laser</li></ul><br><span class=\"GreenColor\"><b>Map Info:&nbsp;</b></span><br>On First 6 Stages, Humans have to survive 100 seconds, then they will be teleported to final destination and dodge the Lasers. (5 Stages contains Lasers and 6th has Cube RNG).&nbsp;Overall Map is made for fun and doesn't contain any real tryhard.<br><br><span class=\"GreenColor\"><b>NOTE</b></span><br>**If Map contains bugs, just inform me. You are not allowed to edit and re-upload this map.**<br><br>** Map Ideas from NemesisNiDE Laser,Mako Reactor, Luccidreams. **<br>** Special Thanks to Hobbitten for motivating/bug fixes/cfgs. **<br><br>Final Update<br>v3 will be the final version and this map will have no more updates. It was a small prototype map made for fun. And I'm planning to move on and work on my bigger projects."
 }
