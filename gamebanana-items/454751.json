@@ -1,0 +1,62 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "cs_somehouse.bsp",
+					"1": "cs_somehouse.log",
+					"2": "cs_somehouse.prt",
+					"3": "cs_somehouse.vmf",
+					"4": "cs_somehouse.vmx",
+					"5": "readmeiguess.txt",
+					"materials": {
+						"decals": [
+							"fj.vmt",
+							"fj.vtf",
+							"zk.vmt",
+							"zk.vtf"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 1015197,
+			"_nDownloadCount": 2,
+			"_nFilesize": 754949,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "source files",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1015197",
+			"_sFile": "cs_somehouse_sourcefiles.zip",
+			"_sMd5Checksum": "18dd51d375f886737c7332660e506f9f",
+			"_tsDateAdded": 1688769528
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"cs_somehouse.bsp",
+					"cs_somehouse.nav",
+					"readmehplz.txt"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 1015198,
+			"_nDownloadCount": 1,
+			"_nFilesize": 706722,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "compiled map and navmesh",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1015198",
+			"_sFile": "cs_somehouse_f470c.zip",
+			"_sMd5Checksum": "23241e7ab1f10f51088bd65b06746347",
+			"_tsDateAdded": 1688769630
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 454751,
+	"_sName": "cs_somehouse",
+	"_sText": "<b>My first CS:S map!</b><br>This is as you'd expect, a house. Sun included!<br>It looks kind of bad but it's fine, at least I think...<br>Anyways, have fun!"
+}
