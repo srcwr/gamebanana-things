@@ -1,6 +1,10 @@
 import json
 from pathlib import Path
 
+def prettystr(bin):
+    j = json.loads(bin.decode("utf-8"))
+    return json.dumps(j, sort_keys=True, indent='\t', separators=(',', ': '), ensure_ascii=False)
+
 def prettyfile(filename):
     with open(filename, "r+", newline='\n', encoding="utf-8") as f:
         orig = f.read()
