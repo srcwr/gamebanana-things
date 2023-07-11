@@ -3,46 +3,44 @@
 	"_aFiles": [
 		{
 			"_aMetadata": {
-				"_aArchiveFileTree": {
-					"de_dusty": [
-						"de_dusty.bsp",
-						"de_dusty.nav"
-					]
-				}
+				"_aArchiveFileTree": [
+					"de_dusty.bsp",
+					"de_dusty.nav"
+				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 966463,
-			"_nDownloadCount": 66,
-			"_nFilesize": 2837952,
+			"_idRow": 1015593,
+			"_nDownloadCount": 3,
+			"_nFilesize": 2470973,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/966463",
-			"_sFile": "de_dusty_82d93.zip",
-			"_sMd5Checksum": "e38ad638a0cca061da23f51512c6a9ab",
-			"_tsDateAdded": 1681475106
+			"_sDownloadUrl": "https://gamebanana.com/dl/1015593",
+			"_sFile": "de_dusty_fe396.rar",
+			"_sMd5Checksum": "1918e547c5ebb0ff16d3b71ca079394d",
+			"_tsDateAdded": 1688838748
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Improvement",
+					"text": "light fixes,start room, decails floor clip fix."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "de_dusty",
+			"_sVersion": "0.9",
+			"_tsDateAdded": 1688837254
+		},
 		{
 			"_aChangeLog": [],
 			"_sText": "<p>map optimiztion, fixes, impruvments</p>",
 			"_sTitle": "de_dusty",
 			"_sVersion": "0.6",
 			"_tsDateAdded": 1688737636
-		},
-		{
-			"_aChangeLog": [
-				{
-					"cat": "",
-					"text": "ubgrade to A site"
-				}
-			],
-			"_sText": "",
-			"_sTitle": "",
-			"_sVersion": "0.3",
-			"_tsDateAdded": 1681474882
 		}
 	],
 	"_idRow": 437990,
