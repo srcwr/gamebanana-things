@@ -9,20 +9,32 @@
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1015593,
+			"_idRow": 1017281,
 			"_nDownloadCount": 3,
-			"_nFilesize": 2470973,
+			"_nFilesize": 2689684,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1015593",
-			"_sFile": "de_dusty_fe396.rar",
-			"_sMd5Checksum": "1918e547c5ebb0ff16d3b71ca079394d",
-			"_tsDateAdded": 1688838748
+			"_sDownloadUrl": "https://gamebanana.com/dl/1017281",
+			"_sFile": "de_dusty_6cdb0.rar",
+			"_sMd5Checksum": "056958a98d24c9261ba09a7358706a91",
+			"_tsDateAdded": 1689083079
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "",
+					"text": "3d skybox, ct spawn house, nodraw fixes"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "de_dusty",
+			"_sVersion": "1.4",
+			"_tsDateAdded": 1689083194
+		},
 		{
 			"_aChangeLog": [
 				{
@@ -34,13 +46,6 @@
 			"_sTitle": "de_dusty",
 			"_sVersion": "0.9",
 			"_tsDateAdded": 1688837254
-		},
-		{
-			"_aChangeLog": [],
-			"_sText": "<p>map optimiztion, fixes, impruvments</p>",
-			"_sTitle": "de_dusty",
-			"_sVersion": "0.6",
-			"_tsDateAdded": 1688737636
 		}
 	],
 	"_idRow": 437990,

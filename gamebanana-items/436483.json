@@ -17,8 +17,12 @@
 			"url": "https://drive.google.com/file/d/1WCOrI0n5ZG6JlysyegVCFt0p503RGrxQ/view?usp=share_link"
 		},
 		{
-			"description": "Download version 1.4 (CURRENT); [MIRROR]",
+			"description": "Download version 1.4 (OLD))",
 			"url": "https://drive.google.com/file/d/1gNLJQi5Iyp9laSNH0LuJDeK18v7mbfKt/view?usp=share_link"
+		},
+		{
+			"description": "Download version 1.5 (CURRENT); [MIRROR]",
+			"url": "https://drive.google.com/file/d/1cj7aXBhvRKOxyfjrJLpkjoTHCIYX9Yk3/view?usp=sharing"
 		}
 	],
 	"_aFiles": [
@@ -35,20 +39,40 @@
 				}
 			},
 			"_bContainsExe": false,
-			"_idRow": 963203,
-			"_nDownloadCount": 37,
-			"_nFilesize": 1915236,
+			"_idRow": 1017892,
+			"_nDownloadCount": 1,
+			"_nFilesize": 2123242,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/963203",
-			"_sFile": "countryhouse_css_v14_2479a.rar",
-			"_sMd5Checksum": "3596605e89737a30a2fbfe73102d4562",
-			"_tsDateAdded": 1680975367
+			"_sDownloadUrl": "https://gamebanana.com/dl/1017892",
+			"_sFile": "countryhouse_css_v15.rar",
+			"_sMd5Checksum": "646dbdda8067a92e6c5e53af8146a56d",
+			"_tsDateAdded": 1689184735
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Overhaul",
+					"text": "Textures & effects overhaul!"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Textures & gameplay bugfixes"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Gameplay got balanced a bit so CT side will have better game experience"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Countryhouse v1.5 OVERHAUL",
+			"_sVersion": "1.5",
+			"_tsDateAdded": 1689185052
+		},
 		{
 			"_aChangeLog": [
 				{
@@ -68,30 +92,6 @@
 			"_sTitle": "Countryhouse v1.4",
 			"_sVersion": "1.4",
 			"_tsDateAdded": 1680975269
-		},
-		{
-			"_aChangeLog": [
-				{
-					"cat": "Bugfix",
-					"text": "Fixed staircase and outside windows glitches"
-				},
-				{
-					"cat": "Bugfix",
-					"text": "Minor bugs got fixed"
-				},
-				{
-					"cat": "Optimization",
-					"text": "Improved optimization"
-				},
-				{
-					"cat": "Improvement",
-					"text": "Minor visual changes"
-				}
-			],
-			"_sText": "",
-			"_sTitle": "Countryhouse v1.3",
-			"_sVersion": "1.3",
-			"_tsDateAdded": 1680876329
 		}
 	],
 	"_idRow": 436483,
