@@ -9,20 +9,27 @@
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1020608,
-			"_nDownloadCount": 1,
-			"_nFilesize": 3146623,
+			"_idRow": 1021243,
+			"_nDownloadCount": 2,
+			"_nFilesize": 3149467,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1020608",
-			"_sFile": "de_dusty_64612.rar",
-			"_sMd5Checksum": "2d1c0939f07a1ffd00a72fbe90bfced7",
-			"_tsDateAdded": 1689606850
+			"_sDownloadUrl": "https://gamebanana.com/dl/1021243",
+			"_sFile": "de_dusty_56009.rar",
+			"_sMd5Checksum": "acbed24e2319db4948aac569186f5c53",
+			"_tsDateAdded": 1689684205
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [],
+			"_sText": "<p>fixes, impruvments</p><p></p>",
+			"_sTitle": "de_dusty",
+			"_sVersion": "2.0",
+			"_tsDateAdded": 1689684154
+		},
 		{
 			"_aChangeLog": [
 				{
@@ -34,18 +41,6 @@
 			"_sTitle": "de_dusty",
 			"_sVersion": "1.8",
 			"_tsDateAdded": 1689606820
-		},
-		{
-			"_aChangeLog": [
-				{
-					"cat": "",
-					"text": "3d skybox, ct spawn house, nodraw fixes"
-				}
-			],
-			"_sText": "",
-			"_sTitle": "de_dusty",
-			"_sVersion": "1.4",
-			"_tsDateAdded": 1689083194
 		}
 	],
 	"_idRow": 437990,
