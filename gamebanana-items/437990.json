@@ -9,20 +9,32 @@
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1017281,
-			"_nDownloadCount": 3,
-			"_nFilesize": 2689684,
+			"_idRow": 1020608,
+			"_nDownloadCount": 1,
+			"_nFilesize": 3146623,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1017281",
-			"_sFile": "de_dusty_6cdb0.rar",
-			"_sMd5Checksum": "056958a98d24c9261ba09a7358706a91",
-			"_tsDateAdded": 1689083079
+			"_sDownloadUrl": "https://gamebanana.com/dl/1020608",
+			"_sFile": "de_dusty_64612.rar",
+			"_sMd5Checksum": "2d1c0939f07a1ffd00a72fbe90bfced7",
+			"_tsDateAdded": 1689606850
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "",
+					"text": "ester eggs, now 3d skybox, t spawn remake"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "de_dusty",
+			"_sVersion": "1.8",
+			"_tsDateAdded": 1689606820
+		},
 		{
 			"_aChangeLog": [
 				{
@@ -34,21 +46,9 @@
 			"_sTitle": "de_dusty",
 			"_sVersion": "1.4",
 			"_tsDateAdded": 1689083194
-		},
-		{
-			"_aChangeLog": [
-				{
-					"cat": "Improvement",
-					"text": "light fixes,start room, decails floor clip fix."
-				}
-			],
-			"_sText": "",
-			"_sTitle": "de_dusty",
-			"_sVersion": "0.9",
-			"_tsDateAdded": 1688837254
 		}
 	],
 	"_idRow": 437990,
 	"_sName": "de_dusty",
-	"_sText": "<pre class=\"SelectedElement\">THE year is 2004 the atack of de_dust 2 was a succes.<span class=\"expand\">\r\nTHE Terorists ar asalting the Neighbor of de_dust 2.\r\nCT have discovered ther plan. And the atack has begun!</span></pre>"
+	"_sText": "<pre>THE year is 2004 the atack of de_dust 2 was a succes.<span class=\"expand SelectedElement\">\r\nTHE Terorists are asalting the Neighbor of de_dust 2.\r\nCT have discovered ther plan. And the atack has begun!</span></pre>"
 }

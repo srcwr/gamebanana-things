@@ -1,0 +1,196 @@
+{
+	"_aAlternateFileSources": [
+		{
+			"description": "My steam workshop",
+			"url": "https://steamcommunity.com/profiles/76561198147020545/myworkshopfiles/"
+		}
+	],
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"mg_piratewars_remake.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 1020502,
+			"_nDownloadCount": 7,
+			"_nFilesize": 10482366,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "bsp",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1020502",
+			"_sFile": "mg_piratewars_remake_7d9a4.rar",
+			"_sMd5Checksum": "35a1236e0388dcee604fc21696821a59",
+			"_tsDateAdded": 1689588369
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"Sourcefiles - piratewars_remake": {
+						"maps": [
+							"mg_piratewars_remake.vmf"
+						],
+						"materials": {
+							"piratewars_remake": {
+								"0": "boat_hint.vmt",
+								"1": "boat_hint.vtf",
+								"10": "flag_blue.vmt",
+								"11": "flag_blue.vtf",
+								"12": "flag_orange.vmt",
+								"13": "flag_orange.vtf",
+								"14": "flag_red.vmt",
+								"15": "flag_red.vtf",
+								"16": "flag_triangle.vmt",
+								"17": "flag_triangle.vtf",
+								"18": "flag_yellow.vmt",
+								"19": "flag_yellow.vtf",
+								"2": "cloth_15.vmt",
+								"20": "metal_grate_07.vmt",
+								"21": "metal_grate_07.vtf",
+								"22": "neutralflag.vmt",
+								"23": "neutralflag.vtf",
+								"24": "parus.vmt",
+								"25": "roof1.vmt",
+								"26": "roof1.vtf",
+								"27": "roof1_kantik.vmt",
+								"28": "roof1_kantik.vtf",
+								"29": "rope_net.vmt",
+								"3": "cloth_15.vtf",
+								"30": "rope_net.vtf",
+								"31": "sand_19.vmt",
+								"32": "sand_19.vtf",
+								"33": "sand_19_nrm.vtf",
+								"34": "seagull_group.vmt",
+								"35": "seagull_group.vtf",
+								"36": "t_flag.vmt",
+								"37": "t_flag.vtf",
+								"38": "wood_123.vmt",
+								"39": "wood_123.vtf",
+								"4": "ct_flag.vmt",
+								"40": "wood_123_nrm.vtf",
+								"41": "wood_1_07.vmt",
+								"42": "wood_1_07.vtf",
+								"43": "wood_34.vmt",
+								"44": "wood_34.vtf",
+								"45": "wood_38.vmt",
+								"46": "wood_38.vtf",
+								"47": "wood_43.vmt",
+								"48": "wood_43.vtf",
+								"49": "wood_46.vmt",
+								"5": "ct_flag.vtf",
+								"50": "wood_46.vtf",
+								"51": "wood_88.vmt",
+								"52": "wood_88.vtf",
+								"53": "wood_999.vmt",
+								"54": "wood_999.vtf",
+								"55": "wood_floor_05.vmt",
+								"56": "wood_floor_05.vtf",
+								"57": "wood_floor_08.vmt",
+								"58": "wood_floor_08.vtf",
+								"59": "wood_floor_6.vmt",
+								"6": "dt_smooth1.vtf",
+								"60": "wood_floor_6.vtf",
+								"7": "dt_wood.vtf",
+								"8": "dt_wood1.vtf",
+								"9": "dt_wood2.vtf",
+								"ship_skybox": [
+									"mysticblack.vmt",
+									"mysticblack.vtf",
+									"westernwhite.vmt",
+									"westernwhite.vtf",
+									"wood_05.vmt",
+									"wood_05.vtf",
+									"wood_34.vmt",
+									"wood_a01.vmt",
+									"wood_a01.vtf"
+								]
+							},
+							"skybox": [
+								"sky303bk.vmt",
+								"sky303bk.vtf",
+								"sky303dn.vmt",
+								"sky303dn.vtf",
+								"sky303ft.vmt",
+								"sky303ft.vtf",
+								"sky303lf.vmt",
+								"sky303lf.vtf",
+								"sky303rt.vmt",
+								"sky303rt.vtf",
+								"sky303up.vmt",
+								"sky303up.vtf"
+							],
+							"water": [
+								"water_13_blue.vmt",
+								"water_13_blue_beneath.vmt",
+								"water_13_dudv.vtf",
+								"water_13_normal.vtf"
+							]
+						},
+						"models": {
+							"piratewars_remake": [
+								"cannon_portable.dx80.vtx",
+								"cannon_portable.dx90.vtx",
+								"cannon_portable.mdl",
+								"cannon_portable.sw.vtx",
+								"cannon_portable.vvd",
+								"flag.dx80.vtx",
+								"flag.dx90.vtx",
+								"flag.mdl",
+								"flag.phy",
+								"flag.sw.vtx",
+								"flag.vvd",
+								"flag_triangle.dx80.vtx",
+								"flag_triangle.dx90.vtx",
+								"flag_triangle.mdl",
+								"flag_triangle.sw.vtx",
+								"flag_triangle.vvd",
+								"sail.dx80.vtx",
+								"sail.dx90.vtx",
+								"sail.mdl",
+								"sail.phy",
+								"sail.sw.vtx",
+								"sail.vvd",
+								"seagull_group_port.dx80.vtx",
+								"seagull_group_port.dx90.vtx",
+								"seagull_group_port.mdl",
+								"seagull_group_port.sw.vtx",
+								"seagull_group_port.vvd",
+								"ship_skybox.dx80.vtx",
+								"ship_skybox.dx90.vtx",
+								"ship_skybox.mdl",
+								"ship_skybox.phy",
+								"ship_skybox.sw.vtx",
+								"ship_skybox.vvd"
+							]
+						},
+						"sound": {
+							"piratewars_remake": [
+								"piratewars_rand1.mp3",
+								"piratewars_rand2.mp3",
+								"piratewars_sink-epic.mp3"
+							]
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 1020503,
+			"_nDownloadCount": 2,
+			"_nFilesize": 19431836,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "vmf & materials",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1020503",
+			"_sFile": "sourcefiles_-_piratewars_remake.rar",
+			"_sMd5Checksum": "298ca9237591ed937b948365c0af1af4",
+			"_tsDateAdded": 1689588386
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 456609,
+	"_sName": "PirateWars Remake",
+	"_sText": "<h1>A legend is back!</h1>Good old mg_piratewars in a new wrapper.&nbsp;<br>What major changes were made?<br><br><ol class=\"SelectedElement\"><li>Redone visuals. The ships were remade from scratch.<br>2. Updated gameplay<br>3. New logic<br></li></ol><br><h2>How to play?</h2>The cannons and boats now use <b>buttons </b>instead of triggers.&nbsp;<br><br>The main task is to sink an enemy ship using <b>cannons. A</b>s soon as one of the ships is sunk, players gain access to the <b>boats.&nbsp;</b>If a <b>boat</b> is hit by a <b>cannon</b>, it will catch fire and be unusable.&nbsp;<br><br>In addition to the regular boats, there's an improved one with a <b>cannon</b> that fires buckshot, which damages only players.&nbsp;The <b>big boat</b> becomes available one minute after the start of the round.&nbsp;<br><br>There's also an <b>island</b> on the map - a safe place for the players from a sinking ship.<br><br>In addition, one player on a team may become <b>captain</b>, which has 150 hp and regeneration up to 100 hp.&nbsp;A <b>captain</b> can also heal his teammates.<br><hr><br>I used edited realworldtextures by tophattwaffle for this map.<br><br><br>"
+}
