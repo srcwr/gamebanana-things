@@ -34,7 +34,7 @@ for x in links:
     open(filename, "w").close()
 
     data = {
-        "content": "message",
+        "content": "new download at https://gamebanana.com/mods/"+str(x[4])+" "+x[2],
         "username": "gamebanana peeper",
         "embeds": [],
     }
