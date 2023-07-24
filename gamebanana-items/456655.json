@@ -13,7 +13,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1021273,
-			"_nDownloadCount": 12,
+			"_nDownloadCount": 17,
 			"_nFilesize": 83285613,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -32,7 +32,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1021733,
-			"_nDownloadCount": 7,
+			"_nDownloadCount": 9,
 			"_nFilesize": 3747,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -42,21 +42,40 @@
 			"_sFile": "stripper_fix_22577.rar",
 			"_sMd5Checksum": "694553b8f0ba2799a03ca82507ed13cc",
 			"_tsDateAdded": 1689736645
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ze_diablo_v3 (5).cfg"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 1024634,
+			"_nDownloadCount": 0,
+			"_nFilesize": 3785,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1024634",
+			"_sFile": "ze_diablo_v3_stripper_fix.rar",
+			"_sMd5Checksum": "034a4b4038f030d4d902e00d73198183",
+			"_tsDateAdded": 1690158293
 		}
 	],
 	"_aLatestUpdates": [
 		{
 			"_aChangeLog": [],
-			"_sText": "<p>Fixes damage filter. <br>Be sure to rename the cfg to the proper name.</p>",
-			"_sTitle": "Updated Stripper",
-			"_tsDateAdded": 1689736683
+			"_sText": "<p>Fixes dmg filter (again)</p>",
+			"_sTitle": "Updated Stripper (again)",
+			"_sVersion": "v3",
+			"_tsDateAdded": 1690158325
 		},
 		{
 			"_aChangeLog": [],
-			"_sText": "<p>Stripper was updated to include last fixes and marathon mode.</p>",
+			"_sText": "<p>Fixes damage filter. <br>Be sure to rename the cfg to the proper name.</p>",
 			"_sTitle": "Updated Stripper",
-			"_sVersion": "ze_diablo_v3",
-			"_tsDateAdded": 1689688899
+			"_tsDateAdded": 1689736683
 		}
 	],
 	"_idRow": 456655,
