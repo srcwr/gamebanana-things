@@ -8,20 +8,33 @@
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1023926,
-			"_nDownloadCount": 9,
-			"_nFilesize": 87519020,
+			"_idRow": 1024724,
+			"_nDownloadCount": 0,
+			"_nFilesize": 87540279,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1023926",
-			"_sFile": "trikz_telkapni_ba531.zip",
-			"_sMd5Checksum": "02946532a9c62bf4ac99dd1edc7e3362",
-			"_tsDateAdded": 1690056339
+			"_sDownloadUrl": "https://gamebanana.com/dl/1024724",
+			"_sFile": "trikz_telkapni_5a709.zip",
+			"_sMd5Checksum": "b931d972b5bb5138c6613ba05f641578",
+			"_tsDateAdded": 1690170510
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Tweak",
+					"text": "Removed boat from s2 for better flow, patched skips on s3, and removed a no jump flash from last stage to balance the difficulty."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "refix_njv_1",
+			"_sVersion": "1",
+			"_tsDateAdded": 1690170612
+		}
+	],
 	"_idRow": 457683,
 	"_sName": "trikz_telkapni",
 	"_sText": "A collab map made by Alpha, Tele, Nity, and Katz.  This map is roughly t7 and contact me if you find any bugs."
