@@ -8,20 +8,36 @@
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1024724,
-			"_nDownloadCount": 1,
-			"_nFilesize": 87540279,
+			"_idRow": 1025368,
+			"_nDownloadCount": 0,
+			"_nFilesize": 87528392,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1024724",
-			"_sFile": "trikz_telkapni_5a709.zip",
-			"_sMd5Checksum": "b931d972b5bb5138c6613ba05f641578",
-			"_tsDateAdded": 1690170510
+			"_sDownloadUrl": "https://gamebanana.com/dl/1025368",
+			"_sFile": "trikz_telkapni_df926.zip",
+			"_sMd5Checksum": "798e7e07e0f7588e14a5580f7c8834d4",
+			"_tsDateAdded": 1690253557
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "",
+					"text": "Added a trigger that was missing that allowed the last wall before ending to be bhopped."
+				},
+				{
+					"cat": "",
+					"text": "Aligned a floating block to the floor."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "refix_njv_2_sadge",
+			"_sVersion": "2",
+			"_tsDateAdded": 1690256466
+		},
 		{
 			"_aChangeLog": [
 				{

@@ -13,7 +13,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1021273,
-			"_nDownloadCount": 18,
+			"_nDownloadCount": 21,
 			"_nFilesize": 83285613,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -32,7 +32,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1021733,
-			"_nDownloadCount": 9,
+			"_nDownloadCount": 10,
 			"_nFilesize": 3747,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -51,7 +51,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1024634,
-			"_nDownloadCount": 1,
+			"_nDownloadCount": 3,
 			"_nFilesize": 3785,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -61,21 +61,58 @@
 			"_sFile": "ze_diablo_v3_stripper_fix.rar",
 			"_sMd5Checksum": "034a4b4038f030d4d902e00d73198183",
 			"_tsDateAdded": 1690158293
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ze_diablo_v3 (6).cfg"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 1025036,
+			"_nDownloadCount": 1,
+			"_nFilesize": 3997,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1025036",
+			"_sFile": "ladder_stripper.rar",
+			"_sMd5Checksum": "9bcfeda2b2c823cd5bb2b97726479919",
+			"_tsDateAdded": 1690218221
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ze_diablo_v3 (7).cfg"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 1025040,
+			"_nDownloadCount": 0,
+			"_nFilesize": 4082,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1025040",
+			"_sFile": "stripper_details.rar",
+			"_sMd5Checksum": "31eb8c6b8b2f8665bf3ec98010dae73c",
+			"_tsDateAdded": 1690218669
 		}
 	],
 	"_aLatestUpdates": [
 		{
 			"_aChangeLog": [],
-			"_sText": "<p>Fixes dmg filter (again)</p>",
-			"_sTitle": "Updated Stripper (again)",
-			"_sVersion": "v3",
-			"_tsDateAdded": 1690158325
+			"_sText": "<p>Includes minor fixes and contact information if questions are needed</p>",
+			"_sTitle": "Ultra updated stripper",
+			"_tsDateAdded": 1690218707
 		},
 		{
 			"_aChangeLog": [],
-			"_sText": "<p>Fixes damage filter. <br>Be sure to rename the cfg to the proper name.</p>",
-			"_sTitle": "Updated Stripper",
-			"_tsDateAdded": 1689736683
+			"_sText": "<p>This stripper update includes a teleport on stage 3 during the tower section that teleports players up the ladders to avoid confusion and glitchy ladder physics.</p>",
+			"_sTitle": "Ladder Stripper",
+			"_tsDateAdded": 1690218271
 		}
 	],
 	"_idRow": 456655,
