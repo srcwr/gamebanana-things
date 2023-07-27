@@ -4,92 +4,12 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
-					"READ_ME.txt",
-					"ze_diablo_v3 (1).cfg",
-					"ze_diablo_v3 (2).cfg",
-					"ze_diablo_v3.bsp",
-					"ze_diablo_v3.cfg"
-				]
-			},
-			"_bContainsExe": false,
-			"_idRow": 1021273,
-			"_nDownloadCount": 21,
-			"_nFilesize": 83285613,
-			"_sAnalysisResult": "File passed analysis",
-			"_sAnalysisState": "done",
-			"_sClamAvResult": "clean",
-			"_sDescription": "Updated stripper fix and included marathon mode button",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1021273",
-			"_sFile": "ze_diablo_update.rar",
-			"_sMd5Checksum": "4a2019118983d316772d566aa9a1e61a",
-			"_tsDateAdded": 1689688706
-		},
-		{
-			"_aMetadata": {
-				"_aArchiveFileTree": [
-					"ze_diablo_v3 (4).cfg"
-				]
-			},
-			"_bContainsExe": false,
-			"_idRow": 1021733,
-			"_nDownloadCount": 10,
-			"_nFilesize": 3747,
-			"_sAnalysisResult": "File passed analysis",
-			"_sAnalysisState": "done",
-			"_sClamAvResult": "clean",
-			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1021733",
-			"_sFile": "stripper_fix_22577.rar",
-			"_sMd5Checksum": "694553b8f0ba2799a03ca82507ed13cc",
-			"_tsDateAdded": 1689736645
-		},
-		{
-			"_aMetadata": {
-				"_aArchiveFileTree": [
-					"ze_diablo_v3 (5).cfg"
-				]
-			},
-			"_bContainsExe": false,
-			"_idRow": 1024634,
-			"_nDownloadCount": 3,
-			"_nFilesize": 3785,
-			"_sAnalysisResult": "File passed analysis",
-			"_sAnalysisState": "done",
-			"_sClamAvResult": "clean",
-			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1024634",
-			"_sFile": "ze_diablo_v3_stripper_fix.rar",
-			"_sMd5Checksum": "034a4b4038f030d4d902e00d73198183",
-			"_tsDateAdded": 1690158293
-		},
-		{
-			"_aMetadata": {
-				"_aArchiveFileTree": [
-					"ze_diablo_v3 (6).cfg"
-				]
-			},
-			"_bContainsExe": false,
-			"_idRow": 1025036,
-			"_nDownloadCount": 1,
-			"_nFilesize": 3997,
-			"_sAnalysisResult": "File passed analysis",
-			"_sAnalysisState": "done",
-			"_sClamAvResult": "clean",
-			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1025036",
-			"_sFile": "ladder_stripper.rar",
-			"_sMd5Checksum": "9bcfeda2b2c823cd5bb2b97726479919",
-			"_tsDateAdded": 1690218221
-		},
-		{
-			"_aMetadata": {
-				"_aArchiveFileTree": [
 					"ze_diablo_v3 (7).cfg"
 				]
 			},
 			"_bContainsExe": false,
 			"_idRow": 1025040,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 2,
 			"_nFilesize": 4082,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -107,12 +27,6 @@
 			"_sText": "<p>Includes minor fixes and contact information if questions are needed</p>",
 			"_sTitle": "Ultra updated stripper",
 			"_tsDateAdded": 1690218707
-		},
-		{
-			"_aChangeLog": [],
-			"_sText": "<p>This stripper update includes a teleport on stage 3 during the tower section that teleports players up the ladders to avoid confusion and glitchy ladder physics.</p>",
-			"_sTitle": "Ladder Stripper",
-			"_tsDateAdded": 1690218271
 		}
 	],
 	"_idRow": 456655,
