@@ -9,7 +9,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 740650,
-			"_nDownloadCount": 102,
+			"_nDownloadCount": 115,
 			"_nFilesize": 86557087,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -28,7 +28,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 741954,
-			"_nDownloadCount": 42,
+			"_nDownloadCount": 46,
 			"_nFilesize": 88661840,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -47,7 +47,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 774563,
-			"_nDownloadCount": 57,
+			"_nDownloadCount": 69,
 			"_nFilesize": 88700003,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -66,7 +66,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 783665,
-			"_nDownloadCount": 66,
+			"_nDownloadCount": 107,
 			"_nFilesize": 88695765,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -79,6 +79,22 @@
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Optimization",
+					"text": "Replaced particles with css/hl2 ones to prevent console particle caching errors"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Fixed mario kart buttons that were controlling another door"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "v3 Fix",
+			"_sVersion": "v3_fix",
+			"_tsDateAdded": 1690626104
+		},
 		{
 			"_aChangeLog": [
 				{
@@ -97,25 +113,6 @@
 			"_sText": "",
 			"_sTitle": "v3",
 			"_tsDateAdded": 1650046386
-		},
-		{
-			"_aChangeLog": [
-				{
-					"cat": "Adjustment",
-					"text": "Changed weapons spot in armory to prevent being able to pick them through armory window wall."
-				},
-				{
-					"cat": "Bugfix",
-					"text": "Fixed losers Teleport in Mario Kart"
-				},
-				{
-					"cat": "Bugfix",
-					"text": "CTs can't shoot inside star pit anymore to prevent the game from bugging out."
-				}
-			],
-			"_sText": "",
-			"_sTitle": "v2",
-			"_tsDateAdded": 1648744609
 		}
 	],
 	"_idRow": 355009,
