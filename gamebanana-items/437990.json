@@ -9,38 +9,38 @@
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1021243,
-			"_nDownloadCount": 7,
-			"_nFilesize": 3149467,
+			"_idRow": 1028279,
+			"_nDownloadCount": 0,
+			"_nFilesize": 3235477,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1021243",
-			"_sFile": "de_dusty_56009.rar",
-			"_sMd5Checksum": "acbed24e2319db4948aac569186f5c53",
-			"_tsDateAdded": 1689684205
+			"_sDownloadUrl": "https://gamebanana.com/dl/1028279",
+			"_sFile": "de_dusty_36111.rar",
+			"_sMd5Checksum": "62cf8c74c67e91dcffc35367fc7de65b",
+			"_tsDateAdded": 1690700269
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "",
+					"text": "displacement fixes, now displacements, A site update."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "de_dusty",
+			"_sVersion": "2.2",
+			"_tsDateAdded": 1690700205
+		},
 		{
 			"_aChangeLog": [],
 			"_sText": "<p>fixes, impruvments</p><p></p>",
 			"_sTitle": "de_dusty",
 			"_sVersion": "2.0",
 			"_tsDateAdded": 1689684154
-		},
-		{
-			"_aChangeLog": [
-				{
-					"cat": "",
-					"text": "ester eggs, now 3d skybox, t spawn remake"
-				}
-			],
-			"_sText": "",
-			"_sTitle": "de_dusty",
-			"_sVersion": "1.8",
-			"_tsDateAdded": 1689606820
 		}
 	],
 	"_idRow": 437990,
