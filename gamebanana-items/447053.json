@@ -8,17 +8,17 @@
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1031706,
+			"_idRow": 1031733,
 			"_nDownloadCount": 0,
-			"_nFilesize": 37800281,
+			"_nFilesize": 37722544,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1031706",
-			"_sFile": "ze_eerie_escape_v3_5.rar",
-			"_sMd5Checksum": "64086318455eb9dae15e3472e531bb29",
-			"_tsDateAdded": 1691206183
+			"_sDownloadUrl": "https://gamebanana.com/dl/1031733",
+			"_sFile": "ze_eerie_escape_v3_5_af85b.rar",
+			"_sMd5Checksum": "53690b2ae3bfe530cf7149e5573ff6aa",
+			"_tsDateAdded": 1691212107
 		}
 	],
 	"_aLatestUpdates": [
@@ -59,6 +59,18 @@
 				{
 					"cat": "Addition",
 					"text": "CORRUPTED has RNG now."
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Warp CD reduced."
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Shotgun damage increased, reduced uses."
+				},
+				{
+					"cat": "Adjustment",
+					"text": "ZInvisibility CD reduced"
 				}
 			],
 			"_sText": "",
