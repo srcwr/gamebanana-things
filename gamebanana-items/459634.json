@@ -12,19 +12,70 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1028955,
-			"_nDownloadCount": 2,
+			"_nDownloadCount": 10,
 			"_nFilesize": 70935,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
-			"_sDescription": "",
+			"_sDescription": "1.0(old)",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1028955",
 			"_sFile": "de_city_a4f0a.rar",
 			"_sMd5Checksum": "4ec400c83bd9444665a65cca0b2c953d",
 			"_tsDateAdded": 1690799112
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"New folder": [
+						"de_city.bsp",
+						"de_city.nav"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 1032767,
+			"_nDownloadCount": 0,
+			"_nFilesize": 73145,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "1.5beta",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1032767",
+			"_sFile": "de_city15.rar",
+			"_sMd5Checksum": "164ef916bd2362e0b82e8de03a223582",
+			"_tsDateAdded": 1691356176
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "",
+					"text": "This verion added some improvements and the major ones will be mentioned"
+				},
+				{
+					"cat": "Improvement",
+					"text": "1-Both bombsites now has Dustcloud and fire when the bomb explodes and bombsite B has the biggest Explosion compared to bombsite A"
+				},
+				{
+					"cat": "Addition",
+					"text": "2-Added some overlays to decorate and at the same time Guide the new players in the map but there is not much of them due to Touching faces problem"
+				},
+				{
+					"cat": "Addition",
+					"text": "3-A New entry to Bombsite B to make it easier for the Terroist's to enter the bombsite"
+				},
+				{
+					"cat": "Optimization",
+					"text": "4-Removed some unnecessary Walls and Roofs for improving the Performance and making the map More Vram And Ram Friendly"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "de_city",
+			"_sVersion": "1.5beta",
+			"_tsDateAdded": 1691357627
+		}
+	],
 	"_idRow": 459634,
 	"_sName": "de_city",
 	"_sText": "Hello gamebanana users!<br>i will now introduce de_city Map<br>This is a Medium-Sized map created with Hammer++ for Counter Strike Source!<br>with 2 Bomb sites and A lot of entries to the bombsites players must thing about how to enter the bombsites with the least possible deaths and damage<br>"
