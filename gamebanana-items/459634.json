@@ -4,28 +4,6 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": {
-					"de_city": [
-						"de_city.bsp",
-						"de_city.nav"
-					]
-				}
-			},
-			"_bContainsExe": false,
-			"_idRow": 1028955,
-			"_nDownloadCount": 10,
-			"_nFilesize": 70935,
-			"_sAnalysisResult": "File passed analysis",
-			"_sAnalysisState": "done",
-			"_sClamAvResult": "clean",
-			"_sDescription": "1.0(old)",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1028955",
-			"_sFile": "de_city_a4f0a.rar",
-			"_sMd5Checksum": "4ec400c83bd9444665a65cca0b2c953d",
-			"_tsDateAdded": 1690799112
-		},
-		{
-			"_aMetadata": {
-				"_aArchiveFileTree": {
 					"New folder": [
 						"de_city.bsp",
 						"de_city.nav"
@@ -34,7 +12,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1032767,
-			"_nDownloadCount": 1,
+			"_nDownloadCount": 3,
 			"_nFilesize": 73145,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -44,9 +22,63 @@
 			"_sFile": "de_city15.rar",
 			"_sMd5Checksum": "164ef916bd2362e0b82e8de03a223582",
 			"_tsDateAdded": 1691356176
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"de_city1.5comp": [
+						"de_city.bsp",
+						"de_city.nav"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 1033327,
+			"_nDownloadCount": 0,
+			"_nFilesize": 77972,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "1.5",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1033327",
+			"_sFile": "de_city15comp.rar",
+			"_sMd5Checksum": "0e074fa74f3b67fd62b71e9747723b6f",
+			"_tsDateAdded": 1691445266
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "",
+					"text": "This update solved somethings and added some other things all the Additions and Improvements will be mentioned"
+				},
+				{
+					"cat": "Addition",
+					"text": "1-A Siren sound will play if the bomb explodes and the sound will come from Bombsite B"
+				},
+				{
+					"cat": "Addition",
+					"text": "2-Added a long way for the Terroist to enter bombsite B"
+				},
+				{
+					"cat": "Optimization",
+					"text": "3-Improved optimization"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "4-Changed the Dustcloud Color for both bombsites to this Code\"158 149 0\""
+				},
+				{
+					"cat": "Adjustment",
+					"text": "5-Moved the Nuclear waste boxes on Bombsite A for the terroist to not plant the bomb in a hard position to Find"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "de_city",
+			"_sVersion": "1.5 Complete",
+			"_tsDateAdded": 1691445666
+		},
 		{
 			"_aChangeLog": [
 				{
