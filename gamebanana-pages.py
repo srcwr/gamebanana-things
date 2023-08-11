@@ -13,21 +13,28 @@ import random
 #apiurl = "https://gamebanana.com/apiv8/Mod/ByCategory?_aCategoryRowIds[]=5535&_nPerpage=50&_csvProperties=_aFiles,_idRow,_sName,_aAlternateFileSources,_aLatestUpdates,_sText&_csvFlags=FILE_METADATA&_nPage="
 apiurl = "https://gamebanana.com/apiv8/Mod/ByCategory?nPerpage=50&_csvProperties=_aFiles,_idRow,_sName,_aAlternateFileSources,_aLatestUpdates,_sText&_csvFlags=FILE_METADATA&_sOrderBy=_tsDateUpdated,DESC"
 
-def fucker(category, a, b):
+def fucker(d, category, a, b):
     for i in range(a, b):
         resp = requests.get(apiurl + "&cachebuster=" + str(random.randint(1,666)) + "&_nPage=" + str(i) + "&_aCategoryRowIds[]=" + str(category))
         #with open(f"gamebanana-pages/{i:03}.json", "wb") as f:
-        xd = f"gamebanana-pages/_{category}_{i:03}.json"
+        xd = f"{d}/gamebanana-pages/_{category}_{i:03}.json"
         with open(xd, "wb") as f:
             f.write(resp.content)
             print(f"write to _{category}_{i:03}.json")
         prettyjson.prettyfile(xd)
         time.sleep(1.5)
 
-fucker(5535, 1, 2) #785
-fucker(95, 1, 2) #15
-fucker(327, 1, 2)
-fucker(2528, 1, 2)
+def main(d):
+    fucker(d, 5535, 1, 2) #785
+    fucker(d, 95, 1, 2) #15
+    fucker(d, 327, 1, 2)
+    fucker(d, 2528, 1, 2)
+    #fucker(95, 1, 6) #15
+    #fucker(327, 1, 6)
+    #fucker(2528, 1, 6)
+
+if __name__ == "__main__":
+    main(".")
 
 """
 dddd = Path("gb-pages")
