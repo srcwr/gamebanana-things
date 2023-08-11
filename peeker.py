@@ -22,7 +22,7 @@ def main(d, callback):
     repo = Repo(d)
     for item in repo.index.diff("HEAD"):
         if "gamebanana-items" in item.a_path:
-            with open(item.a_path, "r", encoding="utf-8") as f:
+            with open(d + "/" + item.a_path, "r", encoding="utf-8") as f:
                 j = json.load(f)
                 for file in j["_aFiles"]:
                     filesizesum += file["_nFilesize"]
