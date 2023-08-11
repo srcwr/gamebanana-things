@@ -4,24 +4,84 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
-					"ze_eerie_escape_v3_5.bsp"
+					"ze_eerie_escape_v4.bsp"
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1031733,
-			"_nDownloadCount": 5,
-			"_nFilesize": 37722544,
+			"_idRow": 1034973,
+			"_nDownloadCount": 0,
+			"_nFilesize": 41044171,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1031733",
-			"_sFile": "ze_eerie_escape_v3_5_af85b.rar",
-			"_sMd5Checksum": "53690b2ae3bfe530cf7149e5573ff6aa",
-			"_tsDateAdded": 1691212107
+			"_sDownloadUrl": "https://gamebanana.com/dl/1034973",
+			"_sFile": "ze_eerie_escape_v4.rar",
+			"_sMd5Checksum": "89c900e25b8e50db4bffee1d49d9fb4e",
+			"_tsDateAdded": 1691711997
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "Fixed the Bar hiding spot."
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed JetPack teleport glitch."
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed all safe spots on dimensional."
+				},
+				{
+					"cat": "Addition",
+					"text": "Increased turret damage. Instant kill to humans."
+				},
+				{
+					"cat": "Optimization",
+					"text": "Optimized all levels."
+				},
+				{
+					"cat": "Addition",
+					"text": "Added a new teleport system. People have to go to 2 safe zones where the people present will be teleported. One zone has 50/50 chance of teleporting."
+				},
+				{
+					"cat": "Addition",
+					"text": "Removed old teleporting system for humans. More ZE Dominant system is added. No need to whine more."
+				},
+				{
+					"cat": "Suggestion",
+					"text": "People who don't reach the safe zones will meet an inevitable end."
+				},
+				{
+					"cat": "Refactor",
+					"text": "Hell from v1 is added back :)"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Speed of RNG on MYSTIC is reduced on one segment. Fixed a safe spot."
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Teleporter item abuse glitch is permanently fixed. Sorry 21Pika."
+				},
+				{
+					"cat": "Adjustment",
+					"text": "2nd RNG segment on DIMENSIONAL is buffed a little bit."
+				},
+				{
+					"cat": "",
+					"text": "v4 is final, I promise."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "ze_eerie_escape_v4",
+			"_sVersion": "v4",
+			"_tsDateAdded": 1691712473
+		},
 		{
 			"_aChangeLog": [
 				{
@@ -46,7 +106,7 @@
 				},
 				{
 					"cat": "Addition",
-					"text": "More Lasers on ULTIMATE, reduced the width of the lasers."
+					"text": "More Lasers on ULTIMATE,harder, reduced the width of the lasers."
 				},
 				{
 					"cat": "Addition",
@@ -71,67 +131,23 @@
 				{
 					"cat": "Adjustment",
 					"text": "ZInvisibility CD reduced"
-				}
-			],
-			"_sText": "",
-			"_sTitle": "ze_eerie_escape_v3_5",
-			"_sVersion": "v3_5",
-			"_tsDateAdded": 1691206378
-		},
-		{
-			"_aChangeLog": [
-				{
-					"cat": "Addition",
-					"text": "New Human Item added - Jetpack."
-				},
-				{
-					"cat": "Removal",
-					"text": "Removed ZM Lure."
-				},
-				{
-					"cat": "Addition",
-					"text": "Added ZM Item - Invisibility."
-				},
-				{
-					"cat": "Addition",
-					"text": "New Stage CORRUPTED is added. Map now has 7 stages in total."
-				},
-				{
-					"cat": "Bugfix",
-					"text": "Fixed Safe spot on dimensional permanently. RNG made easier."
-				},
-				{
-					"cat": "Addition",
-					"text": "New Holding spots for Humans are added."
 				},
 				{
 					"cat": "Improvement",
-					"text": "Human Items will spawn randomly throughout the map."
+					"text": "Items will spawn on 1 place only."
 				},
 				{
-					"cat": "Removal",
-					"text": "Unnecessary things are removed. Instead replaced by better."
-				},
-				{
-					"cat": "Addition",
-					"text": "New Banner for contest Winners are added."
-				},
-				{
-					"cat": "Addition",
-					"text": "3 Secrets for Humans are added."
-				},
-				{
-					"cat": "Feature",
-					"text": "It's better if you play the map with NEMESIS MODE in the ratio 1:4."
+					"cat": "Optimization",
+					"text": "Dropship lag fixed."
 				}
 			],
 			"_sText": "",
-			"_sTitle": "ze_eerie_escape_v3",
-			"_sVersion": "v3",
-			"_tsDateAdded": 1688600101
+			"_sTitle": "ze_eerie_escape_v3_7",
+			"_sVersion": "v3_7",
+			"_tsDateAdded": 1691206378
 		}
 	],
 	"_idRow": 447053,
-	"_sName": "ze_eerie_escape_v3_5",
+	"_sName": "ze_eerie_escape_v4",
 	"_sText": "**This is an improved version of the beta version of this Map ze_eerie_escape_b1**<br><b><br></b><h2><b><span class=\"GreenColor\">Map Contains:</span></b></h2>7 Stages + Zombie Mode. (8 Total)<br>Stage-1: STATIC<br>Stage-2: SONIC<br>Stage-3: HYPER<br>Stage-4: ULTIMATE<br>Stage-5: CORRUPTED<br><span class=\"SelectedElement\">Stage-6: MYSTIC</span><br>Stage-7: DIMENSIONAL<br><span class=\"GreenColor\"><b>Map Also Contains Items (6 for Humans, 3 for Zombies)</b></span><br><br><b>Human Items</b><br><br><ul><li>Tecquila Shotgun</li><li>EERIE Shield</li><li>Teleporter</li><li>LaserGun</li><li>Radioactive AK-47</li><li>JetPack.</li></ul><span class=\"GreenColor\"><br></span><b>Zombie Items</b><br><ul><li>Zombie Killer</li><li>Zombie Invisibility</li><li>Zombie Laser</li></ul><br><span class=\"GreenColor\"><b>Map Info: </b></span><br>On First 7 Stages, Humans have to survive 100 seconds, then they will be teleported to final destination and dodge the Lasers. (5 Stages contains Lasers and 6th has Cube RNG). Overall Map is made for fun and doesn't contain any real tryhard.<br><br><span class=\"GreenColor\"><b>NOTE</b></span><br>**If Map contains bugs, just inform me. You are not allowed to edit and re-upload this map.**<br><br>** Map Ideas from NemesisNiDE Laser,Mako Reactor, Luccidreams. **<br>** Special Thanks to Hobbitten for motivating/bug fixes/cfgs. **<br>** Map Tester: HA **<br><br>Final Update<br>v3 will be the final version and this map will have no more updates. It was a small prototype map made for fun. And I'm planning to move on and work on my bigger projects.<br>Edit: Reason for v3_5? People wanted a new version."
 }
