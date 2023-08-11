@@ -28,7 +28,7 @@ def main(d, callback):
                     filesizesum += file["_nFilesize"]
                     links.append([file["_sDownloadUrl"], sanitize(str(file["_idRow"]) + "_" + file["_sFile"]), j["_sName"], file["_nFilesize"], j["_idRow"]])
 
-    print(f"filesizesum = {filesizesum}")
+    #print(f"filesizesum = {filesizesum}")
 
     alreadydone = os.listdir(d+"/../gamebanana-scrape")
 
