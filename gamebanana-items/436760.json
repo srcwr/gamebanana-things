@@ -6,25 +6,73 @@
 				"_aArchiveFileTree": {
 					"de_nuke_plus": [
 						"de_nuke_plus.bsp",
-						"de_nuke_plus.txt"
+						"info.txt"
 					]
 				}
 			},
 			"_bContainsExe": false,
-			"_idRow": 1001508,
-			"_nDownloadCount": 24,
-			"_nFilesize": 5434014,
+			"_idRow": 1035847,
+			"_nDownloadCount": 0,
+			"_nFilesize": 5717570,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1001508",
-			"_sFile": "de_nuke_plus_b7be8.7z",
-			"_sMd5Checksum": "5cd8605ccefb9742b91ed74659ac7247",
-			"_tsDateAdded": 1686762303
+			"_sDownloadUrl": "https://gamebanana.com/dl/1035847",
+			"_sFile": "de_nuke_plus_66689.7z",
+			"_sMd5Checksum": "bb898946e9dc57b66b42187a4c13c5ed",
+			"_tsDateAdded": 1691849413
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Improvement",
+					"text": "Improved nav mesh"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Detailed terrain near the old Secret Entrance"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added more cover in Garage"
+				},
+				{
+					"cat": "Addition",
+					"text": "Returned 2 windows on roof in Garage"
+				},
+				{
+					"cat": "Addition",
+					"text": "Changed passage to Ramp"
+				},
+				{
+					"cat": "Addition",
+					"text": "T Boxes are returned to their original positions in Outside"
+				},
+				{
+					"cat": "Tweak",
+					"text": "Footsteps on bunch of boxes on Ramp now make wood sounds"
+				},
+				{
+					"cat": "Tweak",
+					"text": "Footsteps on pipes on T Roof now make metallic sounds"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Removed gaps between boxes in Bombsite A and Outside"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed a couple of visual bugs"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Visual Update",
+			"_sVersion": "1.2",
+			"_tsDateAdded": 1691849952
+		},
 		{
 			"_aChangeLog": [
 				{
@@ -65,29 +113,9 @@
 				}
 			],
 			"_sText": "",
-			"_sTitle": "Balace update",
+			"_sTitle": "Balance update",
 			"_sVersion": "1.1",
 			"_tsDateAdded": 1686762428
-		},
-		{
-			"_aChangeLog": [
-				{
-					"cat": "Bugfix",
-					"text": "Fixed navigation mesh for bots in ventilation"
-				},
-				{
-					"cat": "Amendment",
-					"text": "Footsteps on vents now make metallic sounds"
-				},
-				{
-					"cat": "Adjustment",
-					"text": "Reduced duration of wind and air conditioner sounds"
-				}
-			],
-			"_sText": "",
-			"_sTitle": "Small update",
-			"_sVersion": "1.0.1",
-			"_tsDateAdded": 1681320356
 		}
 	],
 	"_idRow": 436760,

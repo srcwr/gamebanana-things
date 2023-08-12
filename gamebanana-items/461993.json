@@ -2,11 +2,27 @@
 	"_aAlternateFileSources": null,
 	"_aFiles": [
 		{
-			"_aMetadata": [],
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_conurbation.bsp",
+					"de_conurbation.nav",
+					"de_conurbation_night.bsp",
+					"de_conurbation_night.nav",
+					"de_providence.bsp",
+					"de_providence.nav",
+					"de_shells.bsp",
+					"de_shells.nav",
+					"de_townhold.bsp",
+					"de_townhold.nav"
+				]
+			},
+			"_bContainsExe": false,
 			"_idRow": 1035757,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 1,
 			"_nFilesize": 7926912,
-			"_sAnalysisState": "pending",
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1035757",
 			"_sFile": "chilledmappack.zip",
@@ -17,5 +33,5 @@
 	"_aLatestUpdates": [],
 	"_idRow": 461993,
 	"_sName": "Chilled's map pack",
-	"_sText": "the map I have made for counter strike source"
+	"_sText": "the maps I have made for counter strike source"
 }
