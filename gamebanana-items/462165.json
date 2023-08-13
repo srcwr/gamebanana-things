@@ -3,27 +3,60 @@
 	"_aFiles": [
 		{
 			"_aMetadata": {
-				"_aArchiveFileTree": [
-					"bhop_azuras_star_dungeon.bsp",
-					"bhop_azuras_star_dungeon.nav"
-				]
+				"_aArchiveFileTree": {
+					"0": "bhop_azuras_star_dungeon.bsp",
+					"1": "bhop_azuras_star_dungeon.nav",
+					"materials": {
+						"maps": {
+							"bhop_azuras_star_dungeon": {
+								"0": "c-2562_-2683_-1304.hdr.vtf",
+								"1": "c-2562_-2683_-1304.vtf",
+								"10": "c2959_365_-712.hdr.vtf",
+								"11": "c2959_365_-712.vtf",
+								"12": "c3299_-4126_-1032.hdr.vtf",
+								"13": "c3299_-4126_-1032.vtf",
+								"14": "c5211_-1592_-888.hdr.vtf",
+								"15": "c5211_-1592_-888.vtf",
+								"16": "cubemapdefault.hdr.vtf",
+								"17": "cubemapdefault.vtf",
+								"2": "c-4936_-3574_-1352.hdr.vtf",
+								"3": "c-4936_-3574_-1352.vtf",
+								"4": "c-5920_-3872_-1280.hdr.vtf",
+								"5": "c-5920_-3872_-1280.vtf",
+								"6": "c-88_-4138_-1208.hdr.vtf",
+								"7": "c-88_-4138_-1208.vtf",
+								"8": "c1965_3037_-616.hdr.vtf",
+								"9": "c1965_3037_-616.vtf",
+								"base0": [
+									"asw_-2562_-2683_-1304.vmt",
+									"asw_-4936_-3574_-1352.vmt",
+									"asw_-5920_-3872_-1280.vmt",
+									"asw_-88_-4138_-1208.vmt",
+									"asw_1965_3037_-616.vmt",
+									"asw_2959_365_-712.vmt",
+									"asw_3299_-4126_-1032.vmt",
+									"asw_5211_-1592_-888.vmt"
+								]
+							}
+						}
+					}
+				}
 			},
 			"_bContainsExe": false,
-			"_idRow": 1036345,
-			"_nDownloadCount": 3,
-			"_nFilesize": 38016528,
+			"_idRow": 1036703,
+			"_nDownloadCount": 0,
+			"_nFilesize": 23074586,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
-			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1036345",
-			"_sFile": "bhop_azuras_star_dungeon_d894b.zip",
-			"_sMd5Checksum": "caf7fe7db7d4fba65ef4c568a2e613fc",
-			"_tsDateAdded": 1691918931
+			"_sDownloadUrl": "https://gamebanana.com/dl/1036703",
+			"_sFile": "bhop_azuras_star_dungeon.rar",
+			"_sMd5Checksum": "29998f96b4f6bdda63ba15c2ae877d73",
+			"_tsDateAdded": 1691964228
 		}
 	],
 	"_aLatestUpdates": [],
 	"_idRow": 462165,
 	"_sName": "bhop_azuras_star_dungeon",
-	"_sText": "Recent speedrun defrag port and re-texture of a defrag map by&nbsp;muirileD<br><br>inspiration<br><img src=\"https://i.imgur.com/nqS2ag3.jpg\" class=\"SelectedElement\"><br><br>Original map:&nbsp;<a href=\"https://defrag.racing/records/id:14284\" target=\"_blank\">https://defrag.racing/records/id:14284</a>"
+	"_sText": "Recent speedrun defrag port and re-texture of a defrag map by muirileD<br><br>inspiration<br><img src=\"https://i.imgur.com/nqS2ag3.jpg\" class=\"SelectedElement\"><br><br>Original map: <a href=\"https://defrag.racing/records/id:14284\" target=\"_blank\">https://defrag.racing/records/id:14284</a>"
 }
