@@ -4,24 +4,26 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
-					"bhop_azuras_star_dungeon.bsp"
+					"bhop_azuras_star_dungeon.bsp",
+					"bhop_azuras_star_dungeon.nav"
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1036286,
+			"_idRow": 1036345,
 			"_nDownloadCount": 0,
-			"_nFilesize": 56745540,
+			"_nFilesize": 38016528,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1036286",
-			"_sFile": "bhop_azuras_star_dungeon.zip",
-			"_sMd5Checksum": "fc7dc2815da18c08af3dd3b9bfc5562d",
-			"_tsDateAdded": 1691906786
+			"_sDownloadUrl": "https://gamebanana.com/dl/1036345",
+			"_sFile": "bhop_azuras_star_dungeon_d894b.zip",
+			"_sMd5Checksum": "caf7fe7db7d4fba65ef4c568a2e613fc",
+			"_tsDateAdded": 1691918931
 		}
 	],
 	"_aLatestUpdates": [],
 	"_idRow": 462165,
 	"_sName": "bhop_azuras_star_dungeon",
-	"_sText": "Recent defrag port and re-texture of a defrag map by&nbsp;timcon<br><br>r_hunkalloclightmaps 0 - Needed**<br>"
+	"_sText": "Recent speedrun defrag port and re-texture of a defrag map by timcon<br><br>r_hunkalloclightmaps 0 - Needed**<br><br>inspiration<br><img src=\"https://i.imgur.com/nqS2ag3.jpg\" class=\"SelectedElement\"><br><br>Original map: <a href=\"https://defrag.racing/records/id:14284\">https://defrag.racing/records/id:14284</a>"
 }
