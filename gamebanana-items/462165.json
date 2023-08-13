@@ -7,8 +7,13 @@
 					"0": "bhop_azuras_star_dungeon.bsp",
 					"1": "bhop_azuras_star_dungeon.nav",
 					"materials": {
+						"base0": [
+							"asw.vmt",
+							"asw.vtf",
+							"asw_n.vtf"
+						],
 						"maps": {
-							"bhop_azuras_star_dungeon": {
+							"ew": {
 								"0": "c-2562_-2683_-1304.hdr.vtf",
 								"1": "c-2562_-2683_-1304.vtf",
 								"10": "c2959_365_-712.hdr.vtf",
@@ -38,24 +43,48 @@
 									"asw_5211_-1592_-888.vmt"
 								]
 							}
+						},
+						"skybox": [
+							"sky_fog.vtf",
+							"sky_fogbk.vmt",
+							"sky_fogdn.vmt",
+							"sky_fogft.vmt",
+							"sky_foglf.vmt",
+							"sky_fogrt.vmt",
+							"sky_fogup.vmt"
+						],
+						"vgui": {
+							"logos": [
+								"spray.vmt",
+								"spray.vtf"
+							]
 						}
 					}
 				}
 			},
 			"_bContainsExe": false,
-			"_idRow": 1036703,
+			"_idRow": 1036705,
 			"_nDownloadCount": 0,
-			"_nFilesize": 23074586,
+			"_nFilesize": 23318599,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1036703",
-			"_sFile": "bhop_azuras_star_dungeon.rar",
-			"_sMd5Checksum": "29998f96b4f6bdda63ba15c2ae877d73",
-			"_tsDateAdded": 1691964228
+			"_sDownloadUrl": "https://gamebanana.com/dl/1036705",
+			"_sFile": "bhop_azuras_star_dungeon_090b4.rar",
+			"_sMd5Checksum": "4a4ea046e18781e1b01b1d6539666354",
+			"_tsDateAdded": 1691964429
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [],
+			"_sText": "<p>- fixed misplaced playerclip</p><p>- fixed cant pre speed normal in start</p><p>-fixed map crashing without hulk maps 0</p><p>-added mat for reflection for pretty crystals </p>",
+			"_sTitle": "bhop_azuras_star_dungeon",
+			"_sVersion": "2",
+			"_tsDateAdded": 1691964547
+		}
+	],
 	"_idRow": 462165,
 	"_sName": "bhop_azuras_star_dungeon",
 	"_sText": "Recent speedrun defrag port and re-texture of a defrag map by muirileD<br><br>inspiration<br><img src=\"https://i.imgur.com/nqS2ag3.jpg\" class=\"SelectedElement\"><br><br>Original map: <a href=\"https://defrag.racing/records/id:14284\" target=\"_blank\">https://defrag.racing/records/id:14284</a>"
