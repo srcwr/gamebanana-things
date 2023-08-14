@@ -18,7 +18,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1035434,
-			"_nDownloadCount": 2,
+			"_nDownloadCount": 9,
 			"_nFilesize": 1738136,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -28,9 +28,59 @@
 			"_sFile": "cs_concrete.zip",
 			"_sMd5Checksum": "ed424778456af2c6328c996442ef8e59",
 			"_tsDateAdded": 1691782747
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cs_concrete_k": [
+						"cs_concrete_k.bsp"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 1037182,
+			"_nDownloadCount": 0,
+			"_nFilesize": 964605,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1037182",
+			"_sFile": "cs_concrete_k.zip",
+			"_sMd5Checksum": "2509b03dd6e358d1ae893c70ad82d2c6",
+			"_tsDateAdded": 1692036819
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Adjustment",
+					"text": "Cleaned up some brushes in the main warehouse"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed the van at CT spawn that was clipping into the wall"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added 2 transmission towers, one in the front yard and one in the T Spawn alley"
+				},
+				{
+					"cat": "Overhaul",
+					"text": "Fixed up a few buggy areas in the skybox, and added new buildings in the skybox"
+				},
+				{
+					"cat": "Suggestion",
+					"text": "Added block bullet brushes in the fences in the front yard (supposed to get the two teams to actually fight each other, rather than be divided by the fences)"
+				}
+			],
+			"_sText": "<p>A few fixes and additions made to make the map play and feel better.</p>",
+			"_sTitle": "cs_concrete_k",
+			"_sVersion": "v2",
+			"_tsDateAdded": 1692036640
+		}
+	],
 	"_idRow": 461898,
 	"_sName": "cs_concrete",
 	"_sText": "A map for CSS"
