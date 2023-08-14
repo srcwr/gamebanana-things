@@ -25,21 +25,29 @@
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1026998,
-			"_nDownloadCount": 10,
-			"_nFilesize": 27788983,
+			"_idRow": 1036921,
+			"_nDownloadCount": 0,
+			"_nFilesize": 27771472,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1026998",
-			"_sFile": "blackmesa_bhop_mappack.zip",
-			"_sMd5Checksum": "76ab9753fe9308ba24f52e2269bbf62b",
-			"_tsDateAdded": 1690509058
+			"_sDownloadUrl": "https://gamebanana.com/dl/1036921",
+			"_sFile": "blackmesa_bhop_mappack_60ca7.zip",
+			"_sMd5Checksum": "21324abaefba6e0fbb58a8746ee8c2a4",
+			"_tsDateAdded": 1691994852
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [],
+			"_sText": "<p>-fixed TP to end on bhop_pringid (unknown cause)</p>",
+			"_sTitle": "Black Mesa Mappack",
+			"_sVersion": "2",
+			"_tsDateAdded": 1691994948
+		}
+	],
 	"_idRow": 458957,
 	"_sName": "Black Mesa Mappack",
-	"_sText": "Ports of Black Mesa Bhop maps<br><br>this map pack includes:<br><br>-- bhop_fatal<br>-- bhop_hazardcourse<br>-- bhop_aerials_course1<br>-- bhop_kombucha<br>-- bhop_blackmesa<br>-- bhop_blackmesa2<br>-- bhop_blackmesa3<br>-- bhop_pringid<br>-- bhop_blue_blackmesa<br>"
+	"_sText": "Ports of Black Mesa Bhop maps<br><br>this map pack includes:<br><br>-- bhop_fatal<br>-- bhop_hazardcourse<br>-- bhop_aerials_course1<br>-- bhop_kombucha<br>-- bhop_blackmesa<br>-- bhop_blackmesa2<br>-- bhop_blackmesa3<br>-- bhop_pringid -- fixed triggers (unknown cause)<br>-- bhop_blue_blackmesa<br>"
 }
