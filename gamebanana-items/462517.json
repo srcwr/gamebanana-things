@@ -10,7 +10,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1037139,
-			"_nDownloadCount": 5,
+			"_nDownloadCount": 6,
 			"_nFilesize": 95760231,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -29,10 +29,11 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1037380,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 1,
 			"_nFilesize": 1101,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
 			"_sDescription": "latest stripper",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1037380",
 			"_sFile": "ze_the_parish_c5m1_35a69.rar",
@@ -40,7 +41,19 @@
 			"_tsDateAdded": 1692062995
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "Stripper updates: check cfg for the information"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "stripper",
+			"_tsDateAdded": 1692063106
+		}
+	],
 	"_idRow": 462517,
 	"_sName": "ze_the_parish_c5m1",
 	"_sText": "<h1>Chartapilus's CSS ZE</h1><h2><a href=\"https://gamebanana.com/mods/421953\">I</a> | <span class=\"GreenColor\">II</span> | III | IV | V</h2><br><br><b>The Parish</b> from <b>Left 4 Dead 2 </b>(5th campaign), ported and modified to become zombie escape map.<br><hr><ul><li>The map is currently <b>only have the first chapter</b> of the campaign, so the gameplay is <b>less than 5 minutes</b>.</li><li>Map has a randomize path that can go for the sake of replayability.</li><li>We will <b>probably combine all the chapter into 1 map</b> instead.</li><li><b class=\"SelectedElement\">No unnecessary sounds/musics are added to this port</b>, all sounds and ambient are using  from the original map in L4D2</li></ul><hr>For the sake of the gameplay, please set the infect rate as equal to the humans alive.<br><br><span class=\"Spoiler\">note: more optimizing and improving will comes in future for better experience</span>"
