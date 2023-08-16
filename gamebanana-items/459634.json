@@ -4,28 +4,6 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": {
-					"New folder": [
-						"de_city.bsp",
-						"de_city.nav"
-					]
-				}
-			},
-			"_bContainsExe": false,
-			"_idRow": 1032767,
-			"_nDownloadCount": 4,
-			"_nFilesize": 73145,
-			"_sAnalysisResult": "File passed analysis",
-			"_sAnalysisState": "done",
-			"_sClamAvResult": "clean",
-			"_sDescription": "1.5beta",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1032767",
-			"_sFile": "de_city15.rar",
-			"_sMd5Checksum": "164ef916bd2362e0b82e8de03a223582",
-			"_tsDateAdded": 1691356176
-		},
-		{
-			"_aMetadata": {
-				"_aArchiveFileTree": {
 					"de_city1.5comp": [
 						"de_city.bsp",
 						"de_city.nav"
@@ -34,19 +12,69 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1033327,
-			"_nDownloadCount": 1,
+			"_nDownloadCount": 2,
 			"_nFilesize": 77972,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
-			"_sDescription": "1.5",
+			"_sDescription": "1.5 complete",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1033327",
 			"_sFile": "de_city15comp.rar",
 			"_sMd5Checksum": "0e074fa74f3b67fd62b71e9747723b6f",
 			"_tsDateAdded": 1691445266
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"de_city2.0beta": [
+						"de_city.bsp",
+						"de_city.nav"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 1037982,
+			"_nDownloadCount": 0,
+			"_nFilesize": 80034,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "2.0beta",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1037982",
+			"_sFile": "de_city20beta.rar",
+			"_sMd5Checksum": "d8773a0077c9949b895753e319a1b741",
+			"_tsDateAdded": 1692168886
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Adjustment",
+					"text": "1-Adjusted the Dustcloud on both Bombsites Color to White"
+				},
+				{
+					"cat": "Addition",
+					"text": "2-Added a Wall in Bombsite A to Make the bomb Chance to detonation or Defusal More"
+				},
+				{
+					"cat": "Addition",
+					"text": "3-Added a door in the Terroist Tunnel(idk Why i added it)"
+				},
+				{
+					"cat": "Improvement",
+					"text": "4-Added physics objects so Performance Issue's are now Possible"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "5-Adjusted Both bombsite's Planting height scale to prevent the Players from planting the bomb above the Drums or Barrel's"
+				}
+			],
+			"_sText": "<p>Working on this Update was Fast so there might be some Bugs and Glitches<br>if you encounter a Bug or a Glitch please consider Writing it in the Comment Section</p>",
+			"_sTitle": "de_city",
+			"_sVersion": "2.0 Beta",
+			"_tsDateAdded": 1692169363
+		},
 		{
 			"_aChangeLog": [
 				{
@@ -78,34 +106,6 @@
 			"_sTitle": "de_city",
 			"_sVersion": "1.5 Complete",
 			"_tsDateAdded": 1691445666
-		},
-		{
-			"_aChangeLog": [
-				{
-					"cat": "",
-					"text": "This verion added some improvements and the major ones will be mentioned"
-				},
-				{
-					"cat": "Improvement",
-					"text": "1-Both bombsites now has Dustcloud and fire when the bomb explodes and bombsite B has the biggest Explosion compared to bombsite A"
-				},
-				{
-					"cat": "Addition",
-					"text": "2-Added some overlays to decorate and at the same time Guide the new players in the map but there is not much of them due to Touching faces problem"
-				},
-				{
-					"cat": "Addition",
-					"text": "3-A New entry to Bombsite B to make it easier for the Terroist's to enter the bombsite"
-				},
-				{
-					"cat": "Optimization",
-					"text": "4-Removed some unnecessary Walls and Roofs for improving the Performance and making the map More Vram And Ram Friendly"
-				}
-			],
-			"_sText": "",
-			"_sTitle": "de_city",
-			"_sVersion": "1.5beta",
-			"_tsDateAdded": 1691357627
 		}
 	],
 	"_idRow": 459634,
