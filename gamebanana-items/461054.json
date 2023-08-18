@@ -9,20 +9,28 @@
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1032986,
-			"_nDownloadCount": 4,
-			"_nFilesize": 3482044,
+			"_idRow": 1038944,
+			"_nDownloadCount": 0,
+			"_nFilesize": 5365309,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1032986",
-			"_sFile": "bhop_001inbox_caa8c.zip",
-			"_sMd5Checksum": "c75317148662051d3b66e6e211e5c9e7",
-			"_tsDateAdded": 1691387916
+			"_sDownloadUrl": "https://gamebanana.com/dl/1038944",
+			"_sFile": "bhop_001inbox_3794e.zip",
+			"_sMd5Checksum": "d94309a0f32d559b8996188ccba6acc4",
+			"_tsDateAdded": 1692330137
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [],
+			"_sText": "<p>-Missing texture fix</p>",
+			"_sTitle": "bhop_inbox001",
+			"_sVersion": "2",
+			"_tsDateAdded": 1692330164
+		}
+	],
 	"_idRow": 461054,
 	"_sName": "bhop_inbox001 (CS:S)",
 	"_sText": "recent port of Enju CS:GO bhop map<br><br>ported by me<br><br>requested by nyushiri"
