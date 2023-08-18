@@ -4,25 +4,34 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
-					"aamu2_updatelog.txt",
-					"bhop_aamu2_u1.bsp"
+					"bhop_aamu2_u2.bsp",
+					"changelog.txt"
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 275508,
-			"_nDownloadCount": 967,
-			"_nFilesize": 30369852,
+			"_idRow": 1039227,
+			"_nDownloadCount": 0,
+			"_nFilesize": 37202795,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
-			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/275508",
-			"_sFile": "bhop_aamu2_u1.zip",
-			"_sMd5Checksum": "",
-			"_tsDateAdded": 1481809979
+			"_sClamAvResult": "clean",
+			"_sDescription": "Latest release",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1039227",
+			"_sFile": "bhop_aamu2_u2.zip",
+			"_sMd5Checksum": "2fe578a20c84b822988e8868c032ea15",
+			"_tsDateAdded": 1692379304
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [],
+			"_sText": "<p>Update 2 (18 Aug 2023)</p><p>- Redesigned construction site stair ramp part. (should fix major skip for normal runs, TASsers gonna TAS)</p><p>- Redesigned some of the rooftops so they cannot be used to skip the entire map.</p><p>- Raised teleport triggers wherever possible to stop players from skipping past them.</p><p>- Made the rocky KZ part past the tunnels slightly easier due to popular request.</p><p>- Fixed another major skip by jumping on a skybox brush.</p><p>- Increased the size of the start reset trigger so players can't skip it when starting the timer depending on the timer zone size. (fixes the biggest skip of em all :D)</p><p>- Marked starts and ends with timer triggers.</p><p>- Very minor visual changes and fixes.</p><p>- Removed a debug terrorist spawnpoint.</p>",
+			"_sTitle": "Update",
+			"_sVersion": "2",
+			"_tsDateAdded": 1692379797
+		}
+	],
 	"_idRow": 124357,
-	"_sName": "bhop_aamu2",
-	"_sText": "<h1>From wilderness to early morning town.</h1><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/7lBiGXT_AmM\" frameborder=\"0\" allowfullscreen=\"\"></iframe><br><br>A map that I had been working on and off for the past 2 years.<br><br>For an average first time player it should take around 20-30 minutes with auto (30-40 mins scroll) to beat the map. Once you've beaten the map once, it should take around 10 minutes.<br>The map has a longjump room, a bonus and a secret.<br><br>Start and end zones are marked. HDR+Bloom recommended.<br><br><h2>Bad framerate?</h2>Enable multicore rendering (mat_queue_mode -1). This will improve rendering times, specifically static prop rendering. I did what I could to optimize the map and had to halt adding more detail because of this reason.<br><br><h3>EDITS</h3>25 Dec 2016 - Update 1 (u1) (Slight changes to make it easier)"
+	"_sName": "bhop_aamu2_u2",
+	"_sText": "<h1>From wilderness to early morning town.</h1><br>A map that I had been working on and off for the past 2 years. The map has a longjump room, a bonus and a secret.<br><br>Start and end zones are marked. HDR+Bloom recommended.<br><br><h2>Bad framerate?</h2>Enable multicore rendering (mat_queue_mode -1). This will improve rendering times, specifically static prop rendering. I did what I could to optimize the map and had to halt adding more detail because of this reason.<br><br><h3>EDITS</h3><br>18 Aug 2023 - Update 2 (u2) Small gameplay changes & a lot of skip fixes. See changelog.<br>25 Dec 2016 - Update 1 (u1) Slight changes to make it easier."
 }

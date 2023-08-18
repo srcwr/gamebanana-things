@@ -9,7 +9,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1039101,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 1,
 			"_nFilesize": 14840545,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -30,7 +30,7 @@
 				},
 				{
 					"cat": "Optimization",
-					"text": "Minor map optimizations - No draw textures added on more surfaces"
+					"text": "Minor map optimizations - No draw textures added on more surfaces & func_detail on objects i missed"
 				},
 				{
 					"cat": "Adjustment",
