@@ -8,20 +8,53 @@
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1038690,
-			"_nDownloadCount": 3,
-			"_nFilesize": 15352156,
+			"_idRow": 1039101,
+			"_nDownloadCount": 0,
+			"_nFilesize": 14840545,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1038690",
-			"_sFile": "surf_rooftopsv2_ksf.zip",
-			"_sMd5Checksum": "b5ddabd68959b64f4f3c1fbf2a56e9e1",
-			"_tsDateAdded": 1692291715
+			"_sDownloadUrl": "https://gamebanana.com/dl/1039101",
+			"_sFile": "surf_rooftopsv2_ksf_fc787.zip",
+			"_sMd5Checksum": "58ed997579f277e3f2da3060fe0dc919",
+			"_tsDateAdded": 1692361355
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "Added command mp_flashlight 0 - To fix the map disappearing whenever flashlight was on"
+				},
+				{
+					"cat": "Optimization",
+					"text": "Minor map optimizations - No draw textures added on more surfaces"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Changed out blend textures with their normal texture version"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Removed some settings & flags which only worked for CS:GO (On triggers & lights mostly)"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Removed car models"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Changed out the water texture below teleports (Old was missing $bottommaterial)"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Update",
+			"_sVersion": "Final",
+			"_tsDateAdded": 1692361560
+		}
+	],
 	"_idRow": 463029,
 	"_sName": "surf_rooftopsv2_ksf",
 	"_sText": "surf_rooftopsv2_ksf [<b>Tier 1</b>] - [<b>8 Stages</b>] - [<b>64 Player Spawns</b>]<br><br>Old project ported to CS:S.<br><br>CS:GO release found <a href=\"https://gamebanana.com/mods/79118\">here</a>."
