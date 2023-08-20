@@ -1,0 +1,30 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"de_piranesi_cz": [
+						"de_piranesi_cz.bsp",
+						"info.txt"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 1040583,
+			"_nDownloadCount": 0,
+			"_nFilesize": 6689967,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1040583",
+			"_sFile": "de_piranesi_cz_d6ee3.7z",
+			"_sMd5Checksum": "26c9c09de6443b206b68db44fc580f70",
+			"_tsDateAdded": 1692558441
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 463660,
+	"_sName": "de_piranesi_cz/devtest",
+	"_sText": "A port of de_piranesi_cz to CS:S, found in&nbsp;2003&nbsp;hl1ports leak.&nbsp;Most likely, this is the first ever map made for Counter-Strike: Source.<br><br>The map is dated September 24, 2003 (the date is most likely overwritten and the map could have been made earlier) and although this is a port, there are differences from the Condition Zero version, such as: the presence of models, displacements and water from Source engine. Also this map contains some unused assets that are in the game files.&nbsp;<br><br>In the leak, the original name of the map was \"devtest\", but I renamed it for better recognition.&nbsp;I also added&nbsp;HDR&nbsp;support and cubemaps.<br>"
+}
