@@ -10,19 +10,47 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1039505,
-			"_nDownloadCount": 28,
+			"_nDownloadCount": 31,
 			"_nFilesize": 7555626,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
-			"_sDescription": "",
+			"_sDescription": "old version. unplayable.",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1039505",
 			"_sFile": "cs_italy_cs2g.zip",
 			"_sMd5Checksum": "3ee5e60785e1acd699475f5cb36c19eb",
 			"_tsDateAdded": 1692417218
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"cs_italy_cs2g.bsp",
+					"cs_italy_cs2g.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 1041056,
+			"_nDownloadCount": 0,
+			"_nFilesize": 7585548,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "new version. playable.",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1041056",
+			"_sFile": "cs_italy_cs2g_new1.zip",
+			"_sMd5Checksum": "7f1ba5d025bfb7b38f85883ded3e7cdf",
+			"_tsDateAdded": 1692629180
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [],
+			"_sText": "<p>A slight fix to clipping and texturing. Old clipping made one of the new routes literally unusable, so PLEASE DOWNLOAD THE NEW VERSION.</p>",
+			"_sTitle": "Slight fix 8/21",
+			"_sVersion": "1.1",
+			"_tsDateAdded": 1692629281
+		}
+	],
 	"_idRow": 463323,
 	"_sName": "cs_italy_cs2g",
 	"_sText": "A version of the original Counter-Strike Source Italy, with some of CS:GO and CS2's major layout changes.<br>"
