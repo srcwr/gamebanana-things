@@ -4,26 +4,32 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
-					"bhop_brick_2.bsp",
-					"bhop_brick_2.nav"
+					"bhop_brick_2.bsp"
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1041437,
+			"_idRow": 1041451,
 			"_nDownloadCount": 0,
-			"_nFilesize": 33637766,
+			"_nFilesize": 32108100,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
-			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1041437",
-			"_sFile": "bhop_brick_2.zip",
-			"_sMd5Checksum": "3064dc32ec6fa044691fe4db2fe01b13",
-			"_tsDateAdded": 1692680039
+			"_sDownloadUrl": "https://gamebanana.com/dl/1041451",
+			"_sFile": "bhop_brick_2_ebc18.zip",
+			"_sMd5Checksum": "dce2db4e4c64b009a2152804d13bb44c",
+			"_tsDateAdded": 1692682744
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [],
+			"_sText": "<p>-Fixed weird lag bug with brushes</p>",
+			"_sTitle": "bhop_brick_2",
+			"_sVersion": "2",
+			"_tsDateAdded": 1692682785
+		}
+	],
 	"_idRow": 463928,
 	"_sName": "bhop_brick_2",
-	"_sText": "First ever remade Roblox map to Source Engine<br><br>10+ hours in Hammer Editor<br><br>(Remade the WHOLE maps brushes/geometry from scratch)<br><br>Roblox map by&nbsp;<a href=\"https://www.roblox.com/users/44388483/profile/\" class=\"text-name\" target=\"_blank\">zz9c</a><br><br><a href=\"https://www.roblox.com/library/6919628880/bhop-brick-2\" target=\"_blank\">https://www.roblox.com/library/6919628880/bhop-brick-2</a><br><br>(Remade by FiBzY)<br><br>This is possible but very complicated and advanced work<br><br>This was a little project."
+	"_sText": "First ever remade Roblox map to Source Engine<br><br>10+ hours in Hammer Editor<br><br>(Remade the WHOLE maps brushes/geometry from scratch)<br><br>Roblox map by <a href=\"https://www.roblox.com/users/44388483/profile/\" class=\"text-name\" target=\"_blank\">zz9c</a><br><br><a href=\"https://www.roblox.com/library/6919628880/bhop-brick-2\" target=\"_blank\">https://www.roblox.com/library/6919628880/bhop-brick-2</a><br><br>(Remade by FiBzY)<br><br>This is possible but very complicated and advanced work<br><br>This was a little project - play tested by me.<br><br>NOTE* This was remade not ported."
 }
