@@ -2,20 +2,608 @@
 	"_aAlternateFileSources": null,
 	"_aFiles": [
 		{
-			"_aMetadata": [],
-			"_idRow": 1042595,
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "bhop_mg_harero.bsp",
+					"1": "bhop_mg_harero.nav",
+					"10": "bricks_0_22_nrm.vtf",
+					"11": "snow_0_02.vmt",
+					"12": "snow_0_02.vtf",
+					"13": "snow_0_02_nrm.vtf",
+					"2": "bricks_0_18.vmt",
+					"3": "bricks_0_18.vtf",
+					"4": "bricks_0_18_nrm.vtf",
+					"5": "bricks_0_21.vmt",
+					"6": "bricks_0_21.vtf",
+					"7": "bricks_0_21_nrm.vtf",
+					"8": "bricks_0_22.vmt",
+					"9": "bricks_0_22.vtf",
+					"materials": {
+						"bhop_lykabutterfly": [
+							"caveroof_blend.vmt"
+						],
+						"color": [
+							"white.vmt",
+							"white.vtf"
+						],
+						"cs_havana": [
+							"woodm.vmt",
+							"woodm.vtf"
+						],
+						"cs_italy": [
+							"cr_miscwood2b.vmt",
+							"cr_miscwood2b.vtf",
+							"ironmetal01.vmt",
+							"ironmetal01.vtf"
+						],
+						"de_nuke": [
+							"nukconcretewallc.vmt",
+							"nukconcretewallc.vtf",
+							"nuke_ceiling_01.vmt",
+							"nuke_ceiling_01.vtf",
+							"nuke_ceiling_02.vmt",
+							"nuke_ceiling_02.vtf",
+							"nuke_metaldoor_01.vmt",
+							"nuke_metaldoor_01.vtf",
+							"nuke_metaldoor_01_ref.vtf",
+							"nuke_metalfloor_01.vmt",
+							"nuke_metalfloor_01.vtf",
+							"nuke_metalgrate_01.vmt",
+							"nuke_metalgrate_01.vtf",
+							"nuke_metalgrate_01_translucent.vmt",
+							"nuke_wall_cntrlroom_01.vmt",
+							"nuke_wall_cntrlroom_01.vtf",
+							"nukfloora.vmt",
+							"nukfloora.vtf",
+							"nukfloora_normal.vtf"
+						],
+						"de_tides": [
+							"blend_concrete_dirt.vmt",
+							"tides_concretefloor.vtf",
+							"tides_dirt.vtf"
+						],
+						"de_train": [
+							"train_dirt_floor_01.vmt",
+							"train_dirt_floor_01.vtf",
+							"train_metalceiling_02.vmt",
+							"train_metalceiling_02.vtf"
+						],
+						"decals": [
+							"decalwire002a.vmt",
+							"decalwire002a.vtf",
+							"prodflrlghta.vmt",
+							"prodflrlghta.vtf"
+						],
+						"detail": [
+							"detailsprites.vmt",
+							"detailsprites.vtf",
+							"dt_metal1.vtf",
+							"dt_stone1.vtf"
+						],
+						"domitibingen": {
+							"foliage": {
+								"deciduous_tree": {
+									"default_tree_02": [
+										"bark_06.vmt",
+										"bark_06.vtf",
+										"branch_02.vmt",
+										"branch_02.vtf",
+										"leaves_04_1024_o.vmt",
+										"leaves_04_1024_o.vtf",
+										"leaves_05_1024_o.vmt",
+										"leaves_05_1024_o.vtf"
+									]
+								}
+							}
+						},
+						"foliage": [
+							"rock01_detail.vtf",
+							"rock03.vmt",
+							"rock03.vtf",
+							"rock03_bump.vtf",
+							"rock04.vmt",
+							"rock04.vtf",
+							"rock04_bump.vtf",
+							"rock04a.vmt",
+							"rock04a.vtf",
+							"rock04a_bump.vtf",
+							"rock08.vmt",
+							"rock08.vtf",
+							"rock08_bump.vtf"
+						],
+						"maps": {
+							"bhop_mg_harero": {
+								"0": "c0_0_0.hdr.vtf",
+								"1": "c0_0_0.vtf",
+								"2": "cubemapdefault.hdr.vtf",
+								"3": "cubemapdefault.vtf",
+								"bhop_lykabutterfly": [
+									"caveroof_blend_wvt_patch.vmt"
+								],
+								"nature": [
+									"water_epic_ocean_depth_120.vmt",
+									"water_epic_ocean_depth_368.vmt",
+									"water_epic_ocean_depth_64.vmt",
+									"water_epic_ocean_depth_88.vmt",
+									"water_riverbed04_depth_104.vmt",
+									"water_riverbed04_depth_120.vmt",
+									"water_riverbed04_depth_152.vmt",
+									"water_riverbed04_depth_16.vmt",
+									"water_riverbed04_depth_184.vmt",
+									"water_riverbed04_depth_192.vmt",
+									"water_riverbed04_depth_22.vmt",
+									"water_riverbed04_depth_360.vmt",
+									"water_riverbed04_depth_64.vmt",
+									"water_riverbed04_depth_8.vmt"
+								],
+								"realworldtextures2": {
+									"wall": [
+										"brick_wall_62_0_0_0.vmt"
+									]
+								},
+								"tools": [
+									"toolsnodraw_depth_24.vmt"
+								]
+							}
+						},
+						"metal": {
+							"hr_metal": {
+								"0": "hr_metal_floor_001.vmt",
+								"1": "hr_metal_floor_001_dark.vmt",
+								"2": "hr_metal_floor_001_grey.vmt",
+								"inferno": [
+									"metal_ground_trim_a.vmt",
+									"metal_ground_trim_a.vtf",
+									"metal_ground_trim_a_normals.vtf"
+								]
+							}
+						},
+						"mg_harero": [
+							"SmoothDarkBlue.vtf",
+							"goldtier.vmt",
+							"goldtier.vtf",
+							"smoothdarkblue.vmt",
+							"smoothlightblue.vmt",
+							"smoothlightblue.vtf",
+							"smoothwhite.vmt",
+							"smoothwhite.vtf",
+							"songlist_harero.vmt",
+							"songlist_harero.vtf",
+							"trash_harero.vmt",
+							"trash_harero.vtf",
+							"woodm.vmt"
+						],
+						"models": {
+							"custom_prop": {
+								"killzonegaming": [
+									"killzonelogotransparent.vmt",
+									"killzonelogotransparent.vtf"
+								]
+							},
+							"fragmodels": [
+								"lamellen.vmt",
+								"pilz2.vmt",
+								"pilz2.vtf",
+								"pilz2_normal.vtf",
+								"pilz4.vmt",
+								"pilz4.vtf",
+								"pilz4_normal.vtf",
+								"pilzport.vmt",
+								"pilzport.vtf"
+							],
+							"plantlife": {
+								"fern": [
+									"jn_hollyfern.vmt",
+									"jn_hollyfern.vtf"
+								],
+								"lillypads": [
+									"jn_lilly_pad.vmt",
+									"jn_lilly_pad.vtf"
+								]
+							},
+							"player": {
+								"custom": {
+									"killzonegaming": {
+										"poketrainer_red": [
+											"pokemon_trainer.vmt",
+											"pokemon_trainer.vtf",
+											"pokemon_trainer_eyes.vmt",
+											"pokemon_trainer_eyes.vtf",
+											"pokemon_trainer_n.vtf"
+										]
+									}
+								}
+							},
+							"rtbmodels": {
+								"pokemon": {
+									"glaceon": [
+										"glacia.vmt",
+										"glacia.vtf",
+										"glaciaeye.vtf",
+										"glaciaeye1.vmt",
+										"glaciaeye2.vmt",
+										"glaciaeye3.vmt",
+										"glaciaeye4.vmt",
+										"glaciaeye5.vmt",
+										"glaciaeye6.vmt",
+										"glaciaeye7.vmt",
+										"glaciamouth.vtf",
+										"glaciamouth1.vmt",
+										"glaciamouth2.vmt",
+										"glaciamouth3.vmt",
+										"glaciamouth4.vmt"
+									],
+									"jolteon": [
+										"thunders.vmt",
+										"thunders.vtf",
+										"thunderseye.vtf",
+										"thunderseye1.vmt",
+										"thunderseye2.vmt",
+										"thunderseye3.vmt",
+										"thunderseye4.vmt",
+										"thunderseye5.vmt",
+										"thunderseye6.vmt",
+										"thunderseye7.vmt"
+									],
+									"umbreon": [
+										"blacky.vmt",
+										"blacky.vtf",
+										"blackyeye.vtf",
+										"blackyeye1.vmt",
+										"blackyeye2.vmt",
+										"blackyeye3.vmt",
+										"blackyeye4.vmt",
+										"blackyeye5.vmt",
+										"blackyeye6.vmt",
+										"blackyeye7.vmt",
+										"blackyeye8.vmt",
+										"blackymouth.vtf",
+										"blackymouth1.vmt",
+										"blackymouth2.vmt",
+										"blackymouth3.vmt",
+										"blackymouth4.vmt"
+									],
+									"vaporeon": [
+										"showers.vmt",
+										"showers.vtf",
+										"showerseye.vtf",
+										"showerseye1.vmt",
+										"showerseye2.vmt",
+										"showerseye3.vmt",
+										"showerseye4.vmt",
+										"showerseye5.vmt",
+										"showerseye6.vmt",
+										"showerseye7.vmt",
+										"showersfillet.vmt",
+										"showersfillet.vtf",
+										"showersmouth.vtf",
+										"showersmouth1.vmt",
+										"showersmouth2.vmt",
+										"showersmouth3.vmt",
+										"showersmouth4.vmt"
+									]
+								}
+							},
+							"shared": [
+								"lightwarp_darken3.vtf"
+							],
+							"temple": [
+								"statue_erhu.vmt",
+								"statue_erhu.vtf",
+								"statue_erhu_normal.vtf",
+								"statue_instruments.vmt",
+								"statue_instruments.vtf",
+								"statue_instruments_normal.vtf",
+								"statue_pipa_pede.vmt",
+								"statue_pipa_pede.vtf"
+							],
+							"z-o-m-b-i-e": {
+								"stalker": {
+									"trees": [
+										"trees_bark_a_02.vmt",
+										"trees_spil.vmt"
+									]
+								}
+							}
+						},
+						"nature": [
+							"water_epic_ocean.vmt",
+							"water_frame01_normal.vtf",
+							"water_riverbed01_beneath.vmt",
+							"water_riverbed04.vmt"
+						],
+						"realworldtextures": {
+							"glass": [
+								"glass_01_p.vmt",
+								"glass_01_p.vtf"
+							]
+						},
+						"realworldtextures2": {
+							"concrete": {
+								"ground": [
+									"concrete_02.vmt",
+									"concrete_02.vtf",
+									"concrete_02_nrm.vtf",
+									"concrete_13.vmt",
+									"concrete_13.vtf",
+									"concrete_13_nrm.vtf"
+								]
+							},
+							"detail": [
+								"dt_metal2.vtf",
+								"dt_stone1.vtf",
+								"dt_stone2.vtf",
+								"dt_wood.vtf",
+								"dt_wood2.vtf",
+								"noise_detail_01.vtf"
+							],
+							"ground": [
+								"lava_magma_05.vmt",
+								"lava_magma_05.vtf"
+							],
+							"metal": {
+								"wall": [
+									"metal_22.vtf",
+									"metal_22_spec.vtf"
+								]
+							},
+							"rock": {
+								"wall": [
+									"rock_wall_01.vmt",
+									"rock_wall_01.vtf",
+									"rock_wall_01_nrm.vtf"
+								]
+							},
+							"roof": [
+								"wood_roof_04.vmt",
+								"wood_roof_04.vtf",
+								"wood_roof_04_nrm.vtf"
+							],
+							"wall": [
+								"brick_wall_20.vmt",
+								"brick_wall_20.vtf",
+								"brick_wall_20_nrm.vtf",
+								"brick_wall_23.vmt",
+								"brick_wall_23.vtf",
+								"brick_wall_23_nrm.vtf",
+								"brick_wall_36.vmt",
+								"brick_wall_36.vtf",
+								"brick_wall_36_nrm.vtf",
+								"brick_wall_62.vmt",
+								"brick_wall_62.vtf",
+								"brick_wall_62_nrm.vtf"
+							],
+							"wood": [
+								"wood_05.vmt",
+								"wood_05.vtf",
+								"wood_06.vmt",
+								"wood_06.vtf"
+							]
+						},
+						"saspatoon": {
+							"carpet": {
+								"smooth": [
+									"smoothcarpetred.vmt",
+									"smoothcarpetred.vtf"
+								]
+							},
+							"glass": [
+								"glassyellow.vmt",
+								"glassyellow.vtf"
+							],
+							"plaster": [
+								"plasterseamlessdarkgrey.vmt",
+								"plasterseamlessdarkgrey.vtf"
+							]
+						},
+						"silkroad": {
+							"ground": [
+								"c_stone_jinfild_01_1.vtf",
+								"central asia_stone_01.vtf",
+								"groundsand03.vtf",
+								"mong_sand_01.vmt",
+								"mong_sand_01.vtf"
+							],
+							"samarkand": [
+								"grass_sand_blend.vmt",
+								"grass_sand_blend.vtf"
+							]
+						},
+						"skybox": [
+							"sky_cs15_daylight04_hdrbk.vmt",
+							"sky_cs15_daylight04_hdrbk.vtf",
+							"sky_cs15_daylight04_hdrdn.vmt",
+							"sky_cs15_daylight04_hdrdn.vtf",
+							"sky_cs15_daylight04_hdrft.vmt",
+							"sky_cs15_daylight04_hdrft.vtf",
+							"sky_cs15_daylight04_hdrlf.vmt",
+							"sky_cs15_daylight04_hdrlf.vtf",
+							"sky_cs15_daylight04_hdrrt.vmt",
+							"sky_cs15_daylight04_hdrrt.vtf",
+							"sky_cs15_daylight04_hdrup.vmt",
+							"sky_cs15_daylight04_hdrup.vtf"
+						],
+						"skyrim": [
+							"icecave_frozen.vmt",
+							"icecave_frozen.vtf",
+							"icecave_frozen_nrm.vtf",
+							"icecave_rocks.vmt",
+							"icecave_rocks.vtf"
+						],
+						"tile": [
+							"hr_concrete_tiles_01.vmt",
+							"hr_concrete_tiles_01.vtf",
+							"hr_concrete_tiles_01_normal.vtf"
+						],
+						"tools": [
+							"fogvolume.vmt",
+							"fogvolume.vtf",
+							"toolsblack.vmt",
+							"toolsblack.vtf",
+							"toolsinvisibleladder.vmt",
+							"toolsinvisibleladder.vtf",
+							"toolsnodraw.vmt",
+							"toolsnodraw.vtf",
+							"toolsplayerclip-dx10.vtf",
+							"toolsplayerclip.vmt",
+							"toolsplayerclip.vtf",
+							"toolsskybox.vmt",
+							"toolsskybox.vtf",
+							"toolstrigger-dx10.vtf",
+							"toolstrigger.vmt",
+							"toolstrigger.vtf"
+						],
+						"unlit": [
+							"SmoothCarpetBlack.vtf",
+							"SmoothCarpetCyan.vmt",
+							"SmoothCarpetCyan.vtf",
+							"SmoothCarpetDarkCyan.vmt",
+							"SmoothCarpetDarkCyan.vtf",
+							"SmoothCarpetDarkGreen.vmt",
+							"SmoothCarpetDarkGreen.vtf",
+							"SmoothCarpetGreen.vmt",
+							"SmoothCarpetGreen.vtf",
+							"SmoothCarpetGrey.vtf",
+							"SmoothCarpetLightGrey.vtf",
+							"SmoothCarpetLightOrange.vmt",
+							"SmoothCarpetLightOrange.vtf",
+							"SmoothCarpetLightPink.vmt",
+							"SmoothCarpetLightPink.vtf",
+							"SmoothCarpetLightRed.vmt",
+							"SmoothCarpetLightRed.vtf",
+							"SmoothCarpetLimeGreen.vmt",
+							"SmoothCarpetLimeGreen.vtf",
+							"SmoothCarpetOrange.vmt",
+							"SmoothCarpetOrange.vtf",
+							"SmoothCarpetPeach.vmt",
+							"SmoothCarpetPeach.vtf",
+							"SmoothCarpetPink.vmt",
+							"SmoothCarpetPink.vtf",
+							"SmoothCarpetYellow.vmt",
+							"SmoothCarpetYellow.vtf",
+							"SmoothDarkBlue.vtf",
+							"SmoothLightBlue.vtf",
+							"SmoothWhite.vtf",
+							"smoothcarpetblack.vmt",
+							"smoothcarpetdarkpurple.vmt",
+							"smoothcarpetdarkpurple.vtf",
+							"smoothcarpetgrey.vmt",
+							"smoothcarpetlightgrey.vmt",
+							"smoothcarpetpurple.vmt",
+							"smoothcarpetpurple.vtf",
+							"smoothdarkblue.vmt",
+							"smoothlightblue.vmt",
+							"smoothwhite.vmt"
+						],
+						"vgui": {
+							"logos": [
+								"spray.vmt",
+								"spray.vtf"
+							]
+						},
+						"water": [
+							"water_epic_dudv.vtf",
+							"water_epic_normal.vtf"
+						],
+						"z-o-m-b-i-e": {
+							"stalker": {
+								"trees": [
+									"trees_bark_a_02.vtf",
+									"trees_bark_a_02_norm.vtf",
+									"trees_det2.vtf",
+									"trees_spil.vtf",
+									"trees_spil_norm.vtf"
+								]
+							}
+						},
+						"zz": [
+							"SmoothCarpetCyan.vtf",
+							"SmoothCarpetDarkCyan.vtf",
+							"SmoothCarpetDarkGreen.vtf",
+							"SmoothCarpetDarkPurple.vtf",
+							"SmoothCarpetGreen.vtf",
+							"SmoothCarpetGrey.vtf",
+							"SmoothCarpetLightGrey.vtf",
+							"SmoothCarpetLightOrange.vtf",
+							"SmoothCarpetOrange.vtf",
+							"SmoothCarpetPeach.vmt",
+							"SmoothCarpetPeach.vtf",
+							"SmoothCarpetPurple.vtf",
+							"SmoothCarpetYellow.vtf",
+							"SmoothDarkBlue.vtf",
+							"SmoothDarkRed.vtf",
+							"SmoothLightBlue.vtf",
+							"SmoothRed.vtf",
+							"SmoothWhite.vtf",
+							"concrete_13.vmt",
+							"concrete_13.vtf",
+							"concrete_13_nrm.vtf",
+							"dark_yellow.vmt",
+							"dark_yellow.vtf",
+							"hr_asphalt_001_detail.vtf",
+							"hr_metal_floor_001.vmt",
+							"hr_metal_floor_001_color.vtf",
+							"hr_metal_floor_001_dark.vmt",
+							"hr_metal_floor_001_dark_color.vtf",
+							"hr_metal_floor_001_grey.vmt",
+							"hr_metal_floor_001_grey_color.vtf",
+							"metal_111.vmt",
+							"metal_111.vtf",
+							"metal_111_nrm.vtf",
+							"metal_111_spec.vtf",
+							"metal_22.vmt",
+							"noise_detail_01.vtf",
+							"rock_wall_01.vmt",
+							"smoothcarpetcyan.vmt",
+							"smoothcarpetdarkcyan.vmt",
+							"smoothcarpetdarkgreen.vmt",
+							"smoothcarpetdarkpurple.vmt",
+							"smoothcarpetdarkredunlit.vmt",
+							"smoothcarpetdarkredunlit.vtf",
+							"smoothcarpetgreen.vmt",
+							"smoothcarpetgrey.vmt",
+							"smoothcarpetlightgrey.vmt",
+							"smoothcarpetlightorange.vmt",
+							"smoothcarpetorange.vmt",
+							"smoothcarpetpurple.vmt",
+							"smoothcarpetyellow.vmt",
+							"smoothdarkblue.vmt",
+							"smoothdarkred.vmt",
+							"smoothlightblue.vmt",
+							"smoothred.vmt",
+							"smoothwhite.vmt",
+							"swirl_blue.vmt",
+							"swirl_blue.vtf",
+							"yellow.vmt",
+							"yellow.vtf"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 1042616,
 			"_nDownloadCount": 0,
-			"_nFilesize": 40179604,
-			"_sAnalysisState": "pending",
+			"_nFilesize": 68069679,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1042595",
-			"_sFile": "bhop_mg_harero_da37f.zip",
-			"_sMd5Checksum": "d7bdca1a8abfe0c76ebbc95b98c568d7",
-			"_tsDateAdded": 1692843773
+			"_sDownloadUrl": "https://gamebanana.com/dl/1042616",
+			"_sFile": "bhop_mg_harero.rar",
+			"_sMd5Checksum": "835750fd820031bfb572e5b27d6adf83",
+			"_tsDateAdded": 1692848113
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [],
+			"_sText": "<p>-Missing textures</p><p>-Missing Models</p>",
+			"_sTitle": "bhop_mg_harero",
+			"_sVersion": "2",
+			"_tsDateAdded": 1692843805
+		}
+	],
 	"_idRow": 464324,
 	"_sName": "bhop_mg_harero (CS:S)",
-	"_sText": "Recent CS:GO port of&nbsp;bhop_mg_harero by&nbsp;<a class=\"MemberLink\" href=\"https://gamebanana.com/members/1478035\">Maharero</a><br><br>A conversion of my minigames course map into a bhop map<br><br>Nyushiri requested this ported<br>"
+	"_sText": "Recent CS:GO port of&nbsp;bhop_mg_harero by&nbsp;<a class=\"MemberLink\" href=\"https://gamebanana.com/members/1478035\">Maharero</a><br><br>A conversion of my minigames course map into a bhop map<br><br>Nyushiri requested this ported<br><br>Pokemon models now working version 2<br><br>the textures will not fully pack its a bug with this map<br><br>drop materials in cstrike/materials"
 }
