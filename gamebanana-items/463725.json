@@ -4,24 +4,35 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
-					"ze_surf_blitzkreig_v1_1.bsp"
+					"ze_surf_blitzkreig_v1_2.bsp"
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1041892,
-			"_nDownloadCount": 2,
-			"_nFilesize": 30276938,
+			"_idRow": 1043126,
+			"_nDownloadCount": 0,
+			"_nFilesize": 30194084,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
-			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1041892",
-			"_sFile": "ze_surf_blitzkreig_v1_1.rar",
-			"_sMd5Checksum": "607bba623d5738daaeb291111973a239",
-			"_tsDateAdded": 1692747494
+			"_sDownloadUrl": "https://gamebanana.com/dl/1043126",
+			"_sFile": "ze_surf_blitzkreig_v1_2.rar",
+			"_sMd5Checksum": "9654e05c3c76cdb35c6fc37664ba434b",
+			"_tsDateAdded": 1692917013
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "Fixed some minor issues."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "ze_surf_blitzkreig_v1_2",
+			"_sVersion": "Final/Stable.",
+			"_tsDateAdded": 1692916787
+		},
 		{
 			"_aChangeLog": [
 				{
@@ -60,6 +71,6 @@
 		}
 	],
 	"_idRow": 463725,
-	"_sName": "ze_surf_blitzkreig_v1_1",
+	"_sName": "ze_surf_blitzkreig_v1_2",
 	"_sText": "Hi! This is my first surf map. And surprisingly made this map in just a day. Quite absurd but true.<br><br><span class=\"GreenColor\"><b>Map Contains~</b></span><br>8 Surfs.<br>3 Defend Points. ( out of 1 will get repeated. i.e 4).<br>3/8 Surfs are Tier 1.<br>I wanted to add Tier8 Surf but that would prove to be a disaster. So, didn't added that.<br>1 Human Item. i.e LaserGun from ze_eerie_escape.<br>Good Music :)<br>Lasers with a Boss at the end. <br><br>Map is comparatively harder than other Zombie Escape Surf maps, because of fast triggers, some defend points are harder without more humans. Overall, map is  short and really fun. I like de_dust2, so I made this map with de_dust2 layout and surprisingly it turned out to be great.<br>Took inspiration from some past surf maps such as <b class=\"SelectedElement\">surf_mom </b>and as well as the legendary surf_vortex and surf_facility. Credit goes to all respective owners. <a class=\"MemberLink\" href=\"https://gamebanana.com/members/1424535\"><img loading=\"lazy\" src=\"https://images.gamebanana.com/img/upic/5910c5e8d7e7c.png\" alt=\"Xtra_Festive uPic\" class=\"Upic\"></a>. Chartapilus for his laser sfx.<font color=\"#ffe033\"><br></font><br><span class=\"RedColor\"><b>YOU ARE NOT ALLOWED TO EDIT & RE-UPLOAD THIS MAP.</b></span><br><br>"
 }
