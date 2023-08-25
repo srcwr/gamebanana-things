@@ -1,10 +1,5 @@
 {
-	"_aAlternateFileSources": [
-		{
-			"description": "Stripper, EntWatch, BossHP",
-			"url": "https://github.com/AlbemortCS/Maps/tree/main/ze_winter_bash_v3_b2"
-		}
-	],
+	"_aAlternateFileSources": null,
 	"_aFiles": [
 		{
 			"_aMetadata": {
@@ -14,7 +9,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 916941,
-			"_nDownloadCount": 111,
+			"_nDownloadCount": 18,
 			"_nFilesize": 78160944,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -24,65 +19,55 @@
 			"_sFile": "ze_winter_bash_v3_b2.rar",
 			"_sMd5Checksum": "903ce00c505ef4094a85facc96c919bb",
 			"_tsDateAdded": 1673031871
-		},
-		{
-			"_aMetadata": {
-				"_aArchiveFileTree": {
-					"ze_winter_bash_v3_b2_configs": {
-						"BossHP": [
-							"ze_winter_bash_v3_b2.cfg"
-						],
-						"EntWatch": [
-							"ze_winter_bash_v3_b2.cfg"
-						],
-						"Stripper": [
-							"ze_winter_bash_v3_b2.cfg"
-						]
-					}
-				}
-			},
-			"_bContainsExe": false,
-			"_idRow": 959475,
-			"_nDownloadCount": 10,
-			"_nFilesize": 2768,
-			"_sAnalysisResult": "File passed analysis",
-			"_sAnalysisState": "done",
-			"_sClamAvResult": "clean",
-			"_sDescription": "Stripper, EntWatch, BossHP",
-			"_sDownloadUrl": "https://gamebanana.com/dl/959475",
-			"_sFile": "ze_winter_bash_v3_b2_configs.rar",
-			"_sMd5Checksum": "e7f8fa55c4918536caf8be95afaa49d5",
-			"_tsDateAdded": 1680441569
 		}
 	],
 	"_aLatestUpdates": [
 		{
 			"_aChangeLog": [
 				{
+					"cat": "Optimization",
+					"text": "Better optimization"
+				},
+				{
+					"cat": "Removal",
+					"text": "ZM level, only way to level changing room is now with noclip/tp etc."
+				},
+				{
 					"cat": "Bugfix",
-					"text": "All boss func_physbox health's fixed."
+					"text": "Fixed (maybe) level 1 boat again."
+				},
+				{
+					"cat": "Adjustment",
+					"text": "More holding spots in level 4. Radio secret not random anymore. And a lot more."
+				},
+				{
+					"cat": "Addition",
+					"text": "Level 3 now forces to go to the boss fight and it needs to be defeated in order to beat the level."
 				}
 			],
 			"_sText": "",
-			"_sTitle": "Stripper v5",
-			"_sVersion": "v5",
-			"_tsDateAdded": 1680441691
+			"_sTitle": "v3_b2",
+			"_sVersion": "v3_b2",
+			"_tsDateAdded": 1673031771
 		},
 		{
 			"_aChangeLog": [
 				{
-					"cat": "Bugfix",
-					"text": "Animation fixes"
+					"cat": "Optimization",
+					"text": "Little bit better optimization."
 				},
 				{
 					"cat": "Bugfix",
-					"text": "Lvl 1 boat message."
+					"text": "Fixed known bugs (lvl1 boats etc.)"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Added 3 zm items, added/changed plenty of stuff."
 				}
 			],
 			"_sText": "",
-			"_sTitle": "Stripper v4",
-			"_sVersion": "v4",
-			"_tsDateAdded": 1680175309
+			"_sTitle": "v2",
+			"_tsDateAdded": 1620497109
 		}
 	],
 	"_idRow": 131103,

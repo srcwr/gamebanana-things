@@ -14,6 +14,8 @@
 					"bhop_blackmesa3.nav",
 					"bhop_blue_blackmesa.bsp",
 					"bhop_blue_blackmesa.nav",
+					"bhop_drops.bsp",
+					"bhop_drops.nav",
 					"bhop_fatal.bsp",
 					"bhop_fatal.nav",
 					"bhop_hazardcourse.bsp",
@@ -25,20 +27,27 @@
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1036921,
-			"_nDownloadCount": 8,
-			"_nFilesize": 27771472,
+			"_idRow": 1043201,
+			"_nDownloadCount": 0,
+			"_nFilesize": 37381994,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1036921",
-			"_sFile": "blackmesa_bhop_mappack_60ca7.zip",
-			"_sMd5Checksum": "21324abaefba6e0fbb58a8746ee8c2a4",
-			"_tsDateAdded": 1691994852
+			"_sDownloadUrl": "https://gamebanana.com/dl/1043201",
+			"_sFile": "blackmesa_bhop_mappack_60ca7_3e0ef.zip",
+			"_sMd5Checksum": "c8e2f0e26c337e935ca37fa024493138",
+			"_tsDateAdded": 1692923846
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [],
+			"_sText": "<p>-added bhop_drops</p><p>-fixed bhop_kombucha (tp to end glitch) requested by seenkid</p>",
+			"_sTitle": "Black Mesa Mappack",
+			"_sVersion": "3",
+			"_tsDateAdded": 1692923924
+		},
 		{
 			"_aChangeLog": [],
 			"_sText": "<p>-fixed TP to end on bhop_pringid (unknown cause)</p>",
@@ -49,5 +58,5 @@
 	],
 	"_idRow": 458957,
 	"_sName": "Black Mesa Mappack",
-	"_sText": "Ports of Black Mesa Bhop maps<br><br>this map pack includes:<br><br>-- bhop_fatal<br>-- bhop_hazardcourse<br>-- bhop_aerials_course1<br>-- bhop_kombucha<br>-- bhop_blackmesa<br>-- bhop_blackmesa2<br>-- bhop_blackmesa3<br>-- bhop_pringid -- fixed triggers (unknown cause)<br>-- bhop_blue_blackmesa<br>"
+	"_sText": "Ports of Black Mesa Bhop maps<br><br>this map pack includes:<br><br>-- bhop_fatal<br>-- bhop_hazardcourse<br>-- bhop_aerials_course1<br>-- bhop_kombucha&nbsp;<span class=\"SelectedElement\">-- fixed triggers (unknown cause)</span><br>-- bhop_blackmesa<br>-- bhop_blackmesa2<br>-- bhop_blackmesa3<br>-- bhop_pringid -- fixed triggers (unknown cause)<br>-- bhop_blue_blackmesa<br>-- bhop_drops - (added this map)"
 }

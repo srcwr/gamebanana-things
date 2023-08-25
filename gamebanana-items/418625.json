@@ -4,57 +4,24 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
-					"bhop_crappychristmas2_fix.bsp"
+					"bhop_crappychristmas2.bsp"
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 924737,
-			"_nDownloadCount": 27,
-			"_nFilesize": 25774680,
+			"_idRow": 910860,
+			"_nDownloadCount": 29,
+			"_nFilesize": 33199385,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/924737",
-			"_sFile": "bhop_crappychristmas2_fix.zip",
-			"_sMd5Checksum": "fbfa40f5e295b680d25e02b7b7b4b31e",
-			"_tsDateAdded": 1674417901
+			"_sDownloadUrl": "https://gamebanana.com/dl/910860",
+			"_sFile": "bhop_crappychristmas2_73b19.zip",
+			"_sMd5Checksum": "08cf5b7d46452cedcd6f31c099ca5a8c",
+			"_tsDateAdded": 1671968657
 		}
 	],
-	"_aLatestUpdates": [
-		{
-			"_aChangeLog": [
-				{
-					"cat": "Adjustment",
-					"text": "Made first skip harder to do"
-				},
-				{
-					"cat": "Addition",
-					"text": "Added fog for ambience and slight fps boost"
-				},
-				{
-					"cat": "Bugfix",
-					"text": "Many trigger fixes"
-				},
-				{
-					"cat": "Bugfix",
-					"text": "Minor texture fixes"
-				},
-				{
-					"cat": "Bugfix",
-					"text": "Fixed first booster not resetting properly"
-				},
-				{
-					"cat": "Bugfix",
-					"text": "Fixed last booster not boosting high enough and double boosting if you jumped on a seam"
-				}
-			],
-			"_sText": "<p>Thanks to Trickster for telling me about the velocity sensor that Xen made.</p>",
-			"_sTitle": "bhop_crappychristmas2_fix",
-			"_sVersion": "1.1",
-			"_tsDateAdded": 1674417814
-		}
-	],
+	"_aLatestUpdates": [],
 	"_idRow": 418625,
 	"_sName": "bhop_crappychristmas2",
 	"_sText": "Spent a couple weeks making this with some off days. Very quickly made so I could release it on christmas, but I did put a lot of time in even if it might not show.<br><br>Please message me if you find any bugs, gameplay or otherwise.<br><br>Edit: Forgot to include the triggers on compile yesterday so redownload it. :)<br>"
