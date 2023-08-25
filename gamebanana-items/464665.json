@@ -2,11 +2,24 @@
 	"_aAlternateFileSources": null,
 	"_aFiles": [
 		{
-			"_aMetadata": [],
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"de_dust2_2x2_xmas": {
+						"maps": [
+							"de_dust2_2x2_xmas.bsp",
+							"de_dust2_2x2_xmas.nav",
+							"de_dust2_2x2_xmas.txt"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
 			"_idRow": 1043478,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 3,
 			"_nFilesize": 5740378,
-			"_sAnalysisState": "pending",
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1043478",
 			"_sFile": "de_dust2_2x2_xmas.zip",
