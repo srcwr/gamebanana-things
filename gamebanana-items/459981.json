@@ -4,24 +4,32 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
-					"bhop_straa_babylon.bsp"
+					"bhop_straa_babylon.bsp",
+					"bhop_straa_babylon.nav"
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1029917,
-			"_nDownloadCount": 9,
-			"_nFilesize": 29364123,
+			"_idRow": 1043926,
+			"_nDownloadCount": 0,
+			"_nFilesize": 30487650,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
-			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1029917",
-			"_sFile": "bhop_straa_babylon.zip",
-			"_sMd5Checksum": "d08e40289c29aebac9b33f04badb95ad",
-			"_tsDateAdded": 1690923523
+			"_sDownloadUrl": "https://gamebanana.com/dl/1043926",
+			"_sFile": "bhop_straa_babylon_04f1a.zip",
+			"_sMd5Checksum": "8346021ea531d00a3a260d02219c2d6b",
+			"_tsDateAdded": 1693020875
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [],
+			"_sText": "<p>-fixed map crashing on some servers</p>",
+			"_sTitle": "bhop_straa_babylon",
+			"_sVersion": "2",
+			"_tsDateAdded": 1693020901
+		}
+	],
 	"_idRow": 459981,
 	"_sName": "bhop_straa_babylon (CS:S)",
 	"_sText": "CS:GO bhop_straa_ map ported by me<br><span class=\"SelectedElement\">Tier 2 45 secs ish</span>"
