@@ -9,22 +9,23 @@
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1043926,
+			"_idRow": 1044056,
 			"_nDownloadCount": 0,
-			"_nFilesize": 30487650,
+			"_nFilesize": 35391882,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1043926",
-			"_sFile": "bhop_straa_babylon_04f1a.zip",
-			"_sMd5Checksum": "8346021ea531d00a3a260d02219c2d6b",
-			"_tsDateAdded": 1693020875
+			"_sDownloadUrl": "https://gamebanana.com/dl/1044056",
+			"_sFile": "bhop_straa_babylon_edbf9.zip",
+			"_sMd5Checksum": "1430f8b0c50793a37e25aaa4085e7560",
+			"_tsDateAdded": 1693038430
 		}
 	],
 	"_aLatestUpdates": [
 		{
 			"_aChangeLog": [],
-			"_sText": "<p>-fixed map crashing on some servers</p>",
+			"_sText": "<p>-fixed map crashing on some servers</p><p>-thanks to <strong><span>saurkk</span></strong></p>",
 			"_sTitle": "bhop_straa_babylon",
 			"_sVersion": "2",
 			"_tsDateAdded": 1693020901
