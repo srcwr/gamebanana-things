@@ -17,7 +17,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1019410,
-			"_nDownloadCount": 6,
+			"_nDownloadCount": 16,
 			"_nFilesize": 440171,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -27,6 +27,39 @@
 			"_sFile": "lab_912_418c8.zip",
 			"_sMd5Checksum": "34311b44868dfd4a4978978201e711d9",
 			"_tsDateAdded": 1689431370
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrike": {
+						"maps": [
+							"de_912.bsp",
+							"de_912.log",
+							"de_912.nav"
+						],
+						"materials": {
+							"vgui": {
+								"logos": [
+									"9e2.vmt",
+									"9e2.vtf"
+								]
+							}
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 1022372,
+			"_nDownloadCount": 23,
+			"_nFilesize": 604683,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1022372",
+			"_sFile": "lab_912_new_.zip",
+			"_sMd5Checksum": "6dc0824d61d0fda1a83343f0a295c034",
+			"_tsDateAdded": 1689829585
 		}
 	],
 	"_aLatestUpdates": [],
