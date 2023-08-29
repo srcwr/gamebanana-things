@@ -1,0 +1,90 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"inferno_plants": {
+						"0": "readme.ini",
+						"materials": {
+							"models": {
+								"natalya": {
+									"plants": [
+										"largebushb.vmt",
+										"largebushc.vmt",
+										"largebushc1.vmt",
+										"largebushd.vmt",
+										"largebushe.vmt",
+										"largebushf.vmt",
+										"largebushg.vmt",
+										"largebushh.vmt",
+										"largebushi.vmt",
+										"largebushj.vmt"
+									]
+								}
+							}
+						},
+						"models": {
+							"natalya": {
+								"plants": [
+									"inferno_bush1.dx80.vtx",
+									"inferno_bush1.dx90.vtx",
+									"inferno_bush1.mdl",
+									"inferno_bush1.phy",
+									"inferno_bush1.sw.vtx",
+									"inferno_bush1.vvd",
+									"inferno_bush2.dx80.vtx",
+									"inferno_bush2.dx90.vtx",
+									"inferno_bush2.mdl",
+									"inferno_bush2.phy",
+									"inferno_bush2.sw.vtx",
+									"inferno_bush2.vvd",
+									"inferno_bush3.dx80.vtx",
+									"inferno_bush3.dx90.vtx",
+									"inferno_bush3.mdl",
+									"inferno_bush3.phy",
+									"inferno_bush3.sw.vtx",
+									"inferno_bush3.vvd",
+									"inferno_bush4.dx80.vtx",
+									"inferno_bush4.dx90.vtx",
+									"inferno_bush4.mdl",
+									"inferno_bush4.phy",
+									"inferno_bush4.sw.vtx",
+									"inferno_bush4.vvd",
+									"inferno_bush5.dx80.vtx",
+									"inferno_bush5.dx90.vtx",
+									"inferno_bush5.mdl",
+									"inferno_bush5.phy",
+									"inferno_bush5.sw.vtx",
+									"inferno_bush5.vvd",
+									"inferno_bush6.dx80.vtx",
+									"inferno_bush6.dx90.vtx",
+									"inferno_bush6.mdl",
+									"inferno_bush6.phy",
+									"inferno_bush6.sw.vtx",
+									"inferno_bush6.vvd"
+								]
+							}
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 46733,
+			"_nDownloadCount": 736,
+			"_nFilesize": 375647,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/46733",
+			"_sFile": "inferno_plants_2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1249833896
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 1868,
+	"_sName": "Inferno Bushes",
+	"_sText": "<font color=\"royalblue\"><b>Inferno Plants\r\n\r\nNOTE: 08/10/2009\r\nI fixed the glitch with the first bush's texture.  Please re-download if you got it earlier.</b>\r\n\r\nNot much to say here.  I just re-compiled the de_inferno bushes with new .vmt files so that they aren't fullbright anymore, and are now actually worth putting in a map.  Not much else to say about this lol.  Just be sure to pakrat your map if you use this.</font>"
+}

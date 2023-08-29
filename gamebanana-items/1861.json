@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"high_speed_prefab.vmf"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 46767,
+			"_nDownloadCount": 255,
+			"_nFilesize": 1820,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/46767",
+			"_sFile": "high_speed_prefab.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1247038370
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 1861,
+	"_sName": "speedup",
+	"_sText": "Simple prefab on how to speed up or slow down mid-map without server-side plug-ins. tutorial on how to make this:\r\ndeleted due to change of acc on youtube.\r\n\r\nto have speed ups/slow downs on various parts of the map, simple parent a trigger_multiple to the highspeed_trigger\r\n\r\nto adjust speed gain/loss edit the parameter override. < 1 = speed loss, > 1 = speed gain\r\n\r\nyou can delete the banners (as u can probably not even see them properly) they were just for my tutorial, no function to them."
+}

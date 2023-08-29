@@ -1,0 +1,33 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"test_timer.bsp",
+					"test_timer.vmf",
+					"test_timer_countdown.bsp",
+					"test_timer_countdown.vmf",
+					"test_timer_countdown_mins.bsp",
+					"test_timer_countdown_mins.vmf"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 46688,
+			"_nDownloadCount": 531,
+			"_nFilesize": 46780,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/46688",
+			"_sFile": "test_timer.7z",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1252012699
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 1876,
+	"_sName": "Visual Timer / Counter",
+	"_sText": "Wanted to make a timer/counter. Did so. :3\r\n\r\nThis uses func\\_brush for the numbers (7 for each number), a logic_case and a math\\_counter for each number.\r\n\r\nIt's pretty much just a counter, but adding a logic\\_timer with a refire of 1s means it can be used as a timer too. The timer adds 1 to the counter every second, which sends its current value to the logic_case. The logic\\_case compares the number input from the math\\_counter to the cases it has, and fires the first case that matches. Depending on which case is fired, it enables or disables each func\\_brush to show the number.\r\nWhen the counter hits its max (which is after 10s) it adds 1 to the other counter, which controls the 2nd digit (the tens). The 2nd digit's counter does the same as the first, but it's triggered every ten seconds by the first counter instead of the timer.\r\n\r\nYou could add more digits by copying and renaming the 2nd (left) digit with its case and counter. Then add an output on the 2nd digit's counter to add 1 to the 3rd digit's counter OnHitMax (pretty much copy the 1st digit's output to the 2nd).\r\n\r\nAt the moment, it goes up to 99 and then resets and disables itself. To stop this, remove the current OnHitMax output on the 2nd digit (OnHitMax, resetBtn, press). If you want to use it as a timer, I'd suggest setting the \"Maximum Legal Value\" of the 2nd counter to 6.\r\n\r\nPreview video:\r\n\r\n<center><object width=\"500\" height=\"290\"><embed src=\"http://media.xfire.com/swf/embedplayer.swf\" type=\"application/x-shockwave-flash\" allowscriptaccess=\"always\" allowfullscreen=\"true\" width=\"500\" height=\"290\" flashvars=\"videoid=12d137\"></embed></object>\r\n\r\nIf used please credit me in some way.\r\n\r\n<hr>\r\n<big>Countdown Timer</big>\r\n\r\n<b><font color=\"lightblue\">Updated! Now clamps at 00.</font></b></center>\r\nEdited the timer to count <b>down</b> instead of up, if you want that. Currently counts down from 60. I've edited it to be easier to read. You no longer need to add 1 to the first digit, just set it to what you want. It's pretty self explanatory.\r\n\r\nFor those who don't understand:\r\nChange the initial values to the numbers you want. For example, if you want it to start at 45 seconds then set the initial value of the \"<b>digit1\\_counter</b>\" counter to 5 and the initial value of the \"<b>digit2\\_counter</b>\" counter to 4. As you can see, <b>digit2\\_counter</b> controls the <b>left</b> or <b>tens</b> digit, while <b>digit1\\_counter</b> controls the <b>right</b> or <b>singles</b>(?) digit.\r\n\r\nI think that's all that needs explaining. If you need some help just ask.\r\n<br>\r\n\r\n<hr>\r\n<center><big>Full Countdown Timer with Minutes</big>\r\n(Shown in the last two screenshots.)</center>\r\n\r\nAfter a few requests I have finally updated the timer to have two minute numbers, so it can now go from 99:59 (you could make it 99:99 but as it acts as a real timer there are 60 seconds) to 00:00. At 00:00 the timer will stop.\r\n\r\n<b><u>Adding a Function/Ending When it Hits 00:00</b></u>\r\nTo make it do something when it hits 00:00, simply add the output to the <b>digit\\_relay\\_end</b> logic\\_relay entity. This is also the entity that stops the timer. So, for example, if you want to end the game when it hits 00:00, make a game_end entity, name it something (eg \"ender\"), then on the <b>digit\\_relay\\_end</b> entity add the output <b>OnTrigger, ender, EndGame</b>.\r\n\r\n<hr>\r\n<b><font color=\"#FF6060\" size=\"2\">Round Resets: Just a note that <b>func\\_brush</b> entities <u>do NOT reset</u> on new rounds. You will need to reset them manually using a <b>logic\\_auto</b> entity. You can do this easily by setting the oounter values again, as this will trigger the logic\\_compare entities to enable/disable the func\\_brush entities.</b></font>\r\n<font color=\"#FF6060\">\r\nIf you don't understand:\r\nAdd a <b>logic\\_auto</b> entity to the map (if you already have one then add the outputs below to the existing one).\r\nAdd the following outputs to it\r\n<div>OnMapSpawn, digit1\\_counter, SetValue, 0\r\nOnMapSpawn, digit2\\_counter, SetValue, 6</div>\r\nRemember to change 0 and 6 to your initial values. These go in the <b>parameter override</b> field <u>not the delay field</u>.\r\n\r\nIf you are using the reset button then simply have the logic\\_auto press the reset button (OnMapSpawn, reset\\_btn, Press).</font>\r\n\r\nIf you don't reset them then they will simply go back to normal after the counters change."
+}

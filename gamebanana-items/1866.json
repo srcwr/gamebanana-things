@@ -1,0 +1,79 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "neff_tilesetsample_AT.bsp",
+					"1": "neff_tilesetsample_OV.bsp",
+					"2": "neff_tilesetsample_TF.bsp",
+					"3": "readme.txt",
+					"TilesetAncientTemple": [
+						"OpenC_256x256.vmf",
+						"OpenToWide_256x256.vmf",
+						"OpenW_256x256.vmf",
+						"Open_256x256.vmf",
+						"RoomA_256x256.vmf",
+						"ThinC_128x128.vmf",
+						"Thin_128x128.vmf",
+						"Thin_128x256.vmf",
+						"Thin_128x64.vmf",
+						"Wide1_256x256.vmf",
+						"Wide2_256x256.vmf",
+						"Wide4W-2_256x256.vmf",
+						"Wide4W_256x256.vmf",
+						"WideC_256x256.vmf",
+						"WideD_256x256.vmf",
+						"WideQT_256x256.vmf",
+						"WideT_256x256.vmf",
+						"WideToThin_256x256.vmf"
+					],
+					"TilesetOutdoorVilla": [
+						"OpenC_256x256.vmf",
+						"OpenToWide2_256x256.vmf",
+						"OpenToWide_256x256.vmf",
+						"OpenW_256x256.vmf",
+						"Open_256x256.vmf",
+						"RoomA_256x256.vmf",
+						"Wide1_256x256.vmf",
+						"Wide2_256x256.vmf",
+						"Wide4W_256x256.vmf",
+						"WideC_256x256.vmf",
+						"WideD_256x256.vmf",
+						"WideT_256x256.vmf"
+					],
+					"TilesetTrainingFacility": [
+						"OpenC_256x256.vmf",
+						"OpenToWide2_256x256.vmf",
+						"OpenToWide_256x256.vmf",
+						"OpenW_256x256.vmf",
+						"Open_256x256.vmf",
+						"RoomA_256x256.vmf",
+						"Wide1_256x256.vmf",
+						"Wide2_256x256.vmf",
+						"Wide4W_256x256.vmf",
+						"WideC_256x256.vmf",
+						"WideD1_256x256.vmf",
+						"WideT_256x256.vmf"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 46743,
+			"_nDownloadCount": 362,
+			"_nFilesize": 2294120,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/46743",
+			"_sFile": "nefftilesetprefabs_atovtf.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1249364383
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 1866,
+	"_sName": "Easy Build Prefab Tilesets v2",
+	"_sText": "[GeekNeff's \"Easy Build Prefabs\" for Hammer]\r\n\r\nThese prefabs are interlocking groups of brushes and entities, that I created for quicker map creation, and for beginners of hammer(or even lazy mappers). I made these tilesets specifically for fightyard/gungame maps. I myself map for various different games. I got this idea from creating dungeons in Oblivion, and Vaults in Fallout 3 (thank you Bethesda). These tilesets will allow you to create a layout for a level in only a few minutes. Using them might seem confusing at first, but in the end, you should enjoy your results.\r\n-----\r\n\r\nUsing the Tilesets\r\n(I'll be referring to the prefabs as \"tiles\" from here on out)\r\nEach tile within a set has it's own unique name. To keep things simple, I've designed a layout, or \"code\", for the tile names. So, lets dissect a name and I'll explain each part:\r\n\r\nSay you have a tile from the TrainingFacility set named: \"Wide1_256x256\" Most names are split into 3 parts.\r\n\"Wide\" Is the tile \"group\". This particular tile is a straight hallway.\r\n\"1\" is the suffix of this straight hallway.\r\n\"256x256\" Is the dimensions of the tile (widthxlength)\r\nAnother example would be:\r\n\"OpenToWide2_256x256\"\r\n\"Open\" Means it's an open-spaced tile.\r\n\"ToWide2\" Means this is a double-transition tile.\r\n\"256x256\" This is once again the dimensions of the tile.\r\n\r\nRefer to chapter [TWO:THREE] for more descriptions on each tile group.\r\n\r\nThese tilesets are meant to be used for basic layout. Things like spawn positions, props, lights (in some cases), water, triggers, and/or many other things, are not enclosed within the tiles.\r\n-----\r\n\r\nTile Descriptions\r\n\r\n|Suffixes|\r\n\r\n[1] = This tile is a blank straight path.\r\n\r\n[2] = This tile is identical to 1, but with a unique detail. This applies to \"-2\" suffixes too. (IE: 4W-2)\r\n\r\n[4W] = This tile is a 4 way [Wide] group intersection.\r\n\r\n[C] = This is a corner tile\r\n\r\n[D] = This tile is a transition from the [Wide] group to the [Room] group.\r\n\r\n[T] = This is a T section.\r\n\r\n[QT] = This is a \"Quick T Section.\" This is only compatible with the same tile on the side of the transition.\r\n\r\n|Other|\r\n\r\n[Open] = This tile is an open space of 256x256 units.\r\n\r\n[RoomA] = This tile is only compatable with the tile: \"WideD_256x256\" It is just a room\r\n\r\n[\"group\"To\"group\"] = A transition tile.\r\n\r\n[\"group\"To\"group\"2] = A double-transition tile.\r\n-----\r\n\r\nUseful Hints\r\n\r\nHint#1: You can see a basic layout of your map from above, using the built in guides in the 3D view.\r\nHint#2: Try experimenting with different transitions and tile combinations, for good game play effect.\r\nHint#3: Feel Free to alter any tiles for your own use[*1].\r\nHint#4: Add your own props to create more cover or obstacles in your tileset created map.\r\nHint#5: Try different lighting options, and even different textures with the tilesets.\r\n-----"
+}

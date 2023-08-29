@@ -1,0 +1,133 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"GT 500 Redux": {
+						"materials": {
+							"models": {
+								"natalya": {
+									"shelby": [
+										"base1.vmt",
+										"base1.vtf",
+										"base2.vmt",
+										"base2.vtf",
+										"base3.vmt",
+										"base3.vtf",
+										"black.vmt",
+										"black.vtf",
+										"body.vmt",
+										"body.vtf",
+										"body10.vmt",
+										"body10.vtf",
+										"body2.vmt",
+										"body2.vtf",
+										"body3.vmt",
+										"body3.vtf",
+										"body4.vmt",
+										"body4.vtf",
+										"body5.vmt",
+										"body5.vtf",
+										"body6.vmt",
+										"body6.vtf",
+										"body7.vmt",
+										"body7.vtf",
+										"body8.vmt",
+										"body8.vtf",
+										"body9.vmt",
+										"body9.vtf",
+										"chrome.vmt",
+										"chrome.vtf",
+										"chrome_n.vtf",
+										"glass.vmt",
+										"glass.vtf",
+										"normal.vtf",
+										"stripes.vmt",
+										"stripes.vtf"
+									]
+								}
+							}
+						},
+						"models": {
+							"natalya": {
+								"mustang_gt500": [
+									"gt500_body.dx80.vtx",
+									"gt500_body.dx90.vtx",
+									"gt500_body.mdl",
+									"gt500_body.phy",
+									"gt500_body.sw.vtx",
+									"gt500_body.vvd",
+									"gt500_door_l.dx80.vtx",
+									"gt500_door_l.dx90.vtx",
+									"gt500_door_l.mdl",
+									"gt500_door_l.phy",
+									"gt500_door_l.sw.vtx",
+									"gt500_door_l.vvd",
+									"gt500_door_r.dx80.vtx",
+									"gt500_door_r.dx90.vtx",
+									"gt500_door_r.mdl",
+									"gt500_door_r.phy",
+									"gt500_door_r.sw.vtx",
+									"gt500_door_r.vvd",
+									"gt500_hood.dx80.vtx",
+									"gt500_hood.dx90.vtx",
+									"gt500_hood.mdl",
+									"gt500_hood.phy",
+									"gt500_hood.sw.vtx",
+									"gt500_hood.vvd",
+									"gt500_trunk.dx80.vtx",
+									"gt500_trunk.dx90.vtx",
+									"gt500_trunk.mdl",
+									"gt500_trunk.phy",
+									"gt500_trunk.sw.vtx",
+									"gt500_trunk.vvd",
+									"gt500_wheel.dx80.vtx",
+									"gt500_wheel.dx90.vtx",
+									"gt500_wheel.mdl",
+									"gt500_wheel.phy",
+									"gt500_wheel.sw.vtx",
+									"gt500_wheel.vvd",
+									"gt500_wheels.dx80.vtx",
+									"gt500_wheels.dx90.vtx",
+									"gt500_wheels.mdl",
+									"gt500_wheels.phy",
+									"gt500_wheels.sw.vtx",
+									"gt500_wheels.vvd",
+									"gt500_window_f.dx80.vtx",
+									"gt500_window_f.dx90.vtx",
+									"gt500_window_f.mdl",
+									"gt500_window_f.phy",
+									"gt500_window_f.sw.vtx",
+									"gt500_window_f.vvd",
+									"gt500_window_r.dx80.vtx",
+									"gt500_window_r.dx90.vtx",
+									"gt500_window_r.mdl",
+									"gt500_window_r.phy",
+									"gt500_window_r.sw.vtx",
+									"gt500_window_r.vvd"
+								]
+							}
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 46737,
+			"_nDownloadCount": 2501,
+			"_nFilesize": 1418102,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/46737",
+			"_sFile": "gt500redux.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1249717730
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2674,
+	"_sName": "Mustang GT500 Redux",
+	"_sText": "<font color=\"royalblue\"><b>Mustang GT500 Redux</b>\r\n\r\nThis is a redux of my older Mustang GT500.  Improvements to this version include:\r\n\r\n- Better phymodel\r\n- More parts\r\n- Works as prop_static\r\n- Sounds better\r\n- Better body model\r\n- Fixed lighting origin\r\n\r\nThis model will now work in Hammer as a prop_static.  The better phymodel means that the body is now truly separated from the rest...  This means that you will get glass bullet holes when you shoot the glass, and metal bullet holes when you don't.  You can also fire inside the car now.  I also separated the wheels from the body.  You will get in this a wheel.mdl and wheels.mdl so you can choose to have stand-alone wheels if you need them (such as for a prop_dynamic where the tires rotate) or you can use the wheels.mdl for easier placement.  And finally, the body is now the more detailed version so I separated the hood and trunk doors so you can open up those parts of the car to see what's inside.  That's about all.\r\n\r\n\r\n\r\nIf you need help, plz post here.</font>"
+}

@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"Endscore_evilelmo.vmf"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 46533,
+			"_nDownloadCount": 377,
+			"_nFilesize": 1943,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/46533",
+			"_sFile": "endscore_evilelmo.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1264171961
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 1907,
+	"_sName": "Bonuskills",
+	"_sText": "To change the amount of kills gained, go to the game_score (called end_score) and edit the amount of points to give. \r\n\r\nTo enable the trigger_multiple from start, set it to start enabled, delete the button, and delete the output that disables end_score_giver \r\nYou can delete the point_servercommand if you want, make sure you delete it's input too.\r\n\r\nNo need to credit, highly appreciated if you do though!\r\n\r\n*NOTE*\r\nthe screenshot shows me saying that I've gotten those kills, on a real server with admin isntalled Console will say it. "
+}

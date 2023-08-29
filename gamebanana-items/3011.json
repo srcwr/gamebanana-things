@@ -1,0 +1,34 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "Ak47_m4a1_scout_spawner.vmf",
+					"1": "Ak47_m4a1_scout_spawner.vmx",
+					"2": "Readme!.txt",
+					"3": "Weapon spawner prefab.JPG",
+					"Test map": [
+						"weapon_spawner_prefab.bsp"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 46650,
+			"_nDownloadCount": 270,
+			"_nFilesize": 624314,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/46650",
+			"_sFile": "weapon_spawners_3.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1254599521
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 3011,
+	"_sName": "Weapon spawners",
+	"_sText": "Installation:\r\n\r\nFor the test map look into the folder named \"Test map\"\r\nPut the contents of the map named \"Test map\" into Steam\\Steamapps\\\"Steam_username\"\\counter-strike source\\cstrike\\maps folder.\r\n\r\nThe prefab dosent matter where you put it.\r\nBut to use it open Hammer editor press \"File\" in the left upper corner then press open and look for Ak47_m4a1_scout_spawner.vmf\r\n\r\nPrefab made by: Creon\r\n\r\nPlease dont reupload."
+}

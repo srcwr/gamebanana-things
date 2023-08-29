@@ -1,0 +1,33 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"Turret Prefab": [
+						"nub_turret.bsp",
+						"nub_turret.vmf",
+						"nub_turret.vmx",
+						"nub_turret0018.jpg"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 46749,
+			"_nDownloadCount": 1150,
+			"_nFilesize": 430997,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/46749",
+			"_sFile": "turret_prefab.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1248425186
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 3001,
+	"_sName": "THEnub's Turrets",
+	"_sText": "Two turrets made by me. Requested by <b>esquenoas</b>. \r\n\r\nTurrets are:\r\n<ul><li>One <b><font color=lightgreen>\"Regular\" turret</font></b>, which fires a single round per shot, inflicting physical damage.\r\n<li>One <b><font color=lightgreen>Grenade Launcher turret</b></font>, which fires a single round per shot, causing small explosions.</ul>\r\nRar. Includes BSP, VMF, and VMX files. \r\n\r\n<b><font color=lightgreen>Both turrets can rotate and fire.</b></font> Made them in one night, about 4 1/2 hours worth of work. Turrets function with approximately 16 entities (each).\r\n\r\n<b><font color=yellow>IMPORTANT NOTES: READ BEFORE USING</b></font>\r\nEach turret is individually made, and both can be used in a single map at once. To create more turrets in a single map, select all components of the desired turret, Copy (CTRL+C) then go Edit->Paste Special->Desired Settings (Make sure \"Make Unique\" is checked!)->Paste, and move to desired location. \r\n\r\nIf you move them, be sure <b>not</b> to rotate them, as then the turrets will no longer shoot in the right direction. If you do rotate them, be sure to find all entities, and to rotate their options accordingly (ie, make the trigger_push, push in the new direction, etc.).\r\n\r\n<b><font color=red>Give Credit Where Credit Is Due.</b></font> If you use this in your map you must credit me. While you don't have too, I'd appreciate it if you also told me you used this/ese prefabs so I can check out your maps.\r\n\r\n<b><font color=orange>Feel free to ask me any questions, tell me any suggestions, assess, and be sure to add me to your watchlist!</b></font>"
+}

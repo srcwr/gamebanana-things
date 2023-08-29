@@ -1,0 +1,55 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "readme.txt",
+					"1": "slotmachine.bsp",
+					"2": "slotmachine.vmf",
+					"slotmachine": [
+						"bar.vmt",
+						"bar.vtf",
+						"bell.vmt",
+						"bell.vtf",
+						"cherry.vmt",
+						"cherry.vtf",
+						"grapes.vmt",
+						"grapes.vtf",
+						"orange.vmt",
+						"orange.vtf",
+						"prize1.vmt",
+						"prize1.vtf",
+						"prize2.vmt",
+						"prize2.vtf",
+						"prize3.vmt",
+						"prize3.vtf",
+						"prize4.vmt",
+						"prize4.vtf",
+						"seven.vmt",
+						"seven.vtf",
+						"spinning.vmt",
+						"spinning.vtf",
+						"win.psd"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 46617,
+			"_nDownloadCount": 448,
+			"_nFilesize": 243182,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/46617",
+			"_sFile": "slotmachineprefab.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1256685005
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 1890,
+	"_sName": "Slot machine",
+	"_sText": "I made this slot machine to a map, but I'm not going to use it.\r\n\r\nIt works, and if you win it will spawn a weapon (which one depends on what symbols you win with).\r\n\r\nIt's random, but unfortunately it's not harder to get 7-7-7 than to get the other ones.\r\n\r\n<b> Everything is editable :) </b>\r\n\r\nTextures is in the .rar :)\r\n\r\n-\r\n\r\n7-7-7 = AWP\r\nBAR-BAR-BAR = Para\r\nORANGE-ORANGE-ORANGE = Ak47\r\nGRAPE-GRAPE-GRAPE = M4a1\r\nBELL-BELL-BELL = P90\r\nCHERRY-CHERRY-CHERRY = Deagle\r\n\r\nEvery win will also give you 9 HP, just press the green button on the right hand side.\r\n\r\nI've put some decals in the texture-folder to explain the buttons and so on.\r\n\r\nAny bugs/questions/cons can be posted here, sent on a PM or sent(mail/MSN) to anders@evjen.tk \r\n\r\n- evjand"
+}

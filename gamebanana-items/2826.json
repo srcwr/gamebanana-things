@@ -1,0 +1,34 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "Ladder_prefab.vmf",
+					"1": "Ladder_prefab_pic.jpg",
+					"2": "Ladder_prefab_pic_640x480.jpg",
+					"3": "Readme.txt",
+					"Test map": [
+						"Ladder_test_map.bsp"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 46649,
+			"_nDownloadCount": 578,
+			"_nFilesize": 980679,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/46649",
+			"_sFile": "ladder_2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1254600304
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2826,
+	"_sName": "Pool ladder prefab",
+	"_sText": "Installation:\r\n\r\nFor the test map look into the folder named \"Test map\"\r\nPut the contents of the map named \"Test map\" into Steam\\Steamapps\\\"Steam_username\"\\counter-strike source\\cstrike\\maps folder.\r\n\r\nThe prefab dosent matter where you put it.\r\nBut to use it open Hammer editor press \"File\" in the left upper corner then press open and look for Ladder_prefab.vmf\r\n\r\nPrefab made by: Creon\r\n\r\nPlease dont reupload."
+}

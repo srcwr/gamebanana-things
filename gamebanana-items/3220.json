@@ -1,0 +1,31 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"prefab_c4wall": [
+						"prefab_c4_wall.vmf",
+						"screenie1.jpg"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 46756,
+			"_nDownloadCount": 263,
+			"_nFilesize": 224566,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/46756",
+			"_sFile": "prefab_c4wall.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1247602051
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 3220,
+	"_sName": "C4 wall",
+	"_sText": "Simple prefab.\r\na func_clip_vphysics wall with filter_class blocks the hole. Everything but the c4 goes through. \r\n\r\nEnjoy:D"
+}

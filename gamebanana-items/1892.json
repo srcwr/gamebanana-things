@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"radiogrenade.vmf"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 46605,
+			"_nDownloadCount": 314,
+			"_nFilesize": 799,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/46605",
+			"_sFile": "radiogrenade_2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1257536725
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 1892,
+	"_sName": "Musical Grenade",
+	"_sText": "This is a grenade that when a player picks it up it will start to play a song. Since the song comes from the grenade, it will 'follow' the player and other players standing by him will hear it.\r\n\r\nThe song only starts when it is picked up and the song and weapon can be easily changed. The song will also stop when the grenade is thrown.\r\n\r\nGreat for deathrun maps and being hidden as a secret."
+}

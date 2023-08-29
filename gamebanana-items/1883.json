@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"prefab_logic_keypad.bsp",
+					"prefab_logic_keypad.vmf"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 46633,
+			"_nDownloadCount": 601,
+			"_nFilesize": 81304,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/46633",
+			"_sFile": "prefab_logic_keypad.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1255201911
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 1883,
+	"_sName": "Logic Keypad with Autoreset",
+	"_sText": "This is Prefab \"logic keypad with autorestart\".\r\nKeypad code is :8921 you can change in logic_compare.\r\nOn press buton keypad change color.\r\nIf code fail math_counter be reset.\r\nKeypad has got fail and acces sound.\r\n"
+}

@@ -1,0 +1,63 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"Volvo": {
+						"0": "Readme.txt",
+						"materials": {
+							"models": {
+								"natalya": {
+									"volvo": [
+										"tex3.VTF",
+										"tex3.vmt",
+										"volvo2.vmt",
+										"volvo2.vtf",
+										"volvo3.vmt",
+										"volvo3.vtf",
+										"volvo4.vtf"
+									]
+								}
+							}
+						},
+						"models": {
+							"natalya": {
+								"volvo": [
+									"volvo_glass.dx80.vtx",
+									"volvo_glass.dx90.vtx",
+									"volvo_glass.mdl",
+									"volvo_glass.phy",
+									"volvo_glass.sw.vtx",
+									"volvo_glass.vvd",
+									"volvo_r.dx80.vtx",
+									"volvo_r.dx90.vtx",
+									"volvo_r.mdl",
+									"volvo_r.phy",
+									"volvo_r.sw.vtx",
+									"volvo_r.vvd"
+								]
+							}
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 46759,
+			"_nDownloadCount": 1415,
+			"_nFilesize": 402846,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/46759",
+			"_sFile": "volvo244gl_2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1247435766
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2670,
+	"_sName": "Volvo 244GL",
+	"_sText": "<font color=\"royalblue\" face=\"helvetica\"><b>Volvo 244GL</b>\r\n\r\nThis is a Volvo 244GL compiled as a static prop for CS:S.  You can put it in your maps, so long as you use pakrat or map analyst to pak it into your map before you release it.  The model originally came from Garry's Mod where it appears to have been made by Solid_Granite and GiGaBiTe.  If they aren't the actual original authors plz let me know and I will fix it.\r\n\r\nAnyway, I ported the model to CS:S.  Here's what I did:\r\n\r\n- Wrote a new QC to compile as a Static Prop\r\n- Fixed windows\r\n- New phymodel\r\n- Separated glass & body into two models\r\n- Evened out textures\r\n- Fixed reflections\r\n\r\n\r\nYou can feel free to use this model for any maps or whatever.  If you have problems please post here or PM me.\r\n\r\n- Natalya[AF] -</font>"
+}

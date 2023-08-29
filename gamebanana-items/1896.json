@@ -1,0 +1,45 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"rallyprefab": {
+						"0": "rallyprefab.txt",
+						"1": "rallyraceprefab.vmf",
+						"cstrike": {
+							"materials": {
+								"zx2_car": [
+									"1.vmt",
+									"1.vtf",
+									"2.vmt",
+									"2.vtf",
+									"3.vmt",
+									"3.vtf",
+									"go.vmt",
+									"go.vtf"
+								]
+							}
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 46580,
+			"_nDownloadCount": 446,
+			"_nFilesize": 54606,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/46580",
+			"_sFile": "rallyprefab_2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1261453770
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 1896,
+	"_sName": "Rally Race Prefab",
+	"_sText": "<fieldset><legend><b class=blue>Rally Race Prefab by ZaLoS</b></legend>\r\nThis prefab includes all you need to get started on your own rally race map. \r\n\r\nIncluded are:\r\n<ul>\r\n<li><b class=green>Go</b> Zone Trigger, with <b class=green>Go</b> Zone Sprite and custom textures.</li>\r\n<li>Info Target Spawn points. 13 are in the pack but you can add as many more as you like. Remember, however many you have is the max amount of people that can race at one time. The mod offsets the angle of the info targets oddly, so I included an arrow that is pointing in the direction the cars will be pointing when they spawn. *</li>\r\n<li>Trigger check points. There are 3 here, to make more just copy/paste and then increment the number after the # by one. ex. checkpoint_#4, checkpoint_#5, etc...**</li>\r\n<li>Spectator Zone with Cycler***</li></ul>\r\n<fieldset>\r\n* - If you change the angle of the info target with in the entity, the arrow will no longer be accurate.\r\n** - Do not have duplicate checkpoints in the map, the mod can not compensate for them. ex. dont not have two checkpoint_#1s in the map.\r\n*** - For this, I have the garys mod model selected, you may or may not have that model by defualt.\r\n</fieldset>\r\n</fieldset>\r\n<fieldset><legend> <b class=red> More info!</b></legend>\r\nHere is the original explanation of the mod entities by the mod creator:\r\n\r\n<b>Race map:</b>\r\nrace_derby_v1.zip is a map file\r\nanother 2 map files, http://www.sendspace.com/file/er7v8f\r\nYou can create race map for this plugin\r\nThere are 4 types special entity for this plugin, all are defined in rallyrace.sp:\r\n\r\n<b>Check Point:</b> car check points\r\nClassname: \"trigger_multiple\"\r\nTargetname: \"checkpoint_#\"+(1..)\r\nWait (Delay before reset): 0.1 (best value is 0.1, don't set 0)\r\nfor the first checkpoint, targetname must be \"checkpoint_#1\", second checkpoint, \"checkpoint_#2\". (up to checkpoint_#x , where x is the largest integer number in sourcemod, and don't make stupid things, like checkpoint_#-1, checkpoint_#a, checkpoint_## and so on, if server crash don't ask me)\r\n\r\n<b>Ready Zone:</b> when player inside the zone, mean player can play on next race round\r\nClassname: \"trigger_multiple\"\r\nTargetname: \"ready_zone\"\r\nWait: 0.1 or default\r\nCreate a \"env_sprite\", use model \"zx2_car/go.vmt\", put it into the \"ready_zone\" center, it will show a \"GO!\" picture\r\n\r\n<b>Spectate Zone:</b> when player inside the zone, switch player to spectate team directly\r\nClassname: \"trigger_multiple\"\r\nTargetname: \"spectate_zone\"\r\nWait: 0.1 or default\r\nCreate a \"cycler\", use model \"models/gman.mdl\", let player know there is a spectate zone (or some sexy model)\r\n\r\n<b>Car Spawn Point:</b> car spawn points\r\nClassname: \"info_target\"\r\nTargetname: \"car_spawn\"\r\nAngle: you must set the correct angle \r\n\r\n</fieldset>\r\n<fieldset> <legend> <b class=orange>Tutorial!</b> </legend>\r\nBe sure to check out <a href=\"http://www.fpsbanana.com/tuts/9397\">UNREAL's Tutorial</a> on how to make your own rally race map!\r\n\r\n</fieldset>"
+}

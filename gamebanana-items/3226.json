@@ -1,0 +1,32 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"PHYS_DOOR.prt",
+					"PHYS_DOOR.vmf",
+					"PHYS_DOOR.vmx",
+					"phys_door.bsp",
+					"phys_door.log"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 46585,
+			"_nDownloadCount": 476,
+			"_nFilesize": 17808,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/46585",
+			"_sFile": "phys_door_2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1260743412
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 3226,
+	"_sName": "breakable door",
+	"_sText": "This door can be destroyed or be opened/closed, to be destroyed you need shoot the things of metal, this use a:\r\n\r\nfunc_physbox_multiplayer\r\nmath_counter\r\nfunc_door_rotating\r\n2x func_Breakable\r\nenv_physexplosion"
+}
