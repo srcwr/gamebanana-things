@@ -1,0 +1,35 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"addons": {
+						"0": "gungame_utils.dll",
+						"1": "gungame_utils.vdf",
+						"2": "gungame_utils_i486.so",
+						"gungame": [
+							"sigscan_info.dat"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 3946,
+			"_nDownloadCount": 2078,
+			"_nFilesize": 277179,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/3946",
+			"_sFile": "gungame_utils.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1228550895
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 34628,
+	"_sName": "GunGame Utils",
+	"_sText": "GunGame5 Server plugin used to respawn players with the \"gg_spawn <userid>\" command."
+}

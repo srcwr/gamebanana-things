@@ -4,26 +4,33 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": {
-					"0": "leia-me.txt",
-					"1": "read-me.txt",
+					"0": "read-me.txt",
 					"maps": [
 						"fy_fimdetarde.bsp",
 						"fy_fimdetarde.nav"
-					]
+					],
+					"materials": {
+						"vgui": {
+							"maps": [
+								"menu_thumb_fy_fimdetarde.vmt",
+								"menu_thumb_fy_fimdetarde.vtf"
+							]
+						}
+					}
 				}
 			},
 			"_bContainsExe": false,
-			"_idRow": 651112,
-			"_nDownloadCount": 281,
-			"_nFilesize": 2280825,
+			"_idRow": 968493,
+			"_nDownloadCount": 31,
+			"_nFilesize": 22016288,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/651112",
-			"_sFile": "fy_fimdetarde_d2db7.zip",
-			"_sMd5Checksum": "99a5085dd165cb3c93624d545528525d",
-			"_tsDateAdded": 1630692197
+			"_sDownloadUrl": "https://gamebanana.com/dl/968493",
+			"_sFile": "fy_fimdetarde_b8328.zip",
+			"_sMd5Checksum": "960279118dd1091de69f68b8bd5b0437",
+			"_tsDateAdded": 1681751011
 		}
 	],
 	"_aLatestUpdates": [

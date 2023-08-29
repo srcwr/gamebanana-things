@@ -1,0 +1,38 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrike": {
+						"0": "BotProfile.db",
+						"Maps": [
+							"de_aztec.nav",
+							"de_dust2.nav",
+							"de_nuke.nav"
+						],
+						"cfg": [
+							"game.cfg"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 3517,
+			"_nDownloadCount": 10821,
+			"_nFilesize": 544013,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/3517",
+			"_sFile": "smilesunaifor_css_bots.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1341773020
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 34603,
+	"_sName": "NEW BOTS AI",
+	"_sText": "1 Bots took the correct positions.\r\n2 The new system purchase\r\n\t- Everyone chooses their own style by purchasing (Sniper buy AWP Scout ....)\r\n\t- Bot buy Pistols depending on the cause (no money for weapon, on round start)\r\n3 added new navigation for DE_DUST2 (Bots will not camper on every corner)\r\nUnsubscribe as bots?"
+}

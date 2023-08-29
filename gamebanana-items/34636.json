@@ -1,0 +1,109 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"tf2-weapon-taunts_v0.7-6-10-11": {
+						"0": "changelog.txt",
+						"1": "readme.txt",
+						"tf": {
+							"scenes": {
+								"0": "scenes.image",
+								"player": {
+									"demoman": {
+										"low": [
+											"taunt04_v1.vcd",
+											"taunt04_v2.vcd",
+											"taunt08_v1.vcd",
+											"taunt08_v2.vcd",
+											"taunt10.vcd"
+										]
+									},
+									"engineer": {
+										"low": [
+											"taunt02_vocal04.vcd"
+										]
+									},
+									"heavy": {
+										"low": [
+											"taunt01_v4.vcd",
+											"taunt07.vcd"
+										]
+									},
+									"medic": {
+										"low": [
+											"taunt01_vocal06.vcd",
+											"taunt01_vocal07.vcd",
+											"taunt08.vcd"
+										]
+									},
+									"scout": {
+										"low": [
+											"taunt01_vocal04.vcd",
+											"taunt01_vocal05.vcd",
+											"taunt02_v4.vcd",
+											"taunt02_v5.vcd",
+											"taunt02_v6.vcd",
+											"taunt02_v7.vcd",
+											"taunt02_v8.vcd"
+										]
+									},
+									"sniper": {
+										"low": [
+											"taunt01_v6.vcd",
+											"taunt01_v7.vcd",
+											"taunt01_v8.vcd",
+											"taunt02_v3.vcd",
+											"taunt02_v4.vcd",
+											"taunt02_v5.vcd",
+											"taunt03_v3.vcd",
+											"taunt07.vcd"
+										]
+									},
+									"soldier": {
+										"low": [
+											"taunt01_v4.vcd",
+											"taunt02_v3.vcd",
+											"taunt02_v4.vcd",
+											"taunt08.vcd"
+										]
+									},
+									"spy": {
+										"low": [
+											"taunt01_v6.vcd",
+											"taunt01_v7.vcd",
+											"taunt01_v8.vcd"
+										]
+									}
+								}
+							},
+							"scripts": {
+								"talker": [
+									"response_rules.txt",
+									"tf.txt"
+								]
+							}
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 3874,
+			"_nDownloadCount": 533,
+			"_nFilesize": 563035,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/3874",
+			"_sFile": "590__40-.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1307907087
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 34636,
+	"_sName": "Polished Taunts",
+	"_sText": "TF2 Weapon Taunts Modification by Gamemaster1379\r\n\r\nThe goal of this mod is to add animations to all weapons in Team Fortress 2.\r\n\r\nFor any questions, you are welcome to contact me via Steam Powered User Forums or Steam IM (Gamemaster1379)\r\nhttp://steamcommunity.com/id/Gamemaster1379/\r\n\r\nSpecial thanks to [in no specific order]:\r\ni-ghost for helping me get this mod started and allowing use of the Ullapool taunt change.\r\nKenny1264 for testing\r\nKenogu Labz for testing\r\nNDUDE for testing\r\nCritical Hit! for testing\r\nSyntax_Error for server testing\r\nPowerlord for SourceMod assistance\r\nNucklez for testing\r\nXeroZohar for testing\r\n\r\nThis version is v0.7 and includes animations for weapons that lack them as well as new lines for existing weapons.\r\n\r\nBelow is an example video for the 0.4 release. Most the taunts and lines still exist with the exception of the Jarate. It was given the new laugh animations added in the most recent update. (Can be seen here http://www.youtube.com/watch?v=o5CqjVJZjl8)\r\nhttp://www.youtube.com/watch?v=MeKTDsX3pyI"
+}

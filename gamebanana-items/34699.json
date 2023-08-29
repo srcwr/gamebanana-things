@@ -1,0 +1,58 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "Navod na rpg.txt",
+					"cstrike": {
+						"0": "CSSRPG-Readme.txt",
+						"addons": {
+							"cssrpg": {
+								"bin": [
+									"cssrpg_mm.dll",
+									"cssrpg_mm_i486.so"
+								]
+							}
+						},
+						"cfg": {
+							"cssrpg": {
+								"languages": [
+									"czech.txt",
+									"danish.txt",
+									"english.txt",
+									"estonian.txt",
+									"finnish.txt",
+									"french.txt",
+									"german.txt",
+									"hungarian.txt",
+									"italian.txt",
+									"norwegian.txt",
+									"russian.txt",
+									"spanish.txt",
+									"xxh4x0r.txt"
+								]
+							}
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 2937,
+			"_nDownloadCount": 2060,
+			"_nFilesize": 875975,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/2937",
+			"_sFile": "rpg-mod-na-css-105_mms.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1380284562
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 34699,
+	"_sName": "rpg mod",
+	"_sText": "What is an RPG mode\r\nRPG mode is a game mode in which normally kill other players and get behind this so-called credits . These credits can then exchange for improving character.\r\n\r\nWhat are \" commands say \" and how is\r\n\r\nSay commands , translated by speaking commands are commands that can be inserted into chat .\r\nFirst rpgmenu - Brings up a menu that allows you to set the menu language , or as a shopping center and a help center .\r\n\r\nSecond rpgrank < section name > - Lets find out how much has entered the names of the level , how much does he have the experience to the next , how's the žeb?í?kách and number of credits .\r\n\r\n3rd rpgtop10 - Allows you to view statistics of the ten best players on the server .\r\n\r\n4th rpghelp - View the menu for help (always in English).\r\n\r\nHow to set a Czech menu\r\n\r\nFirst place to chat or console command \" rpgmenu \" . Then press 4-1-1 on the keyboard ( not the numeric ) and select a language.\r\n\r\nFirst place in a RPG server (see above). Then open the console and type in the \" rpg_help \" . You will see a list of a few commandama that need to get started . However, if you want to see the other , write in the console \" rpg_cvarlist \" . So the rules adminování are :\r\n\r\nAs someone add credits , level , improvements (only admins )\r\n\r\nFirst, type in the console \"users \" A list of users on the server. Remember the second number.\r\n\r\nNow put in the console :\r\n\r\nFirst To add credits: rpg_addcredits number\r\n\r\nSecond On the addition of levels : rpg_addlvl number\r\n\r\n3rd On improvements: rpg_giveupgrade number of improvements\r\n\r\nExamples:\r\n\r\nI give \"users \" to see the list :\r\n\r\n(1:2 ) [ FO] Eda_CZE [ CL ] ™\r\n\r\n( 2:28 ) kill me , only me!\r\n\r\nand I want to give the user kill me , only me! 50 credits , 50 + levels and lives . So remember the number 28 and write to the console :\r\n\r\nrpg_addcredits 28 50\r\n\r\nrpg_addlvl 28 50\r\n\r\nrpg_giveupgrade 28 hbonus\r\n\r\ninstallation\r\nDownload the rar file and extract it into cstrike and then restart your server\r\nand to turn on the console banner for RPG mode cssrpg_enable 1\r\nto switch off mode rpg cssrpg_enable 0"
+}

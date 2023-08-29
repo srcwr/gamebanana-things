@@ -1,0 +1,43 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "README.txt",
+					"1": "flashit.ttf",
+					"cstrike": {
+						"materials": {
+							"sprites": [
+								"radar.vtf"
+							]
+						},
+						"resource": [
+							"ClientScheme.res"
+						],
+						"scripts": [
+							"HudAnimations.txt",
+							"HudLayout.res"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 3306,
+			"_nDownloadCount": 829,
+			"_nFilesize": 67882,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/3306",
+			"_sFile": "hud_19.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1355241553
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 34677,
+	"_sName": "Flaming Hud",
+	"_sText": "Readme File Inside."
+}

@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"Autoexec.cfg"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 3278,
+			"_nDownloadCount": 13839,
+			"_nFilesize": 1454,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/3278",
+			"_sFile": "fps_config.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1357231189
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 34682,
+	"_sName": "increase FPS (cfg)",
+	"_sText": "###### All the good days.\r\nSince I have a weak computer, I still play css. And in order not to slow the game, I wrote my config. This configuration is designed for those who prefer to play without unnecessary visual effects (reflections, blood, bullet holes, sprays, palm leaves, etc.). And also, and those who have weak computers.\r\n###### If you know the value of all the commands, you can modify to your liking. Not recommended for inexperienced.\r\n**Solutions to the problem:**\r\n\r\n- If you got kicked from the server, enter the console and reset your esl.\r\n- If you get a blue screen during the game or just crash - remove the section \"Threading\"\r\n- If you start friezes (joists) - Change the mat_queue_mode to -2\r\n\r\np.s. _**mat_filtertextures** - Texture filtering (0 = if you want put the squares | default = 1) [See screenshot]_\r\n\r\n###### Soon, I will lay out the config for TF2 and DoDs"
+}

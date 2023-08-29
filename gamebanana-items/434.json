@@ -1,0 +1,32 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"mip_greyfrog_medievilriverhomes_v2.bsp",
+					"mip_greyfrog_medievilriverhomes_v2.log",
+					"mip_greyfrog_medievilriverhomes_v2.prt",
+					"mip_greyfrog_medievilriverhomes_v2.vmf",
+					"mip_greyfrog_medievilriverhomes_v2.vmx"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 44235,
+			"_nDownloadCount": 1376,
+			"_nFilesize": 556345,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/44235",
+			"_sFile": "mip_greyfrog_medievilriverhomes_v2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1232693280
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 434,
+	"_sName": "mip_greyfrog_RiverHome_Medi_v2",
+	"_sText": "This is the fsecond time ive touched hammer in 3-4months. Same project though.\r\n\r\n\r\nthere for this is an independant release. \r\n\r\na modeled roughly from a picture of a medieval home on a river in Germany.\r\n\r\n\r\nwater works, displacements work, skybox works, Ive used nodraw and hintbrushes. there are cubemaps and edited model properties. allot could be learned form this or added to to make this a complex map or just a great prefab home for your pleasure.\r\n\r\n\r\nIt turns out I have a error in my model compile. Nothing that make anything crash, just a missing model for the window bars...\r\n\r\nError! To use model \"models/props_wasteland/plasterwall029g_window01a_bars.mdl\"with prop_static, it must be compiled with $staticprop!\r\nError loading studio model \"models/props_wasteland/plasterwall029g_window01a_bars.mdl\"! x)"
+}

@@ -1,0 +1,302 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "changelog.txt",
+					"Default hi-res hands": {
+						"materials": {
+							"models": {
+								"weapons": {
+									"v_models": {
+										"hands": [
+											"v_hands.vmt",
+											"v_hands.vtf",
+											"v_hands_normal.vtf",
+											"v_hands_phongwarp.vtf"
+										]
+									}
+								}
+							}
+						}
+					},
+					"Gloves with fingers": {
+						"materials": {
+							"models": {
+								"weapons": {
+									"v_models": {
+										"hands": [
+											"v_hands.vmt",
+											"v_hands.vtf",
+											"v_hands_normal.vtf",
+											"v_hands_phongwarp.vtf"
+										]
+									}
+								}
+							}
+						}
+					},
+					"cstrike": {
+						"custom": {
+							"Better visuals folders": {
+								"materials": {
+									"console": [
+										"background01.vmt",
+										"background01.vtf",
+										"background01_widescreen.vmt",
+										"background01_widescreen.vtf"
+									],
+									"detail": [
+										"detailconcrete001a.vtf",
+										"dt_carpet1.vtf",
+										"dt_fabric1.vtf",
+										"dt_fabric2.vtf",
+										"dt_grass1.vtf",
+										"dt_metal1.vtf",
+										"dt_metal2.vtf",
+										"dt_plaster1.vtf",
+										"dt_plaster2.vtf",
+										"dt_smooth1.vtf",
+										"dt_snow2.vtf",
+										"dt_stone1.vtf",
+										"dt_stone2.vtf",
+										"dt_stone3.vtf",
+										"dt_wood.vtf",
+										"dt_wood1.vtf",
+										"dt_wood2.vtf"
+									],
+									"effects": [
+										"fire_cloud1.vtf",
+										"fire_cloud2.vtf",
+										"flashlight001.vtf",
+										"muzzleflash1.vmt",
+										"muzzleflash1.vtf",
+										"muzzleflash2.vmt",
+										"muzzleflash2.vtf",
+										"muzzleflash3.vmt",
+										"muzzleflash3.vtf",
+										"muzzleflash4.vmt",
+										"muzzleflash4.vtf",
+										"muzzleflashX.vmt",
+										"muzzleflashX.vtf",
+										"spark.vmt",
+										"spark.vtf",
+										"spark_brightness.vtf",
+										"spark_noz.vmt",
+										"yellowflare.vmt",
+										"yellowflare.vtf",
+										"yellowflare_brightness.vtf"
+									],
+									"models": {
+										"hostages": [
+											"art_facemap.vmt",
+											"art_facemap.vtf",
+											"cohrt.vmt",
+											"cohrt.vtf",
+											"glassesfront_walter.vmt",
+											"glassesside_walter.vmt",
+											"hostage_sheet.vmt",
+											"hostage_sheet.vtf",
+											"hostage_sheet_normal.vtf",
+											"sandro_facemap.vmt",
+											"sandro_facemap.vtf",
+											"vance_facemap.vmt",
+											"vance_facemap.vtf"
+										],
+										"lightwarps": [
+											"ct_lightwarp.vtf",
+											"hands_lightwarp.vtf",
+											"t_lightwarp.vtf"
+										],
+										"player": {
+											"ct_gign": [
+												"ct_gign.vmt",
+												"ct_gign.vtf",
+												"ct_gign_glass.vtf"
+											],
+											"ct_gsg9": [
+												"ct_gsg9.vmt",
+												"ct_gsg9.vtf"
+											],
+											"ct_sas": [
+												"ct_sas.vmt",
+												"ct_sas.vtf"
+											],
+											"ct_urban": [
+												"ct_urban.vmt",
+												"ct_urban.vtf"
+											],
+											"t_arctic": [
+												"t_arctic.vmt",
+												"t_arctic.vtf"
+											],
+											"t_guerilla": [
+												"t_guerilla.vmt",
+												"t_guerilla.vtf"
+											],
+											"t_leet": [
+												"t_leet.vmt",
+												"t_leet.vtf",
+												"t_leet_glass.vmt",
+												"t_leet_glass.vtf"
+											],
+											"t_phoenix": [
+												"t_phoenix.vmt",
+												"t_phoenix.vtf"
+											]
+										},
+										"props": {
+											"cs_office": [
+												"plant02.vmt",
+												"plant02_n.vtf",
+												"screen.vmt",
+												"screen.vtf",
+												"screenb.vmt"
+											]
+										},
+										"shells": {
+											"0": [
+												"shell_556.vmt"
+											],
+											"1": [
+												"shell_57.vmt"
+											],
+											"12gauge": [
+												"shell_12gauge.vmt"
+											],
+											"338mag": [
+												"shell_338mag.vmt"
+											],
+											"762nato": [
+												"shell_762nato.vmt"
+											],
+											"9mm": [
+												"shell_9mm.vmt"
+											]
+										},
+										"weapons": {
+											"v_models": {
+												"c4": [
+													"c4.vmt"
+												],
+												"eq_flashbang": [
+													"flashbang.vmt"
+												],
+												"eq_fraggrenade": [
+													"fraggrenade.vmt"
+												],
+												"eq_smokegrenade": [
+													"smokegrenade.vmt"
+												],
+												"hands": [
+													"v_hands.vmt",
+													"v_hands.vtf",
+													"v_hands_normal.vtf",
+													"v_hands_phongwarp.vtf"
+												],
+												"knife_t": [
+													"knife_t.vmt"
+												],
+												"mach_m249para": [
+													"mach_m249para.vmt"
+												],
+												"pist_deagle": [
+													"deagle_skin1.vmt"
+												],
+												"pist_elite": [
+													"pist_elite.vmt"
+												],
+												"pist_fiveseven": [
+													"pist_fiveseven.vmt"
+												],
+												"pist_glock18": [
+													"glock18.vmt"
+												],
+												"pist_p228": [
+													"pist_p228_1.vmt"
+												],
+												"pist_usp": [
+													"pist_usp.vmt"
+												],
+												"rif_ak47": [
+													"rif_ak47skin1.vmt"
+												],
+												"rif_aug": [
+													"rif_aug.vmt"
+												],
+												"rif_famas": [
+													"rif_famas.vmt"
+												],
+												"rif_galil": [
+													"rif_galil.vmt"
+												],
+												"rif_m4a1": [
+													"rif_m4a1.vmt"
+												],
+												"rif_sg552": [
+													"rif_sg552.vmt"
+												],
+												"shot_m3super90": [
+													"shot_m3super90.vmt"
+												],
+												"shot_xm1014": [
+													"shot_xm1014.vmt"
+												],
+												"smg_mac10": [
+													"smg_mac10_1.vmt"
+												],
+												"smg_mp5": [
+													"mp5_1.vmt"
+												],
+												"smg_p90": [
+													"smg_p90.vmt",
+													"smg_p90_sight.vmt"
+												],
+												"smg_tmp": [
+													"smg_tmp.vmt"
+												],
+												"smg_ump45": [
+													"smg_ump45.vmt"
+												],
+												"snip_awp": [
+													"v_awp.vmt",
+													"v_awp_scope.vmt"
+												],
+												"snip_g3sg1": [
+													"snip_g3sg1.vmt"
+												],
+												"snip_scout": [
+													"snip_scout.vmt"
+												],
+												"snip_sg550": [
+													"snip_sg550.vmt"
+												]
+											}
+										}
+									}
+								}
+							}
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 3107,
+			"_nDownloadCount": 1681,
+			"_nFilesize": 30816880,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/3107",
+			"_sFile": "better_visuals_css_v35.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1368897479
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 34693,
+	"_sName": "Better visuals pack V3.5 (FINAL)",
+	"_sText": "Hey everybody on i have FINALLY got some time to finish up V3 and upload this here on gamebanana. i have put very much time into this update and doing FULL brainstorm for what im gonna change for next version so Feedback would be perfect and plz enjoy =)\r\n\r\ni have put a changelog into the zip so if you want to know about all the changes then you got the changelog.\r\n\r\nImportant note: if you want to improve something in this pack then you are free to do that but if you also want to distribute it on this side or a other side then you need permission to upload it!!!!!\r\n\r\nreadme is not included, see the installation instructions when downloading this file!!!\r\n\r\nrecommends these anamorphic flares: [BF3-like Lens Flares #2](http://css.gamebanana.com/sprites/4535 \"BF3_like Lens flares\")\r\n\r\nUpdate 1:\r\n\r\nNew finger glove option if you want the gloves with fingers.\r\n\r\nNote:\r\nI won`t update this anymore because im loosing interest in updating this pack."
+}

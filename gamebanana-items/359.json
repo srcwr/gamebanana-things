@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"lost_bridge.bsp",
+					"lost_bridge.vmf"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 44271,
+			"_nDownloadCount": 1728,
+			"_nFilesize": 762762,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/44271",
+			"_sFile": "lost_bridge.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1217809425
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 359,
+	"_sName": "Lost Bridge",
+	"_sText": "Made this from a sketch of mine while in some waiting rooms over the last two weeks, decided to just throw it together real quick. Kinda proud about most of the brushwork on the bridge itself, the rest was added just to see it in a setting, no though given to the rest as I have no real thoughts towards a layout that isn't already applied to future projects of mine so if someone else wants to extend onto this feel free, its why this section exists.\r\n\r\nUse it or don't, just something I did for fun in any case.\r\n\r\nBuild Time: 2 - 1/2 Hours\r\n\r\nDownload Contains both the .vmf file to edit as well as a compile bsp if you just want to look at it.\r\n\r\n*Note, this is not optimized with func_details, if your going to use, I recommend turning the rails and the inside little trim on the sides to func_detail, don't forget to add nodraw to all faces not visible to :P"
+}

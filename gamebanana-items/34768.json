@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_motel nav readme.txt",
+					"de_motel.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 2869,
+			"_nDownloadCount": 569,
+			"_nFilesize": 148525,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/2869",
+			"_sFile": "nav_de_motel_4.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1384633089
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 34768,
+	"_sName": "Hand-tuned NAV for map DE_MOTEL",
+	"_sText": "Counter-Strike: Source : Bot's Navigation Mesh for the map DE_MOTEL\r\n\r\nNav Creator: Meurglis3, Release Date: November 16 2013\r\n \r\nHere is the Navigation Mesh for urban/office themed map [de_motel](http://css.gamebanana.com/maps/177486) by Bomber / Hightower (released February 2009). It's a created from scratch and manually optimized (hand-tuned) .nav-file (because in original .bsp-file was included the simple auto-gen).\r\n\r\nAlso this Navigation Mesh is fully Place Painted.\r\n\r\nIMPORTANT NOTE: Bots can't enter to basement part of main building, because it is objectively impossible: Bots can't operate push-buttons, such as push-button doors... partly because these buttons aren't connected to the Navigation Mesh. It's unchangeable feature of all maps with similar triggers, instead of a lack of the .nav-file!\r\n\r\nSenselessly to delete this part of a Navigation Mesh because there (unlike CS_version of this map) is located the major areas of map - one of the two Bombsites... Certainly, human players can always open access for bots to blocked basement using push-buttons, preventing thus sticking of bots at doors! :-)\r\n\r\nNOTE: For possibility of comparison and in-game testing an initial auto-gen .nav-file included in original .bsp and available to downloading with the [same map](http://css.gamebanana.com/maps/177486).\r\n\r\nWell... Play and Enjoy!\r\n\r\nCredits and Gratitudes: Hightower (for very realistic and urban atmospheric map).\r\n\r\nAdditional Gratitudes: BarnDoor (for perfect playable navigation meshes for many fine CS:S maps), Chizbone (for informative and clever article BOT_BRAINED and a set of excellent navigation meshes), CoCoNUT (for fine hand-tuned navigation meshes for many fine CS:S maps), Valve Developer Community (for learning articles by Navigation Meshes and Navigation Mesh Commands).\r\n\r\nThere are many free rooms... full of bloody spots! :D\r\n\r\n- - - - - - - - - - - - - - - - - - - - - - - -\r\n\r\n**UPDATED 23.10.2014**\r\n\r\nGeneral Fixes:\r\n- Added Place Names;\r\n- Some other minor improvements.\r\n\r\n**PLEASE REDOWNLOAD UPDATED ARCHIVE!**"
+}

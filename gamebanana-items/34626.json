@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"cstrike-gflyer108b.fgd"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 4013,
+			"_nDownloadCount": 2266,
+			"_nFilesize": 76041,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/4013",
+			"_sFile": "cstrike-gflyer108b.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1223265480
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 34626,
+	"_sName": "Custom FDG 1.0.8b",
+	"_sText": "<b>Installation Instructions:</b>\r\n1. Download and unzip one of the above files to your <b>Steam\\SteamApps\\<i>account</i>\\sourcesdk\\bin</b> folder.\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t2. Open Hammer, then go to Tools --&gt; Options.\r\n\r\n<img src=\"http://www.editlife.net/files/screens/tutorial/fgd2.jpg\" border=\"0\">\r\n\r\n3. Use the first drop-down menu to choose the game that corresponds to the fgd you downloaded, then highlight the current fgd listed in the <b>Game Data Files</b> box.\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t4. Click the \"Remove\" button next the <b>Game Data Files</b> box to remove the old fgd.\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t5. Click the \"Add\" button next to the <b>Game Data Files</b> box and browse to the location of the FGD you just downloaded.\r\n\r\n<img src=\"http://www.editlife.net/files/screens/tutorial/fgd1.jpg\" border=\"0\">"
+}

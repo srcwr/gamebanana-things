@@ -1,0 +1,85 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"__MACOSX": {
+						"0": "._gg_improvement-0",
+						"gg_improvement-0": {
+							"0": "._addons",
+							"1": "._cfg",
+							"addons": {
+								"0": "._eventscripts",
+								"eventscripts": {
+									"0": "._gungame",
+									"gungame": {
+										"0": "._custom_addons",
+										"custom_addons": {
+											"0": "._gg_improvement",
+											"gg_improvement": [
+												"._gg_improvement.py"
+											]
+										}
+									}
+								}
+							},
+							"cfg": {
+								"0": "._gungame5",
+								"gungame5": {
+									"0": "._custom_addon_configs",
+									"1": "._translations",
+									"custom_addon_configs": [
+										"._gg_improvement.cfg"
+									],
+									"translations": [
+										"._gg_improvement.ini"
+									]
+								}
+							}
+						}
+					},
+					"gg_improvement-0": {
+						"addons": {
+							"eventscripts": {
+								"gungame": {
+									"custom_addons": {
+										"gg_improvement": [
+											"gg_improvement.py"
+										]
+									}
+								}
+							}
+						},
+						"cfg": {
+							"gungame5": {
+								"custom_addon_configs": [
+									"gg_improvement.cfg"
+								],
+								"translations": [
+									"gg_improvement.ini"
+								]
+							}
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 3893,
+			"_nDownloadCount": 1313,
+			"_nFilesize": 12483,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/3893",
+			"_sFile": "973__17-.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1305585704
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 34633,
+	"_sName": "Gungame Improvement",
+	"_sText": "Of course, GunGame5 is required (for GG4, go here)\r\n\r\nThis little script improves the GunGame gameplay a little bit.\r\n\r\n1. Knife-Level\r\nWhen a User is on the Knife-Level, it is hard for him to get a kill. So I thought: Wouldn't it be fair if he could ran a bit faster?\r\nCode:\r\n// -- Knife-Level Settings -- //\r\n// If a user is on the Knife-Level, his speed is higher than the \r\n\r\n// Activate the Knife-Level Module? (1=yes, 0=no)\r\ngg_improvement_knife 1\r\n\r\n// Set the speed (default value is a good one, in my opinion)\r\ngg_improvement_knife_speed 1.30\r\n// --- //\r\n\r\n\r\n2. Join-Message\r\nIf a user joins the Server, there will be a message like this:\r\nQuote:\r\nPitBull has joined the Server. Total Wins: 17\r\n\r\nCode:\r\n// -- Join-Message Settings -- //\r\n// If a user joins the server, a message will be sent how much wins he has\r\ngg_improvement_joinmessage 1\r\n// ---//\r\n\r\n\r\n3. Bomb-Messages\r\nThis feature tells the public that the user gained a level for defusing the bomb/planting the exploded bomb.\r\nAlso there is a little cheer for the user who planted the bomb that he should protect the C4.\r\nCode:\r\n// -- Bomb-Message Settings -- //\r\n// Should there be a little cheer for the user when he planted the bomb? (1=yes, 0=no)\r\ngg_improvement_bomb_planted 1\r\n\r\n// Should there be a message that the user leveld-up if the bomb exlpoded? (1=yes, 0=no)\r\ngg_improvement_bomb_exploded 1\r\n\r\n// Should there be a message if a user defuses the bomb? (1=yes, 0=no)\r\ngg_improvement_bomb_defused 1\r\n// --- //\r\n\r\n\r\n4. Wrong-Weapon Notification & set Ammo to a higher value\r\nYou can notify a person if he picked up the wrong weapon. Also you can set the reserve ammo to a value you like.\r\nCode:\r\n// -- Weapon Settings -- //\r\n// Should there be a notification for the player if he picks-up the wrong weapon?\r\ngg_improvement_wwnotify 1\r\n// Should the player get a specific amount of ammo? (0=disabled, every over number is the ammo)\r\ngg_improvement_ammo_more 200\r\n// --- //\r\nInstallation\r\n1. Edit the config\r\n2. Upload to your server\r\n3. Reload gungame (es_reload gungame)"
+}

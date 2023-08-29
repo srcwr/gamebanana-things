@@ -1,0 +1,75 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"bhop": {
+						"addons": {
+							"sourcemod": {
+								"plugins": [
+									"infinite-jumping.smx"
+								],
+								"scripting": {
+									"0": "infinite-jumping.sp",
+									"include": {
+										"0": "smlib.inc",
+										"smlib": [
+											"arrays.inc",
+											"clients.inc",
+											"colors.inc",
+											"concommands.inc",
+											"convars.inc",
+											"crypt.inc",
+											"debug.inc",
+											"dynarrays.inc",
+											"edicts.inc",
+											"effects.inc",
+											"entities.inc",
+											"files.inc",
+											"game.inc",
+											"general.inc",
+											"math.inc",
+											"pluginmanager.inc",
+											"server.inc",
+											"sql.inc",
+											"strings.inc",
+											"teams.inc",
+											"vehicles.inc",
+											"weapons.inc",
+											"world.inc"
+										]
+									}
+								},
+								"translations": [
+									"plugin.infinitejumping.phrases.txt"
+								]
+							}
+						},
+						"cfg": {
+							"sourcemod": [
+								"plugin.infinite-jumping.cfg"
+							]
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 3466,
+			"_nDownloadCount": 7952,
+			"_nFilesize": 95451,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/3466",
+			"_sFile": "bhop.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1343729324
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 34605,
+	"_sName": "Bhop",
+	"_sText": "pack the file out. open file zilla and but it into addons and your cfg. restart you server and you can bhop all day."
+}

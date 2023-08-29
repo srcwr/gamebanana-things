@@ -1,0 +1,170 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "readme.txt",
+					"addons": {
+						"vip_mm": {
+							"bin": [
+								"vip_mm.dll",
+								"vip_mm_i486.so"
+							]
+						}
+					},
+					"maps": [
+						"as_arctic.bsp",
+						"as_arctic.txt",
+						"as_courthouse.bsp",
+						"as_courthouse.res",
+						"as_courthouse.txt",
+						"as_crisis.bsp",
+						"as_crisis.nav",
+						"as_crisis.txt",
+						"as_fleeiraq.bsp",
+						"as_fleeiraq.nav",
+						"as_fleeiraq.txt",
+						"as_italy.bsp",
+						"as_italy.txt",
+						"as_oilrig_dj.bsp",
+						"as_oilrig_dj.res",
+						"as_oilrig_dj.txt",
+						"as_oilrig_wk.bsp",
+						"as_oilrig_wk.txt",
+						"as_test.bsp",
+						"as_test.nav",
+						"as_test.txt",
+						"as_trashedmansion.bsp",
+						"as_trashedmansion.res",
+						"as_trashedmansion.txt",
+						"as_vespa.bsp",
+						"as_vespa.nav",
+						"as_vespa.txt"
+					],
+					"materials": {
+						"console": [
+							"background01.vtf"
+						],
+						"decals": [
+							"VIP_arrow_left.vmt",
+							"VIP_arrow_left.vtf",
+							"VIP_arrow_right.vmt",
+							"VIP_arrow_right.vtf",
+							"logo2.vmt",
+							"logo2.vtf",
+							"vip_escape_zone.vmt",
+							"vip_escape_zone.vtf",
+							"vip_escape_zone_decal.vmt",
+							"vip_escape_zone_decal.vtf"
+						],
+						"models": {
+							"chopper": [
+								"blackhawk.vmt",
+								"blackhawk.vtf",
+								"blackhawk_ref.vtf"
+							],
+							"player": {
+								"vip": {
+									"small1": [
+										"UrbanTemp.vmt",
+										"UrbanTemp.vtf",
+										"erdim_cylmap.vmt",
+										"erdim_cylmap.vtf",
+										"erdim_facemap.vmt",
+										"eyeball_l.vmt",
+										"eyeball_l.vtf",
+										"eyeball_r.vmt",
+										"eyeball_r.vtf"
+									]
+								}
+							}
+						}
+					},
+					"models": {
+						"chopper": [
+							"blackhawk.dx80.vtx",
+							"blackhawk.dx90.vtx",
+							"blackhawk.mdl",
+							"blackhawk.phy",
+							"blackhawk.sw.vtx",
+							"blackhawk.vvd"
+						],
+						"player": {
+							"vip": {
+								"small2": [
+									"vip.dx80.vtx",
+									"vip.dx90.vtx",
+									"vip.mdl",
+									"vip.phy",
+									"vip.sw.vtx",
+									"vip.vvd"
+								]
+							}
+						}
+					},
+					"sound": [
+						"deathrow.wav",
+						"fart.wav",
+						"oilrigelevator.wav",
+						"oilriggodzilla.wav",
+						"pissoff.wav",
+						"roundstart.mp3",
+						"scream.mp3",
+						"snore.wav",
+						"vomit.wav"
+					],
+					"vip mod readme": [
+						"Readme-First.html",
+						"as_arctic-tn.jpg",
+						"as_arctic.jpg",
+						"as_courthouse-tn.jpg",
+						"as_courthouse.jpg",
+						"as_crisis-tn.jpg",
+						"as_crisis.jpg",
+						"as_fleeiraq-tn.jpg",
+						"as_fleeiraq.jpg",
+						"as_italy-tn.jpg",
+						"as_italy.jpg",
+						"as_knifeedge-tn.jpg",
+						"as_knifeedge.jpg",
+						"as_oilrig_dj-tn.jpg",
+						"as_oilrig_dj.jpg",
+						"as_oilrig_wk-tn.jpg",
+						"as_oilrig_wk.jpg",
+						"as_recon-tn.jpg",
+						"as_recon.jpg",
+						"as_trashedmansion-tn.jpg",
+						"as_trashedmansion.jpg",
+						"as_vespa-tn.jpg",
+						"as_vespa.jpg",
+						"installation.html",
+						"oilrig_console-tn.jpg",
+						"oilrig_console.jpg",
+						"readme-header.jpg",
+						"spacer.gif",
+						"striped-background2.gif",
+						"vip_model-tn.jpg",
+						"vip_model.jpg"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 4185,
+			"_nDownloadCount": 2398,
+			"_nFilesize": 55588356,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/4185",
+			"_sFile": "vip_10h_full.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1211938454
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 34624,
+	"_sName": "VIP 1.0H Full",
+	"_sText": "<u><b>Change Log:</u></b>\r\n1.0.H (16 June 07)\r\n- valve update fix\r\n- fixed: server lockup with bots\r\n\r\n1.0.F (3 Dec 06)\r\n- fixed: works with latest Valve update\r\n\r\n1.0.E (4 Sept 06)\r\n- fixed: works with latest Valve update\r\n- added: two new functions to support the upcoming map as_recon\r\n\r\n1.0.D (12 Apr 06)\r\n- fixed: VIP model not showing up (after Valve player model update)\r\n- fixed: Windows servers crashing on startup (after Valve server update)\r\n\r\n1.0.C (26 Feb 06)\r\n- fixed: round time elapsed but round doesn't end\r\n- fixed: map doesn't change when mp_maxrounds is reached\r\n- fixed: map doesn't change when mp_winlimit is reached\r\n- fixed: not always outputting the \"Assassinated_The_VIP\" log line\r\n- fixed: player who was VIP doesn't have knife/pistol after \"mp_restartgame\" or Mani Warmup Period end\r\n- fixed: VIP doesn't have VIP skin if player switched from T last round\r\n- fixed: player who was VIP last round sometimes can't pick up weapons\r\n- fixed: VIP still has nightvision if player purchased it the previous round\r\n- fixed: VIP's USP ammo not always set to 12/12 on Linux servers\r\n- fixed: restricted mp5 can be bought with some keybinds\r\n- added: fire vip_escaped and vip_killed events for interaction with other plugins (requested by Mani)\r\n- added: don't choose a VIP if mani_warmup_in_progress equals 1\r\n- added: ignore bots when choosing VIP if human player is on CT and bots are set to defer to humans\r\n\r\n1.0.B (15 Feb 06)\r\n- initial release\r\n<u><b>Installation</b></u>\r\nShould be in the Readme file."
+}

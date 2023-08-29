@@ -1,0 +1,144 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"addons": {
+						"sourcemod": {
+							"configs": {
+								"zr": [
+									"downloads.txt",
+									"hitgroups.txt",
+									"models.txt",
+									"playerclasses.txt",
+									"weapons.txt"
+								]
+							},
+							"extensions": [
+								"zrtools.ext.dll",
+								"zrtools.ext.so"
+							],
+							"gamedata": [
+								"plugin.zombiereloaded.txt"
+							],
+							"plugins": [
+								"zombiereloaded.smx"
+							],
+							"translations": {
+								"0": "zombiereloaded.phrases.txt",
+								"no": [
+									"zombiereloaded.phrases.txt"
+								]
+							}
+						}
+					},
+					"cfg": {
+						"sourcemod": {
+							"zombiereloaded": [
+								"zombiereloaded.cfg"
+							]
+						}
+					},
+					"materials": {
+						"models": {
+							"player": {
+								"ics": {
+									"hellknight_red": [
+										"estuche.vmt",
+										"estuche.vtf",
+										"hellknight.vmt",
+										"hellknight.vtf",
+										"hellknight_normal.vtf"
+									]
+								},
+								"zh": [
+									"Charple1_sheet.vmt",
+									"Zombie_Classic_sheet.vmt",
+									"corpse1.vmt"
+								]
+							}
+						},
+						"overlays": {
+							"zr": [
+								"humans_win.vmt",
+								"humans_win.vtf",
+								"zombies_win.vmt",
+								"zombies_win.vtf",
+								"zvision.vmt",
+								"zvision.vtf"
+							]
+						}
+					},
+					"models": {
+						"player": {
+							"ics": {
+								"hellknight_red": [
+									"t_guerilla.dx80.vtx",
+									"t_guerilla.dx90.vtx",
+									"t_guerilla.mdl",
+									"t_guerilla.phy",
+									"t_guerilla.sw.vtx",
+									"t_guerilla.vvd"
+								]
+							},
+							"zh": [
+								"zh_charple001.dx80.vtx",
+								"zh_charple001.dx90.vtx",
+								"zh_charple001.mdl",
+								"zh_charple001.phy",
+								"zh_charple001.sw.vtx",
+								"zh_charple001.vvd",
+								"zh_corpse002.dx80.vtx",
+								"zh_corpse002.dx90.vtx",
+								"zh_corpse002.mdl",
+								"zh_corpse002.phy",
+								"zh_corpse002.sw.vtx",
+								"zh_corpse002.vvd",
+								"zh_zombie003.dx80.vtx",
+								"zh_zombie003.dx90.vtx",
+								"zh_zombie003.mdl",
+								"zh_zombie003.phy",
+								"zh_zombie003.sw.vtx",
+								"zh_zombie003.vvd"
+							]
+						}
+					},
+					"sound": {
+						"ambient": {
+							"zr": [
+								"zr_ambience.mp3"
+							]
+						}
+					},
+					"zrdocs": {
+						"0": "license.txt",
+						"1": "zr.css",
+						"2": "zr_3.0-b2_release_notes.txt",
+						"3": "zr_3.0_release_notes.txt",
+						"4": "zr_manual.htm",
+						"images": [
+							"zm_crazys_warehouse_be4_anticamp.jpg"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 3834,
+			"_nDownloadCount": 6827,
+			"_nFilesize": 3844243,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/3834",
+			"_sFile": "069__1-.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1314451230
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 34644,
+	"_sName": "Zombie:Reloaded Beta 2",
+	"_sText": "===============================================================================\r\n\r\nFROM: [Release: Zombie:Reloaded Beta 2](http://forums.alliedmods.net/showthread.php?t=111492 \"Release: Zombie:Reloaded Beta 2\")\r\n===============================================================================\r\n\r\n                         Zombie:Reloaded Release Notes\r\n\r\n              Targets plugin version 3.0.0 Beta 2, 2009.12.11\r\n                          Written by Richard Helgeby\r\n\r\n                           Last modified: 2009.12.11\r\n\r\n==============================================================================="
+}

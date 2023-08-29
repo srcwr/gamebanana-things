@@ -1,0 +1,111 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "Credits for v13.5.3.txt",
+					"1": "Installation Instructions.txt",
+					"2": "Support.txt",
+					"3": "supported maps for mappers.txt",
+					"4": "version notes 13.5.3.txt",
+					"addons": {
+						"eventscripts": {
+							"adminprops": [
+								"es_adminprops.txt"
+							],
+							"anticheat": [
+								"es_anticheat.txt"
+							],
+							"autokick_disabler": [
+								"autokick_disabler.py"
+							],
+							"dissolver": [
+								"es_dissolver.txt"
+							],
+							"freeze_me": [
+								"es_freeze_me.txt"
+							],
+							"hideexec": [
+								"es_hideexec.txt"
+							],
+							"hidenseek": [
+								"es_hidenseek.txt"
+							],
+							"hns_decoy": [
+								"es_hns_decoy.txt"
+							],
+							"poser": [
+								"poser.py"
+							],
+							"simpleadverts": [
+								"__init__.py",
+								"__init__.pyc",
+								"adverts.txt",
+								"simpleadverts.py",
+								"simpleadverts.pyc"
+							],
+							"thirdperson": [
+								"config.cfg",
+								"thirdperson.py"
+							],
+							"vampire": [
+								"es_vampire.txt"
+							],
+							"wS_Hide_Radar": [
+								"wS_Hide_Radar.py"
+							],
+							"whistle": [
+								"es_whistle.txt"
+							]
+						}
+					},
+					"cfg": [
+						"dissolver.cfg"
+					],
+					"sound": {
+						"hideandseek": [
+							"ffire1.wav",
+							"ffire2.wav",
+							"ffire3.wav",
+							"ffire4.wav",
+							"ffire5.wav",
+							"goodbye.wav",
+							"notnice.wav",
+							"terminated.wav",
+							"whistle.mp3"
+						],
+						"hnsan": [
+							"canman.wav",
+							"canwoman.wav",
+							"hiderman.wav",
+							"hiderwoman.wav",
+							"seekerdiedman.wav",
+							"seekerdiedwoman.wav",
+							"seekerswinman.wav",
+							"seekerswinwoman.wav",
+							"swappedman.wav",
+							"swappedwoman.wav"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 3454,
+			"_nDownloadCount": 14840,
+			"_nFilesize": 813296,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/3454",
+			"_sFile": "hide_n_seek_version_1353.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1344247427
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 34669,
+	"_sName": "Hide N Seek Version 13.5.3",
+	"_sText": "<font size=\"5\"><b>What is Hide N Seek?</b></font>\r\n\r\nHide N Seek is a mod I have been developing for over 3 years now. I was given the mod in its early stages by the original creator; Kevin. <p>The mod is exactly like your old child hood game with a slight twist.</p>\r\n<p>Terrorists are known as hiders and Counter-Terrorists are known as seekers.</p>\r\n\r\n<font size=\"5\"><b>How is Hide N Seek played?</b></font>\r\n\r\nIt is very simple.\r\nTerrorists have the ability to turn into props like chairs, tables, vending machines etc and are given a certain amount of time at the beginning of the round to hide (decided by server owner). Once the game starts, they must survive the round without being caught by keeping on the move and changing their props!\r\n\r\nCounter-Terrorists play the role of a seeker. They must seek out the hiders and destroy them before the timer reaches 0. There are lots of variables in the configuration files of the mod, but by default seekers take damage every time they use left click (stab or shoot). To make up for this, they receive health every time they hurt/kill a seeker.\r\n\r\n<font size=\"3\"><b>What are the Requirements?</b></font>\r\n\r\nWell, because of the OB update (idiots...) the mod can no longer use es tools for a lot of functions. The benefit of this is not many server owners like to run es tools. The bad thing is I am no longer able to hook duck.\r\n\r\n<b>Long story short:</b>\r\n\r\n<a href=\"http://forums.eventscripts.com/viewtopic.php?f=128&t=40765\">Latest Version of EventScripts</a>\r\n\r\n<a href=\"http://forums.eventscripts.com/viewtopic.php?f=27&t=42620\">Latest Version of Autokick Disabler</a>\r\n\r\n<font size=\"3\"><b>Recommended Maps</b></font>\r\n\r\nI have developed a fair few maps for this mod. The mod files come standard with the prop lists needed for these maps. The prop list is located in: Cstrike/Addons/Eventscripts/HideExec/.\r\nIf you want to know how to add your own, post on the forum link to request a tutorial to be made.\r\n\r\n<ul>\r\n<li> cs_office </li>\r\n<li> de_inferno </li>\r\n<li> cs_assault </li>\r\n<li> cs_militia </li>\r\n<li> Hns_newguys_river </li>\r\n<li> Hns_newguys_neighbourhood_b1 </li>\r\n<li> Hns_NewGuys_New_House_Fix </li>\r\n<li> hns_library_fix </li>\r\n<li> Hns_private_lodge_fix </li>\r\n<li> Hns_shopping_center_fix </li>\r\n<li> hns_skyscraper_office </li>\r\n<li> Hns_NewGuy_house_final </li>\r\n<li> Hns_call_center_office_final </li>\r\n<li> Hns_shops_General_final </li>\r\n<li> Hns_mcdonalds_HQ_final_fix </li>\r\n</ul>\r\n\r\n<a href=\"http://gamebanana.com/members/submissions/maps/701533\">CLICK HERE TO DOWNLOAD CUSTOM MAPS</a>\r\n\r\n<font size=\"5\"><b>Installation</b></font>\r\n\r\nStep One: Extract the files to your server (make sure you overwrite the current cstrike folder).\r\n\r\nStep Two: Go into Cstrike/Addons/Eventscripts/Hidenseek/ and open up es_hidenseek.txt in notepad. Customize to your liking.\r\n\r\nStep Three: Go into Cstrike/Addons/Eventscripts/core3/ and open up the txt file. Add your steam ID at the top where it says then save. Leave STEAM_0:1:14214794 in there if you like this mod <3\r\n\r\nStep Four: Go into Cstrike/Addons/Eventscripts/simpleadverts/ and edit the file named adverts.txt like I have.\r\n\r\nStep Five: Go back into autoexec.cfg and add the line: es_load hidenseek then save.\r\n\r\nBe sure to download the script that fixes es_fire: <a href=\"http://forums.eventscripts.com/viewtopic.php?f=27&t=42620\">Latest Version of Autokick Disabler</a> before trying to start the mod otherwise it will not work (installation instructions are very simple, and are located on his thread).\r\n\r\nDone!\r\n\r\n<font size=\"3\"><b>Chat commands:</b></font>\r\n\r\n- hideexec = Brings up a popup menu for the the player to select props from. Only usable on the terrorist team.\r\n- !freeze = allows the player to freeze their view so they cannot move with their mouse or keyboard. This allows hiders to get into a position and stay there.\r\n- !decoy = allows a player to spawn a decoy prop at their own expense. There are only a few maps currently that support decoys and only a few props from the hideexec list are able to be spawned. This command appears as a silent command, meaning it does not show up in chat.\r\n- !xprop = allows admin to change into a prop from a special list\r\n- !creator = shows you who created hide n seek mod\r\n- !version = what version of the mod you are running\r\n- !manage = a popup for admin to turn mods on and off (currently under revision)\r\n- hidehelp = shows players what the hide n seek mod is, how to play it and useful commands available in the form of a popup interface.\r\n- solid = makes a player solid to entities. This means other players cannot walk through him.\r\n- nsolid = makes a player non-solid to entities. This means other players CAN walk through him (very useful if you are a prop that can normally be walked through IE a bush).\r\n- !thirdperson (!third/!tp/ /tp) = Allows the player to jump into Thirdperson view and see their model\r\n- !firstperson (!first/!fp/ /fp) = Allows the player to jump into Firstperson view (normal view).\r\n\r\n<font size=\"3\"><b>Console commands:</b></font>\r\n\r\n- hideexec = just the standard popup menu command for terrorists, except its typed into console instead (easier to bind).\r\n- whistle = allows the player to make a whistle sound to taunt the enemy.\r\n- thirdperson = allows the player to access thirdperson mode. Recommended command for terrorists.\r\n- third = exactly the same as the above command, except shorter to write.\r\n\r\n<font size=\"3\"><b>Tutorials:</b></font>\r\n\r\n- <a href=\"http://hideexec.enjin.com/forum/m/1786570/viewthread/1637304-how-to-addedit-custom-props-in-hide-n-seek-mod\">How to add custom prop lists for your maps</a>"
+}

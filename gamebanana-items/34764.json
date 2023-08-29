@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_secretcamp nav readme.txt",
+					"de_secretcamp.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 2877,
+			"_nDownloadCount": 668,
+			"_nFilesize": 57557,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/2877",
+			"_sFile": "nav_de_secretcamp_6.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1384362967
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 34764,
+	"_sName": "Hand-tuned NAV for map DE_SECRETCAMP",
+	"_sText": "<p>Counter-Strike: Source : Bot's Navigation Mesh for the map DE_SECRETCAMP</p>\r\n<p>Nav Creator: Meurglis3, Release Date: November 11 2013</p>\r\n<p>Here is the Navigation Mesh for beautiful military/warehouse themed map <a href=\"http://css.gamebanana.com/maps/19322\">de_secretcamp</a> by Chris (released December 2006). It's an almost fully created from scratch and manually optimized (hand-tuned) .nav-file because original mapauthor's .nav-file was simply auto-gen and contained a set of mistakes and inaccuracies.</p>\r\n<p>Well... bots use all possible ways now. They very skillfully use of warfare experience in environment of military base well familiar to them :D</p>\r\n<p>Also this Navigation Mesh is fully Place Painted.</p>\r\n<p>NOTE: For possibility of comparison and in-game testing the original mapauthor's .nav-file embedded in .bsp and available to downloading with the <a href=\"http://css.gamebanana.com/maps/19322\">same map</a>.</p>\r\n<p>Play and Enjoy! Always will be grateful for your remarks and feedbacks ;-)</p>\r\n<p>Credits and Gratitudes:\r\nChris (for excellent realistic and fight-friendly atmospheric map).</p>\r\n<p>Additional Gratitudes:\r\nBarnDoor (for perfect playable navigation meshes for many fine CS:S maps),\r\nChizbone (for informative and clever article BOT_BRAINED and a set of excellent navigation meshes),\r\nCoCoNUT (for fine hand-tuned navigation meshes for many fine CS:S maps),\r\nValve Developer Community (for learning articles by Navigation Meshes and Navigation Mesh Commands).</p>\r\n<p>We will protect an American interests with the guns in arms everywhere in the world! :D</p>\r\n<hr>\r\n<p><strong>UPDATED 20.11.2015</strong></p>\r\n<p>General Fixes:<br>- Accelerated the bot's entering to a doorway (Back-BackDoor);<br>- Reduced the bot's freezing probability at the hanging wall near the car (BackYard);<br>- Some other minor improvements.</p>\r\n<p><strong>PLEASE REDOWNLOAD UPDATED ARCHIVE!</strong></p>"
+}

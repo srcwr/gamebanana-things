@@ -1,0 +1,44 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "bwblue.vmt",
+					"1": "bwblue.vtf",
+					"2": "bwboth.vmt",
+					"3": "bwboth.vtf",
+					"4": "bwwhite.vmt",
+					"5": "bwwhite.vtf",
+					"6": "is_lan4.bsp",
+					"7": "is_lan4.vmf",
+					"skybox": [
+						"sky_schwarz_.vtf",
+						"sky_schwarz_bk.vmt",
+						"sky_schwarz_dn.vmt",
+						"sky_schwarz_ft.vmt",
+						"sky_schwarz_lf.vmt",
+						"sky_schwarz_rt.vmt",
+						"sky_schwarz_up.vmt"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 44260,
+			"_nDownloadCount": 1432,
+			"_nFilesize": 1012558,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/44260",
+			"_sFile": "is_lan4_2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1220621520
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 446,
+	"_sName": "is_krusty",
+	"_sText": "Ok this was my iceskate idea. Pretty cool I think. But it didn't work correctly as jumps and/or different hights are not possible in IS.\r\nYou can try to fix this and get it to work or use it as GG map or whatever.\r\n\r\nThere is a possibility i thought of: make another trigger_push but not about 48units but 12 or something and let it push like 1500 up or something - so that you cant hit the ground (what makes you stop skating)\r\n\r\n\r\nI'd like to see my name in the map if you can finish this ;)\r\n\r\n\r\n\r\nTEXTURES ADDED"
+}

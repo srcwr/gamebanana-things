@@ -1,0 +1,73 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"CSS HighFPS config": [
+						"autoexec.cfg",
+						"bot.cfg",
+						"botdefhar.cfg",
+						"botdeflow.cfg",
+						"botdefnor.cfg",
+						"botradoff.cfg",
+						"cc.cfg",
+						"changelog.txt",
+						"console.cfg",
+						"dlall.cfg",
+						"dln.cfg",
+						"dlnos.cfg",
+						"dls.cfg",
+						"gamebanana.url",
+						"gb.cfg",
+						"highfps.cfg",
+						"highn.cfg",
+						"lown.cfg",
+						"netsettings.cfg"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 3048,
+			"_nDownloadCount": 2153,
+			"_nFilesize": 3503,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/3048",
+			"_sFile": "css_highfps_config.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1372251426
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "HighFPS CFG"
+				},
+				{
+					"cat": "-",
+					"text": "Netsettings"
+				},
+				{
+					"cat": "-",
+					"text": "BOT Commands"
+				},
+				{
+					"cat": "-",
+					"text": "Game Volume Control"
+				}
+			],
+			"_sText": "<h1><span class=\"GreenColor\">Update:</span> <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://gamebanana.com/mods/34698\">https://gamebanana.com/mods/34698</a></h1>",
+			"_sTitle": "Version 2.0",
+			"_sVersion": "2.0",
+			"_tsDateAdded": 1380802048
+		}
+	],
+	"_idRow": 34696,
+	"_sName": "Counter-Strike:Source HighFPS [+] Config 1.5",
+	"_sText": "<h1><span class=\"GreenColor\">Counter-Strike:Source High FPS [+] Config 2.0<br></span></h1><hr><br>Only a few commands have been altered to increase performance and to bring it in line with new Source-Engine.\r\n\r\n<br><br><hr><br><br><iframe src=\"//www.youtube.com/embed/MAoO24XgpuA\" allowfullscreen=\"\" width=\"480\" height=\"315\" frameborder=\"0\"></iframe><br><br><h1 class=\"SelectedElement\"><span class=\"GreenColor\">Update:</span> <a href=\"https://gamebanana.com/mods/34698\">https://gamebanana.com/mods/34698</a></h1><br><br><span class=\"RedColor\">Features:</span><br><hr><br><ul class=\"SelectedElement\"><li>improved stability</li><li>two additional shortcuts</li><li>increased fps</li><li>improved Netsettings</li><li>new BOT-Commands</li></ul><br><br><br><br><span class=\"RedColor\">Installation Guide<br></span>\r\n<hr>First delete the config-file \"config.cfg\" in<br><br><pre>\"Steam\\steamapps\\common\\Counter-Strike Source\\cstrike\\cfg\"</pre><br>folder,\r\n making sure to back up information such as key bindings and sensitivity\r\n settings. Then simply paste the files to the path above.<br><br><br><br><span class=\"RedColor\">SHORTCUTS:</span><br><hr><br><ul><li><code>Netsettings</code>; <br><ol><li>\t\tHigh type <span class=\"RedColor\">exec highn</span> <br></li><li>Low type <span class=\"RedColor\">exec lown</span></li></ol><br></li><li><code><span class=\"GreenColor\">Game Volume Control</span></code>; <br><ol><li>Vol. Up <span class=\"RedColor\">press kp_plus</span> <br></li><li>Vol. Down <span class=\"RedColor\">press kp_minus</span></li></ol><br></li><li>&nbsp;<code><span class=\"GreenColor\">Downloadfilter</span></code>; <br><ol><li>All type <span class=\"RedColor\">exec dlall</span> <br></li><li>None type <span class=\"RedColor\">exec dln</span></li><li>No Sounds type <span class=\"RedColor\">exec dlnos</span></li><li>Only Sounds type <span class=\"RedColor\">exec dls</span> </li></ol><br></li><li><code><span class=\"GreenColor\">Bot\r\n Settings</span></code>; <br><ol><li>Add Bots type <span class=\"RedColor\">exec bot</span><br></li><li>Bot difficulty (hard) type <span class=\"RedColor\">exec \r\nbotdefhar</span> <br></li><li>Bot difficulty (normal) type <span class=\"RedColor\">exec botdefnor</span> <br></li><li>Bot \r\ndifficulty (low) type <span class=\"RedColor\">exec botdeflow</span> <br></li><li>Bot communication OFF type <span class=\"RedColor\">exec botradoff</span> <br></li><li>Bots only use the knife type <span class=\"RedColor\">bot_knives_only</span> <br></li><li>Bots \r\nonly use the guns type <span class=\"RedColor\">bot_pistols_only</span> <br></li><li>Bots only use the sniper \r\nweapons type <span class=\"RedColor\">bot_snipers_only</span> </li></ol><br></li><li><code>Clear Console</code> type <span class=\"RedColor\">exec cc</span></li></ul>"
+}

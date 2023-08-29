@@ -1,0 +1,179 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"addons": {
+						"metamod": [
+							"zombiemod.vdf"
+						],
+						"zombiemod": {
+							"0": "ChangeLog.txt",
+							"1": "Installation.txt",
+							"2": "LICENSE.txt",
+							"3": "Thanks.txt",
+							"4": "www.ZombieMod.com.url",
+							"5": "zombieevents.res",
+							"bin": [
+								"zombie_mm.dll",
+								"zombie_mm_i486.so"
+							],
+							"php": [
+								"zmboldbloodcz1.jpg",
+								"zombie_classes.css",
+								"zombie_classes.php",
+								"zombie_help.gif",
+								"zombie_help.php"
+							]
+						}
+					},
+					"cfg": {
+						"zombiemod": {
+							"0": "downloads.cfg",
+							"1": "models.cfg",
+							"2": "signatures.kv",
+							"3": "zombie_classes.cfg",
+							"4": "zombiemod.cfg",
+							"buymenu": [
+								"equip.cfg",
+								"mg.cfg",
+								"pistol.cfg",
+								"rifle.cfg",
+								"shotgun.cfg",
+								"smg.cfg"
+							],
+							"language": [
+								"english.cfg"
+							],
+							"maps": [
+								"de_dust.cfg"
+							]
+						}
+					},
+					"materials": {
+						"models": {
+							"player": {
+								"zh": [
+									"Charple1_sheet.vmt",
+									"Zombie_Classic_sheet.vmt",
+									"corpse1.vmt"
+								]
+							}
+						},
+						"skybox": [
+							"zombie_skybk.vmt",
+							"zombie_skydn.vmt",
+							"zombie_skyft.vmt",
+							"zombie_skylf.vmt",
+							"zombie_skyrt.vmt",
+							"zombie_skyup.vmt"
+						],
+						"vgui": {
+							"hud": {
+								"zombiemod": [
+									"1024_humans.vmt",
+									"1024_humans.vtf",
+									"1024_zombies.vmt",
+									"1024_zombies.vtf",
+									"zombie_view.vmt",
+									"zombie_view.vtf",
+									"zombie_view_dx6.vmt",
+									"zombie_vision.vmt",
+									"zombie_vision.vtf",
+									"zombie_vision_dx6.vmt"
+								]
+							}
+						}
+					},
+					"models": {
+						"player": {
+							"zh": [
+								"zh_charple001.dx80.vtx",
+								"zh_charple001.dx90.vtx",
+								"zh_charple001.mdl",
+								"zh_charple001.phy",
+								"zh_charple001.sw.vtx",
+								"zh_charple001.vvd",
+								"zh_charple001_head.dx80.vtx",
+								"zh_charple001_head.dx90.vtx",
+								"zh_charple001_head.mdl",
+								"zh_charple001_head.phy",
+								"zh_charple001_head.sw.vtx",
+								"zh_charple001_head.vvd",
+								"zh_charple001_hs.dx80.vtx",
+								"zh_charple001_hs.dx90.vtx",
+								"zh_charple001_hs.mdl",
+								"zh_charple001_hs.phy",
+								"zh_charple001_hs.sw.vtx",
+								"zh_charple001_hs.vvd",
+								"zh_corpse002.dx80.vtx",
+								"zh_corpse002.dx90.vtx",
+								"zh_corpse002.mdl",
+								"zh_corpse002.phy",
+								"zh_corpse002.sw.vtx",
+								"zh_corpse002.vvd",
+								"zh_corpse002_head.dx80.vtx",
+								"zh_corpse002_head.dx90.vtx",
+								"zh_corpse002_head.mdl",
+								"zh_corpse002_head.phy",
+								"zh_corpse002_head.sw.vtx",
+								"zh_corpse002_head.vvd",
+								"zh_corpse002_hs.dx80.vtx",
+								"zh_corpse002_hs.dx90.vtx",
+								"zh_corpse002_hs.mdl",
+								"zh_corpse002_hs.phy",
+								"zh_corpse002_hs.sw.vtx",
+								"zh_corpse002_hs.vvd",
+								"zh_zombie003.dx80.vtx",
+								"zh_zombie003.dx90.vtx",
+								"zh_zombie003.mdl",
+								"zh_zombie003.phy",
+								"zh_zombie003.sw.vtx",
+								"zh_zombie003.vvd",
+								"zh_zombie003_head.dx80.vtx",
+								"zh_zombie003_head.dx90.vtx",
+								"zh_zombie003_head.mdl",
+								"zh_zombie003_head.phy",
+								"zh_zombie003_head.sw.vtx",
+								"zh_zombie003_head.vvd",
+								"zh_zombie003_hs.dx80.vtx",
+								"zh_zombie003_hs.dx90.vtx",
+								"zh_zombie003_hs.mdl",
+								"zh_zombie003_hs.phy",
+								"zh_zombie003_hs.sw.vtx",
+								"zh_zombie003_hs.vvd"
+							]
+						}
+					},
+					"resource": [
+						"ClientScheme.res"
+					],
+					"sound": {
+						"ambient": {
+							"zombiemod": [
+								"zombie_ambient.mp3"
+							]
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 3727,
+			"_nDownloadCount": 29092,
+			"_nFilesize": 9658938,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/3727",
+			"_sFile": "2010_10_27_zombiemod_v300.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1327697701
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 34655,
+	"_sName": "ZombieMod 3",
+	"_sText": "New zombiemod for css"
+}

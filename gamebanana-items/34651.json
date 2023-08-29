@@ -1,0 +1,53 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"Wreakz 2011 Movie Configs": {
+						"0": "Readme.txt",
+						"1": "Screenshot 2.jpg",
+						"2": "Screenshot.jpg",
+						"cstrike": {
+							"0": "Delete TGA and WAV.bat",
+							"cfg": [
+								"Wreakz2011movie.cfg",
+								"autoexec.cfg"
+							],
+							"materials": {
+								"console": [
+									"background01.vtf",
+									"background01_widescreen.vtf"
+								]
+							},
+							"resource": [
+								"GameMenu.res",
+								"cs.ttf",
+								"csd.ttf",
+								"cslogo.ttf",
+								"cstrike.ttf",
+								"game.ico"
+							]
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 3755,
+			"_nDownloadCount": 2568,
+			"_nFilesize": 3075472,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/3755",
+			"_sFile": "wreakz_2011_movie_configs.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1323624781
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 34651,
+	"_sName": "Wreakz 2011 Movie Configs (OUTDATED)",
+	"_sText": "Wreakz 2011 Movie Configs\r\n__________________________\r\n\r\nInstall:\r\n\r\n1. Copy cstrike folder to your Counter-Strike Source folder,\r\n   your css folder is located at Steam\\SteamApps\\*Your Account*\\counter-strike source\\.\r\n2. If it ask someting about \"Do you want overwrite this file or folder\" press yes.\r\n3. After you have done that, you are ready to go do some sick css movies.\r\n\r\n\r\nInfos:\r\n\r\n1. HDR is disabled.\r\n2. Use Delete TGA and WAV.bat to delete your tga and wav files.\r\n3. Type -console to your css startup line.\r\n\r\n\r\nRemeber rate and give me some feedback! (:"
+}

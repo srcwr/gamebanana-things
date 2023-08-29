@@ -1,0 +1,47 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"CSS HighFPS config": [
+						"autoexec.cfg",
+						"bot.cfg",
+						"botdefhar.cfg",
+						"botdeflow.cfg",
+						"botdefnor.cfg",
+						"botradoff.cfg",
+						"cc.cfg",
+						"console.cfg",
+						"dlall.cfg",
+						"dln.cfg",
+						"dlnos.cfg",
+						"dls.cfg",
+						"gamebanana.url",
+						"gb.cfg",
+						"highfps.cfg",
+						"highn.cfg",
+						"lown.cfg",
+						"netsettings.cfg"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 3090,
+			"_nDownloadCount": 1464,
+			"_nFilesize": 7389,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/3090",
+			"_sFile": "css_highfps_config_2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1369745245
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 34694,
+	"_sName": "Counter-Strike:Source HighFPS [+] Config",
+	"_sText": "<br><h1><span class=\"GreenColor\">Counter-Strike:Source High FPS [+] Config</span></h1><hr><br>Only a few commands have been altered to increase performance and to bring it in line with new Source-Engine.\r\n\r\n<br><br><hr><br><br><iframe src=\"//www.youtube.com/embed/MAoO24XgpuA\" allowfullscreen=\"\" width=\"480\" height=\"315\" frameborder=\"0\"></iframe> <br><br><br><span class=\"RedColor\">Features:</span><br><hr><br><ul><li>improved stability</li><li>two additional shortcuts</li><li>increased fps</li><li>improved Netsettings</li><li class=\"SelectedElement\">new BOT-Commands</li></ul><br><br><br><span class=\"RedColor\">Installation Guide<br></span>\r\n<hr>First delete the config-file \"config.cfg\" in<br><br><pre>\"Steam\\steamapps\\common\\Counter-Strike Source\\cstrike\\cfg\"</pre><br>folder,\r\n making sure to back up information such as key bindings and sensitivity\r\n settings. Then simply paste the files to the path above.<br><br><br><br>"
+}

@@ -1,0 +1,122 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"addons": {
+						"sourcemod": {
+							"extensions": [
+								"cssdm.ext.dll",
+								"cssdm.ext.so"
+							],
+							"gamedata": [
+								"cssdm.games.txt"
+							],
+							"plugins": {
+								"cssdm": [
+									"dm_basics.smx",
+									"dm_bot_quotas.smx",
+									"dm_equipment.smx",
+									"dm_preset_spawns.smx",
+									"dm_spawn_protection.smx"
+								]
+							},
+							"scripting": {
+								"0": "dm_basics.sp",
+								"1": "dm_bot_quotas.sp",
+								"2": "dm_equipment.sp",
+								"3": "dm_preset_spawns.sp",
+								"4": "dm_spawn_protection.sp",
+								"include": [
+									"cssdm.inc"
+								]
+							},
+							"translations": [
+								"cssdm.phrases.txt"
+							]
+						}
+					},
+					"cfg": {
+						"cssdm": {
+							"0": "cssdm.cfg",
+							"1": "cssdm.equip.txt",
+							"2": "cssdm.weapons.txt",
+							"extra": [
+								"changelog.txt",
+								"credits.txt",
+								"license.txt"
+							],
+							"maps": [
+								"de_sample.cssdm.cfg",
+								"de_sample.equip.txt"
+							],
+							"spawns": [
+								"aim_ag_texture.txt",
+								"aim_ag_texture2.txt",
+								"aim_ag_texture5.txt",
+								"aim_ag_texture_r.txt",
+								"aim_shotty.txt",
+								"ba_ffg2_v1.txt",
+								"ba_texture_arena2.txt",
+								"cs_assault.txt",
+								"cs_compound.txt",
+								"cs_havana.txt",
+								"cs_italy.txt",
+								"cs_kismayo.txt",
+								"cs_militia.txt",
+								"cs_militia_bymicosv2.txt",
+								"cs_office.txt",
+								"cs_office_extended.txt",
+								"cs_reflex3.txt",
+								"cs_retreat.txt",
+								"de_aztec.txt",
+								"de_cbble.txt",
+								"de_chateau.txt",
+								"de_clan_mill_beta.txt",
+								"de_contra.txt",
+								"de_dust.txt",
+								"de_dust2.txt",
+								"de_industrial_crane_v3.txt",
+								"de_inferno.txt",
+								"de_losttemple.txt",
+								"de_menace.txt",
+								"de_nuke.txt",
+								"de_piranesi.txt",
+								"de_port.txt",
+								"de_prodigy.txt",
+								"de_tides.txt",
+								"de_train.txt",
+								"dm_battlecreek_v3.txt",
+								"fy_barn.txt",
+								"fy_blazin.txt",
+								"fy_blizzard_rc1.txt",
+								"fy_funtimes.txt",
+								"fy_iceworld_arena.txt",
+								"fy_rocks.txt",
+								"fy_trenches.txt",
+								"wired.txt"
+							]
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 4188,
+			"_nDownloadCount": 8559,
+			"_nFilesize": 260733,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/4188",
+			"_sFile": "cssdm-200.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1211935203
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 34599,
+	"_sName": "CS:S DM Version 2.0.0 ",
+	"_sText": "    * Randomized+preset spawning (you can add new spawn points)\r\n    * Spawn protection (configurable by time and player rendering)\r\n    * Support for giving bots random weapons\r\n    * Configurable weapon menus\r\n    * Supports giving players weapons\r\n    * Deletion of old weapons and rag dolls (saves FPS!)\r\n    * Weapons can be blocked\r\n    * Grenades/armor are configurable\r\n    * TDM (Team Deathmatch) as well as FFA (Free-for-all Deathmatch)\r\n    * Spawn editor GUI\r\n    * Easily extensible via a plugin API\r\n    * Multi-lingual support\r\n    * Plays well with GunGame:SM\r\n    * Very optimized\r\n    * Open Source under the GNU General Public License\r\n"
+}

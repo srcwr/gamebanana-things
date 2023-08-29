@@ -1,0 +1,64 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrike": {
+						"materials": {
+							"models": {
+								"samolet": [
+									"airwheel.vmt",
+									"airwheel.vtf"
+								],
+								"test": [
+									"test.vmt",
+									"test.vtf"
+								]
+							}
+						},
+						"models": {
+							"samolet": [
+								"airwheel.dx80.vtx",
+								"airwheel.dx90.vtx",
+								"airwheel.mdl",
+								"airwheel.phy",
+								"airwheel.sw.vtx",
+								"airwheel.vvd",
+								"airwheel.xbox.vtx"
+							],
+							"test": [
+								"test.dx80.vtx",
+								"test.dx90.vtx",
+								"test.mdl",
+								"test.phy",
+								"test.sw.vtx",
+								"test.vvd",
+								"test.xbox.vtx"
+							]
+						}
+					},
+					"mapsrc": [
+						"airbus19.vmf"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 44261,
+			"_nDownloadCount": 1490,
+			"_nFilesize": 312428,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/44261",
+			"_sFile": "airbus380alpha19.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1220548807
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 357,
+	"_sName": "airbus 380",
+	"_sText": "Do whatever you want"
+}

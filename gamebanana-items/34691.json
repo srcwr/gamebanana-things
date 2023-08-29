@@ -1,0 +1,41 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "mapcycle1.txt",
+					"1": "mapcycle2.txt",
+					"2": "mapcycle3.txt",
+					"3": "mapcycle4.txt",
+					"4": "mapcycle5.txt",
+					"5": "mapcycle6.txt",
+					"6": "mapcycle7.txt",
+					"7": "mapcycle8.txt",
+					"8": "mapcycle9.txt",
+					"cfg": [
+						"autoexec.cfg",
+						"game.cfg",
+						"listenserver.cfg"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 3124,
+			"_nDownloadCount": 2212,
+			"_nFilesize": 4111,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/3124",
+			"_sFile": "listenserver.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1367501850
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 34691,
+	"_sName": "ListenServer settings for online play",
+	"_sText": "About\r\n==================\r\nThis is a set of files I've created to allow my friends and I to play CSS together with the minimum amount of time needed to get a game going.\r\n\r\nAfter installing anyone of us can open CSS click Create Server - Random map, no bots and we can all start playing together.\r\n\r\nThere are also custom keys for game management included. These are:\r\n\r\nBot Commands\r\n------------------\r\n- 9    = Kick all bots from the game\r\n- PgUp = Add a CT bot\r\n- PgDn = Add a T bot\r\n\r\nBuy Commands\r\n------------------\r\n- U = Buy Armour and Helmet\r\n- H = Buy HE grenade\r\n- J = Buy Flashbang\r\n- K = Buy Defusal Kit\r\n- L = Buy Smoke Grenade\r\n\r\nMap Commands\r\n------------------\r\n- Keypad 1 - 9  = Change the mapcycle to one of 9 random map files I created\r\n- Kaypad Insert = Skip to the next level in the current map cycle\r\n\r\nWhy use this?\r\n==================\r\nThe way we play: We will all join one team and then add bots to the other. After each map change the game tries to balance the bots and splits them out evenly between the CTs and Ts. When this happens we just press 9 to kick them all and then re-add bots to whatever team we aren't playing.\r\n\r\nI've also figured out how to set sv_lan to 0 from the start so that whoever is hosting doesn't need to open the console, set that and then change map.\r\n\r\nWe also use a locked radar as we use compass directions when using voice chat. This can be disabled by editing the autoexec.cfg file.\r\n\r\nThis config is setup for Steampipe\r\n\r\nInstallation\r\n==================\r\nCreate this folder and unzip all files to it:\r\n\r\n\\Steam\\steamapps\\common\\counterstrike source\\cstrike\\custom\\Server\r\n\r\nServer Folder\r\n------------------\r\nIn the Server folder you should now have a directory called \"cfg\" and these files:\r\n\r\n- mapcycle1.txt \r\n- ... \r\n- mapcycle9.txt\r\n\r\nNote if you want to use custom bots place your **BotProfile.db** in this folder\r\n\r\ncfg Folder\r\n------------------\r\n- autoexec.cfg - This contains all of the custom keys as well the settings to stop the map and radar rotation.\r\n- game.cfg - This sets sv_lan to 0 so that as soon as the server is setup users can connect over the internet.\r\n- listenserver.cfg - This contains all the server settings for the game. You'll probably want to change the Server name and Password. \r\n\r\nOther than that you should be good to go."
+}

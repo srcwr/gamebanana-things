@@ -1,0 +1,273 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"addons": {
+						"eventscripts": {
+							"_libs": {
+								"python": [
+									"ggweaponlib.py",
+									"gungamelib.py",
+									"mp3lib.py",
+									"spawnpointlib.py",
+									"testrepeat.py"
+								]
+							},
+							"gungame": {
+								"0": "__init__.py",
+								"1": "gungame.py",
+								"2": "gungame_project.kpf",
+								"3": "license.txt",
+								"custom_addons": {
+									"0": "__init__.py",
+									"gg_sample": [
+										"gg_sample.py"
+									]
+								},
+								"data": [
+									"hashlist.txt",
+									"updatedata.txt"
+								],
+								"events": [
+									"es_gungame_events.res"
+								],
+								"included_addons": {
+									"0": "__init__.py",
+									"gg_admin": [
+										"gg_admin.py"
+									],
+									"gg_console": [
+										"gg_console.py"
+									],
+									"gg_convert": [
+										"gg_convert.py"
+									],
+									"gg_dead_strip": [
+										"gg_dead_strip.py"
+									],
+									"gg_deathmatch": [
+										"gg_deathmatch.py"
+									],
+									"gg_debug": [
+										"gg_debug.py"
+									],
+									"gg_dissolver": [
+										"gg_dissolver.py"
+									],
+									"gg_earn_nade": [
+										"gg_earn_nade.py"
+									],
+									"gg_elimination": [
+										"gg_elimination.py"
+									],
+									"gg_error_logging": [
+										"gg_error_logging.py"
+									],
+									"gg_friendlyfire": [
+										"gg_friendlyfire.py"
+									],
+									"gg_handicap": [
+										"gg_handicap.py"
+									],
+									"gg_hostage_objective": [
+										"gg_hostage_objective.py"
+									],
+									"gg_info_menus": [
+										"gg_info_menus.py"
+									],
+									"gg_knife_elite": [
+										"gg_knife_elite.py"
+									],
+									"gg_knife_pro": [
+										"gg_knife_pro.py"
+									],
+									"gg_knife_rookie": [
+										"gg_knife_rookie.py"
+									],
+									"gg_map_vote": [
+										"gg_map_vote.py"
+									],
+									"gg_multi_level": [
+										"gg_multi_level.py"
+									],
+									"gg_nade_bonus": [
+										"gg_nade_bonus.py"
+									],
+									"gg_noblock": [
+										"gg_noblock.py"
+									],
+									"gg_reload": [
+										"gg_reload.py"
+									],
+									"gg_retry_punish": [
+										"gg_retry_punish.py"
+									],
+									"gg_spawn_protect": [
+										"gg_spawn_protect.py"
+									],
+									"gg_spawnpoints": [
+										"gg_spawnpoints.py"
+									],
+									"gg_stats_logging": [
+										"gg_stats_logging.py"
+									],
+									"gg_thanks": [
+										"__init__.py",
+										"gg_thanks.py"
+									],
+									"gg_turbo": [
+										"gg_turbo.py"
+									],
+									"gg_unl_grenade": [
+										"gg_unl_grenade.py"
+									],
+									"gg_update": [
+										"gg_update.py"
+									],
+									"gg_warmup_round": [
+										"gg_warmup_round.py"
+									],
+									"gg_welcome_msg": [
+										"gg_welcome_msg.py"
+									]
+								}
+							}
+						}
+					},
+					"cfg": {
+						"gungame5": {
+							"0": "admin_commands.txt",
+							"1": "admin_menus.txt",
+							"2": "admins.txt",
+							"3": "gg_default_addons.cfg",
+							"4": "gg_en_config.cfg",
+							"5": "gg_map_vote.cfg",
+							"6": "gg_server.cfg",
+							"7": "random_winner_sounds.txt",
+							"8": "stats_logging.txt",
+							"converter": {
+								"0": "README.txt",
+								"gg3 spawnpoints": [
+									"es_aim_ag_texture_city_advanced_db.txt"
+								]
+							},
+							"custom_addon_configs": [
+								"gg_sample.cfg"
+							],
+							"sound_packs": [
+								"default.ini"
+							],
+							"spawnpoints": {
+								"0": "aim_ag_texture.txt",
+								"1": "aim_ag_texture2.txt",
+								"10": "cs_havana.txt",
+								"11": "cs_italy.txt",
+								"12": "cs_militia.txt",
+								"13": "cs_office.txt",
+								"14": "cs_reflex3.txt",
+								"15": "de_aztec.txt",
+								"16": "de_cbble.txt",
+								"17": "de_chateau.txt",
+								"18": "de_clan_mill_beta.txt",
+								"19": "de_contra.txt",
+								"2": "aim_ag_texture5.txt",
+								"20": "de_dust.txt",
+								"21": "de_dust2.txt",
+								"22": "de_industrial_crane_v3.txt",
+								"23": "de_inferno.txt",
+								"24": "de_nuke.txt",
+								"25": "de_piranesi.txt",
+								"26": "de_port.txt",
+								"27": "de_prodigy.txt",
+								"28": "de_tides.txt",
+								"29": "de_train.txt",
+								"3": "aim_ag_texture_city_advanced.txt",
+								"30": "dm_battlecreek_v3.txt",
+								"31": "fy_barn.txt",
+								"32": "fy_blazin.txt",
+								"33": "fy_blizzard_rc1.txt",
+								"34": "fy_funtimes.txt",
+								"35": "fy_iceworld_arena.txt",
+								"36": "fy_rocks.txt",
+								"37": "fy_trenches.txt",
+								"38": "gg_aztec_mini_beta.txt",
+								"39": "gg_texture.txt",
+								"4": "aim_ag_texture_r.txt",
+								"40": "wired.txt",
+								"5": "aim_shotty.txt",
+								"6": "ba_ffg2_v1.txt",
+								"7": "ba_texture_arena2.txt",
+								"8": "cs_assault.txt",
+								"9": "cs_compound.txt",
+								"legacy": [
+									"README.txt",
+									"es_aim_ag_texture_city_advanced_db.txt"
+								]
+							},
+							"translations": [
+								"gg_convert.ini",
+								"gg_deathmatch.ini",
+								"gg_elimination.ini",
+								"gg_error_logging.ini",
+								"gg_friendlyfire.ini",
+								"gg_handicap.ini",
+								"gg_knife_pro.ini",
+								"gg_knife_rookie.ini",
+								"gg_map_vote.ini",
+								"gg_multi_level.ini",
+								"gg_save_level.ini",
+								"gg_save_winners.ini",
+								"gg_spawnpoints.ini",
+								"gg_thanks.ini",
+								"gg_warmup_round.ini",
+								"gungame.ini"
+							],
+							"weapon_orders": [
+								"custom_weapon_order1.txt",
+								"default_weapon_order.txt",
+								"reverse_weapon_order.txt",
+								"weapon_short.txt"
+							],
+							"welcome_msg": [
+								"addons.txt",
+								"welcome message.txt"
+							]
+						}
+					},
+					"sound": {
+						"gungame": {
+							"default": [
+								"gg5_welcome.mp3",
+								"gg_handicap.mp3",
+								"knife_level.mp3",
+								"nade_level.mp3",
+								"smb3_1-up.mp3",
+								"smb3_powerdown.mp3",
+								"smb3_powerup.mp3",
+								"smb_star.mp3"
+							]
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 3940,
+			"_nDownloadCount": 8110,
+			"_nFilesize": 455068,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/3940",
+			"_sFile": "gungame5_0_577.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1228937899
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 34629,
+	"_sName": "GunGame 5",
+	"_sText": "GunGame 5 Server files."
+}

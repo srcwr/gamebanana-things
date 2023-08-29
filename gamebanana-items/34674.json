@@ -1,0 +1,70 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cfg": [
+						"autoexec.cfg",
+						"config.cfg"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 3375,
+			"_nDownloadCount": 7463,
+			"_nFilesize": 5441,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/3375",
+			"_sFile": "cfg_9.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1351282759
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Fixed bugs after recent update."
+				},
+				{
+					"cat": "-",
+					"text": "Added a few commands."
+				},
+				{
+					"cat": "-",
+					"text": "A new alias called \"esl\" which will execute this command: rcon exec esl5on5. ( DONT USE THIS IF YOU DONT HAVE THE RCON PASWORD! YOU WILL JUST GET BANNED )"
+				}
+			],
+			"_sText": "w00pz ESL player CFG",
+			"_sTitle": "** 25-04-2013 UPDATE **",
+			"_tsDateAdded": 1366889428
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Updated crosshair."
+				},
+				{
+					"cat": "-",
+					"text": "Updated binds."
+				},
+				{
+					"cat": "-",
+					"text": "Updated settings."
+				}
+			],
+			"_sText": "w00pz ESL player CFG",
+			"_sTitle": "** 07-04-2013 UPDATE **",
+			"_tsDateAdded": 1365345918
+		}
+	],
+	"_idRow": 34674,
+	"_sName": "w00pz CFG ( UPDATED 25-04-2013 )",
+	"_sText": "Simply just put it in cstrike/cfg\r\n\t\t\r\nMade by: http://www.esl.eu/eu/css/player/6812813/\r\n\r\n( UPDATED 25-04-2013 )"
+}

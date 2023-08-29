@@ -1,0 +1,134 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"addons": {
+						"sourcemod": {
+							"extensions": [
+								"cssdm.ext.dll",
+								"cssdm.ext.dylib",
+								"cssdm.ext.so"
+							],
+							"gamedata": [
+								"cssdm.games.txt"
+							],
+							"plugins": {
+								"cssdm": [
+									"dm_basics.smx",
+									"dm_bot_quotas.smx",
+									"dm_equipment.smx",
+									"dm_preset_spawns.smx",
+									"dm_spawn_protection.smx"
+								]
+							},
+							"scripting": {
+								"0": "dm_basics.sp",
+								"1": "dm_bot_quotas.sp",
+								"2": "dm_equipment.sp",
+								"3": "dm_preset_spawns.sp",
+								"4": "dm_spawn_protection.sp",
+								"include": [
+									"cssdm.inc"
+								]
+							},
+							"translations": [
+								"cssdm.phrases.txt"
+							]
+						}
+					},
+					"cfg": {
+						"cssdm": {
+							"0": "cssdm.cfg",
+							"1": "cssdm.equip.txt",
+							"2": "cssdm.weapons.txt",
+							"extra": [
+								"changelog.txt",
+								"credits.txt",
+								"license.txt"
+							],
+							"spawns": [
+								"aim_ag_texture.txt",
+								"aim_ag_texture2.txt",
+								"aim_ag_texture5.txt",
+								"aim_ag_texture_r.txt",
+								"aim_shotty.txt",
+								"ba_ffg2_v1.txt",
+								"ba_texture_arena2.txt",
+								"cs_assault.txt",
+								"cs_compound.txt",
+								"cs_havana.txt",
+								"cs_italy.txt",
+								"cs_kismayo.txt",
+								"cs_militia.txt",
+								"cs_militia_bymicosv2.txt",
+								"cs_office.txt",
+								"cs_office_extended.txt",
+								"cs_reflex3.txt",
+								"cs_retreat.txt",
+								"de_aztec.txt",
+								"de_cbble.txt",
+								"de_chateau.txt",
+								"de_clan_mill_beta.txt",
+								"de_contra.txt",
+								"de_cpl_fire.txt",
+								"de_cpl_mill.txt",
+								"de_cpl_strike.txt",
+								"de_desert_atrocity_v3.txt",
+								"de_dust.txt",
+								"de_dust2.txt",
+								"de_dust2_finale.txt",
+								"de_dust2_unlimited.txt",
+								"de_industrial_crane_v3.txt",
+								"de_inferno.txt",
+								"de_losttemple.txt",
+								"de_losttemple_pro.txt",
+								"de_menace.txt",
+								"de_nuke.txt",
+								"de_piranesi.txt",
+								"de_port.txt",
+								"de_prodigy.txt",
+								"de_qatar.txt",
+								"de_russka.txt",
+								"de_season.txt",
+								"de_socom_ext.txt",
+								"de_tides.txt",
+								"de_train.txt",
+								"de_tuscan.txt",
+								"dm_battlecreek_v3.txt",
+								"fy_barn.txt",
+								"fy_blazin.txt",
+								"fy_blizzard_rc1.txt",
+								"fy_funtimes.txt",
+								"fy_iceworld_arena.txt",
+								"fy_rocks.txt",
+								"fy_trenches.txt",
+								"knas_speedcastle2007.txt",
+								"surf_10x_final.txt",
+								"surf_japan_v10.txt",
+								"wired.txt"
+							]
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 3558,
+			"_nDownloadCount": 9779,
+			"_nFilesize": 374882,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/3558",
+			"_sFile": "cssdm-214_1_.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1338394924
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 34666,
+	"_sName": "CSS deathmatch",
+	"_sText": "Move into you server in addons and cfg and done its work :D"
+}
