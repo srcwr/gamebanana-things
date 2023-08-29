@@ -1,0 +1,60 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"iglo": {
+						"cstrike": {
+							"maps": [
+								"iglo.bsp"
+							],
+							"materials": {
+								"rge_S": [
+									"glass_klar.vmt",
+									"glass_klar_dudv.vtf",
+									"glass_klar_normal.vtf"
+								]
+							},
+							"models": {
+								"zm_2337": [
+									"iglo.dx80.vtx",
+									"iglo.dx90.vtx",
+									"iglo.mdl",
+									"iglo.phy",
+									"iglo.sw.vtx",
+									"iglo.vvd",
+									"iglo_whod.dx80.vtx",
+									"iglo_whod.dx90.vtx",
+									"iglo_whod.mdl",
+									"iglo_whod.phy",
+									"iglo_whod.sw.vtx",
+									"iglo_whod.vvd"
+								]
+							}
+						},
+						"vmf": [
+							"iglo.vmf"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 46929,
+			"_nDownloadCount": 504,
+			"_nFilesize": 1164475,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/46929",
+			"_sFile": "iglo.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1235407363
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2377,
+	"_sName": "IGLO",
+	"_sText": "<font size=\"3\">This is a model i made for MY zombie map on which i worked for half a year.\r\n\r\nModel and texture were made by ME\r\n\r\n\r\nYou can use this model.</font>\r\n<font size=\"5\"><b class=red>BUT BE CAREFULLY:\r\nwhen using the model in hammer don't let display the COLLISION model, otherwise hammer will crash.It's because the collision is just huge.</b><br>\r\n</font></font>\r\n\r\n<font size=\"3\">Bsp and Vmf files are included,models and texture folders too</font>\r\n"
+}

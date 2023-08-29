@@ -1,0 +1,89 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrike": {
+						"materials": {
+							"models": {
+								"models_kit": [
+									"volvo_b9tlw_mainA.vmt",
+									"volvo_b9tlw_mainA.vtf",
+									"volvo_b9tlw_mainA_skin2.vmt",
+									"volvo_b9tlw_mainA_skin2.vtf",
+									"volvo_b9tlw_mainA_spec.vtf",
+									"volvo_b9tlw_mainB.vmt",
+									"volvo_b9tlw_mainB.vtf",
+									"volvo_b9tlw_mainB_skin2.vmt",
+									"volvo_b9tlw_mainB_skin2.vtf",
+									"volvo_b9tlw_mainB_spec.vtf",
+									"volvo_b9tlw_misc1a.vmt",
+									"volvo_b9tlw_misc1a.vtf",
+									"volvo_b9tlw_misc1b.vmt",
+									"volvo_b9tlw_misc1b.vtf",
+									"volvo_b9tlw_misc1b_spec.vtf",
+									"volvo_b9tlw_seats.vmt",
+									"volvo_b9tlw_seats.vtf",
+									"volvo_b9tlw_seats_skin2.vmt",
+									"volvo_b9tlw_seats_skin2.vtf",
+									"volvo_b9tlw_windows.vmt",
+									"volvo_b9tlw_windows.vtf",
+									"volvo_b9tlw_windows_spec.vtf"
+								]
+							}
+						},
+						"models": {
+							"models_kit": [
+								"volvo_b9tlw_main.dx80.vtx",
+								"volvo_b9tlw_main.dx90.vtx",
+								"volvo_b9tlw_main.mdl",
+								"volvo_b9tlw_main.phy",
+								"volvo_b9tlw_main.sw.vtx",
+								"volvo_b9tlw_main.vvd",
+								"volvo_b9tlw_main.xbox.vtx",
+								"volvo_b9tlw_main_test.dx80.vtx",
+								"volvo_b9tlw_main_test.dx90.vtx",
+								"volvo_b9tlw_main_test.mdl",
+								"volvo_b9tlw_main_test.sw.vtx",
+								"volvo_b9tlw_main_test.vvd",
+								"volvo_b9tlw_main_test.xbox.vtx",
+								"volvo_b9tlw_seats.dx80.vtx",
+								"volvo_b9tlw_seats.dx90.vtx",
+								"volvo_b9tlw_seats.mdl",
+								"volvo_b9tlw_seats.phy",
+								"volvo_b9tlw_seats.sw.vtx",
+								"volvo_b9tlw_seats.vvd",
+								"volvo_b9tlw_seats.xbox.vtx",
+								"volvo_b9tlw_windows.dx80.vtx",
+								"volvo_b9tlw_windows.dx90.vtx",
+								"volvo_b9tlw_windows.mdl",
+								"volvo_b9tlw_windows.phy",
+								"volvo_b9tlw_windows.sw.vtx",
+								"volvo_b9tlw_windows.vvd",
+								"volvo_b9tlw_windows.xbox.vtx"
+							]
+						}
+					}
+				},
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 47081,
+			"_nDownloadCount": 1289,
+			"_nFilesize": 5260849,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/47081",
+			"_sFile": "cstrike2_2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1224663496
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2645,
+	"_sName": "2 skins: VOLVO B9TLW ddbus",
+	"_sText": "Update @ Jan 16, 2009,\r\nOn request, an alternate skin has been made and uploaded <a href=http://www.megaupload.com/?d=74X3P67V>here</a>. This is just a quick easy way of re-skinning which omits some of the decals/detail. Therefore, this skin is not added as a third skin in the skin family of the model. To use this skin, download the file from above link and REPLACE the original files.\r\n-------------------------\r\n\r\nModel is divided into 3 sub-parts: MAIN, WINDOWS and SEATS. MAIN and WINDOWS are considered the base model, they both need to be present to make the model work properly(Due to the complexity of Vphysics, collision meshes(aka physbox) are distributed evenly into both MAIN and WINDOWS, so, again, these two sub-parts are the basis). \r\n\r\nAnother sub-part, SEATS, is optional, the absence of SEATS will also lead to the unavailability of its own physbox. For more detail, open up HLMV and see how these 3 sub-parts and its collision meshes work together seamlessly.\r\n\r\nAll 3 sub-parts are having the same origin, mapper is supposed to align them on the same coordinates. To align sub-parts, simply use paste special function to line up all models onto exact same coordiante.\r\n\r\nFor some reason, the vphysics(collision mesh) is messed up when you roatate the model at any random angle, try your best to lay all parts of this model perpendicularly,ie. facing either 3, 6, 9 or 12 o'clock.\r\n\r\nThere are 3 sub-parts of the models:\r\nvolvo_b9tlw_main.mdl\r\nvolvo_b9tlw_windows.mdl\r\nvolvo_b9tlw_seats.mdl\r\n\r\nIn total, all models will have a 6 different combinations.(see screenshots, 2 x 1 x 3 = 6). There are 2 skins for the main model (skin number 0 or 1); there is only 1 skin for window model; there are  2 skins for seats model(skin 0 or 1) providing that seats model can be absent as well.\r\n\r\nMr. Kit\r\n2008 Oct 28\r\n_________________________\r\n\r\nAll models are stated \"$staticprop\" in qc files for compiling, further prop type can be made if requested.\r\nAll models are provided with proper physics box( or collision model, or vphysics, so manny names lol). Players are actually be able to walk into the bus go up/downstair, jump onto a seat, walk along the hallway and camp.\r\n\r\nLODs are provided to avoid lag\r\nNo animation involved\r\nNo bump/normal map involved\r\nPart of the textures have specular map and alpha map(used for transparency or lumination)\r\n\r\npolycount of models:\r\nmain: 8660 (LOD @ 140: 4210)\r\nwindows: 252 (LOD @ 140: 132)\r\nseats: 3002  (LOD @ 140: 896)\r\n\r\nTextures size are about 8MB\r\n\r\nSoftware used: PS CS3, Lightwave 9.5\r\n\r\nInstallation Instructions:\r\nStraight forward, simply extract the rar/zip file into cstrike folder, so that the paths:\r\nx:\\Program Files\\Steam\\steamapps\\USER\\counter-strike source\\cstrike\\models\\models_kit\r\nx:\\Program Files\\Steam\\steamapps\\USER\\counter-strike source\\cstrike\\materials\\models\\models_kit\r\nare both containing the files and valid directories\r\n\r\nPlease respect the right that i made these models. You are allowed to change the texture image, but  my name \"Mr. Kit\" MUST be credited, either tagged onto texture image, written into a readme file or written as the map's credit. You are also welcome to distribute these models, also feel free to use them on your custom map. You are suposed to give me, Mr. Kit, credit while publlishing your map. Please contact me when you release your map to public, so that i can see how good/bad the models react ingame.\r\n\r\nTo see more of my models pack, please click on my name \"mrkit4423\" and click submission.\r\n\r\n<object width=\"425\" height=\"344\"><param name=\"movie\" value=\"http://www.youtube.com/v/FlO5i9sM7GA&hl=en&fs=1\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://www.youtube.com/v/FlO5i9sM7GA&hl=en&fs=1\" type=\"application/x-shockwave-flash\" allowscriptaccess=\"always\" allowfullscreen=\"true\" width=\"425\" height=\"344\"></embed></object>\r\n\r\n\r\nMy email address are kwbingo@yahoo.com.hk or kwbingojp@yahoo.co.jp\r\n"
+}

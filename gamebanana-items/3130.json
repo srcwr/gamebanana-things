@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"Furniture.vmf"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 46991,
+			"_nDownloadCount": 1205,
+			"_nFilesize": 54849,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/46991",
+			"_sFile": "furniture_2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1230974026
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 3130,
+	"_sName": "Fibbs' Furniture Pack",
+	"_sText": "<b>Furniture Prefab Pack by <a href=\"http://www.fpsbanana.com/members/351633\" target=\"_blank\">Fibbs</a>.</b>\r\n\r\nWell I got bored and felt like making something. Not a whole map, just little bits, so I thought I may as well put it up as a prefab. Someone may find something in here useful or to their liking.\r\n\r\n<font color=\"#00FFFF\">This pack contains</font>:<ul><li> A bed with drawers in it.\r\n<li> Some separate drawers.\r\n<li> A table with breakable glass.\r\n<li> A breakable bowl.\r\n<li> A boombox with a detachable handle.\r\n<li> An HDTV (sort of) with a stand.\r\n<li> Another table.\r\n<li> A radiator.\r\n<li> A chair.</ul>\r\nPlease note that some of the textures used have been scaled down, so you should put the scale back up to 0.25 if you retexture them. I think it's only the bed that has scaled down textures.\r\n\r\nIf you don't want a cover on the bed simply delete the displacement.\r\n\r\nThe drawers on the bed could be moved in and turned into func\\_doors if you plan to make them useable.\r\n\r\nThe radiator's pretty crap but meh, it may save someone a few minutes.\r\n\r\nParent an ambient\\_generic to the boombox to have it playing music! Make sure you add the output<br>\r\n<i>OnDamage<br>\r\nambient\\_generic(whatever you named it)<br>\r\nkill</i><br>\r\nSo you disable the music when the boombox is shot.\r\n\r\nMake the screen of the TV a camera to make it more interesting..or something. Maybe a custom texture? There are tutorials on this site for setting up cameras and such if you don't know how.\r\n\r\nYou may want to change the bowl's \"Prop Type\" to something else since it seems to break fairly easily right now.\r\n\r\n<font color=\"red\">How to use</font>:<br>\r\nExtract the Furniture.vmf file to wherever you want, open Hammer and browse to the file then open it. Open the map you want the prefabs in, then simply copy&paste from map to map.\r\n\r\n<b><i>If used please credit me in some way, be it in the map or just in the readme/notes of the map.</b></i>"
+}

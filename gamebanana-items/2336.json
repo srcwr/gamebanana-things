@@ -1,0 +1,31 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"Omena's Tower Prefab": [
+						"README.txt",
+						"omena_towerprefab_fix.vmf"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 47150,
+			"_nDownloadCount": 437,
+			"_nFilesize": 18661,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/47150",
+			"_sFile": "omenas_tower_prefab_2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1219767067
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2336,
+	"_sName": "Tower Prefab (Dev Texture)",
+	"_sText": "<b>The download file was wrong, but now its fixed. Only one member got to download the wrong file. My apologizes.</b>\r\n\r\nSo, this is my first prefab ever, its just a simple tower, with 2 floors.\r\nIt has got dev textures on it, so if you want to re-texture it, just replace the textures;\r\n\r\ndev/dev_measuregeneric01\r\ndev/dev_blendmeasure\r\n\r\nTo install this prefab, put the .vmf from the extracted file into;\r\nC:\\Program Files\\Steam\\steamapps\\UserName\\sourcesdk\\bin\\ep1\\bin\\prefabs\r\n\r\nAnd when you choose the entity tool and set the subtool as prefabs, you will find the tower by typing in ''omena'' full name is omena_towerprefab_fix.\r\n\r\nThere are credits inside the tower for me, you can delete it if you want, or leave it if you're so kind. =)\r\n\r\n<font color=\"red\">*Note that when you have downloaded the prefab, and put it in your map, the wall/ground/skybox are not included.</font>\r\n\r\nEnjoy it,\r\n\r\nOmena,"
+}

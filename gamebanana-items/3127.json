@@ -1,0 +1,208 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"free_models": {
+						"0": "model_testing.vmf",
+						"cstrike": {
+							"maps": [
+								"model_testing.bsp"
+							],
+							"materials": {
+								"models": {
+									"setka": [
+										"blya_kafel_4.vmt",
+										"blya_kafel_4.vtf",
+										"blya_kafel_6.vmt",
+										"blya_kafel_6.vtf",
+										"der_wo5.vmt",
+										"der_wo5.vtf",
+										"der_wo7.vmt",
+										"der_wo7.vtf",
+										"setka.vmt",
+										"setka.vtf"
+									],
+									"wagen": [
+										"Brum_bum_bam_2.vmt",
+										"Brum_bum_bam_2.vtf",
+										"gum_gum.vmt",
+										"gum_gum.vtf",
+										"plata_3_hi.vmt",
+										"plata_3_hi.vtf",
+										"plata_3_hi_normal.vtf"
+									]
+								},
+								"modelsrc": {
+									"diwan": [
+										"plast_ledr.vmt",
+										"plast_ledr.vtf"
+									],
+									"diwan2": [
+										"gep.vmt",
+										"gep.vtf"
+									],
+									"kreslo": [
+										"plast_ledr.vmt",
+										"plast_ledr.vtf",
+										"plast_ser.vmt",
+										"plast_ser.vtf"
+									],
+									"kreslo2": [
+										"gep.vmt",
+										"gep.vtf"
+									],
+									"piwo": [
+										"met.vmt",
+										"met.vtf",
+										"met2.vmt",
+										"met2.vtf",
+										"met_reb.vmt",
+										"met_reb.vtf",
+										"rost3.vmt",
+										"rost3.vtf",
+										"rost4.vmt",
+										"rost4.vtf",
+										"rost5.vmt",
+										"rost5.vtf",
+										"rost_rja2.vmt",
+										"rost_rja2.vtf"
+									],
+									"stul": [
+										"blya_kafel_6.vmt",
+										"blya_kafel_6.vtf",
+										"leder.vmt",
+										"leder.vtf"
+									]
+								}
+							},
+							"models": {
+								"diwan": [
+									"diwan.dx80.vtx",
+									"diwan.dx90.vtx",
+									"diwan.mdl",
+									"diwan.phy",
+									"diwan.sw.vtx",
+									"diwan.vvd"
+								],
+								"diwan2": [
+									"diwan2.dx80.vtx",
+									"diwan2.dx90.vtx",
+									"diwan2.mdl",
+									"diwan2.phy",
+									"diwan2.sw.vtx",
+									"diwan2.vvd"
+								],
+								"kreslo": [
+									"kreslo.dx80.vtx",
+									"kreslo.dx90.vtx",
+									"kreslo.mdl",
+									"kreslo.phy",
+									"kreslo.sw.vtx",
+									"kreslo.vvd"
+								],
+								"kreslo2": [
+									"kreslo2.dx80.vtx",
+									"kreslo2.dx90.vtx",
+									"kreslo2.mdl",
+									"kreslo2.phy",
+									"kreslo2.sw.vtx",
+									"kreslo2.vvd"
+								],
+								"lawka": [
+									"lawka.dx80.vtx",
+									"lawka.dx90.vtx",
+									"lawka.mdl",
+									"lawka.phy",
+									"lawka.sw.vtx",
+									"lawka.vvd"
+								],
+								"piwo": [
+									"piwo.dx80.vtx",
+									"piwo.dx90.vtx",
+									"piwo.mdl",
+									"piwo.phy",
+									"piwo.sw.vtx",
+									"piwo.vvd"
+								],
+								"stol": [
+									"stol.dx80.vtx",
+									"stol.dx90.vtx",
+									"stol.mdl",
+									"stol.phy",
+									"stol.sw.vtx",
+									"stol.vvd"
+								],
+								"stol_2": [
+									"stol_2.dx80.vtx",
+									"stol_2.dx90.vtx",
+									"stol_2.mdl",
+									"stol_2.phy",
+									"stol_2.sw.vtx",
+									"stol_2.vvd"
+								],
+								"stul": [
+									"stul.dx80.vtx",
+									"stul.dx90.vtx",
+									"stul.mdl",
+									"stul.phy",
+									"stul.sw.vtx",
+									"stul.vvd"
+								],
+								"stul1": [
+									"stul1.dx80.vtx",
+									"stul1.dx90.vtx",
+									"stul1.mdl",
+									"stul1.phy",
+									"stul1.sw.vtx",
+									"stul1.vvd"
+								],
+								"stul_2": [
+									"stul_2.dx80.vtx",
+									"stul_2.dx90.vtx",
+									"stul_2.mdl",
+									"stul_2.phy",
+									"stul_2.sw.vtx",
+									"stul_2.vvd"
+								],
+								"stul_3": [
+									"stul_3.dx80.vtx",
+									"stul_3.dx90.vtx",
+									"stul_3.mdl",
+									"stul_3.phy",
+									"stul_3.sw.vtx",
+									"stul_3.vvd"
+								],
+								"wagen": [
+									"poli_wag.dx80.vtx",
+									"poli_wag.dx90.vtx",
+									"poli_wag.mdl",
+									"poli_wag.phy",
+									"poli_wag.sw.vtx",
+									"poli_wag.vvd"
+								]
+							}
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 47030,
+			"_nDownloadCount": 1224,
+			"_nFilesize": 9295463,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/47030",
+			"_sFile": "free_models.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1228582860
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 3127,
+	"_sName": "Free_models",
+	"_sText": "These are free models\r\nyou can use them.\r\nThey were made by my father 1 year ago."
+}

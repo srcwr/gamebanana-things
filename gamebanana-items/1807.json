@@ -1,0 +1,69 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"crane": {
+						"CSS": {
+							"cstrike": {
+								"maps": [
+									"test_crane.bsp"
+								],
+								"materials": {
+									"rge_S": [
+										"concretewall001a.vmt",
+										"metalgrate011a.vmt",
+										"metalgrate011a.vtf",
+										"rost_kran.vmt",
+										"rost_kran.vtf",
+										"rost_kran_normal.vtf",
+										"schwarz.vmt",
+										"schwarz.vtf",
+										"zink_cv.vmt",
+										"zink_cv.vtf"
+									]
+								},
+								"models": {
+									"zm_2337": [
+										"kran.dx80.vtx",
+										"kran.dx90.vtx",
+										"kran.mdl",
+										"kran.phy",
+										"kran.sw.vtx",
+										"kran.vvd",
+										"kran_base.dx80.vtx",
+										"kran_base.dx90.vtx",
+										"kran_base.mdl",
+										"kran_base.phy",
+										"kran_base.sw.vtx",
+										"kran_base.vvd"
+									]
+								}
+							}
+						},
+						"Hammer Editor": [
+							"test_crane.vmf"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 46977,
+			"_nDownloadCount": 1183,
+			"_nFilesize": 2506382,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/46977",
+			"_sFile": "kran.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1231768589
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 1807,
+	"_sName": "Crane",
+	"_sText": "This is a model made by me, i spent more than 15h of work for this model.\r\nI converted it for css, you can also use it for other games based on the source engine.\r\n\r\nThe textures:\r\n\r\n-rost_kran: from internet i modified it\r\n-rost_kran_normal: the bumpmap\r\n-schwarz: my texutre\r\n-concretewall001a: texture from counter strike source\r\n-metalgrate011a: texture from counter strike source\r\n-zink_cv: my father made this texture\r\n\r\nyou are allowed to use the textures and the model, only if you give me, my father, and valve the credits."
+}

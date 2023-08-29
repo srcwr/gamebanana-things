@@ -1,0 +1,54 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"MP3_player": {
+						"0": "Info.txt",
+						"1": "mp3_player.bsp",
+						"2": "mp3_player.vmf",
+						"materials": {
+							"decals": {
+								"custom": [
+									"wmp1.vmt",
+									"wmp1.vtf",
+									"wmp2.vmt",
+									"wmp2.vtf",
+									"wmp3.vmt",
+									"wmp3.vtf",
+									"wmp4.vmt",
+									"wmp4.vtf"
+								]
+							}
+						},
+						"sound": {
+							"hudba2": [
+								"02 - Breathe.mp3",
+								"3qlimax.mp3",
+								"Crazytown - Butterfly.mp3",
+								"canttouchthis.mp3"
+							]
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 46911,
+			"_nDownloadCount": 523,
+			"_nFilesize": 9751577,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/46911",
+			"_sFile": "mp3_player.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1236317797
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 1830,
+	"_sName": "mp3 Player",
+	"_sText": "This is prefab of my first machine for playing mp3.\r\n\r\nFor instal textures&sounds paste C:\\\\\\\\Program Files\\\\\\\\Steam\\\\\\\\SteamApps\\\\\\\\......\\\\\\\\counter-strike source\\\\\\\\cstrike\r\n"
+}

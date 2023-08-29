@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ex_ba_jail.vmf",
+					"readme.txt"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 46943,
+			"_nDownloadCount": 323,
+			"_nFilesize": 8703,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/46943",
+			"_sFile": "ex_ba_jail.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1234401548
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 1818,
+	"_sName": "ex_ba_jail",
+	"_sText": "//Map Name: ex_ba_jail\r\n//Description: a map containing all the essentials to create a ba_jail map.\r\n//About:\r\nlogic_timer: This is a safety measure to open the doors if the CT's are lame and don't\r\ngame_player_equip: this strips the players of everything but their knife for BOTH teams. click on SmartEdit to unhide the properties."
+}

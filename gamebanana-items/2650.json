@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"APC.vmf"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 47004,
+			"_nDownloadCount": 512,
+			"_nFilesize": 13538,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/47004",
+			"_sFile": "apc.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1230313518
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2650,
+	"_sName": "Eight-wheeled APC",
+	"_sText": "A simple eight-wheeled APC, resembling a Stryker or a BTR. Shoot the buttons to open the various hatches in the vehicle. The prefab has been made into a func_tracktrain; get on the driver's seat, use the steering wheel and press forward & backward to drive. Features engine & driving sounds and rotating wheels. Notice that the wheels and sounds must be triggered to stop by the first and last path_tracks of the APC's path, or they will keep rolling. This has been done in the prefab map's track set."
+}

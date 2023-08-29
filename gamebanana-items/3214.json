@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"slidingmetaldoor1.vmf"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 46986,
+			"_nDownloadCount": 719,
+			"_nFilesize": 2046,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/46986",
+			"_sFile": "slidingmetaldoor1.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1231010587
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 3214,
+	"_sName": "Sliding Metal Double Doors",
+	"_sText": "This is a metal double door prefab that slides open when you press your use key on the keypad. It has sound, and no textures collide when it opens. If the keypad is damaged, it will spark, but the door still functions. It's easy to fit through when walking quickly or slowly. It is a very useful map making tool, but NPCs won't be able to open the door, unless you check the flag box \"Open on touch\" in the door's properties.\r\n\r\nThis door is exactly the same as my other door prefab. Except now, it's DOUBLE the fun. \r\n\r\nInstallation -\r\n\r\n1. Download zip file. \r\n2. Extract, then copy the vmf file. \r\n3. Paste the vmf file under steamapps\\username\\sourcesdk\\bin\\ep1\\bin\\prefabs."
+}

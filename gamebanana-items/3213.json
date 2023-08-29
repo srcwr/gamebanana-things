@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"slidingmetaldoor2.vmf"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 46988,
+			"_nDownloadCount": 679,
+			"_nFilesize": 1863,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/46988",
+			"_sFile": "slidingmetaldoor2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1231009962
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 3213,
+	"_sName": "Sliding Metal Door",
+	"_sText": "This is a metal door that slides to the left when you press your use key on the keypad. It has sound, and no textures collide when it opens. If the keypad is damaged, it will spark, but the door still functions. It's easy to fit through when walking quickly or slowly. It is a very useful map making tool, but NPCs won't be able to open the door, unless you check the flag box \"Open on touch\" in the door's properties.\r\n\r\nInstallation -\r\n\r\n1. Download zip file. \r\n2. Extract, then copy the vmf file. \r\n3. Paste the vmf file under steamapps\\username\\sourcesdk\\bin\\ep1\\bin\\prefabs."
+}

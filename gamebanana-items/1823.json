@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"prefab_mancannon.bsp",
+					"prefab_mancannon.vmf"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 46927,
+			"_nDownloadCount": 893,
+			"_nFilesize": 608082,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/46927",
+			"_sFile": "prefab_mancannon.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1235608808
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 1823,
+	"_sName": "Man Cannons (Halo)",
+	"_sText": "<hr /><b>Details:</b><br />\r\nThis is my remake of the Halo 3 Man Cannons. Basically, you walk into them and get launched (i got it set up so that the player takes no damage from the fall btw). Depending on how you angle yourself while entering the cannon you can get anything from a small bump to a massive launch that sends you flying all the way across the map. \r\n\r\n<b>Notes:</b>\r\nFirst off, i have to warn you that it takes some skill/time to figure out how to use these to get the most air. Once you get the hang of it, you can strafe, attack from the air, or drop behind the other team. You do not have to jump or do anything special btw, just walk or run into the cannons.\r\n\r\n<b>DO NOT ROTATE THESE</b>\r\nI have included 2 cannons facing each other, use them. if you rotate them you will totally mess them up (even if you set the angle). If you really want 2 more cannons facing accross the 2 included, PM me and i'll make them.\r\n\r\nIf for some reason you intend to only use one cannon, use the blue one (by CT spawn) or make sure you copy the <i>filter_damage_type</i> entity if you have to have the red one (by T spawn). If you dont you will take damage from the fall. It is grouped with the blue cannon, so you will need to ungroup it (ctrl u) to grab it.\r\n\r\nGive credit where its due, add <b>Burnfingers</b> to the Authors &gt; Contributors list.\r\n\r\n\r\n\r\n<br />Please visit <a href=\"http://www.gamebanana.com/studios/2377\">Clan 5k3's studio</a> for more Halo css prefabs and materials."
+}

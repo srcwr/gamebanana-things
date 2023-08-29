@@ -1,0 +1,35 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"SIMONSAYS.vmf",
+					"simonsays.bsp",
+					"simonsays0000.jpg",
+					"simonsays0001.jpg",
+					"simonsays0002.jpg",
+					"simonsays0003.jpg",
+					"simonsays0004.jpg"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 46982,
+			"_nDownloadCount": 762,
+			"_nFilesize": 652993,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/46982",
+			"_sFile": "simon_says.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1231327509
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 3307,
+	"_sName": "Simon Says / Quiz / Games",
+	"_sText": "Its just a little thing for Ba_JAIL_maps or minigames where you stand on the little blocks and someone does simon says with you, or a quiz or something. I built something like this in one of my jailmaps, a quite ugly one, but everyone always wanted to play that map. So this prefab is really succesfull in jailmaps.\r\n\r\nSIMON SAYS RULES:\r\nOne person is Simon and the rest stand in a line facing Simon.\r\nThe 'Simon' calls out instructions like this, \"Simon says jump 3 times\". Everyone else has to jump 3 times.\r\nIf the 'Simon' calls out an instruction without saying \"Simon says\" then everyone should ignore the instruction.\r\nIf you don't follow a Simon says instruction the simon will press your button. If you do follow an instruction that doesn't have Simon says on it you also get your button pressed.\r\nThe person who wins has a wish.\r\n\r\nEach time you press a button the block drives up and the person on it looses 25 hp.\r\nI've seen simon says on jailmaps, but the people shoot the terrorists who do something wrong, and with this prefab its fair and everyone gets the same amount of damage. Same with quiz.\r\n"
+}

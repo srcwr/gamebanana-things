@@ -1,0 +1,54 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"spiral_staircase_prefab": {
+						"0": "1.jpg",
+						"1": "2.jpg",
+						"2": "Thumbs.db",
+						"3": "spiral_staircase.obj",
+						"4": "spiral_staircase.vmf",
+						"5": "spiral_staircase0000.jpg",
+						"6": "spiral_staircase0001.jpg",
+						"7": "spiral_staircase0002.jpg",
+						"materials": {
+							"dev": [
+								"dev_measuregeneric16.vmt",
+								"dev_measuregeneric16.vtf",
+								"dev_measuregeneric18.vmt",
+								"dev_measuregeneric18.vtf",
+								"dev_measuregeneric21.vmt",
+								"dev_measuregeneric21.vtf",
+								"dev_measuregeneric45.vmt",
+								"dev_measuregeneric45.vtf"
+							],
+							"test": [
+								"Bricks.vmt",
+								"Bricks.vtf",
+								"Bricks_nrm.vtf"
+							]
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 47103,
+			"_nDownloadCount": 939,
+			"_nFilesize": 2617643,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/47103",
+			"_sFile": "spiral_staircase_prefab.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1222941328
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2815,
+	"_sName": "Spiral Staircase",
+	"_sText": "This spiral staircase prefab includes the three dev textures seen in the screenshots. Don't forget to make this a func_detail. "
+}

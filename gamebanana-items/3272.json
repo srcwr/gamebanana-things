@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"Lamp_Rope.vmf"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 46978,
+			"_nDownloadCount": 987,
+			"_nFilesize": 2479,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/46978",
+			"_sFile": "lamp_rope.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1231636500
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 3272,
+	"_sName": "Lamp Hanging on Suspended Rope",
+	"_sText": "A simple prefab that was easier to simply build than explain for use in <a href=\"http://www.fpsbanana.com/threads/143796\">this thread here</a> to help someone out.\r\n\r\nWhat was used to create this prefab:\r\n<i class=\"blue\">Keyframe_Rope x2\r\nMove_Rope\r\nLogic_Measure_Movement\r\nPhys_Ballsocket x2\r\nPoint_Spotlight\r\nLight_Spot\r\nProp_Physics_Multiplayer</i>\r\n\r\nSimple effect but fun to play with when used right. One could swap out the light_spot with dynamic to make a better visual but this is better for performance. Choice is yours :P\r\n\r\nFor now the rope will follow the lamp model when its moved/shot etc as you can see, but to add some more bounce to it a phys_spring on either side rather than hinges could produce better results, again for performance I went with ballsockets."
+}

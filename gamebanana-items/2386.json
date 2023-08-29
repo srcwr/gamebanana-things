@@ -1,0 +1,32 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"coastal_red_house": [
+						"coastal_house_1_prefab.vmf",
+						"coastal_house_1_prefab.vmx",
+						"readme.txt"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 46844,
+			"_nDownloadCount": 841,
+			"_nFilesize": 109810,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/46844",
+			"_sFile": "coastal_red_house_5.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1241290589
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2386,
+	"_sName": "Red Coastal House",
+	"_sText": "<u>Coastal Red House</u>\r\n\r\nThis is a prefabbed building based off of a theme similar to the abandoned sections of the \"Lost Coast\" expansion for HL2. It is full contained within a single box in the uploaded file, so just do \"Edit -> Select all\" then Copy/Paste it where needed.\r\n\r\n<b>IF USED, MAKE SURE TO GIVE PROPER CREDIT</b>\r\n\r\nI recommend using this building in a manner similar to those seen in the screenshot (on the shore line, with the dock over the water). However, with some minor adjustments you can modify it for flat ground or even a cliff.\r\n\r\n<u>Information:</u>\r\n\r\n    * Has 4 rooms and 2 main floors, with a staircase/breakable floor connecting the two.\r\n\r\n    * The building is fully optimized (func_detailed/nodrawed), however I didn't add areaportals for consistency issues. It only took roughly a minute and a half (01:42) to compile it with full hdr/vvis as seen in the screenshots.\r\n\r\n    * Both roofs are accessible via the white shed at the front of the building (If you wish to limit this, use tools/playerclip accordingly)\r\n\r\n    * Cubemaps have been accurately placed but feel free to add/remove them as you feel fit.\r\n\r\n    * There are 2 breakable floors (one on the dock and one on the \"snipers nest\" on the second floor) which activate when a player runs over them. If you wish to remove/modify these, feel free (you can see them in Hammer as little orange trigger_multiple entities).\r\n\r\n    * There are \"debris\" physboxes all over the map. If you dislike them or want to make your map run smoother, simply delete them.\r\n\r\n    * See screens #3 and #4 for an example of the nice lighting effects which can be achieved.\r\n\r\n<b><u>INSTALLATION:</b></u>\r\nDrop the zipped .vmf and .vmx files into your source SDK folder for cstrike:\r\nC:\\Program Files\\Valve\\Steam\\SeamApps\\YOUR_ACCOUNT_NAME_HERE\\sourcesdk_content\\cstrike\\mapsrc\r\n"
+}

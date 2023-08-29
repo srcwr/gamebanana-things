@@ -1,0 +1,50 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "readme.txt",
+					"materials": {
+						"tg_hotprops": [
+							"silverbirch1.vmt",
+							"silverbirch1.vtf",
+							"silverbirch1_foliage.vmt",
+							"silverbirch1_foliage.vtf"
+						]
+					},
+					"models": {
+						"tg_hotprops": [
+							"lod20_silverbirch1.mdl",
+							"lod30_silverbirch1.mdl",
+							"lod40_silverbirch1.mdl",
+							"silverbirch1.dx80.vtx",
+							"silverbirch1.dx90.vtx",
+							"silverbirch1.mdl",
+							"silverbirch1.phy",
+							"silverbirch1.sw.vtx",
+							"silverbirch1.vvd",
+							"silverbirch1.xbox.vtx"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 47056,
+			"_nDownloadCount": 1672,
+			"_nFilesize": 243779,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/47056",
+			"_sFile": "silverbirch.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1225750740
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 1785,
+	"_sName": "Autumn Silver Birch Tree",
+	"_sText": "****This is a model, instructions are in the readme, and you need to add it as a PROP_STATIC entity.****\r\n\r\nThis prefab will run on any source ep1 game not just counter strike.  Any problems just contact me."
+}

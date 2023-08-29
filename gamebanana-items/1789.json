@@ -1,0 +1,126 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "FPSBANANA  Members  mrkit4423  Submissions  Prefabs.url",
+					"1": "readme.txt",
+					"cstrike": {
+						"0": "readme.txt",
+						"materials": {
+							"models": {
+								"models_kit": {
+									"0": "deskfan.vmt",
+									"1": "deskfan.vtf",
+									"2": "deskfan_skin2.vmt",
+									"3": "deskfan_skin2.vtf",
+									"4": "deskfan_skin3.vmt",
+									"5": "deskfan_skin3.vtf",
+									"6": "doll_turtle.vmt",
+									"7": "doll_turtle.vtf",
+									"National_flags": [
+										"Flag_of_Australia.vmt",
+										"Flag_of_Australia.vtf",
+										"Flag_of_Belgium.vmt",
+										"Flag_of_Belgium.vtf",
+										"Flag_of_Brazil.vmt",
+										"Flag_of_Brazil.vtf",
+										"Flag_of_Canada.vmt",
+										"Flag_of_Canada.vtf",
+										"Flag_of_China.vmt",
+										"Flag_of_China.vtf",
+										"Flag_of_France.vmt",
+										"Flag_of_France.vtf",
+										"Flag_of_Germany.vmt",
+										"Flag_of_Germany.vtf",
+										"Flag_of_Hong_Kong.vmt",
+										"Flag_of_Hong_Kong.vtf",
+										"Flag_of_India.vmt",
+										"Flag_of_India.vtf",
+										"Flag_of_Indonesia.vmt",
+										"Flag_of_Indonesia.vtf",
+										"Flag_of_Italy.vmt",
+										"Flag_of_Italy.vtf",
+										"Flag_of_Japan.vmt",
+										"Flag_of_Japan.vtf",
+										"Flag_of_Mexico.vmt",
+										"Flag_of_Mexico.vtf",
+										"Flag_of_Netherlands.vmt",
+										"Flag_of_Netherlands.vtf",
+										"Flag_of_Philippines.vmt",
+										"Flag_of_Philippines.vtf",
+										"Flag_of_Pirate.vmt",
+										"Flag_of_Pirate.vtf",
+										"Flag_of_Russia.vmt",
+										"Flag_of_Russia.vtf",
+										"Flag_of_South_Korea.vmt",
+										"Flag_of_South_Korea.vtf",
+										"Flag_of_Soviet_Union.vmt",
+										"Flag_of_Soviet_Union.vtf",
+										"Flag_of_Spain.vmt",
+										"Flag_of_Spain.vtf",
+										"Flag_of_Sweden.vmt",
+										"Flag_of_Sweden.vtf",
+										"Flag_of_Switzerland.vmt",
+										"Flag_of_Switzerland.vtf",
+										"Flag_of_Turkey.vmt",
+										"Flag_of_Turkey.vtf",
+										"Flag_of_UK.vmt",
+										"Flag_of_UK.vtf",
+										"Flag_of_US.vmt",
+										"Flag_of_US.vtf",
+										"flag_of_all_NORM.vtf",
+										"windy_flag_pole.vmt",
+										"windy_flag_pole.vtf",
+										"windy_flag_pole_NORM.vtf"
+									]
+								}
+							}
+						},
+						"models": {
+							"models_kit": [
+								"deskfan.dx80.vtx",
+								"deskfan.dx90.vtx",
+								"deskfan.mdl",
+								"deskfan.phy",
+								"deskfan.sw.vtx",
+								"deskfan.vvd",
+								"deskfan.xbox.vtx",
+								"doll_turtle.dx80.vtx",
+								"doll_turtle.dx90.vtx",
+								"doll_turtle.mdl",
+								"doll_turtle.sw.vtx",
+								"doll_turtle.vvd",
+								"doll_turtle.xbox.vtx",
+								"windy_flag.dx80.vtx",
+								"windy_flag.dx90.vtx",
+								"windy_flag.mdl",
+								"windy_flag.phy",
+								"windy_flag.sw.vtx",
+								"windy_flag.vvd",
+								"windy_flag.xbox.vtx"
+							]
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 47040,
+			"_nDownloadCount": 598,
+			"_nFilesize": 704273,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/47040",
+			"_sFile": "animated_pack1_2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1227069213
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 1789,
+	"_sName": "Animated turtle, flag, deskfan",
+	"_sText": "There are 3 models in the zip file, windy_flag, doll_turtle and deskfan. They are all animated.\r\n\r\nThe first model introduced here is a windy flag. There are 25 skins of the windy_flag.mdl, they are:\r\n\r\nskin 00. Flag_of_Pirate\r\nskin 01. Flag_of_Australia\r\nskin 02. Flag_of_Belgium\r\nskin 03. Flag_of_Brazil\r\nskin 04. Flag_of_Canada\r\nskin 05. Flag_of_China\r\nskin 06. Flag_of_France\r\nskin 07. Flag_of_Germany\r\nskin 08. Flag_of_Hong_Kong\r\nskin 09. Flag_of_India\r\nskin 10. Flag_of_Indonesia\r\nskin 11. Flag_of_Italy\r\nskin 12. Flag_of_Japan\r\nskin 13. Flag_of_Mexico\r\nskin 14. Flag_of_Netherlands\r\nskin 15. Flag_of_Philippines\r\nskin 16. Flag_of_Russia\r\nskin 17. Flag_of_South_Korea\r\nskin 18. Flag_of_Soviet_Union\r\nskin 19. Flag_of_Spain\r\nskin 20. Flag_of_Sweden\r\nskin 21. Flag_of_Switzerland\r\nskin 22. Flag_of_Turkey\r\nskin 23. Flag_of_UK\r\nskin 24. Flag_of_US\r\n\r\nIt also has 2 animation sequences, their names are:\r\nwindy1\r\nwindy2\r\n\r\nPolycount: 316\r\nLOD model: NO\r\nPhysbox: Yes, simple\r\n# of skins: 25\r\n# of animation sequences: 2\r\n\r\nTo use this model in your map, simply set the prop class to prop_dynamic in hammer. You will have to set the keyvalue of Default Animation to either \"windy1\" or \"windy2\", then it should be set to play(doing so will make the model play its animation but i have noticed that it has a short pause at its repeated playback point, anyone know how to fix it?).\r\n\r\n-------------------\r\nThe other model, doll_turtle.mdl, contain only 1 skin. It has 7 animation sequences, their names are:\r\n\r\ndeadidle, (no animation)\r\nidle\r\nwalk\r\nrun\r\nupsidedown\r\nsuspended\r\nflying\r\n\r\nPolycount: 454\r\nLOD model: NO\r\nPhysbox: NO\r\n# of skins: 1\r\n# of animation sequences: 7\r\n\r\nAs mentioned above, enter the correct name of the animation sequence into the correct field keyvalue.\r\nThis model looks the very similar as the one from valve, but this is NOT a decompiled work. It has been diesigned,  modelled, textured and animated from zero. Hence, you could say that this model is orignated by Valve and animated by me. :P\r\n\r\n-------------------\r\nLast model in the package is deskfan.mdl, contain 3 skins and 5 animation sequences. The following list the details:\r\n\r\nAnimation sequences names:\r\nrotateat0\r\noff (no animation)\r\nrotateat20\r\nrotateat40\r\nnorotate\r\n\r\nBrief Desciption of different skins:\r\nskin0 : white\r\nskin1 : silver/greys\r\nskin2 : rusty\r\n\r\nPolycount: 1904 (LOD @ 15: 876)\r\nLOD model: YES, only 1\r\nPhysbox: Yes, simple\r\n# of skins: 3\r\n# of animation sequences: 5\r\n\r\nNOTICE: Models doesnt have physbox cannot be assigned as prop_physics; animated models cannot be assigned as prop_static. If you have better ideas of how to setup these models(or its sequences), please inform me or post a reply below. thank you.\r\n\r\nAll information listed above is mostly very accurate, however, if you think they are wrong you can easily find out the right information in HLMV. In the Source SDK window , fire up Model Viewer(aka HLMV) and load the mdl file. It will show the most accurate information that you need to make the model works.\r\n\r\nImages shown here have been resized to fit the limited resolution, therefore they may not be maintained in the correct asapect ratio.\r\n\r\nNOV 18, 2008\r\n-------------------------\r\nSoftware used: PS CS3, Lightwave 9.5\r\n\r\nInstallation Instructions:\r\nStraight forward, simply extract the rar/zip file into cstrike folder, so that the paths:\r\nx:\\Program Files\\Steam\\steamapps\\USER\\counter-strike source\\cstrike\\models\\models_kit\r\nx:\\Program Files\\Steam\\steamapps\\USER\\counter-strike source\\cstrike\\materials\\models\\models_kit\r\nare both containing the files and valid directories\r\n\r\nPlease respect the right that i made these models. You are allowed to change the texture image, but my name \"Mr. Kit\" MUST be credited, either tagged onto texture image, written into a readme file or written as the map's credit. You are also welcome to distribute these models, also feel free to use them on your custom map. You are suposed to give me, Mr. Kit, credit while publlishing your map. Please contact me when you release your map to public, so that i can see how good/bad the models react ingame.\r\n\r\nTo see more of my models pack, please click on my name \"mrkit4423\" and click submission.\r\n\r\nPlease dont hesitate to email(or pm) me if you have any problems or spot any flaws.\r\nMy email address are kwbingo@yahoo.com.hk or kwbingojp@yahoo.co.jp\r\n\r\n\r\n"
+}

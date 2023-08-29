@@ -1,0 +1,45 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"pole": {
+						"cstrike": {
+							"models": {
+								"props": {
+									"moon": {
+										"mast": [
+											"strom_mast.dx80.vtx",
+											"strom_mast.dx90.vtx",
+											"strom_mast.mdl",
+											"strom_mast.phy",
+											"strom_mast.sw.vtx",
+											"strom_mast.vvd"
+										]
+									}
+								}
+							}
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 47137,
+			"_nDownloadCount": 542,
+			"_nFilesize": 13063,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/47137",
+			"_sFile": "pole.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1220565218
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 1761,
+	"_sName": "Telephone Pole",
+	"_sText": "Good alternate to the existing HL2 telephone pole\r\nthis one is less of all the crap hanging arround it\r\n\r\nplus really small size (in KB)\r\n(only 39,1 KB uncompressed, used HL2 textur)\r\n\r\nit can be used in custom maps\r\ncompiled as a prop_static with phymodel"
+}

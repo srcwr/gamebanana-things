@@ -1,0 +1,37 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"door addedconstruction.vmf": [
+						"cornerwall.vmf",
+						"samplerealfloorwallandcorned.vmf",
+						"wall1.vmf",
+						"wcornernofloorroof.vmf",
+						"wcornerroof.vmf",
+						"wdoorreal.vmf",
+						"wfloor1.vmf",
+						"wrealwindow.vmf"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 47149,
+			"_nDownloadCount": 232,
+			"_nFilesize": 28945,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/47149",
+			"_sFile": "door_addedconstructionvmf.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1219813902
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2337,
+	"_sName": "Authentic Construction",
+	"_sText": "I made these prefabs because I wanted a more realistic feel to CSS.  If you shoot a wall the bullets will go through.  If you shoot a wall enough it will break exposing the studs inside the wall, and the otherside of the wall.  This prefab makes all these ideas a reality.  I made small single tiles because I did not want the entire wall to be destroyed by shooting one spot.  Instead there are small section which all can be destroyed.  I also added a functional framed window, and door.  So you can now shoot out more than just the window or door.  I plan on using these on all my maps.  The only problem I forsee is people adjusting the width of the prefabs which will destort the size of the 2x4's.  Height can be adjusted no problem though.  The floor section should only be used on 2nd floor rooms though.  ground floor rooms do not have the same structure as this prefab.  I will be working on a new prefab for that tommorow.\r\n\r\nLEt me know if any of the entities dont work for you.  This is my first prefab so there are bound to be mistakes\r\n\r\nThanks.\r\n\r\n-Danile666"
+}

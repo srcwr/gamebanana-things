@@ -1,0 +1,57 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"ostanowka": {
+						"0": "ostanowka.vmf",
+						"cstrike": {
+							"maps": [
+								"ostanowka.bsp"
+							],
+							"materials": {
+								"rge_s": [
+									"der_wo4.vmt",
+									"der_wo4.vtf",
+									"steklo2.vmt",
+									"steklo2_dudv.vtf",
+									"steklo2_normal.vtf",
+									"zink_cv.vmt",
+									"zink_cv.vtf"
+								]
+							},
+							"models": {
+								"ostanowka": [
+									"ostanowka.dx80.vtx",
+									"ostanowka.dx90.vtx",
+									"ostanowka.mdl",
+									"ostanowka.phy",
+									"ostanowka.sw.vtx",
+									"ostanowka.vvd"
+								]
+							}
+						}
+					}
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 46928,
+			"_nDownloadCount": 583,
+			"_nFilesize": 612245,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/46928",
+			"_sFile": "ostanowka.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1235408265
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2378,
+	"_sName": "Bus - Station: SOURCE",
+	"_sText": "<font size=\"3\">This is a VERY OLD model created by my father.He made the model and the zink texture.I only created the glass and compiled it for css.\r\nYou can use it.</font>\r\n\r\n\r\nBackground map :\r\n\r\n<a href=\"http://www.fpsbanana.com/maps/43775\"><img src=\"http://img4.fpsbanana.com/ss/maps/thm_92748.jpg\"></a>\r\n\r\n"
+}

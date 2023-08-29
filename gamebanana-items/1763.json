@@ -1,0 +1,36 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"solarpanel": {
+						"custom": [
+							"solarpanel.vmt",
+							"solarpanel.vtf"
+						],
+						"prefabs": [
+							"solarpanel.vmf"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 47132,
+			"_nDownloadCount": 324,
+			"_nFilesize": 4975,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/47132",
+			"_sFile": "solarpanel.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1220817695
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 1763,
+	"_sName": "Solar Panel",
+	"_sText": "A slor panel with custom texture.  Extract the prefab forlder to you prefab folder location. Mine is located at:\r\nusername/sourcesdk/bin/ep1/bin/prefabs\r\n\r\nExtract the custom folder to your materials folder."
+}

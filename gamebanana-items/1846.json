@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"hammer_mpbhops.bsp",
+					"hammer_mpbhops.vmf"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 46807,
+			"_nDownloadCount": 2408,
+			"_nFilesize": 232426,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/46807",
+			"_sFile": "hammer_mpbhops.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1244077159
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 1846,
+	"_sName": "Multiplayer bunnyhops",
+	"_sText": "This is different than the SM plugin \"Multiplayer Bunnyhops: Source\" by DaFox & petsku, but gives the same functionality as the plugin using only Hammer.\r\n\r\nThis technique came from Millet of KZmod, if you're interested: <a href=\"http://kzmod.com/e107_plugins/forum/forum_viewtopic.php?8773\">Link</a>\r\n\r\nThis prefab demonstrates how to create multiplayer bunnyhops in Hammer.  Falling into the water or standing on the platforms for more than an instant will result in the player being teleported back.\r\n\r\nHow it works:  A trigger_multiple rests over the trigger_teleport, which is placed barely over the bhop platforms.  The trigger_multiple controls who gets teleported using the filter_activator_name.  The trigger_teleports then use this filter to only teleport desired players.  Note that the triggers can be placed exactly on top of each other and will perform pretty much the same.  Also, if both triggers are 1 unit thin, it is possible to fall through them, so make sure to extend both triggers further down if needed.\r\n\r\nThis is beneficial in a few ways:\r\n- All players can go at once without waiting for turns\r\n- Two triggers are all that is needed per section, so fewer entities are used (func_doors can be made func_detail)\r\n- The server sends less data to players\r\n- No vertical velocity is lost due to doors moving down\r\n\r\nCons:\r\n- Players can repeatedly jump on the same block\r\n"
+}

@@ -1,0 +1,30 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"prefab_fusioncore.bsp",
+					"prefab_fusioncore.vmf",
+					"render.jpg"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 46901,
+			"_nDownloadCount": 440,
+			"_nFilesize": 309781,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/46901",
+			"_sFile": "prefab_fusioncore.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1236973303
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2995,
+	"_sName": "Fusion Core (halo)",
+	"_sText": "<hr /><b>Details:</b><br />\r\nWell, i finally got time to fix the bugs in these prefabs lol. they are basically just exploding barrels wrapped in a brush-based shell, made to resemble the fusion cores found in Halo 2. They are not static, they can me knocked over and rolled around. They catch fire and explode just like a HL2 barrel. The metal area on the cores is relatively bullet proof, so to blow them up aim for the center area with the white lighting.\r\n\r\n<b>Notes:</b>\r\n If you want to use more than the number of barrels that are included you need to make sure you use the <b>paste special</b> option and check the box to make all the names unique. Failure to do this will result in missing cores and general mayhem :3\r\n\r\nAlso, sometimes these props dont like to be pasted. If you get a message saying X number of brushes not loaded due to errors in the file, delete and re-add the fusion cores. hope no one will get this error, but its the reason it took so long to release the prefab lol.\r\n\r\nGive credit where credit it due, please add <b>Burnfingers</b> in the Authors &gt; Contributors section.\r\n\r\n<br />Please visit <a href=\"http://www.gamebanana.com/studios/2377\">Clan 5k3's studio</a> for more Halo prefabs and materials."
+}

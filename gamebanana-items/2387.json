@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"prefab_simplelogcabins.bsp",
+					"prefab_simplelogcabins.vmf"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 46841,
+			"_nDownloadCount": 439,
+			"_nFilesize": 493041,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/46841",
+			"_sFile": "prefab_simplelogcabins_2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1241791181
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2387,
+	"_sName": "Log Cabins",
+	"_sText": "These are two simple log cabins I have created in response to <a href=\"http://www.fpsbanana.com/threads/150961\">this customisation request</a> by Fishey Guy. They have been created for a CS:S map but would likely work in any Source game. There is also a .bsp file included so you can preview the cabins in-game before using them.\r\n\r\nThere is a small and a large cabin. The small cabin is large enough to hold two or three people comfortably, the large cabin is much more open and can probably hold up to around 16 people. The large cabin is intended to be used as a spawn area by the requestee, but feel free to use it however you wish in your map.\r\n\r\nThey're textured and optimised appropriately, have working doors and breakable windows. I have also added some props and decorations to complete the look, but haven't spent too long on them.\r\n\r\nTo use the prefab, open the .vmf file in Hammer Editor and copy across all of the parts you require. I couldn't group them in one large group due to the different entities used within them, but dragging a selection box around the cabin and de-selecting the skybox brushes should do the job.\r\n\r\nFeel free to use and/or modify them. Credit is not mandatory but is appreciated if used in part or in whole. I would like to hear from you if you find them useful.\r\n\r\nLet me know if you encounter any problems using them, or would like an addition made to the existing ones."
+}

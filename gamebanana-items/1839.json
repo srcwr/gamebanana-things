@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"prefab_5050spawn.vmf"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 46855,
+			"_nDownloadCount": 242,
+			"_nFilesize": 7071,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/46855",
+			"_sFile": "prefab_5050spawn_3.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1239399418
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 1839,
+	"_sName": "50-50 Spawn Areas",
+	"_sText": "The idea of this prefab is to provide you with the essential elements necessary for creating random spawn areas, ie. there is a 50/50 chance that:\r\n\r\n- T will spawn in area A, CT will spawn in area B, or\r\n- CT will spawn in area A, T will spawn in area B\r\n\r\nTo use this, open the .vmf in Hammer Editor and copy/paste the necessary parts into your map. Parts necessary for any use are:\r\n\r\n- the small black area containing all the info_player spawns and trigger_teleport entities\r\n- the logic_auto entity (if your map already contains one, copy/paste the output from my logic_auto into yours)\r\n- the logic_case entity\r\n\r\nOther parts you will need are:\r\n\r\n- an info_player_counterterrorist\r\n- an info_player_terrorist\r\n- the four trigger_teleports at their feet (two at each)\r\n- the two info_target entities beneath each spawn in the 'real' map\r\n\r\nThis is a total of eight entities per two max players, so a 20-man map would require 10 sets of 8 entities from this step.\r\n\r\nIf you use less spawn points than I have included, delete the extra entries from the logic_case output tab (they will likely be marked red). If you wish to add more spawn points than I have used, I would recommend using Paste Special to create the extra points - select the last set of 'other parts' as described earlier (set 13 I think), copy them, then goto Edit > Paste Special. On it's settings, change the 'number of copies' at the top to however many more sets you want, set X offset (the left column) to 48, and tick 'make entity names unique' at the bottom. This should create set 14, 15, etc and link them all together automatically. Be sure to extend/shrink the black spawn room to ensure all spawn points are within that box (else you will generate a leak). You will also need to add the new set into the logic_case outputs - each set uses four outputs, sort the output tabs by name to make it easier to recognise a set, then copy/paste a new set of outputs following that pattern.\r\n\r\nWhen copying the info_targets into your map, move them into their relevant areas (all the 'a' targets to area A, all the 'b' targets to area B) and be sure to raise them from the ground and leave enough room around them else there is a chance players will spawn in the ground or block each other.\r\n\r\nIf there is anything wrong with this prefab, or you need more specific usage instructions, either post here, on my profile, or send me a PM and I'll get back to you when I can."
+}

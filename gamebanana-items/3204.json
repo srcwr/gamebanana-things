@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"11Doors.vmf",
+					"ReadMe.txt"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 47120,
+			"_nDownloadCount": 324,
+			"_nFilesize": 115462,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/47120",
+			"_sFile": "breakable_doors.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1221704423
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 3204,
+	"_sName": "Breakable Doors",
+	"_sText": "I wanted to make some breakable doors for ZPS, but it also works for CSS too. I suggest turning down the health of the doors if you plan on using this for CSS.\r\n\r\nInstallation: To place into your map, delete all the walls in this prefab, they should already be grouped together. \r\nThen, delete the doors that you dont want in your map. Then when you have the door you want, select it and copy.\r\nOR\r\nSimply select the door you want and copy.\r\n\r\n\r\nType Of Doors\r\n\r\n----------KEY----------------\r\nBH= Breakable Hinges\r\nBD= Breakable Door\r\nBLM= Breakable Lock Mechanism\r\nL= Lockable\r\nPOD=Push Openable Door\r\n-----------------------------\r\n\r\nDoor 1\r\nBH\r\nBLM\r\nBD\r\nL\r\n\r\nDoor 2\r\nBLM\r\nBD\r\nL\r\n\r\nDoor 3\r\nBD\r\nL\r\n\r\nDoor 4\r\nBD\r\n\r\nDoor 5\r\nBH\r\n\r\nDoor 6\r\nBH\r\nL\r\n\r\nDoor 7\r\nL\r\n\r\nDoor 8\r\nBLM\r\nL\r\n\r\nDoor 9\r\nBH\r\nBD\r\nL\r\n\r\nDoor 10\r\nL\r\nBH\r\nBLM\r\n\r\nDoor 11-NOTE: Only can open door through the knob and door is a bit glitchy.\r\nBLM\r\nL\r\nPOD\r\n\r\n<object width=\"425\" height=\"344\"><param name=\"movie\" value=\"http://www.youtube.com/v/Ajs0NiHkppY&hl=en&fs=1\"></param><param name=\"allowFullScreen\" value=\"true\"></param><embed src=\"http://www.youtube.com/v/Ajs0NiHkppY&hl=en&fs=1\" type=\"application/x-shockwave-flash\" allowfullscreen=\"true\" width=\"425\" height=\"344\"></embed></object>"
+}

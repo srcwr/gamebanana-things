@@ -1,0 +1,172 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"prefab_shooting_range": {
+						"0": "credits.txt",
+						"1": "pic1.bmp",
+						"10": "pic5.jpg",
+						"2": "pic1.jpg",
+						"3": "pic2.bmp",
+						"4": "pic2.jpg",
+						"5": "pic3.bmp",
+						"6": "pic3.jpg",
+						"7": "pic4.bmp",
+						"8": "pic4.jpg",
+						"9": "pic5.bmp",
+						"prefab_shooting_range": [
+							"prefab_shooting_range.vmf",
+							"prefab_shooting_range.vmx"
+						],
+						"texture_targets": {
+							"cstrike": {
+								"materials": {
+									"ba_jail_jamaica": [
+										"target_circle_1.vmt",
+										"target_circle_1.vtf",
+										"target_circle_2.vmt",
+										"target_circle_2.vtf",
+										"target_man_1.vmt",
+										"target_man_1.vtf"
+									]
+								}
+							}
+						},
+						"texture_walls": {
+							"cstrike": {
+								"materials": {
+									"uptown": {
+										"0": "ad1.vmt",
+										"1": "ad1.vtf",
+										"10": "brickwall.vmt",
+										"11": "brickwall.vtf",
+										"12": "brickwall003f.vmt",
+										"13": "brickwall003f.vtf",
+										"14": "cabaretsky.vmt",
+										"15": "cabaretsky.vtf",
+										"16": "carpet1.vmt",
+										"17": "carpet1.vtf",
+										"18": "carpet2.vmt",
+										"19": "carpet2.vtf",
+										"2": "ad2.vmt",
+										"20": "carpet2_step.vmt",
+										"21": "carpet2_step.vtf",
+										"22": "carpet2_step2.vmt",
+										"23": "carpet2_step2.vtf",
+										"24": "concretefloor030b.vmt",
+										"25": "concretefloor030b.vtf",
+										"26": "desk_basement.vmt",
+										"27": "desk_basement.vtf",
+										"28": "entry.vmt",
+										"29": "entry.vtf",
+										"3": "ad2.vtf",
+										"30": "floortile.vmt",
+										"31": "floortile.vtf",
+										"32": "greenwall.vmt",
+										"33": "greenwall.vtf",
+										"34": "neon01.vmt",
+										"35": "neon01.vtf",
+										"36": "neon02.vmt",
+										"37": "neon02.vtf",
+										"38": "outsidewall.vmt",
+										"39": "outsidewall.vtf",
+										"4": "ad3.vmt",
+										"40": "outsidewall_trim.vmt",
+										"41": "outsidewall_trim.vtf",
+										"42": "plane.vmt",
+										"43": "plane.vtf",
+										"44": "redtile.vmt",
+										"45": "redtile.vtf",
+										"46": "redwall.vmt",
+										"47": "redwall.vtf",
+										"48": "seatpadding.vmt",
+										"49": "seatpadding.vtf",
+										"5": "ad3.vtf",
+										"50": "sig_6.vmt",
+										"51": "sig_6.vtf",
+										"52": "stonefloor.vmt",
+										"53": "stonefloor.vtf",
+										"54": "stonetile.vmt",
+										"55": "stonetile.vtf",
+										"56": "swirlcolumn.vmt",
+										"57": "swirlcolumn.vtf",
+										"58": "tantile.vmt",
+										"59": "tantile.vtf",
+										"6": "bottles1.vmt",
+										"60": "woodtile.vmt",
+										"61": "woodtile.vtf",
+										"62": "woodtrim.vmt",
+										"63": "woodtrim.vtf",
+										"64": "yellowwall.vmt",
+										"65": "yellowwall.vtf",
+										"7": "bottles1.vtf",
+										"8": "bottles2.vmt",
+										"9": "bottles2.vtf",
+										"composite": [
+											"buildingset002a.vmt",
+											"buildingset002a.vtf",
+											"buildingset005a.vmt",
+											"buildingset005a.vtf",
+											"buildingset013a.vmt",
+											"buildingset013a.vtf",
+											"buildingset015a.vmt",
+											"buildingset015a.vtf",
+											"buildingset018a.vmt",
+											"buildingset018a.vtf",
+											"buildingset019a.vmt",
+											"buildingset019a.vtf",
+											"buildingset024a.vmt",
+											"buildingset024a.vtf",
+											"buildingset026a.vmt",
+											"buildingset026a.vtf",
+											"buildingset027a.vmt",
+											"buildingset027a.vtf",
+											"buildingset028a.vmt",
+											"buildingset028a.vtf",
+											"buildingset029a.vmt",
+											"buildingset029a.vtf",
+											"buildingset030a.vmt",
+											"buildingset030a.vtf",
+											"buildingset031a.vmt",
+											"buildingset031a.vtf",
+											"buildingset032a.vmt",
+											"buildingset032a.vtf",
+											"buildingset038a.vmt",
+											"buildingset038a.vtf",
+											"buildingset040a.vmt",
+											"buildingset040a.vtf",
+											"buildingset044a.vmt",
+											"buildingset044a.vtf",
+											"buildingset045a.vmt",
+											"buildingset045a.vtf",
+											"buildingset050a.vmt",
+											"buildingset050a.vtf"
+										]
+									}
+								}
+							}
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 46893,
+			"_nDownloadCount": 251,
+			"_nFilesize": 6398098,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/46893",
+			"_sFile": "prefab_shooting_range.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1237665420
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2383,
+	"_sName": "Shooting_Range",
+	"_sText": "Well, I made this little but heavy prefab.\r\nIt took more than an hour to create this therefore I want you not to say that you made this. If you do so, you do not have to give me any credits :P\r\n\r\nHace fun and look at the I/O's - It took the most time :)\r\n\r\nATTENTION: THERE ARE CUSTOM TEXTURES!\r\n\r\nIt includes a weapon-spawner for AWP, M4A1, AK47 and Deagle. The maximum amount of spawned weapons is 30. \r\nThere are 4 target. And you may increase the amount of targets by renaming entities and I/O's - I worked with numbers so you may just increase the number.\r\n\r\n"
+}

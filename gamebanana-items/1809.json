@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"Fans.vmf"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 46970,
+			"_nDownloadCount": 1125,
+			"_nFilesize": 122304,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/46970",
+			"_sFile": "fans_2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1231993654
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 1809,
+	"_sName": "Fibbs' Fan Pack",
+	"_sText": "Well, I got tired of seeing those stupid plus sign fans (+), mostly in deathrun, where the blades were just blocks. As in non-slanted blocks. These wouldn't actually blow the air at you like a normal fan, they'd just...spin and do nothing. Since I kept bitching about it my friend told me to make a prefab, so I have done.\r\n\r\nThis pack includes a nice set of rounded fans, with ANGLED BLADES. There are 3 small ones and 2 big ones. The big one on the left has a cooling fan look. The frame is curved inwards and there are 3 big, chunky blades. The other big fan is the typical deathrun fan but much better. The edges of the frame are curved and it curves inwards. The fan blades are a nice shape and are also angled, like every set of blades in this prefab since that was the whole thing that started me off on this.\r\nThe small fans, from left to right, are:\r\nYour typical deathrun fan but scaled down with curved blades which are also angled.\r\nA vent-fan looking fan, the kind of fan you'd find in those big metal vents in buildings. These are very curvy.\r\nMore of a case cooling fan, with the bars going across the front. Again, nicely rounded and curvy blades.\r\nThey are textured quite well, if I do say so myself :D, but you can change the textures yourself, of course. Since there are tons and tons of faces on these, it may be easier to use the replace feature of the texture application tool to apply the textures, but this will only replace the current textures, you won't get a different pattern.\r\n\r\nTo \"install\" simply extract the .vmf to anywhere you can find or remember it. Open Hammer, go to File>Open and browse to where you extracted the .vmf then select and open it. After that, open up the map you want them in and just copy&paste them over.\r\n\r\nThey are already configured to rotate and the frames are func_detailed for optimization. The current rotation speed is 360 degrees per second. There is a sound which you may want to replace.\r\n\r\nNOTE: If you plan on rotating these please keep in mind you MUST change the settings of the func_rotating(the blades). Currently they have the \"x axis\" flag ticked, but if you rotate them so they are facing upwards, just untick the x axis flag. If you rotate them so they are facing you in the Front viewport then use the y axis flag.\r\n\r\nIf used please credit me in some way, be it in the readme, credits or in a custom texture in the map.\r\n\r\nNote: I didn't bother checking if the fans rotate the way the blades are angled so you may have to check that if you notice small things like that.\r\n\r\nUpdate: Uploaded the ceiling fan version for Harley."
+}
