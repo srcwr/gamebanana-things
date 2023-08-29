@@ -26,27 +26,51 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": {
-					"de_city2.0beta": [
+					"de_city20": [
 						"de_city.bsp",
 						"de_city.nav"
 					]
 				}
 			},
 			"_bContainsExe": false,
-			"_idRow": 1037982,
-			"_nDownloadCount": 4,
-			"_nFilesize": 80034,
+			"_idRow": 1045594,
+			"_nDownloadCount": 1,
+			"_nFilesize": 80224,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
-			"_sDescription": "2.0beta",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1037982",
-			"_sFile": "de_city20beta.rar",
-			"_sMd5Checksum": "d8773a0077c9949b895753e319a1b741",
-			"_tsDateAdded": 1692168886
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1045594",
+			"_sFile": "de_city20.rar",
+			"_sMd5Checksum": "cbbc6a7d5708de679b8644dc2a1af3cb",
+			"_tsDateAdded": 1693228233
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Adjustment",
+					"text": "1-Made the Walls in Bombsite A break on Bomb explosion"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "2-Solved the Fire issue in Both bombsites now the fire explosion is Visible Again"
+				},
+				{
+					"cat": "Addition",
+					"text": "3-Added a Door in the CT's Hallway to Bombsite A"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "4-The door in Terroist's Hallway to Bombsite A starts Closed now"
+				}
+			],
+			"_sText": "<p>This update took long eh?<br>it is not that Exciting tbh</p>",
+			"_sTitle": "de_city",
+			"_sVersion": "2.0 Complete",
+			"_tsDateAdded": 1693228837
+		},
 		{
 			"_aChangeLog": [
 				{
@@ -74,38 +98,6 @@
 			"_sTitle": "de_city",
 			"_sVersion": "2.0 Beta",
 			"_tsDateAdded": 1692169363
-		},
-		{
-			"_aChangeLog": [
-				{
-					"cat": "",
-					"text": "This update solved somethings and added some other things all the Additions and Improvements will be mentioned"
-				},
-				{
-					"cat": "Addition",
-					"text": "1-A Siren sound will play if the bomb explodes and the sound will come from Bombsite B"
-				},
-				{
-					"cat": "Addition",
-					"text": "2-Added a long way for the Terroist to enter bombsite B"
-				},
-				{
-					"cat": "Optimization",
-					"text": "3-Improved optimization"
-				},
-				{
-					"cat": "Adjustment",
-					"text": "4-Changed the Dustcloud Color for both bombsites to this Code\"158 149 0\""
-				},
-				{
-					"cat": "Adjustment",
-					"text": "5-Moved the Nuclear waste boxes on Bombsite A for the terroist to not plant the bomb in a hard position to Find"
-				}
-			],
-			"_sText": "",
-			"_sTitle": "de_city",
-			"_sVersion": "1.5 Complete",
-			"_tsDateAdded": 1691445666
 		}
 	],
 	"_idRow": 459634,
