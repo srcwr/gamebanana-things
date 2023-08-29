@@ -16,7 +16,7 @@ def rchop(s, suffix):
         return s[:-len(suffix)]
     return s
 
-def main(d, callback):
+def main(d, callback, fuck_you_callback):
     filesizesum = 0
     links = []
     repo = Repo(d)
@@ -51,7 +51,12 @@ def main(d, callback):
             continue
         """
         print(f"\ndownloading {x[2]} to {filename}")
-        req = urllib.request.urlopen(x[0])
+        try:
+            req = urllib.request.urlopen(x[0])
+        except urllib2.HTTPError, e:
+            if e.code == 404:
+                # fuck it....
+                fuck_you_callback("404 on "+x[0])
         with open(filename, 'wb') as out:
             shutil.copyfileobj(req, out)
         #subprocess.check_call(("curl.exe", "--location", "-o", filename, x[0]), shell=True, stdout=sys.stdout, stderr=subprocess.STDOUT)
