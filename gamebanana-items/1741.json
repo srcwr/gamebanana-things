@@ -1,0 +1,32 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"kick_ass_teleporter_prefab.bsp",
+					"kick_ass_teleporter_prefab.log",
+					"kick_ass_teleporter_prefab.prt",
+					"kick_ass_teleporter_prefab.vmf",
+					"kick_ass_teleporter_prefab.vmx"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 47229,
+			"_nDownloadCount": 620,
+			"_nFilesize": 970752,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/47229",
+			"_sFile": "kick_ass_teleporter_prefabs_by_sca.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1215980423
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 1741,
+	"_sName": "Kick Ass Teleporter Prefabs",
+	"_sText": "I made these teleporters because it seemed like there was a lot of people who didn't know how to make teleporter. I know it sounds weird because it's so easy, but i've had so many people ask me \"how do you make a teleporter?\". And I can't explain something if my life depended on it, so to make it easier for all those people who don't know how to make teleporters, I have here, 16 teleporters. there's 4 of each type, although the last ones (what I call the devil teleporters), have 4 of the same looking teleporters. You can change the color of the lasers by selecting them all, pressing Alt+enter and going to \"Beam Color\" then you can change the color, click \"apply\" then the lasers will have a different color when compiled.\r\n\r\nI made 4 of each teleporter, tested them all out myself to make sure they would work. I tested each individually to make sure that you could get in them from all angles, and they all worked fine.\r\n\r\nThe teleport destination by the teleporter is the destination that teleporter will teleport to. You will have to change the location of the teleport destination to an area that you choose to make sure that the person gets teleported to that destination. Most of the teleporters are grouped together, except the ones with the upside down star, for some reason when they get grouped together, the last laser completing the actual star doesn't show up. So when you compile your map, make sure they aren't grouped together. All the others can be grouped, just not those ones.\r\n\r\nIf you have any problems using the prefabs, please tell me. Also PLEASE GIVE ME CREDIT if you use my teleporters in your map. even if you change the texture of the teleporters, I still made the originally and want the credit for doing so."
+}

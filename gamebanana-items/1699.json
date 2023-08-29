@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"RandomTeleportCSS.vmf",
+					"randomteleportcss.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 47498,
+			"_nDownloadCount": 424,
+			"_nFilesize": 33559,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/47498",
+			"_sFile": "randomteleportscss.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1201328854
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 1699,
+	"_sName": "Random Teleports",
+	"_sText": "This is a simple Random Teleporting prefab.\r\n\r\nWorks for CS:S and HL2:DM\r\n\r\nOnce you go through the teleport trigger, there will be 3 different possible exit points, if one is blocked (by a player, npc, or prop), a red light appears above it, and will port you to another one randomly.\r\n\r\nI added a few barrels so players can test blocking certain teleports, if they wanted to test this prefab alone.\r\n\r\nAlso very good if you have 3 players jump into a teleport at the exact same time, and don't want them all to get stuck in 1 destination.\r\n\r\nThis is an old old prefab, but i figured i might as well upload it since i havent uploaded anything in awhile.\r\n\r\nEnjoy\r\n\r\n\r\nEDIT*** I forgot, the screenshot posted does not show CT and T spawn points, i added them after the shot.\r\n\r\nPlus this includes a bsp as well as vmf. so u may test for either HL2DM or CSS ;)"
+}

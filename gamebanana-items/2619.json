@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"X-Wing.vmf"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 47380,
+			"_nDownloadCount": 1222,
+			"_nFilesize": 49831,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/47380",
+			"_sFile": "x-wing.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1206687431
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2619,
+	"_sName": "X-Wing",
+	"_sText": "<font color=\"#6666FF\">This is my X-Wing prefab.  You can find a 100% working example of the ship in <a href=\"http://www.fpsbanana.com/maps/50204\">ze_space_station</a> but it has some minor differences.  This one has the blue noob control panel removed and is a little stronger.\r\n\r\nIt only fits one passenger well.  Others can fall out easily.  To keep from falling out just hold down crouch while in the X-Wing.  The little box in the prefab is needed for the lasers to work.  Just put it somewhere in the map where no1 will see it.\r\n\r\nHere's a video of it in game:</font>\r\n\r\n\r\n\r\n<embed type=\"application/x-mplayer2\" src=\"http://www.Aura-Forums.com/cstrike/Station2.wmv\" name=\"MediaPlayer\" width=\"360\" height=\"280\" autoplay=\"0\" autostart=\"0\" />\r\n\r\n<font color=\"#6666FF\">*EDIT*\r\n\r\nFigured I'd put a little here about the controls...\r\n\r\n\r\nMiddle black rectangle button closes the windshield.  Bottom middle square with red dot turns on the power.  This will set the X-Wing to hover.  Big Red and Blue button will activate controls.  Bottom left, once you have control, will open the S-Foils and let you fire.  Left mouse is move forwards, right is fire lasers.  Bottom right button will freeze the ship in mid-air.  The top three buttons just increase the neutral lift so if you have a passenger it will accommodate their weight.  They aren't used for anything else.  Just leave them off if you're the only pilot.\r\n\r\nNote:\r\n\r\nTo use the X-Wing you must have on the server:\r\nsv_turbophysics 0\r\n\r\nMost servers default to 0 but Zombie Mod has it at 1.  Put a point_servercommand in the map that sets sv_turbophysics 0 if your map will be played on a  zombie server.</font>"
+}

@@ -1,0 +1,30 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"test_randomweaponspawner.bsp",
+					"test_randomweaponspawner.vmf"
+				],
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 47377,
+			"_nDownloadCount": 813,
+			"_nFilesize": 20134,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/47377",
+			"_sFile": "382_mapsrc_2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1206749739
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2972,
+	"_sName": "Random Weapon Spawner",
+	"_sText": "Random Weapon Spawner - By THEnub\r\n\r\nVery easy to use random weapon spawner. Currently set up to spawn 4 different weapons. A <b>Scout, an m4a1, an ak47, and a deagle. </b>\r\n\r\n<div><b>To edit existing weapons:</b>\r\n\r\nChange the weapon entity (weapon_<weapontype>) to whatever weapon you wish. You can keep the same name as the weapon you've changed, to avoid another step. \r\n</div>\r\n<div>\r\n<b>To Add another weapon:</b>\r\n\r\nCreate the new weapon_[weapontype], and change it's name too whatever you like (we'll call it [gun] for now)\r\n\r\nCreate a new point_template entity (I advise Copy paste/Shitf+D instead of making a new one).  \r\n(Re)Name it template_[gun]template, replacing [gun] with whatever your weapons name is (ex: for the deagle its template_deagletemplate)\r\n\r\n\r\nThen, select the logic_case entity. Go to \"Case 05\" and in the parameter box, set it to the name of your newly created template_[gun]template.\r\n\r\nFinally, go to the logic_case's Outputs and click Add:\r\n<center>\r\n<TABLE>\r\n<TR> <TD>My Output Named -></TD>      <TD>   OnCase05</TD> </TR>\r\n<TR> <TD>Target Entities Named -></TD>     <TD>template_[gun]template</TD> </TR>\r\n<TR> <TD>Via This Input -></TD>      <TD>ForceSpawn</TD> </TR>\r\n</TABLE>\r\n</center>\r\n \r\nAnd now you're done!\r\n</div>\r\n\r\nHave fun with it!\r\n\r\nAll I ask, Is that you give me credit in your map for this (even if its just in a readme that the server owner downloads with the map) \r\n\r\nIf you find any bugs or gitches or if you have any problems with it, simply PM me, and I'll see what I can do. "
+}

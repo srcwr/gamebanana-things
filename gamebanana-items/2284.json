@@ -1,0 +1,39 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"house_prefab": {
+						"0": "house1.JPG",
+						"1": "house2.JPG",
+						"2": "house3.JPG",
+						"sourcesdk_content": {
+							"cstrike": {
+								"mapscr": [
+									"house_prefab.vmf"
+								]
+							}
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 47367,
+			"_nDownloadCount": 210,
+			"_nFilesize": 228316,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/47367",
+			"_sFile": "house_prefab_3.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1207417227
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2284,
+	"_sName": "Rook's House Prefab",
+	"_sText": "Put vmf to youre sourcesdk_content/cstrike/mapscr"
+}

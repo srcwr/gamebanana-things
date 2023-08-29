@@ -1,0 +1,49 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "donutbox credits.txt",
+					"cstrike": {
+						"materials": {
+							"models": {
+								"donutbox": [
+									"donutbox.vmt",
+									"donutbox.vtf"
+								]
+							}
+						},
+						"models": {
+							"donutbox": [
+								"donutbox.dx80.vtx",
+								"donutbox.dx90.vtx",
+								"donutbox.mdl",
+								"donutbox.phy",
+								"donutbox.sw.vtx",
+								"donutbox.vvd",
+								"donutbox.xbox.vtx"
+							]
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 47348,
+			"_nDownloadCount": 360,
+			"_nFilesize": 170565,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/47348",
+			"_sFile": "donutbox_2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1208630129
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 1718,
+	"_sName": "Donut Box",
+	"_sText": "This release is signed GabrielPapaK.\r\n\r\nModeler\r\nCompiler   : Gabriel Papa K\r\nTextures\r\n\r\nThis is a simple donutbox... This is a custom model + skin.\r\nNot the greatest graphics, but oh well...\r\nIf you want you can change the looks.\r\nBut give me credit for any work.\r\n\r\nVery easy to use in a map. Just extract cstrike, into your counter-strike source folder.\r\nAnd use hammer.\r\nHope you enjoy!"
+}

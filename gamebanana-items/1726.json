@@ -1,0 +1,42 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"zalosCTFpack_v2": {
+						"0": "README.txt",
+						"1": "zalosCTFpack_v2.vmf",
+						"2": "zalosctfpack.bsp",
+						"icecreamlock": [
+							"colordblue.vmt",
+							"colordblue.vtf",
+							"colordred.vmt",
+							"colordred.vtf",
+							"dzblue.vmt",
+							"dzblue.vtf",
+							"dzred.vmt",
+							"dzred.vtf"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 47311,
+			"_nDownloadCount": 732,
+			"_nFilesize": 127752,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/47311",
+			"_sFile": "zalosctfpack_v2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1211243615
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 1726,
+	"_sName": "Zalos' CTF map pack",
+	"_sText": "Zalos' CTF map pack!\r\n\r\nby ZaLoS \r\n\r\n(http://www.fpsbanana.com/members/88918)\r\n\r\n\r\nIncluded is all you need to get started on your very own capture the flag map. \r\n\r\nIncluded:\r\n\r\nCT flag (grouped)\r\nT flag (grouped)\r\nZone triggers for flag capture (Each grouped for the team)\r\nLogic for keeping score and sounds (grouped)\r\nCustom Textures by IceCreamLock and ZaLoS\r\n\r\nNot included:\r\nScoreboard\r\nMeans to stop players from picking up their own flag.\r\n\r\nI thought making a scoreboard would be pointless because more than likely it will be not be used. As in \r\n\r\nyoull prolly want to use a custom scoreboard that fits your map.\r\nStoping players from picking up their own flag can be done several ways. I did it by placeing a teleport \r\naround the flags that only teleports that team. Very simple to do if you use a filter. (Team filters are \r\nincluded)\r\n\r\n\r\nHow it works:\r\n\r\nTo pick up a flag you must drop your pistol and pick up the pistol the flag is attached to. Then carry the \r\n\r\nflag to the drop zone for your team and drop your pistol, this will trigger the capture. This pack also \r\n\r\ndisables flag capture if your teams flag has been taken. \r\n\r\n\r\nYou may use this as long as you remember to put me in the credits/authors for you map! \r\n\r\nInstallation:\r\n\r\nBEFORE YOU OPEN THE VMF. Move the icecreamlock folder to your materials directory located under cstrike/materials. After that everything else should fall into place. \r\n\r\n\r\nUPDATE!\r\n\r\nV2:\r\n\r\nIve optimized the logic a little bit. The flag should reset a lot better now when someone drops it or someone walks over the flag but doesnt pick it up.\r\n\r\n\r\n\r\n\r\nCredits:\r\nThanks to IceCreamLock for the red and blue textures!"
+}

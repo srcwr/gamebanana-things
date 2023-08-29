@@ -1,0 +1,53 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"billbord": {
+						"0": "BB.jpg",
+						"1": "BB2.jpg",
+						"2": "FPSB.jpg",
+						"3": "jonny.jpg",
+						"4": "prefab_billbord3.vmf",
+						"5": "screen.jpg",
+						"6": "template.jpg",
+						"cstrike": {
+							"maps": [
+								"prefab_billbord3.bsp"
+							],
+							"materials": {
+								"billboard": [
+									"Add1.vmt",
+									"Add1.vtf",
+									"Add2.vmt",
+									"Add2.vtf",
+									"Add4.vmt",
+									"Add4.vtf",
+									"Add5.vmt",
+									"Add5.vtf"
+								]
+							}
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 47418,
+			"_nDownloadCount": 638,
+			"_nFilesize": 286348,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/47418",
+			"_sFile": "billbord_2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1205272080
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 1706,
+	"_sName": "Jonnys rotatingBillbord prefab",
+	"_sText": "A rotating changing Billboard (i think thats how Americans say it)\r\n\r\nAnyway it can display up to 4 different logo's / adverts whatever you want to call them.\r\n\r\nThis looks alot better than just some blocky letters spelling out the map authors name that i have seen on some maps, and an excellent sponsorship opportunity to place ads on successful maps\r\n\r\nTo change them to your own personal banners, edit or create a new texture,\r\n\r\n<u><font color=red><B> CAUTION :</font> Dont change the texture alignment unless you know what your doing, it took me ages to get right.</b></u>\r\n\r\nIf your not sure how to do this i will make you custom ones for a few points (price yet to be decided)\r\n\r\nIf you make your own the dimensions must be 256 x 128 px\r\n\r\nTo install copy the cstrike folder into your counterstrike folder.\r\n\r\nIf you get pink and black squares your doing it wrong, as this uses custom textures.\r\n\r\nAnyway heres a video, so enjoy.\r\n\r\n<object width=\"480\" height=\"387\"><param name=\"movie\" value=\"http://www.wegame.com/static/flash/player2.swf\"></param><param name=\"wmode\" value=\"transparent\"></param><embed src=\"http://www.wegame.com/static/flash/player2.swf\" type=\"application/x-shockwave-flash\" wmode=\"transparent\" width=\"480\" height=\"387\" flashvars=\"tag=Jonnys_billboard_prefab\"></embed></object><div><a href=\"http://www.wegame.com/\" target=\"_blank\">WeGame.com - Gaming Videos</a></div>"
+}

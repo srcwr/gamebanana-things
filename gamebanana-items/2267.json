@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"make_your_own_castle_kit.vmf",
+					"make_your_own_castle_kit.vmx"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 47478,
+			"_nDownloadCount": 576,
+			"_nFilesize": 515478,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/47478",
+			"_sFile": "make_your_own_castle_kit.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1202782793
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2267,
+	"_sName": "Noob Mapper prefab castle kit",
+	"_sText": "Here's a map I made using this kit: http://www.fpsbanana.com/maps/46293\r\n\r\nI made this so that anyone who is new to mapping can make a simple castle themed map. In this kit I include the following things:\r\n\r\n6- bridge sections with flame torches on each block\r\n\r\n56- spawn points for each team with buy zones set up for both teams\r\n\r\n8- pillars with access to the top of the pillars.\r\n\r\n4- pillars with access to the top of the pillars and 2 walkways extending out from the ends.\r\n\r\n2- 4 way, top accesible, pillars.\r\n\r\n4- Small, square buildings with lighting and a few objects inside and windows.\r\n\r\n4- small, square buildings with lighting and a few objects inside with windows and access to the top.\r\n\r\n11- sets of stair cases measure perfect to be able to get to the top of the bulidings with.\r\n\r\n5- Castle towers with access to the top\r\n\r\n\r\n\r\nTo use these prefabs download them and save them to this folder: \r\nC:\\Program Files\\Steam\\steamapps\\<username>\\sourcesdk_content\\cstrike\\mapsrc\r\n\r\nonce the file is saved to the location, extract it into the folder. Then open up hammer and open the .vmf file with hammer.\r\n\r\nOnce it's open, you just have to drag the individual castle prefabs into the main castle area and build your map. If you run out of individual items, simply click on one of them and copy then paste it onto the disired area of the map.\r\n\r\nI will make a map out these prefabs to show something that could be done with this kit.\r\n\r\nAlso, make sure to add your skybox to the map after creating it to make sure that you don't have any leaks in the map. And when you're done making the map, don't forget to delete any extra items that may be lurking around in the blackness of the map. You don't want extra stuff that doesn't need to be there.\r\n\r\nand, GIVE ME CREDIT IF YOU USE THIS AND SUBMIT IT. PUT MY NAME IN AUTHORS CATEGORY OF THE MAP SUBMISSION ALONG WITH YOURS.\r\n\r\nI hope you all enjoy using this and please tell me when you submit a map if you used any of the things in my kit so I can see your masterpiece with part of me added in it. Thanks!"
+}

@@ -1,0 +1,52 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"Toilet": {
+						"0": "readme.txt",
+						"materials": {
+							"models": {
+								"natalya": {
+									"toilet": [
+										"toilet.vmt",
+										"toilet.vtf"
+									]
+								}
+							}
+						},
+						"models": {
+							"natalya": {
+								"toilet": [
+									"toilet.dx80.vtx",
+									"toilet.dx90.vtx",
+									"toilet.mdl",
+									"toilet.phy",
+									"toilet.sw.vtx",
+									"toilet.vvd"
+								]
+							}
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 47175,
+			"_nDownloadCount": 2754,
+			"_nFilesize": 346372,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/47175",
+			"_sFile": "toilet_2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1217916538
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 3120,
+	"_sName": "Custom Toilet",
+	"_sText": "<font color=\"#6666FF\" face=\"helvetica\"><b>Natalya[AF]'s Custom Toilet</b>\r\n\r\nPissed off that the only valve toilet models don't actually resemble common toilets that you'd find in most places?  Well, here's a solution!!\r\n\r\nThis is a remodel of one of the default valve toilets that comes with hl2, but is completely independent and can be used alongside the old ones without conflict.  This toilet can be used as a static prop in one of your maps.  This is a custom model not a brush-based prefab so if you use it you must pak it into the map with Pakrat or Map Analyst, otherwise players will not see it.\r\n\r\nTo install simply unzip the materials and models folders into your cstrike directory, then restart hammer to see your new toilet.  In the model browser it is under natalya/toilet.  This model was tested with CS:S but it can probably be used for other hl2 mods as well.\r\n\r\nSorry in advance if this is in the wrong section.\r\n\r\nQuestions and comments are appreciated.</font>"
+}

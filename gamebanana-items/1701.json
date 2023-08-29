@@ -1,0 +1,31 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"lightupfloor_mj_final.vmf",
+					"lightupfloor_mj_final_music.bsp",
+					"lightupfloor_mj_final_music.vmf",
+					"lightupfloor_mj_final_music_colored.vmf"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 47474,
+			"_nDownloadCount": 457,
+			"_nFilesize": 112343,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/47474",
+			"_sFile": "lightupfloor_mj_final.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1203048929
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 1701,
+	"_sName": "lightupfloor_mj",
+	"_sText": "<u> How it works:</u>\r\n\r\nWhenever you step on a block it glows - then when you step off of it it turns off.\r\n\r\nThis prefab idea was given to me by mark paul.\r\n\r\nHe was inspired for the video by this michael jackson video I believe:\r\n\r\n<object width=\"425\" height=\"355\"><param name=\"movie\" value=\"http://www.youtube.com/v/N_hTfQS8H8M&rel=1\"></param><param name=\"wmode\" value=\"transparent\"></param><embed src=\"http://www.youtube.com/v/N_hTfQS8H8M&rel=1\" type=\"application/x-shockwave-flash\" wmode=\"transparent\" width=\"425\" height=\"355\"></embed></object>\r\n\r\nThis floor consists of only 6 separate blocks - if you wish to make more you need to change the names in the triggers and lights. You also need to add alot of outputs for the other lights to turn off when you step on it.\r\n\r\nThis would make a great edition to something like a disco map or night club or w/e.\r\n\r\nHere's a video of it:\r\n\r\n<object width=\"425\" height=\"350\"> <param name=\"movie\" value=\"http://www.youtube.com/v/4LA272aUIoM\"> </param> <embed src=\"http://www.youtube.com/v/4LA272aUIoM\" type=\"application/x-shockwave-flash\" width=\"425\" height=\"350\"> </embed> </object>\r\n\r\n\r\nEnjoy!\r\n\r\n*NOTE* I may post a video of a whole dance floor made up of these with me dancing on them to the song. So you must wait for that - it will be epic.\r\n\r\n<font size=5> <font color=red> *UPDATE*\r\n\r\n<font size=2> I added a version of the prefab with the music in it so now you can have one playing music or not.\r\n\r\n<font size=5><font color=green> *UPDATE 2*\r\n\r\n<font size=2> I have added a .vmf of a colored version into the .RAR"
+}

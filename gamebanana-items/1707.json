@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"Cell_Shade_Reference.vmf"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 47404,
+			"_nDownloadCount": 560,
+			"_nFilesize": 37858,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/47404",
+			"_sFile": "cell_shade_reference.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1205494285
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 1707,
+	"_sName": "Cell Shade Official Reference",
+	"_sText": "Pack contains basic blocks and brushes and how they can be cell shaded along with the basic connection types and combination of brushs can be joined to share the effect rather than overlap one another.\r\n\r\nPipes have also been included in the reference, connections on all axis provided for reference as well.\r\n\r\nIn another section of the file, and example is given for how to add the effect to a displacement used on the ground rather than just smooth spheres. The second more advanced Cell tutorial is not yet released which explains how to best go about the effect but will be shortly and link provided here when it is.\r\n\r\n<b class=\"red\">NOTE</b>: These are un-optimized objects, one can lower the brush count on each one considerably via vertex manipulation to remove unneeded faces used in creating the cell shaded effect.\r\n<center>\r\n<h2 style=\"color: orange\">Basic Tutorial:\r\n<a href=\"http://www.fpsbanana.com/tuts/2408\"><img width=\"300\"src=\"http://image.fpsbanana.com/ss/tuts/3982.jpg\"><br></a>\r\n\r\nAdvanced Tutorial:</h2><i class=\"red\">To be released</i></center>\r\n\r\n\r\nRequests for shapes or additions to this pack can and will be added. So if you need a shape made for you, or have a pre-existing one done but need help with the effect itself, Just post here or my profile and I can do them up in short order."
+}

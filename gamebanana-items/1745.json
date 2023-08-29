@@ -1,0 +1,34 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"Kens": [
+						"waterfall.vmf"
+					],
+					"gg_oasis": [
+						"waterfall.vmt",
+						"waterfall.vtf"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 47220,
+			"_nDownloadCount": 1210,
+			"_nFilesize": 323224,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/47220",
+			"_sFile": "waterfall.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1216339238
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 1745,
+	"_sName": "Waterfall",
+	"_sText": "Large waterfall made by request.  \r\n\r\nYou will need to tie the large brush textured with trigger into env_embers with these keyvalues;\r\n\r\nangles 90 0 0\r\nparticletype 1\r\ndensity 256\r\nlifetime 1\r\nspeed 169\r\nrendercolor 147 164 172\r\nspawnflags 1\r\n\r\nif you want to change the speed of the waterfall you will need to change the scroll rate in the VMT but i think the speed is fine.\r\n\r\ndisplacements still a bit messy but dint want to do much so u can personalize it yourself after sewing it in.\r\n\r\njust put the folder gg_oasis in cstrike\\materials and the folder ken in sourcesdk\\bin\\ep1\\bin\\prefabs\r\n\r\n\r\n"
+}

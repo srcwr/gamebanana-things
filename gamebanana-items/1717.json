@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"trap_spike_large.vmf",
+					"trap_spike_small.vmf"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 47350,
+			"_nDownloadCount": 467,
+			"_nFilesize": 11962,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/47350",
+			"_sFile": "spike_traps.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1208617996
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 1717,
+	"_sName": "Spike Trap small and large",
+	"_sText": "This includes both a small spike area (64 in sq) and a large spike area (116 in sq).\r\n\r\nWhen you step into the trigger over the spikes they come up from the floor and damage you, they then go back down in 1 second.\r\nYou can change the damage by going into the \"trigger_hurt\" trigger and if you use multiple traps you will need to rename the spikes and the \"trigger_multiple\"."
+}

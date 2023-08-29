@@ -1,0 +1,42 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"door_prefab": {
+						"0": "doors0000.jpg",
+						"1": "doors0001.jpg",
+						"2": "doors0002.jpg",
+						"3": "picture1.JPG",
+						"door_prefab": {
+							"sourcesdk_content": {
+								"cstrike": {
+									"mapscr": [
+										"doors.vmf"
+									]
+								}
+							}
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 47370,
+			"_nDownloadCount": 502,
+			"_nFilesize": 318610,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/47370",
+			"_sFile": "door_prefab.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1207126633
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 3196,
+	"_sName": "Basic Double Doors",
+	"_sText": "Put the .vmf file in you're sourcesdk_content /cstrike /mapsrc"
+}

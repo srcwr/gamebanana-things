@@ -1,0 +1,30 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"cannon_prefab.bsp",
+					"cannon_prefab.vmf",
+					"siegehit1.wav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 47368,
+			"_nDownloadCount": 523,
+			"_nFilesize": 292227,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/47368",
+			"_sFile": "cannon_prefab.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1207368000
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2973,
+	"_sName": "Sawblade Cannon",
+	"_sText": "I originally made this cannon for Paper Cut to put into the map surf_eclipse. However, due to the fact that it conflicted fall damage and the noblock mod, it had to be removed. So now I am prefabing it out to who ever wants it. \r\n\r\n\r\nThis is a player controlled brush based weapon that is capable of shooting saw blades (or anything else that will fit through the barrel) at enemies or other targets. It can rotate 360 degrees and the barrels can tilt 360 degrees as well. Each barrel can fire up to 15 blades at a time at a semi-automatic rate. After 15 blades have been shot, the green light will turn to red, and the barrel will go into a cool down for 5 sec. \r\n\r\n\r\nFor best results-\r\n- 1 player in the cannon at a time\r\n- do not allow players to walk around the base while cannon is in motion\r\n- create a teleporter to get a player out of the cannon \r\n- Do not use in a surf map\r\n\r\n\r\nIncluded- \r\n- bsp\r\n- vmf\r\n- Custom sound (I don't remember where I got it from but thanks if it is yours)\r\n\r\n\r\nFeel free to- \r\n- Re-texture\r\n- Improve scripting\r\n- Include in your map\r\n\r\n\r\nPlease do not- \r\n- Claim as your own\r\n- Use in the first map you make\r\n- Use in a crappy map\r\n- Re-texture to pink or any other gay color\r\n\r\n\r\nThanks goes out to-\r\n\r\nPaper Cut for inspiration and encouragement\r\nMidnight Killah for recording the video\r\nSolid Surf community\r\n\r\n\r\nPlease credit me if you use this. If you have any questions feel free to contact me here or at\r\n-Xfire- turkeyeater\r\n-Steam- triplex219\r\n-solidsurf.info- TurkeyEater\r\n\r\n<object width=\"425\" height=\"355\"><param name=\"movie\" value=\"http://www.youtube.com/v/nEfkbCZM43U\"></param><param name=\"wmode\" value=\"transparent\"></param><embed src=\"http://www.youtube.com/v/nEfkbCZM43U\" type=\"application/x-shockwave-flash\" wmode=\"transparent\" width=\"425\" height=\"355\"></embed></object>"
+}

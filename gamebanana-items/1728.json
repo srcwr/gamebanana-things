@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"nuke_prefab.bsp",
+					"nuke_prefab.vmf"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 47307,
+			"_nDownloadCount": 1106,
+			"_nFilesize": 15045,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/47307",
+			"_sFile": "nuke_prefab_2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1211571817
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 1728,
+	"_sName": "Nuke prefab for ZE",
+	"_sText": "Westsid3r's Nuke_prefab for zombie escape maps!\r\nCreated by Westsid3r \"i3D\"\r\n\r\nThis nuke contains 2 sounds, console message, the nuke damage, white flash and shake.\r\n\r\n***************\r\nThe nuke button (invisible texture on prop button) is grouped with the env_shake, env_fade and ambient_generic's.\r\nThe nuke damage, the trigger texture in the room behind the doors just needs to be moved and enlarged. \r\nPlace the trigger_hurt (orange texture, trigger) around your map where you want to kill zombies or humans.\r\nDont place it on the spot where you want your human or zombie to survive.\r\n\r\nAll entitys are timed\r\n\r\nWhen the button is pressed, this happens:\r\n\r\n1. Console says ingame: **Nuke has been launched!! 10 seconds untill explosion**\r\n2. After 3 seconds, you hear the nuke thats being launched, it sounds like a missile\r\n3. After 8 seconds, the screen starts to shake\r\n4. After 9 seconds, the white flash fades the screen\r\n5. After 10 seconds, the nuke kills the people and you hear the exploding sound\r\n\r\nThe time is timed for 10 seconds, you can of course change the time but it always has to be at these seconds,\r\nlike if you want it to nuke after 60 seconds, you change:\r\n\r\nConsole message doesnt need to be changed, leave it at \"0.00\"\r\nEnv_fade \"59.00\"\r\nEnv_shake \"58.00\"\r\nambient_generic (incoming) \"53.00\"\r\nambient_generic (explode sound) \"60.00\"\r\ntrigger_hurt (the nuke damage) \"60.00\"\r\n\r\nThe fade always has to be 1 second before the nuke kills\r\nThe shake has to be 2 seconds before the nuke kills\r\nThe incoming sound has to be 7 seconds before the nuke kills.\r\n\r\nSo, now we know the times.\r\nLike I already said, just place the button \"invisible\" on a prop_static model or texture it like a button. \r\nYou dont need to move env_fade etc. It just has to be placed somewhere in your map.\r\nThe invisible button needs to be at the spot, you want the player to call the nuke. \r\nYou can even use the button to open doors, break walls, start vehicles. You just got to have experience with \"outputs\"\r\nDont forget, the timers are very important to let the nuke work as i made it.\r\n\r\nIf you want to try the nuke out, open this vmf. file in hammer and compile, I already placed\r\n2 terrorist and 2 counter terrorist spawns. Just press the button, open door and wait untill the nuke kills.\r\nIf you like my nuke prefab, use it in your escape maps. I made this prefab because I have seen some mappers\r\nthat dont know how to make a nuke. This is easy to make, but was meant to help zombie escape beginner mappers.\r\nYou just need the invisible button, and the fade, shake and ambient generic from this prefab. \r\nYou dont need the room, doors or anything else. Enjoy!!\r\n\r\nDon't forget to put me in your authors notes, or notes as the \"credit to\"\r\n\r\n//Westsid3r"
+}

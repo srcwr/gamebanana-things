@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"recue_team_prefab.vmf"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 47276,
+			"_nDownloadCount": 277,
+			"_nFilesize": 2688,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/47276",
+			"_sFile": "recue_team_prefab.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1212959340
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 1731,
+	"_sName": "team rescue mode",
+	"_sText": "Usage:\r\n - have the smaller trigger cover the rescue zone \r\n - have the big trigger cover the entire map\r\nFunctions:\r\n - end round with hostage rescue win if all (alive) ct's make it to rescue zone"
+}

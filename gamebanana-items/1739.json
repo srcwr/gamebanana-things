@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"firework.vmf",
+					"readme!!!.txt"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 47238,
+			"_nDownloadCount": 429,
+			"_nFilesize": 2631,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/47238",
+			"_sFile": "firework.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1215137130
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 1739,
+	"_sName": "Firework",
+	"_sText": "Just in time for independence day.  All you have to do is set up something to enable motion on the firework it self and use the same trigger to enable to logic_timer and its all ready to go...and if you use multiple fireworks you have to rename the firework, the explosion, and the sparks.  You can also change how high they shoot by changing the force of the trigger_push.  But if you do that then you have to mess with the timer of the explosion.  and it does launch a shell, you can see it its just hard to get it in the screenshots, explodes, and launches sparks everywhere. Every one enjoy!"
+}

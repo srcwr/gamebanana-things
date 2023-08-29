@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"bighead.vmf"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 47224,
+			"_nDownloadCount": 900,
+			"_nFilesize": 7778,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/47224",
+			"_sFile": "bighead.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1216142166
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 1743,
+	"_sName": "Big Head",
+	"_sText": "A big head with usable mouth. You can use this head for:\r\n\r\nTeleport - Add trigger_teleport inside\r\nKilling - Add trigger_hurt inside\r\nElevator - Make the head a func_movelinear and parent the jaw to it.\r\nCamping - Leave it like this\r\nBomb Target - Add func_bombtarget inside\r\n\r\nHope you like it :P"
+}

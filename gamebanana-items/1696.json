@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"Death_Blossom.vmf",
+					"death_blossom.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 47509,
+			"_nDownloadCount": 214,
+			"_nFilesize": 60159,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/47509",
+			"_sFile": "death_blossom.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1200726237
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 1696,
+	"_sName": "death_bloom",
+	"_sText": "Just a small little idea I came up with:\r\n\r\nWhat happens is there's a circle of metal rods surrounding this random floating ball. If you go within the circle of rods a laser will randomly shoot from the ball to one of the rods, then one to the next in a continuous circular motion each laser coming out .25 sec after the last until every rod has a laser shooting at it then a laser will shoot out the top and after .75 more sec. lightning shoots from the ground to the ball causing it to explode and kill everyone within a certain radius.\r\n\r\n*Soon to come* After I figure out how to make the lasers rotate with the ball i will make a second version where it spins before it explodes and maybe but doubtedly even a third where it'll begin to spin and go in an upwards motion unveiling a secret room below it. \r\n\r\n*Note* The .rar contains both the .BSP and the .VMF so you may try it out without having to compile.\r\n\r\nHere's a small video since the screenshots can't really capture what it does:\r\n\r\n\r\n<object width=\"425\" height=\"350\"> <param name=\"movie\" value=\"http://www.youtube.com/v/eehQcnHImq0\"> </param> <embed src=\"http://www.youtube.com/v/eehQcnHImq0\" type=\"application/x-shockwave-flash\" width=\"425\" height=\"350\"> </embed> </object>\r\n\r\n<font size=3> Enjoy!"
+}

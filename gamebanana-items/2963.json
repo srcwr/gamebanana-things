@@ -1,0 +1,33 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"Cerdits.txt",
+					"cannon.bsp",
+					"cannon.log",
+					"cannon.prt",
+					"cannon.vmf",
+					"cannon.vmx"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 47480,
+			"_nDownloadCount": 977,
+			"_nFilesize": 234130,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/47480",
+			"_sFile": "cannon_v1.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1202643240
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2963,
+	"_sName": "Cannon (player controlled)",
+	"_sText": "<FIELDSET>\r\n<LEGEND>Info</legend>This project has kind of been put off for a long time as i have been doing other stuff, but here it goes\r\n\r\nThe reason the model looks so poor is because it has to be brushes as you cant parent models of displacements, and im not  a brush artist like uberkirsche\r\n\r\n<B> NOW INCLUDES</b>\r\n\r\n- Working fuse (shrinking/spark emitting)\r\n- Movable (left to right)\r\n- Working end explosions and sounds\r\n- Fires working projectile.\r\n- Func_breakable wall to test it on\r\n\r\n<b> V2</b>\r\n\r\nversion 2 is already in planning and under way and will probably include some of the following, but feel free to suggest your own.\r\n\r\n- Moving wheels when tuning\r\n- Fire while aiming (from game_ui with out pressing fuse)\r\n- Better brush models \r\n\r\n\r\nMany thanks to Uberkirsche for his input/advice.\r\n\r\n<b> ANYWAY - HAVE FUN - USE IT- AND ENJOY !!</b></fieldset>"
+}
