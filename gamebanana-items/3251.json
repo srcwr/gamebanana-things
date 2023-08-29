@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"HDR+SKYBOX.vmf"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 47879,
+			"_nDownloadCount": 720,
+			"_nFilesize": 1264,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/47879",
+			"_sFile": "hdrskybox.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1173990062
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 3251,
+	"_sName": "Light Environment",
+	"_sText": "This is just here for when you cant be bothered to make your own skybox or figure out how.\r\n\r\nJust place this file into the prefabs folder in\r\n\r\nsourcedk > bin > prefabs\r\n\r\nand insert as prefab when in hammer, easy :D\r\n\r\n(I have set the skybox and light environment to de_tides to change it you must use these figure in the light_environment options.\r\n\r\nFound at http://www.fpsbanana.com/tuts/254\r\n"
+}

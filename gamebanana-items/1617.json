@@ -1,0 +1,39 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "BTPhoneBooth.vmf",
+					"1": "readme.txt",
+					"PayphoneBooth": [
+						"BTPhoneMetal.vmt",
+						"BTPhoneMetal.vtf",
+						"BTglass1.vmt",
+						"BTglass1.vtf",
+						"BTglass1back.vmt",
+						"BTglass1back.vtf",
+						"BTpanel.vmt",
+						"BTpanel.vtf"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 47749,
+			"_nDownloadCount": 755,
+			"_nFilesize": 103640,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/47749",
+			"_sFile": "btpayphonebooth1_2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1186926663
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 1617,
+	"_sName": "BT Callbox",
+	"_sText": "Heres a simple BT telephone booth prefab. Ive left it as a map file so you can just copy and paste it across. Ive included all the custom gfx files, instructions in the readme.  The door is attatched I just did that for the screenshot. Use the texture, alter the vmts etc as you see fit, whatever. Id like to see it in a map, so please give me a shout if you use it.\r\n\r\nIf you want to change anything then just ungroup it. Everything save for the top and back are func_detail. You can however shoot through it, I have no idea why, but if you can solve this then go ahead.\r\n\r\nSET TEXTURE LOCK ON WHEN COPYING AND MOVING!!!"
+}

@@ -1,0 +1,66 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "readme.txt",
+					"materials": {
+						"models": {
+							"tg_hotprops": [
+								"doorframetex.vmt",
+								"doorframetex.vtf",
+								"doorframetex_normal.vtf",
+								"doorframetex_skin2.vmt",
+								"doorframetex_skin2.vtf",
+								"doorframetex_skin3.vmt",
+								"doorframetex_skin3.vtf",
+								"doorframetex_skin4.vmt",
+								"doorframetex_skin4.vtf",
+								"pcbox.vmt",
+								"pcbox.vtf",
+								"pcbox_skin2.vmt",
+								"pcbox_skin2.vtf",
+								"storagebox1_normal.vtf"
+							]
+						}
+					},
+					"models": {
+						"tg_hotprops": [
+							"singledoorframe.dx80.vtx",
+							"singledoorframe.dx90.vtx",
+							"singledoorframe.mdl",
+							"singledoorframe.phy",
+							"singledoorframe.sw.vtx",
+							"singledoorframe.vvd",
+							"singledoorframe.xbox.vtx",
+							"storagebox1.dx80.vtx",
+							"storagebox1.dx90.vtx",
+							"storagebox1.mdl",
+							"storagebox1.phy",
+							"storagebox1.sw.vtx",
+							"storagebox1.vvd",
+							"storagebox1.xbox.vtx"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 47553,
+			"_nDownloadCount": 538,
+			"_nFilesize": 1187692,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/47553",
+			"_sFile": "hotprops.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1197577278
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 1684,
+	"_sName": "single doorframe & boxes",
+	"_sText": "The doorframes are for one way inside opening doors. Fits a standard single door and comes with 4 skin variations.  Boxes have 2 skins and can be used for physics props.  Some skins have a phong shader for some added effectt.  Paths are included in the readme."
+}

@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"gun.vmf"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 48017,
+			"_nDownloadCount": 450,
+			"_nFilesize": 8307,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/48017",
+			"_sFile": "gun_2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1150761544
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2922,
+	"_sName": "Cannon Prefab",
+	"_sText": "we have here a prefab for a player/exploding barrel cannon. The cannon also has buttons to change the rotation and elevation.\r\n\r\n\r\nthe zip file contains gun.vmf which must be placed in the .../sourcesdk/bin/prefabs/ folder. after that it will show up as a prefab in hammer."
+}

@@ -1,0 +1,30 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"chain_end.vmf",
+					"chain_link.vmf",
+					"chain_link2.vmf"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 47901,
+			"_nDownloadCount": 545,
+			"_nFilesize": 3183,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/47901",
+			"_sFile": "physics_chain.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1171646153
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 1558,
+	"_sName": "Killo$ity's Physics Chain",
+	"_sText": "A set of chain links, created using physics, and the end peices.\r\n\r\nThe chain links are named chain_link and chain_link2. The second is the first, but rotated into the next position for linking to the first.\r\n\r\nEach link is breakable, with 50 health as default. As they are physics, breaking the links will have effects on the whole chain. \r\n\r\nAs the links spawn, they can begin to grind and spark, but that may be because on my test map, I spawned them quite a distance from their final position. \r\n\r\nThe chains are all made from func_physbox_MULTIPLAYER, so when on a server, they will not lag up the server. Because of this, players going too near the chains will move them, and sometimes break some. \r\n\r\nThe chain has many uses, and I can see some getting more original soon. \r\ne.g.\r\n-Wrecking ball chain\r\n-chain to hold back a door (shoot a link to drop door)\r\n-aesthetics in maps, that react to the fighting going on\r\n\r\nPlease credit me in the release if you use the chains, thank you.\r\n\r\n\r\n\r\n<fieldset><b>Place all three .vmf files into sourcesdk/bin/prefabs</b></fieldset> \r\n"
+}

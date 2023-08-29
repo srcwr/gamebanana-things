@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"Tripwire.vmf"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 47779,
+			"_nDownloadCount": 352,
+			"_nFilesize": 1677,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/47779",
+			"_sFile": "tripwire.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1183688535
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2938,
+	"_sName": "TripwireBomb",
+	"_sText": "This is a tripwire bomb. If you touch the wire in between the two metal things there will be a big explosion. You can stretch the breakable wire and the trigger texture around it easily to ajust its size to the map. Depending on the enviroment I suggest changing the material type of the wire inside the trigger texture around it. The default is cinder block. You can also adjust the damage and size of the explosions. It's pretty big default."
+}

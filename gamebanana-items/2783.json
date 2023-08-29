@@ -1,0 +1,68 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"escalator_v2": {
+						"0": "Readme.doc",
+						"freshinger": {
+							"counter-strike source": {
+								"cstrike": {
+									"materials": {
+										"models": {
+											"mymaterials": [
+												"esc_glass.vmt",
+												"esc_glass.vtf",
+												"esc_handrail.vmt",
+												"esc_handrail_skin.vmt",
+												"esc_handrail_skin.vtf"
+											]
+										}
+									},
+									"models": {
+										"mymodels": [
+											"esc_handrail.dx80.vtx",
+											"esc_handrail.dx90.vtx",
+											"esc_handrail.mdl",
+											"esc_handrail.phy",
+											"esc_handrail.sw.vtx",
+											"esc_handrail.vvd",
+											"esc_handrail.xbox.vtx"
+										]
+									}
+								}
+							},
+							"sourcesdk": {
+								"bin": {
+									"prefabs": {
+										"Prefabs HL2": [
+											"escdown.vmf",
+											"escup.vmf"
+										]
+									}
+								}
+							}
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 47838,
+			"_nDownloadCount": 2022,
+			"_nFilesize": 361349,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/47838",
+			"_sFile": "escalator_v2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1178574845
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2783,
+	"_sName": "escalator_v2",
+	"_sText": "Escalator (Major Update!)\r\n Download includes:\r\n  Prefab: \r\n   -escalator moving upwards\r\n   -escalator moving downwards\r\n  Materials:\r\n   -The glass texture\r\n   -handrail texture\r\n  Models:\r\n   -handrailarch\r\n\r\n And last but not least a documentation explaining the mechanics.\r\n\r\nFree for non-commercial use. Use at own risk. Don't sue me if your leg gets stuck in it."
+}

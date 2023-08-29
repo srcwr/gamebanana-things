@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"light_recess_deep.vmf"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 47544,
+			"_nDownloadCount": 351,
+			"_nFilesize": 2485,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/47544",
+			"_sFile": "light_recess.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1198037444
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 3262,
+	"_sName": "Recessed Lighting",
+	"_sText": "All nodraw texture except 9 inside faces (8white, 1 white001) and 16 end faces (concrete texture.)\r\n\r\n1 light_spot\r\n1 func_illusionary\r\n1 func_brush (18 grouped brushes)\r\n\r\nfunc_illusionary brush is for alignment purposes. It can be deleted after aligning the light. Light should function if brush is left.\r\n\r\nUse this whereever and however you will, just please drop my name in somewhere, eh wot!\r\nQuestions, comments, complaints, and constructive crit welcome!"
+}

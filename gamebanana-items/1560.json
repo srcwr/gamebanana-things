@@ -1,0 +1,33 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"keypad": [
+						"keypad.vmf",
+						"keypad.vmt",
+						"keypad.vtf",
+						"keypad_instructions.txt"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 47898,
+			"_nDownloadCount": 977,
+			"_nFilesize": 5732,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/47898",
+			"_sFile": "keypad.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1171798761
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 1560,
+	"_sName": "Keypad",
+	"_sText": "The correct keypad is initially set to 4577. If the code is correct, it opens the door, plays an accepted sound, and blinks a green light.Otherwise, it plays a reject sound and blinks a red light., hope you like the prefab."
+}

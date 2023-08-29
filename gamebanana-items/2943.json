@@ -1,0 +1,30 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"mortar-l26-w24-h36.vmf",
+					"mortarfield-l64-w256-h104.vmf",
+					"readme.txt"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 47710,
+			"_nDownloadCount": 355,
+			"_nFilesize": 5540,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/47710",
+			"_sFile": "mortar.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1188930571
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2943,
+	"_sName": "Destructable mortar",
+	"_sText": "This is a remake of the mortar effect in dod_strand. just like in dod the mortar can be destroyed.\r\n\r\nThe zip includes a readme and 2 prefabs (1 for the mortar and 1 for the mortarfield).\r\n\r\nnote that all additional effects like sounds and the flying mortar must be added by yourself. (only the incoming sound at the field is included).\r\n\r\nHave fun and make some nice effects."
+}

@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"texture_letters.vmf"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 47866,
+			"_nDownloadCount": 772,
+			"_nFilesize": 35591,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/47866",
+			"_sFile": "texture_letters.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1176638126
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 1574,
+	"_sName": "Texture - Letters",
+	"_sText": "These letters can be used in your map. Feel free to adjust them!\r\n\r\nYou can make them bigger and smaller in hammer by holding Ctrl - M\r\nThen put scale on and put some numbers in the 3 boxes\r\nnumbers under 1 are for smaller, numbers above 1 are for bigger.\r\n\r\nExample: 0.5 (smaller) 1.5 (bigger)"
+}

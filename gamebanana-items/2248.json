@@ -1,0 +1,41 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"Texture Cabin": {
+						"0": "Readme.txt",
+						"1": "TextureCabin.vmf",
+						"BSP file": [
+							"texturecabintest.bsp"
+						],
+						"Screenshots": [
+							"TextureCabin1.JPG",
+							"texturecabintest0000.jpg",
+							"texturecabintest0001.jpg",
+							"texturecabintest0002.jpg",
+							"texturecabintest0003.jpg"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 47559,
+			"_nDownloadCount": 393,
+			"_nFilesize": 1747997,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/47559",
+			"_sFile": "texture_cabin.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1197170094
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2248,
+	"_sName": "Texture Cabin",
+	"_sText": "<fieldset>Texture Cabin Prefab\r\n</fieldset><fieldset><fieldset><legend>How to Install Prefab</legend>\r\nTo install prefab, drop it in this dictionary:\r\n\r\nsourcesdk\\bin\\ep1\\bin\\ prefabs\r\n</fieldset>\r\n\r\n<ul>\r\n<li>Includes a .bsp file to test inside Counter-strike: Source</li>\r\n<li>Includes Screenshots</li>\r\n<li>Includes .vmf prefab file</li>\r\n</ul>\r\n<fieldset><legend>Credits</legend>\r\n\r\nCredit:\r\n\r\n<a href=\"http://www.fpsbanana.com/members/175891\"><ins>AssassinsExistence</ins></a>\r\n\r\n\r\nIf used in any projects please give proper credit and assess. :)\r\n\r\n\r\n</fieldset>"
+}

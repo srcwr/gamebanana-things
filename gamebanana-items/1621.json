@@ -1,0 +1,30 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"shake_all.vmf",
+					"shake_not_all.vmf",
+					"shake_not_player.vmf"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 47737,
+			"_nDownloadCount": 403,
+			"_nFilesize": 1537,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/47737",
+			"_sFile": "shake_all.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1187804139
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 1621,
+	"_sName": "shake",
+	"_sText": "**********************\r\nThis is a env_shake prefab\r\n**********************\r\n\r\nQ. What is env_shake?\r\nA. env_shake is the thing that shakes the map (or just a bit or it) it is used in alot of ways eg. on a timer or on a trigger.\r\n\r\nIn this prefab it is on a timer!\r\n\r\nIt has 3 prefabs in this \r\n\r\n1. shakes all the map.\r\n2. shakes a part of the map.\r\n3. shakes all the map but only shakes physic things and ropes.\r\n\r\nSo that is this prefab!\r\nhope you like it :D\r\n\r\nThanks.\r\n\r\nnote:\r\nThis was made by drimp (me)\r\nGrey-Echo told me how to do it!\r\nThanks echo\r\n\r\n"
+}

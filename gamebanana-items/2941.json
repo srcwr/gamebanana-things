@@ -1,0 +1,42 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "readme.txt",
+					"cstrike": {
+						"materials": {
+							"alias": {
+								"dodtextures": [
+									"w_tnt.vmt",
+									"w_tnt.vtf"
+								]
+							}
+						}
+					},
+					"prefab": [
+						"bombeffect-l66-w48-h32.vmf",
+						"dodbomb-l10-w8-h2.vmf"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 47722,
+			"_nDownloadCount": 332,
+			"_nFilesize": 130924,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/47722",
+			"_sFile": "bombeffectprefab.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1188242606
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2941,
+	"_sName": "DoD Bomb in CSS",
+	"_sText": "In the readme are the ideal size to place the bomb at. note that only the bomb with needed effects - including sounds - are in but no target that gets destroyed. (how to add them is in readme.txt which is included in the zip). Also the single bomb without effect (not even the wire) is added as seperate prefab incase you want to create the effect yourself.\r\n\r\nThe texture is from the bomb model Day of Defeat source, of course you can change it if you want (its included in the zip also).\r\n\r\nHint: To get a heavier explosion add some more env_explosions (and delay some of them)."
+}

@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"death_room.vmf"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 47767,
+			"_nDownloadCount": 377,
+			"_nFilesize": 2994,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/47767",
+			"_sFile": "death_room.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1184450490
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 1608,
+	"_sName": "death_room",
+	"_sText": "Includes :\r\n\r\n-The room\r\n-env_explosions\r\n-env_physexplosions\r\n-ambient_generic (explode sound)\r\n-button to activate the env_explosions\r\n-button to open the door (be careful the door closes itselfs ^^ )\r\n\r\nExtract to steamapps/<yourname>/sourcesdk/bin/prefabs"
+}

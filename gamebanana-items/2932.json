@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"Phys_C4_defusable.vmf",
+					"Phys_C4_not_defuse.vmf"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 47819,
+			"_nDownloadCount": 298,
+			"_nFilesize": 4519,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/47819",
+			"_sFile": "physc4_prefabs.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1180326840
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2932,
+	"_sName": "Physical C4 Prefabs",
+	"_sText": "Explosion C4 prefab\r\n\r\n*update*\r\n2007.05.30 \r\n-add defusable c4 (defusing time depended on \"C4_Org_Defuser\" Distance)"
+}

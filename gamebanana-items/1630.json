@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"fixphys.vmf"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 47711,
+			"_nDownloadCount": 437,
+			"_nFilesize": 459,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/47711",
+			"_sFile": "fixphys.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1188929534
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 1630,
+	"_sName": "Moving Physics Fix",
+	"_sText": "ATTENTION CS:S mappers!\r\n(More specifically those modding for ZombieMod!)\r\n\r\nEver make a map with a moving physics object? You know, like a helicopter or a boat where players get into it and move around? No? Well, you've probably seen it on other maps at the very least. Have you been a victim of physics glitches? Maybe you crouch down to fire your AK47 on that helicopter, but find yourself falling right through the floor.\r\n\r\nYour troubles are over. It turns out this mishap is caused by a popular command: sv_turbophysics. When set to a value other than \"0\", this command allows you to use objects and prevent collision with props that interact with your map, like a barrel or container. Popular mods like ZombieMod use this command so that players can press the \"E\" key to move objects around. However, this command also damages some physics-engine aspects of the game, such as a moving object.\r\n\r\nWhat this prefab does for you is force the server the map is running on to set sv_turbophysics to 0, thereby fixing these glitches to the physical engine of CS:S and restoring valuable commands to any server, automatically. Simply place the prefab on your map, and you're ready to go - no worries!\r\n\r\nThis prefab is especially helpful to ZombieMod mappers wishing to create an escape map or a map with a helicopter, boat, train - anything that's moving in a set path using func_traintrack and the like - and wish players to not fall out of the object. It's been a headache for a lot of ZM players, but you can prevent it using this prefab."
+}

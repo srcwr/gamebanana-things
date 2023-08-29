@@ -1,0 +1,30 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"Animated_Bird.vmf",
+					"Animated_Bird2.vmf",
+					"Important!.txt"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 47907,
+			"_nDownloadCount": 635,
+			"_nFilesize": 1284,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/47907",
+			"_sFile": "bird_pack.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1170965101
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 1556,
+	"_sName": "Bird_Pack",
+	"_sText": "This prefab is a pack of two animated birds.\r\n\r\n1.Crow\r\n2.Seagull\r\n\r\nImportant: when you use the prefab in hammer editor, check if the bird is flying in textured wiew.\r\n\r\n*If it`s flying click on the bird properties and go to model, then change it to \"idle01\"\r\n\r\n*If not flying, don`t do anything :P\r\n\r\n-Chillinut"
+}

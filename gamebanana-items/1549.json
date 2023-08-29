@@ -1,0 +1,68 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "read.me.txt",
+					"cstrike": {
+						"materials": {
+							"VGUI": {
+								"hlb": {
+									"0": "Psy's_Hlb.zip",
+									"1": "hlb-back.vmt",
+									"10": "hlb2-bottom.vtf",
+									"11": "hlb2-front.vmt",
+									"12": "hlb2-front.vtf",
+									"13": "hlb2-sidel.vmt",
+									"14": "hlb2-sidel.vtf",
+									"15": "hlb2-sider.vmt",
+									"16": "hlb2-sider.vtf",
+									"17": "hlb2_back.vmt",
+									"18": "hlb2_back.vtf",
+									"19": "read.me.txt",
+									"2": "hlb-back.vtf",
+									"3": "hlb-bottom.vmt",
+									"4": "hlb-bottom.vtf",
+									"5": "hlb-front.vmt",
+									"6": "hlb-front.vtf",
+									"7": "hlb-top.vmt",
+									"8": "hlb-top.vtf",
+									"9": "hlb2-bottom.vmt",
+									"UI": [
+										"hlb-front.vmt",
+										"hlb2-front.vmt"
+									],
+									"hlbmodels": [
+										"hlb.vmf",
+										"hlb2.vmf"
+									]
+								}
+							}
+						}
+					},
+					"hlb": [
+						"hlb.vmf",
+						"hlb2.vmf"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 47944,
+			"_nDownloadCount": 540,
+			"_nFilesize": 4082782,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/47944",
+			"_sFile": "half-life_boxes.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1163475266
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 1549,
+	"_sName": "Psy's Half-Life Boxes",
+	"_sText": "These are 2 small func_physbox_multiplayer boxes, they have physics (when shot/touched, they move), that are textured to look like the half-life and half-life2 boxes. Very fun to play with when you have many of them, and add a special touch to every map. Some credit goes to Valve for the textures (even though i took the pictures with MY camera), because they made the real-life boxes. Thanks Valve."
+}

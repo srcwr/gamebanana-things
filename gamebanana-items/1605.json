@@ -1,0 +1,34 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "ReadMe.txt",
+					"1": "pic01.jpg",
+					"2": "pic02.jpg",
+					"3": "prefab_ringteleporter.vmf",
+					"StarGate": [
+						"ringteleport.mp3"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 47772,
+			"_nDownloadCount": 1191,
+			"_nFilesize": 220110,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/47772",
+			"_sFile": "prefab_ringteleporter.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1184307788
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 1605,
+	"_sName": "StarGate Ring Transporter",
+	"_sText": "StarGate Ring Teleporter. \r\nOn activation rings appear underground, raise up into lock postion, beam comes down and teleports player into temp room. Then teleports player to other ring teleporter. Button can be activated using \"e\" or can be damaged to activate. Player is transported from active teleporter to slave teleporter but another player can be transported from slave to active teleporter. Includes sound effects from the series. "
+}

@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"randomtargets.bsp",
+					"randomtargets.vmf"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 47583,
+			"_nDownloadCount": 327,
+			"_nFilesize": 62282,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/47583",
+			"_sFile": "randomtargets.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1195528293
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 1669,
+	"_sName": "Random Prop Spawner",
+	"_sText": "Prefab and map meant to go along with the <a href=\"http://www.fpsbanana.com/tuts/4652\">Random Prop Spawners</a> tutorial.\r\n\r\n(note that my entity names are slightly different and I added a button that can force it to randomly spawn the props again.)"
+}

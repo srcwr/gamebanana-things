@@ -1,0 +1,31 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"2_hills0000.jpg",
+					"storm_prefab.JPEG",
+					"storm_rain.vmf",
+					"storm_thunder.vmf"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 47702,
+			"_nDownloadCount": 868,
+			"_nFilesize": 171280,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/47702",
+			"_sFile": "storm_rain.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1189623065
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 1635,
+	"_sName": "A Storm",
+	"_sText": "-storm-\r\n\r\nThis prefab is made so you can get a nice storm (rain,thunder) into your map.\r\n\r\nYou will need to ungroup them (select it, right click on it and then just go to ungroup).\r\n\r\nIn the prefab you will get storm_rain and storm_thunder. In storm_rain you will get all the rain things:\r\n\r\n1. The rain (this it what you will need to change the shape of to fit you map... you could need more that 1 of this part) its the block in the nodraw texture.\r\n\r\n2. The sound (you can edit this to how you like it).\r\n\r\n3. The logic auto (this is so the sound can play every turn).\r\n\r\nThe other thing you will get is storm_thunder. This is so you can make it look so good! The thunder things you will get are:\r\n\r\n1. The light (You will need to spread this around your map) copy it around the map (outside best) it will turn on and off at the time of the thunder sound.\r\n\r\n2. The sound (edit it how you like and place it any where on the map) This is on the timer's and they will make it so it play's when the light go's off.\r\n\r\n3. The timer's (these will turn on/off the light(s) and sound so it will look real.\r\n\r\nnote: it is best to use a dark map with this.\r\n\r\nI have made a map with this (it uses the same timer and all) and it has a vidio.\r\nSo if you want to look at it.\r\n\r\n<a href=\"http://www.fpsbanana.com/maps/35487\"><img src=\"http://image.fpsbanana.com/ss/maps/thm_69711.jpg\"><br>de_storm</a>\r\n\r\n\r\n-GL-HF-\r\n\r\n-drimp-\r\n"
+}

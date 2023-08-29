@@ -1,0 +1,34 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"weapon_vendingmachine": [
+						"AK1.JPG",
+						"Readme.txt",
+						"vendingmachine.JPG",
+						"weapon_vendingmachine.vmf"
+					]
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 48009,
+			"_nDownloadCount": 600,
+			"_nFilesize": 336361,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/48009",
+			"_sFile": "weapon_vendingmachine_2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1150837550
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2923,
+	"_sName": "Weapon_vendingmachine",
+	"_sText": "Open weapon_vendingmachine.vmf with the Hammer editing tool\r\n\r\n\r\nWeapon Vending Machines\r\n\r\nInstructions:\r\n\r\nIf you want to change the weapon from the default AK i put in there, then do this...\r\n\r\nSelect Entity\r\n\r\nChange it to the weapon you want \"example: weapon_scout\"\r\n\r\nPut the model inside the vending machine as shown with the AK\r\n\r\nName it to: weapon\r\n\r\n***IMPORTANT*** YOU MUST CHANGE THE NAME TO WEAPON\r\nOR VENDING MACHINE WILL NOT WORK...\r\n\r\nNow just press the button :)\r\n\r\nHave Fun!!! :)\r\n\r\nOpen weapon_vendingmachine.vmf with the Hammer editing tool"
+}

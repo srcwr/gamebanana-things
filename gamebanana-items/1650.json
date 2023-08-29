@@ -1,0 +1,37 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"TVJunkieTunnel": {
+						"sourcesdk": {
+							"bin": {
+								"prefabs": [
+									"Tunnel_Curve.vmf",
+									"Tunnel_Straight.vmf"
+								]
+							}
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 47648,
+			"_nDownloadCount": 496,
+			"_nFilesize": 6510,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/47648",
+			"_sFile": "tvjunkietunnel.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1192690904
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 1650,
+	"_sName": "TV Junkie's Tunnels",
+	"_sText": "Fiddling around in Hammer, I made this a while ago and haven't used it (yet).  Figured someone else might get something out of it.  The curved part is made entirely from displacement surfaces and the only non-displacement in the straight piece is the floor brush.  The straight piece can be stretched (or shortened) lengthwise, but remember to disable texture lock first.  Also, if you retexture, don't forget to enclose it in solid brushes so you don't leak all over the place."
+}

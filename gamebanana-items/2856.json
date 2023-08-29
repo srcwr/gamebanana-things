@@ -1,0 +1,31 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"readme.txt",
+					"ropewood_bridge.jpg",
+					"ropewood_bridge.vmf",
+					"ropewood_bridge2.jpg"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 47939,
+			"_nDownloadCount": 1137,
+			"_nFilesize": 146428,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/47939",
+			"_sFile": "ropewood_bridge.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1165544145
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2856,
+	"_sName": "rope and wood bridge",
+	"_sText": "Simple wood and rope bridge prefab\r\n\r\nIncludes \"triggers\" for 2 seperate wood creaking \"sounds\" to be played when walking across. \r\nAlso uses move_rope and keyframe_rope for rope type effect.\r\n\r\nGame Type: HL2 - Source\r\nSize: 124 width x 636 length\r\nTextures: stock - Valve\r\nObject Properties: function_detail\r\nSound Type: raw - \"ambient/misc/wood1.wav\" and \"ambient/misc/wood2.wav\"\r\n\r\nExtract \"ropewood_bridge.vmf\"\r\nTo your \"sourcesdk\\bin\\prefabs\" directory\r\n\r\nFree use of this prefab in any map without my permission, credit is not \r\nrequired."
+}

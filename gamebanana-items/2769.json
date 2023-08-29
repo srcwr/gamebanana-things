@@ -1,0 +1,32 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"elivater_prefabs": [
+						"elivater.vmf",
+						"elivater_exit.vmf",
+						"elivater_section.vmf"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 48024,
+			"_nDownloadCount": 642,
+			"_nFilesize": 5563,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/48024",
+			"_sFile": "elivater_prefabs.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1153600143
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2769,
+	"_sName": "Elivator Prefabs",
+	"_sText": "Elivator prefabs\r\n\r\nincludes the elivater , shaft sections , and exits\r\n\r\nits not funtional since you have to stack the number of sections your need !\r\n\r\nto start , place the exit on the base , add the elivator inside that and stack as many sections you need adding in exits at floors you need\r\n\r\n1 section = 1 floor\r\n\r\nmay need to scale it to the building you have if yours if taller or shorter than the prefabs\r\n\r\n\r\n*can be used in CSS,DODS,HL2,HL2DM mapping\r\n\r\nbased off a HL2 elivator"
+}

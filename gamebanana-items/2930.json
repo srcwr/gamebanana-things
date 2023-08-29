@@ -1,0 +1,36 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "ion screenshot.jpg",
+					"bin": {
+						"prefabs": [
+							"ion particle cannon v2 floating.vmf",
+							"ion particle cannon v2 short1.vmf",
+							"ion particle cannon v2 short2.vmf",
+							"ion particle cannon v2.vmf"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 47886,
+			"_nDownloadCount": 659,
+			"_nFilesize": 916797,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/47886",
+			"_sFile": "ion_particle_cannon_v2_pack.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1173412349
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2930,
+	"_sName": "ion particle cannon v2 pack!",
+	"_sText": "<fieldset>simply paste the <b><i>\"bin\"</i></b> folder into your sourcesdk folder</fieldset>\r\n\r\n<fieldset>left click = spread fire of helicopter bombs\r\nright click = human cannon</fieldset>\r\n\r\n<fieldset>1. shoots red helicopter bombs with left click\r\n\r\n2. shoots 2 people at once with right click\r\n\r\n3. to move the cannon, use W A S D</fieldset>\r\n\r\n<b><i>known bugs:</i></b>\r\nIf a person gets stuck in front of the barrel when it tried to turn or move up/down, the base will continue roatating but the barrels will stay.  <big>This bug does not occur if you are in the cannon barrels</big>\r\nEvery now and then you might fly out of the barrel early\r\n==================================================\r\nStill not perfect although MUCH better than v1.\r\nYou dont go backwards anymore\r\nYou no longer get stuck on the spinny thingys\r\nNew textures\r\nCrosshairs added :D\r\n\r\n<big><b>**NOTE**</b></big> if you are going to use more than one in the same map you will have to rename <B><I>everything</b></i> on one of the cannons (name, outputs, targets etc...)"
+}
