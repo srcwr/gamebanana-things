@@ -1,0 +1,118 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"zombiemod_v1.2.6": {
+						"0": "How to Install.url",
+						"addons": {
+							"zombiemod": {
+								"0": "ChangeLog.txt",
+								"1": "LICENSE.txt",
+								"2": "Thanks.txt",
+								"3": "www.ZombieMod.com.url",
+								"bin": [
+									"zombie_mm.dll",
+									"zombie_mm_i486.so"
+								]
+							}
+						},
+						"cfg": {
+							"zombiemod": [
+								"de_dust.cfg",
+								"downloads.cfg",
+								"models.cfg",
+								"zombiemod.cfg"
+							]
+						},
+						"materials": {
+							"models": {
+								"player": {
+									"zh": [
+										"Charple1_sheet.vmt",
+										"Zombie_Classic_sheet.vmt",
+										"corpse1.vmt"
+									]
+								}
+							},
+							"skybox": [
+								"zombie_skybk.vmt",
+								"zombie_skydn.vmt",
+								"zombie_skyft.vmt",
+								"zombie_skylf.vmt",
+								"zombie_skyrt.vmt",
+								"zombie_skyup.vmt"
+							]
+						},
+						"models": {
+							"player": {
+								"zh": [
+									"zh_charple001.dx80.vtx",
+									"zh_charple001.dx90.vtx",
+									"zh_charple001.mdl",
+									"zh_charple001.phy",
+									"zh_charple001.sw.vtx",
+									"zh_charple001.vvd",
+									"zh_charple001_head.dx80.vtx",
+									"zh_charple001_head.dx90.vtx",
+									"zh_charple001_head.mdl",
+									"zh_charple001_head.phy",
+									"zh_charple001_head.sw.vtx",
+									"zh_charple001_head.vvd",
+									"zh_charple001_hs.dx80.vtx",
+									"zh_charple001_hs.dx90.vtx",
+									"zh_charple001_hs.mdl",
+									"zh_charple001_hs.phy",
+									"zh_charple001_hs.sw.vtx",
+									"zh_charple001_hs.vvd",
+									"zh_zombie003.dx80.vtx",
+									"zh_zombie003.dx90.vtx",
+									"zh_zombie003.mdl",
+									"zh_zombie003.phy",
+									"zh_zombie003.sw.vtx",
+									"zh_zombie003.vvd",
+									"zh_zombie003_head.dx80.vtx",
+									"zh_zombie003_head.dx90.vtx",
+									"zh_zombie003_head.mdl",
+									"zh_zombie003_head.phy",
+									"zh_zombie003_head.sw.vtx",
+									"zh_zombie003_head.vvd",
+									"zh_zombie003_hs.dx80.vtx",
+									"zh_zombie003_hs.dx90.vtx",
+									"zh_zombie003_hs.mdl",
+									"zh_zombie003_hs.phy",
+									"zh_zombie003_hs.sw.vtx",
+									"zh_zombie003_hs.vvd"
+								]
+							}
+						},
+						"sound": {
+							"ambient": {
+								"zombiemod": [
+									"zombie_ambient.mp3"
+								]
+							}
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 4541,
+			"_nDownloadCount": 2999,
+			"_nFilesize": 4681520,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/4541",
+			"_sFile": "zombiemod_v126.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1179054014
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 34612,
+	"_sName": "ZombieMod 1.2.6",
+	"_sText": "This is the most recent full version of zombie mod.\r\nIf your starting your server from new, download this.\r\n+ Requries zm windows hotfix for windows OS servers"
+}

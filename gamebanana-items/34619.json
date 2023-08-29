@@ -1,0 +1,36 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"Readme.txt",
+					"autoexec AMD.cfg",
+					"autoexec INTEL.cfg",
+					"calcss.cfg",
+					"cb_css.cfg",
+					"config.cfg",
+					"lo3.cfg",
+					"warmup.cfg",
+					"warmupcss.cfg"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 4239,
+			"_nDownloadCount": 23352,
+			"_nFilesize": 10553,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/4239",
+			"_sFile": "dtlegalconfigv12.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1207381734
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 34619,
+	"_sName": "dT's Legal FPS Config",
+	"_sText": "Just rename the autoexec INTEL.cfg to autoexec.cfg if you have a Intel CPU and rename the autoexec AMD.cfg to\r\nautoexec.cfg if you have a AMD CPU\r\n\r\nAlso here are some launch options commands: -dxlevel 81 -heapsize 524288 -noforcemspeed -noforceparms -noforcemaccel\r\nthese can really help you with a fps boost of like 50 fps (depends on what specs you got)\r\n\r\nSimply extract the files to your Steam map (The config.cfg isn't necessary) for example: \r\nC:\\Program Files\\Steam\\SteamApps\\dT's_Config\\Counter-strike source\\cstrike\\cfg\r\n\r\nIt is recommended that you have -dxlevel 81 in your launch options if your PC is running low on specs.\r\n\r\nMost occured problems: If your screen is going to 800*600 or 640*800 everytime when you start up your game, simply\r\nput -w width -h heigh. For example: -w 1280 -h 1024 in your launch options. There haven't been anymore problems\r\nthis far.\r\n\r\nThese were the results with a AMD Athlon 4000+, 1 Gb Ram, 512 MB Geforce 6800GS (Based on 2 maps):\r\n\r\nDe_dust2 CT/T Spawn: 250-310 fps\r\nmiddle: 150-200 fps\r\nWar: 150-200 fps\r\n\r\nDe_nuke CT/T Spawn: 200-250 fps\r\nOutside: 150-175 fps\r\nwar: 125-160 fps\r\n\r\nContact by mail if you detect more problems: dt.css@hotmail.com"
+}

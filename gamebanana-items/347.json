@@ -1,0 +1,32 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"gg_skyward.bsp",
+					"gg_skyward.log",
+					"gg_skyward.prt",
+					"gg_skyward.vmf",
+					"gg_skyward.vmx"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 44307,
+			"_nDownloadCount": 607,
+			"_nFilesize": 2507637,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/44307",
+			"_sFile": "gg_skyward.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1208705578
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 347,
+	"_sName": "Greyfrog_Skyward",
+	"_sText": "Personally i would select everything and change the texture to dev/whateveryouwant. Then i would open the entity list and select/delete all lights, fog_controller, light_environment. After this It should be ready for  mapper heaven. lots of places to go, great theme. the outer walls are ready for skybox. Optimizaion will be nessesary for smooth game play. And i made the age old mistake of carving my arches in this one. so deleting and reconstructing might be a job in itself."
+}

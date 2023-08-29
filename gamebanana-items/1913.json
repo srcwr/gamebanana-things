@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"CombinePush.vmf"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 46514,
+			"_nDownloadCount": 680,
+			"_nFilesize": 2048,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/46514",
+			"_sFile": "combinepush.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1265660444
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 1913,
+	"_sName": "Pushing Combine",
+	"_sText": "This is a pushing combine prefab that can be used to block doors or use man of them in a line do block a huge area.\r\n\r\nTo make the combine be unkillable:\r\nSelect the Inviable brush, it is the only func_breakable. and set the flag: Only break on Trigger\r\n\r\nHere is a video to show how it works!\r\n\r\n<object width=\"480\" height=\"295\"><param name=\"movie\" value=\"http://www.youtube.com/v/1o3M_Yzwxt8&hl=en_US&fs=1&color1=0x006699&color2=0x54abd6\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://www.youtube.com/v/1o3M_Yzwxt8&hl=en_US&fs=1&color1=0x006699&color2=0x54abd6\" type=\"application/x-shockwave-flash\" allowscriptaccess=\"always\" allowfullscreen=\"true\" width=\"480\" height=\"295\"></embed></object>"
+}

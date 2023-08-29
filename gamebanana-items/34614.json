@@ -1,0 +1,913 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"addons": {
+						"0": "mattie_eventscripts.dll",
+						"1": "mattie_eventscripts.res",
+						"2": "mattie_eventscripts.vdf",
+						"3": "mattie_eventscripts_i486.so",
+						"eventscripts": {
+							"0": "es.py",
+							"1": "license.txt",
+							"_autoload": [
+								"placeholder.txt"
+							],
+							"_engines": {
+								"python": {
+									"Lib": {
+										"0": "BaseHTTPServer.py",
+										"1": "Bastion.py",
+										"10": "SimpleXMLRPCServer.py",
+										"100": "nntplib.py",
+										"101": "ntpath.py",
+										"102": "nturl2path.py",
+										"103": "opcode.py",
+										"104": "optparse.py",
+										"105": "os.py",
+										"106": "os2emxpath.py",
+										"107": "path.py",
+										"108": "pdb.py",
+										"109": "pickle.py",
+										"11": "SocketServer.py",
+										"110": "pickletools.py",
+										"111": "pipes.py",
+										"112": "pkgutil.py",
+										"113": "platform.py",
+										"114": "popen2.py",
+										"115": "poplib.py",
+										"116": "posixfile.py",
+										"117": "posixpath.py",
+										"118": "pprint.py",
+										"119": "profile.py",
+										"12": "StringIO.py",
+										"120": "pstats.py",
+										"121": "pty.py",
+										"122": "py_compile.py",
+										"123": "pyclbr.py",
+										"124": "pydoc.py",
+										"125": "quopri.py",
+										"126": "random.py",
+										"127": "re.py",
+										"128": "repr.py",
+										"129": "rexec.py",
+										"13": "UserDict.py",
+										"130": "rfc822.py",
+										"131": "rlcompleter.py",
+										"132": "robotparser.py",
+										"133": "runpy.py",
+										"134": "sched.py",
+										"135": "sets.py",
+										"136": "sgmllib.py",
+										"137": "sha.py",
+										"138": "shelve.py",
+										"139": "shlex.py",
+										"14": "UserList.py",
+										"140": "shutil.py",
+										"141": "site.py",
+										"142": "smtpd.py",
+										"143": "smtplib.py",
+										"144": "sndhdr.py",
+										"145": "socket.py",
+										"146": "sre.py",
+										"147": "sre_compile.py",
+										"148": "sre_constants.py",
+										"149": "sre_parse.py",
+										"15": "UserString.py",
+										"150": "stat.py",
+										"151": "statvfs.py",
+										"152": "string.py",
+										"153": "stringold.py",
+										"154": "stringprep.py",
+										"155": "struct.py",
+										"156": "subprocess.py",
+										"157": "sunau.py",
+										"158": "sunaudio.py",
+										"159": "symbol.py",
+										"16": "_LWPCookieJar.py",
+										"160": "symtable.py",
+										"161": "tabnanny.py",
+										"162": "tarfile.py",
+										"163": "telnetlib.py",
+										"164": "tempfile.py",
+										"165": "textwrap.py",
+										"166": "this.py",
+										"167": "threading.py",
+										"168": "timeit.py",
+										"169": "toaiff.py",
+										"17": "_MozillaCookieJar.py",
+										"170": "token.py",
+										"171": "tokenize.py",
+										"172": "trace.py",
+										"173": "traceback.py",
+										"174": "tty.py",
+										"175": "types.py",
+										"176": "unittest.py",
+										"177": "urllib.py",
+										"178": "urllib2.py",
+										"179": "urlparse.py",
+										"18": "__future__.py",
+										"180": "user.py",
+										"181": "uu.py",
+										"182": "uuid.py",
+										"183": "warnings.py",
+										"184": "wave.py",
+										"185": "weakref.py",
+										"186": "webbrowser.py",
+										"187": "whichdb.py",
+										"188": "xdrlib.py",
+										"189": "xmllib.py",
+										"19": "__phello__.foo.py",
+										"190": "xmlrpclib.py",
+										"191": "zipfile.py",
+										"2": "CGIHTTPServer.py",
+										"20": "_strptime.py",
+										"21": "_threading_local.py",
+										"22": "aifc.py",
+										"23": "anydbm.py",
+										"24": "asynchat.py",
+										"25": "asyncore.py",
+										"26": "atexit.py",
+										"27": "audiodev.py",
+										"28": "base64.py",
+										"29": "bdb.py",
+										"3": "ConfigParser.py",
+										"30": "binhex.py",
+										"31": "bisect.py",
+										"32": "cProfile.py",
+										"33": "calendar.py",
+										"34": "cgi.py",
+										"35": "cgitb.py",
+										"36": "chunk.py",
+										"37": "cmd.py",
+										"38": "code.py",
+										"39": "codecs.py",
+										"4": "Cookie.py",
+										"40": "codeop.py",
+										"41": "colorsys.py",
+										"42": "commands.py",
+										"43": "compileall.py",
+										"44": "contextlib.py",
+										"45": "cookielib.py",
+										"46": "copy.py",
+										"47": "copy_reg.py",
+										"48": "csv.py",
+										"49": "dbhash.py",
+										"5": "DocXMLRPCServer.py",
+										"50": "decimal.py",
+										"51": "difflib.py",
+										"52": "dircache.py",
+										"53": "dis.py",
+										"54": "doctest.py",
+										"55": "dumbdbm.py",
+										"56": "dummy_thread.py",
+										"57": "dummy_threading.py",
+										"58": "filecmp.py",
+										"59": "fileinput.py",
+										"6": "HTMLParser.py",
+										"60": "fnmatch.py",
+										"61": "formatter.py",
+										"62": "fpformat.py",
+										"63": "ftplib.py",
+										"64": "functools.py",
+										"65": "getopt.py",
+										"66": "getpass.py",
+										"67": "gettext.py",
+										"68": "glob.py",
+										"69": "gopherlib.py",
+										"7": "MimeWriter.py",
+										"70": "gzip.py",
+										"71": "hashlib.py",
+										"72": "heapq.py",
+										"73": "hmac.py",
+										"74": "htmlentitydefs.py",
+										"75": "htmllib.py",
+										"76": "httplib.py",
+										"77": "ihooks.py",
+										"78": "imaplib.py",
+										"79": "imghdr.py",
+										"8": "Queue.py",
+										"80": "imputil.py",
+										"81": "inspect.py",
+										"82": "keyword.py",
+										"83": "linecache.py",
+										"84": "locale.py",
+										"85": "macpath.py",
+										"86": "macurl2path.py",
+										"87": "mailbox.py",
+										"88": "mailcap.py",
+										"89": "markupbase.py",
+										"9": "SimpleHTTPServer.py",
+										"90": "md5.py",
+										"91": "mhlib.py",
+										"92": "mimetools.py",
+										"93": "mimetypes.py",
+										"94": "mimify.py",
+										"95": "modulefinder.py",
+										"96": "multifile.py",
+										"97": "mutex.py",
+										"98": "netrc.py",
+										"99": "new.py",
+										"bsddb": [
+											"__init__.py",
+											"db.py",
+											"dbobj.py",
+											"dbrecio.py",
+											"dbshelve.py",
+											"dbtables.py",
+											"dbutils.py"
+										],
+										"compiler": [
+											"__init__.py",
+											"ast.py",
+											"consts.py",
+											"future.py",
+											"misc.py",
+											"pyassem.py",
+											"pycodegen.py",
+											"symbols.py",
+											"syntax.py",
+											"transformer.py",
+											"visitor.py"
+										],
+										"ctypes": {
+											"0": "__init__.py",
+											"1": "_endian.py",
+											"2": "util.py",
+											"3": "wintypes.py",
+											"macholib": [
+												"__init__.py",
+												"dyld.py",
+												"dylib.py",
+												"framework.py"
+											]
+										},
+										"distutils": [
+											"__init__.py",
+											"archive_util.py",
+											"core.py",
+											"debug.py",
+											"dep_util.py",
+											"dir_util.py",
+											"dist.py",
+											"errors.py",
+											"extension.py",
+											"fancy_getopt.py",
+											"file_util.py",
+											"filelist.py",
+											"log.py",
+											"sysconfig.py",
+											"text_file.py",
+											"util.py",
+											"version.py",
+											"versionpredicate.py"
+										],
+										"email": {
+											"0": "__init__.py",
+											"1": "_parseaddr.py",
+											"10": "message.py",
+											"11": "parser.py",
+											"12": "quoprimime.py",
+											"13": "utils.py",
+											"2": "base64mime.py",
+											"3": "charset.py",
+											"4": "encoders.py",
+											"5": "errors.py",
+											"6": "feedparser.py",
+											"7": "generator.py",
+											"8": "header.py",
+											"9": "iterators.py",
+											"mime": [
+												"__init__.py",
+												"application.py",
+												"audio.py",
+												"base.py",
+												"image.py",
+												"message.py",
+												"multipart.py",
+												"nonmultipart.py",
+												"text.py"
+											]
+										},
+										"encodings": [
+											"__init__.py",
+											"aliases.py",
+											"ascii.py",
+											"base64_codec.py",
+											"big5.py",
+											"big5hkscs.py",
+											"bz2_codec.py",
+											"charmap.py",
+											"cp037.py",
+											"cp1006.py",
+											"cp1026.py",
+											"cp1140.py",
+											"cp1250.py",
+											"cp1251.py",
+											"cp1252.py",
+											"cp1253.py",
+											"cp1254.py",
+											"cp1255.py",
+											"cp1256.py",
+											"cp1257.py",
+											"cp1258.py",
+											"cp424.py",
+											"cp437.py",
+											"cp500.py",
+											"cp737.py",
+											"cp775.py",
+											"cp850.py",
+											"cp852.py",
+											"cp855.py",
+											"cp856.py",
+											"cp857.py",
+											"cp860.py",
+											"cp861.py",
+											"cp862.py",
+											"cp863.py",
+											"cp864.py",
+											"cp865.py",
+											"cp866.py",
+											"cp869.py",
+											"cp874.py",
+											"cp875.py",
+											"cp932.py",
+											"cp949.py",
+											"cp950.py",
+											"euc_jis_2004.py",
+											"euc_jisx0213.py",
+											"euc_jp.py",
+											"euc_kr.py",
+											"gb18030.py",
+											"gb2312.py",
+											"gbk.py",
+											"hex_codec.py",
+											"hp_roman8.py",
+											"hz.py",
+											"idna.py",
+											"iso2022_jp.py",
+											"iso2022_jp_1.py",
+											"iso2022_jp_2.py",
+											"iso2022_jp_2004.py",
+											"iso2022_jp_3.py",
+											"iso2022_jp_ext.py",
+											"iso2022_kr.py",
+											"iso8859_1.py",
+											"iso8859_10.py",
+											"iso8859_11.py",
+											"iso8859_13.py",
+											"iso8859_14.py",
+											"iso8859_15.py",
+											"iso8859_16.py",
+											"iso8859_2.py",
+											"iso8859_3.py",
+											"iso8859_4.py",
+											"iso8859_5.py",
+											"iso8859_6.py",
+											"iso8859_7.py",
+											"iso8859_8.py",
+											"iso8859_9.py",
+											"johab.py",
+											"koi8_r.py",
+											"koi8_u.py",
+											"latin_1.py",
+											"mac_arabic.py",
+											"mac_centeuro.py",
+											"mac_croatian.py",
+											"mac_cyrillic.py",
+											"mac_farsi.py",
+											"mac_greek.py",
+											"mac_iceland.py",
+											"mac_latin2.py",
+											"mac_roman.py",
+											"mac_romanian.py",
+											"mac_turkish.py",
+											"mbcs.py",
+											"palmos.py",
+											"ptcp154.py",
+											"punycode.py",
+											"quopri_codec.py",
+											"raw_unicode_escape.py",
+											"rot_13.py",
+											"shift_jis.py",
+											"shift_jis_2004.py",
+											"shift_jisx0213.py",
+											"string_escape.py",
+											"tis_620.py",
+											"undefined.py",
+											"unicode_escape.py",
+											"unicode_internal.py",
+											"utf_16.py",
+											"utf_16_be.py",
+											"utf_16_le.py",
+											"utf_7.py",
+											"utf_8.py",
+											"utf_8_sig.py",
+											"uu_codec.py",
+											"zlib_codec.py"
+										],
+										"hotshot": [
+											"__init__.py",
+											"log.py",
+											"stats.py",
+											"stones.py"
+										],
+										"logging": [
+											"__init__.py",
+											"config.py",
+											"handlers.py"
+										],
+										"msilib": [
+											"__init__.py",
+											"schema.py",
+											"sequence.py",
+											"text.py"
+										],
+										"plat-linux2": {
+											"0": "CDROM.py",
+											"1": "CDROM.pyc",
+											"10": "TYPES.py",
+											"11": "TYPES.pyc",
+											"12": "TYPES.pyo",
+											"13": "_bisect.so",
+											"14": "_bsddb.so",
+											"15": "_codecs_cn.so",
+											"16": "_codecs_hk.so",
+											"17": "_codecs_iso2022.so",
+											"18": "_codecs_jp.so",
+											"19": "_codecs_kr.so",
+											"2": "CDROM.pyo",
+											"20": "_codecs_tw.so",
+											"21": "_csv.so",
+											"22": "_ctypes.so",
+											"23": "_ctypes_test.so",
+											"24": "_curses.so",
+											"25": "_curses_panel.so",
+											"26": "_elementtree.so",
+											"27": "_functools.so",
+											"28": "_hashlib.so",
+											"29": "_heapq.so",
+											"3": "DLFCN.py",
+											"30": "_hotshot.so",
+											"31": "_locale.so",
+											"32": "_lsprof.so",
+											"33": "_md5.so",
+											"34": "_multibytecodec.so",
+											"35": "_random.so",
+											"36": "_sha.so",
+											"37": "_sha256.so",
+											"38": "_sha512.so",
+											"39": "_socket.so",
+											"4": "DLFCN.pyc",
+											"40": "_sqlite3.so",
+											"41": "_ssl.so",
+											"42": "_struct.so",
+											"43": "_testcapi.so",
+											"44": "_tkinter.so",
+											"45": "_weakref.so",
+											"46": "array.so",
+											"47": "audioop.so",
+											"48": "binascii.so",
+											"49": "bz2.so",
+											"5": "DLFCN.pyo",
+											"50": "cPickle.so",
+											"51": "cStringIO.so",
+											"52": "cmath.so",
+											"53": "collections.so",
+											"54": "crypt.so",
+											"55": "datetime.so",
+											"56": "dbm.so",
+											"57": "dl.so",
+											"58": "fcntl.so",
+											"59": "gdbm.so",
+											"6": "IN.py",
+											"60": "grp.so",
+											"61": "imageop.so",
+											"62": "itertools.so",
+											"63": "libpython2.5.so.1.0",
+											"64": "linuxaudiodev.so",
+											"65": "math.so",
+											"66": "mmap.so",
+											"67": "nis.so",
+											"68": "operator.so",
+											"69": "ossaudiodev.so",
+											"7": "IN.pyc",
+											"70": "parser.so",
+											"71": "pyexpat.so",
+											"72": "readline.so",
+											"73": "resource.so",
+											"74": "rgbimg.so",
+											"75": "select.so",
+											"76": "spwd.so",
+											"77": "strop.so",
+											"78": "syslog.so",
+											"79": "termios.so",
+											"8": "IN.pyo",
+											"80": "time.so",
+											"81": "unicodedata.so",
+											"82": "zlib.so",
+											"9": "Python-2.5.1-py2.5.egg-info",
+											"psyco": [
+												"__init__.py",
+												"__init__.pyc",
+												"_psyco.so",
+												"classes.py",
+												"classes.pyc",
+												"core.py",
+												"core.pyc",
+												"kdictproxy.py",
+												"kdictproxy.pyc",
+												"logger.py",
+												"logger.pyc",
+												"profiler.py",
+												"profiler.pyc",
+												"support.py",
+												"support.pyc"
+											]
+										},
+										"plat-win": {
+											"0": "_bsddb.pyd",
+											"1": "_ctypes.pyd",
+											"10": "_tkinter.pyd",
+											"11": "bz2.pyd",
+											"12": "msvcr71.dll",
+											"13": "py.ico",
+											"14": "pyc.ico",
+											"15": "pyexpat.pyd",
+											"16": "python25.dll",
+											"17": "select.pyd",
+											"18": "sqlite3.dll",
+											"19": "unicodedata.pyd",
+											"2": "_ctypes_test.pyd",
+											"20": "winsound.pyd",
+											"3": "_elementtree.pyd",
+											"4": "_hashlib.pyd",
+											"5": "_msi.pyd",
+											"6": "_socket.pyd",
+											"7": "_sqlite3.pyd",
+											"8": "_ssl.pyd",
+											"9": "_testcapi.pyd",
+											"psyco": [
+												"__init__.py",
+												"__init__.pyc",
+												"__init__.pyo",
+												"_psyco.pyd",
+												"classes.py",
+												"classes.pyc",
+												"classes.pyo",
+												"core.py",
+												"core.pyc",
+												"core.pyo",
+												"kdictproxy.py",
+												"kdictproxy.pyc",
+												"kdictproxy.pyo",
+												"logger.py",
+												"logger.pyc",
+												"logger.pyo",
+												"profiler.py",
+												"profiler.pyc",
+												"profiler.pyo",
+												"support.py",
+												"support.pyc",
+												"support.pyo"
+											]
+										},
+										"site-packages": [
+											"BeautifulSoup.py",
+											"configobj.py",
+											"placeholder.txt",
+											"soupselect.py"
+										],
+										"sqlite3": [
+											"__init__.py",
+											"dbapi2.py"
+										],
+										"wsgiref": [
+											"__init__.py",
+											"handlers.py",
+											"headers.py",
+											"simple_server.py",
+											"util.py",
+											"validate.py"
+										],
+										"xml": {
+											"0": "__init__.py",
+											"dom": [
+												"NodeFilter.py",
+												"__init__.py",
+												"domreg.py",
+												"expatbuilder.py",
+												"minicompat.py",
+												"minidom.py",
+												"pulldom.py",
+												"xmlbuilder.py"
+											],
+											"etree": [
+												"ElementInclude.py",
+												"ElementPath.py",
+												"ElementTree.py",
+												"__init__.py",
+												"cElementTree.py"
+											],
+											"parsers": [
+												"__init__.py",
+												"expat.py"
+											],
+											"sax": [
+												"__init__.py",
+												"_exceptions.py",
+												"expatreader.py",
+												"handler.py",
+												"saxutils.py",
+												"xmlreader.py"
+											]
+										}
+									}
+								}
+							},
+							"_libs": {
+								"python": {
+									"0": "cfglib.py",
+									"1": "deflangs.ini",
+									"10": "playerlib.py",
+									"11": "popuplib.py",
+									"12": "repeat.py",
+									"13": "usermsg.py",
+									"14": "vecmath.py",
+									"15": "votelib.py",
+									"2": "effectlib.py",
+									"3": "esamlib.py",
+									"4": "gamethread.py",
+									"5": "installlib.py",
+									"6": "keymenulib.py",
+									"7": "keyvalues.py",
+									"8": "langlib.py",
+									"9": "msglib.py",
+									"services": [
+										"__init__.py",
+										"auth.py"
+									],
+									"settinglib": [
+										"__init__.py",
+										"list.py",
+										"strings.ini",
+										"toggle.py"
+									]
+								}
+							},
+							"_tests": {
+								"0": "__init__.py",
+								"msgtests": [
+									"msgtests.py"
+								]
+							},
+							"attract": [
+								"es_attract.txt"
+							],
+							"benchmark": [
+								"es_benchmark.txt"
+							],
+							"corelib": {
+								"0": "__init__.py",
+								"1": "es_corelib.txt",
+								"average": [
+									"es_average.txt"
+								],
+								"clientcmd": [
+									"es_clientcmd.txt"
+								],
+								"damage": [
+									"es_damage.txt"
+								],
+								"entitylib": [
+									"es_entitylib.txt"
+								],
+								"es_install": [
+									"es_install.py"
+								],
+								"escinject": [
+									"es_escinject.txt"
+								],
+								"exp": [
+									"exp.py"
+								],
+								"foreach": {
+									"0": "es__foreach_weaponlist_cstrike_db.txt",
+									"1": "es__foreach_weaponlist_dods_db.txt",
+									"2": "es__foreach_weaponlist_hl2dm_db.txt",
+									"3": "es_foreach.txt",
+									"foreachtest": [
+										"es_foreachtest.txt"
+									]
+								},
+								"getbotname": [
+									"es_getbotname.txt"
+								],
+								"getplayercount": [
+									"es_getplayercount.txt"
+								],
+								"inrange": [
+									"es_inrange.txt"
+								],
+								"interfaces": {
+									"0": "es_interfaces.txt",
+									"AuthorizationService": [
+										"es_AuthorizationService_db.txt"
+									],
+									"TestInterface": [
+										"es_TestInterface_db.txt"
+									]
+								},
+								"isnumerical": [
+									"es_isnumerical.txt"
+								],
+								"keyfilter": [
+									"es_keyfilter.txt"
+								],
+								"keygrouprand": [
+									"es_keygrouprand.txt",
+									"es_keygrouprandtest_db.txt"
+								],
+								"keygroupsort": [
+									"es_keygroupsort.txt",
+									"es_keygroupsorttest_db.txt"
+								],
+								"keyrand": [
+									"es_keyrand.txt",
+									"es_keyrandtest_db.txt"
+								],
+								"linkedlist": [
+									"es_linkedlist.txt"
+								],
+								"playergetset": [
+									"es_playergetset.txt"
+								],
+								"playervar": [
+									"es_playervar.txt"
+								],
+								"queue": {
+									"0": "es_queue.txt",
+									"queuetest": [
+										"es_queuetest.txt"
+									]
+								},
+								"quickcmd": [
+									"es_quickcmd.txt"
+								],
+								"repeat": [
+									"es_repeat.txt"
+								],
+								"score": [
+									"es_score.txt"
+								],
+								"services": [
+									"es_services.txt",
+									"services.py"
+								],
+								"sqlitelib": [
+									"es_sqlitelib.txt"
+								],
+								"statlog": [
+									"es_statlog.txt"
+								],
+								"testlib": [
+									"es_testlib.txt"
+								],
+								"textlib": [
+									"es_textlib.txt"
+								],
+								"timelib": [
+									"es_timelib.txt"
+								],
+								"uniqueid": [
+									"es_uniqueid.txt"
+								],
+								"usermsglib": [
+									"es_usermsglib.txt",
+									"usermsglib.py"
+								],
+								"vecmath": [
+									"es_vecmath.txt"
+								],
+								"xalias": [
+									"es_xalias.txt"
+								]
+							},
+							"crontab": [
+								"es_crontab.txt"
+							],
+							"diag": [
+								"es_diag.txt"
+							],
+							"examples": {
+								"0": "__init__.py",
+								"adminsay": [
+									"es_adminsay.txt"
+								],
+								"auth": {
+									"0": "__init__.py",
+									"auth_user": [
+										"auth_user.py",
+										"es_auth_user.txt"
+									],
+									"basic_auth": [
+										"basic_auth.py",
+										"es_basic_auth.txt"
+									],
+									"group_auth": [
+										"es_group_auth.txt",
+										"group_auth.py"
+									],
+									"no_auth": [
+										"es_no_auth.txt"
+									]
+								},
+								"ffevents": [
+									"es_ffevents.res",
+									"es_ffevents.txt"
+								],
+								"query": [
+									"es_query.txt"
+								],
+								"servermail": [
+									"es_servermail.txt"
+								]
+							},
+							"itemmem": [
+								"es_itemmem.txt"
+							],
+							"keymenu": [
+								"es_keymenu.txt",
+								"keymenu.py"
+							],
+							"mugmod": [
+								"es_mugmod.txt",
+								"mugmod.py",
+								"strings.ini"
+							],
+							"popup": [
+								"popup.py",
+								"popup.res"
+							],
+							"pybenchmark": [
+								"pybenchmark.py"
+							],
+							"pyunittest": {
+								"0": "pyunittest.py",
+								"sub": [
+									"sub.py"
+								]
+							},
+							"schedule": [
+								"es_schedule.txt"
+							],
+							"setting": {
+								"0": "es_setting.txt",
+								"1": "setting.py",
+								"settingtest": [
+									"es_settingtest.txt"
+								]
+							},
+							"slingshot": [
+								"es_slingshot.txt"
+							],
+							"syphon": [
+								"es_syphon.txt"
+							],
+							"unittest": [
+								"es_unittest.res",
+								"es_unittest.txt",
+								"unittest.cfg"
+							],
+							"vote": {
+								"0": "es_vote.txt",
+								"1": "vote.py",
+								"votetest": [
+									"es_votetest.txt"
+								]
+							}
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 4478,
+			"_nDownloadCount": 5762,
+			"_nFilesize": 10492504,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/4478",
+			"_sFile": "mattie_eventscripts_200beta248c_2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1188014501
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 34614,
+	"_sName": "Eventscripts 2.0",
+	"_sText": "v2.0\r\nNeeds to be installed to run GunGame 5."
+}

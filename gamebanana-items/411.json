@@ -1,0 +1,34 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"math_counter": [
+						"hammer.jpg",
+						"math_counter.bsp",
+						"math_counter.vmf",
+						"math_counter0000.jpg",
+						"math_counter0001.jpg"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 44327,
+			"_nDownloadCount": 1311,
+			"_nFilesize": 1314497,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/44327",
+			"_sFile": "math_counter.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1206997148
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 411,
+	"_sName": "math_counter",
+	"_sText": "This bsp + vmf includes a simple 1+1=2=Trigger system. It also provides examples of triggers, sounds, lighting and lightmaps.\r\n\r\n**The math_counter starts on one.\r\n   Button 1 adds one to the math_counter.\r\n   Button 2 adds one to the math_counter.\r\n   The math_counter is on 3 and the max is 3.\r\n   When its on max it have triggered a door to break and spawn a zombie. **"
+}

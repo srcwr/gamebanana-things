@@ -1,0 +1,43 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"addons": {
+						"0": "Es_Tools.dll",
+						"1": "es_tools.vdf",
+						"2": "es_tools_i486.so",
+						"est": [
+							"es_tools.res",
+							"est_info.dat",
+							"est_security.cfg",
+							"weapons.cfg",
+							"weapons.cfg.bak",
+							"weapons_example.cfg"
+						]
+					},
+					"cfg": [
+						"es_tools.cfg"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 4477,
+			"_nDownloadCount": 4861,
+			"_nFilesize": 493369,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/4477",
+			"_sFile": "es_tools_2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1188014762
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 34615,
+	"_sName": "ES_Tools",
+	"_sText": "v.418\r\nNeeded to play GunGame V4, and can be used to respawn players in GunGame V5 for gg_deathmatch and gg_elimination."
+}

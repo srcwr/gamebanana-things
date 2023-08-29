@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ammo_crate.vmf"
+				],
+				"_sMimeType": "application/zip"
+			},
+			"_bContainsExe": false,
+			"_idRow": 46516,
+			"_nDownloadCount": 321,
+			"_nFilesize": 2362,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/46516",
+			"_sFile": "ammo_crate_thing.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1265525185
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 3022,
+	"_sName": "The Magic Ammo Giving Crate",
+	"_sText": "Its simple. Walk up to it, press E on the handle, and get your ammo. Although it was a pain to get all the caliber types, I have done it. The crate has open and closing animations, plus sounds that play. \r\n\r\nBug: Apparently you don't spawn with any weapons. Fix this by turning off smart edit in the \"game_player_equip\" entity, click \"add,\" then type in \"weapon_knife\" for the first box, and type in \"1\" for the bigger one. Do the same for any other weapons you want to add. Yes I'm too lazy to fix this, it's late here :(\r\n\r\nHave fun, and don't forget to credit me. "
+}

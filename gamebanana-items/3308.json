@@ -1,0 +1,37 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "sudoku.bsp",
+					"1": "sudoku.txt",
+					"2": "sudoku.vmf",
+					"materials": {
+						"decals": [
+							"infnum.vmt",
+							"infnum.vtf"
+						]
+					}
+				},
+				"_sMimeType": "application/x-rar"
+			},
+			"_bContainsExe": false,
+			"_idRow": 46504,
+			"_nDownloadCount": 326,
+			"_nFilesize": 221516,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/46504",
+			"_sFile": "sudoku.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1265991833
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 3308,
+	"_sName": "Sudoku",
+	"_sText": "Sudoku minigame. Completely working puzzle which supports multiple randomly picked puzzles each round, although only 1 puzzle provided in this release.\r\n\r\nTo solve the puzzle, shoot a box to select it and then shoot a number outside the grid to place it in the selected box.\r\n\r\nWhen a puzzle is solved correctly, the board lights up green to indicate you have completed it correctly.\r\n\r\nThis was a random project and is not meant for anything. If you would like to use this you will have to obviously find it a suitable purpose as it takes 8-10 minutes to solve an \"easy\" Sudoku puzzle by an average person. Some tweaking will be required as well.\r\n\r\nThe decal provided is required for the Sudoku board to function properly.\r\n\r\nIf you would like to use this, credit me obviously. Enjoy."
+}

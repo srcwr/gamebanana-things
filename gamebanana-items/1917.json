@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"improved_timer_counter.bsp",
+					"improved_timer_counter.vmf"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 46498,
+			"_nDownloadCount": 483,
+			"_nFilesize": 77114,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/46498",
+			"_sFile": "improved_timer_counter.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1266251857
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 1917,
+	"_sName": "improved Counter/Timer",
+	"_sText": "<a href=http://www.fpsbanana.com/prefabs/3981>Fibbs Visual Counter/Timer</a>\r\n\r\n_______________\r\n\r\n\r\nLike Fibbs said:\r\n\r\nA logic_timer adds 1 to the counter every second, which sends its current value to the logic_case. The logic_case compares the number input from the math_counter to the cases it has, and fires the first case that matches. Depending on which case is fired, it enables or disables each func_brush to show the number. When a counter hits its max it adds 1 to the next counter, which controls another  digit.\r\n\r\nFibbs Timer/Counter maximum value was 99.\r\nmy Timer/Counter goes to 59 and after the next second adds a minute: \r\nFibbs Timer: 59 to 60 ... 99 to 00\r\nMy Timer: 0:59 to 1:00 ... 9:59 to 0:00\r\n\r\nthe improved counter/timer works until it reaches 9 minutes and 59 seconds while fibbs counter works until it reaches 99 seconds.\r\n\r\nTheres a Start, Stop and Reset Button.\r\n\r\n_______________\r\n\r\n\r\nPlease credit Fibbs and me if you use this in your map!\r\n\r\n"
+}

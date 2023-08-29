@@ -1,0 +1,30 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"capturebase.bsp",
+					"capturebase.txt",
+					"capturebase.vmf"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 46505,
+			"_nDownloadCount": 312,
+			"_nFilesize": 291094,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/46505",
+			"_sFile": "capturebase.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1265990938
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 1916,
+	"_sName": "Base Capture System",
+	"_sText": "This is a base capture system.\r\n\r\nThere are 5 bases total. Once 3 bases are captured by one team, a countdown begins in which time the team must hold the bases. \r\n\r\nTo capture a base, a player must stand in it for 15 seconds without stepping out of the circle or dieing. To recapture it, the same rules apply.\r\n\r\n\r\nThis system is mostly complete except it will need some tweaking as far as console messages go and general time tweaking on how long a team must hold the 3 bases.\r\n\r\nIf you use this, credit me.\r\n\r\n---- DISCLAIMER:\r\nDO not attempt to integrate this into your map unless you are an advanced mapper with extensive knowledge of source entities.\r\n\r\n\r\nThis release is provided \"as is,\" meaning I do not guarantee it will work perfectly in a multiplayer environment, as I have never tested it with more than a couple of people."
+}

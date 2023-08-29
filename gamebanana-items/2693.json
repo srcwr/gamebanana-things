@@ -1,0 +1,63 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"Warthog": {
+						"0": "README.txt",
+						"Screenshots": [
+							"Thumbs.db",
+							"hammer 2010-03-17 19-14-00-62.jpg",
+							"hammer 2010-03-19 07-42-37-43.jpg",
+							"hl2 2010-03-17 19-15-59-67.jpg",
+							"hl2 2010-03-17 19-16-11-14.jpg",
+							"hl2 2010-03-17 19-16-22-76.jpg",
+							"hl2 2010-03-17 19-44-28-07.jpg",
+							"hl2 2010-03-17 19-44-33-09.jpg",
+							"hl2 2010-03-17 19-45-37-84.jpg"
+						],
+						"counter-strike source": {
+							"cstrike": {
+								"materials": {
+									"basic": [
+										"metalbody1.vmt",
+										"metalbody1.vtf"
+									]
+								},
+								"weapons": {
+									"m249": [
+										"m249-1.wav"
+									]
+								}
+							}
+						},
+						"sourcesdk_content": {
+							"cstrike": {
+								"mapsrc": [
+									"warthog_drivable_shootable_v2.vmf"
+								]
+							}
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 46482,
+			"_nDownloadCount": 537,
+			"_nFilesize": 1401146,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/46482",
+			"_sFile": "warthog_3.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1268852178
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2693,
+	"_sName": "Warthog Drivable and shootable",
+	"_sText": "So iv'e decided to upload the drivable and shootable version. \r\nModel made by *T3cH*    http://www.fpsbanana.com/members/249466\r\n\r\nIf there are any bugs / glitches i will remake and reupload a new version ofc.\r\n\r\nBut ofc there will be bugs on create server, you should test it on a real server with tickrate 33/66\r\n\r\nHope you will enjoy this prefab, and if you are using it in your map feel free to add *T3cH* to the credits.  \r\n\r\n\r\n-----UPDATED-----\r\n\r\nAdded the original Camo Textures\r\n\r\n\r\n\r\n\r\n"
+}

@@ -1,0 +1,122 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"addons": {
+						"sourcemod": {
+							"extensions": [
+								"cssdm.ext.dll",
+								"cssdm.ext.so"
+							],
+							"gamedata": [
+								"cssdm.games.txt"
+							],
+							"plugins": {
+								"cssdm": [
+									"dm_basics.smx",
+									"dm_bot_quotas.smx",
+									"dm_equipment.smx",
+									"dm_preset_spawns.smx",
+									"dm_spawn_protection.smx"
+								]
+							},
+							"scripting": {
+								"0": "dm_basics.sp",
+								"1": "dm_bot_quotas.sp",
+								"2": "dm_equipment.sp",
+								"3": "dm_preset_spawns.sp",
+								"4": "dm_spawn_protection.sp",
+								"include": [
+									"cssdm.inc"
+								]
+							},
+							"translations": [
+								"cssdm.phrases.txt"
+							]
+						}
+					},
+					"cfg": {
+						"cssdm": {
+							"0": "cssdm.cfg",
+							"1": "cssdm.equip.txt",
+							"2": "cssdm.weapons.txt",
+							"extra": [
+								"changelog.txt",
+								"credits.txt",
+								"license.txt"
+							],
+							"maps": [
+								"de_sample.cssdm.cfg",
+								"de_sample.equip.txt"
+							],
+							"spawns": [
+								"aim_ag_texture.txt",
+								"aim_ag_texture2.txt",
+								"aim_ag_texture5.txt",
+								"aim_ag_texture_r.txt",
+								"aim_shotty.txt",
+								"ba_ffg2_v1.txt",
+								"ba_texture_arena2.txt",
+								"cs_assault.txt",
+								"cs_compound.txt",
+								"cs_havana.txt",
+								"cs_italy.txt",
+								"cs_kismayo.txt",
+								"cs_militia.txt",
+								"cs_militia_bymicosv2.txt",
+								"cs_office.txt",
+								"cs_office_extended.txt",
+								"cs_reflex3.txt",
+								"cs_retreat.txt",
+								"de_aztec.txt",
+								"de_cbble.txt",
+								"de_chateau.txt",
+								"de_clan_mill_beta.txt",
+								"de_contra.txt",
+								"de_dust.txt",
+								"de_dust2.txt",
+								"de_industrial_crane_v3.txt",
+								"de_inferno.txt",
+								"de_losttemple.txt",
+								"de_menace.txt",
+								"de_nuke.txt",
+								"de_piranesi.txt",
+								"de_port.txt",
+								"de_prodigy.txt",
+								"de_tides.txt",
+								"de_train.txt",
+								"dm_battlecreek_v3.txt",
+								"fy_barn.txt",
+								"fy_blazin.txt",
+								"fy_blizzard_rc1.txt",
+								"fy_funtimes.txt",
+								"fy_iceworld_arena.txt",
+								"fy_rocks.txt",
+								"fy_trenches.txt",
+								"wired.txt"
+							]
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 4189,
+			"_nDownloadCount": 3688,
+			"_nFilesize": 266462,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/4189",
+			"_sFile": "cssdm-210.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1211934855
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 34622,
+	"_sName": "CSSDM 2.1.0",
+	"_sText": "<u>Updates</u>\r\n- Added the ability to translate equipment menus (translation file must be updated if you upgrade).\r\n- Added the ability to skip a weapon selection menu via \"Exit.\"\r\n- Added an experimental cssdm_remove_drops cvar for specifying whether CS:S DM removes weapon drops.\r\n- Fixed a bug where if you only selected one gun, you could not opt to repeat the selection on the main equipment menu.\r\n- Fixed a bug where dm_equipment could perform actions on players/bots when cssdm_enable_equipment was 0.\r\n- Fixed a bug where an unspecified primary or secondary weapon could be given if the cssdm.equip.txt file specified none in the list and the player selected \"Random.\"\r\n- Fixed a bug where bot_quota would stop working if cssdm_bots_balance was set to \"0\".\r\n- Fixed \"nightvision\" not being in the cssdm.equip.txt config file.\r\n- Fixed bots always getting defuse kits.\r\n- Fixed a bug where CS:S DM crashed if FFA mode was set on the latest CS:S version.\r\n- Updated some library code from SourceMod that had received bug fixes since the last release. \r\n<u>Installation</u>\r\n1.  Install Metamod:Source 1.4.2+ (use either the auto-installer or Read Instructions).\r\n2. Install SourceMod 1.0.0.1172+ (Read Instructions).\r\n3. Download CS:S DM.\r\n4. Extract the CS:S DM zip file to your cstrike folder. If you're uploading to FTP, upload the contents of the file to the cstrik folder.\r\n5. Edit the config files in cfg/cssdm to your liking. They are self-explanatory; do not edit cssdm.weapons.txt!\r\n6. Restart your server.\r\n"
+}

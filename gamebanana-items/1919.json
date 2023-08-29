@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"prefab1.jpg",
+					"prefab_weapon_trails.vmf"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 46490,
+			"_nDownloadCount": 1076,
+			"_nFilesize": 210632,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/46490",
+			"_sFile": "prefab_weapon_trails.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1267280516
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 1919,
+	"_sName": "Spritetrails + Tutorial how to",
+	"_sText": "Weapon spiretrails and tutorial by Biuxify\r\no---------------------------------------------o\r\nFirst of all choose do you want premade trails or do you want to make your own. If you want download my premades go to part 1) and if you want to read tutorial go to part 2)\r\no--------------------------------------------------------------------------------------------o\r\n\r\nPart 1) (Downloading and installing)\r\no--------o\r\n1> Go to download link\r\n2> Extract prefab_weapon_trails.rar into your desktop\r\n3> Launch source SDK and valve hammer editor\r\n4> In hammer editor go to File -> Open and then browse to prefab_weapon_trails.vmf\r\n5> Do what you want but do NOT 1) copy the map and release as your own map 2) Leave me uncreditted if you use these premades 3) make changes and reupload without my permission.\r\n\r\no--------------------------------------------------------------------------------------------o\r\n\r\nPart 2) (Tutorial)\r\no--------o\r\nOk so you want to create your own trails,eh?\r\n\r\nFirst of all you need to open your map file (pretty obvious). After that you cant start making trails into anything you want. If you want rotating trails go to part 2,2) and if you want trails that just follow (more simple) go to part 2,1).\r\no-----------------------------------------------------------------------------------------o\r\n\r\nPart 2,1) (following trails)\r\no-----------------------------o\r\n1> Insert item/prop/gun/or almost anything into your map and name it example spirefollow_1.\r\n2> look for entity named Env_spiretrail and parent it to your placed thing (spirefollow_1).\r\n3> Compile your map and you are done.\r\nps. the prop must be moving to see following trail\r\no------------------------------------------------------------------------------------------o\r\n\r\npart 2,2) (rotating trails)\r\no----------------------------o\r\n1> Insert item/prop/gun/or almost anything into your map and name it example spirefollow_1.\r\n2> make a small box with texture tools/toolsinvisible and name it anyhow you want.\r\n3> now parent the small box with \"spirefollow_1\"\r\n4> then we need env_spiretrail. Name it and parent to your small box.\r\n5> Compile your map and you are done.\r\no------------------------------------------------------------------------------------------o\r\n\r\nYou can make any configs to env_spiretrail you need to make it look like you want.\r\n\r\no------------------------------------------------------------------------------------------o\r\n\r\nThank you!\r\n\r\n-Biuxify / Biux\r\nwww.steamcommunity.com/id/Biux\r\n\r\no------------------------------------------------------------------------------------------o"
+}

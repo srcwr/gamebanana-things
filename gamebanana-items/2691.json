@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"xwing_test.bsp",
+					"xwing_test2.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 46511,
+			"_nDownloadCount": 485,
+			"_nFilesize": 509461,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/46511",
+			"_sFile": "xwing.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1265747614
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 2691,
+	"_sName": "Xwing",
+	"_sText": "This prefab is a fully functional xwing that can be driven like a regular car, but shoots moving lasers on mouse click 1 and flys on mouse click 2. The cock pit window opens up like a regular door. The wings open when someone takes control of the xwing, and close when they leave it. The back has a ladder on it so that people can get on top of it to enter. \r\n\r\nIn the file to download, I gave you 2 versions of the xwing. The difference between them is how their wings open. Since the main body of the xwing is the physics box, the wings don't lift up the plane by themselves. So in order to fix that xwing_test1 forces the fly thruster to activate and has a vclip spawn underneath the plane so that it looks like it should. xwing_test2 activates a func_push underneath the plane so that it hovers up to where it should be. You can choose which you think works and looks better, but make sure you stretch the vclip or the func_push to cover up anywhere you want the xwing to be able to reach. \r\n\r\nCredits go to [-b-] for making the halo texture pack that I used to create the xwing and can be found here: http://www.fpsbanana.com/textures/2327\r\n\r\nIf anyone uses this in a map, I would love to see their work so please PM me or send a steam friend request to Dr. Kepper"
+}
