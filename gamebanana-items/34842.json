@@ -1,0 +1,49 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_sunny nav readme.txt",
+					"de_sunny.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 2385,
+			"_nDownloadCount": 605,
+			"_nFilesize": 82818,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/2385",
+			"_sFile": "nav_de_sunny_e60d0.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1402588772
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Total improvement of comlete Navigation Mesh"
+				},
+				{
+					"cat": "-",
+					"text": "Improved bot's movenent through all narrow doorways (more smooth and fast)"
+				},
+				{
+					"cat": "-",
+					"text": "Changed Place Names (more detailed and suitable)"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Update 1",
+			"_tsDateAdded": 1470942261
+		}
+	],
+	"_idRow": 34842,
+	"_sName": "Hand-tuned NAV for map DE_SUNNY",
+	"_sText": "Counter-Strike: Source : Bot's Navigation Mesh for the map DE_SUNNY<br><br>\r\nNav Creator: Meurglis3, Release Date: June 12 2014<br><br>\r\nHere is the Navigation Mesh for nice summer coastal town-themed map <a href=\"http://css.gamebanana.com/maps/170458\">de_sunny</a> by UZY (released February 2010).\r\nIt's a completely created from scratch and fully hand-tuned .nav-file. because in original mapauthor's archive was included simple (not fully playable) auto-gen .nav-file (embedded in .bsp-file).<br><br>\r\nBots freely and surely move on all outdoor/indoor areas of the map now. They will make your holiday on the Mediterranean coast unforgettable! :D<br><br>\r\nAlso this Navigation Mesh is fully Place Painted.<br><br>\r\nNOTE: For possibility of comparison and in-game testing the original navigation file by map creator available to downloading with the <a href=\"http://css.gamebanana.com/maps/170458\">same map</a>.<br><br>\r\nPlay and Enjoy! All your responses and feedbacks are always welcomed ;-)<br><br>\r\nCredits and Gratitudes:\r\nUZY (for bright and fascinating fast-paced sunny map).<br><br>\r\nAdditional Gratitudes:\r\nBarnDoor (for perfect playable navigation meshes for many fine CS:S maps),\r\nChizbone (for informative and clever article BOT_BRAINED and a set of excellent navigation meshes),\r\nCoCoNUT (for fine hand-tuned navigation meshes for many fine CS:S maps),\r\nValve Developer Community (for learning articles by Navigation Meshes and Navigation Mesh Commands).<br><br>Don't forget to put the cool RayBan on!&nbsp;:-)<br>\r\n<br>"
+}

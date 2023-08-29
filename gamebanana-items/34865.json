@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_offshore nav readme.txt",
+					"de_offshore.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 2189,
+			"_nDownloadCount": 937,
+			"_nFilesize": 50491,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/2189",
+			"_sFile": "nav_de_offshore_4.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1417697515
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 34865,
+	"_sName": "Hand-tuned NAV for map DE_OFFSHORE",
+	"_sText": "Counter-Strike: Source : Bot's Navigation Mesh for the map DE_OFFSHORE\r\n\r\n\r\nNav Creator: Meurglis3, Release Date: December 4 2014\r\n\r\nHere is the Navigation Mesh for excellent industrial map [de_offshore](http://css.gamebanana.com/maps/109649) by Yokai (released August 2009).\r\nIt's a created from scratch and carefully hand-tuned .nav-file (in original author's release the .nav-file a simple auto-gen was submitted only).\r\n\r\nThis Navigation Mesh was hand-maded at 80% 'cause auto-gen doesn't pereceive many areas as walkable (and even many generated areas were made not correctly). Some paths were builded from scratch completely: waypaths over the pipelines and repair constructions, passes through a difficult linking of a handrail and ladders... and still there are a lot of things.\r\n\r\nWell... map is quite difficult by design of levels (with multiple curved terrains and deadly places). But now bots use all possible ways at least. And the mortality percentage on imprudence among them is very low now :-) It seems that it's impossible to help them to play even better on this map! ;-)\r\n\r\nAlso this Navigation Mesh is fully Place Painted.\r\n\r\nPlay and Enjoy! Always will be grateful for your remarks and feedbacks ;-)\r\n\r\nCredits and Gratitudes:\r\n   Yokai (for very realistic and high detailed industrial-themed map).\r\n\r\nAdditional Gratitudes:\r\n   BarnDoor (for perfect playable navigation meshes for many fine CS:S maps),\r\n   Chizbone (for informative and clever article BOT_BRAINED and a set of excellent navigation meshes),\r\n   CoCoNUT (for fine hand-tuned navigation meshes for many fine CS:S maps),\r\n   Valve Developer Community (for learning articles by Navigation Meshes and Navigation Mesh Commands).\r\n\r\nThere will be blood! :-)"
+}

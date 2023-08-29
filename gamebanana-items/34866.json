@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"cs_oldcity nav readme.txt",
+					"cs_oldcity.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 2186,
+			"_nDownloadCount": 787,
+			"_nFilesize": 98061,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/2186",
+			"_sFile": "nav_cs_oldcity_6.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1417959594
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 34866,
+	"_sName": "Hand-tuned NAV for map CS_OLDCITY",
+	"_sText": "<p>Counter-Strike: Source : Bot's Navigation Mesh for the map CS_OLDCITY</p>\r\n<p>Nav Creator: Meurglis3, Release Date: December 7 2014</p>\r\n<p>Here is the Navigation Mesh for one of the best (imho) urban-themed map <a href=\"http://css.gamebanana.com/maps/93028\">cs_oldcity</a> by UZY (released April 2009).\r\nIt's a created from scratch and manually optimized (hand-tuned) .nav-file because in original author's .bsp-file was embedded simply auto-gen .nav-file.</p>\r\n<p>Most areas and paths were remade manually (also some additional paths were created from scratch) because during an auto-generation processing the majority of them were constructed incorrectly or incomplete. Some important paths were broken off (in particular ladder flights between the floors in the house with hostages at the T-base). Also the exit from an underground tunnel on the way to a rescue zone was blocked that deprived CTs of one of the main ways for an escort of hostages. And the set of other inaccuracies was allowed.</p>\r\n<p>Now, after manually reworking of nearly 80% of a Navigation Mesh, bots have opportunity to use all walkable ways and (I hope) will be able to keep the worthy company for human players! ;-)</p>\r\n<p>Also this Navigation Mesh is fully Place Painted.</p>\r\n<p>NOTE: For possibility of comparison and in-game testing the original navigation file by map creator embedded in original .bsp and available to downloading with the <a href=\"http://css.gamebanana.com/maps/93028\">same map</a>.</p>\r\n<p>Play and Enjoy! Also all your responses and remarks are always welcomed ;-)</p>\r\n<p>Credits and Gratitudes:\r\nUZY (for high detailed and very realistic urban-themed map).</p>\r\n<p>Additional Gratitudes:\r\nBarnDoor (for perfect playable navigation meshes for many fine CS:S maps),\r\nChizbone (for informative and clever article BOT_BRAINED and a set of excellent navigation meshes),\r\nCoCoNUT (for fine hand-tuned navigation meshes for many fine CS:S maps),\r\nValve Developer Community (for learning articles by Navigation Meshes and Navigation Mesh Commands).</p>\r\n<p>Long Live Great Maps!</p><p>- - - - - - - - - - - - - - - - - - - - - - - -</p><p><b>UPDATED 20.01.2016</b></p><p>General Fixes:<br>- Improved bot's movement inside the room (Kitchen);<br>- Some other minor changes.</p><p><b>PLEASE REDOWNLOAD UPDATED ARCHIVE!</b></p><p><br></p>"
+}

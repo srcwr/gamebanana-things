@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"cs_isku nav readme.txt",
+					"cs_isku.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 2696,
+			"_nDownloadCount": 699,
+			"_nFilesize": 40771,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/2696",
+			"_sFile": "nav_cs_isku.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1392105190
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 34809,
+	"_sName": "Hand-tuned NAV for map CS_ISKU",
+	"_sText": "Counter-Strike: Source : Bot's Navigation Mesh for the map CS_ISKU\r\n\r\n\r\nNav Creator: Meurglis3, Release Date: February 11 2014\r\n\r\nHere is the Navigation Mesh for another fine office-themed map [cs_isku](http://css.gamebanana.com/maps/94730) by ICS (released May 2009). It's a completely created from scratch and fully hand-tuned .nav-file (because in original mapauthor's release was included simple auto-gen).\r\n\r\nThis Navigation Mesh was hand-maded at 80% and optimized very carefully.\r\n\r\nWell... bots use almost all possible ways now. Except for couple of very hard-to-reach spots where people to reach quite difficult also (for example to rise from the street to transition between buildings over a high box or to jump from a building window on a ladder lying on the container). But I think we will forgive them it - they are a robo-killers instead of robo-equilibrists! :D\r\n\r\nNOTE: For possibility of comparison and in-game testing the original navigation file by map creator available to downloading with the [same map](http://css.gamebanana.com/maps/94730).\r\n\r\nThat's Crazy Night in Quiet Office! Play and Fun ;-)\r\n\r\nCredits and Gratitudes:\r\n   ICS (for this amazing nightly office-themed map, also for his other nice maps).\r\n\r\nAdditional Gratitudes:\r\n   BarnDoor (for perfect playable navigation meshes for many fine CS:S maps),\r\n   Chizbone (for informative and clever article BOT_BRAINED and a set of excellent navigation meshes),\r\n   CoCoNUT (for fine hand-tuned navigation meshes for many fine CS:S maps),\r\n   Valve Developer Community (for learning articles by Navigation Meshes and Navigation Mesh Commands).\r\n\r\nDry your eyes cause bots never die! :-)"
+}

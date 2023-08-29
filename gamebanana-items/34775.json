@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_cliff_tunnel_final nav readme.txt",
+					"de_cliff_tunnel_final.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 2846,
+			"_nDownloadCount": 513,
+			"_nFilesize": 77099,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/2846",
+			"_sFile": "nav_de_cliff_tunnel_final_5.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1385653692
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 34775,
+	"_sName": "Hand-tuned NAV for map DE_CLIFF_TUNNEL_FINAL",
+	"_sText": "Counter-Strike: Source : Bot's Navigation Mesh for the map DE_CLIFF_TUNNEL_FINAL\r\n\r\n\r\nNav Creator: Meurglis3, Release Date: November 28 2013\r\n\r\nHere is the Navigation Mesh for good industrial-themed map [de_cliff_tunnel_final](http://css.gamebanana.com/maps/165402) by Brian 'LATTEH' Birnabum (released September 2012).\r\nIt's a created from scratch and fully hand-tuned .nav-file (in original author's release the .nav-file was not submitted).\r\n\r\nAuto-generated Navigation Mesh doesn't pereceive many areas as walkable and some areas were not generate correctly. Some paths were builded from scratch completely: the ladder in pipeway between the levels, the pass on a platform to the building over the road, the paths under and above the truck. Also the set of small changes and improvements was made.\r\n\r\nWell... Bots use all possible ways now and do it very smartly! :D\r\n\r\nAlso this Navigation Mesh is fully Place Painted.\r\n\r\nNOTE: For comparison of gameplay you can download the another playable [NAV-file](http://css.gamebanana.com/gamefiles/3715) by 1valdis. The main differences between mine and his NAVs are described on 1valdis download page.\r\n\r\nP.S. This map is simple by layout, but rather cheerful for firefights. I like it! :-)\r\n\r\nCredits and Gratitudes:\r\n   LATTEH (for realistic and firefights-friendly industrial-themed map).\r\n\r\nAdditional Gratitudes:\r\n   BarnDoor (for perfect playable navigation meshes for many fine CS:S maps),\r\n   Chizbone (for informative and clever article BOT_BRAINED and a set of excellent navigation meshes),\r\n   CoCoNUT (for fine hand-tuned navigation meshes for many fine CS:S maps),\r\n   Valve Developer Community (for learning articles by Navigation Meshes and Navigation Mesh Commands).\r\n\r\nPlay and Enjoy! Always will be grateful for your remarks and feedbacks.\r\n\r\n- - - - - - - - - - - - - - - - - - - - - - - -\r\n\r\n**UPDATED 10.11.2014**\r\n\r\nGeneral Fixes:\r\n- Limited the bot's movements through an open area of the map (Outside);\r\n- Improved the bot's movements through a ladder (Ladder);\r\n- Some other minor changes.\r\n\r\n**PLEASE REDOWNLOAD UPDATED ARCHIVE!**"
+}

@@ -1,0 +1,24 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": [],
+			"_bContainsExe": false,
+			"_idRow": 2811,
+			"_nDownloadCount": 1351,
+			"_nFilesize": 10844,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/2811",
+			"_sFile": "css_root.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1387536752
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 34702,
+	"_sName": "HLMV = Ready ...MODELS/ folder structure",
+	"_sText": "Using HLMV.exe for looking game default models<br>\r\nit often annoying you with error<br>\r\n<center> <img border=\"0\" src=\"http://files.gamebanana.com/img/ss/gamefiles/52b4192b2197f.jpg\" width=\"100%\" height=\"100%\"></center> \r\n<br>\r\n- <b>File models\\X doesn't exist.</b>\r\n<br>\r\nBecause you not have such folders (loose files) outside VPK file.<br>\r\nSo here, I zip all folders which are taken from HL2 and CSTRIKE VPK files.<br>\r\nThis help you skip for mimic those folders in your game<br>\r\n<br>\r\nJust unzip in your ...cstrike/custom/ and leave untouched.<br>\r\nShould look like ...cstrike/custom/root/models/<br>\r\n<br>\r\nAdding more mods in your game, make new custom folder for that purpose.<br>"
+}

@@ -1,0 +1,30 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"cs_motel_night (full).nav",
+					"cs_motel_night nav readme.txt",
+					"cs_motel_night.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 2799,
+			"_nDownloadCount": 934,
+			"_nFilesize": 282797,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/2799",
+			"_sFile": "nav_cs_motel_night_2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1387995880
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 34791,
+	"_sName": "Hand-tuned NAV for map CS_MOTEL_NIGHT",
+	"_sText": "Counter-Strike: Source : Bot's Navigation Mesh for the map CS_MOTEL_NIGHT\r\n\r\n\r\nNav Creator: Meurglis3, Release Date: December 25 2013\r\n\r\nHere is the Navigation Mesh for urban/office themed map [cs_motel_night](http://css.gamebanana.com/maps/177487) by Bomber / Hightower (released February 2009).\r\nIt's a created from scratch and manually optimized (hand-tuned) .nav-file (because in original .bsp-file was included the simple auto-gen).\r\n\r\nAlso this Navigation Mesh is fully Place Painted.\r\n\r\nIMPORTANT NOTE 1: Bots can't enter to underground area of main building, because it's objectively impossible: Bots can't operate push-buttons, such as push-button doors (see two last screenshots)... partly because these buttons aren't connected to the Navigation Mesh. It's unchangeable feature of all maps with similar triggers, instead of a lack of the .nav-file! Due to these irresistible circumstances the basement part of a Navigation Mesh is removed from one of .the two nav-files and this part of a map is not usable for bots and hostages.\r\n\r\nFor the reason described above the navigation file for this map released in TWO VERSIONS:\r\n\r\n**1) cs_motel_night.nav** - without access to locked basement part of the map for the best and more smooth gameplay (especially as in CS_version of this map the basement part isn't so important for an overall gameplay, unlike a DE_version);\r\n\r\n**2) cs_motel_night (full).nav** - fullest version of Navigation Mesh for this map with access to the basement part (human players can always open access for bots to blocked basement using push-buttons, preventing thus sticking of bots at doors).\r\n\r\nFor playing with the FULL VERSION of the Navigation Mesh just rename the .nav-file (cs_motel_night (full).nav -> cs_motel_night.nav) and put it in your map directory (.../cstrike/maps/).\r\n\r\nIMPORTANT NOTE 2: Someone from bots regularly gets stuck in one of numerous oar doors (more often in two-fold). Similar bot's problems with oar doors are known long ago and (as a rule) are almost unsoluble by means of built-in editing tools of a Navigation Mesh available at present.\r\n\r\nNOTE: For possibility of comparison and in-game testing an initial auto-gen .nav-file included in original .bsp and available to downloading with the [same map](http://css.gamebanana.com/maps/177487).\r\n\r\nWell... Play and Enjoy!\r\n\r\nCredits and Gratitudes:\r\n   Hightower (for very realistic and urban atmospheric map).\r\n\r\nAdditional Gratitudes:\r\n   BarnDoor (for perfect playable navigation meshes for many fine CS:S maps), \r\n   Chizbone (for informative and clever article BOT_BRAINED and a set of excellent navigation meshes), \r\n   CoCoNUT (for fine hand-tuned navigation meshes for many fine CS:S maps), \r\n   Valve Developer Community (for learning articles by Navigation Meshes and Navigation Mesh Commands).\r\n\r\nThere are many free rooms... full of bloody spots! :D\r\n\r\n- - - - - - - - - - - - - - - - - - - - - - - -\r\n\r\n**UPDATED 23.10.2014**\r\n\r\nGeneral Fixes:\r\n- Added Place Names;\r\n- Some other minor improvements.\r\n\r\n**PLEASE REDOWNLOAD UPDATED ARCHIVE!**"
+}

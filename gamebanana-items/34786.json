@@ -1,0 +1,45 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_incido_v7 nav readme.txt",
+					"de_incido_v7.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 2820,
+			"_nDownloadCount": 684,
+			"_nFilesize": 101150,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/2820",
+			"_sFile": "nav_de_incido_v7_6fe66.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1387004732
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Total improvement of comlete Navigation Mesh"
+				},
+				{
+					"cat": "-",
+					"text": "Added Place Names"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Update 1",
+			"_tsDateAdded": 1469797511
+		}
+	],
+	"_idRow": 34786,
+	"_sName": "Hand-tuned NAV for map DE_INCIDO_V7",
+	"_sText": "Counter-Strike: Source : Bot's Navigation Mesh for the map DE_INCIDO_V7<br><br>Nav Creator: Meurglis3,&nbsp;Release Date: December 14 2013<br><br>Here is the Navigation Mesh for excellent bunker-styled map <a href=\"http://gamebanana.com/maps/142182\">de_incido_v7</a> by wostok / WeserGold (released July 2010).&nbsp;It's a completely hand-made and carefully optimized .nav-file (in original author's release the .nav-file was simple auto-gen embedded in .bsp).<br><br>This Navigation Mesh was created from scratch approximately for 90% 'cause auto-gen constructed many areas and pathways is inexact. Many areas were laid directly through walls (and some areas weren't constructed at all, including ladders) that led to absolutely inadequate behavior of bots. All these errors of auto-generation were carefully fixed!<br><br>Well... Bots use all possible ways and surely move on all areas of the map now! :-)<br><br>Also this Navigation Mesh is fully Place Painted.<br><br>NOTE: The bots (and the people too, naturally) don't use for pass a blocked door in bunker (GuardHouse). It's simply insignificant omission (or a strange idea) of the map author, but not the omission of this Navigation Mesh!<br><br>Play and Enjoy! Also your responses are still important for me ;-)<br><br>Credits and Gratitudes:&nbsp; wostok (for this remarkable map with wide space for fights, also for his other fine maps - <a href=\"http://gamebanana.com/maps/142557\">de_bribery_subrosa</a>, <a href=\"http://gamebanana.com/maps/149142\">de_severance</a> and one of my most favorite <a href=\"http://gamebanana.com/maps/151619\">de_fedra_autumn</a>).<br><br>Additional Gratitudes:&nbsp; BarnDoor (for perfect playable navigation meshes for many fine CS:S maps),&nbsp; Chizbone (for informative and clever article BOT_BRAINED and a set of excellent navigation meshes),&nbsp; CoCoNUT (for fine hand-tuned navigation meshes for many fine CS:S maps),&nbsp; Valve Developer Community (for learning articles by Navigation Meshes and Navigation Mesh Commands).<br><br>The Neverending Story about Dust and Rust! :D<br><br><br>"
+}

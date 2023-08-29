@@ -1,0 +1,41 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_district23 nav readme.txt",
+					"de_district23.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 2625,
+			"_nDownloadCount": 639,
+			"_nFilesize": 252624,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/2625",
+			"_sFile": "nav_de_district23_169b6.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1395044526
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Total improvement of comlete Navigation Mesh"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Update 1",
+			"_tsDateAdded": 1470597488
+		}
+	],
+	"_idRow": 34818,
+	"_sName": "Hand-tuned NAV for map DE_DISTRICT23",
+	"_sText": "Counter-Strike: Source : Bot's Navigation Mesh for the map DE_DISTRICT23<br><br>\r\nNav Creator: Meurglis3, Release Date: March 17 2014<br><br>\r\nHere is the Navigation Mesh for nice designed night'n'rainy urban-themed map <a href=\"http://css.gamebanana.com/maps/137258\">de_district23</a> by Simon Brain / bauer901 (released June 2010). It's a completely hand-made and carefully optimized .nav-file (because in original author's release the .nav-file probably was simple auto-gen).<br><br>\r\nThis Navigation Mesh was created from scratch approximately for 60% and the most part of the areas was recustomized manually because in auto-generated Navigation Mesh some pathways and areas were constructed incorrectly (including most of stairways) or were missed (for example the path through a ventilating course).<br><br>\r\nWell... bots freely move through all walkable areas of the map now. I hope their improved behavior on this beautiful map will give you pleasure ;-)<br><br>\r\nAlso this Navigation Mesh is fully Place Painted.<br><br>\r\nNOTE: For possibility of comparison and in-game testing the original navigation file by map creator embedded in .bsp-file and available to downloading with the <a href=\"http://css.gamebanana.com/maps/137258\">same map</a>.<br><br>\r\nPlay and Enjoy! Also you aren't lazy to report about your impressions and possible remarks :-)<br><br>\r\nCredits and Gratitudes:\r\nSimon Brain (for this fascinating and modern styled map).<br><br>\r\nAdditional Gratitudes:\r\nBarnDoor (for perfect playable navigation meshes for many fine CS:S maps),\r\nChizbone (for informative and clever article BOT_BRAINED and a set of excellent navigation meshes),\r\nCoCoNUT (for fine hand-tuned navigation meshes for many fine CS:S maps),\r\nValve Developer Community (for learning articles by Navigation Meshes and Navigation Mesh Commands).<br><br>\r\nPlay the game... all night long! :-)<br>\r\n<br>"
+}

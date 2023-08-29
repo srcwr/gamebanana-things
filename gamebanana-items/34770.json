@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_hkks_seven nav readme.txt",
+					"de_hkks_seven.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 2862,
+			"_nDownloadCount": 367,
+			"_nFilesize": 126020,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/2862",
+			"_sFile": "nav_de_hkks_seven_4.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1385122502
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 34770,
+	"_sName": "Hand-tuned NAV for map DE_HKKS_SEVEN",
+	"_sText": "Counter-Strike: Source : Bot's Navigation Mesh for the map DE_HKKS_SEVEN\r\n\r\nNav Creator: Meurglis3, Release Date: November 22 2013\r\n\r\nHere is the Navigation Mesh for old good abandoned themed map [de_hkks_seven](http://css.gamebanana.com/maps/25812) by [K.S.] HK and [K.S.] Austria (released May 2007).\r\nIt's a totally remaked and fully hand-tuned .nav-file (because an original mapauthor's .nav-file wasn't manually optimized and wasn't good playable, imho).\r\n\r\nSome paths were created from scratch completely (roundabout way through a manhole, ladder in ventilation to second floor and some other pathways) because auto-gen doesn't perceive them as walkable areas.\r\n\r\nWell... bots freely move through ALL locations of the map now. And I hope that play against them on this nice map becomes now even more fascinating and hazardous! ;-)\r\n\r\nAlso this Navigation Mesh is fully Place Painted.\r\n\r\nNOTE: For possibility of comparison and in-game testing the original navigation file by map creators included in original .bsp and available to loading with the [same map](http://css.gamebanana.com/maps/25812).\r\n\r\nPlay and Enjoy! Always will be grateful for your remarks and feedbacks ;-)\r\n\r\nCredits and Gratitudes:\r\n   [K.S.] HK and [K.S.] Austria (for high detailed abandoned themed map).\r\n\r\nAdditional Gratitudes:\r\n   BarnDoor (for perfect playable navigation meshes for many fine CS:S maps),\r\n   Chizbone (for informative and clever article BOT_BRAINED and a set of excellent navigation meshes),\r\n   CoCoNUT (for fine hand-tuned navigation meshes for many fine CS:S maps),\r\n   Valve Developer Community (for learning articles by Navigation Meshes and Navigation Mesh Commands).\r\n\r\nHow long the night is. Why is this passage so narrow?\r\nHow strange my body feels, impaled upon the arrow...\r\n\r\n- - - - - - - - - - - - - - - - - - - - - - - -\r\n\r\n**UPDATED 17.11.2014**\r\n\r\nGeneral Fixes:\r\n- Added Place Names;\r\n- Some other minor changes.\r\n\r\n**PLEASE REDOWNLOAD UPDATED ARCHIVE!**"
+}

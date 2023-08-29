@@ -1,0 +1,110 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"skybox_error_fix": {
+						"materials": {
+							"skybox": [
+								"sky_day01_01bk.vmt",
+								"sky_day01_01dn.vmt",
+								"sky_day01_01ft.vmt",
+								"sky_day01_01lf.vmt",
+								"sky_day01_01rt.vmt",
+								"sky_day01_01up.vmt",
+								"sky_day01_04bk.vmt",
+								"sky_day01_04dn.vmt",
+								"sky_day01_04ft.vmt",
+								"sky_day01_04lf.vmt",
+								"sky_day01_04rt.vmt",
+								"sky_day01_04up.vmt",
+								"sky_day01_05bk.vmt",
+								"sky_day01_05dn.vmt",
+								"sky_day01_05ft.vmt",
+								"sky_day01_05lf.vmt",
+								"sky_day01_05rt.vmt",
+								"sky_day01_05up.vmt",
+								"sky_day01_06bk.vmt",
+								"sky_day01_06dn.vmt",
+								"sky_day01_06ft.vmt",
+								"sky_day01_06lf.vmt",
+								"sky_day01_06rt.vmt",
+								"sky_day01_06up.vmt",
+								"sky_day01_08bk.vmt",
+								"sky_day01_08dn.vmt",
+								"sky_day01_08ft.vmt",
+								"sky_day01_08lf.vmt",
+								"sky_day01_08rt.vmt",
+								"sky_day01_08up.vmt",
+								"sky_day01_09bk.vmt",
+								"sky_day01_09dn.vmt",
+								"sky_day01_09ft.vmt",
+								"sky_day01_09lf.vmt",
+								"sky_day01_09rt.vmt",
+								"sky_day01_09up.vmt",
+								"sky_day02_01bk.vmt",
+								"sky_day02_01dn.vmt",
+								"sky_day02_01ft.vmt",
+								"sky_day02_01lf.vmt",
+								"sky_day02_01rt.vmt",
+								"sky_day02_01up.vmt",
+								"sky_day02_02bk.vmt",
+								"sky_day02_02dn.vmt",
+								"sky_day02_02ft.vmt",
+								"sky_day02_02lf.vmt",
+								"sky_day02_02rt.vmt",
+								"sky_day02_02up.vmt",
+								"sky_day03_01bk.vmt",
+								"sky_day03_01dn.vmt",
+								"sky_day03_01ft.vmt",
+								"sky_day03_01lf.vmt",
+								"sky_day03_01rt.vmt",
+								"sky_day03_01up.vmt"
+							]
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 2787,
+			"_nDownloadCount": 868,
+			"_nFilesize": 18590,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/2787",
+			"_sFile": "skybox_error_fix.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1388611179
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Fixed, no longer needed"
+				}
+			],
+			"_sText": "http://store.steampowered.com/news/13353/\r\n\r\n>Product Update - Valve\r\n>01:57\r\n>Updates to Team Fortress 2, Counter-Strike: Source, Day of Defeat: Source >and Half-Life 2: Deathmatch have been released. The updates will be >applied automatically. The major changes include:\r\n>\r\n>\r\n> Source Engine Changes (CS:S, DoD:S, TF2, HL2:DM)\r\n>\r\n>    Fixed the skybox on 3rd party maps when using certain sky materials",
+			"_sTitle": "Valve have fix this issue",
+			"_tsDateAdded": 1400251644
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "description"
+				}
+			],
+			"_sText": "Ok, you get this skybox error when you compile your map using HDR settings and one of skybox materials what I have listed/mention.",
+			"_sTitle": "edit edit",
+			"_tsDateAdded": 1388661197
+		}
+	],
+	"_idRow": 34703,
+	"_sName": "Skybox error in HDR compiled maps",
+	"_sText": "*edit</br>\r\nHas been fixed, no longer needed! </br>\r\nhttp://store.steampowered.com/news/13353/ </br>\r\n\r\n\r\n\r\n<h1>Seems this skybox error happen when you compile your map using HDR setting!</h1>\r\n<s>Old maps what have been compiled with the skybox materials,<br>\r\nwhich have later updated to support HDR skybox materials,<br>\r\nwill show as error.<br>\r\n<br>\r\nThis error not happen when compile map with same texture today!</s><br>\r\n<br>\r\nThese are faulty materials inside ...hl2/hl2\\_misc\\_*.vpk<br>\r\nThose non-hdr files are using wrong input \"<font color=\"red\">sky</font>\" instead \"<font color=\"lime\">unlitgeneric</font>\"\r\n<pre>\r\nsky_day01_01\r\nsky_day01_04\r\nsky_day01_05\r\nsky_day01_06\r\nsky_day01_08\r\nsky_day01_09\r\nsky_day02_01\r\nsky_day02_02\r\nsky_day03_01\r\n</pre>\r\n\r\nThis is error what happens <s>on old maps</s>, like in cs:s map de\\_westwood\r\n<pre>\r\nRequesting texture value from var \"$hdrbasetexture\" which is not a texture value (material: skybox/sky_day01_06rt)\r\nRequesting texture value from var \"$hdrbasetexture\" which is not a texture value (material: skybox/sky_day01_06rt)\r\nRequesting texture value from var \"$hdrbasetexture\" which is not a texture value (material: skybox/sky_day01_06rt)\r\nRequesting texture value from var \"$hdrbasetexture\" which is not a texture value (material: skybox/sky_day01_06rt)\r\nRequesting texture value from var \"$hdrbasetexture\" which is not a texture value (material: skybox/sky_day01_06rt)\r\nRequesting texture value from var \"$hdrbasetexture\" which is not a texture value (material: skybox/sky_day01_06rt)\r\nRequesting texture value from var \"$hdrbasetexture\" which is not a texture value (material: skybox/sky_day01_06rt)\r\nRequesting texture value from var \"$hdrbasetexture\" which is not a texture value (material: skybox/sky_day01_06rt)\r\nRequesting texture value from var \"$hdrbasetexture\" which is not a texture value (material: skybox/sky_day01_06bk)\r\nRequesting texture value from var \"$hdrbasetexture\" which is not a texture value (material: skybox/sky_day01_06bk)\r\n</pre>\r\n\r\nHere are fixed skybox files</br>\r\nOnly for clients, servers not do anything with these !</br>\r\nadd in ...cstrike/custom/<br>\r\nshould look <b>...cstrike\\custom\\skybox\\_error\\_fix\\materials\\skybox\\</b><br>\r\n<br><br><br>\r\nServer with sv\\_pure 1 mode could add in ...cstrike/cfg/pure\\_server\\_whitelist.txt\r\n<pre>\r\n\tmaterials\\skybox\\...\t\t\tany\r\n</pre>"
+}

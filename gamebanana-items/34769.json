@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_banqiao_r2 nav readme.txt",
+					"de_banqiao_r2.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 2867,
+			"_nDownloadCount": 1010,
+			"_nFilesize": 84236,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/2867",
+			"_sFile": "nav_de_banqiao_r2_5.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1384881127
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 34769,
+	"_sName": "Hand-tuned NAV for map DE_BANQIAO_R2",
+	"_sText": "Counter-Strike: Source : Bot's Navigation Mesh for the map DE_BANQIAO_R2\r\n<br><br>Nav Creator: Meurglis3, Release Date: November 19 2013\r\n<br><br>Here is the Navigation Mesh for good urban themed map <a href=\"http://css.gamebanana.com/maps/158660\">de_banqiao_r2</a> by CXX AL (released August 2011).\r\n<br><br>It's a created from scratch and fully hand-tuned .nav-file (because in original author's release the .nav-file wasn't submitted).\r\n<br><br>Some paths were constructed from scratch completely (all three ladders, indoor areas on second floor in the house, way over the house extension) because auto-gen doesn't perceive them as walkable areas.\r\n<br><br>Well... now bots won't begin to joke more with you! :D\r\n<br><br>Also this Navigation Mesh is fully Place Painted.\r\n<br><br>Credits and Gratitudes:\r\n<br><br>CXX AL (for high detailed urban-themed map).\r\n<br><br>Additional Gratitudes:\r\n<br><br>BarnDoor (for perfect playable navigation meshes for many fine CS:S maps),\r\n<br><br>Chizbone (for informative and clever article BOT_BRAINED and a set of excellent navigation meshes),\r\n<br><br>CoCoNUT (for fine hand-tuned navigation meshes for many fine CS:S maps),\r\n<br><br>Valve Developer Community (for learning articles by Navigation Meshes and Navigation Mesh Commands).\r\n<br><br>Play and Enjoy! Always will be grateful for your remarks and feedbacks.\r\n<br><br>- - - - - - - - - - - - - - - - - - - - - - - -\r\n<br><br><b>UPDATED 15.11.2014</b><br><br>General Fixes:<br>- Added Place Names;<br>- Some other minor changes.\r\n<br><br><b>PLEASE REDOWNLOAD UPDATED ARCHIVE!</b>"
+}

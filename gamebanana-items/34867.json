@@ -1,0 +1,67 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrike": {
+						"maps": [
+							"de_island_v2.nav"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 2143,
+			"_nDownloadCount": 1498,
+			"_nFilesize": 106908,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/2143",
+			"_sFile": "de_island_v2_3.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1421544029
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Many fixes & improvements of ways."
+				},
+				{
+					"cat": "-",
+					"text": "Look \"UPDATE 25.01.15\" on the description"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "V. 1.2 (25.01.15)",
+			"_tsDateAdded": 1422194090
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Many fixes of ways (including staircases, wall, window near B, and B)."
+				},
+				{
+					"cat": "-",
+					"text": "Now bots using beach."
+				},
+				{
+					"cat": "-",
+					"text": "Look \"UPDATE 24.01.15\" on the description."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "v. 1.1 (24.01.15)",
+			"_tsDateAdded": 1422193231
+		}
+	],
+	"_idRow": 34867,
+	"_sName": "NAV-file for de_island_v2",
+	"_sText": "This is a custom navigation mesh for beautiful map [de_island_v2](http://css.gamebanana.com/maps/183574 \"\").\r\n\r\nSome new ways added for bots, such as window near B; some ways fixed, including many spiral staircases. Reworked from scratch almost whole bombsite B.\r\n\r\nAdded place names, so bots will tell you where the enemy is, where the bomb, etc. As always, I recommend to run map without bots and learn how the place names arranged, and then have fun ;)\r\n\r\nUPDATE 24.01.15: Two hours of checking the NAV with bots. Fixed little less of ten places where the bots sometimes get stuck. Now bots very smartly using the beach near B (before they didn't use the beach absolutely), so they can do for you \"surpise motherfucker\" from rear of B ;D. Greatly improved passing through window near B.\r\n\r\nUPDATE 25.01.15: fixes of some jams including crates on the courtyard and stairs to B. Reworked window near B (and fixed the bug when bots never walking through window). Now bots (especially CT after beginning of the round) don't climbing to B by jumps on the gun, but by stairs what is much faster."
+}

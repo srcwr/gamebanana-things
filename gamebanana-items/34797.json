@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_arbtain nav readme.txt",
+					"de_arbtain.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 2775,
+			"_nDownloadCount": 560,
+			"_nFilesize": 26275,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/2775",
+			"_sFile": "nav_de_arbtain.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1388853184
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 34797,
+	"_sName": "Hand-tuned NAV for map DE_ARBTAIN",
+	"_sText": "Counter-Strike: Source : Bot's Navigation Mesh for the map DE_ARBTAIN\r\n\r\n\r\nNav Creator: Meurglis3, Release Date: January 4 2014\r\n\r\nHere is the Navigation Mesh for the quite good map with Middle East theme [de_arbtain](http://css.gamebanana.com/maps/175733) by Cruptor (released August 2013). It's a carefully reworked and fully hand-tuned .nav-file (because in original author's release the .nav-file was a simply auto-gen).\r\n\r\nThis Navigation Mesh was hand-maded at 50% 'cause during auto-generation process the set of mistakes and inaccuracies was allowed. Some paths and areas were builded from scratch completely (in particular a ladder between the Bombsite A and an underground pass).\r\n\r\nBots use all possible walkable ways now, though sometimes also come across in a desperate trap near a ladder from a cellar... however, human players sometimes fall there too during the fight :-) It's the integral feature of this map, some kind of element of chance, and available editing tools for Navigation Meshes it can't be corrected (without essential simplification of gameplay on this map).\r\n\r\nNOTE: For possibility of comparison and in-game testing the original navigation file by map creator available to downloading with the [same map](http://css.gamebanana.com/maps/175733).\r\n\r\nWell... Play and Enjoy!\r\n\r\nCredits and Gratitudes:\r\n   Cruptor (for another good arabic-themed map).\r\n\r\nAdditional Gratitudes:\r\n   BarnDoor (for perfect playable navigation meshes for many fine CS:S maps),\r\n   Chizbone (for informative and clever article BOT_BRAINED and a set of excellent navigation meshes),\r\n   CoCoNUT (for fine hand-tuned navigation meshes for many fine CS:S maps),\r\n   Valve Developer Community (for learning articles by Navigation Meshes and Navigation Mesh Commands).\r\n\r\nP.S. Happy New Year! :-)"
+}

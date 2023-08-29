@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_truth nav readme.txt",
+					"de_truth.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 2835,
+			"_nDownloadCount": 678,
+			"_nFilesize": 107463,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/2835",
+			"_sFile": "nav_de_truth.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1386062188
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 34778,
+	"_sName": "Hand-tuned NAV for map DE_TRUTH",
+	"_sText": "Counter-Strike: Source : Bot's Navigation Mesh for the map DE_TRUTH\r\n\r\n\r\nNav Creator: Meurglis3, Release Date: December 3 2013\r\n\r\nHere is the Navigation Mesh for another nice industrial-themed map [de_ truth](http://css.gamebanana.com/maps/176201) by Andre Valera (released February 2013).\r\nIt's a totally remaked and fully hand-tuned .nav-file (because an original author's .nav-file wasn't fully hand-tuned and wasn't rather good, imho).\r\n\r\nSome paths were created from scratch completely (including a missed ladders on CT base and at a railway platform). And some other areas were changed/recuted.\r\n\r\nNoticed features of map:\r\n   - Considerable difficulties with opening of doors of the hidden pass near the main bombsite are noticed (therefore Bots don't use this waypath),\r\n   - One of T-bots at spawn gets stuck in the truck sometimes (it is feature of a spawn-points placement, instead of a Navigation Mesh).\r\n\r\nNOTE: For possibility of comparison and in-game testing the original navigation file by map author included in its original archive and available to loading with the [same map](http://css.gamebanana.com/maps/176201).\r\n\r\nCredits and Gratitudes:\r\n   Andre Valera (for high detailed and well shined industrial-themed map).\r\n\r\nAdditional Gratitudes:\r\n   BarnDoor (for perfect playable navigation meshes for many fine CS:S maps),\r\n   Chizbone (for informative and clever article BOT_BRAINED and a set of excellent navigation meshes),\r\n   CoCoNUT (for fine hand-tuned navigation meshes for many fine CS:S maps),\r\n   Valve Developer Community (for learning articles by Navigation Meshes and Navigation Mesh Commands).\r\n\r\nAlso I am always glad to your messages with remarks and impressions. Good Luck!"
+}

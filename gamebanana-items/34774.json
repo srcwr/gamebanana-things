@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"cs_cul_de_sac_r2 nav readme.txt",
+					"cs_cul_de_sac_r2.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 2848,
+			"_nDownloadCount": 431,
+			"_nFilesize": 281227,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/2848",
+			"_sFile": "nav_cs_cul_de_sac_r2_2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1385577207
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 34774,
+	"_sName": "Hand-tuned NAV for map CS_CUL_DE_SAC_R2",
+	"_sText": "Counter-Strike: Source : Bot's Navigation Mesh for the map CS_CUL_DE_SAC_R2\r\n\r\n\r\nNav Creator: Meurglis3, Release Date: November 27 2013\r\n\r\nHere is the Navigation Mesh for cottage town themed map [cs_cul_de_sac_r2](http://css.gamebanana.com/maps/63707) by BadGraphicsGhost (released August 2008).\r\nIt's a created from scratch and fully hand-tuned .nav-file (in original author's release was the simple auto-gen .nav-file submitted only).\r\n\r\nThis Navigation Mesh was hand-maded at 50% 'cause auto-gen doesn't create many areas right. And some generated areas were made not correctly. Almost all of the indoor areas were builded from scratch completely.\r\n\r\nWell... as the map wasn't finished completely there are some moments complicating for bot's movement through the map. These are features of constructive elements on the map, instead of an errors of a Navigation Mesh. Very unpleasant thing this sticking of bots with some doors (especially critical place - about the room with one hostage on the second floor of the Terrorist's house).\r\n\r\nBut now bots use all possible ways at least. And it's the most playable Navigation Mesh what could be made for this state of map in general (imho) ;-)\r\n\r\nCredits and Gratitudes:\r\n   BadGraphicsGhost (for pleasant and fascinating map... so pity that's unfinished).\r\n\r\nAdditional Gratitudes:\r\n   BarnDoor (for perfect playable navigation meshes for many fine CS:S maps),\r\n   Chizbone (for informative and clever article BOT_BRAINED and a set of excellent navigation meshes),\r\n   CoCoNUT (for fine hand-tuned navigation meshes for many fine CS:S maps),\r\n   Valve Developer Community (for learning articles by Navigation Meshes and Navigation Mesh Commands).\r\n\r\nPlay and Enjoy!!\r\n\r\n- - - - - - - - - - - - - - - - - - - - - - - -\r\n\r\n**UPDATED 18.12.2013**\r\n\r\nGeneral Fixes:\r\n- Blocked the passes through two critical opened doors in the house with Hostages at the T-base (specific feature of their design caused continuous sticking of bots in the doorway);\r\n- Optimized the passes through all oar doors (possibility of casual sticking it is lowered to a possible minimum);\r\n- Improved the passing by bots of ladder marches.\r\n\r\nIt's sure that it is the most playable Navigation Mesh of in general possible for this card in its current (unfinished) state! ;-)\r\n\r\n**PLEASE REDOWNLOAD UPDATED ARCHIVE!**"
+}

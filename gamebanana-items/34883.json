@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_cevo_hazard nav readme.txt",
+					"de_cevo_hazard.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 2005,
+			"_nDownloadCount": 458,
+			"_nFilesize": 59099,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/2005",
+			"_sFile": "nav_de_cevo_hazard.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1433451108
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 34883,
+	"_sName": "Hand-tuned NAV for map DE_CEVO_HAZARD",
+	"_sText": "Counter-Strike: Source : Bot's Navigation Mesh for the map DE_CEVO_HAZARD\r\n\r\n\r\nNav Creator: Meurglis3, Release Date: June 5 2015\r\n\r\nHere is the Navigation Mesh for old good competetive map [de_cevo_hazard](http://css.gamebanana.com/maps/27639) by Razo18 / n2 / Luke Reznick (released June 2007).\r\nIt's a totally remaked and fully hand-tuned .nav-file (because included in original map archive .nav-file was simple auto-gen embedded in .bsp-file).\r\n\r\nThis Navigation Mesh is remade manually at 90% because in auto-generated Navigation Mesh some areas were made incorrectly and many paths were brocken off (in particular both ladders to/from the underground part of map, also some others important areas were not fully available).\r\n\r\nWell... bots freely move through all locations of the map now. And I hope that play against them on this map becomes now even more fascinating and hazardous! ;-)\r\n\r\nAlso this Navigation Mesh is fully Place Painted.\r\n\r\nNOTE: For possibility of comparison and in-game testing the original navigation file by map creators included in original .bsp and available to downloading with the [same map](http://css.gamebanana.com/maps/27639).\r\n\r\nPlay and Enjoy! Always will be grateful for your remarks and feedbacks ;-)\r\n\r\nCredits and Gratitudes:\r\n   Razo18 (for good old-school industrial-themed map).\r\n\r\nAdditional Gratitudes:\r\n   BarnDoor (for perfect playable navigation meshes for many fine CS:S maps),\r\n   Chizbone (for informative and clever article BOT_BRAINED and a set of excellent navigation meshes),\r\n   CoCoNUT (for fine hand-tuned navigation meshes for many fine CS:S maps),\r\n   Valve Developer Community (for learning articles by Navigation Meshes and Navigation Mesh Commands).\r\n\r\nYou say that we operate on bad intentions\r\nBut you know the game of war was your invention\r\n\r\n:-)"
+}

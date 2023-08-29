@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_moondown nav readme.txt",
+					"de_moondown.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 2844,
+			"_nDownloadCount": 454,
+			"_nFilesize": 160508,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/2844",
+			"_sFile": "nav_de_moondown.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1385757896
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 34776,
+	"_sName": "Hand-tuned NAV for map DE_MOONDOWN",
+	"_sText": "Counter-Strike: Source : Bot's Navigation Mesh for the map DE_MOONDOWN\r\n\r\n\r\nNav Creator: Meurglis3, Release Date: November 30 2013\r\n\r\nHere is the Navigation Mesh for nice urban-themed map [de_moondown](http://css.gamebanana.com/maps/170318) by Redbodega (released November 2012).\r\nIt's a totally remaded and fully hand-tuned .nav-file. In original author's map release .nav-file was included, but there were many defects and mistakes in structure of Navigation Mesh (one of the terrorists constantly got stuck in the truck, some inclined descents were constructed incorrectly... and there are a lot of other wrong things).\r\n\r\nSome paths were created from scratch completely and others being available was reconnected/reintegrated. Finally bots use ALL possible ways and more sucessfully operate in ALL locations now.\r\n\r\nWell... Play and Test! Also I am always glad to your messages with remarks and comments.\r\n\r\nNOTE: For possibility of comparison and in-game testing the original navigation file by map creators included in original .bsp and available to loading with the [same map](http://css.gamebanana.com/maps/170318).\r\n\r\nCredits and Gratitudes:\r\n   Redbodega (for detailed and expressional urban-themed map).\r\n\r\nAdditional Gratitudes:\r\n   BarnDoor (for perfect playable navigation meshes for many fine CS:S maps),\r\n   Chizbone (for informative and clever article BOT_BRAINED and a set of excellent navigation meshes),\r\n   CoCoNUT (for fine hand-tuned navigation meshes for many fine CS:S maps),\r\n   Valve Developer Community (for learning articles by Navigation Meshes and Navigation Mesh Commands).\r\n\r\nHappy Frags & Good Luck!"
+}

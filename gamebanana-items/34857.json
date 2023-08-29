@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"cs_logistic_assault_hdr nav readme.txt",
+					"cs_logistic_assault_hdr.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 2236,
+			"_nDownloadCount": 405,
+			"_nFilesize": 162266,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/2236",
+			"_sFile": "nav_cs_logistic_assault_hdr.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1413808918
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 34857,
+	"_sName": "Hand-tuned NAV for map CS_LOGISTIC_ASSAULT_HDR",
+	"_sText": "Counter-Strike: Source : Bot's Navigation Mesh for the map CS_LOGISTIC_ASSAULT_HDR\r\n\r\n\r\nNav Creator: Meurglis3, Release Date: October 20 2014\r\n\r\nHere is the Navigation Mesh for old good fast-paced assault-themed map [cs_logistic_assault_hdr](http://css.gamebanana.com/maps/25436) by Bluestrike (released March 2007).\r\nIt's a completely created from scratch and fully hand-tuned nav-file (because nav-file by CocoNuT, included in original mapauthor's release, was slightly edited and not fully playable auto-gen).\r\n\r\nThis Navigation Mesh is remade manually at 80% because in auto-generated Navigation Mesh some areas were made incorrectly and many paths were blocked (in particular ventilating passes and some ladders were absolutely impassable).\r\n\r\nAlso this Navigation Mesh was fully Place Painted.\r\n\r\nWell... bots use all possible ways now. They from all forces try to add vigor to transportation of large-size freights... though don't guarantee their safety at all! :-)\r\n\r\nNOTE: For possibility of comparison and in-game testing the nav-file by CocoNuT available to downloading with the [same map](http://css.gamebanana.com/maps/25436).\r\n\r\nPlay and Enjoy! Also share your game impressions with mates and friends ;-)\r\n\r\nCredits and Gratitudes:\r\n   Bluestrike (for this nice sequel of classic assault map, also for his other excellent maps).\r\n\r\nAdditional Gratitudes:\r\n   BarnDoor (for perfect playable navigation meshes for many fine CS:S maps),\r\n   Chizbone (for informative and clever article BOT_BRAINED and a set of excellent navigation meshes),\r\n   CoCoNUT (for fine hand-tuned navigation meshes for many fine CS:S maps),\r\n   Valve Developer Community (for learning articles by Navigation Meshes and Navigation Mesh Commands).\r\n\r\nTest for logistics specialists: how many killed bots can be placed in the container if there it's possible to place dozen of players alive? :D"
+}

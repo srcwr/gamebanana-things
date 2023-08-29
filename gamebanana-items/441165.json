@@ -10,8 +10,29 @@
 				]
 			},
 			"_bContainsExe": false,
+			"_idRow": 984817,
+			"_nDownloadCount": 284,
+			"_nFilesize": 6539346,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "Version 1",
+			"_sDownloadUrl": "https://gamebanana.com/dl/984817",
+			"_sFile": "cs_docks_source_new.7z",
+			"_sMd5Checksum": "d351552c8824fae9e0361be9c1c09b93",
+			"_tsDateAdded": 1684525937
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"cs_docks_source_new.bsp",
+					"cs_docks_source_new.nav",
+					"cs_docks_source_new.vmf"
+				]
+			},
+			"_bContainsExe": false,
 			"_idRow": 975381,
-			"_nDownloadCount": 14,
+			"_nDownloadCount": 103,
 			"_nFilesize": 6179155,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -25,6 +46,6 @@
 	],
 	"_aLatestUpdates": [],
 	"_idRow": 441165,
-	"_sName": "Docks: Source (Demo)",
-	"_sText": "A re-creation and expansion of a popular map from Counter-Strike that has long been taken away from the game for unknown reasons.<br><br>As is a returning trope from my maps, i tried to make interactivity a focuse.<br><br>This map is practically finished, but i'm running out of ideas so i'll give it a go for the public for now, and i highly appreciate reports of issues, suggestions to improve gameplay or visuals.<br><br>Known issues:<br><br>-Lighting in T's Warehouse is some-what screwed.<br>-Some hills don't allign properly from the other side.<br>-Hostages don't like getting on water, or getting on the CT boat."
+	"_sName": "Docks: Source (cs_docks)",
+	"_sText": "<h1 class=\"SelectedElement\">Map has been finalized!</h1><br>A re-creation and expansion of a popular map from Counter-Strike that has long been taken away from the game for unknown reasons.<br><br>As is a returning trope from my maps, i tried to make interactivity a focuse.<br><br>This map is practically finished, but i'm running out of ideas so i'll give it a go for the public for now, and i highly appreciate reports of issues, suggestions to improve gameplay or visuals.<br><br>Known issues:<br><br>-Lighting in T's Warehouse is some-what screwed.<br>-Some hills don't allign properly from the other side.<br>-Hostages don't like getting on water, or getting on the CT boat."
 }

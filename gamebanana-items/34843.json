@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"cs_pension nav readme.txt",
+					"cs_pension.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 2378,
+			"_nDownloadCount": 704,
+			"_nFilesize": 43111,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/2378",
+			"_sFile": "nav_cs_pension_3.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1402855508
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 34843,
+	"_sName": "Hand-tuned NAV for map CS_PENSION",
+	"_sText": "Counter-Strike: Source : Bot's Navigation Mesh for the map CS_PENSION\r\n\r\n\r\nNav Creator: Meurglis3, Release Date: June 15 2014\r\n\r\nHere is the Navigation Mesh for excellent realistic assault-themed map [cs_pension](http://css.gamebanana.com/maps/179851) by Dinus Saurus (released March 2014).\r\nIt's a totally created from scratch and manually optimized .nav-file (because in original author's archive was included slightly edited auto-gen .nav-file - not fully playable).\r\n\r\nMost of areas and paths were remade manually (about 80% of all area of map). Some broken-off important pathways were restored (in particular - a way from a porch over boxes to a cellar, exits through window apertures, etc.).\r\n\r\nWell... bots have opportunity to use all walkable ways now. Be sure, that they will serve you in compliance with all rules of hospitality! :D\r\n\r\nAlso this Navigation Mesh is fully Place Painted.\r\n\r\nNOTE: For possibility of comparison and in-game testing the original .nav-file by map creator available to downloading with the [same map](http://css.gamebanana.com/maps/179851).\r\n\r\nFight and Fun! Your remarks and feedbacks are always welcomed :-)\r\n\r\nCredits and Gratitudes:\r\n   Dinus Saurus (for high detailed and very realistic urban-themed map).\r\n\r\nAdditional Gratitudes:\r\n   BarnDoor (for perfect playable navigation meshes for many fine CS:S maps),\r\n   Chizbone (for informative and clever article BOT_BRAINED and a set of excellent navigation meshes),\r\n   CoCoNUT (for fine hand-tuned navigation meshes for many fine CS:S maps),\r\n   Valve Developer Community (for learning articles by Navigation Meshes and Navigation Mesh Commands).\r\n\r\nRoom reservation is temporarily cancelled: SWAT are working!\r\n\r\n- - - - - - - - - - - - - - - - - - - - - - - -\r\n\r\n**UPDATED 11.11.2014**\r\n\r\nGeneral Fixes:\r\n- Added Place Names;\r\n- Some other minor changes.\r\n\r\n**PLEASE REDOWNLOAD UPDATED ARCHIVE!**"
+}

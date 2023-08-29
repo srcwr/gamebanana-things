@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"cs_haste nav readme.txt",
+					"cs_haste.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 2341,
+			"_nDownloadCount": 670,
+			"_nFilesize": 106583,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/2341",
+			"_sFile": "nav_cs_haste.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1405321317
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 34851,
+	"_sName": "Hand-tuned NAV for map CS_HASTE",
+	"_sText": "Counter-Strike: Source : Bot's Navigation Mesh for the map CS_HASTE\r\n\r\n\r\nNav Creator: Meurglis3, Release Date: July 14 2014\r\n\r\nHere is the Navigation Mesh for old good twilight-atmospheric map [cs_haste](http://css.gamebanana.com/maps/6491) by Martin Frobisher (released June 2005). It's an almost fully created from scratch and totally hand-tuned .nav-file (because in original map author's archive was included a simply auto-gen). \r\n\r\nMost areas and paths were created manually because during an auto-generation processing the majority of them were constructed incorrectly or incomplete. The special attention was paid to exact control of ladders between sidewalks and metal transitions at two buildings on the Terrorist Base (Middle Area).\r\n\r\nAlso this Navigation Mesh was fully Place Painted.\r\n\r\nWell... bots have opportunity to use all walkable ways and surely move on all extent of the map. They will suit a cheerful disco in this damned suburb! :D\r\n\r\nNOTE: For possibility of comparison and in-game testing the original navigation file by map creator available to downloading with the [same map](http://css.gamebanana.com/maps/6491).\r\n\r\nPlay and Enjoy! All your responses and remarks are always welcomed ;-)\r\n\r\nCredits and Gratitudes:\r\n   Martin Frobisher (for twilight atmospheric and urban styled assault-themed map).\r\n\r\nAdditional Gratitudes:\r\n   BarnDoor (for perfect playable navigation meshes for many fine CS:S maps),\r\n   Chizbone (for informative and clever article BOT_BRAINED and a set of excellent navigation meshes),\r\n   CoCoNUT (for fine hand-tuned navigation meshes for many fine CS:S maps),\r\n   Valve Developer Community (for learning articles by Navigation Meshes and Navigation Mesh Commands).\r\n\r\nThis Last Night... in Sodom! :-)"
+}

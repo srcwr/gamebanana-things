@@ -1,0 +1,32 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrike": {
+						"maps": [
+							"de_bahrain_beta.nav"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 2511,
+			"_nDownloadCount": 459,
+			"_nFilesize": 29620,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/2511",
+			"_sFile": "de_bahrain_beta_2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1398811969
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 34827,
+	"_sName": "NAV-file for de_bahrain_beta",
+	"_sText": "NAV-file for [de_bahrain_beta](http://css.gamebanana.com/maps/111313 \"\").\r\n\r\nHand-made navigation mesh. About 2 hours it took to create it from scratch (to create a nav automatically with built-in editor was impossible, as commentators of the map have noticed). Bots everywhere run fine.\r\n\r\nUpdate 7.6.2014: Now bots accurately passing the abyss by the wire, and using both bombplaces inaccessible before, thanks [Meurglis3](http://gamebanana.com/members/1369773 \"Meurglis3's profile\") for it. Also added place names.\r\nIt should be noted that sometimes, when the bot with a bomb falls down from wire, behind him into the abyss goes most of the remaining terrorists. This is not due to substandard NAV, but due to the game itself, there is impossible to do something, as well as, for example, force bots to press the buttons.\r\n\r\nHowever, playing on the map is still very fun :)"
+}

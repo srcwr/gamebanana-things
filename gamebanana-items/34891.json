@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"cs_bikini nav readme.txt",
+					"cs_bikini.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 1833,
+			"_nDownloadCount": 827,
+			"_nFilesize": 65861,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1833",
+			"_sFile": "nav_cs_bikini.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1446629550
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 34891,
+	"_sName": "Hand-tuned NAV for map CS_BIKINI",
+	"_sText": "Counter-Strike: Source : Bot's Navigation Mesh for the map CS_BIKINI<br><br>Nav Creator: Meurglis3,&nbsp;<span>Release Date: November 4 2015</span><br><br>Here is the Navigation Mesh for old nice mansion-themed map <a href=\"http://css.gamebanana.com/maps/9429\">cs_bikini</a> by 3D-Mike (released February 2005).&nbsp;It's a completely created from scratch and fully hand-tuned nav-file (because both long ago known nav-files - original mapauthor's nav-file and distributed separately nav-file by BarnDoor - were found by me not fully playable).<br><br>This Navigation Mesh is create manually at 80% because in auto-generated Navigation Mesh some areas were made incorrectly and many paths were lost (almost all pathways through a roofs, balconies and other difficult places).<br><br>Also this Navigation Mesh was fully Place Painted (more detailed and pertinently than in the original nav-file).<br><br>Well... bots use all possible ways now. And they climb roofs also dexterously as a vagrant cats :-)<br><br>NOTE: For possibility of comparison and in-game testing the original navigation file by map creator available to downloading with the <a href=\"http://css.gamebanana.com/maps/9429\">same map</a>, also you can download the navigation file by BarnDoor from his <a href=\"http://www.tequilakawa.plus.com/\" target=\"_blank\">personal page</a>.<br><br>Play and Enjoy! Also share your game impressions with mates and friends ;-)<br><br>Credits and Gratitudes:<br>&nbsp; &nbsp;3D-Mike (for this excellent high detailed and classic-styled map).<br><br>Additional Gratitudes:<br>&nbsp; &nbsp;BarnDoor (for perfect playable navigation meshes for many fine CS:S maps),<br>&nbsp; &nbsp;Chizbone (for informative and clever article BOT_BRAINED and a set of excellent navigation meshes),<br>&nbsp; &nbsp;CoCoNUT (for fine hand-tuned navigation meshes for many fine CS:S maps),<br>&nbsp; &nbsp;Valve Developer Community (for learning articles by Navigation Meshes and Navigation Mesh Commands).<br><br>Just One More Mission! :D<br><br>"
+}

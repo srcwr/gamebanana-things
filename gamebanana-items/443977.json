@@ -9,7 +9,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 983431,
-			"_nDownloadCount": 2,
+			"_nDownloadCount": 47,
 			"_nFilesize": 127317448,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -28,26 +28,43 @@
 						"ze_jump_king_b3_Nide.cfg"
 					],
 					"stripper": [
-						"ze_jump_king_b3_stripper.cfg"
+						"ze_jump_king_b3.cfg"
 					]
 				}
 			},
 			"_bContainsExe": false,
-			"_idRow": 983439,
-			"_nDownloadCount": 2,
-			"_nFilesize": 2145,
+			"_idRow": 983789,
+			"_nDownloadCount": 16,
+			"_nFilesize": 2857,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/983439",
-			"_sFile": "rest_map_files_required.zip",
-			"_sMd5Checksum": "664f52e5d376c01ff58353f1eaefd7d0",
-			"_tsDateAdded": 1684267456
+			"_sDownloadUrl": "https://gamebanana.com/dl/983789",
+			"_sFile": "rest_map_files_required_0f17f.zip",
+			"_sMd5Checksum": "708093660aa325c69cb5fdbace043cfd",
+			"_tsDateAdded": 1684346288
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Added automatical shortcut open for the defenders, if noone passes the kz part in 110-120 seconds on town, drain and wind sections"
+				},
+				{
+					"cat": "",
+					"text": "Increased HP of the final door from 850 to 1170"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Stripper update",
+			"_sVersion": "17.05.2023",
+			"_tsDateAdded": 1684347001
+		}
+	],
 	"_idRow": 443977,
 	"_sName": "ze_jump_king_b3",
-	"_sText": "Map is made for NiDE 2023 Mapping Contest. And got 1st place in it.<br><br><h1>Map info</h1>The map is based on the game Jump King.<br><br><i>Legend&nbsp;has it there is a smoking hot babe at the top!</i><br><br>This is unusual map, that contains both ze and kz gameplay. If you played Jump King game, you know what to wait from that. You'll need to jump a lot and fall aswell. And once you obtain the jumping power, you get that hot babe on the tower.&nbsp;<br><br><h1>Map features</h1><ul><li>Main babe level with two modes - beginner and godlike jumper (first one is for the team game and the second for hardcore jumpers)</li><li>Crows quest (follow the nasty crow until you or the crow get defeated)</li><li>Hot smoking babe on the top (she is really hot)</li><li>Lots of various and mythical human items</li><li>Fall down oriented map structure</li><li>Lots of secret and unexpected ways to reach the top</li><li>Lots of jumps that surely will break you down</li><li class=\"SelectedElement\">Some references to other popular games and films</li><li class=\"SelectedElement\">Hidden lore, that can be solved by character dialogs and the environment</li></ul><br><h1>Jump king plus plugin</h1>Plugin incudes speedrun timer, automatic update of new records and the database with all the server records being saved.<br>Players, who get into server top 4 and keep the place on this top, will obtain the unique skin on this map on the server.<br>Players, who beat the whole godlike jumper mode, will get forever the crown and the trail on the map.<br>For getting the plugin for your server, pm me (Headsh#6641) or HaRyDe (HaRyDe#0054) in discord."
+	"_sText": "Map is made for NiDE 2023 Mapping Contest. And got 1st place in it.<br><br><h1>Map info</h1>The map is based on the game Jump King.<br><br><i>Legend has it there is a smoking hot babe at the top!</i><br><br>This is unusual map, that contains both ze and kz gameplay. If you played Jump King game, you know what to wait from that. You'll need to jump a lot and fall aswell. And once you obtain the jumping power, you get that hot babe on the tower. <br><br><h1>Map features</h1><ul><li>Main babe level with two modes - beginner and godlike jumper (first one is for the team game and the second for hardcore jumpers)</li><li>Crows quest (follow the nasty crow until you or the crow get defeated)</li><li>Hot smoking babe on the top (she is really hot)</li><li>Lots of various and mythical human items</li><li>Fall down oriented map structure</li><li>Lots of secret and unexpected ways to reach the top</li><li>Lots of jumps that surely will break you down</li><li class=\"SelectedElement\">Some references to other popular games and films</li><li class=\"SelectedElement\">Hidden lore, that can be solved by character dialogs and the environment</li></ul><br><h1>Jump king plus plugin</h1>Plugin incudes speedrun timer, automatic update of new records and the database with all the server records being saved.<br>Players, who get into server top 4 and keep the place on this top, will obtain the unique skin on this map on the server.<br>Players, who beat the whole godlike jumper mode, will get forever the crown and the trail on the map.<br>For getting the plugin for your server, pm me (Headsh#6641) or HaRyDe (HaRyDe#0054) in discord."
 }

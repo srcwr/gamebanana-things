@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_riverwalk nav readme.txt",
+					"de_riverwalk.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 2765,
+			"_nDownloadCount": 497,
+			"_nFilesize": 91535,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/2765",
+			"_sFile": "nav_de_riverwalk_2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1389346470
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 34800,
+	"_sName": "Hand-tuned NAV for map DE_RIVERWALK",
+	"_sText": "Counter-Strike: Source : Bot's Navigation Mesh for the map DE_RIVERWALK\r\n\r\n\r\nNav Creator: Meurglis3, Release Date: January 10 2014\r\n\r\nHere is the Navigation Mesh for fine Mediterranean Village themed map [de_riverwalk](http://css.gamebanana.com/maps/164707) by Redbodega (released March 2012). It's a created from scratch and fully optimized (hand-tuned) .nav-file (because included in author's original archive slightly corrected auto-gen was imperfect).\r\n\r\nIn particular the bed of the river was inaccessible to walking by bots. Also some important areas weren't adjusted that greased an overall view of gameplay.\r\n\r\nWell... bots use ALL possible ways now and more sucessfully operate in ALL locations. They precisely won't allow you to relax during holiday :D\r\n\r\nAlso this Navigation Mesh is fully Place Painted.\r\n\r\nNOTE: For possibility of comparison and in-game testing the original mapauthor's .nav-file available to downloading with the [same map](http://css.gamebanana.com/maps/164707).\r\n\r\nPlay and Enjoy! Also you share the impressions :-)\r\n\r\nCredits and Gratitudes:\r\n   Redbodega (for fine designed and tourist-atmospheric map, also for his other nice maps).\r\n\r\nAdditional Gratitudes:\r\n   BarnDoor (for perfect playable navigation meshes for many fine CS:S maps),\r\n   Chizbone (for informative and clever article BOT_BRAINED and a set of excellent navigation meshes),\r\n   CoCoNUT (for fine hand-tuned navigation meshes for many fine CS:S maps),\r\n   Valve Developer Community (for learning articles by Navigation Meshes and Navigation Mesh Commands).\r\n\r\nLong Live Great Maps!\r\n\r\n- - - - - - - - - - - - - - - - - - - - - - - -\r\n\r\n**UPDATED 19.11.2014**\r\n\r\nGeneral Fixes:\r\n- Added Place Names;\r\n- Some other minor changes.\r\n\r\n**PLEASE REDOWNLOAD UPDATED ARCHIVE!**"
+}

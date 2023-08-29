@@ -1,0 +1,45 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"cs_apartments nav readme.txt",
+					"cs_apartments.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 2046,
+			"_nDownloadCount": 911,
+			"_nFilesize": 53835,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/2046",
+			"_sFile": "nav_cs_apartments_440d4.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1429775623
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Improved bot's movement through all stairways"
+				},
+				{
+					"cat": "-",
+					"text": "Some other minor changes"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Update 1",
+			"_tsDateAdded": 1471353017
+		}
+	],
+	"_idRow": 34873,
+	"_sName": "Hand-tuned NAV for map CS_APARTMENTS",
+	"_sText": "Counter-Strike: Source : Bot's Navigation Mesh for the map CS_APARTMENTS<br><br>Nav Creator: Meurglis3, Release Date: April 23 2015<br><br>Here is the Navigation Mesh for old good fast-paced assault-themed map <a href=\"http://css.gamebanana.com/maps/10900\">cs_apartments</a> by Aldéz (released February 2006). It's a completely created from scratch and fully hand-tuned nav-file (because an original mapauthor's nav-file embedde in .bsp-file was slightly edited and not fully playable auto-gen).<br><br>This Navigation Mesh is create manually at 90% because in auto-generated Navigation Mesh some areas were made incorrectly and many paths were not preciese (almost all passes through a doorways and exits to balconies).<br><br>Also this Navigation Mesh was fully Place Painted.<br><br>Well... bots use all possible ways now. And they have own apartments, with blackjack and hookers! :-)<br><br>NOTE: For possibility of comparison and in-game testing the nav-file by original map author available to downloading with the <a href=\"http://css.gamebanana.com/maps/10900\">same map</a>.<br><br>Play and Enjoy! Also share your game impressions with mates and friends ;-)<br><br>Credits and Gratitudes:\r\nAldéz (for this excellent classic-styled map for closed battles).<br><br>Additional Gratitudes:\r\nBarnDoor (for perfect playable navigation meshes for many fine CS:S maps),\r\nChizbone (for informative and clever article BOT_BRAINED and a set of excellent navigation meshes),\r\nCoCoNUT (for fine hand-tuned navigation meshes for many fine CS:S maps),\r\nValve Developer Community (for learning articles by Navigation Meshes and Navigation Mesh Commands).<br><br>Who can it be knocking at my door? :D<br><br>"
+}

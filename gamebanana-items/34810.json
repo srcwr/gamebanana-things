@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"cs_meridian nav readme.txt",
+					"cs_meridian.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 2688,
+			"_nDownloadCount": 1163,
+			"_nFilesize": 90506,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/2688",
+			"_sFile": "nav_cs_meridian_2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1392711993
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 34810,
+	"_sName": "Hand-tuned NAV for map CS_MERIDIAN",
+	"_sText": "Counter-Strike: Source : Bot's Navigation Mesh for the map CS_MERIDIAN\r\n\r\n\r\nNav Creator: Meurglis3, Release Date: February 18 2014\r\n\r\nHere is the Navigation Mesh for cheerful fast-paced map with tropical summer mood [cs_meridian](http://css.gamebanana.com/maps/29283) by David Mann aka KillerWorm (released July 2007). It's an almost fully created from scratch and totally hand-tuned .nav-file (because both long ago known nav-files by KillerWorm and BarnDoor were found by me not perfect).\r\n\r\nMost areas and paths were created from scratch or manually reworked for the best optimization of bot's behavior. It really was wearisome work! :D\r\n\r\nNow bots have opportunity to use all walkable ways and surely move on all space of the map. They firmly keep standing despite abundance of rum and sea rolling! ;-)\r\n\r\nAlso this Navigation Mesh is fully Place Painted.\r\n\r\nIMPORTANT NOTE about spawnpoint error at the CT-base: there is a known problem on this map when a spawned bot (or human player) gets stuck in one of corners for the entire round and cannot move but can shoot (see last screenshot). Must be kept in mind that it's a problem of the map, instead of a Navigation Mesh!\r\n\r\nNOTE: For possibility of comparison and in-game testing the original navigation file by map creator available to downloading with the [same map](http://css.gamebanana.com/maps/29283). Also you can download the navigation file by BarnDoor from his [personal page](http://www.tequilakawa.plus.com).\r\n\r\nPlay and Enjoy! Your responses and remarks are always welcomed :-)\r\n\r\nCredits and Gratitudes:\r\n   KillerWorm (for bright, joyful and fascinating sea'n'sun-styled map).\r\n\r\nAdditional Gratitudes:\r\n   BarnDoor (for perfect playable navigation meshes for many fine CS:S maps),\r\n   Chizbone (for informative and clever article BOT_BRAINED and a set of excellent navigation meshes),\r\n   CoCoNUT (for fine hand-tuned navigation meshes for many fine CS:S maps),\r\n   Valve Developer Community (for its learning articles by Navigation Meshes and Navigation Mesh Commands).\r\n\r\nWatch a Weather Reports... and Beware the Sea-Devil! :D\r\n\r\n- - - - - - - - - - - - - - - - - - - - - - - -\r\n\r\n**UPDATED 12.11.2014**\r\n\r\nGeneral Fixes:\r\n- Place Names are changed (replaced on more corresponding to environment);\r\n- Some other minor improvements.\r\n\r\n**PLEASE REDOWNLOAD UPDATED ARCHIVE!**"
+}

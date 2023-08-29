@@ -1,0 +1,32 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrike": {
+						"maps": [
+							"de_tuscan.nav"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 2370,
+			"_nDownloadCount": 1692,
+			"_nFilesize": 72610,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/2370",
+			"_sFile": "de_tuscan_nav_2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1403464313
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 34845,
+	"_sName": "NAV-file for de_tuscan",
+	"_sText": "This is NAV-file for tactic, fun and simple map [de_tuscan](http://css.gamebanana.com/maps/158440 \"\").\r\n\r\n\r\nSo, bots using all possible ways now. Also added detailed place names, so you'll always know from bots, where the enemies are.\r\n\r\n\r\nI would like to note one thing: when bots are trying to go down the ladder into the tunnel, if you are passing close - break the boards, which close passage, because bots don't do it (I do not know why), and therefore can not come down so long as the passage is closed.\r\n\r\nHave fun! ;D\r\n\r\n\tUPDATE 12.07.2014:\r\n\tNow bots destroying boards without problems. Thanks to Meurglis3 for it"
+}

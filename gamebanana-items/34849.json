@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"cs_newyork_sn nav readme.txt",
+					"cs_newyork_sn.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 2347,
+			"_nDownloadCount": 570,
+			"_nFilesize": 80942,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/2347",
+			"_sFile": "nav_cs_newyork_sn_2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1404838794
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 34849,
+	"_sName": "Hand-tuned NAV for map CS_NEWYORK_SN",
+	"_sText": "Counter-Strike: Source : Bot's Navigation Mesh for the map CS_NEWYORK_SN\r\n\r\n\r\nNav Creator: Meurglis3, Release Date: July 8 2014\r\n\r\nHere is the Navigation Mesh for old good fast-paced assault-themed map [cs_newyork_sn](http://css.gamebanana.com/maps/14098) by (happs) Christmas Turkey (released July 2006).\r\nIt's a completely created from scratch and fully hand-tuned .nav-file (because in original mapauthor's release was included simple auto-gen).\r\n\r\nThis Navigation Mesh was hand-maded at 80% because in auto-gen nav some areas were made incorrectly and many paths were blocked (in particular ventilating passes were absolutely impassable).\r\n\r\nWell... bots use all possible ways now. They feel here like the real owners... as a rats in the New York subway! :D\r\n\r\nAlso this Navigation Mesh is fully Place Named.\r\n\r\nNOTE: For possibility of comparison and in-game testing the original navigation file by map creator available to downloading with the [same map](http://css.gamebanana.com/maps/14098).\r\n\r\nPlay and Enjoy! Also share your game impressions with mates and friends ;-)\r\n\r\nCredits and Gratitudes:\r\n   (happs) Christmas Turkey (for nice atmospheric and fine designed office-themed map).\r\n\r\nAdditional Gratitudes:\r\n   BarnDoor (for perfect playable navigation meshes for many fine CS:S maps),\r\n   Chizbone (for informative and clever article BOT_BRAINED and a set of excellent navigation meshes),\r\n   CoCoNUT (for fine hand-tuned navigation meshes for many fine CS:S maps),\r\n   Valve Developer Community (for learning articles by Navigation Meshes and Navigation Mesh Commands).\r\n\r\nDidn't forget to take more DDT..? :-)\r\n\r\n- - - - - - - - - - - - - - - - - - - - - - - -\r\n\r\n**UPDATED 22.10.2014**\r\n\r\nGeneral Fixes:\r\n- Added Place Names;\r\n- Some other minor changes.\r\n\r\n**PLEASE REDOWNLOAD UPDATED ARCHIVE!**"
+}

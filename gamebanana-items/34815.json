@@ -1,0 +1,60 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"cs_office2 nav readme.txt",
+					"cs_office2.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 2654,
+			"_nDownloadCount": 716,
+			"_nFilesize": 26983,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/2654",
+			"_sFile": "nav_cs_office2_4fbd3.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1394223685
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Improved bot's movement through the central areas (MainHall, FrontHall)"
+				},
+				{
+					"cat": "-",
+					"text": "Some other minor changes"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Update 2",
+			"_tsDateAdded": 1471593916
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Improved bot's movement through all stairways"
+				},
+				{
+					"cat": "-",
+					"text": "Some other minor changes"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Update 1",
+			"_tsDateAdded": 1469113372
+		}
+	],
+	"_idRow": 34815,
+	"_sName": "Hand-tuned NAV for map CS_OFFICE2",
+	"_sText": "Counter-Strike: Source : Bot's Navigation Mesh for the map CS_OFFICE2<br><br>\r\nNav Creator: Meurglis3, Release Date: March 8 2014<br><br>\r\nHere is the Navigation Mesh for perfectly designed fast-paced office-themed map <a href=\"http://css.gamebanana.com/maps/13165\">cs_office2</a> by Cosmic Fool (released October 2005). It's a completely created from scratch and fully hand-tuned .nav-file (because in original mapauthor's release was included simple auto-gen).<br><br>\r\nThis Navigation Mesh was hand-maded at 80% because in auto-gen nav some areas were made incorrectly and many paths were blocked (even the only one ladder were absolutely impassable).<br><br>\r\nWell... bots use all possible ways now. And this time visit of financial police will end with the real bloody harvest! :D<br><br>\r\nAlso this Navigation Mesh is fully Place Painted.<br><br>\r\nNOTE: For possibility of comparison and in-game testing the original navigation file by map creator available to downloading with the <a href=\"http://css.gamebanana.com/maps/13165\">same map</a>.<br><br>\r\nPlay and Enjoy! Also don't lazy to write your responses ;-)<br><br>\r\nCredits and Gratitudes:\r\nCosmic Fool (for fine designed and high detailed sequel of the legendary map).<br><br>\r\nAdditional Gratitudes:\r\nBarnDoor (for perfect playable navigation meshes for many fine CS:S maps),\r\nChizbone (for informative and clever article BOT_BRAINED and a set of excellent navigation meshes),\r\nCoCoNUT (for fine hand-tuned navigation meshes for many fine CS:S maps),\r\nValve Developer Community (for learning articles by Navigation Meshes and Navigation Mesh Commands).<br><br>\r\nAnother Perfect Day... in Quite Office! :-)<br><br>"
+}

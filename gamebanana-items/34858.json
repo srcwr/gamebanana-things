@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_lotus_sm nav readme.txt",
+					"de_lotus_sm.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 2214,
+			"_nDownloadCount": 379,
+			"_nFilesize": 84325,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/2214",
+			"_sFile": "nav_de_lotus_sm_2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1414869052
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 34858,
+	"_sName": "Hand-tuned NAV for map DE_LOTUS_SM",
+	"_sText": "Counter-Strike: Source : Bot's Navigation Mesh for the map DE_LOTUS_SM\r\n\r\n\r\nNav Creator: Meurglis3, Release Date: November 1 2014\r\n\r\nHere is the Navigation Mesh for excellent Italy-styled map [de_lotus_sm](http://css.gamebanana.com/maps/165794) by mantra (released July 2012).\r\nIt's a manually reworked and carefully optimized .nav-file (because in original author's release the .nav-file probably was slightly corrected auto-gen embedded in .bsp).\r\n\r\nThis Navigation Mesh was hand-maded approximately for 80% 'cause auto-gen constructed many areas inexact (the special attention was paid to apertures of oar doors and stair transitions).\r\n\r\nBots use all possible ways now (except provided in the note below) and move according to all levels of this map quite surely.\r\n\r\nIMPORTANT NOTE: Bots don't go through ventilating hole in a bathroom on the second floor of one of main building (however as well as the most people), because it too small and access to it is complicated. To force bots to take place precisely in this hole is technically impossible (imho).\r\n\r\nAlso this Navigation Mesh is fully Place Painted.\r\n\r\nExcept everything told has to note still that bots (on the unknown to me reason) hate the benches in church and a small fishes in the river... also shoot them without any mercy! Maybe it's simple stress manifestations? :D\r\n\r\nPlay & Enjoy! Always will be grateful for your remarks and feedbacks.\r\n\r\nCredits and Gratitudes:\r\n   mantra (for nice extended version of map de_lotus),\r\n   Tetsu0 / Brett Bernier (for original map de_lotus).\r\n\r\nAdditional Gratitudes:\r\n   BarnDoor (for perfect playable navigation meshes for many fine CS:S maps),\r\n   Chizbone (for informative and clever article BOT_BRAINED and a set of excellent navigation meshes),\r\n   CoCoNUT (for fine hand-tuned navigation meshes for many fine CS:S maps),\r\n   Valve Developer Community (for learning articles by Navigation Meshes and Navigation Mesh Commands).\r\n\r\nRead your intimate mantras to a blossomed lotus flower... or just kill all your enemy bastards! :-)"
+}

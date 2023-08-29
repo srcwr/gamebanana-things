@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_karachi nav readme.txt",
+					"de_karachi.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 1852,
+			"_nDownloadCount": 434,
+			"_nFilesize": 114744,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1852",
+			"_sFile": "nav_de_karachi_2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1445806354
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 34890,
+	"_sName": "Hand-tuned NAV for map DE_KARACHI",
+	"_sText": "Counter-Strike: Source : Bot's Navigation Mesh for the map DE_KARACHI\r\n\r\n\r\nNav Creator: Meurglis3, Release Date: October 25 2015\r\n\r\nHere is the Navigation Mesh for big and fun oldschool map [de_karachi](http://css.gamebanana.com/maps/152631) by Silly (released December 2010).\r\nIt's a totally created from scratch and carefully optimized .nav-file (because included in original mapauthor's release the .nav-file by chizbone probably was slightly edited and not perfect playable auto-gen).\r\n\r\nThis Navigation Mesh is hand-made approximately for 90% 'cause auto-gen constructed many areas inexact (the special attention was paid to many narrow transitions at top levels of the map).\r\n\r\nBots use almost all possible ways now (except provided in the note below) and move through all areas of this multilevel map absolutely consciously.\r\n\r\nIMPORTANT NOTE: Bots don't go on a building roof near at the Terrorists Spawn Point (Rear-Market). This pathway is excluded from a Navigation Mesh for two reasons: first - it's possible to jump there only from a roof of the neighboring building (that's too difficult and hazardous to health), secondly - is absolutely optional way (according to logic of game on this map).\r\n\r\nAlso this Navigation Mesh is fully Place Painted.\r\n\r\nNOTE: For possibility of comparison and in-game testing the navigation file by chizbone included in original maparchive and available to downloading with the [same map](http://css.gamebanana.com/maps/152631).\r\n\r\nPlay and Enjoy! Always will be grateful for your remarks and feedbacks.\r\n\r\nCredits and Gratitudes:\r\n   Silly (for nice CS:S-portation of fun oldschool map),\r\n   CompoSITe / Geoffrey Smith (for original map de_karaci01 for CS:CZ).\r\n\r\nAdditional Gratitudes:\r\n   BarnDoor (for perfect playable navigation meshes for many fine CS:S maps),\r\n   Chizbone (for informative and clever article BOT_BRAINED and a set of excellent navigation meshes),\r\n   CoCoNUT (for fine hand-tuned navigation meshes for many fine CS:S maps),\r\n   Valve Developer Community (for learning articles by Navigation Meshes and Navigation Mesh Commands).\r\n\r\nYou missed the last bus from a hell, stupid kaffir! :-)"
+}

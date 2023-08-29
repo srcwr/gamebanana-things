@@ -1,6 +1,10 @@
 {
 	"_aAlternateFileSources": [
 		{
+			"description": "Beta 5",
+			"url": "https://www.mediafire.com/file/1b9k9zplhsc4ard/jb_417_b5_2.zip/file"
+		},
+		{
 			"description": "Beta 4",
 			"url": "https://www.mediafire.com/file/vwh232vgunbryxj/jb_417_b4.zip/file"
 		}
@@ -9,12 +13,31 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
+					"jb_417_b5.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 984139,
+			"_nDownloadCount": 31,
+			"_nFilesize": 50429899,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "Beta 5",
+			"_sDownloadUrl": "https://gamebanana.com/dl/984139",
+			"_sFile": "jb_417_b5_2.zip",
+			"_sMd5Checksum": "2b512d2fbcf84adbca27896823ae0bdd",
+			"_tsDateAdded": 1684419127
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
 					"jb_417_b3a.bsp"
 				]
 			},
 			"_bContainsExe": false,
 			"_idRow": 708285,
-			"_nDownloadCount": 84,
+			"_nDownloadCount": 105,
 			"_nFilesize": 58851752,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -27,6 +50,81 @@
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Adjustment",
+					"text": "Replaced some dev_ textures with realistic ones"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Changed lighting indoors"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Changed lighting + skybox outdoors"
+				},
+				{
+					"cat": "Removal",
+					"text": "Removed Special Day 1"
+				},
+				{
+					"cat": "Tweak",
+					"text": "Tweaked secret Special Day"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Special days now have a 4 round cooldown system. Have fun!"
+				},
+				{
+					"cat": "Overhaul",
+					"text": "Replaced the FFA arena with a new one"
+				},
+				{
+					"cat": "Tweak",
+					"text": "Killhouse entrance doors have a solid structure now"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Forklift now *should* properly stop when a player stops controlling it"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed spleef having a duplicate row spawn"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Race final and 3rd final obstacles made easier"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Added more targets to Shooting Range"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Vents now have 72 HU tall walls instead of 64 HU"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Streamlined Juggernaut secret activation method"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Moved snowman secret entirely to football. Aim for the head"
+				},
+				{
+					"cat": "Tweak",
+					"text": "Tweaked secret songs including quality, activation method and replacing 1 song with another"
+				},
+				{
+					"cat": "Tweak",
+					"text": "Many other minor tweaks including texturing certain parts, removing stuff, adding small details, etc"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Beta 5",
+			"_tsDateAdded": 1684420082
+		},
 		{
 			"_aChangeLog": [
 				{
@@ -117,5 +215,5 @@
 	],
 	"_idRow": 342273,
 	"_sName": "jb_417",
-	"_sText": "A little JailBreak map I had worked on and off for 1.5 years.<br>Has snow around the map, so I guess it is winter themed. There are some secrets around the map, including <span class=\"RedColor\">special songs</span>.<br><br><span class=\"GreenColor\">Games:</span><br>-Football<br>-Pool ( Jumping, Air course, Bomb diving )<br>-Colours<br>-Killhouse ( COD4 style )<br>-Race ( Long jump is quite hard without sv_accelerate 100 or above )<br>-Hot Potato<br>-Underground ( Forklift, Shooting range, Deathball, Wipeout, FFA, Spleef )<br><br><span class=\"GreenColor\"><span class=\"GreenColor\">Disco song list</span>:</span><br>Yakuza 0 - Friday Night<br>Usher - More<br>Sonic Palms - On The Beach<br>Avicii - Levels<br><span class=\"RedColor\">Egor Nats - Ya zhenyus' na devochke iz anime<br>Camellia - Body F10ating in the Zero Gravity Space <br>Camellia - ?:For The Delta<br><span class=\"GreenColor\"><br></span></span><span class=\"GreenColor\"><span class=\"GreenColor\">Special days</span>:</span><br>-Warday<br>-Low friction<br>-???<br>-Secret<br><br>Special thanks to : nyronic ( dev textures ), JasperCarmak( skybox ), Doctor waffles AKA Daan ( huge inspiration, creator of jb_carceris )<br>"
+	"_sText": "A little JailBreak map I had worked on and off for 1.5 years.<br>Has snow around the map, so I guess it is winter themed. There are some secrets around the map, including <span class=\"RedColor\">special songs</span>.<br><br><span class=\"GreenColor\">Games:</span><br>-Football<br>-Pool ( Jumping, Air course, Bomb diving )<br>-Colours<br>-Killhouse ( COD4 style )<br>-Race ( Long jump is quite hard without sv_accelerate 100 or above )<br>-Hot Potato<br>-Underground ( Forklift, Shooting range, Deathball, Wipeout, FFA, Spleef )<br><br><span class=\"GreenColor\"><span class=\"GreenColor\">Disco song list</span>:</span><br>Yakuza 0 - Friday Night<br>Usher - More<br>Sonic Palms - On The Beach<br>Avicii - Levels<br><span class=\"RedColor SelectedElement\">Shingo Nakamura - Morning Sun<br>Camellia - Body F10ating in the Zero Gravity Space <br>Camellia - D:For The Delta<br><span class=\"GreenColor\"><br></span></span><span class=\"GreenColor\"><span class=\"GreenColor\">Special days</span>:</span><br>-Low friction<br>-???<br>-Secret<br><br>Special thanks to : nyronic ( dev textures ), JasperCarmak( skybox ), Doctor waffles AKA Daan ( huge inspiration, creator of jb_carceris )<br>"
 }

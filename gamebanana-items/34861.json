@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_sewers nav readme.txt",
+					"de_sewers.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 2207,
+			"_nDownloadCount": 476,
+			"_nFilesize": 36501,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/2207",
+			"_sFile": "nav_de_sewers_4.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1416084077
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 34861,
+	"_sName": "Hand-tuned NAV for map DE_SEWERS",
+	"_sText": "Counter-Strike: Source : Bot's Navigation file for the map DE_SEWERS\r\n\r\n\r\nNav Creator: Meurglis3, Release Date: November 16 2014\r\n\r\nHere is the Navigation Mesh for beautiful industrial/facility themed map [de_sewers](http://css.gamebanana.com/maps/30330) by Snipergen (relesed August 2007).\r\nIt's a manually optimized (hand-tuned) and carefully tested .nav-file (because in original mapauthor's release .nav-file was simply auto-gen embedded in .bsp-file).\r\n\r\nThis Navigation Mesh was created from scratch approximately for 80% and the most part of the areas was recustomized manually because in auto-generated Navigation Mesh some pathways and areas were constructed incorrectly or blocked. The special attention should be paid to both bombsites in a type of complexity of movements: throug a ladders and stairs (Bombsite B) and around the deadly hole (Bombsite A).\r\n\r\nWell... bots freely move through all walkable areas of the map now. I hope that new advanced style of a bot's behaviour on this nice map will give you pleasure ;-)\r\n\r\nAlso this Navigation Mesh is fully Place Painted.\r\n\r\nNOTE: For possibility of comparison and in-game testing the original .nav-file by Snipergen included in .bsp-file and available to downloading with the [same map](http://css.gamebanana.com/maps/30330).\r\n\r\nPlay and Enjoy! Always will be grateful for your remarks and feedbacks. ;-)\r\n\r\nCredits and Gratitudes:\r\n   Snipergen (for excellent outdoor/indoor industrial-themed map).\r\n\r\nAdditional Gratitudes:\r\n   BarnDoor (for perfect playable navigation meshes for many fine CS:S maps),\r\n   Chizbone (for informative and clever article BOT_BRAINED and a set of excellent navigation meshes),\r\n   CoCoNUT (for fine hand-tuned navigation meshes for many fine CS:S maps),\r\n   Valve Developer Community (for learning articles by Navigation Meshes and Navigation Mesh Commands).\r\n\r\nLet curls a smoke on the water! :-)\r\n\r\n- - - - - - - - - - - - - - - - - - - - - - - -\r\n\r\n**UPDATED 22.11.2014**\r\n\r\nGeneral Fixes:\r\n- Accelerated bot's movements through the lattice (Underpass).\r\n\r\n**PLEASE REDOWNLOAD UPDATED ARCHIVE!**"
+}

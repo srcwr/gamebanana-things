@@ -1,0 +1,45 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_stratocorp2 nav readme.txt",
+					"de_stratocorp2.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 2392,
+			"_nDownloadCount": 715,
+			"_nFilesize": 84384,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/2392",
+			"_sFile": "nav_de_stratocorp2_4298a.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1401979577
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Improved bot's movement through the all stairways"
+				},
+				{
+					"cat": "-",
+					"text": "Some other minor changes"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Update 1",
+			"_tsDateAdded": 1470498303
+		}
+	],
+	"_idRow": 34840,
+	"_sName": "Hand-tuned NAV for map DE_STRATOCORP2",
+	"_sText": "Counter-Strike: Source : Bot's Navigation file for the map DE_STRATOCORP2<br><br>\r\nNav Creator: Meurglis3, Release Date: June 5 2014<br><br>\r\nHere is the Navigation Mesh for beautiful hi-tech themed map <a href=\"http://css.gamebanana.com/maps/27124\">de_stratocorp2</a> by Heyo (relesed June 2007).\r\nIt's fully created from scratch and carefully hand-tuned (manually optimized) .nav-file because included in original map archive .nav-file by BarnDoor (released June 2007) was not perfect.<br><br>\r\nMore than a half of all auto-generated areas were remade manually. The special attention was paid to both stairways between the first and the second floors.<br><br>\r\nWell... bots use all possible ways now and perfectly navigate with all map. They will watch you in twilight zones! :D<br><br>\r\nAlso this Navigation Mesh is fully Place Painted.<br><br>\r\nNOTE: For possibility of comparison and in-game testing the alternative navigation file by Peter \"BarnDoor\" Calvert is also available to loading from his <a href=\"http://www.tequilakawa.plus.com/\" target=\"_blank\">homepage</a>.<br><br>\r\nPlay and Enjoy! Also your responses for me are still important ;-)<br><br>\r\nCredits and Gratitudes:\r\nHeyo (for nice futuristic industrial-themed map)<br><br>\r\nAdditional Gratitudes:\r\nBarnDoor (for perfect playable navigation meshes for many fine CS:S maps),\r\nChizbone (for informative and clever article BOT_BRAINED and a set of excellent navigation meshes),\r\nCoCoNUT (for fine hand-tuned navigation meshes for many fine CS:S maps),\r\nValve Developer Community (for learning articles by Navigation Meshes and Navigation Mesh Commands).<br><br>\r\nSee You at the... Better Future for the Human Race :D<br>\r\n<br>"
+}

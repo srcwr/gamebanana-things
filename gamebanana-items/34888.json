@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_rimini nav readme.txt",
+					"de_rimini.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 1860,
+			"_nDownloadCount": 588,
+			"_nFilesize": 150404,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1860",
+			"_sFile": "nav_de_rimini_2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1445370344
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 34888,
+	"_sName": "Hand-tuned NAV for map DE_RIMINI",
+	"_sText": "Counter-Strike: Source : Bot's Navigation Mesh for the map DE_RIMINI\r\n\r\n\r\nNav Creator: Meurglis3, Release Date: October 20 2015\r\n\r\nHere is the Navigation Mesh for beautiful and cheerful map [de_rimini](http://css.gamebanana.com/maps/177454) by l’Inconnu (released July 2008).\r\nIt's a totally created from scratch and fully hand-tuned .nav-file (because an original .nav-file by Man Nay seemed to me imperfect, though was optimized manually).\r\n\r\nSome paths were created from scratch completely and many areas were deleted or reconnected manually. It seems bots really use all possible walkable ways now.\r\n\r\nAlso this Navigation Mesh is fully Place Painted.\r\n\r\nWell... Play and Enjoy! :-)\r\n\r\nNOTE: For possibility of comparison and in-game testing the original navigation file by Man Nay available to downloading with the [same map](http://css.gamebanana.com/maps/177454).\r\n\r\nCredits and Gratitudes:\r\n   l’Inconnu (for one of the most beautiful maps for CS:S),\r\n   Man Nay (for map optimization and playable initial NAV).\r\n\r\nAdditional Gratitudes:\r\n   BarnDoor (for perfect playable navigation meshes for many fine CS:S maps),\r\n   Chizbone (for informative and clever article BOT_BRAINED and a set of excellent navigation meshes),\r\n   CoCoNUT (for fine hand-tuned navigation meshes for many fine CS:S maps),\r\n   Valve Developer Community (for learning articles by Navigation Meshes and Navigation Mesh Commands).\r\n\r\nIn Maps We Trust! :D"
+}

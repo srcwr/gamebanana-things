@@ -1,0 +1,52 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_stealth nav readme.txt",
+					"de_stealth.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 1398,
+			"_nDownloadCount": 588,
+			"_nFilesize": 91471,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1398",
+			"_sFile": "nav_de_stealth_6f462.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1468610814
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Improved bot's movement through all stairways"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Update 3",
+			"_tsDateAdded": 1469119700
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Improved bot's movement through a dangerous and difficult areas (Downstairs - Upstairs)"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Update 2",
+			"_tsDateAdded": 1468673988
+		}
+	],
+	"_idRow": 34899,
+	"_sName": "Hand-tuned NAV for map DE_STEALTH",
+	"_sText": "Counter-Strike: Source : Bot's Navigation Mesh for the map DE_STEALTH<br><br>Nav Creator: Meurglis3,&nbsp;Release Date: July 15 2016<br><br>Here is the Navigation Mesh for high-detailed military/warehouse themed map <a href=\"http://gamebanana.com/maps/191259\">de_stealth</a> by NvC_DmN_CH (created July 2016). It's created from scratch and manually optimized (hand-tuned) .nav-file ('cause original mapauthor's release was not included .nav-file).<br><br>Well... bots use all possible ways now. And they are interested very much about a railway transport and rocket technologies! :-)<br><br>Also this Navigation Mesh is fully Place Painted.<br><br>NOTE: The most important and insuperable issue - when T-bots drop the bomb to a rocket silo then they die trying to get her from there. But it's a question of bot-psychology instead the nav-making! :D<br><br>Play and Enjoy! Also always will be grateful for your remarks and feedbacks ;-)<br><br>Credits and Gratitudes:&nbsp; NvC_DmN_CH (for very realistic and fight-friendly atmospheric underground-styled map).<br><br>Additional Gratitudes:&nbsp; BarnDoor (for perfect playable navigation meshes for many fine CS:S maps),&nbsp; Chizbone (for informative and clever article BOT_BRAINED and a set of excellent navigation meshes),&nbsp; CoCoNUT (for fine hand-tuned navigation meshes for many fine CS:S maps),&nbsp; Valve Developer Community (for learning articles by Navigation Meshes and Navigation Mesh Commands).<br><br>Countdown has ceased, power level is nil, the light is green for immediate overkill&nbsp;:-)<br><br>"
+}

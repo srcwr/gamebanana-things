@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_abbottabad nav readme.txt",
+					"de_abbottabad.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 2211,
+			"_nDownloadCount": 525,
+			"_nFilesize": 53852,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/2211",
+			"_sFile": "nav_de_abbottabad_2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1415465753
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 34859,
+	"_sName": "Hand-tuned NAV for map DE_ABBOTTABAD",
+	"_sText": "Counter-Strike: Source : Bot's Navigation Mesh for the map DE_ABBOTTABAD\r\n\r\n\r\nNav Creator: Meurglis3, Release Date: November 8 2014\r\n\r\nHere is the Navigation Mesh for fine map for fast and ruthless fights [de_abbottabad](http://css.gamebanana.com/maps/156129) by Fletch (released May 2011).\r\nIt's a totally hand-made and carefully optimized .nav-file (because in map author's original nav-file considerable errors were allowed).\r\n\r\nWith an initial auto-generated Navigation Mesh the Bots don't take every path (that is especially critical - one of the main pathways through the sewers was broken off). Also multiple corrections was made (missed ladder was builded, some areas are re-connects and re-combines, improved the movement through window and so more).\r\n\r\nWell... bots use all possible ways now and sucessfully operate on all extent of the map. Not to disappear from them anywhere! :D\r\n\r\nAlso this Navigation Mesh is fully Place Painted.\r\n\r\nNOTE: For possibility of comparison and in-game testing the original .nav-file by creator of map embedded in .bsp-file and available to downloading with the [same map](http://css.gamebanana.com/maps/156129).\r\n\r\nP.S. This map was pleasant to me very much and it to deserve higher rating... it's a pity that I couldn't vote for it as the rating period already expired :-(\r\n\r\nCredits and Gratitudes:\r\n   Fletch (for rather realistic and very fight-friendly reconstruction of the real location).\r\n\r\nAdditional Gratitudes:\r\n   BarnDoor (for perfect playable navigation meshes for many fine CS:S maps),\r\n   Chizbone (for informative and clever article BOT_BRAINED and a set of excellent navigation meshes),\r\n   CoCoNUT (for fine hand-tuned navigation meshes for many fine CS:S maps),\r\n   Valve Developer Community (for learning articles by Navigation Meshes and Navigation Mesh Commands).\r\n\r\nTribute to Zero Dark Thirty!"
+}

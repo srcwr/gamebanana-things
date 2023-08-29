@@ -1,0 +1,52 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrike": {
+						"maps": [
+							"de_rose.nav"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 2134,
+			"_nDownloadCount": 1386,
+			"_nFilesize": 111360,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/2134",
+			"_sFile": "de_rose_nav_2.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1422306094
+		}
+	],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "-",
+					"text": "Fixed many jams near stairs."
+				},
+				{
+					"cat": "-",
+					"text": "Accelerated some ways."
+				},
+				{
+					"cat": "-",
+					"text": "See \"UPDATE 08.02.15\" in the description."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "v.1.1",
+			"_tsDateAdded": 1423357005
+		}
+	],
+	"_idRow": 34868,
+	"_sName": "NAV-file for de_rose",
+	"_sText": "This is a custom navigation mesh for map [de_rose](http://css.gamebanana.com/maps/165966 \"\").\r\n\r\nFixed many jams, improved some ways (one of the rooms near pool, and bathroom done from scratch, there was nothing in original nav). Added detailed place names, so bots will tell you where's the bomb or enemy (I recommend to run the map alone and learn how its arranged to prevent confusion). Enjoy!\r\n\r\nNote: bots won't plant the bomb in the water, because they can't descent under the water, but they freely planting the bomb near the pool, so bombsite is used correctly.\r\n\r\nAny feedback is welcomed :)\r\n\r\nUPDATE 08.02.15: Fixed many jams near the stairs, including garage, entrance, attic. Accelerated passage of some ways."
+}

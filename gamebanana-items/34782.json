@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"cs_drugbust nav readme.txt",
+					"cs_drugbust.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 2825,
+			"_nDownloadCount": 926,
+			"_nFilesize": 164552,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/2825",
+			"_sFile": "nav_cs_drugbust_2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1386684444
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 34782,
+	"_sName": "Hand-tuned NAV for map CS_DRUGBUST",
+	"_sText": "Counter-Strike: Source : Bot's Navigation Mesh for the map CS_DRUGBUST\r\n\r\n\r\nNav Creator: Meurglis3, Release Date: December 10 2013\r\n\r\nHere is the Navigation Mesh for excellent fast-paced urban-themed map [cs_drugbust](http://css.gamebanana.com/maps/20962) by malfuncti0n (released February 2007).\r\nIt's a almost completely re-maded and fully hand-tuned .nav-file (because an original author's .nav-file was simple auto-gen).\r\n\r\nMost areas and paths were build manually 'cause during an auto-generation processing the majority of them were constructed incorrectly or incomplete. Some important pathways were broken off (in particular some ladders and ways to hidden places in T-house). Also the set of other inaccuracies was corrected.\r\n\r\nBots have opportunity to use all walkable ways now but... here it should be noted TWO very essential moments which spoil impression of gameplay with bots on this fine map, also change game tactics:\r\n\r\n1 - Bots perfectly see through a fence. It does almost impossible the stealth actions. Though in process of opportunities I tried to reduce the frequency of their movements in perimeter ;-)\r\n\r\n2 - Bots not sliky often use roofs of the neighboring houses for maintaining sniper fire. That too changes a habitual picture of gameplay.\r\n\r\nBoth of these moments can be corrected due to skillful use of radio commands by players of both teams: for CTs - \"follow me\" (to bring part of bots on a roof), for Ts - \"hold this position\" (to force part of bots to protect hostages and not to leave the house).\r\n\r\nAlso this Navigation Mesh was fully Place Painted.\r\n\r\nNOTE: For possibility of comparison and in-game testing the original navigation file by map creator available to downloading with the [same map](http://css.gamebanana.com/maps/20962).\r\n\r\nP.S. Thanks to O.T.I.S. for a reminder about this interesting map!\r\n\r\nCredits and Gratitudes:\r\n   malfuncti0n (for high detailed and very fight-friendly urban-themed map).\r\n\r\nAdditional Gratitudes:\r\n   BarnDoor (for perfect playable navigation meshes for many fine CS:S maps),\r\n   Chizbone (for informative and clever article BOT_BRAINED and a set of excellent navigation meshes),\r\n   CoCoNUT (for fine hand-tuned navigation meshes for many fine CS:S maps),\r\n   Valve Developer Community (for learning articles by Navigation Meshes and Navigation Mesh Commands).\r\n\r\nLong Live Great Maps!\r\n\r\n- - - - - - - - - - - - - - - - - - - - - - - -\r\n\r\n**UPDATED 13.05.2015**\r\n\r\nGeneral Fixes:\r\n- Added Place Names;\r\n- Overall improvements for smoothest gameplay.\r\n\r\n**PLEASE REDOWNLOAD UPDATED ARCHIVE!**"
+}

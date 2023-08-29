@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_varasto_v3 nav readme.txt",
+					"de_varasto_v3.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 2719,
+			"_nDownloadCount": 637,
+			"_nFilesize": 70721,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/2719",
+			"_sFile": "nav_de_varasto_v3_5.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1390910210
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 34805,
+	"_sName": "Hand-tuned NAV for map DE_VARASTO_V3",
+	"_sText": "Counter-Strike: Source : Bot's Navigation Mesh for the map DE_VARASTO_V3\r\n\r\n\r\nNav Creator: Meurglis3, Release Date: January 28 2014\r\n\r\nHere is the Navigation Mesh for excellent twisted warehouse-themed map [de_varasto_v3](http://css.gamebanana.com/maps/113040) by ICS (released July 2009). It's a created from scratch and fully hand-tuned .nav-file (because in original mapauthor's release was included simple auto-gen).\r\n\r\nThis Navigation Mesh was hand-maded at 80% because in auto-gen nav some areas were made absolutely incorrectly and many paths became impassable (pathway through an underground tunnel, pass through the second floor of building to T-base and other). So a lot of time for optimization and exact control of the majority of routes was required.\r\n\r\nWell... bots use all possible ways now also behave on the map as at home! :D\r\n\r\nAlso this Navigation Mesh is fully Place Painted.\r\n\r\nNOTE: For possibility of comparison and in-game testing the .nav-file by mapauthor included in original archive and available to downloading with the [same map](http://css.gamebanana.com/maps/113040).\r\n\r\nPlay and Enjoy! Also share with other with your game impressions ;-)\r\n\r\nCredits and Gratitudes:\r\n   ICS (for this dashingly twisted and variously designed warehouse-themed map, also for his other fine maps).\r\n\r\nAdditional Gratitudes:\r\n   BarnDoor (for perfect playable navigation meshes for many fine CS:S maps),\r\n   Chizbone (for informative and clever article BOT_BRAINED and a set of excellent navigation meshes),\r\n   CoCoNUT (for fine hand-tuned navigation meshes for many fine CS:S maps),\r\n   Valve Developer Community (for learning articles by Navigation Meshes and Navigation Mesh Commands).\r\n\r\nAnother Perfect Day... at Warehouse!\r\n\r\n- - - - - - - - - - - - - - - - - - - - - - - -\r\n\r\n**UPDATED 11.09.2015**\r\n\r\nGeneral Fixes:\r\n- Improved Bot's movement through a roofs, windows and iside hall (Overpass);\r\n- Some other minor improvements.\r\n\r\n**PLEASE REDOWNLOAD UPDATED ARCHIVE!**"
+}

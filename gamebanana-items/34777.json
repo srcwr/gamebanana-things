@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_synthesis_b4 nav redame.txt",
+					"de_synthesis_b4.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 2840,
+			"_nDownloadCount": 382,
+			"_nFilesize": 77172,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/2840",
+			"_sFile": "nav_de_synthesis_b4.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1385930728
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 34777,
+	"_sName": "Hand-tuned NAV for map DE_SYNTHESIS",
+	"_sText": "Counter-Strike: Source : Bot's Navigation Mesh for the map DE_SYNTHESIS\r\n\r\n\r\nNav Creator: Meurglis3, Release Date: December 2 2013\r\n\r\nHere is the Navigation Mesh for nice eclectic-styled map [de_synthesis_b4](http://css.gamebanana.com/maps/154077) by Garten (released February 2011).\r\nIt's a totally remaked and fully hand-tuned .nav-file (because an original author's .nav-file wasn't hand-tuned and wasn't good playable).\r\n\r\nSome paths were created from scratch completely and many were deleted or reconnected because some paths wasn't builded correctly (also couple of important waypaths in general were broken off). Except other it was necessary to consider features still author's Map Mutation system (depending on the number of CTs paths are opened or closed).\r\n\r\nWell... in any case bots play now better than before (imho). Look and compare!\r\n\r\nNOTE: For possibility of comparison and in-game testing the original navigation file by map author available to loading with the [same map](http://css.gamebanana.com/maps/154077).\r\n\r\nCredits and Gratitudes:\r\n   Garten (for very curious experimental map).\r\n\r\nAdditional Gratitudes:\r\n   BarnDoor (for perfect playable navigation meshes for many fine CS:S maps),\r\n   Chizbone (for informative and clever article BOT_BRAINED and a set of excellent navigation meshes),\r\n   CoCoNUT (for fine hand-tuned navigation meshes for many fine CS:S maps),\r\n   Valve Developer Community (for learning articles by Navigation Meshes and Navigation Mesh Commands).\r\n\r\nAlways will be grateful for your remarks and feedbacks. Play and Enjoy!"
+}

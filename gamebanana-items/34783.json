@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_cargos nav redme.txt",
+					"de_cargos.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 2824,
+			"_nDownloadCount": 437,
+			"_nFilesize": 423143,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/2824",
+			"_sFile": "nav_de_cargos_2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1386685941
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 34783,
+	"_sName": "Hand-tuned NAV for map DE_CARGOS",
+	"_sText": "Counter-Strike: Source : Bot's Navigation Mesh for the map DE_CARGOS\r\n\r\n\r\nNav Creator: Meurglis3, Release Date: December 10 2013\r\n\r\nHere is the Navigation Mesh for another industrial-themed map [de_cargos](http://css.gamebanana.com/maps/165535) by bloodsugarTW (released May 2012).\r\nIt's a fully hand-tuned .nav-file (because original author's .nav-file was not fully hand-tuned and in it there were some bugs).\r\n\r\nIn the original Navigation Mesh attached to the map some ways were broken off. Besides there was a set of inaccuracies in connections of areas.\r\n\r\nI made this NAV at the request by [Tikal The Echidna](http://gamebanana.com/members/967635) (thanks for his interest). Personally this map not really is pleasant to me, but... if people play on it let play with the maximum pleasure! :-)\r\n\r\nCredits and Gratitudes:\r\n   bloodsugarTW (for his diligence to make the good map).\r\n\r\nAdditional Gratitudes:\r\n   BarnDoor (for perfect playable navigation meshes for many fine CS:S maps),\r\n   Chizbone (for informative and clever article BOT_BRAINED and a set of excellent navigation meshes),\r\n   CoCoNUT (for fine hand-tuned navigation meshes for many fine CS:S maps),\r\n   Valve Developer Community (for learning articles by Navigation Meshes and Navigation Mesh Commands).\r\n\r\nPlay and Enjoy! Always will be grateful for your remarks and feedbacks ;-)\r\n\r\n- - - - - - - - - - - - - - - - - - - - - - - -\r\n\r\n**UPDATED 04.03.2014**\r\n\r\nGeneral Fixes:\r\n- Improved movement through a window at second floor (near the Bombsite B);\r\n- Improved movement through a doorways (overall);\r\n- Some other minor improvements.\r\n\r\n**PLEASE REDOWNLOAD UPDATED ARCHIVE!**"
+}

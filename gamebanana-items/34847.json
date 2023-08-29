@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_industrial_beta nav readme.txt",
+					"de_industrial_beta.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 2357,
+			"_nDownloadCount": 466,
+			"_nFilesize": 129555,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/2357",
+			"_sFile": "nav_de_industrial_beta_2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1403881155
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 34847,
+	"_sName": "Hand-tuned NAV for map DE_INDUSTRIAL_BETA",
+	"_sText": "Counter-Strike: Source : Bot's Navigation Mesh for the map DE_INDUSTRIAL_BETA\r\n\r\n\r\nNav Creator: Meurglis3, Release Date: June 27 2014\r\n\r\nHere is the Navigation Mesh for the nice designed industrial-themed map [de_industrial_beta](http://css.gamebanana.com/maps/158348) by Warhawk3407 (released July 2011). It's a totally created from scratch and manually optimized (hand-tuned) .nav-file because an original mapauthor's .nav-file embedded in BSP was not perfect, imho.\r\n\r\nMore than 80% of all areas and paths were created manually because during an auto-generation processing the majority of them were constructed incorrectly.\r\n\r\nWell... it is necessary to notice that the fire-escape protected with a lattice still causes in bots some difficulties - sometimes they don't want to give a way to each other! But as a whole bots play pretty well and use all paths available to passing ;-)\r\n\r\nAlso this Navigation Mesh was fully Place Painted.\r\n\r\nNOTES:\r\n\r\n- For possibility of comparison and in-game testing the original auto-gen navigation file in .bsp-file and available to downloading with the [same map](http://css.gamebanana.com/maps/158348);\r\n\r\n- See also hand-tuned NAV for Hostage Rescue version of this nice indudtrial-themed map by Warhawk3407 - [cs_idustrial_beta](http://css.gamebanana.com/gamefiles/3747).\r\n\r\nPlay and Enjoy! All remarks and messages are always welcomed.\r\n\r\nCredits and Gratitudes:\r\n   Warhawk3407 (for fine designed and high detailed industrial-themed map).\r\n\r\nAdditional Gratitudes:\r\n   BarnDoor (for perfect playable navigation meshes for many fine CS:S maps),\r\n   Chizbone (for informative and clever article BOT_BRAINED and a set of excellent navigation meshes),\r\n   CoCoNUT (for fine hand-tuned navigation meshes for many fine CS:S maps),\r\n   Valve Developer Community (for learning articles by Navigation Meshes and Navigation Mesh Commands).\r\n\r\nSprinkle snow with red, yeah..? ;-)\r\n\r\n- - - - - - - - - - - - - - - - - - - - - - - -\r\n\r\n**UPDATED 20.11.2014**\r\n\r\nGeneral Fixes:\r\n- Place Names are changed (replaced on more corresponding to environment);\r\n- Some other minor improvements.\r\n\r\n**PLEASE REDOWNLOAD UPDATED ARCHIVE!**"
+}

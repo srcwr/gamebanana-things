@@ -3,26 +3,65 @@
 	"_aFiles": [
 		{
 			"_aMetadata": {
-				"_aArchiveFileTree": [
-					"de_nuke_khanh.bsp",
-					"nuke_khanh.txt"
-				]
+				"_aArchiveFileTree": {
+					"de_nuke_khanh": [
+						"de_nuke_khanh.bsp",
+						"de_nuke_khanh.txt"
+					]
+				}
 			},
 			"_bContainsExe": false,
-			"_idRow": 920605,
-			"_nDownloadCount": 33,
-			"_nFilesize": 7523678,
+			"_idRow": 979296,
+			"_nDownloadCount": 78,
+			"_nFilesize": 8197172,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/920605",
-			"_sFile": "de_nuke_khanh.7z",
-			"_sMd5Checksum": "74c7f5281eba17a30afa0a6d90e3ebfc",
-			"_tsDateAdded": 1673713301
+			"_sDownloadUrl": "https://gamebanana.com/dl/979296",
+			"_sFile": "de_nuke_khanh_cf49e.7z",
+			"_sMd5Checksum": "a6534a497187887ffdf4d12eddb0ef1e",
+			"_tsDateAdded": 1683565251
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Improvement",
+					"text": "Improved navigation mesh"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed a couple of visual bugs"
+				},
+				{
+					"cat": "Tweak",
+					"text": "Invisible walls got taller"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Improved map optimization"
+				},
+				{
+					"cat": "Tweak",
+					"text": "Replaced a couple of misplaced textures"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Improved map lighting"
+				},
+				{
+					"cat": "Tweak",
+					"text": "Reduced size for bomb plant in bombsites"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Bug fix update",
+			"_sVersion": "1.1",
+			"_tsDateAdded": 1681675943
+		}
+	],
 	"_idRow": 422237,
 	"_sName": "de_nuke_khanh",
 	"_sText": "An early version of de_nuke that was leaked over the New Year holidays 2022-2023 along with the Valve repository. The map uses the original geometry and textures and is fully playable."

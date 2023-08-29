@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_ballast_rc2 nav readme.txt",
+					"de_ballast_rc2.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 2812,
+			"_nDownloadCount": 387,
+			"_nFilesize": 60280,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/2812",
+			"_sFile": "nav_de_ballast_rc2_2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1387389298
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 34788,
+	"_sName": "Hand-tuned NAV for map DE_BALLAST_RC2",
+	"_sText": "<p>Counter-Strike: Source : Bot's Navigation Mesh for the map DE_BALLAST_RC2</p>\r\n<p>Nav Creator: Meurglis3, Release Date: December 18 2013</p>\r\n<p>Here is the Navigation Mesh for excellent industrial themed map <a href=\"http://css.gamebanana.com/maps/67683\">de_ballast_rc2</a> by SM Sith Lord and Mylk (released September 2008).\r\nIt's a carefully tested and totally reworked (hand-tuned) .nav-file (author's original simple auto-gen was included in .bsp-file of initial release).</p>\r\n<p>The most noticeable improvement - it seemed VERY noticeable at first sight that bots was absolutely ignored the both short passes through ventilation system! Though besides in the original map author's nav-file inaccuracies and subquality work sufficed. Alteration and handwork took away a lot of time...</p>\r\n<p>Bots use ALL possible ways and skillfully operate with vents and ladders now.\r\nWell... it's better to look most, than to read a lot of tiresome words! :D</p><p>Also this Navigation Mesh is fully Place Painted.<br></p>\r\n<p>Happy Frags and Cheerful Play!</p>\r\n<p>NOTE: For possibility of comparison and in-game testing the original map author's .nav-file embedded in .bsp and available to downloading with the <a href=\"http://css.gamebanana.com/maps/67683\">same map</a>.</p>\r\n<p>Credits and Gratitudes:\r\nSM Sith Lord and Mylk (for very realistic and fight-friendly industrial themed map).</p>\r\n<p>Additional Gratitudes:\r\nBarnDoor (for perfect playable navigation meshes for many fine CS:S maps),\r\nChizbone (for informative and clever article BOT_BRAINED and a set of excellent navigation meshes),\r\nCoCoNUT (for fine hand-tuned navigation meshes for many fine CS:S maps),\r\nValve Developer Community (for learning articles by Navigation Meshes and Navigation Mesh Commands).</p>\r\n<p>Play &amp; Enjoy! Also aren't lazy to share impressions ;-)</p><p>- - - - - - - - - - - - - - - - - - - - - - - -</p><p><b>UPDATED 16.12.2015</b></p><p>General Fixes:<br>- Added Place Names;<br>- Improved bot's movements through the narrow pathways (Ducts, Overpass);<br>- Improved bot's movements on a ladders (Ducts, Overpass, LoadingDock);<br>- Some other minor improvements.</p><p><b>PLEASE REDOWNLOAD UPDATED ARCHIVE!</b></p><p><b><br></b></p>"
+}

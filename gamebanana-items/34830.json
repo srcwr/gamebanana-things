@@ -1,0 +1,41 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"Available ladder on facade": {
+						"cstrike": {
+							"maps": [
+								"de_csp_mansion.nav"
+							]
+						}
+					},
+					"Unavailable ladder": {
+						"cstrike": {
+							"maps": [
+								"de_csp_mansion.nav"
+							]
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 2507,
+			"_nDownloadCount": 392,
+			"_nFilesize": 5780417,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/2507",
+			"_sFile": "de_csp_mansion.zip",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1398859692
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 34830,
+	"_sName": "NAV-file for de_csp_mansion_beta_1",
+	"_sText": "This is NAV-file for [de_csp_mansion_beta_1](http://css.gamebanana.com/maps/42036 \"\").\r\n\r\nAll places named, almost all of ways are accessible for bots. \r\n\r\nHere were some problems. However much I tried, bots still crowded in the sewer in manhole near T spawn. And if they contrived to go in there, they could not climb up on the ropes, because it hang too high and they can not jump on it. But bots sometimes accidentally jump thither when pass at upstands.\r\n\r\nSo I did that - connected the bottom of the hatch and upstands in one direction only - from bottom to top, so they are specially will not descend, but if they accidentally jump down , they should go up.\r\n\r\nThey also often crowded when they passed through crack in the wall, so I removed this pass.\r\n\r\nLadder on a house facade made by mapper with error, but I managed to overcome it and the bots go there without problems.\r\n\r\n\tAttention! There are two variants of the file: 1) with ladder on the facade, available for bots, 2) with unavailable. \r\n\r\nIn the first variant the whole team of counter-terrorists sometimes stupidly starts to jump onto the balcony where terrorists shot them instantly with a tons of lulz. In the second variant is a normal skirmish between counter-terrorists in the house and terrorists in the yard, but way to the balcony is not available for bots."
+}

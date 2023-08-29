@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_adriatic nav readme.txt",
+					"de_adriatic.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 2194,
+			"_nDownloadCount": 630,
+			"_nFilesize": 65430,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/2194",
+			"_sFile": "nav_de_adriatic_3.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1417297461
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 34864,
+	"_sName": "Hand-tuned NAV for map DE_ADRIATIC",
+	"_sText": "Counter-Strike: Source : Bot's Navigation Mesh for the map DE_ADRIATIC\r\n\r\n\r\nNav Creator: Meurglis3, Release Date: November 30 2014\r\n\r\nHere is the Navigation Mesh for excellent industrial themed map [de_adriatic](http://css.gamebanana.com/maps/25504) by Simon 'Hurtz' Davies (released May 2007).\r\nIt's a created from scratch, precisely optimized (hand-tuned) and fully place painted .nav-file (because original mapauthor's .nav-file embedded in .bsp was imperfect).\r\n\r\nFrom map author's notes: Bot support included in the .bsp file. Bots do not take every path, although this is barely noticeable (don't go over crates by the wall for example). Sometimes get stuck on the doors, otherwise fairly good.\r\n\r\nBut it seemed to me VERY noticeable! And I subjected the original .nav-file to close examination and total reworking.\r\nWell... bots use now ALL possible ways (on boxes and over a wall too) and skillfully operate with doors (in most cases) and ladders.\r\nSo human players have now all opportunities for play and fun with supreme bots! ;-)\r\n\r\nAlso this Navigation Mesh is fully Place Painted.\r\n\r\nNOTE: For possibility of comparison and in-game testing the original mapauthor's .nav-file embedded in .bsp and available to downloading with the [same map](http://css.gamebanana.com/maps/25504).\r\n\r\nPlay and Enjoy! Always will be grateful for your remarks and feedbacks ;-)\r\n\r\nCredits and Gratitudes:\r\n   Hurtz (for very realistic, high datailed and rainy atmospheric coastal map).\r\n\r\nAdditional Gratitudes:\r\n   BarnDoor (for perfect playable navigation meshes for many fine CS:S maps),\r\n   Chizbone (for informative and clever article BOT_BRAINED and a set of excellent navigation meshes),\r\n   CoCoNUT (for fine hand-tuned navigation meshes for many fine CS:S maps),\r\n   Valve Developer Community (for learning articles by Navigation Meshes and Navigation Mesh Commands).\r\n\r\nLong Live Rock'n'Roll! :-)"
+}

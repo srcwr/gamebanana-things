@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_zenith nav readme.txt",
+					"de_zenith.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 2199,
+			"_nDownloadCount": 533,
+			"_nFilesize": 283418,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/2199",
+			"_sFile": "nav_de_zenith_2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1416852395
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 34863,
+	"_sName": "Hand-tuned NAV for map DE_ZENITH",
+	"_sText": "Counter-Strike: Source : Bot's Navigation Mesh for the map DE_ZENITH\r\n\r\n\r\nNav Creator: Meurglis3, Release Date: November 24 2014\r\n\r\nHere is the Navigation Mesh for nice cold winter-themed map with severe chilly mood [de_zenith](http://css.gamebanana.com/maps/27285) by Oreo (released May 2007).\r\nIt's a created from scratch and manually optimized (hand-tuned) .nav-file (because the mapauthor's original .nav-file was simple auto-gen).\r\n\r\nIn original author's .nav-file was some notable mistakes. Bots don't take every path (don't go through the second level of map for example). Also one of the Terrorist Bots get stuck in the gondola on spawn point (because the exite path was missed). And all view of fights was a little defective...\r\n\r\nGeneral Fixes and Additions:\r\n   - The exit from a gondola at the Railway Station was added (TSpawn);\r\n   - The pathway through the second level was created (on all its extent);\r\n   - The stair and area on the roof of an Computer Room was added (Bombsite A);\r\n   - The missed ladders on a green Power Units was builded (Bombsite A);\r\n   - The pathway upward on the second level of an Communications Tower was added (Bombsite B).\r\n\r\nWell... bots use ALL possible ways and more sucessfully operate in ALL locations now.\r\n\r\nAlso this Navigation Mesh is fully Place Painted.\r\n\r\nNOTE: For possibility of comparison and in-game testing the original .nav-file by Oreo available to downloading with the [same map](http://css.gamebanana.com/maps/27285).\r\n\r\nPlay and Enjoy! Always will be grateful for your remarks and feedbacks.\r\n\r\nCredits and Gratitudes:\r\n   Oreo (for realistic and winter atmospheric industrial-themed map).\r\n\r\nAdditional Gratitudes:\r\n   BarnDoor (for perfect playable navigation meshes for many fine CS:S maps),\r\n   Chizbone (for informative and clever article BOT_BRAINED and a set of excellent navigation meshes),\r\n   CoCoNUT (for fine hand-tuned navigation meshes for many fine CS:S maps),\r\n   Valve Developer Community (for learning articles by Navigation Meshes and Navigation Mesh Commands).\r\n\r\nThis is lonely place to die... :D"
+}

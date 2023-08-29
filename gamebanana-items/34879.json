@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_rennes_v1 nav readme.txt",
+					"de_rennes_v1.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 2021,
+			"_nDownloadCount": 439,
+			"_nFilesize": 85798,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/2021",
+			"_sFile": "nav_de_rennes_v1.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1432059064
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 34879,
+	"_sName": "Hand-tuned NAV for map DE_RENNES_V1",
+	"_sText": "Counter-Strike: Source : Bot's Navigation file for the map DE_RENNES_V1\r\n\r\n\r\nNav Creator: Meurglis3, Release Date: May 19 2015\r\n\r\nHere is the Navigation Mesh for nice old school map [de_rennes_v1](http://css.gamebanana.com/maps/4405) by Quezako (relesed February 2005).\r\nIt's fully created from scratch and carefully hand-tuned (manually optimized) .nav-file because included in original map archive .nav-file was simple auto-gen (also the separately distributed .nav-file by BarnDoor was playable but not perfect, imho).\r\n\r\nMore than a half of all auto-generated areas were remade manually. The special attention was paid to all four stairways between the floors, also to transitions with narrow passes between the columns).\r\n\r\nWell... bots use all possible ways now and perfectly navigate with all map. They intend to visit all local fashion boutiques without exception! :-)\r\n\r\nAlso this Navigation Mesh is fully Place Painted.\r\n\r\nNOTE: For possibility of comparison and in-game testing the original .nav-file by map creator available to downloading with the [same map](http://css.gamebanana.com/maps/4405). The custom .nav-file by Peter \"BarnDoor\" Calvert is also available to downloading from his [homepage](http://www.tequilakawa.plus.com/downloads.html).\r\n\r\nPlay and Enjoy! Also your responses are still important for me ;-)\r\n\r\nCredits and Gratitudes:\r\n   Quezako (for nice old but ageless corridor type map)\r\n\r\nAdditional Gratitudes:\r\n   BarnDoor (for perfect playable navigation meshes for many fine CS:S maps),\r\n   Chizbone (for informative and clever article BOT_BRAINED and a set of excellent navigation meshes),\r\n   CoCoNUT (for fine hand-tuned navigation meshes for many fine CS:S maps),\r\n   Valve Developer Community (for learning articles by Navigation Meshes and Navigation Mesh Commands).\r\n\r\nIt's a time for total sale! Special discount to AWP-skilled frequenters :D"
+}

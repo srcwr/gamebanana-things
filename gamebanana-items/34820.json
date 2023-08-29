@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_tegea_css_final nav readme.txt",
+					"de_tegea_css_final.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 2616,
+			"_nDownloadCount": 736,
+			"_nFilesize": 86391,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/2616",
+			"_sFile": "nav_de_tegea_css_final_3.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1395740461
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 34820,
+	"_sName": "Hand-tuned NAV for map DE_TEGEA_CSS_FINAL",
+	"_sText": "Counter-Strike: Source : Bot's Navigation Mesh for the map DE_TEGEA_CSS_FINAL\r\n\r\n\r\nNav Creator: Meurglis3, Release Date: March 25 2014\r\n\r\nHere is the Navigation Mesh for one of the most detailed and fascinating (imho) office-themed map [de_tegea_css_final](http://css.gamebanana.com/maps/177451) by MayheM (released May 2007). It's a created from scratch and fully hand-tuned .nav-file (because no one of available earlier nav-files wasn't rather playable).\r\n\r\nMost areas and paths were remade manually or created from scratch because during an auto-generation processing the majority of them were constructed incorrectly or incomplete. Some important pathways were broken off (in particular ladders on a both bombsites and some others paths). Many inaccuracies should be corrected manually...\r\n\r\nNow, after manually reworking of nearly 80% of a Navigation Mesh, bots have opportunity to use all walkable ways and (I hope) will be able to keep the worthy company for human players! ;-)\r\n\r\nAlso this Navigation Mesh is fully Place Painted.\r\n\r\nNOTE: For possibility of comparison and in-game testing the original nav-file by BarnDoor included in archive and available to downloading with the [same map](http://css.gamebanana.com/maps/177451).\r\n\r\nThanks to all for the shown interest. Your responses and remarks are always welcomed!\r\n\r\nCredits and Gratitudes:\r\n   MayheM (for high detailed and very realistic office-themed map).\r\n\r\nAdditional Gratitudes:\r\n   BarnDoor (for perfect playable navigation meshes for many fine CS:S maps),\r\n   Chizbone (for informative and clever article BOT_BRAINED and a set of excellent navigation meshes),\r\n   CoCoNUT (for fine hand-tuned navigation meshes for many fine CS:S maps),\r\n   Valve Developer Community (for learning articles by Navigation Meshes and Navigation Mesh Commands).\r\n\r\nLong Live Great Maps!\r\n\r\n- - - - - - - - - - - - - - - - - - - - - - - -\r\n\r\n**UPDATED 03.11.2014**\r\n\r\nGeneral Fixes:\r\n- Added Place Names;\r\n- Improved bot's movement on a CT Spawnpoint (Front);\r\n- Other minor changes.\r\n\r\n**PLEASE REDOWNLOAD UPDATED ARCHIVE!**"
+}

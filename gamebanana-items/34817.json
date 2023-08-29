@@ -1,0 +1,29 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_shishi2008_v2 nav readme.txt",
+					"de_shishi2008_v2.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 2632,
+			"_nDownloadCount": 847,
+			"_nFilesize": 21311,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/2632",
+			"_sFile": "nav_de_shishi2008_v2.rar",
+			"_sMd5Checksum": "",
+			"_tsDateAdded": 1394624222
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 34817,
+	"_sName": "Hand-tuned NAV for map DE_SHISHI2008_V2",
+	"_sText": "Counter-Strike: Source : Bot's Navigation Mesh for the map DE_SHISHI2008_V2\r\n\r\n\r\nNav Creator: Meurglis3, Release Date: March 12 2014\r\n\r\nHere is the Navigation Mesh for nice small and fast-paced map [de_shishi2008_v2](http://css.gamebanana.com/maps/66115) by shishi (released September 2008). It's an almost fully created from scratch and manually optimized .nav-file (because nav-file by Chizbone included in original map author's archive was not fully playable).\r\n\r\nWell... bots have opportunity to use ALMOST ALL possible ways, with one insignificant exception: they can't use water part of the map! It not a problem of a Navigation Mesh, but design feature of the same map. Map author will sometime correct this defect probably... but if it doesn't occur - we will play on that is :-) In any case bots quite not bad cope with a mass meeting role.\r\n\r\nNOTE: For possibility of comparison and in-game testing the original navigation file by Chizbone available to downloading with the [same map](http://css.gamebanana.com/maps/66115).\r\n\r\nPlay and Enjoy! Also don't forget to write your responses and remarks ;-)\r\n\r\nCredits and Gratitudes:\r\n   shishi (for this fine and fun oriental atmospheric map, also for his other nice maps).\r\n\r\nAdditional Gratitudes:\r\n   BarnDoor (for perfect playable navigation meshes for many fine CS:S maps),\r\n   Chizbone (for informative and clever article BOT_BRAINED and a set of excellent navigation meshes),\r\n   CoCoNUT (for fine hand-tuned navigation meshes for many fine CS:S maps),\r\n   Valve Developer Community (for its learning articles by Navigation Meshes and Navigation Mesh Commands).\r\n\r\nOne More Big Trouble in Little China! :D"
+}
