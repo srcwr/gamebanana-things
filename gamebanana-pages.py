@@ -16,8 +16,11 @@ apiurl = "https://gamebanana.com/apiv8/Mod/ByCategory?nPerpage=50&_csvProperties
 doprint = False
 
 def fucker(d, category, a, b):
+    session = requests.Session()
     for i in range(a, b):
-        resp = requests.get(apiurl + "&cachebuster=" + str(random.randint(1,666)) + "&_nPage=" + str(i) + "&_aCategoryRowIds[]=" + str(category))
+        u = apiurl + "&cachebuster=" + str(random.randint(1,666)) + "&_nPage=" + str(i) + "&_aCategoryRowIds[]=" + str(category)
+        #resp = requests.get(u)
+        resp = session.get(u)
         #with open(f"gamebanana-pages/{i:03}.json", "wb") as f:
         xd = f"{d}/gamebanana-pages/_{category}_{i:03}.json"
         with open(xd, "wb") as f:
@@ -26,12 +29,13 @@ def fucker(d, category, a, b):
                 print(f"write to _{category}_{i:03}.json")
         prettyjson.prettyfile(xd)
         time.sleep(1.5)
+    session.close()
 
 def main(d):
-    fucker(d, 5535, 1, 2) #785
-    fucker(d, 95, 1, 2) #15
-    fucker(d, 327, 1, 2)
-    fucker(d, 2528, 1, 2)
+    fucker(d, 5535, 140, 220) #785
+    fucker(d, 95, 1, 20) #15
+    fucker(d, 327, 1, 40)
+    fucker(d, 2528, 1, 40)
     #fucker(95, 1, 6) #15
     #fucker(327, 1, 6)
     #fucker(2528, 1, 6)
