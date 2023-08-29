@@ -10,6 +10,8 @@ import csv
 from git import Repo
 import shutil
 import urllib.request
+import urllib.error
+import requests
 
 def rchop(s, suffix):
     if suffix and s.endswith(suffix):
@@ -34,6 +36,8 @@ def main(d, callback, fuck_you_callback):
 
     new_items = []
 
+    session = requests.Session()
+
     for x in links:
         filename = d + "/../gamebanana-scrape/" + str(x[4]) + "_" + x[1]
         if (str(x[4]) + "_" + x[1]) in alreadydone:
@@ -51,18 +55,18 @@ def main(d, callback, fuck_you_callback):
             continue
         """
         print(f"\ndownloading {x[2]} to {filename}")
-        try:
-            req = urllib.request.urlopen(x[0])
-        except urllib2.HTTPError, e:
-            if e.code == 404:
-                # fuck it....
-                fuck_you_callback("404 on "+x[0])
-        with open(filename, 'wb') as out:
-            shutil.copyfileobj(req, out)
-        #subprocess.check_call(("curl.exe", "--location", "-o", filename, x[0]), shell=True, stdout=sys.stdout, stderr=subprocess.STDOUT)
-        alreadydone.append(x[1])
+        req = session.get(x[0], stream=True)
+        if req.status_code == 404:
+            fuck_you_callback("404 on "+x[0])
+        else:
+            req.raw.decode_content = True
+            with open(filename, 'wb') as out:
+                shutil.copyfileobj(req.raw, out)
+            alreadydone.append(x[1])
         time.sleep(0.333)
         #break
+
+    session.close()
     return new_items
 
 if __name__ == "__main__":
