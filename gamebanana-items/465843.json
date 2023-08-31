@@ -6,11 +6,19 @@
 	],
 	"_aFiles": [
 		{
-			"_aMetadata": [],
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_dust2_csgo_new.bsp",
+					"de_dust2_csgo_new.nav"
+				]
+			},
+			"_bContainsExe": false,
 			"_idRow": 1046943,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 19,
 			"_nFilesize": 131942844,
-			"_sAnalysisState": "pending",
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1046943",
 			"_sFile": "de_dust2_csgo_new.rar",
