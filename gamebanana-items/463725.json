@@ -16,7 +16,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1047147,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 1,
 			"_nFilesize": 27387481,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -34,6 +34,10 @@
 				{
 					"cat": "Bugfix",
 					"text": "Fixed the final part where APC hp was an issue. Now permanently solved."
+				},
+				{
+					"cat": "Addition",
+					"text": "Entwatch cfg included in the rar file."
 				}
 			],
 			"_sText": "",
