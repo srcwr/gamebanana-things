@@ -2,11 +2,27 @@
 	"_aAlternateFileSources": null,
 	"_aFiles": [
 		{
-			"_aMetadata": [],
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"baserace": [
+						"0.png",
+						"1.png",
+						"2.png",
+						"3.png",
+						"4.png",
+						"5.png",
+						"Baserace.bsp",
+						"Notice.txt"
+					]
+				}
+			},
+			"_bContainsExe": false,
 			"_idRow": 1047541,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 6,
 			"_nFilesize": 20134493,
-			"_sAnalysisState": "pending",
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1047541",
 			"_sFile": "baserace.zip",
