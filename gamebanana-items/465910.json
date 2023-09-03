@@ -4,34 +4,59 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": {
-					"0": "ze_eerie_escape_redux.bsp",
+					"0": "ze_eerie_escape_redux_v2.bsp",
 					"cfg": {
 						"sourcemod": {
 							"entwatch": [
-								"ze_eerie_escape_redux_final.cfg"
+								"ze_eerie_escape_redux_v2.cfg"
 							]
 						}
-					},
-					"stripper": [
-						"ze_eerie_escape_redux.cfg"
-					]
+					}
 				}
 			},
 			"_bContainsExe": false,
-			"_idRow": 1048463,
-			"_nDownloadCount": 5,
-			"_nFilesize": 35973841,
+			"_idRow": 1049726,
+			"_nDownloadCount": 0,
+			"_nFilesize": 35940004,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1048463",
-			"_sFile": "ze_eerie_escape_redux_a9997.rar",
-			"_sMd5Checksum": "4534efc4e300e20bff8f406399814972",
-			"_tsDateAdded": 1693638294
+			"_sDownloadUrl": "https://gamebanana.com/dl/1049726",
+			"_sFile": "ze_eerie_escape_redux_v2.rar",
+			"_sMd5Checksum": "3f2821faa304b00d7591fa75c7c42eb6",
+			"_tsDateAdded": 1693776465
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Improvement",
+					"text": "Nerfed MYSTIC significantly, reduced 2nd, 3rd segment RNG speed. Added a barrier around the platform. Now humans won't have to worry about falling."
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed Nuke bug where it killed humans and not zombies."
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed lasergun filter_name."
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Added some details and fixed lightning."
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Nerfed DIMENSIONAL 1st segment speed by a little amount so high pingers have a chance."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "ze_eerie_escape_redux_v2",
+			"_sVersion": "v2",
+			"_tsDateAdded": 1693776652
+		},
 		{
 			"_aChangeLog": [
 				{
@@ -50,6 +75,6 @@
 		}
 	],
 	"_idRow": 465910,
-	"_sName": "ze_eerie_escape_redux",
+	"_sName": "ze_eerie_escape_redux_v2",
 	"_sText": "** This is the final/stable version of its predecessors ze_eerie_escape_b1 & ze_eerie_escape_v3. **<br><br><span class=\"GreenColor\"><b>Map Contains~</b></span><br>64 Spawns.<br>6 Items for Humans (Tequila Shotgun, EERIE Shield, Teleporter, LaserGun, JetPack, Radioactive Ak47)<br>3 Items for Zombies ( ZM Killer, ZM Invisibility, ZM Laser)<br>7 Stages (<b><span class=\"RedColor SelectedElement\">STATIC, SONIC, HYPER, ULTIMATE, CORRUPTED, MYSTIC, DIMENSIONAL</span></b>)<br>2 Paths which will be open only on specific stages.<br><br><b><span class=\"GreenColor\">Map Info~</span></b><br>In the map, humans have to survive 100 seconds, then they will be teleported to the final destination where they will have to dodge Lasers. 5 Stages have lasers and 6th and 7th stage contains Cube RNG.<br><br><b>--- What is different from ze_eerie_escape_v3? ---</b><br>Map is remade on grid 64/32/16/8.<br>1 New Path is added.<br>2 Paths will be open on Stage 1-4. On stage 5-7, it will be closed.<br>New Items (Radioactive Ak-47, LaserGun) are added.<br>New stage Mystic is added.<br>Enhanced RNG on DImensional.<br>Improved RNG on Corrupted.<br>ZE Teleport System removed.<br>Bar from ze_eerie_escape_b1 is added back.<br>Zombie Items made more OP.<br>Added few easter eggs.<br>Secret from v3 is removed.<br>ZM Stage is removed. It will only be available in v3 now.<br>Optimized the map fully with func_areaportals/func_detail/hint.<br>Map contains no leaks now.<br>The last part is more realistic/darker now.<br>Removed gunshop from v3.<br>Added few more details.<br>Fixed JetPack teleport, falling through the map bug.<br>Turret can one shot kill humans if hit point black.<br>Entwatch cfg is included in the .rar file.<br><br><b><span class=\"GreenColor\"><u>Note~</u></span></b><br>Took ideas from NemesisNiDEv2,Lucciddreams,MakoReactor,Flower,Offliner,Serpentis,Westersand.<br>All credits goes to respected owners.<br><br><span class=\"RedColor\"><b>!! You are not allowed to edit and re-upload this map. !!</b></span>"
 }
