@@ -12,7 +12,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 999947,
-			"_nDownloadCount": 38,
+			"_nDownloadCount": 40,
 			"_nFilesize": 963838,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -54,7 +54,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1049313,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 3,
 			"_nFilesize": 8559932,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -75,7 +75,7 @@
 				},
 				{
 					"cat": "Improvement",
-					"text": "Increased a max number of players from to 5v6 to 10v11"
+					"text": "Increased a max number of players from 6v8 to 10v11"
 				},
 				{
 					"cat": "Improvement",
@@ -106,12 +106,12 @@
 					"text": "Changed building textures"
 				},
 				{
-					"cat": "Bugfix",
-					"text": "Fixed a bug with grates near CT Spawn which prevented bullets to go through them"
+					"cat": "Overhaul",
+					"text": "Reworked storage room (added some storages)"
 				},
 				{
-					"cat": "Addition",
-					"text": "Reworked storage room (added some storages)"
+					"cat": "Bugfix",
+					"text": "Fixed a bug with grates near CT Spawn which prevented bullets to go through them"
 				},
 				{
 					"cat": "Addition",
@@ -174,5 +174,5 @@
 	],
 	"_idRow": 449504,
 	"_sName": "cs_underside",
-	"_sText": "A 6v8 hostage rescue map. The terrorists told the hostages not to move from their position because otherwise they will be killed. But is it really true using the Counter-Terrorists force?<br><br><b>Counter-Terrorists Objective (CT's)</b>: Rescue 5 hostages or <b>kill all terrorists (T's).<br></b><br><b>Terrorists Objective (T's)</b>: Prevent the hostages from being rescued or <b>kill all Counter-Terrorists (CT's).</b>"
+	"_sText": "A 10v11 hostage rescue map. The terrorists told the hostages not to move from their position because otherwise they will be killed. But is it really true using the Counter-Terrorists force?<br><br><b>Counter-Terrorists Objective (CT's)</b>: Rescue 5 hostages or <b>kill all terrorists (T's).<br></b><br><b>Terrorists Objective (T's)</b>: Prevent the hostages from being rescued or <b>kill all Counter-Terrorists (CT's).</b>"
 }
