@@ -4,28 +4,48 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": {
-					"Rig": [
-						"zm_Rig_v3D.bsp",
-						"zm_Rig_v3N.bsp",
-						"zm_Rig_v3W.bsp"
+					"zm_Rig": [
+						"zm_Rig_v4D1.bsp",
+						"zm_Rig_v4E1.bsp",
+						"zm_Rig_v4N1.bsp",
+						"zm_Rig_v4W1.bsp"
 					]
 				}
 			},
 			"_bContainsExe": false,
-			"_idRow": 699630,
-			"_nDownloadCount": 570,
-			"_nFilesize": 79186418,
+			"_idRow": 1057264,
+			"_nDownloadCount": 0,
+			"_nFilesize": 86048445,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
 			"_sDescription": "zm_Rig",
-			"_sDownloadUrl": "https://gamebanana.com/dl/699630",
-			"_sFile": "rig.7z",
-			"_sMd5Checksum": "c6dab830b148c6477796637b2d7cb229",
-			"_tsDateAdded": 1637934673
+			"_sDownloadUrl": "https://gamebanana.com/dl/1057264",
+			"_sFile": "zm_rig_ac1e6.7z",
+			"_sMd5Checksum": "1932b36630a918c6fffd7ba3b9291401",
+			"_tsDateAdded": 1694957708
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Add evening version"
+				},
+				{
+					"cat": "Addition",
+					"text": "New particles for rain"
+				},
+				{
+					"cat": "Addition",
+					"text": "New hide spots"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "v3.0",
+			"_tsDateAdded": 1694957860
+		},
 		{
 			"_aChangeLog": [
 				{
@@ -44,5 +64,5 @@
 	],
 	"_idRow": 311037,
 	"_sName": "zm_Rig",
-	"_sText": "The ocean oil rig. Map has three versions: daytime, night and rainy. There are some boats, falling containers, rotating crane and code door.<br><br>P.S: It is remake of map zm_neko_abura.<br>Link: <a href=\"https://gamebanana.com/mods/132433\">https://gamebanana.com/mods/132433</a>"
+	"_sText": "The ocean oil rig. Map has four versions: daytime, evening, foggy and night with rain.<br>P.S: It is remake of map zm_neko_abura.<br>Link:&nbsp;<a href=\"https://gamebanana.com/mods/132433\">https://gamebanana.com/mods/132433</a>"
 }
