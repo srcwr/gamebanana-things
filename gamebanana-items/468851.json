@@ -3,26 +3,55 @@
 	"_aFiles": [
 		{
 			"_aMetadata": {
-				"_aArchiveFileTree": [
-					"de_ankara_new.bsp",
-					"de_ankara_new.nav"
-				]
+				"_aArchiveFileTree": {
+					"de_ankara": {
+						"maps": [
+							"de_ankara.bsp",
+							"de_ankara.nav"
+						]
+					}
+				}
 			},
 			"_bContainsExe": false,
-			"_idRow": 1056559,
-			"_nDownloadCount": 14,
-			"_nFilesize": 1441931,
+			"_idRow": 1058720,
+			"_nDownloadCount": 0,
+			"_nFilesize": 1429661,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
 			"_sDescription": "updated.",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1056559",
-			"_sFile": "ankara.zip",
-			"_sMd5Checksum": "bb7ffb7573a4bbf6cd1efe436d647e45",
-			"_tsDateAdded": 1694868048
+			"_sDownloadUrl": "https://gamebanana.com/dl/1058720",
+			"_sFile": "de_ankara_26615.zip",
+			"_sMd5Checksum": "7631df350a2ebb2a1088e56292620f33",
+			"_tsDateAdded": 1695180512
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Improvement",
+					"text": "Reworked bot navigation"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Lighting adjustment"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Adjusted the sun  entity to match with the map's shadow"
+				},
+				{
+					"cat": "Tweak",
+					"text": "Pakrated textures in order for the missing custom textures to work"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Various map fixes",
+			"_sVersion": "4.0",
+			"_tsDateAdded": 1695180700
+		}
+	],
 	"_idRow": 468851,
 	"_sName": "De_Ankara",
 	"_sText": "A custom 19 v.s 19 bomb/defuse map of mine. Inspired from a village at Turkey, Ankara. I am open for any feedback regarding of the design, gameplay, and playability.<br><br>WIP: <a href=\"https://gamebanana.com/wips/69509\"><b><span class=\"GreenColor\">De_Ankara</span></b></a><br>SW: Hammer Editor<br>Version: 4.0<br>Port plans: CSS to CSGO/CS2"
