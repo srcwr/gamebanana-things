@@ -2,19 +2,54 @@
 	"_aAlternateFileSources": null,
 	"_aFiles": [
 		{
-			"_aMetadata": [],
-			"_idRow": 1059860,
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"ankara": {
+						"maps": [
+							"de_ankara.bsp",
+							"de_ankara.nav"
+						],
+						"materials": {
+							"overviews": [
+								"de_ankara.vmt",
+								"de_ankara.vtf"
+							]
+						},
+						"resource": {
+							"overviews": [
+								"de_ankara.txt"
+							]
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 1060151,
 			"_nDownloadCount": 0,
-			"_nFilesize": 2978463,
-			"_sAnalysisState": "pending",
-			"_sDescription": "updated.",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1059860",
-			"_sFile": "ankara_40553.zip",
-			"_sMd5Checksum": "e640812754fe7270012d9f9680a2d84c",
-			"_tsDateAdded": 1695391415
+			"_nFilesize": 1536554,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "latest update.",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1060151",
+			"_sFile": "ankara_6029e.zip",
+			"_sMd5Checksum": "65d7f91558d1de04cb8abfc4c8b0f44a",
+			"_tsDateAdded": 1695431726
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "",
+					"text": "Overview added, the map is on the way now to its final state."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Temporary Overview",
+			"_sVersion": "4.0",
+			"_tsDateAdded": 1695391495
+		},
 		{
 			"_aChangeLog": [
 				{
