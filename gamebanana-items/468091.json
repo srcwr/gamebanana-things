@@ -13,7 +13,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1053943,
-			"_nDownloadCount": 22,
+			"_nDownloadCount": 29,
 			"_nFilesize": 161771597,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -27,24 +27,30 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
-					"ze_diablo_v4_1.cfg"
+					"ze_diablo_v4_1 (3).cfg"
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1054226,
-			"_nDownloadCount": 10,
-			"_nFilesize": 2142,
+			"_idRow": 1060575,
+			"_nDownloadCount": 0,
+			"_nFilesize": 2895,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
 			"_sDescription": "Updated stripper (use this instead of one in diablo_v4.rar)",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1054226",
-			"_sFile": "stripper_1_80353.rar",
-			"_sMd5Checksum": "43663e0777d443d9942b28cb5f21ce66",
-			"_tsDateAdded": 1694452887
+			"_sDownloadUrl": "https://gamebanana.com/dl/1060575",
+			"_sFile": "ze_diablo_v4_1_3_.rar",
+			"_sMd5Checksum": "4b1be3718df8f5394acfd729649fbf15",
+			"_tsDateAdded": 1695503131
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [],
+			"_sText": "<p>Use this updated stripper instead of the one included in the diablo_v4.rar<br><br>Uploaded September 23rd, 2023</p>",
+			"_sTitle": "Stripper update 2",
+			"_tsDateAdded": 1695503177
+		},
 		{
 			"_aChangeLog": [],
 			"_sText": "<p>Use this updated stripper instead of the one included in the diablo_v4.rar<br><br>Uploaded September 11th, 2023</p>",
