@@ -58,6 +58,8 @@ def main(d, callback, fuck_you_callback):
         req = session.get(x[0], stream=True)
         if req.status_code == 404:
             fuck_you_callback("404 on "+x[0])
+        elif req.status_code == 504:
+            fuck_you_callback("504 on "+x[0])
         else:
             req.raw.decode_content = True
             with open(filename, 'wb') as out:
