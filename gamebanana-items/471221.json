@@ -1,0 +1,27 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"surf_hellscape_ksf.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 1063545,
+			"_nDownloadCount": 0,
+			"_nFilesize": 72983088,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1063545",
+			"_sFile": "surf_hellscape_ksf.zip",
+			"_sMd5Checksum": "9fdde810577d44c396929243e0821992",
+			"_tsDateAdded": 1695991272
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 471221,
+	"_sName": "surf_hellscape_ksf",
+	"_sText": "<span class=\"GreenColor\"><strong>Tier 2</strong>&nbsp;-&nbsp;<strong>13 Stages</strong>&nbsp;-&nbsp;<strong>4 Bonusses</strong></span><br><b>B1</b>: Koga73,&nbsp;<b>B2</b>: Koga73,&nbsp;<b>B3</b>: granis,&nbsp;<b>B4</b>: Kappaeliitti<br><br><span class=\"RedColor\">Special thanks to</span>: KvistKJW for the voice acting<br><br>It has trigger_multiple added for server owners, for start zones on main map and bonusses.<br><br>zone_stage01 to zone_stage13<br>zone_ending<br>bonus_01_start_koga73 &amp; bonus_01_end_koga73<br>bonus_02_start_koga73 &amp; bonus_02_end_koga73<br>bonus_03_start_granis &amp; bonus_03_end_granis<br>bonus_04_start_kappaeliitti &amp; bonus_04_start_kappaeliitti<br><br><b><span class=\"GreenColor\">Primary settings i used:</span></b><br>sv_airaccelerate 150<br>Tick 64<br>7500 maxvelocity<br><br>Server owners should however check the&nbsp;<b>logic_auto</b>&nbsp;for commands to remove.<br><br><b>Hope you enjoy!<br><br>Unpack the .rar file here:<br></b><span class=\"GreenColor\">C:\\Program Files (x86)\\Steam\\steamapps\\common\\counter-strike source\\cstrike\\maps</span><br>"
+}
