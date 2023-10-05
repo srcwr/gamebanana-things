@@ -2,11 +2,22 @@
 	"_aAlternateFileSources": null,
 	"_aFiles": [
 		{
-			"_aMetadata": [],
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"De_Sandstorm": [
+						"De_SandStorm.bsp",
+						"De_SandStorm.vmf",
+						"Instruction.txt"
+					]
+				}
+			},
+			"_bContainsExe": false,
 			"_idRow": 1066361,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 1,
 			"_nFilesize": 199319,
-			"_sAnalysisState": "pending",
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1066361",
 			"_sFile": "de_sandstorm_55553.rar",
@@ -16,6 +27,6 @@
 	],
 	"_aLatestUpdates": [],
 	"_idRow": 472138,
-	"_sName": "de_sandstorm dustferno v2",
-	"_sText": "<h1 class=\"SelectedElement\">My second map that i made<br>De_Sandstorm<br>Dont expect it to be good.</h1>"
+	"_sName": "de_sandstorm",
+	"_sText": "<h1 class=\"SelectedElement\">My second map that i made<br>De_Sandstorm<br>Dont expect it to be that good.</h1><br><h2><span class=\"RedColor\">WORK IN PROGRESS!!</span></h2><h1><span class=\"GreenColor\">Map will be finished very soon.</span></h1>"
 }
