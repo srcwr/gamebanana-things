@@ -2,11 +2,19 @@
 	"_aAlternateFileSources": null,
 	"_aFiles": [
 		{
-			"_aMetadata": [],
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"Container1v1.bsp",
+					"Container1v1.prt"
+				]
+			},
+			"_bContainsExe": false,
 			"_idRow": 1067847,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 5,
 			"_nFilesize": 22948,
-			"_sAnalysisState": "pending",
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1067847",
 			"_sFile": "container1v1.rar",
