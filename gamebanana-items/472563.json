@@ -2,11 +2,21 @@
 	"_aAlternateFileSources": null,
 	"_aFiles": [
 		{
-			"_aMetadata": [],
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"maps": [
+						"de_cancant.bsp",
+						"de_cancant.nav"
+					]
+				}
+			},
+			"_bContainsExe": false,
 			"_idRow": 1067598,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 5,
 			"_nFilesize": 3205100,
-			"_sAnalysisState": "pending",
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1067598",
 			"_sFile": "cancant.zip",
