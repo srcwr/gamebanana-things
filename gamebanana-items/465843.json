@@ -1,33 +1,41 @@
 {
 	"_aAlternateFileSources": [
 		{
-			"url": "https://www.mediafire.com/file/2h2d0f02v6ajlgv/de_dust2_csgo_new.rar/file"
+			"url": "https://www.mediafire.com/file/lbopvndj1j0lnvk/de_dust2_csgo_new_v2.rar/file"
 		}
 	],
 	"_aFiles": [
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
-					"de_dust2_csgo_new.bsp",
-					"de_dust2_csgo_new.nav"
+					"de_dust2_csgo_new_v2.bsp",
+					"de_dust2_csgo_new_v2.nav"
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1046943,
-			"_nDownloadCount": 45,
-			"_nFilesize": 131942844,
+			"_idRow": 1068574,
+			"_nDownloadCount": 0,
+			"_nFilesize": 125230218,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1046943",
-			"_sFile": "de_dust2_csgo_new.rar",
-			"_sMd5Checksum": "162e7173b84e81c345b051d898efa263",
-			"_tsDateAdded": 1693425787
+			"_sDownloadUrl": "https://gamebanana.com/dl/1068574",
+			"_sFile": "de_dust2_csgo_new_v2.rar",
+			"_sMd5Checksum": "74625efe325a54e7413186fcadd2c77d",
+			"_tsDateAdded": 1696772958
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [],
+			"_sText": "<p>Update date: [10/08/2023]</p><p>-added cubemaps. (if reflections do no work correctly for you use mat_specular 0\"</p><p>-fixed a bug where long doors would disappear. (thanks acc1)</p>",
+			"_sTitle": "de_dust2_csgo_new",
+			"_sVersion": "v2",
+			"_tsDateAdded": 1696773132
+		}
+	],
 	"_idRow": 465843,
 	"_sName": "de_dust2_csgo_new",
-	"_sText": "A simplified port of the new dust2 from CS GO.<br>Most of the map was rebuilt due to engine limitations.<br><br>ps. should be compatible with many other source games (2007+)<br><br><br>DO REPOST TO OTHER SITES !!!"
+	"_sText": "Release date: [08/30/2023]<br><br><font>Key Features:</font><br><br>-Manually rebuilt most of the map.<br>-Compressed textures to take up less space.<br>-Some models from the map have been optimized or replaced.<br>"
 }
