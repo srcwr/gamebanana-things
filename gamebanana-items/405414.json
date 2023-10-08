@@ -8,20 +8,41 @@
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 873032,
-			"_nDownloadCount": 402,
-			"_nFilesize": 4724346,
+			"_idRow": 1068490,
+			"_nDownloadCount": 0,
+			"_nFilesize": 2437193,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/873032",
-			"_sFile": "de_arabic_lost.zip",
-			"_sMd5Checksum": "48f200f5933ca1c9d801bad7a52eed8e",
-			"_tsDateAdded": 1665084107
+			"_sDownloadUrl": "https://gamebanana.com/dl/1068490",
+			"_sFile": "de_arabic_lost.rar",
+			"_sMd5Checksum": "16429ad44bfb813deeb4f6069c020158",
+			"_tsDateAdded": 1696756253
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Removal",
+					"text": "i removed the map fog"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "adjusted some player clip for bombsite B where players could boost on the map"
+				},
+				{
+					"cat": "Addition",
+					"text": "added metal grate on bombsite for a better experience"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "de_arabic_lost",
+			"_sVersion": "1.1",
+			"_tsDateAdded": 1696756174
+		}
+	],
 	"_idRow": 405414,
 	"_sName": "de_arabic_lost",
 	"_sText": "Hello after some good years. I hope everyone is doing ok.<br><br>de_arabic is a good map and cuz of this, i choosed to add some new modifications. The next update is in work and i will have to add some light corrections to it and to change some views."

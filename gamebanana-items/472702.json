@@ -2,11 +2,24 @@
 	"_aAlternateFileSources": null,
 	"_aFiles": [
 		{
-			"_aMetadata": [],
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "READ ME.txt",
+					"de_marquis_csgo": {
+						"maps": [
+							"de_marquis_csgo.bsp",
+							"de_marquis_csgo.nav"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
 			"_idRow": 1068149,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 32,
 			"_nFilesize": 147561393,
-			"_sAnalysisState": "pending",
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1068149",
 			"_sFile": "de_marquis_csgo.zip",
