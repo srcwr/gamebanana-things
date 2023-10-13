@@ -6,11 +6,21 @@
 	],
 	"_aFiles": [
 		{
-			"_aMetadata": [],
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"kz_brickngrass.bsp",
+					"kz_dirtblock.bsp",
+					"kz_extreme.bsp",
+					"kz_sequoia.bsp"
+				]
+			},
+			"_bContainsExe": false,
 			"_idRow": 1069908,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 5,
 			"_nFilesize": 263667098,
-			"_sAnalysisState": "pending",
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1069908",
 			"_sFile": "kz_2406e.7z",
