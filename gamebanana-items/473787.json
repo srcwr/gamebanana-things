@@ -2,11 +2,18 @@
 	"_aAlternateFileSources": null,
 	"_aFiles": [
 		{
-			"_aMetadata": [],
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"bhop_hypermax.bsp"
+				]
+			},
+			"_bContainsExe": false,
 			"_idRow": 1071581,
 			"_nDownloadCount": 0,
 			"_nFilesize": 33298997,
-			"_sAnalysisState": "pending",
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1071581",
 			"_sFile": "bhop_hypermax.rar",
