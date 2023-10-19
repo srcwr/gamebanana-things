@@ -9,10 +9,11 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1073922,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 3,
 			"_nFilesize": 154963,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1073922",
 			"_sFile": "mg_prison_course.rar",
@@ -20,7 +21,20 @@
 			"_tsDateAdded": 1697680697
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "",
+					"text": "-Added Version 0.0.1"
+				}
+			],
+			"_sText": "<p>Added version 0.0.1 of mg_prison_course</p>",
+			"_sTitle": "mg_prison_course",
+			"_sVersion": "0.0.1",
+			"_tsDateAdded": 1697716107
+		}
+	],
 	"_idRow": 474588,
 	"_sName": "mg_prison_course",
 	"_sText": "mg_prison_course map"
