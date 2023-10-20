@@ -4,6 +4,34 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": {
+					"0": "ze_aethership_v1b.bsp",
+					"bosshp": [
+						"ze_aethership_v1b.cfg"
+					],
+					"entwatch": [
+						"ze_aethership_v1b.cfg"
+					],
+					"entwatchv4 (unloze)": [
+						"ze_aethership_v1b.cfg"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 1074457,
+			"_nDownloadCount": 0,
+			"_nFilesize": 95733788,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1074457",
+			"_sFile": "ze_aethership_v1b.zip",
+			"_sMd5Checksum": "cf1b85d13d933f30b08437cada316e05",
+			"_tsDateAdded": 1697794662
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
 					"0": "ze_aethership_v1.bsp",
 					"bosshp": [
 						"ze_aethership_v1.cfg"
@@ -18,7 +46,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1073284,
-			"_nDownloadCount": 23,
+			"_nDownloadCount": 32,
 			"_nFilesize": 95291005,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -30,7 +58,24 @@
 			"_tsDateAdded": 1697562223
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "Fixed Ending Bomb Text Display displaying a placeholder text (which is embarrassing) instead of the bomb timer."
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed Subtitle Text of Svarog's Introduction"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "ze_aethership_v1b",
+			"_sVersion": "v1b",
+			"_tsDateAdded": 1697794786
+		}
+	],
 	"_idRow": 474381,
 	"_sName": "ze_aethership",
 	"_sText": "<span class=\"RedColor\">\"Aether Supplies Inc. has a goal, and their goals are to sell weapons of destruction to anyone with malicious intents. Infiltrate one of their airships and blow the airship up to avoid this reality from happening.\"</span><br><br>Map by <b><span class=\"GreenColor\">Pasas1345</span></b><br>Svarog Model from <span class=\"GreenColor\">Honkai: Star Rail (Hoyoverse)</span><br><b><br><u>Music List:</u><br></b>Context Sensitive - Portlight<br>Context Sensitive - Mask<br>Context Sensitive - Intel<br>Context Sensitive - Trouble<br>HoyoMix\t\t - Wildfire<br><br>Experiments with better lighting and cubemaps and a defense oriented map turned into this map. More decorated than the other maps I have published... maybe.<br><br><span class=\"GreenColor\"><b>Includes</b></span><br><ul><li>1 Long Defense Map</li><li class=\"SelectedElement\">Intro Cutscene (with a case of soft-locking if you do a specific set of actions)<br></li><li>1 Boss</li><li>4 Types of Items <br></li><li>Random Item Spawns</li><li>Scenic Ending</li></ul><br><b><u>Hope you enjoy the map!</u></b><br><br>"
