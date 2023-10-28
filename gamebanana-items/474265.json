@@ -1113,7 +1113,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1072969,
-			"_nDownloadCount": 78,
+			"_nDownloadCount": 79,
 			"_nFilesize": 14974798,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -2197,10 +2197,11 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1078833,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 3,
 			"_nFilesize": 9018857,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1078833",
 			"_sFile": "cs_1337_assault_css_v2.zip",
@@ -2231,6 +2232,6 @@
 		}
 	],
 	"_idRow": 474265,
-	"_sName": "cs_1337_assault_css_v1",
+	"_sName": "cs_1337_assault_css_v2",
 	"_sText": "Hello, I hope you enjoy this port of cs_1337_assault. I worked two weeks to port this map. <br>Anyhow, this is version one, I still have a couple of things to fix on this map. So expect V2. <br>Besides that, the map is great and it almost looks like it's in the GOLDSRC engine.<br>Anyhow, enjoy this port!"
 }
