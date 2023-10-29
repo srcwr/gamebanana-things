@@ -1113,7 +1113,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1072969,
-			"_nDownloadCount": 81,
+			"_nDownloadCount": 84,
 			"_nFilesize": 14974798,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -1127,11 +1127,9 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": {
-					"0": "Changelog.txt",
 					"maps": [
 						"cs_1337_assault_css.bsp",
 						"cs_1337_assault_css.log",
-						"cs_1337_assault_css.nav",
 						"cs_1337_assault_css.prt",
 						"cs_1337_assault_css.txt",
 						"cs_1337_assault_css.vmf",
@@ -2196,17 +2194,17 @@
 				}
 			},
 			"_bContainsExe": false,
-			"_idRow": 1078833,
-			"_nDownloadCount": 11,
-			"_nFilesize": 9018857,
+			"_idRow": 1079403,
+			"_nDownloadCount": 0,
+			"_nFilesize": 9009124,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1078833",
-			"_sFile": "cs_1337_assault_css_v2.zip",
-			"_sMd5Checksum": "f799d1331a4b970f0a80928b3d53fc30",
-			"_tsDateAdded": 1698517810
+			"_sDownloadUrl": "https://gamebanana.com/dl/1079403",
+			"_sFile": "cs_1337_assault_css_v2_14dc8.zip",
+			"_sMd5Checksum": "b4ba7ee17e364b7b14c3a74e6216e21a",
+			"_tsDateAdded": 1698607106
 		}
 	],
 	"_aLatestUpdates": [
@@ -2223,6 +2221,10 @@
 				{
 					"cat": "Optimization",
 					"text": "Repositioned the hostages."
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Fixed two solids with holes."
 				}
 			],
 			"_sText": "",
