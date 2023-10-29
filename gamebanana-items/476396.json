@@ -2,11 +2,24 @@
 	"_aAlternateFileSources": null,
 	"_aFiles": [
 		{
-			"_aMetadata": [],
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cs_studio": {
+						"maps": [
+							"cs_studio.bsp",
+							"cs_studio.nav",
+							"cs_studio.txt"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
 			"_idRow": 1079163,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 3,
 			"_nFilesize": 2188818,
-			"_sAnalysisState": "pending",
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
 			"_sDescription": "Map itself",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1079163",
 			"_sFile": "cs_studio.rar",
