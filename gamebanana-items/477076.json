@@ -2,11 +2,18 @@
 	"_aAlternateFileSources": null,
 	"_aFiles": [
 		{
-			"_aMetadata": [],
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"surf_everdark.bsp"
+				]
+			},
+			"_bContainsExe": false,
 			"_idRow": 1081133,
 			"_nDownloadCount": 0,
 			"_nFilesize": 114894806,
-			"_sAnalysisState": "pending",
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1081133",
 			"_sFile": "surf_everdark.zip",
