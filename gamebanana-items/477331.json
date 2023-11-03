@@ -2,16 +2,30 @@
 	"_aAlternateFileSources": null,
 	"_aFiles": [
 		{
-			"_aMetadata": [],
-			"_idRow": 1081986,
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrike": {
+						"maps": [
+							"zombie city recommended settings.txt",
+							"zombie_city_cb.bsp",
+							"zombie_city_cb.nav",
+							"zombie_city_cb.vmf"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 1081995,
 			"_nDownloadCount": 0,
-			"_nFilesize": 13452588,
-			"_sAnalysisState": "pending",
+			"_nFilesize": 13452618,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1081986",
-			"_sFile": "zombie_city_cb_2b2d4.zip",
-			"_sMd5Checksum": "330b021fe4f99554cdfa48c50c14c8ba",
-			"_tsDateAdded": 1699026720
+			"_sDownloadUrl": "https://gamebanana.com/dl/1081995",
+			"_sFile": "zombie_city_cb_74772.zip",
+			"_sMd5Checksum": "9a33ba340f8ac44051398e71d7192b4f",
+			"_tsDateAdded": 1699027728
 		}
 	],
 	"_aLatestUpdates": [],
