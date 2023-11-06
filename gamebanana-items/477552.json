@@ -2,11 +2,18 @@
 	"_aAlternateFileSources": null,
 	"_aFiles": [
 		{
-			"_aMetadata": [],
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"surf_lego_v1.bsp"
+				]
+			},
+			"_bContainsExe": false,
 			"_idRow": 1082597,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 5,
 			"_nFilesize": 3020205,
-			"_sAnalysisState": "pending",
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1082597",
 			"_sFile": "surf_lego_v1.rar",
@@ -17,5 +24,5 @@
 	"_aLatestUpdates": [],
 	"_idRow": 477552,
 	"_sName": "surf_lego_v1",
-	"_sText": "<b>surf_lego_v1</b><br><br>Map originally based on my upcoming Zombie Escape Map ze_surf_lego_b1. This map just a souvenir, so ZE Players can expect that map will look like. Will finish it until december.<br><span class=\"GreenColor\"><b>Difficulty:</b> </span>Tier0. (For beginners)."
+	"_sText": "<b>surf_lego_v1</b><br><br>Map originally based on my upcoming Zombie Escape Map ze_surf_lego_b1. This map just a souvenir, so ZE Players can expect that map will look like. Will finish it until december.<br><span class=\"GreenColor\"><b>Difficulty:</b> </span>Tier0. (For beginners).<br>Map contains 12 surf levels."
 }
