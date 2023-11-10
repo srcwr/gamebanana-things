@@ -17,12 +17,16 @@
 			"url": "https://drive.google.com/file/d/1WCOrI0n5ZG6JlysyegVCFt0p503RGrxQ/view?usp=share_link"
 		},
 		{
-			"description": "Download version 1.4 (OLD))",
+			"description": "Download version 1.4 (OLD)",
 			"url": "https://drive.google.com/file/d/1gNLJQi5Iyp9laSNH0LuJDeK18v7mbfKt/view?usp=share_link"
 		},
 		{
-			"description": "Download version 1.5 (CURRENT); [MIRROR]",
+			"description": "Download version 1.5 (OLD)",
 			"url": "https://drive.google.com/file/d/1cj7aXBhvRKOxyfjrJLpkjoTHCIYX9Yk3/view?usp=sharing"
+		},
+		{
+			"description": "Download version 1.6 (CURRENT); [MIRROR]",
+			"url": "https://drive.google.com/file/d/1lFLh4ustoTlpvPgLVDPTn2kTMYCQJ1qc/view?usp=drive_link"
 		}
 	],
 	"_aFiles": [
@@ -39,20 +43,48 @@
 				}
 			},
 			"_bContainsExe": false,
-			"_idRow": 1017892,
-			"_nDownloadCount": 50,
-			"_nFilesize": 2123242,
+			"_idRow": 1085268,
+			"_nDownloadCount": 0,
+			"_nFilesize": 2371542,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
-			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1017892",
-			"_sFile": "countryhouse_css_v15.rar",
-			"_sMd5Checksum": "646dbdda8067a92e6c5e53af8146a56d",
-			"_tsDateAdded": 1689184735
+			"_sDescription": "Current version",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1085268",
+			"_sFile": "countryhouse_css_v16.rar",
+			"_sMd5Checksum": "7784f2815f6290790aa01fe424db8413",
+			"_tsDateAdded": 1699645862
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Overhaul",
+					"text": "Added cubemaps"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Minor bugfixes"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added new cover at CT spawn for balance and little addition at T spawn"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Shed got improved"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Visibility at T spawn got adjusted"
+				}
+			],
+			"_sText": "<p>IF CUBEMAPS AREN'T WORKING, TRY WRITING \"buildcubemaps\" DOWN IN CONSOLE, THEN RESTART!</p><p></p>",
+			"_sTitle": "Countryhouse v1.6 OVERHAUL 2",
+			"_sVersion": "1.6",
+			"_tsDateAdded": 1699646479
+		},
 		{
 			"_aChangeLog": [
 				{
@@ -72,26 +104,6 @@
 			"_sTitle": "Countryhouse v1.5 OVERHAUL",
 			"_sVersion": "1.5",
 			"_tsDateAdded": 1689185052
-		},
-		{
-			"_aChangeLog": [
-				{
-					"cat": "Bugfix",
-					"text": "Outer windows bugs were fixed & bug with T spawn wall also got fixed"
-				},
-				{
-					"cat": "Improvement",
-					"text": "Minor visual improvements"
-				},
-				{
-					"cat": "Bugfix",
-					"text": "Lighting bug were fixed"
-				}
-			],
-			"_sText": "",
-			"_sTitle": "Countryhouse v1.4",
-			"_sVersion": "1.4",
-			"_tsDateAdded": 1680975269
 		}
 	],
 	"_idRow": 436483,
