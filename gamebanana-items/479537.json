@@ -2,11 +2,22 @@
 	"_aAlternateFileSources": null,
 	"_aFiles": [
 		{
-			"_aMetadata": [],
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"fy_apartment": [
+						"fy_apartment.bsp",
+						"fy_apartment.nav",
+						"fy_apartment.txt"
+					]
+				}
+			},
+			"_bContainsExe": false,
 			"_idRow": 1088867,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 13,
 			"_nFilesize": 1173289,
-			"_sAnalysisState": "pending",
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1088867",
 			"_sFile": "fy_apartment.rar",
@@ -17,5 +28,5 @@
 	"_aLatestUpdates": [],
 	"_idRow": 479537,
 	"_sName": "fy_apartment",
-	"_sText": "A very simple fightyard map I made based on my apartment, and the first map I've made that I've actually put effort into. I think for my first real released map it looks decent, let me know what you think of it in the comments."
+	"_sText": "A very simple fightyard map I made based on my apartment, and the first map I've made that I've actually put effort into. I think for my first real released map it looks decent, let me know what you think of it in the comments.<br><br>I swear I packed the textures correct with VIDE, but if you get any errors let me know and I will update."
 }
