@@ -4,22 +4,22 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
-					"jb_troubles_d2.bsp",
-					"jb_troubles_d2.nav"
+					"jb_troubles_d3.bsp",
+					"jb_troubles_d3.nav"
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1092022,
+			"_idRow": 1092148,
 			"_nDownloadCount": 0,
-			"_nFilesize": 73862193,
+			"_nFilesize": 72527247,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1092022",
-			"_sFile": "jb_troubles_d2_acc48.zip",
-			"_sMd5Checksum": "ab27ae2b9be60c6e831d1c3739374e6a",
-			"_tsDateAdded": 1700763466
+			"_sDownloadUrl": "https://gamebanana.com/dl/1092148",
+			"_sFile": "jb_troubles_d3.zip",
+			"_sMd5Checksum": "df2db5e1332d6f8ef34b0d9f7bc26dd0",
+			"_tsDateAdded": 1700777913
 		}
 	],
 	"_aLatestUpdates": [
@@ -27,60 +27,32 @@
 			"_aChangeLog": [
 				{
 					"cat": "Addition",
-					"text": "Cells decoration has been re added from csgo"
-				},
-				{
-					"cat": "Addition",
-					"text": "Outside area has been fully decorated"
+					"text": "Added radar"
 				},
 				{
 					"cat": "Improvement",
-					"text": "Secrets have all been patched (missing guns, etc)"
-				},
-				{
-					"cat": "Amendment",
-					"text": "Colours game has been fixed"
-				},
-				{
-					"cat": "Improvement",
-					"text": "Dodge and Colours songs cut for length to match game"
-				},
-				{
-					"cat": "Amendment",
-					"text": "Made some winner cages tighter to account for smaller player hitboxes in css"
+					"text": "Fixed songs not stopping on colours & dodge course"
 				}
 			],
 			"_sText": "",
-			"_sTitle": "jb_troubles_d2",
-			"_sVersion": "1.25",
-			"_tsDateAdded": 1700763352
+			"_sTitle": "jb_troubles_d3",
+			"_sVersion": "1.3",
+			"_tsDateAdded": 1700777734
 		},
 		{
 			"_aChangeLog": [
 				{
 					"cat": "",
-					"text": "Added more detail outside"
-				},
-				{
-					"cat": "",
-					"text": "Changed info_teleport_destination into logic_relay to save on edicts"
-				},
-				{
-					"cat": "",
-					"text": "Hide and Seek area re-done *fixed partially*"
-				},
-				{
-					"cat": "",
-					"text": "Colours partially fixed (let the game play for a few seconds to fix itself)"
+					"text": "Fixed Hide and Seek seeker's kill trigger (T can now seek)"
 				}
 			],
 			"_sText": "",
 			"_sTitle": "jb_troubles_d2",
-			"_sVersion": "1.2",
-			"_tsDateAdded": 1700755699
+			"_sVersion": "1.27",
+			"_tsDateAdded": 1700771774
 		}
 	],
 	"_idRow": 480473,
 	"_sName": "Jb_troubles_d",
-	"_sText": "Port from csgo to css (few broken games)(to be fixed)<br><br>Broken games:<br>Colours<br>Corridor chase<br>HNS Chase<br>Hide and Seek<br>"
+	"_sText": "Port from <b><i>csgo</i></b> to <b><i>css</i></b>&nbsp;<br><br><b>ALL GAMES FIXED</b><br>"
 }
