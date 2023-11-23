@@ -4,25 +4,33 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
-					"jb_troubles_d.bsp",
-					"jb_troubles_d.nav"
+					"jb_troubles.nav",
+					"jb_troubles_d.bsp"
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1091483,
-			"_nDownloadCount": 0,
-			"_nFilesize": 83269061,
+			"_idRow": 1091515,
+			"_nDownloadCount": 3,
+			"_nFilesize": 70923449,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
-			"_sDescription": "few things left to fix",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1091483",
-			"_sFile": "jb_troubles_d.zip",
-			"_sMd5Checksum": "6c268591939c00acc58a237eb3a0f523",
-			"_tsDateAdded": 1700673415
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1091515",
+			"_sFile": "jb_troubles_d_2_.zip",
+			"_sMd5Checksum": "0ff518082641367ec279ffca6f2475c4",
+			"_tsDateAdded": 1700678951
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [],
+			"_sText": "<p>repacked to lower file size</p>",
+			"_sTitle": "jb_troubles",
+			"_sVersion": "1.1",
+			"_tsDateAdded": 1700678790
+		}
+	],
 	"_idRow": 480473,
 	"_sName": "Jb_troubles_d",
 	"_sText": "Port from csgo to css (few broken games)(to be fixed)<br><br>Broken games:<br>Colours<br>Corridor chase<br>HNS Chase<br>Hide and Seek<br>"
