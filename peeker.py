@@ -56,10 +56,9 @@ def main(d, callback, fuck_you_callback):
         """
         print(f"\ndownloading {x[2]} to {filename}")
         req = session.get(x[0], stream=True)
-        if req.status_code == 404:
-            fuck_you_callback("404 on "+x[0])
-        elif req.status_code == 504:
-            fuck_you_callback("504 on "+x[0])
+        if req.status_code < 200 or req.status_code >= 400:
+            fuck_you_callback(str(req.status_code) +" on "+x[0])
+            new_items.pop()
         else:
             req.raw.decode_content = True
             with open(filename, 'wb') as out:
