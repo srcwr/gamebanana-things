@@ -2,25 +2,82 @@
 	"_aAlternateFileSources": null,
 	"_aFiles": [
 		{
-			"_aMetadata": [],
-			"_idRow": 1091947,
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"jb_troubles_d2.bsp",
+					"jb_troubles_d2.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 1092022,
 			"_nDownloadCount": 0,
-			"_nFilesize": 71049872,
-			"_sAnalysisState": "pending",
+			"_nFilesize": 73862193,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1091947",
-			"_sFile": "jb_troubles_d2.zip",
-			"_sMd5Checksum": "43e4bcc2eb0e0a8a7a0229d4e27cc09e",
-			"_tsDateAdded": 1700754784
+			"_sDownloadUrl": "https://gamebanana.com/dl/1092022",
+			"_sFile": "jb_troubles_d2_acc48.zip",
+			"_sMd5Checksum": "ab27ae2b9be60c6e831d1c3739374e6a",
+			"_tsDateAdded": 1700763466
 		}
 	],
 	"_aLatestUpdates": [
 		{
-			"_aChangeLog": [],
-			"_sText": "<p>repacked to lower file size</p>",
-			"_sTitle": "jb_troubles",
-			"_sVersion": "1.1",
-			"_tsDateAdded": 1700678790
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Cells decoration has been re added from csgo"
+				},
+				{
+					"cat": "Addition",
+					"text": "Outside area has been fully decorated"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Secrets have all been patched (missing guns, etc)"
+				},
+				{
+					"cat": "Amendment",
+					"text": "Colours game has been fixed"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Dodge and Colours songs cut for length to match game"
+				},
+				{
+					"cat": "Amendment",
+					"text": "Made some winner cages tighter to account for smaller player hitboxes in css"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "jb_troubles_d2",
+			"_sVersion": "1.25",
+			"_tsDateAdded": 1700763352
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "",
+					"text": "Added more detail outside"
+				},
+				{
+					"cat": "",
+					"text": "Changed info_teleport_destination into logic_relay to save on edicts"
+				},
+				{
+					"cat": "",
+					"text": "Hide and Seek area re-done *fixed partially*"
+				},
+				{
+					"cat": "",
+					"text": "Colours partially fixed (let the game play for a few seconds to fix itself)"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "jb_troubles_d2",
+			"_sVersion": "1.2",
+			"_tsDateAdded": 1700755699
 		}
 	],
 	"_idRow": 480473,
