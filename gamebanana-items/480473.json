@@ -10,7 +10,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1093312,
-			"_nDownloadCount": 4,
+			"_nDownloadCount": 7,
 			"_nFilesize": 73634563,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -23,6 +23,42 @@
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Improvement",
+					"text": "Fixed Z-fighting issues with all doors on the map"
+				},
+				{
+					"cat": "Amendment",
+					"text": "Fixed a door in armoury blocking players below lmao"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Made telehoping from surf impossible"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Changed TMP to a 1mag Deagle to fix OP"
+				},
+				{
+					"cat": "Amendment",
+					"text": "Radar re-introduced"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Made all game doors close automatically after 4 seconds"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed VIP KZ Cell from buggy fucking door so I removed it"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "jb_troubles_d6",
+			"_sVersion": "1.6",
+			"_tsDateAdded": 1701037644
+		},
 		{
 			"_aChangeLog": [
 				{
@@ -66,30 +102,6 @@
 			"_sTitle": "jb_troubles_d5",
 			"_sVersion": "1.5",
 			"_tsDateAdded": 1700966276
-		},
-		{
-			"_aChangeLog": [
-				{
-					"cat": "Adjustment",
-					"text": "Fixed a misplaced brush in armoury"
-				},
-				{
-					"cat": "Improvement",
-					"text": "Doubled the guns in armoury to accommodate more players"
-				},
-				{
-					"cat": "Amendment",
-					"text": "Fixed missing ladder at Disco"
-				},
-				{
-					"cat": "Amendment",
-					"text": "Fixed missing ladder above Ladder KZ"
-				}
-			],
-			"_sText": "",
-			"_sTitle": "jb_troubles_d4",
-			"_sVersion": "1.45",
-			"_tsDateAdded": 1700938330
 		}
 	],
 	"_idRow": 480473,
