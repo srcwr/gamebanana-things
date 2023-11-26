@@ -4,25 +4,69 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
-					"jb_troubles_d4.bsp",
-					"jb_troubles_d4.nav"
+					"jb_troubles_d5.bsp",
+					"jb_troubles_d5.nav"
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1093062,
-			"_nDownloadCount": 2,
-			"_nFilesize": 72541403,
+			"_idRow": 1093312,
+			"_nDownloadCount": 0,
+			"_nFilesize": 73634563,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1093062",
-			"_sFile": "jb_troubles_d4_14f10.zip",
-			"_sMd5Checksum": "5558c9112a31dc7eba327c655eea76b4",
-			"_tsDateAdded": 1700938480
+			"_sDownloadUrl": "https://gamebanana.com/dl/1093312",
+			"_sFile": "jb_troubles_d5.zip",
+			"_sMd5Checksum": "b49adc0a9e0f2871514efbd50ee0082c",
+			"_tsDateAdded": 1700968736
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Amendment",
+					"text": "Fixed telehopping from trail blazing"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added a secret within surf"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added Pika-Chu CT secret"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Made the speed of the boosts in trail blazer more akin to that of cs:go"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Made the vent into Armoury from colours outside area more visible"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Added more decoration to surf"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Moved Bhop end platform to stop cheating (may still be possible idrk)"
+				},
+				{
+					"cat": "Amendment",
+					"text": "Fixed Colours song ending too early"
+				},
+				{
+					"cat": "Amendment",
+					"text": "Patched a secret in Hide and Seek which allowed players to leave the game"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "jb_troubles_d5",
+			"_sVersion": "1.5",
+			"_tsDateAdded": 1700966276
+		},
 		{
 			"_aChangeLog": [
 				{
@@ -46,34 +90,6 @@
 			"_sTitle": "jb_troubles_d4",
 			"_sVersion": "1.45",
 			"_tsDateAdded": 1700938330
-		},
-		{
-			"_aChangeLog": [
-				{
-					"cat": "Addition",
-					"text": "Added Gun Toss sign"
-				},
-				{
-					"cat": "Amendment",
-					"text": "Fixed clipping issue on climb near HNS Chase"
-				},
-				{
-					"cat": "Improvement",
-					"text": "Added extension to secret in Ski-Ball"
-				},
-				{
-					"cat": "Improvement",
-					"text": "Moved door button for winners and losers in Lasers to stop CTs dying"
-				},
-				{
-					"cat": "Amendment",
-					"text": "Added barrier at the start of surf to prevent telehopping"
-				}
-			],
-			"_sText": "",
-			"_sTitle": "jb_troubles_d4",
-			"_sVersion": "1.42",
-			"_tsDateAdded": 1700926508
 		}
 	],
 	"_idRow": 480473,
