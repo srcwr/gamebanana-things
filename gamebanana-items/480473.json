@@ -4,52 +4,76 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
-					"jb_troubles_d3.bsp",
-					"jb_troubles_d3.nav"
+					"jb_troubles_d4.bsp",
+					"jb_troubles_d4.nav"
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1092148,
-			"_nDownloadCount": 6,
-			"_nFilesize": 72527247,
+			"_idRow": 1093062,
+			"_nDownloadCount": 2,
+			"_nFilesize": 72541403,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1092148",
-			"_sFile": "jb_troubles_d3.zip",
-			"_sMd5Checksum": "df2db5e1332d6f8ef34b0d9f7bc26dd0",
-			"_tsDateAdded": 1700777913
+			"_sDownloadUrl": "https://gamebanana.com/dl/1093062",
+			"_sFile": "jb_troubles_d4_14f10.zip",
+			"_sMd5Checksum": "5558c9112a31dc7eba327c655eea76b4",
+			"_tsDateAdded": 1700938480
 		}
 	],
 	"_aLatestUpdates": [
 		{
 			"_aChangeLog": [
 				{
-					"cat": "Addition",
-					"text": "Added radar"
+					"cat": "Adjustment",
+					"text": "Fixed a misplaced brush in armoury"
 				},
 				{
 					"cat": "Improvement",
-					"text": "Fixed songs not stopping on colours & dodge course"
+					"text": "Doubled the guns in armoury to accommodate more players"
+				},
+				{
+					"cat": "Amendment",
+					"text": "Fixed missing ladder at Disco"
+				},
+				{
+					"cat": "Amendment",
+					"text": "Fixed missing ladder above Ladder KZ"
 				}
 			],
 			"_sText": "",
-			"_sTitle": "jb_troubles_d3",
-			"_sVersion": "1.3",
-			"_tsDateAdded": 1700777734
+			"_sTitle": "jb_troubles_d4",
+			"_sVersion": "1.45",
+			"_tsDateAdded": 1700938330
 		},
 		{
 			"_aChangeLog": [
 				{
+					"cat": "Addition",
+					"text": "Added Gun Toss sign"
+				},
+				{
 					"cat": "Amendment",
-					"text": "Fixed Hide and Seek seeker's kill trigger (T can now seek)"
+					"text": "Fixed clipping issue on climb near HNS Chase"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Added extension to secret in Ski-Ball"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Moved door button for winners and losers in Lasers to stop CTs dying"
+				},
+				{
+					"cat": "Amendment",
+					"text": "Added barrier at the start of surf to prevent telehopping"
 				}
 			],
 			"_sText": "",
-			"_sTitle": "jb_troubles_d2",
-			"_sVersion": "1.27",
-			"_tsDateAdded": 1700771774
+			"_sTitle": "jb_troubles_d4",
+			"_sVersion": "1.42",
+			"_tsDateAdded": 1700926508
 		}
 	],
 	"_idRow": 480473,
