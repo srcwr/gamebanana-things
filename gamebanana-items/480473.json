@@ -9,20 +9,40 @@
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1093827,
-			"_nDownloadCount": 0,
-			"_nFilesize": 74116100,
+			"_idRow": 1093864,
+			"_nDownloadCount": 1,
+			"_nFilesize": 74907415,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1093827",
-			"_sFile": "jb_troubles_d6.zip",
-			"_sMd5Checksum": "a5e6a809896d0eaf45c9164b35902658",
-			"_tsDateAdded": 1701040459
+			"_sDownloadUrl": "https://gamebanana.com/dl/1093864",
+			"_sFile": "jb_troubles_d6_97c03.zip",
+			"_sMd5Checksum": "e29e7cd050a3beff3759dc2945e27fb0",
+			"_tsDateAdded": 1701049619
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Adjustment",
+					"text": "Removed green tint from radar"
+				},
+				{
+					"cat": "Amendment",
+					"text": "Fixed a Z-fighting issue with a door at armoury"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Lowered volume of dodge course song from 10 to 7"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "jb_troubles_d6",
+			"_sVersion": "1.62",
+			"_tsDateAdded": 1701046437
+		},
 		{
 			"_aChangeLog": [
 				{
@@ -58,50 +78,6 @@
 			"_sTitle": "jb_troubles_d6",
 			"_sVersion": "1.6",
 			"_tsDateAdded": 1701037644
-		},
-		{
-			"_aChangeLog": [
-				{
-					"cat": "Amendment",
-					"text": "Fixed telehopping from trail blazing"
-				},
-				{
-					"cat": "Addition",
-					"text": "Added a secret within surf"
-				},
-				{
-					"cat": "Addition",
-					"text": "Added Pika-Chu CT secret"
-				},
-				{
-					"cat": "Improvement",
-					"text": "Made the speed of the boosts in trail blazer more akin to that of cs:go"
-				},
-				{
-					"cat": "Improvement",
-					"text": "Made the vent into Armoury from colours outside area more visible"
-				},
-				{
-					"cat": "Improvement",
-					"text": "Added more decoration to surf"
-				},
-				{
-					"cat": "Adjustment",
-					"text": "Moved Bhop end platform to stop cheating (may still be possible idrk)"
-				},
-				{
-					"cat": "Amendment",
-					"text": "Fixed Colours song ending too early"
-				},
-				{
-					"cat": "Amendment",
-					"text": "Patched a secret in Hide and Seek which allowed players to leave the game"
-				}
-			],
-			"_sText": "",
-			"_sTitle": "jb_troubles_d5",
-			"_sVersion": "1.5",
-			"_tsDateAdded": 1700966276
 		}
 	],
 	"_idRow": 480473,
