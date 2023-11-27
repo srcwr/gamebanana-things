@@ -2,26 +2,51 @@
 	"_aAlternateFileSources": null,
 	"_aFiles": [
 		{
-			"_aMetadata": {
-				"_aArchiveFileTree": [
-					"jb_troubles_d7.bsp",
-					"jb_troubles_d7.nav"
-				]
-			},
-			"_bContainsExe": false,
-			"_idRow": 1094160,
+			"_aMetadata": [],
+			"_idRow": 1094305,
 			"_nDownloadCount": 0,
-			"_nFilesize": 73963564,
-			"_sAnalysisResult": "File passed analysis",
-			"_sAnalysisState": "done",
+			"_nFilesize": 74421366,
+			"_sAnalysisState": "pending",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1094160",
-			"_sFile": "jb_troubles_d7.zip",
-			"_sMd5Checksum": "e806a5d0e5da0d140eaeee19e32982ce",
-			"_tsDateAdded": 1701106913
+			"_sDownloadUrl": "https://gamebanana.com/dl/1094305",
+			"_sFile": "jb_troubles_d7_7f392.zip",
+			"_sMd5Checksum": "e75033c684ffa586bae8058519a94f88",
+			"_tsDateAdded": 1701121418
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Improvement",
+					"text": "Made Colours look way way way better"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Changed every winner area to be escapable"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Added another secret in Hide and Seek"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Re-arranged platforms in main indoor games area (near drop down)"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Removed am invalid decal"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed bad reflections"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "jb_troubles_d7",
+			"_sVersion": "1.75",
+			"_tsDateAdded": 1701121294
+		},
 		{
 			"_aChangeLog": [
 				{
@@ -85,26 +110,6 @@
 			"_sTitle": "jb_troubles_d7",
 			"_sVersion": "1.7",
 			"_tsDateAdded": 1701103859
-		},
-		{
-			"_aChangeLog": [
-				{
-					"cat": "Adjustment",
-					"text": "Removed green tint from radar"
-				},
-				{
-					"cat": "Amendment",
-					"text": "Fixed a Z-fighting issue with a door at armoury"
-				},
-				{
-					"cat": "Adjustment",
-					"text": "Lowered volume of dodge course song from 10 to 7"
-				}
-			],
-			"_sText": "",
-			"_sTitle": "jb_troubles_d6",
-			"_sVersion": "1.62",
-			"_tsDateAdded": 1701046437
 		}
 	],
 	"_idRow": 480473,
