@@ -4,25 +4,88 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
-					"jb_troubles_d6.bsp",
-					"jb_troubles_d6.nav"
+					"jb_troubles_d7.bsp",
+					"jb_troubles_d7.nav"
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1093864,
-			"_nDownloadCount": 1,
-			"_nFilesize": 74907415,
+			"_idRow": 1094160,
+			"_nDownloadCount": 0,
+			"_nFilesize": 73963564,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
-			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1093864",
-			"_sFile": "jb_troubles_d6_97c03.zip",
-			"_sMd5Checksum": "e29e7cd050a3beff3759dc2945e27fb0",
-			"_tsDateAdded": 1701049619
+			"_sDownloadUrl": "https://gamebanana.com/dl/1094160",
+			"_sFile": "jb_troubles_d7.zip",
+			"_sMd5Checksum": "e806a5d0e5da0d140eaeee19e32982ce",
+			"_tsDateAdded": 1701106913
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Suggestion",
+					"text": "Added a line in cells to line Ts up on"
+				},
+				{
+					"cat": "Amendment",
+					"text": "Lowered health on a func_breakable secret near disco"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Surf winners changed from cage style to platform style"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Added a recall button within the playable area of Hide and Seek to prevent CT getting stuck inside"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Added scores to Ski-Ball to help CT to understand how the game works"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Added a sign above the 2 main portals to better indicate their usage"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Improved a few spots in Hide and Seek"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed the knife not spawning for Ts to pick up after completing Hide and Seek"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed a hollow brush on the sign brush at Ski-Ball"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed Ts dying occasionally on Drop Down"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed a bug in hide and seek where you would die if you jumped on the seeker box"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed floating buttons in climb"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed vent acting like water leading into armoury"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Added a missing \"Winners\" sign within Descent"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "jb_troubles_d7",
+			"_sVersion": "1.7",
+			"_tsDateAdded": 1701103859
+		},
 		{
 			"_aChangeLog": [
 				{
@@ -42,42 +105,6 @@
 			"_sTitle": "jb_troubles_d6",
 			"_sVersion": "1.62",
 			"_tsDateAdded": 1701046437
-		},
-		{
-			"_aChangeLog": [
-				{
-					"cat": "Improvement",
-					"text": "Fixed Z-fighting issues with all doors on the map"
-				},
-				{
-					"cat": "Amendment",
-					"text": "Fixed a door in armoury blocking players below lmao"
-				},
-				{
-					"cat": "Adjustment",
-					"text": "Made telehoping from surf impossible"
-				},
-				{
-					"cat": "Improvement",
-					"text": "Changed TMP to a 1mag Deagle to fix OP"
-				},
-				{
-					"cat": "Amendment",
-					"text": "Radar re-introduced"
-				},
-				{
-					"cat": "Improvement",
-					"text": "Made all game doors close automatically after 4 seconds"
-				},
-				{
-					"cat": "Bugfix",
-					"text": "Fixed VIP KZ Cell from buggy fucking door so I removed it"
-				}
-			],
-			"_sText": "",
-			"_sTitle": "jb_troubles_d6",
-			"_sVersion": "1.6",
-			"_tsDateAdded": 1701037644
 		}
 	],
 	"_idRow": 480473,
