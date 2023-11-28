@@ -4,25 +4,61 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
-					"jb_troubles_d7.bsp",
-					"jb_troubles_d7.nav"
+					"jb_troubles_d8.bsp",
+					"jb_troubles_d8.nav"
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1094305,
-			"_nDownloadCount": 4,
-			"_nFilesize": 74421366,
+			"_idRow": 1094658,
+			"_nDownloadCount": 0,
+			"_nFilesize": 74085577,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1094305",
-			"_sFile": "jb_troubles_d7_7f392.zip",
-			"_sMd5Checksum": "e75033c684ffa586bae8058519a94f88",
-			"_tsDateAdded": 1701121418
+			"_sDownloadUrl": "https://gamebanana.com/dl/1094658",
+			"_sFile": "jb_troubles_d8.zip",
+			"_sMd5Checksum": "b6f6f958ae8cd20a7602b5120237ef3d",
+			"_tsDateAdded": 1701200964
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Improvement",
+					"text": "Added a sound indicator when the vip vent secret is done"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Made entrances into rooms more apparent by also marking the floor"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added slight deco in main room around winner box"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added some kzgame sounds for completing different hard modes of games (drop down, trail blazing & ski-ball)"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed recall button issue in trail blazing"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed a black texture on the moving platform in spawn"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Made more games be able to be controlled by T (for freedays and stuff)"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "jb_troubles_d8",
+			"_sVersion": "1.8",
+			"_tsDateAdded": 1701200861
+		},
 		{
 			"_aChangeLog": [
 				{
@@ -54,70 +90,6 @@
 			"_sTitle": "jb_troubles_d7",
 			"_sVersion": "1.75",
 			"_tsDateAdded": 1701121294
-		},
-		{
-			"_aChangeLog": [
-				{
-					"cat": "Suggestion",
-					"text": "Added a line in cells to line Ts up on"
-				},
-				{
-					"cat": "Amendment",
-					"text": "Lowered health on a func_breakable secret near disco"
-				},
-				{
-					"cat": "Improvement",
-					"text": "Surf winners changed from cage style to platform style"
-				},
-				{
-					"cat": "Improvement",
-					"text": "Added a recall button within the playable area of Hide and Seek to prevent CT getting stuck inside"
-				},
-				{
-					"cat": "Improvement",
-					"text": "Added scores to Ski-Ball to help CT to understand how the game works"
-				},
-				{
-					"cat": "Improvement",
-					"text": "Added a sign above the 2 main portals to better indicate their usage"
-				},
-				{
-					"cat": "Improvement",
-					"text": "Improved a few spots in Hide and Seek"
-				},
-				{
-					"cat": "Bugfix",
-					"text": "Fixed the knife not spawning for Ts to pick up after completing Hide and Seek"
-				},
-				{
-					"cat": "Bugfix",
-					"text": "Fixed a hollow brush on the sign brush at Ski-Ball"
-				},
-				{
-					"cat": "Bugfix",
-					"text": "Fixed Ts dying occasionally on Drop Down"
-				},
-				{
-					"cat": "Bugfix",
-					"text": "Fixed a bug in hide and seek where you would die if you jumped on the seeker box"
-				},
-				{
-					"cat": "Bugfix",
-					"text": "Fixed floating buttons in climb"
-				},
-				{
-					"cat": "Bugfix",
-					"text": "Fixed vent acting like water leading into armoury"
-				},
-				{
-					"cat": "Bugfix",
-					"text": "Added a missing \"Winners\" sign within Descent"
-				}
-			],
-			"_sText": "",
-			"_sTitle": "jb_troubles_d7",
-			"_sVersion": "1.7",
-			"_tsDateAdded": 1701103859
 		}
 	],
 	"_idRow": 480473,
