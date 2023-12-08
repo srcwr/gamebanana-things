@@ -1,0 +1,90 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"addon-slsr99": {
+						"materials": {
+							"models": {
+								"v_scout": [
+									"skin.vmt",
+									"skin.vtf",
+									"skin2.vmt",
+									"skin2.vtf",
+									"skin2_r.vtf",
+									"skin3.vmt",
+									"skin3.vtf",
+									"skin3_r.vtf",
+									"skin4.vmt",
+									"skin4.vtf",
+									"skin4_r.vtf",
+									"skin_r.vtf",
+									"view_finger.vmt",
+									"view_finger.vtf",
+									"view_finger_r.vtf",
+									"view_glove.vmt",
+									"view_glove.vtf",
+									"view_glove_r.vtf",
+									"view_skin.vmt",
+									"view_skin.vtf",
+									"view_skin_r.vtf"
+								]
+							},
+							"vgui": {
+								"gfx": {
+									"vgui": {
+										"0": "scout.vmt",
+										"1": "scout.vtf",
+										"fav_weap": [
+											"scout.vmt"
+										]
+									}
+								}
+							}
+						},
+						"models": {
+							"weapons": [
+								"v_snip_scout.dx80.vtx",
+								"v_snip_scout.dx90.vtx",
+								"v_snip_scout.mdl",
+								"v_snip_scout.sw.vtx",
+								"v_snip_scout.vvd",
+								"w_snip_scout.dx80.vtx",
+								"w_snip_scout.dx90.vtx",
+								"w_snip_scout.mdl",
+								"w_snip_scout.phy",
+								"w_snip_scout.sw.vtx",
+								"w_snip_scout.vvd"
+							]
+						},
+						"sound": {
+							"0": "sound.cache",
+							"weapons": {
+								"scout": [
+									"scout_fire-1.wav"
+								]
+							}
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 1098987,
+			"_nDownloadCount": 0,
+			"_nFilesize": 1077467,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1098987",
+			"_sFile": "addon-slsr99.zip",
+			"_sMd5Checksum": "437dbf1fe47a31fa107c1264a07983f0",
+			"_tsDateAdded": 1702042891
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 483025,
+	"_sName": "SLSR99 [CS 1.6]",
+	"_sText": "Port from GoldSrc with new features<br>"
+}
