@@ -11,24 +11,39 @@
 								"ze_eerie_escape_redux_v2.cfg"
 							]
 						}
-					}
+					},
+					"stripper": [
+						"ze_eerie_escape_redux_v2.cfg"
+					]
 				}
 			},
 			"_bContainsExe": false,
-			"_idRow": 1049726,
-			"_nDownloadCount": 8,
-			"_nFilesize": 35940004,
+			"_idRow": 1100472,
+			"_nDownloadCount": 0,
+			"_nFilesize": 35940391,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1049726",
-			"_sFile": "ze_eerie_escape_redux_v2.rar",
-			"_sMd5Checksum": "3f2821faa304b00d7591fa75c7c42eb6",
-			"_tsDateAdded": 1693776465
+			"_sDownloadUrl": "https://gamebanana.com/dl/1100472",
+			"_sFile": "ze_eerie_escape_redux_v2_e25d6.rar",
+			"_sMd5Checksum": "ed478b19ea735180431e7b0ebfe1c573",
+			"_tsDateAdded": 1702214535
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "Fixed zombie teleport issue in level_case. Fixed using stripper."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "ze_eerie_escape_redux_v2",
+			"_sVersion": "redux_v2",
+			"_tsDateAdded": 1702214602
+		},
 		{
 			"_aChangeLog": [
 				{
@@ -56,22 +71,6 @@
 			"_sTitle": "ze_eerie_escape_redux_v2",
 			"_sVersion": "v2",
 			"_tsDateAdded": 1693776652
-		},
-		{
-			"_aChangeLog": [
-				{
-					"cat": "Bugfix",
-					"text": "Fixed turret bug, where it spawned bullets that could kill humans."
-				},
-				{
-					"cat": "Bugfix",
-					"text": "Uploaded stripper."
-				}
-			],
-			"_sText": "",
-			"_sTitle": "ze_eerie_escape_redux",
-			"_sVersion": "Redux",
-			"_tsDateAdded": 1693547522
 		}
 	],
 	"_idRow": 465910,
