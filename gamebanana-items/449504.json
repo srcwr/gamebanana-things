@@ -94,10 +94,11 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1100484,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 2,
 			"_nFilesize": 3906143,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
 			"_sDescription": "cs_underside v1.4 (ZIP Archive)",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1100484",
 			"_sFile": "underside14.zip",
@@ -114,6 +115,26 @@
 				},
 				{
 					"cat": "Overhaul",
+					"text": "Added reflective floor in one of hostage rooms."
+				},
+				{
+					"cat": "Addition",
+					"text": "Added windows on roofs to provide more visiblity."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "cs_underside Update",
+			"_sVersion": "v1.4",
+			"_tsDateAdded": 1702216647
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Improvement",
+					"text": "Updated navigation mesh for bots."
+				},
+				{
+					"cat": "Overhaul",
 					"text": "Hostage rescue point is no longer separate into 2 parts."
 				}
 			],
@@ -121,82 +142,6 @@
 			"_sTitle": "cs_underside Update",
 			"_sVersion": "v1.3",
 			"_tsDateAdded": 1702161350
-		},
-		{
-			"_aChangeLog": [
-				{
-					"cat": "Overhaul",
-					"text": "Reworked hostage rescue points"
-				},
-				{
-					"cat": "Improvement",
-					"text": "Increased a max number of players from 6v8 to 10v11"
-				},
-				{
-					"cat": "Improvement",
-					"text": "Bots AI has been improved"
-				},
-				{
-					"cat": "Removal",
-					"text": "Removed most garbage from streets"
-				},
-				{
-					"cat": "Removal",
-					"text": "Removed access to T Spawn which allowed CT to directly go there and changed access to storage room"
-				},
-				{
-					"cat": "Addition",
-					"text": "Added trees & grass with benches"
-				},
-				{
-					"cat": "Overhaul",
-					"text": "Hostages are now in different places (they are no longer in one place)"
-				},
-				{
-					"cat": "Overhaul",
-					"text": "Reworked room with vent"
-				},
-				{
-					"cat": "Overhaul",
-					"text": "Changed building textures"
-				},
-				{
-					"cat": "Overhaul",
-					"text": "Reworked storage room (added some storages)"
-				},
-				{
-					"cat": "Bugfix",
-					"text": "Fixed a bug with grates near CT Spawn which prevented bullets to go through them"
-				},
-				{
-					"cat": "Addition",
-					"text": "Added a new building with accessible roof through ladder"
-				},
-				{
-					"cat": "Addition",
-					"text": "Added small building (with one hostage) located near T Spawn"
-				},
-				{
-					"cat": "Addition",
-					"text": "Added vent from CT Side to access building"
-				},
-				{
-					"cat": "Addition",
-					"text": "Added a place from T Side which requires time to break grate and access"
-				},
-				{
-					"cat": "Addition",
-					"text": "Added clipping on stairs in building"
-				},
-				{
-					"cat": "Overhaul",
-					"text": "Entry to storage room through boxes is now only accessible from T Side (there is no possiblity to go back in the same way)"
-				}
-			],
-			"_sText": "<p>Hope you will like the update! This update took 3 months to finish.</p><p><strong><em>Enjoy the map!</em></strong></p>",
-			"_sTitle": "cs_underside update",
-			"_sVersion": "v1.2",
-			"_tsDateAdded": 1693737467
 		}
 	],
 	"_idRow": 449504,
