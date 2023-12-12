@@ -8,21 +8,28 @@
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1100641,
-			"_nDownloadCount": 5,
-			"_nFilesize": 12643361,
+			"_idRow": 1101111,
+			"_nDownloadCount": 12,
+			"_nFilesize": 12573242,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1100641",
-			"_sFile": "gg_station.zip",
-			"_sMd5Checksum": "c33f3103002be186aed8132e7963d287",
-			"_tsDateAdded": 1702233248
+			"_sDownloadUrl": "https://gamebanana.com/dl/1101111",
+			"_sFile": "gg_station_fixed_.zip",
+			"_sMd5Checksum": "2ca3bd025f9d86e555ac6eb71a14e2ca",
+			"_tsDateAdded": 1702306997
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [],
+			"_sText": "<p>Had an issue packing the custom files using pakrat. Ended up using VIDE to pack the files correctly.</p>",
+			"_sTitle": "Fixed BSP Packing",
+			"_tsDateAdded": 1702307116
+		}
+	],
 	"_idRow": 483505,
-	"_sName": "gg_station",
+	"_sName": "gg_station (fixed)",
 	"_sText": "A gungame map based in a subway station.<br>"
 }
