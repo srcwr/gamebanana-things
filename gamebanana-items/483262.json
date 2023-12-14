@@ -2,11 +2,19 @@
 	"_aAlternateFileSources": null,
 	"_aFiles": [
 		{
-			"_aMetadata": [],
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"nfn_grenades.bsp",
+					"nfn_grenades.vmf"
+				]
+			},
+			"_bContainsExe": false,
 			"_idRow": 1101710,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 7,
 			"_nFilesize": 26845,
-			"_sAnalysisState": "pending",
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
 			"_sDescription": "bsp & vmf",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1101710",
 			"_sFile": "nfn_grenades_2.7z",
@@ -22,7 +30,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1099784,
-			"_nDownloadCount": 2,
+			"_nDownloadCount": 4,
 			"_nFilesize": 8777,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -34,7 +42,15 @@
 			"_tsDateAdded": 1702135495
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [],
+			"_sText": "<p>Added a spherical trigger that spawns when grenade explodes. When triggered, it pushes players vertically. Probably not \"realistic\", but if it works, why bother.<br>Also added a small trigger that parents to a thrown grenade. This can be useful if you would want to attach some stuff to the grenade. And changed explosion time from 1 second to 1.33</p>",
+			"_sTitle": "Added vertical push",
+			"_sVersion": "2",
+			"_tsDateAdded": 1702392769
+		}
+	],
 	"_idRow": 483262,
 	"_sName": "Making grenades that push you on explode",
 	"_sText": "when you throw one it pushes everyone far away on explode<br><br>You can use it as long as I get credited somehow<br>"
