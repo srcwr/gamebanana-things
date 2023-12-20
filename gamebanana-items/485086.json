@@ -11,20 +11,27 @@
 				}
 			},
 			"_bContainsExe": false,
-			"_idRow": 1106032,
-			"_nDownloadCount": 3,
-			"_nFilesize": 2280472,
+			"_idRow": 1106219,
+			"_nDownloadCount": 0,
+			"_nFilesize": 2393553,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
-			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1106032",
-			"_sFile": "cs_bank_16.zip",
-			"_sMd5Checksum": "f90c897334d647ec008b3ec1330184fe",
-			"_tsDateAdded": 1703073127
+			"_sDownloadUrl": "https://gamebanana.com/dl/1106219",
+			"_sFile": "cs_bank_addon.zip",
+			"_sMd5Checksum": "5fefe8896cd95de1ac9b5d4587a6ea88",
+			"_tsDateAdded": 1703097989
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [],
+			"_sText": "<p>Added Overview Radar + Fixed Buyzone issue (missing) and same hostage rescue zone issue.</p>",
+			"_sTitle": "HOTFIX",
+			"_sVersion": "v1.1b",
+			"_tsDateAdded": 1703098040
+		}
+	],
 	"_idRow": 485086,
 	"_sName": "cs_bank [1.6 RE]",
 	"_sText": "Ported from GoldSrc with some improvements and revisions.<br>"
