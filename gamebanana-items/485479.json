@@ -2,11 +2,23 @@
 	"_aAlternateFileSources": null,
 	"_aFiles": [
 		{
-			"_aMetadata": [],
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrike": {
+						"maps": [
+							"de_cbble_2023_viktor.bsp",
+							"de_cbble_2023_viktor.nav"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
 			"_idRow": 1107247,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 2,
 			"_nFilesize": 9345614,
-			"_sAnalysisState": "pending",
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1107247",
 			"_sFile": "de_cbble_2023_viktor.zip",

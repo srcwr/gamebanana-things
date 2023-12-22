@@ -2,60 +2,69 @@
 	"_aAlternateFileSources": [
 		{
 			"description": "Stripper, EntWatch, BossHP",
-			"url": "https://github.com/AlbemortCS/Maps/tree/main/ze_winter_bash_v3_b2"
+			"url": "https://github.com/AlbemortCS/Maps/tree/main/ze_winter_bash_v3_b3"
 		}
 	],
 	"_aFiles": [
 		{
 			"_aMetadata": {
-				"_aArchiveFileTree": [
-					"ze_winter_bash_v3_b2.bsp"
-				]
-			},
-			"_bContainsExe": false,
-			"_idRow": 916941,
-			"_nDownloadCount": 138,
-			"_nFilesize": 78160944,
-			"_sAnalysisResult": "File passed analysis",
-			"_sAnalysisState": "done",
-			"_sClamAvResult": "clean",
-			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/916941",
-			"_sFile": "ze_winter_bash_v3_b2.rar",
-			"_sMd5Checksum": "903ce00c505ef4094a85facc96c919bb",
-			"_tsDateAdded": 1673031871
-		},
-		{
-			"_aMetadata": {
 				"_aArchiveFileTree": {
-					"ze_winter_bash_v3_b2_configs": {
-						"BossHP": [
-							"ze_winter_bash_v3_b2.cfg"
-						],
-						"EntWatch": [
-							"ze_winter_bash_v3_b2.cfg"
-						],
-						"Stripper": [
-							"ze_winter_bash_v3_b2.cfg"
-						]
+					"ze_winter_bash_v3_b3": {
+						"0": "ze_winter_bash_v3_b3.bsp",
+						"configs": {
+							"BossHP": [
+								"ze_winter_bash_v3_b3.cfg"
+							],
+							"EntWatch": [
+								"ze_winter_bash_v3_b3.cfg"
+							]
+						}
 					}
 				}
 			},
 			"_bContainsExe": false,
-			"_idRow": 959475,
-			"_nDownloadCount": 11,
-			"_nFilesize": 2768,
+			"_idRow": 1107317,
+			"_nDownloadCount": 0,
+			"_nFilesize": 79379680,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
-			"_sDescription": "Stripper, EntWatch, BossHP",
-			"_sDownloadUrl": "https://gamebanana.com/dl/959475",
-			"_sFile": "ze_winter_bash_v3_b2_configs.rar",
-			"_sMd5Checksum": "e7f8fa55c4918536caf8be95afaa49d5",
-			"_tsDateAdded": 1680441569
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1107317",
+			"_sFile": "ze_winter_bash_v3_b3.rar",
+			"_sMd5Checksum": "8ef649451af5317110d78fa85df0fab9",
+			"_tsDateAdded": 1703265988
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "Fixed all the bugs that needed stripper."
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Removed the old physics based level system."
+				},
+				{
+					"cat": "Addition",
+					"text": "Added bridges to level 1 & extra tunnel path in the beginning."
+				},
+				{
+					"cat": "Addition",
+					"text": "Added some more player interactivity to level 4, considering holding spots."
+				},
+				{
+					"cat": "Overhaul",
+					"text": "+ Some little changes."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "v3_b3",
+			"_sVersion": "v3_b3",
+			"_tsDateAdded": 1703266269
+		},
 		{
 			"_aChangeLog": [
 				{
@@ -67,25 +76,9 @@
 			"_sTitle": "Stripper v5",
 			"_sVersion": "v5",
 			"_tsDateAdded": 1680441691
-		},
-		{
-			"_aChangeLog": [
-				{
-					"cat": "Bugfix",
-					"text": "Animation fixes"
-				},
-				{
-					"cat": "Bugfix",
-					"text": "Lvl 1 boat message."
-				}
-			],
-			"_sText": "",
-			"_sTitle": "Stripper v4",
-			"_sVersion": "v4",
-			"_tsDateAdded": 1680175309
 		}
 	],
 	"_idRow": 131103,
-	"_sName": "ze_Winter_Bash_v3_b2",
-	"_sText": "<h3><b>ze_Winter_Bash_v3_b2</b></h3><br><ul><li class=\"SelectedElement\">Zombie escape map with 4 completely different levels.</li><li>Map contains few boss fights and 2 of them are regular (moving ones based on triggers and thrusters) and 1 static. Bosses have dynamic hp (more players = more hp).</li><li>5 special human items and 3 zombie items. </li><li>Radio secret at spawn.<br></li></ul>Map may contain bugs, so if you find one let me know.<br><br>**PLEASE DO NOT COPY ANYTHING TO YOUR MAP WITHOUT MY PERMISSION**"
+	"_sName": "ze_Winter_Bash_v3_b3",
+	"_sText": "<h3><b>ze_Winter_Bash_v3_b3</b></h3><br><ul><li>Zombie escape map with 4 completely different levels.</li><li class=\"SelectedElement\">Map contains 3 boss fights.</li><li>5 special human items and 3 zombie items. </li><li>Radio secret at spawn.<br></li></ul>Map may contain bugs, so if you find one, please let me know.<br><br>**PLEASE DO NOT COPY ANYTHING TO YOUR MAP WITHOUT MY PERMISSION**"
 }
