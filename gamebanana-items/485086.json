@@ -12,10 +12,11 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1106219,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 19,
 			"_nFilesize": 2393553,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1106219",
 			"_sFile": "cs_bank_addon.zip",
@@ -26,7 +27,7 @@
 	"_aLatestUpdates": [
 		{
 			"_aChangeLog": [],
-			"_sText": "<p>Added Overview Radar + Fixed Buyzone issue (missing) and same hostage rescue zone issue.</p>",
+			"_sText": "<p>Added Overview Radar + Fixed Buyzone issue (missing) and same hostage rescue zone issue.</p><p>+NODRAW optimization of some places.</p>",
 			"_sTitle": "HOTFIX",
 			"_sVersion": "v1.1b",
 			"_tsDateAdded": 1703098040
