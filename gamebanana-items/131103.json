@@ -24,7 +24,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1107317,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 8,
 			"_nFilesize": 79379680,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -44,16 +44,24 @@
 					"text": "Fixed all the bugs that needed stripper."
 				},
 				{
+					"cat": "Bugfix",
+					"text": "Brought filters back to super weapons and fixed duplicate hammerid's of some of those. REMEMBER TO USE THE NEW ENTWATCH CFG!!"
+				},
+				{
 					"cat": "Adjustment",
 					"text": "Removed the old physics based level system."
+				},
+				{
+					"cat": "Addition",
+					"text": "Added some more player interactivity to level 4, considering holding spots."
 				},
 				{
 					"cat": "Addition",
 					"text": "Added bridges to level 1 & extra tunnel path in the beginning."
 				},
 				{
-					"cat": "Addition",
-					"text": "Added some more player interactivity to level 4, considering holding spots."
+					"cat": "Removal",
+					"text": "Removed tanks and helicopters from level 3. Also the mystery box now has 100% chance to spawn."
 				},
 				{
 					"cat": "Overhaul",

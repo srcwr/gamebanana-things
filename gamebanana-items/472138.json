@@ -4,29 +4,40 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": {
-					"De_Sandstorm": [
-						"De_SandStorm.bsp",
-						"De_SandStorm.vmf",
-						"Instruction.txt"
+					"maps": [
+						"De_SandStorm.bsp"
 					]
 				}
 			},
 			"_bContainsExe": false,
-			"_idRow": 1066361,
-			"_nDownloadCount": 6,
-			"_nFilesize": 199319,
+			"_idRow": 1099801,
+			"_nDownloadCount": 22,
+			"_nFilesize": 1104536,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
-			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1066361",
-			"_sFile": "de_sandstorm_55553.rar",
-			"_sMd5Checksum": "97c620b48140c3f43017e1ef4c1661f2",
-			"_tsDateAdded": 1696435235
+			"_sDescription": "Updated",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1099801",
+			"_sFile": "de_sandstorm_fix.zip",
+			"_sMd5Checksum": "495f1884dc14f8d2d880e8cfe5dbd264",
+			"_tsDateAdded": 1702136876
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Adjustment",
+					"text": "Bombsite Adjustments and Fixes, Adjusted Middle,Appartments and Upper mid (CT spawn)"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Map Adjustment",
+			"_sVersion": "0.3",
+			"_tsDateAdded": 1703334120
+		}
+	],
 	"_idRow": 472138,
 	"_sName": "de_sandstorm",
-	"_sText": "<h1 class=\"SelectedElement\">My second map that i made<br>De_Sandstorm<br>Dont expect it to be that good.</h1><br><h2><span class=\"RedColor\">WORK IN PROGRESS!!</span></h2><h1><span class=\"GreenColor\">Map will be finished very soon.</span></h1>"
+	"_sText": "<h1><b><span class=\"GreenColor\">Update Log:</span></b></h1>-Added more sounds<br>-<span class=\"GreenColor\">Fixed</span> bugs<br>-<span class=\"GreenColor\">New lighting</span><br>-Little Map Changes<br><br><h1 class=\"SelectedElement\">de_sandstorm - a map that has a <span class=\"GreenColor\">similiar</span> gameplay to \"<span class=\"GreenColor\">Standoff 2</span>\"</h1><br><br><br><h2><br></h2><br><br>I might keep updating this map until its <span class=\"GreenColor\">good</span> and <span class=\"GreenColor\">polished</span> (<i>Maybe?</i>)<br><br>NOTE: pls leave suggestions and inform me in the comments if there are any bugs or if theres something work with the map."
 }
