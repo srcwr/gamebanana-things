@@ -11,7 +11,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1099801,
-			"_nDownloadCount": 50,
+			"_nDownloadCount": 51,
 			"_nFilesize": 1104536,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -34,10 +34,11 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1109254,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 2,
 			"_nFilesize": 285138,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
 			"_sDescription": "OLDEST VERSION ",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1109254",
 			"_sFile": "de_sandstorm_dde4e_e03d1.rar",
@@ -46,6 +47,17 @@
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "de_sandstorm older version download added"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Added older version of the map",
+			"_tsDateAdded": 1703518191
+		},
 		{
 			"_aChangeLog": [
 				{
