@@ -2,11 +2,18 @@
 	"_aAlternateFileSources": null,
 	"_aFiles": [
 		{
-			"_aMetadata": [],
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_mirage_csgo_xmas_night.bsp"
+				]
+			},
+			"_bContainsExe": false,
 			"_idRow": 1109438,
 			"_nDownloadCount": 0,
 			"_nFilesize": 14070949,
-			"_sAnalysisState": "pending",
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1109438",
 			"_sFile": "de_mirage_csgo_xmas_night.rar",
@@ -17,5 +24,5 @@
 	"_aLatestUpdates": [],
 	"_idRow": 486178,
 	"_sName": "de_mirage_csgo_xmas_night",
-	"_sText": "The map works in CS:S v34.<br>Day version for<a href=\"https://gamebanana.com/mods/103187\">&nbsp;CS:S v34.</a><br>"
+	"_sText": "The map works in CS:S v34.<br>Day version for<a href=\"https://gamebanana.com/mods/103187\"> CS:S v34.</a><br>"
 }
