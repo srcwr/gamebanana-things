@@ -1,0 +1,81 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"TechOffice": {
+						"0": "README.txt",
+						"maps": [
+							"de_techoffice_v1.bsp"
+						],
+						"materials": {
+							"models": {
+								"dinus": [
+									"TV.vmt",
+									"TV.vtf",
+									"octavia.vmt",
+									"octavia.vtf",
+									"octavia2.vmt",
+									"octavia2.vtf",
+									"octavia3.vmt",
+									"octavia3.vtf",
+									"octavia4.vmt",
+									"octavia4.vtf",
+									"oudi.vmt",
+									"oudi.vtf",
+									"oudi1.vmt",
+									"oudi1.vtf",
+									"oudi2.vmt",
+									"oudi2.vtf",
+									"oudi3.vmt",
+									"oudi3.vtf"
+								]
+							}
+						},
+						"models": {
+							"dinus": [
+								"TV.dx80.vtx",
+								"TV.dx90.vtx",
+								"TV.phy",
+								"TV.sw.vtx",
+								"octavia.dx80.vtx",
+								"octavia.dx90.vtx",
+								"octavia.mdl",
+								"octavia.phy",
+								"octavia.sw.vtx",
+								"octavia.vvd",
+								"oudi.dx80.vtx",
+								"oudi.dx90.vtx",
+								"oudi.mdl",
+								"oudi.phy",
+								"oudi.sw.vtx",
+								"oudi.vvd",
+								"tv.mdl",
+								"tv.vvd"
+							]
+						},
+						"sound": [
+							"sound.cache"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 1110017,
+			"_nDownloadCount": 0,
+			"_nFilesize": 5167758,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "The main file.",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1110017",
+			"_sFile": "techoffice.zip",
+			"_sMd5Checksum": "4275bbcc30cd78fc79a09866e2ecbdcc",
+			"_tsDateAdded": 1703609112
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 486372,
+	"_sName": "de_techoffice_v1",
+	"_sText": "My first Counter-Strike: Source map."
+}
