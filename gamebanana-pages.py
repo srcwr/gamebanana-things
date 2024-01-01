@@ -11,7 +11,10 @@ import random
 # https://gamebanana.com/apiv8/Mod/ByCategory?_aCategoryRowIds[]=5535&_nPerpage=50&_csvProperties=_aFiles,_idRow,_sName,_aAlternateFileSources,_aLatestUpdates,_sText&_csvFlags=FILE_METADATA&_nPage=1
 
 #apiurl = "https://gamebanana.com/apiv8/Mod/ByCategory?_aCategoryRowIds[]=5535&_nPerpage=50&_csvProperties=_aFiles,_idRow,_sName,_aAlternateFileSources,_aLatestUpdates,_sText&_csvFlags=FILE_METADATA&_nPage="
-apiurl = "https://gamebanana.com/apiv8/Mod/ByCategory?_nPerpage=50&_csvProperties=_aFiles,_idRow,_sName,_aAlternateFileSources,_aLatestUpdates,_sText&_csvFlags=FILE_METADATA&_sOrderBy=_tsDateUpdated,DESC"
+apiurl = "https://gamebanana.com/apiv8/Mod/ByCategory?_nPerpage=15&_csvProperties=_aFiles,_idRow,_sName,_aAlternateFileSources,_aLatestUpdates,_sText&_csvFlags=FILE_METADATA&_sOrderBy=_tsDateUpdated,DESC"
+#https://gamebanana.com/apiv11/Mod/Index?_nPerpage=15&_sSort=Generic_LatestModified&_aFilters%5BGeneric_Category%5D=5535
+#https://gamebanana.com/apiv11/Mod/487687?_csvProperties=_aFiles
+#https://www.postman.com/s0nought/workspace/gb-api-v11/overview
 
 doprint = False
 
