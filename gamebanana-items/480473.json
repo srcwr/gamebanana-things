@@ -9,16 +9,16 @@
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1114407,
+			"_idRow": 1114457,
 			"_nDownloadCount": 0,
-			"_nFilesize": 55141191,
+			"_nFilesize": 58647461,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1114407",
-			"_sFile": "jb_troubles_final3.zip",
-			"_sMd5Checksum": "430c1a4e3538e1113087d25b01c43b60",
-			"_tsDateAdded": 1704167366
+			"_sDownloadUrl": "https://gamebanana.com/dl/1114457",
+			"_sFile": "jb_troubles_final3_b397f.zip",
+			"_sMd5Checksum": "7fdb0b9a98e77d699dd199fe523349c5",
+			"_tsDateAdded": 1704170047
 		}
 	],
 	"_aLatestUpdates": [
@@ -26,7 +26,19 @@
 			"_aChangeLog": [
 				{
 					"cat": "Bugfix",
-					"text": "Hopefully fixed a lag issue???"
+					"text": "Fixed missing textures"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "jb_troubles_final",
+			"_sVersion": "2.05",
+			"_tsDateAdded": 1704170140
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "Fixed a lag issue"
 				},
 				{
 					"cat": "Bugfix",
@@ -37,101 +49,9 @@
 			"_sTitle": "jb_troubles_final",
 			"_sVersion": "2.02",
 			"_tsDateAdded": 1704167284
-		},
-		{
-			"_aChangeLog": [
-				{
-					"cat": "Addition",
-					"text": "Added KZ Colours"
-				},
-				{
-					"cat": "Overhaul",
-					"text": "Retextured and remastered HNS Chase"
-				},
-				{
-					"cat": "Adjustment",
-					"text": "Fixed timings on KZ Colours so it's always possible"
-				},
-				{
-					"cat": "Overhaul",
-					"text": "Created Easy Bhop (revamp)"
-				},
-				{
-					"cat": "Overhaul",
-					"text": "Created Medium Bhop (revamp)"
-				},
-				{
-					"cat": "Overhaul",
-					"text": "Created Hard Bhop (revamp)"
-				},
-				{
-					"cat": "Overhaul",
-					"text": "Created Pro Bhop (revamp)"
-				},
-				{
-					"cat": "Suggestion",
-					"text": "Made end platform on drop down larger"
-				},
-				{
-					"cat": "Improvement",
-					"text": "Changed all map textures to be less seamless and to hurt the eyes a bit less"
-				},
-				{
-					"cat": "Improvement",
-					"text": "All floating text changed to illusionary as to not cause collisions"
-				},
-				{
-					"cat": "Removal",
-					"text": "Removed random kz near HNS Chase"
-				},
-				{
-					"cat": "Addition",
-					"text": "Added music to KZ Colours"
-				},
-				{
-					"cat": "Removal",
-					"text": "Removed death climb in favour of a better winners arena for Drop Down"
-				},
-				{
-					"cat": "Tweak",
-					"text": "Nerfed dodge course intro (again)"
-				},
-				{
-					"cat": "Improvement",
-					"text": "Changed Cvar settings to improve bhops"
-				},
-				{
-					"cat": "Overhaul",
-					"text": "Created Easy Climb (revamp)"
-				},
-				{
-					"cat": "Overhaul",
-					"text": "Created Medium Climb (revamp)"
-				},
-				{
-					"cat": "Overhaul",
-					"text": "Created Hard Climb (revamp)"
-				},
-				{
-					"cat": "Improvement",
-					"text": "Changed climb reset to be filter sensitive (improved checkpoints basically)"
-				},
-				{
-					"cat": "Improvement",
-					"text": "Added recall when changing difficulties on climb"
-				},
-				{
-					"cat": "Addition",
-					"text": "Added secret vent near KZ Colours"
-				}
-			],
-			"_sText": "",
-			"_sTitle": "jb_troubles_final",
-			"_sVersion": "2",
-			"_tsDateAdded": 1704161673
 		}
 	],
 	"_idRow": 480473,
-	"_sName": "Jb_troubles_d",
+	"_sName": "Jb_troubles",
 	"_sText": "Port from <b><i>csgo</i></b> to <b><i>css</i></b> <br><br><b>ALL GAMES FIXED</b><br>"
 }
