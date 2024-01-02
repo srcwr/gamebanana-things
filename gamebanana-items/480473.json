@@ -4,25 +4,45 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
-					"jb_troubles_final3.bsp",
-					"jb_troubles_final3.nav"
+					"jb_troubles_final4.bsp",
+					"jb_troubles_final4.nav"
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1114457,
-			"_nDownloadCount": 4,
-			"_nFilesize": 58647461,
+			"_idRow": 1114839,
+			"_nDownloadCount": 0,
+			"_nFilesize": 58581751,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1114457",
-			"_sFile": "jb_troubles_final3_b397f.zip",
-			"_sMd5Checksum": "7fdb0b9a98e77d699dd199fe523349c5",
-			"_tsDateAdded": 1704170047
+			"_sDownloadUrl": "https://gamebanana.com/dl/1114839",
+			"_sFile": "jb_troubles_final4.zip",
+			"_sMd5Checksum": "ffc68021850c5fa037dccf88880c1e42",
+			"_tsDateAdded": 1704227139
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "Made a previously impossible jump possible in HNS Chase"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed triggers not teleporting players out when recalled in climb and HNS chase"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed issue with KZ colours"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "jb_troubles_final",
+			"_sVersion": "2.1",
+			"_tsDateAdded": 1704227064
+		},
 		{
 			"_aChangeLog": [
 				{
@@ -34,22 +54,6 @@
 			"_sTitle": "jb_troubles_final",
 			"_sVersion": "2.05",
 			"_tsDateAdded": 1704170140
-		},
-		{
-			"_aChangeLog": [
-				{
-					"cat": "Bugfix",
-					"text": "Fixed a lag issue"
-				},
-				{
-					"cat": "Bugfix",
-					"text": "Changed kz colours texture error"
-				}
-			],
-			"_sText": "",
-			"_sTitle": "jb_troubles_final",
-			"_sVersion": "2.02",
-			"_tsDateAdded": 1704167284
 		}
 	],
 	"_idRow": 480473,
