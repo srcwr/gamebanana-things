@@ -2,11 +2,24 @@
 	"_aAlternateFileSources": null,
 	"_aFiles": [
 		{
-			"_aMetadata": [],
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"Ventilation": {
+						"0": "Readme.txt",
+						"maps": [
+							"de_ventilation110523.bsp",
+							"de_ventilation110523.nav"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
 			"_idRow": 1114753,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 6,
 			"_nFilesize": 2785217,
-			"_sAnalysisState": "pending",
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1114753",
 			"_sFile": "ventilation_2fec3.zip",
