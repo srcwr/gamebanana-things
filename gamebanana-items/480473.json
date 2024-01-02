@@ -4,25 +4,117 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
-					"jb_troubles_d8.bsp",
-					"jb_troubles_d8.nav"
+					"jb_troubles_final2.bsp",
+					"jb_troubles_final2.nav"
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1094658,
-			"_nDownloadCount": 7,
-			"_nFilesize": 74085577,
+			"_idRow": 1114362,
+			"_nDownloadCount": 0,
+			"_nFilesize": 55130068,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1094658",
-			"_sFile": "jb_troubles_d8.zip",
-			"_sMd5Checksum": "b6f6f958ae8cd20a7602b5120237ef3d",
-			"_tsDateAdded": 1701200964
+			"_sDownloadUrl": "https://gamebanana.com/dl/1114362",
+			"_sFile": "jb_troubles_final2_849aa.zip",
+			"_sMd5Checksum": "1a4bc40342945c6eeb0b48896e583701",
+			"_tsDateAdded": 1704161293
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Added KZ Colours"
+				},
+				{
+					"cat": "Overhaul",
+					"text": "Retextured and remastered HNS Chase"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Fixed timings on KZ Colours so it's always possible"
+				},
+				{
+					"cat": "Overhaul",
+					"text": "Created Easy Bhop (revamp)"
+				},
+				{
+					"cat": "Overhaul",
+					"text": "Created Medium Bhop (revamp)"
+				},
+				{
+					"cat": "Overhaul",
+					"text": "Created Hard Bhop (revamp)"
+				},
+				{
+					"cat": "Overhaul",
+					"text": "Created Pro Bhop (revamp)"
+				},
+				{
+					"cat": "Suggestion",
+					"text": "Made end platform on drop down larger"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Changed all map textures to be less seamless and to hurt the eyes a bit less"
+				},
+				{
+					"cat": "Improvement",
+					"text": "All floating text changed to illusionary as to not cause collisions"
+				},
+				{
+					"cat": "Removal",
+					"text": "Removed random kz near HNS Chase"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added music to KZ Colours"
+				},
+				{
+					"cat": "Removal",
+					"text": "Removed death climb in favour of a better winners arena for Drop Down"
+				},
+				{
+					"cat": "Tweak",
+					"text": "Nerfed dodge course intro (again)"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Changed Cvar settings to improve bhops"
+				},
+				{
+					"cat": "Overhaul",
+					"text": "Created Easy Climb (revamp)"
+				},
+				{
+					"cat": "Overhaul",
+					"text": "Created Medium Climb (revamp)"
+				},
+				{
+					"cat": "Overhaul",
+					"text": "Created Hard Climb (revamp)"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Changed climb reset to be filter sensitive (improved checkpoints basically)"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Added recall when changing difficulties on climb"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added secret vent near KZ Colours"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "jb_troubles_final",
+			"_sVersion": "2",
+			"_tsDateAdded": 1704161673
+		},
 		{
 			"_aChangeLog": [
 				{
@@ -58,38 +150,6 @@
 			"_sTitle": "jb_troubles_d8",
 			"_sVersion": "1.8",
 			"_tsDateAdded": 1701200861
-		},
-		{
-			"_aChangeLog": [
-				{
-					"cat": "Improvement",
-					"text": "Made Colours look way way way better"
-				},
-				{
-					"cat": "Improvement",
-					"text": "Changed every winner area to be escapable"
-				},
-				{
-					"cat": "Improvement",
-					"text": "Added another secret in Hide and Seek"
-				},
-				{
-					"cat": "Adjustment",
-					"text": "Re-arranged platforms in main indoor games area (near drop down)"
-				},
-				{
-					"cat": "Bugfix",
-					"text": "Removed am invalid decal"
-				},
-				{
-					"cat": "Bugfix",
-					"text": "Fixed bad reflections"
-				}
-			],
-			"_sText": "",
-			"_sTitle": "jb_troubles_d7",
-			"_sVersion": "1.75",
-			"_tsDateAdded": 1701121294
 		}
 	],
 	"_idRow": 480473,
