@@ -4,25 +4,40 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
-					"jb_troubles_final2.bsp",
-					"jb_troubles_final2.nav"
+					"jb_troubles_final3.bsp",
+					"jb_troubles_final3.nav"
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1114362,
+			"_idRow": 1114407,
 			"_nDownloadCount": 0,
-			"_nFilesize": 55130068,
+			"_nFilesize": 55141191,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
-			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1114362",
-			"_sFile": "jb_troubles_final2_849aa.zip",
-			"_sMd5Checksum": "1a4bc40342945c6eeb0b48896e583701",
-			"_tsDateAdded": 1704161293
+			"_sDownloadUrl": "https://gamebanana.com/dl/1114407",
+			"_sFile": "jb_troubles_final3.zip",
+			"_sMd5Checksum": "430c1a4e3538e1113087d25b01c43b60",
+			"_tsDateAdded": 1704167366
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "Hopefully fixed a lag issue???"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Changed kz colours texture error"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "jb_troubles_final",
+			"_sVersion": "2.02",
+			"_tsDateAdded": 1704167284
+		},
 		{
 			"_aChangeLog": [
 				{
@@ -114,42 +129,6 @@
 			"_sTitle": "jb_troubles_final",
 			"_sVersion": "2",
 			"_tsDateAdded": 1704161673
-		},
-		{
-			"_aChangeLog": [
-				{
-					"cat": "Improvement",
-					"text": "Added a sound indicator when the vip vent secret is done"
-				},
-				{
-					"cat": "Improvement",
-					"text": "Made entrances into rooms more apparent by also marking the floor"
-				},
-				{
-					"cat": "Addition",
-					"text": "Added slight deco in main room around winner box"
-				},
-				{
-					"cat": "Addition",
-					"text": "Added some kzgame sounds for completing different hard modes of games (drop down, trail blazing & ski-ball)"
-				},
-				{
-					"cat": "Bugfix",
-					"text": "Fixed recall button issue in trail blazing"
-				},
-				{
-					"cat": "Bugfix",
-					"text": "Fixed a black texture on the moving platform in spawn"
-				},
-				{
-					"cat": "Adjustment",
-					"text": "Made more games be able to be controlled by T (for freedays and stuff)"
-				}
-			],
-			"_sText": "",
-			"_sTitle": "jb_troubles_d8",
-			"_sVersion": "1.8",
-			"_tsDateAdded": 1701200861
 		}
 	],
 	"_idRow": 480473,
