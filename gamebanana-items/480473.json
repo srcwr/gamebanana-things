@@ -2,58 +2,54 @@
 	"_aAlternateFileSources": null,
 	"_aFiles": [
 		{
-			"_aMetadata": {
-				"_aArchiveFileTree": [
-					"jb_troubles_final4.bsp",
-					"jb_troubles_final4.nav"
-				]
-			},
-			"_bContainsExe": false,
-			"_idRow": 1114912,
-			"_nDownloadCount": 5,
-			"_nFilesize": 58249760,
-			"_sAnalysisResult": "File passed analysis",
-			"_sAnalysisState": "done",
-			"_sClamAvResult": "clean",
+			"_aMetadata": [],
+			"_idRow": 1115486,
+			"_nDownloadCount": 0,
+			"_nFilesize": 58927536,
+			"_sAnalysisState": "pending",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1114912",
-			"_sFile": "jb_troubles_final4_303f1.zip",
-			"_sMd5Checksum": "5a8808acf3501ed4ad304e10c9bb2f10",
-			"_tsDateAdded": 1704234988
+			"_sDownloadUrl": "https://gamebanana.com/dl/1115486",
+			"_sFile": "jb_troubles_final5.zip",
+			"_sMd5Checksum": "7fe130162e8087870a42d7122086ad5e",
+			"_tsDateAdded": 1704324664
 		}
 	],
 	"_aLatestUpdates": [
 		{
 			"_aChangeLog": [
 				{
-					"cat": "Bugfix",
-					"text": "Made a previously impossible jump possible in HNS Chase"
+					"cat": "Suggestion",
+					"text": "Added signs showing the direction of different games"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Added more secrets to Hide and Seek (tp & lamp jump)"
 				},
 				{
 					"cat": "Bugfix",
-					"text": "Fixed triggers not teleporting players out when recalled in climb and HNS chase"
-				},
-				{
-					"cat": "Bugfix",
-					"text": "Fixed issue with KZ colours"
+					"text": "Fixed shadow bug on a prop in climb"
 				}
 			],
 			"_sText": "",
 			"_sTitle": "jb_troubles_final",
-			"_sVersion": "2.1",
-			"_tsDateAdded": 1704227064
+			"_sVersion": "2.25",
+			"_tsDateAdded": 1704319474
 		},
 		{
 			"_aChangeLog": [
 				{
+					"cat": "Improvement",
+					"text": "Added many many more secrets to Hide and Seek"
+				},
+				{
 					"cat": "Bugfix",
-					"text": "Fixed missing textures"
+					"text": "Fixed shadows in Hide and Seek & Climb"
 				}
 			],
 			"_sText": "",
 			"_sTitle": "jb_troubles_final",
-			"_sVersion": "2.05",
-			"_tsDateAdded": 1704170140
+			"_sVersion": "2.2",
+			"_tsDateAdded": 1704311182
 		}
 	],
 	"_idRow": 480473,
