@@ -4,6 +4,34 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": {
+					"0": "ze_aethership_v1_1.bsp",
+					"bosshp": [
+						"ze_aethership_v1_1.cfg"
+					],
+					"entwatch": [
+						"ze_aethership_v1_1.cfg"
+					],
+					"entwatch_v4": [
+						"ze_aethership_v1_1.cfg"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 1116960,
+			"_nDownloadCount": 0,
+			"_nFilesize": 97002529,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1116960",
+			"_sFile": "ze_aethership_v1_1.zip",
+			"_sMd5Checksum": "60f57c8a3fd260e55019cb39ac896d40",
+			"_tsDateAdded": 1704536900
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
 					"0": "ze_aethership_v1b.bsp",
 					"bosshp": [
 						"ze_aethership_v1b.cfg"
@@ -18,7 +46,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1074457,
-			"_nDownloadCount": 17,
+			"_nDownloadCount": 96,
 			"_nFilesize": 95733788,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -46,7 +74,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1073284,
-			"_nDownloadCount": 38,
+			"_nDownloadCount": 72,
 			"_nFilesize": 95291005,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -59,6 +87,94 @@
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Adjustment",
+					"text": "Adjustments to Light Cannon's Particles"
+				},
+				{
+					"cat": "Tweak",
+					"text": "Buffed Aether Electric Field Generator (Radius increased from 384 units to 512 units, and slows zombies down by 20% when they are in the field)"
+				},
+				{
+					"cat": "Tweak",
+					"text": "Buffed Aether Light Cannon (Increased the slow from 20% to 25%, the pushback force is greater, so careful!)"
+				},
+				{
+					"cat": "Tweak",
+					"text": "Buffed Aether First Aid Kit (Zombie Push increased from 240 u/s to 260 u/s)"
+				},
+				{
+					"cat": "Tweak",
+					"text": "Nerfed Aether Fire Launcher (Damage reduced from 250 to 150)"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed Aether First Aid Kit zombie push not working."
+				},
+				{
+					"cat": "Addition",
+					"text": "Added text description of all the items when picked up."
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Moved the First AFK teleport"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Moved the AFK teleport of the room after tram ride"
+				},
+				{
+					"cat": "Optimization",
+					"text": "Most AFK teleports will make zombies' have 40000 HP until they leave the AFK teleport area. This is to avoid spawn killing incidents."
+				},
+				{
+					"cat": "Adjustment",
+					"text": "All zombies have a default HP of 8000HP."
+				},
+				{
+					"cat": "Addition",
+					"text": "More decoration is added to some areas of the map"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed some lighting issues on shortcut breakables"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Vent shortcut after first elevator no longer allows humans to enter"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Made the Ending Music louder"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed Svarog being able to hit himself with his own reflect beams, meaning more beams will spawn without you shooting him"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed Svarog's Fire Blast subtitle warning not showing the correct text."
+				},
+				{
+					"cat": "Addition",
+					"text": "Added an indicator for the bomb planting trigger."
+				},
+				{
+					"cat": "Adjustment",
+					"text": "One of the Override Buttons is now easier to access."
+				},
+				{
+					"cat": "Addition",
+					"text": "Added an console message that tells when the helicopter has arrived."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "ze_aethership_v1_1",
+			"_sVersion": "v1_1",
+			"_tsDateAdded": 1704537120
+		},
 		{
 			"_aChangeLog": [
 				{

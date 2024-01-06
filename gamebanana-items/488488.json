@@ -2,11 +2,21 @@
 	"_aAlternateFileSources": null,
 	"_aFiles": [
 		{
-			"_aMetadata": [],
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"maps": [
+						"de_basand.bsp",
+						"de_basand.nav"
+					]
+				}
+			},
+			"_bContainsExe": false,
 			"_idRow": 1116436,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 10,
 			"_nFilesize": 2406963,
-			"_sAnalysisState": "pending",
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
 			"_sDescription": "Latest Version",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1116436",
 			"_sFile": "de_basand_137de.rar",
@@ -19,16 +29,16 @@
 			"_aChangeLog": [
 				{
 					"cat": "Improvement",
-					"text": "New lighting, Bot navigation"
+					"text": "New lighting, Bot navigation, Fixed bugs, Added Soundscapes"
 				}
 			],
-			"_sText": "",
-			"_sTitle": "Added lighting",
+			"_sText": "<p>Fixed Map's leaks &amp; Houses</p>",
+			"_sTitle": "Map improvement",
 			"_sVersion": "0.2",
 			"_tsDateAdded": 1704463366
 		}
 	],
 	"_idRow": 488488,
 	"_sName": "de_basand",
-	"_sText": "<h1>VERY <span class=\"RedColor\">EARLY</span> VERSION!!!</h1><h1><b>I <span class=\"RedColor\">would'nt</span> reccomend playing this map for now, because it has bugs and i <span class=\"GreenColor\">will fix them asap</span>. You can play the map if you want to</b></h1><br><b class=\"SelectedElement\">I<span class=\"GreenColor\"> will finish</span> this map <span class=\"GreenColor\">soon</span> and may<span class=\"GreenColor\"> make another bombsite</span> to the map.</b><br><br>after many tries to compile the map, <b>FINALLY</b> i made the map playable.<br>made this map in 8 days, due to hammer compiling stuff."
+	"_sText": "<h1>de_basand - Bomb/Defusal map</h1><b><u><span class=\"GreenColor\">The map is now playable.</span></u></b><br>------------------------------------------------------------------------------------------------------------------------------------------------------<br><font color=\"#6ee16c\"><b><span class=\"GreenColor\"><span class=\"GreenColor\">de_basand</span></span></b> bonus stuff:</font><br><ul class=\"SelectedElement\"><li><span class=\"GreenColor\">Supports</span> <span class=\"GreenColor\"><u>30</u></span> players max (15 CT's, 15 T's)</li></ul><br><br>after many tries to compile the map, <b>FINALLY</b> i made the map playable.<br>made this map in 8 days, due to hammer compiling stuff."
 }
