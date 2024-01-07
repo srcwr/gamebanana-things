@@ -2,27 +2,71 @@
 	"_aAlternateFileSources": null,
 	"_aFiles": [
 		{
-			"_aMetadata": {
-				"_aArchiveFileTree": [
-					"jb_troubles_final5.bsp",
-					"jb_troubles_final5.nav"
-				]
-			},
-			"_bContainsExe": false,
-			"_idRow": 1115486,
-			"_nDownloadCount": 8,
-			"_nFilesize": 58927536,
-			"_sAnalysisResult": "File passed analysis",
-			"_sAnalysisState": "done",
-			"_sClamAvResult": "clean",
+			"_aMetadata": [],
+			"_idRow": 1117400,
+			"_nDownloadCount": 0,
+			"_nFilesize": 59047857,
+			"_sAnalysisState": "pending",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1115486",
-			"_sFile": "jb_troubles_final5.zip",
-			"_sMd5Checksum": "7fe130162e8087870a42d7122086ad5e",
-			"_tsDateAdded": 1704324664
+			"_sDownloadUrl": "https://gamebanana.com/dl/1117400",
+			"_sFile": "jb_troubles_final6.zip",
+			"_sMd5Checksum": "88c9b250a3d7cd22ee0f0b5f91a142a4",
+			"_tsDateAdded": 1704592677
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Removal",
+					"text": "Removed hot lava option from ladder kz (rip mfk day)"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added death climb 4tonton"
+				},
+				{
+					"cat": "Amendment",
+					"text": "Changed cell colours to better match the original cs:go version"
+				},
+				{
+					"cat": "Amendment",
+					"text": "Fixed brightness issue in dropdown"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Nerfed first 2 jumps in ladder kz"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Added \"GoGoGo\" sounds to colours to indicated when the game starts"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Changed colours of drop down to better fit the aesthetic"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Added more lighting to cell area while dimming lights in cells"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Improved teleport safety for CTs (no excuses now)"
+				},
+				{
+					"cat": "Tweak",
+					"text": "Nerfed dodge course a whole lot (get better scrubs)"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed a trigger issue with climb recall"
+				}
+			],
+			"_sText": "<h1><strong><span class=\"GreenColor\">____ jb_troubles_final6.bsp ____</span></strong></h1><p><span class=\"PurpleColor\"> (final unless I discover any major bugs/issues)</span></p>",
+			"_sTitle": "jb_troubles_final6",
+			"_sVersion": "2.3",
+			"_tsDateAdded": 1704591354
+		},
 		{
 			"_aChangeLog": [
 				{
@@ -42,22 +86,6 @@
 			"_sTitle": "jb_troubles_final",
 			"_sVersion": "2.25",
 			"_tsDateAdded": 1704319474
-		},
-		{
-			"_aChangeLog": [
-				{
-					"cat": "Improvement",
-					"text": "Added many many more secrets to Hide and Seek"
-				},
-				{
-					"cat": "Bugfix",
-					"text": "Fixed shadows in Hide and Seek & Climb"
-				}
-			],
-			"_sText": "",
-			"_sTitle": "jb_troubles_final",
-			"_sVersion": "2.2",
-			"_tsDateAdded": 1704311182
 		}
 	],
 	"_idRow": 480473,
