@@ -10,10 +10,11 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1118198,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 5,
 			"_nFilesize": 59153458,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1118198",
 			"_sFile": "jb_troubles_final7.zip",
@@ -22,6 +23,26 @@
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "Bug fix in dodge course (impassable crouch)"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Bug fix in climb"
+				},
+				{
+					"cat": "Tweak",
+					"text": "Packed texture error"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "jb_troubles_final7",
+			"_sVersion": "2.31",
+			"_tsDateAdded": 1704687510
+		},
 		{
 			"_aChangeLog": [
 				{
@@ -73,26 +94,6 @@
 			"_sTitle": "jb_troubles_final6",
 			"_sVersion": "2.3",
 			"_tsDateAdded": 1704591354
-		},
-		{
-			"_aChangeLog": [
-				{
-					"cat": "Suggestion",
-					"text": "Added signs showing the direction of different games"
-				},
-				{
-					"cat": "Improvement",
-					"text": "Added more secrets to Hide and Seek (tp & lamp jump)"
-				},
-				{
-					"cat": "Bugfix",
-					"text": "Fixed shadow bug on a prop in climb"
-				}
-			],
-			"_sText": "",
-			"_sTitle": "jb_troubles_final",
-			"_sVersion": "2.25",
-			"_tsDateAdded": 1704319474
 		}
 	],
 	"_idRow": 480473,
