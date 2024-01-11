@@ -10,19 +10,58 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1115784,
-			"_nDownloadCount": 27,
+			"_nDownloadCount": 29,
 			"_nFilesize": 561878,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
-			"_sDescription": "",
+			"_sDescription": "Competetive focused",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1115784",
 			"_sFile": "destreet1_11v.rar",
 			"_sMd5Checksum": "a51df4064c0d3816899e7ac82810d917",
 			"_tsDateAdded": 1704371046
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"olderarchives": [
+						"destreet1.rar",
+						"destreet1_11v.rar",
+						"destreet1_v10.rar"
+					],
+					"v12": [
+						"de_street1.bsp",
+						"de_street1.nav"
+					],
+					"vmf_file_for_hammer": [
+						"de_street1.log",
+						"de_street1.prt",
+						"de_street1.vmf",
+						"de_street1.vmx"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 1120131,
+			"_nDownloadCount": 0,
+			"_nFilesize": 2362521,
+			"_sAnalysisResult": "Archive contains nested archive",
+			"_sAnalysisState": "done",
+			"_sDescription": "Casual/Custom Gamemodes version",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1120131",
+			"_sFile": "destreet1_12v.rar",
+			"_sMd5Checksum": "9e49cb122b4a68da4b42dddd9bb8288e",
+			"_tsDateAdded": 1704983002
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [],
+			"_sText": "<p>Final Update:</p><p>-Added 3D Skybox</p><p>-Added a very easy to discover secret place with an awp as a reward, \"High Risk, High Reward\" type of thing</p><p>-Changed lighting from 3pm-6pm to 9am-10am.</p><p>-Added some props in the shop (more beers, trashcan and radio that plays music, even if you destroy it somehow)</p>",
+			"_sTitle": "Final Version v1.2",
+			"_sVersion": "1.2v",
+			"_tsDateAdded": 1704982788
+		},
 		{
 			"_aChangeLog": [],
 			"_sText": "<p>-Added background noises</p><p>-updated team-spawns up to 15 instead of 5 (keep in mind map is designed with 5v5 in mind though)</p><p>-extended skybox so people with jetpack or any other mods can fly up from the twin to- I mean the tall building</p>",
