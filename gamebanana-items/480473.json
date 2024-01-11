@@ -2,11 +2,19 @@
 	"_aAlternateFileSources": null,
 	"_aFiles": [
 		{
-			"_aMetadata": [],
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"jb_troubles_final8.bsp",
+					"jb_troubles_final8.nav"
+				]
+			},
+			"_bContainsExe": false,
 			"_idRow": 1119336,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 3,
 			"_nFilesize": 58685280,
-			"_sAnalysisState": "pending",
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1119336",
 			"_sFile": "jb_troubles_final8.zip",
@@ -15,6 +23,22 @@
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "Fixed major bug with textures being invisible"
+				},
+				{
+					"cat": "Optimization",
+					"text": "Removed .nav file from .bsp"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "jb_troubles_final8",
+			"_sVersion": "2.4",
+			"_tsDateAdded": 1704861787
+		},
 		{
 			"_aChangeLog": [
 				{
@@ -34,58 +58,6 @@
 			"_sTitle": "jb_troubles_final7",
 			"_sVersion": "2.31",
 			"_tsDateAdded": 1704687510
-		},
-		{
-			"_aChangeLog": [
-				{
-					"cat": "Removal",
-					"text": "Removed hot lava option from ladder kz (rip mfk day)"
-				},
-				{
-					"cat": "Addition",
-					"text": "Added death climb 4tonton"
-				},
-				{
-					"cat": "Amendment",
-					"text": "Changed cell colours to better match the original cs:go version"
-				},
-				{
-					"cat": "Amendment",
-					"text": "Fixed brightness issue in dropdown"
-				},
-				{
-					"cat": "Adjustment",
-					"text": "Nerfed first 2 jumps in ladder kz"
-				},
-				{
-					"cat": "Improvement",
-					"text": "Added \"GoGoGo\" sounds to colours to indicated when the game starts"
-				},
-				{
-					"cat": "Improvement",
-					"text": "Changed colours of drop down to better fit the aesthetic"
-				},
-				{
-					"cat": "Improvement",
-					"text": "Added more lighting to cell area while dimming lights in cells"
-				},
-				{
-					"cat": "Improvement",
-					"text": "Improved teleport safety for CTs (no excuses now)"
-				},
-				{
-					"cat": "Tweak",
-					"text": "Nerfed dodge course a whole lot (get better scrubs)"
-				},
-				{
-					"cat": "Bugfix",
-					"text": "Fixed a trigger issue with climb recall"
-				}
-			],
-			"_sText": "<h1><strong><span class=\"GreenColor\">____ jb_troubles_final6.bsp ____</span></strong></h1><p><span class=\"PurpleColor\"> (final unless I discover any major bugs/issues)</span></p>",
-			"_sTitle": "jb_troubles_final6",
-			"_sVersion": "2.3",
-			"_tsDateAdded": 1704591354
 		}
 	],
 	"_idRow": 480473,

@@ -4,26 +4,45 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
-					"ze_night_cinema_a4_2 (bhud).cfg",
-					"ze_night_cinema_a4_2 (entwatch).cfg",
-					"ze_night_cinema_a4_2.bsp"
+					"ze_night_cinema_a4_3 (bhud).cfg",
+					"ze_night_cinema_a4_3 (entwatch).cfg",
+					"ze_night_cinema_a4_3.bsp"
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1108385,
-			"_nDownloadCount": 7,
-			"_nFilesize": 70708293,
+			"_idRow": 1119853,
+			"_nDownloadCount": 0,
+			"_nFilesize": 72149476,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
-			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1108385",
-			"_sFile": "ze_night_cinema_a4_2.zip",
-			"_sMd5Checksum": "a8bbdc22411597f75e4fd4973ff4154a",
-			"_tsDateAdded": 1703398929
+			"_sDownloadUrl": "https://gamebanana.com/dl/1119853",
+			"_sFile": "ze_night_cinema_a4_3.zip",
+			"_sMd5Checksum": "fedf80f0c803e00d81829309192837cc",
+			"_tsDateAdded": 1704939421
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "",
+					"text": "Split the gameplay into easy and hard mode"
+				},
+				{
+					"cat": "",
+					"text": "Introduced human items (available in easy mode)"
+				},
+				{
+					"cat": "",
+					"text": "Gameplay polishing. Also fully textured the spawn area"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "ze_night_cinema_a4_3",
+			"_sVersion": "a4_3",
+			"_tsDateAdded": 1704939768
+		},
 		{
 			"_aChangeLog": [
 				{
@@ -46,6 +65,6 @@
 		}
 	],
 	"_idRow": 448836,
-	"_sName": "ze_night_cinema_a4_2",
-	"_sText": "Moderate-to-High difficulty zombie escape map for CS-Source<br><br>4 stages so far (final 5th stage in development). Each stage is based on a movie<br>&nbsp;- 1 stage based on \"Willy's Wonderland\" (2021)<br>&nbsp;- 1 stage based on \"As above, So Below\" (2014)<br>&nbsp;- 1 stage based on \"Harry Potter 3\" (and 2nd game)<br>&nbsp;- 1 stage based on \"Sphere\" (1998)<br><br>Full list of movies the map is based on, either directly or partially:&nbsp;https://www.youtube.com/playlist?list=PLQrWkLOneHqMPD0uOdY2YATVZqEaUObmy (including ones planned for the 5th stage)<br><br>Each stage is about 9-10 minutes. There are NPC-s and zombie items. The map is fast paced and requires a leader, it is designed to be an event map. I might add easy mode in future versions.<br><br>The map should be well tested, but let me know if you discover issues.<br><br>Happy Holidays"
+	"_sName": "ze_night_cinema_a4_3",
+	"_sText": "The map contains 4 stages based on movies (5th last one planned). It is also divided into 2 modes:<br><br><b>Easy Mode:</b> Default settings the maps starts with. The 4 main stages are playable, some of holds are simpler and the layout is generally intuitive and doesn't necessarily require a leader. Some of the traps are also adjusted. There are also 2 items available to assist humans. This should make the map playable during normal hours.<br><br><b>Escape Mode:</b>&nbsp;The layout is the same, however stages would get locked upon completion. Holds are more challenging and the map requires a leader and good player base. The human items are also disabled (although they can be easily added with a stripper). Once the main 4 stages a complete, the last one would be unlocked (that's the idea).&nbsp;<br><br>Escape Mode can be activated by shooting the trigger box in the spawn area, or from the admin room. The trigger scales with the player base and requires at least 20 active players.&nbsp;<br><br>The main stages are based on the following movies:<br>&nbsp;- \"Willy's Wonderland\" (2021)<br>&nbsp;- \"As above, So Below\" (2014)<br>&nbsp;- \"Harry Potter\" (years 2, 3)<br>&nbsp;- \"Sphere\" (1998)&nbsp;\"Harry Potter\" (years 2, 3)<br><br>There are also some other movie references:&nbsp;https://www.youtube.com/playlist?list=PLQrWkLOneHqMPD0uOdY2YATVZqEaUObmy<br><br>Each stage is about 9-10 minutes. There are also NPC-s and zombie items. Thanks to the GFL and Nide communities for testing and suggestions. There is entwatch and bhud included in the archive (tested on Nide)<br><br>Good luck!"
 }
