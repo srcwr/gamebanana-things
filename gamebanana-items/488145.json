@@ -10,7 +10,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1115784,
-			"_nDownloadCount": 33,
+			"_nDownloadCount": 35,
 			"_nFilesize": 561878,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -43,7 +43,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1120131,
-			"_nDownloadCount": 2,
+			"_nDownloadCount": 7,
 			"_nFilesize": 2362521,
 			"_sAnalysisResult": "Archive contains nested archive",
 			"_sAnalysisState": "done",
@@ -55,11 +55,19 @@
 			"_tsDateAdded": 1704983002
 		},
 		{
-			"_aMetadata": [],
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_street1.bsp",
+					"de_street1.nav"
+				]
+			},
+			"_bContainsExe": false,
 			"_idRow": 1120240,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 5,
 			"_nFilesize": 603526,
-			"_sAnalysisState": "pending",
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
 			"_sDescription": "GunGame Dedicated Version",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1120240",
 			"_sFile": "gg_destreet1.rar",

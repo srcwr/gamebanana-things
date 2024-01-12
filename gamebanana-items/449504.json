@@ -12,7 +12,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 999947,
-			"_nDownloadCount": 72,
+			"_nDownloadCount": 85,
 			"_nFilesize": 963838,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -34,7 +34,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1000496,
-			"_nDownloadCount": 42,
+			"_nDownloadCount": 43,
 			"_nFilesize": 716788,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -94,7 +94,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1100484,
-			"_nDownloadCount": 9,
+			"_nDownloadCount": 25,
 			"_nFilesize": 3906143,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -104,9 +104,47 @@
 			"_sFile": "underside14.zip",
 			"_sMd5Checksum": "8872a81c99e55741af02932f0d1f3cd4",
 			"_tsDateAdded": 1702216454
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"underside15": [
+						"cs_underside.bsp",
+						"cs_underside.nav"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 1120824,
+			"_nDownloadCount": 0,
+			"_nFilesize": 6372244,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "cs_underside v1.5 (ZIP Archive)",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1120824",
+			"_sFile": "underside15.zip",
+			"_sMd5Checksum": "ded5bc3b3b6199bcb0062f6580ca0de2",
+			"_tsDateAdded": 1705086102
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Removal",
+					"text": "Removed water canals with trash section due to player's confusion and not being useful in game."
+				},
+				{
+					"cat": "Removal",
+					"text": "Removed hostage room near T spawn and deleted change which caused hostages to be in different places due to player's low level play comfort."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "cs_underside 2024 update",
+			"_sVersion": "v1.5",
+			"_tsDateAdded": 1705086337
+		},
 		{
 			"_aChangeLog": [
 				{
@@ -126,22 +164,6 @@
 			"_sTitle": "cs_underside Update",
 			"_sVersion": "v1.4",
 			"_tsDateAdded": 1702216647
-		},
-		{
-			"_aChangeLog": [
-				{
-					"cat": "Improvement",
-					"text": "Updated navigation mesh for bots."
-				},
-				{
-					"cat": "Overhaul",
-					"text": "Hostage rescue point is no longer separate into 2 parts."
-				}
-			],
-			"_sText": "",
-			"_sTitle": "cs_underside Update",
-			"_sVersion": "v1.3",
-			"_tsDateAdded": 1702161350
 		}
 	],
 	"_idRow": 449504,
