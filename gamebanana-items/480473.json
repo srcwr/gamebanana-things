@@ -4,25 +4,81 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
-					"jb_troubles_final8.bsp",
-					"jb_troubles_final8.nav"
+					"jb_troubles_final9.bsp",
+					"jb_troubles_final9.nav"
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1119336,
-			"_nDownloadCount": 7,
-			"_nFilesize": 58685280,
+			"_idRow": 1121046,
+			"_nDownloadCount": 0,
+			"_nFilesize": 62500703,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1119336",
-			"_sFile": "jb_troubles_final8.zip",
-			"_sMd5Checksum": "71c184f8e762b0c5aa329d5505d36f2c",
-			"_tsDateAdded": 1704861674
+			"_sDownloadUrl": "https://gamebanana.com/dl/1121046",
+			"_sFile": "jb_troubles_final9.zip",
+			"_sMd5Checksum": "ea5cd8a5a559368b8e4565f53bb0aca2",
+			"_tsDateAdded": 1705107637
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Added scout secret into armoury ;)"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added health tower near kz colours"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added death climb to indoor main signs"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added secret into surf vent from near lasers"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added HOLY SHIT"
+				},
+				{
+					"cat": "Suggestion",
+					"text": "Ladder KZ is now impressive"
+				},
+				{
+					"cat": "Tweak",
+					"text": "Changed music in some games to be more #epic"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed Colours signs not disabling on round end"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed texture bug in cells"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed issue with hide and seek recall triggers"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Made triggers larger for hide and seek start to avoid players jumping not being teleported"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed bug with trail blazing where if set to hard and then a new round starts the trigger to win for easy will work but wont be visible"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "jb_troubles_final9",
+			"_sVersion": "2.5",
+			"_tsDateAdded": 1705107516
+		},
 		{
 			"_aChangeLog": [
 				{
@@ -38,26 +94,6 @@
 			"_sTitle": "jb_troubles_final8",
 			"_sVersion": "2.4",
 			"_tsDateAdded": 1704861787
-		},
-		{
-			"_aChangeLog": [
-				{
-					"cat": "Bugfix",
-					"text": "Bug fix in dodge course (impassable crouch)"
-				},
-				{
-					"cat": "Bugfix",
-					"text": "Bug fix in climb"
-				},
-				{
-					"cat": "Tweak",
-					"text": "Packed texture error"
-				}
-			],
-			"_sText": "",
-			"_sTitle": "jb_troubles_final7",
-			"_sVersion": "2.31",
-			"_tsDateAdded": 1704687510
 		}
 	],
 	"_idRow": 480473,
