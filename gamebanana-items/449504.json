@@ -126,9 +126,44 @@
 			"_sFile": "underside15.zip",
 			"_sMd5Checksum": "ded5bc3b3b6199bcb0062f6580ca0de2",
 			"_tsDateAdded": 1705086102
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"cs_underside.bsp",
+					"cs_underside.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 1121432,
+			"_nDownloadCount": 0,
+			"_nFilesize": 5787328,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "Patched version of cs_underside v1.5 (ZIP Archive)",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1121432",
+			"_sFile": "underside15_patch.zip",
+			"_sMd5Checksum": "624ec2d0d7e906cfdebca4f0cc8a5876",
+			"_tsDateAdded": 1705176224
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Overhaul",
+					"text": "Updated navigation mesh for bots."
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed map lighting."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "cs_underside v1.5 patch",
+			"_tsDateAdded": 1705176342
+		},
 		{
 			"_aChangeLog": [
 				{
@@ -144,29 +179,9 @@
 			"_sTitle": "cs_underside 2024 update",
 			"_sVersion": "v1.5",
 			"_tsDateAdded": 1705086337
-		},
-		{
-			"_aChangeLog": [
-				{
-					"cat": "Improvement",
-					"text": "Updated navigation mesh for bots."
-				},
-				{
-					"cat": "Overhaul",
-					"text": "Added reflective floor in one of hostage rooms."
-				},
-				{
-					"cat": "Addition",
-					"text": "Added windows on roofs to provide more visiblity."
-				}
-			],
-			"_sText": "",
-			"_sTitle": "cs_underside Update",
-			"_sVersion": "v1.4",
-			"_tsDateAdded": 1702216647
 		}
 	],
 	"_idRow": 449504,
 	"_sName": "cs_underside",
-	"_sText": "A 10v11 hostage rescue map. The terrorists told the hostages not to move from their position because otherwise they will be killed. But is it really true using the Counter-Terrorists force?<br><br><b>Counter-Terrorists Objective (CT's)</b>: Rescue 5 hostages or <b>kill all terrorists (T's).<br></b><br><b>Terrorists Objective (T's)</b>: Prevent the hostages from being rescued or <b>kill all Counter-Terrorists (CT's).</b>"
+	"_sText": "A hostage rescue map up to 60 players. The terrorists told the hostages not to move from their position because otherwise they will be killed. But is it really true using the Counter-Terrorists force?<br><br><b>Counter-Terrorists Objective (CT's)</b>: Rescue 5 hostages or <b>kill all terrorists (T's).<br></b><br><b>Terrorists Objective (T's)</b>: Prevent the hostages from being rescued or <b>kill all Counter-Terrorists (CT's).</b>"
 }
