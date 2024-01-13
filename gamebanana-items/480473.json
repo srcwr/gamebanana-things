@@ -10,7 +10,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1121046,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 2,
 			"_nFilesize": 62500703,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -44,6 +44,10 @@
 				{
 					"cat": "Addition",
 					"text": "Added HOLY SHIT"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Increased kz colours time from 4.9 to 5.9"
 				},
 				{
 					"cat": "Suggestion",
@@ -98,5 +102,5 @@
 	],
 	"_idRow": 480473,
 	"_sName": "Jb_troubles",
-	"_sText": "Port from <b><i>csgo</i></b> to <b><i>css</i></b> <br><br><b>ALL GAMES FIXED</b><br>"
+	"_sText": "<b><u><span class=\"OrangeColor\">Games:</span></u></b><br><ol><li class=\"SelectedElement\"><span class=\"GreenColor\">Ski-Ball</span></li><li><span class=\"GreenColor\">Hide and Seek</span></li><li><span class=\"GreenColor\">Strafe Race</span></li><li><span class=\"GreenColor\">Descent</span></li><li><span class=\"GreenColor\">Climb</span></li><li><span class=\"GreenColor\">Skill Jumps</span></li><li><span class=\"GreenColor\">Bhop</span></li><li><span class=\"GreenColor\">Surf</span></li><li><span class=\"GreenColor\">Drop Down</span></li><li><span class=\"GreenColor\">Colours</span></li><li><span class=\"GreenColor\">Death Climb</span></li><li><span class=\"GreenColor\">Dodge Course</span></li><li><span class=\"GreenColor\">Lasers</span></li><li><span class=\"GreenColor\">Trail Blazing</span></li><li><span class=\"GreenColor\">Ladder KZ</span></li><li><span class=\"GreenColor\">KZ Colours</span></li><li><span class=\"GreenColor\">HNS Chase</span></li><li><span class=\"GreenColor\">Corridor Chase</span></li><li><span class=\"GreenColor\">High Dive</span></li><li><span class=\"GreenColor\">Gun Toss</span></li></ol>"
 }
