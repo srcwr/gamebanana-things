@@ -136,7 +136,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1121432,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 1,
 			"_nFilesize": 5787328,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -154,6 +154,10 @@
 				{
 					"cat": "Overhaul",
 					"text": "Updated navigation mesh for bots."
+				},
+				{
+					"cat": "Overhaul",
+					"text": "Increased max player count from 10v11 to 30v30."
 				},
 				{
 					"cat": "Bugfix",
