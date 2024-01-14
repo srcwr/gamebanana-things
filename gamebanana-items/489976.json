@@ -9,10 +9,11 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1121601,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 3,
 			"_nFilesize": 967495,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1121601",
 			"_sFile": "bhop_bunnytown31_58e64.zip",
@@ -20,7 +21,36 @@
 			"_tsDateAdded": 1705194684
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "Trigger fixes"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Changed huge shortcuts that were extremely easy to do"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added longjumps"
+				},
+				{
+					"cat": "Amendment",
+					"text": "End \"sign\" now looks very slightly better"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Many small brush changes to remove very small skips that detracted from the map"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "",
+			"_sVersion": "1.1",
+			"_tsDateAdded": 1705194992
+		}
+	],
 	"_idRow": 489976,
 	"_sName": "bhop_bunnytown31",
 	"_sText": "Wanted to make a quick map and only use valve assets. This map has no custom assets whatsoever. Made in 4 days.<br><br>Made for and tested on legit scroll on 100 tick.<br>"
