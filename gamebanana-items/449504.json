@@ -146,9 +146,45 @@
 			"_sFile": "underside15_patch.zip",
 			"_sMd5Checksum": "624ec2d0d7e906cfdebca4f0cc8a5876",
 			"_tsDateAdded": 1705176224
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"cs_underside.bsp",
+					"cs_underside.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 1122658,
+			"_nDownloadCount": 0,
+			"_nFilesize": 15545864,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "cs_underside v1.6 (ZIP Archive)",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1122658",
+			"_sFile": "underside16_final.zip",
+			"_sMd5Checksum": "2a3dd96586467588299cd288285dc35f",
+			"_tsDateAdded": 1705361208
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Overhaul",
+					"text": "Updated navigation mesh for bots."
+				},
+				{
+					"cat": "Addition",
+					"text": "Added underground area."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "cs_underside update",
+			"_sVersion": "v1.6",
+			"_tsDateAdded": 1705361273
+		},
 		{
 			"_aChangeLog": [
 				{
@@ -167,22 +203,6 @@
 			"_sText": "",
 			"_sTitle": "cs_underside v1.5 patch",
 			"_tsDateAdded": 1705176342
-		},
-		{
-			"_aChangeLog": [
-				{
-					"cat": "Removal",
-					"text": "Removed water canals with trash section due to player's confusion and not being useful in game."
-				},
-				{
-					"cat": "Removal",
-					"text": "Removed hostage room near T spawn and deleted change which caused hostages to be in different places due to player's low level play comfort."
-				}
-			],
-			"_sText": "",
-			"_sTitle": "cs_underside 2024 update",
-			"_sVersion": "v1.5",
-			"_tsDateAdded": 1705086337
 		}
 	],
 	"_idRow": 449504,
