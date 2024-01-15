@@ -2,11 +2,18 @@
 	"_aAlternateFileSources": null,
 	"_aFiles": [
 		{
-			"_aMetadata": [],
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"surf_nibiru.bsp"
+				]
+			},
+			"_bContainsExe": false,
 			"_idRow": 1122281,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 3,
 			"_nFilesize": 28377722,
-			"_sAnalysisState": "pending",
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1122281",
 			"_sFile": "surf_nibiru_a6b43.zip",
