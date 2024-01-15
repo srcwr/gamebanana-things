@@ -4,28 +4,56 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": {
-					"cs_assault_dark": [
-						"cs_assault_dark.bsp",
-						"cs_assault_dark.txt"
+					"cs_assault_night": [
+						"cs_assault_night.bsp",
+						"cs_assault_night.txt"
 					]
 				}
 			},
 			"_bContainsExe": false,
-			"_idRow": 1120774,
-			"_nDownloadCount": 70,
-			"_nFilesize": 6793096,
+			"_idRow": 1122570,
+			"_nDownloadCount": 0,
+			"_nFilesize": 7375414,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
-			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1120774",
-			"_sFile": "cs_assault_dark.7z",
-			"_sMd5Checksum": "db77ce4c6ccaddcd61359116d60eb375",
-			"_tsDateAdded": 1705078777
+			"_sDownloadUrl": "https://gamebanana.com/dl/1122570",
+			"_sFile": "cs_assault_night.7z",
+			"_sMd5Checksum": "5f8a99a215f267647453265ff7f90b67",
+			"_tsDateAdded": 1705349068
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Adjustment",
+					"text": "Changed the name of the map to cs_assault_night because it is not that dark"
+				},
+				{
+					"cat": "Improvement",
+					"text": "There is now light in the buildings in 3D skybox"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Reduced the sharpness and brightness of HDR lighting"
+				},
+				{
+					"cat": "",
+					"text": "Increased and stabilized average fps on the map (I compiled the previous version of the map without hint brushes lol)"
+				},
+				{
+					"cat": "",
+					"text": "Minor bug fixes"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Bug fix update",
+			"_sVersion": "1.1",
+			"_tsDateAdded": 1705349556
+		}
+	],
 	"_idRow": 489841,
-	"_sName": "cs_assault_dark",
-	"_sText": "Dark/Night version of cs_assault, the main differences of which are&nbsp;the changed skybox texture and lighting.&nbsp;All lamps on the map were turned on for better visibility.<br><br>"
+	"_sName": "cs_assault_night",
+	"_sText": "Dark/Night version of cs_assault, the main differences of which are the changed skybox texture and lighting. All lamps on the map were turned on for better visibility.<br><br>"
 }
