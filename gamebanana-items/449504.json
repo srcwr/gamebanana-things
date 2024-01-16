@@ -156,7 +156,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1122658,
-			"_nDownloadCount": 1,
+			"_nDownloadCount": 2,
 			"_nFilesize": 15545864,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -166,9 +166,40 @@
 			"_sFile": "underside16_final.zip",
 			"_sMd5Checksum": "2a3dd96586467588299cd288285dc35f",
 			"_tsDateAdded": 1705361208
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"cs_underside.bsp",
+					"cs_underside.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 1123027,
+			"_nDownloadCount": 0,
+			"_nFilesize": 9620384,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "Patched version of cs_underside v1.6 (ZIP Archive)",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1123027",
+			"_sFile": "underside16_finalpatch.zip",
+			"_sMd5Checksum": "e20462a22bbe39be16689466e7ad9e86",
+			"_tsDateAdded": 1705432220
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "Fixed hostage points."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "v1.6 patch",
+			"_tsDateAdded": 1705432332
+		},
 		{
 			"_aChangeLog": [
 				{
@@ -184,25 +215,6 @@
 			"_sTitle": "cs_underside update",
 			"_sVersion": "v1.6",
 			"_tsDateAdded": 1705361273
-		},
-		{
-			"_aChangeLog": [
-				{
-					"cat": "Overhaul",
-					"text": "Updated navigation mesh for bots."
-				},
-				{
-					"cat": "Overhaul",
-					"text": "Increased max player count from 10v11 to 30v30."
-				},
-				{
-					"cat": "Bugfix",
-					"text": "Fixed map lighting."
-				}
-			],
-			"_sText": "",
-			"_sTitle": "cs_underside v1.5 patch",
-			"_tsDateAdded": 1705176342
 		}
 	],
 	"_idRow": 449504,

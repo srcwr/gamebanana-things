@@ -9,7 +9,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1122820,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 5,
 			"_nFilesize": 167681690,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -35,6 +35,10 @@
 				{
 					"cat": "Adjustment",
 					"text": "various antipre fixes and additions"
+				},
+				{
+					"cat": "Removal",
+					"text": "added a player clip because fuck your breathing rooms during bhop sections"
 				},
 				{
 					"cat": "Addition",
