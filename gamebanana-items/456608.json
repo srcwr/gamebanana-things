@@ -11,20 +11,44 @@
 				}
 			},
 			"_bContainsExe": false,
-			"_idRow": 1020501,
-			"_nDownloadCount": 175,
-			"_nFilesize": 4686393,
+			"_idRow": 1123697,
+			"_nDownloadCount": 0,
+			"_nFilesize": 4925084,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
-			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1020501",
-			"_sFile": "de_inferno_plus.7z",
-			"_sMd5Checksum": "1da02ce95b5789cc6654bc29d9904062",
-			"_tsDateAdded": 1689588191
+			"_sDownloadUrl": "https://gamebanana.com/dl/1123697",
+			"_sFile": "de_inferno_plus_bc6a8.7z",
+			"_sMd5Checksum": "9ccb6e09e19200fca7539c17a97f7500",
+			"_tsDateAdded": 1705514719
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "Fixed the texture of the fence above the crowl space"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Enhanced lighting of stairs in T apartments"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Improved map clipping"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed the where bullets would not go through a metal fence"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Bugfix update that should have been released half ",
+			"_sVersion": "1.1",
+			"_tsDateAdded": 1705515212
+		}
+	],
 	"_idRow": 456608,
 	"_sName": "de_inferno_plus",
 	"_sText": "Modification of de_inferno, which is based on CS 1.6 and CS:GO versions of this map. <br><br>The map is aimed at improving the gameplay of the map, but maintaining the CS:S atmosphere and aesthetics. Materials were used only from CS:S and HL2 assets. In addition to changes in geometry, the map has become lighter, HDR lighting has been smoothed out, ambient sounds have become quieter, bots now report more accurate information about the location of the enemy.<br><br>"
