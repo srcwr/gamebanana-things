@@ -12,10 +12,11 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1123697,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 19,
 			"_nFilesize": 4925084,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1123697",
 			"_sFile": "de_inferno_plus_bc6a8.7z",
@@ -40,11 +41,11 @@
 				},
 				{
 					"cat": "Bugfix",
-					"text": "Fixed the where bullets would not go through a metal fence"
+					"text": "Fixed the bug when the bullets would not go through a metal fence"
 				}
 			],
 			"_sText": "",
-			"_sTitle": "Bugfix update that should have been released half ",
+			"_sTitle": "Update that should have been half a year ago",
 			"_sVersion": "1.1",
 			"_tsDateAdded": 1705515212
 		}
