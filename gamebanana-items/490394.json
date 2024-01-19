@@ -8,20 +8,52 @@
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1122820,
-			"_nDownloadCount": 14,
-			"_nFilesize": 167681690,
+			"_idRow": 1124394,
+			"_nDownloadCount": 0,
+			"_nFilesize": 172180693,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1122820",
-			"_sFile": "kz_bhop_solitude_f58a6.rar",
-			"_sMd5Checksum": "89c6ced5149c0d117b3ea4691f9c4014",
-			"_tsDateAdded": 1705390481
+			"_sDownloadUrl": "https://gamebanana.com/dl/1124394",
+			"_sFile": "kz_bhop_solitude_ba310.rar",
+			"_sMd5Checksum": "7f2268aa4d7dff0f587160d0baff681a",
+			"_tsDateAdded": 1705630958
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "fixed numerous skips possible on autobhop"
+				},
+				{
+					"cat": "Optimization",
+					"text": "fixed a possible crash for some people"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "rebalanced a couple of jumps"
+				},
+				{
+					"cat": "Addition",
+					"text": "new easter egg!"
+				},
+				{
+					"cat": "Feature",
+					"text": "time to revisit the secret room for your $20 DLC content!"
+				},
+				{
+					"cat": "Suggestion",
+					"text": "please kill me im so done with this ancient software"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "why do autobhopers play kz",
+			"_sVersion": "2",
+			"_tsDateAdded": 1705631610
+		},
 		{
 			"_aChangeLog": [
 				{
