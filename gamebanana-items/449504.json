@@ -12,7 +12,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 999947,
-			"_nDownloadCount": 94,
+			"_nDownloadCount": 96,
 			"_nFilesize": 963838,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -34,7 +34,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1000496,
-			"_nDownloadCount": 43,
+			"_nDownloadCount": 44,
 			"_nFilesize": 716788,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -54,7 +54,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1049313,
-			"_nDownloadCount": 43,
+			"_nDownloadCount": 44,
 			"_nFilesize": 8559932,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -74,7 +74,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1100072,
-			"_nDownloadCount": 2,
+			"_nDownloadCount": 3,
 			"_nFilesize": 3273180,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -94,7 +94,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1100484,
-			"_nDownloadCount": 25,
+			"_nDownloadCount": 26,
 			"_nFilesize": 3906143,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -116,7 +116,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1120824,
-			"_nDownloadCount": 3,
+			"_nDownloadCount": 4,
 			"_nFilesize": 6372244,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -136,7 +136,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1121432,
-			"_nDownloadCount": 3,
+			"_nDownloadCount": 4,
 			"_nFilesize": 5787328,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -156,7 +156,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1122658,
-			"_nDownloadCount": 4,
+			"_nDownloadCount": 5,
 			"_nFilesize": 15545864,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -176,7 +176,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1123027,
-			"_nDownloadCount": 5,
+			"_nDownloadCount": 6,
 			"_nFilesize": 9620384,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -188,11 +188,18 @@
 			"_tsDateAdded": 1705432220
 		},
 		{
-			"_aMetadata": [],
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"cs_underside.bsp"
+				]
+			},
+			"_bContainsExe": false,
 			"_idRow": 1124922,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 3,
 			"_nFilesize": 4895709,
-			"_sAnalysisState": "pending",
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1124922",
 			"_sFile": "post_update.zip",
@@ -204,6 +211,17 @@
 		{
 			"_aChangeLog": [
 				{
+					"cat": "Overhaul",
+					"text": "Added new hostage AI."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Post Update",
+			"_tsDateAdded": 1705710555
+		},
+		{
+			"_aChangeLog": [
+				{
 					"cat": "Bugfix",
 					"text": "Fixed hostage points."
 				}
@@ -211,22 +229,6 @@
 			"_sText": "",
 			"_sTitle": "v1.6 patch",
 			"_tsDateAdded": 1705432332
-		},
-		{
-			"_aChangeLog": [
-				{
-					"cat": "Overhaul",
-					"text": "Updated navigation mesh for bots."
-				},
-				{
-					"cat": "Addition",
-					"text": "Added underground area."
-				}
-			],
-			"_sText": "",
-			"_sTitle": "cs_underside update",
-			"_sVersion": "v1.6",
-			"_tsDateAdded": 1705361273
 		}
 	],
 	"_idRow": 449504,
