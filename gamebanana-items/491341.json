@@ -1,0 +1,21 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": [],
+			"_idRow": 1125678,
+			"_nDownloadCount": 0,
+			"_nFilesize": 5073298,
+			"_sAnalysisState": "pending",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1125678",
+			"_sFile": "fastline.rar",
+			"_sMd5Checksum": "233e38527efbedb2fa923f7038d3df17",
+			"_tsDateAdded": 1705825560
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 491341,
+	"_sName": "Fastline port",
+	"_sText": "<h1>de_fastline from Counter-Strike: Condition Zero!</h1><h3><u><span class=\"RedColor\">I am not the creator of this map and i own no rights to it.</span></u></h3><br>I made the CSGO port of this map 2 years ago. That map was using a decompiled version of fastline.<br><br>This version is using a leaked VMF i found online. All i had to do was throw my textures and models i decompiled/extracted from my previous fastline port into here.<br><br><h3>What's the difference between this version and my CSGO port?</h3><ul><li>This version is more optimized (since it's using the original VMF file)</li></ul><ul><li>I added different lighting around the map (it actually comes from the ceiling lights now)</li></ul><ul><li>The texture issues i had from decompiling the original BSP are gone</li></ul><br><h3>What's the difference between this and CSCZ?</h3><ul><li>I cannot for the life of me figure out how to recreate the way they edited the window textures on the train and police room. </li></ul><ul><li class=\"SelectedElement\">The lighting was added by me, some of the original lighting still exists on the train and vents (If i didn't add any lights to the map, it'd be all dark). </li></ul><ul><li>The floodlight model has a texture error that still exists on CSCZ that is fixed on my version. </li></ul><ul><li>Most of the ceiling light textures i swapped for textures of them being on (would not make sense for them to be off when light comes out of them). </li></ul><ul><li>Sounds are missing. The VMF file has entities for them, but i could not find them in the CSCZ files... also it's dead silent in the CSCZ version anyway.</li></ul><ul><li>Textures in my version are not using texture filtering, meaning the textures aren't blurry.</li></ul><br>Feel free to decompile the map to edit for your liking. I don't need credit."
+}
