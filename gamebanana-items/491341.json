@@ -2,11 +2,20 @@
 	"_aAlternateFileSources": null,
 	"_aFiles": [
 		{
-			"_aMetadata": [],
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"READ ME.txt",
+					"de_fastline.bsp",
+					"de_fastline.nav"
+				]
+			},
+			"_bContainsExe": false,
 			"_idRow": 1125811,
 			"_nDownloadCount": 0,
 			"_nFilesize": 5063298,
-			"_sAnalysisState": "pending",
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1125811",
 			"_sFile": "fastline_cb1f1.rar",
