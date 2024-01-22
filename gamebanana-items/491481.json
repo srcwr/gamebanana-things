@@ -2,11 +2,18 @@
 	"_aAlternateFileSources": null,
 	"_aFiles": [
 		{
-			"_aMetadata": [],
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"bhop_nxo_strafe_fix.bsp"
+				]
+			},
+			"_bContainsExe": false,
 			"_idRow": 1126062,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 8,
 			"_nFilesize": 4110543,
-			"_sAnalysisState": "pending",
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1126062",
 			"_sFile": "bhop_nxo_strafe_fix.zip",
