@@ -4,25 +4,61 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
-					"jb_troubles_final9.bsp",
-					"jb_troubles_final9.nav"
+					"jb_troubles_final10.bsp",
+					"jb_troubles_final10.nav"
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1121046,
-			"_nDownloadCount": 19,
-			"_nFilesize": 62500703,
+			"_idRow": 1127216,
+			"_nDownloadCount": 0,
+			"_nFilesize": 63052288,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1121046",
-			"_sFile": "jb_troubles_final9.zip",
-			"_sMd5Checksum": "ea5cd8a5a559368b8e4565f53bb0aca2",
-			"_tsDateAdded": 1705107637
+			"_sDownloadUrl": "https://gamebanana.com/dl/1127216",
+			"_sFile": "jb_troubles_final10.zip",
+			"_sMd5Checksum": "7c8f48dee6e7efe845040b8f9eb86b7a",
+			"_tsDateAdded": 1706066127
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Removal",
+					"text": "Removed Hot Lava option from Skill Jumps {no more MFK day :(}"
+				},
+				{
+					"cat": "Suggestion",
+					"text": "Made it so surf recall no longer recalls winners"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "People will no longer be unaffected by triggers or teleports (resets targetname on spawn)"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed a misaligned brush in Hide and Seek"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed problem with Hide and Seek triggers not removing filter when leaving the game"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed a bug in Climb where, if timed correctly, a CT would be teleported with the Ts if caught when another CT changes difficulty"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed climb music secret not working"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "jb_troubles_final10",
+			"_sVersion": "1.5",
+			"_tsDateAdded": 1706069169
+		},
 		{
 			"_aChangeLog": [
 				{
@@ -82,22 +118,6 @@
 			"_sTitle": "jb_troubles_final9",
 			"_sVersion": "2.5",
 			"_tsDateAdded": 1705107516
-		},
-		{
-			"_aChangeLog": [
-				{
-					"cat": "Bugfix",
-					"text": "Fixed major bug with textures being invisible"
-				},
-				{
-					"cat": "Optimization",
-					"text": "Removed .nav file from .bsp"
-				}
-			],
-			"_sText": "",
-			"_sTitle": "jb_troubles_final8",
-			"_sVersion": "2.4",
-			"_tsDateAdded": 1704861787
 		}
 	],
 	"_idRow": 480473,
