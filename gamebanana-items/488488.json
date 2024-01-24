@@ -4,6 +4,7 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": {
+					"0": "Instructions.txt",
 					"maps": [
 						"de_basand.bsp",
 						"de_basand.nav"
@@ -11,20 +12,32 @@
 				}
 			},
 			"_bContainsExe": false,
-			"_idRow": 1116436,
-			"_nDownloadCount": 59,
-			"_nFilesize": 2406963,
+			"_idRow": 1127450,
+			"_nDownloadCount": 0,
+			"_nFilesize": 2715657,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
-			"_sDescription": "Latest Version",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1116436",
-			"_sFile": "de_basand_137de.rar",
-			"_sMd5Checksum": "4619e03d7cc18fd8ada30fbfcc9bf2fa",
-			"_tsDateAdded": 1704466716
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1127450",
+			"_sFile": "de_basand_7ee31.rar",
+			"_sMd5Checksum": "a7a470ab0bb14a8a04b4406f3189785b",
+			"_tsDateAdded": 1706116163
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Improvement",
+					"text": "New Lighting and big map improvements"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Big Improvements",
+			"_sVersion": "0.5",
+			"_tsDateAdded": 1706118222
+		},
 		{
 			"_aChangeLog": [
 				{
