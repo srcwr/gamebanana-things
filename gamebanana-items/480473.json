@@ -10,7 +10,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1127216,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 1,
 			"_nFilesize": 63052288,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -26,16 +26,16 @@
 		{
 			"_aChangeLog": [
 				{
-					"cat": "Removal",
+					"cat": "Bugfix",
+					"text": "People will no longer be unaffected by triggers or teleports (resets targetname on spawn)"
+				},
+				{
+					"cat": "Amendment",
 					"text": "Removed Hot Lava option from Skill Jumps {no more MFK day :(}"
 				},
 				{
-					"cat": "Suggestion",
+					"cat": "Amendment",
 					"text": "Made it so surf recall no longer recalls winners"
-				},
-				{
-					"cat": "Bugfix",
-					"text": "People will no longer be unaffected by triggers or teleports (resets targetname on spawn)"
 				},
 				{
 					"cat": "Bugfix",
@@ -54,9 +54,9 @@
 					"text": "Fixed climb music secret not working"
 				}
 			],
-			"_sText": "",
+			"_sText": "<p>___FINAL VERSION___</p><p>Any issues please send a screenshot to 'rvrbrvrb' on discord</p>",
 			"_sTitle": "jb_troubles_final10",
-			"_sVersion": "1.5",
+			"_sVersion": "2.6",
 			"_tsDateAdded": 1706069169
 		},
 		{
