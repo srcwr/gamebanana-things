@@ -12,10 +12,11 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1127506,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 29,
 			"_nFilesize": 67126957,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1127506",
 			"_sFile": "de_jagd.7z",
@@ -26,5 +27,5 @@
 	"_aLatestUpdates": [],
 	"_idRow": 492017,
 	"_sName": "de_jagd",
-	"_sText": "Port of dod_jagd from Day of Defeat: Source, adapted for Bomb Defusal mode.  The map is set a European town and it has 3 Bombsites. Ambient sounds on the map have been slightly reduced.<br><br>"
+	"_sText": "Port of dod_jagd from Day of Defeat: Source, adapted for Bomb Defusal mode.&nbsp;&nbsp;The map is set a European town and it has 3 Bombsites.&nbsp;Ambient sounds on the map have been slightly reduced.<br><br>Note: Bots do not have support for playing on a map with three bombsites and because of this they do not plant a bomb at all."
 }

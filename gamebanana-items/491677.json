@@ -8,20 +8,32 @@
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1126616,
-			"_nDownloadCount": 48,
-			"_nFilesize": 9074554,
+			"_idRow": 1127789,
+			"_nDownloadCount": 0,
+			"_nFilesize": 7159058,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
-			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1126616",
-			"_sFile": "cs_clover.rar",
-			"_sMd5Checksum": "f308316d4de49216af1dee9967de90c9",
-			"_tsDateAdded": 1705961815
+			"_sDownloadUrl": "https://gamebanana.com/dl/1127789",
+			"_sFile": "cs_clover_02903.rar",
+			"_sMd5Checksum": "c8c75ce4f00aa4b22551f16fce3bb665",
+			"_tsDateAdded": 1706179650
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Improvement",
+					"text": "fixed issue with bots maxing out at 5 per game"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "spawn fix",
+			"_sVersion": "1.1",
+			"_tsDateAdded": 1706179746
+		}
+	],
 	"_idRow": 491677,
 	"_sName": "cs_clover",
 	"_sText": "this map is perfect for quick fun rounds but it can be drawn out longer under the right conditions"
