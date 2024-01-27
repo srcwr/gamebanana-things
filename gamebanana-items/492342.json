@@ -2,11 +2,95 @@
 	"_aAlternateFileSources": null,
 	"_aFiles": [
 		{
-			"_aMetadata": [],
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cs_techoffice": {
+						"maps": [
+							"cs_techoffice.bsp",
+							"cs_techoffice.nav"
+						],
+						"materials": {
+							"models": {
+								"dinus": [
+									"TV.vmt",
+									"TV.vtf",
+									"bus.vmt",
+									"bus.vtf",
+									"bus2.vmt",
+									"bus2.vtf",
+									"bus3.vmt",
+									"bus3.vtf",
+									"bus4.vmt",
+									"bus4.vtf",
+									"bus_normal.vtf",
+									"octavia.vmt",
+									"octavia.vtf",
+									"octavia2.vmt",
+									"octavia2.vtf",
+									"octavia3.vmt",
+									"octavia3.vtf",
+									"octavia4.vmt",
+									"octavia4.vtf",
+									"oudi.vmt",
+									"oudi.vtf",
+									"oudi1.vmt",
+									"oudi1.vtf",
+									"oudi2.vmt",
+									"oudi2.vtf",
+									"oudi3.vmt",
+									"oudi3.vtf"
+								]
+							},
+							"techoffice": [
+								"buddyPainting.vmt",
+								"buddyPainting.vtf",
+								"elexis.vmt",
+								"elexis.vtf",
+								"pinupBeach.vmt",
+								"pinupBeach.vtf"
+							]
+						},
+						"models": {
+							"dinus": [
+								"TV.dx80.vtx",
+								"TV.dx90.vtx",
+								"TV.phy",
+								"TV.sw.vtx",
+								"bus.dx80.vtx",
+								"bus.dx90.vtx",
+								"bus.mdl",
+								"bus.phy",
+								"bus.sw.vtx",
+								"bus.vvd",
+								"octavia.dx80.vtx",
+								"octavia.dx90.vtx",
+								"octavia.mdl",
+								"octavia.phy",
+								"octavia.sw.vtx",
+								"octavia.vvd",
+								"oudi.dx80.vtx",
+								"oudi.dx90.vtx",
+								"oudi.mdl",
+								"oudi.phy",
+								"oudi.sw.vtx",
+								"oudi.vvd",
+								"tv.mdl",
+								"tv.vvd"
+							]
+						},
+						"sound": [
+							"sound.cache"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
 			"_idRow": 1128475,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 2,
 			"_nFilesize": 16686585,
-			"_sAnalysisState": "pending",
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1128475",
 			"_sFile": "cs_techoffice.zip",
