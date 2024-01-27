@@ -8,20 +8,44 @@
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1127795,
-			"_nDownloadCount": 4,
-			"_nFilesize": 329212,
+			"_idRow": 1129011,
+			"_nDownloadCount": 2,
+			"_nFilesize": 329653,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1127795",
-			"_sFile": "zm_snowbase2_css.zip",
-			"_sMd5Checksum": "e43e8f4efe40290558ed9d93dac56fd6",
-			"_tsDateAdded": 1706181057
+			"_sDownloadUrl": "https://gamebanana.com/dl/1129011",
+			"_sFile": "zm_snowbase2_css_71f62.zip",
+			"_sMd5Checksum": "22dd0ccebec81f14739b56c167243c61",
+			"_tsDateAdded": 1706380070
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Adjustment",
+					"text": "Some textures"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "func_breakable being breakable by physics"
+				},
+				{
+					"cat": "Addition",
+					"text": "Spawnpoints"
+				},
+				{
+					"cat": "Tweak",
+					"text": "Position of player spawn entities"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "zm_snowbase2",
+			"_tsDateAdded": 1706379969
+		}
+	],
 	"_idRow": 492106,
 	"_sName": "zm_snowbase2",
 	"_sText": "Famous CS 1.6 zombie mod map ported by me. Enjoy!<br>For Zombie Plague server <b class=\"SelectedElement\">193.31.28.17:27015</b>"
