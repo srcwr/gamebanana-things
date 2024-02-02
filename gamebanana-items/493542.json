@@ -1,0 +1,59 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"de_nuke2v2": {
+						"0": "de_nuke2v2.bsp",
+						"1": "de_nuke2v2.nav",
+						"custom": {
+							"de_nuke2v2": {
+								"materials": {
+									"overviews": [
+										"de_nuke2v2.txt",
+										"de_nuke2v2_radar.vmt",
+										"de_nuke2v2_radar.vtf",
+										"de_nuke_radar.vmt",
+										"de_nuke_radar.vtf"
+									]
+								}
+							}
+						},
+						"materialsrc": {
+							"overviews": [
+								"de_nuke2v2.tga",
+								"de_nuke2v2_radar.tga",
+								"de_nuke2v2_radar.vmt",
+								"de_nuke2v2_radar.vtf"
+							]
+						},
+						"overviews": [
+							"de_nuke2v2.tga",
+							"de_nuke2v2.txt",
+							"de_nuke2v2_radar.tga",
+							"de_nuke2v2_radar.vmt",
+							"de_nuke2v2_radar.vtf"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 1132337,
+			"_nDownloadCount": 0,
+			"_nFilesize": 4570621,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1132337",
+			"_sFile": "de_nuke2v2.zip",
+			"_sMd5Checksum": "402388a32b44116ebc4a9bfc3c1ca560",
+			"_tsDateAdded": 1706912366
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 493542,
+	"_sName": "de_nuke2v2",
+	"_sText": "So this is map edit for 2v2 matches with only 1 bombsite, contains only lower parts of power station."
+}
