@@ -4,6 +4,37 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": {
+					"0": "ze_aethership_v1_1b.bsp",
+					"bosshp": [
+						"ze_aethership_v1_1b.cfg"
+					],
+					"entwatch": [
+						"ze_aethership_v1_1b.cfg"
+					],
+					"entwatch_v4": [
+						"ze_aethership_v1_1b.cfg"
+					],
+					"stripper": [
+						"ze_aethership_v1.cfg"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 1136771,
+			"_nDownloadCount": 0,
+			"_nFilesize": 96087807,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1136771",
+			"_sFile": "ze_aethership_v1_1b.zip",
+			"_sMd5Checksum": "a733fc2fc57fba1941ddf461cd979464",
+			"_tsDateAdded": 1707560969
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
 					"0": "ze_aethership_v1_1.bsp",
 					"bosshp": [
 						"ze_aethership_v1_1.cfg"
@@ -18,7 +49,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1116960,
-			"_nDownloadCount": 23,
+			"_nDownloadCount": 60,
 			"_nFilesize": 97002529,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -46,7 +77,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1074457,
-			"_nDownloadCount": 100,
+			"_nDownloadCount": 107,
 			"_nFilesize": 95733788,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -59,6 +90,30 @@
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "Fixed reflections being errors in certain parts of the map. (Some players have some issues with this). This in turn added more reflections in the map."
+				},
+				{
+					"cat": "Addition",
+					"text": "Added more decorations in some parts of the map"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added crates to \"Stairs in Room #3 Before Elevator\""
+				},
+				{
+					"cat": "Bugfix",
+					"text": "[Stripper Fix] Fixed Zombie Teleport Game Text being shown to all players."
+				}
+			],
+			"_sText": "<p>The stripper fix is included in the zip. Map will function regardless if you include the stripper or not.</p>",
+			"_sTitle": "ze_aethership_v1_1b",
+			"_sVersion": "v1_1b",
+			"_tsDateAdded": 1707561110
+		},
 		{
 			"_aChangeLog": [
 				{
@@ -146,22 +201,6 @@
 			"_sTitle": "ze_aethership_v1_1",
 			"_sVersion": "v1_1",
 			"_tsDateAdded": 1704537120
-		},
-		{
-			"_aChangeLog": [
-				{
-					"cat": "Bugfix",
-					"text": "Fixed Ending Bomb Text Display displaying a placeholder text (which is embarrassing) instead of the bomb timer."
-				},
-				{
-					"cat": "Bugfix",
-					"text": "Fixed Subtitle Text of Svarog's Introduction"
-				}
-			],
-			"_sText": "",
-			"_sTitle": "ze_aethership_v1b",
-			"_sVersion": "v1b",
-			"_tsDateAdded": 1697794786
 		}
 	],
 	"_idRow": 474381,
