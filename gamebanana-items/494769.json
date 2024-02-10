@@ -9,21 +9,46 @@
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1136207,
-			"_nDownloadCount": 0,
-			"_nFilesize": 523325,
+			"_idRow": 1136372,
+			"_nDownloadCount": 6,
+			"_nFilesize": 727068,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
-			"_sDescription": "Have fun:)",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1136207",
-			"_sFile": "fy_orville.zip",
-			"_sMd5Checksum": "35d71b3e90a1aff722ac1face50b313c",
-			"_tsDateAdded": 1707475372
+			"_sDescription": "updated.",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1136372",
+			"_sFile": "fy_orville_dac1e.zip",
+			"_sMd5Checksum": "7a4e935bfe6b61bbd689706243691041",
+			"_tsDateAdded": 1707502712
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Improvement",
+					"text": "Overall map changes such as lighting, and layout"
+				},
+				{
+					"cat": "Optimization",
+					"text": "Optimized with HINT-SKIP method"
+				},
+				{
+					"cat": "Optimization",
+					"text": "Removed gun spawns, and replaced with buyzone for further optimization"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Adjusted geometry, made it a square layout"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Patches, 02.10.2024.",
+			"_sVersion": "1.0",
+			"_tsDateAdded": 1707502910
+		}
+	],
 	"_idRow": 494769,
 	"_sName": "fy_orville",
-	"_sText": "<h1>A<i> <span class=\"RedColor\">Fight Yard</span></i> version of my w.i.p map, <span class=\"GreenColor\"><i><b>de_orville.</b></i></span></h1><br>fy_orville's theme will be implemented to de_orville.<br><br><h1>map info:</h1><ol><li>&nbsp;18 x 18 spawns</li><li>&nbsp;18 x 18 guns</li><li>&nbsp;symmetrical layout, resembles<i><span class=\"GreenColor\"> fy_snow</span></i></li><li class=\"SelectedElement\">&nbsp;bot navigation <b>100% working</b></li><li>&nbsp;radar overview&nbsp;</li><li>&nbsp;map callout</li><li>&nbsp;sunny weather</li></ol>"
+	"_sText": "<h1>A<i> <span class=\"RedColor\">Fight Yard</span></i> version of my w.i.p map, <span class=\"GreenColor\"><i><b>de_orville.</b></i></span></h1><br>fy_orville's theme will be implemented to de_orville.<br><br><h1>map info:</h1><ol><li> 18 x 18 spawns</li><li> 18 x 18 guns</li><li> symmetrical layout, resembles<i><span class=\"GreenColor\"> fy_snow</span></i></li><li class=\"SelectedElement\"> bot navigation <b>100% working</b></li><li> radar overview </li><li> map callout</li><li> sunny weather</li></ol>"
 }
