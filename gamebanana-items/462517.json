@@ -4,44 +4,48 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
-					"ze_the_parish_c5m1.bsp",
-					"ze_the_parish_c5m1.cfg"
+					"ze_the_parish_m1_v1.bsp"
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1037139,
-			"_nDownloadCount": 97,
-			"_nFilesize": 95760231,
+			"_idRow": 1137901,
+			"_nDownloadCount": 0,
+			"_nFilesize": 93722795,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1037139",
-			"_sFile": "ze_the_parish_c5m1.rar",
-			"_sMd5Checksum": "9415a8e33f1dcb6894481ba354933ac1",
-			"_tsDateAdded": 1692032622
+			"_sDownloadUrl": "https://gamebanana.com/dl/1137901",
+			"_sFile": "ze_the_parish_m1_v1.rar",
+			"_sMd5Checksum": "6a9b867bc54e7fa32a57ce46af7f6bb8",
+			"_tsDateAdded": 1707714759
 		},
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
-					"ze_the_parish_c5m1.cfg"
+					"ze_the_parish_m2_v1.bsp"
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1037380,
-			"_nDownloadCount": 29,
-			"_nFilesize": 1101,
+			"_idRow": 1137899,
+			"_nDownloadCount": 0,
+			"_nFilesize": 89385110,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
-			"_sClamAvResult": "clean",
-			"_sDescription": "latest stripper",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1037380",
-			"_sFile": "ze_the_parish_c5m1_35a69.rar",
-			"_sMd5Checksum": "07d043ea547139c11b001cb7bdb34292",
-			"_tsDateAdded": 1692062995
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1137899",
+			"_sFile": "ze_the_parish_m2_v1.rar",
+			"_sMd5Checksum": "3e4f2f01b2bef8f2a0acff3628eac3de",
+			"_tsDateAdded": 1707714756
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [],
+			"_sText": "<ul><li><p>Improving the first map</p></li><li><p>Porting the second map</p></li><li><p>Also compress the map</p></li></ul>",
+			"_sTitle": "First map improvement & porting second map",
+			"_tsDateAdded": 1707715117
+		},
 		{
 			"_aChangeLog": [
 				{
@@ -55,6 +59,6 @@
 		}
 	],
 	"_idRow": 462517,
-	"_sName": "ze_the_parish_c5m1",
-	"_sText": "<h1>Chartapilus's CSS ZE</h1><h2><a href=\"https://gamebanana.com/mods/421953\">I</a> |&nbsp;<span class=\"GreenColor\">II</span>&nbsp;|&nbsp;III&nbsp;| IV | V</h2><br><br><b>The Parish</b> from <b>Left 4 Dead 2 </b>(5th campaign), ported and modified to become zombie escape map.<br><hr><ul><li>The map is currently <b>only have the first chapter</b> of the campaign, so the gameplay is <b>less than 5 minutes</b>.</li><li>Map has a randomize path that can go for the sake of&nbsp;replayability.</li><li>We will <b>probably combine all the chapter into 1 map</b> instead.</li><li><b>No unnecessary sounds/musics are added to this port</b>, all sounds and ambient are using&nbsp; from the original map in L4D2</li></ul><hr>For the sake of the gameplay, please set the infect rate as equal to the humans alive.<br><br><span class=\"Spoiler\">note: more optimizing and improving will comes in future for better experience</span><br><br><span class=\"Spoiler\">best quotes for css ze mapping situation rn<br><img src=\"https://i.imgur.com/UGLpsGS.png\"></span><br>"
+	"_sName": "ze_the_parish",
+	"_sText": "<h1>Chartapilus's CSS ZE</h1><h2><a href=\"https://gamebanana.com/mods/421953\">I</a> |&nbsp;<span class=\"GreenColor\">II</span>&nbsp;|&nbsp;III&nbsp;| IV | V</h2><br><b>The Parish</b> from <b>Left 4 Dead 2 </b>(5th campaign), ported and modified to become zombie escape map.<br><hr><ul><li><del>The map is currently <b>only have the first chapter</b> of the campaign, so the gameplay is <b>less than 5 minutes</b>.</del></li><li>Map has a randomize path that can go for the sake of&nbsp;replayability.</li><li>I will <b>probably combine all the chapter into 1 map</b> instead.</li><li><b>No unnecessary sounds/musics are added to this port</b>, all sounds and ambient are using&nbsp; from the original map in L4D2</li></ul><hr><span class=\"Spoiler\">m1 stand for \"map 1\" and v is version of the map</span><br><br>Possible challenge for this maps:<br>-TMP &amp; pump Shotgun ONLY<br>-50% infect rate<br>"
 }
