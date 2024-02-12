@@ -9,7 +9,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1094925,
-			"_nDownloadCount": 2,
+			"_nDownloadCount": 38,
 			"_nFilesize": 55775149,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -19,9 +19,36 @@
 			"_sFile": "ze_surf_sparks_v3_f3.zip",
 			"_sMd5Checksum": "1d6d5ecd68288049e2e7ed7648a4a291",
 			"_tsDateAdded": 1701266537
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ze_surf_sparks_v3_f4.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 1138150,
+			"_nDownloadCount": 0,
+			"_nFilesize": 56604846,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "New fix version 0.4",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1138150",
+			"_sFile": "ze_surf_sparks_v3_f4.zip",
+			"_sMd5Checksum": "e5591103e20ba192ac68fec982145726",
+			"_tsDateAdded": 1707756106
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [],
+			"_sText": "<p><strong>\"ze_surf_sparks_v3_f4\"</strong></p><p>- add particle node on final lasers</p><p>- added trigger for saving people (5 seconds from zombie trigger)</p><p>- removed a glitch on one grass (it suddenly appeared when the player was in its radius)</p><p>- changed the last slide, made it more difficult, but all people are still teleported</p>",
+			"_sTitle": "Fixed bugs and more",
+			"_sVersion": "0.4",
+			"_tsDateAdded": 1707756268
+		}
+	],
 	"_idRow": 481537,
 	"_sName": "ze_surf_sparks",
 	"_sText": "Originally created for the '<b>sex with bhop</b>' server. <br><br>I want to highlight the original map's author that I re-creating – <b>surf_aura</b> by <b>ApeXe</b>. This cozy surf map is a perfect addition to any server. <br><br>Laser elements are featured on the map for added excitement."
