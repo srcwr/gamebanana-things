@@ -4,6 +4,42 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": {
+					"0": "INSTRUCTIONS.txt",
+					"maps": [
+						"de_dustwar.bsp",
+						"de_dustwar.nav"
+					],
+					"materials": {
+						"overviews": [
+							"de_dustwar.vmt",
+							"de_dustwar.vtf",
+							"de_dustwar_radar.vmt"
+						]
+					},
+					"resource": [
+						"de_dustwar.txt",
+						"de_dustwar.vmt",
+						"de_dustwar.vtf",
+						"de_dustwar_radar.vmt"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 1138663,
+			"_nDownloadCount": 0,
+			"_nFilesize": 1734993,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "Latest Version (Reccomended)",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1138663",
+			"_sFile": "de_dustwar_f407f.rar",
+			"_sMd5Checksum": "201f4f4c065ac7b12cd229e1d38fef7b",
+			"_tsDateAdded": 1707830931
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
 					"de_dustwar": {
 						"maps": [
 							"de_dustwar.bsp",
@@ -16,21 +52,34 @@
 				}
 			},
 			"_bContainsExe": false,
-			"_idRow": 1105425,
-			"_nDownloadCount": 46,
+			"_idRow": 1138664,
+			"_nDownloadCount": 0,
 			"_nFilesize": 1141807,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
-			"_sDescription": "Latest version",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1105425",
-			"_sFile": "de_dustwar.rar",
+			"_sDescription": "Old version",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1138664",
+			"_sFile": "de_dustwar_1719a.rar",
 			"_sMd5Checksum": "185f8097bcc594204a5c7a2691312d58",
-			"_tsDateAdded": 1702996618
+			"_tsDateAdded": 1707831009
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Improvement",
+					"text": "New Lighting, Graphic Improvements, Adjusted Shadows, Added Overview(Radar)"
+				}
+			],
+			"_sText": "<p>+Added Old version Download</p>",
+			"_sTitle": "Major Update",
+			"_sVersion": "0.2",
+			"_tsDateAdded": 1707831124
+		}
+	],
 	"_idRow": 484915,
 	"_sName": "de_dustwar",
-	"_sText": "<h1><b>de_dustwar&nbsp;</b></h1><span class=\"GreenColor\">Good stuff about this map:</span><br>-map supports 30 players max<br>-realistic stuff (sounds)<br><br><b>de_dust war story:</b><br>&nbsp;After <b>dust 2</b> bombing was a succes, <span class=\"RedColor\">terrorists</span> have decided to bomb the <span class=\"GreenColor\">counter-terrorists</span> supply base in the far deserts secretly. The <span class=\"GreenColor\">counter-terrorists </span>&nbsp;saw the situation and immediatly call a backup and ready up for a <span class=\"RedColor\">war</span> with <span class=\"RedColor\">terrorists</span>.<br><br><h2 class=\"SelectedElement\">A <i>free roam map</i> that is dust themed</h2><br>If you encounter any bugs, then pls inform me by typing in the chat<br><br>"
+	"_sText": "<h1>Dustwar</h1><br><h1>A simple, oldschool type dust themed map with dunes and terrains.</h1><ul><li>Supports 30 players max (15CT + 15T)</li><li>Has an overview (Radar/minimap)</li><li>Realistic Ambience</li></ul><ol><li class=\"SelectedElement\">If you encounter any bugs, please let me know in the comments</li><li class=\"SelectedElement\">Feel free to run this map on your servers</li><li class=\"SelectedElement\">Enjoy the map! :D<br><hr></li></ol>"
 }
