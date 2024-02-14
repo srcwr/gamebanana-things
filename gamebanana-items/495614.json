@@ -2,20 +2,59 @@
 	"_aAlternateFileSources": null,
 	"_aFiles": [
 		{
-			"_aMetadata": [],
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"de_balance": {
+						"maps": [
+							"de_balance.bsp",
+							"de_balance.nav"
+						],
+						"sources": [
+							"de_balance.vmf"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
 			"_idRow": 1138966,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 8,
 			"_nFilesize": 999741,
-			"_sAnalysisState": "pending",
-			"_sDescription": "",
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "Version 1",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1138966",
 			"_sFile": "de_balance.zip",
 			"_sMd5Checksum": "f2c3d8749eb0a10747f015425fa946ef",
 			"_tsDateAdded": 1707875710
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"de_balance": {
+						"maps": [
+							"de_balance.bsp",
+							"de_balance.nav"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 1139191,
+			"_nDownloadCount": 0,
+			"_nFilesize": 1026394,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "Version 2",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1139191",
+			"_sFile": "de_balance_a2eb3.zip",
+			"_sMd5Checksum": "50f75ec6c60b55bb3f66b1654ddb7cca",
+			"_tsDateAdded": 1707921510
 		}
 	],
 	"_aLatestUpdates": [],
 	"_idRow": 495614,
 	"_sName": "de_balance",
-	"_sText": "<h1>My second map, type in comments if you want me to fix or add something.</h1>Bomb defuse map, named de_balance. Please, credit me if you will post it anywhere (port, remake or even just reupload)<br><br><br><span class=\"Spoiler SelectedElement\">Fun fact: I don't know is there any balance, I just named it like this because this is the first thing that comes to my head.</span><br>"
+	"_sText": "<h1>My second map, type in comments if you want me to fix or add something.</h1>Bomb defuse map, named de_balance. Please, credit me if you will post it anywhere (port, remake or even just reupload)<br><br><span class=\"Spoiler SelectedElement\">Fun fact: I don't know is there any balance, I just named it like this because this is the first thing that comes to my head.</span><br>"
 }
