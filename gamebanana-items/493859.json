@@ -10,19 +10,56 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1133270,
-			"_nDownloadCount": 120,
+			"_nDownloadCount": 162,
 			"_nFilesize": 4239718,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
-			"_sDescription": "",
+			"_sDescription": "Old version",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1133270",
 			"_sFile": "coop_sp_psychohouse.rar",
 			"_sMd5Checksum": "bb105457025151f56f51b9d412b09bca",
 			"_tsDateAdded": 1707047753
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"Instructions.txt",
+					"coop_sp_psychohouse_v2.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 1143314,
+			"_nDownloadCount": 0,
+			"_nFilesize": 4216853,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "Better version",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1143314",
+			"_sFile": "coop_sp_psychohouse_v2.rar",
+			"_sMd5Checksum": "36baf63c7e1bd47e56d00a8d1372d582",
+			"_tsDateAdded": 1708518159
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Removal",
+					"text": "No time limit"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added glock terrorists when BS mode is activated"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "coop_sp_psychohouse_v2",
+			"_sVersion": "2",
+			"_tsDateAdded": 1708518459
+		}
+	],
 	"_idRow": 493859,
 	"_sName": "CO-OP/Single player: Psychohouse",
 	"_sText": "Story: CTs have arrived to a strange farm, that has knife wielding pshychopaths... CTs must find a way out of the farm somehow. <br><br>Max players: 5 CTs and 59 terrorist.<br><br>How to play: Set round limit to max. Enable flashlight. Make sure that bots are using knifes only. Set number of bots to 65 if you want maximum challenge AND put bot difficulty to normal or easy. Buy zone is enabled if hard mode or bs mode is activated.<br>DON'T join to terrorist side. Pick up weapons, health and ammo packs.<br><br>No plugins required.<br>"
