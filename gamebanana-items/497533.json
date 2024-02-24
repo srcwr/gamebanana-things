@@ -2,11 +2,18 @@
 	"_aAlternateFileSources": null,
 	"_aFiles": [
 		{
-			"_aMetadata": [],
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"bhop_west.bsp"
+				]
+			},
+			"_bContainsExe": false,
 			"_idRow": 1145028,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 5,
 			"_nFilesize": 16925532,
-			"_sAnalysisState": "pending",
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1145028",
 			"_sFile": "bhop_west.zip",
