@@ -10,10 +10,11 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1144204,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 8,
 			"_nFilesize": 9878908,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1144204",
 			"_sFile": "hns_lobby.zip",
@@ -21,7 +22,48 @@
 			"_tsDateAdded": 1708647143
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Added new area replacing where the map selection platform was in the HNS Event"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added 3D Skybox"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added secret to said area^"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added Radar"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Improved dustomotes"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Added clipping to all surfs"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Rearranged 260 block surf"
+				},
+				{
+					"cat": "Amendment",
+					"text": "Properly clipped extrusions on the central water tower"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "hns_lobby_fdev",
+			"_sVersion": "2",
+			"_tsDateAdded": 1708651587
+		}
+	],
 	"_idRow": 497278,
 	"_sName": "hns_lobby",
 	"_sText": "<h1>[<b>Expanded and Improved</b>]</h1><i class=\"SelectedElement\">Based on the original lobby area I created for a HNS Multi-Map Event.</i>"

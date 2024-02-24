@@ -4,6 +4,34 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": {
+					"0": "ze_laboratory_escape_v2_4c_final.bsp",
+					"bosshp": [
+						"ze_laboratory_escape_v2_4c_final.cfg"
+					],
+					"entwatch": [
+						"ze_laboratory_escape_v2_4c_final.cfg"
+					],
+					"entwatchv4": [
+						"ze_laboratory_escape_v2_4c_final.cfg"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 1144958,
+			"_nDownloadCount": 0,
+			"_nFilesize": 58678946,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1144958",
+			"_sFile": "ze_laboratory_escape_v2_4c_final.zip",
+			"_sMd5Checksum": "a7e9a92de42535ae1d0ed89610768240",
+			"_tsDateAdded": 1708757372
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
 					"0": "ze_laboratory_escape_v2_4b_final.bsp",
 					"bosshp": [
 						"ze_laboratory_escape_v2_4b_final.cfg"
@@ -21,7 +49,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 993780,
-			"_nDownloadCount": 38,
+			"_nDownloadCount": 57,
 			"_nFilesize": 58686000,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -33,7 +61,72 @@
 			"_tsDateAdded": 1685729206
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "Applied all stripper fixes from v2_4b. This means you no longer need a stripper to play the map."
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed a client crash in the map due to an M249 sound being packed in."
+				},
+				{
+					"cat": "Addition",
+					"text": "Added more decoration in stage 2."
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Made a breakable wall in stage 2 more visible."
+				},
+				{
+					"cat": "Improvement",
+					"text": "Added HDR lighting."
+				},
+				{
+					"cat": "Improvement",
+					"text": "Overall improved lighting."
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Increased the radius of the grenade launcher projectile to be 256 units in diameter (from 128)"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed point-blank shooting of the shotgun not pushing nor damaging zombies"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Increased the push of the shotgun to 700u/s (from 625u/s)"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed the ending of RTV stage killing humans too."
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed radar being tinted green on alive players."
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed Extreme 2 and Extreme Insanity not having any music in the beginning what so ever."
+				},
+				{
+					"cat": "Addition",
+					"text": "Added back Henry to the credits list."
+				},
+				{
+					"cat": "Feature",
+					"text": "Now includes decompiled technology (I lost the original VMF)"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "ze_laboratory_escape_v2_4c_final",
+			"_sVersion": "v2_4c_final",
+			"_tsDateAdded": 1708757304
+		}
+	],
 	"_idRow": 447596,
 	"_sName": "ZE Laboratory Escape [Final Version]",
 	"_sText": "<span class=\"Spoiler\"><del>I don't even know what to type here. I guess.....</del></span><br><br><span class=\"GreenColor\"></span><span class=\"RedColor\">\"An unknown force has set hold in the laboratory. Make your way to the surface and destroy the laboratory and escape before you die!\"<br></span><br>Map by <span class=\"GreenColor\">Pasas1345</span><br>Boss model from <span class=\"GreenColor\">StarCraft II</span><br>Some Textures by <span class=\"GreenColor\">TopHATTWaffle</span><br><b><br><span class=\"RedColor\">There is a Stripper Fix included with the since there are some bug-fixes (some are game-breaking) and balance changes. If you are going to offline this map no need but for servers it is necessary.</span></b><br><br>Originally created around 2018-2019. This used to be my first serious map and was in a much worse but now is in a state where I can upload this (and also have the courage to upload it here). Since this is a final version, I won't be touching this map anytime soon with major updates.<br><br><span class=\"GreenColor\"><b>Includes</b></span><br><ul><li>4 main stages (2 normal and 2 extreme)<br></li><li>1 extra stage (and maybe another if you even count that as a stage?)</li><li>Boss</li><li>Lasers (Kind of, most don't instakill and only one is)</li><li class=\"SelectedElement\">9 Items</li><li class=\"SelectedElement\">3 types of NPCs\t</li></ul><b><br><u>I hope you enjoy!</u></b><br><br>"
