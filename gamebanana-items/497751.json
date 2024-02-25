@@ -4,25 +4,37 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
-					"bhop_sizzorice_b3.bsp"
+					"bhop_sizzorice_b5.bsp"
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1145781,
+			"_idRow": 1145820,
 			"_nDownloadCount": 0,
-			"_nFilesize": 1745228,
+			"_nFilesize": 1618780,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
-			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1145781",
-			"_sFile": "bhop_sizzorice_b3.rar",
-			"_sMd5Checksum": "1f329e6e5439d15084919d253ff54715",
-			"_tsDateAdded": 1708870454
+			"_sDownloadUrl": "https://gamebanana.com/dl/1145820",
+			"_sFile": "bhop_sizzorice_b5.rar",
+			"_sMd5Checksum": "321985b61b74cbd2387265eddbcc4633",
+			"_tsDateAdded": 1708876297
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "",
+					"text": "3d skybox should work now"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "",
+			"_sVersion": "b5",
+			"_tsDateAdded": 1708876510
+		}
+	],
 	"_idRow": 497751,
-	"_sName": "bhop_sizzorice_b3",
-	"_sText": "Short, pretty easy map. It's done but i'm releasing as a beta because the 3d skybox doesn't work <br>"
+	"_sName": "bhop_sizzorice",
+	"_sText": "Short and pretty easy. New to bhop and bhop mapping so lemme know what you think. if it sucks you can say so !<br>"
 }
