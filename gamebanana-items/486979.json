@@ -15,7 +15,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1111920,
-			"_nDownloadCount": 24,
+			"_nDownloadCount": 101,
 			"_nFilesize": 125560810,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -25,9 +25,42 @@
 			"_sFile": "jb_summer_jail_v6_8c13c.7z",
 			"_sMd5Checksum": "5b6bced89d3dfee02d1966bee0eafdd7",
 			"_tsDateAdded": 1703865348
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ReadMe.txt",
+					"jb_new_summer_v6_res1.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 1145916,
+			"_nDownloadCount": 0,
+			"_nFilesize": 47688970,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1145916",
+			"_sFile": "jb_new_summer_v6_res1.7z",
+			"_sMd5Checksum": "969068d4d204f7370ff703751f52f566",
+			"_tsDateAdded": 1708887923
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "There are no bugs in this version, everything works correctly."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "jb_new_summer_v6_res1",
+			"_sVersion": "2.0",
+			"_tsDateAdded": 1708887823
+		}
+	],
 	"_idRow": 486979,
 	"_sName": "jb_summer_jail_v6",
 	"_sText": "<b>jb_summer_jail_v6</b> is an enhanced version which allows you to explore new games and uncover thrilling secrets.<br><br>The balance between Counter-Terrorists and Terrorists has been significantly adjusted.<br><br>Now prisoners have more rebellion variations but in the same time prisonguards have new some additional means to confront the rebel.<br><br>Furthermore, an annoying explosion was deleted from this map, ensuring an uninterrupted and immersive gaming experience for everyone.<br><br><b><span class=\"RedColor\">!!!You can play on the xmas version, but it may be unstable!!!</span></b><br><br><i>Credits: energetic $@@@time!<br><br>Steam: <a href=\"https://steamcommunity.com/profiles/76561197996532121/badges\" previewlistener=\"true\" target=\"_blank\">click here.</a><br><br>Discord: energetic_time<br><br>https://discord.gg/centralka<br></i><br>"
