@@ -2,11 +2,19 @@
 	"_aAlternateFileSources": null,
 	"_aFiles": [
 		{
-			"_aMetadata": [],
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ka_stabsquare_v1.bsp",
+					"obligatory README.txt"
+				]
+			},
+			"_bContainsExe": false,
 			"_idRow": 1145615,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 4,
 			"_nFilesize": 236350,
-			"_sAnalysisState": "pending",
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1145615",
 			"_sFile": "ka_stabsquare_v1.zip",
@@ -17,5 +25,5 @@
 	"_aLatestUpdates": [],
 	"_idRow": 497704,
 	"_sName": "ka_stabsquare_v1",
-	"_sText": "Hello!<br><br>This is my first \"professional\" map!<br><br>This map features a central, unfinished 2 story building, where the action takes places. The map has plenty of fun places to stab people from, you could sneak up behind them; use the building to flank them; drop out of nowhere; charge right in; or get them from around a corner, just try and experiment and stuff.<br><br><br>Check the screenshots for more info!"
+	"_sText": "Hello!<br><br>This is my first \"professional\" map!<br><br>This map features a central, unfinished 2 story building, where the action takes places. The map has plenty of fun places to stab people from, you could sneak up behind them; use the building to flank them; drop out of nowhere; charge right in; or get them from around a corner, just try and experiment and stuff.<br><br>Check the screenshots for more info!"
 }
