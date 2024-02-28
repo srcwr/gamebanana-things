@@ -9,11 +9,12 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1147548,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 1,
 			"_nFilesize": 507060,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
-			"_sDescription": "less bright version",
+			"_sClamAvResult": "clean",
+			"_sDescription": "fixed to be less bright",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1147548",
 			"_sFile": "bhop_kaleidoscope_v2.rar",
 			"_sMd5Checksum": "d9eaa0c8c8a93f6bb19dd361ec946610",
@@ -26,55 +27,17 @@
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1147529,
+			"_idRow": 1147570,
 			"_nDownloadCount": 0,
-			"_nFilesize": 603437,
+			"_nFilesize": 614824,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
-			"_sDescription": "less bright version for momentum key havers",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1147529",
-			"_sFile": "bhop_kaleidoscope_mom_v2.rar",
-			"_sMd5Checksum": "874b2ce0f89b2a27a978cd4e98e1b17e",
-			"_tsDateAdded": 1709146179
-		},
-		{
-			"_aMetadata": {
-				"_aArchiveFileTree": [
-					"bhop_kaleidoscope_mom.bsp"
-				]
-			},
-			"_bContainsExe": false,
-			"_idRow": 1147244,
-			"_nDownloadCount": 2,
-			"_nFilesize": 469546,
-			"_sAnalysisResult": "File passed analysis",
-			"_sAnalysisState": "done",
-			"_sClamAvResult": "clean",
-			"_sDescription": "momentum key havers use this one",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1147244",
-			"_sFile": "bhop_kaleidoscope_mom.rar",
-			"_sMd5Checksum": "f844ba777531d4eccd719ad48ae5213a",
-			"_tsDateAdded": 1709092443
-		},
-		{
-			"_aMetadata": {
-				"_aArchiveFileTree": [
-					"bhop_kaleidoscope.bsp"
-				]
-			},
-			"_bContainsExe": false,
-			"_idRow": 1147174,
-			"_nDownloadCount": 4,
-			"_nFilesize": 402177,
-			"_sAnalysisResult": "File passed analysis",
-			"_sAnalysisState": "done",
-			"_sClamAvResult": "clean",
-			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1147174",
-			"_sFile": "bhop_kaleidoscope.rar",
-			"_sMd5Checksum": "dc68c2f66bef5267e267660af4c4e900",
-			"_tsDateAdded": 1709080365
+			"_sDescription": "fixed , for momentum playtest",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1147570",
+			"_sFile": "bhop_kaleidoscope_mom_v2_1a344.rar",
+			"_sMd5Checksum": "b5cb3b8756b1a372b3aa317d11e1145a",
+			"_tsDateAdded": 1709153734
 		}
 	],
 	"_aLatestUpdates": [],
