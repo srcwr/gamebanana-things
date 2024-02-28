@@ -9,7 +9,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1147594,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 1,
 			"_nFilesize": 509526,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -23,25 +23,24 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
-					"bhop_kaleidoscope_mom_v2.bsp"
+					"bhop_kaleidoscope_mom_v3.bsp"
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1147570,
+			"_idRow": 1147626,
 			"_nDownloadCount": 0,
-			"_nFilesize": 614824,
+			"_nFilesize": 573040,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
-			"_sClamAvResult": "clean",
-			"_sDescription": "fixed , for momentum playtest",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1147570",
-			"_sFile": "bhop_kaleidoscope_mom_v2_1a344.rar",
-			"_sMd5Checksum": "b5cb3b8756b1a372b3aa317d11e1145a",
-			"_tsDateAdded": 1709153734
+			"_sDescription": "for momentum playtest",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1147626",
+			"_sFile": "bhop_kaleidoscope_mom_v3.rar",
+			"_sMd5Checksum": "b59c09f5e69b8f3db78652b2cb59f6a5",
+			"_tsDateAdded": 1709161923
 		}
 	],
 	"_aLatestUpdates": [],
 	"_idRow": 498176,
 	"_sName": "bhop_kaleidoscope",
-	"_sText": "Short linear bhop map, very easy. <br>"
+	"_sText": "Short linear bhop map, very easy. <br><br>its pretty bright, i recommend you turn your game brightness down<br>"
 }
