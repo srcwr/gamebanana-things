@@ -4,24 +4,47 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
-					"ze_rooftop_rogue_v1_3.bsp"
+					"ze_rooftop_rogue_v1_4.bsp"
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1013202,
-			"_nDownloadCount": 107,
-			"_nFilesize": 163379382,
+			"_idRow": 1147634,
+			"_nDownloadCount": 0,
+			"_nFilesize": 161279307,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1013202",
-			"_sFile": "ze_rooftop_rogue_v1_3.zip",
-			"_sMd5Checksum": "f26714457466f6db6fb359739d0023e8",
-			"_tsDateAdded": 1688467684
+			"_sDownloadUrl": "https://gamebanana.com/dl/1147634",
+			"_sFile": "ze_rooftop_rogue_v1_4.zip",
+			"_sMd5Checksum": "df7cb5c358fb58dcd0b78590a4ab2064",
+			"_tsDateAdded": 1709163039
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Adjustment",
+					"text": "adjusted some defence point duration"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "adjusted some afk teleport time"
+				},
+				{
+					"cat": "Improvement",
+					"text": "small visual improvements"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "removed collision from models that parented with func_door_rotating"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "v1_4",
+			"_tsDateAdded": 1709163960
+		},
 		{
 			"_aChangeLog": [
 				{
@@ -44,24 +67,9 @@
 			"_sText": "",
 			"_sTitle": "v1_3",
 			"_tsDateAdded": 1688476574
-		},
-		{
-			"_aChangeLog": [
-				{
-					"cat": "Addition",
-					"text": "added a defense point to stage4"
-				},
-				{
-					"cat": "Bugfix",
-					"text": "fixed player getting stuck in doors"
-				}
-			],
-			"_sText": "",
-			"_sTitle": "v1_2",
-			"_tsDateAdded": 1686226853
 		}
 	],
 	"_idRow": 448447,
-	"_sName": "ze_rooftop_rogue_v1_3",
+	"_sName": "ze_rooftop_rogue_v1_4",
 	"_sText": "casual zombie escape map<br>4stages / no item / no boss fight<br><br>recommend turning on fall damage<br>"
 }
