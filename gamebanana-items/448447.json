@@ -9,7 +9,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1147634,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 1,
 			"_nFilesize": 161279307,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -33,12 +33,12 @@
 					"text": "adjusted some afk teleport time"
 				},
 				{
-					"cat": "Improvement",
-					"text": "small visual improvements"
+					"cat": "Bugfix",
+					"text": "fixed door stuck (experimental solution)"
 				},
 				{
-					"cat": "Bugfix",
-					"text": "removed collision from models that parented with func_door_rotating"
+					"cat": "Improvement",
+					"text": "small visual improvements"
 				}
 			],
 			"_sText": "",
