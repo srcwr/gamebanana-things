@@ -39,6 +39,22 @@
 		{
 			"_aChangeLog": [
 				{
+					"cat": "Bugfix",
+					"text": "Fixed the water pillar that was sticking out of the ground"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Some doors were giving off loop mooving sounds constantly. I've fixed this as well."
+				}
+			],
+			"_sText": "<p>Fixed a few bugs with the map. Due to it's size and ammount of information, the ammount of bots you can have will be limited. Not sure about the player count. </p>",
+			"_sTitle": "aim_Wintermaze_2016_VX",
+			"_sVersion": "1.04",
+			"_tsDateAdded": 1709221242
+		},
+		{
+			"_aChangeLog": [
+				{
 					"cat": "Removal",
 					"text": "Had to remove even more props due to map not working with bots in a multiplayer setting."
 				}
@@ -47,18 +63,6 @@
 			"_sTitle": "aim_Wintermaze_2016_VX",
 			"_sVersion": "1.03",
 			"_tsDateAdded": 1708793446
-		},
-		{
-			"_aChangeLog": [
-				{
-					"cat": "Removal",
-					"text": "Had to remove several small props in order to free up edicts, so that the .bsp doesn't crash."
-				}
-			],
-			"_sText": "<p>Removed some small props, now the map should be working...</p>",
-			"_sTitle": "aim_Wintermaze_2016_VX",
-			"_sVersion": "1.02",
-			"_tsDateAdded": 1707574773
 		}
 	],
 	"_idRow": 490045,
