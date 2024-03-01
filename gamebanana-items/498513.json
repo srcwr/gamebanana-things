@@ -2,11 +2,18 @@
 	"_aAlternateFileSources": null,
 	"_aFiles": [
 		{
-			"_aMetadata": [],
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"bhop_floodwaters.bsp"
+				]
+			},
+			"_bContainsExe": false,
 			"_idRow": 1148269,
 			"_nDownloadCount": 0,
 			"_nFilesize": 23584036,
-			"_sAnalysisState": "pending",
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1148269",
 			"_sFile": "bhop_floodwaters.zip",
@@ -16,6 +23,6 @@
 	],
 	"_aLatestUpdates": [],
 	"_idRow": 498513,
-	"_sName": "bhop_floodwaters",
-	"_sText": "This is a full port of bhop_floodwaters<br><br>triggers will reset after you hit the booster trigger second round i don't know if theres a better way to do this like MM Mod has. Any help is&nbsp;appreciated"
+	"_sName": "bhop_floodwaters (Unfinished Triggers)",
+	"_sText": "This is a full port of bhop_floodwaters version 0.2 (Unfinished) WiP<br><br>triggers will reset after you hit the booster trigger second round i don't know if theres a better way to do this like MM Mod has. Any help is&nbsp;appreciated<br><br>I might need to add functions for if you dont go throught all the \"numbers\" the end will not let you finish i think"
 }
