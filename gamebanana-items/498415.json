@@ -8,20 +8,33 @@
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1147973,
-			"_nDownloadCount": 15,
-			"_nFilesize": 258275181,
+			"_idRow": 1148720,
+			"_nDownloadCount": 0,
+			"_nFilesize": 258309142,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1147973",
-			"_sFile": "kz_bhop_genkai.zip",
-			"_sMd5Checksum": "47cd1393dad4ca5b1ecc089c9e29247d",
-			"_tsDateAdded": 1709235532
+			"_sDownloadUrl": "https://gamebanana.com/dl/1148720",
+			"_sFile": "kz_bhop_genkai_101.zip",
+			"_sMd5Checksum": "a21c8a419bc0d855b640d63d10897186",
+			"_tsDateAdded": 1709347664
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Adjustment",
+					"text": "Fix wall of text typo"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "",
+			"_sVersion": "1.0.1",
+			"_tsDateAdded": 1709347718
+		}
+	],
 	"_idRow": 498415,
 	"_sName": "kz_bhop_genkai",
 	"_sText": "\"Awe is the grail of artistic achievement\"<br><br>A map 9 months in the making.<br>It is made for scroll. <br>You WILL NOT be able to finish it on auto or low gravity.<br><br>Main route is very difficult, every stage was playtested and done by me and neko.<br>Bonus 1 is easy and can be played by anyone.<br>Bonus 2 is insanely hard, but theoretically possible.<br><br><ul><li>When setting up zones on a timer, use !showtriggers to see where they should be placed.</li><li>This map was intended to be played WITHOUT cj macro. All 64 jumps are possible without it.</li><li>This map was designed with eventqueuefix in mind, do not use boosterfix as it is outdated.</li><li>This map was designed with no rngfix in mind. It will make kz slopes worse in some places.</li><li>This map was not compressed with bspzip because it caused game freezes on soundscape changes.</li><li>Avoid triggering round restart on a server, as it will cause a crash because of edicts limit. You will understand once you see the size of the map.</li></ul><br>Track list is inside the bsp in case you need it.<br>"
