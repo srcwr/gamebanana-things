@@ -1,0 +1,28 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"bhop_theory_v2.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 1150721,
+			"_nDownloadCount": 0,
+			"_nFilesize": 10686708,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1150721",
+			"_sFile": "bhop_theory_v2.zip",
+			"_sMd5Checksum": "5db6236a493dbae47cfed2c5d13d5b43",
+			"_tsDateAdded": 1709667112
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 499241,
+	"_sName": "bhop_theory_v2",
+	"_sText": "Some new theories, map has 14 old stages from <a href=\"https://gamebanana.com/mods/398999\">bhop_theory</a> and 8 new stages. Make sure your server doesn't have headbugfix. Some stages might not be possible without landfix, so keep it on. 1st stage is slightly rng (thanks rngfix). Fixed gameplay on one stage, made it more consistent. Fixed some visual bugs that no one will notice. Improved graphics overall.<br><br>Please don't share solutions on how to complete this <br><br>Map is not recommended now to play in momentum mod, you will need to toggle some fixes between stages, but you can still try with these commands:<br><i><span class=\"GreenColor SelectedElement\">sv_cheats 1;mom_mv_fix_duck_collision 0;mom_mv_fix_nojump_slope_boosts 0;mom_mv_fix_edges 0;mom_mv_normalize_jump_height 0;mom_mv_snap_to_ground 0</span></i><br>"
+}
