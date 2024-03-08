@@ -5,28 +5,48 @@
 			"_aMetadata": {
 				"_aArchiveFileTree": {
 					"zm_CargoShip": [
-						"zm_CargoShip_v1D.bsp",
-						"zm_CargoShip_v1N.bsp",
-						"zm_CargoShip_v1W.bsp"
+						"zm_CargoShip_v2D.bsp",
+						"zm_CargoShip_v2E.bsp",
+						"zm_CargoShip_v2N.bsp",
+						"zm_CargoShip_v2W.bsp"
 					]
 				}
 			},
 			"_bContainsExe": false,
-			"_idRow": 871075,
-			"_nDownloadCount": 625,
-			"_nFilesize": 78893909,
+			"_idRow": 1152140,
+			"_nDownloadCount": 0,
+			"_nFilesize": 139218603,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
-			"_sClamAvResult": "clean",
-			"_sDescription": "zm_Cargoship",
-			"_sDownloadUrl": "https://gamebanana.com/dl/871075",
-			"_sFile": "zm_cargoship.7z",
-			"_sMd5Checksum": "5579b834ef4e05b35c42a7f01dda1c5a",
-			"_tsDateAdded": 1664688411
+			"_sDescription": "zm_CargoShip",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1152140",
+			"_sFile": "zm_cargoship_cfe13.7z",
+			"_sMd5Checksum": "2ab5396ad4e1958f11de4e89d76b8b2b",
+			"_tsDateAdded": 1709905929
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Add evening version"
+				},
+				{
+					"cat": "Addition",
+					"text": "New particles for rain"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Better detalization"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "v2.0",
+			"_tsDateAdded": 1709906621
+		}
+	],
 	"_idRow": 404673,
 	"_sName": "zm_CargoShip",
-	"_sText": "The location from COD4. Map has three versions: daytime, night and rainy."
+	"_sText": "The location from COD4 (mp_wetwork).&nbsp;Map has four versions: daytime, evening, foggy and night with rain."
 }
