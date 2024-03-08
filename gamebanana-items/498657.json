@@ -22,11 +22,19 @@
 			"_tsDateAdded": 1709364577
 		},
 		{
-			"_aMetadata": [],
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ze_surf_inboxed_s512_v3.bsp"
+				]
+			},
+			"_bContainsExe": false,
 			"_idRow": 1152174,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 1,
 			"_nFilesize": 49514664,
-			"_sAnalysisState": "pending",
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
 			"_sDescription": "new version",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1152174",
 			"_sFile": "ze_surf_inboxed_s512_v3_new.rar",
