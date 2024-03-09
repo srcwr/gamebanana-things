@@ -5,27 +5,38 @@
 			"_aMetadata": {
 				"_aArchiveFileTree": [
 					"readme.txt",
-					"zm_pollution_v1.bsp",
-					"zm_pollution_v1.nav"
+					"zm_pollution_v1_1.bsp",
+					"zm_pollution_v1_1.nav"
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1152864,
+			"_idRow": 1152910,
 			"_nDownloadCount": 0,
-			"_nFilesize": 8189745,
+			"_nFilesize": 8156619,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
-			"_sAvastAvResult": "clean",
-			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1152864",
-			"_sFile": "zm_pollution_v1.rar",
-			"_sMd5Checksum": "634c291347cb1c066ba3e4dcb4cdc9ab",
-			"_tsDateAdded": 1710012426
+			"_sDownloadUrl": "https://gamebanana.com/dl/1152910",
+			"_sFile": "zm_pollution_v1_1_67332.rar",
+			"_sMd5Checksum": "45cda22bab6756673ddb0813893bccfe",
+			"_tsDateAdded": 1710017303
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "",
+					"text": "Fixed displacement issue"
+				}
+			],
+			"_sText": "<p>Thanks to Raider Wesley for reporting the issue!</p>",
+			"_sTitle": "zm_pollution_v1_1",
+			"_sVersion": "1.1",
+			"_tsDateAdded": 1710017275
+		}
+	],
 	"_idRow": 499959,
 	"_sName": "zm_pollution",
-	"_sText": "zm_pollution_v1<br><br><br>Polluted industrial area, with thick smoky atmosphere. 70 something spawnpoints for zombiemod servers. Been working on this map on and off since September last year, and finally it's ready. I haven't made a zombie mod map in years, so Im sure I'll end up having to release a 2nd version later. Let me know if improvements are needed.<br>"
+	"_sText": "zm_pollution_v1<br><br>Polluted industrial area, with thick smoky atmosphere. 70 something spawnpoints for zombiemod servers. Been working on this map on and off since September last year, and finally it's ready. I haven't made a zombie mod map in years, so Im sure I'll end up having to release a 2nd version later. Let me know if improvements are needed.<br>"
 }
