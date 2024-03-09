@@ -10,10 +10,12 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1152311,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 4,
 			"_nFilesize": 2154762,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1152311",
 			"_sFile": "hns_rv_esip1.zip",
@@ -21,8 +23,21 @@
 			"_tsDateAdded": 1709934164
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Overhaul",
+					"text": "Entire Map Overhauled, only area unchanged is the basement"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "hns_rv_esip1",
+			"_sVersion": "2",
+			"_tsDateAdded": 1709934526
+		}
+	],
 	"_idRow": 499748,
 	"_sName": "hns_rv_esip",
-	"_sText": "A heavily modified version of the original hns_esip from 2018 (<a href=\"https://steamcommunity.com/sharedfiles/filedetails/?l=ukrainian&amp;id=1518720473\">Майстерня Steam::hns_esip (steamcommunity.com)</a>)"
+	"_sText": "A heavily modified version of the original hns_esip from 2018 (<a href=\"https://steamcommunity.com/sharedfiles/filedetails/?l=ukrainian&id=1518720473\">Майстерня Steam::hns_esip (steamcommunity.com)</a>)"
 }
