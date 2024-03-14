@@ -12,7 +12,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1033327,
-			"_nDownloadCount": 8,
+			"_nDownloadCount": 23,
 			"_nFilesize": 77972,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -34,7 +34,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1045594,
-			"_nDownloadCount": 4,
+			"_nDownloadCount": 14,
 			"_nFilesize": 80224,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -44,9 +44,56 @@
 			"_sFile": "de_city20.rar",
 			"_sMd5Checksum": "cbbc6a7d5708de679b8644dc2a1af3cb",
 			"_tsDateAdded": 1693228233
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"maps": [
+						"de_city_d.bsp",
+						"de_city_d.nav"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 1155575,
+			"_nDownloadCount": 0,
+			"_nFilesize": 104991,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
+			"_sDescription": "2.5 BETA",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1155575",
+			"_sFile": "city25beta.zip",
+			"_sMd5Checksum": "30ba579e42b91c621d23034904432660",
+			"_tsDateAdded": 1710424839
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Improvement",
+					"text": "1-The Dustcloud now appears from Far distances"
+				},
+				{
+					"cat": "Addition",
+					"text": "2-Added a Wall into the hallway that leads CT's to Bombsite B, to make it slower for them to reach it(The damage the wall can withstand until it breaks is a highly Changeable value)"
+				},
+				{
+					"cat": "Optimization",
+					"text": "3-Improved Ram usage and Performance by adjusting some Brush faces to \"nodraw\" texture"
+				},
+				{
+					"cat": "Addition",
+					"text": "4-added some barriers on the T Side, You need to play the map to know the changes"
+				}
+			],
+			"_sText": "<p>This is a Comeback for me in Mapping, and This is a Fast-Made Beta version, expect everything to happen, PLEASE mention these bugs or problems in the Comment Section, and it would be appreciated!</p>",
+			"_sTitle": "De_city | Back to Work",
+			"_sVersion": "2.5 BETA",
+			"_tsDateAdded": 1710425343
+		},
 		{
 			"_aChangeLog": [
 				{
@@ -70,34 +117,6 @@
 			"_sTitle": "de_city",
 			"_sVersion": "2.0 Complete",
 			"_tsDateAdded": 1693228837
-		},
-		{
-			"_aChangeLog": [
-				{
-					"cat": "Adjustment",
-					"text": "1-Adjusted the Dustcloud on both Bombsites Color to White"
-				},
-				{
-					"cat": "Addition",
-					"text": "2-Added a Wall in Bombsite A to Make the bomb Chance to detonation or Defusal More"
-				},
-				{
-					"cat": "Addition",
-					"text": "3-Added a door in the Terroist Tunnel(idk Why i added it)"
-				},
-				{
-					"cat": "Improvement",
-					"text": "4-Added physics objects so Performance Issue's are now Possible"
-				},
-				{
-					"cat": "Adjustment",
-					"text": "5-Adjusted Both bombsite's Planting height scale to prevent the Players from planting the bomb above the Drums or Barrel's"
-				}
-			],
-			"_sText": "<p>Working on this Update was Fast so there might be some Bugs and Glitches<br>if you encounter a Bug or a Glitch please consider Writing it in the Comment Section</p>",
-			"_sTitle": "de_city",
-			"_sVersion": "2.0 Beta",
-			"_tsDateAdded": 1692169363
 		}
 	],
 	"_idRow": 459634,
