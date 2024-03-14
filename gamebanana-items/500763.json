@@ -8,21 +8,34 @@
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1155244,
-			"_nDownloadCount": 1,
-			"_nFilesize": 9205315,
+			"_idRow": 1155338,
+			"_nDownloadCount": 0,
+			"_nFilesize": 9213528,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
-			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1155244",
-			"_sFile": "surf_slieke.zip",
-			"_sMd5Checksum": "b4af4c1520ceb0e7341afd686761ddc7",
-			"_tsDateAdded": 1710372233
+			"_sDescription": "UPDATED VERSION",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1155338",
+			"_sFile": "surf_slieke_e64d5.zip",
+			"_sMd5Checksum": "123be52e9deb3386c48ae68e9daa4689",
+			"_tsDateAdded": 1710379738
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Improvement",
+					"text": "Added no jump to first stage ramps and siding. Triggers toward end of stage to discourage cheesers"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "surf_slieke",
+			"_sVersion": "v2",
+			"_tsDateAdded": 1710379843
+		}
+	],
 	"_idRow": 500763,
 	"_sName": "surf_slieke",
 	"_sText": "Fun little t4/t5 staged map I threw together in ~8 hours, figured someone somewhere would enjoy to surf it!<br><br>Have fun, aids map be aware <br><br>Ready to be zoned<br>"
