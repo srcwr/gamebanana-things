@@ -6,6 +6,30 @@
 				"_aArchiveFileTree": {
 					"0": "INSTRUCTIONS.txt",
 					"maps": [
+						"de_florence.bsp",
+						"de_florence.nav"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 1155702,
+			"_nDownloadCount": 0,
+			"_nFilesize": 3100147,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
+			"_sDescription": "Latest Version (Reccomended)",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1155702",
+			"_sFile": "de_florence.rar",
+			"_sMd5Checksum": "79d9b2ee25b4de3d215ff36398c68882",
+			"_tsDateAdded": 1710438419
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "INSTRUCTIONS.txt",
+					"maps": [
 						"de_toucan.bsp",
 						"de_toucan.nav"
 					]
@@ -13,13 +37,13 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1155089,
-			"_nDownloadCount": 10,
+			"_nDownloadCount": 14,
 			"_nFilesize": 3209949,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
-			"_sDescription": "Latest 1.0.2 (Reccomended)",
+			"_sDescription": "Old (1.0.2 )",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1155089",
 			"_sFile": "de_toucan_102.rar",
 			"_sMd5Checksum": "3f6051059a45f98074593cbfcfb4fce0",
@@ -81,7 +105,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1154389,
-			"_nDownloadCount": 10,
+			"_nDownloadCount": 11,
 			"_nFilesize": 1387953,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -104,7 +128,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1154388,
-			"_nDownloadCount": 10,
+			"_nDownloadCount": 11,
 			"_nFilesize": 733499,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -164,6 +188,6 @@
 		}
 	],
 	"_idRow": 500480,
-	"_sName": "de_toucan",
-	"_sText": "<h1>Tuscan themed map with 2 bombsites (A, B) - Current version <u class=\"SelectedElement\">1.0.2 Beta</u><br></h1><br><br>-Toucan's story:<br>Italian Terrorists came up with an evil plan, to bomb a small town and the CT's supply base, and steal their resources, weapons. The Counter-Terrorists heard about the situation, immediately goes to defend, and eliminate the terrorists for their own good.<br><h1>Map's Features:</h1><ul><li><span class=\"GreenColor\">Bot support</span></li><li>32 players max (16CT, 16T)</li><li>Tuscan a-like theme</li><li>Realistic Ambience</li></ul><ol><li>If you encounter any <span class=\"RedColor\">bugs</span>, please let me know in the comments.</li><li><span class=\"GreenColor\">Enjoy the map</span></li></ol>"
+	"_sName": "de_florence",
+	"_sText": "<h1>Tuscan themed map with 2 bombsites (A, B) - Current version <u class=\"SelectedElement\">1.0.3 Beta</u><br></h1><br><br>-Florence story:<br>Italian Terrorists came up with an evil plan, to bomb a small town and the CT's supply base, and steal their resources, weapons. The Counter-Terrorists heard about the situation, immediately goes to defend, and eliminate the terrorists for their own good.<br><h1>Map's Features:</h1><ul><li><span class=\"GreenColor\">Bot support</span></li><li>32 players max (16CT, 16T)</li><li>Tuscan a-like theme</li><li>Realistic Ambience</li></ul><ol><li>If you encounter any <span class=\"RedColor\">bugs</span>, please let me know in the comments.</li><li><span class=\"GreenColor\">Enjoy the map</span></li></ol>"
 }
