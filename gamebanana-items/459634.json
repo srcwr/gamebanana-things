@@ -49,28 +49,61 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": {
-					"maps": [
-						"de_city_d.bsp",
-						"de_city_d.nav"
+					"city25completed": [
+						"Readme.txt",
+						"de_city_d_d.bsp",
+						"de_city_d_d.nav"
 					]
 				}
 			},
 			"_bContainsExe": false,
-			"_idRow": 1155575,
-			"_nDownloadCount": 6,
-			"_nFilesize": 104991,
+			"_idRow": 1156107,
+			"_nDownloadCount": 0,
+			"_nFilesize": 97209,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
-			"_sDescription": "2.5 BETA",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1155575",
-			"_sFile": "city25beta.zip",
-			"_sMd5Checksum": "30ba579e42b91c621d23034904432660",
-			"_tsDateAdded": 1710424839
+			"_sDescription": "2.5 Complete",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1156107",
+			"_sFile": "city25complete.zip",
+			"_sMd5Checksum": "a41912dff136e9fd2c0d169bc7bbcac3",
+			"_tsDateAdded": 1710506430
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "1-added a Wall near the Hallway that Lead the T's to bombsite B"
+				},
+				{
+					"cat": "Addition",
+					"text": "2-an Explosion will occur in Bombsite A when the bomb detonates, It does not deal damage to players"
+				},
+				{
+					"cat": "Addition",
+					"text": "3-Added an Easter egg, figure it out yourself!"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "4-Changed the health of the wall that blocks the CT's way to bombsite B, it is now changed to 100"
+				},
+				{
+					"cat": "Removal",
+					"text": "5-Removed the window in T Spawn"
+				},
+				{
+					"cat": "Addition",
+					"text": "6-Added ammo crates in Bombsite A"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "De_city | Resupply A",
+			"_sVersion": "2.5 Complete",
+			"_tsDateAdded": 1710506889
+		},
 		{
 			"_aChangeLog": [
 				{
@@ -94,30 +127,6 @@
 			"_sTitle": "De_city | Back to Work",
 			"_sVersion": "2.5 BETA",
 			"_tsDateAdded": 1710425343
-		},
-		{
-			"_aChangeLog": [
-				{
-					"cat": "Adjustment",
-					"text": "1-Made the Walls in Bombsite A break on Bomb explosion"
-				},
-				{
-					"cat": "Bugfix",
-					"text": "2-Solved the Fire issue in Both bombsites now the fire explosion is Visible Again"
-				},
-				{
-					"cat": "Addition",
-					"text": "3-Added a Door in the CT's Hallway to Bombsite A"
-				},
-				{
-					"cat": "Adjustment",
-					"text": "4-The door in Terroist's Hallway to Bombsite A starts Closed now"
-				}
-			],
-			"_sText": "<p>This update took long eh?<br>it is not that Exciting tbh</p>",
-			"_sTitle": "de_city",
-			"_sVersion": "2.0 Complete",
-			"_tsDateAdded": 1693228837
 		}
 	],
 	"_idRow": 459634,
