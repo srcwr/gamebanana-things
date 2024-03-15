@@ -13,7 +13,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1155702,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 7,
 			"_nFilesize": 3100147,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -37,7 +37,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1155089,
-			"_nDownloadCount": 14,
+			"_nDownloadCount": 16,
 			"_nFilesize": 3209949,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -61,7 +61,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1154385,
-			"_nDownloadCount": 38,
+			"_nDownloadCount": 39,
 			"_nFilesize": 3079285,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -105,7 +105,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1154389,
-			"_nDownloadCount": 11,
+			"_nDownloadCount": 12,
 			"_nFilesize": 1387953,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -128,7 +128,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1154388,
-			"_nDownloadCount": 11,
+			"_nDownloadCount": 12,
 			"_nFilesize": 733499,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -142,6 +142,34 @@
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "No more purple textures, No more box gaps, fixed textures."
+				},
+				{
+					"cat": "Optimization",
+					"text": "Added more nodraws, func_details."
+				},
+				{
+					"cat": "Amendment",
+					"text": "Misc improvements and removal, A site adjustments, Texture improvement, Gave the map better tuscany look."
+				},
+				{
+					"cat": "Overhaul",
+					"text": "Added another new appartments (CT Spawn House entrance), Small layout changes"
+				},
+				{
+					"cat": "Refactor",
+					"text": "Renamed the map to \"Florence\""
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Gameplay Improvement Note",
+			"_sVersion": "1.0.3",
+			"_tsDateAdded": 1710439024
+		},
 		{
 			"_aChangeLog": [
 				{
@@ -165,26 +193,6 @@
 			"_sTitle": "Major Update (13.03.24)",
 			"_sVersion": "1.0.2",
 			"_tsDateAdded": 1710355115
-		},
-		{
-			"_aChangeLog": [
-				{
-					"cat": "Amendment",
-					"text": "Added more Houses, Details"
-				},
-				{
-					"cat": "Refactor",
-					"text": "Changed map's name: Toucan"
-				},
-				{
-					"cat": "Bugfix",
-					"text": "Fixed Purple textures in-game"
-				}
-			],
-			"_sText": "",
-			"_sTitle": "Major Update (12.03.24)",
-			"_sVersion": "1.0.1",
-			"_tsDateAdded": 1710234218
 		}
 	],
 	"_idRow": 500480,
