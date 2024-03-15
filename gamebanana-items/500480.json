@@ -13,10 +13,12 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1156280,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 3,
 			"_nFilesize": 3321125,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
 			"_sDescription": "Latest Version (Reccomended)",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1156280",
 			"_sFile": "de_florence_5b0df.rar",
@@ -167,6 +169,26 @@
 		{
 			"_aChangeLog": [
 				{
+					"cat": "Improvement",
+					"text": "Added 3d skybox, misc improvement, gameplay improvement."
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Major layout changes"
+				},
+				{
+					"cat": " layout changes",
+					"text": "Gameplay is more stabile"
+				}
+			],
+			"_sText": "<p>3d skybox, gameplay improvement, misc, graphic improvement.</p>",
+			"_sTitle": "Out of beta update",
+			"_sVersion": "1.0.4",
+			"_tsDateAdded": 1710528446
+		},
+		{
+			"_aChangeLog": [
+				{
 					"cat": "Bugfix",
 					"text": "No more purple textures, No more box gaps, fixed textures."
 				},
@@ -191,30 +213,6 @@
 			"_sTitle": "Gameplay Improvement Note",
 			"_sVersion": "1.0.3",
 			"_tsDateAdded": 1710439024
-		},
-		{
-			"_aChangeLog": [
-				{
-					"cat": "Improvement",
-					"text": "Improved Lighting"
-				},
-				{
-					"cat": "Tweak",
-					"text": "Added more houses, buildings + better details"
-				},
-				{
-					"cat": "Tweak",
-					"text": "Added new appartments in long (similiar to sniper's nest)"
-				},
-				{
-					"cat": "Bugfix",
-					"text": "Fixed couple missing textures on places"
-				}
-			],
-			"_sText": "",
-			"_sTitle": "Major Update (13.03.24)",
-			"_sVersion": "1.0.2",
-			"_tsDateAdded": 1710355115
 		}
 	],
 	"_idRow": 500480,
