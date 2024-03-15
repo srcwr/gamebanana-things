@@ -12,6 +12,28 @@
 				}
 			},
 			"_bContainsExe": false,
+			"_idRow": 1156280,
+			"_nDownloadCount": 0,
+			"_nFilesize": 3321125,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "Latest Version (Reccomended)",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1156280",
+			"_sFile": "de_florence_5b0df.rar",
+			"_sMd5Checksum": "216d74b0b9a789a6e03545c708026883",
+			"_tsDateAdded": 1710528150
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "INSTRUCTIONS.txt",
+					"maps": [
+						"de_florence.bsp",
+						"de_florence.nav"
+					]
+				}
+			},
+			"_bContainsExe": false,
 			"_idRow": 1155702,
 			"_nDownloadCount": 17,
 			"_nFilesize": 3100147,
@@ -19,7 +41,7 @@
 			"_sAnalysisState": "done",
 			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
-			"_sDescription": "Latest Version (Reccomended)",
+			"_sDescription": "Old (1.0.3)",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1155702",
 			"_sFile": "de_florence.rar",
 			"_sMd5Checksum": "79d9b2ee25b4de3d215ff36398c68882",
@@ -197,5 +219,5 @@
 	],
 	"_idRow": 500480,
 	"_sName": "de_florence",
-	"_sText": "<h1>Tuscan themed map with 2 bombsites (A, B) - Current version <u class=\"SelectedElement\">1.0.3 Beta</u><br></h1><br><br>-Florence story:<br>Italian Terrorists came up with an evil plan, to bomb a small town and the CT's supply base, and steal their resources, weapons. The Counter-Terrorists heard about the situation, immediately goes to defend, and eliminate the terrorists for their own good.<br><h1>Map's Features:</h1><ul><li><span class=\"GreenColor\">Bot support</span></li><li>32 players max (16CT, 16T)</li><li>Tuscan a-like theme</li><li>Realistic Ambience</li></ul><ol><li>If you encounter any <span class=\"RedColor\">bugs</span>, please let me know in the comments.</li><li><span class=\"GreenColor\">Enjoy the map</span></li></ol>"
+	"_sText": "<h1 class=\"SelectedElement\">Tuscan themed map with 2 bombsites (A, B) - Current version <u>1.0.4 <span class=\"GreenColor\">Out of beta!</span></u><br></h1><br><br>-Florence story:<br>Italian Terrorists came up with an evil plan, to bomb a small town and the CT's supply base, and steal their resources, weapons. The Counter-Terrorists heard about the situation, immediately goes to defend, and eliminate the terrorists for their own good.<br><h1>Map's Features:</h1><ul><li><span class=\"GreenColor\">Bot support</span></li><li>32 players max (16CT, 16T)</li><li>Tuscan a-like theme</li><li>Realistic Ambience</li></ul><ol><li>If you encounter any <span class=\"RedColor\">bugs</span>, please let me know in the comments.</li><li><span class=\"GreenColor\">Enjoy the map</span></li></ol>"
 }
