@@ -2,11 +2,19 @@
 	"_aAlternateFileSources": null,
 	"_aFiles": [
 		{
-			"_aMetadata": [],
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"bhop_df_zeel_exzeel.bsp"
+				]
+			},
+			"_bContainsExe": false,
 			"_idRow": 1156756,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 8,
 			"_nFilesize": 2050316,
-			"_sAnalysisState": "pending",
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1156756",
 			"_sFile": "bhop_df_zeel_exzeel.zip",

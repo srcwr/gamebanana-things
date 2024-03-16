@@ -70,9 +70,64 @@
 			"_sFile": "city25complete.zip",
 			"_sMd5Checksum": "a41912dff136e9fd2c0d169bc7bbcac3",
 			"_tsDateAdded": 1710506430
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"city25complete+": [
+						"de_city_d_d.bsp",
+						"de_city_d_d.nav"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 1156973,
+			"_nDownloadCount": 0,
+			"_nFilesize": 99340,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
+			"_sDescription": "2.5 Complete+",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1156973",
+			"_sFile": "city25complete_.zip",
+			"_sMd5Checksum": "34cad5aa07d655e033f8f7b5f2cc23c6",
+			"_tsDateAdded": 1710616371
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "1-Shrinked the map size by adding a wall near bombsite A"
+				},
+				{
+					"cat": "Addition",
+					"text": "2-a Secret door is added to the wall Near bombsite A, figure it out yourself"
+				},
+				{
+					"cat": "Removal",
+					"text": "3-Removed some of the empty space that is near T Spawn"
+				},
+				{
+					"cat": "Removal",
+					"text": "4-Removed the table cover in the T's hallway"
+				},
+				{
+					"cat": "Addition",
+					"text": "5-Added a crates near Bombsite B"
+				},
+				{
+					"cat": "Removal",
+					"text": "6-Some of the empty space is removed near the end of the T's Hallway"
+				}
+			],
+			"_sText": "<p>I know, this is a disappointment \"update\", and I really tried to figure out what to add, I will plan to update the map greatly in \"3.\" versions of it, it might take a week or more, but If I do it right it is gonna be amazing</p>",
+			"_sTitle": "De_city | A Complete+ edition",
+			"_sVersion": "de_city 2.5 C+",
+			"_tsDateAdded": 1710617057
+		},
 		{
 			"_aChangeLog": [
 				{
@@ -104,30 +159,6 @@
 			"_sTitle": "De_city | Resupply A",
 			"_sVersion": "2.5 Complete",
 			"_tsDateAdded": 1710506889
-		},
-		{
-			"_aChangeLog": [
-				{
-					"cat": "Improvement",
-					"text": "1-The Dustcloud now appears from Far distances"
-				},
-				{
-					"cat": "Addition",
-					"text": "2-Added a Wall into the hallway that leads CT's to Bombsite B, to make it slower for them to reach it(The damage the wall can withstand until it breaks is a highly Changeable value)"
-				},
-				{
-					"cat": "Optimization",
-					"text": "3-Improved Ram usage and Performance by adjusting some Brush faces to \"nodraw\" texture"
-				},
-				{
-					"cat": "Addition",
-					"text": "4-added some barriers on the T Side, You need to play the map to know the changes"
-				}
-			],
-			"_sText": "<p>This is a Comeback for me in Mapping, and This is a Fast-Made Beta version, expect everything to happen, PLEASE mention these bugs or problems in the Comment Section, and it would be appreciated!</p>",
-			"_sTitle": "De_city | Back to Work",
-			"_sVersion": "2.5 BETA",
-			"_tsDateAdded": 1710425343
 		}
 	],
 	"_idRow": 459634,
