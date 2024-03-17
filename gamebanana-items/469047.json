@@ -8,40 +8,37 @@
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1134749,
-			"_nDownloadCount": 15,
-			"_nFilesize": 75560193,
+			"_idRow": 1157808,
+			"_nDownloadCount": 0,
+			"_nFilesize": 76947133,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1134749",
-			"_sFile": "bhop_balaco_7952b.rar",
-			"_sMd5Checksum": "30f967fe538cca71cf18e0f7fdc66956",
-			"_tsDateAdded": 1707245125
+			"_sDownloadUrl": "https://gamebanana.com/dl/1157808",
+			"_sFile": "bhop_balaco_aee3e.rar",
+			"_sMd5Checksum": "7dec9c1bd554e7ad7aa7f63369f22f11",
+			"_tsDateAdded": 1710713961
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "fixed triggers doesn't working properly on stage2"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "fix2",
+			"_tsDateAdded": 1710714054
+		},
 		{
 			"_aChangeLog": [],
 			"_sText": "<p>fixed another huge skip</p>",
 			"_sTitle": "skip",
 			"_tsDateAdded": 1707245511
-		},
-		{
-			"_aChangeLog": [
-				{
-					"cat": "Removal",
-					"text": "Removed the skip from the start to the end."
-				},
-				{
-					"cat": "Bugfix",
-					"text": "Fixed anticheat filter on start."
-				}
-			],
-			"_sText": "",
-			"_sTitle": "fix",
-			"_tsDateAdded": 1695056731
 		}
 	],
 	"_idRow": 469047,
