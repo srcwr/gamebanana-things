@@ -2,11 +2,30 @@
 	"_aAlternateFileSources": null,
 	"_aFiles": [
 		{
-			"_aMetadata": [],
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"zm_multiverse_beta": {
+						"0": "zm_multivers_beta.bsp",
+						"Screenshots": [
+							"Christmas Zone.png",
+							"City.png",
+							"Hell.png",
+							"Ice Castle.png",
+							"Minecraft Zone.png",
+							"Old zone.png",
+							"Space.png"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
 			"_idRow": 1157871,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 2,
 			"_nFilesize": 24556282,
-			"_sAnalysisState": "pending",
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1157871",
 			"_sFile": "zm_multiverse_beta.rar",
