@@ -50,30 +50,6 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": {
-					"city25completed": [
-						"Readme.txt",
-						"de_city_d_d.bsp",
-						"de_city_d_d.nav"
-					]
-				}
-			},
-			"_bContainsExe": false,
-			"_idRow": 1156107,
-			"_nDownloadCount": 3,
-			"_nFilesize": 97209,
-			"_sAnalysisResult": "File passed analysis",
-			"_sAnalysisState": "done",
-			"_sAvastAvResult": "clean",
-			"_sClamAvResult": "clean",
-			"_sDescription": "2.5 Complete",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1156107",
-			"_sFile": "city25complete.zip",
-			"_sMd5Checksum": "a41912dff136e9fd2c0d169bc7bbcac3",
-			"_tsDateAdded": 1710506430
-		},
-		{
-			"_aMetadata": {
-				"_aArchiveFileTree": {
 					"city25complete+": [
 						"de_city_d_d.bsp",
 						"de_city_d_d.nav"
@@ -93,6 +69,27 @@
 			"_sFile": "city25complete_.zip",
 			"_sMd5Checksum": "34cad5aa07d655e033f8f7b5f2cc23c6",
 			"_tsDateAdded": 1710616371
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"CITY30BETA": [
+						"de_city_d_d.bsp",
+						"de_city_d_d.nav"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 1158655,
+			"_nDownloadCount": 0,
+			"_nFilesize": 444227,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sDescription": "3.0 BETA",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1158655",
+			"_sFile": "city30beta.rar",
+			"_sMd5Checksum": "6620f1457ec3c9ad4da3bdbdacb04ed8",
+			"_tsDateAdded": 1710859138
 		}
 	],
 	"_aLatestUpdates": [
