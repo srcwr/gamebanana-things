@@ -12,7 +12,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1033327,
-			"_nDownloadCount": 26,
+			"_nDownloadCount": 27,
 			"_nFilesize": 77972,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -92,9 +92,44 @@
 			"_sFile": "city30beta.rar",
 			"_sMd5Checksum": "6620f1457ec3c9ad4da3bdbdacb04ed8",
 			"_tsDateAdded": 1710859138
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"city30semi": [
+						"de_city_d_d.bsp",
+						"de_city_d_d.nav"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 1159159,
+			"_nDownloadCount": 0,
+			"_nFilesize": 1807859,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
+			"_sDescription": "3.0 Semi-Complete",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1159159",
+			"_sFile": "city30semicomplete.zip",
+			"_sMd5Checksum": "47ad64e179f527c97da68b865f716460",
+			"_tsDateAdded": 1710936870
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Improvement",
+					"text": "Added several cubemaps, this is a VERY, VERY EARLY version of the map that comes with Cubemaps"
+				}
+			],
+			"_sText": "<p>This is  VERY, VERY EARLY Map version as I said, expect even a Game crash, and did not go under heavy testing, And they might be even removed</p>",
+			"_sTitle": "de_city | Reflections",
+			"_sVersion": "3.0 Semi-comp",
+			"_tsDateAdded": 1710937061
+		},
 		{
 			"_aChangeLog": [
 				{
@@ -122,38 +157,6 @@
 			"_sTitle": "De_city | OVERHAUL",
 			"_sVersion": "3.0 BETA",
 			"_tsDateAdded": 1710859502
-		},
-		{
-			"_aChangeLog": [
-				{
-					"cat": "Addition",
-					"text": "1-Shrinked the map size by adding a wall near bombsite A"
-				},
-				{
-					"cat": "Addition",
-					"text": "2-a Secret door is added to the wall Near bombsite A, figure it out yourself"
-				},
-				{
-					"cat": "Removal",
-					"text": "3-Removed some of the empty space that is near T Spawn"
-				},
-				{
-					"cat": "Removal",
-					"text": "4-Removed the table cover in the T's hallway"
-				},
-				{
-					"cat": "Addition",
-					"text": "5-Added a crates near Bombsite B"
-				},
-				{
-					"cat": "Removal",
-					"text": "6-Some of the empty space is removed near the end of the T's Hallway"
-				}
-			],
-			"_sText": "<p>I know, this is a disappointment \"update\", and I really tried to figure out what to add, I will plan to update the map greatly in \"3.\" versions of it, it might take a week or more, but If I do it right it is gonna be amazing</p>",
-			"_sTitle": "De_city | A Complete+ edition",
-			"_sVersion": "de_city 2.5 C+",
-			"_tsDateAdded": 1710617057
 		}
 	],
 	"_idRow": 459634,
