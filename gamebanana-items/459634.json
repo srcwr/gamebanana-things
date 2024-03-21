@@ -107,7 +107,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1159633,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 1,
 			"_nFilesize": 1955575,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -125,6 +125,18 @@
 			"_aChangeLog": [
 				{
 					"cat": "Improvement",
+					"text": "1-added a Radar, Note that the instructions on how to make it visible must be read with Focus and also carefully, any mistake you make following the instructions will cause it either not to work or not being visible, and DON'T CHANGE ANYTHING, ESPECIALLY IN THE VMT AND TEXT FILES', THESE ARE VERY SENSITIVE TO ANY CHANGE!"
+				}
+			],
+			"_sText": "<p>As I noted, to make the Radar visible, you need to follow instructions carefully, Or else it will never work, and most importantly, don't mess with any parameters in the TEXT file or VMT file, these are very sensitive to any Change, anyways, I think I did scare you with these warnings, But it is VERY EASY!<br>and as always, Enjoy!<br><br>Cheers, HA!X.</p>",
+			"_sTitle": "De_city | RADAR",
+			"_sVersion": "3.0 Complete",
+			"_tsDateAdded": 1711011855
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Improvement",
 					"text": "Added several cubemaps, this is a VERY, VERY EARLY version of the map that comes with Cubemaps"
 				}
 			],
@@ -132,34 +144,6 @@
 			"_sTitle": "de_city | Reflections",
 			"_sVersion": "3.0 Semi-comp",
 			"_tsDateAdded": 1710937061
-		},
-		{
-			"_aChangeLog": [
-				{
-					"cat": "Overhaul",
-					"text": "1-Added \"proper\" lightning to the map"
-				},
-				{
-					"cat": "Bugfix",
-					"text": "2-Fixed a state where players can plant the bomb ontop of Walls in bombsite A"
-				},
-				{
-					"cat": "Improvement",
-					"text": "3-the CT's walls were a little bit high off the ground, it is fixed now"
-				},
-				{
-					"cat": "Optimization",
-					"text": "4-Improved opitimization, by removing unnecesary textures below the map ground"
-				},
-				{
-					"cat": "Removal",
-					"text": "5-I have determined a Hallway connection of the T's hallway to Bombsite A Useless, So I removed it"
-				}
-			],
-			"_sText": "<p>This is the largest update I ever did on this map, FOR NOW, and this is a First try to add an enviromental light, so it might be buggy a bit, or even alot, so try to comment the Bugs you encounter, Please note that I don't know much english, So you could play the map to see yourself, and I hope you enjoy it!<br><br>Cheers<br>-HA!X</p>",
-			"_sTitle": "De_city | OVERHAUL",
-			"_sVersion": "3.0 BETA",
-			"_tsDateAdded": 1710859502
 		}
 	],
 	"_idRow": 459634,
