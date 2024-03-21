@@ -12,7 +12,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1033327,
-			"_nDownloadCount": 27,
+			"_nDownloadCount": 30,
 			"_nFilesize": 77972,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -35,7 +35,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1045594,
-			"_nDownloadCount": 14,
+			"_nDownloadCount": 15,
 			"_nFilesize": 80224,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -58,7 +58,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1156973,
-			"_nDownloadCount": 3,
+			"_nDownloadCount": 4,
 			"_nFilesize": 99340,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -81,7 +81,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1158655,
-			"_nDownloadCount": 1,
+			"_nDownloadCount": 2,
 			"_nFilesize": 444227,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
@@ -96,25 +96,28 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": {
-					"city30semi": [
+					"city30complete": [
 						"de_city_d_d.bsp",
-						"de_city_d_d.nav"
+						"de_city_d_d.nav",
+						"de_city_d_d.txt",
+						"de_city_d_d.vmt",
+						"de_city_d_d.vtf"
 					]
 				}
 			},
 			"_bContainsExe": false,
-			"_idRow": 1159159,
+			"_idRow": 1159633,
 			"_nDownloadCount": 0,
-			"_nFilesize": 1807859,
+			"_nFilesize": 1955575,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisState": "done",
 			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
-			"_sDescription": "3.0 Semi-Complete",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1159159",
-			"_sFile": "city30semicomplete.zip",
-			"_sMd5Checksum": "47ad64e179f527c97da68b865f716460",
-			"_tsDateAdded": 1710936870
+			"_sDescription": "3.0 COMPLETE",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1159633",
+			"_sFile": "city30complete.zip",
+			"_sMd5Checksum": "5bea57fb218113f167b5a945fb47322c",
+			"_tsDateAdded": 1711010971
 		}
 	],
 	"_aLatestUpdates": [
@@ -150,7 +153,7 @@
 				},
 				{
 					"cat": "Removal",
-					"text": "5-I have determined a Hallway connection of the T's hallway to Bombsite A, So I removed it"
+					"text": "5-I have determined a Hallway connection of the T's hallway to Bombsite A Useless, So I removed it"
 				}
 			],
 			"_sText": "<p>This is the largest update I ever did on this map, FOR NOW, and this is a First try to add an enviromental light, so it might be buggy a bit, or even alot, so try to comment the Bugs you encounter, Please note that I don't know much english, So you could play the map to see yourself, and I hope you enjoy it!<br><br>Cheers<br>-HA!X</p>",
