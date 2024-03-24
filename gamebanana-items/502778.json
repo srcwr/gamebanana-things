@@ -2,11 +2,19 @@
 	"_aAlternateFileSources": null,
 	"_aFiles": [
 		{
-			"_aMetadata": [],
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"bhop_obnilux.bsp"
+				]
+			},
+			"_bContainsExe": false,
 			"_idRow": 1161594,
 			"_nDownloadCount": 0,
 			"_nFilesize": 22356576,
-			"_sAnalysisState": "pending",
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1161594",
 			"_sFile": "bhop_obnilux.rar",
