@@ -2,20 +2,28 @@
 	"_aAlternateFileSources": null,
 	"_aFiles": [
 		{
-			"_aMetadata": [],
-			"_idRow": 1161832,
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"bhop_fibzy_v2.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 1161834,
 			"_nDownloadCount": 0,
-			"_nFilesize": 60182882,
-			"_sAnalysisState": "pending",
+			"_nFilesize": 60246489,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1161832",
-			"_sFile": "bhop_fibzy_v2.zip",
-			"_sMd5Checksum": "4c9328a6156860d5712e21a64aab8720",
-			"_tsDateAdded": 1711325166
+			"_sDownloadUrl": "https://gamebanana.com/dl/1161834",
+			"_sFile": "bhop_fibzy_v2_719eb.zip",
+			"_sMd5Checksum": "0d043a9675fd281662bbe7625e40453f",
+			"_tsDateAdded": 1711325847
 		}
 	],
 	"_aLatestUpdates": [],
 	"_idRow": 502859,
 	"_sName": "bhop_fibzy_v2",
-	"_sText": "Map I created for mapping&nbsp;Contest"
+	"_sText": "Map I created for mapping Contest<br><br>Speedrun map with slopes and tele triggers with push trigger"
 }
