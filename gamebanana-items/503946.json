@@ -12,22 +12,39 @@
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1165343,
-			"_nDownloadCount": 10,
-			"_nFilesize": 312034126,
+			"_idRow": 1165501,
+			"_nDownloadCount": 0,
+			"_nFilesize": 402309047,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
 			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
-			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1165343",
-			"_sFile": "zm_hes_v1.zip",
-			"_sMd5Checksum": "efc708c4958991751424fa3767c9ac02",
-			"_tsDateAdded": 1711793152
+			"_sDescription": "V1FIX",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1165501",
+			"_sFile": "zm_hes_v1fix.zip",
+			"_sMd5Checksum": "ef38891e11b23da7a4bca493020da711",
+			"_tsDateAdded": 1711816808
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "",
+					"text": "-fixed 2 texture"
+				},
+				{
+					"cat": "",
+					"text": "-add double barriers"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "",
+			"_sVersion": "v1 fix",
+			"_tsDateAdded": 1711816941
+		}
+	],
 	"_idRow": 503946,
 	"_sName": "zm_HES",
 	"_sText": "This map is a port from the Black Mesa game for Counter-strike: Source.<br>adaptation to zombie mod [zm]. Map have: day and night version.<br><br>"
