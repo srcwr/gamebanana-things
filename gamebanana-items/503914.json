@@ -4,26 +4,32 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
-					"awp_killpit.bsp"
+					"awp_killpit.bsp",
+					"awp_killpit.nav"
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1165250,
-			"_nDownloadCount": 1,
-			"_nFilesize": 349671,
+			"_idRow": 1165415,
+			"_nDownloadCount": 0,
+			"_nFilesize": 375117,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
-			"_sAvastAvResult": "clean",
-			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1165250",
-			"_sFile": "awp_killpit.zip",
-			"_sMd5Checksum": "9752cf07fc5388d69bb237fa1d78762f",
-			"_tsDateAdded": 1711778171
+			"_sDownloadUrl": "https://gamebanana.com/dl/1165415",
+			"_sFile": "awp_killpit_eb0ec.zip",
+			"_sMd5Checksum": "7d8ac6f055ac9c702fd0c7a5ac4a5135",
+			"_tsDateAdded": 1711808511
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [],
+			"_sText": "<p>added player_equip for awp and deagle</p>",
+			"_sTitle": "added awp + deagle",
+			"_tsDateAdded": 1711808568
+		}
+	],
 	"_idRow": 503914,
 	"_sName": "awp_killpit",
 	"_sText": "My first map for cs:s<br><br>I KNOW ABOUT THE VERTEX CLIPPING BUT I USED DISPLACEMENTS SO I WAS TOO LAZY TO FIX IT"
