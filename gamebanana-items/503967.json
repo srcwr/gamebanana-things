@@ -9,7 +9,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1165433,
-			"_nDownloadCount": 7,
+			"_nDownloadCount": 15,
 			"_nFilesize": 2024203,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -23,7 +23,24 @@
 			"_tsDateAdded": 1711809529
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Early map release."
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Miscellaneous fixes"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Changelog",
+			"_sVersion": "Beta 1.0",
+			"_tsDateAdded": 1711847880
+		}
+	],
 	"_idRow": 503967,
 	"_sName": "de_province (beta)",
 	"_sText": "<h1><b><i>Synopsis</i></b></h1><i>\"Why does it always happen? It is sunny in here.. but I feel blue, I can't go to war anymore.\" - SGT. Red</i><br><br><h1>Key goals:</h1>Terrorists: Blow up either one of the bomb sites<br>Counter-Terrorists: Neutralize and prevent the terrorists from blowing up the sites<br><br><h1>Information:</h1><b>5v5</b> defusal map set on a rural area somewhere in the province of laguna, philippines.<br>This is my first ever map that aims to be competitive/balanced when it comes to team/gameplay.<br>It takes two years to finalize the layout, and half a year to resemble the theme.<br>It's quite a long run, but this map is by far the most exhausting map I've ever done.<br><br><h1 class=\"SelectedElement\">Other notes:</h1>Bot quota is limited only to 5, same goes to player spawns.<br>This is an early look for the possible design of the map, the version is in beta.<br>If you encounter any bugs, let me know in the comments."
