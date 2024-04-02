@@ -12,7 +12,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1165735,
-			"_nDownloadCount": 6,
+			"_nDownloadCount": 9,
 			"_nFilesize": 142986662,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -47,14 +47,21 @@
 			"_tsDateAdded": 1711861839
 		},
 		{
-			"_aMetadata": [],
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ze_castle_crashers_v1_1 (1).cfg",
+					"ze_castle_crashers_v1_1 (2).cfg"
+				]
+			},
 			"_bContainsExe": false,
 			"_idRow": 1167202,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 1,
 			"_nFilesize": 1885,
-			"_sAnalysisResult": "Undetermined",
-			"_sAnalysisResultCode": "undetermined",
-			"_sAnalysisState": "pending",
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
 			"_sDescription": "entwatch and bosshud (NiDE)",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1167202",
 			"_sFile": "entwatch_bosshud_castlecrashers.rar",
