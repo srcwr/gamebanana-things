@@ -2,33 +2,23 @@
 	"_aAlternateFileSources": null,
 	"_aFiles": [
 		{
-			"_aMetadata": {
-				"_aArchiveFileTree": [
-					"READMENOW.txt",
-					"cs_terrorshouse.bsp",
-					"cs_terrorshouse.log",
-					"cs_terrorshouse.nav",
-					"cs_terrorshouse.prt",
-					"cs_terrorshouse.vmf",
-					"cs_terrorshouse.vmx"
-				]
-			},
+			"_aMetadata": [],
 			"_bContainsExe": false,
-			"_idRow": 1171752,
+			"_idRow": 1171796,
 			"_nDownloadCount": 0,
 			"_nFilesize": 8665428,
-			"_sAnalysisResult": "File passed analysis",
-			"_sAnalysisResultCode": "ok",
+			"_sAnalysisResult": "Archive extraction failed (corrupt or password-protected)",
+			"_sAnalysisResultCode": "extraction_error",
 			"_sAnalysisState": "done",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1171752",
-			"_sFile": "newupdate_.zip",
-			"_sMd5Checksum": "46c5d9fb4bd86d4fb7ae75153605a7fa",
-			"_tsDateAdded": 1712602021
+			"_sDownloadUrl": "https://gamebanana.com/dl/1171796",
+			"_sFile": "newupdate__2e64a.zip",
+			"_sMd5Checksum": "2f2dfb0de8cdf07ae0e01efe30bfefad",
+			"_tsDateAdded": 1712607398
 		}
 	],
 	"_aLatestUpdates": [],
 	"_idRow": 505927,
 	"_sName": "cs_terrorshouse",
-	"_sText": "This is my first map, please do not hate me about it.<br>if you  case didn't know, cs_ means hostage gamemode thing. The third floor has hostages.<br><br>(sorry about bad english.)"
+	"_sText": "This is my first map, please do not hate me about it.<br>if you  case didn't know, cs_ means hostage gamemode thing. The third floor has hostages.<br>UPDATE: skybox! (it really sucks) Cubemap fix! (if it didn't work then try buildcubemap command) Easter egg on skybox (inspired others friend map for make \"looore\")<br><br>(sorry about bad english.)"
 }
