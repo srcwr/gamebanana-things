@@ -10,7 +10,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1170915,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 7,
 			"_nFilesize": 2215200,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -25,6 +25,22 @@
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Improvement",
+					"text": "Enhanced the navigation for bots."
+				},
+				{
+					"cat": "Tweak",
+					"text": "Other minor fixes."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Changelog",
+			"_sVersion": "Beta 1.0",
+			"_tsDateAdded": 1712489470
+		},
 		{
 			"_aChangeLog": [
 				{
