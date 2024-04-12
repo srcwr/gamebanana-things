@@ -1,0 +1,37 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"fixed dust2_overview": {
+						"materials": {
+							"overviews": [
+								"de_dust2.vmt",
+								"de_dust2.vtf",
+								"de_dust2_radar.vmt",
+								"de_dust2_radar.vtf"
+							]
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 1173916,
+			"_nDownloadCount": 0,
+			"_nFilesize": 607081,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1173916",
+			"_sFile": "fixed_dust2_overview.zip",
+			"_sMd5Checksum": "d8d4843df46846ffe2c72932ca932dbf",
+			"_tsDateAdded": 1712922952
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 506803,
+	"_sName": "Fixed de_dust2 Overview",
+	"_sText": "Fixes de_dust2 overviews, as a wheels (beta content), no vehicles and cart in \"titanic\" position"
+}
