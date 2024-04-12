@@ -8,69 +8,6 @@
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1166862,
-			"_nDownloadCount": 1,
-			"_nFilesize": 34904825,
-			"_sAnalysisResult": "File passed analysis",
-			"_sAnalysisResultCode": "ok",
-			"_sAnalysisState": "done",
-			"_sAvastAvResult": "clean",
-			"_sClamAvResult": "clean",
-			"_sDescription": "old music ending",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1166862",
-			"_sFile": "v3_css_old_version.rar",
-			"_sMd5Checksum": "deb10f23426e3a5c5d088d3474c1972c",
-			"_tsDateAdded": 1711969004
-		},
-		{
-			"_aMetadata": {
-				"_aArchiveFileTree": [
-					"ze_surf_inboxed_s512_v3.bsp"
-				]
-			},
-			"_bContainsExe": false,
-			"_idRow": 1166863,
-			"_nDownloadCount": 1,
-			"_nFilesize": 49104887,
-			"_sAnalysisResult": "File passed analysis",
-			"_sAnalysisResultCode": "ok",
-			"_sAnalysisState": "done",
-			"_sAvastAvResult": "clean",
-			"_sClamAvResult": "clean",
-			"_sDescription": "fix version",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1166863",
-			"_sFile": "v3_css_fix_version_part_2.rar",
-			"_sMd5Checksum": "4bcbb7763435e2ca5125816f4e2006a3",
-			"_tsDateAdded": 1711969025
-		},
-		{
-			"_aMetadata": {
-				"_aArchiveFileTree": [
-					"ze_surf_inboxed_s512_v3.bsp"
-				]
-			},
-			"_bContainsExe": false,
-			"_idRow": 1166880,
-			"_nDownloadCount": 4,
-			"_nFilesize": 54375295,
-			"_sAnalysisResult": "File passed analysis",
-			"_sAnalysisResultCode": "ok",
-			"_sAnalysisState": "done",
-			"_sAvastAvResult": "clean",
-			"_sClamAvResult": "clean",
-			"_sDescription": "fix ramp surf challenge vmf file",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1166880",
-			"_sFile": "v3_css_fix_ramp_challenge.rar",
-			"_sMd5Checksum": "7c363dcc4987374f4d065bef43889138",
-			"_tsDateAdded": 1711970457
-		},
-		{
-			"_aMetadata": {
-				"_aArchiveFileTree": [
-					"ze_surf_inboxed_s512_v3.bsp"
-				]
-			},
-			"_bContainsExe": false,
 			"_idRow": 1172095,
 			"_nDownloadCount": 3,
 			"_nFilesize": 54148473,
@@ -89,5 +26,5 @@
 	"_aLatestUpdates": [],
 	"_idRow": 498657,
 	"_sName": "ze_surf_inboxed_s512",
-	"_sText": "This map is based on the map <b><i>ze_inboxed</i></b> so there will be many similarities.<br><ul><li>Currently there is only one stage but more may be added in the future.</li><li>I want to thank <i><b>Silex</b> </i>for porting this map from CSGO so I can edit and do more things.</li></ul><ul><li>Map only have 1 stage but 2 ending (normal + secret)</li><li>On secret ending you need to find 4 button to trigger secret ending</li><li>Map has added things like: Boss, Laser, Texture Editing, Particle, etc...&nbsp;<br></li><li>6 surf - 1 surf challenge - 5 point defend (normal + secret) - 1 boss and 1 point laser + ball</li></ul><span class=\"GreenColor\"><span class=\"RedColor\"><br></span></span><span class=\"RedColor\"><b>Fix Part 1:</b></span><br><ul><li>Make more boost surf</li><li>Reduce boss hp by a bit<br></li><li>ending sound change</li><li>point 4, 5, 6 surf human will teleport depends on the person finish surf fast or slow</li><li>surf challenge&nbsp;difficulty is reduced</li></ul><b><br><span class=\"RedColor\"><span class=\"RedColor\"><i>*If you have the previous version file, if you want to play the fixed version, you must delete the previous file in the folder or insert it into that file to play.</i></span></span></b><span class=\"RedColor\"><i><br></i></span><br><span class=\"RedColor\"><span class=\"GreenColor\"><b><i>*I encourage everyone to play this map for \"fun\" and do not encourage people to take this map seriously because the gameplay is not 100% perfect and surfing is quite difficult.</i></b></span></span><br><br><span class=\"RedColor\"><b>Fix Part 2:</b></span><br><ul><li>surf ramp&nbsp;enlarged and changed in appearance</li><li>remove teleport save human on surf 4, only save human on surf 5, 6</li><li>timing defense between humans and zombies has been reworked<br></li><li>gameplay&nbsp;lasts from 10 minutes to 12 minutes</li><li>music map change everything&nbsp;except for ending music and boss music<br></li></ul><del><span class=\"RedColor\"><span class=\"GreenColor\"><b><i>Please use the final version for the best experience [v3_css_fix_ramp_challenge.rar].</i></b></span></span><br></del><br><span class=\"GreenColor\"><b><i>If there is any problem, please leave a comment so I can receive and fix it as soon as possible.</i></b></span><br><br><span class=\"GreenColor\"><b><i>Starting from today's announcement, this map will be updated for the last time and in the future there will be little or no new updates from this map (start with GMT+7 04/09/2024 - 07:00 am to 04/09/2024 - 24:00 pm).</i></b></span><br><br><span class=\"RedColor\"><b>Fix Part 3 (last update):</b></span><br><ul><li>make more boost in surf 1, 2, 3, 4 and 5</li><li>secret ending will have time out (lock button in 10 second) if you don't trigger button on next point<br></li></ul><span class=\"RedColor\"><span class=\"GreenColor\"><br><b><i class=\"SelectedElement\">Please one more time :((( use the final version for the best experience [v3_css_fix_last_update.rar].</i></b></span></span><br><br>"
+	"_sText": "This map is based on the map <b><i>ze_inboxed</i></b> so there will be many similarities.<br><ul><li>Currently there is only one stage but more may be added in the future.</li><li>I want to thank <i><b>Silex</b> </i>for porting this map from CSGO so I can edit and do more things.</li></ul><ul><li>Map only have 1 stage but 2 ending (normal + secret)</li><li>On secret ending you need to find 4 button to trigger secret ending</li><li>Map has added things like: Boss, Laser, Texture Editing, Particle, etc... <br></li><li>6 surf - 1 surf challenge - 5 point defend (normal + secret) - 1 boss and 1 point laser + ball</li></ul><span class=\"GreenColor\"><span class=\"RedColor\"><br></span></span><span class=\"RedColor\"><b>Fix Part 1:</b></span><br><ul><li>Make more boost surf</li><li>Reduce boss hp by a bit<br></li><li>ending sound change</li><li>point 4, 5, 6 surf human will teleport depends on the person finish surf fast or slow</li><li>surf challenge difficulty is reduced</li></ul><b><br><span class=\"RedColor\"><span class=\"RedColor\"><i>*If you have the previous version file, if you want to play the fixed version, you must delete the previous file in the folder or insert it into that file to play.</i></span></span></b><span class=\"RedColor\"><i><br></i></span><br><span class=\"RedColor\"><span class=\"GreenColor\"><b><i>*I encourage everyone to play this map for \"fun\" and do not encourage people to take this map seriously because the gameplay is not 100% perfect and surfing is quite difficult.</i></b></span></span><br><br><span class=\"RedColor\"><b>Fix Part 2:</b></span><br><ul><li>surf ramp enlarged and changed in appearance</li><li>remove teleport save human on surf 4, only save human on surf 5, 6</li><li>timing defense between humans and zombies has been reworked<br></li><li>gameplay lasts from 10 minutes to 12 minutes</li><li>music map change everything except for ending music and boss music<br></li></ul><del><span class=\"RedColor\"><span class=\"GreenColor\"><b><i>Please use the final version for the best experience [v3_css_fix_ramp_challenge.rar].</i></b></span></span><br></del><br><span class=\"GreenColor\"><b><i>If there is any problem, please leave a comment so I can receive and fix it as soon as possible.</i></b></span><br><br><span class=\"GreenColor\"><b><i>Starting from today's announcement, this map will be updated for the last time and in the future there will be little or no new updates from this map (start with GMT+7 04/09/2024 - 07:00 am to 04/09/2024 - 24:00 pm).</i></b></span><br><br><span class=\"RedColor\"><b>Fix Part 3 (last update):</b></span><br><ul><li>make more boost in surf 1, 2, 3, 4 and 5</li><li>secret ending will have time out (lock button in 10 second) if you don't trigger button on next point<br></li></ul><span class=\"RedColor\"><span class=\"GreenColor\"><br><b><i class=\"SelectedElement\">Please one more time :((( use the final version for the best experience [v3_css_fix_last_update.rar].</i></b></span></span><br><br>"
 }
