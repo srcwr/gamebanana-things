@@ -2,14 +2,22 @@
 	"_aAlternateFileSources": null,
 	"_aFiles": [
 		{
-			"_aMetadata": [],
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"zm_Ship": [
+						"zm_Ship_R1.bsp"
+					]
+				}
+			},
 			"_bContainsExe": false,
 			"_idRow": 1175151,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 13,
 			"_nFilesize": 19090538,
-			"_sAnalysisResult": "Undetermined",
-			"_sAnalysisResultCode": "undetermined",
-			"_sAnalysisState": "pending",
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
 			"_sDescription": "zm_Ship",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1175151",
 			"_sFile": "zm_ship.7z",
