@@ -8,20 +8,41 @@
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 977508,
-			"_nDownloadCount": 93,
-			"_nFilesize": 102903749,
+			"_idRow": 1176024,
+			"_nDownloadCount": 0,
+			"_nFilesize": 104779173,
 			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
-			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/977508",
-			"_sFile": "bhop_decay.rar",
-			"_sMd5Checksum": "689410bef056d4d11967fa391eadeb53",
-			"_tsDateAdded": 1683288408
+			"_sDownloadUrl": "https://gamebanana.com/dl/1176024",
+			"_sFile": "bhop_decay_e559d.rar",
+			"_sMd5Checksum": "85739554da4082ff43f94baf5ad8ce34",
+			"_tsDateAdded": 1713186490
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Optimization",
+					"text": "Minor FPS boost"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed possible TAS trigger abuse"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added sound cues for collectable pickups"
+				}
+			],
+			"_sText": "<p>There is only so much FPS optimisation i can do with my knowledge level and this level of detail</p>",
+			"_sTitle": "Minor adjustments",
+			"_sVersion": "1.1",
+			"_tsDateAdded": 1713186507
+		}
+	],
 	"_idRow": 441900,
 	"_sName": "bhop_decay",
 	"_sText": "A <i>realistic </i>bhop map set in an abandoned/unfinished series of industrial facilities. Features non-linear checkpoint level by Tony Montana and a lot of intended skips. Very low entry difficulty: even the less skilled players can enjoy the map, however it poses a nice challenge to master it and set a good record. Made with autobhop and scroll in mind, however the latter might feel boring on it.<br><br>The project first started back in 2020 as a stage for Blank's map but was abandoned later. I decided to finish it a couple of weeks ago. Now about 70 hours of time went into this map. I made it so that it really reflects that Source Engine aesthetic of lonely and abandoned places. Almost every corner is made to catch the player's eye if they wish to take their time and look around."
