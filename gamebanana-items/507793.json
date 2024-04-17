@@ -2,14 +2,20 @@
 	"_aAlternateFileSources": null,
 	"_aFiles": [
 		{
-			"_aMetadata": [],
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"surf_leet_xl_beta3.bsp"
+				]
+			},
 			"_bContainsExe": false,
 			"_idRow": 1176741,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 2,
 			"_nFilesize": 652590,
-			"_sAnalysisResult": "Undetermined",
-			"_sAnalysisResultCode": "undetermined",
-			"_sAnalysisState": "pending",
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1176741",
 			"_sFile": "surf_leet_xl_beta3.zip",
