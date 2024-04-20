@@ -18,10 +18,12 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1039068,
-			"_nDownloadCount": 78,
+			"_nDownloadCount": 132,
 			"_nFilesize": 95533455,
 			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1039068",
@@ -31,6 +33,21 @@
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Adjustment",
+					"text": "Nerfed Kaiser Insight overall in terms of attack damage in Re:Dive Mode. (In short, damage is +10 instead of +40 in Re:Dive Mode, though attack speed still remains the same)"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Buffed Shadows's \"Shadow Attack\" by increasing the Attack Speed in Re:Dive Mode."
+				}
+			],
+			"_sText": "<p>The Stripper Changes can be found at <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://github.com/Pasas1345/Pasas1345Maps-Configs/\">https://github.com/Pasas1345/Pasas1345Maps-Configs/</a></p>",
+			"_sTitle": "Stripper CFG Iteration #4",
+			"_tsDateAdded": 1713611103
+		},
 		{
 			"_aChangeLog": [
 				{
