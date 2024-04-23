@@ -1,0 +1,47 @@
+{
+	"_aAlternateFileSources": [
+		{
+			"description": "Mediafire",
+			"url": "https://www.mediafire.com/file/ap40c1vxwf6eidj/TWO_CHAMBERS.rar/file"
+		}
+	],
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "README.txt",
+					"TWO CHAMBERS": {
+						"maps": [
+							"ch_twochambers.bsp"
+						],
+						"sound": {
+							"MapSounds": [
+								"LightCTLOOP.wav",
+								"PCLOOP.wav",
+								"RADIOLOWVOLUMEN.wav"
+							]
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 1180074,
+			"_nDownloadCount": 0,
+			"_nFilesize": 68284792,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
+			"_sDescription": "ch_twochambers 1.0",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1180074",
+			"_sFile": "two_chambers_d57ac.rar",
+			"_sMd5Checksum": "ac58d497b8e9b27d9da441011910800a",
+			"_tsDateAdded": 1713843262
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 508937,
+	"_sName": "TWO CHAMBERS! (ugly map name ch_twochambers)",
+	"_sText": "<h1>TWO CHAMBERS! </h1>Two Chambers is a 4 vs 4 bomb defusing map, you already know how it works, this map specifically took me 3 days to finish and it is the first (completed) one I have done as well as Hammer Base and Hammer ++.<br><br><div class=\"SelectedElement\"><span class=\"GreenColor\">HATE IT, LOVE IT, LOOK FOR ANY SMALLEST ERROR AND INSULT ME IN THE COMMENTS FOR IT.</span></div><br><br>The map consists of 2 rooms at opposite poles. In both, a single participant will spawn from their respective spawn, while the other participants will spawn behind the same room.<br><br>These same 2 rooms have a wall in front of them, the only difference between the 2 is that the CT Spawn contains a staircase and a balcony on the wall in front of it.<br><br><h1>Anything else to say?:</h1><br><span class=\"RedColor\">IF YOU PLAY WITH BOTS, ENTER THE MAP AND WRITE \"nav_generate\" IN THE CONSOLE.</span><br><span class=\"RedColor\">This way you avoid any problems that may occur with the navmesh and bots.</span><br><br>"
+}
