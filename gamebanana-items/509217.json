@@ -14,45 +14,22 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1181368,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 12,
 			"_nFilesize": 11642758,
-			"_sAnalysisResult": "File passed analysis",
-			"_sAnalysisResultCode": "ok",
-			"_sAnalysisState": "done",
-			"_sDescription": "update : fix bots run in zone A ",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1181368",
-			"_sFile": "de_anubis_css_v1_225c0.rar",
-			"_sMd5Checksum": "7863908f7e240cd906144637d70b1c68",
-			"_tsDateAdded": 1714008240
-		},
-		{
-			"_aMetadata": {
-				"_aArchiveFileTree": {
-					"cstrike": {
-						"maps": [
-							"de_anubis_css.bsp"
-						]
-					}
-				}
-			},
-			"_bContainsExe": false,
-			"_idRow": 1180681,
-			"_nDownloadCount": 46,
-			"_nFilesize": 21898367,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
 			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
-			"_sDescription": "old ",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1180681",
-			"_sFile": "de_anubis_css.rar",
-			"_sMd5Checksum": "46d29d631e7bb46a9e7014760c92b39f",
-			"_tsDateAdded": 1713918380
+			"_sDescription": "update 24/4/2024",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1181368",
+			"_sFile": "de_anubis_css_v1_225c0.rar",
+			"_sMd5Checksum": "7863908f7e240cd906144637d70b1c68",
+			"_tsDateAdded": 1714008240
 		}
 	],
 	"_aLatestUpdates": [],
 	"_idRow": 509217,
 	"_sName": "de_anubis_css",
-	"_sText": "<span class=\"SelectedElement\">de_anubis_css is map of csgo for css but </span>inspiration as maps cspromod and de_cpl_strike , problem is nav or bots of tt no connect bomb A and somebody create nav for this map ;) <br>"
+	"_sText": "<span class=\"SelectedElement\">de_anubis_css is map of csgo for css but </span>inspiration as maps cspromod and de_cpl_strike<br>24/4/2024 update : fix in zone A  and bots run stair without problem ;) <br>"
 }

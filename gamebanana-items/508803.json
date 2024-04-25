@@ -10,7 +10,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1181355,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 26,
 			"_nFilesize": 58829936,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -29,6 +29,17 @@
 			"_aChangeLog": [
 				{
 					"cat": "",
+					"text": "View the Map before you download!"
+				}
+			],
+			"_sText": "<p>Enjoy the Showcase</p>",
+			"_sTitle": "New Showcase Video",
+			"_tsDateAdded": 1714017548
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "",
 					"text": "(BOTS) Changed Nav Mesh Near Certain Windows to Allow Jumping, Added Extra Jump Points and Some Sniper Spots"
 				}
 			],
@@ -39,5 +50,5 @@
 	],
 	"_idRow": 508803,
 	"_sName": "cs_suburban_extraction_night (UPDATE)",
-	"_sText": "--------------------------------------------<br><br>UPDATED NAV MESH TO HELP BOTS MOVE BETTER<br><br>--------------------------------------------<br>Added Minimap<br><br>Added Minimap Locations and Indepth Navmesh<br><br>Improved Lighting<br><br>Improved Clipping and Bullet Detection on Scissor Lifts<br><br>New CT SPAWN<br><br>Improved Framerate Issues and Added Prop Fades<br><br>Added Secret Button Near Hostage Rescue To Unlock Construction Door<br><br>New Round Sounds For Terrorist and Original Audio From The Game<br><br>Please report any bugs you may find when playing to me!"
+	"_sText": "--------------------------------------------<br><br>UPDATED NAV MESH TO HELP BOTS MOVE BETTER<br><br>--------------------------------------------<br>Added Minimap<br><br>Added Minimap Locations and Indepth Navmesh<br><br>Improved Lighting<br><br>Improved Clipping and Bullet Detection on Scissor Lifts<br><br>New CT SPAWN<br><br>Improved Framerate Issues and Added Prop Fades<br><br>Added Secret Button Near Hostage Rescue To Unlock Construction Door<br><br>New Round Sounds For Terrorist and Original Audio From The Game<br><br>Please report any bugs you may find when playing to me!<br><br>--------------------------------------------<br><br><br><div class=\"SelectedElement\">Suburban Extraction - Hostage Rescue</div>The Terrorists have taken refuge in a suburban homestead, capturing the tenant and the construction Foreman from the nearby construction zone. They’ve Barricaded the place and do not intend to leave. The place is surrounded, and the Counter Terrorist Force is moving in to deal with the threat.<br><br>Counter Terrorists:<br><br>In a Hostage Situation you cannot be slow and methodical. Once you breach the perimeter, you must conduct a violent and dynamic assault in order to extract the hostages from a barricaded house. Provide cover for the assets as you move to the extraction points, eliminating any hostiles you encounter. Good luck.<br><br>Terrorists:<br><br>Protect the building, eliminate any hostiles attempting to breach the building, defending the assets from extraction.&nbsp;<br><br>"
 }
