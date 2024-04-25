@@ -2,14 +2,21 @@
 	"_aAlternateFileSources": null,
 	"_aFiles": [
 		{
-			"_aMetadata": [],
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"cs_suburban_extraction_night.bsp",
+					"cs_suburban_extraction_night.nav"
+				]
+			},
 			"_bContainsExe": false,
 			"_idRow": 1181355,
 			"_nDownloadCount": 0,
 			"_nFilesize": 58829936,
-			"_sAnalysisResult": "Undetermined",
-			"_sAnalysisResultCode": "undetermined",
-			"_sAnalysisState": "pending",
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1181355",
 			"_sFile": "cs_suburban_extraction_night_e1af9.rar",
@@ -17,7 +24,19 @@
 			"_tsDateAdded": 1714005254
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "",
+					"text": "(BOTS) Changed Nav Mesh Near Certain Windows to Allow Jumping, Added Extra Jump Points and Some Sniper Spots"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Nav Mesh Fixes",
+			"_tsDateAdded": 1714005346
+		}
+	],
 	"_idRow": 508803,
 	"_sName": "cs_suburban_extraction_night (UPDATE)",
 	"_sText": "--------------------------------------------<br><br>UPDATED NAV MESH TO HELP BOTS MOVE BETTER<br><br>--------------------------------------------<br>Added Minimap<br><br>Added Minimap Locations and Indepth Navmesh<br><br>Improved Lighting<br><br>Improved Clipping and Bullet Detection on Scissor Lifts<br><br>New CT SPAWN<br><br>Improved Framerate Issues and Added Prop Fades<br><br>Added Secret Button Near Hostage Rescue To Unlock Construction Door<br><br>New Round Sounds For Terrorist and Original Audio From The Game<br><br>Please report any bugs you may find when playing to me!"
