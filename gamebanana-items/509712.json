@@ -1,0 +1,91 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"!Self-made_Maps": {
+						"addons": {
+							"sourcemod": {
+								"plugins": [
+									"mapconfigs.smx",
+									"nofalldamage_sdkhooks.smx"
+								],
+								"scripting": [
+									"mapconfigs.sp",
+									"nofalldamage_sdkhooks.sp"
+								]
+							}
+						},
+						"cfg": {
+							"sourcemod": {
+								"0": "nofalldamage_sdkhooks.cfg",
+								"map-cfg": [
+									"de_dust2.cfg",
+									"dm_.cfg",
+									"menger_sponge_full.cfg"
+								]
+							}
+						},
+						"maps": [
+							"menger_sponge_full.bsp"
+						],
+						"materials": {
+							"Menger_Sponge": [
+								"silver_192.vmt",
+								"silver_192.vtf"
+							],
+							"skybox": [
+								"space_4bk.vmt",
+								"space_4bk.vtf",
+								"space_4dn.vmt",
+								"space_4dn.vtf",
+								"space_4ft.vmt",
+								"space_4ft.vtf",
+								"space_4lf.vmt",
+								"space_4lf.vtf",
+								"space_4rt.vmt",
+								"space_4rt.vtf",
+								"space_4up.vmt",
+								"space_4up.vtf",
+								"space_7bk.vmt",
+								"space_7bk.vtf",
+								"space_7dn.vmt",
+								"space_7dn.vtf",
+								"space_7ft.vmt",
+								"space_7ft.vtf",
+								"space_7lf.vmt",
+								"space_7lf.vtf",
+								"space_7rt.vmt",
+								"space_7rt.vtf",
+								"space_7up.vmt",
+								"space_7up.vtf"
+							]
+						},
+						"sound": [
+							"sound.cache"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 1182247,
+			"_nDownloadCount": 0,
+			"_nFilesize": 25370913,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1182247",
+			"_sFile": "menger_sponge.7z",
+			"_sMd5Checksum": "86d52165d0a8f4644a8dee91f15c80b1",
+			"_tsDateAdded": 1714149134
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 509712,
+	"_sName": "Menger_Sponge",
+	"_sText": "<h1>Preface</h1>Hi, there. This is my first attempt on map creating.<br>Yesterday I was inspired by a fractal pattern, Menger Sponge. And then I determined to delineate one taking benefits of the hammer++.<br><br><h1>Info</h1>18 spawn points for each team;<br>Space Skybox from: <a href=\"https://gamebanana.com/mods/7195\">Space Skybox Pack #2</a><br>Addons from: <br><a href=\"https://forums.alliedmods.net/showthread.php?p=1593970\">[ANY?] No FallDamage (V0.6.3, 03.10.2020)</a><br><a href=\"https://forums.alliedmods.net/showthread.php?p=607079\">Map configs with prefix support 1.3</a><br>I'm using sourcemod 1.11.x, so I'm not certain if the plugins work well.<br><br><h1>Defects</h1><ul><li>Bot navigation file WIP</li><li>Radar map WIP</li><li>Luxel Scale: 16 -> 8 would crash the hammer++; The fractal iteration may be an indisputable consumption of computer hardware resources and definitely a hardship to computation capability. So I made iterations approximately 3 times.<br></li></ul><br><h1 class=\"SelectedElement\">Epilogue</h1>Anyway, thanks for testing. But this may probably be a final version.<br>See you next time."
+}
