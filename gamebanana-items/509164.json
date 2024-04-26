@@ -8,22 +8,27 @@
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1181682,
+			"_idRow": 1182095,
 			"_nDownloadCount": 0,
-			"_nFilesize": 28384736,
+			"_nFilesize": 33718313,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
-			"_sAvastAvResult": "clean",
-			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1181682",
-			"_sFile": "trikz_ocean2_1ccf8.rar",
-			"_sMd5Checksum": "106248611259abdbd49c72ac8f533fc5",
-			"_tsDateAdded": 1714064463
+			"_sDownloadUrl": "https://gamebanana.com/dl/1182095",
+			"_sFile": "trikz_ocean2_4f59d.rar",
+			"_sMd5Checksum": "8ed9dbf8a6de22cfbf0f95f4230a5346",
+			"_tsDateAdded": 1714123138
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [],
+			"_sText": "<p>lighting fix</p>",
+			"_sTitle": "fix",
+			"_sVersion": "v99",
+			"_tsDateAdded": 1714123181
+		},
 		{
 			"_aChangeLog": [],
 			"_sText": "<p>boat tp fix</p>",
