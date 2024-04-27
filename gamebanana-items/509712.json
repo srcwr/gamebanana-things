@@ -70,7 +70,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1182247,
-			"_nDownloadCount": 3,
+			"_nDownloadCount": 6,
 			"_nFilesize": 25370913,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -116,7 +116,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1182258,
-			"_nDownloadCount": 3,
+			"_nDownloadCount": 6,
 			"_nFilesize": 8457904,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -140,5 +140,5 @@
 	],
 	"_idRow": 509712,
 	"_sName": "Menger_Sponge",
-	"_sText": "<h1>Preface</h1>Hi, there. This is my first attempt on map creating.<br>Yesterday I was inspired by a fractal pattern, Menger Sponge. And then I determined to delineate one taking benefits of the hammer++.<br><br><h1>Info</h1>18 spawn points for each team;<br>Space Skybox from:&nbsp;<a href=\"https://gamebanana.com/mods/7195\">Space Skybox Pack #2</a><br>Addons from:&nbsp;<br><a href=\"https://forums.alliedmods.net/showthread.php?p=1593970\" target=\"_blank\">[ANY?] No FallDamage (V0.6.3, 03.10.2020)</a><br><a href=\"https://forums.alliedmods.net/showthread.php?p=607079\" target=\"_blank\">Map configs with prefix support 1.3</a><br>I'm using sourcemod 1.11.x, so I'm not certain if the plugins work well for a lower version.<br><br><h1>Defects</h1><ul><li>Bot navigation file WIP</li><li>Radar map WIP</li><li>Luxel Scale: 16 -&gt; 8 would crash the hammer++; The fractal iteration may be an indisputable consumption of computer hardware resources and definitely a hardship to computation capability. So I made iterations approximately 3 times.<br></li></ul><br><h1 class=\"SelectedElement\">Epilogue</h1>Anyway, thanks for testing. But this may probably be a final version.<br>See you next time."
+	"_sText": "<h1>Preface</h1>Hi, there. This is my first attempt on map creating.<br>Yesterday I was inspired by a fractal pattern, Menger Sponge. And then I determined to delineate one taking benefits of Hammer++.<br><br><h1>Info</h1>18 spawn points for each team;<br>Space Skybox from: <a href=\"https://gamebanana.com/mods/7195\">Space Skybox Pack #2</a><br>Addons from: <br><a href=\"https://forums.alliedmods.net/showthread.php?p=1593970\" target=\"_blank\">[ANY?] No FallDamage (V0.6.3, 03.10.2020)</a><br><a href=\"https://forums.alliedmods.net/showthread.php?p=607079\" target=\"_blank\">Map configs with prefix support 1.3</a><br>I'm using sourcemod 1.11.x, so I'm not certain if the plugins work well for a lower version.<br><br><h1>Defects</h1><ul><li>Bot navigation file WIP</li><li>Radar map WIP</li><li class=\"SelectedElement\">Luxel Scale: 16 -> 8 will be likely to crash the compilation; The fractal iteration may be an indisputable consumption of computer hardware resources and definitely a hardship to computation capability. So I made iterations approximately 3 times. Four iterations will easily cause Hammer++ to crash (Stack Overflow).<br></li></ul><br><h1>Epilogue</h1>Anyway, thanks for testing. But this may probably be a final version.<br>See you next time."
 }
