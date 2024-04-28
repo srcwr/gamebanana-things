@@ -9,22 +9,47 @@
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1183022,
-			"_nDownloadCount": 7,
-			"_nFilesize": 794958,
+			"_idRow": 1183546,
+			"_nDownloadCount": 0,
+			"_nFilesize": 844287,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
 			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
 			"_sDescription": "updated.",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1183022",
-			"_sFile": "de_septic.zip",
-			"_sMd5Checksum": "c47f769eb09615a9c51c9ccb5466745a",
-			"_tsDateAdded": 1714232339
+			"_sDownloadUrl": "https://gamebanana.com/dl/1183546",
+			"_sFile": "de_septic_34639.zip",
+			"_sMd5Checksum": "6cff9746fd6bbf9ebe90734fa78df5dd",
+			"_tsDateAdded": 1714294242
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Added new route at T spawn"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Moved T spawn to Middle"
+				},
+				{
+					"cat": "Improvement",
+					"text": "+5 seconds run time for Ts to balance the CTs preparation/positioning at the site"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Improved optimization and Bot's navigation file"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Map changes",
+			"_sVersion": "1.0",
+			"_tsDateAdded": 1714294408
+		}
+	],
 	"_idRow": 510020,
 	"_sName": "de_septic(Wingman/2x2)",
 	"_sText": "2 vs 2, Wingman map. Entry for a private level design contest. <br><br>Public release for playtest only."
