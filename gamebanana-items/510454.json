@@ -2,14 +2,45 @@
 	"_aAlternateFileSources": null,
 	"_aFiles": [
 		{
-			"_aMetadata": [],
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"$2000$_EPICWAR2024V1": {
+						"0": "TBOCS SCREENSHOT A01.jpg",
+						"1": "TBOCS SCREENSHOT A02.jpg",
+						"10": "TBOCS SCREENSHOT A11.jpg",
+						"11": "TBOCS SCREENSHOT A12.jpg",
+						"12": "TBOCS SCREENSHOT A13.jpg",
+						"13": "TBOCS SCREENSHOT A14.jpg",
+						"14": "TBOCS SCREENSHOT A15.mp4",
+						"2": "TBOCS SCREENSHOT A03.jpg",
+						"3": "TBOCS SCREENSHOT A04.jpg",
+						"4": "TBOCS SCREENSHOT A05.jpg",
+						"5": "TBOCS SCREENSHOT A06.jpg",
+						"6": "TBOCS SCREENSHOT A07.jpg",
+						"7": "TBOCS SCREENSHOT A08.jpg",
+						"8": "TBOCS SCREENSHOT A09.jpg",
+						"9": "TBOCS SCREENSHOT A10.jpg",
+						"TBOCS OFFICIAL MAP": {
+							"0": "README.txt",
+							"cstrike": {
+								"maps": [
+									"$2000$_EPICWAR2024V1.bsp",
+									"$2000$_EPICWAR2024V1.nav"
+								]
+							}
+						}
+					}
+				}
+			},
 			"_bContainsExe": false,
 			"_idRow": 1184187,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 12,
 			"_nFilesize": 75810880,
-			"_sAnalysisResult": "Undetermined",
-			"_sAnalysisResultCode": "undetermined",
-			"_sAnalysisState": "pending",
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1184187",
 			"_sFile": "2000__epicwar2024v1.rar",
@@ -20,5 +51,5 @@
 	"_aLatestUpdates": [],
 	"_idRow": 510454,
 	"_sName": "$2000$_EPICWAR2024V1",
-	"_sText": "[$2000$_EPICWAR2024V1] OFFICIAL MAP<br><br>[MADE BY:] THE BL4CK C4BERS4M<br>[VERSION MAP:] LATEST STEAM VERSION ONLY<br>[SOCIAL MEDIA:]<br>  [YOUTUBE:] @THEBL4CKC4BERS4M<br><span class=\"SelectedElement\">  [TIKTOK:] @THEBL4CKC4BERS4M</span><br><br>"
+	"_sText": "[$2000$_EPICWAR2024V1] OFFICIAL FAN MAP<br><br>[MADE BY:]<br>THE BL4CK C4BERS4M<br><br>[POSTER PROMOTED:]<br>WWE, CS2, CS1.6, PIXELGUN3DPCEDITION, ROBLOX<br><br>[VERSION MAP:]<br>LATEST STEAM VERSION ONLY<br><br>[SOCIAL MEDIA:]<br>YOUTUBE: @THEBL4CKC4BERS4M<br><span class=\"SelectedElement\">TIKTOK: @THEBL4CKC4BERS4M</span><br><br>[MAXPLAYERS:]<br>64 [BETTER IN SERVER]<br><br>[INSPIRED FROM:]<br>$2000$ [ORIGINAL MAP]"
 }
