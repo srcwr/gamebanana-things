@@ -4,6 +4,53 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": {
+					"mapsrc": [
+						"Menger_Sponge_Full.prt",
+						"Menger_Sponge_Full.vmf",
+						"Menger_Sponge_Full.vmx",
+						"menger_sponge_full.log"
+					],
+					"materials": {
+						"Menger_Sponge": [
+							"silver_192.vmt",
+							"silver_192.vtf"
+						],
+						"skybox": [
+							"space_7bk.vmt",
+							"space_7bk.vtf",
+							"space_7dn.vmt",
+							"space_7dn.vtf",
+							"space_7ft.vmt",
+							"space_7ft.vtf",
+							"space_7lf.vmt",
+							"space_7lf.vtf",
+							"space_7rt.vmt",
+							"space_7rt.vtf",
+							"space_7up.vmt",
+							"space_7up.vtf"
+						]
+					},
+					"src": [
+						"menger_sponge_full.psd"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 1184126,
+			"_nDownloadCount": 0,
+			"_nFilesize": 9165669,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sDescription": "Radar Map Added",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1184126",
+			"_sFile": "menger_sponge_src_fb700.7z",
+			"_sMd5Checksum": "2932b67034800e517aa6e693b73d47d1",
+			"_tsDateAdded": 1714366845
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
 					"!Self-made_Maps": {
 						"0": "LICENSE",
 						"1": "README.md",
@@ -87,6 +134,14 @@
 								"silver_192.vmt",
 								"silver_192.vtf"
 							],
+							"overviews": [
+								"menger_sponge_full.vmt",
+								"menger_sponge_full.vtf",
+								"menger_sponge_full_300.vmt",
+								"menger_sponge_full_300_radar.vmt",
+								"menger_sponge_full_radar.vmt",
+								"menger_sponge_full_radar.vtf"
+							],
 							"skybox": [
 								"space_4bk.vmt",
 								"space_4bk.vtf",
@@ -114,6 +169,12 @@
 								"space_7up.vtf"
 							]
 						},
+						"resource": {
+							"overviews": [
+								"menger_sponge_full.txt",
+								"menger_sponge_full_300.txt"
+							]
+						},
 						"sound": [
 							"sound.cache"
 						]
@@ -121,65 +182,51 @@
 				}
 			},
 			"_bContainsExe": false,
-			"_idRow": 1183678,
-			"_nDownloadCount": 3,
-			"_nFilesize": 47816287,
+			"_idRow": 1184128,
+			"_nDownloadCount": 0,
+			"_nFilesize": 48038027,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
-			"_sAvastAvResult": "clean",
-			"_sClamAvResult": "clean",
-			"_sDescription": "skybox fixed",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1183678",
-			"_sFile": "menger_sponge_cadbd.7z",
-			"_sMd5Checksum": "a1e75e846e61ae522e7fcde4ffa50114",
-			"_tsDateAdded": 1714312412
+			"_sDescription": "Radar Map Updated",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1184128",
+			"_sFile": "menger_sponge_6d234.7z",
+			"_sMd5Checksum": "ad6f4c4efcfe28cda08a1e5352046228",
+			"_tsDateAdded": 1714366894
 		},
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": {
-					"mapsrc": [
-						"Menger_Sponge_Full.prt",
-						"Menger_Sponge_Full.vmf",
-						"Menger_Sponge_Full.vmx",
-						"menger_sponge_full.log"
-					],
 					"materials": {
-						"Menger_Sponge": [
-							"silver_192.vmt",
-							"silver_192.vtf"
-						],
-						"skybox": [
-							"space_7bk.vmt",
-							"space_7bk.vtf",
-							"space_7dn.vmt",
-							"space_7dn.vtf",
-							"space_7ft.vmt",
-							"space_7ft.vtf",
-							"space_7lf.vmt",
-							"space_7lf.vtf",
-							"space_7rt.vmt",
-							"space_7rt.vtf",
-							"space_7up.vmt",
-							"space_7up.vtf"
+						"overviews": [
+							"menger_sponge_full.vmt",
+							"menger_sponge_full.vtf",
+							"menger_sponge_full_300.vmt",
+							"menger_sponge_full_300_radar.vmt",
+							"menger_sponge_full_radar.vmt",
+							"menger_sponge_full_radar.vtf"
+						]
+					},
+					"resource": {
+						"overviews": [
+							"menger_sponge_full.txt",
+							"menger_sponge_full_300.txt"
 						]
 					}
 				}
 			},
 			"_bContainsExe": false,
-			"_idRow": 1183679,
-			"_nDownloadCount": 5,
-			"_nFilesize": 8453123,
+			"_idRow": 1184129,
+			"_nDownloadCount": 0,
+			"_nFilesize": 221940,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
-			"_sAvastAvResult": "clean",
-			"_sClamAvResult": "clean",
-			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1183679",
-			"_sFile": "menger_sponge_src_7d971.7z",
-			"_sMd5Checksum": "ea182f5a892825489b42a7fdc05a409e",
-			"_tsDateAdded": 1714312466
+			"_sDescription": "Isolated Radar Map",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1184129",
+			"_sFile": "menger_sponge-radar_map.7z",
+			"_sMd5Checksum": "3c86b5103c8cbc452508b0fe51a509ba",
+			"_tsDateAdded": 1714367080
 		}
 	],
 	"_aLatestUpdates": [
@@ -196,6 +243,10 @@
 				{
 					"cat": "Addition",
 					"text": "Added _300.bsp which means sv_gravity 300; Better with the plugin infinite-jump"
+				},
+				{
+					"cat": "Addition",
+					"text": "Radar Map added"
 				}
 			],
 			"_sText": "<p>Marked as a final version.</p>",
@@ -205,5 +256,5 @@
 	],
 	"_idRow": 509712,
 	"_sName": "Menger_Sponge",
-	"_sText": "<h1>Preface</h1>Hi, there. This is my first attempt on map creating.<br>Yesterday I was inspired by a fractal pattern, Menger Sponge. And then I determined to delineate one taking benefits of Hammer++.<br><br><h1 class=\"SelectedElement\">Info &amp; Thanks</h1>18 spawn points for each team;<br>Space Skybox from:&nbsp;<a href=\"https://gamebanana.com/mods/7195\">Space Skybox Pack #2</a><br>Addons from:&nbsp;<br><a href=\"https://forums.alliedmods.net/showthread.php?p=1593970\" target=\"_blank\">[ANY?] No FallDamage (V0.6.3, 03.10.2020)</a><br><a href=\"https://forums.alliedmods.net/showthread.php?p=607079\" target=\"_blank\">Map configs with prefix support 1.3</a><br><a href=\"https://forums.alliedmods.net/showthread.php?t=132391\">Infinite-Jumping</a><br>I'm using sourcemod 1.11.x, so I'm not certain if the plugins work well for a lower version.<br><br><h1>Defects</h1><ul><li>Bot navigation file WIP</li><li>Radar map WIP</li><li>Luxel Scale: 16 -&gt; 8 will be likely to crash the compilation; The fractal iteration may be an indisputable consumption of computer hardware resources and definitely a hardship to computation capability. So I made iterations approximately 3 times. Four iterations will easily cause Hammer++ to crash (Stack Overflow).<br></li></ul><br><h1>Epilogue</h1>Anyway, thanks for testing. But this may probably be a final version.<br>See you next time."
+	"_sText": "<h1>Preface</h1>Hi, there. This is my first attempt on map creating.<br>Yesterday I was inspired by a fractal pattern, Menger Sponge. And then I determined to delineate one taking benefits of Hammer++.<br><br><h1>Info &amp; Thanks</h1>18 spawn points for each team;<br>Space Skybox from:&nbsp;<a href=\"https://gamebanana.com/mods/7195\">Space Skybox Pack #2</a><br>Addons from:&nbsp;<br><a href=\"https://forums.alliedmods.net/showthread.php?p=1593970\" target=\"_blank\">[ANY?] No FallDamage (V0.6.3, 03.10.2020)</a><br><a href=\"https://forums.alliedmods.net/showthread.php?p=607079\" target=\"_blank\">Map configs with prefix support 1.3</a><br><a href=\"https://forums.alliedmods.net/showthread.php?t=132391\" target=\"_blank\">Infinite-Jumping</a><br>I'm using sourcemod 1.11.x, so I'm not certain if the plugins work well for a lower version.<br><br><h1>Defects</h1><ul><li>Bot navigation file WIP</li><li class=\"SelectedElement\">Luxel Scale: 16 -&gt; 8 will be likely to crash the compilation; The fractal iteration may be an indisputable consumption of computer hardware resources and definitely a hardship to computation capability. So I made iterations approximately 3 times. Four iterations will easily cause Hammer++ to crash (Stack Overflow).<br></li></ul><br><h1>Epilogue</h1>Anyway, thanks for testing. But this may probably be a final version.<br>See you next time."
 }
