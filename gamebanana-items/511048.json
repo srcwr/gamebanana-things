@@ -1,0 +1,167 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"maps": [
+						"pl_dust.bsp"
+					],
+					"materials": {
+						"overviews": [
+							"pl_dust.vmt",
+							"pl_dust.vtf"
+						]
+					},
+					"resource": {
+						"maps": [
+							"pl_dust.bsp"
+						],
+						"materials": {
+							"overviews": [
+								"pl_dust.vmt",
+								"pl_dust.vtf"
+							]
+						},
+						"overviews": [
+							"pl_dust.txt"
+						],
+						"pl_dust_d": {
+							"materials": {
+								"concrete": [
+									"concretewall011a.vmt",
+									"concretewall011a.vtf"
+								],
+								"models": {
+									"items": [
+										"item_selfillum.vtf",
+										"medkit.vmt",
+										"medkit.vtf",
+										"medkit_noalpha.vtf"
+									],
+									"props_2fort": [
+										"groundlight001_sheet.vmt",
+										"groundlight001_sheet.vtf"
+									],
+									"props_farm": [
+										"spool_wire.vmt",
+										"spool_wire.vtf"
+									],
+									"props_trainyard": [
+										"cart_base.vmt",
+										"cart_base.vtf",
+										"cart_base_separate.vmt",
+										"cart_base_separate.vtf",
+										"cart_bomb.vmt",
+										"cart_bomb.vtf",
+										"cart_bomb_selfillum.vtf",
+										"cart_bomb_separate.vmt",
+										"cart_bomb_separate.vtf",
+										"cart_dispenser.vmt",
+										"cart_dispenser.vtf",
+										"cart_selfillum.vtf"
+									]
+								}
+							},
+							"models": {
+								"items": [
+									"medkit_large.dx80.vtx",
+									"medkit_large.dx90.vtx",
+									"medkit_large.mdl",
+									"medkit_large.phy",
+									"medkit_large.sw.vtx",
+									"medkit_large.vvd"
+								],
+								"props_2fort": [
+									"groundlight001.dx80.vtx",
+									"groundlight001.dx90.vtx",
+									"groundlight001.mdl",
+									"groundlight001.phy",
+									"groundlight001.sw.vtx",
+									"groundlight001.vvd"
+								],
+								"props_farm": [
+									"spool_wire.dx80.vtx",
+									"spool_wire.dx90.vtx",
+									"spool_wire.mdl",
+									"spool_wire.phy",
+									"spool_wire.sw.vtx",
+									"spool_wire.vvd"
+								],
+								"props_trainyard": [
+									"bomb_cart.dx80.vtx",
+									"bomb_cart.dx90.vtx",
+									"bomb_cart.mdl",
+									"bomb_cart.phy",
+									"bomb_cart.sw.vtx",
+									"bomb_cart.vvd"
+								]
+							},
+							"sound": {
+								"ambient": [
+									"siren.wav"
+								],
+								"items": [
+									"cart_explode.wav",
+									"cart_explode_falling.wav",
+									"cart_explode_trigger.wav",
+									"cart_rolling.wav",
+									"cart_rolling_start.wav",
+									"cart_rolling_stop.wav"
+								],
+								"misc": [
+									"your_team_won.wav"
+								],
+								"player": [
+									"taunt_bell.wav"
+								],
+								"vo": [
+									"announcer_begins_10sec.wav",
+									"announcer_begins_1sec.wav",
+									"announcer_begins_2sec.wav",
+									"announcer_begins_30sec.wav",
+									"announcer_begins_3sec.wav",
+									"announcer_begins_4sec.wav",
+									"announcer_begins_5sec.wav",
+									"announcer_begins_60sec.wav",
+									"announcer_cart_attacker_finalwarning2.wav",
+									"announcer_cart_attacker_warning1.wav",
+									"announcer_cart_attacker_warning2.wav",
+									"announcer_cart_attacker_warning4.wav",
+									"announcer_ends_10sec.wav",
+									"announcer_ends_1sec.wav",
+									"announcer_ends_2min.wav",
+									"announcer_ends_2sec.wav",
+									"announcer_ends_30sec.wav",
+									"announcer_ends_3sec.wav",
+									"announcer_ends_4sec.wav",
+									"announcer_ends_5min.wav",
+									"announcer_ends_5sec.wav",
+									"announcer_ends_60sec.wav"
+								]
+							}
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 1185862,
+			"_nDownloadCount": 0,
+			"_nFilesize": 65160365,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1185862",
+			"_sFile": "pl_dust.rar",
+			"_sMd5Checksum": "6e26862a4f2ebe9c7dd0b88d42e84a4c",
+			"_tsDateAdded": 1714642518
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 511048,
+	"_sName": "payload_dust",
+	"_sText": "Inspired from team fortress 2.<br>includes attacker team and defender team<br>spawn points change after cart passes from points also regenerate rooms and medkits existing in map"
+}
