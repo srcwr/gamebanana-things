@@ -4,26 +4,33 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
-					"ka_soccer_arg_css_v2.bsp"
+					"ka_soccer_arg_css_v3.bsp"
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1187713,
-			"_nDownloadCount": 3,
-			"_nFilesize": 13770497,
+			"_idRow": 1188314,
+			"_nDownloadCount": 0,
+			"_nFilesize": 14140969,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
 			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1187713",
-			"_sFile": "ka_soccer_arg_css_v2.rar",
-			"_sMd5Checksum": "09a1e969577b6b5ad842366069269cb0",
-			"_tsDateAdded": 1714879934
+			"_sDownloadUrl": "https://gamebanana.com/dl/1188314",
+			"_sFile": "ka_soccer_arg_css_v3.rar",
+			"_sMd5Checksum": "9b464926eb4753b93f93b7b7df039f88",
+			"_tsDateAdded": 1714943908
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [],
+			"_sText": "<p>final version</p>",
+			"_sTitle": "final",
+			"_sVersion": "1.3",
+			"_tsDateAdded": 1714943941
+		},
 		{
 			"_aChangeLog": [
 				{
@@ -35,26 +42,6 @@
 			"_sTitle": "",
 			"_sVersion": "1.2",
 			"_tsDateAdded": 1714879997
-		},
-		{
-			"_aChangeLog": [
-				{
-					"cat": "",
-					"text": "improved lighting"
-				},
-				{
-					"cat": "",
-					"text": "new ball model"
-				},
-				{
-					"cat": "",
-					"text": "better hit sound effect"
-				}
-			],
-			"_sText": "",
-			"_sTitle": "",
-			"_sVersion": "1.1",
-			"_tsDateAdded": 1714859808
 		}
 	],
 	"_idRow": 504888,
