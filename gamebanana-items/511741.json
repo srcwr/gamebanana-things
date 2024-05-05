@@ -23,9 +23,41 @@
 			"_sFile": "trikz_convo.rar",
 			"_sMd5Checksum": "c4b77fd30d85b9a8ed64ae9c17d36156",
 			"_tsDateAdded": 1714895419
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"trikz_convo.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 1188400,
+			"_nDownloadCount": 0,
+			"_nFilesize": 18096182,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1188400",
+			"_sFile": "trikz_convo_fix.rar",
+			"_sMd5Checksum": "4977132dee2bf0551083577d70effc7f",
+			"_tsDateAdded": 1714950183
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "",
+					"text": "Fixed two triggers that were too low."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Updates",
+			"_sVersion": "New version",
+			"_tsDateAdded": 1714950310
+		}
+	],
 	"_idRow": 511741,
 	"_sName": "trikz_convo",
 	"_sText": "T3-T4<br><br>My first map. I want to give a big thanks to everyone who helped me with the mapping process!"
