@@ -4,26 +4,47 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
-					"ka_soccer_indoor_xl_css.bsp"
+					"ka_soccer_indoor_xl_v1.bsp"
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1168144,
-			"_nDownloadCount": 23,
-			"_nFilesize": 12998775,
+			"_idRow": 1187535,
+			"_nDownloadCount": 8,
+			"_nFilesize": 8300100,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
 			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1168144",
-			"_sFile": "ka_soccer_indoor_xl_css.rar",
-			"_sMd5Checksum": "8295687f5aa6328d72d826bc1c4b3581",
-			"_tsDateAdded": 1712098554
+			"_sDownloadUrl": "https://gamebanana.com/dl/1187535",
+			"_sFile": "ka_soccer_indoor_xl_v1.rar",
+			"_sMd5Checksum": "fb91d96f18cf226e05dea87bda6e328b",
+			"_tsDateAdded": 1714863275
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "",
+					"text": "improved lighting"
+				},
+				{
+					"cat": "",
+					"text": "new ball model"
+				},
+				{
+					"cat": "",
+					"text": "better hit sound effect"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "",
+			"_sVersion": "1.1",
+			"_tsDateAdded": 1714863313
+		}
+	],
 	"_idRow": 504889,
 	"_sName": "ka_soccer_indoor_xl_css",
 	"_sText": "<span class=\"GreenColor\"><u>Indoor stadium</u></span><u><br></u><br><span class=\"RedColor SelectedElement\">-4v4<br>-Radar<br>-New Ball<br>-for pro gameplay</span>"

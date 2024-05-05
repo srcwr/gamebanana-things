@@ -4,28 +4,37 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
-					"cs_suburban_extraction_beta1.bsp",
-					"cs_suburban_extraction_beta1.nav"
+					"README.txt",
+					"cs_suburban_extraction_day_fix.bsp",
+					"cs_suburban_extraction_day_fix.nav"
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1171462,
-			"_nDownloadCount": 261,
-			"_nFilesize": 44819772,
+			"_idRow": 1187768,
+			"_nDownloadCount": 3,
+			"_nFilesize": 62521255,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
 			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1171462",
-			"_sFile": "cs_suburban_extraction_by_emplexia.rar",
-			"_sMd5Checksum": "899d43656e055059654af8ce7aac241f",
-			"_tsDateAdded": 1712558101
+			"_sDownloadUrl": "https://gamebanana.com/dl/1187768",
+			"_sFile": "cs_suburban_extraction_day.rar",
+			"_sMd5Checksum": "fe80beb851934ad08ae9fa92c58bb0d0",
+			"_tsDateAdded": 1714883924
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [],
+			"_sText": "<p>Lag Fixed<br><br>Added the CT Spawn Pick from Night Map.</p>",
+			"_sTitle": "Update 2",
+			"_sVersion": "v2.0",
+			"_tsDateAdded": 1714884082
+		}
+	],
 	"_idRow": 505922,
-	"_sName": "cs_suburban_extraction",
-	"_sText": "Added Minimap<br><br>Added Minimap Locations<br><br>Added Improved Lighting<br><br>Added Before Round Camera Locations<br><br>Improved Framerate Issues<br><br>Improved Prop Collisions with Player<br><br>Improved 3D Skybox<br><br>Added Mapstory<br><br>Please report any bugs you may find when playing to me!<br><br>"
+	"_sName": "cs_suburban_extraction (UPDATE!)",
+	"_sText": "--------------------------------------------<br><br>Please report any bugs you may find when playing to me!<br><br>--------------------------------------------<br><br><div class=\"SelectedElement\">Suburban Extraction - Hostage Rescue</div>The Terrorists have taken refuge in a suburban homestead, capturing the tenant and the construction Foreman from the nearby construction zone. They’ve Barricaded the place and do not intend to leave. The place is surrounded, and the Counter Terrorist Force is moving in to deal with the threat.<br><br>Counter Terrorists:<br><br>In a Hostage Situation you cannot be slow and methodical. Once you breach the perimeter, you must conduct a violent and dynamic assault in order to extract the hostages from a barricaded house. Provide cover for the assets as you move to the extraction points, eliminating any hostiles you encounter. Good luck.<br><br>Terrorists:<br><br>Protect the building, eliminate any hostiles attempting to breach the building, defending the assets from extraction.&nbsp;<br>"
 }
