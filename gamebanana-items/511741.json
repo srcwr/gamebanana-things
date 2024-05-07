@@ -11,7 +11,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1187870,
-			"_nDownloadCount": 6,
+			"_nDownloadCount": 8,
 			"_nFilesize": 18107654,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -32,7 +32,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1188400,
-			"_nDownloadCount": 3,
+			"_nDownloadCount": 4,
 			"_nFilesize": 18096182,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -46,14 +46,20 @@
 			"_tsDateAdded": 1714950183
 		},
 		{
-			"_aMetadata": [],
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"trikz_convo.bsp"
+				]
+			},
 			"_bContainsExe": false,
 			"_idRow": 1188967,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 4,
 			"_nFilesize": 18286633,
-			"_sAnalysisResult": "Undetermined",
-			"_sAnalysisResultCode": "undetermined",
-			"_sAnalysisState": "pending",
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1188967",
 			"_sFile": "trikz_convo_fix2_4e939.rar",
@@ -66,7 +72,7 @@
 			"_aChangeLog": [
 				{
 					"cat": "",
-					"text": "Fixed two triggers that were too low."
+					"text": "Fixed three triggers and solo bonus"
 				}
 			],
 			"_sText": "",
