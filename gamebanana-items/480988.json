@@ -4,25 +4,35 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
-					"ze_deathrun_fix_v1.bsp"
+					"ze_deathrun_v3.bsp"
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1092941,
-			"_nDownloadCount": 6,
-			"_nFilesize": 25282074,
+			"_idRow": 1190542,
+			"_nDownloadCount": 7,
+			"_nFilesize": 24877350,
 			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1092941",
-			"_sFile": "ze_deathrun_fix_v1.rar",
-			"_sMd5Checksum": "5785448e85180ff63910456f6eb06f5b",
-			"_tsDateAdded": 1700918385
+			"_sDownloadUrl": "https://gamebanana.com/dl/1190542",
+			"_sFile": "ze_deathrun_v3.rar",
+			"_sMd5Checksum": "d7dca99885cc9a62d564c35707fc1664",
+			"_tsDateAdded": 1715275558
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [],
+			"_sText": "<p>123456789012</p>",
+			"_sTitle": "Ze_deathrun_v3",
+			"_sVersion": "v3",
+			"_tsDateAdded": 1715275919
+		}
+	],
 	"_idRow": 480988,
-	"_sName": "zе_deathrun",
-	"_sText": "<font>original version&nbsp; https://gamebanana.com/mods/127218&nbsp;</font>"
+	"_sName": "zе_deathrun_v3",
+	"_sText": "<font>original version&nbsp; https://gamebanana.com/mods/127218&nbsp;</font><br><br>V2: Bug fixes<br><br>V3: Bug fixes / add lvl 2 / new feature"
 }
