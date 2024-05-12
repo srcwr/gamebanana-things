@@ -9,10 +9,12 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1074828,
-			"_nDownloadCount": 1,
+			"_nDownloadCount": 11,
 			"_nFilesize": 77799,
 			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1074828",
@@ -21,20 +23,7 @@
 			"_tsDateAdded": 1697862092
 		}
 	],
-	"_aLatestUpdates": [
-		{
-			"_aChangeLog": [
-				{
-					"cat": "",
-					"text": "-Added Version"
-				}
-			],
-			"_sText": "",
-			"_sTitle": "fe_5v5",
-			"_sVersion": "0.0.1",
-			"_tsDateAdded": 1697862178
-		}
-	],
+	"_aLatestUpdates": [],
 	"_idRow": 474941,
 	"_sName": "fe_5v5",
 	"_sText": "fe_5v5 is a 5 vs. 5 map with 3D skyboxes and AI nodes."

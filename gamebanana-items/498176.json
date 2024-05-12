@@ -9,9 +9,10 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1147901,
-			"_nDownloadCount": 8,
+			"_nDownloadCount": 20,
 			"_nFilesize": 523779,
 			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
 			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
@@ -24,26 +25,27 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
-					"bhop_kaleidoscope_v6_mom.bsp"
+					"bhop_kaleidoscope_m.bsp"
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1148173,
-			"_nDownloadCount": 3,
-			"_nFilesize": 637363,
+			"_idRow": 1174763,
+			"_nDownloadCount": 1,
+			"_nFilesize": 632986,
 			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
 			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
 			"_sDescription": "momentum playtest",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1148173",
-			"_sFile": "bhop_kaleidoscope_v6_mom_c0119.rar",
-			"_sMd5Checksum": "8a60b3e2fc7ec2e43ece2dd2fe714df1",
-			"_tsDateAdded": 1709263831
+			"_sDownloadUrl": "https://gamebanana.com/dl/1174763",
+			"_sFile": "bhop_kaleidoscope_m.rar",
+			"_sMd5Checksum": "217e68db533e810ea76feab2ec189742",
+			"_tsDateAdded": 1713028504
 		}
 	],
 	"_aLatestUpdates": [],
 	"_idRow": 498176,
 	"_sName": "bhop_kaleidoscope",
-	"_sText": "Short linear bhop map, very easy. <br><br>its pretty bright, i recommend you turn your game brightness down<br><br>(video is from momentum mod, doesn't look the same in css)<br>\r\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/T2IB5I5jm2s?si=zlRe7X-3fpw22vI4\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"\"></iframe>"
+	"_sText": "Short linear bhop map, very easy. <br><br>its pretty bright, i recommend you turn your game brightness down<br>\r\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/T2IB5I5jm2s?si=zlRe7X-3fpw22vI4\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"\"></iframe>"
 }
