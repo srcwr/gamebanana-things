@@ -5,28 +5,47 @@
 			"_aMetadata": {
 				"_aArchiveFileTree": {
 					"zm_Port": [
-						"zm_Port_v1D.bsp",
-						"zm_Port_v1N.bsp",
-						"zm_Port_v1W.bsp"
+						"zm_Port_v2D.bsp",
+						"zm_Port_v2E.bsp",
+						"zm_Port_v2N.bsp",
+						"zm_Port_v2W.bsp"
 					]
 				}
 			},
 			"_bContainsExe": false,
-			"_idRow": 874714,
-			"_nDownloadCount": 188,
-			"_nFilesize": 78458994,
+			"_idRow": 1192847,
+			"_nDownloadCount": 6,
+			"_nFilesize": 62658683,
 			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
 			"_sDescription": "zm_Port",
-			"_sDownloadUrl": "https://gamebanana.com/dl/874714",
-			"_sFile": "zm_port.7z",
-			"_sMd5Checksum": "192ed5ed71bbede2e97f0328849ede8e",
-			"_tsDateAdded": 1665399952
+			"_sDownloadUrl": "https://gamebanana.com/dl/1192847",
+			"_sFile": "zm_port_f35de.7z",
+			"_sMd5Checksum": "93784b6fcb664c1bcd5bcbf668c5b0f5",
+			"_tsDateAdded": 1715510545
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Add evening version"
+				},
+				{
+					"cat": "Addition",
+					"text": "New particles for rain"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "v2.0",
+			"_tsDateAdded": 1715510611
+		}
+	],
 	"_idRow": 406035,
 	"_sName": "zm_Port",
-	"_sText": "Remake of default map from CS:S (de_port). Map has three versions: daytime, night and rainy."
+	"_sText": "Remake of default map from CS:S (de_port).&nbsp;Map has four versions: daytime, evening, foggy and night with rain."
 }
