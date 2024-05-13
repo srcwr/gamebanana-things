@@ -2,14 +2,20 @@
 	"_aAlternateFileSources": null,
 	"_aFiles": [
 		{
-			"_aMetadata": [],
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"bhop_thereareportals.bsp"
+				]
+			},
 			"_bContainsExe": false,
 			"_idRow": 1193570,
 			"_nDownloadCount": 0,
 			"_nFilesize": 1172710,
-			"_sAnalysisResult": "Undetermined",
-			"_sAnalysisResultCode": "undetermined",
-			"_sAnalysisState": "pending",
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
 			"_sDescription": "this version adds the earth and the moon",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1193570",
 			"_sFile": "bhop_thereareportals.rar",
