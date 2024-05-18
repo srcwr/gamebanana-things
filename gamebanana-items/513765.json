@@ -2,32 +2,23 @@
 	"_aAlternateFileSources": null,
 	"_aFiles": [
 		{
-			"_aMetadata": {
-				"_aArchiveFileTree": {
-					"0": "ze_surf_sphinx_stronghold_a6.bsp",
-					"bosshud": [
-						"ze_surf_sphinx_stronghold_a5.cfg"
-					]
-				}
-			},
+			"_aMetadata": [],
 			"_bContainsExe": false,
-			"_idRow": 1195116,
+			"_idRow": 1196804,
 			"_nDownloadCount": 0,
-			"_nFilesize": 60728787,
-			"_sAnalysisResult": "File passed analysis",
-			"_sAnalysisResultCode": "ok",
-			"_sAnalysisState": "done",
-			"_sAvastAvResult": "clean",
-			"_sClamAvResult": "clean",
+			"_nFilesize": 60636361,
+			"_sAnalysisResult": "Undetermined",
+			"_sAnalysisResultCode": "undetermined",
+			"_sAnalysisState": "pending",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1195116",
-			"_sFile": "ze_surf_sphinx_stronghold_a6.rar",
-			"_sMd5Checksum": "037edd214f68d110e806cb60493f89e0",
-			"_tsDateAdded": 1715799310
+			"_sDownloadUrl": "https://gamebanana.com/dl/1196804",
+			"_sFile": "ze_surf_sphinx_stronghold_a7.rar",
+			"_sMd5Checksum": "2b523fbf93ec762b1d830a98e6c71eed",
+			"_tsDateAdded": 1716053590
 		}
 	],
 	"_aLatestUpdates": [],
 	"_idRow": 513765,
-	"_sName": "ze_surf_sphinx_stronghold_a6",
+	"_sName": "ze_surf_sphinx_stronghold_a7",
 	"_sText": "<b>** ze_surf_sphinx_stronghold_a6 **<br>** Map made for NiDE Mapping Contest 2024 **</b><br><b><br><span class=\"GreenColor\">Map contains:</span></b><br>- 2 Different Endings (Sphinx and Stronghold)<br>- 3 Boss Fights <br><ol><li>Strider</li><li>Charger</li><li>Alien Spider(only on sphinx ending)</li></ol>- 2 Items for Zombies (Zombie Speeder & Zombie Invisibility)<br>- 1 Destructive Item for Humans -<span class=\"GreenColor\"> <b>Railgun</b> </span>- Cooldown = 105(s)<br>- 6 Surf Levels<br>- 3 Alternate Routes for Surf (incase people prefer bhop easier with low gravity)<br>- <b class=\"SelectedElement\"><span class=\"RedColor\"><span class=\"RedColor\">Hardest</span> map</span></b> in Zombie Escape Surf History<br>- Lasers at the end of the round in Sphinx Ending<br>- 64 Spawns<br><br><span class=\"RedColor\"><b><span class=\"RedColor\">** You are not allowed to edit, re-upload and port this map. This map is made for CS:S Only **</span></b></span>"
 }
