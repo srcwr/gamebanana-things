@@ -15,7 +15,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1201556,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 1,
 			"_nFilesize": 61485261,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -30,6 +30,46 @@
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Improvement",
+					"text": "Reduced timers again all over the map. Less defend times for humans now. More easy to win."
+				},
+				{
+					"cat": "Improvement",
+					"text": "Increased lights and brightness all over the surf and kz levels."
+				},
+				{
+					"cat": "Improvement",
+					"text": "Improved all bhop levels and reduced difficulty especially on Bhop03-Segment."
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Reduced laserboss hp on sphinx ending and added a trigger so as to fix the humans getting pass the lasers."
+				},
+				{
+					"cat": "Improvement",
+					"text": "Added more time for AFK_Tele on Defence01 Level so as to give humans more time to do surf."
+				},
+				{
+					"cat": "Improvement",
+					"text": "Increased damage substraction for Strider and Charger. x2 damage/bullet now."
+				},
+				{
+					"cat": "Addition",
+					"text": "Added more guidlines and commands for humans to follow the path."
+				},
+				{
+					"cat": "Suggestion",
+					"text": "This is the final version and no updates would be released for this map. Entwatch and BossHUD is included in the .rar file. Stripper isn't needed because all bugs are fixed."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "ze_surf_sphinx_stronghold_a8",
+			"_sVersion": "a8",
+			"_tsDateAdded": 1716700254
+		},
 		{
 			"_aChangeLog": [
 				{
