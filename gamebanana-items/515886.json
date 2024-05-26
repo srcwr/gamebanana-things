@@ -17,11 +17,13 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1201483,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 2,
 			"_nFilesize": 335529,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
 			"_sDescription": "Current version (1.0)",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1201483",
 			"_sFile": "destination.rar",
@@ -31,6 +33,6 @@
 	],
 	"_aLatestUpdates": [],
 	"_idRow": 515886,
-	"_sName": "DESTINATION [1v1 map]",
-	"_sText": "Destination is currently my smallest map. 1v1 game mode."
+	"_sName": "DESTINATION",
+	"_sText": "Destination is currently my smallest map. 1V1 game mode."
 }
