@@ -2,14 +2,23 @@
 	"_aAlternateFileSources": null,
 	"_aFiles": [
 		{
-			"_aMetadata": [],
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"de_inferno_cs15": [
+						"de_inferno_cs15.bsp",
+						"de_inferno_cs15.txt"
+					]
+				}
+			},
 			"_bContainsExe": false,
 			"_idRow": 1201737,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 12,
 			"_nFilesize": 11823611,
-			"_sAnalysisResult": "Undetermined",
-			"_sAnalysisResultCode": "undetermined",
-			"_sAnalysisState": "pending",
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1201737",
 			"_sFile": "de_inferno_cs15_676de.7z",
@@ -20,5 +29,5 @@
 	"_aLatestUpdates": [],
 	"_idRow": 516000,
 	"_sName": "de_inferno_cs15",
-	"_sText": "This map is a recreation of de_inferno from the unreleased 2010 console port (cstrike15).&nbsp;<br><br>It is based on unused geometry found in the CS:GO SDK, as well as a map screenshot found in the game files.<br><br>"
+	"_sText": "This map is a recreation of de_inferno from the unreleased 2010 console port (cstrike15).&nbsp;<br><br>It is based on unused geometry found in CS:GO SDK and a map screenshot found in the game files.&nbsp;The changes mainly concern lighting, as well as bombsites - now terrorists need to blow up barrels of explosives, rather than oranges and hay.<br><br>"
 }
