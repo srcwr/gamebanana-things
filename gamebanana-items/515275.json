@@ -10,11 +10,13 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1202979,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 6,
 			"_nFilesize": 68456631,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1202979",
 			"_sFile": "colorblox.zip",
@@ -22,7 +24,28 @@
 			"_tsDateAdded": 1716871035
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Optimization",
+					"text": "Small visual/performance tweaks"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Fixed bonus start zone placement"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Fixed a large skip on bonus"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Small Fixes",
+			"_sVersion": "finalfinal",
+			"_tsDateAdded": 1716871490
+		}
+	],
 	"_idRow": 515275,
 	"_sName": "bhop_colorblox",
 	"_sText": "<b><span class=\"GreenColor\">Inspired by artwork from @johnwowcool on instagram</span><br></b><br><br>Beginner to intermediate <1 min map made for any bhop style<br><br>Somewhat difficult 30-40 sec bonus for more advanced players.<br><br>Enjoy!<br>"
