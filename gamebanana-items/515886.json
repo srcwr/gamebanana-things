@@ -21,11 +21,13 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1204803,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 12,
 			"_nFilesize": 932553,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
 			"_sDescription": "New current version (1.1)",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1204803",
 			"_sFile": "destination_11.rar",
@@ -33,7 +35,32 @@
 			"_tsDateAdded": 1717116611
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Added a playable connector between T and CT spawns through mansion"
+				},
+				{
+					"cat": "Optimization",
+					"text": "Minor FPS optimization"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Minor gugfixes"
+				},
+				{
+					"cat": "Tweak",
+					"text": "Secret weapons are better now and placed for both teams (1 mag in each weapon)"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "DESTINATION v1.1",
+			"_sVersion": "1.1",
+			"_tsDateAdded": 1717117300
+		}
+	],
 	"_idRow": 515886,
 	"_sName": "DESTINATION",
 	"_sText": "Destination is currently my smallest map. 1V1 game mode."
