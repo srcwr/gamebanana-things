@@ -2,14 +2,22 @@
 	"_aAlternateFileSources": null,
 	"_aFiles": [
 		{
-			"_aMetadata": [],
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"dm_hangar.bsp",
+					"dm_hangar.nav",
+					"dm_hangar.txt"
+				]
+			},
 			"_bContainsExe": false,
 			"_idRow": 1205885,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 15,
 			"_nFilesize": 6721827,
-			"_sAnalysisResult": "Undetermined",
-			"_sAnalysisResultCode": "undetermined",
-			"_sAnalysisState": "pending",
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1205885",
 			"_sFile": "dm_hangar_bbd33.zip",
