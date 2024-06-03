@@ -2,21 +2,6 @@
 	"_aAlternateFileSources": null,
 	"_aFiles": [
 		{
-			"_aMetadata": [],
-			"_bContainsExe": false,
-			"_idRow": 1207348,
-			"_nDownloadCount": 0,
-			"_nFilesize": 20,
-			"_sAnalysisResult": "Archive extraction failed (corrupt or password-protected)",
-			"_sAnalysisResultCode": "extraction_error",
-			"_sAnalysisState": "done",
-			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1207348",
-			"_sFile": "de_shturm_11.rar",
-			"_sMd5Checksum": "ad08fe53a5e484ea568d60544ef3f05c",
-			"_tsDateAdded": 1717405182
-		},
-		{
 			"_aMetadata": {
 				"_aArchiveFileTree": {
 					"de_shturm": [
@@ -37,11 +22,42 @@
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1207354",
 			"_sFile": "de_shturm11_bot_3fac7.rar",
 			"_sMd5Checksum": "28648c6f4a044178b4b9b19a6dcff547",
 			"_tsDateAdded": 1717406256
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"de_shturm": [
+						"README.txt",
+						"de_shturm.bsp",
+						"de_shturm.lin",
+						"de_shturm.log",
+						"de_shturm.nav",
+						"de_shturm.vmf",
+						"de_shturm.vmx"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 1207355,
+			"_nDownloadCount": 0,
+			"_nFilesize": 1423510,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1207355",
+			"_sFile": "de_shturm_11_51dd4.rar",
+			"_sMd5Checksum": "9f0db0dfcef016ea83154aacdb6e6a0f",
+			"_tsDateAdded": 1717406370
 		}
 	],
 	"_aLatestUpdates": [
