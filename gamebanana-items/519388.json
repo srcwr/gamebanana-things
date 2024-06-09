@@ -341,7 +341,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1211685,
-			"_nDownloadCount": 2,
+			"_nDownloadCount": 4,
 			"_nFilesize": 24773329,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -355,14 +355,23 @@
 			"_tsDateAdded": 1717932024
 		},
 		{
-			"_aMetadata": [],
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"test_n_adjust.log",
+					"test_n_adjust.prt",
+					"test_n_adjust.vmf",
+					"test_n_adjust.vmx"
+				]
+			},
 			"_bContainsExe": false,
 			"_idRow": 1211749,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 1,
 			"_nFilesize": 509722,
-			"_sAnalysisResult": "Undetermined",
-			"_sAnalysisResultCode": "undetermined",
-			"_sAnalysisState": "pending",
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
 			"_sDescription": "Map Source",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1211749",
 			"_sFile": "test_n_adjust.7z",
@@ -385,5 +394,5 @@
 	],
 	"_idRow": 519388,
 	"_sName": "Test_n_Adjust",
-	"_sText": "For Weapon Testing<br><ul><li>Weapon World Model Exhibition</li><li>Weapon Range Test [0, 8192]</li><li>Player Model Animation Sequence Test</li><li>Hostage Rescue Test</li><li>Bomb Plant Test</li><li>Footstep Sound and Bullet Collision Test</li><li>Dark Room - Weapon Texture Luminance & Glowing Test</li><li class=\"SelectedElement\">Light Room - Weapon Texture Reflection Test</li></ul>"
+	"_sText": "For Weapon Testing<br><ul><li>Weapon World Model Exhibition</li><li>Weapon Range Test [0, 8192] (512 units between each two white lines)</li><li>Player Model Animation Sequence Test</li><li class=\"SelectedElement\">Hostage Rescue Test</li><li>Bomb Plant Test</li><li>Footstep Sound and Bullet Collision Test</li><li>Dark Room - Weapon Texture Luminance &amp; Glowing Test</li><li>Light Room - Weapon Texture Reflection Test (Try shoot at numeric and walls)</li></ul>"
 }
