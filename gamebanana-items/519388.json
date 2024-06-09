@@ -341,19 +341,48 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1211685,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 2,
 			"_nFilesize": 24773329,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
 			"_sDescription": "Final version",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1211685",
 			"_sFile": "test_and_adjust_omega.7z",
 			"_sMd5Checksum": "366b74535d66d0ac0fd6fe16d21cd89e",
 			"_tsDateAdded": 1717932024
+		},
+		{
+			"_aMetadata": [],
+			"_bContainsExe": false,
+			"_idRow": 1211749,
+			"_nDownloadCount": 0,
+			"_nFilesize": 509722,
+			"_sAnalysisResult": "Undetermined",
+			"_sAnalysisResultCode": "undetermined",
+			"_sAnalysisState": "pending",
+			"_sDescription": "Map Source",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1211749",
+			"_sFile": "test_n_adjust.7z",
+			"_sMd5Checksum": "db15366d88f3e1c148836b47cc0f7e28",
+			"_tsDateAdded": 1717939007
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Map Source"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Map Source",
+			"_tsDateAdded": 1717938978
+		}
+	],
 	"_idRow": 519388,
 	"_sName": "Test_n_Adjust",
 	"_sText": "For Weapon Testing<br><ul><li>Weapon World Model Exhibition</li><li>Weapon Range Test [0, 8192]</li><li>Player Model Animation Sequence Test</li><li>Hostage Rescue Test</li><li>Bomb Plant Test</li><li>Footstep Sound and Bullet Collision Test</li><li>Dark Room - Weapon Texture Luminance & Glowing Test</li><li class=\"SelectedElement\">Light Room - Weapon Texture Reflection Test</li></ul>"
