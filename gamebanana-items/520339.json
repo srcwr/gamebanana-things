@@ -1,0 +1,51 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"de_raid": {
+						"0": "de_raid.bsp",
+						"de_raid_custom": {
+							"materials": {
+								"models": {
+									"props": {
+										"cs_office": [
+											"offinspf.vmt",
+											"offinspf.vtf",
+											"offinspf_ref.vtf"
+										]
+									},
+									"props_wasteland": [
+										"prison_objects001.vtf"
+									]
+								}
+							},
+							"sound": [
+								"sound.cache"
+							]
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 1214527,
+			"_nDownloadCount": 0,
+			"_nFilesize": 1539443,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1214527",
+			"_sFile": "de_raid_7e649.zip",
+			"_sMd5Checksum": "b2088ab41e305b092b7e1c8aec16a126",
+			"_tsDateAdded": 1718282491
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 520339,
+	"_sName": "de_raid",
+	"_sText": "This is a map of my house that I made because i wanted to.<br>It includes a full navigation mesh because its epic.<br><br>To install: place the de_raid.bsp into C:\\Program Files (x86)\\Steam\\steamapps\\common\\Counter-Strike Source\\cstrike\\maps<br>and place the de_raid_custom folder in C:\\Program Files (x86)\\Steam\\steamapps\\common\\Counter-Strike Source\\cstrike\\custom<br><br>Then the map should work probably.<br><br>IMPORTANT: includes my cat<br>"
+}
