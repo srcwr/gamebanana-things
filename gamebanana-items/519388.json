@@ -343,11 +343,13 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1214377,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 1,
 			"_nFilesize": 37779292,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
 			"_sDescription": "Final Version & Append",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1214377",
 			"_sFile": "test_and_adjust_omega_.7z",
@@ -709,6 +711,10 @@
 				{
 					"cat": "Addition",
 					"text": "Map Source: Add Materials"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added an Alternative: Main Room BuyZone Removed, for Third-person World Model View Tests"
 				}
 			],
 			"_sText": "",
