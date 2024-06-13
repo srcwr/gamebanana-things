@@ -10,7 +10,9 @@
 					"test_and_adjust": {
 						"maps": [
 							"test_n_adjust.bsp",
-							"test_n_adjust.nav"
+							"test_n_adjust.nav",
+							"test_n_adjust_no_main_buyzone.bsp",
+							"test_n_adjust_no_main_buyzone.nav"
 						],
 						"materials": {
 							"Silkroad": {
@@ -340,19 +342,17 @@
 				}
 			},
 			"_bContainsExe": false,
-			"_idRow": 1211685,
-			"_nDownloadCount": 14,
-			"_nFilesize": 24773329,
+			"_idRow": 1214377,
+			"_nDownloadCount": 0,
+			"_nFilesize": 37779292,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
-			"_sAvastAvResult": "clean",
-			"_sClamAvResult": "clean",
-			"_sDescription": "Final version",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1211685",
-			"_sFile": "test_and_adjust_omega.7z",
-			"_sMd5Checksum": "366b74535d66d0ac0fd6fe16d21cd89e",
-			"_tsDateAdded": 1717932024
+			"_sDescription": "Final Version & Append",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1214377",
+			"_sFile": "test_and_adjust_omega_.7z",
+			"_sMd5Checksum": "76dde322e616e60b341239ae31b08202",
+			"_tsDateAdded": 1718256609
 		},
 		{
 			"_aMetadata": {
