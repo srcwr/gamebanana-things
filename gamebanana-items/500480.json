@@ -5,6 +5,103 @@
 			"_aMetadata": {
 				"_aArchiveFileTree": {
 					"0": "INSTRUCTIONS.txt",
+					"csstrike": {
+						"maps": [
+							"de_florence.bsp"
+						],
+						"materials": {
+							"domitibingen": {
+								"Foliage": {
+									"Palms": {
+										"D_palm_01": [
+											"Cap_04.vmt",
+											"Cap_04.vtf",
+											"DatePalmFrond.vmt",
+											"DatePalmFrond.vtf",
+											"DatePalmFrond_Dead.vmt",
+											"DatePalmFrond_Dead.vtf",
+											"palm_bark_02.vmt",
+											"palm_bark_02.vtf",
+											"palm_bark_02_normal.vtf"
+										]
+									}
+								}
+							}
+						},
+						"models": {
+							"domitibingen": {
+								"Foliage": {
+									"Palms": {
+										"D_palm_01": [
+											"D_palm_b_01.dx80.vtx",
+											"D_palm_b_01.dx90.vtx",
+											"D_palm_b_01.phy",
+											"D_palm_b_01.sw.vtx",
+											"D_palm_b_02.dx80.vtx",
+											"D_palm_b_02.dx90.vtx",
+											"D_palm_b_02.phy",
+											"D_palm_b_02.sw.vtx",
+											"D_palm_b_03.dx80.vtx",
+											"D_palm_b_03.dx90.vtx",
+											"D_palm_b_03.phy",
+											"D_palm_b_03.sw.vtx",
+											"D_palm_b_04.dx80.vtx",
+											"D_palm_b_04.dx90.vtx",
+											"D_palm_b_04.phy",
+											"D_palm_b_04.sw.vtx",
+											"D_palm_b_05.dx80.vtx",
+											"D_palm_b_05.dx90.vtx",
+											"D_palm_b_05.phy",
+											"D_palm_b_05.sw.vtx",
+											"D_palm_s_06.dx80.vtx",
+											"D_palm_s_06.dx90.vtx",
+											"D_palm_s_06.phy",
+											"D_palm_s_06.sw.vtx",
+											"D_palm_s_07.dx80.vtx",
+											"D_palm_s_07.dx90.vtx",
+											"D_palm_s_07.phy",
+											"D_palm_s_07.sw.vtx",
+											"d_palm_b_01.mdl",
+											"d_palm_b_01.vvd",
+											"d_palm_b_02.mdl",
+											"d_palm_b_02.vvd",
+											"d_palm_b_03.mdl",
+											"d_palm_b_03.vvd",
+											"d_palm_b_04.mdl",
+											"d_palm_b_04.vvd",
+											"d_palm_b_05.mdl",
+											"d_palm_b_05.vvd",
+											"d_palm_s_06.mdl",
+											"d_palm_s_06.vvd",
+											"d_palm_s_07.mdl",
+											"d_palm_s_07.vvd"
+										]
+									}
+								}
+							}
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 1212423,
+			"_nDownloadCount": 55,
+			"_nFilesize": 4136362,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
+			"_sDescription": "Final Version (RECCOMENDED)",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1212423",
+			"_sFile": "de_florence_52992.rar",
+			"_sMd5Checksum": "d6e29a2a8479f799e8fb68472757ceaa",
+			"_tsDateAdded": 1718009494
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "INSTRUCTIONS.txt",
 					"maps": [
 						"de_florence.bsp",
 						"de_florence.nav"
@@ -13,14 +110,14 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1156280,
-			"_nDownloadCount": 190,
+			"_nDownloadCount": 227,
 			"_nFilesize": 3321125,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
 			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
-			"_sDescription": "Latest Version (Reccomended)",
+			"_sDescription": "Old (1.0.4)",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1156280",
 			"_sFile": "de_florence_5b0df.rar",
 			"_sMd5Checksum": "216d74b0b9a789a6e03545c708026883",
@@ -38,7 +135,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1155702,
-			"_nDownloadCount": 38,
+			"_nDownloadCount": 41,
 			"_nFilesize": 3100147,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -63,7 +160,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1155089,
-			"_nDownloadCount": 25,
+			"_nDownloadCount": 27,
 			"_nFilesize": 3209949,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -88,7 +185,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1154385,
-			"_nDownloadCount": 49,
+			"_nDownloadCount": 50,
 			"_nFilesize": 3079285,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -133,7 +230,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1154389,
-			"_nDownloadCount": 20,
+			"_nDownloadCount": 22,
 			"_nFilesize": 1387953,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -157,7 +254,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1154388,
-			"_nDownloadCount": 24,
+			"_nDownloadCount": 25,
 			"_nFilesize": 733499,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -172,6 +269,42 @@
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Adjustment",
+					"text": "Lighting Adjustments"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Improved 3D skybox and added moving clouds."
+				},
+				{
+					"cat": "Optimization",
+					"text": "Added more nodraws"
+				},
+				{
+					"cat": "Tweak",
+					"text": "Removed the ivy and adjusted the roof in sniper's nest area to make the windows more visible."
+				},
+				{
+					"cat": "Improvement",
+					"text": "New and improved models"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "No more missing texures (this time for real)"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Misc Changes and improvement"
+				}
+			],
+			"_sText": "<p>The gameplay is now more stabile!</p>",
+			"_sTitle": "Final Version",
+			"_sVersion": "1.0.5",
+			"_tsDateAdded": 1718009980
+		},
 		{
 			"_aChangeLog": [
 				{
@@ -191,37 +324,9 @@
 			"_sTitle": "Out of beta update",
 			"_sVersion": "1.0.4",
 			"_tsDateAdded": 1710528446
-		},
-		{
-			"_aChangeLog": [
-				{
-					"cat": "Bugfix",
-					"text": "No more purple textures, No more box gaps, fixed textures."
-				},
-				{
-					"cat": "Optimization",
-					"text": "Added more nodraws, func_details."
-				},
-				{
-					"cat": "Amendment",
-					"text": "Misc improvements and removal, A site adjustments, Texture improvement, Gave the map better tuscany look."
-				},
-				{
-					"cat": "Overhaul",
-					"text": "Added another new appartments (CT Spawn House entrance), Small layout changes"
-				},
-				{
-					"cat": "Refactor",
-					"text": "Renamed the map to \"Florence\""
-				}
-			],
-			"_sText": "",
-			"_sTitle": "Gameplay Improvement Note",
-			"_sVersion": "1.0.3",
-			"_tsDateAdded": 1710439024
 		}
 	],
 	"_idRow": 500480,
 	"_sName": "de_florence",
-	"_sText": "<h1 class=\"SelectedElement\">Tuscan themed map with 2 bombsites (A, B) - Current version <u>1.0.4 <span class=\"GreenColor\">Out of beta!</span></u><br></h1><br><br>-Florence story:<br>Italian Terrorists came up with an evil plan, to bomb a small town and the CT's supply base, and steal their resources, weapons. The Counter-Terrorists heard about the situation, immediately goes to defend, and eliminate the terrorists for their own good.<br><h1>Map's Features:</h1><ul><li><span class=\"GreenColor\">Bot support</span></li><li>32 players max (16CT, 16T)</li><li>Tuscan a-like theme</li><li>Realistic Ambience</li></ul><ol><li>If you encounter any <span class=\"RedColor\">bugs</span>, please let me know in the comments.</li><li><span class=\"GreenColor\">Enjoy the map</span></li></ol>"
+	"_sText": "<h1>Tuscan themed map with 2 bombsites (A, B) - Current version <u>1.0.5&nbsp;<span class=\"GreenColor\"><span class=\"RedColor\">Final Version</span></span></u><br></h1><br><br>-Florence story:<br>Italian Terrorists came up with an evil plan, to bomb a small town and the CT's supply base, and steal their resources, weapons. The Counter-Terrorists heard about the situation, immediately goes to defend, and eliminate the terrorists for their own good.<br><h1>Map's Features:</h1><ul><li><span class=\"GreenColor\">Bot support <span class=\"RedColor\">(must type in console <span class=\"GreenColor\">\"</span>nav_generate<span class=\"GreenColor\">\"</span> for bot navigation file)</span></span><br></li><li><span class=\"GreenColor\">32</span> players max (16CT, 16T)</li><li class=\"SelectedElement\">Tuscan a-like theme</li><li><span class=\"GreenColor\">Realistic</span> Ambience</li><li><span class=\"GreenColor\">Fun</span> gameplay (in my opinion)</li></ul><ol><li>If you encounter any <span class=\"RedColor\">bugs</span>, please let me know in the comments.</li><li><span class=\"GreenColor\">Enjoy the map</span></li></ol>"
 }
