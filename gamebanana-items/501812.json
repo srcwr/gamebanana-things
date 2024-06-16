@@ -4,27 +4,84 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
-					"kz_jayverb0.bsp"
+					"kz_jayverb00.bsp"
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1158533,
-			"_nDownloadCount": 53,
-			"_nFilesize": 15578554,
+			"_idRow": 1197870,
+			"_nDownloadCount": 30,
+			"_nFilesize": 17466434,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
 			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1158533",
-			"_sFile": "kz_jayverb0.zip",
-			"_sMd5Checksum": "2fa3aaca327937fc028b0f5d80c2e5da",
-			"_tsDateAdded": 1710825712
+			"_sDownloadUrl": "https://gamebanana.com/dl/1197870",
+			"_sFile": "kz_jayverb00_33736.zip",
+			"_sMd5Checksum": "714d8fa655ce6d48044f92d144d9a861",
+			"_tsDateAdded": 1716159838
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "Fixed bug where player could hit !R at the end of the last stage and instantly beat the map"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed a skip halfway through the last stage"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Added env_tonemap to fix map being extremely bright at some points"
+				},
+				{
+					"cat": "Tweak",
+					"text": "All delayed teleports changed to instantaneous"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "kz_jayverb",
+			"_sVersion": "3.0.0",
+			"_tsDateAdded": 1718534054
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Amendment",
+					"text": "Packed only essential files into the .bsp"
+				},
+				{
+					"cat": "Suggestion",
+					"text": "Reduced frequency and volume of helicopter sound (7-12>30-60) (0.6-0.4)"
+				},
+				{
+					"cat": "Suggestion",
+					"text": "Made the env_sparks on the generators in level 2 not produce any sound"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed bug where the door frames would cast shadows where they shouldnt"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed a bug where one of the prop statics would cause the HDR lighting to glitch out (changed to dynamic)"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Seams in 3D Skybox made as unnoticeable as possible (unable to sew)"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "kz_jayverb",
+			"_sVersion": "1.2",
+			"_tsDateAdded": 1716159806
+		}
+	],
 	"_idRow": 501812,
 	"_sName": "kz_jayverb",
-	"_sText": "<h1><b><span class=\"GreenColor\"><u>Tier 1</u> KZ Map</span></b></h1><h1 class=\"SelectedElement\"><b><span class=\"RedColor\">Stages:</span></b></h1><h3><span class=\"GreenColor\"><b>1.</b> Easy<br><b>2.&nbsp;</b>Medium&nbsp;<br><b>3.</b> Hard</span></h3><br><h1><b><span class=\"RedColor\">Bonus Stages:</span></b></h1><h3><span class=\"GreenColor\"><b>1.</b> Bhop<br><b>2.</b> Extreme KZ</span></h3>"
+	"_sText": "Available on Dream Island Servers:<br>IP: <span class=\"GreenColor SelectedElement\">45.136.204.179:4444</span> | KZ<br><br><br><h1><b><span class=\"GreenColor\"><u>Tier 1</u> KZ Map</span></b></h1><h1><b><span class=\"RedColor\">Stages:</span></b></h1><h3><span class=\"GreenColor\"><b>1.</b> Easy<br><b>2.&nbsp;</b>Medium&nbsp;<br><b>3.</b> Hard</span></h3><br><h1><b><span class=\"RedColor\">Bonus Stages:</span></b></h1><h3><span class=\"GreenColor\"><b>1.</b> Bhop<br><b>2.</b> Extreme KZ</span></h3>"
 }
