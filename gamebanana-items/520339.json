@@ -2,46 +2,19 @@
 	"_aAlternateFileSources": null,
 	"_aFiles": [
 		{
-			"_aMetadata": {
-				"_aArchiveFileTree": {
-					"de_raid": {
-						"0": "de_raid.bsp",
-						"de_raid_custom": {
-							"materials": {
-								"models": {
-									"props": {
-										"cs_office": [
-											"offinspf.vmt",
-											"offinspf.vtf",
-											"offinspf_ref.vtf"
-										]
-									},
-									"props_wasteland": [
-										"prison_objects001.vtf"
-									]
-								}
-							},
-							"sound": [
-								"sound.cache"
-							]
-						}
-					}
-				}
-			},
+			"_aMetadata": [],
 			"_bContainsExe": false,
-			"_idRow": 1214527,
-			"_nDownloadCount": 48,
-			"_nFilesize": 1539443,
-			"_sAnalysisResult": "File passed analysis",
-			"_sAnalysisResultCode": "ok",
-			"_sAnalysisState": "done",
-			"_sAvastAvResult": "clean",
-			"_sClamAvResult": "clean",
+			"_idRow": 1217411,
+			"_nDownloadCount": 0,
+			"_nFilesize": 1689856,
+			"_sAnalysisResult": "Undetermined",
+			"_sAnalysisResultCode": "undetermined",
+			"_sAnalysisState": "pending",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1214527",
-			"_sFile": "de_raid_7e649.zip",
-			"_sMd5Checksum": "b2088ab41e305b092b7e1c8aec16a126",
-			"_tsDateAdded": 1718282491
+			"_sDownloadUrl": "https://gamebanana.com/dl/1217411",
+			"_sFile": "de_raid_3530c.zip",
+			"_sMd5Checksum": "1357678c49e2f4626387fcefabb14298",
+			"_tsDateAdded": 1718589230
 		}
 	],
 	"_aLatestUpdates": [],
