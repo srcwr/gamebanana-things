@@ -2,14 +2,43 @@
 	"_aAlternateFileSources": null,
 	"_aFiles": [
 		{
-			"_aMetadata": [],
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"de_raid": {
+						"0": "de_raid.bsp",
+						"de_raid_custom": {
+							"materials": {
+								"models": {
+									"props": {
+										"cs_office": [
+											"offinspf.vmt",
+											"offinspf.vtf",
+											"offinspf_ref.vtf",
+											"screen.vmt",
+											"screen.vtf"
+										]
+									},
+									"props_wasteland": [
+										"prison_objects001.vtf"
+									]
+								}
+							},
+							"sound": [
+								"sound.cache"
+							]
+						}
+					}
+				}
+			},
 			"_bContainsExe": false,
 			"_idRow": 1217411,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 7,
 			"_nFilesize": 1689856,
-			"_sAnalysisResult": "Undetermined",
-			"_sAnalysisResultCode": "undetermined",
-			"_sAnalysisState": "pending",
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1217411",
 			"_sFile": "de_raid_3530c.zip",
@@ -17,7 +46,19 @@
 			"_tsDateAdded": 1718589230
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "",
+					"text": "added some stuff to fix bot behavior, added minor changes to the map, and added some more screenshots."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "stuff",
+			"_tsDateAdded": 1718590160
+		}
+	],
 	"_idRow": 520339,
 	"_sName": "de_raid",
 	"_sText": "This is a map of my house that I made because i wanted to.<br>It includes a full navigation mesh because its epic.<br><br>To install: place the de_raid.bsp into C:\\Program Files (x86)\\Steam\\steamapps\\common\\Counter-Strike Source\\cstrike\\maps<br>and place the de_raid_custom folder in C:\\Program Files (x86)\\Steam\\steamapps\\common\\Counter-Strike Source\\cstrike\\custom<br><br>Then the map should work probably.<br><br>IMPORTANT: includes my cat<br>"
