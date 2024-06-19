@@ -4,32 +4,49 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": {
-					"0": "ze_permafrost_v1.bsp",
+					"0": "ze_permafrost_v1_1.bsp",
 					"bosshp": [
-						"ze_permafrost_b2.cfg"
+						"ze_permafrost_v1_1.cfg"
 					],
 					"entwatch": [
-						"ze_permafrost_b2.cfg"
+						"ze_permafrost_v1_1.cfg"
 					]
 				}
 			},
 			"_bContainsExe": false,
-			"_idRow": 1217748,
-			"_nDownloadCount": 7,
-			"_nFilesize": 173303971,
+			"_idRow": 1218908,
+			"_nDownloadCount": 0,
+			"_nFilesize": 173308342,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
 			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
 			"_sDescription": "bsp, bosshud, entwatch",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1217748",
-			"_sFile": "ze_permafrost_v1.zip",
-			"_sMd5Checksum": "4aa84eff40aa6853e17bf2739522c79e",
-			"_tsDateAdded": 1718632135
+			"_sDownloadUrl": "https://gamebanana.com/dl/1218908",
+			"_sFile": "ze_permafrost_v1_1.zip",
+			"_sMd5Checksum": "d302ccb079f5dd412e892a47cf8d054f",
+			"_tsDateAdded": 1718797814
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "Fixed missing particles"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed missing textures"
+				}
+			],
+			"_sText": "<p>Entwatch and bosshud have the correct name in the zip file now</p>",
+			"_sTitle": "Fix",
+			"_sVersion": "V1_1",
+			"_tsDateAdded": 1718797902
+		}
+	],
 	"_idRow": 522199,
 	"_sName": "ze_permafrost",
 	"_sText": "Map made for the Nide Contest 2024<br><br>Map contains :<br><br>- 3 checkpoints<br><br>- Hard mode (no checkpoint)<br><br>- 5 bosses<br><br>- 4 human items<br><br>- 3 zombie items<br><br>- Lot of lifts<br><br>Map length is about 50 minutes without checkpoints."
