@@ -32,11 +32,13 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1218063,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 11,
 			"_nFilesize": 1648471,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1218063",
 			"_sFile": "de_raid_a037d.zip",
@@ -45,6 +47,17 @@
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "",
+					"text": "added more stuff to fix bot behavior."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "more stuff",
+			"_tsDateAdded": 1718673263
+		},
 		{
 			"_aChangeLog": [
 				{
