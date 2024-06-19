@@ -19,14 +19,67 @@
 			"_sAnalysisState": "done",
 			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
-			"_sDescription": "Unzip and drag all files into css maps folder",
+			"_sDescription": "version 1.0",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1217932",
 			"_sFile": "de_station.zip",
 			"_sMd5Checksum": "172dd2698d7f8c4bda139618a83b863b",
 			"_tsDateAdded": 1718654717
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_station.bsp",
+					"de_station.prt",
+					"de_station.vmf",
+					"de_station.vmx"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 1219210,
+			"_nDownloadCount": 0,
+			"_nFilesize": 1087082,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
+			"_sDescription": "version 1.1",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1219210",
+			"_sFile": "de_station_9dbbc.zip",
+			"_sMd5Checksum": "178c1e8e23fefb81a3564875a606a302",
+			"_tsDateAdded": 1718823474
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "",
+					"text": "Changed bombsite A"
+				},
+				{
+					"cat": "",
+					"text": "Closed up gap besides a side building"
+				},
+				{
+					"cat": "",
+					"text": "Added soundscapes & cubemaps"
+				},
+				{
+					"cat": "",
+					"text": "Added road behind ct spawn"
+				},
+				{
+					"cat": "",
+					"text": "Moved ct spawn forward"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "de_station",
+			"_sVersion": "1.1",
+			"_tsDateAdded": 1718823696
+		}
+	],
 	"_idRow": 522264,
 	"_sName": "de_station",
 	"_sText": "Defusal map taking place in a run down private trainyard.<br><br>My first css map, i don't really know anthing about balancing and such but it was fun to make and learn hammer.<br>"
