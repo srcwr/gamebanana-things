@@ -20,20 +20,56 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 819091,
-			"_nDownloadCount": 33,
+			"_nDownloadCount": 43,
 			"_nFilesize": 35201494,
 			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/819091",
 			"_sFile": "kz_754cb.7z",
 			"_sMd5Checksum": "b3801b608a4b0035117451fbd4a7b3fb",
 			"_tsDateAdded": 1656070804
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"kz_ruins_fix.bsp",
+					"kz_ruins_fix.cfg"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 1220262,
+			"_nDownloadCount": 0,
+			"_nFilesize": 8386887,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1220262",
+			"_sFile": "kz_ruins_fix.zip",
+			"_sMd5Checksum": "716ba2d23cb34c6e4993a654259d49cc",
+			"_tsDateAdded": 1718963833
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "Fixed skip on kz_ruins (new version is kz_ruins_fix) and added a stripper to replace the anticheat with a teleport if you dont like gravity"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "kz_ruins_fix",
+			"_tsDateAdded": 1718963913
+		}
+	],
 	"_idRow": 385409,
 	"_sName": "KZMOD mix cruma port pack",
-	"_sText": "Includes<br><br>bhop_speedhop<br>kz_bhop_cruma<br>kz_lava<br>kz_ruins<br><br><br>Extra<br>bhop_nightmare<br>kz_black_and_white<br>kz_kings_challenge<br><br><br><br>Descriptions<br><br><br>bhop_speedhop<br>Original map by ei-zmei<br>contains 1 course: bhop_speedhop<br>notes: not intended for legit scroll although possible to beat<br><br>kz_bhop_cruma<br>Original map by ei-zmei<br>contains 3 courses: kz_bhop_crumahop, kz_mad_mini #1 and kz_mad_mini #2<br><br>kz_lava<br>Original map by ei-zmei<br>contains 2 courses: kz_lava and kz_pillars_of_doom<br><br>kz_ruins<br>Original map by ei-zmei<br>contains 2 courses: kz_ruins and kz_dire_devil<br>notes: there's an antijump trigger throughout most of the ground level to prevent cheating/skipping, restarting your timer should reset gravity but pressing the start button will also reset gravity.<br><br>bhop_nightmare<br>Original map by FragGyver<br>contains 2 courses: bhop_nightmare and slide_minisliderace<br>notes: the sideways func_door platforms aren't supported by mpbhops<br><br>kz_black_and_white<br>Original map by FragGyver<br>contains 2 courses: kz_black_and_white and bhop_mind_and_matter<br><br>kz_kings_challenge<br>Original map by SoUlFaThEr<br>contains 2 courses: kz_kings_challenge #1 and kz_kings_challenge #2<br><br><br>"
+	"_sText": "Includes<br><br>bhop_speedhop<br>kz_bhop_cruma<br>kz_lava<br>kz_ruins<br><br>Extra<br>bhop_nightmare<br>kz_black_and_white<br>kz_kings_challenge<br><br><br>Descriptions<br><br>bhop_speedhop<br>Original map by ei-zmei<br>contains 1 course: bhop_speedhop<br>notes: not intended for legit scroll although possible to beat<br><br>kz_bhop_cruma<br>Original map by ei-zmei<br>contains 3 courses: kz_bhop_crumahop, kz_mad_mini #1 and kz_mad_mini #2<br><br>kz_lava<br>Original map by ei-zmei<br>contains 2 courses: kz_lava and kz_pillars_of_doom<br><br>kz_ruins<br>Original map by ei-zmei<br>contains 2 courses: kz_ruins and kz_dire_devil<br>notes: there's an antijump trigger throughout most of the ground level to prevent cheating/skipping, restarting your timer should reset gravity but pressing the start button will also reset gravity.<br><br>bhop_nightmare<br>Original map by FragGyver<br>contains 2 courses: bhop_nightmare and slide_minisliderace<br>notes: the sideways func_door platforms aren't supported by mpbhops<br><br>kz_black_and_white<br>Original map by FragGyver<br>contains 2 courses: kz_black_and_white and bhop_mind_and_matter<br><br>kz_kings_challenge<br>Original map by SoUlFaThEr<br>contains 2 courses: kz_kings_challenge #1 and kz_kings_challenge #2<br><br>"
 }
