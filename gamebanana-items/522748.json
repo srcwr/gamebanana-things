@@ -4,55 +4,47 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": {
-					"bhop_forest_night": [
-						"README.txt",
-						"bhop_forest_night.vpk",
-						"ПРОЧТИ МЕНЯ.txt"
-					]
-				}
-			},
-			"_bContainsExe": false,
-			"_idRow": 1219598,
-			"_nDownloadCount": 1,
-			"_nFilesize": 869832,
-			"_sAnalysisResult": "File passed analysis",
-			"_sAnalysisResultCode": "ok",
-			"_sAnalysisState": "done",
-			"_sAvastAvResult": "clean",
-			"_sClamAvResult": "clean",
-			"_sDescription": "Night version",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1219598",
-			"_sFile": "bhop_forest_night_f679d.rar",
-			"_sMd5Checksum": "133ac95603498852a2f2977d385e667a",
-			"_tsDateAdded": 1718866273
-		},
-		{
-			"_aMetadata": {
-				"_aArchiveFileTree": {
 					"bhop_forest": [
 						"README.txt",
-						"bhop_forest.vpk",
+						"bhop_forest.bsp",
 						"ПРОЧТИ МЕНЯ.txt"
 					]
 				}
 			},
 			"_bContainsExe": false,
-			"_idRow": 1219599,
-			"_nDownloadCount": 1,
-			"_nFilesize": 1108403,
+			"_idRow": 1220954,
+			"_nDownloadCount": 0,
+			"_nFilesize": 1158855,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
 			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
-			"_sDescription": "Day version",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1219599",
-			"_sFile": "bhop_forest_167af.rar",
-			"_sMd5Checksum": "1b3bcacd9f3d3c3db8ce8b412a1a6a93",
-			"_tsDateAdded": 1718866276
+			"_sDescription": "Day version,sorry no night for now",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1220954",
+			"_sFile": "bhop_forest_079fb.rar",
+			"_sMd5Checksum": "6fd83dccdabd2ccdb0e7817057ebbebc",
+			"_tsDateAdded": 1719061988
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Improvement",
+					"text": "Everything custom is now in .bsp file!"
+				},
+				{
+					"cat": "Removal",
+					"text": "Removed unnecessary brushes"
+				}
+			],
+			"_sText": "<p>Thanks to everyone who sent me feedbacks so I knew what was wrong with my map!</p>",
+			"_sTitle": "Minor Update",
+			"_sVersion": "v1.1",
+			"_tsDateAdded": 1719061779
+		}
+	],
 	"_idRow": 522748,
 	"_sName": "bhop_forest",
 	"_sText": "Hi, This is my first time porting maps from CS 1.6 to CS:S,so please don`t be shy and point at errors or bugs in comments!"
