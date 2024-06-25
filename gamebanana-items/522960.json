@@ -165,7 +165,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1221037,
-			"_nDownloadCount": 3,
+			"_nDownloadCount": 6,
 			"_nFilesize": 7772356,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -222,7 +222,36 @@
 			"_tsDateAdded": 1718972280
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Adjustment",
+					"text": "Made the lighting more depressing and murky, to make it look more like cs1.6's dust"
+				},
+				{
+					"cat": "Optimization",
+					"text": "Made some blocks as func_detail and made more nodraws"
+				},
+				{
+					"cat": "Improvement",
+					"text": "New custom, and improved textures (I made some of them my self)"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Made the map a little bit more balanced for both teams"
+				},
+				{
+					"cat": "Removal",
+					"text": "Removed fog and dust clouds"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Forgot to mention the update",
+			"_sVersion": "0.3",
+			"_tsDateAdded": 1719207043
+		}
+	],
 	"_idRow": 522960,
 	"_sName": "de_dustyards_csco",
 	"_sText": "<h1><img src=\"https://images.gamebanana.com/static/img/mascots/detective.png\" data-error-src=\"https://gamebanana.com/mods/null\" class=\"ImgError\" title=\"Image Not Found\"><u>Open beta - 21.06.24</u></h1><br>A small map, that has a really similiar theme to <a href=\"https://gamebanana.com/mods/101968\">de_dust2_csco</a><br>Has only 1 bombsite.<br><br><ul><li class=\"SelectedElement\">Please leave feedback in the comments, so i can improve the map.</li></ul><img src=\"https://files.gamebanana.com/img/ss/mods/6675724a96f4d.jpg\">"
