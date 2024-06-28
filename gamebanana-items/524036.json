@@ -2,7 +2,7 @@
 	"_aAlternateFileSources": [
 		{
 			"description": "Mediafire",
-			"url": "https://www.mediafire.com/file/0yrw54sebvc3snb/de_drain.zip/file"
+			"url": "https://www.mediafire.com/file/naen2eo2ofvjozk/de_drain_final.zip/file"
 		}
 	],
 	"_aFiles": [
@@ -11,26 +11,35 @@
 				"_aArchiveFileTree": [
 					"README.txt",
 					"de_drain.bsp",
+					"de_drain.nav",
 					"de_drain.txt"
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1223667,
-			"_nDownloadCount": 18,
-			"_nFilesize": 2199499,
+			"_idRow": 1224983,
+			"_nDownloadCount": 0,
+			"_nFilesize": 966490,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
 			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1223667",
-			"_sFile": "de_drain.zip",
-			"_sMd5Checksum": "2ee1b2ea10924fcfc144a46a5810e8ca",
-			"_tsDateAdded": 1719410819
+			"_sDownloadUrl": "https://gamebanana.com/dl/1224983",
+			"_sFile": "de_drain_final.zip",
+			"_sMd5Checksum": "f75d368b9e9e038c1adcaedb7739b317",
+			"_tsDateAdded": 1719592520
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [],
+			"_sText": "<p>Updated a new area, redid soundscapes, added dustmotes and optimized</p>",
+			"_sTitle": "Final Update",
+			"_sVersion": "Final",
+			"_tsDateAdded": 1719592641
+		}
+	],
 	"_idRow": 524036,
 	"_sName": "de_drain",
 	"_sText": "A recreation of my friend's map that I've decided to make.<br>**THIS MAP DOES NOT INCLUDE BOT NAV FILES OR RADAR FILES!!!**<br><br>Have fun, <i>my fellow cryptobros!</i><br>"
