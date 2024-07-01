@@ -6,6 +6,31 @@
 				"_aArchiveFileTree": [
 					"de_castle.bsp",
 					"de_castle.lin",
+					"de_castle.log",
+					"de_castle.vmf",
+					"de_castle.vmx"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 1227106,
+			"_nDownloadCount": 0,
+			"_nFilesize": 1905644,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
+			"_sDescription": "Version 1.1",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1227106",
+			"_sFile": "de_castle_0f98a.zip",
+			"_sMd5Checksum": "44c50a60fe1c54f29939f6bd1a8624cf",
+			"_tsDateAdded": 1719856271
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_castle.bsp",
+					"de_castle.lin",
 					"de_castle.vmf",
 					"de_castle.vmx"
 				]
@@ -26,7 +51,32 @@
 			"_tsDateAdded": 1719443365
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Added stair clips"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Moved/Deleted boxes in mid"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added more foliage to A"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added clip to T ramp"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "de_castle",
+			"_sVersion": "1.1",
+			"_tsDateAdded": 1719856370
+		}
+	],
 	"_idRow": 524137,
 	"_sName": "de_castle",
 	"_sText": "My second real css map, i'd say this was a real step up from my first one in terms of theme.<br><br>I wanted to experiment with styles and not make factory style buildings the whole time,<br><br>so here is my first attempt at a castle themed map :)<br>"
