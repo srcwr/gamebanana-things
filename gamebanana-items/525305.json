@@ -10,11 +10,13 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1227618,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 1,
 			"_nFilesize": 1707056,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1227618",
 			"_sFile": "gg_mixer.zip",
@@ -25,5 +27,5 @@
 	"_aLatestUpdates": [],
 	"_idRow": 525305,
 	"_sName": "gg_mixer",
-	"_sText": "My first Gun Game/CS:S map published! Feedback is appreciated<br><br>A very small and simple Gun Game arena with a hazard in the middle - Wet cement that falls through a small corridor every thirty or so seconds, crushing anyone beneath it while also blocking the sight line passing through it.<br><br>No custom textures included - all base game stuff. A .nav mesh is also included for bot support. Also, the previously described hazard requires a long-ish jump to reach, meaning bots cannot reach it (I couldn't figure out how to make bots jump across gaps. Feel free tell me how in the comments!)<br>"
+	"_sText": "My first Gun Game/CS:S map published! Feedback is appreciated<br><br>A very small and simple Gun Game arena with a hazard in the middle - cement falls through a small corridor every thirty or so seconds, crushing anyone beneath it while also blocking the sight line through it.<br><br>No custom textures included - all base game stuff. A .nav mesh is also included for bot support. Also, the previously described hazard requires a long-ish jump to reach, meaning bots cannot reach it (I couldn't figure out how to make bots jump across gaps. Feel free tell me how in the comments!)<br>"
 }
