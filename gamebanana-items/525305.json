@@ -4,6 +4,28 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
+					"gg_mixer_v2.bsp",
+					"gg_mixer_v2.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 1228738,
+			"_nDownloadCount": 3,
+			"_nFilesize": 2321077,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
+			"_sDescription": "Added upper ledges + more",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1228738",
+			"_sFile": "gg_mixer_v2.zip",
+			"_sMd5Checksum": "e3927a49d1ffbd5492090a52c575f9c2",
+			"_tsDateAdded": 1720069867
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
 					"gg_mixer.bsp",
 					"gg_mixer.nav"
 				]
@@ -22,32 +44,39 @@
 			"_sFile": "gg_mixer.zip",
 			"_sMd5Checksum": "abde391cd09b3a425f37bc4655062223",
 			"_tsDateAdded": 1719931353
-		},
-		{
-			"_aMetadata": {
-				"_aArchiveFileTree": [
-					"gg_mixer_v2.bsp",
-					"gg_mixer_v2.nav"
-				]
-			},
-			"_bContainsExe": false,
-			"_idRow": 1228738,
-			"_nDownloadCount": 0,
-			"_nFilesize": 2321077,
-			"_sAnalysisResult": "File passed analysis",
-			"_sAnalysisResultCode": "ok",
-			"_sAnalysisState": "done",
-			"_sAvastAvResult": "clean",
-			"_sClamAvResult": "clean",
-			"_sDescription": "Added upper ledges + more",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1228738",
-			"_sFile": "gg_mixer_v2.zip",
-			"_sMd5Checksum": "e3927a49d1ffbd5492090a52c575f9c2",
-			"_tsDateAdded": 1720069867
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Added upper ledges accessible from a ladder in each spawn room"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added an invisible barrier at the top of the map, preventing out of bounds access"
+				},
+				{
+					"cat": "Tweak",
+					"text": "Bots can now jump across the gap across to the cement mixer platform"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Lowered the height in which the spawn room windows sit at"
+				},
+				{
+					"cat": "Removal",
+					"text": "Removed cables connecting the outdoor lights"
+				}
+			],
+			"_sText": "<p>When initially creating this map, I feared adding accessible catwalks, balconies or ledges may annoy players on the ground too much. Then I figured, \"Its a GG map, its meant to be annoying!\". I did still try to balance these ledges by ensuring they're slanted to allow ground players an easier time shooting at players standing on them. Though, I can only go so far in ensuring the map plays well since I've only been using bots to test the gameplay flow.</p><p>Speaking of bots, bots cannot access these new ledges. Despite much troubleshooting, bots simply refuse to climb ladders. I could opt for a staircase instead, but I want this map to be quick fun and staircases are too slow to climb. </p><p>Bots can now jump across the gap across to the cement mixer platform too, so that's cool at least. </p><p>I also lowered the height that the spawn room windows sit at, so you don't need to jump to see out of them. The cables connecting the outdoor lights have been removed because they looked a bit tacky to me after all. Fog has also been decreased for more distant visibility.</p>",
+			"_sTitle": "gg_mixer Version 2",
+			"_sVersion": "2",
+			"_tsDateAdded": 1720070606
+		}
+	],
 	"_idRow": 525305,
 	"_sName": "gg_mixer",
-	"_sText": "My first Gun Game/CS:S map published! Feedback is appreciated<br><br>A very small and simple Gun Game arena with a hazard in the middle - cement falls through a small corridor every thirty or so seconds, crushing anyone beneath it while also blocking the sight line through it. Ledges extending across the top walls of the arena provide more vantage points and means of access to each team's spawn room.<br><br>No custom textures included - all base game stuff. A .nav mesh is also included for bot support. Also, bots cannot access the upper ledges because they hate ladders I guess &gt;:(<br>"
+	"_sText": "My first Gun Game/CS:S map published! Feedback is appreciated<br><br>A very small and simple Gun Game arena with a hazard in the middle - cement falls through a small corridor every thirty or so seconds, crushing anyone beneath it while also blocking the sight line through it. Ledges extending across the top walls of the arena provide more vantage points and means of access to each team's spawn room.<br><br>No custom textures included - all base game stuff. A .nav mesh is also included for bot support. Also, bots cannot access the upper ledges because they hate ladders I guess >:(<br>"
 }
