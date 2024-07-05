@@ -4,13 +4,35 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
+					"gg_mixer_v2b.bsp",
+					"gg_mixer_v2b.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 1229763,
+			"_nDownloadCount": 0,
+			"_nFilesize": 2429891,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
+			"_sDescription": "Improved bot support",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1229763",
+			"_sFile": "gg_mixer_v2b.zip",
+			"_sMd5Checksum": "c240b27ea4588ae4c36799ae53c9e5f6",
+			"_tsDateAdded": 1720189863
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
 					"gg_mixer_v2.bsp",
 					"gg_mixer_v2.nav"
 				]
 			},
 			"_bContainsExe": false,
 			"_idRow": 1228738,
-			"_nDownloadCount": 3,
+			"_nDownloadCount": 10,
 			"_nFilesize": 2321077,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -32,7 +54,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1227618,
-			"_nDownloadCount": 4,
+			"_nDownloadCount": 5,
 			"_nFilesize": 1707056,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -47,6 +69,30 @@
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Added nav meshes across the top ledges to allow bot traversal (somewhat trivial - see below)"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Added new connections between various nav meshes across the map"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Adjusted position of spawn room ladders to allow easier traversal for bots"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed various nav meshes incorrectly connected through walls, confusing bots"
+				}
+			],
+			"_sText": "<p>Despite much effort, bots are simply unable to traverse all top ledges as intended. The jumps needed to traverse the ledges appears to be too large and too diagonal for the bots. I do not wish to change this aspect, since I want players to make big jumps between ledges. Bots seem to dislike the top area anyway, and prefer to duke it out on the ground.</p><p>Regardless, the meshes required for proper bot traversal of the upper ledges is implemented - bots can now access the ledges located at the front-top of each base. Bots can also now traverse the spawn room ladders needed to reach these ledges, as originally intended. Various other nav mesh connections across the map have also been tweaked.</p>",
+			"_sTitle": "gg_mixer Version 2b - improved bot support",
+			"_sVersion": "2b",
+			"_tsDateAdded": 1720190002
+		},
 		{
 			"_aChangeLog": [
 				{
