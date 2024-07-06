@@ -4,26 +4,119 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
-					"jb_rv_razor_b6.bsp"
+					"jb_rv_razor.bsp"
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1197012,
-			"_nDownloadCount": 15,
-			"_nFilesize": 53418984,
+			"_idRow": 1230719,
+			"_nDownloadCount": 0,
+			"_nFilesize": 52241428,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
 			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1197012",
-			"_sFile": "jb_rv_razor_b6.zip",
-			"_sMd5Checksum": "97a118b2cc2c9074b9fdbe63b14af300",
-			"_tsDateAdded": 1716072874
+			"_sDownloadUrl": "https://gamebanana.com/dl/1230719",
+			"_sFile": "jb_rv_razor.zip",
+			"_sMd5Checksum": "4dd17c5a4ff193221eef0147162d2a70",
+			"_tsDateAdded": 1720290801
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Added new game Low Grav Climb"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added new game, race (climb race)"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added 3D skybox"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added secret shower rave ;)"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed 2 texture bugs with crates in HNS Chase"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added new GMAN secret maybe idk"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Increased boost speed from 999 to 1200"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added more LJs (267 & 270)"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added distance label on the ladder jump in showers (120)"
+				},
+				{
+					"cat": "Tweak",
+					"text": "Changed LJ sounds slightly"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added AWP secret in surf (combo whore)"
+				},
+				{
+					"cat": "Refactor",
+					"text": "Updated Radar"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed missing texture from vent in VIP cell"
+				},
+				{
+					"cat": "Tweak",
+					"text": "Changed \"lasers\" to \"idfk\""
+				},
+				{
+					"cat": "Suggestion",
+					"text": "added SO MANY SECRETS RIP CT/WARDEN"
+				},
+				{
+					"cat": "Suggestion",
+					"text": "added mass to one of the maccies items ;)"
+				},
+				{
+					"cat": "Addition",
+					"text": "added secret ak in surf"
+				},
+				{
+					"cat": "Addition",
+					"text": "added secrets in the corridor of climb/ski-ball/extremeclimb/dodge-course"
+				},
+				{
+					"cat": "Addition",
+					"text": "added extreme climb"
+				},
+				{
+					"cat": "Addition",
+					"text": "added showers LJ blocks"
+				},
+				{
+					"cat": "Addition",
+					"text": "added HNS Chase"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "jb_rv_razor FINAL",
+			"_sVersion": "3",
+			"_tsDateAdded": 1720290701
+		}
+	],
 	"_idRow": 514411,
 	"_sName": "jb_rv_razor",
 	"_sText": "My edit of the classic, jb_electric_razor, with all new games and secrets. (<a href=\"https://gamebanana.com/mods/129829\">Original</a>)<br><br>Games:<br>- Surf<br>- Bhop<br>- Climb<br>- Lasers<br>- Football<br>- Dodge Course<br>- Ski-Ball <br>- Hide and Seek (tbd)"

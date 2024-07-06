@@ -10,7 +10,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1229763,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 3,
 			"_nFilesize": 2429891,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -32,7 +32,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1228738,
-			"_nDownloadCount": 10,
+			"_nDownloadCount": 11,
 			"_nFilesize": 2321077,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -88,7 +88,7 @@
 					"text": "Fixed various nav meshes incorrectly connected through walls, confusing bots"
 				}
 			],
-			"_sText": "<p>Despite much effort, bots are simply unable to traverse all top ledges as intended. The jumps needed to traverse the ledges appears to be too large and too diagonal for the bots. I do not wish to change this aspect, since I want players to make big jumps between ledges. Bots seem to dislike the top area anyway, and prefer to duke it out on the ground.</p><p>Regardless, the meshes required for proper bot traversal of the upper ledges is implemented - bots can now access the ledges located at the front-top of each base. Bots can also now traverse the spawn room ladders needed to reach these ledges, as originally intended. Various other nav mesh connections across the map have also been tweaked.</p>",
+			"_sText": "<p>Despite much effort, bots are simply unable to traverse all top ledges as intended. The jumps needed to traverse between ledges appear to be too large and too diagonal for the bots to comprehend. I do not wish to change this aspect, since I want players to make big jumps between ledges. Bots seem to dislike the top area anyway, and prefer to duke it out on the ground.</p><p>Regardless, the meshes required for proper bot traversal of the upper ledges is implemented - bots can now access the ledges located at the front-top of each base. Bots can also now traverse the spawn room ladders needed to reach these ledges, as originally intended. Various other nav mesh connections across the map have also been tweaked.</p>",
 			"_sTitle": "gg_mixer Version 2b - improved bot support",
 			"_sVersion": "2b",
 			"_tsDateAdded": 1720190002
