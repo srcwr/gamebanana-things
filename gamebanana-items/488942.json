@@ -4,30 +4,49 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": {
-					"de_inferno_dark": [
-						"de_inferno_dark.bsp",
-						"de_inferno_dark.txt"
+					"de_inferno_night": [
+						"de_inferno_night.bsp",
+						"de_inferno_night.txt"
 					]
 				}
 			},
 			"_bContainsExe": false,
-			"_idRow": 1117737,
-			"_nDownloadCount": 355,
-			"_nFilesize": 5717125,
+			"_idRow": 1231515,
+			"_nDownloadCount": 0,
+			"_nFilesize": 5784344,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
-			"_sAvastAvResult": "clean",
-			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1117737",
-			"_sFile": "de_inferno_dark.7z",
-			"_sMd5Checksum": "da849f169b6982c18aaf7462a689f87e",
-			"_tsDateAdded": 1704634639
+			"_sDownloadUrl": "https://gamebanana.com/dl/1231515",
+			"_sFile": "de_inferno_night_a8fd1.7z",
+			"_sMd5Checksum": "6c9233e3e3b09ceaebff8ee5babf0e94",
+			"_tsDateAdded": 1720378409
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Tweak",
+					"text": "Renamed map to de_inferno_night"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed some visual bugs (except bright grass in the fountain in bombsite A, it's unfixable I guess)"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Changed lighting and fog settings a bit"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Bug fix update",
+			"_sVersion": "1.1",
+			"_tsDateAdded": 1720378514
+		}
+	],
 	"_idRow": 488942,
-	"_sName": "de_inferno_dark",
-	"_sText": "Dark/Night version of de_inferno, the main differences of which are&nbsp;the changed skybox texture, lighting and ambient sounds.&nbsp;All lamps on the map were turned on for better visibility.<br><br>"
+	"_sName": "de_inferno_night",
+	"_sText": "Dark/Night version of de_inferno, the main differences of which are the changed skybox texture, lighting and ambient sounds. All lamps on the map were turned on for better visibility.<br><br>"
 }
