@@ -2,14 +2,24 @@
 	"_aAlternateFileSources": null,
 	"_aFiles": [
 		{
-			"_aMetadata": [],
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"de_docks": [
+						"de_docks.bsp",
+						"de_docks.nav",
+						"readme.txt"
+					]
+				}
+			},
 			"_bContainsExe": false,
 			"_idRow": 1230897,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 1,
 			"_nFilesize": 897268,
-			"_sAnalysisResult": "Undetermined",
-			"_sAnalysisResultCode": "undetermined",
-			"_sAnalysisState": "pending",
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1230897",
 			"_sFile": "de_docks_5dc4d.zip",
@@ -19,6 +29,6 @@
 	],
 	"_aLatestUpdates": [],
 	"_idRow": 526271,
-	"_sName": "de_docks",
-	"_sText": "a bad defuse map"
+	"_sName": "de_dock(s)",
+	"_sText": "a bad defuse map (removed the s after 10 seconds)"
 }
