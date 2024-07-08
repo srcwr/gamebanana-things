@@ -4,26 +4,41 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
-					"ze_rooftop_rogue_v1_4.bsp"
+					"ze_rooftop_rogue_v1_5.bsp"
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1147634,
-			"_nDownloadCount": 108,
-			"_nFilesize": 161279307,
+			"_idRow": 1231604,
+			"_nDownloadCount": 2,
+			"_nFilesize": 161310012,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
 			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1147634",
-			"_sFile": "ze_rooftop_rogue_v1_4.zip",
-			"_sMd5Checksum": "df7cb5c358fb58dcd0b78590a4ab2064",
-			"_tsDateAdded": 1709163039
+			"_sDownloadUrl": "https://gamebanana.com/dl/1231604",
+			"_sFile": "ze_rooftop_rogue_v1_5.zip",
+			"_sMd5Checksum": "69a9262c1442ab0d392bd75fa703c73f",
+			"_tsDateAdded": 1720387325
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Improvement",
+					"text": "remade some doors for prevent from stucking"
+				},
+				{
+					"cat": "Improvement",
+					"text": "removed elevator from warehouse on stage2 and put ladder instead"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "v1.5",
+			"_tsDateAdded": 1720388009
+		},
 		{
 			"_aChangeLog": [
 				{
@@ -46,32 +61,9 @@
 			"_sText": "",
 			"_sTitle": "v1_4",
 			"_tsDateAdded": 1709163960
-		},
-		{
-			"_aChangeLog": [
-				{
-					"cat": "Addition",
-					"text": "added a zombie teleport to stage4 (after the helicopter left first building)"
-				},
-				{
-					"cat": "Adjustment",
-					"text": "fence door on the pool area blocks zombies for few seconds"
-				},
-				{
-					"cat": "Improvement",
-					"text": "improved shadowing a bit"
-				},
-				{
-					"cat": "Improvement",
-					"text": "fixed the ladder stucks players"
-				}
-			],
-			"_sText": "",
-			"_sTitle": "v1_3",
-			"_tsDateAdded": 1688476574
 		}
 	],
 	"_idRow": 448447,
-	"_sName": "ze_rooftop_rogue_v1_4",
+	"_sName": "ze_rooftop_rogue_v1_5",
 	"_sText": "casual zombie escape map<br>4stages / no item / no boss fight<br><br>recommend turning on fall damage<br>"
 }
