@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: WTFPL
+
 import os
 import glob
 from pathlib import Path

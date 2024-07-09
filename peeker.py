@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: WTFPL
 
 import json
 from pathlib import Path
@@ -77,6 +78,4 @@ def main(d, callback, fuck_you_callback):
     return new_items
 
 if __name__ == "__main__":
-    def nop(arg):
-        pass
-    main(".", nop)
+    main(".", print)
