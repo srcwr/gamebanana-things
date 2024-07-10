@@ -7,6 +7,12 @@
 					"maps": [
 						"de_eyan.bsp"
 					],
+					"materials": {
+						"maps": [
+							"credit_dookielordz_billboard.vmt",
+							"credit_dookielordz_billboard.vtf"
+						]
+					},
 					"sound": {
 						"0": "sound.cache",
 						"ambient": {
@@ -18,23 +24,23 @@
 				}
 			},
 			"_bContainsExe": false,
-			"_idRow": 1233029,
+			"_idRow": 1233074,
 			"_nDownloadCount": 0,
-			"_nFilesize": 23578428,
+			"_nFilesize": 23736948,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
 			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1233029",
-			"_sFile": "de_eyan_38313.zip",
-			"_sMd5Checksum": "8f3e93e11d8a5ebec6a45e45aacef8af",
-			"_tsDateAdded": 1720580504
+			"_sDownloadUrl": "https://gamebanana.com/dl/1233074",
+			"_sFile": "de_eyan_6fdc3.zip",
+			"_sMd5Checksum": "1b05d939645f8a6704482231cc32115a",
+			"_tsDateAdded": 1720589841
 		}
 	],
 	"_aLatestUpdates": [],
 	"_idRow": 526979,
 	"_sName": "de_eyan",
-	"_sText": "A small defusal map that's pretty good for 1v1's with friends. There are 20 spawns, 10 for each team. Just a fun little project I worked on for a bit.<br>"
+	"_sText": "A small defusal map that's pretty good for 1v1's with friends. There are 32 spawns, 16 for each team. Just a fun little project I worked on for a bit.<br>"
 }
