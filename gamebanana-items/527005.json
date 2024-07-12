@@ -3,6 +3,124 @@
 	"_aFiles": [
 		{
 			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"De_house v2": {
+						"maps": [
+							"house.bsp",
+							"house.nav"
+						],
+						"materials": {
+							"ARCH": [
+								"ARCH_METAL.vmt",
+								"arch_metal.vtf"
+							],
+							"detail": [
+								"dt_wood1.vtf"
+							],
+							"dev": [
+								"dev_measuregeneric01.vmt"
+							],
+							"fool": {
+								"mw2": [
+									"ap_wood_smalltile_brown_col.vmt",
+									"ap_wood_smalltile_brown_col.vtf",
+									"ch_concretewall02_col.vmt",
+									"ch_concretewall02_col.vtf",
+									"ch_concretewall03_col.vmt",
+									"ch_concretewall03_col.vtf",
+									"ch_plywood02_col.vmt",
+									"ch_plywood02_col.vtf",
+									"ch_wood01_col.vmt",
+									"ch_wood01_col.vtf",
+									"ch_woodpaint_white_col.vmt",
+									"ch_woodpaint_white_col.vtf",
+									"marble_floor_tiles_01_col#0.vmt",
+									"marble_floor_tiles_01_col#0.vtf",
+									"marble_floor_tiles_02_col.vmt",
+									"marble_floor_tiles_02_col.vtf",
+									"me_pinewood_col.vmt",
+									"me_pinewood_col.vtf",
+									"me_plaster_02.vmt",
+									"me_plaster_02.vtf",
+									"me_plaster_03.vmt",
+									"me_plaster_03.vtf",
+									"plaster01_col.vmt",
+									"plaster01_col.vtf",
+									"plaster_ceiling_tan_col.vmt",
+									"plaster_ceiling_tan_col.vtf",
+									"plaster_interiorwall_paint_brown_col.vmt",
+									"plaster_interiorwall_paint_brown_col.vtf",
+									"plaster_wall_tan_col.vmt",
+									"plaster_wall_tan_col.vtf"
+								]
+							},
+							"models": {
+								"ill_hanger": {
+									"props": [
+										"crtlng.vmt",
+										"crtlng.vtf",
+										"crtrec.vmt",
+										"crtrec.vtf"
+									]
+								},
+								"props_vehicles": [
+									"police_cab_city.vmt",
+									"police_cab_city.vtf",
+									"police_cab_city_glass.vmt",
+									"police_cab_city_glass.vtf"
+								]
+							},
+							"wood": [
+								"plywood02.vmt",
+								"plywood02.vtf"
+							]
+						},
+						"models": {
+							"ill_hanger": {
+								"props": [
+									"cratelong.dx80.vtx",
+									"cratelong.dx90.vtx",
+									"cratelong.mdl",
+									"cratelong.phy",
+									"cratelong.sw.vtx",
+									"cratelong.vvd",
+									"craterecoil.dx80.vtx",
+									"craterecoil.dx90.vtx",
+									"craterecoil.mdl",
+									"craterecoil.phy",
+									"craterecoil.sw.vtx",
+									"craterecoil.vvd"
+								]
+							},
+							"props_vehicles": [
+								"police_car_city.dx90.vtx",
+								"police_car_city.mdl",
+								"police_car_city.phy",
+								"police_car_city.vvd",
+								"police_car_city_glass.dx90.vtx",
+								"police_car_city_glass.mdl",
+								"police_car_city_glass.phy",
+								"police_car_city_glass.vvd"
+							]
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 1234586,
+			"_nDownloadCount": 0,
+			"_nFilesize": 3917379,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sDescription": "new",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1234586",
+			"_sFile": "de_house_v2.7z",
+			"_sMd5Checksum": "de32b05b04c0d88a592501495a0f8a9a",
+			"_tsDateAdded": 1720758348
+		},
+		{
+			"_aMetadata": {
 				"_aArchiveFileTree": [
 					"house.bsp",
 					"house.nav"
@@ -10,21 +128,42 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1233112,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 19,
 			"_nFilesize": 1018433,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
 			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
-			"_sDescription": "",
+			"_sDescription": "old",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1233112",
 			"_sFile": "de_house_52ea1.zip",
 			"_sMd5Checksum": "14fbebafd90a717970d3396cac379e1b",
 			"_tsDateAdded": 1720597216
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "You can turn off/on the lights from the back of the house"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Some entrance, breakable doors, window, and lighting"
+				},
+				{
+					"cat": "Addition",
+					"text": "New texture for the map (not great tho but it works)"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "de_house update",
+			"_sVersion": "v2",
+			"_tsDateAdded": 1720758186
+		}
+	],
 	"_idRow": 527005,
 	"_sName": "De_house",
 	"_sText": "Another bomb map... cuz im bored beta and i need your criticism so i can improve it hehe"
