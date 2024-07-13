@@ -18,7 +18,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1198922,
-			"_nDownloadCount": 44,
+			"_nDownloadCount": 82,
 			"_nFilesize": 99730184,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -30,10 +30,97 @@
 			"_sFile": "ze_snowy_skyscraper_alpha1.zip",
 			"_sMd5Checksum": "32b4eeda16c9cb7f3e9595dcd4209390",
 			"_tsDateAdded": 1716315485
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "ze_snowy_skyscraper_beta1.bsp",
+					"bosshp": [
+						"ze_snowy_skyscraper_beta1.cfg"
+					],
+					"entwatch": [
+						"ze_snowy_skyscraper_beta1.cfg"
+					],
+					"entwatchv4 (unloze)": [
+						"ze_snowy_skyscraper_beta1.cfg"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 1235393,
+			"_nDownloadCount": 0,
+			"_nFilesize": 104963036,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1235393",
+			"_sFile": "ze_snowy_skyscraper_beta1.zip",
+			"_sMd5Checksum": "76461621bf885228786c26db78e49456",
+			"_tsDateAdded": 1720865495
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Adjustment",
+					"text": "Floor 2 hold is now 30 seconds, and added a new shortcut that opens after 15 seconds, after the wall breaks."
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Floor 3 & 5 ZM Teleport will have the elevator doors close to avoid getting the zombies knocked back into the elevator."
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Split path in Floor 3 is now 20 seconds from 10 seconds"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Added a new teleport in Floor 3 that activates when split path has been triggered"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Faded wall in Floor 3 from 15 seconds to 20 seconds. Teleport is still the same"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Vent ZM Teleport in Floor 4 has been moved forward, and now includes a blocker to reduce travel distance."
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Boss HP per human changed from 800 to 725"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Boss State change for ground attacks is now 4. This means every 4 attacks on the ground the boss switches states to flying."
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Boss Aggression damage nerfed from 30 to 25"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Boss Icy Wind (Flying) attack is stronger"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Crystal Item properly triggers the ending now."
+				},
+				{
+					"cat": "Improvement",
+					"text": "Added decoration in some areas of the map"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "ze_snowy_skyscraper_beta1",
+			"_sVersion": "beta1",
+			"_tsDateAdded": 1720865080
+		}
+	],
 	"_idRow": 514987,
 	"_sName": "ze_snowy_skyscraper",
-	"_sText": "<b><span class=\"RedColor\"><span class=\"RedColor\"></span>This map is currently on Alpha, I decided to release this early on GameBanana to have bugs and balance changes early on. Currently there is </span></b><b><span class=\"RedColor\">a bug with one of the endings and may require you to drop and pick up the item when you reach the top to properly trigger the ending.</span></b><br><span class=\"RedColor\"></span><hr><span class=\"RedColor\">\"On a snowy place abandoned 20 years ago, a skyscraper was left alone surrounded by hills of snow. let us decide to have a goal, and reach the top of this snowy skyscraper.\"</span><br><hr>Map by <b><span class=\"GreenColor\">Pasas1345</span></b><br>Special Thanks to <span class=\"GreenColor\">Hobbiten </span>and <span class=\"GreenColor SelectedElement\">4Echo (Your lighting templates are too good)</span><br><hr><u><b>Music List:</b></u><br><ul><li>daniel.mp3 - dark snowy night (Floors 1-2)</li><li>WitchSpring R - Snow Field (Floors 3-4)</li><li>Serponge & TheDevon - Snowy Night (Floors 5-6)</li><li>Granblue Fantasy: Relink OST - Managarmr, Sequestrian Primal (Boss Phase 1 & 2)</li></ul><hr>Decided to try making an abandoned building a theme of a ZE map. Another one of my 1 stage defense maps. Hope you enjoy!<br><br>I do recommend playing this map with Map Sounds, HDR, Color Correction and Shake on, though you could disable those.<br><hr><span class=\"GreenColor\"><b>Includes</b></span><br><ul><li>1 Defense Map<br></li><li>2 Endings</li><li>1 Item (that has no effect when used)</li><li>1 Boss</li><li>Snow</li></ul><hr><b><u>Hope you enjoy the map!</u></b>"
+	"_sText": "<b><span class=\"RedColor SelectedElement\"><span class=\"RedColor\"></span>This map is currently on Beta, I decided to release this early on GameBanana to have bugs and balance changes early on.</span></b><br><span class=\"RedColor\"></span><hr><span class=\"RedColor\">\"On a snowy place abandoned 20 years ago, a skyscraper was left alone surrounded by hills of snow. Let us decide to have a goal, and reach the top of this snowy skyscraper.\"</span><br><hr>Map by <b><span class=\"GreenColor\">Pasas1345</span></b><br>Special Thanks to <span class=\"GreenColor\">Hobbiten </span>and <span class=\"GreenColor\">4Echo (Your lighting templates are too good)</span><br><hr><u><b>Music List:</b></u><br><ul><li>daniel.mp3 - dark snowy night (Floors 1-2)</li><li>WitchSpring R - Snow Field (Floors 3-4)</li><li>Serponge &amp; TheDevon - Snowy Night (Floors 5-6)</li><li>Granblue Fantasy: Relink OST - Managarmr, Sequestrian Primal (Boss Phase 1 &amp; 2)</li></ul><hr>Decided to try making an abandoned building a theme of a ZE map. Another one of my 1 stage defense maps. Hope you enjoy!<br><br>I do recommend playing this map with Map Sounds, HDR, Color Correction and Shake on, though you could disable those.<br><hr><span class=\"GreenColor\"><b>Includes</b></span><br><ul><li>1 Defense Map<br></li><li>2 Endings</li><li>1 Item (that has no effect when used)</li><li>1 Boss</li><li>Snow</li></ul><hr><b><u>Hope you enjoy the map!</u></b>"
 }
