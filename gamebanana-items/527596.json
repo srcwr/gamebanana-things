@@ -8,23 +8,44 @@
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1235175,
-			"_nDownloadCount": 6,
-			"_nFilesize": 31573899,
+			"_idRow": 1235816,
+			"_nDownloadCount": 1,
+			"_nFilesize": 31476190,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
 			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
-			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1235175",
-			"_sFile": "bhop_rysik_v2_67b07.zip",
-			"_sMd5Checksum": "3410d45bd38c5078d02222b7114fcb6d",
-			"_tsDateAdded": 1720826478
+			"_sDescription": "V2.1",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1235816",
+			"_sFile": "bhop_rysik_v2_40e65.zip",
+			"_sMd5Checksum": "f9ba88525088a0ec5525c35dda7bb05b",
+			"_tsDateAdded": 1720914819
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Adjustment",
+					"text": "Adjusted teleporter in to the house on stage 3."
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed missing teleporters on some platforms in stage 3."
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed the skybox issue"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Updates",
+			"_sVersion": "V2.1",
+			"_tsDateAdded": 1720911761
+		}
+	],
 	"_idRow": 527596,
 	"_sName": "bhop_rysik_v2",
-	"_sText": "bhop_rysik v2, just an overall better version of rysik.<br><br>If you find any bugs just message me here or comment on the post :)"
+	"_sText": "bhop_rysik v2, just an overall better version of rysik.<br><br>If you find any bugs just message me here or comment on the post :)<br>"
 }
