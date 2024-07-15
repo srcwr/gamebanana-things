@@ -10,9 +10,10 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 477633,
-			"_nDownloadCount": 210,
+			"_nDownloadCount": 278,
 			"_nFilesize": 119964720,
 			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
@@ -20,9 +21,49 @@
 			"_sFile": "bhop_shutdown2_6d962.rar",
 			"_sMd5Checksum": "",
 			"_tsDateAdded": 1596204577
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"bhop_shutdown2.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 1236361,
+			"_nDownloadCount": 1,
+			"_nFilesize": 113243899,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
+			"_sDescription": "team fortress 2 port",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1236361",
+			"_sFile": "shutdown2tf2.rar",
+			"_sMd5Checksum": "33bb4ab1830543fc8702d420f22e25b7",
+			"_tsDateAdded": 1720988637
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Feature",
+					"text": "Port by Shadow Sheep"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Includes numerous visual optimizations - adding here for archival purposes"
+				},
+				{
+					"cat": "Suggestion",
+					"text": "Check file #2 in the download section"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "team fortress 2 port",
+			"_tsDateAdded": 1720988882
+		},
 		{
 			"_aChangeLog": [
 				{
@@ -33,25 +74,6 @@
 			"_sText": "",
 			"_sTitle": "late booster fix",
 			"_tsDateAdded": 1596204656
-		},
-		{
-			"_aChangeLog": [
-				{
-					"cat": "Removal",
-					"text": "First surf skip in the video is now not a surf skip, triggers removed"
-				},
-				{
-					"cat": "Tweak",
-					"text": "There are now slopes instead of some ramps for smoother gameplay"
-				},
-				{
-					"cat": "Improvement",
-					"text": "Map flow should not be as bad now, but id suggest just not playing if you dont like surf =)"
-				}
-			],
-			"_sText": "Hey, mister runner! Do you not like silly surf ramps? Great, because I removed and reworked some of them! And no, I will NOT remove the spins.<br><br>Special thanks: unity/kris.",
-			"_sTitle": "Chapters 1&2: Making shutdown great again",
-			"_tsDateAdded": 1570883686
 		}
 	],
 	"_idRow": 125964,
