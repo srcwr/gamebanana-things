@@ -1,0 +1,81 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrike": {
+						"maps": [
+							"fy_rooms.bsp",
+							"fy_rooms.nav",
+							"fy_rooms_buyzone.bsp",
+							"fy_rooms_buyzone.nav"
+						],
+						"materials": {
+							"overviews": [
+								"fy_rooms.vmt",
+								"fy_rooms.vtf",
+								"fy_rooms_radar.vmt",
+								"fy_rooms_radar.vtf"
+							]
+						},
+						"resource": {
+							"overviews": [
+								"fy_rooms.txt",
+								"fy_rooms_buyzone.txt"
+							]
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 1239794,
+			"_nDownloadCount": 0,
+			"_nFilesize": 108481428,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
+			"_sDescription": "2 maps",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1239794",
+			"_sFile": "fy_rooms_7ec70.7z",
+			"_sMd5Checksum": "6350ec198fbce22b7f1d3dca838da33c",
+			"_tsDateAdded": 1721407017
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"fy_rooms.bsp",
+					"fy_rooms.log",
+					"fy_rooms.prt",
+					"fy_rooms.vmf",
+					"fy_rooms.vmx",
+					"fy_rooms_buyzone.bsp",
+					"fy_rooms_buyzone.log",
+					"fy_rooms_buyzone.prt",
+					"fy_rooms_buyzone.vmf",
+					"fy_rooms_buyzone.vmx"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 1239795,
+			"_nDownloadCount": 0,
+			"_nFilesize": 132627,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
+			"_sDescription": "src 4 DEVs",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1239795",
+			"_sFile": "fy_rooms_src_dbb91.7z",
+			"_sMd5Checksum": "629552a994a780d453f0a82d10f4dfaf",
+			"_tsDateAdded": 1721407033
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 529150,
+	"_sName": "fy_rooms",
+	"_sText": "<ul><li>fy_rooms</li><li>fy_rooms_buyzone</li></ul><br>A remake of a <a href=\"https://www.17buddies.rocks/17b2/View/Rels/2/106937/Pag/1/index.html\">map</a> from CS1.6<br>The large file size is caused by env_cubemaps with Environmental Light Reflection.<br>Map Topic: Open doors or be killed"
+}

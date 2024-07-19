@@ -2,14 +2,21 @@
 	"_aAlternateFileSources": null,
 	"_aFiles": [
 		{
-			"_aMetadata": [],
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_sandstone_la06g3_v7.bsp",
+					"de_sandstone_la06g3_v7.vmf"
+				]
+			},
 			"_bContainsExe": false,
 			"_idRow": 1239699,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 6,
 			"_nFilesize": 2808626,
-			"_sAnalysisResult": "Undetermined",
-			"_sAnalysisResultCode": "undetermined",
-			"_sAnalysisState": "pending",
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1239699",
 			"_sFile": "de-sandstone2.7z",
