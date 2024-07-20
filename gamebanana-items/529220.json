@@ -2,14 +2,42 @@
 	"_aAlternateFileSources": null,
 	"_aFiles": [
 		{
-			"_aMetadata": [],
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"zm_silent_hill": {
+						"cstrike": {
+							"custom": {
+								"custom_vend": {
+									"materials": {
+										"models": {
+											"props": {
+												"cs_office": [
+													"vending_machine.vtf"
+												]
+											}
+										}
+									},
+									"sound": [
+										"sound.cache"
+									]
+								}
+							},
+							"maps": [
+								"zm_silent_hill_v1.bsp"
+							]
+						}
+					}
+				}
+			},
 			"_bContainsExe": false,
 			"_idRow": 1239966,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 10,
 			"_nFilesize": 36350571,
-			"_sAnalysisResult": "Undetermined",
-			"_sAnalysisResultCode": "undetermined",
-			"_sAnalysisState": "pending",
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1239966",
 			"_sFile": "zm_silent_hill.rar",
@@ -20,5 +48,5 @@
 	"_aLatestUpdates": [],
 	"_idRow": 529220,
 	"_sName": "zm_silent_hill_v1",
-	"_sText": "zm_silent_hill_v1<br>first of all i know the design kind of ugly and small even me see that the was must remade the hospital from silent hill 3 but i dont find any good texture this why<br>28 spawns/slots (i know must be 32-64) but the map was small sorry<br>all cubemap build and ready<br>the map mix of silent hill 1/2/3&nbsp;<br>the spawn from silent hill 2<br>the roof from silent hill 1<br>the monster from silent hill 3<br>all sounds from silent hill 3/silent hill&nbsp;alchemilla mod (half life 2)<br>enjoy&nbsp;<br>note : delete custom file if you dont want my custom vending machine skin<br>im sorry if i forgot any credits<br>also for some reasons the map running so bad on dedicated server<br>and logic_auto sometimes doesnt works"
+	"_sText": "zm_silent_hill_v1<br>first of all i know the design kind of ugly and small even me see that the map was must remade the hospital from silent hill 3 but i dont find any good texture this why<br>28 spawns/slots (i know must be 32-64) but the map was small sorry<br>all cubemap build and ready<br>the map mix of silent hill 1/2/3 <br>the spawn from silent hill 2<br>the roof from silent hill 1<br>the monster from silent hill 3<br>all sounds from silent hill 3/silent hill alchemilla mod (half life 2)<br>enjoy <br>note : delete custom file if you dont want my custom vending machine skin<br>im sorry if i forgot any credits<br>also for some reasons the map running so bad on dedicated server<br>and logic_auto sometimes doesnt works"
 }

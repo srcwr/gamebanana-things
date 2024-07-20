@@ -9,7 +9,9 @@
 							"fy_rooms.bsp",
 							"fy_rooms.nav",
 							"fy_rooms_buyzone.bsp",
-							"fy_rooms_buyzone.nav"
+							"fy_rooms_buyzone.nav",
+							"fy_rooms_buyzone_tidy.bsp",
+							"fy_rooms_buyzone_tidy.nav"
 						],
 						"materials": {
 							"overviews": [
@@ -22,26 +24,69 @@
 						"resource": {
 							"overviews": [
 								"fy_rooms.txt",
-								"fy_rooms_buyzone.txt"
+								"fy_rooms_buyzone.txt",
+								"fy_rooms_buyzone_tidy.txt"
 							]
 						}
 					}
 				}
 			},
 			"_bContainsExe": false,
-			"_idRow": 1239794,
-			"_nDownloadCount": 4,
-			"_nFilesize": 108481428,
+			"_idRow": 1240193,
+			"_nDownloadCount": 0,
+			"_nFilesize": 156550359,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
 			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
-			"_sDescription": "2 maps",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1239794",
-			"_sFile": "fy_rooms_7ec70.7z",
-			"_sMd5Checksum": "6350ec198fbce22b7f1d3dca838da33c",
-			"_tsDateAdded": 1721407017
+			"_sDescription": "3 Maps; Full Env Reflection",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1240193",
+			"_sFile": "fy_rooms_fixed.7z",
+			"_sMd5Checksum": "2ade8223975266f2bca129637532dc47",
+			"_tsDateAdded": 1721453698
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrike": {
+						"maps": [
+							"fy_rooms.bsp",
+							"fy_rooms_buyzone.bsp",
+							"fy_rooms_buyzone_tidy.bsp"
+						],
+						"materials": {
+							"overviews": [
+								"fy_rooms.vmt",
+								"fy_rooms.vtf",
+								"fy_rooms_radar.vmt",
+								"fy_rooms_radar.vtf"
+							]
+						},
+						"resource": {
+							"overviews": [
+								"fy_rooms.txt",
+								"fy_rooms_buyzone.txt",
+								"fy_rooms_buyzone_tidy.txt"
+							]
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 1240190,
+			"_nDownloadCount": 0,
+			"_nFilesize": 441726,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
+			"_sDescription": "NO Environmental Reflection",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1240190",
+			"_sFile": "fy_rooms_lite_e4a44.7z",
+			"_sMd5Checksum": "6a0b9ae45fd0a20ea591396518053f41",
+			"_tsDateAdded": 1721453571
 		},
 		{
 			"_aMetadata": {
@@ -55,27 +100,53 @@
 					"fy_rooms_buyzone.log",
 					"fy_rooms_buyzone.prt",
 					"fy_rooms_buyzone.vmf",
-					"fy_rooms_buyzone.vmx"
+					"fy_rooms_buyzone.vmx",
+					"fy_rooms_buyzone_tidy.bsp",
+					"fy_rooms_buyzone_tidy.log",
+					"fy_rooms_buyzone_tidy.prt",
+					"fy_rooms_buyzone_tidy.vmf",
+					"fy_rooms_o.vmf",
+					"fy_rooms_o.vmx"
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1239795,
-			"_nDownloadCount": 2,
-			"_nFilesize": 132627,
+			"_idRow": 1240191,
+			"_nDownloadCount": 0,
+			"_nFilesize": 144529,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
 			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
-			"_sDescription": "src 4 DEVs",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1239795",
-			"_sFile": "fy_rooms_src_dbb91.7z",
-			"_sMd5Checksum": "629552a994a780d453f0a82d10f4dfaf",
-			"_tsDateAdded": 1721407033
+			"_sDescription": "Src 4 DEVs",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1240191",
+			"_sFile": "fy_rooms_src_334af.7z",
+			"_sMd5Checksum": "e7537f5b853049ded8bc47182ef536b6",
+			"_tsDateAdded": 1721453576
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Tweak",
+					"text": "fy_rooms Environmental Light Reflection: A Minor Bug Fixed"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added Lite version: Without Environmental Light Reflection Built"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "fy_rooms Now Gives Random Weapon to players at Round Start"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Major",
+			"_tsDateAdded": 1721445476
+		}
+	],
 	"_idRow": 529150,
 	"_sName": "fy_rooms",
-	"_sText": "<ul><li>fy_rooms</li><li>fy_rooms_buyzone</li></ul><br>A remake of a <a href=\"https://www.17buddies.rocks/17b2/View/Rels/2/106937/Pag/1/index.html\">map</a> from CS1.6<br>The large file size is caused by env_cubemaps with Environmental Light Reflection.<br>Map Topic: Open doors or be killed"
+	"_sText": "<ul><li>fy_rooms</li><li class=\"SelectedElement\">fy_rooms_buyzone</li><li class=\"SelectedElement\">fy_rooms_buyzone_tidy</li></ul><br>maxplayers 32<br>A remake of a <a href=\"https://www.17buddies.rocks/17b2/View/Rels/2/106937/Pag/1/index.html\" target=\"_blank\">map</a> from CS1.6<br>The large file size is caused by env_cubemaps with Environmental Light Reflection.<br>Map Topic: Open doors or be killed"
 }
