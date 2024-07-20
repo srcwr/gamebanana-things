@@ -33,7 +33,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1240193,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 3,
 			"_nFilesize": 156550359,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -45,6 +45,45 @@
 			"_sFile": "fy_rooms_fixed.7z",
 			"_sMd5Checksum": "2ade8223975266f2bca129637532dc47",
 			"_tsDateAdded": 1721453698
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrike": {
+						"maps": [
+							"fy_rooms.bsp",
+							"fy_rooms.nav"
+						],
+						"materials": {
+							"overviews": [
+								"fy_rooms.vmt",
+								"fy_rooms.vtf",
+								"fy_rooms_radar.vmt",
+								"fy_rooms_radar.vtf"
+							]
+						},
+						"resource": {
+							"overviews": [
+								"fy_rooms.txt"
+							]
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 1240491,
+			"_nDownloadCount": 0,
+			"_nFilesize": 53974815,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
+			"_sDescription": "fy_rooms Ver2 with Env Reflection",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1240491",
+			"_sFile": "fy_rooms_ver2.7z",
+			"_sMd5Checksum": "a6298ec0d1158bd308599d7bc85efd82",
+			"_tsDateAdded": 1721493454
 		},
 		{
 			"_aMetadata": {
@@ -75,7 +114,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1240190,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 1,
 			"_nFilesize": 441726,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -87,6 +126,44 @@
 			"_sFile": "fy_rooms_lite_e4a44.7z",
 			"_sMd5Checksum": "6a0b9ae45fd0a20ea591396518053f41",
 			"_tsDateAdded": 1721453571
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrike": {
+						"maps": [
+							"fy_rooms.bsp"
+						],
+						"materials": {
+							"overviews": [
+								"fy_rooms.vmt",
+								"fy_rooms.vtf",
+								"fy_rooms_radar.vmt",
+								"fy_rooms_radar.vtf"
+							]
+						},
+						"resource": {
+							"overviews": [
+								"fy_rooms.txt"
+							]
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 1240496,
+			"_nDownloadCount": 0,
+			"_nFilesize": 419873,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
+			"_sDescription": "fy_rooms Ver2 NO Env Reflection",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1240496",
+			"_sFile": "fy_rooms_ver2_lite.7z",
+			"_sMd5Checksum": "828c6e828c4dfed71bbf3061e58d5844",
+			"_tsDateAdded": 1721493554
 		},
 		{
 			"_aMetadata": {
@@ -111,7 +188,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1240191,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 1,
 			"_nFilesize": 144529,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -123,9 +200,45 @@
 			"_sFile": "fy_rooms_src_334af.7z",
 			"_sMd5Checksum": "e7537f5b853049ded8bc47182ef536b6",
 			"_tsDateAdded": 1721453576
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"fy_rooms.bsp",
+					"fy_rooms.log",
+					"fy_rooms.prt",
+					"fy_rooms.vmf",
+					"fy_rooms.vmx"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 1240488,
+			"_nDownloadCount": 0,
+			"_nFilesize": 117770,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
+			"_sDescription": "Src 4 DEVs",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1240488",
+			"_sFile": "fy_rooms_src_ver2.7z",
+			"_sMd5Checksum": "92ab2a6ffead2c7ce3e43a324c5c1ae2",
+			"_tsDateAdded": 1721493255
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "fy_rooms Ver2: Pistols Randomly Given"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "fy_rooms Ver.2",
+			"_tsDateAdded": 1721493685
+		},
 		{
 			"_aChangeLog": [
 				{
