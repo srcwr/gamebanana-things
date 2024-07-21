@@ -225,6 +225,43 @@
 			"_sFile": "fy_rooms_src_ver2.7z",
 			"_sMd5Checksum": "92ab2a6ffead2c7ce3e43a324c5c1ae2",
 			"_tsDateAdded": 1721493255
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrike": {
+						"addons": {
+							"sourcemod": {
+								"plugins": [
+									"RandomSpawnPoint.smx"
+								],
+								"scripting": [
+									"RandomSpawnPoint.sp"
+								]
+							}
+						},
+						"cfg": {
+							"sourcemod": [
+								"Random_Spawn_Point.cfg"
+							]
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 1240900,
+			"_nDownloadCount": 0,
+			"_nFilesize": 10340,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
+			"_sDescription": "Random Spawn Point",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1240900",
+			"_sFile": "random_spawn_point_fixed.rar",
+			"_sMd5Checksum": "d4b8c9e1952ab2ba0050c5d539b72b27",
+			"_tsDateAdded": 1721536967
 		}
 	],
 	"_aLatestUpdates": [
@@ -261,5 +298,5 @@
 	],
 	"_idRow": 529150,
 	"_sName": "fy_rooms",
-	"_sText": "<ul><li>fy_rooms</li><li class=\"SelectedElement\">fy_rooms_buyzone</li><li class=\"SelectedElement\">fy_rooms_buyzone_tidy</li></ul><br>maxplayers 32<br>A remake of a <a href=\"https://www.17buddies.rocks/17b2/View/Rels/2/106937/Pag/1/index.html\" target=\"_blank\">map</a> from CS1.6<br>The large file size is caused by env_cubemaps with Environmental Light Reflection.<br>Map Topic: Open doors or be killed"
+	"_sText": "<ul><li>fy_rooms</li><li class=\"SelectedElement\">fy_rooms_buyzone</li><li class=\"SelectedElement\">fy_rooms_buyzone_tidy</li></ul><br>maxplayers 32<br>A remake of a <a href=\"https://www.17buddies.rocks/17b2/View/Rels/2/106937/Pag/1/index.html\" target=\"_blank\">map</a> from CS1.6<br>The large file size is caused by env_cubemaps with Environmental Light Reflection.<br>Map Topic: Open doors or be killed<br><br>Random Spawn Point Originates from <a href=\"https://forums.alliedmods.net/showthread.php?p=2165695\">here</a><br>I fixed the issue that a player may spawn into another and added a parametre to toggle the plugin."
 }
