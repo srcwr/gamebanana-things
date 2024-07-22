@@ -4,27 +4,44 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
-					"ka_soccer_rainyday_v3.bsp"
+					"ka_soccer_rainyday_v4.bsp"
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1168157,
-			"_nDownloadCount": 35,
-			"_nFilesize": 17108865,
+			"_idRow": 1241478,
+			"_nDownloadCount": 2,
+			"_nFilesize": 17124830,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
 			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1168157",
-			"_sFile": "ka_soccer_rainyday_v3.rar",
-			"_sMd5Checksum": "366dff2cd393c755ed96e42736935bd8",
-			"_tsDateAdded": 1712098961
+			"_sDownloadUrl": "https://gamebanana.com/dl/1241478",
+			"_sFile": "ka_soccer_rainyday_v4.rar",
+			"_sMd5Checksum": "f4335b7f566f3c2f05d90c2c94191c7e",
+			"_tsDateAdded": 1721611378
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Improvement",
+					"text": "updated to the latest ball and goals"
+				},
+				{
+					"cat": "Improvement",
+					"text": "best environment"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "",
+			"_sVersion": "v4",
+			"_tsDateAdded": 1721611504
+		}
+	],
 	"_idRow": 504891,
 	"_sName": "ka_soccer_rainyday",
-	"_sText": "<span class=\"GreenColor\"><u class=\"SelectedElement\">outdoor jungle stadium</u></span><u><br></u><br><span class=\"RedColor\">-4v4<br>-Radar<br>-New Ball<br>-for pro gameplay</span>"
+	"_sText": "<span class=\"GreenColor\"><u>outdoor jungle stadium</u></span><u><br></u><br><span class=\"RedColor SelectedElement\">-4v4 or 5v5<br>-Radar<br>-New Ball<br>-for pro gameplay</span>"
 }
