@@ -4,27 +4,6 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
-					"$8000$.bsp"
-				]
-			},
-			"_bContainsExe": false,
-			"_idRow": 1241652,
-			"_nDownloadCount": 6,
-			"_nFilesize": 599944,
-			"_sAnalysisResult": "File passed analysis",
-			"_sAnalysisResultCode": "ok",
-			"_sAnalysisState": "done",
-			"_sAvastAvResult": "clean",
-			"_sClamAvResult": "clean",
-			"_sDescription": "map",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1241652",
-			"_sFile": "8000_.zip",
-			"_sMd5Checksum": "f97aab8a0fb219e52676cabeb7825e08",
-			"_tsDateAdded": 1721632150
-		},
-		{
-			"_aMetadata": {
-				"_aArchiveFileTree": [
 					"$8001$.bsp"
 				]
 			},
@@ -37,15 +16,36 @@
 			"_sAnalysisState": "done",
 			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
-			"_sDescription": "",
+			"_sDescription": "v2",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1242011",
 			"_sFile": "8001_.rar",
 			"_sMd5Checksum": "8c78085af02bc82f5dfc4a8eaf22559f",
 			"_tsDateAdded": 1721674366
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"$8000$.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 1242019,
+			"_nDownloadCount": 0,
+			"_nFilesize": 599944,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
+			"_sDescription": "v1 restored",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1242019",
+			"_sFile": "8000__4f644.zip",
+			"_sMd5Checksum": "f97aab8a0fb219e52676cabeb7825e08",
+			"_tsDateAdded": 1721675266
 		}
 	],
 	"_aLatestUpdates": [],
 	"_idRow": 529785,
 	"_sName": "$8000$",
-	"_sText": "A remake of $2000$ a classic map hosted on servers. today we are remaking it! Oh wait I already remade it"
+	"_sText": "A remake of $2000$ a classic map hosted on servers. today we are remaking it! Oh wait I already remade it<br><br>(UPDATE: I cant make an update because one bug wont let me scroll down in the update section)<br>Version 2 has arrived. <br>This version is more better than the other and plz kill me"
 }
