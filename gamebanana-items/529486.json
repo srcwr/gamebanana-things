@@ -12,7 +12,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1240750,
-			"_nDownloadCount": 25,
+			"_nDownloadCount": 26,
 			"_nFilesize": 1698335,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -24,9 +24,54 @@
 			"_sFile": "de_valley_7d9fe.rar",
 			"_sMd5Checksum": "2343c1ef180b5d6135a25869af6e0745",
 			"_tsDateAdded": 1721518656
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"materials": {
+						"overviews": [
+							"de_valley.vmt",
+							"de_valley.vtf"
+						]
+					},
+					"resource": {
+						"overviews": [
+							"de_valley.txt",
+							"de_valley_radar.dds"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 1241794,
+			"_nDownloadCount": 0,
+			"_nFilesize": 285647,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
+			"_sDescription": "put both \"overviews\" folders in their respective cstrike folder",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1241794",
+			"_sFile": "de_valley_radar.rar",
+			"_sMd5Checksum": "98f110e755b5b4d2f256b00a45e3d304",
+			"_tsDateAdded": 1721652984
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Added radar image"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "de_valley",
+			"_sVersion": "1.1",
+			"_tsDateAdded": 1721653088
+		}
+	],
 	"_idRow": 529486,
 	"_sName": "de_valley",
 	"_sText": "Defusal map set in an industrial area.<br><br>I think this map took the longest to make out of all of them, all the detailing and planning but in the end i made it and i think i really overshadowed my older ones :). The inspiration for this map layout were like old cs maps with weird bombsite placements but i also tried to make it balanced.<br><br>"
