@@ -2,32 +2,30 @@
 	"_aAlternateFileSources": null,
 	"_aFiles": [
 		{
-			"_aMetadata": {
-				"_aArchiveFileTree": {
-					"pl_production": [
-						"pl_assault_dp.bsp",
-						"pl_cache_dp.bsp",
-						"pl_nuke_dp.bsp"
-					]
-				}
-			},
+			"_aMetadata": [],
 			"_bContainsExe": false,
-			"_idRow": 1232782,
-			"_nDownloadCount": 38,
-			"_nFilesize": 57427485,
-			"_sAnalysisResult": "File passed analysis",
-			"_sAnalysisResultCode": "ok",
-			"_sAnalysisState": "done",
-			"_sAvastAvResult": "clean",
-			"_sClamAvResult": "clean",
+			"_idRow": 1243324,
+			"_nDownloadCount": 0,
+			"_nFilesize": 59400092,
+			"_sAnalysisResult": "Undetermined",
+			"_sAnalysisResultCode": "undetermined",
+			"_sAnalysisState": "pending",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1232782",
-			"_sFile": "payload_production_pack.zip",
-			"_sMd5Checksum": "10d96019fad534823746a3d8f84b6b75",
-			"_tsDateAdded": 1720552303
+			"_sDownloadUrl": "https://gamebanana.com/dl/1243324",
+			"_sFile": "pl_map_pack1.zip",
+			"_sMd5Checksum": "fa7921c19bd34f8c110b598c28e625bd",
+			"_tsDateAdded": 1721844539
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [],
+			"_sText": "<p><span>Minor</span> <span>bugs</span> have been <span>fixed, balancing maps.</span></p>",
+			"_sTitle": "Bug fix",
+			"_sVersion": "dp2",
+			"_tsDateAdded": 1721844406
+		}
+	],
 	"_idRow": 526898,
 	"_sName": "Payload \"Production\" map pack",
 	"_sText": "<b class=\"SelectedElement\"><i>Payload</i></b> is a game mode in which the <span class=\"RedColor\">T</span> team must escort <span class=\"RedColor\">a cart full of explosives</span>, through a series of <span class=\"RedColor\">checkpoints</span> and into the <span class=\"RedColor\">CT</span> team's base within a certain amount of time.<br><br><span class=\"GreenColor\">\"Production\"</span> map pack includes 3 map: <span class=\"GreenColor\">pl_nuke</span>, <span class=\"GreenColor\">pl_cache</span>, <span class=\"GreenColor\">pl_assault</span>.<br><br><span class=\"GreenColor\">pl_nuke</span> - <span class=\"RedColor\">long</span> map, 2 checkpoints.<br><span class=\"GreenColor\">pl_cache</span> - <span class=\"RedColor\">medium</span> map, 1 checkpoint.<br><span class=\"GreenColor\">pl_assaul</span> - <span class=\"RedColor\">short</span> map w/o checkpoints.<br><br><span class=\"RedColor\">! W A R N I N G !                         </span><span class=\"RedColor\">! W A R N I N G ! </span><br><span class=\"GreenColor\">The maps is intended for playing on server with deathmatch plugins (<span class=\"EzKURWReUAB5oZgtQNkl\" data-src-align=\"0:3\">or</span> <span class=\"EzKURWReUAB5oZgtQNkl\" data-src-align=\"4:6\">another</span> <span class=\"EzKURWReUAB5oZgtQNkl\" data-src-align=\"11:8\">plugin</span> <span class=\"EzKURWReUAB5oZgtQNkl\" data-src-align=\"21:7\">that</span> <span class=\"EzKURWReUAB5oZgtQNkl\" data-src-align=\"29:13\">provides</span> <span class=\"EzKURWReUAB5oZgtQNkl\" data-src-align=\"43:7\">respawn</span> of <span class=\"EzKURWReUAB5oZgtQNkl\" data-src-align=\"51:7\">players</span> <span class=\"EzKURWReUAB5oZgtQNkl\" data-src-align=\"59:1\">and</span> the <span class=\"EzKURWReUAB5oZgtQNkl\" data-src-align=\"61:6\">issuance</span> of <span class=\"EzKURWReUAB5oZgtQNkl\" data-src-align=\"68:6\">weapons</span> <span class=\"EzKURWReUAB5oZgtQNkl\" data-src-align=\"75:5\">through</span> the <span class=\"EzKURWReUAB5oZgtQNkl\" data-src-align=\"81:4\">menu</span>).<font></font></span><br>"
