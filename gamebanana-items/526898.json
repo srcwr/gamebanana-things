@@ -2,14 +2,22 @@
 	"_aAlternateFileSources": null,
 	"_aFiles": [
 		{
-			"_aMetadata": [],
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"pl_assault_dp2.bsp",
+					"pl_cache_dp2.bsp",
+					"pl_nuke_dp2.bsp"
+				]
+			},
 			"_bContainsExe": false,
 			"_idRow": 1243324,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 2,
 			"_nFilesize": 59400092,
-			"_sAnalysisResult": "Undetermined",
-			"_sAnalysisResultCode": "undetermined",
-			"_sAnalysisState": "pending",
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1243324",
 			"_sFile": "pl_map_pack1.zip",

@@ -1,0 +1,218 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"maps": [
+						"csde_trump.bsp"
+					],
+					"materials": {
+						"ENV": {
+							"BRUSH": {
+								"CEILINGS": [
+									"BROOM_CEILING.vmt",
+									"BROOM_CEILING.vtf",
+									"CEIL_BRIDGEB.vmt",
+									"CEIL_BRIDGEB.vtf",
+									"CEIL_CREAMPLANK.vmt",
+									"CEIL_CREAMPLANK.vtf",
+									"CREAM_CEILING.vmt",
+									"CREAM_CEILING.vtf",
+									"METAL_CEILING.vmt",
+									"METAL_CEILING.vtf"
+								],
+								"FLOORS": [
+									"BLUECARPET.vmt",
+									"BLUECARPET.vtf",
+									"DECK_WOODEN_DRAINAGE.vmt",
+									"DECK_WOODEN_DRAINAGE.vtf",
+									"FLOOR_BOUTIQUEFLOOR.vmt",
+									"FLOOR_BOUTIQUEFLOOR.vtf",
+									"FLOOR_CARPETGREY.vmt",
+									"FLOOR_CARPETGREY.vtf",
+									"FLOOR_DECKDULL.vmt",
+									"FLOOR_DECKDULL.vtf",
+									"FLOOR_DECKRIVITSA.vmt",
+									"FLOOR_DECKRIVITSA.vtf",
+									"FLOOR_DECK_OLD.vmt",
+									"FLOOR_DECK_OLD.vtf",
+									"FLOOR_ENG_DIAMOND.vmt",
+									"FLOOR_ENG_DIAMOND.vtf",
+									"FLOOR_ENG_JAGGIES.vmt",
+									"FLOOR_ENG_JAGGIES.vtf",
+									"FLOOR_GRUBBY_CREW.vmt",
+									"FLOOR_GRUBBY_CREW.vtf",
+									"FLOOR_LIGHT_CIRCLES.vmt",
+									"FLOOR_LIGHT_CIRCLES.vtf",
+									"FLOOR_PLUSHPURPLE.vmt",
+									"FLOOR_PLUSHPURPLE.vtf",
+									"FLOOR_PLUSH_BROWN.vmt",
+									"FLOOR_PLUSH_BROWN.vtf",
+									"FLOOR_PLUSH_RED.vmt",
+									"FLOOR_PLUSH_RED.vtf",
+									"FLOOR_POOLSIDE.vmt",
+									"FLOOR_POOLSIDE.vtf",
+									"FLOOR_RUB_1ST.vmt",
+									"FLOOR_RUB_1ST.vtf",
+									"FLOOR_SQUAREPAT_RUG.vmt",
+									"FLOOR_SQUAREPAT_RUG.vtf",
+									"FLOOR_TILES_COOLGREY.vmt",
+									"FLOOR_TILES_COOLGREY.vtf",
+									"FLOOR_WOOD_DARKPLAIN.vmt",
+									"FLOOR_WOOD_DARKPLAIN.vtf",
+									"TEXTILES_BANKCARPET.vmt",
+									"TEXTILES_BANKCARPET.vtf",
+									"TEXTILES_CREAMCARPET.vmt",
+									"TEXTILES_CREAMCARPET.vtf"
+								],
+								"MISC": [
+									"ELEV_SHAFT.vmt",
+									"ELEV_SHAFT.vtf",
+									"WOOD_CHERRYWOODDARK.vmt"
+								],
+								"WALLS": [
+									"WALL_CREAMPLANK.vmt",
+									"WALL_CREAMPLANK.vtf",
+									"WALL_CREAMPLANK_NOBRD.vmt",
+									"WALL_CREAMPLANK_NOBRD.vtf",
+									"WALL_CREAMSTRIPE.vmt",
+									"WALL_CREAMSTRIPE.vtf",
+									"WALL_DIRTYPALE_BLUE.vmt",
+									"WALL_DIRTYPALE_BLUE.vtf",
+									"WALL_ENG_OILY.vmt",
+									"WALL_ENG_OILY.vtf",
+									"WALL_ENSUITE_CHOC.vmt",
+									"WALL_ENSUITE_CHOC.vtf",
+									"WALL_EXTPLAIN.vmt",
+									"WALL_EXTPLAIN.vtf",
+									"WALL_GREEN_STRIPE.vmt",
+									"WALL_GREEN_STRIPE.vtf",
+									"WALL_KHAKI_GREEN.vmt",
+									"WALL_KHAKI_GREEN.vtf",
+									"WALL_LIGHTPLANK_NOBRD.vmt",
+									"WALL_LIGHTPLANK_NOBRD.vtf",
+									"WALL_PLASTER02.vmt",
+									"WALL_PLASTER02.vtf",
+									"WALL_PLASTER03.vmt",
+									"WALL_PLASTER03.vtf",
+									"WALL_RED_PANEL.vmt",
+									"WALL_RED_PANEL.vtf",
+									"WALL_TAN_DARKTRIM.vmt",
+									"WALL_TAN_DARKTRIM.vtf",
+									"WALL_TOFFEE_HIGH.vmt",
+									"WALL_TOFFEE_HIGH.vtf",
+									"WALL_TOFFEE_TILE.vmt",
+									"WALL_TOFFEE_TILE.vtf",
+									"WALL_WARM_RIVETS.vmt",
+									"WALL_WARM_RIVETS.vtf",
+									"WALL_WOODNUT.vmt",
+									"WALL_WOODNUT.vtf",
+									"WALL_WOODNUT_BORDER.vmt",
+									"WALL_WOODNUT_BORDER.vtf",
+									"WALL_WOODPANELS.vmt",
+									"WALL_WOODPANELS.vtf",
+									"WALL_WOODPANELSPLAIN.vmt",
+									"WALL_WOODPANELSPLAIN.vtf",
+									"WALL_WOOD_PLAINLIGHT.vmt",
+									"WALL_WOOD_PLAINLIGHT.vtf"
+								]
+							}
+						}
+					},
+					"models": {
+						"Env": {
+							"Decor": {
+								"Heart_Monitor": [
+									"Heart_Monitor.mdl"
+								]
+							},
+							"Doors": {
+								"CubicleDoorGlass": [
+									"CubicleDoorGlass.mdl"
+								],
+								"bankDoorL": [
+									"bankdoor_s.mdl"
+								],
+								"cabin_doors": [
+									"cabin1st_l_a.mdl",
+									"cabin1st_r_a.mdl"
+								],
+								"cell_door": [
+									"cell_door.mdl"
+								],
+								"deck_door": [
+									"deck_door.mdl",
+									"deck_door_staffonly.mdl"
+								],
+								"door_int_staff": [
+									"door_int_staff_r.mdl"
+								],
+								"guard_door": [
+									"guard_door.mdl"
+								],
+								"kit_door": [
+									"kit_door.mdl"
+								],
+								"sauna_door": [
+									"sauna_door.mdl"
+								],
+								"shower_door": [
+									"shower_door.mdl"
+								],
+								"sickybay_door": [
+									"sickbay_door_s.mdl"
+								],
+								"toilet_doors": [
+									"toilet_door_left.mdl",
+									"toilet_door_naval.mdl",
+									"toilet_door_right.mdl"
+								]
+							},
+							"Furniture": {
+								"Kit_fridge": [
+									"kit_fridge_door.mdl"
+								],
+								"Ward_Bed": [
+									"Ward_Bed.mdl"
+								],
+								"mrx_chair": [
+									"chair_of_doom.mdl"
+								]
+							},
+							"Lighting": {
+								"cryst_chandelier": [
+									"cryst_chandelier.mdl"
+								]
+							},
+							"Misc": {
+								"lifeBoat": [
+									"lifeboat_tarp.mdl"
+								],
+								"staff_bookcase": [
+									"staff_bookcase.mdl"
+								]
+							}
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 1243655,
+			"_nDownloadCount": 0,
+			"_nFilesize": 6226822,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1243655",
+			"_sFile": "csde_trump.rar",
+			"_sMd5Checksum": "b9b39223045e85b5988f6d93b695c45c",
+			"_tsDateAdded": 1721877246
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 530411,
+	"_sName": "CSDE_TRUMP",
+	"_sText": "CSDE_TRUMP - Make America Great Again"
+}
