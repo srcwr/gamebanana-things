@@ -4,8 +4,8 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": {
-					"de_kipyatok 1.1": {
-						"de_kipyatok 1.0": [
+					"de_kipyatok 1.2": {
+						"de_kipyatok 1.2": [
 							"avtorstvo.txt",
 							"de_kipyatok.bsp",
 							"de_kipyatok.nav"
@@ -14,23 +14,40 @@
 				}
 			},
 			"_bContainsExe": false,
-			"_idRow": 1243235,
-			"_nDownloadCount": 17,
-			"_nFilesize": 128455774,
+			"_idRow": 1244395,
+			"_nDownloadCount": 1,
+			"_nFilesize": 174284785,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
 			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1243235",
-			"_sFile": "de_kipyatok_11.rar",
-			"_sMd5Checksum": "acefe7a02577a340dfbf253e16725575",
-			"_tsDateAdded": 1721836349
+			"_sDownloadUrl": "https://gamebanana.com/dl/1244395",
+			"_sFile": "de_kipyatok_12.zip",
+			"_sMd5Checksum": "c7bc76f03c4422afbec9720cd32c3ad7",
+			"_tsDateAdded": 1721944765
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "",
+					"text": "Из изменений: расширен надземный переход, добавлены дополнительные лестницы, расширена карта, ресторан рис перемещён на другое место, второй надземный перехо"
+				},
+				{
+					"cat": "",
+					"text": "Among the changes: the aboveground passage was expanded, additional stairs were added, the map was expanded, the rice restaurant was moved to another location, the second aboveground passage"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "correction of small kosyaki",
+			"_sVersion": "1.2",
+			"_tsDateAdded": 1721944922
+		}
+	],
 	"_idRow": 530296,
 	"_sName": "de_kipyatok",
-	"_sText": "Данная карта посвящена зданию \"кипяток\" на каком то вокзале. На карте есть: электрички, ресторан рис, 3 бомбплейса, информатор и 2 здания из одной из моих первых карт из 2023 года. Из минусов: отсутствие радара, названия мест, отсутствие текстур внизу электричек (если что эта проблема была у модели с самого начала).<br><br> <br>This map is dedicated to the Kipyatok building at some train station. There are: trains, \"RICE\" restaurant, 3 bombplaces, an informant and 2 buildings from one of my first maps from 2023. Among the disadvantages: the lack of radar, the names of places, the lack of textures at the bottom of the trains (if that was the problem the model had from the very beginning).<br>"
+	"_sText": "Данная карта посвящена зданию \"кипяток\" на каком то вокзале. На карте есть: электрички, ресторан рис, 3 бомбплейса, информатор и 2 здания из одной из моих первых карт из 2023 года. Из минусов: отсутствие радара, названия мест, отсутствие текстур внизу электричек (если что эта проблема была у модели с самого начала).<br><br>&nbsp;<br>This map is dedicated to the Kipyatok building at some train station. There are: trains, \"RICE\" restaurant, 3 bombplaces, an informant and 2 buildings from one of my first maps from 2023. Among the disadvantages: the lack of radar, the names of places, the lack of textures at the bottom of the trains (if that was the problem the model had from the very beginning).<br>"
 }
