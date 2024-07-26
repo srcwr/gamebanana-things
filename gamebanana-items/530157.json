@@ -9,7 +9,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1242851,
-			"_nDownloadCount": 21,
+			"_nDownloadCount": 24,
 			"_nFilesize": 15476656,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -21,9 +21,49 @@
 			"_sFile": "de_hawkins.zip",
 			"_sMd5Checksum": "5d4abcb47f13850f9307304734716b3d",
 			"_tsDateAdded": 1721776277
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_hawkins.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 1244976,
+			"_nDownloadCount": 0,
+			"_nFilesize": 16047041,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1244976",
+			"_sFile": "de_hawkins_011.zip",
+			"_sMd5Checksum": "a3da76e52ce35ca706afa68ddf981147",
+			"_tsDateAdded": 1722015109
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Overhaul",
+					"text": "mostly graphical changes to A"
+				},
+				{
+					"cat": "Tweak",
+					"text": "removed some doors"
+				},
+				{
+					"cat": "Optimization",
+					"text": "lots of func_detail work"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Bombsite A changes",
+			"_sVersion": "v0.5.1",
+			"_tsDateAdded": 1722015067
+		}
+	],
 	"_idRow": 530157,
 	"_sName": "de_Hawkins",
 	"_sText": "hi! this is a map ive been working on for a while on and off, its far from finished, but its 50% done and playable, though bots may have some trouble"
