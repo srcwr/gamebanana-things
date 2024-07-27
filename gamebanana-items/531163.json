@@ -11,21 +11,79 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1245831,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 3,
 			"_nFilesize": 483576,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
 			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
-			"_sDescription": "The map",
+			"_sDescription": "Destructible Building V1",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1245831",
 			"_sFile": "dmm_building.zip",
 			"_sMd5Checksum": "e9011b2a274aa0040770ceb7bd2bae70",
 			"_tsDateAdded": 1722111865
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"buildingthefunny": {
+						"maps": [
+							"teamelim_dmm_house.bsp",
+							"teamelim_dmm_house.nav"
+						],
+						"materials": {
+							"decals": [
+								"yasm.vmt",
+								"yasm.vtf"
+							]
+						},
+						"sound": {
+							"music": [
+								"radio.wav"
+							]
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 1245909,
+			"_nDownloadCount": 0,
+			"_nFilesize": 29497141,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
+			"_sDescription": "Destructible Building V2",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1245909",
+			"_sFile": "buildingthefunny.zip",
+			"_sMd5Checksum": "9aadd44de45a5970dfbeb0301944336c",
+			"_tsDateAdded": 1722122793
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Radio - it plays music."
+				},
+				{
+					"cat": "Addition",
+					"text": "Stairs to second floor"
+				},
+				{
+					"cat": "Addition",
+					"text": "Some decoration"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "The Decoration Update",
+			"_sVersion": "V2",
+			"_tsDateAdded": 1722122896
+		}
+	],
 	"_idRow": 531163,
 	"_sName": "Destructible Building",
 	"_sText": "A little building I made to test out (fake) DMM."
