@@ -3,27 +3,1985 @@
 	"_aFiles": [
 		{
 			"_aMetadata": {
-				"_aArchiveFileTree": [
-					"readme.zip.txt"
-				]
+				"_aArchiveFileTree": {
+					"cssourceskinpack": {
+						"AK47": {
+							"materials": {
+								"models": {
+									"weapons": {
+										"v_models": {
+											"arms": [
+												"bare_arm_masks1.vtf",
+												"bare_finger_133.vmt",
+												"glove_handwrap_leathery_left.vmt",
+												"glove_handwrap_leathery_left.vtf",
+												"glove_handwrap_leathery_left2.vmt",
+												"glove_handwrap_leathery_left_normal.vtf",
+												"glove_handwrap_leathery_masks1.vtf",
+												"glove_handwrap_leathery_right.vmt",
+												"glove_handwrap_leathery_right.vtf",
+												"glove_handwrap_leathery_right2.vmt",
+												"glove_handwrap_leathery_right_normal.vtf",
+												"sleeve_idf.vmt",
+												"sleeve_idf.vtf",
+												"sleeve_st6_normal.vtf"
+											],
+											"rif_ak47": [
+												"rif_ak47.vmt",
+												"rif_ak47_ex.vtf",
+												"rif_ak47_tx.vtf"
+											],
+											"stattrack": [
+												"stat_digit.vtf",
+												"stat_digit000.vmt",
+												"stat_digit001.vmt",
+												"stat_digit002.vmt",
+												"stat_digit003.vmt",
+												"stat_digit004.vmt",
+												"stat_digit005.vmt",
+												"stattrak_error001.vmt",
+												"stattrak_module.vmt",
+												"stattrak_module.vtf",
+												"stattrak_module_exponent.vtf",
+												"uid.vmt",
+												"uid_charset.vmt"
+											],
+											"stickers": [
+												"rif_ak47_sticker_a.vmt",
+												"rif_ak47_sticker_b.vmt",
+												"rif_ak47_sticker_c.vmt",
+												"rif_ak47_sticker_d.vmt"
+											]
+										}
+									}
+								}
+							},
+							"models": {
+								"weapons": [
+									"v_rif_ak47.dx80.vtx",
+									"v_rif_ak47.dx90.vtx",
+									"v_rif_ak47.mdl",
+									"v_rif_ak47.sw.vtx",
+									"v_rif_ak47.vvd",
+									"w_rif_ak47.dx80.vtx",
+									"w_rif_ak47.dx90.vtx",
+									"w_rif_ak47.mdl",
+									"w_rif_ak47.phy",
+									"w_rif_ak47.sw.vtx",
+									"w_rif_ak47.vvd"
+								]
+							},
+							"scripts": {
+								"0": "game_sounds_manifest.txt",
+								"1": "weapon_ak47.txt",
+								"weapons": [
+									"ak47.txt"
+								]
+							},
+							"sound": {
+								"0": "sound.cache",
+								"by_daimon": {
+									"weapons": {
+										"0": "draw1.wav",
+										"1": "draw2.wav",
+										"2": "draw3.wav",
+										"ak47": [
+											"ak47_01.wav",
+											"ak47_boltpull.wav",
+											"ak47_clipin.wav",
+											"ak47_clipout.wav",
+											"ak47_draw.wav"
+										]
+									}
+								}
+							}
+						},
+						"AUG": {
+							"materials": {
+								"VGUI": {
+									"gfx": {
+										"VGUI": [
+											"aug.vtf"
+										]
+									}
+								},
+								"models": {
+									"weapons": {
+										"v_models": {
+											"rif_aug": [
+												"rif_aug_exp_go.vtf",
+												"rif_aug_go.vmt",
+												"rif_aug_go.vtf",
+												"rif_aug_scope_exp_go.vtf",
+												"rif_aug_scope_go.vmt",
+												"rif_aug_scope_go.vtf",
+												"scope_go.vmt",
+												"scope_go.vtf",
+												"scope_go_normal.vtf"
+											]
+										}
+									}
+								}
+							},
+							"models": {
+								"weapons": [
+									"v_rif_aug.dx80.vtx",
+									"v_rif_aug.dx90.vtx",
+									"v_rif_aug.mdl",
+									"v_rif_aug.sw.vtx",
+									"v_rif_aug.vvd",
+									"w_rif_aug.dx80.vtx",
+									"w_rif_aug.dx90.vtx",
+									"w_rif_aug.mdl",
+									"w_rif_aug.phy",
+									"w_rif_aug.sw.vtx",
+									"w_rif_aug.vvd"
+								]
+							},
+							"sound": {
+								"0": "sound.cache",
+								"weapons": {
+									"aug": [
+										"aug-1.wav",
+										"aug_boltpull.wav",
+										"aug_boltslap.wav",
+										"aug_clipin.wav",
+										"aug_clipout.wav",
+										"aug_cliptap.wav",
+										"aug_draw.wav"
+									]
+								}
+							}
+						},
+						"AWP": {
+							"materials": {
+								"models": {
+									"weapons": {
+										"v_models": {
+											"arms": [
+												"bare_arm_133.vmt",
+												"bare_arm_133.vtf",
+												"bare_arm_133_exp.vtf",
+												"bare_arm_133_normal.vtf",
+												"glove_fingerless.vmt",
+												"glove_fingerless.vtf",
+												"glove_fingerless_exp.vtf",
+												"glove_fingerless_normal.vtf"
+											],
+											"snip_awp": [
+												"awp.vmt",
+												"awp_tzd.vtf",
+												"awp_tzd_exponent.vtf",
+												"scope_awp.vmt",
+												"scope_awp_tzd.vtf",
+												"scope_awp_tzd_normal.vtf"
+											],
+											"stickers": [
+												"pgl_c9.vtf",
+												"pgl_c9_lightwarp.vtf",
+												"pgl_c9_normal.vtf",
+												"pgl_g2.vtf",
+												"pgl_g2_lightwarp.vtf",
+												"pgl_g2_normal.vtf",
+												"pgl_gold.vtf",
+												"pgl_gold_lightwarp.vtf",
+												"pgl_gold_normal.vtf",
+												"pgl_ska.vtf",
+												"pgl_ska_lightwarp.vtf",
+												"pgl_ska_normal.vtf",
+												"snip_awp_decal_A_tzd.vmt",
+												"snip_awp_decal_B_tzd.vmt",
+												"snip_awp_decal_C_tzd.vmt",
+												"snip_awp_decal_D_tzd.vmt"
+											]
+										}
+									}
+								}
+							},
+							"models": {
+								"weapons": [
+									"v_snip_awp.dx80.vtx",
+									"v_snip_awp.dx90.vtx",
+									"v_snip_awp.mdl",
+									"v_snip_awp.sw.vtx",
+									"v_snip_awp.vvd"
+								]
+							},
+							"scripts": {
+								"0": "game_sounds_manifest.txt",
+								"1": "weapon_awp.txt",
+								"weapons": [
+									"awp.txt"
+								]
+							},
+							"sound": {
+								"0": "sound.cache",
+								"weapons": {
+									"0": "zoom.wav",
+									"awp": [
+										"awp1.wav",
+										"awp_boltback.wav",
+										"awp_boltforward.wav",
+										"awp_cliphit.wav",
+										"awp_clipin.wav",
+										"awp_clipout.wav",
+										"awp_draw.wav"
+									]
+								}
+							}
+						},
+						"DEAGLE": {
+							"materials": {
+								"models": {
+									"weapons": {
+										"pist_deagle_csgo": [
+											"pist_deagle.vmt",
+											"pist_deagle.vtf",
+											"pist_deagle_exponent.vtf"
+										],
+										"v_models": {
+											"arms": {
+												"bare": [
+													"arms.vmt",
+													"arms.vtf",
+													"arms_normal.vtf",
+													"bare_arm_133.vmt",
+													"bare_arm_133.vtf",
+													"bare_arm_133_exp.vtf",
+													"bare_arm_133_normal.vtf",
+													"bare_arm_fresnelrange.vtf"
+												],
+												"glove": [
+													"Exp_1.vtf",
+													"Nor_1.vtf",
+													"Nor_2.vtf",
+													"Text_1.vtf",
+													"Text_2.vtf",
+													"glove_handwrap_leathery_color.vtf",
+													"glove_handwrap_leathery_exponent.vtf",
+													"glove_handwrap_leathery_left.vmt",
+													"glove_handwrap_leathery_normal.vtf",
+													"glove_handwrap_leathery_right.vmt",
+													"glove_specialist_left.vmt",
+													"glove_specialist_right.vmt"
+												]
+											}
+										}
+									}
+								}
+							},
+							"models": {
+								"weapons": [
+									"v_pist_deagle.dx80.vtx",
+									"v_pist_deagle.dx90.vtx",
+									"v_pist_deagle.mdl",
+									"v_pist_deagle.sw.vtx",
+									"v_pist_deagle.vvd",
+									"w_pist_deagle.dx80.vtx",
+									"w_pist_deagle.dx90.vtx",
+									"w_pist_deagle.mdl",
+									"w_pist_deagle.phy",
+									"w_pist_deagle.sw.vtx",
+									"w_pist_deagle.vvd"
+								]
+							},
+							"scripts": [
+								"weapon_deagle.ctx",
+								"weapon_deagle.txt"
+							],
+							"sound": {
+								"0": "sound.cache",
+								"weapons": {
+									"deagle": [
+										"de_clipin.wav",
+										"de_clipout.wav",
+										"de_draw.wav",
+										"de_slideback.wav",
+										"de_slideforward.wav",
+										"deagle-1.wav"
+									]
+								}
+							}
+						},
+						"DUALBERETTAS": {
+							"materials": {
+								"models": {
+									"weapons": {
+										"v_models": {
+											"arms": [
+												"bare_arm_133.vmt",
+												"bare_arm_133.vtf",
+												"bare_arm_133_exp.vtf",
+												"bare_arm_133_normal.vtf",
+												"glove_motorcycle_exp.vtf",
+												"glove_motorcycle_left.vmt",
+												"glove_motorcycle_left.vtf",
+												"glove_motorcycle_left_normal.vtf",
+												"glove_motorcycle_right.vmt",
+												"glove_motorcycle_right.vtf",
+												"glove_motorcycle_right_normal.vtf",
+												"hand_lightwarp.vtf"
+											],
+											"pist_elite": [
+												"m9a1.vmt",
+												"m9a1.vtf",
+												"m9a1_ex.vtf",
+												"m9a1_nor.vtf"
+											]
+										},
+										"w_models": {
+											"pist_elite": [
+												"m9a1.vmt"
+											]
+										}
+									}
+								}
+							},
+							"models": {
+								"weapons": [
+									"v_pist_elite.dx80.vtx",
+									"v_pist_elite.dx90.vtx",
+									"v_pist_elite.mdl",
+									"v_pist_elite.sw.vtx",
+									"v_pist_elite.vvd",
+									"w_pist_elite.dx80.vtx",
+									"w_pist_elite.dx90.vtx",
+									"w_pist_elite.mdl",
+									"w_pist_elite.phy",
+									"w_pist_elite.sw.vtx",
+									"w_pist_elite.vvd",
+									"w_pist_elite_dropped.dx80.vtx",
+									"w_pist_elite_dropped.dx90.vtx",
+									"w_pist_elite_dropped.mdl",
+									"w_pist_elite_dropped.phy",
+									"w_pist_elite_dropped.sw.vtx",
+									"w_pist_elite_dropped.vvd",
+									"w_pist_elite_single.dx80.vtx",
+									"w_pist_elite_single.dx90.vtx",
+									"w_pist_elite_single.mdl",
+									"w_pist_elite_single.phy",
+									"w_pist_elite_single.sw.vtx",
+									"w_pist_elite_single.vvd"
+								]
+							},
+							"scripts": {
+								"0": "game_sounds_manifest.txt",
+								"1": "weapon_elite.txt",
+								"weapons": [
+									"elites.txt"
+								]
+							},
+							"sound": {
+								"0": "sound.cache",
+								"weapons": {
+									"elite": [
+										"elite_clipout.wav",
+										"elite_draw.wav",
+										"elite_leftclipin.wav",
+										"elite_reloadstart.wav",
+										"elite_rightclipin.wav",
+										"elite_sliderelease.wav",
+										"elites_01.wav",
+										"elites_02.wav",
+										"elites_03.wav",
+										"elites_04.wav"
+									]
+								}
+							}
+						},
+						"FAMAS": {
+							"materials": {
+								"models": {
+									"weapons": {
+										"v_models": {
+											"rif_famas": [
+												"metal_warp.vtf",
+												"rif_famas.vmt",
+												"rif_famas.vtf",
+												"rif_famas_exponent.vtf"
+											]
+										}
+									}
+								}
+							},
+							"models": {
+								"weapons": [
+									"v_rif_famas.dx80.vtx",
+									"v_rif_famas.dx90.vtx",
+									"v_rif_famas.mdl",
+									"v_rif_famas.sw.vtx",
+									"v_rif_famas.vvd",
+									"v_rif_famas.xbox.vtx",
+									"w_rif_famas.dx80.vtx",
+									"w_rif_famas.dx90.vtx",
+									"w_rif_famas.mdl",
+									"w_rif_famas.phy",
+									"w_rif_famas.sw.vtx",
+									"w_rif_famas.vvd",
+									"w_rif_famas.xbox.vtx"
+								]
+							},
+							"scripts": {
+								"0": "game_sounds_manifest.txt",
+								"1": "weapon_famas.txt",
+								"weapons": [
+									"famas.txt"
+								]
+							},
+							"sound": {
+								"0": "sound.cache",
+								"weapons": {
+									"famas": [
+										"famas-1.wav",
+										"famas_boltpull.wav",
+										"famas_clipin.wav",
+										"famas_clipout.wav",
+										"famas_cloth.wav"
+									]
+								}
+							}
+						},
+						"FIVESEVEN": {
+							"materials": {
+								"models": {
+									"weapons": {
+										"v_models": {
+											"arms": [
+												"ct_arms_gign.vmt",
+												"ct_arms_gign.vtf",
+												"ct_fbi_glove.vmt",
+												"ct_fbi_glove.vtf"
+											],
+											"pist_fiveseven": [
+												"fiveseven.vmt",
+												"fiveseven.vtf",
+												"fiveseven_exponent.vtf",
+												"fiveseven_normall.vtf"
+											]
+										}
+									}
+								}
+							},
+							"models": {
+								"weapons": [
+									"v_pist_fiveseven.dx80.vtx",
+									"v_pist_fiveseven.dx90.vtx",
+									"v_pist_fiveseven.mdl",
+									"v_pist_fiveseven.sw.vtx",
+									"v_pist_fiveseven.vvd",
+									"w_pist_fiveseven.dx80.vtx",
+									"w_pist_fiveseven.dx90.vtx",
+									"w_pist_fiveseven.mdl",
+									"w_pist_fiveseven.phy",
+									"w_pist_fiveseven.sw.vtx",
+									"w_pist_fiveseven.vvd"
+								]
+							},
+							"scripts": {
+								"0": "game_sounds_manifest.txt",
+								"1": "weapon_fiveseven.txt",
+								"weapons": [
+									"fiveseven.txt"
+								]
+							},
+							"sound": {
+								"0": "sound.cache",
+								"weapons": {
+									"fiveseven": [
+										"fiveseven-1.wav",
+										"fiveseven_clipin.wav",
+										"fiveseven_clipout.wav",
+										"fiveseven_draw.wav",
+										"fiveseven_slideback.wav",
+										"fiveseven_sliderelease.wav"
+									]
+								}
+							}
+						},
+						"G3SG1": {
+							"materials": {
+								"models": {
+									"weapons": {
+										"shared": {
+											"scope": [
+												"scope_g3sg1.vmt",
+												"scope_g3sg1.vtf",
+												"scope_g3sg1_normal.vtf"
+											]
+										},
+										"stattrack": [
+											"stat_digit000.vmt",
+											"stat_digit000.vtf",
+											"stat_digit001.vmt",
+											"stat_digit001.vtf",
+											"stat_digit002.vmt",
+											"stat_digit002.vtf",
+											"stat_digit003.vmt",
+											"stat_digit003.vtf",
+											"stat_digit004.vmt",
+											"stat_digit004.vtf",
+											"stat_digit005.vmt",
+											"stat_digit005.vtf",
+											"stattrak_module.vmt",
+											"stattrak_module.vtf",
+											"stattrak_module_exponent.vtf"
+										],
+										"v_models": {
+											"arms": [
+												"bare_arm_133.vmt",
+												"bare_arm_133.vtf",
+												"glove_sporty.vtf",
+												"glove_sporty_left.vmt",
+												"glove_sporty_right.vmt"
+											],
+											"snip_g3sg1": [
+												"snip_g3sg1.vmt",
+												"snip_g3sg1.vtf",
+												"snip_g3sg1_exponent.vtf"
+											]
+										}
+									}
+								}
+							},
+							"models": {
+								"weapons": [
+									"v_snip_g3sg1.dx80.vtx",
+									"v_snip_g3sg1.dx90.vtx",
+									"v_snip_g3sg1.mdl",
+									"v_snip_g3sg1.sw.vtx",
+									"v_snip_g3sg1.vvd",
+									"w_snip_g3sg1.dx80.vtx",
+									"w_snip_g3sg1.dx90.vtx",
+									"w_snip_g3sg1.mdl",
+									"w_snip_g3sg1.phy",
+									"w_snip_g3sg1.sw.vtx",
+									"w_snip_g3sg1.vvd"
+								]
+							},
+							"scripts": {
+								"0": "game_sounds_manifest.txt",
+								"1": "weapon_g3sg1.txt",
+								"weapons": [
+									"g3sg1.txt"
+								]
+							},
+							"sound": {
+								"0": "sound.cache",
+								"weapons": {
+									"g3sg1": [
+										"g3sg1_01.wav",
+										"g3sg1_02.wav",
+										"g3sg1_03.wav",
+										"g3sg1_clipin.wav",
+										"g3sg1_clipout.wav",
+										"g3sg1_draw.wav",
+										"g3sg1_slideback.wav",
+										"g3sg1_slideforward.wav"
+									]
+								}
+							}
+						},
+						"GALIL": {
+							"materials": {
+								"models": {
+									"weapons": {
+										"v_models": {
+											"arms": [
+												"arms.vmt",
+												"bare_arm_133.vtf",
+												"bare_arm_133_exp.vtf",
+												"bare_arm_133_normal.vtf",
+												"glove_sporty_exp.vtf",
+												"glove_sporty_left.vmt",
+												"glove_sporty_left.vtf",
+												"glove_sporty_left_normal.vtf",
+												"glove_sporty_right.vmt",
+												"glove_sporty_right.vtf",
+												"glove_sporty_right_normal.vtf",
+												"hand_lightwarp.vtf"
+											],
+											"rif_galilar": [
+												"rif_galilar.vmt",
+												"rif_galilar_ex.vtf",
+												"rif_galilar_tx.vtf"
+											]
+										}
+									}
+								}
+							},
+							"models": {
+								"weapons": [
+									"v_rif_galil.dx80.vtx",
+									"v_rif_galil.dx90.vtx",
+									"v_rif_galil.mdl",
+									"v_rif_galil.sw.vtx",
+									"v_rif_galil.vvd",
+									"w_rif_galil.dx80.vtx",
+									"w_rif_galil.dx90.vtx",
+									"w_rif_galil.mdl",
+									"w_rif_galil.phy",
+									"w_rif_galil.sw.vtx",
+									"w_rif_galil.vvd"
+								]
+							},
+							"scripts": {
+								"0": "game_sounds_manifest.txt",
+								"weapons": [
+									"galil.txt"
+								]
+							},
+							"sound": {
+								"0": "sound.cache",
+								"weapons": {
+									"galilar": [
+										"galil_01.wav",
+										"galil_02.wav",
+										"galil_03.wav",
+										"galil_04.wav",
+										"galil_boltback.wav",
+										"galil_boltforward.wav",
+										"galil_clipin.wav",
+										"galil_clipout.wav",
+										"galil_draw.wav"
+									]
+								}
+							}
+						},
+						"GLOCK18": {
+							"materials": {
+								"effects": [
+									"fire_cloud1.vmt",
+									"fire_cloud1.vtf",
+									"fire_cloud2.vmt",
+									"fire_cloud2.vtf",
+									"muzzleflash1.vmt",
+									"muzzleflash1.vtf",
+									"muzzleflash2.vmt",
+									"muzzleflash2.vtf",
+									"muzzleflash3.vmt",
+									"muzzleflash3.vtf",
+									"muzzleflash4.vmt",
+									"muzzleflash4.vtf",
+									"muzzleflashX.vmt",
+									"muzzleflashX.vtf",
+									"spark.vtf",
+									"yellowflare.vtf"
+								],
+								"models": {
+									"weapons": {
+										"customization": {
+											"pist_glock18": [
+												"pist_glock18_sticker_a.vmt",
+												"pist_glock18_sticker_a_2.vmt",
+												"pist_glock18_sticker_b.vmt",
+												"pist_glock18_sticker_b_2.vmt",
+												"pist_glock18_sticker_c.vmt",
+												"pist_glock18_sticker_c_2.vmt",
+												"pist_glock18_sticker_d.vmt",
+												"pist_glock18_sticker_d_2.vmt"
+											],
+											"stickers": {
+												"0": "11.vtf",
+												"1": "1holo.vtf",
+												"10": "light.vtf",
+												"2": "1light.vtf",
+												"3": "22.vtf",
+												"4": "2holo.vtf",
+												"5": "33.vtf",
+												"6": "3holo.vtf",
+												"7": "44.vtf",
+												"8": "4holo.vtf",
+												"9": "back.vtf",
+												"default": [
+													"holowarp_default.vtf",
+													"holowarp_default_warped.vtf",
+													"holowarp_red.vtf",
+													"warp_default.vtf"
+												],
+												"emskatowice2014": [
+													"Thumbs.db",
+													"fnatic.vmt",
+													"fnatic_foil.vmt",
+													"fnatic_holo.vmt",
+													"navi.vmt",
+													"navi_foil.vmt",
+													"navi_holo.vmt",
+													"sticker_fnatic.vtf",
+													"sticker_fnatic_holo_color.vtf",
+													"sticker_fnatic_holo_nowarp.vtf",
+													"sticker_fnatic_holomask.vtf",
+													"sticker_fnatic_holomask_masked.vtf",
+													"sticker_fnatic_holowarp.vtf",
+													"sticker_fnatic_holowarp_warped.vtf",
+													"sticker_fnatic_holowarp_warped_ultra.vtf",
+													"sticker_fnatic_normal.vtf",
+													"sticker_navi.vtf",
+													"sticker_navi_holo_color.vtf",
+													"sticker_navi_holo_nowarp.vtf",
+													"sticker_navi_holomask.vtf",
+													"sticker_navi_holomask_masked.vtf",
+													"sticker_navi_holowarp.vtf",
+													"sticker_navi_normal.vtf",
+													"sticker_voxeminor.vtf",
+													"sticker_voxeminor_holo_color.vtf",
+													"sticker_voxeminor_holo_nowarp.vtf",
+													"sticker_voxeminor_holomask.vtf",
+													"sticker_voxeminor_holomask_masked.vtf",
+													"sticker_voxeminor_holowarp.vtf",
+													"sticker_voxeminor_normal.vtf",
+													"voxeminor.vmt",
+													"voxeminor_foil.vmt",
+													"voxeminor_holo.vmt"
+												],
+												"eslkatowice2015": [
+													"keyd_holo_color.vtf",
+													"keyd_holo_exponent.vtf",
+													"keyd_holomask_masked.vtf"
+												]
+											}
+										},
+										"v_models": {
+											"arms": {
+												"bare": [
+													"bare_arm_133.vmt",
+													"bare_arm_133.vtf",
+													"bare_arm_133_normal.vtf",
+													"bare_arm_exponent.vtf"
+												],
+												"glove_sporty": [
+													"glove_sporty_exp.vtf",
+													"glove_sporty_left.vmt",
+													"glove_sporty_left.vtf",
+													"glove_sporty_left2.vmt",
+													"glove_sporty_left_normal.vtf",
+													"glove_sporty_right.vmt",
+													"glove_sporty_right.vtf",
+													"glove_sporty_right2.vmt",
+													"glove_sporty_warp.vtf"
+												]
+											},
+											"pist_glock18": [
+												"pist_glock18.vmt",
+												"pist_glock18.vtf",
+												"pist_glock18_exponent.vtf"
+											]
+										}
+									}
+								},
+								"shared": {
+									"lightwarps": [
+										"light.vtf",
+										"light_01.vtf"
+									]
+								}
+							},
+							"models": {
+								"weapons": [
+									"v_pist_glock18.dx80.vtx",
+									"v_pist_glock18.dx90.vtx",
+									"v_pist_glock18.mdl",
+									"v_pist_glock18.sw.vtx",
+									"v_pist_glock18.vvd"
+								]
+							},
+							"scripts": {
+								"0": "game_sounds_manifest.txt",
+								"1": "weapon_glock.txt",
+								"weapons": [
+									"glock.txt"
+								]
+							},
+							"sound": {
+								"0": "sound.cache",
+								"weapons": {
+									"0": "clipempty_pistol.wav",
+									"glock18": [
+										"glock_01.wav",
+										"glock_02.wav",
+										"glock_clipin.wav",
+										"glock_clipout.wav",
+										"glock_draw.wav",
+										"glock_slideback.wav",
+										"glock_sliderelease.wav"
+									]
+								}
+							}
+						},
+						"KELEBEK": {
+							"materials": {
+								"models": {
+									"weapons": {
+										"v_models": {
+											"knife_butterfly": [
+												"arms_133.vtf",
+												"arms_ex.vtf",
+												"arms_nr.vtf",
+												"bare_arm_133.vmt",
+												"cut_digit.vtf",
+												"cut_digit_0.vtf",
+												"cut_digit_0_n.vtf",
+												"cut_digit_1.vtf",
+												"cut_digit_1_n.vtf",
+												"cut_digit_3.vtf",
+												"cut_digit_3_n.vtf",
+												"cut_digit_7.vtf",
+												"cut_digit_7_n.vtf",
+												"cut_digit_n.vtf",
+												"cut_digit_n000.vmt",
+												"cut_digit_n001.vmt",
+												"cut_digit_n002.vmt",
+												"cut_digit_n003.vmt",
+												"cut_digit_n004.vmt",
+												"cut_digit_n005.vmt",
+												"glove_sporty_exp.vtf",
+												"glove_sporty_left.vmt",
+												"glove_sporty_left.vtf",
+												"glove_sporty_left2.vmt",
+												"glove_sporty_left_normal.vtf",
+												"glove_sporty_masks1.vtf",
+												"glove_sporty_right.vmt",
+												"glove_sporty_right.vtf",
+												"glove_sporty_right2.vmt",
+												"glove_sporty_right_normal.vtf",
+												"knife_butterfly.vmt",
+												"knife_butterfly.vtf",
+												"knife_butterfly_exponent.vtf",
+												"warp.vtf"
+											]
+										}
+									}
+								}
+							},
+							"models": {
+								"weapons": [
+									"v_knife_t.dx80.vtx",
+									"v_knife_t.dx90.vtx",
+									"v_knife_t.mdl",
+									"v_knife_t.sw.vtx",
+									"v_knife_t.vvd"
+								]
+							},
+							"scripts": {
+								"0": "game_sounds_manifest.txt",
+								"CSGO": [
+									"Weapon.txt"
+								]
+							},
+							"sound": {
+								"0": "sound.cache",
+								"weapons": {
+									"bknife": [
+										"bknife_backstab01.wav",
+										"bknife_backstab02.wav",
+										"bknife_draw01.wav",
+										"bknife_look01_a.wav",
+										"bknife_look01_b.wav",
+										"bknife_look02_a.wav",
+										"bknife_look02_b.wav",
+										"bknife_look03_a.wav",
+										"bknife_look03_b.wav"
+									],
+									"knife": [
+										"knife_deploy.wav",
+										"knife_deploy1.wav",
+										"knife_hit1.wav",
+										"knife_hit2.wav",
+										"knife_hit3.wav",
+										"knife_hit4.wav",
+										"knife_hit_01.wav",
+										"knife_hit_02.wav",
+										"knife_hit_03.wav",
+										"knife_hit_04.wav",
+										"knife_hit_05.wav",
+										"knife_hitwall1.wav",
+										"knife_hitwall2.wav",
+										"knife_hitwall3.wav",
+										"knife_hitwall4.wav",
+										"knife_slash1.wav",
+										"knife_slash2.wav",
+										"knife_stab.wav"
+									]
+								}
+							}
+						},
+						"M249": {
+							"materials": {
+								"models": {
+									"infozona-51": {
+										"weapons": {
+											"mach_negev": [
+												"bare_arm_133.vmt",
+												"bare_arm_133.vtf",
+												"glove_sporty.vtf",
+												"glove_sporty_left.vmt",
+												"glove_sporty_right.vmt",
+												"mach_negev.vmt",
+												"mach_negev.vtf",
+												"mach_negev_exponent.vtf",
+												"mach_negev_normal.vtf",
+												"stat_digit.vmt",
+												"stat_digit.vtf",
+												"stattrak_module.vmt",
+												"stattrak_module.vtf",
+												"stattrak_module_exponent.vtf"
+											]
+										}
+									}
+								}
+							},
+							"models": {
+								"weapons": [
+									"v_mach_m249para.dx80.vtx",
+									"v_mach_m249para.dx90.vtx",
+									"v_mach_m249para.mdl",
+									"v_mach_m249para.sw.vtx",
+									"v_mach_m249para.vvd",
+									"w_mach_m249para.dx80.vtx",
+									"w_mach_m249para.dx90.vtx",
+									"w_mach_m249para.mdl",
+									"w_mach_m249para.phy",
+									"w_mach_m249para.sw.vtx",
+									"w_mach_m249para.vvd"
+								]
+							},
+							"scripts": {
+								"0": "game_sounds_manifest.txt",
+								"1": "weapon_m249.txt",
+								"weapons": [
+									"m249.txt"
+								]
+							},
+							"sound": {
+								"0": "sound.cache",
+								"weapons": {
+									"negev": [
+										"negev_01.wav",
+										"negev_02.wav",
+										"negev_05.wav",
+										"negev_boxin.wav",
+										"negev_boxout.wav",
+										"negev_chain.wav",
+										"negev_coverdown.wav",
+										"negev_coverup.wav",
+										"negev_draw.wav",
+										"negev_pump.wav"
+									]
+								}
+							}
+						},
+						"M3": {
+							"160180-m3-drobovik-90super-css": {
+								"materials": {
+									"models": {
+										"weapons": {
+											"v_models": {
+												"shot_m3super90": [
+													"shot_m3super90.vmt",
+													"shot_m3super90.vtf",
+													"shot_m3super90_ref.vtf"
+												]
+											}
+										}
+									}
+								}
+							},
+							"sound": [
+								"sound.cache"
+							]
+						},
+						"M4A1S": {
+							"materials": {
+								"models": {
+									"weapons": {
+										"v_models": {
+											"rif_m4a1_s": [
+												"ct_arms_gign.vmt",
+												"ct_arms_gign.vtf",
+												"ct_fbi_glove.vmt",
+												"ct_fbi_glove.vtf",
+												"rif_m4a1_s.vmt",
+												"rif_m4a1_s.vtf",
+												"rif_m4a1_s_bl.vtf"
+											]
+										}
+									}
+								}
+							},
+							"models": {
+								"weapons": [
+									"v_rif_m4a1.dx80.vtx",
+									"v_rif_m4a1.dx90.vtx",
+									"v_rif_m4a1.mdl",
+									"v_rif_m4a1.sw.vtx",
+									"v_rif_m4a1.vvd",
+									"w_rif_m4a1.dx80.vtx",
+									"w_rif_m4a1.dx90.vtx",
+									"w_rif_m4a1.mdl",
+									"w_rif_m4a1.phy",
+									"w_rif_m4a1.sw.vtx",
+									"w_rif_m4a1.vvd",
+									"w_rif_m4a1_silencer.dx80.vtx",
+									"w_rif_m4a1_silencer.dx90.vtx",
+									"w_rif_m4a1_silencer.mdl",
+									"w_rif_m4a1_silencer.phy",
+									"w_rif_m4a1_silencer.sw.vtx",
+									"w_rif_m4a1_silencer.vvd"
+								]
+							},
+							"scripts": {
+								"0": "game_sounds_manifest.txt",
+								"1": "weapon_m4a1.txt",
+								"weapons": [
+									"m4a1.txt"
+								]
+							},
+							"sound": {
+								"0": "sound.cache",
+								"weapons": {
+									"m4a1": [
+										"m4a1-1.wav"
+									],
+									"m4a1s": [
+										"m4a1-1-single.wav",
+										"m4a1-1.wav",
+										"m4a1_boltback.wav",
+										"m4a1_boltforward.wav",
+										"m4a1_cliphit.wav",
+										"m4a1_clipin.wav",
+										"m4a1_clipout.wav",
+										"m4a1_draw.wav",
+										"m4a1_silencer_off.wav",
+										"m4a1_silencer_on.wav",
+										"m4a1_silencer_screw_1.wav",
+										"m4a1_silencer_screw_2.wav",
+										"m4a1_silencer_screw_3.wav",
+										"m4a1_silencer_screw_4.wav",
+										"m4a1_silencer_screw_5.wav",
+										"m4a1_silencer_screw_off_end.wav",
+										"m4a1_silencer_screw_on_start.wav",
+										"m4a1_unsil-1.wav"
+									]
+								}
+							}
+						},
+						"MAC10": {
+							"materials": {
+								"models": {
+									"weapons": {
+										"v_models": {
+											"smg_mac10": [
+												"smg_mac10_1.vmt",
+												"smg_mac10_1.vtf",
+												"smg_mac10_normal.vtf"
+											]
+										},
+										"w_models": {
+											"w_smg_mac10": [
+												"w_smg_mac10.vmt",
+												"w_smg_mac10.vtf"
+											]
+										}
+									}
+								}
+							},
+							"sound": {
+								"0": "sound.cache",
+								"weapons": {
+									"0": "ClipEmpty_Pistol.wav",
+									"1": "ClipEmpty_Rifle.wav",
+									"2": "lowammo_01.wav",
+									"3": "movement1.wav",
+									"4": "movement2.wav",
+									"5": "movement3.wav",
+									"mac10": [
+										"mac10-1.wav",
+										"mac10_boltpull.wav",
+										"mac10_clipin.wav",
+										"mac10_clipout.wav"
+									]
+								}
+							}
+						},
+						"MP5SD": {
+							"materials": {
+								"models": {
+									"weapons": {
+										"v_models": {
+											"arms": [
+												"Exp_1.vtf",
+												"Nor_1.vtf",
+												"bare_arm_133.vmt",
+												"bare_arm_133.vtf",
+												"glove_specialist_left.vmt",
+												"glove_specialist_right.vmt",
+												"glove_specialsit.vtf"
+											],
+											"mp5sd": [
+												"smg_mp5sd.vmt",
+												"smg_mp5sd_ex.vtf",
+												"smg_mp5sd_tx.vtf"
+											]
+										}
+									}
+								},
+								"vgui": {
+									"gfx": {
+										"vgui": [
+											"mp5.vtf"
+										]
+									}
+								}
+							},
+							"models": {
+								"weapons": {
+									"0": "v_smg_mp5.dx80.vtx",
+									"1": "v_smg_mp5.dx90.vtx",
+									"10": "w_smg_mp5.vvd",
+									"2": "v_smg_mp5.mdl",
+									"3": "v_smg_mp5.sw.vtx",
+									"4": "v_smg_mp5.vvd",
+									"5": "w_smg_mp5.dx80.vtx",
+									"6": "w_smg_mp5.dx90.vtx",
+									"7": "w_smg_mp5.mdl",
+									"8": "w_smg_mp5.phy",
+									"9": "w_smg_mp5.sw.vtx",
+									"decompiled 0.34": {
+										"0": "v_glove_specialist_reference.smd",
+										"1": "v_smg_mp5.qc",
+										"2": "v_smg_mp5.smd",
+										"3": "v_smg_mp5_v_smg_mp5sd_smg_mp5sd_ref.smd",
+										"v_smg_mp5_anims": [
+											"draw.smd",
+											"idle.smd",
+											"reload.smd",
+											"shoot1.smd",
+											"shoot2.smd",
+											"shoot3.smd"
+										],
+										"v_smg_mp5_logs": [
+											"decompile.log"
+										]
+									},
+									"decompiled 0.35": [
+										"idle.smd",
+										"mdldecompiler.qc",
+										"w_smg_mp5.smd"
+									]
+								}
+							},
+							"scripts": {
+								"0": "game_sounds_manifest.txt",
+								"1": "weapon_mp5navy.txt",
+								"weapons": [
+									"mp5.txt"
+								]
+							},
+							"sound": {
+								"0": "sound.cache",
+								"weapons": {
+									"csgo": {
+										"mp5sd": [
+											"mp5_01.wav",
+											"mp5_clipin.wav",
+											"mp5_clipout.wav",
+											"mp5_draw.wav",
+											"mp5_slideback.wav",
+											"mp5_slideforward.wav"
+										]
+									}
+								}
+							}
+						},
+						"MP9": {
+							"materials": {
+								"0": "light.vtf",
+								"models": {
+									"weapons": {
+										"v_models": {
+											"arms": [
+												"bare_arm_133.vmt",
+												"bare_arm_133.vtf",
+												"bare_arm_133_exp.vtf",
+												"bare_arm_133_normal.vtf",
+												"glove_brokenfang_exponent.vtf",
+												"glove_brokenfang_left.vmt",
+												"glove_brokenfang_left.vtf",
+												"glove_brokenfang_left_normal.vtf",
+												"glove_brokenfang_right.vmt",
+												"glove_brokenfang_right.vtf",
+												"glove_brokenfang_right_normal.vtf",
+												"hand_lightwarp.vtf"
+											],
+											"smg_mp9": [
+												"smg_mp9.vmt",
+												"smg_mp9_ex.vtf",
+												"smg_mp9_nr.vtf",
+												"smg_mp9_tx.vtf"
+											]
+										}
+									}
+								}
+							},
+							"models": {
+								"weapons": [
+									"v_smg_tmp.dx80.vtx",
+									"v_smg_tmp.dx90.vtx",
+									"v_smg_tmp.mdl",
+									"v_smg_tmp.sw.vtx",
+									"v_smg_tmp.vvd",
+									"w_smg_tmp.dx80.vtx",
+									"w_smg_tmp.dx90.vtx",
+									"w_smg_tmp.mdl",
+									"w_smg_tmp.phy",
+									"w_smg_tmp.sw.vtx",
+									"w_smg_tmp.vvd"
+								]
+							},
+							"scripts": {
+								"0": "game_sounds_manifest.txt",
+								"1": "weapon_tmp.txt",
+								"weapons": [
+									"tmp.txt"
+								]
+							},
+							"sound": {
+								"0": "sound.cache",
+								"weapons": {
+									"0": "draw1.wav",
+									"1": "draw2.wav",
+									"2": "draw3.wav",
+									"mp9": [
+										"mp9_01.wav",
+										"mp9_02.wav",
+										"mp9_03.wav",
+										"mp9_04.wav",
+										"mp9_boltback.wav",
+										"mp9_boltforward.wav",
+										"mp9_clipin.wav",
+										"mp9_clipout.wav",
+										"mp9_draw.wav"
+									]
+								}
+							}
+						},
+						"NOVA": {
+							"materials": {
+								"models": {
+									"weapons": {
+										"shared": {
+											"shells": [
+												"shell_shotgun.vmt",
+												"shell_shotgun.vtf"
+											]
+										},
+										"v_models": {
+											"csgo_nova": [
+												"shot_nova.vmt",
+												"shot_nova.vtf",
+												"shot_nova_exponent.vtf"
+											],
+											"csgohands": [
+												"ct_arms.vmt",
+												"ct_arms.vtf",
+												"ct_arms_normal.vtf"
+											],
+											"shared": {
+												"shells": [
+													"shell_shotgun.vmt",
+													"shell_shotgun.vtf"
+												]
+											}
+										},
+										"w_models": {
+											"w_shot_nova": [
+												"shot_nova.vmt",
+												"shot_nova.vtf",
+												"shot_nova_exponent.vtf"
+											]
+										}
+									}
+								}
+							},
+							"models": {
+								"weapons": [
+									"v_shot_m3super90.dx80.vtx",
+									"v_shot_m3super90.dx90.vtx",
+									"v_shot_m3super90.mdl",
+									"v_shot_m3super90.sw.vtx",
+									"v_shot_m3super90.vvd",
+									"w_shot_m3super90.dx80.vtx",
+									"w_shot_m3super90.dx90.vtx",
+									"w_shot_m3super90.mdl",
+									"w_shot_m3super90.phy",
+									"w_shot_m3super90.sw.vtx",
+									"w_shot_m3super90.vvd"
+								]
+							},
+							"scripts": {
+								"0": "game_sounds_manifest.txt",
+								"1": "weapon_m3.txt",
+								"weapons": [
+									"m3.txt"
+								]
+							},
+							"sound": {
+								"0": "sound.cache",
+								"weapons": {
+									"m3": [
+										"m3-1.wav",
+										"m3_draw.wav"
+									],
+									"nova": [
+										"nova-1.wav",
+										"nova_draw.wav",
+										"nova_insertshell.wav",
+										"nova_pump.wav"
+									]
+								}
+							}
+						},
+						"P228": {
+							"Materials": {
+								"models": {
+									"weapons": {
+										"v_models": {
+											"pist_p228": [
+												"pist_p228_1.vmt",
+												"pist_p228_1.vtf",
+												"pist_p228_1_ref.vtf"
+											]
+										},
+										"w_models": {
+											"w_pist_p228": [
+												"pist_p228_1.vmt",
+												"w_pist_p228.vmt",
+												"w_pist_p228.vtf"
+											]
+										}
+									}
+								}
+							},
+							"models": {
+								"weapons": [
+									"v_pist_p228.dx80.vtx",
+									"v_pist_p228.dx90.vtx",
+									"v_pist_p228.mdl",
+									"v_pist_p228.sw.vtx",
+									"v_pist_p228.vvd",
+									"v_pist_p228.xbox.vtx",
+									"w_pist_p228.dx80.vtx",
+									"w_pist_p228.dx90.vtx",
+									"w_pist_p228.mdl",
+									"w_pist_p228.phy",
+									"w_pist_p228.sw.vtx",
+									"w_pist_p228.vvd",
+									"w_pist_p228.xbox.vtx"
+								]
+							},
+							"sound": [
+								"sound.cache"
+							]
+						},
+						"P90": {
+							"materials": {
+								"models": {
+									"weapons": {
+										"v_models": {
+											"arms": [
+												"ct_arms_gign.vmt",
+												"ct_arms_gign.vtf",
+												"ct_arms_normal.vtf",
+												"ct_base_glove_exp.vtf",
+												"ct_base_glove_normal.vtf",
+												"ct_fbi_glove.vmt",
+												"ct_fbi_glove_color.vtf"
+											],
+											"smg_p90": [
+												"smg_p90.vmt",
+												"smg_p90.vtf",
+												"smg_p90_exponent.vtf"
+											]
+										},
+										"w_models": {
+											"w_smg_p90": [
+												"smg_p90.vmt"
+											]
+										}
+									}
+								}
+							},
+							"models": {
+								"weapons": [
+									"v_smg_p90.dx80.vtx",
+									"v_smg_p90.dx90.vtx",
+									"v_smg_p90.mdl",
+									"v_smg_p90.sw.vtx",
+									"v_smg_p90.vvd",
+									"w_smg_p90.dx80.vtx",
+									"w_smg_p90.dx90.vtx",
+									"w_smg_p90.mdl",
+									"w_smg_p90.phy",
+									"w_smg_p90.sw.vtx",
+									"w_smg_p90.vvd"
+								]
+							},
+							"scripts": {
+								"0": "game_sounds_manifest.txt",
+								"1": "weapon_p90.txt",
+								"weapons": [
+									"p90.txt"
+								]
+							},
+							"sound": {
+								"0": "sound.cache",
+								"weapons": {
+									"p90": [
+										"p90-01.wav",
+										"p90-02.wav",
+										"p90-03.wav",
+										"p90-1.wav",
+										"p90_boltback.wav",
+										"p90_boltforward.wav",
+										"p90_cliphit.wav",
+										"p90_clipin.wav",
+										"p90_clipout.wav",
+										"p90_cliprelease.wav",
+										"p90_draw.wav"
+									]
+								}
+							}
+						},
+						"SCAR20": {
+							"materials": {
+								"models": {
+									"weapons": {
+										"csgo_scar20": [
+											"snip_scar20.vmt",
+											"snip_scar20.vtf",
+											"snip_scar20_exponent.vtf"
+										],
+										"shared": {
+											"scope": [
+												"scope.vtf",
+												"scope_normal.vtf",
+												"scope_scar20.vmt"
+											]
+										},
+										"v_models": {
+											"arms": [
+												"bare_arm_133.vmt",
+												"bare_arm_133.vtf",
+												"glove_sporty.vtf",
+												"glove_sporty_left.vmt",
+												"glove_sporty_right.vmt"
+											]
+										}
+									}
+								}
+							},
+							"models": {
+								"weapons": [
+									"v_snip_sg550.dx80.vtx",
+									"v_snip_sg550.dx90.vtx",
+									"v_snip_sg550.mdl",
+									"v_snip_sg550.sw.vtx",
+									"v_snip_sg550.vvd",
+									"w_snip_sg550.dx80.vtx",
+									"w_snip_sg550.dx90.vtx",
+									"w_snip_sg550.mdl",
+									"w_snip_sg550.phy",
+									"w_snip_sg550.sw.vtx",
+									"w_snip_sg550.vvd"
+								]
+							},
+							"scripts": {
+								"0": "game_sounds_manifest.txt",
+								"1": "weapon_sg550.txt",
+								"weapons": [
+									"sg550.txt"
+								]
+							},
+							"sound": {
+								"0": "sound.cache",
+								"weapons": {
+									"0": "zoom.wav",
+									"scar20": [
+										"scar20_01.wav",
+										"scar20_02.wav",
+										"scar20_03.wav",
+										"scar20_boltback.wav",
+										"scar20_boltforward.wav",
+										"scar20_clipin.wav",
+										"scar20_clipout.wav",
+										"scar20_cliptouch.wav",
+										"scar20_draw.wav"
+									]
+								}
+							}
+						},
+						"SCOUT": {
+							"materials": {
+								"by_daimon": {
+									"arms": [
+										"arms.vtf",
+										"arms_normal.vtf",
+										"bare_arm.vmt",
+										"bare_arm_133.vmt",
+										"glove_hardknuckle_exp.vtf",
+										"glove_motorcycle_exp.vtf",
+										"glove_motorcycle_left.vmt",
+										"glove_motorcycle_right.vmt",
+										"left.vtf",
+										"left_n.vtf",
+										"right.vtf",
+										"right_n.vtf"
+									],
+									"shared": {
+										"scope": [
+											"scope.vtf",
+											"scope_normal.vtf",
+											"scope_ssg08.vmt"
+										]
+									},
+									"weapons": {
+										"snip_ssg08": {
+											"0": "snip_ssg08.vmt",
+											"1": "snip_ssg08_ex.vtf",
+											"2": "snip_ssg08_nr.vtf",
+											"3": "snip_ssg08_scope.vmt",
+											"4": "snip_ssg08_scope_ex.vtf",
+											"5": "snip_ssg08_scope_tx.vtf",
+											"6": "snip_ssg08_tx.vtf",
+											"addons": [
+												"stat_digit.vtf",
+												"stat_digit000.vmt",
+												"stat_digit001.vmt",
+												"stat_digit002.vmt",
+												"stat_digit003.vmt",
+												"stat_digit004.vmt",
+												"stat_digit005.vmt",
+												"stattrak_error001.vmt",
+												"stattrak_module.vmt",
+												"stattrak_module.vtf",
+												"stattrak_module_exponent.vtf"
+											]
+										}
+									}
+								}
+							},
+							"models": {
+								"weapons": [
+									"v_snip_scout.dx80.vtx",
+									"v_snip_scout.dx90.vtx",
+									"v_snip_scout.mdl",
+									"v_snip_scout.sw.vtx",
+									"v_snip_scout.vvd",
+									"w_snip_scout.dx80.vtx",
+									"w_snip_scout.dx90.vtx",
+									"w_snip_scout.mdl",
+									"w_snip_scout.phy",
+									"w_snip_scout.sw.vtx",
+									"w_snip_scout.vvd"
+								]
+							},
+							"scripts": {
+								"0": "game_sounds_manifest.txt",
+								"1": "weapon_scout.txt",
+								"weapons": [
+									"scout.txt"
+								]
+							},
+							"sound": {
+								"0": "sound.cache",
+								"by_daimon": {
+									"weapons": {
+										"0": "draw1.wav",
+										"1": "draw2.wav",
+										"2": "draw3.wav",
+										"3": "draw4.wav",
+										"ssg08": [
+											"ssg08_01.wav",
+											"ssg08_boltback.wav",
+											"ssg08_boltforward.wav",
+											"ssg08_cliphit.wav",
+											"ssg08_clipin.wav",
+											"ssg08_clipout.wav",
+											"ssg08_draw.wav",
+											"zoom.wav"
+										]
+									}
+								}
+							}
+						},
+						"SG553": {
+							"materials": {
+								"models": {
+									"weapons": {
+										"shared": {
+											"scope": [
+												"scope.vtf",
+												"scope_lens_dirt.vmt",
+												"scope_lens_dirt.vtf",
+												"scope_lens_reflect_mask.vtf",
+												"scope_normal.vtf",
+												"scope_sg556.vmt"
+											]
+										},
+										"v_models": {
+											"arms": [
+												"ct_arms_gign.vmt",
+												"ct_arms_gign.vtf",
+												"ct_arms_normal.vtf",
+												"ct_base_glove_exp.vtf",
+												"ct_base_glove_normal.vtf",
+												"ct_fbi_glove.vmt",
+												"ct_fbi_glove_color.vtf"
+											],
+											"sg556_csgo": [
+												"rif_sg556.vmt",
+												"rif_sg556.vtf",
+												"rif_sg556_exponent.vtf",
+												"rif_sg556_scope_glass.vmt"
+											],
+											"snip_awp": [
+												"v_AWP_scope.vtf",
+												"v_AWP_scope_ref.vtf",
+												"v_awp_scope.vmt"
+											]
+										}
+									}
+								}
+							},
+							"models": {
+								"weapons": [
+									"v_rif_sg552.dx80.vtx",
+									"v_rif_sg552.dx90.vtx",
+									"v_rif_sg552.mdl",
+									"v_rif_sg552.sw.vtx",
+									"v_rif_sg552.vvd",
+									"w_rif_sg552.dx80.vtx",
+									"w_rif_sg552.dx90.vtx",
+									"w_rif_sg552.mdl",
+									"w_rif_sg552.phy",
+									"w_rif_sg552.sw.vtx",
+									"w_rif_sg552.vvd",
+									"w_rif_sg552.xbox.vtx"
+								]
+							},
+							"scripts": {
+								"0": "game_sounds_manifest.txt",
+								"1": "weapon_sg552.txt",
+								"weapons": [
+									"sg552.txt"
+								]
+							},
+							"sound": {
+								"0": "sound.cache",
+								"weapons": {
+									"0": "movement1.wav",
+									"1": "movement2.wav",
+									"2": "movement3.wav",
+									"sg556": [
+										"sg556_01.wav",
+										"sg556_02.wav",
+										"sg556_03.wav",
+										"sg556_04.wav",
+										"sg556_boltback.wav",
+										"sg556_boltforward.wav",
+										"sg556_cliphit.wav",
+										"sg556_clipin.wav",
+										"sg556_clipout.wav",
+										"sg556_draw.wav"
+									]
+								}
+							}
+						},
+						"UMP45": {
+							"materials": {
+								"models": {
+									"weapons": {
+										"v_models": {
+											"hands": [
+												"#M_L.vmt",
+												"#M_L.vtf"
+											],
+											"snakegun": [
+												"snakegun_v.vmt",
+												"snakegun_v.vtf"
+											]
+										}
+									}
+								},
+								"vgui": {
+									"gfx": {
+										"vgui": [
+											"ump45.tga",
+											"ump45.vtf"
+										]
+									}
+								}
+							},
+							"models": {
+								"weapons": [
+									"v_smg_ump45.dx80.vtx",
+									"v_smg_ump45.dx90.vtx",
+									"v_smg_ump45.mdl",
+									"v_smg_ump45.sw.vtx",
+									"v_smg_ump45.vvd",
+									"w_smg_ump45.dx80.vtx",
+									"w_smg_ump45.dx90.vtx",
+									"w_smg_ump45.mdl",
+									"w_smg_ump45.sw.vtx",
+									"w_smg_ump45.vvd"
+								]
+							},
+							"scripts": {
+								"0": "game_sounds_manifest.txt",
+								"weapons": [
+									"ump45.txt"
+								]
+							},
+							"sound": {
+								"0": "sound.cache",
+								"weapons": {
+									"snakegun": [
+										"snakegun-1.wav",
+										"snakegun_boltpull.wav",
+										"snakegun_clipin.wav",
+										"snakegun_clipout1.wav",
+										"snakegun_clipout2.wav",
+										"snakegun_draw.wav"
+									]
+								}
+							}
+						},
+						"USPS": {
+							"materials": {
+								"models": {
+									"infozona-51": {
+										"weapons": {
+											"usp-s_kaiman": [
+												"my_skupe_cssrs2_ky39i_ct_arms.vmt",
+												"my_skupe_cssrs2_ky39i_ct_arms.vtf",
+												"my_skupe_cssrs2_ky39i_ct_arms_base.vmt",
+												"my_skupe_cssrs2_ky39i_ct_arms_base.vtf",
+												"pist_223.vmt",
+												"pist_223.vtf",
+												"pist_223_exponent.vtf"
+											]
+										}
+									},
+									"weapons": {
+										"v_models": {
+											"arms": [
+												"ct_arms_gign.vmt",
+												"ct_arms_gign.vtf",
+												"ct_arms_normal.vtf",
+												"ct_base_glove_exp.vtf",
+												"ct_base_glove_normal.vtf",
+												"ct_fbi_glove.vmt",
+												"ct_fbi_glove_color.vtf"
+											],
+											"smg_p90": [
+												"smg_p90.vmt",
+												"smg_p90.vtf",
+												"smg_p90_exponent.vtf"
+											]
+										},
+										"w_models": {
+											"w_smg_p90": [
+												"smg_p90.vmt"
+											]
+										}
+									}
+								}
+							},
+							"models": {
+								"weapons": [
+									"v_pist_usp.dx80.vtx",
+									"v_pist_usp.dx90.vtx",
+									"v_pist_usp.mdl",
+									"v_pist_usp.sw.vtx",
+									"v_pist_usp.vvd",
+									"v_smg_p90.dx80.vtx",
+									"v_smg_p90.dx90.vtx",
+									"v_smg_p90.mdl",
+									"v_smg_p90.sw.vtx",
+									"v_smg_p90.vvd",
+									"w_pist_usp.dx80.vtx",
+									"w_pist_usp.dx90.vtx",
+									"w_pist_usp.mdl",
+									"w_pist_usp.phy",
+									"w_pist_usp.sw.vtx",
+									"w_pist_usp.vvd",
+									"w_pist_usp_silencer.dx80.vtx",
+									"w_pist_usp_silencer.dx90.vtx",
+									"w_pist_usp_silencer.mdl",
+									"w_pist_usp_silencer.phy",
+									"w_pist_usp_silencer.sw.vtx",
+									"w_pist_usp_silencer.vvd",
+									"w_smg_p90.dx80.vtx",
+									"w_smg_p90.dx90.vtx",
+									"w_smg_p90.mdl",
+									"w_smg_p90.phy",
+									"w_smg_p90.sw.vtx",
+									"w_smg_p90.vvd"
+								]
+							},
+							"scripts": {
+								"0": "game_sounds_manifest.txt",
+								"1": "weapon_p90.txt",
+								"2": "weapon_usp.txt",
+								"weapons": [
+									"p90.txt",
+									"usp.txt"
+								]
+							},
+							"sound": {
+								"0": "sound.cache",
+								"weapons": {
+									"p90": [
+										"p90-01.wav",
+										"p90-02.wav",
+										"p90-03.wav",
+										"p90-1.wav",
+										"p90_boltback.wav",
+										"p90_boltforward.wav",
+										"p90_cliphit.wav",
+										"p90_clipin.wav",
+										"p90_clipout.wav",
+										"p90_cliprelease.wav",
+										"p90_draw.wav"
+									],
+									"usp": [
+										"usp_01.wav",
+										"usp_02.wav",
+										"usp_03.wav",
+										"usp_clipin.wav",
+										"usp_clipout.wav",
+										"usp_draw.wav",
+										"usp_silencer_screw1.wav",
+										"usp_silencer_screw2.wav",
+										"usp_silencer_screw3.wav",
+										"usp_silencer_screw4.wav",
+										"usp_silencer_screw5.wav",
+										"usp_silencer_screw_off_end.wav",
+										"usp_silencer_screw_on_start.wav",
+										"usp_slideback.wav",
+										"usp_sliderelease.wav",
+										"usp_unsilenced_01.wav",
+										"usp_unsilenced_02.wav",
+										"usp_unsilenced_03.wav"
+									]
+								}
+							}
+						},
+						"XM1014": {
+							"materials": {
+								"models": {
+									"weapons": {
+										"shared": {
+											"shells": {
+												"shotgun": [
+													"shell_shotgun.vmt",
+													"shell_shotgun.vtf"
+												]
+											}
+										},
+										"v_models": {
+											"arms": [
+												"arms.vmt",
+												"bare_arm_133.vtf",
+												"bare_arm_133_exp.vtf",
+												"bare_arm_133_normal.vtf",
+												"glove_sporty_exp.vtf",
+												"glove_sporty_left.vmt",
+												"glove_sporty_left.vtf",
+												"glove_sporty_left_normal.vtf",
+												"glove_sporty_right.vmt",
+												"glove_sporty_right.vtf",
+												"glove_sporty_right_normal.vtf",
+												"hand_lightwarp.vtf"
+											],
+											"shot_xm1014": [
+												"shot_xm1014.vmt",
+												"shot_xm1014.vtf",
+												"shot_xm1014_exponent.vtf"
+											]
+										}
+									}
+								}
+							},
+							"models": {
+								"weapons": [
+									"v_shot_xm1014.dx80.vtx",
+									"v_shot_xm1014.dx90.vtx",
+									"v_shot_xm1014.mdl",
+									"v_shot_xm1014.sw.vtx",
+									"v_shot_xm1014.vvd",
+									"w_shot_xm1014.dx80.vtx",
+									"w_shot_xm1014.dx90.vtx",
+									"w_shot_xm1014.mdl",
+									"w_shot_xm1014.phy",
+									"w_shot_xm1014.sw.vtx",
+									"w_shot_xm1014.vvd"
+								]
+							},
+							"scripts": {
+								"0": "game_sounds_manifest.txt",
+								"1": "weapon_xm1014.txt",
+								"weapons": [
+									"xm1014.txt"
+								]
+							},
+							"sound": {
+								"0": "sound.cache",
+								"by_daimon": {
+									"weapons": {
+										"0": "draw1.wav",
+										"1": "draw2.wav",
+										"2": "draw3.wav",
+										"3": "draw4.wav",
+										"xm1014": [
+											"xm1014_01.wav",
+											"xm1014_draw.wav",
+											"xm1014_insertshell.wav",
+											"xm1014_insertshell_01.wav",
+											"xm1014_insertshell_02.wav",
+											"xm1014_insertshell_03.wav",
+											"xm1014_pump.wav"
+										]
+									}
+								}
+							}
+						}
+					}
+				}
 			},
 			"_bContainsExe": false,
-			"_idRow": 1247087,
-			"_nDownloadCount": 0,
-			"_nFilesize": 106,
-			"_sAnalysisResult": "Archive contains nested archive",
-			"_sAnalysisResultCode": "nested_archive",
+			"_idRow": 1247139,
+			"_nDownloadCount": 25,
+			"_nFilesize": 312728166,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
 			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1247087",
-			"_sFile": "readmezip.7z",
-			"_sMd5Checksum": "64d8d3947a06ae3965a4501e5ba8a44b",
-			"_tsDateAdded": 1722270377
+			"_sDownloadUrl": "https://gamebanana.com/dl/1247139",
+			"_sFile": "cssourceskinpack.zip",
+			"_sMd5Checksum": "4a8026f9a6153094be8b2a79a7738fbd",
+			"_tsDateAdded": 1722273786
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [],
+			"_sText": "<p>Hi! hehehehehhe</p>",
+			"_sTitle": "Skin Pack in CSS (all weapons)",
+			"_tsDateAdded": 1722273892
+		}
+	],
 	"_idRow": 531595,
 	"_sName": "Skin Pack for Counter-Strike: Source (All weapons)",
 	"_sText": "I hope you like this mod! I hope you like it and use it! Bye bye my friend!"
