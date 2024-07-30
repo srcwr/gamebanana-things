@@ -303,15 +303,38 @@
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
-			"_sDescription": "",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
+			"_sDescription": "Unpacked & For DEVs",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1247613",
 			"_sFile": "de_foption_ported_from_csgo.7z",
 			"_sMd5Checksum": "72284d60b253f4e9ac627492c310cb69",
 			"_tsDateAdded": 1722345398
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_foption.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 1247617,
+			"_nDownloadCount": 0,
+			"_nFilesize": 28450509,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
+			"_sDescription": "Packed",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1247617",
+			"_sFile": "de_foption.zip",
+			"_sMd5Checksum": "5f7de08dc02267ea85cf8da5fef95c01",
+			"_tsDateAdded": 1722346066
 		}
 	],
 	"_aLatestUpdates": [],
 	"_idRow": 531763,
 	"_sName": "de_foption",
-	"_sText": "Final Option - Bomb/Defuse<br>Original map made by Poor Yurik for CS Beta.<br><br>Ported from CSGO: site <a href=\"https://steamcommunity.com/sharedfiles/filedetails/?id=168508213\">here</a><br><br><ul><li>Minor Map Edges Tweak</li><li class=\"SelectedElement\">Lighting Tweak</li><li class=\"SelectedElement\">Skybox Changed</li><li>3 bombsites, A, B, C</li><li>Including Radar maps I remade</li><li>Including Navigation Mesh Location Name</li><li>vrad.exe -both -final; vvis -fast (Or it'll compile forever)</li><li>environmental cubemap built - LDR &amp; HDR</li><li>32 ~ 40 players; 32 players recommended</li></ul>"
+	"_sText": "Final Option - Bomb/Defuse<br>Original map made by Poor Yurik for CS Beta.<br><br>Ported from CSGO: site <a href=\"https://steamcommunity.com/sharedfiles/filedetails/?id=168508213\" target=\"_blank\">here</a><br><br><ul><li>Minor Map Edges Tweak</li><li>Lighting Tweak</li><li>Skybox Changed</li><li>Stairs Optimized</li><li>3 bombsites, A, B, C</li><li>Including Radar maps I remade</li><li>Including Navigation Mesh Location Name</li><li>vrad.exe -both -final; vvis -fast (Or it'll compile forever)</li><li>environmental cubemap built - LDR &amp; HDR</li><li>32 ~ 40 players; 32 players recommended</li><li>bspzip compressed<br></li></ul><br><br>bspzip Compression Code (Batch; .bat)<br><br><font color=\"#6ee16c\" face=\"IBM Plex Mono, monospace\">@echo off</font><br><br><font color=\"#6ee16c\" face=\"IBM Plex Mono, monospace\">for /R %1 %%F in (*.bsp) do (&nbsp;</font><br><br><font color=\"#6ee16c\" face=\"IBM Plex Mono, monospace\">\techo --------------------------------------------------------------------------------</font><br><br><font color=\"#6ee16c\" face=\"IBM Plex Mono, monospace\">\techo Attempting to convert %%F</font><br><br><font color=\"#6ee16c\" face=\"IBM Plex Mono, monospace\">\techo off</font><br><br><font color=\"#6ee16c\" face=\"IBM Plex Mono, monospace\" class=\"SelectedElement\">\t\"&lt;Dir&gt;\\Counter-Strike Source\\bin\\bspzip.exe\" -repack -compress \"%%F\"</font><br><br><font color=\"#6ee16c\" face=\"IBM Plex Mono, monospace\">)</font><br><br><font color=\"#6ee16c\" face=\"IBM Plex Mono, monospace\">pause</font><br><br>"
 }
