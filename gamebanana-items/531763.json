@@ -1,0 +1,317 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"de_foption": {
+						"0": "cmd.png",
+						"maps": [
+							"de_foption.bsp",
+							"de_foption.nav"
+						],
+						"mapsrc": [
+							"de_foption.bsp",
+							"de_foption.log",
+							"de_foption.prt",
+							"de_foption.vmf",
+							"de_foption.vmx"
+						],
+						"materials": {
+							"ads": [
+								"ad01.vmt",
+								"ad01.vtf"
+							],
+							"concrete": [
+								"blacktop_ext_01.vmt",
+								"blacktop_ext_01.vtf",
+								"concretefloor001a.vmt",
+								"concretefloor001a.vtf",
+								"concretefloor001a_normal.vtf",
+								"concretefloor008a.vmt",
+								"concretefloor008a.vtf",
+								"concretewall010a.vmt",
+								"concretewall010a.vtf",
+								"concretewall011c.vmt",
+								"concretewall011c.vtf",
+								"concretewall011h.vmt",
+								"concretewall011h.vtf",
+								"concretewall_handling01b_blue.vmt",
+								"concretewall_handling01b_blue.vtf",
+								"subway_concretewall_01a.vmt",
+								"subway_concretewall_01a.vtf",
+								"subway_concretewall_01a_ssbump.vtf"
+							],
+							"cs_italy": [
+								"ironmetal01.vmt",
+								"ironmetal01.vtf"
+							],
+							"de_nuke": [
+								"nukdoorsa.vmt",
+								"nukdoorsa.vtf",
+								"nukdoorsa_normal.vtf",
+								"nuke_ceiling_facility_01.vmt",
+								"nuke_ceiling_facility_01.vtf",
+								"nuke_metaldoor_01.vmt",
+								"nuke_metaldoor_01.vtf",
+								"nuke_metaldoor_01_ref.vtf",
+								"nukfloora.vmt",
+								"nukfloora.vtf",
+								"nukfloora_normal.vtf",
+								"nukfloorc.vmt",
+								"nukfloorc.vtf",
+								"nukfloorc_detaila.vmt",
+								"nukfloorc_detaila.vtf",
+								"nukfloorc_detailb.vmt",
+								"nukfloorc_detailb.vtf",
+								"nukfloorc_detailc.vmt",
+								"nukfloorc_detailc.vtf",
+								"nukfloorc_detaild.vmt",
+								"nukfloorc_detaild.vtf",
+								"nukfloorc_detaile.vmt",
+								"nukfloorc_detaile.vtf",
+								"nukfloorc_detailf.vmt",
+								"nukfloorc_detailf.vtf"
+							],
+							"decals": [
+								"bombsite_left_arrow.vmt",
+								"bombsite_left_arrow.vtf",
+								"bombsite_left_arrow_spray.vmt",
+								"bombsite_left_arrow_spray.vtf",
+								"bombsite_letter_a.vmt",
+								"bombsite_letter_a.vtf",
+								"bombsite_letter_a_spray.vmt",
+								"bombsite_letter_a_spray.vtf",
+								"bombsite_letter_b.vmt",
+								"bombsite_letter_b.vtf",
+								"bombsite_letter_b_spray.vmt",
+								"bombsite_letter_b_spray.vtf",
+								"bombsite_right_arrow.vmt",
+								"bombsite_right_arrow.vtf",
+								"bombsite_right_arrow_spray.vmt",
+								"bombsite_right_arrow_spray.vtf",
+								"bombsite_x.vmt",
+								"bombsite_x.vtf",
+								"bombsite_x_spray.vmt",
+								"bombsite_x_spray.vtf",
+								"vertigo_sign_accessladder.vmt",
+								"vertigo_sign_accessladder.vtf"
+							],
+							"detail": [
+								"detail_concrete_02_ssbump.vtf",
+								"detailconcrete001a.vtf",
+								"metal_detail_01.vtf",
+								"noise_detail_01.vtf"
+							],
+							"environment maps": [
+								"pipemetal004a.vmt",
+								"pipemetal004a.vtf",
+								"pipemetal004b.vmt",
+								"pipemetal004b.vtf"
+							],
+							"metal": [
+								"freezerwall01-ssbump.vtf",
+								"freezerwall01.vmt",
+								"freezerwall01.vtf",
+								"metalcombine001.vmt",
+								"metalcombine001.vtf",
+								"metalcombine001_normal.vtf",
+								"metalrail003a.vmt",
+								"metalrail003a.vtf",
+								"metalwall045a.vmt",
+								"metalwall045a.vtf",
+								"metalwall045a_nobump.vmt",
+								"metalwall045a_normal.vtf",
+								"prodgratea.vmt",
+								"prodgratea.vtf"
+							],
+							"overviews": [
+								"de_foption.vmt",
+								"de_foption.vtf",
+								"de_foption_radar.vmt",
+								"de_foption_radar.vtf"
+							],
+							"plaster": [
+								"wall_blue02.vmt",
+								"wall_blue02.vtf",
+								"wall_red04.vmt",
+								"wall_red04.vtf",
+								"wall_white04-ssbump.vtf"
+							],
+							"skybox": [
+								"space_7bk.vmt",
+								"space_7bk.vtf",
+								"space_7dn.vmt",
+								"space_7dn.vtf",
+								"space_7ft.vmt",
+								"space_7ft.vtf",
+								"space_7lf.vmt",
+								"space_7lf.vtf",
+								"space_7rt.vmt",
+								"space_7rt.vtf",
+								"space_7up.vmt",
+								"space_7up.vtf"
+							],
+							"tools": [
+								"toolswind.vmt",
+								"toolswind.vtf"
+							]
+						},
+						"resource": {
+							"overviews": [
+								"de_foption.txt"
+							]
+						},
+						"sound": {
+							"0": "sound.cache",
+							"ambient": {
+								"animal": [
+									"bird1.wav",
+									"bird10.wav",
+									"bird11.wav",
+									"bird12.wav",
+									"bird13.wav",
+									"bird14.wav",
+									"bird15.wav",
+									"bird16.wav",
+									"bird17.wav",
+									"bird18.wav",
+									"bird19.wav",
+									"bird2.wav",
+									"bird20.wav",
+									"bird3.wav",
+									"bird4.wav",
+									"bird5.wav",
+									"bird6.wav",
+									"bird7.wav",
+									"bird8.wav",
+									"bird9.wav",
+									"bird_flapping_1.wav",
+									"bird_flapping_2.wav",
+									"bird_flapping_3.wav",
+									"cricket_chirp_1.wav",
+									"dog_growl_behind_wall_1.wav",
+									"dog_growl_behind_wall_2.wav",
+									"dog_growl_behind_wall_3.wav",
+									"dog_med_inside_bark_1.wav",
+									"dog_med_inside_bark_2.wav",
+									"dog_med_inside_bark_3.wav",
+									"dog_med_inside_bark_4.wav",
+									"dog_med_inside_bark_5.wav",
+									"dog_med_inside_bark_6.wav",
+									"dog_pant_behind_wall_1.wav",
+									"dog_pant_behind_wall_2.wav",
+									"dog_scratch_behind_wall_1.wav",
+									"horse_1.wav",
+									"horse_2.wav",
+									"horse_3.wav",
+									"horse_4.wav",
+									"horse_5.wav",
+									"horse_6.wav",
+									"horse_eat_1.wav",
+									"horse_eat_2.wav"
+								],
+								"atmosphere": [
+									"tunnel1.wav"
+								],
+								"chatter": [
+									"cb_radio_chatter_1.wav",
+									"cb_radio_chatter_2.wav",
+									"cb_radio_chatter_3.wav",
+									"spanish_radio1.wav",
+									"spanish_radio2.wav",
+									"spanish_radio3.wav",
+									"spanish_radio4.wav",
+									"spanish_radio5.wav"
+								],
+								"creatures": [
+									"pigeon_idle1.wav",
+									"pigeon_idle2.wav",
+									"pigeon_idle3.wav",
+									"pigeon_idle4.wav"
+								],
+								"gas": [
+									"steam_loop1.wav"
+								],
+								"machines": [
+									"big_truck.wav",
+									"combine_terminal_idle1.wav",
+									"combine_terminal_idle2.wav",
+									"combine_terminal_idle3.wav",
+									"combine_terminal_idle4.wav",
+									"deep_boil.wav",
+									"desktop.ini",
+									"electrical_hum_2.wav",
+									"gas_loop_1.wav",
+									"lab_loop1.wav",
+									"power_transformer_loop_1.wav",
+									"power_transformer_loop_2.wav",
+									"pump_loop_1.wav",
+									"refrigerator.wav",
+									"squeak_2.wav",
+									"squeak_3.wav",
+									"squeak_4.wav",
+									"squeak_5.wav",
+									"squeak_6.wav",
+									"squeak_7.wav",
+									"squeak_8.wav",
+									"ticktock.wav"
+								],
+								"music": [
+									"flamenco.wav",
+									"latin.wav",
+									"mirame_radio_thru_wall.wav"
+								],
+								"nature": [
+									"water_gently_lapping.wav"
+								],
+								"tones": [
+									"tunnel_wind_loop.wav"
+								],
+								"water": [
+									"corridor_water.wav",
+									"distant_drip1.wav",
+									"distant_drip2.wav",
+									"distant_drip3.wav",
+									"distant_drip4.wav"
+								],
+								"wind": [
+									"dry_air_short.wav",
+									"dry_air_short_indoors.wav",
+									"dry_air_short_tunnel.wav",
+									"wind_snippet4.wav",
+									"wind_snippet5.wav",
+									"wind_tunnel1.wav"
+								]
+							},
+							"physics": {
+								"metal": [
+									"metal_box_strain1.wav",
+									"metal_box_strain2.wav",
+									"metal_box_strain3.wav",
+									"metal_box_strain4.wav"
+								]
+							}
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 1247613,
+			"_nDownloadCount": 0,
+			"_nFilesize": 24972858,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1247613",
+			"_sFile": "de_foption_ported_from_csgo.7z",
+			"_sMd5Checksum": "72284d60b253f4e9ac627492c310cb69",
+			"_tsDateAdded": 1722345398
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 531763,
+	"_sName": "de_foption",
+	"_sText": "Final Option - Bomb/Defuse<br>Original map made by Poor Yurik for CS Beta.<br><br>Ported from CSGO: site <a href=\"https://steamcommunity.com/sharedfiles/filedetails/?id=168508213\">here</a><br><br><ul><li>Minor Map Edges Tweak</li><li class=\"SelectedElement\">Lighting Tweak</li><li class=\"SelectedElement\">Skybox Changed</li><li>3 bombsites, A, B, C</li><li>Including Radar maps I remade</li><li>Including Navigation Mesh Location Name</li><li>vrad.exe -both -final; vvis -fast (Or it'll compile forever)</li><li>environmental cubemap built - LDR &amp; HDR</li><li>32 ~ 40 players; 32 players recommended</li></ul>"
+}
