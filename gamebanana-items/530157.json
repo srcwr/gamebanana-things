@@ -8,8 +8,29 @@
 				]
 			},
 			"_bContainsExe": false,
+			"_idRow": 1248696,
+			"_nDownloadCount": 0,
+			"_nFilesize": 16175608,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1248696",
+			"_sFile": "de_hawkins_012.zip",
+			"_sMd5Checksum": "9b282e89c6094e160836b5aa3f0f7638",
+			"_tsDateAdded": 1722466367
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_hawkins.bsp"
+				]
+			},
+			"_bContainsExe": false,
 			"_idRow": 1244976,
-			"_nDownloadCount": 25,
+			"_nDownloadCount": 26,
 			"_nFilesize": 16047041,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -45,6 +66,26 @@
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Added more Bombsite A detail"
+				},
+				{
+					"cat": "Optimization",
+					"text": "+ Optimizations"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added basic Bombsite B details"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Bombsite A+B changes",
+			"_sVersion": "0.1.2",
+			"_tsDateAdded": 1722466661
+		},
 		{
 			"_aChangeLog": [
 				{
