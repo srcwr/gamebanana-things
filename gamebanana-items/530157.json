@@ -9,7 +9,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1248696,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 15,
 			"_nFilesize": 16175608,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -30,7 +30,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1244976,
-			"_nDownloadCount": 26,
+			"_nDownloadCount": 27,
 			"_nFilesize": 16047041,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -51,7 +51,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1242851,
-			"_nDownloadCount": 31,
+			"_nDownloadCount": 32,
 			"_nFilesize": 15476656,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -89,11 +89,11 @@
 		{
 			"_aChangeLog": [
 				{
-					"cat": "Overhaul",
+					"cat": "Addition",
 					"text": "mostly graphical changes to A"
 				},
 				{
-					"cat": "Tweak",
+					"cat": "Removal",
 					"text": "removed some doors"
 				},
 				{
