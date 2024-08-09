@@ -4,166 +4,75 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": {
-					"cstrike": {
-						"maps": [
-							"fy_rooms.bsp",
-							"fy_rooms.nav",
-							"fy_rooms_buyzone.bsp",
-							"fy_rooms_buyzone.nav",
-							"fy_rooms_buyzone_tidy.bsp",
-							"fy_rooms_buyzone_tidy.nav"
-						],
-						"materials": {
-							"overviews": [
-								"fy_rooms.vmt",
-								"fy_rooms.vtf",
-								"fy_rooms_radar.vmt",
-								"fy_rooms_radar.vtf"
-							]
-						},
-						"resource": {
-							"overviews": [
-								"fy_rooms.txt",
-								"fy_rooms_buyzone.txt",
-								"fy_rooms_buyzone_tidy.txt"
+					"addons": {
+						"sourcemod": {
+							"plugins": [
+								"RandomSpawnPoint.smx",
+								"mapconfigs.smx"
+							],
+							"scripting": [
+								"RandomSpawnPoint.sp",
+								"mapconfigs.sp"
 							]
 						}
+					},
+					"cfg": {
+						"sourcemod": {
+							"0": "Random_Spawn_Point.cfg",
+							"map-cfg": [
+								"fy_rooms.cfg",
+								"fy_rooms_.cfg"
+							]
+						}
+					},
+					"maps": [
+						"fy_rooms.bsp",
+						"fy_rooms.nav",
+						"fy_rooms_buyzone.bsp",
+						"fy_rooms_buyzone.nav",
+						"fy_rooms_buyzone_s.bsp",
+						"fy_rooms_buyzone_s.nav",
+						"fy_rooms_buyzone_tidy.bsp",
+						"fy_rooms_buyzone_tidy.nav",
+						"fy_rooms_buyzone_tidy_s.bsp",
+						"fy_rooms_buyzone_tidy_s.nav",
+						"fy_rooms_s.bsp",
+						"fy_rooms_s.nav"
+					],
+					"materials": {
+						"overviews": [
+							"fy_rooms.vmt",
+							"fy_rooms.vtf",
+							"fy_rooms_radar.vmt",
+							"fy_rooms_radar.vtf"
+						]
+					},
+					"resource": {
+						"overviews": [
+							"fy_rooms.txt",
+							"fy_rooms_buyzone.txt",
+							"fy_rooms_buyzone_s.txt",
+							"fy_rooms_buyzone_tidy.txt",
+							"fy_rooms_buyzone_tidy_s.txt",
+							"fy_rooms_s.txt"
+						]
 					}
 				}
 			},
 			"_bContainsExe": false,
-			"_idRow": 1240193,
-			"_nDownloadCount": 12,
-			"_nFilesize": 156550359,
+			"_idRow": 1254689,
+			"_nDownloadCount": 0,
+			"_nFilesize": 16108894,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
 			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
-			"_sDescription": "3 Maps; Full Env Reflection",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1240193",
-			"_sFile": "fy_rooms_fixed.7z",
-			"_sMd5Checksum": "2ade8223975266f2bca129637532dc47",
-			"_tsDateAdded": 1721453698
-		},
-		{
-			"_aMetadata": {
-				"_aArchiveFileTree": {
-					"cstrike": {
-						"maps": [
-							"fy_rooms.bsp",
-							"fy_rooms.nav"
-						],
-						"materials": {
-							"overviews": [
-								"fy_rooms.vmt",
-								"fy_rooms.vtf",
-								"fy_rooms_radar.vmt",
-								"fy_rooms_radar.vtf"
-							]
-						},
-						"resource": {
-							"overviews": [
-								"fy_rooms.txt"
-							]
-						}
-					}
-				}
-			},
-			"_bContainsExe": false,
-			"_idRow": 1240491,
-			"_nDownloadCount": 10,
-			"_nFilesize": 53974815,
-			"_sAnalysisResult": "File passed analysis",
-			"_sAnalysisResultCode": "ok",
-			"_sAnalysisState": "done",
-			"_sAvastAvResult": "clean",
-			"_sClamAvResult": "clean",
-			"_sDescription": "fy_rooms Ver2 with Env Reflection",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1240491",
-			"_sFile": "fy_rooms_ver2.7z",
-			"_sMd5Checksum": "a6298ec0d1158bd308599d7bc85efd82",
-			"_tsDateAdded": 1721493454
-		},
-		{
-			"_aMetadata": {
-				"_aArchiveFileTree": {
-					"cstrike": {
-						"maps": [
-							"fy_rooms.bsp",
-							"fy_rooms_buyzone.bsp",
-							"fy_rooms_buyzone_tidy.bsp"
-						],
-						"materials": {
-							"overviews": [
-								"fy_rooms.vmt",
-								"fy_rooms.vtf",
-								"fy_rooms_radar.vmt",
-								"fy_rooms_radar.vtf"
-							]
-						},
-						"resource": {
-							"overviews": [
-								"fy_rooms.txt",
-								"fy_rooms_buyzone.txt",
-								"fy_rooms_buyzone_tidy.txt"
-							]
-						}
-					}
-				}
-			},
-			"_bContainsExe": false,
-			"_idRow": 1240190,
-			"_nDownloadCount": 2,
-			"_nFilesize": 441726,
-			"_sAnalysisResult": "File passed analysis",
-			"_sAnalysisResultCode": "ok",
-			"_sAnalysisState": "done",
-			"_sAvastAvResult": "clean",
-			"_sClamAvResult": "clean",
-			"_sDescription": "NO Environmental Reflection",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1240190",
-			"_sFile": "fy_rooms_lite_e4a44.7z",
-			"_sMd5Checksum": "6a0b9ae45fd0a20ea591396518053f41",
-			"_tsDateAdded": 1721453571
-		},
-		{
-			"_aMetadata": {
-				"_aArchiveFileTree": {
-					"cstrike": {
-						"maps": [
-							"fy_rooms.bsp"
-						],
-						"materials": {
-							"overviews": [
-								"fy_rooms.vmt",
-								"fy_rooms.vtf",
-								"fy_rooms_radar.vmt",
-								"fy_rooms_radar.vtf"
-							]
-						},
-						"resource": {
-							"overviews": [
-								"fy_rooms.txt"
-							]
-						}
-					}
-				}
-			},
-			"_bContainsExe": false,
-			"_idRow": 1240496,
-			"_nDownloadCount": 2,
-			"_nFilesize": 419873,
-			"_sAnalysisResult": "File passed analysis",
-			"_sAnalysisResultCode": "ok",
-			"_sAnalysisState": "done",
-			"_sAvastAvResult": "clean",
-			"_sClamAvResult": "clean",
-			"_sDescription": "fy_rooms Ver2 NO Env Reflection",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1240496",
-			"_sFile": "fy_rooms_ver2_lite.7z",
-			"_sMd5Checksum": "828c6e828c4dfed71bbf3061e58d5844",
-			"_tsDateAdded": 1721493554
+			"_sDescription": "6 map types with sourcemod plugins",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1254689",
+			"_sFile": "fy_rooms_6b8c2.7z",
+			"_sMd5Checksum": "4830a961d67744529abc24b25c904563",
+			"_tsDateAdded": 1723182269
 		},
 		{
 			"_aMetadata": {
@@ -178,53 +87,42 @@
 					"fy_rooms_buyzone.prt",
 					"fy_rooms_buyzone.vmf",
 					"fy_rooms_buyzone.vmx",
+					"fy_rooms_buyzone_s.bsp",
+					"fy_rooms_buyzone_s.log",
+					"fy_rooms_buyzone_s.prt",
+					"fy_rooms_buyzone_s.vmf",
+					"fy_rooms_buyzone_s.vmx",
 					"fy_rooms_buyzone_tidy.bsp",
 					"fy_rooms_buyzone_tidy.log",
 					"fy_rooms_buyzone_tidy.prt",
 					"fy_rooms_buyzone_tidy.vmf",
-					"fy_rooms_o.vmf",
-					"fy_rooms_o.vmx"
+					"fy_rooms_buyzone_tidy.vmx",
+					"fy_rooms_buyzone_tidy_s.bsp",
+					"fy_rooms_buyzone_tidy_s.log",
+					"fy_rooms_buyzone_tidy_s.prt",
+					"fy_rooms_buyzone_tidy_s.vmf",
+					"fy_rooms_buyzone_tidy_s.vmx",
+					"fy_rooms_s.bsp",
+					"fy_rooms_s.log",
+					"fy_rooms_s.prt",
+					"fy_rooms_s.vmf",
+					"fy_rooms_s.vmx"
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1240191,
-			"_nDownloadCount": 2,
-			"_nFilesize": 144529,
+			"_idRow": 1254688,
+			"_nDownloadCount": 0,
+			"_nFilesize": 291243,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
 			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
-			"_sDescription": "Src 4 DEVs",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1240191",
-			"_sFile": "fy_rooms_src_334af.7z",
-			"_sMd5Checksum": "e7537f5b853049ded8bc47182ef536b6",
-			"_tsDateAdded": 1721453576
-		},
-		{
-			"_aMetadata": {
-				"_aArchiveFileTree": [
-					"fy_rooms.bsp",
-					"fy_rooms.log",
-					"fy_rooms.prt",
-					"fy_rooms.vmf",
-					"fy_rooms.vmx"
-				]
-			},
-			"_bContainsExe": false,
-			"_idRow": 1240488,
-			"_nDownloadCount": 2,
-			"_nFilesize": 117770,
-			"_sAnalysisResult": "File passed analysis",
-			"_sAnalysisResultCode": "ok",
-			"_sAnalysisState": "done",
-			"_sAvastAvResult": "clean",
-			"_sClamAvResult": "clean",
-			"_sDescription": "Src 4 DEVs",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1240488",
-			"_sFile": "fy_rooms_src_ver2.7z",
-			"_sMd5Checksum": "92ab2a6ffead2c7ce3e43a324c5c1ae2",
-			"_tsDateAdded": 1721493255
+			"_sDescription": "mapsrc 4 DEVs",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1254688",
+			"_sFile": "fy_rooms_src_14708.7z",
+			"_sMd5Checksum": "87c8b278f2aef6bbf413c0c6b696e927",
+			"_tsDateAdded": 1723182260
 		},
 		{
 			"_aMetadata": {
@@ -250,7 +148,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1240900,
-			"_nDownloadCount": 3,
+			"_nDownloadCount": 6,
 			"_nFilesize": 10340,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -268,6 +166,25 @@
 		{
 			"_aChangeLog": [
 				{
+					"cat": "Adjustment",
+					"text": "env_cubemap size: 256×256 -> Default. Map size reduced with full cubemap(s) built."
+				},
+				{
+					"cat": "Optimization",
+					"text": "Reduced the number of logic_case(s). A new way of random weapon giving. Optimized."
+				},
+				{
+					"cat": "Addition",
+					"text": "Added the sliding door type."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "\"s\" for sliding doors",
+			"_tsDateAdded": 1723182645
+		},
+		{
+			"_aChangeLog": [
+				{
 					"cat": "Addition",
 					"text": "RandomSpawnPoint (Not originally written by me; I've just fixed it.)"
 				}
@@ -275,20 +192,9 @@
 			"_sText": "",
 			"_sTitle": "Sourcemod Plugin Support",
 			"_tsDateAdded": 1721537458
-		},
-		{
-			"_aChangeLog": [
-				{
-					"cat": "Addition",
-					"text": "fy_rooms Ver2: Pistols Randomly Given"
-				}
-			],
-			"_sText": "",
-			"_sTitle": "fy_rooms Ver.2",
-			"_tsDateAdded": 1721493685
 		}
 	],
 	"_idRow": 529150,
 	"_sName": "fy_rooms",
-	"_sText": "<ul><li>fy_rooms</li><li class=\"SelectedElement\">fy_rooms_buyzone</li><li class=\"SelectedElement\">fy_rooms_buyzone_tidy</li></ul><br>maxplayers 32<br>A remake of a <a href=\"https://www.17buddies.rocks/17b2/View/Rels/2/106937/Pag/1/index.html\" target=\"_blank\">map</a> from CS1.6<br>The large file size is caused by env_cubemaps with Environmental Light Reflection.<br>Map Topic: Open doors or be killed<br><br>Random Spawn Point Originates from <a href=\"https://forums.alliedmods.net/showthread.php?p=2165695\" target=\"_blank\">here</a><br>I fixed the issue that one player may be spawned inside the other one,&nbsp;and added a parametre to toggle the plugin."
+	"_sText": "<ul><li>fy_rooms</li><li>fy_rooms_buyzone</li><li>fy_rooms_buyzone_tidy</li><li>fy_rooms_s</li><li>fy_rooms_buyzone_s</li><li class=\"SelectedElement\">fy_rooms_buyzone_tidy_s</li></ul><br>maxplayers 32<br>A remake of a <a href=\"https://www.17buddies.rocks/17b2/View/Rels/2/106937/Pag/1/index.html\" target=\"_blank\">map</a> from CS1.6<br>The large file size is caused by env_cubemaps with Environmental Light Reflection.<br>Map Topic: Open doors or be killed<br><br>Random Spawn Point Originates from <a href=\"https://forums.alliedmods.net/showthread.php?p=2165695\" target=\"_blank\">here</a><br>I fixed the issue that one player may be spawned inside the other one,&nbsp;and added a parametre to toggle the plugin."
 }
