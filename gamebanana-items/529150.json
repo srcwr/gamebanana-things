@@ -61,7 +61,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1254689,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 3,
 			"_nFilesize": 16108894,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -111,7 +111,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1254688,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 1,
 			"_nFilesize": 291243,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -176,6 +176,10 @@
 				{
 					"cat": "Addition",
 					"text": "Added the sliding door type."
+				},
+				{
+					"cat": "Addition",
+					"text": "Added Healing Zone to fy_rooms & fy_rooms_buyzone and their sliding door versions."
 				}
 			],
 			"_sText": "",
@@ -196,5 +200,5 @@
 	],
 	"_idRow": 529150,
 	"_sName": "fy_rooms",
-	"_sText": "<ul><li>fy_rooms</li><li>fy_rooms_buyzone</li><li>fy_rooms_buyzone_tidy</li><li>fy_rooms_s</li><li>fy_rooms_buyzone_s</li><li class=\"SelectedElement\">fy_rooms_buyzone_tidy_s</li></ul><br>maxplayers 32<br>A remake of a <a href=\"https://www.17buddies.rocks/17b2/View/Rels/2/106937/Pag/1/index.html\" target=\"_blank\">map</a> from CS1.6<br>The large file size is caused by env_cubemaps with Environmental Light Reflection.<br>Map Topic: Open doors or be killed<br><br>Random Spawn Point Originates from <a href=\"https://forums.alliedmods.net/showthread.php?p=2165695\" target=\"_blank\">here</a><br>I fixed the issue that one player may be spawned inside the other one,&nbsp;and added a parametre to toggle the plugin."
+	"_sText": "<ul><li>fy_rooms</li><li>fy_rooms_buyzone</li><li>fy_rooms_buyzone_tidy</li><li>fy_rooms_s</li><li>fy_rooms_buyzone_s</li><li class=\"SelectedElement\">fy_rooms_buyzone_tidy_s</li></ul><br>maxplayers 32<br>A remake of a <a href=\"https://www.17buddies.rocks/17b2/View/Rels/2/106937/Pag/1/index.html\" target=\"_blank\">map</a> from CS1.6<br>The large file size is caused by env_cubemaps with Environmental Light Reflection.<br>Map Topic: Open doors or be killed<br><br>Random Spawn Point Originates from <a href=\"https://forums.alliedmods.net/showthread.php?p=2165695\" target=\"_blank\">here</a><br>I fixed the issue that one player may be spawned inside the other one,&nbsp;and added a parametre to toggle the plugin.<br><br>fy_rooms Gives all players random weapons on round start."
 }

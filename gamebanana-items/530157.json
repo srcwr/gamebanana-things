@@ -8,8 +8,27 @@
 				]
 			},
 			"_bContainsExe": false,
+			"_idRow": 1254844,
+			"_nDownloadCount": 0,
+			"_nFilesize": 19730421,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1254844",
+			"_sFile": "de_hawkins_014.zip",
+			"_sMd5Checksum": "d915226476a0a066cbab323854551736",
+			"_tsDateAdded": 1723205702
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_hawkins.bsp"
+				]
+			},
+			"_bContainsExe": false,
 			"_idRow": 1250809,
-			"_nDownloadCount": 24,
+			"_nDownloadCount": 27,
 			"_nFilesize": 16969848,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -30,7 +49,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1248696,
-			"_nDownloadCount": 20,
+			"_nDownloadCount": 21,
 			"_nFilesize": 16175608,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -51,7 +70,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1244976,
-			"_nDownloadCount": 28,
+			"_nDownloadCount": 29,
 			"_nFilesize": 16047041,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -72,7 +91,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1242851,
-			"_nDownloadCount": 34,
+			"_nDownloadCount": 35,
 			"_nFilesize": 15476656,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -91,6 +110,26 @@
 			"_aChangeLog": [
 				{
 					"cat": "Addition",
+					"text": "some colour added to CT spawn"
+				},
+				{
+					"cat": "Overhaul",
+					"text": "lighting overhaul for CT spawn"
+				},
+				{
+					"cat": "Improvement",
+					"text": "better fire doors"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "CT spawn Touchup",
+			"_sVersion": "0.1.4",
+			"_tsDateAdded": 1723205678
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
 					"text": "Dev textures near B replaced"
 				},
 				{
@@ -102,26 +141,6 @@
 			"_sTitle": "Minor Changes",
 			"_sVersion": "0.1.3",
 			"_tsDateAdded": 1722728884
-		},
-		{
-			"_aChangeLog": [
-				{
-					"cat": "Addition",
-					"text": "Added more Bombsite A detail"
-				},
-				{
-					"cat": "Optimization",
-					"text": "+ Optimizations"
-				},
-				{
-					"cat": "Addition",
-					"text": "Added basic Bombsite B details"
-				}
-			],
-			"_sText": "",
-			"_sTitle": "Bombsite A+B changes",
-			"_sVersion": "0.1.2",
-			"_tsDateAdded": 1722466661
 		}
 	],
 	"_idRow": 530157,
