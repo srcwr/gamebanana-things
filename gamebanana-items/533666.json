@@ -51,11 +51,13 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1254923,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 1,
 			"_nFilesize": 123494,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
 			"_sDescription": "ALTERNATE 7-Zip",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1254923",
 			"_sFile": "aim_claustrum_1_1_alternate.7z",
@@ -70,11 +72,13 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1254924,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 1,
 			"_nFilesize": 144291,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
 			"_sDescription": "ALTERNATE WinRAR",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1254924",
 			"_sFile": "aim_claustrum_1_1_alternate.rar",
@@ -83,6 +87,22 @@
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "",
+					"text": "-Made the walls brighter to alleviate the issue of sniper scopes being unusable."
+				},
+				{
+					"cat": "",
+					"text": "-And other things that I don't remember."
+				}
+			],
+			"_sText": "<p>Experimental build of the map. Might not even be playable, I guess? Has issues, more than likely.</p>",
+			"_sTitle": "v1.1_Alternate upload",
+			"_sVersion": "v1.1_a",
+			"_tsDateAdded": 1723215609
+		},
 		{
 			"_aChangeLog": [
 				{
