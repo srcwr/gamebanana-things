@@ -1,51 +1,40 @@
 {
-	"_aAlternateFileSources": [
-		{
-			"description": "Google Drive",
-			"url": "https://drive.google.com/file/d/19Wddpo99E2Gk9zlC6Yri47Cj3VKdIeJ1/view?usp=sharing"
-		}
-	],
+	"_aAlternateFileSources": null,
 	"_aFiles": [
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
-					"ze_crystal_of_will_v1f.bsp"
+					"ze_crystal_of_will_v1_1.bsp"
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1008077,
-			"_nDownloadCount": 54,
-			"_nFilesize": 38164025,
+			"_idRow": 1256891,
+			"_nDownloadCount": 0,
+			"_nFilesize": 47843141,
 			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
-			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1008077",
-			"_sFile": "ze_crystal_of_will_v1f.rar",
-			"_sMd5Checksum": "a884cbc72c10e18dcfb4e22981f1941e",
-			"_tsDateAdded": 1687730934
-		},
-		{
-			"_aMetadata": {
-				"_aArchiveFileTree": [
-					"ze_crystal_of_will_v1f.cfg"
-				]
-			},
-			"_bContainsExe": false,
-			"_idRow": 1012122,
-			"_nDownloadCount": 18,
-			"_nFilesize": 212,
-			"_sAnalysisResult": "File passed analysis",
-			"_sAnalysisState": "done",
-			"_sClamAvResult": "clean",
-			"_sDescription": "STRIPPER FIX",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1012122",
-			"_sFile": "stripper_crystal_of_will_397d6.rar",
-			"_sMd5Checksum": "1b78c71f36d65c21983c6ed9704d639d",
-			"_tsDateAdded": 1688298981
+			"_sDescription": "Actual version of this map",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1256891",
+			"_sFile": "ze_crystal_of_will_v1_1.rar",
+			"_sMd5Checksum": "42c01d7d93f861c1886a7d56b185d4d4",
+			"_tsDateAdded": 1723467440
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "",
+					"text": "some decorations and fixes"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "v1_1",
+			"_tsDateAdded": 1723467687
+		},
 		{
 			"_aChangeLog": [
 				{
