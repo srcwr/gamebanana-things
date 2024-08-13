@@ -9,11 +9,13 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1257439,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 6,
 			"_nFilesize": 20463499,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1257439",
 			"_sFile": "de_hawkins_015.zip",
@@ -131,6 +133,22 @@
 			"_aChangeLog": [
 				{
 					"cat": "Addition",
+					"text": "added detailing outside map"
+				},
+				{
+					"cat": "Optimization",
+					"text": "lots of func_detail work"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Minor Changes 2",
+			"_sVersion": "0.1.5",
+			"_tsDateAdded": 1723526394
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
 					"text": "some colour added to CT spawn"
 				},
 				{
@@ -146,22 +164,6 @@
 			"_sTitle": "CT spawn Touchup",
 			"_sVersion": "0.1.4",
 			"_tsDateAdded": 1723205678
-		},
-		{
-			"_aChangeLog": [
-				{
-					"cat": "Addition",
-					"text": "Dev textures near B replaced"
-				},
-				{
-					"cat": "Tweak",
-					"text": "Minor tweaks"
-				}
-			],
-			"_sText": "",
-			"_sTitle": "Minor Changes",
-			"_sVersion": "0.1.3",
-			"_tsDateAdded": 1722728884
 		}
 	],
 	"_idRow": 530157,
