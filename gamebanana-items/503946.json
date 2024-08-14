@@ -4,30 +4,43 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
-					"readme.txt",
-					"zm_hes_v1d.bsp",
-					"zm_hes_v1d.bsp.backup",
-					"zm_hes_v1n.bsp",
-					"zm_hes_v1n.bsp.backup"
+					"zm_HES_v2n.bsp",
+					"zm_HES_v2w.bsp",
+					"zm_hes_v2d.bsp",
+					"zm_hes_v2d.nav",
+					"zm_hes_v2n.nav",
+					"zm_hes_v2w.nav"
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1165501,
-			"_nDownloadCount": 86,
-			"_nFilesize": 402309047,
+			"_idRow": 1258179,
+			"_nDownloadCount": 0,
+			"_nFilesize": 332127111,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
 			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
-			"_sDescription": "V1FIX",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1165501",
-			"_sFile": "zm_hes_v1fix.zip",
-			"_sMd5Checksum": "ef38891e11b23da7a4bca493020da711",
-			"_tsDateAdded": 1711816808
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1258179",
+			"_sFile": "zm_hes_v2.rar",
+			"_sMd5Checksum": "2fb38e4b555f576d2be2eb7cc4d73ce8",
+			"_tsDateAdded": 1723650610
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "",
+					"text": "-add Rain version"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "zm_hes_v2",
+			"_sVersion": "V2",
+			"_tsDateAdded": 1723651085
+		},
 		{
 			"_aChangeLog": [
 				{
@@ -46,6 +59,6 @@
 		}
 	],
 	"_idRow": 503946,
-	"_sName": "zm_HES",
-	"_sText": "This map is a port from the Black Mesa game for Counter-strike: Source.<br>adaptation to zombie mod [zm]. Map have: day and night version.<br><br>"
+	"_sName": "Hydro-Electric Station (HES)",
+	"_sText": "This map is a port from the Black Mesa game for Counter-strike: Source.<br>adaptation to zombie mod [zm].<br><br>Changes:<br><br><h1>&nbsp; -add rain version<br>&nbsp; -add plants<br>&nbsp; -add displacement grass<br>&nbsp; -new better lighting</h1><h3 class=\"SelectedElement\"><span class=\"EzKURWReUAB5oZgtQNkl\" data-src-align=\"0:1\">and</span> <span class=\"EzKURWReUAB5oZgtQNkl\" data-src-align=\"2:6\">much</span> <span class=\"EzKURWReUAB5oZgtQNkl\" data-src-align=\"9:6\">more</span></h3>"
 }
