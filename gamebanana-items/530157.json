@@ -8,8 +8,29 @@
 				]
 			},
 			"_bContainsExe": false,
+			"_idRow": 1259812,
+			"_nDownloadCount": 0,
+			"_nFilesize": 21426814,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
+			"_sDescription": "Current Version",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1259812",
+			"_sFile": "de_hawkins_016.zip",
+			"_sMd5Checksum": "f55ea4e9d99e64dfcddf2323c8b8a836",
+			"_tsDateAdded": 1723841165
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_hawkins.bsp"
+				]
+			},
+			"_bContainsExe": false,
 			"_idRow": 1257439,
-			"_nDownloadCount": 19,
+			"_nDownloadCount": 20,
 			"_nFilesize": 20463499,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -168,5 +189,5 @@
 	],
 	"_idRow": 530157,
 	"_sName": "de_Hawkins",
-	"_sText": "hi! this is a map ive been working on for a while on and off, its far from finished, but its 70% done and playable, though bots may have some trouble"
+	"_sText": "hi! this is my first map ive been working on for a while on and off, its far from finished, but its 70% done and playable, though bots may have some trouble"
 }
