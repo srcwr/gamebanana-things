@@ -4,6 +4,39 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": {
+					"0": "ze_aethership_v1_2.bsp",
+					"bosshp": [
+						"ze_aethership_v1_2.cfg"
+					],
+					"entwatch": [
+						"ze_aethership_v1_2.cfg"
+					],
+					"entwatch_v4": [
+						"ze_aethership_v1_2.cfg"
+					],
+					"stripper": [
+						"ze_aethership_v1_2.cfg"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 1198910,
+			"_nDownloadCount": 104,
+			"_nFilesize": 97013181,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1198910",
+			"_sFile": "ze_aethership_v1_2.zip",
+			"_sMd5Checksum": "9f35740ca51d4c263416774d6e9404b5",
+			"_tsDateAdded": 1716314105
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
 					"0": "ze_aethership_v1_1b.bsp",
 					"bosshp": [
 						"ze_aethership_v1_1b.cfg"
@@ -21,7 +54,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1136779,
-			"_nDownloadCount": 85,
+			"_nDownloadCount": 101,
 			"_nFilesize": 96087813,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -51,7 +84,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1116960,
-			"_nDownloadCount": 80,
+			"_nDownloadCount": 85,
 			"_nFilesize": 97002529,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -81,7 +114,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1074457,
-			"_nDownloadCount": 122,
+			"_nDownloadCount": 127,
 			"_nFilesize": 95733788,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -100,113 +133,57 @@
 			"_aChangeLog": [
 				{
 					"cat": "Bugfix",
-					"text": "Fixed reflections being errors in certain parts of the map. (Some players have some issues with this). This in turn added more reflections in the map."
-				},
-				{
-					"cat": "Addition",
-					"text": "Added more decorations in some parts of the map"
-				},
-				{
-					"cat": "Addition",
-					"text": "Added crates to \"Stairs in Room #3 Before Elevator\""
-				},
-				{
-					"cat": "Bugfix",
-					"text": "[Stripper Fix] Fixed Zombie Teleport Game Text being shown to all players."
+					"text": "Fix an obscure bug with the cutscene where people who are spectating can pick up items."
 				}
 			],
-			"_sText": "<p>The stripper fix is included in the zip. Map will function regardless if you include the stripper or not.</p>",
-			"_sTitle": "ze_aethership_v1_1b",
-			"_sVersion": "v1_1b",
-			"_tsDateAdded": 1707561110
+			"_sText": "<p>The link for the stripper fix is right <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://github.com/Pasas1345/Pasas1345Maps-Configs/blob/main/stripper/ze_aethership_v1_2.cfg\">here</a>.</p>",
+			"_sTitle": "v1_2 Stripper Fix Iteration #2",
+			"_sVersion": "Iteration #2",
+			"_tsDateAdded": 1723877242
 		},
 		{
 			"_aChangeLog": [
 				{
+					"cat": "Addition",
+					"text": "Added a new zombie item called Aether \"Cybernetic Rage\". This item buffs the zombie's within 768 units speed temporarily by 2x but sets their HP to 1000 HP except the user itself. This HP will not get overridden from the AFK teleport protection until the speed effect has finished. The speed effect can be overridden by Aether Electric Field Generators and Aether Light Cannons. Cooldown for the item is 120s (75s if no EntWatch)."
+				},
+				{
 					"cat": "Adjustment",
-					"text": "Adjustments to Light Cannon's Particles"
-				},
-				{
-					"cat": "Tweak",
-					"text": "Buffed Aether Electric Field Generator (Radius increased from 384 units to 512 units, and slows zombies down by 20% when they are in the field)"
-				},
-				{
-					"cat": "Tweak",
-					"text": "Buffed Aether Light Cannon (Increased the slow from 20% to 25%, the pushback force is greater, so careful!)"
-				},
-				{
-					"cat": "Tweak",
-					"text": "Buffed Aether First Aid Kit (Zombie Push increased from 240 u/s to 260 u/s)"
-				},
-				{
-					"cat": "Tweak",
-					"text": "Nerfed Aether Fire Launcher (Damage reduced from 250 to 150)"
+					"text": "The Intro Camera Sequence is disabled by default. It can be re-enabled by adding the optional stripper included in the .zip file. (Make sure you have CSSFixes in your server to make sure it does not soft-lock your players)"
 				},
 				{
 					"cat": "Bugfix",
-					"text": "Fixed Aether First Aid Kit zombie push not working."
-				},
-				{
-					"cat": "Addition",
-					"text": "Added text description of all the items when picked up."
-				},
-				{
-					"cat": "Adjustment",
-					"text": "Moved the First AFK teleport"
-				},
-				{
-					"cat": "Adjustment",
-					"text": "Moved the AFK teleport of the room after tram ride"
-				},
-				{
-					"cat": "Optimization",
-					"text": "Most AFK teleports will make zombies' have 40000 HP until they leave the AFK teleport area. This is to avoid spawn killing incidents."
-				},
-				{
-					"cat": "Adjustment",
-					"text": "All zombies have a default HP of 8000HP."
-				},
-				{
-					"cat": "Addition",
-					"text": "More decoration is added to some areas of the map"
+					"text": "Fixed the Fire Launcher projectile spawning more fire fields than usual when multiple zombies are hit in one spot causing huge amounts of damage."
 				},
 				{
 					"cat": "Bugfix",
-					"text": "Fixed some lighting issues on shortcut breakables"
+					"text": "Fixed Soundscapes not getting packed in from last version."
 				},
 				{
 					"cat": "Adjustment",
-					"text": "Vent shortcut after first elevator no longer allows humans to enter"
-				},
-				{
-					"cat": "Adjustment",
-					"text": "Made the Ending Music louder"
-				},
-				{
-					"cat": "Bugfix",
-					"text": "Fixed Svarog being able to hit himself with his own reflect beams, meaning more beams will spawn without you shooting him"
-				},
-				{
-					"cat": "Bugfix",
-					"text": "Fixed Svarog's Fire Blast subtitle warning not showing the correct text."
+					"text": "Made the final afk teleport in the ending start from 1 minute left (from 30 seconds left)"
 				},
 				{
 					"cat": "Addition",
-					"text": "Added an indicator for the bomb planting trigger."
+					"text": "Added decorations to some parts of the map"
 				},
 				{
-					"cat": "Adjustment",
-					"text": "One of the Override Buttons is now easier to access."
+					"cat": "Tweak",
+					"text": "Moved the crates in \"Stairs in Room #3 Before Elevator\". Hopefully nerfing bunnyhopping."
 				},
 				{
 					"cat": "Addition",
-					"text": "Added an console message that tells when the helicopter has arrived."
+					"text": "2 AFK Teleport Areas now have a bullet blocking shield that makes zombies able to go out without getting shot to a corner. Items still can pass through this shield. These shields are present on the following AFK Teleports: (After Elevator, After Tram)"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Applied optional stripper fixes from last version."
 				}
 			],
-			"_sText": "",
-			"_sTitle": "ze_aethership_v1_1",
-			"_sVersion": "v1_1",
-			"_tsDateAdded": 1704537120
+			"_sText": "<p>The optional stripper file to enable the Intro Cutscene Sequence is included in the zip file.</p>",
+			"_sTitle": "ze_aethership_v1_2",
+			"_sVersion": "v1_2",
+			"_tsDateAdded": 1716314308
 		}
 	],
 	"_idRow": 474381,
