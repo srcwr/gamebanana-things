@@ -9,7 +9,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1259812,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 3,
 			"_nFilesize": 21426814,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -30,7 +30,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1257439,
-			"_nDownloadCount": 20,
+			"_nDownloadCount": 21,
 			"_nFilesize": 20463499,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -114,7 +114,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1244976,
-			"_nDownloadCount": 31,
+			"_nDownloadCount": 32,
 			"_nFilesize": 16047041,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -135,7 +135,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1242851,
-			"_nDownloadCount": 37,
+			"_nDownloadCount": 38,
 			"_nFilesize": 15476656,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -153,6 +153,26 @@
 		{
 			"_aChangeLog": [
 				{
+					"cat": "Overhaul",
+					"text": "Moved around Bombsite A connections for T side"
+				},
+				{
+					"cat": "Addition",
+					"text": "Lower level A site entrance"
+				},
+				{
+					"cat": "Addition",
+					"text": "More skybox detail"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "T side changes",
+			"_sVersion": "0.1.6",
+			"_tsDateAdded": 1723841448
+		},
+		{
+			"_aChangeLog": [
+				{
 					"cat": "Addition",
 					"text": "added detailing outside map"
 				},
@@ -165,26 +185,6 @@
 			"_sTitle": "Minor Changes 2",
 			"_sVersion": "0.1.5",
 			"_tsDateAdded": 1723526394
-		},
-		{
-			"_aChangeLog": [
-				{
-					"cat": "Addition",
-					"text": "some colour added to CT spawn"
-				},
-				{
-					"cat": "Overhaul",
-					"text": "lighting overhaul for CT spawn"
-				},
-				{
-					"cat": "Improvement",
-					"text": "better fire doors"
-				}
-			],
-			"_sText": "",
-			"_sTitle": "CT spawn Touchup",
-			"_sVersion": "0.1.4",
-			"_tsDateAdded": 1723205678
 		}
 	],
 	"_idRow": 530157,
