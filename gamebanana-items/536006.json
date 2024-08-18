@@ -2,14 +2,20 @@
 	"_aAlternateFileSources": null,
 	"_aFiles": [
 		{
-			"_aMetadata": [],
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"mg_piratewars_islands.bsp"
+				]
+			},
 			"_bContainsExe": false,
 			"_idRow": 1260582,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 16,
 			"_nFilesize": 19774812,
-			"_sAnalysisResult": "Undetermined",
-			"_sAnalysisResultCode": "undetermined",
-			"_sAnalysisState": "pending",
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1260582",
 			"_sFile": "mg_piratewars_islands.rar",
