@@ -9,19 +9,50 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1261325,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 1,
 			"_nFilesize": 5890754,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1261325",
 			"_sFile": "zm_ancient_city_hunt_v1.zip",
 			"_sMd5Checksum": "2b15bd147b066fe22c9851ddc9cacf1a",
 			"_tsDateAdded": 1723983733
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"zm_ancient_city_hunt_v1_1.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 1261603,
+			"_nDownloadCount": 0,
+			"_nFilesize": 5900850,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1261603",
+			"_sFile": "zm_ancient_city_hunt_v1_1.zip",
+			"_sMd5Checksum": "12c21c9986452d42bf0914d0f9f53a9e",
+			"_tsDateAdded": 1724009699
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [],
+			"_sText": "<p>Added sky_camera and 3D sky, fixed some texture errors</p>",
+			"_sTitle": "Changes to top level",
+			"_sVersion": "1.1",
+			"_tsDateAdded": 1724009883
+		}
+	],
 	"_idRow": 536226,
 	"_sName": "ZM Ancient City Hunt",
 	"_sText": "Welcome to the underground ancient city, where humanz and zombiez hunt each other. It is a simple hunting map, with some secret  If you find any bugs please report them, any ideas for 'more fun' are welcome.<br>"
