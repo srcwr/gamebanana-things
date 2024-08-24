@@ -2,14 +2,23 @@
 	"_aAlternateFileSources": null,
 	"_aFiles": [
 		{
-			"_aMetadata": [],
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"de_dust3": [
+						"de_dust3.bsp",
+						"de_dust3.txt"
+					]
+				}
+			},
 			"_bContainsExe": false,
 			"_idRow": 1264920,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 4,
 			"_nFilesize": 820331,
-			"_sAnalysisResult": "Undetermined",
-			"_sAnalysisResultCode": "undetermined",
-			"_sAnalysisState": "pending",
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1264920",
 			"_sFile": "de_dust3.7z",

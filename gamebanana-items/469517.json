@@ -10,10 +10,12 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1058353,
-			"_nDownloadCount": 6,
+			"_nDownloadCount": 57,
 			"_nFilesize": 388070,
 			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
 			"_sDescription": "Broken",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1058353",
@@ -22,8 +24,16 @@
 			"_tsDateAdded": 1695121366
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [],
+			"_sText": "<p>Just rename the mod to make easy to find.</p>",
+			"_sTitle": "Rename",
+			"_sVersion": "1.0",
+			"_tsDateAdded": 1724427725
+		}
+	],
 	"_idRow": 469517,
-	"_sName": "DUST III",
+	"_sName": "Dust 3 (cancelled)",
 	"_sText": "A very early version of a canceled Dust 3. It has primitive brushwork and only one bombsite, having a bunch of wrecked cars piled on top of each other."
 }
