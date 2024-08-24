@@ -44,14 +44,20 @@
 			"_tsDateAdded": 1724009699
 		},
 		{
-			"_aMetadata": [],
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"zm_ancient_city_hunt_v2.bsp"
+				]
+			},
 			"_bContainsExe": false,
 			"_idRow": 1265890,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 1,
 			"_nFilesize": 4617410,
-			"_sAnalysisResult": "Undetermined",
-			"_sAnalysisResultCode": "undetermined",
-			"_sAnalysisState": "pending",
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
 			"_sDescription": "Optimized",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1265890",
 			"_sFile": "zm_ancient_city_hunt_v2.zip",
@@ -60,6 +66,13 @@
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [],
+			"_sText": "<p>Total rework of the map with more style and texture work, fixed FPS drops, optimized what ever possible, added buyzones (how could I ever have forgotten that), etc.</p>",
+			"_sTitle": "Redesign and optimization",
+			"_sVersion": "2",
+			"_tsDateAdded": 1724532027
+		},
 		{
 			"_aChangeLog": [],
 			"_sText": "<p>Added sky_camera and 3D sky, fixed some texture errors</p>",
