@@ -16,7 +16,7 @@
 			"_sAnalysisState": "done",
 			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
-			"_sDescription": "",
+			"_sDescription": "Unoptimazed",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1261325",
 			"_sFile": "zm_ancient_city_hunt_v1.zip",
 			"_sMd5Checksum": "2b15bd147b066fe22c9851ddc9cacf1a",
@@ -30,18 +30,33 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1261603,
-			"_nDownloadCount": 9,
+			"_nDownloadCount": 10,
 			"_nFilesize": 5900850,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
 			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
-			"_sDescription": "",
+			"_sDescription": "Unoptimazed",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1261603",
 			"_sFile": "zm_ancient_city_hunt_v1_1.zip",
 			"_sMd5Checksum": "12c21c9986452d42bf0914d0f9f53a9e",
 			"_tsDateAdded": 1724009699
+		},
+		{
+			"_aMetadata": [],
+			"_bContainsExe": false,
+			"_idRow": 1265890,
+			"_nDownloadCount": 0,
+			"_nFilesize": 4617410,
+			"_sAnalysisResult": "Undetermined",
+			"_sAnalysisResultCode": "undetermined",
+			"_sAnalysisState": "pending",
+			"_sDescription": "Optimized",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1265890",
+			"_sFile": "zm_ancient_city_hunt_v2.zip",
+			"_sMd5Checksum": "a8b8f2c70e2f3321dc0d1ecbe5d1eee1",
+			"_tsDateAdded": 1724528086
 		}
 	],
 	"_aLatestUpdates": [
@@ -55,5 +70,5 @@
 	],
 	"_idRow": 536226,
 	"_sName": "ZM Ancient City Hunt",
-	"_sText": "Welcome to the underground ancient city, where humanz and zombiez hunt each other. It is a simple hunting map, with some secret  If you find any bugs please report them, any ideas for 'more fun' are welcome.<br>"
+	"_sText": "Welcome to the underground ancient city, where humanz and zombiez hunt each other. It is a simple hunting map.<br><br><ul><li>Area size is around 5600 x 5600 units</li><li>Player amount can be up to 128 players</li><li>V2 is optimized to reduce lag</li><li>Hidden hiding spots</li><li>Hidden teleport to top level</li><li class=\"SelectedElement\">Lots of options to camp</li><li class=\"SelectedElement\">And traps<br></li></ul><br> If you find any bugs please report them in the comments below, any ideas for more fun are welcome.<br><br>"
 }
