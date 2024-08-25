@@ -72,11 +72,13 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1266376,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 1,
 			"_nFilesize": 4461390,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
 			"_sDescription": "Optimized and bloody",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1266376",
 			"_sFile": "zm_ancient_city_hunt_v2_blood.zip",
@@ -87,17 +89,17 @@
 	"_aLatestUpdates": [
 		{
 			"_aChangeLog": [],
+			"_sText": "<p>Added 'blood' in the map... fake blood.... not my own, although that was done making this map.... it looks done now. Also added some extra optimization in this one.</p>",
+			"_sTitle": "Blood edition",
+			"_sVersion": "V2 - Blood",
+			"_tsDateAdded": 1724591068
+		},
+		{
+			"_aChangeLog": [],
 			"_sText": "<p>Total rework of the map with more style and texture work, fixed FPS drops, optimized what ever possible, added buyzones (how could I ever have forgotten that), etc.</p>",
 			"_sTitle": "Redesign and optimization",
 			"_sVersion": "2",
 			"_tsDateAdded": 1724532027
-		},
-		{
-			"_aChangeLog": [],
-			"_sText": "<p>Added sky_camera and 3D sky, fixed some texture errors</p>",
-			"_sTitle": "Changes to top level",
-			"_sVersion": "1.1",
-			"_tsDateAdded": 1724009883
 		}
 	],
 	"_idRow": 536226,
