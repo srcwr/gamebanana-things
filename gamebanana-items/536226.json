@@ -51,7 +51,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1265890,
-			"_nDownloadCount": 1,
+			"_nDownloadCount": 2,
 			"_nFilesize": 4617410,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -63,6 +63,25 @@
 			"_sFile": "zm_ancient_city_hunt_v2.zip",
 			"_sMd5Checksum": "a8b8f2c70e2f3321dc0d1ecbe5d1eee1",
 			"_tsDateAdded": 1724528086
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"zm_ancient_city_hunt_v2_blood.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 1266376,
+			"_nDownloadCount": 0,
+			"_nFilesize": 4461390,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sDescription": "Optimized and bloody",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1266376",
+			"_sFile": "zm_ancient_city_hunt_v2_blood.zip",
+			"_sMd5Checksum": "a189a13b868305ca0b7a46e9c1116a57",
+			"_tsDateAdded": 1724590842
 		}
 	],
 	"_aLatestUpdates": [
@@ -83,5 +102,5 @@
 	],
 	"_idRow": 536226,
 	"_sName": "ZM Ancient City Hunt",
-	"_sText": "Welcome to the underground ancient city, where humanz and zombiez hunt each other. It is a simple hunting map.<br><br><ul><li>Area size is around 5600 x 5600 units</li><li>Player amount can be up to 128 players</li><li>V2 is optimized to reduce lag</li><li>Hidden hiding spots</li><li>Hidden teleport to top level</li><li class=\"SelectedElement\">Lots of options to camp</li><li class=\"SelectedElement\">And traps<br></li></ul><br> If you find any bugs please report them in the comments below, any ideas for more fun are welcome.<br><br>"
+	"_sText": "Welcome to the underground ancient city, where humanz and zombiez hunt each other. It is a simple hunting map.<br><br><ul><li>Area size is around 5600 x 5600 units</li><li>Player amount can be up to 128 players</li><li>V2 is optimized to reduce lag</li><li>Hidden hiding spots</li><li>Hidden teleport to top level</li><li>Lots of options to camp</li><li class=\"SelectedElement\">And traps</li><li class=\"SelectedElement\">And blood edition<br></li></ul><br> If you find any bugs please report them in the comments below, any ideas for more fun are welcome.<br><br>"
 }

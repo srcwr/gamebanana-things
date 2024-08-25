@@ -51,11 +51,13 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1266052,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 1,
 			"_nFilesize": 81498065,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1266052",
 			"_sFile": "ze_sipher_css_f1_235b2.rar",
@@ -64,6 +66,38 @@
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Added 3 new zombie items ( Warp, Lure and Holy )"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Increased all door hold times throughout the map."
+				},
+				{
+					"cat": "Addition",
+					"text": "Added fog and a new 3d skybox."
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed the previous bugs."
+				},
+				{
+					"cat": "Addition",
+					"text": "Fire item modified to fire beam instead."
+				},
+				{
+					"cat": "Addition",
+					"text": "Added new details and new props."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "ze_sipher_css_f1",
+			"_sVersion": "v1_f",
+			"_tsDateAdded": 1724543744
+		},
 		{
 			"_aChangeLog": [
 				{
@@ -79,5 +113,5 @@
 	],
 	"_idRow": 535891,
 	"_sName": "ze_sipher_css_f1",
-	"_sText": "<font color=\"#ff4e4e\"><b>You wake up and find yourselves in uncharted territory. With eerie environment and a sense of joy. You venture out to escape the unparrallel world and defeat the ultimate monster that awaits you.</b></font><br><br>Hi! Introducing you ze_sipher_css. An interesting but short map. This is my final map. After this I'm done from mapping for sure.<br><br><span class=\"GreenColor\"><b>Map Contains~</b></span><br>2 Stages:<br><ul><li class=\"SelectedElement\">&nbsp;Segment I - Initial</li><li>Segment II - Dream</li><li>Practice Mode.</li></ul>Laser Ending on Segment I<br>RNG Ending on Segment II - New Cubes and Spirit Bomb RNG from Dragon Ball Z.<br>2 Human Items ( Fire, Ice Beam).<br>3 Zombie Items ( Warp, Lure, Holy).<br>Susanoo Boss Fight on Segment - II<br>Defend Holds.<br>64 Spawns.<br><br>I made this map comparatively easier for humans so even 10 humans will manage to win. However, the last hold on Segment II may be hard for less players. If people give feedback, I would add 3rd stage which I initially decided to add but I don't want to drag and make the map longer. GL &amp; HF.<font color=\"#ffe033\"><br></font><br><span class=\"RedColor\"><b>YOU ARE NOT ALLOWED TO EDIT &amp; RE-UPLOAD THIS MAP.</b></span>"
+	"_sText": "<font color=\"#ff4e4e\"><b>You wake up and find yourselves in uncharted territory. With eerie environment and a sense of joy. You venture out to escape the unparrallel world and defeat the ultimate monster that awaits you.</b></font><br><br>Hi! Introducing you ze_sipher_css. An interesting but short map. This is my final map. After this I'm done from mapping for sure.<br><br><span class=\"GreenColor\"><b>Map Contains~</b></span><br>2 Stages:<br><ul><li>&nbsp;Segment I - Initial</li><li>Segment II - Dream</li><li>Practice Mode.</li></ul>Laser Ending on Segment I<br>RNG Ending on Segment II - New Cubes and Spirit Bomb RNG from Dragon Ball Z.<br>2 Human Items ( Fire, Ice Beam).<br>3 Zombie Items ( Warp, Lure, Holy).<br>Susanoo Boss Fight on Segment - II<br>Defend Holds.<br>64 Spawns.<br><br>I made this map comparatively easier for humans so even 10 humans will manage to win. However, the last hold on Segment II may be hard for less players. If people give feedback, I would add 3rd stage which I initially decided to add but I don't want to drag and make the map longer. GL &amp; HF.<font color=\"#ffe033\"><br></font><br><span class=\"RedColor\"><b class=\"SelectedElement\">YOU ARE NOT ALLOWED TO EDIT &amp; RE-UPLOAD THIS MAP. ** If&nbsp; you find any bugs or want to add something. Just make a stripper cfg. **</b></span>"
 }
