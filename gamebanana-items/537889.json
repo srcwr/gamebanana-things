@@ -4,27 +4,39 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": {
-					"de_stage 1.1b": [
+					"de_stage 1.1c": [
 						"de_stage.bsp",
 						"de_stage.nav"
 					]
 				}
 			},
 			"_bContainsExe": false,
-			"_idRow": 1267279,
+			"_idRow": 1267351,
 			"_nDownloadCount": 0,
-			"_nFilesize": 2772043,
+			"_nFilesize": 2702571,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1267279",
-			"_sFile": "de_stage_11b_2420d.zip",
-			"_sMd5Checksum": "f61c91365017c2a5fb9a8c9a08ca6674",
-			"_tsDateAdded": 1724689245
+			"_sDownloadUrl": "https://gamebanana.com/dl/1267351",
+			"_sFile": "de_stage_11c.zip",
+			"_sMd5Checksum": "0d1f6de0a559a071e0adfd017f76ead6",
+			"_tsDateAdded": 1724696527
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "Even more small fixes"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "de_stage 1.1c",
+			"_sVersion": "1.1c",
+			"_tsDateAdded": 1724696616
+		},
 		{
 			"_aChangeLog": [
 				{
@@ -40,30 +52,6 @@
 			"_sTitle": "de_stage 1.1b",
 			"_sVersion": "1.1b",
 			"_tsDateAdded": 1724688051
-		},
-		{
-			"_aChangeLog": [
-				{
-					"cat": "Improvement",
-					"text": "Changed most textures to fit in with rest of the map. It should be easier to spot enemies now because of brighter textures. With that I also increased quality of them making the map much prettier."
-				},
-				{
-					"cat": "Improvement",
-					"text": "Portions of T side of the map have been changed and tweaked."
-				},
-				{
-					"cat": "Addition",
-					"text": "Added sounds to machines inside the A site."
-				},
-				{
-					"cat": "Addition",
-					"text": "Added some door sounds"
-				}
-			],
-			"_sText": "<p>Regarding the improvement of T side of the map, I removed blacked out boxes that had lightning issues near A site and replaced them with an extended wall with plants on top, and I put a car as a hiding spot, as well as some other stuff</p>",
-			"_sTitle": "de_stage 1.1",
-			"_sVersion": "1.1",
-			"_tsDateAdded": 1724680723
 		}
 	],
 	"_idRow": 537889,
