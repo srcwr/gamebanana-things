@@ -11,21 +11,46 @@
 				}
 			},
 			"_bContainsExe": false,
-			"_idRow": 1266486,
+			"_idRow": 1267201,
 			"_nDownloadCount": 0,
-			"_nFilesize": 1991042,
+			"_nFilesize": 2638209,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
-			"_sDescription": "Extract this and paste contents into maps folder",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1266486",
-			"_sFile": "de_stage.zip",
-			"_sMd5Checksum": "823b655b612a93b1a43de5ccfbe7122c",
-			"_tsDateAdded": 1724603535
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1267201",
+			"_sFile": "de_stage_11.zip",
+			"_sMd5Checksum": "6ebb99d2a8543166c2bce28f18bd6c31",
+			"_tsDateAdded": 1724680749
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Improvement",
+					"text": "Changed most textures to fit with rest of the map. It should be easier to spot enemies now because of brighter textures. With that I also increased quality of them making the map much prettier."
+				},
+				{
+					"cat": "Improvement",
+					"text": "Portions of T side of the map have been changed and tweaked."
+				},
+				{
+					"cat": "Addition",
+					"text": "Added sounds to machines inside the A site."
+				},
+				{
+					"cat": "Addition",
+					"text": "Added some door sounds"
+				}
+			],
+			"_sText": "<p>Regarding the improvement of T side of the map, I removed blacked out boxes that had lightning issues near A site and replaced them with an extended wall with plants on top, and I put a car as a hiding spot.</p>",
+			"_sTitle": "de_stage 1.1",
+			"_sVersion": "1.1",
+			"_tsDateAdded": 1724680723
+		}
+	],
 	"_idRow": 537889,
 	"_sName": "de_stage",
-	"_sText": "First map that I made in Source. It was supposed to be just a test map for my experiments and learning the engine but it evolved into a functional map."
+	"_sText": "Map is set in desert-ish place, similar to Dust. It has a mix of mid and long range engagement places."
 }
