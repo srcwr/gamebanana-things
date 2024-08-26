@@ -8,8 +8,8 @@
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1247276,
-			"_nDownloadCount": 18,
+			"_idRow": 1267247,
+			"_nDownloadCount": 0,
 			"_nFilesize": 849040,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -17,13 +17,49 @@
 			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1247276",
-			"_sFile": "middlebomb.zip",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1267247",
+			"_sFile": "middlebomb_01.zip",
 			"_sMd5Checksum": "81882dfbff929b7e967508797443409d",
-			"_tsDateAdded": 1722288700
+			"_tsDateAdded": 1724686247
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"MiddleBomb2.0": [
+						"MiddleBomb2.vmf"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 1267251,
+			"_nDownloadCount": 0,
+			"_nFilesize": 20921,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1267251",
+			"_sFile": "middlebomb02.rar",
+			"_sMd5Checksum": "9e08dd6c055650d1d47285b70bfd57b1",
+			"_tsDateAdded": 1724686884
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "",
+					"text": "- new improvements to the map"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "New Middle Bomb Changes!",
+			"_sVersion": "0.2",
+			"_tsDateAdded": 1724686074
+		}
+	],
 	"_idRow": 531654,
 	"_sName": "MiddleBomb",
 	"_sText": "Middle Bomb is my first CSS map, it contains one Area to plant the Bomb, the Middle.<br>The T team and CT team must go around and find a way into the middle or go through the walls using vents, the vents have all sorts of goodies, the T's team spawn entrance to the middle is blocked so they have to crouch through the vents or go around, it makes for a very fun dynamic"
