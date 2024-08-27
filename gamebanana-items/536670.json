@@ -10,11 +10,13 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1267465,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 6,
 			"_nFilesize": 731282,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
 			"_sDescription": "Ver.2",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1267465",
 			"_sFile": "aim_warehouse_v2.zip",
@@ -30,7 +32,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1262723,
-			"_nDownloadCount": 33,
+			"_nDownloadCount": 35,
 			"_nFilesize": 663997,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -44,7 +46,32 @@
 			"_tsDateAdded": 1724133708
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "added buyzone in middle"
+				},
+				{
+					"cat": "Addition",
+					"text": "added grenades on top of the boxes in middle"
+				},
+				{
+					"cat": "Addition",
+					"text": "added soundscapes"
+				},
+				{
+					"cat": "Tweak",
+					"text": "changed lighting"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "aim_warehouse",
+			"_sVersion": "Ver 2",
+			"_tsDateAdded": 1724711553
+		}
+	],
 	"_idRow": 536670,
 	"_sName": "aim_warehouse",
 	"_sText": "Just a simple map I made to learn about hammer<br><br>You spawn with an M4A1, Dessert Eagle and full body armor.<br><br>there are no buy zones.<br><br><a href=\"https://criticalopsgame.com/intel/maps/warehouse/\">Original <span class=\"searchedForText\"><span class=\"searchedForText SelectedElement\">Critical Ops</span></span> map</a> by <a href=\"https://steamcommunity.com/id/naigel/\">Naigel</a>, the lead level designer at Critical Force.<br>"
