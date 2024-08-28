@@ -3,47 +3,70 @@
 	"_aFiles": [
 		{
 			"_aMetadata": {
-				"_aArchiveFileTree": [
-					"MiddleBomb.bsp"
-				]
-			},
-			"_bContainsExe": false,
-			"_idRow": 1267247,
-			"_nDownloadCount": 1,
-			"_nFilesize": 849040,
-			"_sAnalysisResult": "File passed analysis",
-			"_sAnalysisResultCode": "ok",
-			"_sAnalysisState": "done",
-			"_sAvastAvResult": "clean",
-			"_sClamAvResult": "clean",
-			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1267247",
-			"_sFile": "middlebomb_01.zip",
-			"_sMd5Checksum": "81882dfbff929b7e967508797443409d",
-			"_tsDateAdded": 1724686247
-		},
-		{
-			"_aMetadata": {
 				"_aArchiveFileTree": {
-					"MiddleBomb2.0": [
-						"MiddleBomb2.vmf"
+					"MiddleBomb0.1": [
+						"MiddleBomb.vmf"
 					]
 				}
 			},
 			"_bContainsExe": false,
-			"_idRow": 1267251,
-			"_nDownloadCount": 1,
-			"_nFilesize": 20921,
+			"_idRow": 1268589,
+			"_nDownloadCount": 0,
+			"_nFilesize": 21975,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sDescription": "OG Version",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1268589",
+			"_sFile": "middlebomb01.zip",
+			"_sMd5Checksum": "14cd31b5656a6bb92b22a36695c14fad",
+			"_tsDateAdded": 1724874443
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"MiddleBomb0.2": [
+						"MiddleBomb.vmf"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 1268590,
+			"_nDownloadCount": 0,
+			"_nFilesize": 21975,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
 			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
-			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1267251",
-			"_sFile": "middlebomb02.rar",
-			"_sMd5Checksum": "9e08dd6c055650d1d47285b70bfd57b1",
-			"_tsDateAdded": 1724686884
+			"_sDescription": "Most latest Version",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1268590",
+			"_sFile": "middlebomb02.zip",
+			"_sMd5Checksum": "fbf2d94e4bb565393875a8f764a5e88e",
+			"_tsDateAdded": 1724874457
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"MiddleBomb0.2 NWeps": [
+						"MiddleBomb.vmf"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 1268591,
+			"_nDownloadCount": 0,
+			"_nFilesize": 22049,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
+			"_sDescription": "Most latest Version without the guns around",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1268591",
+			"_sFile": "middlebomb02_nweps.zip",
+			"_sMd5Checksum": "932315816a83243fa419a1b863673156",
+			"_tsDateAdded": 1724874466
 		}
 	],
 	"_aLatestUpdates": [
