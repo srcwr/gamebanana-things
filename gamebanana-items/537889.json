@@ -12,14 +12,14 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1267351,
-			"_nDownloadCount": 8,
+			"_nDownloadCount": 12,
 			"_nFilesize": 2702571,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
 			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
-			"_sDescription": "",
+			"_sDescription": "old",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1267351",
 			"_sFile": "de_stage_11c.zip",
 			"_sMd5Checksum": "0d1f6de0a559a071e0adfd017f76ead6",
@@ -36,11 +36,13 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1268646,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 4,
 			"_nFilesize": 2776499,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1268646",
 			"_sFile": "de_stage_12.zip",
@@ -52,6 +54,26 @@
 		{
 			"_aChangeLog": [
 				{
+					"cat": "Tweak",
+					"text": "Reduced CT access to Mid by moving the truck closer to the tower. This should prevent CTs from pushing Mid early into the round where Ts are entering."
+				},
+				{
+					"cat": "Addition",
+					"text": "Punched a hole through the wall on T side of cooling units."
+				},
+				{
+					"cat": "Tweak",
+					"text": "Textures on B site are changed a bit."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "de_stage 1.2",
+			"_sVersion": "1.2",
+			"_tsDateAdded": 1724881427
+		},
+		{
+			"_aChangeLog": [
+				{
 					"cat": "Bugfix",
 					"text": "Even more small fixes"
 				}
@@ -60,22 +82,6 @@
 			"_sTitle": "de_stage 1.1c",
 			"_sVersion": "1.1c",
 			"_tsDateAdded": 1724696616
-		},
-		{
-			"_aChangeLog": [
-				{
-					"cat": "Bugfix",
-					"text": "Grounded and correctly placed some props that I likely accidentally moved when making last update"
-				},
-				{
-					"cat": "Improvement",
-					"text": "Further improved texture quality"
-				}
-			],
-			"_sText": "",
-			"_sTitle": "de_stage 1.1b",
-			"_sVersion": "1.1b",
-			"_tsDateAdded": 1724688051
 		}
 	],
 	"_idRow": 537889,
