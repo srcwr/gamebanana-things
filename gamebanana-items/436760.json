@@ -11,20 +11,46 @@
 				}
 			},
 			"_bContainsExe": false,
-			"_idRow": 1035847,
-			"_nDownloadCount": 79,
-			"_nFilesize": 5717570,
+			"_idRow": 1269886,
+			"_nDownloadCount": 0,
+			"_nFilesize": 7909891,
 			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1035847",
-			"_sFile": "de_nuke_plus_66689.7z",
-			"_sMd5Checksum": "bb898946e9dc57b66b42187a4c13c5ed",
-			"_tsDateAdded": 1691849413
+			"_sDownloadUrl": "https://gamebanana.com/dl/1269886",
+			"_sFile": "de_nuke_plus_565e0.7z",
+			"_sMd5Checksum": "dbcbd57c15e14211fcedda23a139f23b",
+			"_tsDateAdded": 1725046796
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Overhaul",
+					"text": "Big boxes in bombsites have been replaced by biohazard tanks from CS:GO"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Added more lighting to B site"
+				},
+				{
+					"cat": "Improvement",
+					"text": "The window in bombsite B has become larger"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Some bug fixes and improvements"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Slight update",
+			"_sVersion": "1.3",
+			"_tsDateAdded": 1725047021
+		},
 		{
 			"_aChangeLog": [
 				{
@@ -76,50 +102,6 @@
 			"_sTitle": "Visual Update",
 			"_sVersion": "1.2",
 			"_tsDateAdded": 1691849952
-		},
-		{
-			"_aChangeLog": [
-				{
-					"cat": "Bugfix",
-					"text": "Fixed visual bugs"
-				},
-				{
-					"cat": "Improvement",
-					"text": "Improved navigation mesh"
-				},
-				{
-					"cat": "Tweak",
-					"text": "The truck is now impossible to enter in T spawn"
-				},
-				{
-					"cat": "Tweak",
-					"text": "Added crate to make it easier to get on the roof in T spawn"
-				},
-				{
-					"cat": "Tweak",
-					"text": "Added a bunch of bricks to make it easier to get on the roof in Outside"
-				},
-				{
-					"cat": "Tweak",
-					"text": "Closed old Secret entrance"
-				},
-				{
-					"cat": "Tweak",
-					"text": "Added bags of cement in the corner of the second floor of Lobby"
-				},
-				{
-					"cat": "Tweak",
-					"text": "Moved boxes in A site closer to door"
-				},
-				{
-					"cat": "Tweak",
-					"text": "Added a bunch of boxes in the Ramp"
-				}
-			],
-			"_sText": "",
-			"_sTitle": "Balance update",
-			"_sVersion": "1.1",
-			"_tsDateAdded": 1686762428
 		}
 	],
 	"_idRow": 436760,
