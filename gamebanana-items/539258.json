@@ -1,0 +1,32 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"by notfoundname.txt",
+					"lighttest.bsp",
+					"lighttest.vmf"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 1270728,
+			"_nDownloadCount": 0,
+			"_nFilesize": 4097460,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1270728",
+			"_sFile": "prop_vehicle.zip",
+			"_sMd5Checksum": "9d2315110a431429e026d5303c6d0db5",
+			"_tsDateAdded": 1725135709
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 539258,
+	"_sName": "Working prop_vehicle",
+	"_sText": "Hello.<br><br>This is an example prefab that allows prop_vehicles to work properly.<br><br>This is done by these entities:<br>- prop_vehicle itself: receives throttle/steer inputs;<br>- point_viewcontrol (+info_teleport_destination +2 logic_measure_movements): Simulates camera inside the vehicle so it feels like you actually entered it (a bit buggy, if you know a better alternative let me know);<br>- game_ui: handles player entering;<br>- logic_case: a workaround for 'Steer' input (you have to spam it 20 times in a single tick to rotate the vehicle properly).<br><br>Currently sounds do not work, but this probably can be fixed.<br><a href=\"https://www.lady-natalya.info/downloads/RallyRace_N-0.41A.zip\" target=\"_blank\" class=\"SelectedElement\"><br>Tahoma model and script downloaded from Rally Race subforum at AlliedModders.</a><br><br>Archive below contains a compressed working bsp and vmf.<br>"
+}
