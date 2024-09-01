@@ -2,14 +2,20 @@
 	"_aAlternateFileSources": null,
 	"_aFiles": [
 		{
-			"_aMetadata": [],
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"bhop_elamaa.bsp"
+				]
+			},
 			"_bContainsExe": false,
 			"_idRow": 1271501,
 			"_nDownloadCount": 0,
 			"_nFilesize": 22913446,
-			"_sAnalysisResult": "Undetermined",
-			"_sAnalysisResultCode": "undetermined",
-			"_sAnalysisState": "pending",
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1271501",
 			"_sFile": "bhop_elamaa_7f1ba.rar",
@@ -17,7 +23,19 @@
 			"_tsDateAdded": 1725212838
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Tweak",
+					"text": "Fixed the missing textures."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Missing texture update",
+			"_tsDateAdded": 1725212915
+		}
+	],
 	"_idRow": 539263,
 	"_sName": "bhop_elamaa",
 	"_sText": "hello<br><br>Got a decent little 35-50ish second map. Originally, I wanted this to be longer and more difficult. However, I am about to have my first child & I am pushing to finish my bachelors. I probably won't have a lot of time or motivation to sink into it, but I am moderately happy with the map and didn't want to sit on it.<br><br>I did not obtain any testers sadly, but if there are any major things I need to fix then reach out to me and I will do it.<br><br>Theme from/inspired from Vay<br>KZ bonus from Vay as well."
