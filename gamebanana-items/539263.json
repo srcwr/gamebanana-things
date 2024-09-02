@@ -9,11 +9,13 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1272115,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 2,
 			"_nFilesize": 22914282,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1272115",
 			"_sFile": "bhop_elamaa_a5e27.rar",
@@ -22,6 +24,17 @@
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "",
+					"text": "Extended playerclip to wall to prevent a skip in the end room."
+				}
+			],
+			"_sText": "<p>this is what happens when you don't test before release. thanks azzlackz. There's a couple of other \"skips\" but I'm keeping those in. this should hopefully be the last update. </p>",
+			"_sTitle": "End room skip fix",
+			"_tsDateAdded": 1725285870
+		},
 		{
 			"_aChangeLog": [
 				{

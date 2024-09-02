@@ -4,26 +4,115 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
-					"jb_resi_f4.bsp"
+					"jb_resi_f5.bsp"
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1271684,
-			"_nDownloadCount": 13,
-			"_nFilesize": 94672837,
+			"_idRow": 1272368,
+			"_nDownloadCount": 0,
+			"_nFilesize": 94592712,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
 			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1271684",
-			"_sFile": "jb_resi_f4.zip",
-			"_sMd5Checksum": "55f62e60d8f6e6ce7978d763cae7d95a",
-			"_tsDateAdded": 1725229752
+			"_sDownloadUrl": "https://gamebanana.com/dl/1272368",
+			"_sFile": "jb_resi_f5.zip",
+			"_sMd5Checksum": "48856b274128af171a6435189b82ee63",
+			"_tsDateAdded": 1725309804
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "Fixed a bug with Death Crate causing the CT who presed the button to die"
+				},
+				{
+					"cat": "Amendment",
+					"text": "Fixed player settings not resetting on spawn. (gravity&damagefilter)"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Fixed collision on the buttons in armoury (tools/toolsnocollisionbutton)"
+				},
+				{
+					"cat": "Tweak",
+					"text": "Lowered brightness from 125 to 100"
+				},
+				{
+					"cat": "Amendment",
+					"text": "Fixed the vent in medic which has been broken since the very first version of this map 4 months ago lmao"
+				},
+				{
+					"cat": "Tweak",
+					"text": "Move toilet teleport 1 cell up ;) (use the nade ;)"
+				},
+				{
+					"cat": "Tweak",
+					"text": "Rearranged barriers to make the secret harder"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed bug with colours/deathrun room door not being touch opens & use opens"
+				},
+				{
+					"cat": "Tweak",
+					"text": "Nerfed BARL secret ;/"
+				},
+				{
+					"cat": "Tweak",
+					"text": "Lowered medic vent hp from 1150 to 925"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added nades and fake vent to medic [Ni-ade]"
+				},
+				{
+					"cat": "Amendment",
+					"text": "Made reset triggers also reset player colour:"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Made HNS Chase & Hide and Seek set CT colour to red when inside the game"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed floating prop in Hide and Seek"
+				},
+				{
+					"cat": "Suggestion",
+					"text": "Added secret-in-secret secret to Hide and Seek :]"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fence glitched???? idk I changed the model and it works so idk"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Re-added missing physics BARL"
+				},
+				{
+					"cat": "Overhaul",
+					"text": "crate         k"
+				},
+				{
+					"cat": "Optimization",
+					"text": "made more func_details in cells area"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "fixed clipping issue with displacments when looking down at them from anywhere within the skybox"
+				}
+			],
+			"_sText": "<p><strong><span class=\"GreenColor\">Changes:</span></strong></p><img src=\"https://i.ibb.co/g7c30ks/toolsnocollisionbutton-1.png\"><p><strong><span class=\"BlueColor\">LightmappedGeneric</span></strong></p><p>{</p><p><strong><span class=\"GreenColor\">$basetexture</span></strong> \"<span class=\"OrangeColor\">tools/toolsnocollisionbutton</span>\"</p><p>\"<strong><span class=\"GreenColor\">%compilenodraw</span></strong>\" 1</p><p>\"<strong><span class=\"GreenColor\">%CompileNonSolid</span></strong>\" 1</p><p>}</p>",
+			"_sTitle": "jb_resi_f5",
+			"_sVersion": "f5",
+			"_tsDateAdded": 1725309659
+		}
+	],
 	"_idRow": 539534,
 	"_sName": "jb_resi",
 	"_sText": "<span class=\"GreenColor\"><b>jb_resi</b></span>, a Jailbreak map for <b>CS:Source</b> themed around the Resident Evil franchise.<br>there are many secrets... many many many more than you will ever find <span class=\"GreenColor SelectedElement\"><i><b>:}</b></i></span><br><br><h1>Games:</h1><br><ul><li>Drop Down <b>/</b> 4 Corners [50/50]</li><li>Surf</li><li>Low Grav Bhop <b>/</b> Low Grav Climb [50/50]</li><li>Colours (s1, s2 & s3)</li><li>Deathrun (9 traps)</li><li>Trail Blazing (s1 & s2)</li><li>Death Crate</li><li>Extreme Climb</li><li>HNS</li><li>Trikz (1 - 7 custom kz tricks)</li><li>Hunger Games (TP from box in cell area near surf)</li><li>Dodge Course (s1 & s2)</li><li>Ladder KZ (easy <b>/</b> hard [50<b>/</b>50])</li><li>Box Climb (easy<b>/</b> hard [50<b>/</b>50])</li><li>Man Cannon</li><li>Random Climb (1-5 random climbs spawn over the pond)</li><li>Bomb Toss</li><li>LJ Blocks</li><li>Lava Climb (1-3 random climbs over lava (near dodgecourse))</li></ul><br>"

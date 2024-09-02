@@ -10,7 +10,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1262723,
-			"_nDownloadCount": 41,
+			"_nDownloadCount": 42,
 			"_nFilesize": 663997,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -32,7 +32,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1272109,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 2,
 			"_nFilesize": 731276,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -54,7 +54,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1272110,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 2,
 			"_nFilesize": 773067,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -69,6 +69,26 @@
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "added more details to the map"
+				},
+				{
+					"cat": "Improvement",
+					"text": "fixed clippings on some areas"
+				},
+				{
+					"cat": "Tweak",
+					"text": "changed lighting"
+				}
+			],
+			"_sText": "<p>still needs more work</p><p>clipped some places that would previously get you stuck<br>some of the props have broken lighting<br>and the cubemaps just don't want to work</p><p>will fix...</p><p>maybe later...</p>",
+			"_sTitle": "aim_warehouse",
+			"_sVersion": "1.3",
+			"_tsDateAdded": 1725285983
+		},
 		{
 			"_aChangeLog": [
 				{
@@ -92,16 +112,9 @@
 			"_sTitle": "aim_warehouse",
 			"_sVersion": "Ver 1.2",
 			"_tsDateAdded": 1725285614
-		},
-		{
-			"_aChangeLog": [],
-			"_sText": "<p>original version of the map</p><p>needs more polishing</p><p>maybe later...</p>",
-			"_sTitle": "aim_warehouse",
-			"_sVersion": "release",
-			"_tsDateAdded": 1725283402
 		}
 	],
 	"_idRow": 536670,
 	"_sName": "aim_warehouse",
-	"_sText": "Just a simple map I made to learn about hammer<br><br>You spawn with an M4A1, Dessert Eagle and full body armor.<br><br>there are 2 grenades and one buy zone in the middle.<br><br><a href=\"https://criticalopsgame.com/intel/maps/warehouse/\" target=\"_blank\">Original <span class=\"searchedForText\"><span class=\"searchedForText SelectedElement\">Critical Ops</span></span> map</a> by <a href=\"https://steamcommunity.com/id/naigel/\" target=\"_blank\">Naigel</a>, the lead level designer at Critical Force.<br>"
+	"_sText": "Just a simple map I made to learn about hammer<br><br>I thought that a small aim map would be better to test, tweak, edit and detail<br>but it seems I underestimated the source jank.<br><br>You spawn with an M4A1, Dessert Eagle and full body armor.<br><br>there are 2 grenades and one buy zone in the middle.<br><br><a href=\"https://criticalopsgame.com/intel/maps/warehouse/\" target=\"_blank\">Original <span class=\"searchedForText\"><span class=\"searchedForText SelectedElement\">Critical Ops</span></span> map</a> by <a href=\"https://steamcommunity.com/id/naigel/\" target=\"_blank\">Naigel</a>, the lead level designer at Critical Force.<br>"
 }
