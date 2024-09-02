@@ -37,6 +37,8 @@
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1272109",
 			"_sFile": "aim_warehouse_v1_2.zip",
@@ -57,6 +59,8 @@
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1272110",
 			"_sFile": "aim_warehouse_v1_3.zip",
@@ -65,6 +69,30 @@
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "added buyzone in middle"
+				},
+				{
+					"cat": "Addition",
+					"text": "added grenades on top of the boxes in middle"
+				},
+				{
+					"cat": "Addition",
+					"text": "added soundscapes"
+				},
+				{
+					"cat": "Tweak",
+					"text": "changed lighting"
+				}
+			],
+			"_sText": "<p>better lighting but still needs work...</p><p>maybe later...</p>",
+			"_sTitle": "aim_warehouse",
+			"_sVersion": "Ver 1.2",
+			"_tsDateAdded": 1725285614
+		},
 		{
 			"_aChangeLog": [],
 			"_sText": "<p>original version of the map</p><p>needs more polishing</p><p>maybe later...</p>",
