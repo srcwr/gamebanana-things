@@ -9,7 +9,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1272368,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 6,
 			"_nFilesize": 94592712,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -105,6 +105,10 @@
 				{
 					"cat": "Bugfix",
 					"text": "fixed clipping issue with displacments when looking down at them from anywhere within the skybox"
+				},
+				{
+					"cat": "Amendment",
+					"text": "changed the collision for the metal structure in deathrun so that it blocks bullets, nades & vphysics objects."
 				}
 			],
 			"_sText": "<p><strong><span class=\"GreenColor\">Changes:</span></strong></p><img src=\"https://i.ibb.co/g7c30ks/toolsnocollisionbutton-1.png\"><p><strong><span class=\"BlueColor\">LightmappedGeneric</span></strong></p><p>{</p><p><strong><span class=\"GreenColor\">$basetexture</span></strong> \"<span class=\"OrangeColor\">tools/toolsnocollisionbutton</span>\"</p><p>\"<strong><span class=\"GreenColor\">%compilenodraw</span></strong>\" 1</p><p>\"<strong><span class=\"GreenColor\">%CompileNonSolid</span></strong>\" 1</p><p>}</p>",
