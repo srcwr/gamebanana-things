@@ -4,6 +4,54 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": {
+					"12v_dunebali": [
+						"de_dunebali.bsp",
+						"readme.txt"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 1274084,
+			"_nDownloadCount": 0,
+			"_nFilesize": 2736378,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
+			"_sDescription": "Second update  1.1",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1274084",
+			"_sFile": "12v_dunebali.rar",
+			"_sMd5Checksum": "026ad7f1eb453fcb6b0b1f3d5d09f2b9",
+			"_tsDateAdded": 1725546535
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"1.1v_dunebali": [
+						"de_dunebali.bsp",
+						"readme.txt"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 1206130,
+			"_nDownloadCount": 33,
+			"_nFilesize": 2635490,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
+			"_sDescription": "First update - 1.1",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1206130",
+			"_sFile": "11v_dunebali.zip",
+			"_sMd5Checksum": "ea345dd05ffc2c48049aa5718dfb2abc",
+			"_tsDateAdded": 1717271199
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
 					"de_dunebali": [
 						"de_dunebali.bsp",
 						"readme.txt"
@@ -12,21 +60,62 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1179042,
-			"_nDownloadCount": 21,
+			"_nDownloadCount": 37,
 			"_nFilesize": 2274216,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
 			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
-			"_sDescription": "",
+			"_sDescription": "First version",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1179042",
 			"_sFile": "de_dunebali.zip",
 			"_sMd5Checksum": "3c7caf848cbcf8638b289c86ba30fab0",
 			"_tsDateAdded": 1713693515
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Overhaul",
+					"text": "[A Site] Box was turned for the convenience of the CT"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Changes in A site and more",
+			"_sVersion": "1.2",
+			"_tsDateAdded": 1725547084
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Overhaul",
+					"text": "[B site] Repalced a large crate with 2 smaller ones (top site). Can stand on two crates. Wall cut at 45 degrees (in top site). The columns have voids in the roof and are slighty narrowed. And some changes on B site."
+				},
+				{
+					"cat": "Addition",
+					"text": "Added connector - apartments. It connects middle and the path to A site."
+				},
+				{
+					"cat": "Addition",
+					"text": "Path to A site: platform for throwing grenades has appeared. Near the stairs there is a vertical to the staircase to the apartaments."
+				},
+				{
+					"cat": "Amendment",
+					"text": "CT Base increased."
+				},
+				{
+					"cat": "Suggestion",
+					"text": "Remove/add some props and blocks."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Changes in B site and more.",
+			"_sVersion": "1.1",
+			"_tsDateAdded": 1717270813
+		}
+	],
 	"_idRow": 508595,
 	"_sName": "de_dunebali (WIP)",
 	"_sText": "de_dunebali - my first serious work and map. The map is located somewhere in Africa or India. During the development of the concept, i was inspired by the maps Dust 2 and Sandstone (from standoff 2). <br><br>"
