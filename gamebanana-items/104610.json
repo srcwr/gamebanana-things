@@ -4,30 +4,100 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": {
+					"voyage (050924)": [
+						"de_voyage_24.bsp",
+						"readme.txt"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 1273812,
+			"_nDownloadCount": 0,
+			"_nFilesize": 5802519,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
+			"_sDescription": "Latest Version",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1273812",
+			"_sFile": "voyage_050924_.rar",
+			"_sMd5Checksum": "2f5c060cbdc979d6b3d2e96120368bf2",
+			"_tsDateAdded": 1725507979
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
 					"de_voyage": [
 						"de_voyage.bsp",
 						"de_voyage.nav",
 						"readme.txt"
 					]
-				},
-				"_sMimeType": "application/x-rar"
+				}
 			},
 			"_bContainsExe": false,
-			"_idRow": 424554,
-			"_nDownloadCount": 523,
-			"_nFilesize": 884351,
+			"_idRow": 1273830,
+			"_nDownloadCount": 0,
+			"_nFilesize": 884342,
 			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
-			"_sDescription": "Latest Version.",
-			"_sDownloadUrl": "https://gamebanana.com/dl/424554",
-			"_sFile": "de_voyage.rar",
-			"_sMd5Checksum": "",
-			"_tsDateAdded": 1561891435
+			"_sDescription": "Original 2019 version",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1273830",
+			"_sFile": "de_voyage_9a08b.rar",
+			"_sMd5Checksum": "1e97b1ac3e25e6187d830f0602984e00",
+			"_tsDateAdded": 1725508367
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Adjustment",
+					"text": "Reworked lighting for better visibility"
+				},
+				{
+					"cat": "",
+					"text": "Working radar/minimap!"
+				},
+				{
+					"cat": "Addition",
+					"text": "Working cubemaps that may (addmitedly) be distracting. Feel free to comment about these!"
+				},
+				{
+					"cat": "Addition",
+					"text": "Self-made navigation meshes"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Reworked apartment's doors"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Each team now has 16 spawnpoints for a total of 32 players"
+				},
+				{
+					"cat": "Optimization",
+					"text": "Simple (but incredibly effective!) optimization. MUUUCCCH better than what I had originally done."
+				},
+				{
+					"cat": "Optimization",
+					"text": "Any object that should be a func_detail, IS a func_detail now!"
+				},
+				{
+					"cat": "Addition",
+					"text": "added woke"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "2024 Update",
+			"_sVersion": "v. y24",
+			"_tsDateAdded": 1725509145
+		}
+	],
 	"_idRow": 104610,
 	"_sName": "de_voyage",
-	"_sText": "<h3 class=\"SelectedElement\">VOYAGE BY DOXYCYCLINE</h3>----<br>voyage is a map i have been working for months and i'm proud to say it's now released!<br><br>The map is a <b>B I G </b>step up from my previous maps when it comes to graphics<br>and level design! i'm REALLY proud of this one and would recommend you give it a try!<br><br>Everything made by me.<br>Have fun!"
+	"_sText": "<b>VOYAGE BY DOXYCYCLINE</b><br><br><br>Voyage is a Counter-Strike: Source map I had made back in 2019. When releasing it, I decided to rush it's completion and I left it at a state that after all these years, I'm still unhappy with. I've been planning on making a remake of this but in the mean time, I've decided to give the original map the polish and care it deserved back then, and I hope to do the same for all future works of mine.<br><br>This new 2024 update includes a buncha goodies such as a working radar and better visibility! All the changes are documented in the changelog, so make sure to look at that!<br><br>The original 2019 version will still be available for download. I hope you enjoy this new version!<br>"
 }
