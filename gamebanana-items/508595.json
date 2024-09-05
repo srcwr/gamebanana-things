@@ -12,7 +12,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1274084,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 1,
 			"_nFilesize": 2736378,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -36,7 +36,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1206130,
-			"_nDownloadCount": 33,
+			"_nDownloadCount": 35,
 			"_nFilesize": 2635490,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -79,7 +79,11 @@
 			"_aChangeLog": [
 				{
 					"cat": "Overhaul",
-					"text": "[A Site] Box was turned for the convenience of the CT"
+					"text": "[A Site] Box was turned for the convenience of the CT. Player can stand on the wall near the stairs and the \"chicken coop\". Removed barrels. A pocket for terrorists has been added to the \"short\". [A site - main path] The arches were enlarged."
+				},
+				{
+					"cat": "Adjustment",
+					"text": "[B Site] Bricks near the top of the site were turned. [T Spawn] A partition was added near the car."
 				}
 			],
 			"_sText": "",
