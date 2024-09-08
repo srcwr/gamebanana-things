@@ -12,11 +12,13 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1275437,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 7,
 			"_nFilesize": 2884967,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1275437",
 			"_sFile": "de_stage_14.zip",
@@ -34,7 +36,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1272689,
-			"_nDownloadCount": 22,
+			"_nDownloadCount": 23,
 			"_nFilesize": 2798576,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -58,7 +60,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1268646,
-			"_nDownloadCount": 21,
+			"_nDownloadCount": 22,
 			"_nFilesize": 2776499,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -100,6 +102,34 @@
 		{
 			"_aChangeLog": [
 				{
+					"cat": "Tweak",
+					"text": "Changed ramp near T spawn to stairs"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Slightly increased height of previously made hole."
+				},
+				{
+					"cat": "Improvement",
+					"text": "More texture improvements"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Changed and added some static props"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Handles on doors on A site now non-physical and players cant climb on them, and bots cant get stuck on them."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "de_stage 1.4",
+			"_sVersion": "1.4",
+			"_tsDateAdded": 1725726698
+		},
+		{
+			"_aChangeLog": [
+				{
 					"cat": "Improvement",
 					"text": "Some decals have been improved"
 				},
@@ -132,30 +162,6 @@
 			"_sTitle": "de_stage 1.3",
 			"_sVersion": "1.3",
 			"_tsDateAdded": 1725352385
-		},
-		{
-			"_aChangeLog": [
-				{
-					"cat": "Tweak",
-					"text": "Reduced CT access to Mid by moving the truck closer to the tower. This should prevent CTs from pushing Mid early into the round where Ts are entering."
-				},
-				{
-					"cat": "Addition",
-					"text": "Punched a hole through the wall on T side of cooling units."
-				},
-				{
-					"cat": "Tweak",
-					"text": "Textures on B site are changed a bit."
-				},
-				{
-					"cat": "Improvement",
-					"text": "Increased overall light level."
-				}
-			],
-			"_sText": "",
-			"_sTitle": "de_stage 1.2",
-			"_sVersion": "1.2",
-			"_tsDateAdded": 1724881427
 		}
 	],
 	"_idRow": 537889,
