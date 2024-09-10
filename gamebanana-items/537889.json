@@ -4,24 +4,26 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": {
-					"de_stage 1.5": [
+					"de_stage 1.5b": [
 						"de_stage.bsp",
 						"de_stage.nav"
 					]
 				}
 			},
 			"_bContainsExe": false,
-			"_idRow": 1277374,
+			"_idRow": 1277430,
 			"_nDownloadCount": 0,
-			"_nFilesize": 2905756,
+			"_nFilesize": 2910397,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1277374",
-			"_sFile": "de_stage_15.zip",
-			"_sMd5Checksum": "b3d7ee528bff9b933d8dd36b21ea11ba",
-			"_tsDateAdded": 1725992030
+			"_sDownloadUrl": "https://gamebanana.com/dl/1277430",
+			"_sFile": "de_stage_15b.zip",
+			"_sMd5Checksum": "d9acb3f554c6b2a9614158acfdb1738f",
+			"_tsDateAdded": 1726000212
 		},
 		{
 			"_aMetadata": {
@@ -124,66 +126,34 @@
 		{
 			"_aChangeLog": [
 				{
-					"cat": "Tweak",
-					"text": "Changed ramp near T spawn to stairs"
-				},
-				{
-					"cat": "Improvement",
-					"text": "Slightly increased height of previously made hole."
-				},
-				{
-					"cat": "Improvement",
-					"text": "More texture improvements"
-				},
-				{
-					"cat": "Improvement",
-					"text": "Changed and added some static props"
-				},
-				{
 					"cat": "Bugfix",
-					"text": "Handles on doors on A site now non-physical and players cant climb on them, and bots cant get stuck on them."
+					"text": "Fixed some misaligned and repetitive textures made during last update."
 				}
 			],
 			"_sText": "",
-			"_sTitle": "de_stage 1.4",
-			"_sVersion": "1.4",
-			"_tsDateAdded": 1725726698
+			"_sTitle": "de_stage 1.5b",
+			"_sVersion": "1.5b",
+			"_tsDateAdded": 1726000288
 		},
 		{
 			"_aChangeLog": [
 				{
-					"cat": "Improvement",
-					"text": "Some decals have been improved"
-				},
-				{
-					"cat": "Adjustment",
-					"text": "Expanded hole made in 1.2 so that player can get through it"
+					"cat": "Overhaul",
+					"text": "Re-made entire section in front of A site. With that I also made map more balanced there."
 				},
 				{
 					"cat": "Improvement",
-					"text": "Made B site less crowded"
+					"text": "Improved textures on T spawn."
 				},
 				{
-					"cat": "Adjustment",
-					"text": "Rope ladder on A site has been moved away from main entrance"
-				},
-				{
-					"cat": "Addition",
-					"text": "New entry point to A site (Box > AC unit > window)"
-				},
-				{
-					"cat": "Addition",
-					"text": "Added small amount of props"
-				},
-				{
-					"cat": "Tweak",
-					"text": "Small changes to APCs on CT spawn"
+					"cat": "Optimization",
+					"text": "Some optimizations have been made. When I was testing this version there was a visible stutter when approaching the re-made section, so some stuff had to be sacrificed. I plan to improve on this too."
 				}
 			],
-			"_sText": "",
-			"_sTitle": "de_stage 1.3",
-			"_sVersion": "1.3",
-			"_tsDateAdded": 1725352385
+			"_sText": "<p>I plan to create a hallway for CT spawn to A site, so that CTs have more than one option when going there.</p>",
+			"_sTitle": "de_stage 1.5",
+			"_sVersion": "1.5",
+			"_tsDateAdded": 1725992359
 		}
 	],
 	"_idRow": 537889,
