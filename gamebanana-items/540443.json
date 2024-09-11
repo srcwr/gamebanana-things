@@ -13,21 +13,54 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1274569,
-			"_nDownloadCount": 91,
+			"_nDownloadCount": 96,
 			"_nFilesize": 59938560,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
 			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
-			"_sDescription": "",
+			"_sDescription": "version 1, og upload - has two missing textures and a cosmetic door bug",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1274569",
 			"_sFile": "meanstreet_ult_visionaryver.zip",
 			"_sMd5Checksum": "6314fbec149a9faa448addc0ea956c69",
 			"_tsDateAdded": 1725607167
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"meanstreet_ult_visionaryver1_1": [
+						"de_meanstreet_zultimate.bsp",
+						"de_meanstreet_zultimate.nav",
+						"readme.txt"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 1277671,
+			"_nDownloadCount": 0,
+			"_nFilesize": 59685610,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
+			"_sDescription": "version 1.1, fixes and tweaks - changelog within",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1277671",
+			"_sFile": "meanstreet_ult_visionaryver1_1.zip",
+			"_sMd5Checksum": "b99dab9716bf55a71a322d1ff9256919",
+			"_tsDateAdded": 1726039123
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [],
+			"_sText": "<p>Fixed some missing textures, added some light detailing, and added a ventilation system to the revamped club among other things.</p>",
+			"_sTitle": "Update 1.1",
+			"_sVersion": "1.1",
+			"_tsDateAdded": 1726039712
+		}
+	],
 	"_idRow": 540443,
 	"_sName": "Mean Streets",
 	"_sText": "This is a map that has been in development for at least like four years. I know not a lot of people play CS:S but this is a map I put a lot of love into on and off over the years. It combines quite a lot of elements of my past CS:S maps I've never released and I am now releasing it for people to check out and host. It is mostly compatible with bomb defusal, but I'm guessing with the use of sourcemod could be used for a bunch of other gamemodes I'm sure.<br><br>You're fighting on the reasonably busy foggy freeway connecting meane street, and green street!<br><br>Let me know what you think - the map encompasses way too much area, but it contains a library, hotel, club, gas station, warehouse, and underneath it all a connecting subway.<br><br>Very compatible with bots, they like to change up the route quite a bit too; so have fun with that!"
