@@ -2,15 +2,46 @@
 	"_aAlternateFileSources": null,
 	"_aFiles": [
 		{
-			"_aMetadata": [],
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"de_stage 1.7": [
+						"de_stage.bsp",
+						"de_stage.nav"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 1278586,
+			"_nDownloadCount": 0,
+			"_nFilesize": 3172926,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1278586",
+			"_sFile": "de_stage_17.zip",
+			"_sMd5Checksum": "1659065523e964ac54d3e991ec7ebd22",
+			"_tsDateAdded": 1726163879
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"de_stage 1.6": [
+						"de_stage.bsp",
+						"de_stage.nav"
+					]
+				}
+			},
 			"_bContainsExe": false,
 			"_idRow": 1278015,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 7,
 			"_nFilesize": 2987734,
-			"_sAnalysisResult": "Undetermined",
-			"_sAnalysisResultCode": "undetermined",
-			"_sAnalysisState": "pending",
-			"_sDescription": "",
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
+			"_sDescription": "old",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1278015",
 			"_sFile": "de_stage_16.zip",
 			"_sMd5Checksum": "69fd3c75cb3d0dcb4bb624ba7c57d013",
@@ -51,7 +82,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1275437,
-			"_nDownloadCount": 12,
+			"_nDownloadCount": 13,
 			"_nFilesize": 2884967,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -117,6 +148,26 @@
 		{
 			"_aChangeLog": [
 				{
+					"cat": "Improvement",
+					"text": "Added short tunnel from CT spawn to Mid. - Map balancing"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Increased length of walls outside of A site. - Map balancing"
+				},
+				{
+					"cat": "Optimization",
+					"text": "Mild optimizations"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "de_stage 1.6",
+			"_sVersion": "1.6",
+			"_tsDateAdded": 1726089122
+		},
+		{
+			"_aChangeLog": [
+				{
 					"cat": "Bugfix",
 					"text": "Fixed some misaligned and repetitive textures made during last update."
 				}
@@ -125,26 +176,6 @@
 			"_sTitle": "de_stage 1.5b",
 			"_sVersion": "1.5b",
 			"_tsDateAdded": 1726000288
-		},
-		{
-			"_aChangeLog": [
-				{
-					"cat": "Overhaul",
-					"text": "Re-made entire section in front of A site. With that I also made map more balanced there."
-				},
-				{
-					"cat": "Improvement",
-					"text": "Improved textures on T spawn."
-				},
-				{
-					"cat": "Optimization",
-					"text": "Some optimizations have been made. When I was testing this version there was a visible stutter when approaching the re-made section, so some stuff had to be sacrificed. I plan to improve on this too."
-				}
-			],
-			"_sText": "<p>I plan to create a hallway for CT spawn to A site, so that CTs have more than one option when going there.</p>",
-			"_sTitle": "de_stage 1.5",
-			"_sVersion": "1.5",
-			"_tsDateAdded": 1725992359
 		}
 	],
 	"_idRow": 537889,
