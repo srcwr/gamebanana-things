@@ -8,22 +8,38 @@
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1269065,
-			"_nDownloadCount": 22,
-			"_nFilesize": 19123380,
+			"_idRow": 1279017,
+			"_nDownloadCount": 0,
+			"_nFilesize": 24960402,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
 			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
 			"_sDescription": "Current Version",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1269065",
-			"_sFile": "de_hawkins_0172.zip",
-			"_sMd5Checksum": "da3f434dace95ccca992beb05f580754",
-			"_tsDateAdded": 1724937421
+			"_sDownloadUrl": "https://gamebanana.com/dl/1279017",
+			"_sFile": "de_hawkins_018.zip",
+			"_sMd5Checksum": "580bf0fbb6583aaeda8dfbcb212c3e60",
+			"_tsDateAdded": 1726221229
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "??? ???? ?????"
+				},
+				{
+					"cat": "Addition",
+					"text": "added detailing to the cover on bombsite B"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Bombsite B changes",
+			"_sVersion": "0.1.8",
+			"_tsDateAdded": 1726221409
+		},
 		{
 			"_aChangeLog": [
 				{
@@ -47,26 +63,6 @@
 			"_sTitle": "T side changes 2",
 			"_sVersion": "0.1.7",
 			"_tsDateAdded": 1724739050
-		},
-		{
-			"_aChangeLog": [
-				{
-					"cat": "Overhaul",
-					"text": "Moved around Bombsite A connections for T side"
-				},
-				{
-					"cat": "Addition",
-					"text": "Lower level A site entrance"
-				},
-				{
-					"cat": "Addition",
-					"text": "More skybox detail"
-				}
-			],
-			"_sText": "",
-			"_sTitle": "T side changes",
-			"_sVersion": "0.1.6",
-			"_tsDateAdded": 1723841448
 		}
 	],
 	"_idRow": 530157,

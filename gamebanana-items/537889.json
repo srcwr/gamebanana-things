@@ -12,11 +12,13 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1278586,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 1,
 			"_nFilesize": 3172926,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1278586",
 			"_sFile": "de_stage_17.zip",
@@ -34,7 +36,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1278015,
-			"_nDownloadCount": 7,
+			"_nDownloadCount": 8,
 			"_nFilesize": 2987734,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -74,54 +76,6 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": {
-					"de_stage 1.4": [
-						"de_stage.bsp",
-						"de_stage.nav"
-					]
-				}
-			},
-			"_bContainsExe": false,
-			"_idRow": 1275437,
-			"_nDownloadCount": 13,
-			"_nFilesize": 2884967,
-			"_sAnalysisResult": "File passed analysis",
-			"_sAnalysisResultCode": "ok",
-			"_sAnalysisState": "done",
-			"_sAvastAvResult": "clean",
-			"_sClamAvResult": "clean",
-			"_sDescription": "old",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1275437",
-			"_sFile": "de_stage_14.zip",
-			"_sMd5Checksum": "1826b795ff2bf2cd143dae7a9a188971",
-			"_tsDateAdded": 1725726308
-		},
-		{
-			"_aMetadata": {
-				"_aArchiveFileTree": {
-					"de_stage 1.3": [
-						"de_stage.bsp",
-						"de_stage.nav"
-					]
-				}
-			},
-			"_bContainsExe": false,
-			"_idRow": 1272689,
-			"_nDownloadCount": 23,
-			"_nFilesize": 2798576,
-			"_sAnalysisResult": "File passed analysis",
-			"_sAnalysisResultCode": "ok",
-			"_sAnalysisState": "done",
-			"_sAvastAvResult": "clean",
-			"_sClamAvResult": "clean",
-			"_sDescription": "old",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1272689",
-			"_sFile": "de_stage_13.zip",
-			"_sMd5Checksum": "469ce3e8418b81fb39c5d83af2774593",
-			"_tsDateAdded": 1725352054
-		},
-		{
-			"_aMetadata": {
-				"_aArchiveFileTree": {
 					"de_stage 1.1c": [
 						"de_stage.bsp",
 						"de_stage.nav"
@@ -137,7 +91,7 @@
 			"_sAnalysisState": "done",
 			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
-			"_sDescription": "old",
+			"_sDescription": "oldest",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1267351",
 			"_sFile": "de_stage_11c.zip",
 			"_sMd5Checksum": "0d1f6de0a559a071e0adfd017f76ead6",
@@ -145,6 +99,26 @@
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Added new corridor from CT spawn to upper A."
+				},
+				{
+					"cat": "Tweak",
+					"text": "Moved CT spawn further back into the tunnel. - Map balancing"
+				},
+				{
+					"cat": "Improvement",
+					"text": "More details placed into CT spawn tunnel."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "de_stage 1.7",
+			"_sVersion": "1.7",
+			"_tsDateAdded": 1726164051
+		},
 		{
 			"_aChangeLog": [
 				{
@@ -164,18 +138,6 @@
 			"_sTitle": "de_stage 1.6",
 			"_sVersion": "1.6",
 			"_tsDateAdded": 1726089122
-		},
-		{
-			"_aChangeLog": [
-				{
-					"cat": "Bugfix",
-					"text": "Fixed some misaligned and repetitive textures made during last update."
-				}
-			],
-			"_sText": "",
-			"_sTitle": "de_stage 1.5b",
-			"_sVersion": "1.5b",
-			"_tsDateAdded": 1726000288
 		}
 	],
 	"_idRow": 537889,
