@@ -91,14 +91,52 @@
 			"_sAnalysisState": "done",
 			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
-			"_sDescription": "oldest",
+			"_sDescription": "old",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1267351",
 			"_sFile": "de_stage_11c.zip",
 			"_sMd5Checksum": "0d1f6de0a559a071e0adfd017f76ead6",
 			"_tsDateAdded": 1724696527
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"de_stage": [
+						"de_stage.bsp",
+						"de_stage.nav"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 1279094,
+			"_nDownloadCount": 0,
+			"_nFilesize": 1991042,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sDescription": "first version of this map",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1279094",
+			"_sFile": "de_stage_3f03d.zip",
+			"_sMd5Checksum": "823b655b612a93b1a43de5ccfbe7122c",
+			"_tsDateAdded": 1726237993
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Improvement",
+					"text": "Detailed newly made corridor."
+				},
+				{
+					"cat": "Addition",
+					"text": "Added some new props."
+				}
+			],
+			"_sText": "<p>Will probably make less frequent updates from now on.</p>",
+			"_sTitle": "de_stage 1.7b",
+			"_sVersion": "1.7b",
+			"_tsDateAdded": 1726238153
+		},
 		{
 			"_aChangeLog": [
 				{
@@ -118,26 +156,6 @@
 			"_sTitle": "de_stage 1.7",
 			"_sVersion": "1.7",
 			"_tsDateAdded": 1726164051
-		},
-		{
-			"_aChangeLog": [
-				{
-					"cat": "Improvement",
-					"text": "Added short tunnel from CT spawn to Mid. - Map balancing"
-				},
-				{
-					"cat": "Improvement",
-					"text": "Increased length of walls outside of A site. - Map balancing"
-				},
-				{
-					"cat": "Optimization",
-					"text": "Mild optimizations"
-				}
-			],
-			"_sText": "",
-			"_sTitle": "de_stage 1.6",
-			"_sVersion": "1.6",
-			"_tsDateAdded": 1726089122
 		}
 	],
 	"_idRow": 537889,
