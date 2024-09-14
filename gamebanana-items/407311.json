@@ -2,26 +2,58 @@
 	"_aAlternateFileSources": null,
 	"_aFiles": [
 		{
-			"_aMetadata": {
-				"_aArchiveFileTree": [
-					"ze_reservoir_1a_fix.bsp"
-				]
-			},
+			"_aMetadata": [],
 			"_bContainsExe": false,
-			"_idRow": 999502,
-			"_nDownloadCount": 29,
-			"_nFilesize": 50545970,
-			"_sAnalysisResult": "File passed analysis",
-			"_sAnalysisState": "done",
-			"_sClamAvResult": "clean",
-			"_sDescription": "stable-r version",
-			"_sDownloadUrl": "https://gamebanana.com/dl/999502",
-			"_sFile": "ze_reservoir_1a_fix.zip",
-			"_sMd5Checksum": "f221807f0698625c9b0be1098d76335d",
-			"_tsDateAdded": 1686459293
+			"_idRow": 1279719,
+			"_nDownloadCount": 0,
+			"_nFilesize": 50640792,
+			"_sAnalysisResult": "Undetermined",
+			"_sAnalysisResultCode": "undetermined",
+			"_sAnalysisState": "pending",
+			"_sDescription": "stable-est version",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1279719",
+			"_sFile": "ze_reservoir_1a_fix2.zip",
+			"_sMd5Checksum": "8021c5d87ff00c4511ce3d4c56b444fb",
+			"_tsDateAdded": 1726326262
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "colour correction"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "added some blockers to give cts breathing room"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "added.... i forgot.... uh.... yeah yeah i added playerclips to the final area"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "changed pickaxe speed"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "probably added fixes from stripper I HOPE"
+				},
+				{
+					"cat": "Overhaul",
+					"text": "added new logo yea"
+				},
+				{
+					"cat": "Removal",
+					"text": "useless cubemap area"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "the update thats hopefully balanced",
+			"_sVersion": "1a fix2",
+			"_tsDateAdded": 1726326201
+		},
 		{
 			"_aChangeLog": [
 				{
