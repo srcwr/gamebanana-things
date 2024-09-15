@@ -4,24 +4,40 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
-					"ka_soccer_street_v1.bsp"
+					"ka_soccer_street_v4.bsp"
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 273249,
-			"_nDownloadCount": 484,
-			"_nFilesize": 1979301,
+			"_idRow": 1280219,
+			"_nDownloadCount": 0,
+			"_nFilesize": 14358385,
 			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/273249",
-			"_sFile": "ka_soccer_street_v1.rar",
-			"_sMd5Checksum": "",
-			"_tsDateAdded": 1495747878
+			"_sDownloadUrl": "https://gamebanana.com/dl/1280219",
+			"_sFile": "ka_soccer_street_v4.rar",
+			"_sMd5Checksum": "f964ba950701569d74664a327f25553c",
+			"_tsDateAdded": 1726364275
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "",
+					"text": "ball, ambience and some things are now better."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "",
+			"_sVersion": "v4",
+			"_tsDateAdded": 1726364343
+		}
+	],
 	"_idRow": 110487,
-	"_sName": "ka_soccer_street_v1",
-	"_sText": "<span class=\"GreenColor\">ka_soccer_street_v1</span><br><br><span class=\"RedColor\">Features:</span><br><ul><li>Gameplay adjustment after latest css updates (phys_pushscale fix)</li><li>New ball Model!</li><li>Simple for competitive games!</li><li>Environment: Street football</li><li>Mini Map Radar</li><li>complete city environment ambient</li><li>sound effect when hit the ball<br></li></ul>"
+	"_sName": "ka_soccer_street",
+	"_sText": "<span class=\"GreenColor\">ka_soccer_street_v4</span><br><br><span class=\"RedColor\">Features:</span><ul><li class=\"SelectedElement\">New ball Model!</li><li>Environment: Street football</li><li>Mini Map Radar</li><li>complete city environment ambient</li></ul>"
 }
