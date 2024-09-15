@@ -4,25 +4,40 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
-					"aim_ak-colt_arg.bsp"
-				],
-				"_sMimeType": "application/x-rar"
+					"aim_ak-colt_arg_v2.bsp"
+				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 296861,
-			"_nDownloadCount": 2355,
-			"_nFilesize": 518566,
+			"_idRow": 1281100,
+			"_nDownloadCount": 0,
+			"_nFilesize": 4926245,
 			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/296861",
-			"_sFile": "aim_ak-colt_arg.rar",
-			"_sMd5Checksum": "",
-			"_tsDateAdded": 1359014897
+			"_sDownloadUrl": "https://gamebanana.com/dl/1281100",
+			"_sFile": "aim_ak-colt_arg_v2_859cf.rar",
+			"_sMd5Checksum": "a6333d08e8293fe0901a76e619babc1a",
+			"_tsDateAdded": 1726439715
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "",
+					"text": "Reworked aim_ak-colt from my cs:go version."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "",
+			"_sVersion": "v2",
+			"_tsDateAdded": 1726440172
+		}
+	],
 	"_idRow": 105850,
 	"_sName": "aim_ak-colt_arg",
-	"_sText": "The aim of this edition, was the classic map did not have good lighting, so it was very difficult to distinguish cts in the map, because is dark and have many shadows, the improvements are simple but effective, and i share this with you.\r\n==================\r\n\r\nbetter environment and lighting\r\n==================\r\nNew grass texture\r\n==================\r\nNew Skybox\r\n=================="
+	"_sText": "<span class=\"GreenColor\">aim_ak-colt_arg_v2</span><br><br><span class=\"RedColor\">Features:</span><ul class=\"SelectedElement\"><li>ak-m4a1 in two sides with ammo</li><li>Mini Map Radar</li></ul>"
 }
