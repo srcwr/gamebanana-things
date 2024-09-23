@@ -4,24 +4,57 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
-					"kz_smoothclimb.bsp"
+					"kz_smoothclimb1.bsp"
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1285594,
+			"_idRow": 1286103,
 			"_nDownloadCount": 0,
-			"_nFilesize": 9774795,
+			"_nFilesize": 10090433,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1285594",
-			"_sFile": "kz_smoothclimb.zip",
-			"_sMd5Checksum": "8976b270f9484fd64c753d19495e6c93",
-			"_tsDateAdded": 1727039226
+			"_sDownloadUrl": "https://gamebanana.com/dl/1286103",
+			"_sFile": "kz_smoothclimb1.zip",
+			"_sMd5Checksum": "9a19bcb13bee7f76d80eb07ffa1aff06",
+			"_tsDateAdded": 1727114813
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Added Radar (packed _radar.vmt manually)"
+				},
+				{
+					"cat": "Optimization",
+					"text": "Compressed .bsp file (35mb -> 10mb)"
+				},
+				{
+					"cat": "Refactor",
+					"text": "Added an extra 25 minutes of random crane :]"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed a bug with the single bhop on S5 where it would reset you to S4 if you missed the jump."
+				},
+				{
+					"cat": "Removal",
+					"text": "Removed shameless self-plug"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Added ALL NEW! shameless self-plug (radar)"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "kz_smoothclimb1",
+			"_sVersion": "1.1",
+			"_tsDateAdded": 1727114785
+		}
+	],
 	"_idRow": 543885,
 	"_sName": "kz_smoothclimb",
 	"_sText": "<span class=\"GreenColor\">kz_smoothclimb</span>, an 8 checkpoint kz level for <span class=\"GreenColor\">cs:source</span>. Mostly featuring <span class=\"RedColor\">hard kz</span> with 1 hard surf per stage/checkpoint.<br><br><b><i>[intended for scroll]</i></b><br><br>If you find any bugs please put a command and screenshot brlow, thx<span class=\"GreenColor\"> :]</span>"
