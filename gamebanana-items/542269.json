@@ -13,7 +13,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1280232,
-			"_nDownloadCount": 23,
+			"_nDownloadCount": 29,
 			"_nFilesize": 191401981,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -25,9 +25,37 @@
 			"_sFile": "diablov5.rar",
 			"_sMd5Checksum": "b5d2085217e942700fe8647ac804d3a1",
 			"_tsDateAdded": 1726366055
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ze_diablo_v5_1_level_sounds.txt"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 1286841,
+			"_nDownloadCount": 0,
+			"_nFilesize": 1144,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1286841",
+			"_sFile": "ze_diablo_v5_1_level_sounds.rar",
+			"_sMd5Checksum": "0d9537671ce1d21aaf13dbab22943977",
+			"_tsDateAdded": 1727229944
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [],
+			"_sText": "<p>Include the level sounds .txt for the sounds/music to work.</p>",
+			"_sTitle": "Level Sounds",
+			"_tsDateAdded": 1727229982
+		}
+	],
 	"_idRow": 542269,
 	"_sName": "ze_diablo_v5_1",
 	"_sText": "Map created by HOBGOBLIN<br><br>MAP CONTAINS<br><br>-----------------------------------------------------------<br><br>8 Stages<br><br>8 Bosses<br><br>6 Human Items<br><br>3 Human Skins<br><br>3 Zombie Items<br><br>3 NPCs<br><br>ADDITIONAL INFO<br><br>-----------------------------------------------------------<br><br>This map is based on the game Diablo by Blizzard.<br><br>This is the definitive version of my previous Diablo_v4.<br><br>Thanks to all of the v4 enjoyers who kept me motivated throughout this project.<br><br>SPECIAL THANKS<br><br>-----------------------------------------------------------<br><br>Mappers:<br><br>4echo<br><br>Iszaar<br><br>Hobbitten<br><br>Pasas<br><br>Xehanort<br><br>Chris<br><br>Koen<br><br>Testers:<br><br>Midknight<br><br>Djinnz<br><br>Fius<br><br>Malaka<br><br>Vndrew<br><br>Thanks to all beta/map testers!<br><br>Thanks to NiDE for testing!<br><br>Assets from this map can used anywhere. <br><br>This map is allowed to be played anywhere. <br><br>This map is allowed to be ported anywhere.<br>"
