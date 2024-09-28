@@ -4,27 +4,56 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
-					"de_ancient_csgo_dev_01.bsp"
+					"de_ancient_csgo_dev_02.bsp"
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1287388,
-			"_nDownloadCount": 24,
-			"_nFilesize": 333181168,
+			"_idRow": 1288886,
+			"_nDownloadCount": 0,
+			"_nFilesize": 332998553,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
 			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1287388",
-			"_sFile": "de_ancient_csgo_dev_01.zip",
-			"_sMd5Checksum": "a8fbfa15227ba54a3dece83975f321f1",
-			"_tsDateAdded": 1727305959
+			"_sDownloadUrl": "https://gamebanana.com/dl/1288886",
+			"_sFile": "de_ancient_csgo_dev_02_steam.zip",
+			"_sMd5Checksum": "dff0f96b2f9cdcac8225dc8988196cec",
+			"_tsDateAdded": 1727500142
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_ancient_csgo_dev_02.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 1288888,
+			"_nDownloadCount": 2,
+			"_nFilesize": 332986674,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1288888",
+			"_sFile": "de_ancient_csgo_dev_02_clientmod.zip",
+			"_sMd5Checksum": "f3758c4b8e910966848aedfb09d76b36",
+			"_tsDateAdded": 1727500422
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [],
+			"_sText": "<p>- add clientmod support (for v34 server)<br>- radar fix</p>",
+			"_sTitle": "update 28.09",
+			"_sVersion": "2",
+			"_tsDateAdded": 1727504169
+		}
+	],
 	"_idRow": 544484,
 	"_sName": "de_ancient_csgo_dev",
-	"_sText": "Это экспериментальный (тестовый) порт оригинальной карты&nbsp;<b>de_ancient</b>&nbsp;из CS:GO для CSS с минимальными изменениями. Этим портом я хочу показать, как может выглядеть de_ancient в Source.&nbsp;<br><br>Работает только в&nbsp;<b>STEAM CSS</b>,&nbsp;<b>CLIENTMOD</b>&nbsp;(с ботами).<br>Карта тестировалась с ботами, возможны баги!&nbsp;<br>Текстуры не сжаты, вес карты 586 МБ.<br><br>Полностью переработано освещение. Незначительные изменения. Добавлено несколько ящиков (из последних обновлений в CS2).<br><br><span class=\"RedColor\">Имеющиеся проблемы:</span><br><ol><li>Некоторые модели отличаются от брашей из-за неработающих бампмап у пропов.</li><li>Старый CSS движок плохо обрабатывает освещение моделей, присутствуют затемненные модели. С отключенным вертексным освещением они выглядят еще хуже.</li><li>Саундскейпы отключены, так как оригинальные звуки сверчков вынесут вам мозг. А так же это еще +100 МБ к весу.</li><li>На карте расположены сгруппированные пропы, стреляя в близи они будут мигать (от дульной вспышки пропы мерцают). Проблема не в карте, проблема на клиенте. Это никак не исправить.</li></ol><br>В планах:<br>Сделать играбельный порт de_ancient для паблик и микс серверов.<br>Добавить поддержку CSS v34 (clientmod).<br><br><b>tg @raxzerax</b><hr>This is an experimental (test) port of the original&nbsp;<b>de_ancient</b>&nbsp;map from CS:GO with minimal changes. With this port I want to show how de_ancient can look like in Source.&nbsp;<br><br>The map was tested only with bots, bugs are possible. Textures are not compressed, the size of the map is 586 MB.<br><br>Works in STEAM CSS, CLIENTMOD (with bots).<br>Completely remake lighting, added a few boxes (CS2 changes).<br><br><span class=\"RedColor\">Available issues:</span><br><ol><li>Some models differ from brush due to props not working bumpmap.</li><li>Old CSS engine does not handle model lighting well, darkened models are present. With disabled vertex lighting they look even worse.</li><li class=\"SelectedElement\">Soundscapes are disabled as the original cricket sounds will blow your mind. It's also another +100 MB to size map.</li><li>There are grouped props on the map, shooting in proximity they will flicker (from the muzzle flash the props flicker). The problem is not in the map, the problem on the client. There is no way to fix it.</li></ol><br>Plans:<br>Make a playable port of de_ancient for public and mix servers.<br>Add support for CSS v34 (clientmod).<br><br><b>tg @raxzerax</b><br>"
+	"_sText": "Это экспериментальный (тестовый) порт оригинальной карты&nbsp;<b>de_ancient</b>&nbsp;из CS:GO для CSS с минимальными изменениями. Этим портом я хочу показать, как может выглядеть de_ancient в Source.&nbsp;<br><br>Работает только в&nbsp;<b>STEAM CSS</b>,&nbsp;<b>CLIENTMOD</b>.<br>Карта тестировалась с ботами, возможны баги!&nbsp;<br>Текстуры не сжаты, вес карты 586 МБ.<br><br>Полностью переработано освещение. Незначительные изменения. Добавлено несколько ящиков (из последних обновлений в CS2).<br><br><span class=\"RedColor\">Имеющиеся проблемы:</span><br><ol><li>Некоторые модели отличаются от брашей из-за неработающих бампмап у пропов.</li><li>Старый CSS движок плохо обрабатывает освещение моделей, присутствуют затемненные модели. С отключенным вертексным освещением они выглядят еще хуже.</li><li>Саундскейпы отключены, так как оригинальные звуки сверчков вынесут вам мозг. А так же это еще +100 МБ к весу.</li><li>На карте расположены сгруппированные пропы, стреляя в близи они будут мигать (от дульной вспышки пропы мерцают). Проблема не в карте, проблема на клиенте. Это никак не исправить.</li></ol><br>В планах:<br>Сделать играбельный порт de_ancient для паблик и микс серверов.<br>Добавить поддержку CSS v34 (clientmod).<br><br><b>tg @raxzerax</b><hr>This is an experimental (test) port of the original&nbsp;<b>de_ancient</b>&nbsp;map from CS:GO with minimal changes. With this port I want to show how de_ancient can look like in Source.&nbsp;<br><br>The map was tested only with bots, bugs are possible. Textures are not compressed, the size of the map is 586 MB.<br><br>Works in STEAM CSS, CLIENTMOD.<br>Completely remake lighting, added a few boxes (CS2 changes).<br><br><span class=\"RedColor\">Available issues:</span><br><ol><li>Some models differ from brush due to props not working bumpmap.</li><li>Old CSS engine does not handle model lighting well, darkened models are present. With disabled vertex lighting they look even worse.</li><li class=\"SelectedElement\">Soundscapes are disabled as the original cricket sounds will blow your mind. It's also another +100 MB to size map.</li><li>There are grouped props on the map, shooting in proximity they will flicker (from the muzzle flash the props flicker). The problem is not in the map, the problem on the client. There is no way to fix it.</li></ol><br>Plans:<br>Make a playable port of de_ancient for public and mix servers.<br>Add support for CSS v34 (clientmod).<br><br><b>tg @raxzerax</b><br>"
 }
