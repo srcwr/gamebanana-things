@@ -9,7 +9,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1288886,
-			"_nDownloadCount": 7,
+			"_nDownloadCount": 30,
 			"_nFilesize": 332998553,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -30,7 +30,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1288888,
-			"_nDownloadCount": 5,
+			"_nDownloadCount": 23,
 			"_nFilesize": 332986674,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -52,11 +52,13 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1288946,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 9,
 			"_nFilesize": 4674,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1288946",
 			"_sFile": "sourcemod_v34_plugin_ancient_fix.zip",
@@ -67,9 +69,16 @@
 	"_aLatestUpdates": [
 		{
 			"_aChangeLog": [],
-			"_sText": "<p>- add clientmod support (for v34 servers)<br>- radar fix</p>",
+			"_sText": "<p>added sourcemod plugin that fix muzzleflash light<br>only for v34 servers</p>",
+			"_sTitle": "sourcemod v34 plugin",
+			"_sVersion": "1.0",
+			"_tsDateAdded": 1727509872
+		},
+		{
+			"_aChangeLog": [],
+			"_sText": "<p>- added clientmod support (for v34 servers)<br>- radar fix</p>",
 			"_sTitle": "update 28.09",
-			"_sVersion": "02",
+			"_sVersion": "2.0",
 			"_tsDateAdded": 1727504169
 		}
 	],
