@@ -8,22 +8,34 @@
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1290132,
+			"_idRow": 1290151,
 			"_nDownloadCount": 0,
-			"_nFilesize": 116586404,
+			"_nFilesize": 116582633,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
 			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1290132",
-			"_sFile": "jb_resi_f7_18685.zip",
-			"_sMd5Checksum": "98cdc880fc9449af7e69bea5b2d50c43",
-			"_tsDateAdded": 1727642631
+			"_sDownloadUrl": "https://gamebanana.com/dl/1290151",
+			"_sFile": "jb_resi_f7_0b569.zip",
+			"_sMd5Checksum": "cf0ff90d72f4d0e5d3cb3472ac186347",
+			"_tsDateAdded": 1727644908
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "Fixed bug with modelindex changing from f7a to f7b."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "jb_resi",
+			"_sVersion": "f7c",
+			"_tsDateAdded": 1727644970
+		},
 		{
 			"_aChangeLog": [
 				{
@@ -35,93 +47,9 @@
 			"_sTitle": "jb_resi_f7",
 			"_sVersion": "f7b",
 			"_tsDateAdded": 1727642518
-		},
-		{
-			"_aChangeLog": [
-				{
-					"cat": "Overhaul",
-					"text": "Fully remade Lowgrav Bhop (it is now a proper game:)"
-				},
-				{
-					"cat": "Amendment",
-					"text": "Fixed pixel with incorrect texture in hill secret outside dark"
-				},
-				{
-					"cat": "Addition",
-					"text": "Added telephone ;)"
-				},
-				{
-					"cat": "Addition",
-					"text": "Added skybox to the Hunger Games"
-				},
-				{
-					"cat": "Improvement",
-					"text": "Started finalising the map with resident evil props"
-				},
-				{
-					"cat": "Addition",
-					"text": "Added lil guy ;]"
-				},
-				{
-					"cat": "Addition",
-					"text": "Added 'erbs"
-				},
-				{
-					"cat": "Addition",
-					"text": "Added the hounds"
-				},
-				{
-					"cat": "Addition",
-					"text": "Added Boss Fight Mini-game [By Maradox]"
-				},
-				{
-					"cat": "Adjustment",
-					"text": "Changed weapon selection panels in armoury back to original texture [no glow]"
-				},
-				{
-					"cat": "Adjustment",
-					"text": "Changed all vent's to a different texture [more fitting]"
-				},
-				{
-					"cat": "Suggestion",
-					"text": "Removed Echo Fully [Room_Type 0 on server & client]"
-				},
-				{
-					"cat": "Improvement",
-					"text": "Added Music to boss fight"
-				},
-				{
-					"cat": "Bugfix",
-					"text": "Fixed players being able to get stuck in the walls of 4 corners"
-				},
-				{
-					"cat": "Tweak",
-					"text": "Changed vent TP locations"
-				},
-				{
-					"cat": "",
-					"text": "Lowered spawns to 1 per cell (spawns will now be more even)"
-				},
-				{
-					"cat": "Addition",
-					"text": "Added hard drive"
-				},
-				{
-					"cat": "Tweak",
-					"text": "Added random spawns for hard drive"
-				},
-				{
-					"cat": "Addition",
-					"text": "Added all player hunger games just catch the nonce working at umbrella"
-				}
-			],
-			"_sText": "",
-			"_sTitle": "jb_resi",
-			"_sVersion": "f7",
-			"_tsDateAdded": 1727622573
 		}
 	],
 	"_idRow": 539534,
 	"_sName": "jb_resi",
-	"_sText": "<span class=\"GreenColor\"><b>jb_resi</b></span>, a Jailbreak map for <b>CS:Source</b> themed around the Resident Evil franchise.<br>there are many secrets... many many many more than you will ever find <span class=\"GreenColor\"><i><b>:}</b></i></span><br><br><h1>Games:</h1><br><ul><li>Drop Down <b>/</b> 4 Corners [50/50]</li><li class=\"SelectedElement\">Surf</li><li class=\"SelectedElement\">Boss Fight</li><li>Low Grav Bhop <b>/</b> Low Grav Climb [50/50]</li><li>Colours (s1, s2 &amp; s3)</li><li>Deathrun (9 traps)</li><li>Trail Blazing (s1 &amp; s2)</li><li>Death Crate</li><li>Extreme Climb</li><li>HNS</li><li>Trikz (1 - 7 custom kz tricks)</li><li>Hunger Games (TP from box in cell area near surf)</li><li>Dodge Course (s1 &amp; s2)</li><li>Ladder KZ (easy <b>/</b> hard [50<b>/</b>50])</li><li>Box Climb (easy<b>/</b> hard [50<b>/</b>50])</li><li>Man Cannon</li><li>Random Climb (1-5 random climbs spawn over the pond)</li><li>Bomb Toss</li><li>LJ Blocks</li><li>Lava Climb (1-3 random climbs over lava (near dodgecourse))</li></ul><br>"
+	"_sText": "<span class=\"GreenColor\"><b>jb_resi</b></span>, a Jailbreak map for <b>CS:Source</b> themed around the Resident Evil franchise.<br>there are many secrets... many many many more than you will ever find <span class=\"GreenColor\"><i><b>:}</b></i></span><br><br><h1>Games:</h1><br><ul><li>Drop Down <b>/</b> 4 Corners [50/50]</li><li class=\"SelectedElement\">Surf</li><li class=\"SelectedElement\">Boss Fight</li><li>Low Grav Bhop <b>/</b> Low Grav Climb [50/50]</li><li>Colours (s1, s2 & s3)</li><li>Deathrun (9 traps)</li><li>Trail Blazing (s1 & s2)</li><li>Death Crate</li><li>Extreme Climb</li><li>HNS</li><li>Trikz (1 - 7 custom kz tricks)</li><li>Hunger Games (TP from box in cell area near surf)</li><li>Dodge Course (s1 & s2)</li><li>Ladder KZ (easy <b>/</b> hard [50<b>/</b>50])</li><li>Box Climb (easy<b>/</b> hard [50<b>/</b>50])</li><li>Man Cannon</li><li>Random Climb (1-5 random climbs spawn over the pond)</li><li>Bomb Toss</li><li>LJ Blocks</li><li>Lava Climb (1-3 random climbs over lava (near dodgecourse))</li></ul><br>"
 }
