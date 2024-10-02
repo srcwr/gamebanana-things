@@ -15,6 +15,8 @@
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1291698",
 			"_sFile": "coop_sp_mtn_dew_facility.rar",
@@ -24,6 +26,6 @@
 	],
 	"_aLatestUpdates": [],
 	"_idRow": 546013,
-	"_sName": "CO-OP/Single player MTN Dew Facility",
-	"_sText": "How to play: Set max players to 65. Make bots to join Terrorist side. Enable all weapons for the bots. Set number of CPU players to 59. Type mp_limitteams 99 in console (it should automatically be enabled). There is no time limit. Don't join to terrorist side. Set bot difficulty to easy or normal. There is also hard and BS mode sign near spawn, if you press one of them, terrorists will become harder to kill.<br><br>Story: Terrorist are manufacturing soda drinks that have cocaine in it. CTs Must must take down the evil facility by destroying the control panels and then escape.<br><br><br>"
+	"_sName": "CO-OP/Single Player: MTN Dew Facility",
+	"_sText": "How to play: Set max players to 65. Make bots to join Terrorist side (u can play with CT bots aswell but they are a bit slow). Enable all weapons for the bots. Set number of CPU players to 59 or 65. Type mp_limitteams 99 in console (it should automatically be enabled). There is no time limit. Don't join to terrorist side. Set bot difficulty to easy or normal. There is also hard and BS mode sign near spawn, if you press one of them, terrorists will become harder to kill.<br><br>Story: Terrorist are manufacturing soda drinks that have cocaine in it. CTs Must must take down the evil facility by destroying the control panels and then escape.<br><br>"
 }
