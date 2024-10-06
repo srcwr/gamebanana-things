@@ -2,14 +2,25 @@
 	"_aAlternateFileSources": null,
 	"_aFiles": [
 		{
-			"_aMetadata": [],
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"range37detail.bsp",
+					"range37detail.log",
+					"range37detail.nav",
+					"range37detail.prt",
+					"range37detail.vmf",
+					"range37detail.vmx"
+				]
+			},
 			"_bContainsExe": false,
 			"_idRow": 1294342,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 4,
 			"_nFilesize": 390160,
-			"_sAnalysisResult": "Undetermined",
-			"_sAnalysisResultCode": "undetermined",
-			"_sAnalysisState": "pending",
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1294342",
 			"_sFile": "range37detail_63c00.rar",
