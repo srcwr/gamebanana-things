@@ -2,19 +2,28 @@
 	"_aAlternateFileSources": null,
 	"_aFiles": [
 		{
-			"_aMetadata": [],
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "de_ancient_csgo_dev_04.bsp",
+					"cm": [
+						"de_ancient_csgo_dev_04.bsp"
+					]
+				}
+			},
 			"_bContainsExe": false,
-			"_idRow": 1295615,
+			"_idRow": 1295663,
 			"_nDownloadCount": 0,
-			"_nFilesize": 150,
-			"_sAnalysisResult": "Undetermined",
-			"_sAnalysisResultCode": "undetermined",
-			"_sAnalysisState": "pending",
+			"_nFilesize": 645108893,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1295615",
-			"_sFile": "1_17a5d.zip",
-			"_sMd5Checksum": "1cf68acba3a37e352ea43c901ac2891a",
-			"_tsDateAdded": 1728406631
+			"_sDownloadUrl": "https://gamebanana.com/dl/1295663",
+			"_sFile": "de_ancient_csgo_dev_04.zip",
+			"_sMd5Checksum": "4bb0de877be2a1108163646f5aa470c1",
+			"_tsDateAdded": 1728413761
 		}
 	],
 	"_aLatestUpdates": [
