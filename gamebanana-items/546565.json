@@ -13,7 +13,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1294636,
-			"_nDownloadCount": 3,
+			"_nDownloadCount": 4,
 			"_nFilesize": 385447,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -25,10 +25,34 @@
 			"_sFile": "range37detail_c6dda.rar",
 			"_sMd5Checksum": "ca037a24f2079ca23bb363848b0ae10a",
 			"_tsDateAdded": 1728256790
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"range37detail-custom.bsp",
+					"range37detail-custom.log",
+					"range37detail-custom.nav",
+					"range37detail-custom.prt",
+					"range37detail-custom.vmf",
+					"range37detail-custom.vmx"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 1295761,
+			"_nDownloadCount": 0,
+			"_nFilesize": 574090,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1295761",
+			"_sFile": "range37detail-custom.rar",
+			"_sMd5Checksum": "c07a9fd955664f3f2073386279623c0b",
+			"_tsDateAdded": 1728428956
 		}
 	],
 	"_aLatestUpdates": [],
 	"_idRow": 546565,
 	"_sName": "range37detail",
-	"_sText": "this map is terrible but the idea is cool. basically training CQB area. i dont like it and not interested in working on it anymore but dont want to waste it. i put all the hammer files in the rar if you want to play with it.<br><br>updated by request: added hdr lighting, fixed some meshes added more screenshots<br><br>updated again by request: fixed spawn issue, added props<br>"
+	"_sText": "Edit: I've got users loving this map (idk why) but thats cool. So I updated it with their recommendations. I'll say it makes it better, probably good fun with people instead of bots. I'm keeping the latest update as downloadable and also the user's custom requests with -custom.rar extension. Let me know if you have issues or have requests.<br><br>OG Post: this map is terrible but the idea is cool. basically training CQB area. i dont like it and not interested in working on it anymore but dont want to waste it. i put all the hammer files in the rar if you want to play with it.<br><br>updated by request: added hdr lighting, fixed some meshes added more screenshots, fixed spawn issue, added props<br>"
 }
