@@ -9,7 +9,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1298293,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 3,
 			"_nFilesize": 118969784,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -24,6 +24,30 @@
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "Added more than 13 spawns, issue with server plugins that usually runs sm_ublock and allows multi-use of spawn points"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added signs to each game to help people learn the map quicker"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added Jin Awper"
+				},
+				{
+					"cat": "Tweak",
+					"text": "Lowered chance of hard drive spawn"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "jb_resi_f8",
+			"_sVersion": "f8",
+			"_tsDateAdded": 1728778904
+		},
 		{
 			"_aChangeLog": [
 				{
@@ -87,18 +111,6 @@
 			"_sTitle": "jb_resi",
 			"_sVersion": "f7d",
 			"_tsDateAdded": 1728671563
-		},
-		{
-			"_aChangeLog": [
-				{
-					"cat": "Bugfix",
-					"text": "Fixed bug with modelindex changing from f7a to f7b."
-				}
-			],
-			"_sText": "",
-			"_sTitle": "jb_resi",
-			"_sVersion": "f7c",
-			"_tsDateAdded": 1727644970
 		}
 	],
 	"_idRow": 539534,
