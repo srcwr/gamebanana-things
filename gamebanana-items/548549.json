@@ -2,14 +2,33 @@
 	"_aAlternateFileSources": null,
 	"_aFiles": [
 		{
-			"_aMetadata": [],
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "zm_fear_v1fix.bsp",
+					"1": "zm_fear_v2.bsp",
+					"Screenshots": [
+						"1.png",
+						"10.png",
+						"2.png",
+						"3.png",
+						"4.png",
+						"5.png",
+						"6.png",
+						"7.png",
+						"8.png",
+						"9.png"
+					]
+				}
+			},
 			"_bContainsExe": false,
 			"_idRow": 1299233,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 13,
 			"_nFilesize": 43582965,
-			"_sAnalysisResult": "Undetermined",
-			"_sAnalysisResultCode": "undetermined",
-			"_sAnalysisState": "pending",
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1299233",
 			"_sFile": "zm_fear_0cd46.rar",
