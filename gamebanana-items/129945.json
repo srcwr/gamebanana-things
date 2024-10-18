@@ -9,11 +9,13 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1300979,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 8,
 			"_nFilesize": 60232312,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1300979",
 			"_sFile": "jb_sunshine_v4.zip",
@@ -25,8 +27,44 @@
 		{
 			"_aChangeLog": [
 				{
-					"cat": "",
-					"text": "Fruit Ninja shouldn"
+					"cat": "Bugfix",
+					"text": "Fruit Ninja shouldn't bug out anymore hopefully."
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Knife/Deagle Arena should hopefully also be fixed, side entrances removed."
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Model scale reset on respawn is now fixed (thanks people at Centralka)."
+				},
+				{
+					"cat": "Tweak",
+					"text": "Lighting and audio tweaks."
+				},
+				{
+					"cat": "Improvement",
+					"text": "More detail Underground."
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Death Crate turns off when all players walk away."
+				},
+				{
+					"cat": "Amendment",
+					"text": "2 songs swapped in Disco."
+				},
+				{
+					"cat": "Amendment",
+					"text": "Ladder to Underground replaced with Elevator."
+				},
+				{
+					"cat": "Overhaul",
+					"text": "Course is gone, now Deathrun is in its place."
+				},
+				{
+					"cat": "Addition",
+					"text": "Connect 4."
 				}
 			],
 			"_sText": "",
