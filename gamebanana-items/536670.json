@@ -9,19 +9,41 @@
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1262723,
-			"_nDownloadCount": 60,
-			"_nFilesize": 663997,
+			"_idRow": 1302582,
+			"_nDownloadCount": 0,
+			"_nFilesize": 817620,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
 			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
-			"_sDescription": "release version",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1262723",
-			"_sFile": "aim_warehouse.zip",
-			"_sMd5Checksum": "7b7acac5f0adf1af17932189d5b80c86",
-			"_tsDateAdded": 1724133708
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1302582",
+			"_sFile": "aim_warehouse_v1_4.zip",
+			"_sMd5Checksum": "73bf80fc07672b1d1cea6c3fe33244c0",
+			"_tsDateAdded": 1729302661
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"Read Me.txt",
+					"aim_warehouse.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 1272110,
+			"_nDownloadCount": 54,
+			"_nFilesize": 773067,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1272110",
+			"_sFile": "aim_warehouse_v1_3.zip",
+			"_sMd5Checksum": "1e1604340abdecd7269cb3cbce7729cc",
+			"_tsDateAdded": 1725285440
 		},
 		{
 			"_aMetadata": {
@@ -32,7 +54,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1272109,
-			"_nDownloadCount": 4,
+			"_nDownloadCount": 13,
 			"_nFilesize": 731276,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -53,22 +75,38 @@
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1272110,
-			"_nDownloadCount": 23,
-			"_nFilesize": 773067,
+			"_idRow": 1262723,
+			"_nDownloadCount": 76,
+			"_nFilesize": 663997,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
 			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
-			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1272110",
-			"_sFile": "aim_warehouse_v1_3.zip",
-			"_sMd5Checksum": "1e1604340abdecd7269cb3cbce7729cc",
-			"_tsDateAdded": 1725285440
+			"_sDescription": "release version",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1262723",
+			"_sFile": "aim_warehouse.zip",
+			"_sMd5Checksum": "7b7acac5f0adf1af17932189d5b80c86",
+			"_tsDateAdded": 1724133708
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Amendment",
+					"text": "Fixed Clipping on Stairs"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added Cubemaps"
+				}
+			],
+			"_sText": "<p>After months of procrastination I finally figured out how to add cubemaps<br>also the rails on both stairs would get you stuck for no reason</p><p>I moved some props around to \"fix\" the shadows<br>it only worked on some props for whatever reason</p><p>still need to figure out how to make the radar...<br>maybe later...</p>",
+			"_sTitle": "aim_warehouse",
+			"_sVersion": "1.4",
+			"_tsDateAdded": 1729302588
+		},
 		{
 			"_aChangeLog": [
 				{
@@ -88,30 +126,6 @@
 			"_sTitle": "aim_warehouse",
 			"_sVersion": "1.3",
 			"_tsDateAdded": 1725285983
-		},
-		{
-			"_aChangeLog": [
-				{
-					"cat": "Addition",
-					"text": "added buyzone in middle"
-				},
-				{
-					"cat": "Addition",
-					"text": "added grenades on top of the boxes in middle"
-				},
-				{
-					"cat": "Addition",
-					"text": "added soundscapes"
-				},
-				{
-					"cat": "Tweak",
-					"text": "changed lighting"
-				}
-			],
-			"_sText": "<p>better lighting but still needs work...</p><p>maybe later...</p>",
-			"_sTitle": "aim_warehouse",
-			"_sVersion": "Ver 1.2",
-			"_tsDateAdded": 1725285614
 		}
 	],
 	"_idRow": 536670,
