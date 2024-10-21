@@ -4,26 +4,48 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
-					"zm_mini_polygon_v4.bsp"
-				],
-				"_sMimeType": "application/x-7z-compressed"
+					"zm_mini_polygon_final_cr.bsp"
+				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 433057,
-			"_nDownloadCount": 347,
-			"_nFilesize": 30492889,
+			"_idRow": 1303728,
+			"_nDownloadCount": 10,
+			"_nFilesize": 28969785,
 			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/433057",
-			"_sFile": "zm_mini_polygon_v4.7z",
-			"_sMd5Checksum": "",
-			"_tsDateAdded": 1569356534
+			"_sDownloadUrl": "https://gamebanana.com/dl/1303728",
+			"_sFile": "zm_mini_polygon_final_cr.rar",
+			"_sMd5Checksum": "d8de4fb8dba8c9b7002c185caa13f1a2",
+			"_tsDateAdded": 1729427789
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "",
+					"text": "Made more realistic."
+				},
+				{
+					"cat": "",
+					"text": "Improved optimization."
+				},
+				{
+					"cat": "",
+					"text": "Changed some barricades."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "",
+			"_sVersion": "final",
+			"_tsDateAdded": 1729427897
+		}
+	],
 	"_idRow": 132388,
-	"_sName": "zm_mini_polygon_v4",
+	"_sName": "zm_mini_polygon_final",
 	"_sText": "mini zombie map"
 }
