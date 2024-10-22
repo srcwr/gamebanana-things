@@ -38,7 +38,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1304969,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 7,
 			"_nFilesize": 5033415,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -52,7 +52,15 @@
 			"_tsDateAdded": 1729572923
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [],
+			"_sText": "<p>I've decided to learn some new things with the source engine, I now know how to do arches and skyboxes, which I've added in my new counter strike source map :)</p><p>-Added Skybox</p><p>-Added Arch underneath toggle-able lamp hallway</p><p>-Changed a few textures around</p><p>-Added More Fog and Props</p><p>-Added More cover in the main hallway</p><p>-Added a balcony in the chandelier room</p><p>-Added Breakable Wood in the hostage area</p><p>-Removed 2 hostages and replaced it with 1 hostage at T spawn</p><p>-Added Door to T spawn</p><p>-Added Breakable Platform to stairs near T spawn</p><p>-Added 1 more lightswitch :)</p><p>-Made the stairway wider</p><p>-Made stairway door spawn open (because bots are stupid)<br></p><p>-Added a caged off stairway near CT spawn, next to purple light</p><p>-Added more lore to lights (some still light up for no reason, ill fix that later maybe)</p>",
+			"_sTitle": "The Skybox update",
+			"_sVersion": "v1.1",
+			"_tsDateAdded": 1729573168
+		}
+	],
 	"_idRow": 549707,
 	"_sName": "cs_lights_out",
 	"_sText": "STORY: Choppers have arrived and there right on top of us... guess they already found us. Alright men of arms, grab your weapons and defend the apartment! Leave 2 of them near the vending machines, and the other 2 in the basement. Remember, we can turn some lights off if we have to."
