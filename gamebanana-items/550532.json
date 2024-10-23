@@ -2,14 +2,22 @@
 	"_aAlternateFileSources": null,
 	"_aFiles": [
 		{
-			"_aMetadata": [],
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"cs_fastfire.bsp",
+					"cs_fastfirev2.bsp",
+					"cs_fastfirev3.bsp"
+				]
+			},
 			"_bContainsExe": false,
 			"_idRow": 1305799,
 			"_nDownloadCount": 0,
 			"_nFilesize": 571676,
-			"_sAnalysisResult": "Undetermined",
-			"_sAnalysisResultCode": "undetermined",
-			"_sAnalysisState": "pending",
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1305799",
 			"_sFile": "csfastfire_alpha.7z",
@@ -17,14 +25,23 @@
 			"_tsDateAdded": 1729699304
 		},
 		{
-			"_aMetadata": [],
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"cs_fastfireV4FINAL.bsp",
+					"cs_fastfireV5(FINAL).bsp",
+					"cs_fastfirev4-BETA.bsp",
+					"cs_fastfirev5beta.bsp"
+				]
+			},
 			"_bContainsExe": false,
 			"_idRow": 1305801,
 			"_nDownloadCount": 0,
 			"_nFilesize": 5924522,
-			"_sAnalysisResult": "Undetermined",
-			"_sAnalysisResultCode": "undetermined",
-			"_sAnalysisState": "pending",
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1305801",
 			"_sFile": "csfastfire_beta_final.7z",
