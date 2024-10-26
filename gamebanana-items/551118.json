@@ -2,14 +2,20 @@
 	"_aAlternateFileSources": null,
 	"_aFiles": [
 		{
-			"_aMetadata": [],
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"bhop_strfz01.bsp"
+				]
+			},
 			"_bContainsExe": false,
 			"_idRow": 1307491,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 3,
 			"_nFilesize": 915308,
-			"_sAnalysisResult": "Undetermined",
-			"_sAnalysisResultCode": "undetermined",
-			"_sAnalysisState": "pending",
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1307491",
 			"_sFile": "bhop_strfz01.rar",
