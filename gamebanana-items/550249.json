@@ -10,7 +10,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1304902,
-			"_nDownloadCount": 36,
+			"_nDownloadCount": 37,
 			"_nFilesize": 938525,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -32,7 +32,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1307522,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 4,
 			"_nFilesize": 1624214,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -46,7 +46,48 @@
 			"_tsDateAdded": 1729913680
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Improvement",
+					"text": "Improved Map Design similar to cs_italy (Bottom image, still working on it)"
+				},
+				{
+					"cat": "Addition",
+					"text": "Add little details"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Map Design on Progress",
+			"_sVersion": "v2.1",
+			"_tsDateAdded": 1729945718
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Add new spawn both Ct and T"
+				},
+				{
+					"cat": "Removal",
+					"text": "Remove Route (For timing Choke Points)"
+				},
+				{
+					"cat": "Addition",
+					"text": "Add new Route for A site and B site"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Adjusted spaces (Minimal)"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Changes",
+			"_sVersion": "v2.0",
+			"_tsDateAdded": 1729914057
+		}
+	],
 	"_idRow": 550249,
 	"_sName": "De_ashen",
 	"_sText": "This map i made called de_ashen is inspired form my old map de_corna(cancelled map), Ive been working this map about 3 days now and planning to release it so you can play and give feedback about cuz i want to know the opinion about my map and further imrove it by any suggestion.<br><br>"
