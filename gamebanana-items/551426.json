@@ -1,0 +1,53 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"gg_pwnpit.bsp",
+					"gg_pwnpit.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 1308428,
+			"_nDownloadCount": 0,
+			"_nFilesize": 10680503,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1308428",
+			"_sFile": "gg_pwnpit.zip",
+			"_sMd5Checksum": "8a663071798c1de00fdd426fb5714a12",
+			"_tsDateAdded": 1730006008
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"gg_pwnpit_cheap.bsp",
+					"gg_pwnpit_cheap.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 1308427,
+			"_nDownloadCount": 0,
+			"_nFilesize": 6785550,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1308427",
+			"_sFile": "gg_pwnpit_cheap.zip",
+			"_sMd5Checksum": "5fb30ec112f56fa80ccda974a66851da",
+			"_tsDateAdded": 1730005993
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 551426,
+	"_sName": "gg_pwnpit",
+	"_sText": "My 2nd publicly submitted map! Supports maximum 66 players &amp; includes custom bot navigation meshes.<br><br>A medium-sized Gun Game map. Features above and below ground action, as well as scalable towers for bold players seeking to maximize sight whilst risking personal safety. There's also a few out-of-the-way camping spots for those who've reached the game-winning knife kill phase looking to ambush.<br><br>This map comes in two versions:<br><b><i>gg_pwnpit</i></b><br>&amp;<br><b><i>gg_pwnpit_cheap</i></b><br><br><b><i>gg_pwnpit</i></b> features more scenery and enhanced bot support, but has a larger file size (~21mb total)<br><i><b>gg_pwnpit_cheap</b></i> has a large chunk of scenery cut out and slightly less bot support, but has a smaller file size (~13mb total)<br>I decided to do this because I understand many Gun Game maps feature smaller file sizes as to reduce download time as much as possible. The <i>cheap </i>version is for server hosts who especially value download times.<br><br>I also left the upper balconies accessible via jetpack or low gravity, just for fun. It probably breaks the flow of the map, but who cares lol. I don't think there's a way to get to it beyond these two methods, so vanilla gameplay enjoyers need not worry.<br>"
+}
