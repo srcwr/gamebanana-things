@@ -64,11 +64,13 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1310034,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 1,
 			"_nFilesize": 592575,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1310034",
 			"_sFile": "beta_3_0a9a2.zip",
@@ -77,6 +79,22 @@
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Added props in CT SPAWN"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added A boat behind the T spawn"
+				}
+			],
+			"_sText": "<p>I think I added more but I dont remember tbh</p>",
+			"_sTitle": "Beta 3",
+			"_sVersion": "3",
+			"_tsDateAdded": 1730207543
+		},
 		{
 			"_aChangeLog": [
 				{
@@ -92,34 +110,6 @@
 			"_sTitle": "Beta 2 (Fixed)",
 			"_sVersion": "F2",
 			"_tsDateAdded": 1730196593
-		},
-		{
-			"_aChangeLog": [
-				{
-					"cat": "Addition",
-					"text": "Added A Snowy Version"
-				},
-				{
-					"cat": "Addition",
-					"text": "Added More Cover"
-				},
-				{
-					"cat": "Addition",
-					"text": "1 Way Sniper Windows"
-				},
-				{
-					"cat": "Addition",
-					"text": "Added A 2nd Path"
-				},
-				{
-					"cat": "Tweak",
-					"text": "Changed Tower Textures To Metal"
-				}
-			],
-			"_sText": "",
-			"_sTitle": "Beta 2 + Snowy Version",
-			"_sVersion": "2",
-			"_tsDateAdded": 1730118453
 		}
 	],
 	"_idRow": 551596,
