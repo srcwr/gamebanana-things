@@ -13,7 +13,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1308897,
-			"_nDownloadCount": 3,
+			"_nDownloadCount": 5,
 			"_nFilesize": 84954,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -31,26 +31,24 @@
 				"_aArchiveFileTree": {
 					"cstrike": {
 						"maps": [
-							"de_RunToPlant_b2.bsp",
-							"de_RunToPlant_b2_snowy.bsp"
+							"de_RunToPlant_b2_fixed.bsp",
+							"de_RunToPlant_b2_snowy_fixed.bsp"
 						]
 					}
 				}
 			},
 			"_bContainsExe": false,
-			"_idRow": 1309342,
-			"_nDownloadCount": 2,
-			"_nFilesize": 241108,
+			"_idRow": 1309987,
+			"_nDownloadCount": 0,
+			"_nFilesize": 209358,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
-			"_sAvastAvResult": "clean",
-			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1309342",
-			"_sFile": "beta_2_snowy_version.zip",
-			"_sMd5Checksum": "9cc53c740f8bab2084f6e155e1db3c5a",
-			"_tsDateAdded": 1730118140
+			"_sDownloadUrl": "https://gamebanana.com/dl/1309987",
+			"_sFile": "fixed_b2.zip",
+			"_sMd5Checksum": "944bc58e25a2293022849b89df1d803f",
+			"_tsDateAdded": 1730196463
 		}
 	],
 	"_aLatestUpdates": [
