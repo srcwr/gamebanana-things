@@ -39,19 +39,60 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1309987,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 1,
 			"_nFilesize": 209358,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1309987",
 			"_sFile": "fixed_b2.zip",
 			"_sMd5Checksum": "944bc58e25a2293022849b89df1d803f",
 			"_tsDateAdded": 1730196463
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrike": {
+						"maps": [
+							"de_RunToPlant_b3.bsp"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 1310034,
+			"_nDownloadCount": 0,
+			"_nFilesize": 592575,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1310034",
+			"_sFile": "beta_3_0a9a2.zip",
+			"_sMd5Checksum": "5a67bf817128c77d1bc07e24e41ab01e",
+			"_tsDateAdded": 1730207368
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "Fixed the god damn CT SPAWN"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Changed the scout to the AWP"
+				}
+			],
+			"_sText": "<p>F2 stands for FIX2</p>",
+			"_sTitle": "Beta 2 (Fixed)",
+			"_sVersion": "F2",
+			"_tsDateAdded": 1730196593
+		},
 		{
 			"_aChangeLog": [
 				{

@@ -50,6 +50,22 @@
 		{
 			"_aChangeLog": [
 				{
+					"cat": "Addition",
+					"text": "Added background houses and stuffs"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Adjusted Sun angle, brightness and color"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Ct spawn design finish",
+			"_sVersion": "v2.2",
+			"_tsDateAdded": 1730199848
+		},
+		{
+			"_aChangeLog": [
+				{
 					"cat": "Improvement",
 					"text": "Improved Map Design similar to cs_italy (Bottom image, still working on it)"
 				},
@@ -62,30 +78,6 @@
 			"_sTitle": "Map Design on Progress",
 			"_sVersion": "v2.1",
 			"_tsDateAdded": 1729945718
-		},
-		{
-			"_aChangeLog": [
-				{
-					"cat": "Addition",
-					"text": "Add new spawn both Ct and T"
-				},
-				{
-					"cat": "Removal",
-					"text": "Remove Route (For timing Choke Points)"
-				},
-				{
-					"cat": "Addition",
-					"text": "Add new Route for A site and B site"
-				},
-				{
-					"cat": "Adjustment",
-					"text": "Adjusted spaces (Minimal)"
-				}
-			],
-			"_sText": "",
-			"_sTitle": "Changes",
-			"_sVersion": "v2.0",
-			"_tsDateAdded": 1729914057
 		}
 	],
 	"_idRow": 550249,
