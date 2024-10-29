@@ -4,28 +4,39 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
-					"blood-dev-minidust2.bsp",
-					"blood-dev-minidust2.nav"
+					"de_minidust2-0.bsp",
+					"de_minidust2-0.log",
+					"de_minidust2-0.nav",
+					"de_minidust2-0.prt",
+					"de_minidust2-0.vmf"
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1284940,
-			"_nDownloadCount": 7,
-			"_nFilesize": 290403,
+			"_idRow": 1309783,
+			"_nDownloadCount": 0,
+			"_nFilesize": 825653,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
 			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1284940",
-			"_sFile": "blood-dev-minidust2.rar",
-			"_sMd5Checksum": "de8f2e6993f32ce6a47d929b8223c5d8",
-			"_tsDateAdded": 1726966013
+			"_sDownloadUrl": "https://gamebanana.com/dl/1309783",
+			"_sFile": "de_minidust2-0.rar",
+			"_sMd5Checksum": "d2a31dafade9ac8c095f57ae38e08863",
+			"_tsDateAdded": 1730165739
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [],
+			"_sText": "<p>made it so it doesnt look like crap  ish</p>",
+			"_sTitle": "de_minidust2-0",
+			"_sVersion": "2",
+			"_tsDateAdded": 1730165876
+		}
+	],
 	"_idRow": 543658,
 	"_sName": "de_minidust2",
-	"_sText": "spent a couple hours learning hammer again, had some fun making a mini dust2 map. its not great, but i like it<br>"
+	"_sText": "spent a couple hours learning hammer again, had some fun making a mini dust2 map. its not great, but i like it<br><br>edit: its a little better now<br>"
 }

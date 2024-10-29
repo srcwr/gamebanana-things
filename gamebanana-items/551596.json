@@ -39,11 +39,13 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1309342,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 2,
 			"_nFilesize": 241108,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1309342",
 			"_sFile": "beta_2_snowy_version.zip",
@@ -51,7 +53,36 @@
 			"_tsDateAdded": 1730118140
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Added A Snowy Version"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added More Cover"
+				},
+				{
+					"cat": "Addition",
+					"text": "1 Way Sniper Windows"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added A 2nd Path"
+				},
+				{
+					"cat": "Tweak",
+					"text": "Changed Tower Textures To Metal"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Beta 2 + Snowy Version",
+			"_sVersion": "2",
+			"_tsDateAdded": 1730118453
+		}
+	],
 	"_idRow": 551596,
 	"_sName": "Run To Plant",
 	"_sText": "Hello I am back I cooked with this map, okay so Terror's must run to the plant side and they can hide behind the barricades, and Counter Terror's must snipe them with scouts, its a fun idea I made up in my head, there was supposted to be 2 pathways Upper and Lower, Lower is the one I left, Upper was well removed but the base is still there, theres hl2dm and a gmod versions, they suck, this one is much better anyways this is the first beta, I will update the map if my lazy ass isnt laying on the couch watching tiktok or sleeping."
