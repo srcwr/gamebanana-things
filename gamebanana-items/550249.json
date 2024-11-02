@@ -10,7 +10,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1304902,
-			"_nDownloadCount": 49,
+			"_nDownloadCount": 52,
 			"_nFilesize": 938525,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -32,7 +32,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1307522,
-			"_nDownloadCount": 41,
+			"_nDownloadCount": 46,
 			"_nFilesize": 1624214,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -44,9 +44,193 @@
 			"_sFile": "de_ashen_v2.zip",
 			"_sMd5Checksum": "eb8f3701b0ccabec4eae44da68bf7c1e",
 			"_tsDateAdded": 1729913680
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"maps": [
+						"de_ashen.bsp",
+						"de_ashen.nav"
+					],
+					"materials": {
+						"ARCH": [
+							"CABINWOOD.vmt",
+							"SAUNATILE.vmt",
+							"cabinwood.vtf",
+							"cabinwood_n.vtf",
+							"saunatile.vtf",
+							"saunatile_n.vtf"
+						],
+						"concrete": [
+							"concrete_floor_10.vmt",
+							"concrete_floor_10.vtf"
+						],
+						"detail": [
+							"dt_wood1.vtf"
+						],
+						"dev": [
+							"dev_measuregeneric01.vmt",
+							"dev_measuregeneric01b.vmt",
+							"graygrid.vmt"
+						],
+						"fool": {
+							"mw2": [
+								"ct_plaster01_col.vmt",
+								"ct_plaster01_col.vtf",
+								"ma_tile_wood_01_col.vmt",
+								"ma_tile_wood_01_col.vtf",
+								"me_floor_tile4.vmt",
+								"me_floor_tile4.vtf"
+							]
+						},
+						"maps": {
+							"de_ashen": {
+								"0": "c0_0_0.hdr.vtf",
+								"1": "c0_0_0.vtf",
+								"2": "cubemapdefault.hdr.vtf",
+								"3": "cubemapdefault.vtf",
+								"cs_italy": [
+									"cobble06_0_0_0.vmt"
+								],
+								"de_chateau": [
+									"interiortile01a_0_0_0.vmt"
+								],
+								"tile": [
+									"prodflra_0_0_0.vmt"
+								]
+							}
+						},
+						"models": {
+							"props_foliage": [
+								"tree_include_hedges.vmt",
+								"urban_trees_branches03_hedges.vmt",
+								"urban_trees_branches03_mip0.vtf"
+							],
+							"props_furniture": [
+								"kitchen_countertop1.vmt",
+								"kitchen_countertop1.vtf",
+								"kitchen_shelf1.vmt",
+								"kitchen_shelf1.vtf"
+							],
+							"props_vehicles": [
+								"hmmwv.vmt",
+								"hmmwv.vtf"
+							]
+						},
+						"wood": [
+							"plywood02.vmt",
+							"plywood02.vtf"
+						]
+					},
+					"models": {
+						"props_foliage": [
+							"urban_hedge_256_128_high.dx80.vtx",
+							"urban_hedge_256_128_high.dx90.vtx",
+							"urban_hedge_256_128_high.mdl",
+							"urban_hedge_256_128_high.phy",
+							"urban_hedge_256_128_high.sw.vtx",
+							"urban_hedge_256_128_high.vvd"
+						],
+						"props_furniture": [
+							"kitchen_countertop1.dx80.vtx",
+							"kitchen_countertop1.dx90.vtx",
+							"kitchen_countertop1.mdl",
+							"kitchen_countertop1.phy",
+							"kitchen_countertop1.sw.vtx",
+							"kitchen_countertop1.vvd",
+							"kitchen_shelf1.dx80.vtx",
+							"kitchen_shelf1.dx90.vtx",
+							"kitchen_shelf1.mdl",
+							"kitchen_shelf1.phy",
+							"kitchen_shelf1.sw.vtx",
+							"kitchen_shelf1.vvd"
+						],
+						"props_vehicles": [
+							"hmmwv.dx90.vtx",
+							"hmmwv.mdl",
+							"hmmwv.phy",
+							"hmmwv.vvd"
+						],
+						"props_wasteland": [
+							"exterior_fence002a.dx80.vtx",
+							"exterior_fence002a.dx90.vtx",
+							"exterior_fence002a.mdl",
+							"exterior_fence002a.phy",
+							"exterior_fence002a.sw.vtx",
+							"exterior_fence002a.vvd",
+							"exterior_fence002b.dx80.vtx",
+							"exterior_fence002b.dx90.vtx",
+							"exterior_fence002b.mdl",
+							"exterior_fence002b.phy",
+							"exterior_fence002b.sw.vtx",
+							"exterior_fence002b.vvd",
+							"exterior_fence002c.dx80.vtx",
+							"exterior_fence002c.dx90.vtx",
+							"exterior_fence002c.mdl",
+							"exterior_fence002c.phy",
+							"exterior_fence002c.sw.vtx",
+							"exterior_fence002c.vvd"
+						]
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 1313458,
+			"_nDownloadCount": 2,
+			"_nFilesize": 14303972,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
+			"_sDescription": "v3.0",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1313458",
+			"_sFile": "de_ashen_v3.zip",
+			"_sMd5Checksum": "39ea575c0d5dc4aeb08ff52627331b8c",
+			"_tsDateAdded": 1730549099
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "",
+					"text": "I have so much fun making this map and i hope you enjoy it..."
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Adjusted map texture"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Adjusted mid to look clean"
+				},
+				{
+					"cat": "Addition",
+					"text": "New Routes for T and CT (see image)"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added props, bangable walls, and lighting in certain area"
+				},
+				{
+					"cat": "Addition",
+					"text": "New design in T spawn and other area"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added grenade lineups ot area to smoke with"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added new route for easy retake or rotate between bomsites"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "New Design Added and Others",
+			"_sVersion": "v3.0",
+			"_tsDateAdded": 1730549282
+		},
 		{
 			"_aChangeLog": [
 				{
@@ -62,22 +246,6 @@
 			"_sTitle": "Ct spawn design finish",
 			"_sVersion": "v2.2",
 			"_tsDateAdded": 1730199848
-		},
-		{
-			"_aChangeLog": [
-				{
-					"cat": "Improvement",
-					"text": "Improved Map Design similar to cs_italy (Bottom image, still working on it)"
-				},
-				{
-					"cat": "Addition",
-					"text": "Add little details"
-				}
-			],
-			"_sText": "",
-			"_sTitle": "Map Design on Progress",
-			"_sVersion": "v2.1",
-			"_tsDateAdded": 1729945718
 		}
 	],
 	"_idRow": 550249,
