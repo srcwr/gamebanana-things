@@ -7,7 +7,6 @@
 					"cs_lights_out": {
 						"maps": [
 							"cs_lights_out.bsp",
-							"cs_lights_out.log",
 							"cs_lights_out.nav",
 							"cs_lights_out.prt",
 							"cs_lights_out.vmf",
@@ -37,22 +36,29 @@
 				}
 			},
 			"_bContainsExe": false,
-			"_idRow": 1304969,
-			"_nDownloadCount": 41,
-			"_nFilesize": 5033415,
+			"_idRow": 1314507,
+			"_nDownloadCount": 0,
+			"_nFilesize": 5336624,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
 			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1304969",
-			"_sFile": "cs_lights_out_82a2b.rar",
-			"_sMd5Checksum": "1fb5dee7e0abe2c298eeeed4587a758e",
-			"_tsDateAdded": 1729572923
+			"_sDownloadUrl": "https://gamebanana.com/dl/1314507",
+			"_sFile": "cs_lights_out_4f930.rar",
+			"_sMd5Checksum": "b57e09895e0d9352adc861272a238b89",
+			"_tsDateAdded": 1730656212
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [],
+			"_sText": "<p>-Added new CT spawn, giving players a new floor to explore</p><p>-Added more details around the map</p><p>-Changed some props position like the tank in CT spawn</p><p>-Fixed the lamp bug where it just flickered over and over again at light speed</p><p>-Added new hallway in the main floor, it connects the red hallway to the blue hallway where the stairs lead</p>",
+			"_sTitle": "CT Update",
+			"_sVersion": "v1.2",
+			"_tsDateAdded": 1730656380
+		},
 		{
 			"_aChangeLog": [],
 			"_sText": "<p>I've decided to learn some new things with the source engine, I now know how to do arches and skyboxes, which I've added in my new counter strike source map :)</p><p>-Added Skybox</p><p>-Added Arch underneath toggle-able lamp hallway</p><p>-Changed a few textures around</p><p>-Added More Fog and Props</p><p>-Added More cover in the main hallway</p><p>-Added a balcony in the chandelier room</p><p>-Added Breakable Wood in the hostage area</p><p>-Removed 2 hostages and replaced it with 1 hostage at T spawn</p><p>-Added Door to T spawn</p><p>-Added Breakable Platform to stairs near T spawn</p><p>-Added 1 more lightswitch :)</p><p>-Made the stairway wider</p><p>-Made stairway door spawn open (because bots are stupid)<br></p><p>-Added a caged off stairway near CT spawn, next to purple light</p><p>-Added more lore to lights (some still light up for no reason, ill fix that later maybe)</p>",
