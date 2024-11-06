@@ -8,23 +8,31 @@
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1127260,
-			"_nDownloadCount": 38,
-			"_nFilesize": 7386114,
+			"_idRow": 1316412,
+			"_nDownloadCount": 0,
+			"_nFilesize": 34141698,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
 			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1127260",
-			"_sFile": "bhop_dice.zip",
-			"_sMd5Checksum": "bf3eac997c06bbffe8f72ba1681a060d",
-			"_tsDateAdded": 1706080383
+			"_sDownloadUrl": "https://gamebanana.com/dl/1316412",
+			"_sFile": "bhop_dice_f0fd2.zip",
+			"_sMd5Checksum": "e3e778942af9d67a7d871e79fac1c337",
+			"_tsDateAdded": 1730903941
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [],
+			"_sText": "<p>Fixed map blocks in the correct places, ported fully now redid lighting</p>",
+			"_sTitle": "",
+			"_sVersion": "2",
+			"_tsDateAdded": 1730905226
+		}
+	],
 	"_idRow": 491914,
-	"_sName": "bhop_dice (CS:S)",
-	"_sText": "Short strafe map - redesign from roblox bhop by something<br><br><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/gbbM8TZohTo\" frameborder=\"0\" allowfullscreen=\"\"></iframe><br>"
+	"_sName": "bhop_dice",
+	"_sText": "Short strafe map - Port from roblox bhop by IamSomethingDG<br><br><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/gbbM8TZohTo\" frameborder=\"0\" allowfullscreen=\"\"></iframe><br>"
 }
