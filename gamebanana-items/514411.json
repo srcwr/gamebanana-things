@@ -4,26 +4,90 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
-					"jb_rv_razor.bsp"
+					"jb_rv_razor_final1.bsp"
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1230719,
-			"_nDownloadCount": 26,
-			"_nFilesize": 52241428,
+			"_idRow": 1317245,
+			"_nDownloadCount": 0,
+			"_nFilesize": 48864301,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
 			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1230719",
-			"_sFile": "jb_rv_razor.zip",
-			"_sMd5Checksum": "4dd17c5a4ff193221eef0147162d2a70",
-			"_tsDateAdded": 1720290801
+			"_sDownloadUrl": "https://gamebanana.com/dl/1317245",
+			"_sFile": "jb_rv_razor_final1.zip",
+			"_sMd5Checksum": "6202a0e017ca35258fbab39e10f21c5e",
+			"_tsDateAdded": 1731002602
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "",
+					"text": "Added Drop Down"
+				},
+				{
+					"cat": "",
+					"text": "Reworked Kitchen Layout/Secrets"
+				},
+				{
+					"cat": "",
+					"text": "Removed doors leading into LowGrav/Race room"
+				},
+				{
+					"cat": "",
+					"text": "Added a touch trigger door to the start of low grav to prevent people falling down accidently"
+				},
+				{
+					"cat": "",
+					"text": "Added start sign above the door to low grav climb"
+				},
+				{
+					"cat": "",
+					"text": "Changed recall for low grav / race to also recall CT to the upper platform"
+				},
+				{
+					"cat": "",
+					"text": "Changed recall location for terrorists playing low grav / race to the start of race to prevent Ts escaping"
+				},
+				{
+					"cat": "",
+					"text": "Fixed boosters on Bhop being inconsistent"
+				},
+				{
+					"cat": "",
+					"text": "Added new platform connecting to what was previously the pillar outside of big cage"
+				},
+				{
+					"cat": "",
+					"text": "Added teleporter from the new platform into Low Grav / Race room"
+				},
+				{
+					"cat": "",
+					"text": "Fixed cell 1 vent (tp to ak room)"
+				},
+				{
+					"cat": "Overhaul",
+					"text": "Moved myself"
+				},
+				{
+					"cat": "",
+					"text": "Added sound for first winner of drop down"
+				},
+				{
+					"cat": "",
+					"text": "Fixed nodraw issues in the skybox (visible nodraw)"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "jb_rv_razor_f1",
+			"_sVersion": "final 1",
+			"_tsDateAdded": 1731003133
+		},
 		{
 			"_aChangeLog": [
 				{
@@ -119,5 +183,5 @@
 	],
 	"_idRow": 514411,
 	"_sName": "jb_rv_razor",
-	"_sText": "My edit of the classic, jb_electric_razor, with all new games and secrets. (<a href=\"https://gamebanana.com/mods/129829\">Original</a>)<br><br><b><u>Games:</u></b><br><i>- Surf<br>- Bhop<br>- Climb (Easy, Medium, Hard, Pro)<br>- Lasers (IDFK by Maradox)<br>- Football<br>- Dodge Course<br>- Ski-Ball&nbsp;<br>- Hide and Seek&nbsp;<br>- HNS Chase<br>- Extreme Climb<br>- Low Grav Climb<br>- KZ Race (1v1)<br>- Pool (LJ Room)<br>- Showers (Diving Board)<br>- Football</i>"
+	"_sText": "My edit of the classic, jb_electric_razor, with all new games and secrets. (<a href=\"https://gamebanana.com/mods/129829\">Original</a>)<br><br><b><u>Games:</u></b><br><i>- Surf<br>- Bhop<br>- Climb (Easy, Medium, Hard, Pro)<br>- Lasers (IDFK by Maradox)<br>- Football<br>- Dodge Course<br>- Ski-Ball <br>- Hide and Seek <br>- HNS Chase<br>- Extreme Climb<br>- Low Grav Climb<br>- KZ Race (1v1)<br>- Pool (LJ Room)<br>- Showers (Diving Board)<br>- Football</i>"
 }
