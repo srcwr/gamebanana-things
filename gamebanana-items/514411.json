@@ -9,7 +9,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1317245,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 2,
 			"_nFilesize": 48864301,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -27,47 +27,47 @@
 		{
 			"_aChangeLog": [
 				{
-					"cat": "",
+					"cat": "Addition",
 					"text": "Added Drop Down"
 				},
 				{
-					"cat": "",
+					"cat": "Overhaul",
 					"text": "Reworked Kitchen Layout/Secrets"
 				},
 				{
-					"cat": "",
+					"cat": "Tweak",
 					"text": "Removed doors leading into LowGrav/Race room"
 				},
 				{
-					"cat": "",
+					"cat": "Improvement",
 					"text": "Added a touch trigger door to the start of low grav to prevent people falling down accidently"
 				},
 				{
-					"cat": "",
+					"cat": "Improvement",
 					"text": "Added start sign above the door to low grav climb"
 				},
 				{
-					"cat": "",
+					"cat": "Improvement",
 					"text": "Changed recall for low grav / race to also recall CT to the upper platform"
 				},
 				{
-					"cat": "",
+					"cat": "Improvement",
 					"text": "Changed recall location for terrorists playing low grav / race to the start of race to prevent Ts escaping"
 				},
 				{
-					"cat": "",
+					"cat": "Improvement",
 					"text": "Fixed boosters on Bhop being inconsistent"
 				},
 				{
-					"cat": "",
+					"cat": "Addition",
 					"text": "Added new platform connecting to what was previously the pillar outside of big cage"
 				},
 				{
-					"cat": "",
+					"cat": "Addition",
 					"text": "Added teleporter from the new platform into Low Grav / Race room"
 				},
 				{
-					"cat": "",
+					"cat": "Bugfix",
 					"text": "Fixed cell 1 vent (tp to ak room)"
 				},
 				{
@@ -75,11 +75,11 @@
 					"text": "Moved myself"
 				},
 				{
-					"cat": "",
+					"cat": "Suggestion",
 					"text": "Added sound for first winner of drop down"
 				},
 				{
-					"cat": "",
+					"cat": "Bugfix",
 					"text": "Fixed nodraw issues in the skybox (visible nodraw)"
 				}
 			],
@@ -176,7 +176,7 @@
 				}
 			],
 			"_sText": "",
-			"_sTitle": "jb_rv_razor FINAL",
+			"_sTitle": "jb_rv_razor_b7",
 			"_sVersion": "3",
 			"_tsDateAdded": 1720290701
 		}
