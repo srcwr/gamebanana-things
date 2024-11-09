@@ -2,14 +2,23 @@
 	"_aAlternateFileSources": null,
 	"_aFiles": [
 		{
-			"_aMetadata": [],
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"simpsons_day": [
+						"fy_simpsons_day.bsp",
+						"gg_simpsons_day.bsp"
+					]
+				}
+			},
 			"_bContainsExe": false,
 			"_idRow": 1318803,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 2,
 			"_nFilesize": 4248543,
-			"_sAnalysisResult": "Undetermined",
-			"_sAnalysisResultCode": "undetermined",
-			"_sAnalysisState": "pending",
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1318803",
 			"_sFile": "simpsons_day.rar",
@@ -17,7 +26,24 @@
 			"_tsDateAdded": 1731178753
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "",
+					"text": "Better Ambient Light"
+				},
+				{
+					"cat": "",
+					"text": "Added GG version in the .rar"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Fy And GG Version",
+			"_sVersion": "v1.1",
+			"_tsDateAdded": 1731178839
+		}
+	],
 	"_idRow": 553980,
 	"_sName": "fy_simpsons_day",
 	"_sText": "<span class=\"RedColor\">fy_simpsons_day</span><br>-----------------------<br><span class=\"GreenColor\">-Small and funny fy with simpsons theme!<br>-Supports 64 players<br>-Mini Map Radar</span><br><span class=\"GreenColor SelectedElement\">-Fy and GG version in the .rar</span>"
