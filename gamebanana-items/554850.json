@@ -2,14 +2,20 @@
 	"_aAlternateFileSources": null,
 	"_aFiles": [
 		{
-			"_aMetadata": [],
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"bhop_way_back_when.bsp"
+				]
+			},
 			"_bContainsExe": false,
 			"_idRow": 1319524,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 9,
 			"_nFilesize": 10709700,
-			"_sAnalysisResult": "Undetermined",
-			"_sAnalysisResultCode": "undetermined",
-			"_sAnalysisState": "pending",
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1319524",
 			"_sFile": "bhop_way_back_when.zip",
@@ -20,5 +26,5 @@
 	"_aLatestUpdates": [],
 	"_idRow": 554850,
 	"_sName": "bhop_way_back_when",
-	"_sText": "Recent port of bhop_way_back_when by 400bc<br><br>Ported by FiBzY<br><br>Longer map"
+	"_sText": "Recent roblox port of bhop_way_back_when (This is the v2 version) by 400bc<br><br>Ported by FiBzY<br><br>Longer map, took while to port...<br><br><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/KPlsqojz1r0\" frameborder=\"0\" allowfullscreen=\"\"></iframe><br><br>Completed port over 4 hours"
 }

@@ -11,7 +11,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1312218,
-			"_nDownloadCount": 19,
+			"_nDownloadCount": 22,
 			"_nFilesize": 124581448,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -23,9 +23,51 @@
 			"_sFile": "ze_night_cinema_v1_8636c.zip",
 			"_sMd5Checksum": "96830f7e5c556072f9b7e8b991e6b0fa",
 			"_tsDateAdded": 1730424568
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ze_night_cinema_v1.cfg"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 1320237,
+			"_nDownloadCount": 0,
+			"_nFilesize": 1829,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1320237",
+			"_sFile": "stripper_update_1.zip",
+			"_sMd5Checksum": "f0665d9e9e385977830d058e55a208b3",
+			"_tsDateAdded": 1731355922
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "[Required] Filter the last 2 CT teleports to humans"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "[Recommended] Scale down the orb NPC dmg/health on the last stage"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Other improvements documented in the stripper"
+				}
+			],
+			"_sText": "<p>Attaching stripper with 2 bug fixes and other recommended improvements</p>",
+			"_sTitle": "Stripper update 1",
+			"_sVersion": "1.0",
+			"_tsDateAdded": 1731356053
+		}
+	],
 	"_idRow": 552689,
 	"_sName": "ze_night_cinema",
 	"_sText": "Archiving the final version, provided no issues<br><br>The map now has 6 stages in total (a perfect run would take about 70 min)<br><br>Happy Halloween"
