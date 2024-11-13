@@ -10,7 +10,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1304902,
-			"_nDownloadCount": 60,
+			"_nDownloadCount": 63,
 			"_nFilesize": 938525,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -32,7 +32,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1307522,
-			"_nDownloadCount": 47,
+			"_nDownloadCount": 49,
 			"_nFilesize": 1624214,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -176,7 +176,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1313458,
-			"_nDownloadCount": 26,
+			"_nDownloadCount": 41,
 			"_nFilesize": 14303972,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -188,9 +188,100 @@
 			"_sFile": "de_ashen_v3.zip",
 			"_sMd5Checksum": "39ea575c0d5dc4aeb08ff52627331b8c",
 			"_tsDateAdded": 1730549099
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"maps": [
+						"de_ashen.bsp",
+						"de_ashen.bsp.backup",
+						"de_ashen.nav"
+					],
+					"materials": {
+						"maps": {
+							"de_ashen": {
+								"0": "c16_-608_640.hdr.vtf",
+								"1": "c16_-608_640.vtf",
+								"2": "cubemapdefault.hdr.vtf",
+								"3": "cubemapdefault.vtf",
+								"concrete": [
+									"concretefloor010b_16_-608_640.vmt"
+								],
+								"cs_italy": [
+									"cobble02_16_-608_640.vmt",
+									"cobble03_16_-608_640.vmt",
+									"cobble04_16_-608_640.vmt",
+									"cobble06_16_-608_640.vmt"
+								],
+								"de_cbble": [
+									"grassdirt_blend_wvt_patch.vmt"
+								],
+								"de_chateau": [
+									"floor02_16_-608_640.vmt",
+									"floor05_16_-608_640.vmt",
+									"interiortile01_16_-608_640.vmt",
+									"interiortile01a_16_-608_640.vmt",
+									"interiortile01b_16_-608_640.vmt",
+									"interiortile02_16_-608_640.vmt"
+								],
+								"de_nuke": [
+									"nukwindowa_16_-608_640.vmt",
+									"nukwindowb_light_16_-608_640.vmt"
+								],
+								"de_piranesi": [
+									"marblefloor13_16_-608_640.vmt"
+								],
+								"effects": [
+									"offgaragedr_16_-608_640.vmt"
+								],
+								"glass": [
+									"glasswindowbreak070a_16_-608_640.vmt"
+								],
+								"tile": [
+									"prodflra_16_-608_640.vmt"
+								]
+							}
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 1321409,
+			"_nDownloadCount": 0,
+			"_nFilesize": 16604453,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1321409",
+			"_sFile": "de_ashen_v4.zip",
+			"_sMd5Checksum": "c83fb19b6f8a2e0289f4a2173a84ed76",
+			"_tsDateAdded": 1731509209
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Optimization",
+					"text": "Optimize map"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added texture for the maps (finale)"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Little adjustment for paths and lights dor the map"
+				}
+			],
+			"_sText": "<p>The finale is here i hope you like it</p>",
+			"_sTitle": "Finale",
+			"_sVersion": "4.0",
+			"_tsDateAdded": 1731459191
+		},
 		{
 			"_aChangeLog": [
 				{
@@ -230,22 +321,6 @@
 			"_sTitle": "New Design Added and Others",
 			"_sVersion": "v3.0",
 			"_tsDateAdded": 1730549282
-		},
-		{
-			"_aChangeLog": [
-				{
-					"cat": "Addition",
-					"text": "Added background houses and stuffs"
-				},
-				{
-					"cat": "Adjustment",
-					"text": "Adjusted Sun angle, brightness and color"
-				}
-			],
-			"_sText": "",
-			"_sTitle": "Ct spawn design finish",
-			"_sVersion": "v2.2",
-			"_tsDateAdded": 1730199848
 		}
 	],
 	"_idRow": 550249,
