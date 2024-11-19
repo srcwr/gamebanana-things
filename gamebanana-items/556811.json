@@ -2,14 +2,20 @@
 	"_aAlternateFileSources": null,
 	"_aFiles": [
 		{
-			"_aMetadata": [],
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"bhop_soulscape.bsp"
+				]
+			},
 			"_bContainsExe": false,
 			"_idRow": 1325368,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 8,
 			"_nFilesize": 7806264,
-			"_sAnalysisResult": "Undetermined",
-			"_sAnalysisResultCode": "undetermined",
-			"_sAnalysisState": "pending",
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1325368",
 			"_sFile": "bhop_soulscape.zip",
@@ -20,5 +26,5 @@
 	"_aLatestUpdates": [],
 	"_idRow": 556811,
 	"_sName": "bhop_soulscape",
-	"_sText": "Recent roblox port of bhop_soulscape by 0zi<br><br>Ported by FiBzY<br><br>HDR: you can play with mat_bloomscale 1 or mat_bloomscale 0"
+	"_sText": "Recent roblox port of bhop_soulscape by 0zi<br><br>Ported by FiBzY<br><br>HDR: you can play with&nbsp;mat_bloomscale 1 or&nbsp;mat_bloomscale 0<br><br><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/n4YKnuNdcAY\" frameborder=\"0\" allowfullscreen=\"\"></iframe>"
 }
