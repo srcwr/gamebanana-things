@@ -4,26 +4,82 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
-					"jb_rv_razor_final1.bsp"
+					"jb_rv_razor_final2.bsp"
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1317245,
-			"_nDownloadCount": 18,
-			"_nFilesize": 48864301,
+			"_idRow": 1325831,
+			"_nDownloadCount": 0,
+			"_nFilesize": 67164038,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
 			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1317245",
-			"_sFile": "jb_rv_razor_final1.zip",
-			"_sMd5Checksum": "6202a0e017ca35258fbab39e10f21c5e",
-			"_tsDateAdded": 1731002602
+			"_sDownloadUrl": "https://gamebanana.com/dl/1325831",
+			"_sFile": "jb_rv_razor_final2.zip",
+			"_sMd5Checksum": "2a96c28cdb4a6827306ce29f12e9428a",
+			"_tsDateAdded": 1732056688
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Added new game [KZ COLOURS]"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added new game [CRAZY FORKLIFT]"
+				},
+				{
+					"cat": "Suggestion",
+					"text": "Removed teleports between cells and race/lowgrav climb"
+				},
+				{
+					"cat": "Amendment",
+					"text": "Made buttons all make a noise (excluding secret buttons)"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added lots of secrets to the new room ;)"
+				},
+				{
+					"cat": "Refactor",
+					"text": "Reworked old disco/rave/showers/gmanfucksthearmoury secret"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added 3 new optional kz challenges over pool [HighDive, Surf, & Crates]"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Tweaked lighting in pool [god rays now shorter and dont clip into the ceiling]"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Made water in pool more visible from outside and less visible from inside (of the water)."
+				},
+				{
+					"cat": "Addition",
+					"text": "Added music to kz colours & crazy forklift"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed a boosted platform in bhop which was near impossible on hard difficulty"
+				},
+				{
+					"cat": "Amendment",
+					"text": "Added corridors connecting the back end of shower to the newly created pool extension room."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "jb_rv_razor_final2",
+			"_sVersion": "f2",
+			"_tsDateAdded": 1732057108
+		},
 		{
 			"_aChangeLog": [
 				{
@@ -87,98 +143,6 @@
 			"_sTitle": "jb_rv_razor_f1",
 			"_sVersion": "final 1",
 			"_tsDateAdded": 1731003133
-		},
-		{
-			"_aChangeLog": [
-				{
-					"cat": "Addition",
-					"text": "Added new game Low Grav Climb"
-				},
-				{
-					"cat": "Addition",
-					"text": "Added new game, race (climb race)"
-				},
-				{
-					"cat": "Addition",
-					"text": "Added 3D skybox"
-				},
-				{
-					"cat": "Addition",
-					"text": "Added secret shower rave ;)"
-				},
-				{
-					"cat": "Bugfix",
-					"text": "Fixed 2 texture bugs with crates in HNS Chase"
-				},
-				{
-					"cat": "Addition",
-					"text": "Added new GMAN secret maybe idk"
-				},
-				{
-					"cat": "Adjustment",
-					"text": "Increased boost speed from 999 to 1200"
-				},
-				{
-					"cat": "Addition",
-					"text": "Added more LJs (267 & 270)"
-				},
-				{
-					"cat": "Addition",
-					"text": "Added distance label on the ladder jump in showers (120)"
-				},
-				{
-					"cat": "Tweak",
-					"text": "Changed LJ sounds slightly"
-				},
-				{
-					"cat": "Addition",
-					"text": "Added AWP secret in surf (combo whore)"
-				},
-				{
-					"cat": "Refactor",
-					"text": "Updated Radar"
-				},
-				{
-					"cat": "Bugfix",
-					"text": "Fixed missing texture from vent in VIP cell"
-				},
-				{
-					"cat": "Tweak",
-					"text": "Changed \"lasers\" to \"idfk\""
-				},
-				{
-					"cat": "Suggestion",
-					"text": "added SO MANY SECRETS RIP CT/WARDEN"
-				},
-				{
-					"cat": "Suggestion",
-					"text": "added mass to one of the maccies items ;)"
-				},
-				{
-					"cat": "Addition",
-					"text": "added secret ak in surf"
-				},
-				{
-					"cat": "Addition",
-					"text": "added secrets in the corridor of climb/ski-ball/extremeclimb/dodge-course"
-				},
-				{
-					"cat": "Addition",
-					"text": "added extreme climb"
-				},
-				{
-					"cat": "Addition",
-					"text": "added showers LJ blocks"
-				},
-				{
-					"cat": "Addition",
-					"text": "added HNS Chase"
-				}
-			],
-			"_sText": "",
-			"_sTitle": "jb_rv_razor_b7",
-			"_sVersion": "3",
-			"_tsDateAdded": 1720290701
 		}
 	],
 	"_idRow": 514411,
