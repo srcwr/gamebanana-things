@@ -14,20 +14,50 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1022927,
-			"_nDownloadCount": 35,
+			"_nDownloadCount": 116,
 			"_nFilesize": 18978170,
 			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1022927",
 			"_sFile": "kz_anubis.7z",
 			"_sMd5Checksum": "b4524aa2e1e998f3330046914568387b",
 			"_tsDateAdded": 1689904478
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"kz_anubis.cfg"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 1335309,
+			"_nDownloadCount": 0,
+			"_nFilesize": 183,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1335309",
+			"_sFile": "kz_anubiscfg.zip",
+			"_sMd5Checksum": "3221b1593c7c643686b392463bd5e37c",
+			"_tsDateAdded": 1733205376
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [],
+			"_sText": "<p>Added a stripper file that removes a func_wall entity near spawn that could block players.</p>",
+			"_sTitle": "stripper",
+			"_tsDateAdded": 1733205450
+		}
+	],
 	"_idRow": 457474,
 	"_sName": "kz_anubis",
-	"_sText": "Port of <a href=\"https://gamebanana.com/mods/96851\">kz_anubis </a>by JustErroR^.<br><br><br><br>"
+	"_sText": "Port of <a href=\"https://gamebanana.com/mods/96851\">kz_anubis </a>by JustErroR^.<br><br><br>Use the stripper file included to delete a redundant brush entity that may block you.<br>"
 }
