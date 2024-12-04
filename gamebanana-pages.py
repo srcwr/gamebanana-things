@@ -37,10 +37,10 @@ def fucker(d, category, a, b):
     session.close()
 
 def main(d):
-    fucker(d, 5535, 1, 2) # up to 785+++
-    fucker(d, 95, 1, 2) # up to 38~
-    fucker(d, 327, 1, 2) # up to 329~
-    fucker(d, 2528, 1, 2) # up to 52~
+    fucker(d, 5535, 1, 3) # up to 785+++
+    fucker(d, 95, 1, 3) # up to 38~
+    fucker(d, 327, 1, 3) # up to 329~
+    fucker(d, 2528, 1, 3) # up to 52~
 
 if __name__ == "__main__":
     doprint = True
