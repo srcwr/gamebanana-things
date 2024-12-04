@@ -10,10 +10,12 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1036583,
-			"_nDownloadCount": 6,
+			"_nDownloadCount": 40,
 			"_nFilesize": 3421208,
 			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1036583",
@@ -26,7 +28,7 @@
 		{
 			"_aChangeLog": [
 				{
-					"cat": "",
+					"cat": "Improvement",
 					"text": "now dispaciment , ct,t spaun gate remake , sky box remake, ct spawn houses added."
 				}
 			],
@@ -38,7 +40,7 @@
 		{
 			"_aChangeLog": [
 				{
-					"cat": "",
+					"cat": "Improvement",
 					"text": "displacement fixes, now displacements, A site update."
 				}
 			],
@@ -50,5 +52,5 @@
 	],
 	"_idRow": 437990,
 	"_sName": "de_dusty",
-	"_sText": "<pre>THE year is 2004 the atack of de_dust 2 was a succes.<span class=\"expand SelectedElement\">\r\nTHE Terorists are asalting the Neighbor of de_dust 2.\r\nCT have discovered ther plan. And the atack has begun!</span></pre>"
+	"_sText": "<pre>THE year is 2004 the atack of de_dust 2 was a succes.<span class=\"expand SelectedElement\">\r\nTHE Terorists are assalting the Neighbor of de_dust 2.\r\nCT have discovered ther plan. And the atack has begun!</span></pre>"
 }

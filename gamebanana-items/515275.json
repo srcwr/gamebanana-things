@@ -10,7 +10,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1210431,
-			"_nDownloadCount": 6,
+			"_nDownloadCount": 64,
 			"_nFilesize": 68461644,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -30,6 +30,10 @@
 				{
 					"cat": "Optimization",
 					"text": "Small visual/performance tweaks"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Moved 2 clipping brushes near start"
 				},
 				{
 					"cat": "Adjustment",

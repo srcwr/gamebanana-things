@@ -4,149 +4,152 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": {
-					"0": "Instructions.txt",
-					"cstrike": {
-						"maps": [
-							"de_downbad.bsp"
-						],
-						"materials": {
-							"fbt": [
-								"cringelord.vmt",
-								"cringelord.vtf",
-								"fbtlogo.vmt",
-								"fbtlogo.vtf",
-								"greentarp.vmt",
-								"greentarp.vtf",
-								"redmarble.vtf",
-								"redwood.vmt",
-								"redwood.vtf",
-								"ripboykaspray.vmt",
-								"ripboykaspray.vtf",
-								"whitetarp.vmt",
-								"whitetarp.vtf"
+					"de_downbad": {
+						"0": "Instructions.txt",
+						"cstrike": {
+							"maps": [
+								"de_downbad.bsp",
+								"de_downbad.res"
 							],
-							"models": {
-								"boots": [
-									"bootsbase.vmt",
-									"bootsbase.vtf"
+							"materials": {
+								"fbt": [
+									"cringelord.vmt",
+									"cringelord.vtf",
+									"fbtlogo.vmt",
+									"fbtlogo.vtf",
+									"greentarp.vmt",
+									"greentarp.vtf",
+									"redmarble.vtf",
+									"redwood.vmt",
+									"redwood.vtf",
+									"ripboykaspray.vmt",
+									"ripboykaspray.vtf",
+									"whitetarp.vmt",
+									"whitetarp.vtf"
 								],
-								"deadgirl": [
-									"recomp-base.vmt",
-									"recomp-base.vtf"
-								],
-								"ledsign": [
-									"ledsign.vmt",
-									"ledsign.vtf"
-								],
-								"pcmdl": [
-									"pcbase.vmt",
-									"pcbase.vtf",
-									"pckeyboard.vmt",
-									"pckeyboard.vtf",
-									"pcmouse.vmt",
-									"pcmouse.vtf",
-									"pcscreen.vmt",
-									"pcscreen.vtf"
-								],
-								"vette": [
-									"backlight_basemat.vmt",
-									"corvette_basemat.vmt",
-									"corvette_glass.vmt",
-									"corvette_wheelmat.vmt",
-									"frontlight_basemat.vmt",
-									"vettebasemat.vtf",
-									"vettefelger.vtf",
-									"vetteglass.vtf"
-								],
-								"viper": [
-									"viper_base.vmt",
-									"viper_glass.vmt",
-									"viperbasevtf.vtf",
-									"viperglassvtf.vtf"
-								],
-								"vr": [
-									"headsetbase.vmt",
-									"headsetbase.vtf"
-								],
-								"weebcar": [
-									"Material.vmt",
-									"Material.vtf",
-									"vtf_base1.vmt",
-									"vtf_base1.vtf",
-									"vtf_base2.vtf",
-									"vtf_base3.vtf",
-									"vtf_wheels.vmt",
-									"vtf_windows.vmt"
-								]
-							}
-						},
-						"models": [
-							"boots.dx80.vtx",
-							"boots.dx90.vtx",
-							"boots.mdl",
-							"boots.phy",
-							"boots.sw.vtx",
-							"boots.vvd",
-							"corvette.dx80.vtx",
-							"corvette.dx90.vtx",
-							"corvette.mdl",
-							"corvette.phy",
-							"corvette.sw.vtx",
-							"corvette.vvd",
-							"deadgirl.dx80.vtx",
-							"deadgirl.dx90.vtx",
-							"deadgirl.mdl",
-							"deadgirl.phy",
-							"deadgirl.sw.vtx",
-							"deadgirl.vvd",
-							"headset.dx80.vtx",
-							"headset.dx90.vtx",
-							"headset.mdl",
-							"headset.phy",
-							"headset.sw.vtx",
-							"headset.vvd",
-							"ledsign.dx80.vtx",
-							"ledsign.dx90.vtx",
-							"ledsign.mdl",
-							"ledsign.phy",
-							"ledsign.sw.vtx",
-							"ledsign.vvd",
-							"manifest.dx80.vtx",
-							"manifest.dx90.vtx",
-							"manifest.mdl",
-							"manifest.phy",
-							"manifest.sw.vtx",
-							"manifest.vvd",
-							"pcmdl.dx80.vtx",
-							"pcmdl.dx90.vtx",
-							"pcmdl.mdl",
-							"pcmdl.phy",
-							"pcmdl.sw.vtx",
-							"pcmdl.vvd",
-							"viper.dx80.vtx",
-							"viper.dx90.vtx",
-							"viper.mdl",
-							"viper.phy",
-							"viper.sw.vtx",
-							"viper.vvd"
-						]
+								"models": {
+									"boots": [
+										"bootsbase.vmt",
+										"bootsbase.vtf"
+									],
+									"deadgirl": [
+										"recomp-base.vmt",
+										"recomp-base.vtf"
+									],
+									"ledsign": [
+										"ledsign.vmt",
+										"ledsign.vtf"
+									],
+									"pcmdl": [
+										"pcbase.vmt",
+										"pcbase.vtf",
+										"pckeyboard.vmt",
+										"pckeyboard.vtf",
+										"pcmouse.vmt",
+										"pcmouse.vtf",
+										"pcscreen.vmt",
+										"pcscreen.vtf"
+									],
+									"vette": [
+										"backlight_basemat.vmt",
+										"corvette_basemat.vmt",
+										"corvette_glass.vmt",
+										"corvette_wheelmat.vmt",
+										"frontlight_basemat.vmt",
+										"vettebasemat.vtf",
+										"vettefelger.vtf",
+										"vetteglass.vtf"
+									],
+									"viper": [
+										"viper_base.vmt",
+										"viper_glass.vmt",
+										"viperbasevtf.vtf",
+										"viperglassvtf.vtf"
+									],
+									"vr": [
+										"headsetbase.vmt",
+										"headsetbase.vtf"
+									],
+									"weebcar": [
+										"Material.vmt",
+										"Material.vtf",
+										"vtf_base1.vmt",
+										"vtf_base1.vtf",
+										"vtf_base2.vtf",
+										"vtf_base3.vtf",
+										"vtf_wheels.vmt",
+										"vtf_windows.vmt"
+									]
+								}
+							},
+							"models": [
+								"boots.dx80.vtx",
+								"boots.dx90.vtx",
+								"boots.mdl",
+								"boots.phy",
+								"boots.sw.vtx",
+								"boots.vvd",
+								"corvette.dx80.vtx",
+								"corvette.dx90.vtx",
+								"corvette.mdl",
+								"corvette.phy",
+								"corvette.sw.vtx",
+								"corvette.vvd",
+								"deadgirl.dx80.vtx",
+								"deadgirl.dx90.vtx",
+								"deadgirl.mdl",
+								"deadgirl.phy",
+								"deadgirl.sw.vtx",
+								"deadgirl.vvd",
+								"headset.dx80.vtx",
+								"headset.dx90.vtx",
+								"headset.mdl",
+								"headset.phy",
+								"headset.sw.vtx",
+								"headset.vvd",
+								"ledsign.dx80.vtx",
+								"ledsign.dx90.vtx",
+								"ledsign.mdl",
+								"ledsign.phy",
+								"ledsign.sw.vtx",
+								"ledsign.vvd",
+								"manifest.dx80.vtx",
+								"manifest.dx90.vtx",
+								"manifest.mdl",
+								"manifest.phy",
+								"manifest.sw.vtx",
+								"manifest.vvd",
+								"pcmdl.dx80.vtx",
+								"pcmdl.dx90.vtx",
+								"pcmdl.mdl",
+								"pcmdl.phy",
+								"pcmdl.sw.vtx",
+								"pcmdl.vvd",
+								"viper.dx80.vtx",
+								"viper.dx90.vtx",
+								"viper.mdl",
+								"viper.phy",
+								"viper.sw.vtx",
+								"viper.vvd"
+							]
+						}
 					}
 				}
 			},
 			"_bContainsExe": false,
-			"_idRow": 1182913,
-			"_nDownloadCount": 88,
-			"_nFilesize": 7820217,
+			"_idRow": 1235608,
+			"_nDownloadCount": 73,
+			"_nFilesize": 7863279,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
 			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1182913",
-			"_sFile": "de_downbad.zip",
-			"_sMd5Checksum": "ad477923d4d3c3bc198f3034f51c96fe",
-			"_tsDateAdded": 1714222523
+			"_sDownloadUrl": "https://gamebanana.com/dl/1235608",
+			"_sFile": "de_downbad1_3_rev1.zip",
+			"_sMd5Checksum": "e2dd69dc4e71bf9c3b7779f14316eb3f",
+			"_tsDateAdded": 1720892612
 		}
 	],
 	"_aLatestUpdates": [],

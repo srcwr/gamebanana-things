@@ -4,27 +4,62 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
-					"hns_rv_esip1.bsp",
-					"hns_rv_esip1.nav"
+					"hns_rv_esip_e1.bsp"
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1152311,
-			"_nDownloadCount": 102,
-			"_nFilesize": 2154762,
+			"_idRow": 1210503,
+			"_nDownloadCount": 184,
+			"_nFilesize": 18865893,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
 			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1152311",
-			"_sFile": "hns_rv_esip1.zip",
-			"_sMd5Checksum": "08f77c17bc793f6f30cb3f0114ebdb53",
-			"_tsDateAdded": 1709934164
+			"_sDownloadUrl": "https://gamebanana.com/dl/1210503",
+			"_sFile": "hns_rv_esip_e1.zip",
+			"_sMd5Checksum": "d81631b699b4de10ced8400867d9b9f9",
+			"_tsDateAdded": 1717794805
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Improvement",
+					"text": "Fixed lighting (HDR & LDR)"
+				},
+				{
+					"cat": "Optimization",
+					"text": "Removed any packed css assets"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed missing textures"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed missing ladder models"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed random nodraw face on a box"
+				},
+				{
+					"cat": "Amendment",
+					"text": "Fixed a surf being 1 unit higher than the block at the top of it"
+				},
+				{
+					"cat": "Amendment",
+					"text": "Added missing LJ sign from 268 block"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "hns_rv_esip_e1",
+			"_sVersion": "Edit 1",
+			"_tsDateAdded": 1717794706
+		},
 		{
 			"_aChangeLog": [
 				{
@@ -40,5 +75,5 @@
 	],
 	"_idRow": 499748,
 	"_sName": "hns_rv_esip",
-	"_sText": "A heavily modified version of the original hns_esip from 2018 (<a href=\"https://steamcommunity.com/sharedfiles/filedetails/?l=ukrainian&id=1518720473\">Майстерня Steam::hns_esip (steamcommunity.com)</a>)"
+	"_sText": "A heavily modified version of the original hns_esip from 2018<br><br>&nbsp;(<a href=\"https://steamcommunity.com/sharedfiles/filedetails/?l=ukrainian&amp;id=1518720473\" target=\"_blank\">Майстерня Steam::hns_esip (steamcommunity.com)</a>)"
 }

@@ -14,7 +14,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1207531,
-			"_nDownloadCount": 23,
+			"_nDownloadCount": 64,
 			"_nFilesize": 164503912,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -26,10 +26,31 @@
 			"_sFile": "ze_esther_cc_zi2.7z",
 			"_sMd5Checksum": "ba3c839f09cbacea84759c798b3d83b8",
 			"_tsDateAdded": 1717427736
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ze_esther_cc_zi2.vmf"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 1235521,
+			"_nDownloadCount": 11,
+			"_nFilesize": 2138302,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
+			"_sDescription": "Source Files",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1235521",
+			"_sFile": "ze_esther_cc_zi2_vmf.7z",
+			"_sMd5Checksum": "d10abe640a398de9c9a6dffa77506484",
+			"_tsDateAdded": 1720884745
 		}
 	],
 	"_aLatestUpdates": [],
 	"_idRow": 517988,
 	"_sName": "ze_esther",
-	"_sText": "Map for the nide 2024 mapping contest. (1 Month)<br><br>current version cc_zi2<br>stripper: <a href=\"https://github.com/NiDE-gg/ZE-Configs/blob/master/cstrike/addons/sourcemod/configs/stripper/maps/ze_esther_cc_zi2.cfg\" class=\"SelectedElement\">master/cstrike/addons/sourcemod/configs/stripper/maps/ze_esther_cc_zi2.cfg</a>"
+	"_sText": "<h1><b>Map for the nide 2024 mapping contest. (1 Month)</b></h1>A basic dark souls map with NPCs and Human/Zombie items.<br>Map has bossfights and sorta deep mechanics (very buggy)<br><h2>Map can be ported with gameplay adjusted as long as credits and the contest banner stays the same.</h2><h3 class=\"SelectedElement\">Map has issues in its current form and also is dependent on a Plugin called CSSFixes which adds the ContextFilter entity system.</h3>current version cc_zi2<br>stripper:&nbsp;<a href=\"https://github.com/NiDE-gg/ZE-Configs/blob/master/cstrike/addons/sourcemod/configs/stripper/maps/ze_esther_cc_zi2.cfg\" target=\"_blank\">master/cstrike/addons/sourcemod/configs/stripper/maps/ze_esther_cc_zi2.cfg</a>"
 }

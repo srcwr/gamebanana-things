@@ -9,7 +9,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1287740,
-			"_nDownloadCount": 16,
+			"_nDownloadCount": 25,
 			"_nFilesize": 40817529,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -21,10 +21,56 @@
 			"_sFile": "ze_surf_charge_v2_f2.rar",
 			"_sMd5Checksum": "7d99c1f77463b2db719f8583d461c2ab",
 			"_tsDateAdded": 1727358626
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ze_surf_charge_v3_f2_1.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 1314173,
+			"_nDownloadCount": 4,
+			"_nFilesize": 60254485,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
+			"_sDescription": "stable version",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1314173",
+			"_sFile": "ze_surf_charge_v3_f2_1.rar",
+			"_sMd5Checksum": "ff51aabf46aacd7c7c35bfcfab9ec217",
+			"_tsDateAdded": 1730625097
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Improvement",
+					"text": "Improved lighting on the map"
+				},
+				{
+					"cat": "Addition",
+					"text": "More decorations added"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "New bonus level added"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Improved synchronization with music"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "ze_surf_charge_v3_f2_1",
+			"_sVersion": "3.2",
+			"_tsDateAdded": 1730625354
+		}
+	],
 	"_idRow": 544594,
 	"_sName": "ze_surf_charge",
-	"_sText": "This surf map is inspired by the original <b>\"surf_tequila\"</b> created by <b><u>ApeXe</u></b>. It features a one challenging level.<br><br><span class=\"RedColor\"><span class=\"GreenColor\">If someone's rights have been violated, please let me know.</span></span><br>"
+	"_sText": "This surf map is inspired by the original <b>\"surf_tequila\"</b> created by <b><u>ApeXe</u></b>. Most badass gameplay is present!<br><br><span class=\"RedColor\"><span class=\"GreenColor\">If someone's rights have been violated, please let me know.</span></span><br>"
 }

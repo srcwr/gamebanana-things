@@ -4,27 +4,70 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
-					"jb_troubles_final10.bsp",
-					"jb_troubles_final10.nav"
+					"jb_troubles_takeover5.bsp"
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1127216,
-			"_nDownloadCount": 62,
-			"_nFilesize": 63052288,
+			"_idRow": 1197719,
+			"_nDownloadCount": 69,
+			"_nFilesize": 83899637,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
 			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1127216",
-			"_sFile": "jb_troubles_final10.zip",
-			"_sMd5Checksum": "7c8f48dee6e7efe845040b8f9eb86b7a",
-			"_tsDateAdded": 1706066127
+			"_sDownloadUrl": "https://gamebanana.com/dl/1197719",
+			"_sFile": "jb_troubles_takeover5_fd34b.zip",
+			"_sMd5Checksum": "3c4c5903b408a88ee53170489c3479c0",
+			"_tsDateAdded": 1716145418
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Amendment",
+					"text": "Reverted all textures back to original theme (classic style)"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added new game: Long Jumps"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added new game: Irish Car Bomb (replaced descent)"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Added Decals around the map to help tie the theme all in"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added classic colours secret vent from the OG version of jb_troubles"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added secret music room (if abused will be removed)"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added Secret Library"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Changed dodge course song back to the original from OG jb_troubles (cs:go)"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed texture bug near lasers"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "jb_troubles_takeover",
+			"_sVersion": "3",
+			"_tsDateAdded": 1716144337
+		},
 		{
 			"_aChangeLog": [
 				{
@@ -60,69 +103,9 @@
 			"_sTitle": "jb_troubles_final10",
 			"_sVersion": "2.6",
 			"_tsDateAdded": 1706069169
-		},
-		{
-			"_aChangeLog": [
-				{
-					"cat": "Addition",
-					"text": "Added scout secret into armoury ;)"
-				},
-				{
-					"cat": "Addition",
-					"text": "Added health tower near kz colours"
-				},
-				{
-					"cat": "Addition",
-					"text": "Added death climb to indoor main signs"
-				},
-				{
-					"cat": "Addition",
-					"text": "Added secret into surf vent from near lasers"
-				},
-				{
-					"cat": "Addition",
-					"text": "Added HOLY SHIT"
-				},
-				{
-					"cat": "Adjustment",
-					"text": "Increased kz colours time from 4.9 to 5.9"
-				},
-				{
-					"cat": "Suggestion",
-					"text": "Ladder KZ is now impressive"
-				},
-				{
-					"cat": "Tweak",
-					"text": "Changed music in some games to be more #epic"
-				},
-				{
-					"cat": "Bugfix",
-					"text": "Fixed Colours signs not disabling on round end"
-				},
-				{
-					"cat": "Bugfix",
-					"text": "Fixed texture bug in cells"
-				},
-				{
-					"cat": "Bugfix",
-					"text": "Fixed issue with hide and seek recall triggers"
-				},
-				{
-					"cat": "Bugfix",
-					"text": "Made triggers larger for hide and seek start to avoid players jumping not being teleported"
-				},
-				{
-					"cat": "Bugfix",
-					"text": "Fixed bug with trail blazing where if set to hard and then a new round starts the trigger to win for easy will work but wont be visible"
-				}
-			],
-			"_sText": "",
-			"_sTitle": "jb_troubles_final9",
-			"_sVersion": "2.5",
-			"_tsDateAdded": 1705107516
 		}
 	],
 	"_idRow": 480473,
 	"_sName": "Jb_troubles",
-	"_sText": "<b><u><span class=\"OrangeColor\">Games:</span></u></b><br><ol><li class=\"SelectedElement\"><span class=\"GreenColor\">Ski-Ball</span></li><li><span class=\"GreenColor\">Hide and Seek</span></li><li><span class=\"GreenColor\">Strafe Race</span></li><li><span class=\"GreenColor\">Descent</span></li><li><span class=\"GreenColor\">Climb</span></li><li><span class=\"GreenColor\">Skill Jumps</span></li><li><span class=\"GreenColor\">Bhop</span></li><li><span class=\"GreenColor\">Surf</span></li><li><span class=\"GreenColor\">Drop Down</span></li><li><span class=\"GreenColor\">Colours</span></li><li><span class=\"GreenColor\">Death Climb</span></li><li><span class=\"GreenColor\">Dodge Course</span></li><li><span class=\"GreenColor\">Lasers</span></li><li><span class=\"GreenColor\">Trail Blazing</span></li><li><span class=\"GreenColor\">Ladder KZ</span></li><li><span class=\"GreenColor\">KZ Colours</span></li><li><span class=\"GreenColor\">HNS Chase</span></li><li><span class=\"GreenColor\">Corridor Chase</span></li><li><span class=\"GreenColor\">High Dive</span></li><li><span class=\"GreenColor\">Gun Toss</span></li></ol>"
+	"_sText": "<b><u><span class=\"OrangeColor\">Games:</span></u></b><br><ol><li><span class=\"GreenColor\">Ski-Ball</span></li><li><span class=\"GreenColor\">Hide and Seek</span></li><li><span class=\"GreenColor\">Strafe Race</span></li><li><span class=\"GreenColor\">Irish Car Bomb</span></li><li><span class=\"GreenColor\">Climb</span></li><li><span class=\"GreenColor\">Skill Jumps</span></li><li><span class=\"GreenColor\">Bhop</span></li><li><span class=\"GreenColor\">Surf</span></li><li><span class=\"GreenColor\">Drop Down</span></li><li><span class=\"GreenColor\">Colours</span></li><li><span class=\"GreenColor\">Death Climb</span></li><li><span class=\"GreenColor\">Dodge Course</span></li><li><span class=\"GreenColor\">Lasers</span></li><li><span class=\"GreenColor\">Trail Blazing</span></li><li><span class=\"GreenColor\">Ladder KZ</span></li><li><span class=\"GreenColor\">KZ Colours</span></li><li><span class=\"GreenColor\">HNS Chase</span></li><li><span class=\"GreenColor\">Corridor Chase</span></li><li><span class=\"GreenColor\">High Dive</span></li><li><span class=\"GreenColor\">Gun Toss</span><br></li><li class=\"SelectedElement\"> <span class=\"GreenColor\">Long Jumps</span></li></ol>"
 }

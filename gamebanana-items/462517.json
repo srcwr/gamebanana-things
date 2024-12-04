@@ -4,12 +4,34 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
+					"ze_the_parish_m1_v1.cfg",
+					"ze_the_parish_m2_v1.cfg"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 1204899,
+			"_nDownloadCount": 158,
+			"_nFilesize": 711,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
+			"_sDescription": "m1 stipper update",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1204899",
+			"_sFile": "the_parish_stripper_69.rar",
+			"_sMd5Checksum": "3b93e63608cb49a1c73402e06344842d",
+			"_tsDateAdded": 1717127523
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
 					"ze_the_parish_m1_v1.bsp"
 				]
 			},
 			"_bContainsExe": false,
 			"_idRow": 1137901,
-			"_nDownloadCount": 177,
+			"_nDownloadCount": 329,
 			"_nFilesize": 93722795,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -30,7 +52,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1137899,
-			"_nDownloadCount": 123,
+			"_nDownloadCount": 220,
 			"_nFilesize": 89385110,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -42,45 +64,23 @@
 			"_sFile": "ze_the_parish_m2_v1.rar",
 			"_sMd5Checksum": "3e4f2f01b2bef8f2a0acff3628eac3de",
 			"_tsDateAdded": 1707714756
-		},
-		{
-			"_aMetadata": {
-				"_aArchiveFileTree": [
-					"ze_the_parish_m1_v1.cfg",
-					"ze_the_parish_m2_v1.cfg"
-				]
-			},
-			"_bContainsExe": false,
-			"_idRow": 1141193,
-			"_nDownloadCount": 59,
-			"_nFilesize": 735,
-			"_sAnalysisResult": "File passed analysis",
-			"_sAnalysisResultCode": "ok",
-			"_sAnalysisState": "done",
-			"_sAvastAvResult": "clean",
-			"_sClamAvResult": "clean",
-			"_sDescription": "All Stripper",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1141193",
-			"_sFile": "the_parish_stripper.rar",
-			"_sMd5Checksum": "61524b7dd3d6d364ee5b3e8e96c78e80",
-			"_tsDateAdded": 1708238565
 		}
 	],
 	"_aLatestUpdates": [
 		{
 			"_aChangeLog": [],
-			"_sText": "<p>Fixes multiplayer cutscene bug</p>",
-			"_sTitle": "m1 intro cutscene fix",
-			"_tsDateAdded": 1708238748
+			"_sText": "<p>now actually fixed m1 intro cutscene</p>",
+			"_sTitle": "m1 cutscene fix",
+			"_tsDateAdded": 1717127600
 		},
 		{
 			"_aChangeLog": [],
-			"_sText": "<ul><li><p>Improving the first map</p></li><li><p>Porting the second map</p></li><li><p>Also compress the map</p><p></p></li></ul>",
-			"_sTitle": "First map improvement & porting second map",
-			"_tsDateAdded": 1707715117
+			"_sText": "<p>Fixes multiplayer cutscene bug</p>",
+			"_sTitle": "m1 intro cutscene fix",
+			"_tsDateAdded": 1708238748
 		}
 	],
 	"_idRow": 462517,
 	"_sName": "ze_the_parish",
-	"_sText": "<h1>Chartapilus's CSS ZE</h1><h2><a href=\"https://gamebanana.com/mods/421953\">I</a> | <span class=\"GreenColor\">II</span> | III | IV | V</h2><br><b>The Parish</b> from <b>Left 4 Dead 2 </b>(5th campaign), ported and modified to become zombie escape map.<br><hr><ul><li><del>The map is currently <b>only have the first chapter</b> of the campaign, so the gameplay is <b>less than 5 minutes</b>.</del></li><li>Map has a randomize path that can go for the sake of replayability.</li><li>I will <b>probably combine all the chapter into 1 map</b> instead.</li><li><b>No unnecessary sounds/musics are added to this port</b>, all sounds and ambient are using  from the original map in L4D2</li></ul><hr><span class=\"Spoiler\">m1 stand for \"map 1\" and v is version of the map</span><br><br>Possible challenge for this maps:<br>-TMP & pump Shotgun ONLY<br>-50% infect rate<br>"
+	"_sText": "<h1>Chartapilus's CSS ZE</h1><h2 class=\"SelectedElement\"><a href=\"https://gamebanana.com/mods/421953\">I</a> |&nbsp;<span class=\"GreenColor\">II</span>&nbsp;|&nbsp;<a href=\"https://gamebanana.com/mods/532724\">III</a>&nbsp;| IV | V</h2><br><b>The Parish</b> from <b>Left 4 Dead 2 </b>(5th campaign), ported and modified to become zombie escape map.<br><hr><ul><li><del>The map is currently <b>only have the first chapter</b> of the campaign, so the gameplay is <b>less than 5 minutes</b>.</del></li><li>Map has a randomize path that can go for the sake of&nbsp;replayability.</li><li>I will <b>probably combine all the chapter into 1 map</b> instead.</li><li><b>No unnecessary sounds/musics are added to this port</b>, all sounds and ambient are using&nbsp; from the original map in L4D2</li></ul><hr><span class=\"Spoiler\">m1 stand for \"map 1\" and v is version of the map</span><br><br>Possible challenge for this maps:<br>-TMP &amp; pump Shotgun ONLY<br>-50% infect rate<br>"
 }

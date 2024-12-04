@@ -12,7 +12,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1217932,
-			"_nDownloadCount": 25,
+			"_nDownloadCount": 75,
 			"_nFilesize": 1005586,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -36,7 +36,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1219210,
-			"_nDownloadCount": 17,
+			"_nDownloadCount": 66,
 			"_nFilesize": 1087082,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -54,23 +54,23 @@
 		{
 			"_aChangeLog": [
 				{
-					"cat": "",
+					"cat": "Adjustment",
 					"text": "Changed bombsite A"
 				},
 				{
-					"cat": "",
+					"cat": "Removal",
 					"text": "Closed up gap besides a side building"
 				},
 				{
-					"cat": "",
+					"cat": "Addition",
 					"text": "Added soundscapes & cubemaps"
 				},
 				{
-					"cat": "",
+					"cat": "Addition",
 					"text": "Added road behind ct spawn"
 				},
 				{
-					"cat": "",
+					"cat": "Adjustment",
 					"text": "Moved ct spawn forward"
 				}
 			],
