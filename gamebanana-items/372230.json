@@ -4,27 +4,35 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
-					"bhop_foliage_fix_css.bsp"
+					"bhop_foliage_fix.bsp"
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 785657,
-			"_nDownloadCount": 44,
-			"_nFilesize": 15502773,
+			"_idRow": 1336277,
+			"_nDownloadCount": 0,
+			"_nFilesize": 12089774,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
 			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
-			"_sDescription": "bhop_foliage_fix_css",
-			"_sDownloadUrl": "https://gamebanana.com/dl/785657",
-			"_sFile": "bhop_foliage_fix_css.zip",
-			"_sMd5Checksum": "7385e50fe77620563b56525db5187a1a",
-			"_tsDateAdded": 1650335123
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1336277",
+			"_sFile": "bhop_foliage_fix.zip",
+			"_sMd5Checksum": "ea37e8ac5f33b79cc8f6efbd7c62000f",
+			"_tsDateAdded": 1733360866
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [],
+			"_sText": "<p>Updated booster, fixed skybox</p>",
+			"_sTitle": "Updated booster",
+			"_sVersion": "2",
+			"_tsDateAdded": 1733360891
+		}
+	],
 	"_idRow": 372230,
 	"_sName": "bhop_foliage_fix (CS:S)",
-	"_sText": "<span class=\"GreenColor SelectedElement\">Port of CS:GO Short speedrun map by<span class=\"RedColor\"> </span></span><span class=\"RedColor\">Jethro!</span><br><br><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/Za-iAjTt-uc\" frameborder=\"0\" allowfullscreen=\"\"></iframe><br>A technical designed speedrun map.<br>about 35 seconds to 45 seconds long<br><br>Report any problems to me - Remade booster triggers<br><br>Mapper: https://steamcommunity.com/id/jethrodude<br>Porter: https://steamcommunity.com/id/FiBzYDev/<br><br>Join our Discord: <a class=\"bb_link\" href=\"https://steamcommunity.com/linkfilter/?url=https://discord.gg/ZFkgPTSZz6\" target=\"_blank\">https://discord.gg/ZFkgPTSZz6</a><br>"
+	"_sText": "<span class=\"GreenColor SelectedElement\">Port of CS:GO Short speedrun map by<span class=\"RedColor\"> </span></span><span class=\"RedColor\">Jethro!</span><br><br><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/Za-iAjTt-uc\" frameborder=\"0\" allowfullscreen=\"\"></iframe><br>A technical designed speedrun map.<br>about 35 seconds to 45 seconds long<br><br>Report any problems to me<br><br>Mapper: https://steamcommunity.com/id/jethrodude<br>Porter: https://steamcommunity.com/id/FiBzYDev/<br><br>Updated correct skybox, fixed broken booster."
 }
