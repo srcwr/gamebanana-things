@@ -3,28 +3,60 @@
 	"_aFiles": [
 		{
 			"_aMetadata": {
-				"_aArchiveFileTree": [
-					"gg_majorsnow.bsp"
-				]
+				"_aArchiveFileTree": {
+					"Compressed": [
+						"gg_majorsnow.bsp",
+						"gg_majorsnow_nw.bsp"
+					],
+					"Uncompressed": [
+						"gg_majorsnow.bsp",
+						"gg_majorsnow_nw.bsp"
+					]
+				}
 			},
 			"_bContainsExe": false,
-			"_idRow": 1334945,
-			"_nDownloadCount": 35,
-			"_nFilesize": 2985280,
+			"_idRow": 1339779,
+			"_nDownloadCount": 0,
+			"_nFilesize": 20824632,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
 			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1334945",
-			"_sFile": "gg_majorsnow.rar",
-			"_sMd5Checksum": "48cc5badb1753958f1564b0282c9a5cd",
-			"_tsDateAdded": 1733159034
+			"_sDownloadUrl": "https://gamebanana.com/dl/1339779",
+			"_sFile": "gg_majorsnow_v2.rar",
+			"_sMd5Checksum": "087ddc93c89c96467bbd891f474c4e0d",
+			"_tsDateAdded": 1733867196
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "",
+					"text": "Minimap added"
+				},
+				{
+					"cat": "",
+					"text": "Fixed glass texture that glowed in HDR"
+				},
+				{
+					"cat": "",
+					"text": "Map version w/o weapons"
+				},
+				{
+					"cat": "",
+					"text": "Compressed and Uncompressed versions added"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "BugFix + NoWeapon map",
+			"_sVersion": "v2",
+			"_tsDateAdded": 1733866924
+		}
+	],
 	"_idRow": 559872,
 	"_sName": "Russian New Year's GG MAP",
-	"_sText": "Introdusing my fist map:<br>- Several audio effects and music<br>- New year's mood (snowmans,xmas tree,music and&nbsp;string of lights)<br>- No buyzone<br>- Additional 4 grenades<br>- Emergency deagle for grenade round (only 1 mag)<br>- Breakable glasses (2 sides where deagle is and connecting part are not breakable)<br><br>"
+	"_sText": "Introdusing my fist map:<br>- Several audio effects and music<br>- New year's mood (snowmans,xmas tree,music and string of lights)<br>- No buyzone<br>- Additional 4 grenades<br>- Emergency deagle for grenade round (only 1 mag)<br>- Breakable glasses (2 sides where deagle is and connecting part are not breakable)<br><br>"
 }
