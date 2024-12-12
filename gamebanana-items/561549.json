@@ -2,14 +2,22 @@
 	"_aAlternateFileSources": null,
 	"_aFiles": [
 		{
-			"_aMetadata": [],
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"mircoworld  (update 1 final)": [
+						"dm_mirco world.bsp"
+					]
+				}
+			},
 			"_bContainsExe": false,
 			"_idRow": 1340122,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 3,
 			"_nFilesize": 7569,
-			"_sAnalysisResult": "Undetermined",
-			"_sAnalysisResultCode": "undetermined",
-			"_sAnalysisState": "pending",
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1340122",
 			"_sFile": "mircoworld_update_1_final_.zip",
@@ -17,7 +25,15 @@
 			"_tsDateAdded": 1733924169
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [],
+			"_sText": "<p>added skybox,and the bot add is also fixed (was easy ngl)</p>",
+			"_sTitle": "mircoworld fix",
+			"_sVersion": "1.1",
+			"_tsDateAdded": 1733924253
+		}
+	],
 	"_idRow": 561549,
 	"_sName": "dm_microworld",
 	"_sText": "just a random weird and strange world that in the void<br><br>bugs that's fixed:<br>bots dont spawn (just needs skybox)<br>no skybox(has skybox)<br><br>"

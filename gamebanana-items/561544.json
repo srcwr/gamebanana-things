@@ -8,20 +8,30 @@
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1339975,
+			"_idRow": 1340412,
 			"_nDownloadCount": 0,
-			"_nFilesize": 33417918,
+			"_nFilesize": 21587580,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
-			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1339975",
-			"_sFile": "bhop_0zirk_bca9a.zip",
-			"_sMd5Checksum": "3bc164de86bb8cc2a7c7857aa8b0c831",
-			"_tsDateAdded": 1733888594
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
+			"_sDescription": "Updated",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1340412",
+			"_sFile": "bhop_0zirk_dbbf9.zip",
+			"_sMd5Checksum": "0742fb3b54f0299aef111359aecc30c6",
+			"_tsDateAdded": 1733963370
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [],
+			"_sText": "<p>Fixed lighting, added more source freindly models</p>",
+			"_sTitle": "Update v2",
+			"_sVersion": "2",
+			"_tsDateAdded": 1733963858
+		}
+	],
 	"_idRow": 561544,
 	"_sName": "bhop_0zirk",
 	"_sText": "Recent port of bhop_0zirk by 3nrk<br><br>Ported by FiBzY<br><br><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/h41yNx3M5-8\" frameborder=\"0\" allowfullscreen=\"\"></iframe><br><br>Longer map, hours of porting. <br><br>model take while to load might update soon and lower the poly count"
