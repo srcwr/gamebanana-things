@@ -1,0 +1,52 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"maps": [
+						"tundra.nav"
+					],
+					"materials": {
+						"ARCH": [
+							"BLENDSNOW_ASPHAULT_ARCH.vmt"
+						],
+						"fool": {
+							"mw2": [
+								"icbm_tunnelfloor.vmt",
+								"icbm_tunnelfloor.vtf",
+								"metal_corrugated_panel_snow_col.vmt",
+								"metal_corrugated_panel_snow_col.vtf"
+							]
+						},
+						"maps": {
+							"tundra": {
+								"0": "cubemapdefault.hdr.vtf",
+								"1": "cubemapdefault.vtf",
+								"arch": [
+									"blendsnow_asphault_arch_wvt_patch.vmt"
+								]
+							}
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 1342420,
+			"_nDownloadCount": 0,
+			"_nFilesize": 554869,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1342420",
+			"_sFile": "tundra_41e80.zip",
+			"_sMd5Checksum": "8ea501049f0f578bd87d7dbe733dfa58",
+			"_tsDateAdded": 1734257427
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 562331,
+	"_sName": "fy_tundra",
+	"_sText": "a map inspired from the game called SFG2 (Special Force Group 2)<br><br>Enjoy the chaos... it is deathmatch compatible if you want to...."
+}
