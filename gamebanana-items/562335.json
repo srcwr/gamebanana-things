@@ -1,0 +1,52 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"tr_ground": {
+						"cstrike": {
+							"custom": {
+								"tr_ground": {
+									"scripts": [
+										"game_sounds_world.txt"
+									]
+								}
+							},
+							"maps": [
+								"tr_ground.bsp"
+							],
+							"scripts": [
+								"game_sounds_world.txt"
+							],
+							"sound": {
+								"sh": [
+									"PickUpAmmo_Wave.wav",
+									"WeaponCrate_Open_Wave.wav"
+								]
+							}
+						}
+					}
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 1342432,
+			"_nDownloadCount": 0,
+			"_nFilesize": 6527087,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1342432",
+			"_sFile": "tr_ground.7z",
+			"_sMd5Checksum": "b1fbf019dd81979d5827ec254730475a",
+			"_tsDateAdded": 1734259583
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 562335,
+	"_sName": "Training ground",
+	"_sText": "<font _mstmutation=\"1\" _msttexthash=\"20465055\" _msthash=\"6982\">地图名称：tr_ground</font>适合各类 Mod 创作者的 demo 训练室，地图中的饮料机可以互动，地图射击目标包括 1m、5m、10m 和 20m，无限使用武器。享受！<br><br>"
+}
