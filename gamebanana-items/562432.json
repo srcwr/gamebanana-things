@@ -2,14 +2,25 @@
 	"_aAlternateFileSources": null,
 	"_aFiles": [
 		{
-			"_aMetadata": [],
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"1.png",
+					"2.png",
+					"3.png",
+					"4.png",
+					"de_ledok_fort.bsp",
+					"de_ledok_fort.nav"
+				]
+			},
 			"_bContainsExe": false,
 			"_idRow": 1342715,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 3,
 			"_nFilesize": 10459007,
-			"_sAnalysisResult": "Undetermined",
-			"_sAnalysisResultCode": "undetermined",
-			"_sAnalysisState": "pending",
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1342715",
 			"_sFile": "de_ledok_fort_42807.rar",

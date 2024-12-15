@@ -33,7 +33,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1342420,
-			"_nDownloadCount": 14,
+			"_nDownloadCount": 21,
 			"_nFilesize": 554869,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -45,9 +45,41 @@
 			"_sFile": "tundra_41e80.zip",
 			"_sMd5Checksum": "8ea501049f0f578bd87d7dbe733dfa58",
 			"_tsDateAdded": 1734257427
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"tundra.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 1342808,
+			"_nDownloadCount": 0,
+			"_nFilesize": 1034968,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1342808",
+			"_sFile": "tundrabsp.zip",
+			"_sMd5Checksum": "ad761cc50f7599a27e312c3cc1ca5c90",
+			"_tsDateAdded": 1734303544
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Add bsp file cuz i forgot to put it on the zip"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Forgot the bsp lol",
+			"_sVersion": "1",
+			"_tsDateAdded": 1734303640
+		}
+	],
 	"_idRow": 562331,
 	"_sName": "fy_tundra",
 	"_sText": "a map inspired from the game called SFG2 (Special Force Group 2)<br><br>Enjoy the chaos... it is deathmatch compatible if you want to...."
