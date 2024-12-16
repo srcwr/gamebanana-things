@@ -4,10 +4,10 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": {
-					"de_mirage_cs2": {
+					"de_inferno_cs2": {
 						"maps": [
-							"de_mirage_cs2.bsp",
-							"de_mirage_cs2.nav"
+							"de_Inferno_cs2.bsp",
+							"de_inferno_cs2.nav"
 						],
 						"materials": {
 							"overviews": [
@@ -50,28 +50,31 @@
 								"de_vertigo_cs2.txt",
 								"fy_mirage_cs2.txt"
 							]
-						}
+						},
+						"sound": [
+							"sound.cache"
+						]
 					}
 				}
 			},
 			"_bContainsExe": false,
-			"_idRow": 1342530,
-			"_nDownloadCount": 65,
-			"_nFilesize": 43048569,
+			"_idRow": 1343102,
+			"_nDownloadCount": 0,
+			"_nFilesize": 165960344,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
 			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1342530",
-			"_sFile": "de_mirage_cs2.7z",
-			"_sMd5Checksum": "43c9c2513fd7cea27456e770120e750b",
-			"_tsDateAdded": 1734269492
+			"_sDownloadUrl": "https://gamebanana.com/dl/1343102",
+			"_sFile": "de_inferno_cs2.7z",
+			"_sMd5Checksum": "60dc6878e52b7bc2d36eeb1f889febad",
+			"_tsDateAdded": 1734355165
 		}
 	],
 	"_aLatestUpdates": [],
-	"_idRow": 562378,
-	"_sName": "MIRAGE CS2 [CSS][CSSO]",
-	"_sText": "<font><font>КАРТА CS2 [MIRAGE] FOR CSS AND CSS</font></font><br>"
+	"_idRow": 562565,
+	"_sName": "INFERNO CS2 [CSS][CSSO]",
+	"_sText": "My tg: https://t.me/cssoskinacks<br>My boosty: https://boosty.to/lipo69/donate"
 }
