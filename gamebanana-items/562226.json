@@ -19,14 +19,43 @@
 			"_sAnalysisState": "done",
 			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
-			"_sDescription": "",
+			"_sDescription": "Classic",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1342091",
 			"_sFile": "de_ventilation_systems.zip",
 			"_sMd5Checksum": "72d78aa82c6f3caf1a95ae452fdc49cb",
 			"_tsDateAdded": 1734214377
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_ventilation_systems_for_bots.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 1343210,
+			"_nDownloadCount": 0,
+			"_nFilesize": 527301,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
+			"_sDescription": "For bots",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1343210",
+			"_sFile": "de_ventilation_systems_for_bots.zip",
+			"_sMd5Checksum": "371ae5bbc457508c3c915e48c02c18c7",
+			"_tsDateAdded": 1734372087
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [],
+			"_sText": "<p>Теперь боты не будут застревать в местах и теперь вы будете играть с ботами нормально, это для тех кто ненавидит то что боты не могут поставить бомбы, или наоборот их разминировать, но если хотите играть как до этого, я оставлю классику</p>",
+			"_sTitle": "Обновления",
+			"_sVersion": "0.2",
+			"_tsDateAdded": 1734372417
+		}
+	],
 	"_idRow": 562226,
 	"_sName": "Ventilation systems",
 	"_sText": "Карта основано на клаустрофобий, а то есть замкнутые пространства, а если запустить карту в одиночку без кого либо то появится чувство лиминальности или же закулисье, данная карта состоит из одних только вентиляционных систем, также есть комнаты с забытыми вещами из лабораторий,<br>однако там можно свершить теракт, как думают террористы, потому что там есть такие пространства которые можно взрывать, потому что там удобно взорвать и там нет людей однако всех уже эвакуировали только террористы об этом не знали, поэтому спецназы пока они внутри вентиляций, вить по секретным камерам там были найдены террористы,<br><h3 class=\"SelectedElement\">поэтому вы либо должны взорвать раньше чем вас нашли, либо не дать им взорвать лабораторию, также прошу вас ради бога <span class=\"RedColor\">н̷̳̅е̴̡̛͔͓̝͈́̓̍̌͗͌̋̏̇͋̈́͂̔̎͌̌͌̇̋͂̈͗̐̈́͐̉̚͝к̷̡̨̫̤̦͚̻̹̘̮͎͍̥̥͉̠̹̟͖̯̯̬̱̲̖̽̌̊̀̃̂̃̈́̽͑̃͐̅̈̕͜͜͟͟ͅӧ̵̛͎̪̙̯͓̎̑̉̏̂͌̆̿̽͂̔̋͑̐̚͡͡ͅͅг̴̧̨͕̤̪̺̝̤̘̞͖̱̺̝̖̩̻̖̙̜͈͗̊̎̐́̋̀͌͂̕͘д̵̡̢͇̝̩͉̥̗͖̫̮͎̪̥̙̗͍̟̞̰͓͍̺̮̦̤̻̘͆̊͛̊̊̅̓͟͠а̴̧̨̹͓͖̼̙̥̣̯͕̲̣́̒̈́͊̀̄̋̈́̋̑̂̈́́̕  н̷̳̅е̷̲̭̙̬̏͌̿̑̈́  идите за красным светом.</span></h3>"
