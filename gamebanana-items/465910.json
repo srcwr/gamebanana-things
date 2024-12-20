@@ -16,7 +16,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1169758,
-			"_nDownloadCount": 55,
+			"_nDownloadCount": 60,
 			"_nFilesize": 36148721,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -31,6 +31,22 @@
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Adjustment",
+					"text": "Some changes."
+				},
+				{
+					"cat": "Addition",
+					"text": "Added some buildings."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "ze_eerie_escape_redux_v2_1",
+			"_sVersion": "v2_1_redux",
+			"_tsDateAdded": 1734662398
+		},
 		{
 			"_aChangeLog": [
 				{
@@ -58,18 +74,6 @@
 			"_sTitle": "ze_eerie_escape__redux_v2_1",
 			"_sVersion": "redux_v2_1",
 			"_tsDateAdded": 1712344782
-		},
-		{
-			"_aChangeLog": [
-				{
-					"cat": "Bugfix",
-					"text": "Fixed zombie teleport issue in level_case. Fixed using stripper."
-				}
-			],
-			"_sText": "",
-			"_sTitle": "ze_eerie_escape_redux_v2",
-			"_sVersion": "redux_v2",
-			"_tsDateAdded": 1702214602
 		}
 	],
 	"_idRow": 465910,
