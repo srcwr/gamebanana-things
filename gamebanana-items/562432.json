@@ -17,14 +17,43 @@
 			"_sAnalysisState": "done",
 			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
-			"_sDescription": "fixed",
+			"_sDescription": "bridges with levers",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1344472",
 			"_sFile": "de_ledok_fort_fix_80d03.rar",
 			"_sMd5Checksum": "bbeb83071fc5ab95ed9fbe3cb07c9b28",
 			"_tsDateAdded": 1734561029
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_ledok_fort_v1.bsp",
+					"de_ledok_fort_v1.nav"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 1347791,
+			"_nDownloadCount": 0,
+			"_nFilesize": 1735202,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
+			"_sDescription": "automatic bridges, without levers",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1347791",
+			"_sFile": "de_ledok_fort_v1.rar",
+			"_sMd5Checksum": "2f2d9e1f9d2bd23096f46d5e771a42bc",
+			"_tsDateAdded": 1734980512
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [],
+			"_sText": "<p>Automatic bridges, without levers.</p>",
+			"_sTitle": "de_ledok_fort_v1",
+			"_sVersion": "v1",
+			"_tsDateAdded": 1734980700
+		},
 		{
 			"_aChangeLog": [],
 			"_sText": "<p>Changes: </p><ul><li><p>Fixed the operation of levers for bridges. </p></li><li><p>Adjusted the lighting. </p></li><li><p>Now the red light flashes when the bomb is installed.</p></li></ul>",
