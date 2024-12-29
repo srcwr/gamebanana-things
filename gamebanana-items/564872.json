@@ -8,22 +8,34 @@
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1349791,
-			"_nDownloadCount": 21,
-			"_nFilesize": 323321,
+			"_idRow": 1351810,
+			"_nDownloadCount": 0,
+			"_nFilesize": 323934,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
 			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1349791",
-			"_sFile": "bhop_hellyeah_ba56f.7z",
-			"_sMd5Checksum": "5bf7e9b53c0ce6c48710ee89a9c74c31",
-			"_tsDateAdded": 1735221759
+			"_sDownloadUrl": "https://gamebanana.com/dl/1351810",
+			"_sFile": "bhop_hellyeah_7127f.7z",
+			"_sMd5Checksum": "5babcb4ea525345a13c778c0f6e8c5a9",
+			"_tsDateAdded": 1735482997
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "",
+					"text": "Fixed missing textures (hopefully)"
+				}
+			],
+			"_sText": "<p>hopefully fixed ????</p>",
+			"_sTitle": "Fixed missing textures",
+			"_tsDateAdded": 1735483197
+		}
+	],
 	"_idRow": 564872,
 	"_sName": "bhop_hellyeah",
 	"_sText": "My first map in 4 years!<br>Short 15 second map<br>Hope everyone enjoys!"
