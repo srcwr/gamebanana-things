@@ -9,19 +9,71 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 655572,
-			"_nDownloadCount": 117,
+			"_nDownloadCount": 160,
 			"_nFilesize": 71739259,
 			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/655572",
 			"_sFile": "jb_moonjail_v2_83c10.rar",
 			"_sMd5Checksum": "2ce1d8e2d0a512e8901a400322ca6584",
 			"_tsDateAdded": 1631271500
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"jb_moonjail_v3.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 1352349,
+			"_nDownloadCount": 0,
+			"_nFilesize": 61145678,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1352349",
+			"_sFile": "jb_moonjail_v3.rar",
+			"_sMd5Checksum": "0c7f69f283e921de0e9db9a10c157e81",
+			"_tsDateAdded": 1735550705
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Optimization",
+					"text": "Recompiled CSGO Models for CSS"
+				},
+				{
+					"cat": "Optimization",
+					"text": "Func_Detailed the map and optimized VIS"
+				},
+				{
+					"cat": "Optimization",
+					"text": "Added a few Hint/Skip & Area Portals"
+				},
+				{
+					"cat": "Optimization",
+					"text": "Fixed a few Textures"
+				},
+				{
+					"cat": "Optimization",
+					"text": "Repacked Map Size down from 180 MB to 59 MB"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Optimization Update",
+			"_sVersion": "v3",
+			"_tsDateAdded": 1735550428
+		}
+	],
 	"_idRow": 320593,
 	"_sName": "jb_moonjail_v2",
 	"_sText": "A port of <a href=\"https://gamebanana.com/mods/79432\">jb_moonjail</a> by <a href=\"https://gamebanana.com/members/1511709\">^Dede</a> which was made for CSGO jailbreak.<br><br>Special Features:<br>-Extendable Armory<br>-Airlock to get outside<br><span class=\"SelectedElement\">-6 Teleport rooms to access all parts of the map easier (you need 1 CT + 1 T so it works)</span><br>-28 Games ! (Rocket game outside was removed in hopes of reducing entity count.)<br>"
