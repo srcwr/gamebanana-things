@@ -4,28 +4,44 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": {
-					"zm_building": [
-						"zm_Building_v3D.bsp",
-						"zm_Building_v3N.bsp",
-						"zm_Building_v3W.bsp"
+					"zm_Building": [
+						"zm_Building_v4D.bsp",
+						"zm_Building_v4E.bsp",
+						"zm_Building_v4N.bsp",
+						"zm_Building_v4W.bsp"
 					]
 				}
 			},
 			"_bContainsExe": false,
-			"_idRow": 715528,
-			"_nDownloadCount": 381,
-			"_nFilesize": 136281434,
+			"_idRow": 1353147,
+			"_nDownloadCount": 0,
+			"_nFilesize": 111552978,
 			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
-			"_sClamAvResult": "clean",
 			"_sDescription": "zm_Building",
-			"_sDownloadUrl": "https://gamebanana.com/dl/715528",
-			"_sFile": "zm_building_58643.7z",
-			"_sMd5Checksum": "27d1fe8280dd9223375421449725010a",
-			"_tsDateAdded": 1640256311
+			"_sDownloadUrl": "https://gamebanana.com/dl/1353147",
+			"_sFile": "zm_building.7z",
+			"_sMd5Checksum": "71420cd2f256b4185ca302be3d5dac59",
+			"_tsDateAdded": 1735644783
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "New geometry"
+				},
+				{
+					"cat": "Addition",
+					"text": "Evening vesion"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "v3.0",
+			"_tsDateAdded": 1735645025
+		},
 		{
 			"_aChangeLog": [
 				{
@@ -52,5 +68,5 @@
 	],
 	"_idRow": 311025,
 	"_sName": "zm_Building",
-	"_sText": "The building under construction. Map has three versions: daytime, night and smoky. There are some helicopters, dynamic car, rotating cranes and code door.<br><br>"
+	"_sText": "The buildings under construction. Map has four versions: daytime, evening,&nbsp;night and smoky.&nbsp;There are some helicopters, dynamic cars and rotating cranes.<br><br>"
 }
