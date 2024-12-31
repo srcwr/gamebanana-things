@@ -9,10 +9,12 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 635121,
-			"_nDownloadCount": 62,
+			"_nDownloadCount": 81,
 			"_nFilesize": 36656430,
 			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/635121",
@@ -29,19 +31,60 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 638980,
-			"_nDownloadCount": 87,
+			"_nDownloadCount": 119,
 			"_nFilesize": 36734692,
 			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/638980",
 			"_sFile": "jb_prison_architect_v2.rar",
 			"_sMd5Checksum": "ae00fcf88840ecadd708cb6f598f90d1",
 			"_tsDateAdded": 1629202681
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"jb_prison_architect_v3.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 1353374,
+			"_nDownloadCount": 0,
+			"_nFilesize": 26907851,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1353374",
+			"_sFile": "jb_prison_architect_v3.rar",
+			"_sMd5Checksum": "0bb25b3df3e81968f97171b45f1100b3",
+			"_tsDateAdded": 1735667680
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Optimization",
+					"text": "Recompiled CSGO Models for CSS"
+				},
+				{
+					"cat": "Optimization",
+					"text": "Fixed a few Textures"
+				},
+				{
+					"cat": "Optimization",
+					"text": "Repacked Map Size down from 91 MB to 26 MB"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Optimization Update",
+			"_sVersion": "v3",
+			"_tsDateAdded": 1735667568
+		},
 		{
 			"_aChangeLog": [
 				{
@@ -54,11 +97,12 @@
 				}
 			],
 			"_sText": "",
-			"_sTitle": "v2",
+			"_sTitle": "Entity Count Update",
+			"_sVersion": "v2",
 			"_tsDateAdded": 1629202973
 		}
 	],
 	"_idRow": 313115,
-	"_sName": "jb_prison_architect",
-	"_sText": "<i><b><span class=\"GreenColor\">This map is a port from CSGO which can be found here :</span></b></i><br><font color=\"#6ee16c\"><b><i><a href=\"https://gamebanana.com/mods/79454\">https://gamebanana.com/mods/79454</a></i></b></font><br><a href=\"https://steamcommunity.com/sharedfiles/filedetails/?id=1599314888\" target=\"_blank\">>Workshop Link<</a><br><br><i><b><span class=\"GreenColor\">Map is based on the game Prison Architect by Introversion Software.</span></b></i><br><br><span class=\"GreenColor\"><i><b>Textures made by <a href=\"//tkellaway\">Tobyjk</a>, without him this wouldn't be possible.</b></i><br><i><b>Map created by <a href=\"https://gamebanana.com/members/1169378\">ZelezoBeton</a></b></i><br><i><b>Port by <a href=\"https://gamebanana.com/members/1754696\">Fronexe</a></b></i><a href=\"https://gamebanana.com/members/1754696\"><br></a></span><i><br>36 T spawns<br>18 CT spawns<br><br><b><span class=\"GreenColor\"><span class=\"RedColor\"><span class=\"GreenColor\">Features:</span></span></span></b><br><ul class=\"SelectedElement\"><li><i>Soccer</i></li><li><i>Climb</i></li><li><i>Jailopoly</i></li><li><i>Team race</i></li><li><i>Pool</i></li><li><i>Water polo</i></li><li><i>Castle wars</i></li><li><i>Human calculator</i></li><li><i>Food poisoning</i></li><li><i>Talent</i></li><li><i>Rope</i></li><li><i>Death ball</i></li><li><i>Race</i></li><li><i>Russian roulette</i></li><li><i>Rock paper scissors</i></li><li><i>Disco</i></li><li><i>Forklift</i></li><li><i>Four corners</i></li></ul><br><span class=\"GreenColor\"><b>Some useful gameplay info:</b></span><br><ul><li><i>In warden's office CTs can choose between AWPs, armor or tracking prisoners in cells.</i></li><li><i>Green doors are only for CTs, if Ts want to go through them they must destroy them first.</i></li><li><i>In every bottom cell is a toilet with vent, but only 1 or 2 are breakable randomly.</i></li><li><i>Some buttons are only for CTs to prevent early start of a attraction. (4 corners, rope etc.)</i></li><li><i>Crossing the path of a vehicle isn't good idea.</i><br><br></li></ul><b><span class=\"GreenColor\">Thanks for download and have fun! :)</span></b></i>"
+	"_sName": "JB Prison Architect",
+	"_sText": "<i><b><span class=\"GreenColor\">This map is a port from CSGO which can be found here :</span></b></i><br><font color=\"#6ee16c\"><b><i><a href=\"https://gamebanana.com/mods/79454\">https://gamebanana.com/mods/79454</a></i></b></font><br><a href=\"https://steamcommunity.com/sharedfiles/filedetails/?id=1599314888\" target=\"_blank\">&gt;Workshop Link&lt;</a><br><br><i><b><span class=\"GreenColor\">Map is based on the game Prison Architect by Introversion Software.</span></b></i><br><br><span class=\"GreenColor\"><i><b>Textures made by <a href=\"//tkellaway\">Tobyjk</a>, without him this wouldn't be possible.</b></i><br><i><b>Map created by <a href=\"https://gamebanana.com/members/1169378\">ZelezoBeton</a></b></i><br><i><b>Port by <a href=\"https://gamebanana.com/members/1754696\">Fronexe</a></b></i><a href=\"https://gamebanana.com/members/1754696\"><br></a></span><i><br>36 T spawns<br>18 CT spawns<br><br><b><span class=\"GreenColor\"><span class=\"RedColor\"><span class=\"GreenColor\">Features:</span></span></span></b><br><ul><li><i>Soccer</i></li><li><i>Climb</i></li><li><i>Jailopoly</i></li><li><i>Team race</i></li><li><i>Pool</i></li><li><i>Water polo</i></li><li><i>Castle wars</i></li><li><i>Human calculator</i></li><li><i>Food poisoning</i></li><li><i>Talent</i></li><li><i>Rope</i></li><li><i>Death ball</i></li><li><i>Race</i></li><li class=\"SelectedElement\"><i>Russian roulette - (Removed in v2)</i><br></li><li><i>Rock paper scissors</i></li><li><i>Disco</i></li><li><i>Forklift</i></li><li><i>Four corners</i></li></ul><br><span class=\"GreenColor\"><b>Some useful gameplay info:</b></span><br><ul><li><i>In warden's office CTs can choose between AWPs, armor or tracking prisoners in cells.</i></li><li><i>Green doors are only for CTs, if Ts want to go through them they must destroy them first.</i></li><li><i>In every bottom cell is a toilet with vent, but only 1 or 2 are breakable randomly.</i></li><li><i>Some buttons are only for CTs to prevent early start of a attraction. (4 corners, rope etc.)</i></li><li><i>Crossing the path of a vehicle isn't good idea.</i><br><br></li></ul><b><span class=\"GreenColor\">Thanks for download and have fun! :)</span></b></i>"
 }
