@@ -10,19 +10,63 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 503249,
-			"_nDownloadCount": 120,
+			"_nDownloadCount": 167,
 			"_nFilesize": 22431969,
 			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/503249",
 			"_sFile": "jb_overcooked_446ed.rar",
 			"_sMd5Checksum": "",
 			"_tsDateAdded": 1608830785
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"jb_overcooked_v2.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 1354147,
+			"_nDownloadCount": 0,
+			"_nFilesize": 21479067,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1354147",
+			"_sFile": "jb_overcooked_v2.rar",
+			"_sMd5Checksum": "21019db66b5e982594ecc57390570d76",
+			"_tsDateAdded": 1735750936
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Optimization",
+					"text": "Recompiled CSGO Models for CSS"
+				},
+				{
+					"cat": "Optimization",
+					"text": "Fixed a few Textures & models placement"
+				},
+				{
+					"cat": "Optimization",
+					"text": "Repacked Map Size down from 121 MB to 20 MB"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Optimization Update",
+			"_sVersion": "v2",
+			"_tsDateAdded": 1735751080
+		}
+	],
 	"_idRow": 129780,
 	"_sName": "JB Overcooked",
 	"_sText": "<b class=\"SelectedElement\">This is a port from a wonderful <a href=\"https://gamebanana.com/maps/211291\">jailbreak Csgo map</a>  created by <a href=\"https://gamebanana.com/members/1363831\">Taurus#</a> filled with many unique games.<br><br>JB overcooked is a compact Jailbreak map with a wide variety of well-known mini-games and some brand new ones. The map has a standard rectangular layout which makes it easy to navigate and learn.<br>The theme is basically everything about cooking including dishes, ingredients, utensils, etc.<br> <br>The map was made for the <a href=\"https://gamebanana.com/contests/104\">Csgo mapping contest</a> and secured the <a href=\"https://gamebanana.com/news/21632\">3rd spot</a>.<br><br>Games list:</b><br><br>1. <a href=\"https://youtu.be/QtWhw5Lcwm4?t=49\" target=\"_blank\">Guess the Dish</a><br><br>2. <a href=\"https://youtu.be/QtWhw5Lcwm4?t=14\" target=\"_blank\">Isolator (1 of 4 chance game)</a><br><br>3. <a href=\"https://youtu.be/QtWhw5Lcwm4?t=60\" target=\"_blank\">Angry Sushi</a><br><br>4. <a href=\"https://youtu.be/QtWhw5Lcwm4?t=81\" target=\"_blank\">Cheesy Obstacles</a><br><br>5. <a href=\"https://youtu.be/QtWhw5Lcwm4?t=115\" target=\"_blank\">Horizontal Spinning Spit (Wipeout)</a><br><br>6. <a href=\"https://youtu.be/QtWhw5Lcwm4?t=133\" target=\"_blank\">Vertical Spinning Spit (Jumprope)</a><br><br>7. <a href=\"https://youtu.be/QtWhw5Lcwm4?t=150\" target=\"_blank\">Rock-Paper-Scissors</a><br><br>8. <a href=\"https://youtu.be/QtWhw5Lcwm4?t=168\" target=\"_blank\">Sweet Slide</a><br><br>9. <a href=\"https://youtu.be/QtWhw5Lcwm4?t=180\" target=\"_blank\">Fruit Colors</a><br><br>10. <a href=\"https://youtu.be/QtWhw5Lcwm4?t=206\" target=\"_blank\">Charging Waffles</a><br><br>11. <a href=\"https://youtu.be/QtWhw5Lcwm4?t=244\" target=\"_blank\">MasterChef Team Game</a><br><br>12. <a href=\"https://youtu.be/QtWhw5Lcwm4?t=271\" target=\"_blank\">Chocolate Fall</a><br><br>13. <a href=\"https://youtu.be/QtWhw5Lcwm4?t=283\" target=\"_blank\">Noodle Climb</a><br><br>14. <a href=\"https://youtu.be/QtWhw5Lcwm4?t=305\" target=\"_blank\">Food Run</a><br><br>15. <a href=\"https://youtu.be/QtWhw5Lcwm4?t=373\" target=\"_blank\">Pizza Slice</a><br><br>16. <a href=\"https://youtu.be/QtWhw5Lcwm4?t=400\" target=\"_blank\">Tomato Darts</a><br><br>17. <a href=\"https://youtu.be/QtWhw5Lcwm4?t=434\" target=\"_blank\">Blender Box Ring<br><br></a>18. <a href=\"https://youtu.be/QtWhw5Lcwm4?t=461\" target=\"_blank\">Sandwich Scene</a><br><br>19. <a href=\"https://youtu.be/QtWhw5Lcwm4?t=480\" target=\"_blank\">Egg Brawl</a><br><br>20. <a href=\"https://youtu.be/QtWhw5Lcwm4?t=525\" target=\"_blank\">Lime Roulette</a><br><br>21. <a href=\"https://youtu.be/QtWhw5Lcwm4?t=506\" target=\"_blank\">Fruit Machine</a><br><br>22. <a href=\"https://youtu.be/QtWhw5Lcwm4?t=555\" target=\"_blank\">Football</a><br><br><b>Secrets:</b><br><br>- You can escape from 4 cells (1 individually, and 3 with teamwork)<br><br>- There are 3 hidden weapons<br><br><b>Spawns:</b><br>40 T: 24 CT"
