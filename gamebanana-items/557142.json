@@ -4,12 +4,33 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
+					"jb_moti2_v3.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 1347116,
+			"_nDownloadCount": 0,
+			"_nFilesize": 36717378,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
+			"_sDescription": "v3",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1347116",
+			"_sFile": "jb_moti2_v3.7z",
+			"_sMd5Checksum": "095a69b22f67885d9b2e811eeb4edd20",
+			"_tsDateAdded": 1734895229
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
 					"jb_moti2_v2.bsp"
 				]
 			},
 			"_bContainsExe": false,
 			"_idRow": 1326367,
-			"_nDownloadCount": 14,
+			"_nDownloadCount": 16,
 			"_nFilesize": 35111608,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -23,8 +44,21 @@
 			"_tsDateAdded": 1732120364
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "fixed taxi so dead people cant drive it"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "jb_moti2_v3",
+			"_sVersion": "v3",
+			"_tsDateAdded": 1734895349
+		}
+	],
 	"_idRow": 557142,
 	"_sName": "jb_moti2",
-	"_sText": "port of jb_moti2 from csgo<br><br>original map:&nbsp;https://steamcommunity.com/sharedfiles/filedetails/?id=1888465827"
+	"_sText": "port of jb_moti2 from csgo<br><br>original map: https://steamcommunity.com/sharedfiles/filedetails/?id=1888465827"
 }

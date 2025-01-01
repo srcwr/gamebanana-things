@@ -10,7 +10,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1304902,
-			"_nDownloadCount": 93,
+			"_nDownloadCount": 105,
 			"_nFilesize": 938525,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -32,7 +32,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1307522,
-			"_nDownloadCount": 61,
+			"_nDownloadCount": 73,
 			"_nFilesize": 1624214,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -176,7 +176,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1313458,
-			"_nDownloadCount": 50,
+			"_nDownloadCount": 53,
 			"_nFilesize": 14303972,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -247,7 +247,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1321409,
-			"_nDownloadCount": 52,
+			"_nDownloadCount": 63,
 			"_nFilesize": 16604453,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -446,7 +446,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1327525,
-			"_nDownloadCount": 46,
+			"_nDownloadCount": 50,
 			"_nFilesize": 23513248,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -673,18 +673,515 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1333353,
-			"_nDownloadCount": 54,
+			"_nDownloadCount": 62,
 			"_nFilesize": 25775819,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
 			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
-			"_sDescription": "",
+			"_sDescription": "v6.0",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1333353",
 			"_sFile": "de_ashen_v6_a85b2.zip",
 			"_sMd5Checksum": "6d0bfc314288a668957769d2473553ea",
 			"_tsDateAdded": 1732975123
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"maps": [
+						"de_ashen.bsp",
+						"de_ashen.nav"
+					],
+					"materials": {
+						"ARCH": [
+							"SAUNATILE.vmt",
+							"saunatile.vtf",
+							"saunatile_n.vtf"
+						],
+						"concrete": [
+							"concrete_floor_10.vmt",
+							"concrete_floor_10.vtf"
+						],
+						"decals": {
+							"custom": [
+								"Bombsite_a.vmt",
+								"Bombsite_b.vmt",
+								"Bombsite_b.vtf",
+								"bombsite_a.vtf"
+							]
+						},
+						"detail": [
+							"detailplantsprites.vtf",
+							"detailsprites.vmt",
+							"dt_wood1.vtf"
+						],
+						"fool": {
+							"mw2": [
+								"bathroom_ceiling_col.vmt",
+								"bathroom_ceiling_col.vtf",
+								"ch_concretewall15_col.vmt",
+								"ch_concretewall15_col.vtf",
+								"ch_door_10_col.vmt",
+								"ch_door_10_col.vtf",
+								"ch_sign_toilet.vmt",
+								"ch_sign_toilet.vtf",
+								"icbm_hazardstripe2.vmt",
+								"icbm_hazardstripe2.vtf",
+								"ma_tile_wood_01_col.vmt",
+								"ma_tile_wood_01_col.vtf",
+								"ma_wallpaper_col.vmt",
+								"ma_wallpaper_col.vtf",
+								"marble_floor_tiles_02_col.vmt",
+								"marble_floor_tiles_02_col.vtf",
+								"me_floor_tile4.vmt",
+								"me_floor_tile4.vtf",
+								"me_garagedoor1.vmt",
+								"me_garagedoor1.vtf",
+								"me_sign_cafe.vmt",
+								"me_sign_cafe.vtf",
+								"metal_aluminum01_painted_dirty_col.vmt",
+								"metal_aluminum01_painted_dirty_col.vtf",
+								"plaster_wall_tan_col.vmt",
+								"plaster_wall_tan_col.vtf",
+								"tile_floor02.vmt",
+								"tile_floor02.vtf"
+							]
+						},
+						"maps": {
+							"de_ashen": {
+								"0": "c16_-608_640.hdr.vtf",
+								"1": "c16_-608_640.vtf",
+								"2": "cubemapdefault.hdr.vtf",
+								"3": "cubemapdefault.vtf",
+								"concrete": [
+									"concretefloor010b_16_-608_640.vmt",
+									"concretefloor033k_16_-608_640.vmt"
+								],
+								"cs_italy": [
+									"cobble02_16_-608_640.vmt",
+									"cobble03_16_-608_640.vmt",
+									"cobble04_16_-608_640.vmt",
+									"cobble06_16_-608_640.vmt"
+								],
+								"de_cbble": [
+									"grassdirt_blend_wvt_patch.vmt"
+								],
+								"de_chateau": [
+									"floor02_16_-608_640.vmt",
+									"floor05_16_-608_640.vmt",
+									"interiortile01_16_-608_640.vmt",
+									"interiortile01a_16_-608_640.vmt",
+									"interiortile01b_16_-608_640.vmt"
+								],
+								"de_nuke": [
+									"nukwindowa_16_-608_640.vmt",
+									"nukwindowb_light_16_-608_640.vmt"
+								],
+								"de_piranesi": [
+									"marblefloor13_16_-608_640.vmt"
+								],
+								"effects": [
+									"offgaragedr_16_-608_640.vmt"
+								],
+								"glass": [
+									"glasswindow018a_16_-608_640.vmt",
+									"glasswindowbreak070a_16_-608_640.vmt"
+								],
+								"tile": [
+									"prodflra_16_-608_640.vmt"
+								]
+							}
+						},
+						"models": {
+							"props_foliage": [
+								"tree_include_hedges.vmt",
+								"tree_include_small.vmt",
+								"urban_trees_barks01.vtf",
+								"urban_trees_barks01_still.vmt",
+								"urban_trees_branches03_hedges.vmt",
+								"urban_trees_branches03_mip0.vtf",
+								"urban_trees_branches03_small.vmt"
+							],
+							"props_furniture": [
+								"kitchen_countertop1.vmt",
+								"kitchen_countertop1.vtf",
+								"kitchen_shelf1.vmt",
+								"kitchen_shelf1.vtf"
+							],
+							"props_mill": [
+								"wood_stack.vmt"
+							],
+							"props_urban": [
+								"airconditioner001.vmt",
+								"airconditioner001.vtf"
+							],
+							"props_vehicles": [
+								"hmmwv.vmt",
+								"hmmwv.vtf"
+							]
+						},
+						"wood": [
+							"plywood02.vmt",
+							"plywood02.vtf",
+							"wood_int_07.vtf"
+						]
+					},
+					"models": {
+						"props_foliage": [
+							"urban_balcony_planter01.dx80.vtx",
+							"urban_balcony_planter01.dx90.vtx",
+							"urban_balcony_planter01.mdl",
+							"urban_balcony_planter01.phy",
+							"urban_balcony_planter01.sw.vtx",
+							"urban_balcony_planter01.vvd",
+							"urban_balcony_planter02.dx80.vtx",
+							"urban_balcony_planter02.dx90.vtx",
+							"urban_balcony_planter02.mdl",
+							"urban_balcony_planter02.phy",
+							"urban_balcony_planter02.sw.vtx",
+							"urban_balcony_planter02.vvd",
+							"urban_hedge_256_128_high.dx80.vtx",
+							"urban_hedge_256_128_high.dx90.vtx",
+							"urban_hedge_256_128_high.mdl",
+							"urban_hedge_256_128_high.phy",
+							"urban_hedge_256_128_high.sw.vtx",
+							"urban_hedge_256_128_high.vvd"
+						],
+						"props_furniture": [
+							"kitchen_countertop1.dx80.vtx",
+							"kitchen_countertop1.dx90.vtx",
+							"kitchen_countertop1.mdl",
+							"kitchen_countertop1.phy",
+							"kitchen_countertop1.sw.vtx",
+							"kitchen_countertop1.vvd",
+							"kitchen_shelf1.dx80.vtx",
+							"kitchen_shelf1.dx90.vtx",
+							"kitchen_shelf1.mdl",
+							"kitchen_shelf1.phy",
+							"kitchen_shelf1.sw.vtx",
+							"kitchen_shelf1.vvd"
+						],
+						"props_mill": [
+							"wood_stack.dx80.vtx",
+							"wood_stack.dx90.vtx",
+							"wood_stack.mdl",
+							"wood_stack.phy",
+							"wood_stack.sw.vtx",
+							"wood_stack.vvd"
+						],
+						"props_urban": [
+							"air_conditioner001.dx80.vtx",
+							"air_conditioner001.dx90.vtx",
+							"air_conditioner001.mdl",
+							"air_conditioner001.phy",
+							"air_conditioner001.sw.vtx",
+							"air_conditioner001.vvd"
+						],
+						"props_vehicles": [
+							"hmmwv.dx90.vtx",
+							"hmmwv.mdl",
+							"hmmwv.phy",
+							"hmmwv.vvd"
+						],
+						"props_wasteland": [
+							"exterior_fence002a.dx80.vtx",
+							"exterior_fence002a.dx90.vtx",
+							"exterior_fence002a.mdl",
+							"exterior_fence002a.phy",
+							"exterior_fence002a.sw.vtx",
+							"exterior_fence002a.vvd",
+							"exterior_fence002b.dx80.vtx",
+							"exterior_fence002b.dx90.vtx",
+							"exterior_fence002b.mdl",
+							"exterior_fence002b.phy",
+							"exterior_fence002b.sw.vtx",
+							"exterior_fence002b.vvd",
+							"exterior_fence002c.dx80.vtx",
+							"exterior_fence002c.dx90.vtx",
+							"exterior_fence002c.mdl",
+							"exterior_fence002c.phy",
+							"exterior_fence002c.sw.vtx",
+							"exterior_fence002c.vvd"
+						]
+					},
+					"scripts": [
+						"soundscapes_de_ashen.txt"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 1348219,
+			"_nDownloadCount": 32,
+			"_nFilesize": 28536948,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
+			"_sDescription": "v7.0",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1348219",
+			"_sFile": "de_ashen_v7.zip",
+			"_sMd5Checksum": "69a8157027d4c711da153e7f402566fa",
+			"_tsDateAdded": 1735021648
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"maps": [
+						"de_ashen.bsp",
+						"de_ashen.nav"
+					],
+					"materials": {
+						"ARCH": [
+							"SAUNATILE.vmt",
+							"saunatile.vtf",
+							"saunatile_n.vtf"
+						],
+						"concrete": [
+							"concrete_floor_10.vmt",
+							"concrete_floor_10.vtf"
+						],
+						"decals": {
+							"custom": [
+								"Bombsite_a.vmt",
+								"Bombsite_b.vmt",
+								"Bombsite_b.vtf",
+								"bombsite_a.vtf"
+							]
+						},
+						"detail": [
+							"detailplantsprites.vtf",
+							"detailsprites.vmt",
+							"dt_wood1.vtf"
+						],
+						"dev": [
+							"dev_waterbeneath2.vmt"
+						],
+						"fool": {
+							"mw2": [
+								"bathroom_ceiling_col.vmt",
+								"bathroom_ceiling_col.vtf",
+								"ch_concretewall15_col.vmt",
+								"ch_concretewall15_col.vtf",
+								"ch_door_10_col.vmt",
+								"ch_door_10_col.vtf",
+								"ch_plywood02_col.vmt",
+								"ch_plywood02_col.vtf",
+								"ch_sign_toilet.vmt",
+								"ch_sign_toilet.vtf",
+								"ch_wood01_col.vmt",
+								"ch_wood01_col.vtf",
+								"icbm_hazardstripe2.vmt",
+								"icbm_hazardstripe2.vtf",
+								"ma_tile_wood_01_col.vmt",
+								"ma_tile_wood_01_col.vtf",
+								"ma_wallpaper_col.vmt",
+								"ma_wallpaper_col.vtf",
+								"marble_floor_tiles_02_col.vmt",
+								"marble_floor_tiles_02_col.vtf",
+								"me_floor_tile4.vmt",
+								"me_floor_tile4.vtf",
+								"me_garagedoor1.vmt",
+								"me_garagedoor1.vtf",
+								"me_pinewood_col.vmt",
+								"me_pinewood_col.vtf",
+								"me_sign_cafe.vmt",
+								"me_sign_cafe.vtf",
+								"metal_aluminum01_painted_dirty_col.vmt",
+								"metal_aluminum01_painted_dirty_col.vtf",
+								"plaster_wall_tan_col.vmt",
+								"plaster_wall_tan_col.vtf",
+								"tile_floor02.vmt",
+								"tile_floor02.vtf"
+							]
+						},
+						"maps": {
+							"de_ashen": {
+								"0": "c16_-608_640.hdr.vtf",
+								"1": "c16_-608_640.vtf",
+								"2": "cubemapdefault.hdr.vtf",
+								"3": "cubemapdefault.vtf",
+								"concrete": [
+									"concretefloor010b_16_-608_640.vmt",
+									"concretefloor033k_16_-608_640.vmt"
+								],
+								"cs_italy": [
+									"cobble02_16_-608_640.vmt",
+									"cobble03_16_-608_640.vmt",
+									"cobble04_16_-608_640.vmt",
+									"cobble06_16_-608_640.vmt"
+								],
+								"de_cbble": [
+									"grassdirt_blend_wvt_patch.vmt"
+								],
+								"de_chateau": [
+									"floor02_16_-608_640.vmt",
+									"floor05_16_-608_640.vmt",
+									"interiortile01_16_-608_640.vmt",
+									"interiortile01a_16_-608_640.vmt",
+									"interiortile01b_16_-608_640.vmt"
+								],
+								"de_nuke": [
+									"nukwindowa_16_-608_640.vmt",
+									"nukwindowb_light_16_-608_640.vmt"
+								],
+								"de_piranesi": [
+									"marblefloor13_16_-608_640.vmt"
+								],
+								"effects": [
+									"offgaragedr_16_-608_640.vmt"
+								],
+								"glass": [
+									"glasswindow018a_16_-608_640.vmt",
+									"glasswindowbreak070a_16_-608_640.vmt"
+								],
+								"liquids": [
+									"infernowater_16_-608_640.vmt"
+								],
+								"maps": {
+									"de_ashen": {
+										"liquids": [
+											"infernowater_16_-608_640_depth_27.vmt"
+										]
+									}
+								},
+								"tile": [
+									"prodflra_16_-608_640.vmt"
+								]
+							}
+						},
+						"models": {
+							"props_foliage": [
+								"tree_include_hedges.vmt",
+								"tree_include_small.vmt",
+								"urban_trees_barks01.vtf",
+								"urban_trees_barks01_still.vmt",
+								"urban_trees_branches03_hedges.vmt",
+								"urban_trees_branches03_mip0.vtf",
+								"urban_trees_branches03_small.vmt"
+							],
+							"props_furniture": [
+								"kitchen_countertop1.vmt",
+								"kitchen_countertop1.vtf",
+								"kitchen_shelf1.vmt",
+								"kitchen_shelf1.vtf"
+							],
+							"props_mill": [
+								"wood_stack.vmt"
+							],
+							"props_urban": [
+								"airconditioner001.vmt",
+								"airconditioner001.vtf"
+							],
+							"props_vehicles": [
+								"hmmwv.vmt",
+								"hmmwv.vtf"
+							]
+						},
+						"wood": [
+							"plywood02.vmt",
+							"plywood02.vtf",
+							"wood_int_07.vtf"
+						]
+					},
+					"models": {
+						"props_foliage": [
+							"urban_balcony_planter01.dx80.vtx",
+							"urban_balcony_planter01.dx90.vtx",
+							"urban_balcony_planter01.mdl",
+							"urban_balcony_planter01.phy",
+							"urban_balcony_planter01.sw.vtx",
+							"urban_balcony_planter01.vvd",
+							"urban_balcony_planter02.dx80.vtx",
+							"urban_balcony_planter02.dx90.vtx",
+							"urban_balcony_planter02.mdl",
+							"urban_balcony_planter02.phy",
+							"urban_balcony_planter02.sw.vtx",
+							"urban_balcony_planter02.vvd",
+							"urban_hedge_256_128_high.dx80.vtx",
+							"urban_hedge_256_128_high.dx90.vtx",
+							"urban_hedge_256_128_high.mdl",
+							"urban_hedge_256_128_high.phy",
+							"urban_hedge_256_128_high.sw.vtx",
+							"urban_hedge_256_128_high.vvd"
+						],
+						"props_furniture": [
+							"kitchen_countertop1.dx80.vtx",
+							"kitchen_countertop1.dx90.vtx",
+							"kitchen_countertop1.mdl",
+							"kitchen_countertop1.phy",
+							"kitchen_countertop1.sw.vtx",
+							"kitchen_countertop1.vvd",
+							"kitchen_shelf1.dx80.vtx",
+							"kitchen_shelf1.dx90.vtx",
+							"kitchen_shelf1.mdl",
+							"kitchen_shelf1.phy",
+							"kitchen_shelf1.sw.vtx",
+							"kitchen_shelf1.vvd"
+						],
+						"props_mill": [
+							"wood_stack.dx80.vtx",
+							"wood_stack.dx90.vtx",
+							"wood_stack.mdl",
+							"wood_stack.phy",
+							"wood_stack.sw.vtx",
+							"wood_stack.vvd"
+						],
+						"props_urban": [
+							"air_conditioner001.dx80.vtx",
+							"air_conditioner001.dx90.vtx",
+							"air_conditioner001.mdl",
+							"air_conditioner001.phy",
+							"air_conditioner001.sw.vtx",
+							"air_conditioner001.vvd"
+						],
+						"props_vehicles": [
+							"hmmwv.dx90.vtx",
+							"hmmwv.mdl",
+							"hmmwv.phy",
+							"hmmwv.vvd"
+						],
+						"props_wasteland": [
+							"exterior_fence002a.dx80.vtx",
+							"exterior_fence002a.dx90.vtx",
+							"exterior_fence002a.mdl",
+							"exterior_fence002a.phy",
+							"exterior_fence002a.sw.vtx",
+							"exterior_fence002a.vvd",
+							"exterior_fence002b.dx80.vtx",
+							"exterior_fence002b.dx90.vtx",
+							"exterior_fence002b.mdl",
+							"exterior_fence002b.phy",
+							"exterior_fence002b.sw.vtx",
+							"exterior_fence002b.vvd",
+							"exterior_fence002c.dx80.vtx",
+							"exterior_fence002c.dx90.vtx",
+							"exterior_fence002c.mdl",
+							"exterior_fence002c.phy",
+							"exterior_fence002c.sw.vtx",
+							"exterior_fence002c.vvd"
+						]
+					},
+					"scripts": [
+						"soundscapes_de_ashen.txt"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 1352373,
+			"_nDownloadCount": 20,
+			"_nFilesize": 29637626,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
+			"_sDescription": "v8.0",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1352373",
+			"_sFile": "de_ashen_v8_16b36.zip",
+			"_sMd5Checksum": "86195f79419c464fb8b71eec87227a8b",
+			"_tsDateAdded": 1735556020
 		}
 	],
 	"_aLatestUpdates": [
@@ -692,57 +1189,45 @@
 			"_aChangeLog": [
 				{
 					"cat": "Addition",
-					"text": "Added little detail for t spawn"
-				},
-				{
-					"cat": "Addition",
-					"text": "Added soundscapes so it is not empty"
+					"text": "added new path check image above"
 				},
 				{
 					"cat": "Adjustment",
-					"text": "Adjust some area of the map like textures, path, etc. (see image)"
+					"text": "adjust some textures so it is easy to see"
 				},
 				{
-					"cat": "Adjustment",
-					"text": "Adjust Bombsite B, moved further back"
+					"cat": "Tweak",
+					"text": "tweak some area of the map"
 				},
 				{
 					"cat": "Addition",
-					"text": "Add details on other area of the map"
-				},
-				{
-					"cat": "Overhaul",
-					"text": "Overhauled the Bombsite A"
+					"text": "added fountain and boxes from t outside"
 				}
 			],
 			"_sText": "",
-			"_sTitle": "Back Again with new content",
-			"_sVersion": "v6",
-			"_tsDateAdded": 1732975477
+			"_sTitle": "Advance Happy new year",
+			"_sVersion": "v8",
+			"_tsDateAdded": 1735556254
 		},
 		{
 			"_aChangeLog": [
 				{
 					"cat": "Addition",
-					"text": "New routes for t and ct (Thank you for the suggestion)"
+					"text": "Added new path from mid to bombsite B"
 				},
 				{
-					"cat": "Tweak",
-					"text": "Tweak area where sometimes stuck on somthing"
-				},
-				{
-					"cat": "Addition",
-					"text": "Add clips on certain area of the map"
+					"cat": "Adjustment",
+					"text": "Adjusted path on mid t"
 				},
 				{
 					"cat": "Addition",
-					"text": "Open up rooftops for new diverse gameplay"
+					"text": "New design on t outside (new building)"
 				}
 			],
 			"_sText": "",
-			"_sTitle": "New stuff and bug fixes",
-			"_sVersion": "v5.0",
-			"_tsDateAdded": 1732274442
+			"_sTitle": "Merry Christmas y'all",
+			"_sVersion": "v7",
+			"_tsDateAdded": 1735021942
 		}
 	],
 	"_idRow": 550249,

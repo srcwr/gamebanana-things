@@ -4,27 +4,92 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
-					"jb_kwejsi_b.bsp"
+					"jb_kwejsi_e.bsp"
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1330922,
-			"_nDownloadCount": 38,
-			"_nFilesize": 61806792,
+			"_idRow": 1353895,
+			"_nDownloadCount": 4,
+			"_nFilesize": 69445258,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
 			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1330922",
-			"_sFile": "jb_kwejsi_b.zip",
-			"_sMd5Checksum": "f9f5d1d5c5389ee9ed1812a5f8ed803f",
-			"_tsDateAdded": 1732665990
+			"_sDownloadUrl": "https://gamebanana.com/dl/1353895",
+			"_sFile": "jb_kwejsi_e_1ec3e.zip",
+			"_sMd5Checksum": "e6317d9a0ca591304ab2464c7ee90eca",
+			"_tsDateAdded": 1735720417
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"text": "added music that plays randomly"
+				},
+				{
+					"text": "added more ct spawns"
+				},
+				{
+					"text": "removed death sound for testing.. oops"
+				},
+				{
+					"text": "fixed easy surf teleports"
+				},
+				{
+					"text": "fixed some block sounds"
+				},
+				{
+					"text": "fixed some weapon constraints"
+				},
+				{
+					"text": "removed herobrine"
+				}
+			],
+			"_sText": "<p>first playable version, thank you to the #1 jalbreak server Jblock for testing</p>",
+			"_sTitle": "fully fixed",
+			"_sVersion": "e",
+			"_tsDateAdded": 1735719465
+		},
+		{
+			"_aChangeLog": [
+				{
+					"text": "fixed skybox and radar (compilepal please fix pack)"
+				},
+				{
+					"text": "improved new secrets"
+				},
+				{
+					"text": "new buttons to choose between easy and hard surf"
+				},
+				{
+					"text": "made lj harder"
+				},
+				{
+					"text": "fixed cell secret"
+				},
+				{
+					"text": "fixed blurry textures"
+				},
+				{
+					"text": "new portal texture"
+				},
+				{
+					"text": "optimizations"
+				},
+				{
+					"text": "removed herobrine"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "fixes",
+			"_sVersion": "c",
+			"_tsDateAdded": 1735604734
+		}
+	],
 	"_idRow": 558553,
-	"_sName": "jb_kwejsi_b",
+	"_sName": "jb_kwejsi",
 	"_sText": "Ported from csgo with a new surf level and a few changes<br><br>From og description:<br><span class=\"RedColor\"><span class=\"GreenColor\"><b>Games:</b></span></span><br><ul><li><span class=\"mycode_i\"><span class=\"GreenColor\">Jumprope which speeds up automatically</span></span></li><li><span class=\"mycode_i\"><span class=\"GreenColor\">Lasers</span></span></li><li><span class=\"mycode_i\"><span class=\"GreenColor\">Dropdown</span></span></li><li><span class=\"mycode_i\"><span class=\"GreenColor\">Surf</span></span></li><li><span class=\"mycode_i\"><span class=\"GreenColor\">Deathcrate</span></span></li><li><span class=\"mycode_i\"><span class=\"GreenColor\">True/False</span></span></li><li><span class=\"mycode_i\"><span class=\"GreenColor\">Longjump</span></span></li><li><span class=\"mycode_i\"><span class=\"GreenColor\">Bunnyhop</span></span></li><li><span class=\"mycode_i\"><span class=\"GreenColor\">Climb (Easy and Hard)</span></span></li><li><span class=\"mycode_i\"><span class=\"GreenColor\">Colordive (5 Stages)</span></span></li><li><span class=\"GreenColor\">Race</span></li><li><span class=\"GreenColor\">KZ / Extreme Climb</span></li><li><span class=\"GreenColor\">Disco with 5 different songs and lights</span></li><li><span class=\"GreenColor\">Armoury with weapon buttons</span></li><li><span class=\"GreenColor\">Medic (3x spread around the map)</span></li><li><span class=\"GreenColor\">Vents</span></li><li><font color=\"#6ee16c\">Many secrets</font></li></ul><br>Enjoy the map!<br><br>"
 }
