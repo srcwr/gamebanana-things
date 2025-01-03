@@ -5,26 +5,26 @@
 			"_aMetadata": {
 				"_aArchiveFileTree": {
 					"maps": [
-						"de_inferno_csco_winter.bsp",
-						"de_inferno_csco_winter.bsp.bak",
-						"de_inferno_csco_winter.nav"
+						"de_inferno_csco_winter_d.bsp",
+						"de_inferno_csco_winter_d.bsp.bak",
+						"de_inferno_csco_winter_d.nav"
 					]
 				}
 			},
 			"_bContainsExe": false,
-			"_idRow": 1355432,
+			"_idRow": 1355499,
 			"_nDownloadCount": 0,
-			"_nFilesize": 7163583,
+			"_nFilesize": 7842298,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
 			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
-			"_sDescription": "Latest Version",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1355432",
-			"_sFile": "maps_e3659.rar",
-			"_sMd5Checksum": "d74dd7c42dd0a58ab90ebcedb02f9b47",
-			"_tsDateAdded": 1735896031
+			"_sDescription": "Fixed and latest version",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1355499",
+			"_sFile": "maps_aaeef.rar",
+			"_sMd5Checksum": "5ab06d58df3df51fc3e8dc1e58f671e1",
+			"_tsDateAdded": 1735909175
 		},
 		{
 			"_aMetadata": {
@@ -37,7 +37,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1354690,
-			"_nDownloadCount": 32,
+			"_nDownloadCount": 34,
 			"_nFilesize": 3804746,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -69,6 +69,10 @@
 				{
 					"cat": "Addition",
 					"text": "Added a couple phys props, and more."
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed some textures and fixed the window in mid, which was in missing texture."
 				}
 			],
 			"_sText": "",
@@ -79,5 +83,5 @@
 	],
 	"_idRow": 566399,
 	"_sName": "de_inferno_csco_winter",
-	"_sText": "<h1>A better remake of \"de_inferno_csco\" in a winter theme.</h1><br>Original map: <a href=\"https://gamebanana.com/mods/565926\">https://gamebanana.com/mods/565926</a>"
+	"_sText": "<h3><span class=\"SelectedElement\"><i><span class=\"GreenColor\">de_inferno_winter_csco</span></i> – it's like Inferno, but with <em>less fire, more frostbite</em>. <span class=\"GreenColor\">All the tight corners and intense choke points are still here</span>,The layout is solid, classic Inferno, but dressed up in snow and ice to give it a fresh vibe. No, it doesn’t change the strategy, but now you’re getting that <em>extra</em> challenge of slipping on ice, or at least pretending you are. It’s like your usual Inferno experience, but with less burning and more scenic views of rooftops covered in snow. Perfect for anyone who likes <em>actually</em> being able to play Inferno, but with a wintery spin.</span></h3><br>Original map: <a href=\"https://gamebanana.com/mods/565926\">https://gamebanana.com/mods/565926</a>"
 }
