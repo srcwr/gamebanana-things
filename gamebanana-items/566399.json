@@ -6,6 +6,31 @@
 				"_aArchiveFileTree": {
 					"maps": [
 						"de_inferno_csco_winter.bsp",
+						"de_inferno_csco_winter.bsp.bak",
+						"de_inferno_csco_winter.nav"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 1355432,
+			"_nDownloadCount": 0,
+			"_nFilesize": 7163583,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
+			"_sDescription": "Latest Version",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1355432",
+			"_sFile": "maps_e3659.rar",
+			"_sMd5Checksum": "d74dd7c42dd0a58ab90ebcedb02f9b47",
+			"_tsDateAdded": 1735896031
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"maps": [
+						"de_inferno_csco_winter.bsp",
 						"de_inferno_csco_winter.nav"
 					]
 				}
@@ -19,14 +44,39 @@
 			"_sAnalysisState": "done",
 			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
-			"_sDescription": "Latest Version",
+			"_sDescription": "Old version",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1354690",
 			"_sFile": "maps_50bcb.zip",
 			"_sMd5Checksum": "f5cda6c2506973b26951c18210648da0",
 			"_tsDateAdded": 1735809949
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Improvement",
+					"text": "Improved 3d skybox, new sounds."
+				},
+				{
+					"cat": "Feature",
+					"text": "Added soundscapes (indoors, outdoors)."
+				},
+				{
+					"cat": "Tweak",
+					"text": "tweaked the snow/concrete floor, to make it look better."
+				},
+				{
+					"cat": "Addition",
+					"text": "Added a couple phys props, and more."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Misc changes/improvement",
+			"_sVersion": "2",
+			"_tsDateAdded": 1735895731
+		}
+	],
 	"_idRow": 566399,
 	"_sName": "de_inferno_csco_winter",
 	"_sText": "<h1>A better remake of \"de_inferno_csco\" in a winter theme.</h1><br>Original map: <a href=\"https://gamebanana.com/mods/565926\">https://gamebanana.com/mods/565926</a>"
