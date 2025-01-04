@@ -13,7 +13,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1355499,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 18,
 			"_nFilesize": 7842298,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -37,7 +37,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1354690,
-			"_nDownloadCount": 34,
+			"_nDownloadCount": 36,
 			"_nFilesize": 3804746,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -52,6 +52,34 @@
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Adjustment",
+					"text": "Made the map slightly darker, 3d skybox adjustents, more light entities in the map."
+				},
+				{
+					"cat": "Overhaul",
+					"text": "Made the windows of the map more realistic, added more shining windows."
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed missing textures (maybe?)"
+				},
+				{
+					"cat": "Improvement",
+					"text": "improved the floor textures (snow)."
+				},
+				{
+					"cat": "Overhaul",
+					"text": "Upgraded maps aesthetics again and added cubemaps."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Misc changes/improvement 2",
+			"_sVersion": "3",
+			"_tsDateAdded": 1735910063
+		},
 		{
 			"_aChangeLog": [
 				{
