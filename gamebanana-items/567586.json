@@ -2,30 +2,23 @@
 	"_aAlternateFileSources": null,
 	"_aFiles": [
 		{
-			"_aMetadata": {
-				"_aArchiveFileTree": {
-					"de_shorttrain_css": [
-						"de_shorttrain_css.bsp",
-						"de_shorttrain_css.txt"
-					]
-				}
-			},
+			"_aMetadata": [],
 			"_bContainsExe": false,
-			"_idRow": 1358607,
+			"_idRow": 1358611,
 			"_nDownloadCount": 0,
-			"_nFilesize": 8825162,
-			"_sAnalysisResult": "File passed analysis",
-			"_sAnalysisResultCode": "ok",
-			"_sAnalysisState": "done",
+			"_nFilesize": 8852804,
+			"_sAnalysisResult": "Undetermined",
+			"_sAnalysisResultCode": "undetermined",
+			"_sAnalysisState": "pending",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1358607",
-			"_sFile": "de_shorttrain_css.7z",
-			"_sMd5Checksum": "f8eb71f7c9f0df5562c7a15fe0e23e4a",
-			"_tsDateAdded": 1736283519
+			"_sDownloadUrl": "https://gamebanana.com/dl/1358611",
+			"_sFile": "de_shorttrain_css_a00ee.7z",
+			"_sMd5Checksum": "41a08a4529c815600444fde29d8558f3",
+			"_tsDateAdded": 1736283981
 		}
 	],
 	"_aLatestUpdates": [],
 	"_idRow": 567586,
 	"_sName": "de_shorttrain_css",
-	"_sText": "A version of de_train, reworked to include&nbsp;only bombsite A.&nbsp;Fits for 2vs2 play."
+	"_sText": "A version of de_train, reworked to include only bombsite A. Fits for 2vs2 play."
 }
