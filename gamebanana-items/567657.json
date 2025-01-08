@@ -4,29 +4,57 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
-					"cs_wedding_beta02.bsp",
-					"cs_wedding_beta02.nav",
-					"s.txt"
+					"cs_wedding_beta03.bsp",
+					"cs_wedding_beta03.nav"
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1358820,
+			"_idRow": 1358856,
 			"_nDownloadCount": 0,
-			"_nFilesize": 380650,
+			"_nFilesize": 559710,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
 			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
 			"_sDescription": "Сама карта",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1358820",
-			"_sFile": "cs_wedding_beta2.zip",
-			"_sMd5Checksum": "97278563df9de72f617d822fb92024da",
-			"_tsDateAdded": 1736310317
+			"_sDownloadUrl": "https://gamebanana.com/dl/1358856",
+			"_sFile": "cs_wedding_beta03.zip",
+			"_sMd5Checksum": "d5fe983d80e4791931a49477aa951144",
+			"_tsDateAdded": 1736318252
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "",
+					"text": "Диваны"
+				},
+				{
+					"cat": "",
+					"text": "Имитация окон"
+				},
+				{
+					"cat": "",
+					"text": "Лампы и мерцающий свет от одной из них"
+				},
+				{
+					"cat": "",
+					"text": "Исправление бага за сторону спецназа"
+				},
+				{
+					"cat": "",
+					"text": "Добавлена крыша там, где ее не хватает"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Диван-Апдейт",
+			"_sVersion": "Beta03",
+			"_tsDateAdded": 1736318400
+		}
+	],
 	"_idRow": 567657,
-	"_sName": "cs_wedding(_beta02)",
-	"_sText": "cs_wedding_beta02 - карта предназначенная для дуэлей 1х1, условия для которых устанавливаются игроками. Место проведения - небольшой деревенский загс или что то в этом роде, который по стечению обстоятельств стал местом для проведения контр-террористической операции. Помимо дуэля можете попробовать поиграть на карте в закладку бомбы, зона для этого отведена.&nbsp;"
+	"_sName": "cs_wedding(_beta03)",
+	"_sText": "cs_wedding_beta03 - карта предназначенная для дуэлей 1х1, условия для которых устанавливаются игроками. Место проведения - небольшой деревенский загс или что то в этом роде, который по стечению обстоятельств стал местом для проведения контр-террористической операции. Помимо дуэля можете попробовать поиграть на карте в закладку бомбы, зона для взрывчатки отведегна."
 }
