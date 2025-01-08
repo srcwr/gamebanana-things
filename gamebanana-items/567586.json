@@ -2,14 +2,23 @@
 	"_aAlternateFileSources": null,
 	"_aFiles": [
 		{
-			"_aMetadata": [],
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"de_shorttrain_css": [
+						"de_shorttrain_css.bsp",
+						"de_shorttrain_css.txt"
+					]
+				}
+			},
 			"_bContainsExe": false,
 			"_idRow": 1358611,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 5,
 			"_nFilesize": 8852804,
-			"_sAnalysisResult": "Undetermined",
-			"_sAnalysisResultCode": "undetermined",
-			"_sAnalysisState": "pending",
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1358611",
 			"_sFile": "de_shorttrain_css_a00ee.7z",
