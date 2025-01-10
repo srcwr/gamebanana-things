@@ -10,7 +10,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1359731,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 3,
 			"_nFilesize": 600698,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -25,6 +25,22 @@
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "",
+					"text": "Заполнены полые участки карты"
+				},
+				{
+					"cat": "",
+					"text": "Переработано освещение"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Итоговая версия",
+			"_sVersion": "1.0",
+			"_tsDateAdded": 1736448702
+		},
 		{
 			"_aChangeLog": [
 				{

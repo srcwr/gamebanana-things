@@ -14,21 +14,58 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1359665,
-			"_nDownloadCount": 3,
+			"_nDownloadCount": 5,
 			"_nFilesize": 342136,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
 			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
-			"_sDescription": "",
+			"_sDescription": "v1.1",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1359665",
 			"_sFile": "de_diagonal.zip",
 			"_sMd5Checksum": "efd917916194add938ef6617e09e1443",
 			"_tsDateAdded": 1736438393
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"de_diagonal 1.2": [
+						"README.txt",
+						"de_diagonal.bsp",
+						"de_diagonal.nav",
+						"de_diagonal.vmf"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 1359926,
+			"_nDownloadCount": 0,
+			"_nFilesize": 375697,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sDescription": "v1.2(latest)",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1359926",
+			"_sFile": "de_diagonal_12.zip",
+			"_sMd5Checksum": "d775f6dd7c0bf47b7131a86e2c46b343",
+			"_tsDateAdded": 1736475302
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "",
+					"text": "Added lots of cover in both lanes to help Ts take lanes"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Update 1.2 - Crates!",
+			"_sVersion": "1.2",
+			"_tsDateAdded": 1736475384
+		}
+	],
 	"_idRow": 567923,
 	"_sName": "de_diagonal",
 	"_sText": "This is my first map. It is a defusal map with two lanes, two unequal spawns, two bombsites and two (non-enterable) windows into A-site. There is a long hall on the right that takes you to B, but allowing you to move to A if you want to. the left tunnel, which I called \"middle\", is shorter and leads to A primarily. B-site has very little cover but not many angles of attack, while A is much larger, has more cover and more angles to hold, peek or be attacked from. The map as a whole is also VERY short and does not allow for much of a break other than freeze times, so always be on the lookout for enemies! I hope you have lots of fun playing this map!"
