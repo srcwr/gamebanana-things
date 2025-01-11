@@ -4,24 +4,89 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
-					"ze_m0w0m_b2.bsp"
+					"ze_m0w0m_b3.bsp"
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 625322,
-			"_nDownloadCount": 126,
-			"_nFilesize": 162954821,
+			"_idRow": 1360657,
+			"_nDownloadCount": 0,
+			"_nFilesize": 162020422,
 			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/625322",
-			"_sFile": "ze_m0w0m_b2.zip",
-			"_sMd5Checksum": "7c04d3583b2eadeadaa64b61ad3780a0",
-			"_tsDateAdded": 1627558823
+			"_sDownloadUrl": "https://gamebanana.com/dl/1360657",
+			"_sFile": "ze_m0w0m_b3_cbe45.zip",
+			"_sMd5Checksum": "9fa703ef18ff8e54eebdce83d7b3132d",
+			"_tsDateAdded": 1736567095
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Item : added 10 new items for human"
+				},
+				{
+					"cat": "Overhaul",
+					"text": "Items : every human item have own tier number, spawn chance is depends on tier number"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Item : increased amount of human item to spawn (7 -> 8)"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Item : slower sphere item got changed its name to \"antidoter\", slow effect is weaker, sets zombies hp to 3000"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Item : push item got changed its name to \"pulse field\", changed particle effect"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Item : toxic launcher got changed its name to \"freeze grenade launcher\", shoots projectile that spread freeze gas"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Item : zombie heal item cooldown sets depends on difficulty (90sec on normal mode, 30sec on hell mode)"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Item : rainbow beam, slower sphere (antidoter), push (pulse field) and ammo are no longer guaranteed to spawn"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Stage3 : rotating bar part is reworked"
+				},
+				{
+					"cat": "Addition",
+					"text": "Stage4 : removed tank boss, added new boss instead"
+				},
+				{
+					"cat": "Addition",
+					"text": "Stage5 : added new boss"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Stage6 : changed first music"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Stage6 : nerfed ifrit boss a bit"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "stage 4/5 : in the multiple route part zombies can break the door instantly by touching it"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "beta3",
+			"_tsDateAdded": 1736568559
+		},
 		{
 			"_aChangeLog": [
 				{
@@ -56,68 +121,9 @@
 			"_sText": "",
 			"_sTitle": "b2",
 			"_tsDateAdded": 1627560639
-		},
-		{
-			"_aChangeLog": [
-				{
-					"cat": "Overhaul",
-					"text": "remade all bossfights"
-				},
-				{
-					"cat": "Overhaul",
-					"text": "remade all unique items"
-				},
-				{
-					"cat": "Overhaul",
-					"text": "remade npc"
-				},
-				{
-					"cat": "Overhaul",
-					"text": "remade 3d skybox"
-				},
-				{
-					"cat": "Overhaul",
-					"text": "rebuilt most of structure"
-				},
-				{
-					"cat": "Addition",
-					"text": "added slugger and toxic cannon to unique item"
-				},
-				{
-					"cat": "Addition",
-					"text": "added 1 npc in stage 2/5"
-				},
-				{
-					"cat": "Addition",
-					"text": "added 3 npc in stage 3/6"
-				},
-				{
-					"cat": "Removal",
-					"text": "removed shotgun and mines from unique item"
-				},
-				{
-					"cat": "Removal",
-					"text": "removed priests magic and harpys feather from zombie item"
-				},
-				{
-					"cat": "Removal",
-					"text": "removed some npc in stage 2/5"
-				},
-				{
-					"cat": "Bugfix",
-					"text": "fixed server crash due to overflowing edicts"
-				},
-				{
-					"cat": "-",
-					"text": "changed some musics"
-				}
-			],
-			"_sText": "",
-			"_sTitle": "b1",
-			"_tsDateAdded": 1619449225
 		}
 	],
 	"_idRow": 130856,
-	"_sName": "ze_m0w0m_b2",
-	"_sText": "<h1 class=\"SelectedElement\">Secret Stage is now on hold</h1><h2>Map Information</h2>- 6 Stages (3 Normal Stages & 3 Extreme Stages)<br>- 11items for human<br>- 2items for zombie<br>- Bossfights<br>- Color correction<br>- NPC"
+	"_sName": "ze_m0w0m_b3",
+	"_sText": "<h1 class=\"SelectedElement\">Secret Stage is now on hold</h1><h2>Map Information</h2>- 6 Stages (3 Normal Stages & 3 Extreme Stages)<br>- 21items for human<br>- 2items for zombie<br>- Bossfights<br>- Color correction<br>- NPC"
 }
