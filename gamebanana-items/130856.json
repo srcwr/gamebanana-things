@@ -9,7 +9,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1360657,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 5,
 			"_nFilesize": 162020422,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -80,7 +80,7 @@
 				},
 				{
 					"cat": "Adjustment",
-					"text": "stage 4/5 : in the multiple route part zombies can break the door instantly by touching it"
+					"text": "stage 4/5 : in the multiple route part, zombies can break the door instantly by touching it"
 				}
 			],
 			"_sText": "",
@@ -125,5 +125,5 @@
 	],
 	"_idRow": 130856,
 	"_sName": "ze_m0w0m_b3",
-	"_sText": "<h1 class=\"SelectedElement\">Secret Stage is now on hold</h1><h2>Map Information</h2>- 6 Stages (3 Normal Stages & 3 Extreme Stages)<br>- 21items for human<br>- 2items for zombie<br>- Bossfights<br>- Color correction<br>- NPC"
+	"_sText": "<h1>Secret Stage is now on hold</h1><hr><h2>Map Information</h2>- 6 Stages (3 Normal Stages & 3 Extreme Stages)<br>- 21items for human<br>- 2items for zombie<br>- Bossfights<br>- Color correction<br>- NPC<hr class=\"SelectedElement\"><b>Item Tier List</b><br>Spawn chance is depends on tier number<br>Heal item is always guaranteed to spawn<br>\r\n<table>\r\n  <tbody>\r\n    <tr>\r\n      <th>Tier1<br>Normal Mode : 25%<br>Hell Mode : 18.75%</th>\r\n      <td>Lightning Staff<br>Rocket Launcher<br>Flamethrower<br>Beam Rifle<br>Slugger</td>\r\n    </tr>\r\n    <tr>\r\n       <th>Tier2<br>Normal Mode : 37.5%<br>Hell Mode : 31.25%</th>\r\n       <td>Ammo<br>Pulse Field<br>Fire Staff<br>Poison Staff<br>Water Staff<br>Freeze Grenade Launcher</td>\r\n    </tr>\r\n    <tr>\r\n       <th>Tier3<br>Normal Mode : 25%<br>Hell Mode : 31.25%</th>\r\n       <td> Rainbow Beam<br>Antidoter<br>Ice Staff<br>Gravity Staff<br>Wind Staff<br>Gatling</td>\r\n    </tr>\r\n    <tr>\r\n        <th>Tier4<br>Normal Mode : 12.5%<br>Hell Mode : 18.75%</th>\r\n        <td> C4<br>Mega Blast<br>Maxwell</td>\r\n    </tr>\r\n  </tbody>\r\n</table>"
 }
