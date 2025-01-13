@@ -4,26 +4,41 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
-					"ze_m0w0m_b3.bsp"
+					"ze_m0w0m_b4.bsp"
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1360657,
-			"_nDownloadCount": 11,
-			"_nFilesize": 162020422,
+			"_idRow": 1361858,
+			"_nDownloadCount": 0,
+			"_nFilesize": 162307926,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
 			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1360657",
-			"_sFile": "ze_m0w0m_b3_cbe45.zip",
-			"_sMd5Checksum": "9fa703ef18ff8e54eebdce83d7b3132d",
-			"_tsDateAdded": 1736567095
+			"_sDownloadUrl": "https://gamebanana.com/dl/1361858",
+			"_sFile": "ze_m0w0m_b4.zip",
+			"_sMd5Checksum": "4fe6e8dca4957ae37cb05bf5b5ec492f",
+			"_tsDateAdded": 1736723444
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Adjustment",
+					"text": "Item : reduced ice staff cooldown (60sec -> 50sec)"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Stage3/6 : removed contact damage from ifrit boss"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "beta4",
+			"_tsDateAdded": 1736723865
+		},
 		{
 			"_aChangeLog": [
 				{
@@ -86,44 +101,9 @@
 			"_sText": "",
 			"_sTitle": "beta3",
 			"_tsDateAdded": 1736568559
-		},
-		{
-			"_aChangeLog": [
-				{
-					"cat": "Adjustment",
-					"text": "nerfed gatling item"
-				},
-				{
-					"cat": "Adjustment",
-					"text": "stage1/4 : increased boss hp"
-				},
-				{
-					"cat": "Adjustment",
-					"text": "stage2/5 : increased boss hp"
-				},
-				{
-					"cat": "Adjustment",
-					"text": "stage3/6 : increased minion hp"
-				},
-				{
-					"cat": "Improvement",
-					"text": "stage3/6 : changed the destination of 2nd afk teleport in the 2nd area"
-				},
-				{
-					"cat": "Bugfix",
-					"text": "fixed some animated sprite doesn't work"
-				},
-				{
-					"cat": "Bugfix",
-					"text": "stage2/5 : fixed the 2nd boss lose hp immediately upon spawn"
-				}
-			],
-			"_sText": "",
-			"_sTitle": "b2",
-			"_tsDateAdded": 1627560639
 		}
 	],
 	"_idRow": 130856,
-	"_sName": "ze_m0w0m_b3",
-	"_sText": "<h1>Secret Stage is now on hold</h1><hr><h2>Map Information</h2>- 6 Stages (3 Normal Stages & 3 Extreme Stages)<br>- 21items for human<br>- 2items for zombie<br>- Bossfights<br>- Color correction<br>- NPC<hr class=\"SelectedElement\"><b>Item Tier List</b><br>Spawn chance is depends on tier number<br>Heal item is always guaranteed to spawn<br>\r\n<table>\r\n  <tbody>\r\n    <tr>\r\n      <th>Tier1<br>Normal Mode : 25%<br>Hell Mode : 18.75%</th>\r\n      <td>Lightning Staff<br>Rocket Launcher<br>Flamethrower<br>Beam Rifle<br>Slugger</td>\r\n    </tr>\r\n    <tr>\r\n       <th>Tier2<br>Normal Mode : 37.5%<br>Hell Mode : 31.25%</th>\r\n       <td>Ammo<br>Pulse Field<br>Fire Staff<br>Poison Staff<br>Water Staff<br>Freeze Grenade Launcher</td>\r\n    </tr>\r\n    <tr>\r\n       <th>Tier3<br>Normal Mode : 25%<br>Hell Mode : 31.25%</th>\r\n       <td> Rainbow Beam<br>Antidoter<br>Ice Staff<br>Gravity Staff<br>Wind Staff<br>Gatling</td>\r\n    </tr>\r\n    <tr>\r\n        <th>Tier4<br>Normal Mode : 12.5%<br>Hell Mode : 18.75%</th>\r\n        <td> C4<br>Mega Blast<br>Maxwell</td>\r\n    </tr>\r\n  </tbody>\r\n</table>"
+	"_sName": "ze_m0w0m_b4",
+	"_sText": "<h1>Secret Stage is now on hold</h1><hr><h2>Map Information</h2>- 6 Stages (3 Normal Mode &amp; 3 Hell Mode)<br>-&nbsp;21items for human<br>-&nbsp;2items for zombie<br>- Bossfights<br>- Color correction<br>- NPC<hr class=\"SelectedElement\"><b>Item Tier List</b><br>Spawn chance is depends on tier number<br>Heal item is always guaranteed to spawn<br>\r\n<table>\r\n  <tbody>\r\n    <tr>\r\n      <th>Tier1<br>Normal Mode : 25%<br>Hell Mode : 18.75%</th>\r\n      <td>Lightning Staff<br>Rocket Launcher<br>Flamethrower<br>Beam Rifle<br>Slugger</td>\r\n    </tr>\r\n    <tr>\r\n       <th>Tier2<br>Normal Mode : 37.5%<br>Hell Mode : 31.25%</th>\r\n       <td>Ammo<br>Pulse Field<br>Fire Staff<br>Poison Staff<br>Water Staff<br>Freeze Grenade Launcher</td>\r\n    </tr>\r\n    <tr>\r\n       <th>Tier3<br>Normal Mode : 25%<br>Hell Mode : 31.25%</th>\r\n       <td> Rainbow Beam<br>Antidoter<br>Ice Staff<br>Gravity Staff<br>Wind Staff<br>Gatling</td>\r\n    </tr>\r\n    <tr>\r\n        <th>Tier4<br>Normal Mode : 12.5%<br>Hell Mode : 18.75%</th>\r\n        <td> C4<br>Mega Blast<br>Maxwell</td>\r\n    </tr>\r\n  </tbody>\r\n</table>"
 }
