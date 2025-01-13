@@ -18,14 +18,64 @@
 			"_sAnalysisState": "done",
 			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
-			"_sDescription": "",
+			"_sDescription": "First version",
 			"_sDownloadUrl": "https://gamebanana.com/dl/932889",
 			"_sFile": "de_studio_3f655.rar",
 			"_sMd5Checksum": "6a06f4e49e01eb7e338ff47a64011411",
 			"_tsDateAdded": 1675867276
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"maps": [
+						"de_studio.bsp",
+						"de_studio.nav",
+						"de_studio.txt"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 1362094,
+			"_nDownloadCount": 0,
+			"_nFilesize": 1435455,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
+			"_sDescription": "Final version",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1362094",
+			"_sFile": "de_studio_final.rar",
+			"_sMd5Checksum": "cc3a4757c61bcfbf8075328621ad2171",
+			"_tsDateAdded": 1736761153
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Improvement",
+					"text": "Added cubemaps"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Added better radar"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Improved skybox"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Updated nav. mesh"
+				}
+			],
+			"_sText": "<p>I decided to update this map because it has it's flaws. So, here's the changes that were described above, but in details:</p><ul><li><p><span class=\"GreenColor\">Added cubemaps</span> </p><p></p></li></ul><p>which were for some reason absent from the original upload</p><ul><li><p><span class=\"GreenColor\">Improved skybox buildings</span></p></li></ul><p>so that their windows not that really small now.</p><ul><li><p><span class=\"GreenColor\">Updated nav. mesh</span></p><p></p></li></ul><p>it won't show that text about it being built on older version of the map anymore.</p><ul><li><p><span class=\"GreenColor\">Added proper radar</span></p><p></p></li></ul><p>both for spectator mode and when you play.</p>",
+			"_sTitle": "De_Studio complete edition",
+			"_sVersion": "Final",
+			"_tsDateAdded": 1736762085
+		}
+	],
 	"_idRow": 426521,
 	"_sName": "De_studio",
 	"_sText": "Map where terrorists should bomb an... Movie Studio?<br><br>Ok, straight to the features:<br><b>-Cubemaps</b><br><b>-Place names<br>-Edited navmesh</b>"
