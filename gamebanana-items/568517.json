@@ -8,22 +8,29 @@
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1361507,
-			"_nDownloadCount": 14,
-			"_nFilesize": 5424056,
+			"_idRow": 1362286,
+			"_nDownloadCount": 0,
+			"_nFilesize": 5501687,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
 			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1361507",
-			"_sFile": "bhop_minepression.rar",
-			"_sMd5Checksum": "656a190c4a3200cbd208310d5b778088",
-			"_tsDateAdded": 1736686389
+			"_sDownloadUrl": "https://gamebanana.com/dl/1362286",
+			"_sFile": "bhop_minepression_2ad71.rar",
+			"_sMd5Checksum": "2aa859a6b2e0ccd34ba6755f5e38da41",
+			"_tsDateAdded": 1736792912
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [],
+			"_sText": "<p>fix missing textures</p>",
+			"_sTitle": "fix",
+			"_tsDateAdded": 1736793009
+		}
+	],
 	"_idRow": 568517,
 	"_sName": "bhop_minepression",
 	"_sText": "map by depression"
