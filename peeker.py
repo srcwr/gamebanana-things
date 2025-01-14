@@ -1,5 +1,12 @@
 # SPDX-License-Identifier: WTFPL
 
+# /// script
+# dependencies = [
+#   "GitPython",
+#   "requests",
+# ]
+# ///
+
 import json
 from pathlib import Path
 from sanitize_filename import sanitize

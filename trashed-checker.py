@@ -1,5 +1,13 @@
 # SPDX-License-Identifier: WTFPL
 
+# /// script
+# dependencies = [
+#   "py7zr==0.22.0",
+#   "rarfile==4.2",
+#   "requests",
+# ]
+# ///
+
 import os
 import glob
 from pathlib import Path

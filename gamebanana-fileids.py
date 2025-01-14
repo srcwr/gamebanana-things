@@ -1,5 +1,11 @@
 # SPDX-License-Identifier: WTFPL
 
+# /// script
+# dependencies = [
+#   "requests",
+# ]
+# ///
+
 from pathlib import Path
 import time
 import requests
