@@ -9,7 +9,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1362702,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 4,
 			"_nFilesize": 13595818,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -26,5 +26,5 @@
 	"_aLatestUpdates": [],
 	"_idRow": 568871,
 	"_sName": "surf_voyager",
-	"_sText": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/akHFEG1hWbk\" frameborder=\"0\" allowfullscreen=\"\"></iframe><br><br>My first map ever made for the Speed KSF Contest.<br>Tier 2-3 Linear Maxvel 10k<br><br>2 bonuses each enclosed in a trigger_multiple<br>&nbsp;- b1 where the player should not be able to jump (should be enforced by the server)<br>&nbsp;- b2 low gravity (only half gravity)<br><br>Map should be completable with no inputs by just stepping back into the startzone's push trigger wihtout jumping, and letting go of your keyboard. You can try it locally by changing to this map in console (in either CSS or Momentum Mod). This route may be broken by random server side plugins (e.g. rng fix).<br><br>"
+	"_sText": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/akHFEG1hWbk\" frameborder=\"0\" allowfullscreen=\"\"></iframe><br><br>My first map ever made for the Speed KSF Contest.<br>Tier 2-3 Linear Maxvel 10k<br><br>2 bonuses each enclosed in a trigger_multiple<br> - b1 where the player should not be able to jump (should be enforced by the server)<br> - b2 low gravity (only half gravity)<br><br>Map should be completable with no inputs by just stepping back into the startzone's push trigger wihtout jumping, and letting go of your keyboard. You can try it locally by changing to this map in console (in either CSS or Momentum Mod). This route may be broken by random server side plugins (e.g. rng fix).<br><br>"
 }
