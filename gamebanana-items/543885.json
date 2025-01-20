@@ -4,26 +4,46 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
-					"kz_smoothclimb1.bsp"
+					"kz_smoothclimb_f2.bsp"
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1286103,
-			"_nDownloadCount": 35,
-			"_nFilesize": 10090433,
+			"_idRow": 1366172,
+			"_nDownloadCount": 4,
+			"_nFilesize": 6605154,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
 			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1286103",
-			"_sFile": "kz_smoothclimb1.zip",
-			"_sMd5Checksum": "9a19bcb13bee7f76d80eb07ffa1aff06",
-			"_tsDateAdded": 1727114813
+			"_sDownloadUrl": "https://gamebanana.com/dl/1366172",
+			"_sFile": "kz_smoothclimb_f2.zip",
+			"_sMd5Checksum": "cac6610524a1943e3347382287761cc5",
+			"_tsDateAdded": 1737320869
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "Fixed a huge skip where you could go overtop of the fence diving the map"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Changed lighting from HDR to LDR only since I think it looks nicer"
+				},
+				{
+					"cat": "Optimization",
+					"text": "Removed models and textures from the base game .vpk which were for some reason previously packed"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "kz_smoothclimb_f2",
+			"_sVersion": "f2",
+			"_tsDateAdded": 1737321138
+		},
 		{
 			"_aChangeLog": [
 				{

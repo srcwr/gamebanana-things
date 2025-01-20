@@ -9,35 +9,35 @@
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1302836,
-			"_nDownloadCount": 113,
-			"_nFilesize": 2793487,
+			"_idRow": 1360857,
+			"_nDownloadCount": 37,
+			"_nFilesize": 7748838,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
 			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
-			"_sDescription": "v.1.0.1",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1302836",
-			"_sFile": "de_sarab_v101.rar",
-			"_sMd5Checksum": "213fd12127b7c5356acb51bf9a452579",
-			"_tsDateAdded": 1729338288
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1360857",
+			"_sFile": "de_sarab_v102.rar",
+			"_sMd5Checksum": "139ef41a16976c3d00dedc61b0d87fc9",
+			"_tsDateAdded": 1736599794
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [],
+			"_sText": "<p>-added HDR effects</p>",
+			"_sTitle": "update",
+			"_sVersion": "v.1.0.2",
+			"_tsDateAdded": 1736599851
+		},
 		{
 			"_aChangeLog": [],
 			"_sText": "<p>-minor shadow improvements</p>",
 			"_sTitle": "update",
 			"_sVersion": "v.1.0.1",
 			"_tsDateAdded": 1729338399
-		},
-		{
-			"_aChangeLog": [],
-			"_sText": "<p>release of the first version of map</p>",
-			"_sTitle": "release",
-			"_sVersion": "v.1.0.0",
-			"_tsDateAdded": 1729337714
 		}
 	],
 	"_idRow": 549255,

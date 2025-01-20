@@ -9,7 +9,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1324497,
-			"_nDownloadCount": 74,
+			"_nDownloadCount": 93,
 			"_nFilesize": 67166764,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -21,10 +21,56 @@
 			"_sFile": "jb_sg_dojo_ap_v1_1fix.7z",
 			"_sMd5Checksum": "d5b4c2fa71c036e013f533ca02d22e34",
 			"_tsDateAdded": 1731867593
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"jb_sg_dojo_ap_v2.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 1362981,
+			"_nDownloadCount": 16,
+			"_nFilesize": 70279989,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1362981",
+			"_sFile": "jb_sg_dojo_ap_v2.7z",
+			"_sMd5Checksum": "a2039e86166fbdd3489c766a9330e140",
+			"_tsDateAdded": 1736897839
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "fixed textures not being animated"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "fixed players getting squished between colours door and the tower wall"
+				},
+				{
+					"cat": "Tweak",
+					"text": "added lights to glowstone and redstone lamps"
+				},
+				{
+					"cat": "Improvement",
+					"text": "updated radar"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "",
+			"_sVersion": "v2",
+			"_tsDateAdded": 1736898030
+		}
+	],
 	"_idRow": 556524,
 	"_sName": "jb_sg_dojo",
-	"_sText": "port of jb_sg_dojo_ap from csgo<br><br>original map:&nbsp;https://steamcommunity.com/sharedfiles/filedetails/?id=2987228696"
+	"_sText": "port of jb_sg_dojo_ap from csgo<br><br>original map: https://steamcommunity.com/sharedfiles/filedetails/?id=2987228696"
 }
