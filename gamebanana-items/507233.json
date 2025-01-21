@@ -5,28 +5,47 @@
 			"_aMetadata": {
 				"_aArchiveFileTree": {
 					"zm_Ship": [
-						"zm_Ship_R1.bsp"
+						"zm_Ship_v1D.bsp",
+						"zm_Ship_v1E.bsp",
+						"zm_Ship_v1N.bsp",
+						"zm_Ship_v1W.bsp"
 					]
 				}
 			},
 			"_bContainsExe": false,
-			"_idRow": 1175151,
-			"_nDownloadCount": 317,
-			"_nFilesize": 19090538,
+			"_idRow": 1366915,
+			"_nDownloadCount": 0,
+			"_nFilesize": 67978193,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
 			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
 			"_sDescription": "zm_Ship",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1175151",
-			"_sFile": "zm_ship.7z",
-			"_sMd5Checksum": "1af565eef583e0b27e44cccae20e18d7",
-			"_tsDateAdded": 1713071282
+			"_sDownloadUrl": "https://gamebanana.com/dl/1366915",
+			"_sFile": "zm_ship_e1edb.7z",
+			"_sMd5Checksum": "f0b1f9548735e70ba96f044421a0bda2",
+			"_tsDateAdded": 1737421246
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Evening, night and foggy versions"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Remaded indoor spaces"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "v1.0",
+			"_tsDateAdded": 1737421844
+		}
+	],
 	"_idRow": 507233,
 	"_sName": "zm_Ship",
-	"_sText": "Full remake of map&nbsp;zm_roy_the_ship. Link:&nbsp;<a href=\"https://gamebanana.com/mods/132707\">https://gamebanana.com/mods/132707</a>"
+	"_sText": "Map has four versions: daytime, evening,&nbsp;night and foggy.<br>Full remake of map&nbsp;zm_roy_the_ship. Link:&nbsp;<a href=\"https://gamebanana.com/mods/132707\">https://gamebanana.com/mods/132707</a>"
 }
