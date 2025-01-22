@@ -21,9 +21,55 @@
 			"_sFile": "jb_peanut_v1.7z",
 			"_sMd5Checksum": "fa0aa56fbe02e3f996e3d68ca05ff6b1",
 			"_tsDateAdded": 1731866409
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"jb_peanut_v2.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 1367466,
+			"_nDownloadCount": 0,
+			"_nFilesize": 68749483,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1367466",
+			"_sFile": "jb_peanut_v2.7z",
+			"_sMd5Checksum": "3a3dd8505e254484d01b260da7e2a790",
+			"_tsDateAdded": 1737504559
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "fixed water not rendering properly in hard race"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "fixed deathrun buttons"
+				},
+				{
+					"cat": "Improvement",
+					"text": "updated radar"
+				},
+				{
+					"cat": "Addition",
+					"text": "added some more cubemaps"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "",
+			"_sVersion": "v2",
+			"_tsDateAdded": 1737504793
+		}
+	],
 	"_idRow": 556520,
 	"_sName": "jb_peanut",
 	"_sText": "port of jb_peanut from csgo<br><br>original map: https://steamcommunity.com/sharedfiles/filedetails/?id=372476833"
