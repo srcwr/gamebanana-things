@@ -2,14 +2,22 @@
 	"_aAlternateFileSources": null,
 	"_aFiles": [
 		{
-			"_aMetadata": [],
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"de_siberia": [
+						"de_siberia.bsp"
+					]
+				}
+			},
 			"_bContainsExe": false,
 			"_idRow": 1373240,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 7,
 			"_nFilesize": 3007059,
-			"_sAnalysisResult": "Undetermined",
-			"_sAnalysisResultCode": "undetermined",
-			"_sAnalysisState": "pending",
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1373240",
 			"_sFile": "de_siberia10.zip",
