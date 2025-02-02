@@ -9,22 +9,29 @@
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1372477,
-			"_nDownloadCount": 3,
-			"_nFilesize": 41311184,
+			"_idRow": 1374620,
+			"_nDownloadCount": 0,
+			"_nFilesize": 41348788,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
 			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1372477",
-			"_sFile": "surf_citypop_99e8e.zip",
-			"_sMd5Checksum": "1dd19f40d6abfb12c39a07d2ccf11d15",
-			"_tsDateAdded": 1738182676
+			"_sDownloadUrl": "https://gamebanana.com/dl/1374620",
+			"_sFile": "surf_citypop_db412.zip",
+			"_sMd5Checksum": "4088f27b4fa11463de66e015946c71b7",
+			"_tsDateAdded": 1738500483
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [],
+			"_sText": "<p>anglefixed 3 front facing boards on b1</p>",
+			"_sTitle": "tiny b1 anglefix update",
+			"_tsDateAdded": 1738500447
+		}
+	],
 	"_idRow": 572241,
 	"_sName": "surf_citypop",
 	"_sText": "A surfmap displaying the album covers of funky japanese music i like.<br><br>Took way too long to make as i never felt it was good enough...<br><br>Tier 1<br>Linear<br>4 Bonuses"
