@@ -4,46 +4,50 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
-					"jb_undertale_final.bsp"
-				],
-				"_sMimeType": "application/x-rar"
+					"jb_undertale_f1.bsp"
+				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 499440,
-			"_nDownloadCount": 83,
-			"_nFilesize": 27148404,
+			"_idRow": 1376774,
+			"_nDownloadCount": 0,
+			"_nFilesize": 53265069,
 			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
-			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/499440",
-			"_sFile": "jb_undertale_final.rar",
-			"_sMd5Checksum": "",
-			"_tsDateAdded": 1607166401
-		},
-		{
-			"_aMetadata": {
-				"_aArchiveFileTree": [
-					"jb_undertale_v2.bsp"
-				],
-				"_sMimeType": "application/x-rar"
-			},
-			"_bContainsExe": false,
-			"_idRow": 523340,
-			"_nDownloadCount": 50,
-			"_nFilesize": 27198837,
-			"_sAnalysisResult": "File passed analysis",
-			"_sAnalysisState": "done",
-			"_sClamAvResult": "clean",
-			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/523340",
-			"_sFile": "jb_undertale_v2.rar",
-			"_sMd5Checksum": "",
-			"_tsDateAdded": 1613921684
+			"_sDownloadUrl": "https://gamebanana.com/dl/1376774",
+			"_sFile": "jb_undertale_f1.zip",
+			"_sMd5Checksum": "a6625951e3cbe167f657c56ef12d03e8",
+			"_tsDateAdded": 1738856483
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "Re-added & Fixed all secrets & guns & teleports from the original port"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Re-worked certain secrets and adjusted for better gameplay in CSS"
+				},
+				{
+					"cat": "Optimization",
+					"text": "Reduced edicts count and entity usage to reasonable levels"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added A few songs related to map secrets & general areas"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Faithful Port Update",
+			"_sVersion": "f1",
+			"_tsDateAdded": 1738857008
+		}
+	],
 	"_idRow": 129958,
-	"_sName": "JB_UNDERTALE",
-	"_sText": "This map is a port from CSGO. The map was created by thorgot the creator of jb_avalanche and jb_airship 2 great maps which are in counter strike source already ;). This map is based on Undertale, a game by Toby Fox.<br><br>In this port, I had to take out/replace a few minigames and secrets due to limitations in hammer compared to CSGO.<br><br>Still, this map comes with a great list of features which include :<br><br>Minigames in cells<br>Decathlon  <br>Strafe Jump: easy, medium, and hard; 0, 5, or 10 damage <br>Slide Race: 4 different courses<br>Dodge Course: Dodge obstacles on a moving platform <br>Surf: easy, medium, and hard; 0, 5, or 10 damage; recall and gate buttons <br>Risky Ralph's Roulette (the CT pressing the button also has a chance of dying) <br>Extreme Jumprope (Jumprope combined with 4 colors) <br>9 Colors with 4 brand new events (19 total) <br>Soccer<br>Spleef <br>Easy Climb, Medium Climb, and Hard Climb <br>Disco (with Undertale music) <br>25 key piano that can be played. <br>Secrets and vents.<br><br>An sG community map created by thorgot.<br>Additional textures and brushwork by Prussia.<br>Music remixes/covers by RichaadEB, ToxicxEternity, and theultimateonejpsx.<br>Models by Humin, RED_EYE, Brewster T. Koopa, and Yok99102.<br>Ported to Counter-Strike Source by Fronexe."
+	"_sName": "JB Undertale",
+	"_sText": "This map is a port from CSGO. The map was created by thorgot the creator of jb_avalanche and jb_airship 2 great maps which are in counter strike source already. This map is based on Undertale, a game by Toby Fox.<br><br>In this port, I had to rework VScript secrets as well as remove VScript Paint game & the backwards function of Race, Aside from that everything remains the same. <br><br>Still, this map comes with a great list of features which include :<br><br>Minigames in cells<br>Decathlon  <br>Simon<br>Strafe Jump: easy, medium, and hard; 0, 5, or 10 damage <br>Slide Race: 4 different courses<br>Dodge Course: Dodge obstacles on a moving platform <br>Surf: easy, medium, and hard; 0, 5, or 10 damage; recall and gate buttons <br>Risky Ralph's Roulette (the CT pressing the button also has a chance of dying) <br>Volleyball (Adapts with the number of players)<br>Extreme Jumprope (Jumprope combined with 4 colors) <br>9 Colors with 4 brand new events (19 total) <br>3-Point Shootout<br>Spleef <br>Easy Climb, Medium Climb, and Hard Climb <br>Disco (with Undertale music) <br>25 key piano that can be played. <br>Secrets and vents.<br><br>An sG community map created by thorgot.<br>Additional textures and brushwork by Prussia.<br>Music remixes/covers by RichaadEB, ToxicxEternity, and theultimateonejpsx.<br>Models by Humin, RED_EYE, Brewster T. Koopa, and Yok99102.<br>Ported to Counter-Strike Source by Fronexe."
 }
