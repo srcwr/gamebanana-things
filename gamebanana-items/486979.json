@@ -15,7 +15,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1111920,
-			"_nDownloadCount": 196,
+			"_nDownloadCount": 203,
 			"_nFilesize": 125560810,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -37,7 +37,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1145916,
-			"_nDownloadCount": 90,
+			"_nDownloadCount": 97,
 			"_nFilesize": 47688970,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -49,9 +49,41 @@
 			"_sFile": "jb_new_summer_v6_res1.7z",
 			"_sMd5Checksum": "969068d4d204f7370ff703751f52f566",
 			"_tsDateAdded": 1708887923
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"jb_summer_v6_xmas_2025_b.bsp",
+					"jb_summer_v6_xmas_2025_b.txt"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 1376885,
+			"_nDownloadCount": 0,
+			"_nFilesize": 64709816,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1376885",
+			"_sFile": "jb_summer_v6_xmas_2025_b.7z",
+			"_sMd5Checksum": "fe375cbdbe7e93ba72cf1da434d2be40",
+			"_tsDateAdded": 1738870130
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "",
+					"text": "The visuals have been updated, and a few details have been improved"
+				}
+			],
+			"_sText": "<p>I've created a new xmas version of the map — it's different from the screenshots. The visuals have been updated, and a few details have been improved. Enjoy the game! ????</p>",
+			"_sTitle": "xmas_version",
+			"_sVersion": "xmas_2025",
+			"_tsDateAdded": 1738870363
+		},
 		{
 			"_aChangeLog": [
 				{
