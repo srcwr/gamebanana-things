@@ -15,7 +15,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1111920,
-			"_nDownloadCount": 203,
+			"_nDownloadCount": 206,
 			"_nFilesize": 125560810,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -37,7 +37,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1145916,
-			"_nDownloadCount": 97,
+			"_nDownloadCount": 101,
 			"_nFilesize": 47688970,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -59,11 +59,13 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1376885,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 7,
 			"_nFilesize": 64709816,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1376885",
 			"_sFile": "jb_summer_v6_xmas_2025_b.7z",
@@ -77,9 +79,13 @@
 				{
 					"cat": "",
 					"text": "The visuals have been updated, and a few details have been improved"
+				},
+				{
+					"cat": "",
+					"text": "Radar added to the map"
 				}
 			],
-			"_sText": "<p>I've created a new xmas version of the map — it's different from the screenshots. The visuals have been updated, and a few details have been improved. Enjoy the game! ????</p>",
+			"_sText": "<p>I've created a new xmas version of the map — it's different from the screenshots. The visuals have been updated, and a few details have been improved. Enjoy the game!</p><p><span class=\"GreenColor\">This version is completely stable</span></p>",
 			"_sTitle": "xmas_version",
 			"_sVersion": "xmas_2025",
 			"_tsDateAdded": 1738870363
