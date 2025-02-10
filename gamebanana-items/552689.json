@@ -4,49 +4,76 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
-					"ze_night_cinema_v1 (bhud).cfg",
-					"ze_night_cinema_v1 (entwatch).cfg",
-					"ze_night_cinema_v1.bsp"
+					"ze_night_cinema_v1f (bhud).cfg",
+					"ze_night_cinema_v1f (entwatch).cfg",
+					"ze_night_cinema_v1f.bsp"
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1312218,
-			"_nDownloadCount": 44,
-			"_nFilesize": 124581448,
+			"_idRow": 1379270,
+			"_nDownloadCount": 0,
+			"_nFilesize": 123488535,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
 			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1312218",
-			"_sFile": "ze_night_cinema_v1_8636c.zip",
-			"_sMd5Checksum": "96830f7e5c556072f9b7e8b991e6b0fa",
-			"_tsDateAdded": 1730424568
-		},
-		{
-			"_aMetadata": {
-				"_aArchiveFileTree": [
-					"ze_night_cinema_v1.cfg"
-				]
-			},
-			"_bContainsExe": false,
-			"_idRow": 1320237,
-			"_nDownloadCount": 22,
-			"_nFilesize": 1829,
-			"_sAnalysisResult": "File passed analysis",
-			"_sAnalysisResultCode": "ok",
-			"_sAnalysisState": "done",
-			"_sAvastAvResult": "clean",
-			"_sClamAvResult": "clean",
-			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1320237",
-			"_sFile": "stripper_update_1.zip",
-			"_sMd5Checksum": "f0665d9e9e385977830d058e55a208b3",
-			"_tsDateAdded": 1731355922
+			"_sDownloadUrl": "https://gamebanana.com/dl/1379270",
+			"_sFile": "ze_night_cinema_v1f.zip",
+			"_sMd5Checksum": "e5d62e4767150509cb36e16924d978b3",
+			"_tsDateAdded": 1739224874
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "",
+					"text": "Applied the prior stripper changes"
+				},
+				{
+					"cat": "",
+					"text": "Disabled map voting during warmup; Removed the second warmup round"
+				},
+				{
+					"cat": "",
+					"text": "Fixed issue with the NPC-s movement logic, where they would stop moving"
+				},
+				{
+					"cat": "",
+					"text": "Added glow to outdoor lights and spacedome. Improved 2 areas of the Catacombs"
+				},
+				{
+					"cat": "",
+					"text": "Adjusted certain holds durations and NPC health across stages to balance gameplay"
+				},
+				{
+					"cat": "",
+					"text": "Increased elevator clipping on Cabin Woods stage to prevent knifing through"
+				},
+				{
+					"cat": "",
+					"text": "Fixed the kill trigger at the cabin area to target randomly (best) and reduced global hurt"
+				},
+				{
+					"cat": "",
+					"text": "Rotated the lava-room so players don't telehop into the lava. Added shortcuts for zombies"
+				},
+				{
+					"cat": "",
+					"text": "Fix a spot on last stage where the zombie pushes were canceling out after the concert"
+				},
+				{
+					"cat": "",
+					"text": "Removed the moving NPC segment from the last stage, which was ~1min of boring gameplay"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Map recompile",
+			"_sVersion": "v1f",
+			"_tsDateAdded": 1739228966
+		},
 		{
 			"_aChangeLog": [
 				{
@@ -70,5 +97,5 @@
 	],
 	"_idRow": 552689,
 	"_sName": "ze_night_cinema",
-	"_sText": "Archiving the final version, provided no issues<br><br>The map now has 6 stages in total (a perfect run would take about 70 min)<br><br>Happy Halloween"
+	"_sText": "Archiving the final version<br><br>This map contains 6 stages, based on various movies/games (see screenshots)<br>A perfect run would take 60-65 min<br><br>Good luck<br><br>-------------------<br>Thanks to the Nide community for helping with mapping and GFL/Unloze for testing"
 }
