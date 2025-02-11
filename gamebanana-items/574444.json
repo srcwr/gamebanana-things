@@ -8,22 +8,34 @@
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1379043,
-			"_nDownloadCount": 7,
-			"_nFilesize": 2406466,
+			"_idRow": 1379804,
+			"_nDownloadCount": 0,
+			"_nFilesize": 2422652,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
 			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1379043",
-			"_sFile": "bhop_monoton.rar",
-			"_sMd5Checksum": "e5cac2b6825587335f38dfc363dc2506",
-			"_tsDateAdded": 1739196189
+			"_sDownloadUrl": "https://gamebanana.com/dl/1379804",
+			"_sFile": "bhop_monoton_cbe35.rar",
+			"_sMd5Checksum": "24d0c1e358662c84d0bef46efb799866",
+			"_tsDateAdded": 1739302479
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "",
+					"text": "fixed missing textures"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "fix",
+			"_tsDateAdded": 1739302541
+		}
+	],
 	"_idRow": 574444,
 	"_sName": "bhop_monoton (CS:S)",
 	"_sText": "CS:S port of bhop_monoton<br>Report any bugs and issues on my Discord: 43n1m4"
