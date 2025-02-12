@@ -4,6 +4,36 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": {
+					"0": "ze_snowflower_laboratory_v1_1.bsp",
+					"bosshp": [
+						"ze_snowflower_laboratory_v1_1.cfg"
+					],
+					"entwatch": [
+						"ze_snowflower_laboratory_v1_1.cfg"
+					],
+					"entwatchv4 (unloze)": [
+						"ze_snowflower_laboratory_v1_1.cfg"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 1380159,
+			"_nDownloadCount": 0,
+			"_nFilesize": 97756437,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1380159",
+			"_sFile": "ze_snowflower_laboratory_v1_1.zip",
+			"_sMd5Checksum": "ba871cf5e4075a845cd5f90fcfa1a9e3",
+			"_tsDateAdded": 1739358974
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
 					"0": "ze_snowflower_laboratory_v1.bsp",
 					"bosshp": [
 						"ze_snowflower_laboratory_v1.cfg"
@@ -39,6 +69,62 @@
 		{
 			"_aChangeLog": [
 				{
+					"cat": "Addition",
+					"text": "Added cover in some corridors to provide cover for zombies."
+				},
+				{
+					"cat": "Addition",
+					"text": "Added some decoration."
+				},
+				{
+					"cat": "Improvement",
+					"text": "[Snowflower] Changed how the Snowflower Drop Checker works. This fixes a bug where Snowflower gets “dropped” even though it isn’t dropped. (Thanks Moltard)"
+				},
+				{
+					"cat": "Addition",
+					"text": "[Snowflower] [Stripper Fix Implementation] Added a console message to say that the Snowflower was dropped."
+				},
+				{
+					"cat": "Adjustment",
+					"text": "[Snowflower] Burst Times changed from 4s to a random time of 3.5-8s"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "[Snowflower] Changed the slow duration from 2s to 3.5s"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "[Snowflower] Changed slow from 50% to 35%"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "[Snowflower] Changed burst damage from 10HP to 7.5HP"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "[NPCs] Lowered the HP per human from 100HP to 75HP"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "[NPCs] Added a death particle"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Added 2 More NPCs in the Ambush Room"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Changed textures on some parts of the map"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "ze_snowflower_laboratory_v1_1",
+			"_sVersion": "v1_1",
+			"_tsDateAdded": 1739359222
+		},
+		{
+			"_aChangeLog": [
+				{
 					"cat": "Adjustment",
 					"text": "Adjusted the drop range of Snowflower's Drop Checker"
 				},
@@ -59,5 +145,5 @@
 	],
 	"_idRow": 571504,
 	"_sName": "ze_snowflower_laboratory",
-	"_sText": "<span class=\"RedColor\"></span><hr><span class=\"RedColor SelectedElement\">\"Sometimes, laboratories have good things, like for example, a Snowflower, a mythical flower that freezes anything around it, except for the holder. Seems like that laboratory holding and researching the Snowflower has been abandoned by its team, and guess what, we need that Snowflower. Trust us, we won't use it for weapons. Just to study it. So we need you to get it.\"<br><br>-Aether Supplies</span><br><hr>Map by <span class=\"GreenColor\"><b>Pasas1345</b></span><br><hr><b><u>Music List:</u></b><br>Rabi-Ribi - Exotic Laboratory<br>Kevin Penkin - GAMESTART<br>Rabi-Ribi - Plan B<br>Kevin Penkin - Autoroll<hr>Another snowy map. With the side of caves, vents and an item that can sabotage your team. Hope you enjoy!<span class=\"GreenColor\"></span><hr><span class=\"GreenColor\"><b>Includes</b></span><br><ul><li>A map with 1 checkpoint (which you can go to only once)</li><li>Vents, lots of vents.<br></li><li>NPCs.</li><li>An quest item that can sabotage your teammates.</li></ul><hr><u><b>Hope you enjoy the map!</b></u><br><br>(Currently there is a stripper fix included in the zip file to fix a bug with the Quest Item drop check system. You don't need this to fully play the map though)<br>"
+	"_sText": "<span class=\"RedColor\"></span><hr><span class=\"RedColor SelectedElement\">\"Sometimes, laboratories have good things, like for example, a Snowflower, a mythical flower that freezes anything around it, except for the holder. Seems like that laboratory holding and researching the Snowflower has been abandoned by its team, and guess what, we need that Snowflower. Trust us, we won't use it for weapons. Just to study it. So we need you to get it.\"<br><br>-Aether Supplies</span><br><hr>Map by <span class=\"GreenColor\"><b>Pasas1345</b></span><br><hr><b><u>Music List:</u></b><br>Rabi-Ribi - Exotic Laboratory<br>Kevin Penkin - GAMESTART<br>Rabi-Ribi - Plan B<br>Kevin Penkin - Autoroll<hr>Another snowy map. With the side of caves, vents and an item that can sabotage your team. Hope you enjoy!<span class=\"GreenColor\"></span><hr><span class=\"GreenColor\"><b>Includes</b></span><br><ul><li>A map with 1 checkpoint (which you can go to only once)</li><li>Vents, lots of vents.<br></li><li>NPCs.</li><li>An quest item that can sabotage your teammates.</li></ul><hr><u><b>Hope you enjoy the map!</b></u>"
 }
