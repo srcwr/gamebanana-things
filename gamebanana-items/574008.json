@@ -9,22 +9,29 @@
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1377849,
-			"_nDownloadCount": 51,
-			"_nFilesize": 6356036,
+			"_idRow": 1381690,
+			"_nDownloadCount": 0,
+			"_nFilesize": 6307302,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
 			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1377849",
-			"_sFile": "de_lesina.rar",
-			"_sMd5Checksum": "9c92a2c032e4956a950828969f907d7d",
-			"_tsDateAdded": 1739019445
+			"_sDownloadUrl": "https://gamebanana.com/dl/1381690",
+			"_sFile": "de_lesina_638d8.rar",
+			"_sMd5Checksum": "040c431fc90c72a1136fc3b9a5a6fdea",
+			"_tsDateAdded": 1739547091
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [],
+			"_sText": "<p>-minor texture fixes</p><p>-minor geometry fixes</p><p>-added more vegetation</p>",
+			"_sTitle": "update",
+			"_sVersion": "v.1.0.1",
+			"_tsDateAdded": 1739547026
+		},
 		{
 			"_aChangeLog": [],
 			"_sText": "<p>release of the first version of the map</p>",
