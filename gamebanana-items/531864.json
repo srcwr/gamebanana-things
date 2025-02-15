@@ -42,7 +42,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1247870,
-			"_nDownloadCount": 310,
+			"_nDownloadCount": 315,
 			"_nFilesize": 35467,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -90,7 +90,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1381975,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 10,
 			"_nFilesize": 29403,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -104,7 +104,15 @@
 			"_tsDateAdded": 1739576707
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [],
+			"_sText": "<p>This version includes all weapon settings updated to match those in the January 28, 2025 Counter-Strike 2 update</p><p>There are still a few values that have been untouched by me, such as:</p><p>InaccuracyCrouch</p><p>InaccuracyStand</p><p>InaccuracyJump</p><p>and so on.</p><p>But values like Spread, CycleTime, WeaponPrice, WeaponArmorRatio, Range and a couple more have been updated.</p>",
+			"_sTitle": "",
+			"_sVersion": "1.1",
+			"_tsDateAdded": 1739577710
+		}
+	],
 	"_idRow": 531864,
 	"_sName": "CS2 Weapon Settings Script",
 	"_sText": "<span class=\"Y2IQFc SelectedElement\" lang=\"en\">I don't know if there is anything much to say about this, I just changed most of the weapon settings such as fire rate, damage, cost, movement speed, etc. to the same values as in CS2</span><br><span class=\"GreenColor\">Hope you enjoy!</span>"
