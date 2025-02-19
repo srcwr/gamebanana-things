@@ -4,12 +4,33 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
+					"jb_renegade_v2.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 1385056,
+			"_nDownloadCount": 0,
+			"_nFilesize": 24144793,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1385056",
+			"_sFile": "jb_renegade_v2.7z",
+			"_sMd5Checksum": "981554381d727c49a150ab98886f3b62",
+			"_tsDateAdded": 1739933019
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
 					"jb_renegade_v1.bsp"
 				]
 			},
 			"_bContainsExe": false,
 			"_idRow": 1372947,
-			"_nDownloadCount": 17,
+			"_nDownloadCount": 20,
 			"_nFilesize": 24112043,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -23,8 +44,21 @@
 			"_tsDateAdded": 1738262329
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "fixed a missing texture in pool"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "",
+			"_sVersion": "v2",
+			"_tsDateAdded": 1739933060
+		}
+	],
 	"_idRow": 572394,
 	"_sName": "jb_renegade",
-	"_sText": "jb_renegade ported from csgo<br><br>original map:&nbsp;https://steamcommunity.com/sharedfiles/filedetails/?id=172839288&nbsp;<br>https://gamebanana.com/mods/79462"
+	"_sText": "jb_renegade ported from csgo<br><br>original map: https://steamcommunity.com/sharedfiles/filedetails/?id=172839288 <br>https://gamebanana.com/mods/79462"
 }
