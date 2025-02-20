@@ -4,23 +4,23 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
-					"jb_pumpkinbunker_v1.bsp"
+					"jb_pumpkinbunker_v3.bsp"
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1348790,
-			"_nDownloadCount": 50,
-			"_nFilesize": 63530630,
+			"_idRow": 1386068,
+			"_nDownloadCount": 0,
+			"_nFilesize": 54070350,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
 			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1348790",
-			"_sFile": "jb_pumpkinbunker_v1.7z",
-			"_sMd5Checksum": "27d5295952f65f4081ad92ce40c9f711",
-			"_tsDateAdded": 1735090410
+			"_sDownloadUrl": "https://gamebanana.com/dl/1386068",
+			"_sFile": "jb_pumpkinbunker_v3.7z",
+			"_sMd5Checksum": "bce1b62f9881dae5a9682be67af56bab",
+			"_tsDateAdded": 1740084939
 		},
 		{
 			"_aMetadata": {
@@ -30,7 +30,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1364795,
-			"_nDownloadCount": 16,
+			"_nDownloadCount": 27,
 			"_nFilesize": 61785466,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -42,9 +42,46 @@
 			"_sFile": "jb_pumpkinbunker_v2.7z",
 			"_sMd5Checksum": "4d46ff7395034759e2df04cdc1b1d279",
 			"_tsDateAdded": 1737158497
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"jb_pumpkinbunker_v1.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 1348790,
+			"_nDownloadCount": 58,
+			"_nFilesize": 63530630,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1348790",
+			"_sFile": "jb_pumpkinbunker_v1.7z",
+			"_sMd5Checksum": "27d5295952f65f4081ad92ce40c9f711",
+			"_tsDateAdded": 1735090410
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Removal",
+					"text": "removed hdr"
+				},
+				{
+					"cat": "Improvement",
+					"text": "fixed some texture alignments"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "",
+			"_sVersion": "v3",
+			"_tsDateAdded": 1740085006
+		},
 		{
 			"_aChangeLog": [
 				{
