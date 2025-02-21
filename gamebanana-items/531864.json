@@ -42,7 +42,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1247870,
-			"_nDownloadCount": 326,
+			"_nDownloadCount": 327,
 			"_nFilesize": 35467,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -56,52 +56,19 @@
 			"_tsDateAdded": 1722372129
 		},
 		{
-			"_aMetadata": {
-				"_aArchiveFileTree": {
-					"0": "Readme or (die).txt",
-					"scripts": [
-						"weapon_ak47.txt",
-						"weapon_aug.txt",
-						"weapon_awp.txt",
-						"weapon_deagle.txt",
-						"weapon_elite.txt",
-						"weapon_famas.txt",
-						"weapon_fiveseven.txt",
-						"weapon_g3sg1.txt",
-						"weapon_galil.txt",
-						"weapon_glock.txt",
-						"weapon_knife.txt",
-						"weapon_m249.txt",
-						"weapon_m3.txt",
-						"weapon_m4a1.txt",
-						"weapon_mac10.txt",
-						"weapon_mp5navy.txt",
-						"weapon_p228.txt",
-						"weapon_p90.txt",
-						"weapon_scout.txt",
-						"weapon_sg550.txt",
-						"weapon_sg552.txt",
-						"weapon_tmp.txt",
-						"weapon_ump45.txt",
-						"weapon_usp.txt",
-						"weapon_xm1014.txt"
-					]
-				}
-			},
+			"_aMetadata": [],
 			"_bContainsExe": false,
-			"_idRow": 1381975,
-			"_nDownloadCount": 29,
-			"_nFilesize": 29403,
-			"_sAnalysisResult": "File passed analysis",
-			"_sAnalysisResultCode": "ok",
-			"_sAnalysisState": "done",
-			"_sAvastAvResult": "clean",
-			"_sClamAvResult": "clean",
+			"_idRow": 1386301,
+			"_nDownloadCount": 0,
+			"_nFilesize": 29408,
+			"_sAnalysisResult": "Undetermined",
+			"_sAnalysisResultCode": "undetermined",
+			"_sAnalysisState": "pending",
 			"_sDescription": "new version",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1381975",
-			"_sFile": "cs2_weapon_settings_script_fe57f.zip",
-			"_sMd5Checksum": "0f357ad5413b0e24a8d7cc3ce8859a51",
-			"_tsDateAdded": 1739576707
+			"_sDownloadUrl": "https://gamebanana.com/dl/1386301",
+			"_sFile": "cs2_weapon_settings2025.zip",
+			"_sMd5Checksum": "f7288119027a4617c3fd0e5388f4955a",
+			"_tsDateAdded": 1740121100
 		}
 	],
 	"_aLatestUpdates": [
