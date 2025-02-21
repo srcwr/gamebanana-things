@@ -49,26 +49,57 @@
 			"_sAnalysisState": "done",
 			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
-			"_sDescription": "old version",
+			"_sDescription": "Old Version 1.0",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1247870",
 			"_sFile": "cs2_weapon_settings_script.zip",
 			"_sMd5Checksum": "4995cb4a0899dbd4a6c95d5969122f82",
 			"_tsDateAdded": 1722372129
 		},
 		{
-			"_aMetadata": [],
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "Readme or (die).txt",
+					"scripts": [
+						"weapon_ak47.txt",
+						"weapon_aug.txt",
+						"weapon_awp.txt",
+						"weapon_deagle.txt",
+						"weapon_elite.txt",
+						"weapon_famas.txt",
+						"weapon_fiveseven.txt",
+						"weapon_g3sg1.txt",
+						"weapon_galil.txt",
+						"weapon_glock.txt",
+						"weapon_knife.txt",
+						"weapon_m249.txt",
+						"weapon_m3.txt",
+						"weapon_m4a1.txt",
+						"weapon_mac10.txt",
+						"weapon_mp5navy.txt",
+						"weapon_p228.txt",
+						"weapon_p90.txt",
+						"weapon_scout.txt",
+						"weapon_sg550.txt",
+						"weapon_sg552.txt",
+						"weapon_tmp.txt",
+						"weapon_ump45.txt",
+						"weapon_usp.txt",
+						"weapon_xm1014.txt"
+					]
+				}
+			},
 			"_bContainsExe": false,
-			"_idRow": 1386301,
+			"_idRow": 1386308,
 			"_nDownloadCount": 0,
 			"_nFilesize": 29408,
-			"_sAnalysisResult": "Undetermined",
-			"_sAnalysisResultCode": "undetermined",
-			"_sAnalysisState": "pending",
-			"_sDescription": "new version",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1386301",
-			"_sFile": "cs2_weapon_settings2025.zip",
-			"_sMd5Checksum": "f7288119027a4617c3fd0e5388f4955a",
-			"_tsDateAdded": 1740121100
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sDescription": "New Version 1.2",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1386308",
+			"_sFile": "cs2_weapon_settings2025_944d0.zip",
+			"_sMd5Checksum": "81bd15b7e6404f863993f37c0703cc24",
+			"_tsDateAdded": 1740122098
 		}
 	],
 	"_aLatestUpdates": [
