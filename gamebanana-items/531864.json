@@ -42,7 +42,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1247870,
-			"_nDownloadCount": 327,
+			"_nDownloadCount": 329,
 			"_nFilesize": 35467,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -58,51 +58,95 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": {
-					"0": "Readme or (die).txt",
-					"scripts": [
-						"weapon_ak47.txt",
-						"weapon_aug.txt",
-						"weapon_awp.txt",
-						"weapon_deagle.txt",
-						"weapon_elite.txt",
-						"weapon_famas.txt",
-						"weapon_fiveseven.txt",
-						"weapon_g3sg1.txt",
-						"weapon_galil.txt",
-						"weapon_glock.txt",
-						"weapon_knife.txt",
-						"weapon_m249.txt",
-						"weapon_m3.txt",
-						"weapon_m4a1.txt",
-						"weapon_mac10.txt",
-						"weapon_mp5navy.txt",
-						"weapon_p228.txt",
-						"weapon_p90.txt",
-						"weapon_scout.txt",
-						"weapon_sg550.txt",
-						"weapon_sg552.txt",
-						"weapon_tmp.txt",
-						"weapon_ump45.txt",
-						"weapon_usp.txt",
-						"weapon_xm1014.txt"
-					]
+					"cs2_weapons_config": {
+						"cs2_weapons_settings": {
+							"0": "Readme or (die).txt",
+							"script ctx format": {
+								"scripts": [
+									"weapon_ak47.ctx",
+									"weapon_aug.ctx",
+									"weapon_awp.ctx",
+									"weapon_deagle.ctx",
+									"weapon_elite.ctx",
+									"weapon_famas.ctx",
+									"weapon_fiveseven.ctx",
+									"weapon_g3sg1.ctx",
+									"weapon_galil.ctx",
+									"weapon_glock.ctx",
+									"weapon_knife.ctx",
+									"weapon_m249.ctx",
+									"weapon_m3.ctx",
+									"weapon_m4a1.ctx",
+									"weapon_mac10.ctx",
+									"weapon_mp5navy.ctx",
+									"weapon_p228.ctx",
+									"weapon_p90.ctx",
+									"weapon_scout.ctx",
+									"weapon_sg550.ctx",
+									"weapon_sg552.ctx",
+									"weapon_tmp.ctx",
+									"weapon_ump45.ctx",
+									"weapon_usp.ctx",
+									"weapon_xm1014.ctx"
+								]
+							},
+							"script txt format": {
+								"scripts": [
+									"weapon_ak47.txt",
+									"weapon_aug.txt",
+									"weapon_awp.txt",
+									"weapon_deagle.txt",
+									"weapon_elite.txt",
+									"weapon_famas.txt",
+									"weapon_fiveseven.txt",
+									"weapon_g3sg1.txt",
+									"weapon_galil.txt",
+									"weapon_glock.txt",
+									"weapon_knife.txt",
+									"weapon_m249.txt",
+									"weapon_m3.txt",
+									"weapon_m4a1.txt",
+									"weapon_mac10.txt",
+									"weapon_mp5navy.txt",
+									"weapon_p228.txt",
+									"weapon_p90.txt",
+									"weapon_scout.txt",
+									"weapon_sg550.txt",
+									"weapon_sg552.txt",
+									"weapon_tmp.txt",
+									"weapon_ump45.txt",
+									"weapon_usp.txt",
+									"weapon_xm1014.txt"
+								]
+							}
+						}
+					}
 				}
 			},
 			"_bContainsExe": false,
-			"_idRow": 1386308,
+			"_idRow": 1386647,
 			"_nDownloadCount": 0,
-			"_nFilesize": 29408,
+			"_nFilesize": 103316,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
-			"_sDescription": "New Version 1.2",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1386308",
-			"_sFile": "cs2_weapon_settings2025_944d0.zip",
-			"_sMd5Checksum": "81bd15b7e6404f863993f37c0703cc24",
-			"_tsDateAdded": 1740122098
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
+			"_sDescription": "Latest Version 1.2",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1386647",
+			"_sFile": "cs2_weapons_config.zip",
+			"_sMd5Checksum": "4103872d85ca46b6019b858d70ceb309",
+			"_tsDateAdded": 1740170185
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [],
+			"_sText": "<h2><span class=\"GreenColor\">v1.2 - </span>What's new?</h2><p>In this version i fixed few incorrect values. And added a couple new.</p><p>Now each weapon has Counter-Strike 2 statistics corresponding to the January 28, 2025 update.</p><p>Such as <span class=\"BlueColor\">Damage</span>, <span class=\"BlueColor\">RangeModifier</span>, <span class=\"BlueColor\">CycleTime</span>, <span class=\"BlueColor\">PlayerSpeed</span>, <span class=\"BlueColor\">WeaponPrice</span>, <span class=\"BlueColor\">Spread</span> and more...</p><h2>Hope you guys enjoy!</h2>",
+			"_sTitle": "",
+			"_sVersion": "1.2",
+			"_tsDateAdded": 1740122919
+		},
 		{
 			"_aChangeLog": [],
 			"_sText": "<p>This version includes all weapon settings updated to match those in the January 28, 2025 Counter-Strike 2 update</p><p>There are still a few values that have been untouched by me, such as:</p><p>InaccuracyCrouch</p><p>InaccuracyStand</p><p>InaccuracyJump</p><p>and so on.</p><p>But values like Spread, CycleTime, WeaponPrice, WeaponArmorRatio, Range and a couple more have been updated.</p>",
@@ -113,5 +157,5 @@
 	],
 	"_idRow": 531864,
 	"_sName": "CS2 Weapon Settings Script",
-	"_sText": "<span class=\"Y2IQFc SelectedElement\" lang=\"en\">I don't know if there is anything much to say about this, I just changed most of the weapon settings such as fire rate, damage, cost, movement speed, etc. to the same values as in CS2</span><br><span class=\"GreenColor\">Hope you enjoy!</span>"
+	"_sText": "<span class=\"Y2IQFc\" lang=\"en\">I don't know if there is anything much to say about this mod, I just changed all of the weapon settings such as fire rate, damage, cost, etc. to the same values as in current CS2 version so you are gonna get a little bit different gameplay. </span><br><span class=\"GreenColor SelectedElement\">Hope you like it!</span>"
 }

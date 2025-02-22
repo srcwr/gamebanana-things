@@ -4,32 +4,32 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": {
-					"0": "ze_snowy_skyscraper_alpha1.bsp",
+					"0": "ze_snowy_skyscraper_v1.bsp",
 					"bosshp": [
-						"ze_snowy_skyscraper_alpha1.cfg"
+						"ze_snowy_skyscraper_v1.cfg"
 					],
 					"entwatch": [
-						"ze_snowy_skyscraper_alpha1.cfg"
+						"ze_snowy_skyscraper_v1.cfg"
 					],
 					"entwatchv4 (unloze)": [
-						"ze_snowy_skyscraper_alpha1.cfg"
+						"ze_snowy_skyscraper_v1.cfg"
 					]
 				}
 			},
 			"_bContainsExe": false,
-			"_idRow": 1198922,
-			"_nDownloadCount": 143,
-			"_nFilesize": 99730184,
+			"_idRow": 1386462,
+			"_nDownloadCount": 3,
+			"_nFilesize": 89707509,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
 			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1198922",
-			"_sFile": "ze_snowy_skyscraper_alpha1.zip",
-			"_sMd5Checksum": "32b4eeda16c9cb7f3e9595dcd4209390",
-			"_tsDateAdded": 1716315485
+			"_sDownloadUrl": "https://gamebanana.com/dl/1386462",
+			"_sFile": "ze_snowy_skyscraper_v1.zip",
+			"_sMd5Checksum": "b44c1b0661ed1ab119edeb532b36b49f",
+			"_tsDateAdded": 1740150019
 		},
 		{
 			"_aMetadata": {
@@ -48,7 +48,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1235393,
-			"_nDownloadCount": 70,
+			"_nDownloadCount": 72,
 			"_nFilesize": 104963036,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -60,9 +60,135 @@
 			"_sFile": "ze_snowy_skyscraper_beta1.zip",
 			"_sMd5Checksum": "76461621bf885228786c26db78e49456",
 			"_tsDateAdded": 1720865495
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"0": "ze_snowy_skyscraper_alpha1.bsp",
+					"bosshp": [
+						"ze_snowy_skyscraper_alpha1.cfg"
+					],
+					"entwatch": [
+						"ze_snowy_skyscraper_alpha1.cfg"
+					],
+					"entwatchv4 (unloze)": [
+						"ze_snowy_skyscraper_alpha1.cfg"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 1198922,
+			"_nDownloadCount": 147,
+			"_nFilesize": 99730184,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1198922",
+			"_sFile": "ze_snowy_skyscraper_alpha1.zip",
+			"_sMd5Checksum": "32b4eeda16c9cb7f3e9595dcd4209390",
+			"_tsDateAdded": 1716315485
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Adjustment",
+					"text": "Nerfed 2nd Floor 3 Teleport and delayed the teleport by 5 seconds."
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Nerfed 3rd Floor 3 Teleport and delayed the teleport by 5 seconds."
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Fixed some spots where humans can stay during the Boss Fight"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Made the Fog even Denser at the last few parts of the map."
+				},
+				{
+					"cat": "Improvement",
+					"text": "Fog is now Radial instead of Planar"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added a shortcut in Floor 4"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added a shortcut in the Roof"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added some crates to provide cover for zombies"
+				},
+				{
+					"cat": "Addition",
+					"text": "Added some decorations"
+				},
+				{
+					"cat": "Addition",
+					"text": "Humans get 125 HP when the Boss Fight starts and on Phase Changes"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Boss when changing to the flying phase will now attack much earlier"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Boss Icicle Attack deals more damage from 20 HP to 30 HP"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Boss Icicle Attack now spawns 8 projectiles each."
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Boss Icicle Attack is faster from 1536 u/s to 2048 u/s"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Boss Icicle Attack has bigger projectile."
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Boss Icicle Attack can deal Splash Damage"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Boss’s Ground Pound can now push you back"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "Boss will no longer block bullets while flying"
+				},
+				{
+					"cat": "Improvement",
+					"text": "The Crystal Drop Checking is now handled by VScript"
+				},
+				{
+					"cat": "Improvement",
+					"text": "The starting message is now handled by VScripts"
+				},
+				{
+					"cat": "Improvement",
+					"text": "Fog in the Skybox is handled by VScripts"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "The map got darker (I’m no longer using Slammin VRAD)"
+				}
+			],
+			"_sText": "<p>Using the new features (like VScript) that the new update introduced!</p>",
+			"_sTitle": "ze_snowy_skyscraper_v1",
+			"_sVersion": "v1",
+			"_tsDateAdded": 1740150350
+		},
 		{
 			"_aChangeLog": [
 				{
@@ -122,5 +248,5 @@
 	],
 	"_idRow": 514987,
 	"_sName": "ze_snowy_skyscraper",
-	"_sText": "<b><span class=\"RedColor SelectedElement\"><span class=\"RedColor\"></span>This map is currently on Beta, I decided to release this early on GameBanana to have bugs and balance changes early on.</span></b><br><span class=\"RedColor\"></span><hr><span class=\"RedColor\">\"On a snowy place abandoned 20 years ago, a skyscraper was left alone surrounded by hills of snow. Let us decide to have a goal, and reach the top of this snowy skyscraper.\"</span><br><hr>Map by <b><span class=\"GreenColor\">Pasas1345</span></b><br>Special Thanks to <span class=\"GreenColor\">Hobbiten </span>and <span class=\"GreenColor\">4Echo (Your lighting templates are too good)</span><br><hr><u><b>Music List:</b></u><br><ul><li>daniel.mp3 - dark snowy night (Floors 1-2)</li><li>WitchSpring R - Snow Field (Floors 3-4)</li><li>Serponge &amp; TheDevon - Snowy Night (Floors 5-6)</li><li>Granblue Fantasy: Relink OST - Managarmr, Sequestrian Primal (Boss Phase 1 &amp; 2)</li></ul><hr>Decided to try making an abandoned building a theme of a ZE map. Another one of my 1 stage defense maps. Hope you enjoy!<br><br>I do recommend playing this map with Map Sounds, HDR, Color Correction and Shake on, though you could disable those.<br><hr><span class=\"GreenColor\"><b>Includes</b></span><br><ul><li>1 Defense Map<br></li><li>2 Endings</li><li>1 Item (that has no effect when used)</li><li>1 Boss</li><li>Snow</li></ul><hr><b><u>Hope you enjoy the map!</u></b>"
+	"_sText": "<hr><span class=\"RedColor\">\"On a snowy place abandoned 20 years ago, a skyscraper was left alone surrounded by hills of snow. Let us decide to have a goal, and reach the top of this snowy skyscraper.\"</span><br><hr>Map by <b><span class=\"GreenColor\">Pasas1345</span></b><br>Special Thanks to <span class=\"GreenColor\">Hobbiten </span>and <span class=\"GreenColor\">4Echo (Your lighting templates are too good)</span><br><hr><u><b>Music List:</b></u><br><ul><li>daniel.mp3 - dark snowy night (Floors 1-2)</li><li>WitchSpring R - Snow Field (Floors 3-4)</li><li>Serponge &amp; TheDevon - Snowy Night (Floors 5-6)</li><li>Granblue Fantasy: Relink OST - Managarmr, Sequestrian Primal (Boss Phase 1 &amp; 2)</li></ul><hr>Decided to try making an abandoned building a theme of a ZE map. Another one of my 1 stage defense maps. Hope you enjoy!<br><br>I do recommend playing this map with Map Sounds, HDR, Color Correction and Shake on, though you could disable those.<br><hr><span class=\"GreenColor\"><b>Includes</b></span><br><ul><li>1 Defense Map<br></li><li>2 Endings</li><li>1 Item (that has no effect when used)</li><li>1 Boss</li><li>Snow</li></ul><hr><b><u>Hope you enjoy the map!</u></b>"
 }
