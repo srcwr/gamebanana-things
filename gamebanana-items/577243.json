@@ -3,24 +3,25 @@
 	"_aFiles": [
 		{
 			"_aMetadata": {
-				"_aArchiveFileTree": [
-					"1v1_test.bsp"
-				]
+				"_aArchiveFileTree": {
+					"0": "1v1_test.bsp",
+					"nav mesh (if needed)": [
+						"1v1_test.nav"
+					]
+				}
 			},
 			"_bContainsExe": false,
-			"_idRow": 1387367,
+			"_idRow": 1387749,
 			"_nDownloadCount": 0,
-			"_nFilesize": 910047,
+			"_nFilesize": 923442,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
-			"_sAvastAvResult": "clean",
-			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1387367",
-			"_sFile": "1v1_test.zip",
-			"_sMd5Checksum": "7d45ff02255327b02e0f875b5cc5043d",
-			"_tsDateAdded": 1740268021
+			"_sDownloadUrl": "https://gamebanana.com/dl/1387749",
+			"_sFile": "1v1_test_d51d3.zip",
+			"_sMd5Checksum": "717df3ae1e0fb0c9c21efcddbaad1a72",
+			"_tsDateAdded": 1740321080
 		}
 	],
 	"_aLatestUpdates": [],
