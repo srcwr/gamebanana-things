@@ -12,11 +12,13 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1387749,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 3,
 			"_nFilesize": 923442,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1387749",
 			"_sFile": "1v1_test_d51d3.zip",
@@ -24,7 +26,14 @@
 			"_tsDateAdded": 1740321080
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [],
+			"_sText": "<p><span class=\"GreenColor\">Added 2 Weapons</span></p><ul><li><p>SSG 08</p></li><li><p>M4A1</p></li></ul><p></p><p><span class=\"GreenColor\">Added Nav Mesh in .zip file </span><span class=\"GreyColor\">(if needed)</span></p>",
+			"_sTitle": "Small Update",
+			"_tsDateAdded": 1740321238
+		}
+	],
 	"_idRow": 577243,
 	"_sName": "1v1_test",
 	"_sText": "my first ever source map :D"
