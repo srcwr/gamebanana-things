@@ -9,33 +9,35 @@
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1389057,
+			"_idRow": 1389562,
 			"_nDownloadCount": 0,
-			"_nFilesize": 6199536,
+			"_nFilesize": 6276888,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1389057",
-			"_sFile": "de_lesina_v110.rar",
-			"_sMd5Checksum": "b2fda8d500793b818f80404db093f8f1",
-			"_tsDateAdded": 1740501700
+			"_sDownloadUrl": "https://gamebanana.com/dl/1389562",
+			"_sFile": "de_lesina_v111.rar",
+			"_sMd5Checksum": "f79bfea4ddd722769842150426dc17ea",
+			"_tsDateAdded": 1740571658
 		}
 	],
 	"_aLatestUpdates": [
 		{
 			"_aChangeLog": [],
-			"_sText": "<p>-fixed missing texture on a house near B site</p>",
+			"_sText": "<p>-minor texture fixes</p>",
 			"_sTitle": "update",
-			"_sVersion": "v.1.0.2",
-			"_tsDateAdded": 1740263240
+			"_sVersion": "v.1.1.1",
+			"_tsDateAdded": 1740571797
 		},
 		{
 			"_aChangeLog": [],
-			"_sText": "<p>-minor texture fixes</p><p>-minor geometry fixes</p><p>-added more vegetation</p>",
+			"_sText": "<p>-added collision to scaffolding</p><p>-added new props</p><p>-changed ground textures</p><p>-added curbs</p>",
 			"_sTitle": "update",
-			"_sVersion": "v.1.0.1",
-			"_tsDateAdded": 1739547026
+			"_sVersion": "v.1.1.0",
+			"_tsDateAdded": 1740501943
 		}
 	],
 	"_idRow": 574008,
