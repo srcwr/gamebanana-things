@@ -10,7 +10,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1389843,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 1,
 			"_nFilesize": 6353722,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -27,17 +27,17 @@
 	"_aLatestUpdates": [
 		{
 			"_aChangeLog": [],
+			"_sText": "<p>-removed invisible walls on seaside</p><p>-added trigger hurt in the water</p><p>-improved invisible walls</p><p>-added props on the right side of T spawn designating a closed passage</p><p>-improved piles of stone appearance</p><p>-added new decorations on CT spawn</p><p>-minor texture fixes</p>",
+			"_sTitle": "update",
+			"_sVersion": "v.1.2.0",
+			"_tsDateAdded": 1740603538
+		},
+		{
+			"_aChangeLog": [],
 			"_sText": "<p>-minor texture fixes</p>",
 			"_sTitle": "update",
 			"_sVersion": "v.1.1.1",
 			"_tsDateAdded": 1740571797
-		},
-		{
-			"_aChangeLog": [],
-			"_sText": "<p>-added collision to scaffolding</p><p>-added new props</p><p>-changed ground textures</p><p>-added curbs</p>",
-			"_sTitle": "update",
-			"_sVersion": "v.1.1.0",
-			"_tsDateAdded": 1740501943
 		}
 	],
 	"_idRow": 574008,
