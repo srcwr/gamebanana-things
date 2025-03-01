@@ -4,12 +4,33 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
+					"jb_peanut_v3.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 1391467,
+			"_nDownloadCount": 0,
+			"_nFilesize": 67429662,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1391467",
+			"_sFile": "jb_peanut_v3.7z",
+			"_sMd5Checksum": "7e5d1839dfe8dc06301449db776a95d9",
+			"_tsDateAdded": 1740841637
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
 					"jb_peanut_v1.bsp"
 				]
 			},
 			"_bContainsExe": false,
 			"_idRow": 1324490,
-			"_nDownloadCount": 28,
+			"_nDownloadCount": 31,
 			"_nFilesize": 69960055,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -30,7 +51,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1367466,
-			"_nDownloadCount": 4,
+			"_nDownloadCount": 6,
 			"_nFilesize": 68749483,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -45,6 +66,34 @@
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Tweak",
+					"text": "toned down hdr"
+				},
+				{
+					"cat": "Bugfix",
+					"text": "fixed some textures"
+				},
+				{
+					"cat": "Improvement",
+					"text": "updated radar"
+				},
+				{
+					"cat": "Removal",
+					"text": "removed the basketball bomb due to issues"
+				},
+				{
+					"cat": "Addition",
+					"text": "added some more cubemaps"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "",
+			"_sVersion": "v3",
+			"_tsDateAdded": 1740841823
+		},
 		{
 			"_aChangeLog": [
 				{
