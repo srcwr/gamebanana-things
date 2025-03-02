@@ -5,28 +5,78 @@
 			"_aMetadata": {
 				"_aArchiveFileTree": [
 					"README.txt",
-					"ze_collective_css1.bsp",
-					"ze_collective_css1.nav"
+					"ze_collective_css2.bsp",
+					"ze_collective_css2.nav"
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1391495,
-			"_nDownloadCount": 31,
-			"_nFilesize": 116379164,
+			"_idRow": 1392428,
+			"_nDownloadCount": 11,
+			"_nFilesize": 114707180,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
 			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1391495",
-			"_sFile": "ze_collective_css1.zip",
-			"_sMd5Checksum": "00b051cf36940e51f4fd06b75c7d52d7",
-			"_tsDateAdded": 1740844014
+			"_sDownloadUrl": "https://gamebanana.com/dl/1392428",
+			"_sFile": "ze_collective_css2.zip",
+			"_sMd5Checksum": "319a1d79166b0a1573f99c8578731478",
+			"_tsDateAdded": 1740941690
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"text": "added dirty workaround-logic for server plugins blocking the \"round_end\" event (server-managers still need to look into this!!!)"
+				},
+				{
+					"text": "fixed crashes related to packed game-sounds"
+				},
+				{
+					"text": "fixed crash related to env_explosion passing null attacker"
+				},
+				{
+					"text": "fixed issues with the finale elevators (people should no longer fall through them)"
+				},
+				{
+					"text": "fixed issue with players falling through airslide tiles"
+				},
+				{
+					"cat": "for safety",
+					"text": "converted a ton of \"solid\"/\"collisiongroup\" commands to their proper functions"
+				},
+				{
+					"text": "tweaked the end timing for the kart ending"
+				},
+				{
+					"text": "fixed sound precache issues which should hopefully solve sporadically silent music/sounds"
+				},
+				{
+					"text": "fixed the kamikaze plane being sideways"
+				},
+				{
+					"text": "now preventing flashlights from being used due to visual glitches"
+				},
+				{
+					"cat": "hopefully fixed dealing damage now",
+					"text": "tweaked the bomb_chuck item to explode differently"
+				},
+				{
+					"text": "tweaked the bomb_chuck item to explode the user who presses E on it to push it away (re-enabled logic from CS:GO)"
+				},
+				{
+					"text": "the map now gives +100 points to players who complete a stage"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "css2",
+			"_sVersion": "css2",
+			"_tsDateAdded": 1740942168
+		}
+	],
 	"_idRow": 578592,
-	"_sName": "ze_collective_css1",
+	"_sName": "ze_collective_css2",
 	"_sText": "<h1 class=\"SelectedElement\"><b><u><span class=\"GreenColor\">ze_collective</span></u></b></h1><br><b>[Join the collective]</b><br>1) Visit:   Luffaren.com/ze_collective<br>2) Draw a 20x20 image via the web-editor<br>3) Submit the 20x20 image to the web<br>4) Luffaren reviews all submitted images<br>5) Accepted images get added to the map<br><br><b><u>[This map includes]</u></b><br>- YOUR pixel-levels (1000+ and expanding)<br>- Themes<br>- Items<br>- Traps<br>- Events<br>- 5 stages (4 difficulties, 1 finale)<br>- A bossfight with an exciting ending<br>- Infinite mode (when map is beaten)<br><br>Admin room: (visible just above spawn)<br><br>---------------------------------------------------------------------------------------<br><u><b>To win the map:</b></u><br>- Complete the 4 difficulties + their respective endings.<br>- Complete the finale + its ending.<br>- Complete the infinite finale + its ending (the higher the stage/check-out count, the better).<br><br>The stage/check-out count will be what separates men from boys. <br>Which team will be able to go the furthest?<br><br>Good luck!<br>---------------------------------------------------------------------------------------<br><br>This CS:S port was made possible thanks to the recent update which implemented Vscript into the game.<br><br>Please do not alter or port this map elsewhere, thank you!<br><br>Huge thanks to Ficool and Xen for helping out with a bunch of technical issues that came with the CS:S port!"
 }
