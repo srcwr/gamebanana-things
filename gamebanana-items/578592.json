@@ -2,14 +2,22 @@
 	"_aAlternateFileSources": null,
 	"_aFiles": [
 		{
-			"_aMetadata": [],
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"README.txt",
+					"ze_collective_css3.bsp",
+					"ze_collective_css3.nav"
+				]
+			},
 			"_bContainsExe": false,
 			"_idRow": 1393610,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 14,
 			"_nFilesize": 114725381,
-			"_sAnalysisResult": "Undetermined",
-			"_sAnalysisResultCode": "undetermined",
-			"_sAnalysisState": "pending",
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1393610",
 			"_sFile": "ze_collective_css3.zip",
@@ -19,50 +27,15 @@
 	],
 	"_aLatestUpdates": [
 		{
-			"_aChangeLog": [
-				{
-					"text": "added dirty workaround-logic for server plugins blocking the \"round_end\" event (server-managers still need to look into this!!!)"
-				},
-				{
-					"text": "fixed crashes related to packed game-sounds"
-				},
-				{
-					"text": "fixed crash related to env_explosion passing null attacker"
-				},
-				{
-					"text": "fixed issues with the finale elevators (people should no longer fall through them)"
-				},
-				{
-					"text": "fixed issue with players falling through airslide tiles"
-				},
-				{
-					"cat": "for safety",
-					"text": "converted a ton of \"solid\"/\"collisiongroup\" commands to their proper functions"
-				},
-				{
-					"text": "tweaked the end timing for the kart ending"
-				},
-				{
-					"text": "fixed sound precache issues which should hopefully solve sporadically silent music/sounds"
-				},
-				{
-					"text": "fixed the kamikaze plane being sideways"
-				},
-				{
-					"text": "now preventing flashlights from being used due to visual glitches"
-				},
-				{
-					"cat": "hopefully fixed dealing damage now",
-					"text": "tweaked the bomb_chuck item to explode differently"
-				},
-				{
-					"text": "tweaked the bomb_chuck item to explode the user who presses E on it to push it away (re-enabled logic from CS:GO)"
-				},
-				{
-					"text": "the map now gives +100 points to players who complete a stage"
-				}
-			],
-			"_sText": "",
+			"_aChangeLog": [],
+			"_sText": "<p>- reverted the faulting map-workaround for the \"round_event\" as servers now have fixed their plugins blocking it</p><p>- enabled forced in-map human+zombie playermodels, servermanagers can turn this off by running this once: ent_fire manager runscriptcode \"::CHEAP_PLAYERMODELS=false;\"</p><p>- certain props with 'see-through' / $ignorez functionality should now work again (thanks ficool)</p><p>- applied a workaround for a somewhat rare issue with mismatching network ID's</p><p>- optimized the BEAMGRID event by decreasing trigger size</p><p>- heal_orb will now give the proper/vanilla max ammo to each specific weapon class</p><p>- added unique targetnames for all hitboxes, making things easier to hook by plugins (boss_eye_hitbox / hitbox_pizzadoom / hitbox_kamikaze / hitbox_thigh_spider)</p><p>- altered several things in hopes of making boostpads function more reliably</p><p>- converted ladders to a different class in hopes of solving weird jank being able to jump really high</p><p>- fixed issue on the RISE ending where the falling tiles weren't indicated with red color/positional dent</p><p>- fixed issue with the spawn killer, repeat killer on servers should now function properly</p><p>- altered all music sounds by adding \"#\" at the start of the path (music-slider should now work)</p><p>- zacade figured out why env_explosion with killcredit wasn't working, it's ZR blocking the damage - this needs to (has been?) fixed server-side</p><p>- the race ending will now automatically fail if there's not enough humans (4) to start</p><p>- the impostor item will now hide the radar during its hidden-state (thanks zacade)</p><p>- fixed issue where bill nye didn't stop ticking after getting destroyed by a destructo hammer</p><p>- fixed issue with a solid brush door in spawn, it's now non-solid and won't move</p><p>- fixed issue with incorrect debris OOB triggers, the falling debris will now hit people more accurately</p><p>- simplified and moved the \"[INVINCIBLE]\" text to not cover the middle of the screen</p><p>- the dragonslayer is now orange-tinted when buffed by a firecrystal (this was initially broken due to missing prop glow in CS:S)</p><p>- reworked the boss 'look at' effects to render more clearly (this was initially broken due to missing prop glow in CS:S)</p><p>- converted a handful of \"solid\"/\"collisiongroup\" commands to their proper functions, for safety (some were missed in css2)</p><p>- added even further logic to prevent issue with players falling through airslide tiles (CS:S triggers really can't be trusted it seems)</p><p>- tweaked the karts so you only enter driving-mode by standing on top AND looking down (previously you just had to stand on top)</p><p>- reworked the kart-controls entirely, WASD steering, CTRL to get off, SPACE to jump, HOLD SHIFT to use the original mouse-steering (can be toggled via ::TRAPS.kart.new_controls=true)</p><p></p>",
+			"_sTitle": "css3",
+			"_sVersion": "css3",
+			"_tsDateAdded": 1741121377
+		},
+		{
+			"_aChangeLog": [],
+			"_sText": "<p>- added dirty workaround-logic for server plugins blocking the \"round_end\" event (server-managers still need to look into this!!!)</p><p>- fixed crashes related to packed game-sounds</p><p>- fixed crash related to env_explosion passing null attacker</p><p>- fixed issues with the finale elevators (people should no longer fall through them)</p><p>- fixed issue with players falling through airslide tiles</p><p>- converted a ton of \"solid\"/\"collisiongroup\" commands to their proper functions, for safety</p><p>- tweaked the end timing for the kart ending</p><p>- fixed sound precache issues which should hopefully solve sporadically silent music/sounds</p><p>- fixed the kamikaze plane being sideways</p><p>- now preventing flashlights from being used due to visual glitches</p><p>- tweaked the bomb_chuck item to explode differently, hopefully fixed dealing damage now</p><p>- tweaked the bomb_chuck item to explode the user who presses E on it to push it away (re-enabled logic from CS:GO)</p><p>- the map now gives +100 points to players who complete a stage</p>",
 			"_sTitle": "css2",
 			"_sVersion": "css2",
 			"_tsDateAdded": 1740942168
