@@ -5,43 +5,41 @@
 			"_aMetadata": {
 				"_aArchiveFileTree": [
 					"README.txt",
-					"ze_collective_css3.bsp",
-					"ze_collective_css3.nav"
+					"ze_collective_css4.bsp",
+					"ze_collective_css4.nav"
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1393610,
-			"_nDownloadCount": 21,
-			"_nFilesize": 114725381,
+			"_idRow": 1394873,
+			"_nDownloadCount": 0,
+			"_nFilesize": 113601840,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
-			"_sAvastAvResult": "clean",
-			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1393610",
-			"_sFile": "ze_collective_css3.zip",
-			"_sMd5Checksum": "9de5bd03f3307d665b24dcb8f8c031ba",
-			"_tsDateAdded": 1741121342
+			"_sDownloadUrl": "https://gamebanana.com/dl/1394873",
+			"_sFile": "ze_collective_css4.zip",
+			"_sMd5Checksum": "2a128ab5a92c8ebab7e878efa2321e8e",
+			"_tsDateAdded": 1741290338
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [],
+			"_sText": "<p>- lowered the top of ladders by 2 units in hopes of preventing weird boost-jank</p><p>- fixed issue where the race ending doesn't start</p><p>- blocked stage #1673322993 from running during the finale</p><p>- finale boss platform tiles now have improved lighting</p><p>- collapsing tiles will now use the proper/same lighting information as its original tile</p><p>- if servers are using forced playermodel (::CHEAP_PLAYERMODELS) the rendercolor is now forced to white (255,255,255)</p><p>- tweaked airslide tiles in order to make them more responsive and stable</p><p>- tweaked boostpad tiles in order to make them more responsive and stable</p><p>- tweaked teleport tiles in order to make them more responsive and stable</p><p>- lowered z-stone item trigger bounds to its original size (from 20 to 5)</p><p>- the weapon_jam event now gives more reserve ammo in hopes of not depleting the ammo entirely</p><p>- made the conflict ending crouch-jump work better, now you'll jump high as long as you hold CTRL while you jump (instead having to wait to become crouched)</p><p>- added a game_text to show the mapID/mapname/author next to the stage pixel-preview on the upper left</p><p>- added a mirrored variant of the stage pixel-preview on the upper left</p><p>- the stage pixel-preview is now rotated 90 degrees counter-clockwise (making it relative to the entrance-direction)</p><p>- altered the format of the stage pixel-preview .vtf files to remove bleeding/color artifacts (thanks ficool)</p><p>- certain items that may cause a player to fall off the stage will now give killcredit for falldamage-deaths</p><p>- certain items that may cause a player to fall off the stage will now give killcredit for harsh hazplane-deaths</p><p>- added extra item-button filter which will now deny using items if you're close to and looking towards an E-press door or a button tile</p><p>- added logic to auto-slay early on during the finale elevator if the human number is too low, saving time</p><p>- added logic to auto-slay during the finale final elevator, if the human number is too low, no solorats allowed, go for the team win</p>",
+			"_sTitle": "css4",
+			"_sVersion": "css4",
+			"_tsDateAdded": 1741290370
+		},
 		{
 			"_aChangeLog": [],
 			"_sText": "<p>- reverted the faulting map-workaround for the \"round_event\" as servers now have fixed their plugins blocking it</p><p>- enabled forced in-map human+zombie playermodels, servermanagers can turn this off by running this once: ent_fire manager runscriptcode \"::CHEAP_PLAYERMODELS=false;\"</p><p>- certain props with 'see-through' / $ignorez functionality should now work again (thanks ficool)</p><p>- applied a workaround for a somewhat rare issue with mismatching network ID's</p><p>- optimized the BEAMGRID event by decreasing trigger size</p><p>- heal_orb will now give the proper/vanilla max ammo to each specific weapon class</p><p>- added unique targetnames for all hitboxes, making things easier to hook by plugins (boss_eye_hitbox / hitbox_pizzadoom / hitbox_kamikaze / hitbox_thigh_spider)</p><p>- altered several things in hopes of making boostpads function more reliably</p><p>- converted ladders to a different class in hopes of solving weird jank being able to jump really high</p><p>- fixed issue on the RISE ending where the falling tiles weren't indicated with red color/positional dent</p><p>- fixed issue with the spawn killer, repeat killer on servers should now function properly</p><p>- altered all music sounds by adding \"#\" at the start of the path (music-slider should now work)</p><p>- zacade figured out why env_explosion with killcredit wasn't working, it's ZR blocking the damage - this needs to (has been?) fixed server-side</p><p>- the race ending will now automatically fail if there's not enough humans (4) to start</p><p>- the impostor item will now hide the radar during its hidden-state (thanks zacade)</p><p>- fixed issue where bill nye didn't stop ticking after getting destroyed by a destructo hammer</p><p>- fixed issue with a solid brush door in spawn, it's now non-solid and won't move</p><p>- fixed issue with incorrect debris OOB triggers, the falling debris will now hit people more accurately</p><p>- simplified and moved the \"[INVINCIBLE]\" text to not cover the middle of the screen</p><p>- the dragonslayer is now orange-tinted when buffed by a firecrystal (this was initially broken due to missing prop glow in CS:S)</p><p>- reworked the boss 'look at' effects to render more clearly (this was initially broken due to missing prop glow in CS:S)</p><p>- converted a handful of \"solid\"/\"collisiongroup\" commands to their proper functions, for safety (some were missed in css2)</p><p>- added even further logic to prevent issue with players falling through airslide tiles (CS:S triggers really can't be trusted it seems)</p><p>- tweaked the karts so you only enter driving-mode by standing on top AND looking down (previously you just had to stand on top)</p><p>- reworked the kart-controls entirely, WASD steering, CTRL to get off, SPACE to jump, HOLD SHIFT to use the original mouse-steering (can be toggled via ::TRAPS.kart.new_controls=true)</p><p></p>",
 			"_sTitle": "css3",
 			"_sVersion": "css3",
 			"_tsDateAdded": 1741121377
-		},
-		{
-			"_aChangeLog": [],
-			"_sText": "<p>- added dirty workaround-logic for server plugins blocking the \"round_end\" event (server-managers still need to look into this!!!)</p><p>- fixed crashes related to packed game-sounds</p><p>- fixed crash related to env_explosion passing null attacker</p><p>- fixed issues with the finale elevators (people should no longer fall through them)</p><p>- fixed issue with players falling through airslide tiles</p><p>- converted a ton of \"solid\"/\"collisiongroup\" commands to their proper functions, for safety</p><p>- tweaked the end timing for the kart ending</p><p>- fixed sound precache issues which should hopefully solve sporadically silent music/sounds</p><p>- fixed the kamikaze plane being sideways</p><p>- now preventing flashlights from being used due to visual glitches</p><p>- tweaked the bomb_chuck item to explode differently, hopefully fixed dealing damage now</p><p>- tweaked the bomb_chuck item to explode the user who presses E on it to push it away (re-enabled logic from CS:GO)</p><p>- the map now gives +100 points to players who complete a stage</p>",
-			"_sTitle": "css2",
-			"_sVersion": "css2",
-			"_tsDateAdded": 1740942168
 		}
 	],
 	"_idRow": 578592,
-	"_sName": "ze_collective_css3",
+	"_sName": "ze_collective_css4",
 	"_sText": "<h1 class=\"SelectedElement\"><b><u><span class=\"GreenColor\">ze_collective</span></u></b></h1><br><b>[Join the collective]</b><br>1) Visit:   Luffaren.com/ze_collective<br>2) Draw a 20x20 image via the web-editor<br>3) Submit the 20x20 image to the web<br>4) Luffaren reviews all submitted images<br>5) Accepted images get added to the map<br><br><b><u>[This map includes]</u></b><br>- YOUR pixel-levels (1000+ and expanding)<br>- Themes<br>- Items<br>- Traps<br>- Events<br>- 5 stages (4 difficulties, 1 finale)<br>- A bossfight with an exciting ending<br>- Infinite mode (when map is beaten)<br><br>Admin room: (visible just above spawn)<br><br>---------------------------------------------------------------------------------------<br><u><b>To win the map:</b></u><br>- Complete the 4 difficulties + their respective endings.<br>- Complete the finale + its ending.<br>- Complete the infinite finale + its ending (the higher the stage/check-out count, the better).<br><br>The stage/check-out count will be what separates men from boys. <br>Which team will be able to go the furthest?<br><br>Good luck!<br>---------------------------------------------------------------------------------------<br><br>This CS:S port was made possible thanks to the recent update which implemented Vscript into the game.<br><br>Please do not alter or port this map elsewhere, thank you!<br><br>Huge thanks to Ficool and Xen for helping out with a bunch of technical issues that came with the CS:S port!"
 }
