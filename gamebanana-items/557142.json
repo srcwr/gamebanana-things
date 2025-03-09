@@ -4,12 +4,54 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
+					"jb_moti2_v5.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 1382447,
+			"_nDownloadCount": 5,
+			"_nFilesize": 35450605,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1382447",
+			"_sFile": "jb_moti2_v5.7z",
+			"_sMd5Checksum": "517a3975d5a21c28b8a4b21dd0933d33",
+			"_tsDateAdded": 1739636939
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"jb_moti2_v4.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 1376846,
+			"_nDownloadCount": 7,
+			"_nFilesize": 39979598,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1376846",
+			"_sFile": "jb_moti2_v4.7z",
+			"_sMd5Checksum": "b2e97c86068886e2d3e31fe96d29e9b8",
+			"_tsDateAdded": 1738866068
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
 					"jb_moti2_v3.bsp"
 				]
 			},
 			"_bContainsExe": false,
 			"_idRow": 1347116,
-			"_nDownloadCount": 5,
+			"_nDownloadCount": 6,
 			"_nFilesize": 36717378,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -49,13 +91,41 @@
 			"_aChangeLog": [
 				{
 					"cat": "Bugfix",
-					"text": "fixed taxi so dead people cant drive it"
+					"text": "fixed some ladders"
+				},
+				{
+					"cat": "Improvement",
+					"text": "aligned some textures"
+				},
+				{
+					"cat": "Removal",
+					"text": "removed hdr"
 				}
 			],
 			"_sText": "",
-			"_sTitle": "jb_moti2_v3",
-			"_sVersion": "v3",
-			"_tsDateAdded": 1734895349
+			"_sTitle": "",
+			"_sVersion": "v5",
+			"_tsDateAdded": 1739637004
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Tweak",
+					"text": "made warday button active with a chance 1/3 rounds instead of 1/7 rounds"
+				},
+				{
+					"cat": "Optimization",
+					"text": "made default assets not pack"
+				},
+				{
+					"cat": "Improvement",
+					"text": "updated radar"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "",
+			"_sVersion": "v4",
+			"_tsDateAdded": 1738866308
 		}
 	],
 	"_idRow": 557142,

@@ -4,23 +4,44 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
-					"jb_sg_dojo_ap_v1_1fix.bsp"
+					"jb_sg_dojo_ap_v4.bsp"
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1324497,
-			"_nDownloadCount": 96,
-			"_nFilesize": 67166764,
+			"_idRow": 1387567,
+			"_nDownloadCount": 25,
+			"_nFilesize": 64621264,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
 			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1324497",
-			"_sFile": "jb_sg_dojo_ap_v1_1fix.7z",
-			"_sMd5Checksum": "d5b4c2fa71c036e013f533ca02d22e34",
-			"_tsDateAdded": 1731867593
+			"_sDownloadUrl": "https://gamebanana.com/dl/1387567",
+			"_sFile": "jb_sg_dojo_ap_v4.7z",
+			"_sMd5Checksum": "50a289f8d3ae681640c01ca2a1000772",
+			"_tsDateAdded": 1740294578
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"jb_sg_dojo_ap_v3.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 1383730,
+			"_nDownloadCount": 8,
+			"_nFilesize": 64951742,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1383730",
+			"_sFile": "jb_sg_dojo_ap_v3.7z",
+			"_sMd5Checksum": "cdd725ffeb6c6e88f5902af4b815363e",
+			"_tsDateAdded": 1739764629
 		},
 		{
 			"_aMetadata": {
@@ -30,7 +51,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1362981,
-			"_nDownloadCount": 17,
+			"_nDownloadCount": 21,
 			"_nFilesize": 70279989,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -42,6 +63,27 @@
 			"_sFile": "jb_sg_dojo_ap_v2.7z",
 			"_sMd5Checksum": "a2039e86166fbdd3489c766a9330e140",
 			"_tsDateAdded": 1736897839
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"jb_sg_dojo_ap_v1_1fix.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 1324497,
+			"_nDownloadCount": 105,
+			"_nFilesize": 67166764,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1324497",
+			"_sFile": "jb_sg_dojo_ap_v1_1fix.7z",
+			"_sMd5Checksum": "d5b4c2fa71c036e013f533ca02d22e34",
+			"_tsDateAdded": 1731867593
 		}
 	],
 	"_aLatestUpdates": [
@@ -49,25 +91,29 @@
 			"_aChangeLog": [
 				{
 					"cat": "Bugfix",
-					"text": "fixed textures not being animated"
-				},
-				{
-					"cat": "Bugfix",
-					"text": "fixed players getting squished between colours door and the tower wall"
-				},
-				{
-					"cat": "Tweak",
-					"text": "added lights to glowstone and redstone lamps"
-				},
-				{
-					"cat": "Improvement",
-					"text": "updated radar"
+					"text": "lit up arrow game again"
 				}
 			],
 			"_sText": "",
 			"_sTitle": "",
-			"_sVersion": "v2",
-			"_tsDateAdded": 1736898030
+			"_sVersion": "v4",
+			"_tsDateAdded": 1740294634
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "fixed issues with cargame"
+				},
+				{
+					"cat": "Removal",
+					"text": "removed hdr"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "",
+			"_sVersion": "v3",
+			"_tsDateAdded": 1739764772
 		}
 	],
 	"_idRow": 556524,

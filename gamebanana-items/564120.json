@@ -4,12 +4,33 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
+					"jb_lego_jail_2k17_v2.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 1375582,
+			"_nDownloadCount": 13,
+			"_nFilesize": 43809564,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1375582",
+			"_sFile": "jb_lego_jail_2k17_v2.7z",
+			"_sMd5Checksum": "766918055acecbae5daee85843bd0916",
+			"_tsDateAdded": 1738633009
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
 					"jb_lego_jail_2k17_v1.bsp"
 				]
 			},
 			"_bContainsExe": false,
 			"_idRow": 1347707,
-			"_nDownloadCount": 35,
+			"_nDownloadCount": 42,
 			"_nFilesize": 32981284,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -23,7 +44,28 @@
 			"_tsDateAdded": 1734975424
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "added back music from og lego and updated the quality"
+				},
+				{
+					"cat": "Optimization",
+					"text": "stopped default assets getting packed"
+				},
+				{
+					"cat": "Improvement",
+					"text": "updated radar"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "",
+			"_sVersion": "v2",
+			"_tsDateAdded": 1738633156
+		}
+	],
 	"_idRow": 564120,
 	"_sName": "jb_lego_jail_2k17",
 	"_sText": "port of jb_lego_jail_2k17 from csgo<br><br>original map: https://steamcommunity.com/sharedfiles/filedetails/?id=887924191"

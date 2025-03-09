@@ -9,38 +9,38 @@
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1360857,
-			"_nDownloadCount": 49,
-			"_nFilesize": 7748838,
+			"_idRow": 1389069,
+			"_nDownloadCount": 93,
+			"_nFilesize": 3200391,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
 			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1360857",
-			"_sFile": "de_sarab_v102.rar",
-			"_sMd5Checksum": "139ef41a16976c3d00dedc61b0d87fc9",
-			"_tsDateAdded": 1736599794
+			"_sDownloadUrl": "https://gamebanana.com/dl/1389069",
+			"_sFile": "de_sarab_v104.rar",
+			"_sMd5Checksum": "dde0228a648c825efb7c5f7eee75c3fa",
+			"_tsDateAdded": 1740503667
 		}
 	],
 	"_aLatestUpdates": [
 		{
 			"_aChangeLog": [],
-			"_sText": "<p>-added HDR effects</p>",
+			"_sText": "<p>-fixed ladder on the T spawn</p>",
 			"_sTitle": "update",
-			"_sVersion": "v.1.0.2",
-			"_tsDateAdded": 1736599851
+			"_sVersion": "v.1.0.4",
+			"_tsDateAdded": 1740503719
 		},
 		{
 			"_aChangeLog": [],
-			"_sText": "<p>-minor shadow improvements</p>",
+			"_sText": "<p>-fixed geometry of ladder near B site</p><p>-added new windows</p><p>-added new decals</p>",
 			"_sTitle": "update",
-			"_sVersion": "v.1.0.1",
-			"_tsDateAdded": 1729338399
+			"_sVersion": "v.1.0.3",
+			"_tsDateAdded": 1740261990
 		}
 	],
 	"_idRow": 549255,
 	"_sName": "de_sarab",
-	"_sText": "de_sarab is a bomb defuse map made in the style of Middle East countries. The map is a battlefield for fairly dynamic firefights on each section of the map.<br><br>The textures and props of the map are mainly taken from the de_dust series of maps, but despite this it is absolutely unlike them and is unique in its kind.<br><br><span class=\"SelectedElement\">The idea of building this map arose in January 2024 and now I am glad to share with you the result of our team's efforts. I hope you enjoy playing on this map and it will gain at least some popularity despite the fact that this version of the game is not very popular these days.</span><br><br>I recommend to download the latest version of the map."
+	"_sText": "de_sarab is a bomb defuse map made in the style of Middle East countries. The map is a battlefield for fairly dynamic firefights on each section of the map.<br><br><span class=\"SelectedElement\">The idea of building this map arose in January 2024 and now I am glad to share with you the result of our team's efforts. I hope you enjoy playing on this map!</span><br>"
 }
