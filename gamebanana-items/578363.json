@@ -9,7 +9,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1390849,
-			"_nDownloadCount": 55,
+			"_nDownloadCount": 61,
 			"_nFilesize": 103141883,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -23,7 +23,64 @@
 			"_tsDateAdded": 1740765522
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "Fixed global teleports to reset rendermode, speed and modelscale. This should fix invis zombies"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Added reset for renderfx on spawn"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Reduced sasukes dash speed from 512 to 256"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Increased tsunades heal ticks from -16 to -32"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Reduced deidara c3 explosion magnitude from 400 to 300"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Reduced deidara t playable c1 spider explosion magnitude from 220 to 150"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Reduced deidara last bird explosion magnitude from 500 to 250"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Reduced sasori ironsand shower explosion magnitude from 200 to 100"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Reduced sasori ironsand unleash hurt damage from 300 to 200"
+				},
+				{
+					"cat": "Feature",
+					"text": "Added 50 bosshealth subtraction for ironsand unleash even if hurt triggers every ct because of damage filter. Lore: Ability also hurts him"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "Reduced sasori2 physbox escape health per ct going to bossroom from 200 to 100"
+				},
+				{
+					"cat": "Feature",
+					"text": "Added 150 itachi bosshealth subtraction for amaterasu even if hurt triggers every ct because of damage filter. Lore: Ability also hurts him"
+				}
+			],
+			"_sText": "<p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://drive.proton.me/urls/51TVBD2TFR#TVfcZsX7wsCe\">https://drive.proton.me/urls/51TVBD2TFR#TVfcZsX7wsCe</a></p><pre><code>;; _\n\n;; vis changes\n\n\n;; fix global teleports to reset rendermode, speed and modelscale\n;; all items which are hit should call the norender loop each 15 secs (disable_render_skin)\n\nmodify:\n{\n\tmatch:\n\t{\n\t\t\"targetname\" \"global_Boss_Teleport_ct\"\n\t\t\"classname\" \"trigger_teleport\"\n\t}\n\tinsert:\n\t{\n\t\t\"OnStartTouch\" \"speedmod,ModifySpeed,1,0,-1\"\n\t\t\"OnStartTouch\" \"!activator,AddOutput,rendermode 0,0,-1\"\n\t\t\"OnStartTouch\" \"!activator,AddOutput,renderfx 0,0,-1\"\n\t\t\"OnStartTouch\" \"!activator,SetModelScale,1,0,-1\"\n\t}\n}\n\nmodify:\n{\n\tmatch:\n\t{\n\t\t\"targetname\" \"global_Boss_Teleport_t\"\n\t\t\"classname\" \"trigger_teleport\"\n\t}\n\tinsert:\n\t{\n\t\t\"OnStartTouch\" \"speedmod,ModifySpeed,1,0,-1\"\n\t\t\"OnStartTouch\" \"!activator,AddOutput,rendermode 0,0,-1\"\n\t\t\"OnStartTouch\" \"!activator,AddOutput,renderfx 0,0,-1\"\n\t\t\"OnStartTouch\" \"!activator,SetModelScale,1,0,-1\"\n\t}\n}\n\nmodify:\n{\n\tmatch:\n\t{\n\t\t\"origin\" \"-12048 -3960 3216\"\n\t\t\"classname\" \"trigger_teleport\"\n\t\t\"hammerid\" \"4204570\"\n\t}\n\tdelete:\n\t{\n\t\t\"OnStartTouch\" \"speedmod,ModifySpeed,1,0,-1\"\n\t\t\"OnStartTouch\" \"!activator,AddOutput,rendermode 0,0,-1\"\n\t\t\"OnStartTouch\" \"!activator,AddOutput,renderfx 0,0,-1\"\n\t\t\"OnStartTouch\" \"!activator,SetModelScale,1,0,-1\"\n\t}\n}\n\n;; better also reset renderfx on spawn\n\nmodify:\n{\n\tmatch:\n\t{\n\t\t\"targetname\" \"spawnroom_reset_trigger\"\n\t\t\"classname\" \"trigger_multiple\"\n\t}\n\tinsert:\n\t{\n\t\t\"OnStartTouch\" \"!activator,AddOutput,renderfx 0,0,-1\"\n\t}\n}\n\n\n;; gameplay changes\n\n\n;; reduced sasukes dash speed from 512 to 256\n\nmodify:\n{\n\tmatch:\n\t{\n\t\t\"targetname\" \"sasuke_dash_push\"\n\t\t\"classname\" \"trigger_push\"\n\t}\n\treplace:\n\t{\n\t\t\"speed\" \"256\"\n\t}\n}\n\n;; increased tsunades heal ticks from -16 to -32\n\nmodify:\n{\n\tmatch:\n\t{\n\t\t\"targetname\" \"tsunade_heal_hurt\"\n\t\t\"classname\" \"trigger_hurt\"\n\t}\n\treplace:\n\t{\n\t\t\"damage\" \"-32\"\n\t\t\"damagecap\" \"-32\"\n\t}\n}\n\n;; reduced deidara c3 explosion magnitude from 400 to 300\n\nmodify:\n{\n\tmatch:\n\t{\n\t\t\"targetname\" \"c3_bomb_7_1_explosion\"\n\t\t\"classname\" \"env_explosion\"\n\t}\n\treplace:\n\t{\n\t\t\"iMagnitude\" \"300\"\n\t}\n}\n\n;; reduced deidara t playable c1 spider explosion magnitude from 220 to 150\n\nmodify:\n{\n\tmatch:\n\t{\n\t\t\"targetname\" \"c1_explosion\"\n\t\t\"classname\" \"env_explosion\"\n\t}\n\treplace:\n\t{\n\t\t\"iMagnitude\" \"150\"\n\t}\n}\n\n;; reduced deidara last bird explosion magnitude from 500 to 250\n\nmodify:\n{\n\tmatch:\n\t{\n\t\t\"targetname\" \"l1_bird_explosion\"\n\t\t\"classname\" \"env_explosion\"\n\t}\n\treplace:\n\t{\n\t\t\"iMagnitude\" \"250\"\n\t}\n}\n\n;; reduced sasori ironsand shower explosion magnitude from 200 to 100\n\nmodify:\n{\n\tmatch:\n\t{\n\t\t\"targetname\" \"Ironsand_Explosion_A\"\n\t\t\"classname\" \"env_explosion\"\n\t}\n\treplace:\n\t{\n\t\t\"iMagnitude\" \"100\"\n\t}\n}\n\nmodify:\n{\n\tmatch:\n\t{\n\t\t\"targetname\" \"Ironsand_Explosion_B\"\n\t\t\"classname\" \"env_explosion\"\n\t}\n\treplace:\n\t{\n\t\t\"iMagnitude\" \"100\"\n\t}\n}\n\nmodify:\n{\n\tmatch:\n\t{\n\t\t\"targetname\" \"Ironsand_Explosion_C\"\n\t\t\"classname\" \"env_explosion\"\n\t}\n\treplace:\n\t{\n\t\t\"iMagnitude\" \"100\"\n\t}\n}\n\nmodify:\n{\n\tmatch:\n\t{\n\t\t\"targetname\" \"Ironsand_Explosion_D\"\n\t\t\"classname\" \"env_explosion\"\n\t}\n\treplace:\n\t{\n\t\t\"iMagnitude\" \"100\"\n\t}\n}\n\nmodify:\n{\n\tmatch:\n\t{\n\t\t\"targetname\" \"Ironsand_Explosion_E\"\n\t\t\"classname\" \"env_explosion\"\n\t}\n\treplace:\n\t{\n\t\t\"iMagnitude\" \"100\"\n\t}\n}\n\nmodify:\n{\n\tmatch:\n\t{\n\t\t\"targetname\" \"Ironsand_Explosion_F\"\n\t\t\"classname\" \"env_explosion\"\n\t}\n\treplace:\n\t{\n\t\t\"iMagnitude\" \"100\"\n\t}\n}\n\n;; reduced sasori ironsand unleash hurt damage from 300 to 200\n;; added bosshealth subtraction even if hurt triggers every ct because of damage filter. Lore: Ability also hurts him\n\nmodify:\n{\n\tmatch:\n\t{\n\t\t\"targetname\" \"is2_hurt_7_1\"\n\t\t\"classname\" \"trigger_hurt\"\n\t}\n\treplace:\n\t{\n\t\t\"damage\" \"200\"\n\t}\n\tinsert:\n\t{\n\t\t\"OnHurtPlayer\" \"Boss_Health,Subtract,50,0,-1\"\n\t}\n}\n\n;; reduced sasori2 physbox escape health per ct going to bossroom from 200 to 100\n\nmodify:\n{\n\tmatch:\n\t{\n\t\t\"targetname\" \"l2_tele_trigger_6_1_out\"\n\t\t\"classname\" \"trigger_teleport\"\n\t}\n\tdelete:\n\t{\n\t\t\"OnStartTouch\" \"l2_sasori_physbox_8_1,AddHealth,200,0,-1\"\n\t}\n\tinsert:\n\t{\n\t\t\"OnStartTouch\" \"l2_sasori_physbox_8_1,AddHealth,100,0,-1\"\n\t}\n}\n\n;; added itachi bosshealth subtraction for amaterasu even if hurt triggers every ct because of damage filter. Lore: Ability also hurts him\n\nmodify:\n{\n\tmatch:\n\t{\n\t\t\"targetname\" \"l3_susano_hurt_7_1\"\n\t\t\"classname\" \"trigger_hurt\"\n\t}\n\tinsert:\n\t{\n\t\t\"OnHurtPlayer\" \"Boss_Health,Subtract,150,0,-1\"\n\t}\n}\n</code></pre>",
+			"_sTitle": "v1 stripper fix 1",
+			"_sVersion": "v1",
+			"_tsDateAdded": 1741535315
+		}
+	],
 	"_idRow": 578363,
 	"_sName": "ze_naruto_shippuden_legends",
 	"_sText": "<hr>Map by <b><span class=\"GreenColor\">Thunderfury</span></b><br>Huge thanks to <span class=\"GreenColor\">Moltard</span><br>Thanks to <font color=\"#6ee16c\" class=\"SelectedElement\">jenz | encapsulation_dot1q | FroZRil </font><br><hr>After watching Naruto and Naruto Shippuden in late 2023 i searched for ways to get custom content from naruto games with model animation. Found a way that resulted in ripping data from two naruto psp games through ppsspp by <span class=\"GreenColor\">RomanFirst</span><br><br>Since the export tool by him only correctly exported to \".glb/.gltf\" i used blender for fbx conversion and worked with 3dsMax and <span class=\"GreenColor\">WallWorm </span>to get them into source. <br><br>Since the psp games only had limited resources i also added some content from other games as well, where i could use model viewers to search for stuff.<br><br>I recommend playing this map with Map Sounds, Color Correction and Shake on<br><br>BossHp and entwatch configs are as of yet only on UNLOZE.<br><br>I hold no rights in any of this maps content and let you do whatever you want with it.<br><hr><span class=\"GreenColor\"><b>Includes</b></span><br><ul><li>3 Stages + 1 ZM Stage<br></li><li>3 unique bossfights</li><li>10 human items</li><li>4 zombie items</li><li>27 combinations of collectible cards (common, rare, epic)</li><li>custom human anbu skin</li><li>NPCs</li><li>Aldi lasers</li><li>surely no more bugs</li></ul><hr><b><u>Have fun playing!</u></b>"
