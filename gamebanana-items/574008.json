@@ -9,35 +9,35 @@
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1389843,
-			"_nDownloadCount": 100,
-			"_nFilesize": 6353722,
+			"_idRow": 1400867,
+			"_nDownloadCount": 0,
+			"_nFilesize": 6278546,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
 			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1389843",
-			"_sFile": "de_lesina_v120.rar",
-			"_sMd5Checksum": "194a58c5d22dcee0d81bcf68c020d420",
-			"_tsDateAdded": 1740603170
+			"_sDownloadUrl": "https://gamebanana.com/dl/1400867",
+			"_sFile": "de_lesina_v121.rar",
+			"_sMd5Checksum": "f24af0842ffba548a3f274d8c7570713",
+			"_tsDateAdded": 1742053643
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [],
+			"_sText": "<p>-added flying seagull on the coast</p><p>-fixed an issue where it was possible to go outside the map on a T-spawn</p><p>-fixed an issue when you could see nodraw texture on a museum roof on the bombsite B</p><p>-minor prop fixes on T-spawn</p>",
+			"_sTitle": "update",
+			"_sVersion": "v.1.2.1",
+			"_tsDateAdded": 1742053577
+		},
 		{
 			"_aChangeLog": [],
 			"_sText": "<p>-removed invisible walls on seaside</p><p>-added trigger hurt in the water</p><p>-improved invisible walls</p><p>-added props on the right side of T spawn designating a closed passage</p><p>-improved piles of stone appearance</p><p>-added new decorations on CT spawn</p><p>-minor texture fixes</p>",
 			"_sTitle": "update",
 			"_sVersion": "v.1.2.0",
 			"_tsDateAdded": 1740603538
-		},
-		{
-			"_aChangeLog": [],
-			"_sText": "<p>-minor texture fixes</p>",
-			"_sTitle": "update",
-			"_sVersion": "v.1.1.1",
-			"_tsDateAdded": 1740571797
 		}
 	],
 	"_idRow": 574008,
