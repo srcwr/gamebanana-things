@@ -15,23 +15,36 @@
 				}
 			},
 			"_bContainsExe": false,
-			"_idRow": 1081995,
-			"_nDownloadCount": 381,
-			"_nFilesize": 13452618,
+			"_idRow": 1400270,
+			"_nDownloadCount": 5,
+			"_nFilesize": 11809267,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
 			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1081995",
-			"_sFile": "zombie_city_cb_74772.zip",
-			"_sMd5Checksum": "9a33ba340f8ac44051398e71d7192b4f",
-			"_tsDateAdded": 1699027728
+			"_sDownloadUrl": "https://gamebanana.com/dl/1400270",
+			"_sFile": "zombie_city_cb.zip",
+			"_sMd5Checksum": "a7eac9a33b4e54b3fad85d72bc723a24",
+			"_tsDateAdded": 1741980246
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Tweak",
+					"text": "Fixed building textures"
+				}
+			],
+			"_sText": "<p>This was just to fix the missing building textures, and to bring the map to the latest css update.</p>",
+			"_sTitle": "A very minor fix",
+			"_sVersion": "1.0.1",
+			"_tsDateAdded": 1741980374
+		}
+	],
 	"_idRow": 477331,
 	"_sName": "zombie city cb",
-	"_sText": "It's quiet... Too quiet. Why are we here again? And why is the whole area we are in bricked off from the rest? All I know is that we need to blow up the building in the middle, and they allowed me to bring a friend.<br><br>I have created a fully textured version of the zombie_city map that was included in the Valve repo leak. In addition to making some tuning adjustments, I have also included the vmf file for your convenience. You are welcome to use my modified version of the map however you see fit. This is my first upload to Gamebanana, so I hope you will enjoy it, perhaps even with a friend. Thank you!<br><br>Gmod version:&nbsp;<a href=\"null\">https://steamcommunity.com/sharedfiles/filedetails/?id=3129011925</a><br>"
+	"_sText": "It's quiet... Too quiet. Why are we here again? And why is the whole area we are in bricked off from the rest? All I know is that we need to blow up the building in the middle, and they allowed me to bring a friend.<br><br>I have created a fully textured version of the zombie_city map that was included in the Valve repo leak, In addition to making some tuning adjustments. You are welcome to use my version of the map however you see fit, so I added the vmf file in the files. This is my first upload to Gamebanana, so I hope you will enjoy it, maybe with a friend. Thank you!<br><br>Gmod version:&nbsp;<a href=\"//null\">https://steamcommunity.com/sharedfiles/filedetails/?id=3129011925</a><br>"
 }
