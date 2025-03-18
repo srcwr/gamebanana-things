@@ -2,14 +2,25 @@
 	"_aAlternateFileSources": null,
 	"_aFiles": [
 		{
-			"_aMetadata": [],
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"maps": [
+						"cs_factory.bsp",
+						"cs_factory_night.bsp",
+						"cs_factory_sunny.bsp",
+						"cs_factory_sunset.bsp"
+					]
+				}
+			},
 			"_bContainsExe": false,
 			"_idRow": 1402278,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 4,
 			"_nFilesize": 17432597,
-			"_sAnalysisResult": "Undetermined",
-			"_sAnalysisResultCode": "undetermined",
-			"_sAnalysisState": "pending",
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1402278",
 			"_sFile": "maps_e4cdc.zip",
