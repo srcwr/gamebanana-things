@@ -2,14 +2,18 @@
 	"_aAlternateFileSources": null,
 	"_aFiles": [
 		{
-			"_aMetadata": [],
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"bhop_babylon.bsp"
+				]
+			},
 			"_bContainsExe": false,
 			"_idRow": 1408770,
 			"_nDownloadCount": 0,
 			"_nFilesize": 13844062,
-			"_sAnalysisResult": "Undetermined",
-			"_sAnalysisResultCode": "undetermined",
-			"_sAnalysisState": "pending",
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1408770",
 			"_sFile": "bhop_babylon.zip",
