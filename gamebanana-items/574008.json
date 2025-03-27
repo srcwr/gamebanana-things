@@ -10,7 +10,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1408768,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 4,
 			"_nFilesize": 6512054,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -27,14 +27,14 @@
 	"_aLatestUpdates": [
 		{
 			"_aChangeLog": [],
-			"_sText": "<p>-updated map design</p><p>-added new props and decorations</p><p>-added flowerbed near the CT-spawn</p><p>-added new passage to the B plant from the CT-spawn</p><p>-invisible walls on the right side were worked so now you can get inside the van</p><p>-minor texture and geometry fixes</p>",
+			"_sText": "<p>-updated map design</p><p>-added new props and decorations</p><p>-added flowerbed near the CT spawn</p><p>-added new passage to the B plant from the CT spawn</p><p>-invisible walls on the left side of T spawn were worked so now you can get inside the van</p><p>-minor texture and geometry fixes</p>",
 			"_sTitle": "update",
 			"_sVersion": "v.1.3.0",
 			"_tsDateAdded": 1743088553
 		},
 		{
 			"_aChangeLog": [],
-			"_sText": "<p>-added flying seagull on the coast</p><p>-fixed an issue where it was possible to go outside the map on a T-spawn</p><p>-fixed an issue when you could see nodraw texture on a museum roof on the bombsite B</p><p>-minor prop fixes on T-spawn</p>",
+			"_sText": "<p>-added flying seagull on the coast</p><p>-fixed an issue where it was possible to go outside the map on a T spawn</p><p>-fixed an issue when you could see nodraw texture on a museum roof on the bombsite B</p><p>-minor prop fixes on T spawn</p>",
 			"_sTitle": "update",
 			"_sVersion": "v.1.2.1",
 			"_tsDateAdded": 1742053577

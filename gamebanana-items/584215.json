@@ -8,20 +8,27 @@
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1408770,
+			"_idRow": 1408808,
 			"_nDownloadCount": 0,
-			"_nFilesize": 13844062,
+			"_nFilesize": 13843904,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1408770",
-			"_sFile": "bhop_babylon.zip",
-			"_sMd5Checksum": "134e01364081971b0c14f944e7a5d249",
-			"_tsDateAdded": 1743088327
+			"_sDownloadUrl": "https://gamebanana.com/dl/1408808",
+			"_sFile": "bhop_babylon_d0cbc.zip",
+			"_sMd5Checksum": "c50a4f57a45a5e7668d31b4c474680e7",
+			"_tsDateAdded": 1743092876
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [],
+			"_sText": "<p>removed disp collision to prevent boring skips</p>",
+			"_sTitle": "upd",
+			"_tsDateAdded": 1743092950
+		}
+	],
 	"_idRow": 584215,
 	"_sName": "bhop_babylon (CSS)",
 	"_sText": "port from csgo<br>map by felicien"
