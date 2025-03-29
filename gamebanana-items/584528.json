@@ -2,14 +2,41 @@
 	"_aAlternateFileSources": null,
 	"_aFiles": [
 		{
-			"_aMetadata": [],
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cstrike": {
+						"0": "readme.txt",
+						"maps": [
+							"cs_max.bsp"
+						],
+						"materials": {
+							"custom": [
+								"3texture.vpk",
+								"kutas.vmt",
+								"kutas.vtf",
+								"moje.vmt",
+								"moje.vpk",
+								"moje.vtf",
+								"{bars.vmt",
+								"{bars.vtf",
+								"{gratestep2.vmt",
+								"{gratestep2.vtf",
+								"~trn_lt1.vmt",
+								"~trn_lt1.vtf"
+							]
+						}
+					}
+				}
+			},
 			"_bContainsExe": false,
 			"_idRow": 1409780,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 7,
 			"_nFilesize": 402351,
-			"_sAnalysisResult": "Undetermined",
-			"_sAnalysisResultCode": "undetermined",
-			"_sAnalysisState": "pending",
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1409780",
 			"_sFile": "cs_max_source.rar",
@@ -20,5 +47,5 @@
 	"_aLatestUpdates": [],
 	"_idRow": 584528,
 	"_sName": "cs_max",
-	"_sText": "My compile first map to CS:S.<br><br>cstrike &gt; maps and materials in zip. <br><br>(vpk 3textures.vpk and moje.vpk these 2 files are shared for my first cs:s map)"
+	"_sText": "<span class=\"GreenColor\"><b>My compile first map to CS:S.</b></span><br><br><br><i>-15 TT / 15 CT&nbsp; Spawn<br>-no HDR/Shader/Bloom<br>-Classic Map :) </i><br><span class=\"RedColor\"><br></span><span class=\"RedColor SelectedElement\"><span class=\"RedColor\"><span class=\"GreenColor\">cstrike &gt; maps and materials in zip. </span></span><br>(vpk 3textures.vpk and moja.vpk these two files are unnecessary for the map to work, this is my first compilation in cs:s and used hammer++)</span>"
 }

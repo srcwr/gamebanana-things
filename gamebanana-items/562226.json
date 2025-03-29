@@ -3,27 +3,45 @@
 	"_aFiles": [
 		{
 			"_aMetadata": {
-				"_aArchiveFileTree": {
-					"de_ventilation_systems": [
-						"de_ventilation_systems.bsp",
-						"de_ventilation_systems.nav"
-					]
-				}
+				"_aArchiveFileTree": [
+					"de_ventilation_systems_for_bots.bsp"
+				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1342091,
-			"_nDownloadCount": 13,
-			"_nFilesize": 507502,
+			"_idRow": 1404117,
+			"_nDownloadCount": 15,
+			"_nFilesize": 743725,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
 			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
-			"_sDescription": "Classic",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1342091",
-			"_sFile": "de_ventilation_systems.zip",
-			"_sMd5Checksum": "72d78aa82c6f3caf1a95ae452fdc49cb",
-			"_tsDateAdded": 1734214377
+			"_sDescription": "For bots(Modern 0.3)",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1404117",
+			"_sFile": "de_ventilation_systems_for_bots_ea7f5.zip",
+			"_sMd5Checksum": "79aeb80da59844100d539eb7e52351a8",
+			"_tsDateAdded": 1742484914
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"de_ventilation_systems.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 1404116,
+			"_nDownloadCount": 0,
+			"_nFilesize": 718910,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
+			"_sDescription": "Classic(Modern 0.3)",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1404116",
+			"_sFile": "de_ventilation_systems_76752.zip",
+			"_sMd5Checksum": "a795a307d330fedfebb91750a0fc3053",
+			"_tsDateAdded": 1742484850
 		},
 		{
 			"_aMetadata": {
@@ -33,30 +51,78 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1343210,
-			"_nDownloadCount": 13,
+			"_nDownloadCount": 17,
 			"_nFilesize": 527301,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
 			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
-			"_sDescription": "For bots",
+			"_sDescription": "For bots(old)",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1343210",
 			"_sFile": "de_ventilation_systems_for_bots.zip",
 			"_sMd5Checksum": "371ae5bbc457508c3c915e48c02c18c7",
 			"_tsDateAdded": 1734372087
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"de_ventilation_systems": [
+						"de_ventilation_systems.bsp",
+						"de_ventilation_systems.nav"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 1342091,
+			"_nDownloadCount": 17,
+			"_nFilesize": 507502,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
+			"_sDescription": "Classic(old)",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1342091",
+			"_sFile": "de_ventilation_systems.zip",
+			"_sMd5Checksum": "72d78aa82c6f3caf1a95ae452fdc49cb",
+			"_tsDateAdded": 1734214377
 		}
 	],
 	"_aLatestUpdates": [
 		{
+			"_aChangeLog": [
+				{
+					"cat": "",
+					"text": ". Были добавлиный декораций"
+				},
+				{
+					"cat": "",
+					"text": ". Были добавлиный больше проходов"
+				},
+				{
+					"cat": "",
+					"text": ". Были добавлиный удлинения проходов у терорристов"
+				},
+				{
+					"cat": "",
+					"text": ". Были добавлиный доступ к >:>\">:>@)$(^&$? теперь перекрыт"
+				}
+			],
+			"_sText": "<p>На конец то ОБНОВЛЕНИЯ ВЫШЛА, я прислушался к комментатором и теперь я убрал баг с плантом, я вооОоОоОобще их убрал нахер, вы не тупые знайте где ставить, также я оставлю классические карты, я просто в конце напишу [old] а для новых логично [modern] и там всё в цифры с последующими обновлениями, ещё что я добавил это декораций, снова из комментариев конечно, теперь в секторах, вентиляциях</p><p>теперь есть декор, что добавляет ощущения заброшенность, лестницы, баррикады, и Белая капсула в  генераторе \"Генопсула\" это то о чём все мечтают разве не так :)), также для баланса вселенной я добавил то есть удлинил вентиляцию у террористов а то все говорят что у терров проход гораздо короче чем у КТ исправлено, теперь проход на плант А стал длинней, а на плант B стал более искривленным, что-бы КТ дошли раньше чем терры</p><p>и кстати теперь проход к [.....] закрыт, и я скоро сделаю порт modern версий, если разбирусю как на стим мастерскую выкладовать карты, а old версию сделаю порт потом</p><p></p><p></p><p>Finale of the UPDATE CAME out, I listened to the commentator and now I removed the bug with the plan, I JUUUUUUST removed them fuck, you are not stupid know where to put, I will also leave the classic maps, I just write [old] at end, and logical [modern] and there everything is in order with subsequent updates Another thing I added is scenery, again from the comments of course, now in sectors, vents</p><p>now there is a decor that adds a sense of abandonment, stairs, barricades, and a White capsule in the generator \"Genopsula\" is what everyone dreams of isn't it:)), also for the balance of the universe(russia mem), I added that is, I extended the ventilation of terrorists and then everyone says that the Terr passage is much shorter than that of CT fixed, now the passage to plant A has become longer, and to plant B it has become more curved, so that the CT's reach earlier than the Terra's</p><p>and by the way, now the passage to [.....] is closed, and I will soon make a port of modern versions, if I sort out how to upload maps to the steam workshop, and make the old version of the port later</p>",
+			"_sTitle": "ОБНОВЛЕНИЯ",
+			"_sVersion": "0.3",
+			"_tsDateAdded": 1742482927
+		},
+		{
 			"_aChangeLog": [],
-			"_sText": "<p>Теперь боты не будут застревать в местах и теперь вы будете играть с ботами нормально, это для тех кто ненавидит то что боты не могут поставить бомбы, или наоборот их разминировать, но если хотите играть как до этого, я оставлю классику</p>",
-			"_sTitle": "Обновления",
-			"_sVersion": "0.2",
-			"_tsDateAdded": 1734372417
+			"_sText": "<p>В ближайшее время ожидается обновление карты, в процессе которого я планирую внести улучшения.</p><p>Кроме того, я рассматриваю возможность добавить порт для «Гарри'с мод».</p><p>The map is expected to be updated soon, and I will continue to work on improving it.</p><p>I also plan to add a port for \"Garry's mod\".</p>",
+			"_sTitle": "Тизер обновления",
+			"_sVersion": "0.3",
+			"_tsDateAdded": 1741719654
 		}
 	],
 	"_idRow": 562226,
-	"_sName": "Ventilation systems",
+	"_sName": "Ventilation systems [UPDATE 0.3]",
 	"_sText": "Карта основано на клаустрофобий, а то есть замкнутые пространства, а если запустить карту в одиночку без кого либо то появится чувство лиминальности или же закулисье, данная карта состоит из одних только вентиляционных систем, также есть комнаты с забытыми вещами из лабораторий,<br>однако там можно свершить теракт, как думают террористы, потому что там есть такие пространства которые можно взрывать, потому что там удобно взорвать и там нет людей однако всех уже эвакуировали только террористы об этом не знали, поэтому спецназы пока они внутри вентиляций, вить по секретным камерам там были найдены террористы,<br><h3 class=\"SelectedElement\">поэтому вы либо должны взорвать раньше чем вас нашли, либо не дать им взорвать лабораторию, также прошу вас ради бога <span class=\"RedColor\">н̷̳̅е̴̡̛͔͓̝͈́̓̍̌͗͌̋̏̇͋̈́͂̔̎͌̌͌̇̋͂̈͗̐̈́͐̉̚͝к̷̡̨̫̤̦͚̻̹̘̮͎͍̥̥͉̠̹̟͖̯̯̬̱̲̖̽̌̊̀̃̂̃̈́̽͑̃͐̅̈̕͜͜͟͟ͅӧ̵̛͎̪̙̯͓̎̑̉̏̂͌̆̿̽͂̔̋͑̐̚͡͡ͅͅг̴̧̨͕̤̪̺̝̤̘̞͖̱̺̝̖̩̻̖̙̜͈͗̊̎̐́̋̀͌͂̕͘д̵̡̢͇̝̩͉̥̗͖̫̮͎̪̥̙̗͍̟̞̰͓͍̺̮̦̤̻̘͆̊͛̊̊̅̓͟͠а̴̧̨̹͓͖̼̙̥̣̯͕̲̣́̒̈́͊̀̄̋̈́̋̑̂̈́́̕  н̷̳̅е̷̲̭̙̬̏͌̿̑̈́  идите за красным светом.</span></h3>"
 }
