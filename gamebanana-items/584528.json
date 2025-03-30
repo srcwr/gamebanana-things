@@ -30,7 +30,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1409780,
-			"_nDownloadCount": 10,
+			"_nDownloadCount": 15,
 			"_nFilesize": 402351,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -47,5 +47,5 @@
 	"_aLatestUpdates": [],
 	"_idRow": 584528,
 	"_sName": "cs_max",
-	"_sText": "<span class=\"GreenColor\"><b>My compile first map to CS:S.</b></span><br><br><br><i>-15 TT / 15 CT&nbsp; Spawn<br>-no HDR/Shader/Bloom<br>-Classic Map :) </i><br><span class=\"RedColor\"><br></span><span class=\"RedColor SelectedElement\"><span class=\"RedColor\"><span class=\"GreenColor\">cstrike &gt; maps and materials in zip. </span></span><br>(vpk 3textures.vpk and moja.vpk these two files are unnecessary for the map to work, this is my first compilation in cs:s and used hammer++)</span>"
+	"_sText": "<span class=\"GreenColor\"><b>My compile first map to CS:S.</b></span><br><br><i>-15 TT / 15 CT&nbsp; Spawn<br>-no HDR/Shader/Bloom<br>-Classic Map :) </i><br><br><span class=\"RedColor\">(vpk 3textures.vpk and my.vpk these two files are unnecessary for the map to work, this is my first compilation in cs:s and I used hammer++, sorry that the map is not in one .bsp file, but I couldn't do it, now I know that all the textures used from the custom .vpk file, which was in cstrike/custom/file.vpk, I had to \"extract\" the textures I used and throw them into cstrike/materials/here_are_custom_textures from the vpk file named .vmt and .vft and then use the VIDE program and \"implement\" these textures to the .bsp file.)</span><br><br><span class=\"RedColor\"><b><u><span class=\"GreenColor\">Instal:</span></u></b></span><br><span class=\"Spoiler\">Drop in folder <b><span class=\"GreenColor\">cstrike</span></b> in<i> C:\\Steam\\steamapps\\common\\Counter-Strike Source</i> <br><br>or if you don't want to get an error when you enter this map on the community<br>server:<br><br>Drop in files <b><span class=\"GreenColor\">cs_max.bsp</span></b> in <i>C:\\Steam\\steamapps\\common\\Counter-Strike Source\\cstrike\\download\\maps</i><br>and <br>Drop in folder <b><span class=\"GreenColor\">custom</span></b> in <i>C:\\Steam\\steamapps\\common\\Counter-Strike Source\\cstrike\\download\\materials</i></span>"
 }
