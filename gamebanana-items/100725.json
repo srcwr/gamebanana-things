@@ -4,24 +4,68 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
+					"ReadMe.txt",
 					"afp_de_infanterie.bsp",
 					"afp_de_infanterie.nav"
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 274789,
-			"_nDownloadCount": 3434,
-			"_nFilesize": 2540467,
+			"_idRow": 1410940,
+			"_nDownloadCount": 0,
+			"_nFilesize": 2597446,
 			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/274789",
-			"_sFile": "afp_de_infanterie_caa6c.rar",
-			"_sMd5Checksum": "",
-			"_tsDateAdded": 1485786460
+			"_sDownloadUrl": "https://gamebanana.com/dl/1410940",
+			"_sFile": "afp_de_infanterie.rar",
+			"_sMd5Checksum": "3f91c945e781e6e266e3702aca2b0d4a",
+			"_tsDateAdded": 1743332447
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Adjustment",
+					"text": "changed terrain surface for T spawn for a better experience"
+				},
+				{
+					"cat": "Addition",
+					"text": "added clips for stairs"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "removed trucks from CT spawn and added a raildroad with a train and wagons"
+				},
+				{
+					"cat": "Addition",
+					"text": "added lockers on A site - entry"
+				},
+				{
+					"cat": "Addition",
+					"text": "added some decals"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "removed some stones in T spawn, where bots were stuck"
+				},
+				{
+					"cat": "Improvement",
+					"text": "added lights in A site at windows for a better visibility"
+				},
+				{
+					"cat": "Improvement",
+					"text": "removed overlay decal (saying Romania flag) that was placed on the rocket on B site, Pakrat Error, i changed it with simple texture"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "",
+			"_sVersion": "1.3",
+			"_tsDateAdded": 1743332860
+		},
 		{
 			"_aChangeLog": [
 				{
@@ -52,25 +96,6 @@
 			"_sText": "",
 			"_sTitle": "Version 1.2",
 			"_tsDateAdded": 1490883528
-		},
-		{
-			"_aChangeLog": [
-				{
-					"cat": "-",
-					"text": "added hint/skip for fps"
-				},
-				{
-					"cat": "-",
-					"text": "updated some detail elements to func_detail"
-				},
-				{
-					"cat": "-",
-					"text": "bombsite B changed"
-				}
-			],
-			"_sText": "",
-			"_sTitle": "Version 1.1",
-			"_tsDateAdded": 1490539785
 		}
 	],
 	"_idRow": 100725,
