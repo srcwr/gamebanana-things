@@ -4,6 +4,27 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
+					"escape_room_movement_v2.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 1412762,
+			"_nDownloadCount": 0,
+			"_nFilesize": 10960605,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1412762",
+			"_sFile": "escape_room_movement_v2.zip",
+			"_sMd5Checksum": "fe6816d7dccd83cc93f1fa3362bea64d",
+			"_tsDateAdded": 1743530466
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
 					"escape_room_movement.bsp"
 				]
 			},
@@ -23,8 +44,25 @@
 			"_tsDateAdded": 1691511698
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Addition",
+					"text": "5 new obstacles for you to beat"
+				},
+				{
+					"cat": "Tweak",
+					"text": "Minor tweaks on existing obstacles"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "2025 update",
+			"_sVersion": "2",
+			"_tsDateAdded": 1743530942
+		}
+	],
 	"_idRow": 461295,
-	"_sName": "escape_room_movement",
-	"_sText": "<b>Do not watch the video if you don't wish to spoil the map! Refer to it as a helper if you are stuck.</b><br><br><br>This map tests your knowledge of Source engine with 15 small obstacles ranging from common knowledge to niche.&nbsp;Each obstacle must be completed by one person at a time.&nbsp;Sometimes bugs are the intended solution. Can you beat them all?<br><br>Server requirements: 100 tick, no stamina (autobhop settings), <b><span class=\"RedColor SelectedElement\">DISABLE RNGFIX OR SURFFIX PLUGINS!</span></b><br><br>"
+	"_sName": "escape_room_movement_v2",
+	"_sText": "<b>Do not watch the video if you don't wish to spoil the map! Refer to it as a helper if you are stuck.</b><br><br><ul><li>Important thing 1: Addressing my previous experience with some people: <b>THIS MAP IS NOT INTENDED FOR SPEEDRUNNING, IT IS NOT A BHOP_ MAP, CORRECT ZONE PLACEMENT IS NOT HAVING ZONES AT ALL </b>(unless you just want to record your time playing or something, can't stop you!)<br></li><li class=\"SelectedElement\">Important thing 2: Obstacle 19 involving a ladder is impossible to beat in Momentum due to them using CS:GO ladder code, which is different. AFAIK, other 19 obstacles should be possible, IF you disable antiheadbug, antiedgebug and other quirks.</li></ul><br>This map tests your knowledge of Source engine with 20 small obstacles ranging from common knowledge to niche.&nbsp;Each obstacle <i>must</i> be completed by one person at a time (it probably won't break with multiple players but better safe than sorry).&nbsp;Sometimes bugs are the intended solution. Can you beat them all?<br><br>Server requirements: 100 tick, no stamina (autobhop settings), <b><span class=\"RedColor\">DISABLE RNGFIX OR SURFFIX PLUGINS!</span></b><br><br>Download the _v2 version, i kept the original for archival purposes."
 }
