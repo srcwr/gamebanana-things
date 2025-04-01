@@ -11,10 +11,12 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 760511,
-			"_nDownloadCount": 373,
+			"_nDownloadCount": 450,
 			"_nFilesize": 49913561,
 			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/760511",
@@ -25,6 +27,6 @@
 	],
 	"_aLatestUpdates": [],
 	"_idRow": 362635,
-	"_sName": "aim_school_beta",
-	"_sText": "This map evolved from one of my older projects. Initially it was a hostage rescue map. But I decided to keep things simpler. Uses assets from BM Source mod and S.T.A.L.K.E.R. (SDK version). The school building itself, materials on buildings, asphalt textures as well as a bunch of original graffiti decals are mine. I used the real world photographs I made of a real school in the city of Donetsk. Skybox and env settings were borrowed from cs_havana. 3D skybox is based on standard HL2 assets, so it does not reflect the real location layout.<br><br>This is a beta release, so all comments and suggestions are welcome.<br>"
+	"_sName": "aim_school_beta (deprecated)",
+	"_sText": "This map is deprecated. Please use <a href=\"https://gamebanana.com/mods/487267\">this one</a> instead.<br>"
 }

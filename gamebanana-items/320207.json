@@ -56,10 +56,12 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 666755,
-			"_nDownloadCount": 331,
+			"_nDownloadCount": 515,
 			"_nFilesize": 58327427,
 			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/666755",
@@ -71,5 +73,5 @@
 	"_aLatestUpdates": [],
 	"_idRow": 320207,
 	"_sName": "Enhanced de_dust2 Final",
-	"_sText": "<h1><span class=\"GreenColor\">Info</span></h1><span class=\"GreenColor SelectedElement\">Have you ever wondered wheres the chemical boxes in bombside B/A? Well I added green boxes like in 1.6 back at bombsides, And what about prop shadow? huh? You probably never heard it from valve.. Well I got that too.<br>You get some fancy lighting and shadows effects unlike the original map.</span><br><br><b><u><span class=\"RedColor\">(Its client side map, Not for servers)<br></span></u></b><br>Its a hacked map so you must use a special tool to allow you to run such maps on any online server<br><br><span class=\"GreenColor\"><b>Map in download<br></b></span>Dynamic soft shadow and lighting de_dust2.bsp<br>Dynamic sharp shadow and lighting de_dust2.bsp<br><span class=\"RedColor\"><br>NOTE: In new version of the map you will clip in some places in ground a bit because the ground is redone in the whole map.(can be fixed but tricky)</span><br><span class=\"GreenColor\">Note: Newer version and older version are available in download, Newer version introduces sharper shadows like in screenshots, Older with much softer shadows.</span><br>"
+	"_sText": "<h1><b><u><span class=\"RedColor\">(Its client side map, Not for servers)</span></u></b><br></h1><br>Its a hacked map so you must use a special tool to allow you to run such maps on any online server<br><br><span class=\"GreenColor\"><b class=\"SelectedElement\">Maps in download<br></b></span>Dynamic soft shadow and lighting de_dust2.bsp<br>Dynamic sharp shadow and lighting de_dust2.bsp<br><span class=\"RedColor\"><br>NOTE: In new version of the map you will clip in some places in ground a bit because the ground is redone in the whole map.(can be fixed but tricky)</span><br><span class=\"GreenColor\">Note: Newer version and older version are available in download, Newer version introduces sharper shadows like in screenshots, Older with much softer shadows.</span><br>"
 }
