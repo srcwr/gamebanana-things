@@ -12,10 +12,13 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 300021,
-			"_nDownloadCount": 6017,
+			"_nDownloadCount": 6118,
 			"_nFilesize": 19311121,
 			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/300021",
 			"_sFile": "mg_lego_course_alexxt_v2_2.rar",
@@ -31,7 +34,7 @@
 					"text": "readme file edited"
 				}
 			],
-			"_sText": "I actualised my current readme.txt file.",
+			"_sText": "<p>I updated my current readme.txt file.</p>",
 			"_sTitle": "Readme File",
 			"_tsDateAdded": 1391201626
 		},
@@ -53,5 +56,5 @@
 	],
 	"_idRow": 128254,
 	"_sName": "mg_lego_course_alexxt_v2",
-	"_sText": "<h1><center><font color=\"Orange\">LEGO COURSE - ALEXXT</font></center></h1>\r\n<h3><center><font color=\"Red\">NOT RECOMMENDED FOR MONSTREUS BUNNYHOPPING SERVERS!</font></center></h3>\r\n<h2><font color=\"yellow\">MiniGame</font></h2>\r\n<cite>WALKTROUGH (v1)</cite><br><br>\r\n<center><iframe src=\"https://www.youtube.com/embed/GYW5oEhzzpc\" allowfullscreen=\"\" frameborder=\"0\" height=\"360\" width=\"640\"></iframe></center><hr>\r\n<h2>Properties</h2>\r\n<ul>\r\n<li>Map Version: V2.0 (Original/Final)</li>\r\n<li>Working Progress: 2 weeks</li>\r\n<li>4 secrets exist on the map</li>\r\n<li>map in lego style (see the map name)</li>\r\n<li>spawn protection in 30sec (kills on one hit)</li>\r\n<li>course difficult: very hard (because large)</li>\r\n<li>on win player gets 250 points(frags)</li>\r\n<li>all winners can get the points(frags)</li>\r\n<li>4 cuted musics plays at Spawn, 4 original musics plays at finish</li>\r\n<li>some standart commands have been enabled on this map</li>\r\n<li>\r\n<h2>finish nice designed\r\n<br>\r\nRequired</h2>\r\n</li>\r\n<li>\r\n<h2><strong>The map need a NoBlock to work properly.</strong>\r\n<br>\r\nMusic</h2>\r\n</li>\r\n<li>Flo Rida - Whistle (Pi Red BeatZ Bootleg) House Remix 2012</li>\r\n<li>Taio Cruz (feat. Flo Rida) - Hangover (House Mix) [Mixed by DJ Nelsmann]</li>\r\n<li>Maroon 5 - Payphone (Steven V &amp; Alvo Remix)</li>\r\n<li>\r\n<h2>Mike Candys ft. Patrick Miller &amp; Evelyn - 2012 (If The World Would End) (DJ FM Bootleg Remix)\r\n<br>\r\nEnabled Commands Overview</h2>\r\n</li>\r\n</ul>\r\nEnabled Commands Overview shows you all enabled commands of this map.<br><br>\r\n<pre><code>mp_round_restart_delay 4\r\nmp_roundtime 9.0\r\nmp_freezetime 2.0\r\nsv_gravity 800\r\nsv_enablebunnyhopping 1\r\nsv_airaccelerate 1000</code>\r\n</pre>\r\n<h2>Special Thanks</h2>\r\n<ul>\r\n<li>BoHaRoX - Lego Textures</li>\r\n<li>Vitaskorp - Testing</li>\r\n<li>\r\n<h2>Jackmaster - Music help\r\n<br>\r\nBug Reports</h2>\r\n</li>\r\n</ul>\r\n<h2>Please report all bugs on GameBanana comments page.\r\n<br>\r\nChangelog</h2>\r\nTo read all changes pls watch in <a href=\"http://gamebanana.com/css/maps/updates/168757\">Updates</a> section<br><br>\r\n<hr>\r\n<br><br><center><font color=\"Lightgreen\">Please leave comments, rate, give feedback and subscribes if you like.</font></center><br><br>\r\n<h3><center><font color=\"Red\">THIS IS MY LAST MG COURSE MAP(WITHOUT HELPING ETC).</font></center></h3>\r\n<h3><center><font color=\"Red\">IF YOU LOSE AT MY MAP DON'T CRY, BECAUSE I TOLD YOU!</font></center></h3>"
+	"_sText": "<!doctype html>\r\n<h1><center><font color=\"Orange\">LEGO COURSE - ALEXXT</font></center></h1>\r\n<h3><center><font color=\"Red\">NOT RECOMMENDED FOR MONSTREUS BUNNYHOPPING SERVERS!</font></center></h3>\r\n<h2><font color=\"yellow\">MiniGame</font></h2>\r\n<cite>WALKTROUGH (v1)</cite><br>\r\n<center><iframe src=\"https://www.youtube.com/embed/GYW5oEhzzpc\" allowfullscreen=\"\" frameborder=\"0\" height=\"360\" width=\"640\"></iframe></center><hr>\r\n<h2>Info</h2>\r\n<ul>\r\n<li>Map Version V2.0 (Original/Final)</li>\r\n<li>2 weeks of work</li>\r\n<li>4 secrets exist on the map</li>\r\n<li>lego-themed map</li>\r\n<li>spawn protection in 30sec</li>\r\n<li>course difficulty: very hard</li>\r\n<li>forced 50% chance on halfway the map</li>\r\n<li>250 points as reward</li>\r\n<li>everyone can get the reward</li>\r\n<li>4 track previews on round start, full-length tracks play when reaching final room</li>\r\n<li>few server commands are triggered on map load</li>\r\n<li>party-mood in final room</li>\r\n</ul>\r\n<br>\r\n<font color=\"Red\"><center><strong>The map requires a NoBlock-plugin to be active on server for multiplayer</strong></center></font>\r\n<br>\r\n<h2>Music</h2>\r\n<ul>\r\n<li>Flo Rida - Whistle (Pi Red BeatZ Bootleg) House Remix 2012</li>\r\n<li>Taio Cruz (feat. Flo Rida) - Hangover (House Mix) [Mixed by DJ Nelsmann]</li>\r\n<li>Maroon 5 - Payphone (Steven V &amp; Alvo Remix)</li>\r\n<li>Mike Candys ft. Patrick Miller &amp; Evelyn - 2012 (If The World Would End) (DJ FM Bootleg Remix)</li>\r\n</ul>\r\n<br>\r\n<h2>Enabled Commands Overview</h2>\r\nA list of server commands which the map executes upon loading.<br>\r\n<pre>\r\n<code>mp_round_restart_delay 4\r\nmp_roundtime 9.0\r\nmp_freezetime 2.0\r\nsv_gravity 800\r\nsv_enablebunnyhopping 1\r\nsv_airaccelerate 1000</code>\r\n</pre>\r\n<br>\r\n<h2>Special Thanks</h2>\r\n<ul>\r\n<li>BoHaRoX - Lego Textures</li>\r\n<li>Jackmaster - Music help</li>\r\n</ul>\r\n<br>\r\n<h2>Bug Reports</h2>\r\nPlease report all bugs on GameBanana comments page.\r\n<br><br>\r\n<h2>Changelog</h2>\r\nTo read all changes pls watch in <a href=\"//gamebanana.com/css/maps/updates/168757\">Updates </a>section<br><br>\r\n<br><br>\r\n<center><font color=\"Lightgreen\">So much time passed since I uploaded this map. I hope anyone who ever played on it enjoyed as much as I enjoyed to do it before my life changed me the way I look at it today.</font></center><br><br>\r\n<h3><center><font color=\"Red\">THIS IS MY LAST MG COURSE MAP</font></center></h3>\r\n<h3><center><font color=\"Red\">IF YOU FAIL, RINSE AND REPEAT!</font></center></h3>"
 }
