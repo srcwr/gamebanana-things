@@ -10,10 +10,12 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 504646,
-			"_nDownloadCount": 167,
+			"_nDownloadCount": 216,
 			"_nFilesize": 7468974,
 			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/504646",
@@ -25,5 +27,5 @@
 	"_aLatestUpdates": [],
 	"_idRow": 103665,
 	"_sName": "de_realwar_xmas_v2",
-	"_sText": "New years map.<br>Bonus:<br>Grenade launcher<br>Drone<br>Mines<br>"
+	"_sText": "<ul><li>The CT spawn area is highlighted in blue, the T spawn area is highlighted in red.</li><li>The yellow lines highlight the main routes of the players on the surface of the map.</li><li>Rooftop/balcony routes are marked with orange lines.</li><li>Purple lines indicate routes inside buildings.</li></ul><br>The busiest part of the map is the center. Here you can easily run into crossfire, but if successful, you can quickly get to any bomb site from here.<br><br>On the sides of the map are workarounds through which you can go into the back of the enemy. These routes are elongated and well controlled by snipers.<br><br>Rooftops (orange lines) provide a particularly good view for snipers. Also, on the roofs, you can cut off the road and go into the back of the enemy. However, at the same time, there is almost nowhere to hide on the roofs and the player will<br><br>There is a route inside the mission, for those who prefer gunfights in tight corridors. This route leads to point A.<br><br>There are three bonuses on the map:<br><br><ol><li>For CT, the ability to place mines anywhere, upon stepping on which the T takes damage from the explosion and is set on fire for a few seconds. There is a 5 minute installation limit.</li><li>For T, the possibility of using a grenade launcher. The rocket can track mouse movements and change direction accordingly. The rocket explodes when you press the RMB, or after ~2 seconds on its own. There is a limit of 20 shots.</li><li>For T, the ability to use a drone and remotely control it on his behalf. When approaching close to the CT, the drone explodes.</li></ol><br>"
 }
