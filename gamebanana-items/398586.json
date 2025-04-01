@@ -3,6 +3,30 @@
 	"_aFiles": [
 		{
 			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"maps": [
+						"cs_mansion_2025.bsp",
+						"cs_mansion_2025.nav"
+					]
+				}
+			},
+			"_bContainsExe": false,
+			"_idRow": 1412102,
+			"_nDownloadCount": 2,
+			"_nFilesize": 2380910,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
+			"_sDescription": "v2.00 (2025 Edition)",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1412102",
+			"_sFile": "cs_mansion_2025.7z",
+			"_sMd5Checksum": "4b2b8437cbca24d1ccdf29ea5473795e",
+			"_tsDateAdded": 1743469371
+		},
+		{
+			"_aMetadata": {
 				"_aArchiveFileTree": [
 					"cs_mansion_source_new.bsp",
 					"cs_mansion_source_new.nav",
@@ -12,14 +36,14 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 856486,
-			"_nDownloadCount": 1327,
+			"_nDownloadCount": 1458,
 			"_nFilesize": 2416225,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
 			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
-			"_sDescription": "v1.01",
+			"_sDescription": "v1.01 (2022 Edition)",
 			"_sDownloadUrl": "https://gamebanana.com/dl/856486",
 			"_sFile": "cs_mansion_source_new_e4b87.7z",
 			"_sMd5Checksum": "fc0f046e6d4ddd0f6c0f0e3868e6b993",
@@ -28,6 +52,6 @@
 	],
 	"_aLatestUpdates": [],
 	"_idRow": 398586,
-	"_sName": "Mansion: Source",
-	"_sText": "Counter-Strike's  earliest map now re-made on Source... Again!<br>Even tho i had already done a remake before, it was not good enough as a remake, and not accurate as well, so this, is the definitive one.<br><br>Try interacting alot with the enviroment, such as, flushing the toilet, or turning on the sink!<br><br>If you'd like, you could vote for what beta map should i remake next on Source trough <a href=\"https://strawpoll.com/polls/poy9RodVPnJ\">here.</a>"
+	"_sName": "cs_mansion_2025 (Mansion)",
+	"_sText": "One of Counter-Strike's most known and earliest maps, good for casual fast paced fun.<br>Update of a 2022 map, now in 2025!<br><br>New from the 2025 update:<br>-Optimizations + better geometry<br>-Better mobility, fewer props and junk on the way.<br>-More ambient sounds<br>-Night time!<br><br>Try interacting alot with the enviroment, such as, flushing the toilet, or turning on the sink!<br><br>If you'd like, you could vote for what beta map should i remake next on Source trough <a href=\"https://strawpoll.com/polls/poy9RodVPnJ\" target=\"_blank\">here.</a>"
 }
