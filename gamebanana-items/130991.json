@@ -9,19 +9,43 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 272620,
-			"_nDownloadCount": 983,
+			"_nDownloadCount": 1061,
 			"_nFilesize": 76877431,
 			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/272620",
 			"_sFile": "ze_shroomforest3_b6_2.rar",
 			"_sMd5Checksum": "",
 			"_tsDateAdded": 1499980530
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"ze_shroomforest3_b6_2.cfg"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 1130730,
+			"_nDownloadCount": 16,
+			"_nFilesize": 2214,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
+			"_sDescription": "stripper cfg",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1130730",
+			"_sFile": "ze_shroomforest3_b6_2_stripper_cfg.zip",
+			"_sMd5Checksum": "02450b062a1ea89dcc2d14d0b31b79d6",
+			"_tsDateAdded": 1706652247
 		}
 	],
 	"_aLatestUpdates": [],
 	"_idRow": 130991,
 	"_sName": "ze_shroomforest3_b6_2",
-	"_sText": "<fieldset><legend><h1 align=\"center\"><b class=\"BlueColor\">ze_shroomforest3</b></h1></legend>\r\n<br><br>The sequel to Shroomforest2, that conclude the story (or does it?)<br><br></fieldset>\r\n<br><br><fieldset><legend><h1 align=\"center\"><b class=\"BlueColor\">Feature</b></h1></legend><ul>\r\n\r\n<li> 19 Special Items (1 zombie item)</li>\r\n\r\n<li> Musics</li>\r\n\r\n<li> Packed Entwatch config</li>\r\n\r\n<li> 7 Levels&nbsp;</li>\r\n\r\n<li> custom_particle nomenclature</li><li>15 Minutes round</li>\r\n\r\n</ul></fieldset>\r\n<br><br><fieldset><legend><h1 align=\"center\"><b class=\"BlueColor\">Changelog b6.1--&gt;b6.2</b></h1></legend>\r\n<br><br><ul>\r\n<li> <a href=\"https://www.dropbox.com/s/tk46ykz4sgpzs3n/Changelog_Shroom3.txt?dl=0\" target=\"_blank\">https://www.dropbox.com/s/tk46ykz4sgpzs3n/Changelog_Shroom3.txt?dl=0</a>  </li> \r\n</ul></fieldset>\r\n<br><br>\r\n<br><br>ze_shroomforest_v4_5: <a href=\"http://css.gamebanana.com/maps/186471\">http://css.gamebanana.com/maps/186471</a><br><br>ze_shroomforest2_v1:&nbsp;<a href=\"http://css.gamebanana.com/maps/186967\">http://css.gamebanana.com/maps/186967</a><br><br><hr>"
+	"_sText": "<fieldset><legend><h1 align=\"center\"><b class=\"BlueColor\">ze_shroomforest3</b></h1></legend>\r\n<br><br>The sequel to Shroomforest2, that conclude the story (or does it?)<br><br></fieldset>\r\n<br><br><fieldset><legend><h1 align=\"center\"><b class=\"BlueColor\">Feature</b></h1></legend><ul>\r\n\r\n<li> 19 Special Items (1 zombie item)</li>\r\n\r\n<li> Musics</li>\r\n\r\n<li> Packed Entwatch config</li>\r\n\r\n<li> 7 Levels&nbsp;</li>\r\n\r\n<li> custom_particle nomenclature</li><li>15 Minutes round</li>\r\n\r\n</ul></fieldset>\r\n<br><br><fieldset><legend><h1 align=\"center\"><b class=\"BlueColor\">Changelog b6.1--&gt;b6.2</b></h1></legend>\r\n<br><br></fieldset><pre><fieldset>---------------\r\n++ Changelog ++\r\n---------------\r\n\r\n• General:\tRemoved the spawnpoint located in Pokemon World\r\n\t\t\tAdded Unloze and GFLClan.ru to credits (message and credits texture)\r\n\r\n• Level2:\tSkeleton will attack with bones every 12 seconds (3-5 sec in Extreme2)\r\n\t\t\tEach Skeleton has less HP per player (100 -&gt; 90)\r\n\r\n• Level3:\tFixed Ghastly spawning at the wrong location (in the void)\r\n\t\t\tHopefully fixed Snorlax Attack during Extreme3 (slow ct)\r\n\t\t\tGrenades do 40 damage to Snorlax instead of 35\r\n\t\t\tSnorlax has less HP per player (375 -&gt; 350)\r\n\t\t\t\r\n• Ext3:\t\tAdded clip to prevent player getting stuck on rocks\r\n\r\n• TimeLoop:\tAdded a Teleport for Zombie in front of the clock (enabled 3 seconds after the CT one)\r\n\t\t\tFalling off the table teleport on the book\r\n\t\t\tAdded clip to prevent player to jump down before the 1st boss \r\n\t\t\tReduced the Tanks cannon ball damage (250 -&gt; 200)\r\n\t\t\tIncreased the delay before the ground move down (1.4 s -&gt; 2 s)\r\n\t\t\tWhen boss die, the clip blocking the next part is killed once the cutscene is done\r\n\t\t\tReduced the HP for Satan per player (400 -&gt; 300)\r\n\t\t\tFixed the 'Satan Absorb Nades' message to show 4 time instead of once\r\n\t\t\tFixed Satan Ice attack keeping player froze after boss fight\r\n\t\t\tFiltered the teleport in cage to the power room to Zombie Only\r\n\t\t\tAdded more HP for Laser Satan per player (60 -&gt; 75)\r\n\t\t\tIncreased the time you have to beat him (30 s -&gt; 40 s)\r\n\t\t\tThe clip preventing knife into laser area teleport out player getting stuck\r\n\t\t\t1000 points for winning the Good Ending only (500 with TimeLoop ending)\r\n\t\t\tPlayer become grey / black and white while in the Old shroomforest area\r\n\r\n• Bonus:\tFixed the teleport particle staying when a player is in admin room\r\n\t\t\tDelayed the teleport enable to prevent a CT from becoming Zombie after taking it</fieldset></pre>\r\n<br><br>ze_shroomforest_v4_5: <a href=\"//css.gamebanana.com/maps/186471\">http://css.gamebanana.com/maps/186471</a><br><br>ze_shroomforest2_v1:&nbsp;<a href=\"//css.gamebanana.com/maps/186967\">http://css.gamebanana.com/maps/186967</a><br><br><hr>"
 }

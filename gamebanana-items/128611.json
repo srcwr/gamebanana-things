@@ -1,10 +1,5 @@
 {
-	"_aAlternateFileSources": [
-		{
-			"description": "Video",
-			"url": "https://www.youtube.com/watch?v=TRa1e4Yb9DQ"
-		}
-	],
+	"_aAlternateFileSources": null,
 	"_aFiles": [
 		{
 			"_aMetadata": {
@@ -136,10 +131,13 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 372959,
-			"_nDownloadCount": 318,
+			"_nDownloadCount": 347,
 			"_nFilesize": 119549441,
 			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/372959",
 			"_sFile": "mg_secretbase_fix_c564d.zip",
@@ -150,5 +148,5 @@
 	"_aLatestUpdates": [],
 	"_idRow": 128611,
 	"_sName": "mg_secretbase_fix",
-	"_sText": "https://www.youtube.com/watch?v=TRa1e4Yb9DQ<br><br>A group of corrupt people captured the friends of some policemen for knowing too much. When rescuing them, one of the prisoners takes advantage of the moment when the guard opens the door and manages to escape. Just when his cellmates decide to follow him, the door closes automatically.&nbsp;<br><br>In the case of TT: Some players will spawn in the cell and must escape in time while others must go to rescue them in a drone.&nbsp;<br><br>In the case of the CT: they must collect their weapons and return to the starting place and wait for the emergency door to open.<br><br>Songs:&nbsp;<br><br>Band - Linkin Park&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Songs: Points Of Authority<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Nobodys Listening<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Faint<br><br>This time, I've fixed some things that made the game unreal, and I've combined it with mg_secretbase_tower."
+	"_sText": "A group of corrupt people captured the friends of some policemen for knowing too much. When rescuing them, one of the prisoners takes advantage of the moment when the guard opens the door and manages to escape. Just when his cellmates decide to follow him, the door closes automatically.&nbsp;<br><br>In the case of TT: Some players will spawn in the cell and must escape in time while others must go to rescue them in a drone.&nbsp;<br><br>In the case of the CT: they must collect their weapons and return to the starting place and wait for the emergency door to open.<br><br>Songs:&nbsp;<br><br>Band - Linkin Park&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Songs: Points Of Authority<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Nobodys Listening<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Faint<br><br>This time, I've fixed some things that made the game unreal, and I've combined it with mg_secretbase_tower."
 }
