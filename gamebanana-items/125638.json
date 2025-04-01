@@ -10,15 +10,39 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 295442,
-			"_nDownloadCount": 5600,
+			"_nDownloadCount": 5753,
 			"_nFilesize": 37251530,
 			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/295442",
 			"_sFile": "bhop_null_v2.zip",
 			"_sMd5Checksum": "",
 			"_tsDateAdded": 1364674751
+		},
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"bhop_null_fix.bsp"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 1112611,
+			"_nDownloadCount": 78,
+			"_nFilesize": 34463072,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
+			"_sDescription": "",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1112611",
+			"_sFile": "bhop_null_fix.zip",
+			"_sMd5Checksum": "d0cf7a650af0d6b7396ab2ec5e121afe",
+			"_tsDateAdded": 1703956562
 		}
 	],
 	"_aLatestUpdates": [
