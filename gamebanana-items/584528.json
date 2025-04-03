@@ -2,50 +2,23 @@
 	"_aAlternateFileSources": null,
 	"_aFiles": [
 		{
-			"_aMetadata": {
-				"_aArchiveFileTree": {
-					"cstrike": {
-						"0": "readme.txt",
-						"maps": [
-							"cs_max.bsp"
-						],
-						"materials": {
-							"custom": [
-								"3texture.vpk",
-								"kutas.vmt",
-								"kutas.vtf",
-								"moje.vmt",
-								"moje.vpk",
-								"moje.vtf",
-								"{bars.vmt",
-								"{bars.vtf",
-								"{gratestep2.vmt",
-								"{gratestep2.vtf",
-								"~trn_lt1.vmt",
-								"~trn_lt1.vtf"
-							]
-						}
-					}
-				}
-			},
+			"_aMetadata": [],
 			"_bContainsExe": false,
-			"_idRow": 1409780,
-			"_nDownloadCount": 21,
-			"_nFilesize": 402351,
-			"_sAnalysisResult": "File passed analysis",
-			"_sAnalysisResultCode": "ok",
-			"_sAnalysisState": "done",
-			"_sAvastAvResult": "clean",
-			"_sClamAvResult": "clean",
+			"_idRow": 1414052,
+			"_nDownloadCount": 0,
+			"_nFilesize": 393569,
+			"_sAnalysisResult": "Undetermined",
+			"_sAnalysisResultCode": "undetermined",
+			"_sAnalysisState": "pending",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1409780",
-			"_sFile": "cs_max_source.rar",
-			"_sMd5Checksum": "a051631ab68ae0ccfe1eadb3de0abb94",
-			"_tsDateAdded": 1743207181
+			"_sDownloadUrl": "https://gamebanana.com/dl/1414052",
+			"_sFile": "cs_max_source_final.rar",
+			"_sMd5Checksum": "f718a6e71152ca7a497d19821baa22d7",
+			"_tsDateAdded": 1743678830
 		}
 	],
 	"_aLatestUpdates": [],
 	"_idRow": 584528,
 	"_sName": "cs_max",
-	"_sText": "<span class=\"GreenColor\"><b>My compile first map to CS:S.</b></span><br><br><i>-15 TT / 15 CT&nbsp; Spawn<br>-no HDR/Shader/Bloom<br>-Classic Map :) </i><br><br><span class=\"RedColor\"><b><u><span class=\"GreenColor\">Instal:</span></u></b></span><br><span class=\"Spoiler\">Drop in folder <b><span class=\"GreenColor\">cstrike</span></b> in<i> C:\\Steam\\steamapps\\common\\Counter-Strike Source</i> <br><br>or if you don't want to get an error when you enter this map on the community<br>server:<br><br>Drop in files <b><span class=\"GreenColor\">cs_max.bsp</span></b> in <i>C:\\Steam\\steamapps\\common\\Counter-Strike Source\\cstrike\\download\\maps</i><br>and <br>Drop in folder <b><span class=\"GreenColor\">custom</span></b> in <i>C:\\Steam\\steamapps\\common\\Counter-Strike Source\\cstrike\\download\\materials</i></span>"
+	"_sText": "<span class=\"GreenColor\"><b>My compile first map to CS:S.</b></span><br><br><i>-15 TT / 15 CT&nbsp; Spawn<br>-no HDR/Shader/Bloom<br>-Classic Map :) </i><br>"
 }
