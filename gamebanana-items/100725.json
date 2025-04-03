@@ -15,6 +15,8 @@
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1414317",
 			"_sFile": "afp_de_infanterie_21c2c.rar",
@@ -23,6 +25,42 @@
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Adjustment",
+					"text": "T spawn - enlarged for a better view"
+				},
+				{
+					"cat": "Addition",
+					"text": "T spawn - added ambient generic - sounds"
+				},
+				{
+					"cat": "Addition",
+					"text": "added some block tools (metal) for some places on B and A site"
+				},
+				{
+					"cat": "Addition",
+					"text": "mid map - added a wall grafitty"
+				},
+				{
+					"cat": "Adjustment",
+					"text": "T spawn - changed the barack texture and corrected the alignment of the floor"
+				},
+				{
+					"cat": "Addition",
+					"text": "Bombsite A - added some model props at 1st floor"
+				},
+				{
+					"cat": "",
+					"text": "Bombsite B - bomb trigger place - enlarged for a better gameplay"
+				}
+			],
+			"_sText": "",
+			"_sTitle": "",
+			"_sVersion": "1.4",
+			"_tsDateAdded": 1743713231
+		},
 		{
 			"_aChangeLog": [
 				{
@@ -62,37 +100,6 @@
 			"_sTitle": "",
 			"_sVersion": "1.3",
 			"_tsDateAdded": 1743332860
-		},
-		{
-			"_aChangeLog": [
-				{
-					"cat": "-",
-					"text": "changed some models with blocktools and converted to func_detail"
-				},
-				{
-					"cat": "-",
-					"text": "added a corridor to bombsite A for more spots"
-				},
-				{
-					"cat": "-",
-					"text": "added nav_edit to bots to use ladders"
-				},
-				{
-					"cat": "-",
-					"text": "deleted a tree that causes low fps on some spots"
-				},
-				{
-					"cat": "-",
-					"text": "added some  wires"
-				},
-				{
-					"cat": "-",
-					"text": "changed T spwn thanks to user Frikadellendieb"
-				}
-			],
-			"_sText": "",
-			"_sTitle": "Version 1.2",
-			"_tsDateAdded": 1490883528
 		}
 	],
 	"_idRow": 100725,
