@@ -2,14 +2,24 @@
 	"_aAlternateFileSources": null,
 	"_aFiles": [
 		{
-			"_aMetadata": [],
+			"_aMetadata": {
+				"_aArchiveFileTree": {
+					"cs_max": {
+						"maps": [
+							"cs_max.bsp"
+						]
+					}
+				}
+			},
 			"_bContainsExe": false,
 			"_idRow": 1414052,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 4,
 			"_nFilesize": 393569,
-			"_sAnalysisResult": "Undetermined",
-			"_sAnalysisResultCode": "undetermined",
-			"_sAnalysisState": "pending",
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1414052",
 			"_sFile": "cs_max_source_final.rar",
@@ -17,8 +27,16 @@
 			"_tsDateAdded": 1743678830
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [],
+			"_sText": "<p>Updated main download</p>",
+			"_sTitle": "Packed textures in .bsp.",
+			"_sVersion": "Final",
+			"_tsDateAdded": 1743679124
+		}
+	],
 	"_idRow": 584528,
 	"_sName": "cs_max",
-	"_sText": "<span class=\"GreenColor\"><b>My compile first map to CS:S.</b></span><br><br><i>-15 TT / 15 CT&nbsp; Spawn<br>-no HDR/Shader/Bloom<br>-Classic Map :) </i><br>"
+	"_sText": "<span class=\"GreenColor\"><b>My compile first map to CS:S.</b></span><br><br><i>-15 TT / 15 CT  Spawn<br>-no HDR/Shader/Bloom<br>-Classic Map :) </i><br>"
 }
