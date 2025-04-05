@@ -2,42 +2,35 @@
 	"_aAlternateFileSources": null,
 	"_aFiles": [
 		{
-			"_aMetadata": {
-				"_aArchiveFileTree": [
-					"README.txt",
-					"de_lesina.bsp"
-				]
-			},
+			"_aMetadata": [],
 			"_bContainsExe": false,
-			"_idRow": 1408768,
-			"_nDownloadCount": 83,
-			"_nFilesize": 6512054,
-			"_sAnalysisResult": "File passed analysis",
-			"_sAnalysisResultCode": "ok",
-			"_sAnalysisState": "done",
-			"_sAvastAvResult": "clean",
-			"_sClamAvResult": "clean",
+			"_idRow": 1415742,
+			"_nDownloadCount": 0,
+			"_nFilesize": 6416375,
+			"_sAnalysisResult": "Undetermined",
+			"_sAnalysisResultCode": "undetermined",
+			"_sAnalysisState": "pending",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1408768",
-			"_sFile": "de_lesina_v130.rar",
-			"_sMd5Checksum": "fc15ba940d96cf34b7fba1375060ccfc",
-			"_tsDateAdded": 1743088218
+			"_sDownloadUrl": "https://gamebanana.com/dl/1415742",
+			"_sFile": "de_lesina_v131.rar",
+			"_sMd5Checksum": "a38170eb338678ddf65ec5b6709aac0c",
+			"_tsDateAdded": 1743888614
 		}
 	],
 	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [],
+			"_sText": "<p>-fixed an issue where the skybox was buggy and the map was duplicated, which could lead to performance issues and errors</p><p>-fixed an issue where the water was not clear and it didn't reflect light</p><p>-added water in the fountain on the B plant</p><p>-fixed ramps geometry</p><p>-improved scaffolding collision</p><p>-improved invisible walls near the cafe next to A plant</p><p>-minor texture improvements</p><p>-fixed missing texture on a house near the ladder next to a church's square</p>",
+			"_sTitle": "update",
+			"_sVersion": "v.1.3.1",
+			"_tsDateAdded": 1743888557
+		},
 		{
 			"_aChangeLog": [],
 			"_sText": "<p>-updated map design</p><p>-added new props and decorations</p><p>-added flowerbed near the CT spawn</p><p>-added new passage to the B plant from the CT spawn</p><p>-invisible walls on the left side of T spawn were worked so now you can get inside the van</p><p>-minor texture and geometry fixes</p>",
 			"_sTitle": "update",
 			"_sVersion": "v.1.3.0",
 			"_tsDateAdded": 1743088553
-		},
-		{
-			"_aChangeLog": [],
-			"_sText": "<p>-added flying seagull on the coast</p><p>-fixed an issue where it was possible to go outside the map on a T spawn</p><p>-fixed an issue when you could see nodraw texture on a museum roof on the bombsite B</p><p>-minor prop fixes on T spawn</p>",
-			"_sTitle": "update",
-			"_sVersion": "v.1.2.1",
-			"_tsDateAdded": 1742053577
 		}
 	],
 	"_idRow": 574008,
