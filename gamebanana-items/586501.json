@@ -12,7 +12,7 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1415472,
-			"_nDownloadCount": 14,
+			"_nDownloadCount": 19,
 			"_nFilesize": 64997662,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
@@ -26,8 +26,69 @@
 			"_tsDateAdded": 1743863820
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Bugfix",
+					"text": "Fixed 3 tangerine triggers."
+				},
+				{
+					"cat": "Improvement",
+					"text": "3 triggers are hidden even better."
+				},
+				{
+					"cat": "Adjustment",
+					"text": "The order of pressing 3 triggers."
+				},
+				{
+					"cat": "Addition",
+					"text": "Added a portal to the map to VIP Room."
+				},
+				{
+					"cat": "Addition",
+					"text": "The exit from the VIP Room has been made."
+				},
+				{
+					"cat": "Addition",
+					"text": "Added another truck to the map."
+				},
+				{
+					"cat": "Addition",
+					"text": "Picture of a player on one of the zombie servers."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Mini Version 1.2",
+			"_sVersion": "1.2",
+			"_tsDateAdded": 1744229243
+		},
+		{
+			"_aChangeLog": [
+				{
+					"cat": "Removal",
+					"text": "Old and real VIPs removed."
+				},
+				{
+					"cat": "Addition",
+					"text": "Added 3 tangerine triggers to open the VIP Room."
+				},
+				{
+					"cat": "Adjustment",
+					"text": "VIP Room is available for everyone."
+				},
+				{
+					"cat": "Improvement",
+					"text": "Play sounds from portals using a script."
+				}
+			],
+			"_sText": "",
+			"_sTitle": "Mini Version 1.1",
+			"_sVersion": "1.1",
+			"_tsDateAdded": 1744228840
+		}
+	],
 	"_idRow": 586501,
 	"_sName": "zm_Small_Castle_v1",
-	"_sText": "This map has many standard Zombie Mod locations, with props, with climbing, with tunnels, and with transparent walls. There are teleporters and there are only 9 of them on the map. The map has 64 spawn points, 32 points CT (People) and 32 points T (Zombie) Map is suitable for versions of CS:Source from v34 to v93. The map weighs 63.8 MB, despite the fact that the author compressed it 2 times.<br><br>There is a VIP Room on the map, which you can get to by pressing 3 tangerine buttons in order throughout the map, and enter the hidden teleport. In this VIP Room, you can turn on 1 of 5 music throughout the map and you can get special map options from 2 portals, such as: Super Jump and Speed ​​(These map options are given to you for a while!)<br><br>The map was made with a soul, the author did it almost 2 years, lost files of this map, the creator himself abandoned this map, but took himself in hand and decided to finish the map to the end, from the fact that the author did different versions of this map he has many ideas about version 2, if this map will become popular and will be on many Zombie Servers, he will make 2 version of this map, which will be larger and with many secrets!<br><br>If you notice bug maps or want to suggest an idea, write to the map creator in discord. I will be glad to everyone!<br>Discord: lizer001<br><br>The map has been remade, if you downloaded it before, download it again!!!"
+	"_sText": "<font color=\"Orange\" class=\"SelectedElement\"><b>zm_Small_Castle</b> ─ This map has many standard Zombie Mod locations, with props, with climbing, with tunnels, and with transparent walls. There are teleporters and there are only 9 of them on the map. The map has 64 spawn points, 32 points CT (People) and 32 points T (Zombie) Map is suitable for versions of CS:Source from v34 to v93. The map weighs 63.8 MB, despite the fact that the author compressed it 2 times.<br><br>There is a VIP Room on the map, which you can get to by pressing 3 tangerine buttons in order throughout the map, and enter the hidden teleport. In this VIP Room, you can turn on 1 of 5 music throughout the map and you can get special map options from 2 portals, such as: Super Jump and Speed ​​(These map options are given to you for a while!)<br><hr>The map was made with a soul, the author did it almost 2 years, lost files of this map, the creator himself abandoned this map, but took himself in hand and decided to finish the map to the end, from the fact that the author did different versions of this map he has many ideas about version 2, if this map will become popular and will be on many Zombie Servers, he will make 2 version of this map, which will be larger and with many secrets!<br><br>If you notice a map bug or a flaw, then immediately write to the map creator in Steam or Discord!<br>Steam: <a href=\"https://steamcommunity.com/id/Lizer001/\" target=\"_blank\">LIZER</a><br>Discord: lizer001<br><br><b>If you downloaded this map, but the old version of the map 1.0 or 1.1, then download it again, because the map has been updated! Now the map version is 1.2</b><br><b>But be sure to delete the old version of the map in the game from the maps folder!!!</b></font>"
 }
