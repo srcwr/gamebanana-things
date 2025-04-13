@@ -13,11 +13,13 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1420135,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 4,
 			"_nFilesize": 365714,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1420135",
 			"_sFile": "css_hns_map_9005c.rar",
@@ -25,7 +27,15 @@
 			"_tsDateAdded": 1744525875
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [],
+			"_sText": "<p>Added crates / boxes on the ground<br><strong>Made awp more fair</strong></p>",
+			"_sTitle": "Map update",
+			"_sVersion": "1.1",
+			"_tsDateAdded": 1744525983
+		}
+	],
 	"_idRow": 587945,
 	"_sName": "Coust HNS Map",
 	"_sText": "<b class=\"SelectedElement\">Me and my buddy <a href=\"https://gamebanana.com/members/4399187\">Antranka</a> made this small HNS map for cs: source, read: README.txt file and leave a thumb up!</b>"
