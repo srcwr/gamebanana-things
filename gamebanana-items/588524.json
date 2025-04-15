@@ -4,27 +4,30 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": {
-					"Nueva carpeta": [
-						"README.txt"
+					"de_simphony": [
+						"README.rar",
+						"de_simphony.bsp"
 					]
 				}
 			},
 			"_bContainsExe": false,
-			"_idRow": 1421416,
+			"_idRow": 1421419,
 			"_nDownloadCount": 0,
-			"_nFilesize": 726,
-			"_sAnalysisResult": "File passed analysis",
-			"_sAnalysisResultCode": "ok",
+			"_nFilesize": 1774956,
+			"_sAnalysisResult": "Archive contains nested archive",
+			"_sAnalysisResultCode": "nested_archive",
 			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1421416",
-			"_sFile": "readme_398ef.rar",
-			"_sMd5Checksum": "bfdf838a459572af6b7204545808130e",
-			"_tsDateAdded": 1744728807
+			"_sDownloadUrl": "https://gamebanana.com/dl/1421419",
+			"_sFile": "de_simphony.rar",
+			"_sMd5Checksum": "abf3bb16c3ab4e2108f7dd2e647e5cc9",
+			"_tsDateAdded": 1744729588
 		}
 	],
 	"_aLatestUpdates": [],
 	"_idRow": 588524,
 	"_sName": "de_simphony",
-	"_sText": "<strong data-start=\"364\" data-end=\"379\">de_simphony</strong> is a competitive defuse map for Counter-Strike: Source. It is set in an old railway warehouse, where terrorists attempt to destroy the storage facility and cause a massive explosion and chemical disaster by targeting dangerous materials stored inside the trains and crates.<br><br>Espanish :&nbsp;<strong data-start=\"669\" data-end=\"684\">de_simphony</strong> es un mapa competitivo para Counter-Strike: Source. Está ambientado en un antiguo almacén ferroviario, donde los terroristas intentan destruir el almacén y provocar una gran explosión y desastre químico, eliminando los materiales peligrosos almacenados dentro de los trenes y cajas."
+	"_sText": "<strong data-start=\"364\" data-end=\"379\">de_simphony</strong> is a competitive defuse map for Counter-Strike: Source. It is set in an old railway warehouse, where terrorists attempt to destroy the storage facility and cause a massive explosion and chemical disaster by targeting dangerous materials stored inside the trains and crates.<br><br>Espanish : <strong data-start=\"669\" data-end=\"684\">de_simphony</strong> es un mapa competitivo para Counter-Strike: Source. Está ambientado en un antiguo almacén ferroviario, donde los terroristas intentan destruir el almacén y provocar una gran explosión y desastre químico, eliminando los materiales peligrosos almacenados dentro de los trenes y cajas."
 }
