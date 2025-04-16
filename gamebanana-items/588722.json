@@ -1,0 +1,32 @@
+{
+	"_aAlternateFileSources": null,
+	"_aFiles": [
+		{
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"cs_docks_2025.bsp",
+					"cs_docks_2025.nav",
+					"cs_docks_2025.vmf"
+				]
+			},
+			"_bContainsExe": false,
+			"_idRow": 1422118,
+			"_nDownloadCount": 0,
+			"_nFilesize": 6898811,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
+			"_sDescription": "v2.00 (2025 Edition)",
+			"_sDownloadUrl": "https://gamebanana.com/dl/1422118",
+			"_sFile": "cs_docks_2025.7z",
+			"_sMd5Checksum": "fe8f3da5b3421d6157542afe5fd95d85",
+			"_tsDateAdded": 1744829764
+		}
+	],
+	"_aLatestUpdates": [],
+	"_idRow": 588722,
+	"_sName": "cs_docks_2025",
+	"_sText": "This is an update to my 2023 map: cs_docks_source_new, which is a remake of a cut Counter-Strike map for Counter-Strike: Source.<br><br><h2 class=\"SelectedElement\">Why am I uploading this separately instead of updating? Well...</h2>That's because last time I updated cs_mansion_source to cs_mansion_2025, it didn't show up in the \"Updated\" tab of the Gamebanana page, so nobody really played it, that's a bummer, if that's how it's going to work, and considering this also has a different file name... Then, i'll be uploading a separate update.<br><br><h1>New to this update:</h1>-Improved bot / hostage nav considerably, it is not perfect, but they don't get stuck 24/7 like the 2023 version at least.<br>-Moved hostage rescue zone to be in the tunnel in order to make rescuing hostages less of a hassle, before, it was nearly impossible considering the default time is about 2 minutes.<br>-Cubemaps are now a thing, yeah, surprised it wasn't before.<br>-Made some small things more like the original.<br>-Slight optimization improvements.<br>-Improved 3D Skybox.<br><br>Also check out cs_mansion_2025:<br>https://gamebanana.com/mods/398586<br><br>"
+}
