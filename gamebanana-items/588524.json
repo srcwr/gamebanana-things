@@ -4,30 +4,28 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": {
-					"de_simphony": [
-						"README.rar",
-						"de_simphony.bsp"
+					"de_simphony_v2": [
+						"README.txt",
+						"de_simphony_v2.bsp"
 					]
 				}
 			},
 			"_bContainsExe": false,
-			"_idRow": 1421419,
-			"_nDownloadCount": 37,
-			"_nFilesize": 1774956,
-			"_sAnalysisResult": "Archive contains nested archive",
-			"_sAnalysisResultCode": "nested_archive",
+			"_idRow": 1425290,
+			"_nDownloadCount": 0,
+			"_nFilesize": 2481315,
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
-			"_sAvastAvResult": "clean",
-			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1421419",
-			"_sFile": "de_simphony.rar",
-			"_sMd5Checksum": "abf3bb16c3ab4e2108f7dd2e647e5cc9",
-			"_tsDateAdded": 1744729588
+			"_sDownloadUrl": "https://gamebanana.com/dl/1425290",
+			"_sFile": "de_simphony_v2.rar",
+			"_sMd5Checksum": "f9aedfdfd5ccf07e1fa8d031f344c572",
+			"_tsDateAdded": 1745254679
 		}
 	],
 	"_aLatestUpdates": [],
 	"_idRow": 588524,
-	"_sName": "de_simphony",
+	"_sName": "de_simphony_v2",
 	"_sText": "<strong data-start=\"364\" data-end=\"379\">de_simphony</strong> is a competitive defuse map for Counter-Strike: Source. It is set in an old railway warehouse, where terrorists attempt to destroy the storage facility and cause a massive explosion and chemical disaster by targeting dangerous materials stored inside the trains and crates.<br><br>Espanish : <strong data-start=\"669\" data-end=\"684\">de_simphony</strong> es un mapa competitivo para Counter-Strike: Source. Está ambientado en un antiguo almacén ferroviario, donde los terroristas intentan destruir el almacén y provocar una gran explosión y desastre químico, eliminando los materiales peligrosos almacenados dentro de los trenes y cajas."
 }
