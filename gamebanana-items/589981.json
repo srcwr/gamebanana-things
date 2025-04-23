@@ -2,14 +2,20 @@
 	"_aAlternateFileSources": null,
 	"_aFiles": [
 		{
-			"_aMetadata": [],
+			"_aMetadata": {
+				"_aArchiveFileTree": [
+					"surf_fuchnut_f2.bsp"
+				]
+			},
 			"_bContainsExe": false,
 			"_idRow": 1425952,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 1,
 			"_nFilesize": 45626887,
-			"_sAnalysisResult": "Undetermined",
-			"_sAnalysisResultCode": "undetermined",
-			"_sAnalysisState": "pending",
+			"_sAnalysisResult": "File passed analysis",
+			"_sAnalysisResultCode": "ok",
+			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1425952",
 			"_sFile": "surf_fuchnut_f2.zip",
@@ -20,5 +26,5 @@
 	"_aLatestUpdates": [],
 	"_idRow": 589981,
 	"_sName": "surf_fuchnut",
-	"_sText": "<h1><b>Style:<span class=\"GreenColor\"> </span></b><span class=\"GreenColor\">Linear</span></h1><hr><h1>Stages:</h1><h1><span class=\"GreenColor\">Main</span></h1><h3 class=\"SelectedElement\"><span class=\"GreenColor\">Bonus 1</span><br><span class=\"GreenColor\">Bonus 2</span><br><span class=\"RedColor\"><span class=\"GreenColor\">Bonus 3</span></span> by <a href=\"https://gamebanana.com/members/349052\">lodyb</a><br> <span class=\"RedColor\"><span class=\"GreenColor\">Bonus 4</span></span> by <a href=\"https://gamebanana.com/members/1647100\">Spy Complex</a></h3>"
+	"_sText": "<h1><b class=\"SelectedElement\">Tier 2 Linear Surf Map</b></h1>Big thanks to Lody &amp; Spy Complex for each making a bonus level, legends.<br><br>Trigger names (zones) are as follows:<pre><b><span class=\"GreenColor\">main_start</span> &gt; <span class=\"RedColor\">main_end</span></b><br><b><span class=\"GreenColor\">b1_start</span> &gt; <span class=\"RedColor\">b1_end</span></b><br><b><span class=\"GreenColor\">b2_start</span> &gt; <span class=\"RedColor\">b2_end</span><br><span class=\"GreenColor\">b3_start</span> &gt; <span class=\"RedColor\">b3_end</span><br><span class=\"GreenColor\">b4_start</span> &gt; <span class=\"RedColor\">b4_end</span></b><u><br></u></pre>"
 }

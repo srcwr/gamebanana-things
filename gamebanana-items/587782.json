@@ -4,26 +4,33 @@
 		{
 			"_aMetadata": {
 				"_aArchiveFileTree": [
-					"surf_postmdrn_rc1.bsp"
+					"surf_postmdrn_rc2.bsp"
 				]
 			},
 			"_bContainsExe": false,
-			"_idRow": 1419310,
-			"_nDownloadCount": 13,
-			"_nFilesize": 13928953,
+			"_idRow": 1426107,
+			"_nDownloadCount": 0,
+			"_nFilesize": 9917490,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
 			"_sAvastAvResult": "clean",
 			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1419310",
-			"_sFile": "surf_postmdrn_rc1.zip",
-			"_sMd5Checksum": "20aae9f3155424be6fb2563297e5e8a9",
-			"_tsDateAdded": 1744421572
+			"_sDownloadUrl": "https://gamebanana.com/dl/1426107",
+			"_sFile": "surf_postmdrn_rc2.zip",
+			"_sMd5Checksum": "6dfd50e692996ec9b15966afb84af72e",
+			"_tsDateAdded": 1745380984
 		}
 	],
-	"_aLatestUpdates": [],
+	"_aLatestUpdates": [
+		{
+			"_aChangeLog": [],
+			"_sText": "<p>fixed skybox error probably</p>",
+			"_sTitle": "rc2",
+			"_tsDateAdded": 1745381117
+		}
+	],
 	"_idRow": 587782,
 	"_sName": "surf_postmdrn",
 	"_sText": "surf_postmdrn<br><br>ghetto showcase -&gt;&gt;&gt;<br><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/IIpzomuBmlY\" frameborder=\"0\" allowfullscreen=\"\"></iframe><br><br>(earlier version with different lighting and textures)"
