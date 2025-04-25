@@ -9,11 +9,13 @@
 			},
 			"_bContainsExe": false,
 			"_idRow": 1427574,
-			"_nDownloadCount": 0,
+			"_nDownloadCount": 5,
 			"_nFilesize": 19518763,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
 			"_sDownloadUrl": "https://gamebanana.com/dl/1427574",
 			"_sFile": "bhop_dream_csgo.rar",
@@ -23,6 +25,6 @@
 	],
 	"_aLatestUpdates": [],
 	"_idRow": 590477,
-	"_sName": "bhop_dream (CS:S)",
+	"_sName": "bhop_dream_csgo (CS:S)",
 	"_sText": "CS:S port of <a href=\"https://steamcommunity.com/sharedfiles/filedetails/?id=1996885284\">bhop_dream</a> (renamed .bsp since there is an already existing one with the same name)<br><span class=\"SelectedElement\">Report any bugs and issues on my Discord: 43n1m4</span>"
 }
