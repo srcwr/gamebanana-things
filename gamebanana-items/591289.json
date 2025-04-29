@@ -5,9 +5,11 @@
 			"_aMetadata": {
 				"_aArchiveFileTree": {
 					"0": "READ ME for RADAR.txt",
+					"maps": [
+						"de_pocca.bsp",
+						"de_pocca.nav"
+					],
 					"materials": {
-						"0": "de_pocca.bsp",
-						"1": "de_pocca.nav",
 						"overviews": [
 							"de_pocca.txt",
 							"de_pocca.vmt",
@@ -19,17 +21,19 @@
 				}
 			},
 			"_bContainsExe": false,
-			"_idRow": 1430024,
+			"_idRow": 1430034,
 			"_nDownloadCount": 0,
-			"_nFilesize": 20975503,
+			"_nFilesize": 20975483,
 			"_sAnalysisResult": "File passed analysis",
 			"_sAnalysisResultCode": "ok",
 			"_sAnalysisState": "done",
+			"_sAvastAvResult": "clean",
+			"_sClamAvResult": "clean",
 			"_sDescription": "",
-			"_sDownloadUrl": "https://gamebanana.com/dl/1430024",
-			"_sFile": "de_pocca.zip",
-			"_sMd5Checksum": "184595e1e951fd263ad1716ecf2dc5c1",
-			"_tsDateAdded": 1745945067
+			"_sDownloadUrl": "https://gamebanana.com/dl/1430034",
+			"_sFile": "de_pocca_08f46.zip",
+			"_sMd5Checksum": "9493ab96cdb5085fbcc988a333390ba6",
+			"_tsDateAdded": 1745946551
 		}
 	],
 	"_aLatestUpdates": [],
